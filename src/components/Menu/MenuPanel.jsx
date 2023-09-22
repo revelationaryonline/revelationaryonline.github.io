@@ -25,6 +25,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
 
   const handleHighlight = async () => {
     selectedVerse[0].text.style.fontWeight = 'bold'
+    await handleClose();
   };
 
   return (
@@ -39,7 +40,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
               top: contextMenu?.mouseY,
               left: contextMenu?.mouseX,
             }
-          : null
+          : undefined
       }
     >
       <MenuList dense sx={{ width: 320, maxWidth: "100%" }}>
@@ -70,7 +71,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
             ⌘L
           </Typography>
         </MenuItem>
-        <MenuItem onClick={() => handleHighlight()}>
+        {/* <MenuItem onClick={() => handleHighlight()}>
           <ListItemIcon>
             <BorderColorIcon fontSize="small" />
           </ListItemIcon>
@@ -78,7 +79,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
           <Typography variant="body2" color="text.secondary">
             ⌘H
           </Typography>
-        </MenuItem>
+        </MenuItem> */}
         <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <AttachFileIcon fontSize="small" />

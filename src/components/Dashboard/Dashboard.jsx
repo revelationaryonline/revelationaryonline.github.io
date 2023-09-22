@@ -48,9 +48,10 @@ function DashboardContent({ loggedIn }) {
   const [highlighted, setHighlighted] = useState([]);
   const [selectedVerse, setSelectedVerse] = useState([]);
   const [page, setPage] = useState(1);
+  const [loading, setLoading] = useState(true)
 
   // hightlight verse helper box window
-  const searchTerm = async (term) => {
+  const searchTerm = async (term, setState) => {
     if (term !== "") {
       function sanitizeString(str) {
         str = str.replace(/[^a-z0-9áéíóúñü \.,_-]/gim, "");
@@ -70,6 +71,7 @@ function DashboardContent({ loggedIn }) {
               setResult(res);
               console.log(res);
               setVerse([]);
+              setLoading(false)
             } else {
               console.log(res[0]);
             }
@@ -82,6 +84,16 @@ function DashboardContent({ loggedIn }) {
       // do nothing
     }
   };
+
+ const checkSearch = (str) => {
+  str = str.split('');
+  if (str[str.length -1] === '"') {
+    console.log('true')
+    return true
+  }
+  return false
+ }
+
 
   const handleChange = (event, value, v) => {
     setPage(value);
@@ -98,18 +110,20 @@ function DashboardContent({ loggedIn }) {
         fetchCount(verse[0].book, setCount).then((res) => console.log(res));
         setPage(verse[0].chapter);
       }
-    } else if (search.includes('"') && search.length >= 10 && count == -1) {
+    } else if (search.includes('"') && checkSearch(search) && loading) {
       console.log(`search term: + ${search}`);
       searchTerm(search);
-      setCount(result.length);
+      setCount(result.length -1);
     }
-    if (verse[0]?.book && count !== 0 && search && !search.includes('"')) {
+    if (verse[0]?.book && count !== 0 && search && !search.includes('"') && search.length > 2) {
       fetchCount(verse[0].book, setCount).then((res) => console.log(res));
       setPage(verse[0].chapter);
       setResult([]);
       setCount(-1);
     }
-  }, [search, visible, verse, result, count]);
+  }, [search, verse, count, visible]);
+
+  // result causes a loop with search
 
   // verse, visible, count, search, result
   // checked box sidebar
