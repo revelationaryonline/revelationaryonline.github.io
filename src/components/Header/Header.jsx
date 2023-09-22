@@ -22,6 +22,23 @@ import { capitalise } from "../../utils/misc";
 import PersonIcon from "@mui/icons-material/Person";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";
 import PermIdentityIcon from "@mui/icons-material/PermIdentity";
+import { useAuth0 } from "@auth0/auth0-react";
+
+const LoginButton = () => {
+  const { loginWithRedirect } = useAuth0();
+
+  return <button onClick={() => loginWithRedirect()}>Log In</button>;
+};
+
+const LogoutButton = () => {
+  const { logout } = useAuth0();
+
+  return (
+    <button onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}>
+      Log Out
+    </button>
+  );
+};
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "light" ? "#1A2027" : "#fff",
@@ -36,6 +53,10 @@ const drawerWidth = 240;
 const navItems = ["About", "Contact", "Settings", "Privacy Policy"];
 
 function Header(props) {
+  // const { user, isAuthenticated, isLoading } = useAuth0();
+  const { user, isLoading } = useAuth0();
+
+  const isAuthenticated = true
   const { window } = props;
   const [mobileOpen, setMobileOpen] = useState(false);
 
@@ -74,7 +95,7 @@ function Header(props) {
       <List>
         {navItems.map((item) => (
           <ListItem key={item} disablePadding>
-            <ListItemButton sx={{ textAlign: "center" }}>
+            <ListItemButton sx={{ textAlign: "center", backgroundColor: '#212121' }}>
               <ListItemText primary={item} />
             </ListItemButton>
           </ListItem>
@@ -85,7 +106,8 @@ function Header(props) {
 
   const container =
     window !== undefined ? () => window().document.body : undefined;
-
+    const { loginWithRedirect } = useAuth0();
+    const { logout } = useAuth0();
   return (
     <Box
       className="header__container"
@@ -126,7 +148,7 @@ function Header(props) {
           >
             revelationary
           </Typography>
-          {props.loggedIn ? (
+          {isAuthenticated ? (
             <Box
               className="header__box"
               sx={{
@@ -164,6 +186,14 @@ function Header(props) {
                     key={setting}
                     onClick={handleCloseUserMenu}
                   >
+                    {setting === 'logout' ? (
+                      <Tooltip title="Login">
+                      <IconButton onClick={() => logout({ logoutParams: { returnTo: window.location.origin } })}>
+                        <PersonIcon sx={{ color: "#FFFFFF" }} />
+                      </IconButton>
+                    </Tooltip>
+                    
+                    ) : (<></>)}
                     <Link to={setting}>
                       <Typography textAlign="center">
                         {capitalise(setting)}
@@ -179,7 +209,7 @@ function Header(props) {
               sx={{ flexGrow: 0, marginRight: "1rem" }}
             >
               <Tooltip title="Login">
-                <IconButton sx={{ p: 2 }}>
+                <IconButton onClick={() => loginWithRedirect()} sx={{ p: 2 }}>
                   <PersonIcon sx={{ color: "#FFFFFF" }} />
                 </IconButton>
               </Tooltip>

@@ -47,8 +47,6 @@ export const Home = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts
-
   const fetchPosts = async () => {
     fetch(`https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts`)
       .then((res) => res.json())
