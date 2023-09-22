@@ -121,7 +121,7 @@ function DashboardContent({ loggedIn }) {
       setResult([]);
       setCount(-1);
     }
-  }, [search, verse, count, visible]);
+  }, [search, verse, count, visible, result]);
 
   // result causes a loop with search
 
