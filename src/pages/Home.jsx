@@ -74,7 +74,7 @@ export const Home = () => {
       <Container maxWidth="lg">
         <Header title="Blog" sections={sections} />
         <main>
-          <MainFeaturedPost post={posts.length > 0 && posts[0]} />
+          <MainFeaturedPost post={posts.length > 0 && posts.filter((item) => item.ID === 38)[0]} />
           <Grid container spacing={4}>
             {posts &&
               posts?.map((post) => (
