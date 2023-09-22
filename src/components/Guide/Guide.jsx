@@ -74,7 +74,7 @@ const Guide = ({ visible, isShown, selectedVerse, hover }) => {
                 )}
               </CardContent>
               <CardActions>
-                <Button size="small">Learn More</Button>
+                {/* <Button size="small">Learn More</Button> */}
               </CardActions>
             </Card>
           </Paper>

@@ -27,6 +27,7 @@ import TopToolbar from "../Toolbar/TopToolbar";
 // const mdTheme = createTheme({ palette: { mode: "light" } });
 
 function DashboardContent({ loggedIn }) {
+  
   const [open, setOpen] = useState(false);
   const toggleDrawer = () => {
     setOpen(!open);
@@ -108,7 +109,7 @@ function DashboardContent({ loggedIn }) {
       setResult([]);
       setCount(-1);
     }
-  }, []);
+  }, [search, visible, verse, result, count]);
 
   // verse, visible, count, search, result
   // checked box sidebar
@@ -300,8 +301,9 @@ function DashboardContent({ loggedIn }) {
                             </span>
                             <MenuPanel
                               contextMenu={contextMenu}
-                              setContextMenu={setContextMenu}
+                              setContextMenu={() => setContextMenu()}
                               selectedVerse={selectedVerse}
+                              search={search}
                             />
                           </span>
                         ))
@@ -336,7 +338,12 @@ function DashboardContent({ loggedIn }) {
                             >
                               {home.text}&nbsp;
                             </span>
-                            <MenuPanel />
+                            <MenuPanel
+                              contextMenu={contextMenu}
+                              setContextMenu={() => setContextMenu()}
+                              selectedVerse={selectedVerse}
+                              search={search}
+                            />
                             <br></br>
                             <br></br>
                             <br></br>

@@ -12,7 +12,7 @@ import AttachFileIcon from "@mui/icons-material/AttachFile";
 import AddLinkIcon from "@mui/icons-material/AddLink";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
 
-const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse }) => {
+const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
   const handleClose = () => {
     setContextMenu(null);
     selectedVerse.length = 0;
@@ -23,19 +23,23 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse }) => {
     await handleClose();
   };
 
+  const handleHighlight = async () => {
+    selectedVerse[0].text.style.fontWeight = 'bold'
+  };
+
   return (
     <Menu
       elevation={0}
-      open={contextMenu !== null}
+      open={contextMenu !== null && search === ""}
       onClose={handleClose}
       anchorReference="anchorPosition"
       anchorPosition={
         contextMenu !== null
           ? {
-              top: contextMenu.mouseY,
-              left: contextMenu.mouseX,
+              top: contextMenu?.mouseY,
+              left: contextMenu?.mouseX,
             }
-          : undefined
+          : null
       }
     >
       <MenuList dense sx={{ width: 320, maxWidth: "100%" }}>
@@ -48,7 +52,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse }) => {
             ⌘X
           </Typography>
         </MenuItem>
-        <MenuItem onClick={handleClose}>
+        {/* <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <FavoriteIcon fontSize="small" />
           </ListItemIcon>
@@ -56,7 +60,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse }) => {
           <Typography variant="body2" color="text.secondary">
             ⌘S
           </Typography>
-        </MenuItem>
+        </MenuItem> */}
         <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <AddLinkIcon fontSize="small" />
@@ -66,7 +70,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse }) => {
             ⌘L
           </Typography>
         </MenuItem>
-        <MenuItem onClick={handleClose}>
+        <MenuItem onClick={() => handleHighlight()}>
           <ListItemIcon>
             <BorderColorIcon fontSize="small" />
           </ListItemIcon>
@@ -84,7 +88,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse }) => {
             ⌘A
           </Typography>
         </MenuItem>
-        <MenuItem onClick={handleClose}>
+        {/* <MenuItem onClick={() => handleShare()}>
           <ListItemIcon>
             <ShareIcon fontSize="small" />
           </ListItemIcon>
@@ -92,7 +96,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse }) => {
           <Typography variant="body2" color="text.secondary">
             ⌘O
           </Typography>
-        </MenuItem>
+        </MenuItem> */}
       </MenuList>
     </Menu>
   );

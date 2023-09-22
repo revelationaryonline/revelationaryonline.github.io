@@ -15,7 +15,7 @@ export const ContextMenu = (
       anchorReference="anchorPosition"
       anchorPosition={
         contextMenu !== null
-          ? { top: contextMenu.mouseY, left: contextMenu.mouseX }
+          ? { top: contextMenu?.mouseY, left: contextMenu?.mouseX }
           : undefined
       }
       elevation={0}
