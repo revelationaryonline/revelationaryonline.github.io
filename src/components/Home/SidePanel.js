@@ -42,6 +42,7 @@ function SidePanel(props) {
                     </Stack>
                 </Link>
             ))} */}
+            <Link href="https://www.paypal.com/donate/?hosted_button_id=TZNQ4G8SPBAK6"><p>Donate</p></Link>
         </Grid>
     );
 }
