@@ -156,20 +156,28 @@ function Header(props) {
                 open={Boolean(anchorElUser)}
                 onClose={handleCloseUserMenu}
               >
-                {settings.map((setting) => (
-                  <MenuItem
+                 <MenuItem
                     className="header__link"
                     sx={{ backgroundColor: "#FFF", color: '#212121', p: "5px" }}
-                    key={setting}
                     onClick={handleCloseUserMenu}
                   >
-                    <Link to={setting}>
+                    <Link to={'/'}>
                       <Typography textAlign="center">
-                        {capitalise(setting)}
+                        Home
                       </Typography>
                     </Link>
                   </MenuItem>
-                ))}
+                  <MenuItem
+                    className="header__link"
+                    sx={{ backgroundColor: "#FFF", color: '#212121', p: "5px" }}
+                    onClick={handleCloseUserMenu}
+                  >
+                    <Link to={'/dashboard'}>
+                      <Typography textAlign="center">
+                        Dahboard
+                      </Typography>
+                    </Link>
+                  </MenuItem>
               </Menu>
             </Box>
           ) : (
