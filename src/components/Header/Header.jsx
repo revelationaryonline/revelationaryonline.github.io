@@ -174,7 +174,7 @@ function Header(props) {
                   >
                     <Link to={'/dashboard'}>
                       <Typography textAlign="center">
-                        Dahboard
+                        Dashboard
                       </Typography>
                     </Link>
                   </MenuItem>
