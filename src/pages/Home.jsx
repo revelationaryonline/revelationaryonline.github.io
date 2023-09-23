@@ -80,7 +80,7 @@ export const Home = () => {
               ))}
           </Grid>
           <Grid container spacing={5} sx={{ mt: 3 }}>
-            <Main title="From the firehose" posts={posts && posts} />
+            <Main title="Further Reading" posts={posts && posts} />
             <SidePanel
               title={sidebar.title}
               description={sidebar.content}

@@ -254,5 +254,13 @@ export const FadeInSection = (children) => {
 
 }
 
+export let mdTheme = createTheme({ palette: { mode: "dark" } });
 
-export const mdTheme = createTheme({ palette: { mode: "dark" } });
+const darkThemeMq = window.matchMedia("(prefers-color-scheme: dark)");
+if (darkThemeMq.matches) {
+  // Theme set to dark.
+  mdTheme = createTheme({ palette: { mode: "dark" } });
+} else {
+  // Theme set to light.
+  mdTheme = createTheme({ palette: { mode: "light" } });
+}

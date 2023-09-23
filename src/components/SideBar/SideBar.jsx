@@ -1,4 +1,5 @@
 import React from "react";
+import { ThemeProvider } from "@mui/material/styles";
 import { styled } from "@mui/material/styles";
 import MuiDrawer from "@mui/material/Drawer";
 import Toolbar from "@mui/material/Toolbar";
@@ -16,6 +17,7 @@ import HelpCenterIcon from "@mui/icons-material/HelpCenter";
 import InsertLinkIcon from "@mui/icons-material/InsertLink";
 
 import { drawerWidth } from "../../utils/constants";
+import { mdTheme } from "../../utils/misc";
 
 const Drawer = styled(MuiDrawer, {
   shouldForwardProp: (prop) => prop !== "open",
@@ -24,7 +26,10 @@ const Drawer = styled(MuiDrawer, {
     position: "relative",
     whiteSpace: "nowrap",
     width: drawerWidth,
-    background: "#121212",
+    backgroundColor: (theme) =>
+              theme.palette.mode === "light"
+                ? theme.palette.grey[300]
+                : theme.palette.grey[900],
     transition: theme.transitions.create("width", {
       easing: theme.transitions.easing.sharp,
       duration: theme.transitions.duration.enteringScreen,
@@ -46,8 +51,13 @@ const Drawer = styled(MuiDrawer, {
 
 export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
   return (
+    <ThemeProvider theme={mdTheme}>
     <Drawer
       sx={{
+        backgroundColor: (theme) =>
+              theme.palette.mode === "light"
+                ? theme.palette.grey[300]
+                : theme.palette.grey[900],
         display: "flex",
         alignItems: "center",
         justifyContent: "flex-end",
@@ -58,7 +68,10 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
       open={open}
     >
       <Toolbar
-        sx={{
+        sx={{backgroundColor: (theme) =>
+          theme.palette.mode === "light"
+            ? theme.palette.grey[300]
+            : theme.palette.grey[900],
           display: "flex",
           alignItems: "center",
           justifyContent: "flex-end",
@@ -75,7 +88,10 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
       </List>
       {/* Icon button tool tips in grid and search bar */}
       <List
-        sx={{ width: "100%", maxWidth: 360 }}
+        sx={{ width: "100%", backgroundColor: (theme) =>
+        theme.palette.mode === "light"
+          ? theme.palette.grey[300]
+          : theme.palette.grey[900], }}
         // subheader={<ListSubheader>Settings</ListSubheader>}
       >
         <ListItem>
@@ -141,9 +157,10 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
       </List>
       <Divider />
       <List component="nav">
-        <Divider sx={{ my: 1, background: "#212121" }} />
+        <Divider sx={{ my: 1 }} />
       </List>
       <List></List>
     </Drawer>
+    </ThemeProvider>
   );
 };
