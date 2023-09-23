@@ -121,7 +121,7 @@ function DashboardContent({ loggedIn }) {
       setResult([]);
       setCount(-1);
     }
-  }, [search]);
+  }, [verse, visible]);
 
     
   // result causes a loop with search
@@ -222,7 +222,7 @@ function DashboardContent({ loggedIn }) {
                 marginTop: "-1rem",
               }}
               value={search}
-              placeholder={`Search ie. john 3:16 or "light"`}
+              placeholder={`Search by book ie. john or first john, 1 john etc.`}
               onChange={(event) => {
                 setSearch(event.target.value);
               }}
