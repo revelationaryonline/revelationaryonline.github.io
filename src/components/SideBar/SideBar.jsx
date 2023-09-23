@@ -56,7 +56,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
       sx={{
         backgroundColor: (theme) =>
               theme.palette.mode === "light"
-                ? theme.palette.grey[300]
+                ? '#fff'
                 : theme.palette.grey[900],
         display: "flex",
         alignItems: "center",
@@ -70,7 +70,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
       <Toolbar
         sx={{backgroundColor: (theme) =>
           theme.palette.mode === "light"
-            ? theme.palette.grey[300]
+            ? '#FFF'
             : theme.palette.grey[900],
           display: "flex",
           alignItems: "center",
@@ -90,25 +90,10 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
       <List
         sx={{ width: "100%", backgroundColor: (theme) =>
         theme.palette.mode === "light"
-          ? theme.palette.grey[300]
+          ? '#FFF'
           : theme.palette.grey[900], }}
         // subheader={<ListSubheader>Settings</ListSubheader>}
       >
-        <ListItem>
-          <ListItemIcon>
-            <CommentIcon />
-          </ListItemIcon>
-          <ListItemText id="switch-list-label-comments" primary="Comments" />
-          <Switch
-            edge="end"
-            onChange={handleToggle("comments")}
-            checked={checked.indexOf("comments") !== -1}
-            inputProps={{
-              "aria-labelledby": "switch-list-label-comments",
-            }}
-            color="default"
-          />
-        </ListItem>
         <ListItem>
           <ListItemIcon>
             <SearchIcon />
@@ -139,7 +124,22 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             color="default"
           />
         </ListItem>
-        <ListItem>
+        {/* <ListItem>
+          <ListItemIcon>
+            <CommentIcon />
+          </ListItemIcon>
+          <ListItemText id="switch-list-label-comments" primary="Comments" />
+          <Switch
+            edge="end"
+            onChange={handleToggle("comments")}
+            checked={checked.indexOf("comments") !== -1}
+            inputProps={{
+              "aria-labelledby": "switch-list-label-comments",
+            }}
+            color="default"
+          />
+        </ListItem> */}
+        {/* <ListItem>
           <ListItemIcon>
             <InsertLinkIcon />
           </ListItemIcon>
@@ -153,7 +153,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             }}
             color="default"
           />
-        </ListItem>
+        </ListItem> */}
       </List>
       <Divider />
       <List component="nav">

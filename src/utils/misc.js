@@ -91,7 +91,7 @@ export const handleMouseHover = (e, setHover, setIsShown) => {
 };
 
 // SearchBar
-export const handleSearch = async (e, setData, setVerse, searchTerm) => {
+export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark) => {
   if (e.keyCode === 13) {
     let str = e.target.value.split(" ");
     let m;
@@ -126,6 +126,11 @@ export const handleSearch = async (e, setData, setVerse, searchTerm) => {
           });
         }
         if (ver.length > 1 && !str.join(" ").includes('"')) {
+          setBookmark({
+            book: str[0], 
+            chapter: ver[0],
+            verse: ver[1]
+          })
           fetchVerse(str[0], ver[0], ver[1], setData, setVerse);
         } else {
           fetchVerse(str[0], 1, "", setData, setVerse);
@@ -151,11 +156,25 @@ export const handleSearch = async (e, setData, setVerse, searchTerm) => {
         }
         if (ver.length > 1) {
           fetchVerse(matchBookWithNumbers, ver[0], ver[1], setData, setVerse);
+          setBookmark({
+            book: matchBookWithNumbers, 
+            chapter: ver[0], 
+            verse: ver[1]
+          })
         } else {
           fetchVerse(matchBookWithNumbers, 1, "", setData, setVerse);
+          setBookmark({
+            book: matchBookWithNumbers, 
+            chapter: 1,
+            verse: ""
+          })
         }
       } else {
         fetchVerse(str[0], 1, "", setData, setVerse);
+        setBookmark({
+          book: str[0], 
+          chapter: 1,
+          verse: ""})
       }
     }
   }

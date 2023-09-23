@@ -14,7 +14,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark }) => {
   return (
     <Toolbar sx={{ marginBottom: 2 }}>
       <ButtonGroup variant="outlined" aria-label="outlined button group">
-        <Tooltip title="Bookmarks">
+        {/* <Tooltip title="Bookmarks">
           <IconButton
             onClick={() =>
               handleViewBookmark(
@@ -24,12 +24,12 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark }) => {
           >
             <BookmarkIcon />
           </IconButton>
-        </Tooltip>
-        <Tooltip title="All Links">
+        </Tooltip> */}
+        {/* <Tooltip title="All Links">
           <IconButton>
             <AccountTreeIcon />
           </IconButton>
-        </Tooltip>
+        </Tooltip> */}
         <Tooltip title="Columns">
           <IconButton onClick={() => handleColumns(1)}>
             <VerticalSplitIcon />
@@ -50,7 +50,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark }) => {
             <Stack />
           </IconButton>
         </Tooltip> */}
-        <Tooltip title="Anchor">
+        {/* <Tooltip title="Anchor">
           <IconButton
             onClick={() =>
               handleViewBookmark(
@@ -60,7 +60,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark }) => {
           >
             <AnchorIcon />
           </IconButton>
-        </Tooltip>
+        </Tooltip> */}
       </ButtonGroup>
     </Toolbar>
   );
