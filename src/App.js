@@ -27,9 +27,9 @@ export default function App() {
       <Routes>
         {/* <Route path="/" element={<Layout />}> */}
         <Route index path="/" element={<Home />} />
-        <Route path="profile" element={<Profile loggedIn={isAuthenticated} />} />
-        <Route path="account" element={<Account loggedIn={isAuthenticated} />} />
-        <Route path="dashboard" element={<Dashboard loggedIn={isAuthenticated} />} />
+        <Route path="/profile" element={<Profile loggedIn={isAuthenticated} />} />
+        <Route path="/account" element={<Account loggedIn={isAuthenticated} />} />
+        <Route path="/dashboard" element={<Dashboard loggedIn={isAuthenticated} />} />
 
         {/* Using path="*"" means "match anything", so this route
                 acts like a catch-all for URLs that we don't have explicit
