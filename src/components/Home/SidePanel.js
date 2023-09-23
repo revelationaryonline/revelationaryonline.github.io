@@ -25,9 +25,9 @@ function SidePanel(props) {
                     {archive.title}
                 </Link>
             ))}
-            <Typography variant="h6" gutterBottom sx={{ mt: 3 }}>
+            {/* <Typography variant="h6" gutterBottom sx={{ mt: 3 }}>
                 Social
-            </Typography>
+            </Typography> */}
             {/* {social.map((network) => (
                 <Link
                     display="block"
