@@ -31,17 +31,17 @@ const Item = styled(Paper)(({ theme }) => ({
   color: theme.palette.mode === "dark" ? "#1A2027" : "#fff",
 }));
 
-const settings = [ "account", "dashboard"];
+const settings = ["account", "dashboard"];
 const drawerWidth = 240;
 const navItems = ["About", "Contact", "Settings", "Privacy Policy"];
 
 function Header(props) {
-  
-  const isAuthenticated = true
+  const isAuthenticated = true;
   const { window } = props;
   const [mobileOpen, setMobileOpen] = useState(false);
   const [anchorElUser, setAnchorElUser] = useState(null);
-  const container = window !== undefined ? () => window().document.body : undefined;
+  const container =
+    window !== undefined ? () => window().document.body : undefined;
 
   const handleDrawerToggle = () => {
     setMobileOpen((prevState) => !prevState);
@@ -76,7 +76,15 @@ function Header(props) {
       <List>
         {navItems.map((item) => (
           <ListItem key={item} disablePadding>
-            <ListItemButton sx={{ textAlign: "center", backgroundColor: '#212121' }}>
+            <ListItemButton
+              sx={{
+                textAlign: "center",
+                backgroundColor: (theme) =>
+                  theme.palette.mode === "light"
+                    ? "#fff"
+                    : theme.palette.grey[900],
+              }}
+            >
               <ListItemText primary={item} />
             </ListItemButton>
           </ListItem>
@@ -84,7 +92,7 @@ function Header(props) {
       </List>
     </Box>
   );
-    
+
   return (
     <Box
       className="header__container"
@@ -156,28 +164,24 @@ function Header(props) {
                 open={Boolean(anchorElUser)}
                 onClose={handleCloseUserMenu}
               >
-                 <MenuItem
-                    className="header__link"
-                    sx={{ backgroundColor: "#FFF", color: '#212121', p: "5px" }}
-                    onClick={handleCloseUserMenu}
-                  >
-                    <Link to={'/'}>
-                      <Typography textAlign="center">
-                        Home
-                      </Typography>
-                    </Link>
-                  </MenuItem>
-                  <MenuItem
-                    className="header__link"
-                    sx={{ backgroundColor: "#FFF", color: '#212121', p: "5px" }}
-                    onClick={handleCloseUserMenu}
-                  >
-                    <Link to={'/dashboard'}>
-                      <Typography textAlign="center">
-                        Dashboard
-                      </Typography>
-                    </Link>
-                  </MenuItem>
+                <MenuItem
+                  className="header__link"
+                  sx={{ backgroundColor: "#FFF", color: "#212121", p: "5px" }}
+                  onClick={handleCloseUserMenu}
+                >
+                  <Link to={"/"}>
+                    <Typography textAlign="center">Home</Typography>
+                  </Link>
+                </MenuItem>
+                <MenuItem
+                  className="header__link"
+                  sx={{ backgroundColor: "#FFF", color: "#212121", p: "5px" }}
+                  onClick={handleCloseUserMenu}
+                >
+                  <Link to={"/dashboard"}>
+                    <Typography textAlign="center">Dashboard</Typography>
+                  </Link>
+                </MenuItem>
               </Menu>
             </Box>
           ) : (
