@@ -28,7 +28,7 @@ function SidePanel(props) {
             <Typography variant="h6" gutterBottom sx={{ mt: 3 }}>
                 Social
             </Typography>
-            {social.map((network) => (
+            {/* {social.map((network) => (
                 <Link
                     display="block"
                     variant="body1"
@@ -41,7 +41,7 @@ function SidePanel(props) {
                         <span>{network.name}</span>
                     </Stack>
                 </Link>
-            ))}
+            ))} */}
         </Grid>
     );
 }
