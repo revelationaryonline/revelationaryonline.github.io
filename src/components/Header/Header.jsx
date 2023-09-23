@@ -22,6 +22,7 @@ import { capitalise } from "../../utils/misc";
 import PersonIcon from "@mui/icons-material/Person";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";
 import PermIdentityIcon from "@mui/icons-material/PermIdentity";
+import { TrendingFlat } from "@mui/icons-material";
 
 const Item = styled(Paper)(({ theme }) => ({
   backgroundColor: theme.palette.mode === "light" ? "#1A2027" : "#fff",
@@ -142,9 +143,10 @@ function Header(props) {
                 backgroundColor: "#212121",
               }}
             >
-              <Tooltip title="Profile">
+              <Tooltip title="To The Bible Web App">
                 <IconButton onClick={handleOpenUserMenu} sx={{ p: 2 }}>
-                  <PermIdentityIcon sx={{ color: "#FFFFFF" }} />
+                  {/* <PermIdentityIcon sx={{ color: "#FFFFFF" }} /> */}
+                  <TrendingFlat sx={{color: '#FFF'}} />
                 </IconButton>
               </Tooltip>
               <Menu
@@ -169,8 +171,8 @@ function Header(props) {
                   sx={{ backgroundColor: "#FFF", color: "#212121", p: "5px" }}
                   onClick={handleCloseUserMenu}
                 >
-                  <Link to={"/"}>
-                    <Typography textAlign="center">Home</Typography>
+                  <Link to={"/dashboard"}>
+                    <Typography textAlign="center">Bible</Typography>
                   </Link>
                 </MenuItem>
                 <MenuItem
@@ -178,8 +180,8 @@ function Header(props) {
                   sx={{ backgroundColor: "#FFF", color: "#212121", p: "5px" }}
                   onClick={handleCloseUserMenu}
                 >
-                  <Link to={"/dashboard"}>
-                    <Typography textAlign="center">Dashboard</Typography>
+                  <Link to={"/"}>
+                    <Typography textAlign="center">Blog</Typography>
                   </Link>
                 </MenuItem>
               </Menu>
