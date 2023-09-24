@@ -10,26 +10,24 @@ import Account from "./pages/Account";
 import { Home } from "./pages/Home";
 // import indexjs to home
 import { Footer } from './components/Footer/Footer'
-import { useAuth0 } from "@auth0/auth0-react";
 
 export default function App() {
   const [loggedIn, setLoggedIn] = useState(true);
 
-  const { isAuthenticated } = useAuth0();
 
 
   return (
     <div className="App">
-      <Header loggedIn={isAuthenticated} />
+      <Header loggedIn={loggedIn} />
       {/* Routes nest inside one another. Nested route paths build upon
             parent route paths, and nested route elements render inside
             parent route elements. See the note about <Outlet> below. */}
       <Routes>
         {/* <Route path="/" element={<Layout />}> */}
         <Route index path="/" element={<Home />} />
-        <Route path="/profile" element={<Profile loggedIn={isAuthenticated} />} />
-        <Route path="/account" element={<Account loggedIn={isAuthenticated} />} />
-        <Route path="/dashboard" element={<Dashboard loggedIn={isAuthenticated} />} />
+        <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
+        <Route path="/account" element={<Account loggedIn={loggedIn} />} />
+        <Route path="/dashboard" element={<Dashboard loggedIn={loggedIn} />} />
 
         {/* Using path="*"" means "match anything", so this route
                 acts like a catch-all for URLs that we don't have explicit
