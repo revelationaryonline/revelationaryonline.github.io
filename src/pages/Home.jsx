@@ -120,7 +120,8 @@ export const Home = () => {
               Tutorial
             </Typography>
             <Typography id="transition-modal-description" sx={{ mt: 2 }}>
-              #1 Our Bible reading web application is free and has an advaced search feature. To begin please click on the MORE icon at the top left of this page. Then click 'Bible'.
+              #1 Our Bible reading web application is free and has an advaced search feature. 
+              We are planning to go live 23/10/2023.
             </Typography>
           </Box>
         </Fade>
