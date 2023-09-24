@@ -106,11 +106,11 @@ function DashboardContent({ loggedIn }) {
       fetchVerse("genesis", 1, "", setData, setVerse);
       setPage(1);
       setCount(-1);
-      if (verse[0]?.book && count === -1) {
+      if (verse[0]?.book && count === 0) {
         fetchCount(verse[0].book, setCount).then((res) => console.log(res));
         setPage(verse[0].chapter);
       }
-    } else if (search.includes('"') && checkSearch(search) && loading && count === -1) {
+    } else if (search.includes('"') && checkSearch(search) && loading) {
       console.log(`search term: + ${search}`);
       searchTerm(search);
       setCount(result.length -1);
@@ -121,7 +121,7 @@ function DashboardContent({ loggedIn }) {
       setResult([]);
       setCount(-1);
     }
-  }, [visible, count, verse]);
+  }, [verse, visible]);
 
     
   // result causes a loop with search

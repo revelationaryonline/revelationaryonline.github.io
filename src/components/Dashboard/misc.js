@@ -186,7 +186,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
 export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
   try {
     await fetch(
-      `http://localhost:3000/api/${book + "/"}${chapter}${verse !== "" ? "/"+new Number(verse) : ""
+      `http://localhost:3000/api/${book + "/"}${chapter}/${verse !== "" ? Number(verse) : ""
       }`
     )
       .then((res) => res.json())
