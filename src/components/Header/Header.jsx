@@ -143,7 +143,7 @@ function Header(props) {
                 backgroundColor: "#212121",
               }}
             >
-              <Tooltip title="To The Bible Web App">
+              <Tooltip title="Menu">
                 <IconButton onClick={handleOpenUserMenu} sx={{ p: 2 }}>
                   {/* <PermIdentityIcon sx={{ color: "#FFFFFF" }} /> */}
                   <TrendingFlat sx={{color: '#FFF'}} />
