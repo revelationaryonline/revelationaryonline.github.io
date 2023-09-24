@@ -144,8 +144,9 @@ function Header(props) {
               }}
             >
               <Tooltip title="Menu">
-                <IconButton onClick={handleOpenUserMenu} sx={{ p: 2 }}>
+                <IconButton onClick={handleOpenUserMenu} sx={{ p: 2, color: '#fff', fontSize: 10, marginLeft: -10 }}>
                   {/* <PermIdentityIcon sx={{ color: "#FFFFFF" }} /> */}
+                  MORE
                   <TrendingFlat sx={{color: '#FFF'}} />
                 </IconButton>
               </Tooltip>
@@ -181,7 +182,7 @@ function Header(props) {
                   onClick={handleCloseUserMenu}
                 >
                   <Link to={"/"}>
-                    <Typography textAlign="center">Blog</Typography>
+                    <Typography textAlign="center">Website</Typography>
                   </Link>
                 </MenuItem>
               </Menu>
