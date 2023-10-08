@@ -35,6 +35,7 @@ function DashboardContent({ loggedIn }) {
   const [contextMenu, setContextMenu] = useState(null);
 
   const [verse, setVerse] = useState([]);
+  const [bookmark, setBookmark] = useState();
   const [result, setResult] = useState([]);
   const [columns, setColumns] = useState(result.length <= 1 ? 1 : 2);
   const [data, setData] = useState([]);
@@ -49,6 +50,7 @@ function DashboardContent({ loggedIn }) {
   const [selectedVerse, setSelectedVerse] = useState([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(true)
+  const [link, setLink] = useState()
 
   // hightlight verse helper box window
   const searchTerm = async (term, setState) => {
@@ -59,7 +61,7 @@ function DashboardContent({ loggedIn }) {
       }
       try {
         await fetch(
-          `https://fuzzy-houndstooth-worm.cyclic.cloud/api/search?text=${sanitizeString(
+          `http://localhost:3000/api/search?text=${sanitizeString(
             term
           )}`
         )
@@ -97,7 +99,7 @@ function DashboardContent({ loggedIn }) {
 
   const handleChange = (event, value, v) => {
     setPage(value);
-    fetchVerse(v[0].book, value, "", setData, setVerse);
+    fetchVerse(v[0].book, value, "", setData, setVerse, setBookmark);
     setSearch(v[0].book);
   };
 
@@ -121,7 +123,7 @@ function DashboardContent({ loggedIn }) {
       setResult([]);
       setCount(-1);
     }
-  }, [verse, visible]);
+  }, [verse, visible, ]);
 
     
   // result causes a loop with search
@@ -226,7 +228,7 @@ function DashboardContent({ loggedIn }) {
               onChange={(event) => {
                 setSearch(event.target.value);
               }}
-              onKeyDown={(e) => handleSearch(e, setData, setVerse, searchTerm)}
+              onKeyDown={(e) => handleSearch(e, setData, setVerse, searchTerm, setBookmark)}
             />
           )}
           {/* Main bible text */}
