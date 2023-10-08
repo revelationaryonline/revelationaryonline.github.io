@@ -186,7 +186,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
 export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
   try {
     await fetch(
-      `http://localhost:3000/api/${book + "/"}${chapter}/${verse !== "" ? new Number(verse) : ""
+      `https://fuzzy-houndstooth-worm.cyclic.cloud/api/${book + "/"}${chapter}/${verse !== "" ? new Number(verse) : ""
       }`
     )
       .then((res) => res.json())
@@ -207,7 +207,7 @@ export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
 // Fetch Count
 export const fetchCount = async (book, setCount) => {
   try {
-    return await fetch(`http://localhost:3000/api/${book}/chapters`)
+    return await fetch(`https://fuzzy-houndstooth-worm.cyclic.cloud/api/${book}/chapters`)
       .then((res) => res.json())
       .then((res) => {
         setCount(res[0].count);
