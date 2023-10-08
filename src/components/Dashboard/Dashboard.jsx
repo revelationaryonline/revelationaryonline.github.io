@@ -35,6 +35,7 @@ function DashboardContent({ loggedIn }) {
   const [contextMenu, setContextMenu] = useState(null);
 
   const [verse, setVerse] = useState([]);
+  const [bookmark, setBookmark] = useState([]);
   const [result, setResult] = useState([]);
   const [columns, setColumns] = useState(result.length <= 1 ? 1 : 2);
   const [data, setData] = useState([]);
@@ -59,7 +60,7 @@ function DashboardContent({ loggedIn }) {
       }
       try {
         await fetch(
-          `https://fuzzy-houndstooth-worm.cyclic.cloud/api/search?text=${sanitizeString(
+          `http://localhost:3000/api/search?text=${sanitizeString(
             term
           )}`
         )
@@ -87,8 +88,7 @@ function DashboardContent({ loggedIn }) {
 
  const checkSearch = (str) => {
   str = str.split('');
-  if (str[str.length -1] === '"') {
-    console.log('true')
+  if (str[str.length -1] === '"') { 
     return true
   }
   return false
@@ -121,7 +121,7 @@ function DashboardContent({ loggedIn }) {
       setResult([]);
       setCount(-1);
     }
-  }, [visible, count, verse]);
+  }, [visible, count]);
 
     
   // result causes a loop with search
@@ -226,7 +226,7 @@ function DashboardContent({ loggedIn }) {
               onChange={(event) => {
                 setSearch(event.target.value);
               }}
-              onKeyDown={(e) => handleSearch(e, setData, setVerse, searchTerm)}
+              onKeyDown={(e) => handleSearch(e, setData, setVerse, searchTerm, setBookmark)}
             />
           )}
           {/* Main bible text */}
