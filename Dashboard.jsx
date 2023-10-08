@@ -61,7 +61,7 @@ function DashboardContent({ loggedIn }) {
       }
       try {
         await fetch(
-          `http://localhost:3000/api/search?text=${sanitizeString(
+          `https://fuzzy-houndstooth-worm.cyclic.cloud/api/search?text=${sanitizeString(
             term
           )}`
         )
