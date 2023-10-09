@@ -172,7 +172,7 @@ function Header(props) {
                   sx={{ backgroundColor: "#FFF", color: "#212121", p: "5px" }}
                   onClick={handleCloseUserMenu}
                 >
-                  <Link to={"/dashboard"}>
+                  <Link to={"/"}>
                     <Typography textAlign="center">Bible</Typography>
                   </Link>
                 </MenuItem>
@@ -181,7 +181,7 @@ function Header(props) {
                   sx={{ backgroundColor: "#FFF", color: "#212121", p: "5px" }}
                   onClick={handleCloseUserMenu}
                 >
-                  <Link to={"/"}>
+                  <Link to={"/blog"}>
                     <Typography textAlign="center">Website</Typography>
                   </Link>
                 </MenuItem>

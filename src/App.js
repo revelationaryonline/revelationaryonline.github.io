@@ -24,10 +24,10 @@ export default function App() {
             parent route elements. See the note about <Outlet> below. */}
       <Routes>
         {/* <Route path="/" element={<Layout />}> */}
-        <Route index path="/" element={<Home />} />
+        <Route index path="/" element={<Dashboard />} />
         <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
         <Route path="/account" element={<Account loggedIn={loggedIn} />} />
-        <Route path="/dashboard" element={<Dashboard loggedIn={loggedIn} />} />
+        <Route path="/blog" element={<Home loggedIn={loggedIn} />} />
 
         {/* Using path="*"" means "match anything", so this route
                 acts like a catch-all for URLs that we don't have explicit
@@ -51,13 +51,13 @@ export function Layout() {
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/blog">Home</Link>
           </li>
           <li>
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/dashboard">Dashboard</Link>
+            <Link to="/">Dashboard</Link>
           </li>
           <li>
             <Link to="/nothing-here">Nothing Here</Link>
