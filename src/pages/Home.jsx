@@ -65,14 +65,6 @@ export const Home = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  const [open, setOpen] = React.useState(false);
-  const handleOpen = () => setOpen(true);
-  const handleClose = () => setOpen(false);
-
-  const starttModalTutorial = () => {
-
-  }
-
   const fetchPosts = async () => {
     fetch(`https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts`)
       .then((res) => res.json())
@@ -96,36 +88,6 @@ export const Home = () => {
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline />
       <Container maxWidth="lg">
-          <Grid conatiner spacing={4} my={8} marginBottom={-10}>
-            <button onClick={handleOpen} style={{width: '100%', border: '1px solid black', borderRadius: 15, color: '#FFF', backgroundColor: '#212121'}}>
-              <h3>How to use our free Bible reading web application</h3>
-            </button>
-          </Grid>
-          <Modal
-        aria-labelledby="transition-modal-title"
-        aria-describedby="transition-modal-description"
-        open={open}
-        onClose={handleClose}
-        closeAfterTransition
-        slots={{ backdrop: Backdrop }}
-        slotProps={{
-          backdrop: {
-            timeout: 500,
-          },
-        }}
-      >
-        <Fade in={open}>
-          <Box sx={style}>
-            <Typography id="transition-modal-title" variant="h6" component="h2">
-              Tutorial
-            </Typography>
-            <Typography id="transition-modal-description" sx={{ mt: 2 }}>
-              #1 Our Bible reading web application is free and has an advaced search feature. 
-              We are planning to go live 23/10/2023.
-            </Typography>
-          </Box>
-        </Fade>
-      </Modal>
         <Header title="Blog" sections={sections} />
         <main>
           <MainFeaturedPost post={posts.length > 0 && posts.filter((item) => item.ID === 38)[0]} />
