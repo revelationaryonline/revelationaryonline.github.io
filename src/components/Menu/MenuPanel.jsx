@@ -50,7 +50,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
           </ListItemIcon>
           <ListItemText>Copy</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            ⌘X
+            ⌘C
           </Typography>
         </MenuItem>
         {/* <MenuItem onClick={handleClose}>
@@ -62,7 +62,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
             ⌘S
           </Typography>
         </MenuItem> */}
-        <MenuItem onClick={handleClose}>
+        {/* <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <AddLinkIcon fontSize="small" />
           </ListItemIcon>
@@ -70,7 +70,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
           <Typography variant="body2" color="text.secondary">
             ⌘L
           </Typography>
-        </MenuItem>
+        </MenuItem> */}
         {/* <MenuItem onClick={() => handleHighlight()}>
           <ListItemIcon>
             <BorderColorIcon fontSize="small" />
@@ -80,7 +80,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
             ⌘H
           </Typography>
         </MenuItem> */}
-        <MenuItem onClick={handleClose}>
+        {/* <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <AttachFileIcon fontSize="small" />
           </ListItemIcon>
@@ -88,7 +88,7 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
           <Typography variant="body2" color="text.secondary">
             ⌘A
           </Typography>
-        </MenuItem>
+        </MenuItem> */}
         {/* <MenuItem onClick={() => handleShare()}>
           <ListItemIcon>
             <ShareIcon fontSize="small" />
