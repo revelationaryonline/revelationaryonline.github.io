@@ -108,7 +108,7 @@ function DashboardContent({ loggedIn }) {
       setPage(1);
       setCount(-1);
       if (verse[0]?.book && count === -1) {
-        fetchCount(verse[0].book, setCount).then((res) => console.log(res));
+        // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
         setPage(verse[0].chapter);
       }
     } else if (search.includes('"') && checkSearch(search) && loading && count === -1) {
@@ -117,7 +117,7 @@ function DashboardContent({ loggedIn }) {
       setCount(result.length -1);
     }
     if (verse[0]?.book && count !== 0 && search && !search.includes('"') && search.length > 2) {
-      fetchCount(verse[0].book, setCount).then((res) => console.log(res));
+      // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
       setPage(verse[0].chapter);
       setResult([]);
       setCount(-1);
