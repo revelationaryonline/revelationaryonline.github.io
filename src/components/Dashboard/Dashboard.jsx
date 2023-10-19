@@ -123,7 +123,7 @@ function DashboardContent({ loggedIn }) {
       setCount(-1);
     }
   }
-  }, [visible, count, result, search]);
+  }, [visible, result, search]);
 
     
   // result causes a loop with search
