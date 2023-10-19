@@ -102,6 +102,7 @@ function DashboardContent({ loggedIn }) {
   };
 
   useEffect(() => {
+    if(loading) {
     if (search === "" && count >= 0) {
       fetchVerse("genesis", 1, "", setData, setVerse);
       setPage(1);
@@ -121,7 +122,8 @@ function DashboardContent({ loggedIn }) {
       setResult([]);
       setCount(-1);
     }
-  }, [visible, count]);
+  }
+  }, [visible, count, result, search]);
 
     
   // result causes a loop with search
