@@ -50,17 +50,15 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark }) => {
             <Stack />
           </IconButton>
         </Tooltip> */}
-        {/* <Tooltip title="Anchor">
+        <Tooltip title="Refresh">
           <IconButton
             onClick={() =>
-              handleViewBookmark(
-                "this will be somekind of place saver that can jump to a specific saved section"
-              )
+              window.location.reload()
             }
           >
             <AnchorIcon />
           </IconButton>
-        </Tooltip> */}
+        </Tooltip>
       </ButtonGroup>
     </Toolbar>
   );
