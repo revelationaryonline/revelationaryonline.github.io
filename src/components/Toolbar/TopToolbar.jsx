@@ -9,8 +9,9 @@ import TextIncreaseIcon from "@mui/icons-material/TextIncrease";
 import TextDecreaseIcon from "@mui/icons-material/TextDecrease";
 import VerticalSplitIcon from "@mui/icons-material/VerticalSplit";
 import AnchorIcon from "@mui/icons-material/Anchor";
+import AlertDialogSlide from "../Modal/Modal";
 
-const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark }) => {
+const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleHelp }) => {
   return (
     <Toolbar sx={{ marginBottom: 2 }}>
       <ButtonGroup variant="outlined" aria-label="outlined button group">
@@ -30,6 +31,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark }) => {
             <AccountTreeIcon />
           </IconButton>
         </Tooltip> */}
+        <AlertDialogSlide />
         <Tooltip title="Columns">
           <IconButton onClick={() => handleColumns(1)}>
             <VerticalSplitIcon />

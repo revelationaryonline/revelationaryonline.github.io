@@ -210,6 +210,7 @@ function DashboardContent({ loggedIn }) {
             handleFontSize={handleFontSize}
             handleViewBookmark={handleViewBookmark}
           />
+          
           {visible.includes("search") && (
             <TextField
               inputProps={{
