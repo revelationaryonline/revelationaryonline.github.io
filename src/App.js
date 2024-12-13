@@ -10,6 +10,7 @@ import Account from "./pages/Account";
 import { Home } from "./pages/Home";
 // import indexjs to home
 import { Footer } from './components/Footer/Footer'
+import LoginPage from "./pages/LoginPage";
 
 export default function App() {
   const [loggedIn, setLoggedIn] = useState(true);
@@ -28,6 +29,7 @@ export default function App() {
         <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
         <Route path="/account" element={<Account loggedIn={loggedIn} />} />
         <Route path="/blog" element={<Home loggedIn={loggedIn} />} />
+        <Route path="/login" element={<LoginPage />} />
 
         {/* Using path="*"" means "match anything", so this route
                 acts like a catch-all for URLs that we don't have explicit

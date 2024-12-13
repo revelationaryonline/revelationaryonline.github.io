@@ -60,7 +60,7 @@ function DashboardContent({ loggedIn }) {
       }
       try {
         await fetch(
-          `https://fuzzy-houndstooth-worm.cyclic.cloud/api/search?text=${sanitizeString(
+          `http://localhost:3000/api/search?text=${sanitizeString(
             term
           )}`
         )

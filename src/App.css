@@ -100,3 +100,60 @@
   border-top: 1px dashed #fff;
   border-right: 1px dashed #fff;
 }
+
+/* Styles for the login page */
+.login-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.login-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+/* Modal Styles */
+.modal {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Buttons inside the modal */
+.google-login, .email-login {
+  background-color: #4285F4;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.google-login:hover, .email-login:hover {
+  background-color: #3367d6;
+}
+
+.close-modal {
+  background-color: #ccc;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
