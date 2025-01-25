@@ -1,3 +1,5 @@
+THIS IS THE CORRECT FRONT-END
+
 # Revelationary
 
 ## Available Scripts
