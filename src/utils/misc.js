@@ -93,88 +93,73 @@ export const handleMouseHover = (e, setHover, setIsShown) => {
 // SearchBar
 export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark) => {
   if (e.keyCode === 13) {
-    let str = e.target.value.split(" ");
-    let m;
-    let ver = [];
+    const term = e.target.value;
+    if ((term.match(/"/g) || []).length >= 2) {
+      searchTerm(term);
+    } else {
+      let str = term.split(" ");
+      let m;
+      let ver = [];
 
-    if (str.length >= 1 && !str.join(" ").includes('"')) {
-      // work on array manipulation to map and filter original search term and
-      let lwrCase = booksArr.map((book, index) => {
-        return book.toLowerCase();
-      });
-      // matches with capital letters and lower case
+      if (str.length >= 1 && !str.join(" ").includes('"')) {
+        let lwrCase = booksArr.map((book) => book.toLowerCase());
+        let matchBook = booksArr.includes(str[0]) || lwrCase.includes(str[0]);
+        let matchBookWithNumbers = checkNumbers(str);
+        const regex = new RegExp("[0-9]*:[0-9]*", "gm");
 
-      let matchBook =
-        (await booksArr.includes(str[0])) || lwrCase.includes(str[0]);
-      let matchBookWithNumbers = await checkNumbers(str);
-      const regex = new RegExp("[0-9]*:[0-9]*", "gm");
-
-      // match book level first
-      if (matchBook) {
-        console.log("match book: " + matchBook);
-        while ((m = regex.exec(str)) !== null) {
-          // This is necessary to avoid infinite loops with zero-width matches
-          if (m.index === regex.lastIndex) {
-            regex.lastIndex++;
+        if (matchBook) {
+          while ((m = regex.exec(str)) !== null) {
+            if (m.index === regex.lastIndex) {
+              regex.lastIndex++;
+            }
+            m.forEach((match) => {
+              ver = match.split(":");
+              return ver;
+            });
           }
-          // look for the chapter:verse numbers (seeparated by a colon ":" ie. 12:27)
-          // eslint-disable-next-line
-          m.forEach((match, groupIndex) => {
-            ver = match.split(":");
-            // return the verse as an array of the two digits (chapter and verse)
-            return ver;
-          });
-        }
-        if (ver.length > 1 && !str.join(" ").includes('"')) {
-          setBookmark({
-            book: str[0], 
-            chapter: ver[0],
-            verse: ver[1]
-          })
-          fetchVerse(str[0], ver[0], ver[1], setData, setVerse);
+          if (ver.length > 1 && !str.join(" ").includes('"')) {
+            setBookmark({
+              book: str[0],
+              chapter: ver[0],
+              verse: ver[1],
+            });
+            fetchVerse(str[0], ver[0], ver[1], setData, setVerse);
+          } else {
+            fetchVerse(str[0], 1, "", setData, setVerse);
+          }
+        } else if (matchBookWithNumbers) {
+          while ((m = regex.exec(str)) !== null) {
+            if (m.index === regex.lastIndex) {
+              regex.lastIndex++;
+            }
+            m.forEach((match) => {
+              ver = match.split(":");
+              return ver;
+            });
+          }
+          if (ver.length > 1) {
+            fetchVerse(matchBookWithNumbers, ver[0], ver[1], setData, setVerse);
+            setBookmark({
+              book: matchBookWithNumbers,
+              chapter: ver[0],
+              verse: ver[1],
+            });
+          } else {
+            fetchVerse(matchBookWithNumbers, 1, "", setData, setVerse);
+            setBookmark({
+              book: matchBookWithNumbers,
+              chapter: 1,
+              verse: "",
+            });
+          }
         } else {
           fetchVerse(str[0], 1, "", setData, setVerse);
-        }
-
-        if (str.join(" ").includes('"')) {
-          searchTerm(str.join(" "));
-        }
-      } else if (matchBookWithNumbers) {
-        //search again but this time with the transformed book title
-        // from 1 kings to firstKings so it matches the database
-        while ((m = regex.exec(str)) !== null) {
-          if (m.index === regex.lastIndex) {
-            regex.lastIndex++;
-          }
-          // The result can be accessed through the `m`-variable.
-          // eslint-disable-next-line
-          m.forEach((match, groupIndex) => {
-            console.log(`Found match, group ${groupIndex}: ${match}`);
-            ver = match.split(":");
-            return ver;
+          setBookmark({
+            book: str[0],
+            chapter: 1,
+            verse: "",
           });
         }
-        if (ver.length > 1) {
-          fetchVerse(matchBookWithNumbers, ver[0], ver[1], setData, setVerse);
-          setBookmark({
-            book: matchBookWithNumbers, 
-            chapter: ver[0], 
-            verse: ver[1]
-          })
-        } else {
-          fetchVerse(matchBookWithNumbers, 1, "", setData, setVerse);
-          setBookmark({
-            book: matchBookWithNumbers, 
-            chapter: 1,
-            verse: ""
-          })
-        }
-      } else {
-        fetchVerse(str[0], 1, "", setData, setVerse);
-        setBookmark({
-          book: str[0], 
-          chapter: 1,
-          verse: ""})
       }
     }
   }

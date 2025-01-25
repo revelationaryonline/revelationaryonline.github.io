@@ -22,6 +22,7 @@ import {
   ArrowBack,
   Backspace,
   BackspaceOutlined,
+  Book,
   Circle,
   LogoutOutlined,
   MenuBookOutlined,
@@ -69,6 +70,8 @@ function Header(props) {
       </Typography>
     </Box>
   );
+
+  console.log(user)
 
   return (
     <Box sx={{ display: "flex" }}>
@@ -198,7 +201,7 @@ function Header(props) {
                       sx={{ paddingY: 0 }}
                       onClick={handleCloseUserMenu}
                     >
-                      <BackspaceOutlined
+                      <Book
                         fontSize="small"
                         sx={{ color: "#888" }}
                       />
