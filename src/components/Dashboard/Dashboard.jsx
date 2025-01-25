@@ -15,8 +15,7 @@ import {
   handleSearch,
   fetchVerse,
   capitalise,
-  mdTheme,
-  fetchCount,
+  mdTheme
 } from "../../utils/misc";
 
 import MenuPanel from "../Menu/MenuPanel";
@@ -184,7 +183,7 @@ function DashboardContent({ loggedIn }) {
 
   return (
     <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: "flex" }}>
+      <Box sx={{ display: "flex", marginTop: 5 }}>
         <CssBaseline />
         <SideBar
           handleToggle={handleToggle}
