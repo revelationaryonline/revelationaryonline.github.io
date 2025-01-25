@@ -38,7 +38,6 @@ function Header(props) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [anchorElUser, setAnchorElUser] = useState(null);
   const [user, setUser] = useState(null); // State to manage the logged-in user
-  const [countryCode, setCountryCode] = useState(""); // State for user's country code
   const navigate = useNavigate();
 
   const container =
@@ -70,20 +69,6 @@ function Header(props) {
       </Typography>
     </Box>
   );
-
-  useEffect(() => {
-    // Fetch user's IP-based country code
-    const fetchCountryCode = async () => {
-      try {
-        const response = await fetch("https://ipapi.co/json/"); // Replace with your preferred geolocation API
-        const data = await response.json();
-        setCountryCode(data.country_code.toLowerCase()); // Convert to lowercase for flag URL
-      } catch (error) {
-        console.error("Error fetching geolocation data:", error);
-      }
-    };
-    fetchCountryCode();
-  }, []);
 
   return (
     <Box sx={{ display: "flex" }}>
@@ -201,13 +186,6 @@ function Header(props) {
                         width: "100%",
                       }}
                     >
-                      {countryCode && (
-                        <img
-                          src={`https://flagcdn.com/w320/${countryCode}.png`}
-                          alt="Country flag"
-                          style={{ width: 20, height: 15, marginRight: 8 }}
-                        />
-                      )}
                       Status update
                       <span style={{ fontSize: 12 }}>
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -215,7 +193,7 @@ function Header(props) {
                       </span>
                     </Typography>
                   </MenuItem>
-                  {/* <MenuItem sx={{ paddingY: 1 }} dense>
+                  <MenuItem sx={{ paddingY: 0 }} dense>
                     <MenuItem
                       sx={{ paddingY: 0 }}
                       onClick={handleCloseUserMenu}
@@ -225,9 +203,9 @@ function Header(props) {
                         sx={{ color: "#888" }}
                       />
                       &nbsp;&nbsp;&nbsp;
-                      <Link to="/settings">Account Settings</Link>
+                      <Link to="/blog">Blog</Link>
                     </MenuItem>
-                  </MenuItem> */}
+                  </MenuItem>
                   <MenuItem
                     sx={{ paddingY: 1, borderBottom: "1px solid #333" }}
                     dense
