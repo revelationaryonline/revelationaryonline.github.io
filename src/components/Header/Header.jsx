@@ -71,8 +71,6 @@ function Header(props) {
     </Box>
   );
 
-  console.log(user)
-
   return (
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
