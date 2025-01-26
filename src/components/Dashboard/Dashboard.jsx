@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useMemo } from "react";
 import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
@@ -15,18 +15,24 @@ import {
   handleSearch,
   fetchVerse,
   capitalise,
-  mdTheme
+  mdTheme,
 } from "../../utils/misc";
 
 import MenuPanel from "../Menu/MenuPanel";
 import Guide from "../Guide/Guide";
 import TopToolbar from "../Toolbar/TopToolbar";
+import IconButton from "@mui/material/IconButton";
+import ClearIcon from "@mui/icons-material/Clear";
+import { MenuItem } from "@mui/material";
+import InputAdornment from "@mui/material/InputAdornment";
+import Backdrop from "@mui/material/Backdrop";
+import CircularProgress from "@mui/material/CircularProgress";
+import Select from "@mui/material/Select";
 
 // TODO: automate this to be detected on system preferences
 // const mdTheme = createTheme({ palette: { mode: "light" } });
 
 function DashboardContent({ loggedIn }) {
-  
   const [open, setOpen] = useState(false);
   const toggleDrawer = () => {
     setOpen(!open);
@@ -48,51 +54,58 @@ function DashboardContent({ loggedIn }) {
   const [highlighted, setHighlighted] = useState([]);
   const [selectedVerse, setSelectedVerse] = useState([]);
   const [page, setPage] = useState(1);
-  const [loading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(true);
+  const [searchPage, setSearchPage] = useState(1); // Pagination for search results
+  const [resultsPerPage, setResultsPerPage] = useState(25); // Number of results per page
+  const [clearSearch, setClearSearch] = useState(false);
 
   // hightlight verse helper box window
   const searchTerm = async (term, setState) => {
     if (term !== "") {
+      setLoading(true); // Show loading state
       function sanitizeString(str) {
         str = str.replace(/[^a-z0-9áéíóúñü \.,_-]/gim, "");
         return str.trim();
       }
       try {
         await fetch(
-          `http://localhost:3000/api/search?text=${sanitizeString(
-            term
-          )}`
+          `http://localhost:3000/api/search?text=${sanitizeString(term)}`
         )
           .then((res) => res.json())
           .then((res) => {
-            console.log(res);
+            // console.log(res);
             if (res.length >= 1 && res[0].text) {
               setData(res);
               setResult(res);
-              console.log(res);
+              // console.log(res);
               setVerse([]);
-              setLoading(false)
+              setLoading(false);
             } else {
-              console.log(res[0]);
+              // console.log(res[0]);
+              setLoading(false);
             }
           });
       } catch (e) {
         // setResult(e);
         console.log(e);
+        setLoading(false);
+      } finally {
+        setLoading(false); // Hide loading state
       }
     } else {
       // do nothing
+      // setResult([]); // Clear results if search term is empty,
+      setLoading(false); // Hide loading state
     }
   };
 
- const checkSearch = (str) => {
-  str = str.split('');
-  if (str[str.length -1] === '"') { 
-    return true
-  }
-  return false
- }
-
+  const checkSearch = (str) => {
+    str = str.split("");
+    if (str[str.length - 1] === '"') {
+      return true;
+    }
+    return false;
+  };
 
   const handleChange = (event, value, v) => {
     setPage(value);
@@ -101,30 +114,44 @@ function DashboardContent({ loggedIn }) {
   };
 
   useEffect(() => {
-    if(loading) {
-    if (search === "" && count >= 0) {
-      fetchVerse("genesis", 1, "", setData, setVerse);
-      setPage(1);
-      setCount(-1);
-      if (verse[0]?.book && count === -1) {
+    if (loading) {
+      if (search === "" && count >= 0) {
+        fetchVerse("genesis", 1, "", setData, setVerse);
+        setPage(1);
+        setCount(-1);
+        if (verse[0]?.book && count === -1) {
+          // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
+          setPage(verse[0].chapter);
+          setClearSearch(false);
+        }
+      } else if (
+        search.includes('"') &&
+        checkSearch(search) &&
+        loading &&
+        count === -1
+      ) {
+        // console.log(`search term: + ${search}`);
+        searchTerm(search);
+        setCount(result.length - 1);
+        setClearSearch(false);
+      }
+      if (
+        verse[0]?.book &&
+        count !== 0 &&
+        search &&
+        !search.includes('"') &&
+        search.length > 2
+      ) {
         // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
         setPage(verse[0].chapter);
+        setResult([]);
+        setCount(-1);
+        setClearSearch(false);
       }
-    } else if (search.includes('"') && checkSearch(search) && loading && count === -1) {
-      console.log(`search term: + ${search}`);
-      searchTerm(search);
-      setCount(result.length -1);
+      setLoading(false);
     }
-    if (verse[0]?.book && count !== 0 && search && !search.includes('"') && search.length > 2) {
-      // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
-      setPage(verse[0].chapter);
-      setResult([]);
-      setCount(-1);
-    }
-  }
   }, [visible, result, search]);
 
-    
   // result causes a loop with search
 
   // verse, visible, count, search, result
@@ -177,9 +204,38 @@ function DashboardContent({ loggedIn }) {
     setTextSize(textSize + e);
   };
 
+  // Clear search bar and results
+  const handleClearSearch = () => {
+    setSearch("");
+    setResult([]);
+  };
+
   const handleViewBookmark = (e) => {
     alert(e);
   };
+
+  // Handle search input change
+  const handleSearchChange = (event) => {
+    setSearch(event.target.value);
+  };
+
+  // Handle pagination change for search results
+  const handleSearchPageChange = (event, value) => {
+    setSearchPage(value);
+  };
+
+  // Handle results per page change
+  const handleResultsPerPageChange = (event) => {
+    setResultsPerPage(event.target.value);
+    setSearchPage(1); // Reset to first page
+  };
+
+  // Memoized search results for pagination
+  const paginatedResults = useMemo(() => {
+    const startIndex = (searchPage - 1) * resultsPerPage;
+    const endIndex = startIndex + resultsPerPage;
+    return result.slice(startIndex, endIndex);
+  }, [result, searchPage, resultsPerPage]);
 
   return (
     <ThemeProvider theme={mdTheme}>
@@ -209,7 +265,7 @@ function DashboardContent({ loggedIn }) {
             handleFontSize={handleFontSize}
             handleViewBookmark={handleViewBookmark}
           />
-          
+
           {visible.includes("search") && (
             <TextField
               inputProps={{
@@ -228,7 +284,9 @@ function DashboardContent({ loggedIn }) {
               onChange={(event) => {
                 setSearch(event.target.value);
               }}
-              onKeyDown={(e) => handleSearch(e, setData, setVerse, searchTerm, setBookmark)}
+              onKeyDown={(e) =>
+                handleSearch(e, setData, setVerse, searchTerm, setBookmark)
+              }
             />
           )}
           {/* Main bible text */}
@@ -290,6 +348,41 @@ function DashboardContent({ loggedIn }) {
                       columns: verse.length === 1 ? 1 : columns,
                     }}
                   >
+                  {verse.length === 0 && result && (
+                    <Grid item display={'flex'} sx={{ marginBottom: '1rem', marginTop: '-2rem'}}>
+                      <Typography
+                        item
+                        sx={{
+                          display: "block",
+                          // marginTop: "-3rem",
+                          // marginLeft: "-2rem",
+                          width: "auto",
+                          // position: "absolute",
+                        }}
+                        className={`result__total ${verse ? "hide" : "show"}`}
+                      >{`${result.length} results`}</Typography>
+                      <Select
+                        value={resultsPerPage}
+                        onChange={handleResultsPerPageChange}
+                        sx={{ ml: 2, height: '2rem', marginTop: '-0.3rem', marginLeft: '3rem' }}
+                      >
+                        <MenuItem value={25}>25</MenuItem>
+                        <MenuItem value={50}>50</MenuItem>
+                        <MenuItem value={100}>100</MenuItem>
+                      </Select>
+                      <Typography
+                        item
+                        sx={{
+                          display: "block",
+                          marginTop: "0.25rem",
+                          marginLeft: "0.5rem",
+                          width: "auto",
+                          fontSize: '0.7rem'
+                        }}
+                        className={`result__total ${verse ? "hide" : "show"}`}
+                      >{`per Page`}</Typography>
+                    </Grid>
+                  )}
                     {verse.length >= 1
                       ? verse.map((v, index) => (
                           <span
@@ -325,7 +418,8 @@ function DashboardContent({ loggedIn }) {
                             />
                           </span>
                         ))
-                      : result.map((home, index) => (
+                      : result &&
+                        paginatedResults.map((home, index) => (
                           <span
                             onContextMenu={(e) => handleContextMenu(e, home)}
                             style={{ cursor: "context-menu" }}
@@ -380,8 +474,10 @@ function DashboardContent({ loggedIn }) {
                       onChange={(e, value, v) => handleChange(e, value, verse)}
                     />
                   )}
-                  {result.length >= 1 && (
-                    <Grid item>
+                  {search &&
+                    result.length === 0 &&
+                    verse.length === 0 &&
+                    !loading && (
                       <Typography
                         item
                         sx={{
@@ -391,10 +487,18 @@ function DashboardContent({ loggedIn }) {
                           width: "auto",
                           position: "absolute",
                         }}
-                        className={`result__total ${verse ? "hide" : "show"}`}
-                      >{`${result.length} results`}</Typography>
-                    </Grid>
-                  )}
+                      >
+                        No results found.
+                      </Typography>
+                    )}
+                <Grid item>
+                <Pagination
+                        sx={{ position: "absolute", marginTop: "0rem", marginLeft: '1rem' }}
+                        count={Math.ceil(result.length / resultsPerPage)}
+                        page={searchPage}
+                        onChange={handleSearchPageChange}
+                      />
+                </Grid>
                 </Paper>
               </Grid>
               {/* Guide */}
@@ -408,6 +512,12 @@ function DashboardContent({ loggedIn }) {
             <Copyright sx={{ pt: 4 }} />
           </Container>
         </Box>
+        <Backdrop
+          sx={{ color: "#fff", zIndex: (theme) => theme.zIndex.drawer + 1 }}
+          open={loading}
+        >
+          <CircularProgress color="inherit" />
+        </Backdrop>
       </Box>
     </ThemeProvider>
   );
