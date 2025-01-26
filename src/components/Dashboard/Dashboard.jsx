@@ -491,6 +491,7 @@ function DashboardContent({ loggedIn }) {
                         No results found.
                       </Typography>
                     )}
+              {verse.length === 0 && result && (
                 <Grid item>
                 <Pagination
                         sx={{ position: "absolute", marginTop: "0rem", marginLeft: '1rem' }}
@@ -498,7 +499,7 @@ function DashboardContent({ loggedIn }) {
                         page={searchPage}
                         onChange={handleSearchPageChange}
                       />
-                </Grid>
+                </Grid>)}
                 </Paper>
               </Grid>
               {/* Guide */}
