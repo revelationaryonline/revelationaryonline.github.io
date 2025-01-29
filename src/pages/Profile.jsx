@@ -14,15 +14,29 @@ import ListItem from "@mui/material/ListItem";
 import Divider from "@mui/material/Divider";
 import ListItemText from "@mui/material/ListItemText";
 import ListItemAvatar from "@mui/material/ListItemAvatar";
+import Tooltip from "@mui/material/Tooltip";
+import IconButton from "@mui/material/IconButton";
+import PersonIcon from "@mui/icons-material/Person";
 import Avatar from "@mui/material/Avatar";
 import Typography from "@mui/material/Typography";
+import { onAuthStateChanged } from "firebase/auth"; // Import the auth state listener
+import { auth } from "../firebase"; // Import your initialized Firebase auth instance
 
 const mdTheme = createTheme({ palette: { mode: "dark" } });
 
 function ProfileContent(route) {
+  const [user, setUser] = useState(null); // State to manage the logged-in user
+
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
+      setUser(currentUser); // Set the user if authenticated, or null if logged out
+    });
+    return () => unsubscribe(); // Clean up the listener on component unmount
+  }, []);
+
   return (
     <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: "flex", marginTop: "15px", fontFamily: "Quicksand" }}>
+      <Box sx={{ display: "flex", marginTop: "3.5rem", fontFamily: "Quicksand" }}>
         <CssBaseline />
         {/* sidebar */}
         <Box
@@ -39,7 +53,7 @@ function ProfileContent(route) {
         >
           <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
             <Grid container spacing={3}>
-              <Grid item xs={12}>
+              <Grid item xs={12} marginTop={15}>
                 <Paper
                   sx={{
                     px: 8,
@@ -54,19 +68,35 @@ function ProfileContent(route) {
                 >
                   <Grid container spacing={3} sx={{ textAlign: "left" }}>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      <Typography
+                      {/* <Typography
                         sx={{
                           display: "block",
                           textAlign: "left",
                           width: "auto",
                         }}
                         component="span"
-                        variant="p"
+                        variant="body2"
                         color="text.primary"
                       >
                         USER PROFILE
-                      </Typography>
+                      </Typography> */}
                       {/* user api */}
+                      <Grid item xs={12} md={6} sx={{ textAlign: "left", marginTop: 0 }}>
+                      <Tooltip title={user.displayName}>
+                          {user && user.photoURL ? (
+                            <Avatar
+                              sx={{ width: 128, height: 128, border: '3px solid white' }}
+                              alt={user.displayName || "User"}
+                              src={user.photoURL}
+                              elevation={4}
+                            />
+                          ) : (
+                            <Avatar>
+                              <PersonIcon elevation={4} />
+                            </Avatar>
+                          )}
+                      </Tooltip>
+                      </Grid>
                     </Grid>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
                       <Typography
@@ -76,7 +106,7 @@ function ProfileContent(route) {
                           width: "auto",
                         }}
                         component="span"
-                        variant="p"
+                        variant="body2"
                         color="text.primary"
                       >
                         NEWS FEED
