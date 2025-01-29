@@ -58,7 +58,7 @@ function DashboardContent() {
       setLoading(true); // Show loading state
       try {
         const sanitizedTerm = term.replace(/[^a-z0-9áéíóúñü \.,_-]/gim, "").trim();
-        const response = await fetch(`https://34.241.48.247:3000/api/search?text=${sanitizedTerm}`);
+        const response = await fetch(`https://kjvapp.com/api/search?text=${sanitizedTerm}`);
         const data = await response.json();
         if (data.length >= 1 && data[0].text) {
           setResult(data);
