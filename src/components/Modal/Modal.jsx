@@ -66,14 +66,13 @@ export default function AlertDialogSlide() {
                 When you type the second quotation the search will already
                 begin. For example: 
                 <pre><code>"light"</code></pre>
-                There's no need to hit the return key ! To run a new search click
-                the Anchor Icon to reset the search. Phrases are case sensitive.
+                Then press return
               </Typography>
               <Typography variant="h6" gutterBottom>
                 Searching for Chapters
               </Typography>
               <Typography variant="body2" gutterBottom>
-                To search for a chapter just type a : after the book name and
+                To search for a chapter just type a : after the
                 chapter number. So, Luke Chapter one would be: 
                 <pre><code>Luke 1:</code></pre>
                  Then press return
@@ -85,7 +84,7 @@ export default function AlertDialogSlide() {
                 To search for a verse just type the book name, the chapter
                 number then a : followed by a verse. For example: 
                 <pre><code>John 3:16</code></pre>
-                Then press return.
+                Then press return
               </Typography>
             </DialogContentText>
           </DialogContent>

@@ -8,7 +8,7 @@ import AccountTreeIcon from "@mui/icons-material/AccountTree";
 import TextIncreaseIcon from "@mui/icons-material/TextIncrease";
 import TextDecreaseIcon from "@mui/icons-material/TextDecrease";
 import VerticalSplitIcon from "@mui/icons-material/VerticalSplit";
-import AnchorIcon from "@mui/icons-material/Anchor";
+import RefreshIcon from "@mui/icons-material/Refresh";
 import AlertDialogSlide from "../Modal/Modal";
 
 const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleHelp }) => {
@@ -58,7 +58,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
               window.location.reload()
             }
           >
-            <AnchorIcon />
+            <RefreshIcon />
           </IconButton>
         </Tooltip>
       </ButtonGroup>
