@@ -186,7 +186,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
 export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
   try {
     await fetch(
-      `https://34.241.48.247:3000/api/${book + "/"}${chapter}/${verse !== "" ? Number(verse) : ""
+      `https://kjvapp.com/api/${book + "/"}${chapter}/${verse !== "" ? Number(verse) : ""
       }`
     )
       .then((res) => res.json())
@@ -207,7 +207,7 @@ export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
 // Fetch Count
 export const fetchCount = async (book, setCount) => {
   try {
-    return await fetch(`https://34.241.48.247:3000/api/${book}/chapters`)
+    return await fetch(`https://kjvapp.com/api/${book}/chapters`)
       .then((res) => res.json())
       .then((res) => {
         setCount(res[0].count);
