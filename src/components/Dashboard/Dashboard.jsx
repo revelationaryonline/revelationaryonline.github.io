@@ -69,7 +69,7 @@ function DashboardContent({ loggedIn }) {
       }
       try {
         await fetch(
-          `http://localhost:3000/api/search?text=${sanitizeString(term)}`
+          `http://34.241.48.247:3000/api/search?text=${sanitizeString(term)}`
         )
           .then((res) => res.json())
           .then((res) => {

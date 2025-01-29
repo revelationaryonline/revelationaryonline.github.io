@@ -16,12 +16,7 @@ import PersonIcon from "@mui/icons-material/Person";
 import MenuIcon from "@mui/icons-material/Menu";
 import { onAuthStateChanged } from "firebase/auth"; // Import the auth state listener
 import { auth } from "../../firebase"; // Import your initialized Firebase auth instance
-import { Icon, listClasses } from "@mui/material";
 import {
-  AcUnitRounded,
-  ArrowBack,
-  Backspace,
-  BackspaceOutlined,
   Book,
   Circle,
   LogoutOutlined,
@@ -136,6 +131,8 @@ function Header(props) {
                   style={{ backgroundColor: "#212121", padding: 0, margin: 0 }}
                 >
                   <MenuItem sx={{ paddingY: 2 }}>
+                  {user.photoURL ? (
+                    // console.log(user.photoURL),
                     <img
                       style={{
                         width: 48,
@@ -146,6 +143,12 @@ function Header(props) {
                       alt={user.displayName || "User"}
                       src={user.photoURL}
                     />
+                  ): (
+                    // console.log(user.photoURL),
+                      <Avatar>
+                        <PersonIcon />
+                      </Avatar>
+                  )}
                     <div>
                       <Typography
                         sx={{
