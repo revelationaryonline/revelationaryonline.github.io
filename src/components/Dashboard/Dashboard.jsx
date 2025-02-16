@@ -16,6 +16,7 @@ import {
   fetchVerse,
   capitalise,
   mdTheme,
+  fetchCount
 } from "../../utils/misc";
 
 import MenuPanel from "../Menu/MenuPanel";
@@ -108,6 +109,7 @@ function DashboardContent({ loggedIn }) {
   };
 
   const handleChange = (event, value, v) => {
+    setPage(1)
     setPage(value);
     fetchVerse(v[0].book, value, "", setData, setVerse);
     setSearch(v[0].book);
@@ -150,7 +152,7 @@ function DashboardContent({ loggedIn }) {
       }
       setLoading(false);
     }
-  }, [visible, result, search]);
+  }, [visible, result, search, verse, count, loading, page]);
 
   // result causes a loop with search
 
@@ -163,7 +165,7 @@ function DashboardContent({ loggedIn }) {
     "links",
   ]);
 
-    const handleToggle = (value) => () => {
+  const handleToggle = (value) => () => {
     const currentIndex = checked.indexOf(value);
     const newChecked = [...checked];
 
@@ -285,7 +287,7 @@ function DashboardContent({ loggedIn }) {
                 setSearch(event.target.value);
               }}
               onKeyDown={(e) =>
-                handleSearch(e, setData, setVerse, searchTerm, setBookmark)
+                handleSearch(e, setData, setVerse, searchTerm, setBookmark, setCount, setPage)
               }
             />
           )}
@@ -469,7 +471,7 @@ function DashboardContent({ loggedIn }) {
                         position: "relative",
                         marginLeft: "12px",
                       }}
-                      count={count}
+                      count={fetchCount(verse[0].book)}
                       page={page}
                       onChange={(e, value, v) => handleChange(e, value, verse)}
                     />
@@ -494,12 +496,11 @@ function DashboardContent({ loggedIn }) {
               {verse.length === 0 && result && (
                 <Grid item>
                 <Pagination
-                        sx={{ position: "absolute", marginTop: "0rem", marginLeft: '1rem' }}
-                        
-                        count={Math.ceil(result.length / resultsPerPage)}
-                        page={searchPage}
-                        onChange={handleSearchPageChange}
-                      />
+                  sx={{ position: "absolute", marginTop: "0rem", marginLeft: '1rem' }}
+                  count={Math.ceil(result.length / resultsPerPage)}
+                  page={searchPage}
+                  onChange={handleSearchPageChange}
+                />
                 </Grid>)}
                 </Paper>
               </Grid>
