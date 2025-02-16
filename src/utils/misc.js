@@ -90,8 +90,150 @@ export const handleMouseHover = (e, setHover, setIsShown) => {
   setIsShown(true);
 };
 
+export const fetchCount = async (book) => {
+
+  switch (book) {
+    case 'genesis':
+      return 50;
+    case 'exodus':
+      return 40;
+    case 'leviticus':
+      return 27;
+    case 'numbers':
+      return 36;
+    case 'deuteronomy':
+      return 34;
+    case 'joshua':
+      return 24;
+    case 'judges':
+      return 21;
+    case 'ruth':
+      return 4;
+    case '1 samuel':
+      return 31;
+    case '2 samuel':
+      return 24;
+    case '1 kings':
+      return 22;
+    case '2 kings':
+      return 25;
+    case '1 chronicles':
+      return 29;
+    case '2 chronicles':
+      return 36;
+    case 'ezra':
+      return 10;
+    case 'nehemiah':
+      return 13;
+    case 'esther':
+      return 10;
+    case 'job':
+      return 42;
+    case 'psalms':
+      return 150;
+    case 'proverbs':
+      return 31;
+    case 'ecclesiastes':
+      return 12;
+    case 'song of solomon':
+      return 8;
+    case 'isaiah':
+      return 66;
+    case 'jeremiah':
+      return 52;
+    case 'lamentations':
+      return 5;
+    case 'ezekiel':
+      return 48;
+    case 'daniel':
+      return 12;
+    case 'hosea':
+      return 14;
+    case 'joel':
+      return 3;
+    case 'amos':
+      return 9;
+    case 'obadiah':
+      return 1;
+    case 'jonah':
+      return 4;
+    case 'micah':
+      return 7;
+    case 'nahum':
+      return 3;
+    case 'habakkuk':
+      return 3;
+    case 'zephaniah':
+      return 3;
+    case 'haggai':
+      return 2;
+    case 'zechariah':
+      return 14;
+    case 'malachi':
+      return 4;
+    case 'matthew':
+      return 28;
+    case 'mark':
+      return 16;
+    case 'luke':
+      return 24;
+    case 'john':
+      return 21;
+    case 'acts':
+      return 28;
+    case 'romans':
+      return 16;
+    case '1 corinthians':
+      return 16;
+    case '2 corinthians':
+      return 13;
+    case 'galatians':
+      return 6;
+    case 'ephesians':
+      return 6;
+    case 'philippians':
+      return 4;
+    case 'colossians':
+      return 4;
+    case '1 thessalonians':
+      return 5;
+    case '2 thessalonians':
+      return 3;
+    case '1 timothy':
+      return 6;
+    case '2 timothy':
+      return 4;
+    case 'titus':
+      return 3;
+    case 'philemon':
+      return 1;
+    case 'hebrews':
+      return 13;
+    case 'james':
+      return 5;
+    case '1 peter':
+      return 5;
+    case '2 peter':
+      return 3;
+    case '1 john':
+      return 5;
+    case '2 john':
+      return 1;
+    case '3 john':
+      return 1;
+    case 'jude':
+      return 1;
+    case 'revelation':
+      return 22;  
+    default:
+      break;
+  }
+
+}
+
 // SearchBar
-export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark) => {
+export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark, setCount, setPage) => {
+  setPage(1)
   if (e.keyCode === 13) {
     const term = e.target.value;
     if ((term.match(/"/g) || []).length >= 2) {
@@ -124,6 +266,8 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
               verse: ver[1],
             });
             fetchVerse(str[0], ver[0], ver[1], setData, setVerse);
+            setCount(fetchCount(str[0]))
+            setPage(1)
           } else {
             fetchVerse(str[0], 1, "", setData, setVerse);
           }
@@ -144,6 +288,8 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
               chapter: ver[0],
               verse: ver[1],
             });
+            setCount(fetchCount(matchBookWithNumbers))
+            setPage(1)
           } else {
             fetchVerse(matchBookWithNumbers, 1, "", setData, setVerse);
             setBookmark({
@@ -151,6 +297,8 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
               chapter: 1,
               verse: "",
             });
+            setCount(fetchCount(matchBookWithNumbers))
+            setPage(1)
           }
         } else {
           fetchVerse(str[0], 1, "", setData, setVerse);
@@ -159,6 +307,8 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
             chapter: 1,
             verse: "",
           });
+          setCount(fetchCount(str[0]))
+          setPage(1)
         }
       }
     }
@@ -189,18 +339,18 @@ export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
   }
 };
 
-// Fetch Count
-export const fetchCount = async (book, setCount) => {
-  try {
-    return await fetch(`https://kjvapp.com/api/${book}/chapters`)
-      .then((res) => res.json())
-      .then((res) => {
-        setCount(res[0].count);
-      });
-  } catch (e) {
-    console.log(e);
-  }
-};
+// // Fetch Count
+// export const fetchCount = async (book, setCount) => {
+//   try {
+//     return await fetch(`https://kjvapp.com/api/${book}/chapters`)
+//       .then((res) => res.json())
+//       .then((res) => {
+//         setCount(res[0].count);
+//       });
+//   } catch (e) {
+//     console.log(e);
+//   }
+// };
 
 
 
