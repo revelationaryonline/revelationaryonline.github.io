@@ -153,16 +153,3 @@
   cursor: pointer;
   margin-top: 10px;
 }
-
-ul.MuiList-root.MuiList-padding.MuiMenu-list {
-  background: #212121;
-  border-radius: 0px;
-}
-
-/* .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft {
-  background-color: #212121;
-} */
-
-/* .MuiPaper-root.MuiMenu-paper.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper {
-  border-radius: 0;
-} */
