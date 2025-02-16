@@ -24,7 +24,7 @@ import { auth } from "../firebase"; // Import your initialized Firebase auth ins
 
 const mdTheme = createTheme({ palette: { mode: "dark" } });
 
-function ProfileContent(route) {
+function ProfileContent() {
   const [user, setUser] = useState(null); // State to manage the logged-in user
 
   useEffect(() => {
@@ -81,8 +81,8 @@ function ProfileContent(route) {
                         USER PROFILE
                       </Typography> */}
                       {/* user api */}
-                      <Grid item xs={12} md={6} sx={{ textAlign: "left", marginTop: 0 }}>
-                      <Tooltip title={user.displayName}>
+                      <Grid item xs={12} md={6} sx={{ textAlign: "left", marginTop: -15 }}>
+                      <Tooltip title={user && user?.displayName}>
                           {user && user.photoURL ? (
                             <Avatar
                               sx={{ width: 128, height: 128, border: '3px solid white' }}
@@ -96,10 +96,13 @@ function ProfileContent(route) {
                             </Avatar>
                           )}
                       </Tooltip>
+                      <Typography sx={{ marginTop: 4}}>
+                        {user && user.displayName}
+                      </Typography>
                       </Grid>
                     </Grid>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      <Typography
+                      {/* <Typography
                         sx={{
                           display: "block",
                           textAlign: "right",
@@ -110,11 +113,11 @@ function ProfileContent(route) {
                         color="text.primary"
                       >
                         NEWS FEED
-                      </Typography>
+                      </Typography> */}
                       {/* Proxima Nova, Gill Sans, Europa, I */}
                       {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
                       {/* Museo Sans, Recta and Helvetica */}
-                      <List
+                      {/* <List
                         sx={{
                           width: "100%",
                           maxWidth: 360,
@@ -257,7 +260,7 @@ function ProfileContent(route) {
                             }
                           />
                         </ListItem>
-                      </List>
+                      </List> */}
                     </Grid>
                   </Grid>
                 </Paper>

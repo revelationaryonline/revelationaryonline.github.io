@@ -21,15 +21,15 @@ const FeaturedPost = (props) => {
     return (
         <Grid item xs={12} md={6}>
             <CardActionArea component="a" href="#">
-                <Card sx={{ display: 'flex' }}>
+                <Card sx={{ display: 'flex', background: '#212121' }} elevation={3}>
                     <CardContent sx={{ flex: 1 }}>
-                        <Typography component="h2" variant="h5">
+                        <Typography component="h2" variant="h5" color={'#FFF'}>
                             {post.title}
                         </Typography>
-                        <Typography variant="subtitle1" color="text.secondary">
+                        <Typography variant="subtitle1" color="#FFF">
                             {moment(post.date).format('DD-MM-YYYY')}
                         </Typography>
-                        <Link variant="subtitle1" href={`${post && post?.URL}`}>
+                        <Link variant="subtitle1" href={`${post && post?.URL}`} color={'#FFF'}>
                             {'Continue Reading...'}
                         </Link>
                     </CardContent>

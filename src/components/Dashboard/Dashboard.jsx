@@ -42,7 +42,7 @@ function DashboardContent({ loggedIn }) {
   const [verse, setVerse] = useState([]);
   const [bookmark, setBookmark] = useState([]);
   const [result, setResult] = useState([]);
-  const [columns, setColumns] = useState(result.length <= 1 ? 1 : 2);
+  const [columns, setColumns] = useState(result.length <= 1 ? 2 : 2);
   const [data, setData] = useState([]);
   const [count, setCount] = useState(0);
   const [hover, setHover] = useState({});
@@ -163,7 +163,7 @@ function DashboardContent({ loggedIn }) {
     "links",
   ]);
 
-  const handleToggle = (value) => () => {
+    const handleToggle = (value) => () => {
     const currentIndex = checked.indexOf(value);
     const newChecked = [...checked];
 
@@ -495,6 +495,7 @@ function DashboardContent({ loggedIn }) {
                 <Grid item>
                 <Pagination
                         sx={{ position: "absolute", marginTop: "0rem", marginLeft: '1rem' }}
+                        
                         count={Math.ceil(result.length / resultsPerPage)}
                         page={searchPage}
                         onChange={handleSearchPageChange}

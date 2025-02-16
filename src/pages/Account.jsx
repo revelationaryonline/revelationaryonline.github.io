@@ -22,7 +22,7 @@ import Typography from "@mui/material/Typography";
 
 import { mdTheme } from "../utils/misc";
 
-function AccountContent(route) {
+function AccountContent() {
   return (
     <ThemeProvider theme={mdTheme}>
       <Box sx={{ display: "flex", marginTop: "15px", fontFamily: "Quicksand" }}>

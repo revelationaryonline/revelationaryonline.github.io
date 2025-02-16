@@ -43,7 +43,7 @@ function Header(props) {
                         key={section.title}
                         variant="body2"
                         href={section.url}
-                        sx={{ p: 1, flexShrink: 0 }}
+                        sx={{ p: 1, flexShrink: 0, color: '#FFF' }}
                     >
                         {section.title}
                     </Link>
