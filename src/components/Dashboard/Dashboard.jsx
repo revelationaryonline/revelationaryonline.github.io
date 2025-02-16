@@ -254,7 +254,7 @@ function DashboardContent({ loggedIn }) {
           sx={{
             backgroundColor: (theme) =>
               theme.palette.mode === "light"
-                ? theme.palette.grey[300]
+                ? theme.palette.grey[100]
                 : theme.palette.grey[900],
             flexGrow: 1,
             height: "100vh",
@@ -470,6 +470,10 @@ function DashboardContent({ loggedIn }) {
                       sx={{
                         position: "relative",
                         marginLeft: "12px",
+                        backgroundColor: (theme) =>
+                          theme.palette.mode === "light"
+                            ? theme.palette.grey[100]
+                            : theme.palette.grey[900],
                       }}
                       count={fetchCount(verse[0].book)}
                       page={page}
