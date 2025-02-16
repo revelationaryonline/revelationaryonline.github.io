@@ -58,7 +58,7 @@ const style = {
   p: 4,
 };
 
-export const Home = () => {
+export const Blog = () => {
   // const posts = [post1, post2, post3];
 
   const [posts, setPosts] = useState([]);
@@ -71,7 +71,7 @@ export const Home = () => {
       .then(
         (result) => {
           setLoading(false);
-          setPosts(result.posts);
+          setPosts(result.posts);          
         },
         (error) => {
           setLoading(false);
@@ -87,7 +87,7 @@ export const Home = () => {
   return (
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline />
-      <Container maxWidth="lg">
+      <Container maxWidth="lg" sx={{ background: '#212121'}}>
         <Header title="Blog" sections={sections} />
         <main>
           <MainFeaturedPost post={posts.length > 0 && posts.filter((item) => item.ID === 38)[0]} />

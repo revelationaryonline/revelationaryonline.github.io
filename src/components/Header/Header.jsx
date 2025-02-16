@@ -130,7 +130,7 @@ function Header(props) {
                 <div
                   style={{ backgroundColor: "#212121", padding: 0, margin: 0 }}
                 >
-                  <MenuItem sx={{ paddingY: 2 }}>
+                  <MenuItem sx={{ paddingY: 2 }} disableTouchRipple>
                   {user.photoURL ? (
                     // console.log(user.photoURL),
                     <img

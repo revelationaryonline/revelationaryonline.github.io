@@ -26,7 +26,10 @@ const MainFeaturedPost = (props) => {
                 backgroundRepeat: 'no-repeat',
                 backgroundPosition: 'center',
                 backgroundImage: `url(${post && post?.post_thumbnail?.URL})`,
+                opacity: 1,
+                height: '100%',
             }}
+            elevation={3}
         >
             {/* Increase the priority of the hero background image */}
             {<img style={{ display: 'none' }} src={post && post?.post_thumbnail?.URL} alt={'post'} />}
@@ -49,10 +52,10 @@ const MainFeaturedPost = (props) => {
                             pr: { md: 0 },
                         }}
                     >
-                        <Typography component="h1" variant="h3" color="inherit" gutterBottom>
+                        <Typography component="h1" variant="h3" color="inherit" gutterBottom lineHeight={1.1}>
                             {post && post?.title}
                         </Typography>
-                        <Typography variant="h5" color="inherit" paragraph>
+                        <Typography variant="h5" color="inherit" paragraph lineHeight={1} fontSize={'1.2rem'}>
                             {post && extractContent(post?.excerpt)}
                         </Typography>
                         <Link variant="subtitle1" href={`${post && post?.URL}`}>
