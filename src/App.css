@@ -161,14 +161,13 @@
 
 ul {
   background: #212121;
-  border-radius: 5px;
-}
-
-.MuiPaper-root.MuiMenu-paper.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-1ka5eyc-MuiPaper-root-MuiMenu-paper-MuiPopover-paper {
-  border-radius: 15px;
-  background-color: black;
+  border-radius: 0px;
 }
 
 .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.MuiDrawer-paperAnchorDockedLeft {
   background-color: #212121;
+}
+
+.MuiPaper-root.MuiMenu-paper.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper {
+  border-radius: 0;
 }

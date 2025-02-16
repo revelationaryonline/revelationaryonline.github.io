@@ -94,7 +94,7 @@ function Header(props) {
             revelationary
           </Typography>
 
-          <Box sx={{ flexGrow: 0 }}>
+          <Box sx={{ flexGrow: 0, borderRadius: 0 }}>
             <Tooltip title="Open menu">
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
                 {user && user.photoURL ? (
@@ -111,7 +111,7 @@ function Header(props) {
               </IconButton>
             </Tooltip>
             <Menu
-              sx={{ mt: "45px", backgroundColor: "#212121AA" }}
+              sx={{ mt: "45px", backgroundColor: "#212121AA", borderRadius: 0 }}
               id="menu-appbar"
               anchorEl={anchorElUser}
               anchorOrigin={{
@@ -123,12 +123,13 @@ function Header(props) {
                 vertical: "top",
                 horizontal: "right",
               }}
+              borderRadius={0}
               open={Boolean(anchorElUser)}
               onClose={handleCloseUserMenu}
             >
               {user ? (
                 <div
-                  style={{ backgroundColor: "#212121", padding: 0, margin: 0 }}
+                  style={{ backgroundColor: "#212121", padding: 0, margin: 0, borderRadius: 0 }}
                 >
                   <MenuItem sx={{ paddingY: 2 }} disableTouchRipple>
                   {user.photoURL ? (
@@ -149,7 +150,7 @@ function Header(props) {
                         <PersonIcon />
                       </Avatar>
                   )}
-                    <div>
+                    <div style={{ borderRadius: 0 }}>
                       <Typography
                         sx={{
                           marginLeft: 2,
@@ -179,7 +180,7 @@ function Header(props) {
                   </MenuItem>
                   <MenuItem sx={{ paddingY: 2 }} dense>
                     <Typography
-                      variant="body1"
+                      variant="body2"
                       sx={{
                         display: "flex",
                         color: "#d1d1d1",
