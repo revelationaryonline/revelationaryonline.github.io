@@ -16,7 +16,7 @@ import {
   fetchVerse,
   capitalise,
   mdTheme,
-  fetchCount
+  fetchCount,
 } from "../../utils/misc";
 
 import MenuPanel from "../Menu/MenuPanel";
@@ -109,7 +109,7 @@ function DashboardContent({ loggedIn }) {
   };
 
   const handleChange = (event, value, v) => {
-    setPage(1)
+    setPage(1);
     setPage(value);
     fetchVerse(v[0].book, value, "", setData, setVerse);
     setSearch(v[0].book);
@@ -135,6 +135,7 @@ function DashboardContent({ loggedIn }) {
         // console.log(`search term: + ${search}`);
         searchTerm(search);
         setCount(result.length - 1);
+        setColumns(1)
         setClearSearch(false);
       }
       if (
@@ -268,42 +269,59 @@ function DashboardContent({ loggedIn }) {
             handleViewBookmark={handleViewBookmark}
           />
 
-{visible.includes("search") && (
-  <TextField
-    inputProps={{
-      "aria-labelledby": "switch-list-label-search",
-    }}
-    label="Search"
-    id="searchBar"
-    sx={{
-      width: "auto",
-      display: "flex",
-      mx: 3,
-      marginTop: "-1rem",
-      // Target the fieldset to change the border color
-      '& .Mui-focused': {
-        color: (theme) => theme.palette.mode === 'light' ? 'black !important' : 'white !important',
-        '& .MuiOutlinedInput-notchedOutline': {
-          borderColor: (theme) => theme.palette.mode === 'light' ? '#ccc !important' : '#FFF !important', // Light/dark border
-          color: (theme) => theme.palette.mode === 'light' ? 'black' : 'white !important',
-
-        },
-      },
-      // Optional: If you also want to modify the color inside the input
-      '& .MuiInputBase-input': {
-        color: (theme) => theme.palette.mode === 'light' ? 'black' : 'white',
-      },
-    }}
-    value={search}
-    placeholder={`Search by book ie. john or first john, 1 john etc.`}
-    onChange={(event) => {
-      setSearch(event.target.value);
-    }}
-    onKeyDown={(e) =>
-      handleSearch(e, setData, setVerse, searchTerm, setBookmark, setCount, setPage)
-    }
-  />
-)}
+          {visible.includes("search") && (
+            <TextField
+              inputProps={{
+                "aria-labelledby": "switch-list-label-search",
+              }}
+              label="Search"
+              id="searchBar"
+              sx={{
+                width: "auto",
+                display: "flex",
+                mx: 3,
+                marginTop: "-1rem",
+                // Target the fieldset to change the border color
+                "& .Mui-focused": {
+                  color: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "black !important"
+                      : "white !important",
+                  "& .MuiOutlinedInput-notchedOutline": {
+                    borderColor: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "#ccc !important"
+                        : "#FFF !important", // Light/dark border
+                    color: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "black"
+                        : "white !important",
+                  },
+                },
+                // Optional: If you also want to modify the color inside the input
+                "& .MuiInputBase-input": {
+                  color: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                },
+              }}
+              value={search}
+              placeholder={`Search by book ie. john or first john, 1 john etc.`}
+              onChange={(event) => {
+                setSearch(event.target.value);
+              }}
+              onKeyDown={(e) =>
+                handleSearch(
+                  e,
+                  setData,
+                  setVerse,
+                  searchTerm,
+                  setBookmark,
+                  setCount,
+                  setPage
+                )
+              }
+            />
+          )}
           {/* Main bible text */}
 
           {/* ROUTES */}
@@ -363,41 +381,51 @@ function DashboardContent({ loggedIn }) {
                       columns: verse.length === 1 ? 1 : columns,
                     }}
                   >
-                  {verse.length === 0 && result && (
-                    <Grid item display={'flex'} sx={{ marginBottom: '1rem', marginTop: '-2rem'}}>
-                      <Typography
+                    {verse.length === 0 && result && (
+                      <Grid
                         item
-                        sx={{
-                          display: "block",
-                          // marginTop: "-3rem",
-                          // marginLeft: "-2rem",
-                          width: "auto",
-                          // position: "absolute",
-                        }}
-                        className={`result__total ${verse ? "hide" : "show"}`}
-                      >{`${result.length} results`}</Typography>
-                      <Select
-                        value={resultsPerPage}
-                        onChange={handleResultsPerPageChange}
-                        sx={{ ml: 2, height: '2rem', marginTop: '-0.3rem', marginLeft: '3rem' }}
+                        display={"flex"}
+                        sx={{ marginBottom: "1rem", marginTop: "-2rem" }}
                       >
-                        <MenuItem value={25}>25</MenuItem>
-                        <MenuItem value={50}>50</MenuItem>
-                        <MenuItem value={100}>100</MenuItem>
-                      </Select>
-                      <Typography
-                        item
-                        sx={{
-                          display: "block",
-                          marginTop: "0.25rem",
-                          marginLeft: "0.5rem",
-                          width: "auto",
-                          fontSize: '0.7rem'
-                        }}
-                        className={`result__total ${verse ? "hide" : "show"}`}
-                      >{`per Page`}</Typography>
-                    </Grid>
-                  )}
+                        <Typography
+                          item
+                          sx={{
+                            display: "block",
+                            // marginTop: "-3rem",
+                            // marginLeft: "-2rem",
+                            width: "auto",
+                            // position: "absolute",
+                          }}
+                          className={`result__total ${verse ? "hide" : "show"}`}
+                        >{`${result.length} results`}</Typography>
+                        <Select
+                          value={resultsPerPage}
+                          onChange={handleResultsPerPageChange}
+                          sx={{
+                            ml: 2,
+                            padding: 0,
+                            height: "2rem",
+                            marginTop: "-0.3rem",
+                            marginLeft: "3rem",
+                          }}
+                        >
+                          <MenuItem value={25}>25</MenuItem>
+                          <MenuItem value={50}>50</MenuItem>
+                          <MenuItem value={100}>100</MenuItem>
+                        </Select>
+                        <Typography
+                          item
+                          sx={{
+                            display: "block",
+                            marginTop: "0.25rem",
+                            marginLeft: "0.5rem",
+                            width: "auto",
+                            fontSize: "0.7rem",
+                          }}
+                          className={`result__total ${verse ? "hide" : "show"}`}
+                        >{`per Page`}</Typography>
+                      </Grid>
+                    )}
                     {verse.length >= 1
                       ? verse.map((v, index) => (
                           <span
@@ -510,15 +538,20 @@ function DashboardContent({ loggedIn }) {
                         No results found.
                       </Typography>
                     )}
-              {verse.length === 0 && result && (
-                <Grid item>
-                <Pagination
-                  sx={{ position: "absolute", marginTop: "0rem", marginLeft: '1rem' }}
-                  count={Math.ceil(result.length / resultsPerPage)}
-                  page={searchPage}
-                  onChange={handleSearchPageChange}
-                />
-                </Grid>)}
+                  {verse.length === 0 && result && (
+                    <Grid item>
+                      <Pagination
+                        sx={{
+                          position: "absolute",
+                          marginTop: "0rem",
+                          marginLeft: "1rem",
+                        }}
+                        count={Math.ceil(result.length / resultsPerPage)}
+                        page={searchPage}
+                        onChange={handleSearchPageChange}
+                      />
+                    </Grid>
+                  )}
                 </Paper>
               </Grid>
               {/* Guide */}

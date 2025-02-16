@@ -111,7 +111,21 @@ function Header(props) {
               </IconButton>
             </Tooltip>
             <Menu
-              sx={{ mt: "45px", backgroundColor: "#212121AA", borderRadius: 0 }}
+              sx={{
+                mt: "45px",
+                backgroundColor: "#212121AA",
+                borderRadius: 0,
+                "& ul": {
+                  "&.MuiList-root": {
+                    "&.MuiList-padding": {
+                      "&.MuiMenu-list": {
+                        background: "#212121 !important",
+                        borderRadius: "0px",
+                      },
+                    },
+                  },
+                },
+              }}
               id="menu-appbar"
               anchorEl={anchorElUser}
               anchorOrigin={{
@@ -129,27 +143,32 @@ function Header(props) {
             >
               {user ? (
                 <div
-                  style={{ backgroundColor: "#212121", padding: 0, margin: 0, borderRadius: 0 }}
+                  style={{
+                    backgroundColor: "#212121",
+                    padding: 0,
+                    margin: 0,
+                    borderRadius: 0,
+                  }}
                 >
                   <MenuItem sx={{ paddingY: 2 }} disableTouchRipple>
-                  {user.photoURL ? (
-                    // console.log(user.photoURL),
-                    <img
-                      style={{
-                        width: 48,
-                        height: 48,
-                        borderRadius: 5,
-                        marginBottom: 5,
-                      }}
-                      alt={user.displayName || "User"}
-                      src={user.photoURL}
-                    />
-                  ): (
-                    // console.log(user.photoURL),
+                    {user.photoURL ? (
+                      // console.log(user.photoURL),
+                      <img
+                        style={{
+                          width: 48,
+                          height: 48,
+                          borderRadius: 5,
+                          marginBottom: 5,
+                        }}
+                        alt={user.displayName || "User"}
+                        src={user.photoURL}
+                      />
+                    ) : (
+                      // console.log(user.photoURL),
                       <Avatar>
                         <PersonIcon />
                       </Avatar>
-                  )}
+                    )}
                     <div style={{ borderRadius: 0 }}>
                       <Typography
                         sx={{
@@ -203,10 +222,7 @@ function Header(props) {
                       sx={{ paddingY: 0 }}
                       onClick={handleCloseUserMenu}
                     >
-                      <Book
-                        fontSize="small"
-                        sx={{ color: "#888" }}
-                      />
+                      <Book fontSize="small" sx={{ color: "#888" }} />
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/blog">Blog</Link>
                     </MenuItem>
