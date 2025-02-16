@@ -11,12 +11,12 @@ import MainFeaturedPost from "../components/Home/MainFeaturedPost";
 import FeaturedPost from "../components/Home/FeaturedPost";
 import Main from "../components/Home/Main";
 import SidePanel from "../components/Home/SidePanel";
-import Backdrop from '@mui/material/Backdrop';
-import Box from '@mui/material/Box';
-import Modal from '@mui/material/Modal';
-import Fade from '@mui/material/Fade';
-import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
+import Backdrop from "@mui/material/Backdrop";
+import Box from "@mui/material/Box";
+import Modal from "@mui/material/Modal";
+import Fade from "@mui/material/Fade";
+import Button from "@mui/material/Button";
+import Typography from "@mui/material/Typography";
 
 const sections = [
   { title: "Technology", url: "#" },
@@ -47,13 +47,13 @@ const sidebar = {
 const defaultTheme = createTheme();
 
 const style = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
+  position: "absolute",
+  top: "50%",
+  left: "50%",
+  transform: "translate(-50%, -50%)",
   width: 400,
-  bgcolor: 'background.paper',
-  border: '2px solid #000',
+  bgcolor: "background.paper",
+  border: "2px solid #000",
   boxShadow: 24,
   p: 4,
 };
@@ -71,7 +71,7 @@ export const Blog = () => {
       .then(
         (result) => {
           setLoading(false);
-          setPosts(result.posts);          
+          setPosts(result.posts);
         },
         (error) => {
           setLoading(false);
@@ -87,10 +87,20 @@ export const Blog = () => {
   return (
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline />
-      <Container maxWidth="lg" sx={{ background: '#212121'}}>
-        <Header title="Blog" sections={sections} />
+      <Container
+        maxWidth="lg"
+        sx={{
+          backgroundColor: (theme) =>
+            theme.palette.mode === "light"
+              ? theme.palette.grey[100]
+              : theme.palette.grey[900],
+        }}
+      >
+        <Header title="Blog" sections={sections} theme={defaultTheme} />
         <main>
-          <MainFeaturedPost post={posts.length > 0 && posts.filter((item) => item.ID === 38)[0]} />
+          <MainFeaturedPost
+            post={posts.length > 0 && posts.filter((item) => item.ID === 38)[0]}
+          />
           <Grid container spacing={4}>
             {posts &&
               posts?.map((post) => (

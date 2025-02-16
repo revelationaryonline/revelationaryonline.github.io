@@ -17,6 +17,10 @@ function Main(props) {
                 '& .markdown': {
                     py: 3,
                 },
+                backgroundColor: (theme) =>
+                    theme.palette.mode === "light"
+                      ? theme.palette.grey[100]
+                      : theme.palette.grey[900],
             }}
         >
             <Typography variant="h6" gutterBottom>
