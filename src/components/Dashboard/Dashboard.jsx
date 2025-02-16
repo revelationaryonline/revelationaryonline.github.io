@@ -268,29 +268,42 @@ function DashboardContent({ loggedIn }) {
             handleViewBookmark={handleViewBookmark}
           />
 
-          {visible.includes("search") && (
-            <TextField
-              inputProps={{
-                "aria-labelledby": "switch-list-label-search",
-              }}
-              label="Search"
-              id="searchBar"
-              sx={{
-                width: "auto",
-                display: "flex",
-                mx: 3,
-                marginTop: "-1rem",
-              }}
-              value={search}
-              placeholder={`Search by book ie. john or first john, 1 john etc.`}
-              onChange={(event) => {
-                setSearch(event.target.value);
-              }}
-              onKeyDown={(e) =>
-                handleSearch(e, setData, setVerse, searchTerm, setBookmark, setCount, setPage)
-              }
-            />
-          )}
+{visible.includes("search") && (
+  <TextField
+    inputProps={{
+      "aria-labelledby": "switch-list-label-search",
+    }}
+    label="Search"
+    id="searchBar"
+    sx={{
+      width: "auto",
+      display: "flex",
+      mx: 3,
+      marginTop: "-1rem",
+      // Target the fieldset to change the border color
+      '& .Mui-focused': {
+        color: (theme) => theme.palette.mode === 'light' ? 'black !important' : 'white !important',
+        '& .MuiOutlinedInput-notchedOutline': {
+          borderColor: (theme) => theme.palette.mode === 'light' ? '#ccc !important' : '#FFF !important', // Light/dark border
+          color: (theme) => theme.palette.mode === 'light' ? 'black' : 'white !important',
+
+        },
+      },
+      // Optional: If you also want to modify the color inside the input
+      '& .MuiInputBase-input': {
+        color: (theme) => theme.palette.mode === 'light' ? 'black' : 'white',
+      },
+    }}
+    value={search}
+    placeholder={`Search by book ie. john or first john, 1 john etc.`}
+    onChange={(event) => {
+      setSearch(event.target.value);
+    }}
+    onKeyDown={(e) =>
+      handleSearch(e, setData, setVerse, searchTerm, setBookmark, setCount, setPage)
+    }
+  />
+)}
           {/* Main bible text */}
 
           {/* ROUTES */}
