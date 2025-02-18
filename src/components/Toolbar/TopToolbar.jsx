@@ -85,19 +85,6 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
             <BookmarkIcon fontSize={'small'} />
           </IconButton>
         </Tooltip>
-        <Tooltip title="Video">
-          <IconButton
-            sx={{
-              opacity: 0.75,
-              '&.MuiIconButton-root:hover':{
-                backgroundColor: 'rgba(0, 0, 0, 0.04)',
-                opacity:1
-              }
-            }}
-          >
-            <VideoCall fontSize={'medium'} />
-          </IconButton>
-        </Tooltip>
         <Tooltip title="Refresh">
           <IconButton
             onClick={() =>

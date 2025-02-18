@@ -153,3 +153,29 @@
   cursor: pointer;
   margin-top: 10px;
 }
+
+.ytp-title-expanded-overlay,
+.ytp-title-expanded-heading,
+.ytp-title,
+.ytp-shorts-title-channel,
+.ytp-chrome-top-buttons,
+.ytp-unmute,
+.ytp-player-content,
+.ytp-cued-thumbnail-overlay,
+.ytp-cued-thumbnail-overlay-image,
+.ytp-large-play-button,
+.ytp-spinner,
+.ytp-paid-content-overlay,
+.ytp-doubletap-ui-legacy,
+.ytp-suggested-action,
+.ytp-info-panel-preview,
+.ytp-pause-overlay-container,
+.ytp-muted-autoplay-overlay,
+.ytp-muted-autoplay-endscreen-overlay,
+.ytp-playlist-menu,
+.ytp-share-panel,
+.ytp-info-panel-detail-skrim,
+.ytp-watermark,
+.ytp-title-link {
+  display: none !important;
+}
