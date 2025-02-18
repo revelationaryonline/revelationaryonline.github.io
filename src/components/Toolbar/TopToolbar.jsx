@@ -11,7 +11,7 @@ import VerticalSplitIcon from "@mui/icons-material/VerticalSplit";
 import RefreshIcon from "@mui/icons-material/Refresh";
 import AlertDialogSlide from "../Modal/Modal";
 import { Divider } from "@mui/material";
-import { VideoCall } from "@mui/icons-material";
+import { CheckBoxOutlineBlank, SpaceBar, VideoCall } from "@mui/icons-material";
 
 const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleHelp }) => {
 
@@ -21,9 +21,9 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
 
   return (
     <Toolbar sx={{ marginBottom: 2 }}>
-      <ButtonGroup variant="outlined" aria-label="outlined button group" sx={{width : '20%', display: 'flex', justifyContent: 'space-between' }}>
+      <ButtonGroup variant="outlined" aria-label="outlined button group" sx={{width : '25%', display: 'flex', justifyContent: 'space-between' }}>
         <AlertDialogSlide />
-        <Tooltip title="Columns">
+        <Tooltip title="Columns" fontSize={'small'}>
           <IconButton onClick={() => handleColumns(1)}
             sx={{
               opacity: 0.75,
@@ -36,6 +36,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
           </IconButton>
         </Tooltip>
         <Tooltip title="Larger Text"
+        fontSize={'small'}
         sx={{
           opacity: 0.75,
           '&.MuiIconButton-root:hover':{
@@ -47,7 +48,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
             <TextIncreaseIcon />
           </IconButton>
         </Tooltip>
-        <Tooltip title="Smaller Text">
+        <Tooltip title="Smaller Text" fontSize={'small'}>
           <IconButton onClick={() => handleFontSize(-1)}
             sx={{
               opacity: 0.75,
