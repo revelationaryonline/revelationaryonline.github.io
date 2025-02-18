@@ -280,7 +280,7 @@ function DashboardContent({ loggedIn }) {
                 width: "auto",
                 display: "flex",
                 mx: 3,
-                marginTop: "-1rem",
+                marginTop: "-0.5rem",
                 // Target the fieldset to change the border color
                 "& .Mui-focused": {
                   color: (theme) =>

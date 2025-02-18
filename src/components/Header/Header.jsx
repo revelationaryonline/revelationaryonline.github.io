@@ -26,6 +26,7 @@ import {
   PersonOutline,
   SettingsOutlined,
 } from "@mui/icons-material";
+import { Divider } from "@mui/material";
 
 const drawerWidth = 240;
 
@@ -217,23 +218,19 @@ function Header(props) {
                       </span>
                     </Typography>
                   </MenuItem>
-                  <MenuItem sx={{ paddingY: 0 }} dense>
                     <MenuItem
                       sx={{ paddingY: 0 }}
                       onClick={handleCloseUserMenu}
+                      dense
                     >
                       <Book fontSize="small" sx={{ color: "#888" }} />
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/blog">Blog</Link>
                     </MenuItem>
-                  </MenuItem>
-                  <MenuItem
-                    sx={{ paddingY: 1, borderBottom: "1px solid #333" }}
-                    dense
-                  >
                     <MenuItem
                       sx={{ paddingY: 1 }}
                       onClick={handleCloseUserMenu}
+                      dense
                     >
                       <NotificationsOffOutlined
                         fontSize="small"
@@ -242,21 +239,19 @@ function Header(props) {
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/settings">Pause Notifications</Link>
                     </MenuItem>
-                  </MenuItem>
-                  <MenuItem sx={{ paddingY: 1 }} dense>
                     <MenuItem
                       sx={{ paddingY: 0 }}
                       onClick={handleCloseUserMenu}
+                      dense
                     >
                       <PersonOutline fontSize="small" sx={{ color: "#888" }} />
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/profile">Profile</Link>
                     </MenuItem>
-                  </MenuItem>
-                  <MenuItem sx={{ paddingY: 0 }} dense>
                     <MenuItem
                       sx={{ paddingY: 1 }}
                       onClick={handleCloseUserMenu}
+                      dense
                     >
                       <SettingsOutlined
                         fontSize="small"
@@ -265,11 +260,10 @@ function Header(props) {
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/settings">Account Settings</Link>
                     </MenuItem>
-                  </MenuItem>
-                  <MenuItem dense>
                     <MenuItem
                       sx={{ paddingY: 1 }}
                       onClick={handleCloseUserMenu}
+                      dense
                     >
                       <NotificationsActiveOutlined
                         fontSize="small"
@@ -278,14 +272,10 @@ function Header(props) {
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/notifications">Notification Settings</Link>
                     </MenuItem>
-                  </MenuItem>
-                  <MenuItem
-                    dense
-                    sx={{ borderBottom: "1px solid #333", paddingBottom: 2 }}
-                  >
                     <MenuItem
                       sx={{ paddingY: 1 }}
                       onClick={handleCloseUserMenu}
+                      dense
                     >
                       <MenuBookOutlined
                         fontSize="small"
@@ -294,8 +284,7 @@ function Header(props) {
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/">KJV Bible</Link>
                     </MenuItem>
-                  </MenuItem>
-                  <MenuItem dense>
+                    <Divider />
                     <MenuItem
                       sx={{ paddingY: 1, color: "#888" }}
                       onClick={() => {
@@ -303,11 +292,11 @@ function Header(props) {
                         handleCloseUserMenu();
                         navigate("/login");
                       }}
+                      dense
                     >
                       <LogoutOutlined fontSize="small" sx={{ color: "#888" }} />
                       &nbsp;&nbsp; Sign out
                     </MenuItem>
-                  </MenuItem>
                 </div>
               ) : (
                 <MenuItem sx={{ paddingY: 1 }} onClick={handleCloseUserMenu}>
