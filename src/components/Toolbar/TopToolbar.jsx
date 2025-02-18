@@ -21,7 +21,8 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
 
   return (
     <Toolbar sx={{ marginBottom: 2 }}>
-      <ButtonGroup variant="outlined" aria-label="outlined button group" sx={{width : '25%', display: 'flex', justifyContent: 'space-between' }}>
+      <ButtonGroup variant="outlined" aria-label="outlined button group" sx={{width : 'min-content', display: 'flex', justifyContent: 'space-between' }}>
+        {/* Help Modal */}
         <AlertDialogSlide />
         <Tooltip title="Columns" fontSize={'small'}>
           <IconButton onClick={() => handleColumns(1)}
@@ -61,7 +62,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
           </IconButton>
         </Tooltip>
         <Divider orientation="vertical" paddingX={'1rem'} flexItem variant={'middle'} />
-        <Tooltip title="Comments">
+        {/* <Tooltip title="Comments">
           <IconButton onClick={() => handleAddComment()}
             sx={{
               opacity: 0.75,
@@ -84,7 +85,7 @@ const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleH
             }}>
             <BookmarkIcon fontSize={'small'} />
           </IconButton>
-        </Tooltip>
+        </Tooltip> */}
         <Tooltip title="Refresh">
           <IconButton
             onClick={() =>
