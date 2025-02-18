@@ -13,8 +13,8 @@ export function Copyright(props) {
       }}
       {...props}
     >
-      {"Copyright © "}
-      <Link color="inherit" href="https://mui.com/">
+      {" © "}
+      <Link color="inherit" href="https://revelationary.online/">
         Revelationary
       </Link>{" "}
       {new Date().getFullYear()}

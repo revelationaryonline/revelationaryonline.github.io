@@ -17,6 +17,8 @@ import {
 import { auth } from "../firebase"; // Import the initialized auth instance
 import { mdTheme } from "../utils/misc";
 
+import logo from '../assets/logo.jpg';
+
 const LoginPage = () => {
   const [isSigningUp, setIsSigningUp] = useState(false);
   const [email, setEmail] = useState("");
@@ -76,6 +78,7 @@ const LoginPage = () => {
       <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
         <CssBaseline />
         <Container component="main" maxWidth="xs">
+          <img style={{ marginTop: '1rem', marginBottom: '1.5rem', width: '50%'}} src={logo}></img>
           <Paper
             elevation={6}
             sx={{
@@ -83,6 +86,7 @@ const LoginPage = () => {
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
+              marginBottom: '1.5rem'
             }}
           >
             <Typography component="h1" variant="h5" gutterBottom>

@@ -10,6 +10,7 @@ import IconButton from "@mui/material/IconButton";
 import Tooltip from "@mui/material/Tooltip";
 import { LiveHelp } from "@mui/icons-material";
 import { Typography } from "@mui/material";
+import CloseIcon from "@mui/icons-material/Close";
 import Paper from "@mui/material/Paper";
 
 const Transition = React.forwardRef(function Transition(props, ref) {
@@ -30,8 +31,14 @@ export default function AlertDialogSlide() {
   return (
     <React.Fragment>
       <Tooltip title="Help">
-        <IconButton onClick={handleClickOpen}>
-          <LiveHelp />
+        <IconButton onClick={handleClickOpen} sx={{
+          opacity: 0.75,
+          '&.MuiIconButton-root:hover':{
+            backgroundColor: 'rgba(0, 0, 0, 0.00)',
+            opacity:1
+          }
+        }}>
+          <LiveHelp fontSize="small"/>
         </IconButton>
       </Tooltip>
       <Dialog
@@ -50,7 +57,12 @@ export default function AlertDialogSlide() {
           }}
           elevation={8}
         >
-          <DialogTitle>{"How to use the Search Bar"}</DialogTitle>
+          <DialogTitle position={'absolute'} >{"Help - How to use the Search Bar"}</DialogTitle>
+          <DialogActions>
+            <IconButton onClick={handleClose}>
+              <CloseIcon />
+            </IconButton>
+          </DialogActions>
           <DialogContent>
             <DialogContentText id="alert-dialog-slide-description">
               <Typography variant="body2" gutterBottom>
@@ -73,8 +85,10 @@ export default function AlertDialogSlide() {
               </Typography>
               <Typography variant="body2" gutterBottom>
                 To search for a chapter just type a : after the
-                chapter number. So, Luke Chapter one would be: 
-                <pre><code>Luke 1:</code></pre>
+                chapter number. So, First John Chapter three would be: 
+                <pre><code>1 John 3:</code></pre>
+                or
+                <pre><code>first John 3:</code></pre>
                  Then press return
               </Typography>
               <Typography variant="h6" gutterBottom>
@@ -88,9 +102,6 @@ export default function AlertDialogSlide() {
               </Typography>
             </DialogContentText>
           </DialogContent>
-          <DialogActions>
-            <Button onClick={handleClose}>Close</Button>
-          </DialogActions>
         </Paper>
       </Dialog>
     </React.Fragment>

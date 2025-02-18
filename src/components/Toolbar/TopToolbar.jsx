@@ -10,55 +10,107 @@ import TextDecreaseIcon from "@mui/icons-material/TextDecrease";
 import VerticalSplitIcon from "@mui/icons-material/VerticalSplit";
 import RefreshIcon from "@mui/icons-material/Refresh";
 import AlertDialogSlide from "../Modal/Modal";
+import { Divider } from "@mui/material";
+import { VideoCall } from "@mui/icons-material";
 
 const TopToolbar = ({ handleColumns, handleFontSize, handleViewBookmark, handleHelp }) => {
+
+  const handleAddComment = () => {
+    console.log('Comment');
+  }
+
   return (
     <Toolbar sx={{ marginBottom: 2 }}>
-      <ButtonGroup variant="outlined" aria-label="outlined button group">
-        {/* <Tooltip title="Bookmarks">
-          <IconButton
-            onClick={() =>
-              handleViewBookmark(
-                "this will be somekind of re-direct to a bookmarks modal / page"
-              )
-            }
-          >
-            <BookmarkIcon />
-          </IconButton>
-        </Tooltip> */}
-        {/* <Tooltip title="All Links">
-          <IconButton>
-            <AccountTreeIcon />
-          </IconButton>
-        </Tooltip> */}
+      <ButtonGroup variant="outlined" aria-label="outlined button group" sx={{width : '20%', display: 'flex', justifyContent: 'space-between' }}>
         <AlertDialogSlide />
         <Tooltip title="Columns">
-          <IconButton onClick={() => handleColumns(1)}>
+          <IconButton onClick={() => handleColumns(1)}
+            sx={{
+              opacity: 0.75,
+              '&.MuiIconButton-root:hover':{
+                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                opacity: 1,
+              }
+            }}>
             <VerticalSplitIcon />
           </IconButton>
         </Tooltip>
-        <Tooltip title="Larger Text">
+        <Tooltip title="Larger Text"
+        sx={{
+          opacity: 0.75,
+          '&.MuiIconButton-root:hover':{
+            backgroundColor: 'rgba(0, 0, 0, 0.04)',
+            opacity:1
+          }
+        }}>
           <IconButton onClick={() => handleFontSize(1)}>
             <TextIncreaseIcon />
           </IconButton>
         </Tooltip>
         <Tooltip title="Smaller Text">
-          <IconButton onClick={() => handleFontSize(-1)}>
+          <IconButton onClick={() => handleFontSize(-1)}
+            sx={{
+              opacity: 0.75,
+              '&.MuiIconButton-root:hover':{
+                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                opacity:1
+              }
+            }}>
             <TextDecreaseIcon />
           </IconButton>
         </Tooltip>
-        {/* <Tooltip title="Stack">
-          <IconButton onClick={() => handleFontSize(-1)}>
-            <Stack />
+        <Divider orientation="vertical" paddingX={'1rem'} flexItem variant={'middle'} />
+        <Tooltip title="Comments">
+          <IconButton onClick={() => handleAddComment()}
+            sx={{
+              opacity: 0.75,
+              '&.MuiIconButton-root:hover':{
+                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                opacity:1
+              }
+            }}>
+            <AccountTreeIcon fontSize={'small'}/>
           </IconButton>
-        </Tooltip> */}
+        </Tooltip>
+        <Tooltip title="Bookmarks">
+          <IconButton onClick={() => handleViewBookmark()}
+            sx={{
+              opacity: 0.75,
+              '&.MuiIconButton-root:hover':{
+                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                opacity:1
+              }
+            }}>
+            <BookmarkIcon fontSize={'small'} />
+          </IconButton>
+        </Tooltip>
+        <Tooltip title="Video">
+          <IconButton
+            sx={{
+              opacity: 0.75,
+              '&.MuiIconButton-root:hover':{
+                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                opacity:1
+              }
+            }}
+          >
+            <VideoCall fontSize={'medium'} />
+          </IconButton>
+        </Tooltip>
         <Tooltip title="Refresh">
           <IconButton
             onClick={() =>
               window.location.reload()
             }
+            sx={{
+              opacity: 0.75,
+              '&.MuiIconButton-root:hover':{
+                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                opacity:1
+              }
+            }}
           >
-            <RefreshIcon />
+            <RefreshIcon fontSize={'medium'} />
           </IconButton>
         </Tooltip>
       </ButtonGroup>
