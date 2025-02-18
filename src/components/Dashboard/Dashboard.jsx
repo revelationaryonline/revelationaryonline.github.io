@@ -29,6 +29,9 @@ import InputAdornment from "@mui/material/InputAdornment";
 import Backdrop from "@mui/material/Backdrop";
 import CircularProgress from "@mui/material/CircularProgress";
 import Select from "@mui/material/Select";
+import Tooltip from "@mui/material/Tooltip";
+import VideoModal from "../VideoModal/VideoModal"
+
 
 // TODO: automate this to be detected on system preferences
 // const mdTheme = createTheme({ palette: { mode: "light" } });
@@ -135,7 +138,7 @@ function DashboardContent({ loggedIn }) {
         // console.log(`search term: + ${search}`);
         searchTerm(search);
         setCount(result.length - 1);
-        setColumns(1)
+        setColumns(1);
         setClearSearch(false);
       }
       if (
@@ -323,7 +326,7 @@ function DashboardContent({ loggedIn }) {
             />
           )}
           {/* Main bible text */}
-
+          {/* <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GQI72THyO5I?si=UAMHuW2JJNNV4NE-&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> */}
           {/* ROUTES */}
           <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
             <Grid container spacing={3}>
@@ -366,8 +369,10 @@ function DashboardContent({ loggedIn }) {
                         verse[0].chapter +
                         ":" +
                         verse[verse.length - 1].verse}
+{verse.length > 0 && verse[0]?.book && verse[0]?.chapter && (
+  <VideoModal currentBook={verse[0].book} currentChapter={verse[0].chapter} />
+)}
                   </Typography>
-
                   <Typography
                     variant="p"
                     component="p"
@@ -508,22 +513,24 @@ function DashboardContent({ loggedIn }) {
 
                   {verse.length > 1 && (
                     <>
-                    <Pagination
-                      sx={{
-                        position: "fixed",
-                        marginLeft: "-50px",
-                        marginTop: '83px',
-                        width: 'min-content',
-                        opacity: 0.75,
-                        backgroundColor: (theme) =>
-                          theme.palette.mode === "light"
-                            ? theme.palette.grey[100]
-                            : theme.palette.grey[900],
-                      }}
-                      count={fetchCount(verse[0].book)}
-                      page={page}
-                      onChange={(e, value, v) => handleChange(e, value, verse)}
-                    />
+                      <Pagination
+                        sx={{
+                          position: "fixed",
+                          marginLeft: "-50px",
+                          marginTop: "83px",
+                          width: "min-content",
+                          opacity: 0.75,
+                          backgroundColor: (theme) =>
+                            theme.palette.mode === "light"
+                              ? theme.palette.grey[100]
+                              : theme.palette.grey[900],
+                        }}
+                        count={fetchCount(verse[0].book)}
+                        page={page}
+                        onChange={(e, value, v) =>
+                          handleChange(e, value, verse)
+                        }
+                      />
                     </>
                   )}
                   {search &&
