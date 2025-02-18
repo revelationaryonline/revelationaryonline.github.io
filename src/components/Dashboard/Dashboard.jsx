@@ -242,7 +242,7 @@ function DashboardContent({ loggedIn }) {
 
   return (
     <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: "flex", marginTop: 5 }}>
+      <Box sx={{ display: "flex", marginTop: 5.35 }}>
         <CssBaseline />
         <SideBar
           handleToggle={handleToggle}
@@ -507,10 +507,14 @@ function DashboardContent({ loggedIn }) {
                   </Typography>
 
                   {verse.length > 1 && (
+                    <>
                     <Pagination
                       sx={{
-                        position: "relative",
-                        marginLeft: "12px",
+                        position: "fixed",
+                        marginLeft: "-50px",
+                        marginTop: '83px',
+                        width: 'min-content',
+                        opacity: 0.75,
                         backgroundColor: (theme) =>
                           theme.palette.mode === "light"
                             ? theme.palette.grey[100]
@@ -520,6 +524,7 @@ function DashboardContent({ loggedIn }) {
                       page={page}
                       onChange={(e, value, v) => handleChange(e, value, verse)}
                     />
+                    </>
                   )}
                   {search &&
                     result.length === 0 &&

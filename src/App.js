@@ -75,10 +75,10 @@ export default function App() {
           <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
           <Route path="/login" element={<LoginPage />} />
         </Routes>
-        <Footer
+        {/* <Footer
           title="revelationary"
           description="A Bible Reading Web Application"
-        />
+        /> */}
       </div>
       </Box>
     </ThemeProvider>
