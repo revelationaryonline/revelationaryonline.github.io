@@ -395,14 +395,13 @@ function DashboardContent({ loggedIn }) {
                         <Typography
                           item
                           sx={{
+                            fontSize: '1.2rem', // Jack 12.09
+                            marginRight: '9px',
                             display: "block",
-                            // marginTop: "-3rem",
-                            // marginLeft: "-2rem",
                             width: "auto",
-                            // position: "absolute",
                           }}
                           className={`result__total ${verse ? "hide" : "show"}`}
-                        >{`${result.length} results`}</Typography>
+                        >{`${result.length}`}&nbsp;<span style={{ fontSize: '0.9rem'}}>results</span></Typography>
                         <Select
                           value={resultsPerPage}
                           onChange={handleResultsPerPageChange}
@@ -422,8 +421,8 @@ function DashboardContent({ loggedIn }) {
                           item
                           sx={{
                             display: "block",
-                            marginTop: "0.25rem",
-                            marginLeft: "0.5rem",
+                            marginTop: "0.20rem", // Mum 20.12
+                            marginLeft: "1.2rem",
                             width: "auto",
                             fontSize: "0.7rem",
                           }}
@@ -517,7 +516,7 @@ function DashboardContent({ loggedIn }) {
                         sx={{
                           position: "fixed",
                           marginLeft: "-50px",
-                          marginTop: "83px",
+                          marginTop: "83px", // 83 Samantha
                           width: "min-content",
                           opacity: 0.75,
                           backgroundColor: (theme) =>
