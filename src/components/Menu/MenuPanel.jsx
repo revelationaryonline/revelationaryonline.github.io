@@ -12,7 +12,17 @@ import AttachFileIcon from "@mui/icons-material/AttachFile";
 import AddLinkIcon from "@mui/icons-material/AddLink";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
 
-const MenuPanel = ({ contextMenu, setContextMenu,  highlightedVerses, toggleHighlight, handleHighlight, handleClose, selectedVerse, search }) => {
+const MenuPanel = ({
+  contextMenu,
+  setContextMenu,
+  highlightedVerses,
+  toggleHighlight,
+  handleHighlight,
+  handleClose,
+  selectedVerse,
+  search,
+  setSelectedVerse,
+}) => {
   if (!contextMenu || !selectedVerse) return null;
 
   // copy a verse
@@ -51,7 +61,9 @@ const MenuPanel = ({ contextMenu, setContextMenu,  highlightedVerses, toggleHigh
             <BorderColorIcon fontSize="small" />
           </ListItemIcon>
           <ListItemText>
-            {highlightedVerses.includes(selectedVerse[0].id) ? "Remove Highlight" : "Highlight"}
+            {selectedVerse.some((verse) => highlightedVerses.includes(verse.id))
+              ? "Remove Highlight"
+              : "Highlight"}
           </ListItemText>
           <Typography variant="body2" color="text.secondary">
             ⌘H
