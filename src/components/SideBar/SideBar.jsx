@@ -27,9 +27,9 @@ const Drawer = styled(MuiDrawer, {
     whiteSpace: "nowrap",
     width: drawerWidth,
     backgroundColor: (theme) =>
-              theme.palette.mode === "light"
-                ? theme.palette.grey[300]
-                : theme.palette.grey[900],
+      theme.palette.mode === "light"
+        ? theme.palette.grey[300]
+        : theme.palette.grey[900],
     transition: theme.transitions.create("width", {
       easing: theme.transitions.easing.sharp,
       duration: theme.transitions.duration.enteringScreen,
@@ -52,79 +52,81 @@ const Drawer = styled(MuiDrawer, {
 export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
   return (
     <ThemeProvider theme={mdTheme}>
-    <Drawer
-      sx={{
-        backgroundColor: (theme) =>
-              theme.palette.mode === "light"
-                ? '#fff'
-                : theme.palette.grey[900],
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "flex-end",
-        marginTop: { xs: "0.5rem", sm: "1rem" },
-        zIndex: 1,
-      }}
-      variant="permanent"
-      open={open}
-    >
-      <Toolbar
-        sx={{backgroundColor: (theme) =>
-          theme.palette.mode === "light"
-            ? '#FFF'
-            : theme.palette.grey[900],
+      <Drawer
+        sx={{
+          backgroundColor: (theme) =>
+            theme.palette.mode === "light" ? "#fff" : theme.palette.grey[900],
           display: "flex",
           alignItems: "center",
           justifyContent: "flex-end",
-          px: [1],
+          marginTop: { xs: "0.5rem", sm: "1rem" },
+          zIndex: 1,
+          "&.MuiDrawer-paperAnchorLeft":
+            {
+              background:(theme) => theme.palette.mode === 'light' ? '#FFF' : "#212121",
+            },
         }}
+        variant="permanent"
+        open={open}
       >
-        <IconButton onClick={toggleDrawer}>
-          <ChevronLeftIcon />
-        </IconButton>
-      </Toolbar>
-      <Divider />
-      <List component="nav">
-        <Divider sx={{ my: 1 }} />
-      </List>
-      {/* Icon button tool tips in grid and search bar */}
-      <List
-        sx={{ width: "100%", backgroundColor: (theme) =>
-        theme.palette.mode === "light"
-          ? '#FFF'
-          : theme.palette.grey[900], }}
-        // subheader={<ListSubheader>Settings</ListSubheader>}
-      >
-        <ListItem>
-          <ListItemIcon>
-            <SearchIcon />
-          </ListItemIcon>
-          <ListItemText id="switch-list-label-search" primary="Search" />
-          <Switch
-            edge="end"
-            onChange={handleToggle("search")}
-            checked={checked.indexOf("search") !== -1}
-            inputProps={{
-              "aria-labelledby": "switch-list-label-search",
-            }}
-            color="default"
-          />
-        </ListItem>
-        <ListItem>
-          <ListItemIcon>
-            <HelpCenterIcon />
-          </ListItemIcon>
-          <ListItemText id="switch-list-label-guide" primary="Guide" />
-          <Switch
-            edge="end"
-            onChange={handleToggle("guide")}
-            checked={checked.indexOf("guide") !== -1}
-            inputProps={{
-              "aria-labelledby": "switch-list-label-guide",
-            }}
-            color="default"
-          />
-        </ListItem>
-        {/* <ListItem>
+        <Toolbar
+          sx={{
+            backgroundColor: (theme) =>
+              theme.palette.mode === "light" ? "#FFF" : theme.palette.grey[900],
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "flex-end",
+            px: [1],
+          }}
+        >
+          <IconButton onClick={toggleDrawer}>
+            <ChevronLeftIcon />
+          </IconButton>
+        </Toolbar>
+        <Divider />
+        <List component="nav">
+          <Divider sx={{ my: 1 }} />
+        </List>
+        {/* Icon button tool tips in grid and search bar */}
+        <List
+          sx={{
+            width: "100%",
+            backgroundColor: (theme) =>
+              theme.palette.mode === "light" ? "#FFF" : theme.palette.grey[900],
+          }}
+          // subheader={<ListSubheader>Settings</ListSubheader>}
+        >
+          <ListItem>
+            <ListItemIcon>
+              <SearchIcon />
+            </ListItemIcon>
+            <ListItemText id="switch-list-label-search" primary="Search" />
+            <Switch
+              edge="end"
+              onChange={handleToggle("search")}
+              checked={checked.indexOf("search") !== -1}
+              inputProps={{
+                "aria-labelledby": "switch-list-label-search",
+              }}
+              color="default"
+            />
+          </ListItem>
+          <ListItem>
+            <ListItemIcon>
+              <HelpCenterIcon />
+            </ListItemIcon>
+            <ListItemText id="switch-list-label-guide" primary="Guide" />
+            <Switch
+              edge="end"
+              onChange={handleToggle("guide")}
+              checked={checked.indexOf("guide") !== -1}
+              inputProps={{
+                "aria-labelledby": "switch-list-label-guide",
+              }}
+              color="default"
+            />
+          </ListItem>
+          {/* <ListItem>
           <ListItemIcon>
             <CommentIcon />
           </ListItemIcon>
@@ -139,7 +141,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             color="default"
           />
         </ListItem> */}
-        {/* <ListItem>
+          {/* <ListItem>
           <ListItemIcon>
             <InsertLinkIcon />
           </ListItemIcon>
@@ -154,13 +156,13 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             color="default"
           />
         </ListItem> */}
-      </List>
-      <Divider />
-      <List component="nav">
-        <Divider sx={{ my: 1 }} />
-      </List>
-      <List></List>
-    </Drawer>
+        </List>
+        <Divider />
+        <List component="nav">
+          <Divider sx={{ my: 1 }} />
+        </List>
+        <List></List>
+      </Drawer>
     </ThemeProvider>
   );
 };

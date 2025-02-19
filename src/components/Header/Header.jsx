@@ -71,7 +71,11 @@ function Header(props) {
     <Box sx={{ display: "flex" }}>
       <CssBaseline />
       <AppBar component="nav" sx={{ background: "#212121" }}>
-        <Toolbar>
+        <Toolbar 
+          sx={{
+            background:(theme) => theme.palette.mode === 'light' ? '#FFF' : "#212121", 
+          }}
+          >
           <IconButton
             color="inherit"
             aria-label="open drawer"
@@ -90,6 +94,7 @@ function Header(props) {
               fontWeight: 600,
               fontStyle: "bold",
               letterSpacing: "1.65px",
+              color:(theme) => theme.palette.mode === 'light' ? '#212121' : "#212121",
             }}
           >
             revelationary
