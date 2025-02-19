@@ -121,6 +121,11 @@ function DashboardContent({ loggedIn }) {
     setSearch(v[0].book);
   };
 
+  // Close context menu - right click
+  const handleClose = () => {
+    setContextMenu(null);
+  };
+
   useEffect(() => {
     if (loading) {
       if (search === "" && count >= 0) {
@@ -159,7 +164,7 @@ function DashboardContent({ loggedIn }) {
       }
       setLoading(false);
     }
-  }, [visible, result, search, verse, count, loading, page]);
+  }, [visible, result, search, verse, count, loading, page, selectedVerse.length]);
 
   // result causes a loop with search
 
@@ -187,11 +192,11 @@ function DashboardContent({ loggedIn }) {
 
   const handleContextMenu = (event, verse) => {
     event.preventDefault();
-    event.target.style.textDecoration === "underline"
-      ? (event.target.style.textDecoration = "none")
-      : (event.target.style.textDecoration = "underline");
-      setSelectedVerse((prev) => [...prev, verse]);
-      setContextMenu(
+    // event.target.style.textDecoration === "underline"
+    //   ? (event.target.style.textDecoration = "none")
+    //   : (event.target.style.textDecoration = "underline");
+    //   setSelectedVerse((prev) => [...prev, verse]);
+    setContextMenu(
       contextMenu === null
         ? {
             mouseX: event.clientX + 2,
@@ -239,31 +244,29 @@ function DashboardContent({ loggedIn }) {
 
   const handleVerseSelect = (verse) => {
     // Check if the verse is already selected
-    if (selectedVerse.includes(verse)) {
+    if (selectedVerse.includes(verse) && contextMenu === null) {
       // If it is, remove it from the selection
       setSelectedVerse((prev) =>
-        prev.includes(verse) ? prev.filter((v) => v !== verse) : [...prev, verse]
-      );    } else {
+        prev.includes(verse)
+          ? prev.filter((v) => v !== verse)
+          : [...prev, verse]
+      );
+    } else if (contextMenu === null) {
       // If it's not, add it to the selection
       setSelectedVerse([...selectedVerse, verse]);
     }
   };
 
-  const handleClose = () => {
-    setContextMenu(null);
-    // selectedVerse.length = 0;
-  };
-
   const handleHighlight = (e) => {
-    e.preventDefault();
-    
+    // e.preventDefault();
+
     // Loop through all selected verses and toggle highlight for each
     selectedVerse.forEach((verse) => {
-      toggleHighlight(verse.id);  // Toggle highlight for each selected verse
-      console.log('Selected Verse ID: ', verse.id);
+      toggleHighlight(verse.id); // Toggle highlight for each selected verse
+      // console.log('Selected Verse ID: ', verse.id);
     });
-    
-    handleClose();  // Close the context menu
+
+    handleClose(); // Close the context menu
   };
 
   // Memoized search results for pagination
@@ -272,7 +275,7 @@ function DashboardContent({ loggedIn }) {
     const endIndex = startIndex + resultsPerPage;
     return result.slice(startIndex, endIndex);
   }, [result, searchPage, resultsPerPage]);
-
+   
   return (
     <ThemeProvider theme={mdTheme}>
       <Box sx={{ display: "flex", marginTop: 5.35 }}>
@@ -495,13 +498,13 @@ function DashboardContent({ loggedIn }) {
                     )}
                     {verse.length >= 1
                       ? verse.map((v, index) => (
-                        // console.log(v.id),
-                        // console.log(highlightedVerses.includes(
-                        //   v.id.toString()
-                        // )),
+                          // console.log(v.id),
+                          // console.log(highlightedVerses.includes(
+                          //   v.id.toString()
+                          // )),
                           <span
                             onContextMenu={(e) => handleContextMenu(e, v)}
-                            onClick={() => handleVerseSelect(v)}  // Trigger handleVerseSelect on click
+                            onClick={() => handleVerseSelect(v)} // Trigger handleVerseSelect on click
                             style={{
                               cursor: "context-menu",
                             }}
@@ -511,11 +514,11 @@ function DashboardContent({ loggedIn }) {
                               v.text === selectedVerse[0]?.text
                                 ? "verse__selected"
                                 : ""
-                            } ${highlightedVerses.includes(
-                              v.id.toString()
-                            )
-                              ? "highlight"
-                              : "transparent"}`}
+                            } ${
+                              highlightedVerses.includes(v.id.toString())
+                                ? "highlight"
+                                : "transparent"
+                            }`}
                           >
                             <span className="verse__number">
                               {v.verse}&nbsp;
@@ -524,7 +527,9 @@ function DashboardContent({ loggedIn }) {
                               className={`verse__text`}
                               value={v}
                               style={{
-                                backgroundColor: selectedVerse.includes(v) ? "lightblue" : "transparent",  // Feedback for selection
+                                backgroundColor: selectedVerse.includes(v)
+                                  ? "lightblue"
+                                  : "transparent", // Feedback for selection
                               }}
                               onMouseEnter={(e) =>
                                 handleMouseHover(v, setHover, setIsShown)
@@ -538,6 +543,7 @@ function DashboardContent({ loggedIn }) {
                               contextMenu={contextMenu}
                               setContextMenu={() => setContextMenu()}
                               selectedVerse={selectedVerse}
+                              setSelectedVerse={setSelectedVerse}
                               highlightedVerses={highlightedVerses}
                               toggleHighlight={toggleHighlight}
                               handleHighlight={handleHighlight}
