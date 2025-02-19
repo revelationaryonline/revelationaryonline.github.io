@@ -54,7 +54,7 @@ export default function AlertDialogSlide() {
             position: "relative",
             textAlign: "justify",
             height: "auto",
-            background:'#212121'
+            background: (theme) => theme.palette.mode === "light" ? 'FFF' : '#212121',
           }}
           elevation={8}
         >
@@ -79,12 +79,11 @@ export default function AlertDialogSlide() {
                 Searching for keywords or Phrases
               </Typography>
               <Typography variant="body2" gutterBottom marginBottom={2}>
-                To search for a keyword or phrase just type your beginning
-                double quotation mark " and enter the text you wish to search.
-                When you type the second quotation the search will already
-                begin. For example: 
+                To search for a keyword or phrase just type your text in
+                double quotation marks " and press enter. 
+                For example: 
                 <pre><code>"light"</code></pre>
-                Then press return
+                Will search the entire Bible for any references to the word light.
               </Typography>
               <Typography fontSize={17} variant="h6" color="white" gutterBottom>
                 Searching for Chapters
