@@ -183,3 +183,8 @@
 .ytp-title-link {
   display: none !important;
 }
+
+.highlight span.verse__text {
+  background-color: yellow !important;
+  color: black;
+}

@@ -18,7 +18,7 @@ import {
   mdTheme,
   fetchCount,
 } from "../../utils/misc";
-
+import useHighlight from "../../hooks/useHighlight";
 import MenuPanel from "../Menu/MenuPanel";
 import Guide from "../Guide/Guide";
 import TopToolbar from "../Toolbar/TopToolbar";
@@ -63,6 +63,8 @@ function DashboardContent({ loggedIn }) {
   const [resultsPerPage, setResultsPerPage] = useState(25); // Number of results per page
   const [clearSearch, setClearSearch] = useState(false);
   const [focused, setFocused] = useState(false);
+
+  const { highlightedVerses, toggleHighlight } = useHighlight();
 
   // hightlight verse helper box window
   const searchTerm = async (term, setState) => {
@@ -185,12 +187,11 @@ function DashboardContent({ loggedIn }) {
 
   const handleContextMenu = (event, verse) => {
     event.preventDefault();
-    console.log(verse);
     event.target.style.textDecoration === "underline"
       ? (event.target.style.textDecoration = "none")
       : (event.target.style.textDecoration = "underline");
-    selectedVerse.push(verse);
-    setContextMenu(
+      setSelectedVerse((prev) => [...prev, verse]);
+      setContextMenu(
       contextMenu === null
         ? {
             mouseX: event.clientX + 2,
@@ -201,7 +202,6 @@ function DashboardContent({ loggedIn }) {
           // With this behavior we prevent contextmenu from the backdrop to re-locale existing context menus.
           null
     );
-    console.log(selectedVerse);
   };
 
   const handleColumns = (e) => {
@@ -235,6 +235,35 @@ function DashboardContent({ loggedIn }) {
   const handleResultsPerPageChange = (event) => {
     setResultsPerPage(event.target.value);
     setSearchPage(1); // Reset to first page
+  };
+
+  const handleVerseSelect = (verse) => {
+    // Check if the verse is already selected
+    if (selectedVerse.includes(verse)) {
+      // If it is, remove it from the selection
+      setSelectedVerse((prev) =>
+        prev.includes(verse) ? prev.filter((v) => v !== verse) : [...prev, verse]
+      );    } else {
+      // If it's not, add it to the selection
+      setSelectedVerse([...selectedVerse, verse]);
+    }
+  };
+
+  const handleClose = () => {
+    setContextMenu(null);
+    // selectedVerse.length = 0;
+  };
+
+  const handleHighlight = (e) => {
+    e.preventDefault();
+    
+    // Loop through all selected verses and toggle highlight for each
+    selectedVerse.forEach((verse) => {
+      toggleHighlight(verse.id);  // Toggle highlight for each selected verse
+      console.log('Selected Verse ID: ', verse.id);
+    });
+    
+    handleClose();  // Close the context menu
   };
 
   // Memoized search results for pagination
@@ -285,32 +314,32 @@ function DashboardContent({ loggedIn }) {
                 display: "flex",
                 mx: 3,
                 marginTop: "-0.5rem",
-                WebkitBoxShadow: 'none !important',
+                WebkitBoxShadow: "none !important",
                 // Target the fieldset to change the border color
                 "& .Mui-focused": {
                   color: (theme) =>
                     theme.palette.mode === "light"
                       ? "black !important"
                       : "white !important",
-                      WebkitBoxShadow: 'none !important',
+                  WebkitBoxShadow: "none !important",
                   "& .MuiOutlinedInput-notchedOutline": {
                     borderColor: (theme) =>
                       theme.palette.mode === "light"
                         ? "#ccc !important"
                         : "#FFF !important", // Light/dark border
-                        WebkitBoxShadow: 'none !important',
+                    WebkitBoxShadow: "none !important",
                     color: (theme) =>
                       theme.palette.mode === "light"
                         ? "black"
                         : "white !important",
-                        WebkitBoxShadow: 'none !important',
+                    WebkitBoxShadow: "none !important",
                   },
-                    "& input:-webkit-autofill": {
-                      WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
-                      WebkitTextFillColor: (theme) =>
-                        theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
-                      transition: "background-color 5000s ease-in-out 0s",
-                    },
+                  "& input:-webkit-autofill": {
+                    WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
+                    WebkitTextFillColor: (theme) =>
+                      theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
+                    transition: "background-color 5000s ease-in-out 0s",
+                  },
                 },
                 // Optional: If you also want to modify the color inside the input
                 "& .MuiInputBase-input": {
@@ -466,16 +495,27 @@ function DashboardContent({ loggedIn }) {
                     )}
                     {verse.length >= 1
                       ? verse.map((v, index) => (
+                        // console.log(v.id),
+                        // console.log(highlightedVerses.includes(
+                        //   v.id.toString()
+                        // )),
                           <span
                             onContextMenu={(e) => handleContextMenu(e, v)}
-                            style={{ cursor: "context-menu" }}
+                            onClick={() => handleVerseSelect(v)}  // Trigger handleVerseSelect on click
+                            style={{
+                              cursor: "context-menu",
+                            }}
                             key={index}
                             value={v}
                             className={`${
                               v.text === selectedVerse[0]?.text
                                 ? "verse__selected"
                                 : ""
-                            }`}
+                            } ${highlightedVerses.includes(
+                              v.id.toString()
+                            )
+                              ? "highlight"
+                              : "transparent"}`}
                           >
                             <span className="verse__number">
                               {v.verse}&nbsp;
@@ -483,6 +523,9 @@ function DashboardContent({ loggedIn }) {
                             <span
                               className={`verse__text`}
                               value={v}
+                              style={{
+                                backgroundColor: selectedVerse.includes(v) ? "lightblue" : "transparent",  // Feedback for selection
+                              }}
                               onMouseEnter={(e) =>
                                 handleMouseHover(v, setHover, setIsShown)
                               }
@@ -495,6 +538,10 @@ function DashboardContent({ loggedIn }) {
                               contextMenu={contextMenu}
                               setContextMenu={() => setContextMenu()}
                               selectedVerse={selectedVerse}
+                              highlightedVerses={highlightedVerses}
+                              toggleHighlight={toggleHighlight}
+                              handleHighlight={handleHighlight}
+                              handleClose={handleClose}
                               search={search}
                             />
                           </span>

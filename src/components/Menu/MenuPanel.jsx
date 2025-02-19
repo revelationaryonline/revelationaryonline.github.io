@@ -12,19 +12,12 @@ import AttachFileIcon from "@mui/icons-material/AttachFile";
 import AddLinkIcon from "@mui/icons-material/AddLink";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
 
-const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
-  const handleClose = () => {
-    setContextMenu(null);
-    selectedVerse.length = 0;
-  };
+const MenuPanel = ({ contextMenu, setContextMenu,  highlightedVerses, toggleHighlight, handleHighlight, handleClose, selectedVerse, search }) => {
+  if (!contextMenu || !selectedVerse) return null;
+
   // copy a verse
   const handleCopy = async () => {
     await navigator.clipboard.writeText(selectedVerse[0].text);
-    await handleClose();
-  };
-
-  const handleHighlight = async () => {
-    selectedVerse[0].text.style.fontWeight = 'bold'
     await handleClose();
   };
 
@@ -51,6 +44,17 @@ const MenuPanel = ({ contextMenu, setContextMenu, selectedVerse, search }) => {
           <ListItemText>Copy</ListItemText>
           <Typography variant="body2" color="text.secondary">
             ⌘C
+          </Typography>
+        </MenuItem>
+        <MenuItem onClick={(e) => handleHighlight(e)}>
+          <ListItemIcon>
+            <BorderColorIcon fontSize="small" />
+          </ListItemIcon>
+          <ListItemText>
+            {highlightedVerses.includes(selectedVerse[0].id) ? "Remove Highlight" : "Highlight"}
+          </ListItemText>
+          <Typography variant="body2" color="text.secondary">
+            ⌘H
           </Typography>
         </MenuItem>
         {/* <MenuItem onClick={handleClose}>
