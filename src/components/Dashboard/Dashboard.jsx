@@ -24,6 +24,7 @@ import Guide from "../Guide/Guide";
 import TopToolbar from "../Toolbar/TopToolbar";
 import IconButton from "@mui/material/IconButton";
 import ClearIcon from "@mui/icons-material/Clear";
+import SearchIcon from "@mui/icons-material/Search";
 import { MenuItem } from "@mui/material";
 import InputAdornment from "@mui/material/InputAdornment";
 import Backdrop from "@mui/material/Backdrop";
@@ -62,6 +63,8 @@ function DashboardContent({ loggedIn }) {
   const [searchPage, setSearchPage] = useState(1); // Pagination for search results
   const [resultsPerPage, setResultsPerPage] = useState(25); // Number of results per page
   const [clearSearch, setClearSearch] = useState(false);
+  const [focused, setFocused] = useState(false);
+
 
   // hightlight verse helper box window
   const searchTerm = async (term, setState) => {
@@ -307,8 +310,18 @@ function DashboardContent({ loggedIn }) {
                     theme.palette.mode === "light" ? "black" : "white",
                 },
               }}
+              InputProps={{
+
+                startAdornment: focused ? (
+                  <InputAdornment position="start">
+                    <SearchIcon fontSize="small" sx={{ opacity: 0.55 }} />
+                  </InputAdornment>
+                ) : null ,
+              }}
               value={search}
               placeholder={`Search by book ie. john or first john, 1 john etc.`}
+              onFocus={() => setFocused(true)}
+              onBlur={() => setFocused(false)}
               onChange={(event) => {
                 setSearch(event.target.value);
               }}

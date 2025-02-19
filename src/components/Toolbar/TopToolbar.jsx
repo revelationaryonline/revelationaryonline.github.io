@@ -47,7 +47,7 @@ const TopToolbar = ({
               sx={{
                 opacity: 0.75,
                 "&.MuiIconButton-root:hover": {
-                  backgroundColor: "rgba(0, 0, 0, 0.04)",
+                  backgroundColor: "rgba(0, 0, 0, 0.00)",
                   opacity: 1,
                 },
               }}
@@ -61,7 +61,7 @@ const TopToolbar = ({
             sx={{
               opacity: 0.75,
               "&.MuiIconButton-root:hover": {
-                backgroundColor: "rgba(0, 0, 0, 0.04)",
+                backgroundColor: "rgba(0, 0, 0, 0.00)",
                 opacity: 1,
               },
             }}
@@ -76,7 +76,7 @@ const TopToolbar = ({
               sx={{
                 opacity: 0.75,
                 "&.MuiIconButton-root:hover": {
-                  backgroundColor: "rgba(0, 0, 0, 0.04)",
+                  backgroundColor: "rgba(0, 0, 0, 0.00)",
                   opacity: 1,
                 },
               }}
@@ -96,7 +96,7 @@ const TopToolbar = ({
             sx={{
               opacity: 0.75,
               '&.MuiIconButton-root:hover':{
-                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                backgroundColor: 'rgba(0, 0, 0, 0.00)',
                 opacity:1
               }
             }}>
@@ -108,7 +108,7 @@ const TopToolbar = ({
             sx={{
               opacity: 0.75,
               '&.MuiIconButton-root:hover':{
-                backgroundColor: 'rgba(0, 0, 0, 0.04)',
+                backgroundColor: 'rgba(0, 0, 0, 0.00)',
                 opacity:1
               }
             }}>
@@ -123,7 +123,7 @@ const TopToolbar = ({
               sx={{
                 opacity: 0.75,
                 "&.MuiIconButton-root:hover": {
-                  backgroundColor: "rgba(0, 0, 0, 0.04)",
+                  backgroundColor: "rgba(0, 0, 0, 0.00)",
                   opacity: 1,
                 },
               }}

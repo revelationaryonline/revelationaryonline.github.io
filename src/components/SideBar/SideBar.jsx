@@ -11,6 +11,7 @@ import ListItem from "@mui/material/ListItem";
 import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import Switch from "@mui/material/Switch";
+import Tooltip from "@mui/material/Tooltip";
 import CommentIcon from "@mui/icons-material/Comment";
 import SearchIcon from "@mui/icons-material/Search";
 import HelpCenterIcon from "@mui/icons-material/HelpCenter";
@@ -18,6 +19,7 @@ import InsertLinkIcon from "@mui/icons-material/InsertLink";
 
 import { drawerWidth } from "../../utils/constants";
 import { mdTheme } from "../../utils/misc";
+import { MouseOutlined, PolylineOutlined, ScreenSearchDesktopSharp } from "@mui/icons-material";
 
 const Drawer = styled(MuiDrawer, {
   shouldForwardProp: (prop) => prop !== "open",
@@ -61,10 +63,12 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
           justifyContent: "flex-end",
           marginTop: { xs: "0.5rem", sm: "1rem" },
           zIndex: 1,
-          "&.MuiDrawer-paperAnchorLeft":
-            {
-              background:(theme) => theme.palette.mode === 'light' ? '#FFF' : "#212121",
-            },
+          "& .MuiDrawer-paper": {
+            background: (theme) =>
+              theme.palette.mode === "light"
+                ? "#FFF !important"
+                : "#212121 !important",
+          },
         }}
         variant="permanent"
         open={open}
@@ -79,9 +83,16 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             px: [1],
           }}
         >
-          <IconButton onClick={toggleDrawer}>
+        <Tooltip title="Side Bar">
+          <IconButton onClick={toggleDrawer} sx={{
+                        "&.MuiIconButton-root:hover": {
+                          backgroundColor: "rgba(0, 0, 0, 0.00)",
+                          opacity: 1,
+                        },
+          }}>
             <ChevronLeftIcon />
           </IconButton>
+          </Tooltip>
         </Toolbar>
         <Divider />
         <List component="nav">
@@ -113,7 +124,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
           </ListItem>
           <ListItem>
             <ListItemIcon>
-              <HelpCenterIcon />
+              <PolylineOutlined />
             </ListItemIcon>
             <ListItemText id="switch-list-label-guide" primary="Guide" />
             <Switch

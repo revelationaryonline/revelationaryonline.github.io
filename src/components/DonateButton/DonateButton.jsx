@@ -14,7 +14,7 @@ const DonateButton = () => {
             marginRight: "5px",
             opacity: 0.75,
             "&.MuiIconButton-root:hover": {
-              backgroundColor: "rgba(0, 0, 0, 0.04)",
+              backgroundColor: "rgba(0, 0, 0, 0.00)",
               opacity: 1,
             },
           }}
