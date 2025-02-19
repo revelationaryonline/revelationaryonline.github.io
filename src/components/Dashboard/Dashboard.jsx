@@ -31,8 +31,7 @@ import Backdrop from "@mui/material/Backdrop";
 import CircularProgress from "@mui/material/CircularProgress";
 import Select from "@mui/material/Select";
 import Tooltip from "@mui/material/Tooltip";
-import VideoModal from "../VideoModal/VideoModal"
-
+import VideoModal from "../VideoModal/VideoModal";
 
 // TODO: automate this to be detected on system preferences
 // const mdTheme = createTheme({ palette: { mode: "light" } });
@@ -64,7 +63,6 @@ function DashboardContent({ loggedIn }) {
   const [resultsPerPage, setResultsPerPage] = useState(25); // Number of results per page
   const [clearSearch, setClearSearch] = useState(false);
   const [focused, setFocused] = useState(false);
-
 
   // hightlight verse helper box window
   const searchTerm = async (term, setState) => {
@@ -287,36 +285,51 @@ function DashboardContent({ loggedIn }) {
                 display: "flex",
                 mx: 3,
                 marginTop: "-0.5rem",
+                WebkitBoxShadow: 'none !important',
                 // Target the fieldset to change the border color
                 "& .Mui-focused": {
                   color: (theme) =>
                     theme.palette.mode === "light"
                       ? "black !important"
                       : "white !important",
+                      WebkitBoxShadow: 'none !important',
                   "& .MuiOutlinedInput-notchedOutline": {
                     borderColor: (theme) =>
                       theme.palette.mode === "light"
                         ? "#ccc !important"
                         : "#FFF !important", // Light/dark border
+                        WebkitBoxShadow: 'none !important',
                     color: (theme) =>
                       theme.palette.mode === "light"
                         ? "black"
                         : "white !important",
+                        WebkitBoxShadow: 'none !important',
                   },
+                    "& input:-webkit-autofill": {
+                      WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
+                      WebkitTextFillColor: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
+                      transition: "background-color 5000s ease-in-out 0s",
+                    },
                 },
                 // Optional: If you also want to modify the color inside the input
                 "& .MuiInputBase-input": {
                   color: (theme) =>
                     theme.palette.mode === "light" ? "black" : "white",
                 },
+                "& .MuiInputBase-input:-webkit-autofill": {
+                  WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
+                  WebkitTextFillColor: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
+                  transition: "background-color 5000s ease-in-out 0s",
+                },
               }}
               InputProps={{
-
                 startAdornment: focused ? (
                   <InputAdornment position="start">
                     <SearchIcon fontSize="small" sx={{ opacity: 0.55 }} />
                   </InputAdornment>
-                ) : null ,
+                ) : null,
               }}
               value={search}
               placeholder={`Search by book ie. john or first john, 1 john etc.`}
@@ -382,9 +395,14 @@ function DashboardContent({ loggedIn }) {
                         verse[0].chapter +
                         ":" +
                         verse[verse.length - 1].verse}
-{verse.length > 0 && verse[0]?.book && verse[0]?.chapter && (
-  <VideoModal currentBook={verse[0].book} currentChapter={verse[0].chapter} />
-)}
+                    {verse.length > 0 &&
+                      verse[0]?.book &&
+                      verse[0]?.chapter && (
+                        <VideoModal
+                          currentBook={verse[0].book}
+                          currentChapter={verse[0].chapter}
+                        />
+                      )}
                   </Typography>
                   <Typography
                     variant="p"
@@ -408,13 +426,16 @@ function DashboardContent({ loggedIn }) {
                         <Typography
                           item
                           sx={{
-                            fontSize: '1.2rem', // Jack 12.09
-                            marginRight: '9px',
+                            fontSize: "1.2rem", // Jack 12.09
+                            marginRight: "9px",
                             display: "block",
                             width: "auto",
                           }}
                           className={`result__total ${verse ? "hide" : "show"}`}
-                        >{`${result.length}`}&nbsp;<span style={{ fontSize: '0.9rem'}}>results</span></Typography>
+                        >
+                          {`${result.length}`}&nbsp;
+                          <span style={{ fontSize: "0.9rem" }}>results</span>
+                        </Typography>
                         <Select
                           value={resultsPerPage}
                           onChange={handleResultsPerPageChange}
