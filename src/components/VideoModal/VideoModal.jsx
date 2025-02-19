@@ -257,7 +257,7 @@ const VideoModal = ({ currentBook, currentChapter }) => {
             opacity: 0.75,
             marginLeft: "1rem",
             "&.MuiIconButton-root:hover": {
-              backgroundColor: "rgba(0, 0, 0, 0.04)",
+              backgroundColor: "rgba(0, 0, 0, 0.00)",
               opacity: 1,
             },
           }}
