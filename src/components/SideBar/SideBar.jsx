@@ -61,7 +61,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
           display: "flex",
           alignItems: "center",
           justifyContent: "flex-end",
-          marginTop: { xs: "0.5rem", sm: "1rem" },
+          marginTop: { xs: "0.5rem", sm: "0.965rem" },
           zIndex: 1,
           "& .MuiDrawer-paper": {
             background: (theme) =>

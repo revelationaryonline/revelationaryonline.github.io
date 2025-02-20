@@ -32,6 +32,8 @@ import CircularProgress from "@mui/material/CircularProgress";
 import Select from "@mui/material/Select";
 import Tooltip from "@mui/material/Tooltip";
 import VideoModal from "../VideoModal/VideoModal";
+import { Image } from "@mui/icons-material";
+import tomb from "../../assets/drawings/tomb.png"
 
 // TODO: automate this to be detected on system preferences
 // const mdTheme = createTheme({ palette: { mode: "light" } });
@@ -280,7 +282,7 @@ function DashboardContent({ loggedIn }) {
    
   return (
     <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: "flex", marginTop: 5.35 }}>
+      <Box sx={{ display: "flex", marginTop: 5.75 }}>
         <CssBaseline />
         <SideBar
           handleToggle={handleToggle}
@@ -318,7 +320,7 @@ function DashboardContent({ loggedIn }) {
                 width: "auto",
                 display: "flex",
                 mx: 3,
-                marginTop: "-0.5rem",
+                marginTop: "-0.5rem",                
                 WebkitBoxShadow: "none !important",
                 // Target the fieldset to change the border color
                 "& .Mui-focused": {
@@ -385,10 +387,10 @@ function DashboardContent({ loggedIn }) {
               }
             />
           )}
+          {/* *** */}
           {/* Main bible text */}
-          {/* <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GQI72THyO5I?si=UAMHuW2JJNNV4NE-&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> */}
           {/* ROUTES */}
-          <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
+          <Container maxWidth="lg" sx={{ mt: 4.5, mb: 4 }}>
             <Grid container spacing={3}>
               <Grid
                 item
@@ -421,6 +423,7 @@ function DashboardContent({ loggedIn }) {
                       position: "absolute",
                       marginBottom: "1rem",
                       marginTop: "-3.5rem",
+                      width: '100%'
                     }}
                   >
                     {verse.length >= 1 &&
@@ -437,7 +440,9 @@ function DashboardContent({ loggedIn }) {
                           currentChapter={verse[0].chapter}
                         />
                       )}
+                  {/* <img style={{ position: 'absolute', right: 125, width: '50px', filter: 'invert(1)'}} src={tomb}></img> */}
                   </Typography>
+                  
                   <Typography
                     variant="p"
                     component="p"
@@ -599,7 +604,7 @@ function DashboardContent({ loggedIn }) {
                         ))}
                   </Typography>
 
-                  {verse && verse.length >= 1 && (
+                  {verse && verse.length > 1 && (
 
                     <>
                       <Pagination
