@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.077e8061.css",
-    "main.js": "/static/js/main.39029b79.js",
+    "main.js": "/static/js/main.ce61bfb3.js",
+    "static/media/hero-post.jpg": "/static/media/hero-post.9938210f1cbedea18f6b.jpg",
     "static/media/logo.jpg": "/static/media/logo.20e67479f99ebb2e01e3.jpg",
+    "static/media/tomb.png": "/static/media/tomb.ac190c5a996293914374.png",
     "static/media/logo512.png": "/static/media/logo512.53a3103fe0b3b04ba72c.png",
     "index.html": "/index.html",
     "main.077e8061.css.map": "/static/css/main.077e8061.css.map",
-    "main.39029b79.js.map": "/static/js/main.39029b79.js.map"
+    "main.ce61bfb3.js.map": "/static/js/main.ce61bfb3.js.map"
   },
   "entrypoints": [
     "static/css/main.077e8061.css",
-    "static/js/main.39029b79.js"
+    "static/js/main.ce61bfb3.js"
   ]
 }
