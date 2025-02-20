@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Tooltip, IconButton, Menu, MenuItem, ListItemIcon, ListItemText } from "@mui/material";
 import ColorLensIcon from "@mui/icons-material/ColorLens";
 import { HighlightAlt } from "@mui/icons-material";
+import BorderColorIcon from "@mui/icons-material/BorderColor";
 
 const HighlightColorSelect = () => {
   const [anchorEl, setAnchorEl] = useState(null);
@@ -9,11 +10,11 @@ const HighlightColorSelect = () => {
 
   // Color options (you can change these)
   const colorOptions = [
-    { label: "Yellow", value: "#ffeb3baa" },
-    { label: "Red", value: "#f44336aa" },
-    { label: "Blue", value: "#2196f3aa" },
-    { label: "Green", value: "#4caf50aa" },
-    { label: "Purple", value: "#9c27b0aa" },
+    { label: "Yellow", value: "#ffff00" },
+    { label: "Red", value: "#f44336" },
+    { label: "Blue", value: "#2196f3" },
+    { label: "Green", value: "#4caf50" },
+    { label: "Purple", value: "#9c27b0" },
   ];
 
   const handleColorSelect = (color) => {
@@ -44,7 +45,8 @@ const HighlightColorSelect = () => {
             },
           }}
         >
-          <ColorLensIcon />
+          {/* <ColorLensIcon /> */}
+          <BorderColorIcon fontSize="small" />
         </IconButton>
       </Tooltip>
 
@@ -59,11 +61,11 @@ const HighlightColorSelect = () => {
             key={color.value}
             onClick={() => handleColorSelect(color.value)}
             sx={{
-              backgroundColor: "#212121",
               backgroundColor: (theme) => theme.palette.mode === "light" ? '#FFFFFF' : '#212121"',
               color: (theme) => theme.palette.mode === "light" ? '#212121' : '#FFFFFF"',
               "&:hover": {
-                backgroundColor: color.value,
+                // backgroundColor: color.value,
+                backgroundColor: "rgba(0, 0, 0, 0.4)",
               },
             }}
           >
@@ -71,14 +73,19 @@ const HighlightColorSelect = () => {
               <span
                 style={{
                   display: "inline-block",
-                  width: 20,
-                  height: 20,
+                  width: 12,
+                  height: 12,
                   borderRadius: "50%",
                   backgroundColor: color.value,
+                  backgroundBlendMode: 'normal',
                 }}
               />
             </ListItemIcon>
-            <ListItemText primary={color.label} />
+            <ListItemText 
+              disableTypography
+            sx={{
+              fontSize:'14px'
+            }} primary={color.label} />
           </MenuItem>
         ))}
       </Menu>

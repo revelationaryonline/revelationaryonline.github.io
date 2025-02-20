@@ -12,7 +12,7 @@ function Header(props) {
 
   return (
     <React.Fragment>
-      <Toolbar sx={{ borderBottom: 1, borderColor: "divider", marginTop: 10 }}>
+      <Toolbar sx={{ borderBottom: 1, borderColor: "#a1a1a1", marginTop: 10 }}>
         {/* <Button size="small">Subscribe</Button> */}
         <Typography
           component="h2"
@@ -20,14 +20,27 @@ function Header(props) {
           color="inherit"
           align="center"
           noWrap
-          sx={{ flex: 1 }}
-        ></Typography>
+          sx={{ 
+            flex: 1,
+            display: "flex",
+            mt: 3,
+            fontSize: "1rem",
+            textDecoration: "none",
+            color: "#a1a1a1",
+           }}
+        >.online/blog</Typography>
         {/* <IconButton>
-                    <SearchIcon />
-                </IconButton>
-                <Button variant="outlined" size="small">
-                    Sign up
-                </Button> */}
+          <SearchIcon
+            fontSize="small"
+            sx={{
+              color: (theme) =>
+                theme.palette.mode === "light" ? "#212121" : "#FFFFFF",
+            }}
+          />
+        </IconButton> */}
+        {/* <Button variant="outlined" size="small" color={'success'}>
+          Sign up
+        </Button> */}
       </Toolbar>
       <Toolbar
         component="nav"
@@ -44,10 +57,10 @@ function Header(props) {
             sx={{
               p: 1,
               flexShrink: 0,
-              color: (theme) =>
-                theme.palette.mode === "light"
-                  ? theme.palette.grey[900]
-                  : theme.palette.grey[100],
+                  display: "flex",
+                  mt: 3,
+                  textDecoration: "none",
+                  color: "#a1a1a1",
             }}
           >
             {section.title}
