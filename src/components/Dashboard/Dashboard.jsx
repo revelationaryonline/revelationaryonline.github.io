@@ -164,7 +164,7 @@ function DashboardContent({ loggedIn }) {
       }
       setLoading(false);
     }
-  }, [visible, result, search, verse, count, loading, page]);
+  }, [visible, result, search, verse, count, loading, page ]);
 
   // result causes a loop with search
 
@@ -196,11 +196,12 @@ function DashboardContent({ loggedIn }) {
     //   ? (event.target.style.textDecoration = "none")
     //   : (event.target.style.textDecoration = "underline");
     //   setSelectedVerse((prev) => [...prev, verse]);
+
     setContextMenu(
       contextMenu === null
         ? {
-            mouseX: event.clientX + 2,
-            mouseY: event.clientY - 6,
+            mouseX: event.clientX,
+            mouseY: event.clientY,
           }
         : // repeated contextmenu when it is already open closes it with Chrome 84 on Ubuntu
           // Other native context menus might behave different.

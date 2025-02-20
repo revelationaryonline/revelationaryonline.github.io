@@ -34,7 +34,7 @@ const MenuPanel = ({
   return (
     <Menu
       elevation={0}
-      open={contextMenu !== null && search === ""}
+      open={contextMenu !== null}
       onClose={handleClose}
       anchorReference="anchorPosition"
       anchorPosition={
