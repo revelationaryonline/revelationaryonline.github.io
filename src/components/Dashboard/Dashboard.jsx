@@ -164,7 +164,7 @@ function DashboardContent({ loggedIn }) {
       }
       setLoading(false);
     }
-  }, [visible, result, search, verse, count, loading, page, selectedVerse.length]);
+  }, [visible, result, search, verse, count, loading, page]);
 
   // result causes a loop with search
 
@@ -251,10 +251,11 @@ function DashboardContent({ loggedIn }) {
           ? prev.filter((v) => v !== verse)
           : [...prev, verse]
       );
-    } else if (contextMenu === null) {
+    } else if (contextMenu === null ) {
       // If it's not, add it to the selection
       setSelectedVerse([...selectedVerse, verse]);
     }
+
   };
 
   const handleHighlight = (e) => {
@@ -597,7 +598,8 @@ function DashboardContent({ loggedIn }) {
                         ))}
                   </Typography>
 
-                  {verse.length > 1 && (
+                  {verse && verse.length >= 1 && (
+
                     <>
                       <Pagination
                         sx={{
@@ -611,7 +613,7 @@ function DashboardContent({ loggedIn }) {
                               ? theme.palette.grey[100]
                               : theme.palette.grey[900],
                         }}
-                        count={fetchCount(verse[0].book)}
+                        count={fetchCount(verse[0]?.book)}
                         page={page}
                         onChange={(e, value, v) =>
                           handleChange(e, value, verse)

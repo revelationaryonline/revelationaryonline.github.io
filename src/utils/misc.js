@@ -90,143 +90,220 @@ export const handleMouseHover = (e, setHover, setIsShown) => {
   setIsShown(true);
 };
 
-export const fetchCount = async (book) => {
+export const fetchCount = (book) => {
 
-  switch (book) {
-    case 'genesis':
-      return 50;
-    case 'exodus':
-      return 40;
-    case 'leviticus':
-      return 27;
-    case 'numbers':
-      return 36;
-    case 'deuteronomy':
-      return 34;
-    case 'joshua':
-      return 24;
-    case 'judges':
-      return 21;
-    case 'ruth':
-      return 4;
-    case '1 samuel':
-      return 31;
-    case '2 samuel':
-      return 24;
-    case '1 kings':
-      return 22;
-    case '2 kings':
-      return 25;
-    case '1 chronicles':
-      return 29;
-    case '2 chronicles':
-      return 36;
-    case 'ezra':
-      return 10;
-    case 'nehemiah':
-      return 13;
-    case 'esther':
-      return 10;
-    case 'job':
-      return 42;
-    case 'psalms':
-      return 150;
-    case 'proverbs':
-      return 31;
-    case 'ecclesiastes':
-      return 12;
-    case 'song of solomon':
-      return 8;
-    case 'isaiah':
-      return 66;
-    case 'jeremiah':
-      return 52;
-    case 'lamentations':
-      return 5;
-    case 'ezekiel':
-      return 48;
-    case 'daniel':
-      return 12;
-    case 'hosea':
-      return 14;
-    case 'joel':
-      return 3;
-    case 'amos':
-      return 9;
-    case 'obadiah':
-      return 1;
-    case 'jonah':
-      return 4;
-    case 'micah':
-      return 7;
-    case 'nahum':
-      return 3;
-    case 'habakkuk':
-      return 3;
-    case 'zephaniah':
-      return 3;
-    case 'haggai':
-      return 2;
-    case 'zechariah':
-      return 14;
-    case 'malachi':
-      return 4;
-    case 'matthew':
-      return 28;
-    case 'mark':
-      return 16;
-    case 'luke':
-      return 24;
-    case 'john':
-      return 21;
-    case 'acts':
-      return 28;
-    case 'romans':
-      return 16;
-    case '1 corinthians':
-      return 16;
-    case '2 corinthians':
-      return 13;
-    case 'galatians':
-      return 6;
-    case 'ephesians':
-      return 6;
-    case 'philippians':
-      return 4;
-    case 'colossians':
-      return 4;
-    case '1 thessalonians':
-      return 5;
-    case '2 thessalonians':
-      return 3;
-    case '1 timothy':
-      return 6;
-    case '2 timothy':
-      return 4;
-    case 'titus':
-      return 3;
-    case 'philemon':
-      return 1;
-    case 'hebrews':
-      return 13;
-    case 'james':
-      return 5;
-    case '1 peter':
-      return 5;
-    case '2 peter':
-      return 3;
-    case '1 john':
-      return 5;
-    case '2 john':
-      return 1;
-    case '3 john':
-      return 1;
-    case 'jude':
-      return 1;
-    case 'revelation':
-      return 22;  
-    default:
-      break;
+  const bookSources = {
+    genesis: {
+      1: 50
+    },
+    exodus: {
+      1: 40
+    },
+    leviticus: {
+      1: 27
+    },
+    numbers: {
+        1: 36
+    },
+    deuteronomy: {
+        1: 34
+    },
+    joshua: {
+        1: 24
+    },
+    judges: {
+        1: 21
+    },
+    ruth: {
+        1: 4
+    },
+    firstSamuel: {
+        1: 31
+    },
+    secondSamuel: {
+        1: 24
+    },
+    firstKings: {
+        1: 22
+    },
+    secondKings: {
+        1: 25
+    },
+    firstChronicles: {
+        1: 29
+    },
+    secondChronicles: {
+        1: 36
+    },
+    ezra: {
+        1: 10
+    },
+    nehemiah: {
+        1: 13
+    },
+    esther: {
+        1: 10
+    },
+    job: {
+        1: 42
+    },
+    psalms: {
+        1: 150
+    },
+    proverbs: {
+        1: 31
+    },
+    ecclesiastes: {
+        1: 12
+    },
+    songOfSolomon: {
+        1: 8
+    },
+    isaiah: {
+        1: 66
+    },
+    jeremiah: {
+        1: 52
+    },
+    lamentations: {
+        1: 5
+    },
+    ezekiel: {
+        1: 48
+    },
+    daniel: {
+        1: 12
+    },
+    hosea: {
+        1: 14
+    },
+    joel: {
+        1: 3
+    },
+    amos: {
+        1: 9
+    },
+    obadiah: {
+        1: 1
+    },
+    jonah: {
+        1: 4
+    },
+    micah: {
+        1: 7
+    },
+    nahum: {
+        1: 3
+    },
+    habakkuk: {
+        1: 3
+    },
+    zephaniah: {
+        1: 3
+    },
+    haggai: {
+        1: 2
+    },
+    zechariah: {
+        1: 14
+    },
+    malachi: {
+        1: 4
+    },
+    matthew: {
+        1: 28
+    },
+    mark: {
+        1: 16
+    },
+    luke: {
+        1: 24
+    },
+    john: {
+        1: 21
+    },
+    acts: {
+        1: 28
+    },
+    romans: {
+        1: 16
+    },
+    firstCorinthians: {
+        1: 16
+    },
+    secondCorinthians: {
+        1: 13
+    },
+    galatians: {
+        1: 6
+    },
+    ephesians: {
+        1: 6
+    },
+    philippians: {
+        1: 4
+    },
+    colossians: {
+        1: 4
+    },
+    firstThessalonians: {
+        1: 5
+    },
+    secondThessalonians: {
+        1: 3
+    },
+    firstTimothy: {
+        1: 6
+    },
+    secondTimothy: {
+        1: 4
+    },
+    titus: {
+        1: 3
+    },
+    philemon: {
+        1: 1
+    },
+    hebrews: {
+        1: 13
+    },
+    james: {
+        1: 5
+    },
+    firstPeter: {
+        1: 5
+    },
+    secondPeter: {
+        1: 3
+    },
+    firstJohn: {
+        1: 5
+    },
+    secondJohn: {
+        1: 1
+    },
+    thirdJohn: {
+        1: 1
+    },
+    jude: {
+        1: 1
+    },
+    revelation: {
+        1: 22
+    }
+  };
+
+  if (!book) {
+    console.log("Missing book or chapter:", book );
+    return "";
+  }
+
+  // Trim spaces and make sure the format is correct
+  const cleanBook = book.trim().replace(/\s+/g, "-").toLowerCase();
+  // const cleanChapter = chapter.toString().trim();
+
+  if (bookSources[cleanBook]) {
+      return bookSources[cleanBook][1]
   }
 
 }

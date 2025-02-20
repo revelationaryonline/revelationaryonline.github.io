@@ -184,7 +184,11 @@
   display: none !important;
 }
 
+:root {
+  --highlight-color: yellow;
+}
+
 .highlight span.verse__text {
-  background-color: yellow !important;
+  background-color: var(--highlight-color) !important;
   color: black;
 }
