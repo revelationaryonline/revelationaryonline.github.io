@@ -5,6 +5,7 @@ import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import Link from '@mui/material/Link';
 import Box from '@mui/material/Box';
+import heroPost from "../../assets/hero-post.jpg"
 
 const MainFeaturedPost = (props) => {
     const { post } = props;
@@ -19,20 +20,23 @@ const MainFeaturedPost = (props) => {
         <Paper
             sx={{
                 position: 'relative',
-                backgroundColor: 'grey.800',
+                backgroundColor: 'grey.900',
                 color: '#fff',
                 mb: 4,
+                mt: 4,
                 backgroundSize: 'cover',
                 backgroundRepeat: 'no-repeat',
-                backgroundPosition: 'center',
-                backgroundImage: `url(${post && post?.post_thumbnail?.URL})`,
+                backgroundPosition: 'top',
+                // backgroundImage: `url(${post && post?.post_thumbnail?.URL})`,
+                backgroundImage: `url(${heroPost})`,
                 opacity: 1,
                 height: '100%',
+                borderRadius: '15px',
             }}
             elevation={3}
         >
             {/* Increase the priority of the hero background image */}
-            {<img style={{ display: 'none' }} src={post && post?.post_thumbnail?.URL} alt={'post'} />}
+            {<img style={{ display: 'none', borderRadius: '15px' }} src={post && post?.post_thumbnail?.URL} alt={'post'} />}
             <Box
                 sx={{
                     position: 'absolute',
@@ -41,6 +45,7 @@ const MainFeaturedPost = (props) => {
                     right: 0,
                     left: 0,
                     backgroundColor: 'rgba(0,0,0,.3)',
+                    borderRadius: '15px'
                 }}
             />
             <Grid container>
@@ -52,13 +57,16 @@ const MainFeaturedPost = (props) => {
                             pr: { md: 0 },
                         }}
                     >
-                        <Typography component="h1" variant="h3" color="inherit" gutterBottom lineHeight={1.1}>
+                        <Typography component="p" variant="p" color="#a1a1a1" gutterBottom lineHeight={1.1}>
+                           Featured Verse
+                        </Typography>
+                        <Typography component="h1" variant="h4" color="inherit" gutterBottom lineHeight={1.1}>
                             {post && post?.title}
                         </Typography>
-                        <Typography variant="h5" color="inherit" paragraph lineHeight={1} fontSize={'1.2rem'}>
+                        <Typography variant="h5" color="inherit" paragraph lineHeight={1} fontSize={'1rem'}>
                             {post && extractContent(post?.excerpt)}
                         </Typography>
-                        <Link variant="subtitle1" href={`${post && post?.URL}`}>
+                        <Link variant="subtitle1" sx={{ fontSize: '15px'}} color="#a1a1a1" href={`${post && post?.URL}`}>
                             {'Continue Reading...'}
                         </Link>
                     </Box>

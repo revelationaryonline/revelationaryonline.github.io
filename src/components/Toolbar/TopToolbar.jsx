@@ -85,13 +85,13 @@ const TopToolbar = ({
               <TextDecreaseIcon />
             </IconButton>
           </Tooltip>
+          <HighlightColorSelect />
           <Divider
             orientation="vertical"
             paddingX={"1rem"}
             flexItem
             variant={"middle"}
           />
-          <HighlightColorSelect />
           <FullscreenButton />
           {/* <Tooltip title="Comments">
           <IconButton onClick={() => handleAddComment()}

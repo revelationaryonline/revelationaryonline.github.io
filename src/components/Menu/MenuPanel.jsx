@@ -31,6 +31,11 @@ const MenuPanel = ({
     await handleClose();
   };
 
+  const handleShare = async () => {
+    await navigator.clipboard.writeText(selectedVerse[0].text);
+    await handleClose();
+  };
+
   return (
     <Menu
       elevation={0}
@@ -53,7 +58,25 @@ const MenuPanel = ({
           </ListItemIcon>
           <ListItemText>Copy</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            ⌘C
+            {/* ⌘C */}
+          </Typography>
+        </MenuItem>
+        <MenuItem onClick={handleClose}>
+          <ListItemIcon>
+            <FavoriteIcon fontSize="small" />
+          </ListItemIcon>
+          <ListItemText>Save</ListItemText>
+          <Typography variant="body2" color="text.secondary">
+            {/* ⌘S */}
+          </Typography>
+        </MenuItem>
+        <MenuItem onClick={handleClose}>
+          <ListItemIcon>
+            <AddLinkIcon fontSize="small" />
+          </ListItemIcon>
+          <ListItemText>Link</ListItemText>
+          <Typography variant="body2" color="text.secondary">
+            {/* ⌘L */}
           </Typography>
         </MenuItem>
         <MenuItem onClick={(e) => handleHighlight(e)}>
@@ -66,54 +89,27 @@ const MenuPanel = ({
               : "Highlight"}
           </ListItemText>
           <Typography variant="body2" color="text.secondary">
-            ⌘H
+            {/* ⌘H */}
           </Typography>
         </MenuItem>
-        {/* <MenuItem onClick={handleClose}>
-          <ListItemIcon>
-            <FavoriteIcon fontSize="small" />
-          </ListItemIcon>
-          <ListItemText>Save</ListItemText>
-          <Typography variant="body2" color="text.secondary">
-            ⌘S
-          </Typography>
-        </MenuItem> */}
-        {/* <MenuItem onClick={handleClose}>
-          <ListItemIcon>
-            <AddLinkIcon fontSize="small" />
-          </ListItemIcon>
-          <ListItemText>Link</ListItemText>
-          <Typography variant="body2" color="text.secondary">
-            ⌘L
-          </Typography>
-        </MenuItem> */}
-        {/* <MenuItem onClick={() => handleHighlight()}>
-          <ListItemIcon>
-            <BorderColorIcon fontSize="small" />
-          </ListItemIcon>
-          <ListItemText>Highlight</ListItemText>
-          <Typography variant="body2" color="text.secondary">
-            ⌘H
-          </Typography>
-        </MenuItem> */}
-        {/* <MenuItem onClick={handleClose}>
+        <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <AttachFileIcon fontSize="small" />
           </ListItemIcon>
           <ListItemText>Attach</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            ⌘A
+            {/* ⌘A */}
           </Typography>
-        </MenuItem> */}
-        {/* <MenuItem onClick={() => handleShare()}>
+        </MenuItem>
+        <MenuItem onClick={() => handleShare()}>
           <ListItemIcon>
             <ShareIcon fontSize="small" />
           </ListItemIcon>
           <ListItemText>Share</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            ⌘O
+            {/* ⌘O */}
           </Typography>
-        </MenuItem> */}
+        </MenuItem>
       </MenuList>
     </Menu>
   );

@@ -17,6 +17,7 @@ import Modal from "@mui/material/Modal";
 import Fade from "@mui/material/Fade";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
+import { Divider } from "@mui/material";
 
 const sections = [
   { title: "Technology", url: "#" },
@@ -34,7 +35,7 @@ const sections = [
 const sidebar = {
   title: "About",
   description:
-    "Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.",
+    "• Our Journey",
   archives: [{ title: "September 2023", url: "#" }],
   social: [
     { name: "GitHub", icon: GitHubIcon },
@@ -66,12 +67,18 @@ export const Blog = () => {
   const [error, setError] = useState(null);
 
   const fetchPosts = async () => {
-    fetch(`https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts`)
+    fetch(`https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts?number=50`) // Fetch more posts
       .then((res) => res.json())
       .then(
         (result) => {
           setLoading(false);
-          setPosts(result.posts);
+          if (result.posts) {
+            // Sort posts by comment count (highest first)
+            const sortedPosts = result.posts.sort((a, b) => b.comment_count - a.comment_count);
+            
+            // Get the top 9 most commented posts
+            setPosts(sortedPosts.slice(0, 9));
+          }
         },
         (error) => {
           setLoading(false);
@@ -87,35 +94,52 @@ export const Blog = () => {
   return (
     <ThemeProvider theme={defaultTheme}>
       <CssBaseline />
-      <Container
-        maxWidth="lg"
-        sx={{
-          backgroundColor: (theme) =>
-            theme.palette.mode === "light"
-              ? theme.palette.grey[100]
-              : theme.palette.grey[900],
-        }}
-      >
+      <Container maxWidth="lg">
         <Header title="Blog" sections={sections} theme={defaultTheme} />
         <main>
           <MainFeaturedPost
-            post={posts.length > 0 && posts.filter((item) => item.ID === 38)[0]}
+            post={posts.length > 0 && posts.filter((item) => item.ID !== 38)[0]}
           />
-          <Grid container spacing={4}>
-            {posts &&
-              posts?.map((post) => (
-                <FeaturedPost key={post?.title} post={post} />
-              ))}
+                  <Typography
+          component="h2"
+          variant="h5"
+          color="inherit"
+          align="center"
+          noWrap
+          sx={{ 
+            flex: 1,
+            display: "flex",
+            mt: 3,
+            mb:1,
+            ml: 1,
+            fontSize: "1rem",
+            textDecoration: "none",
+            color: "#a1a1a1",
+           }}
+        >Trending Verses:</Typography>
+          <Grid container spacing={0}  ml={1} >
+            {/* Left Side - 75% width */}
+            <Grid container xs={12} md={9} mt={0} ml={-2} spacing={2}>
+              {posts &&
+                posts.map((post) => (
+                  <FeaturedPost key={post?.title} post={post} />
+                ))}
+            </Grid>
+
+            {/* Right Side - 25% width */}
+            <Grid item xs={12} md={3} justifyItems={'center'}>
+              <Box sx={{ mt: 2, mx: 4 }}>
+                <Main title="Further Reading" posts={posts} />
+                <SidePanel
+                  title={sidebar.title}
+                  description={sidebar.description}
+                  archives={sidebar.archives}
+                  social={sidebar.social}
+                />
+              </Box>
+            </Grid>
           </Grid>
-          <Grid container spacing={5} sx={{ mt: 3 }}>
-            <Main title="Further Reading" posts={posts && posts} />
-            <SidePanel
-              title={sidebar.title}
-              description={sidebar.content}
-              archives={sidebar.archives}
-              social={sidebar.social}
-            />
-          </Grid>
+          <Box my={10} />
         </main>
       </Container>
     </ThemeProvider>
