@@ -13,6 +13,7 @@ import AlertDialogSlide from "../Modal/Modal";
 import { Divider, Box } from "@mui/material";
 import DonateButton from "../DonateButton/DonateButton";
 import FullscreenButton from "../FullScreenButton/FullScreenButton";
+import HighlightColorSelect from "../HighlightSelect/HighlightColorSelect";
 
 const TopToolbar = ({
   handleColumns,
@@ -90,6 +91,7 @@ const TopToolbar = ({
             flexItem
             variant={"middle"}
           />
+          <HighlightColorSelect />
           <FullscreenButton />
           {/* <Tooltip title="Comments">
           <IconButton onClick={() => handleAddComment()}

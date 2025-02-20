@@ -19,7 +19,7 @@ import InsertLinkIcon from "@mui/icons-material/InsertLink";
 
 import { drawerWidth } from "../../utils/constants";
 import { mdTheme } from "../../utils/misc";
-import { MouseOutlined, PolylineOutlined, ScreenSearchDesktopSharp } from "@mui/icons-material";
+import { HighlightAlt, MouseOutlined, PolylineOutlined, ScreenSearchDesktopSharp } from "@mui/icons-material";
 
 const Drawer = styled(MuiDrawer, {
   shouldForwardProp: (prop) => prop !== "open",
@@ -124,7 +124,8 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
           </ListItem>
           <ListItem>
             <ListItemIcon>
-              <PolylineOutlined />
+              {/* <PolylineOutlined />- Save this for linked verses */}
+              <HighlightAlt />
             </ListItemIcon>
             <ListItemText id="switch-list-label-guide" primary="Guide" />
             <Switch
