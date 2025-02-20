@@ -14,6 +14,9 @@ import { Divider, Box } from "@mui/material";
 import DonateButton from "../DonateButton/DonateButton";
 import FullscreenButton from "../FullScreenButton/FullScreenButton";
 import HighlightColorSelect from "../HighlightSelect/HighlightColorSelect";
+import ShortTextIcon from '@mui/icons-material/ShortText';
+import BookmarksIcon from '@mui/icons-material/Bookmarks';
+import CommentBankOutlinedIcon from '@mui/icons-material/CommentBankOutlined';
 
 const TopToolbar = ({
   handleColumns,
@@ -26,7 +29,7 @@ const TopToolbar = ({
   };
 
   return (
-    <Toolbar sx={{ marginBottom: 2 }}>
+    <Toolbar sx={{ mb: 2.3, mt: -0.075 }}>
       <ButtonGroup
         variant="outlined"
         aria-label="outlined button group"
@@ -35,7 +38,6 @@ const TopToolbar = ({
         <Box position={"relative"} display={"flex"}>
           {/* Help Modal */}
           <AlertDialogSlide />
-          <DonateButton />
           <Divider
             orientation="vertical"
             paddingX={"1rem"}
@@ -86,6 +88,20 @@ const TopToolbar = ({
             </IconButton>
           </Tooltip>
           <HighlightColorSelect />
+          {/* <Tooltip title="Highlighted Verses" fontSize={"small"}>
+            <IconButton
+              // onClick={() => handleFontSize(-1)}
+              sx={{
+                opacity: 0.75,
+                "&.MuiIconButton-root:hover": {
+                  backgroundColor: "rgba(0, 0, 0, 0.00)",
+                  opacity: 1,
+                },
+              }}
+            >
+              <ShortTextIcon />
+            </IconButton>
+          </Tooltip> */}
           <Divider
             orientation="vertical"
             paddingX={"1rem"}
@@ -133,6 +149,7 @@ const TopToolbar = ({
               <RefreshIcon fontSize={"medium"} />
             </IconButton>
           </Tooltip>
+          <DonateButton />
         </Box>
       </ButtonGroup>
     </Toolbar>
