@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.077e8061.css",
-    "main.js": "/static/js/main.ce61bfb3.js",
+    "main.css": "/static/css/main.47519b2a.css",
+    "main.js": "/static/js/main.b0c15a9e.js",
     "static/media/hero-post.jpg": "/static/media/hero-post.9938210f1cbedea18f6b.jpg",
     "static/media/logo.jpg": "/static/media/logo.20e67479f99ebb2e01e3.jpg",
     "static/media/tomb.png": "/static/media/tomb.ac190c5a996293914374.png",
     "static/media/logo512.png": "/static/media/logo512.53a3103fe0b3b04ba72c.png",
     "index.html": "/index.html",
-    "main.077e8061.css.map": "/static/css/main.077e8061.css.map",
-    "main.ce61bfb3.js.map": "/static/js/main.ce61bfb3.js.map"
+    "main.47519b2a.css.map": "/static/css/main.47519b2a.css.map",
+    "main.b0c15a9e.js.map": "/static/js/main.b0c15a9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.077e8061.css",
-    "static/js/main.ce61bfb3.js"
+    "static/css/main.47519b2a.css",
+    "static/js/main.b0c15a9e.js"
   ]
 }
