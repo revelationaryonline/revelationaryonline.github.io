@@ -193,8 +193,13 @@
   color: black;
 }
 
-#svg-jesus {
+.light-svg {
   filter: invert(0.75) contrast(1.65);
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.dark-svg {
+  filter: invert(0.15) contrast(1.65);
   -webkit-font-smoothing: subpixel-antialiased;
 }
 

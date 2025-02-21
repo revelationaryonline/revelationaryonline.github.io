@@ -45,7 +45,7 @@ const sidebar = {
 };
 
 // TODO remove, this demo shouldn't need to reset the theme.
-const defaultTheme = createTheme();
+// const defaultTheme = createTheme();
 
 export const Blog = () => {
   // const posts = [post1, post2, post3];
@@ -84,10 +84,10 @@ export const Blog = () => {
   }, []);
 
   return (
-    <ThemeProvider theme={defaultTheme}>
+    <ThemeProvider>
       <CssBaseline />
       <Container maxWidth="lg">
-        <Header title="Blog" sections={sections} theme={defaultTheme} />
+        <Header title="Blog" sections={sections} />
         <main>
         <Typography
             component="h2"
@@ -108,8 +108,12 @@ export const Blog = () => {
           >
             {/* {posts.length > 0 && posts.filter((item) => item.ID !== 38)[0].title} */}
           </Typography>
-
+            <Box
+            sx={{ border: '1px solid #a1a1a1'}}
+            elevation={5}
+            >
             <GraphicTextEffect id="svg-jesus" text="JESUS" />
+            </Box>
             <Typography
             component="h2"
             variant="h5"
