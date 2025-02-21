@@ -192,3 +192,14 @@
   background-color: var(--highlight-color) !important;
   color: black;
 }
+
+#svg-jesus {
+  filter: invert(0.75) contrast(1.65);
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+/* #svg-jesus {
+  filter: invert(1) contrast(2);
+  -webkit-font-smoothing: subpixel-antialiased;
+  opacity: 0.75;
+} */

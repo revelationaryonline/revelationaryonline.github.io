@@ -65,7 +65,7 @@ export default function App() {
 
   return (
     <ThemeProvider theme={theme}>
-      <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : 'background.default', minHeight: '100vh', }}>
+      <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
       <div className="App">
         <Header loggedIn={loggedIn} />
         <Routes>

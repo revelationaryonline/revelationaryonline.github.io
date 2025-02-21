@@ -18,6 +18,7 @@ import Fade from "@mui/material/Fade";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import { Divider } from "@mui/material";
+import GraphicTextEffect from "../components/GraphicTextEffect/GraphicTextEffect";
 
 const sections = [
   { title: "Technology", url: "#" },
@@ -34,8 +35,7 @@ const sections = [
 
 const sidebar = {
   title: "About",
-  description:
-    "• Our Journey",
+  description: "",
   archives: [{ title: "September 2023", url: "#" }],
   social: [
     { name: "GitHub", icon: GitHubIcon },
@@ -47,18 +47,6 @@ const sidebar = {
 // TODO remove, this demo shouldn't need to reset the theme.
 const defaultTheme = createTheme();
 
-const style = {
-  position: "absolute",
-  top: "50%",
-  left: "50%",
-  transform: "translate(-50%, -50%)",
-  width: 400,
-  bgcolor: "background.paper",
-  border: "2px solid #000",
-  boxShadow: 24,
-  p: 4,
-};
-
 export const Blog = () => {
   // const posts = [post1, post2, post3];
 
@@ -67,15 +55,19 @@ export const Blog = () => {
   const [error, setError] = useState(null);
 
   const fetchPosts = async () => {
-    fetch(`https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts?number=50`) // Fetch more posts
+    fetch(
+      `https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts?number=50`
+    ) // Fetch more posts
       .then((res) => res.json())
       .then(
         (result) => {
           setLoading(false);
           if (result.posts) {
             // Sort posts by comment count (highest first)
-            const sortedPosts = result.posts.sort((a, b) => b.comment_count - a.comment_count);
-            
+            const sortedPosts = result.posts.sort(
+              (a, b) => b.comment_count - a.comment_count
+            );
+
             // Get the top 9 most commented posts
             setPosts(sortedPosts.slice(0, 9));
           }
@@ -97,27 +89,73 @@ export const Blog = () => {
       <Container maxWidth="lg">
         <Header title="Blog" sections={sections} theme={defaultTheme} />
         <main>
+        <Typography
+            component="h2"
+            variant="h5"
+            color="inherit"
+            align="center"
+            noWrap
+            sx={{
+              flex: 1,
+              display: "flex",
+              fontSize: '16px',
+              mt: 2,
+              mb: 0,
+              ml: 1,
+              textDecoration: "none",
+              color: "#a1a1a1",
+            }}
+          >
+            {/* {posts.length > 0 && posts.filter((item) => item.ID !== 38)[0].title} */}
+          </Typography>
+
+            <GraphicTextEffect id="svg-jesus" text="JESUS" />
+            <Typography
+            component="h2"
+            variant="h5"
+            color="inherit"
+            align="center"
+            noWrap
+            sx={{
+              width: '100%',
+              // flex: 1,
+              // display: "flex",
+              mt: -12,
+              mb: 12,
+              ml: 1,
+              fontSize: "0.9rem",
+              textDecoration: "none",
+              color: "#a1a1a1",
+            }}
+          >
+           - IS KING -
+          </Typography>
+            
+
+
           <MainFeaturedPost
             post={posts.length > 0 && posts.filter((item) => item.ID !== 38)[0]}
           />
-                  <Typography
-          component="h2"
-          variant="h5"
-          color="inherit"
-          align="center"
-          noWrap
-          sx={{ 
-            flex: 1,
-            display: "flex",
-            mt: 3,
-            mb:1,
-            ml: 1,
-            fontSize: "1rem",
-            textDecoration: "none",
-            color: "#a1a1a1",
-           }}
-        >Trending Verses:</Typography>
-          <Grid container spacing={0}  ml={1} >
+          <Typography
+            component="h2"
+            variant="h5"
+            color="inherit"
+            align="center"
+            noWrap
+            sx={{
+              flex: 1,
+              display: "flex",
+              mt: 3,
+              mb: 1,
+              ml: 1,
+              fontSize: "0.9rem",
+              textDecoration: "none",
+              color: "#a1a1a1",
+            }}
+          >
+            Trending Verses:
+          </Typography>
+          <Grid container spacing={0} ml={1}>
             {/* Left Side - 75% width */}
             <Grid container xs={12} md={9} mt={0} ml={-2} spacing={2}>
               {posts &&
@@ -127,7 +165,7 @@ export const Blog = () => {
             </Grid>
 
             {/* Right Side - 25% width */}
-            <Grid item xs={12} md={3} justifyItems={'center'}>
+            <Grid item xs={12} md={3} justifyItems={"center"}>
               <Box sx={{ mt: 2, mx: 4 }}>
                 <Main title="Further Reading" posts={posts} />
                 <SidePanel
