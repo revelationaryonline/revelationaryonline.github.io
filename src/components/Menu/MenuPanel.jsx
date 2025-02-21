@@ -61,24 +61,24 @@ const MenuPanel = ({
             {/* ⌘C */}
           </Typography>
         </MenuItem>
-        <MenuItem onClick={handleClose}>
+        {/* <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <FavoriteIcon fontSize="small" />
           </ListItemIcon>
           <ListItemText>Save</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            {/* ⌘S */}
+            ⌘S
           </Typography>
-        </MenuItem>
-        <MenuItem onClick={handleClose}>
+        </MenuItem> */}
+        {/* <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <AddLinkIcon fontSize="small" />
           </ListItemIcon>
           <ListItemText>Link</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            {/* ⌘L */}
+            ⌘L
           </Typography>
-        </MenuItem>
+        </MenuItem> */}
         <MenuItem onClick={(e) => handleHighlight(e)}>
           <ListItemIcon>
             <BorderColorIcon fontSize="small" />
@@ -92,13 +92,13 @@ const MenuPanel = ({
             {/* ⌘H */}
           </Typography>
         </MenuItem>
-        <MenuItem onClick={handleClose}>
+        {/* <MenuItem onClick={handleClose}>
           <ListItemIcon>
             <AttachFileIcon fontSize="small" />
           </ListItemIcon>
           <ListItemText>Attach</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            {/* ⌘A */}
+            ⌘A
           </Typography>
         </MenuItem>
         <MenuItem onClick={() => handleShare()}>
@@ -107,9 +107,9 @@ const MenuPanel = ({
           </ListItemIcon>
           <ListItemText>Share</ListItemText>
           <Typography variant="body2" color="text.secondary">
-            {/* ⌘O */}
+            ⌘O
           </Typography>
-        </MenuItem>
+        </MenuItem> */}
       </MenuList>
     </Menu>
   );
