@@ -108,7 +108,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
           // subheader={<ListSubheader>Settings</ListSubheader>}
         >
           <ListItem>
-            <ListItemIcon>
+            <ListItemIcon sx={{ pl: 0.75}}>
               <SearchIcon />
             </ListItemIcon>
             <ListItemText id="switch-list-label-search" primary="Search" />
@@ -123,7 +123,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             />
           </ListItem>
           <ListItem>
-            <ListItemIcon>
+            <ListItemIcon sx={{ pl: 0.75}}>
               {/* <PolylineOutlined />- Save this for linked verses */}
               <HighlightAlt />
             </ListItemIcon>
