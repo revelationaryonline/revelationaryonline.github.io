@@ -317,10 +317,10 @@ function DashboardContent({ loggedIn }) {
               label="Search"
               id="searchBar"
               sx={{
-                width: "auto",
+                width: 'auto',
                 display: "flex",
                 mx: 3,
-                marginTop: "-0.5rem",                
+                marginTop: "-0.98rem",                
                 WebkitBoxShadow: "none !important",
                 // Target the fieldset to change the border color
                 "& .Mui-focused": {
@@ -390,7 +390,7 @@ function DashboardContent({ loggedIn }) {
           {/* *** */}
           {/* Main bible text */}
           {/* ROUTES */}
-          <Container maxWidth="lg" sx={{ mt: 4.5, mb: 4 }}>
+          <Container maxWidth="lg" sx={{ mt: 3, mb: 4 }}>
             <Grid container spacing={3}>
               <Grid
                 item

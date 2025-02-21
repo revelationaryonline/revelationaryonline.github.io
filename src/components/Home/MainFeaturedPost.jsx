@@ -22,8 +22,8 @@ const MainFeaturedPost = (props) => {
                 position: 'relative',
                 backgroundColor: 'grey.900',
                 color: '#fff',
-                mb: 4,
-                mt: 4,
+                mt: 2,
+                mb: 6,
                 backgroundSize: 'cover',
                 backgroundRepeat: 'no-repeat',
                 backgroundPosition: 'top',
@@ -33,7 +33,7 @@ const MainFeaturedPost = (props) => {
                 height: '100%',
                 borderRadius: '15px',
             }}
-            elevation={3}
+            elevation={5}
         >
             {/* Increase the priority of the hero background image */}
             {<img style={{ display: 'none', borderRadius: '15px' }} src={post && post?.post_thumbnail?.URL} alt={'post'} />}
