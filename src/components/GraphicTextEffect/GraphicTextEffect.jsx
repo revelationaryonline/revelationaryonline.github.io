@@ -1,5 +1,5 @@
 import React from "react";
-import { SvgIcon, useTheme } from "@mui/material";
+import { Link, SvgIcon, useTheme } from "@mui/material";
 
 const GraphicTextEffect = ({
   text = "STATES",
@@ -14,6 +14,7 @@ const GraphicTextEffect = ({
   const computedFontSize = fontSize || width * 0.15; // 15% of width
 
   return (
+    <Link href="#">
     <svg
       width="100%"
       height="100%"
@@ -21,6 +22,7 @@ const GraphicTextEffect = ({
       preserveAspectRatio="xMidYMid meet"
       xmlns="http://www.w3.org/2000/svg"
       id={id}
+      className={theme && isDarkMode ? "light-svg" : "dark-svg"}
       sx={{ background: "transparent", overflow: "visible" }}
     >
       <defs>
@@ -106,7 +108,7 @@ const GraphicTextEffect = ({
       <text
         dominantBaseline="middle"
         textAnchor="middle"
-        x="50%"
+        x="48.5%"
         y="50%"
         fontSize={computedFontSize}
         style={{
@@ -119,6 +121,7 @@ const GraphicTextEffect = ({
         {text}
       </text>
     </svg>
+    </Link>
   );
 };
 
