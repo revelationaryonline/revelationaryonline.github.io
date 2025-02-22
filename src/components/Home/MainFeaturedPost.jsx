@@ -40,6 +40,7 @@ const MainFeaturedPost = (props) => {
             <Box
                 sx={{
                     position: 'absolute',
+                    mt: 0,
                     top: 0,
                     bottom: 0,
                     right: 0,

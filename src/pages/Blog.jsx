@@ -100,7 +100,7 @@ export const Blog = () => {
               display: "flex",
               fontSize: '16px',
               mt: 2,
-              mb: 0,
+              mb: 2,
               ml: 1,
               textDecoration: "none",
               color: "#a1a1a1",
@@ -113,8 +113,10 @@ export const Blog = () => {
             elevation={5}
             >
             <GraphicTextEffect id="svg-jesus" text="JESUS" />
+            
             </Box>
             <Typography
+            className="svg__sub-heading"
             component="h2"
             variant="h5"
             color="inherit"
@@ -124,16 +126,14 @@ export const Blog = () => {
               width: '100%',
               // flex: 1,
               // display: "flex",
-              mt: -12,
-              mb: 12,
-              ml: 1,
+              mt: {xs: -4, md:-10},
+              mb: {xs: 8, md: 14},
+              ml: 0,
               fontSize: "0.9rem",
               textDecoration: "none",
               color: "#a1a1a1",
             }}
-          >
-           - IS KING -
-          </Typography>
+          >IS KING</Typography>
             
 
 
