@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Dialog, DialogContent, IconButton, Tooltip } from "@mui/material";
-import { AttachMoneyOutlined } from "@mui/icons-material";
+import VolunteerActivismIcon from '@mui/icons-material/VolunteerActivism';
 
 const DonateButton = () => {
   const [open, setOpen] = useState(false);
@@ -19,7 +19,7 @@ const DonateButton = () => {
             },
           }}
         >
-          <AttachMoneyOutlined fontSize={"small"} />
+          <VolunteerActivismIcon fontSize={"small"} />
         </IconButton>
       </Tooltip>
 

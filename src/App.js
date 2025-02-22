@@ -73,7 +73,7 @@ export default function App() {
           <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
           <Route path="/account" element={<Account loggedIn={loggedIn} />} />
           <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
-          <Route path="/login" element={<LoginPage />} />
+          <Route path="/login" element={<LoginPage  />} />
         </Routes>
         {/* <Footer
           title="revelationary"

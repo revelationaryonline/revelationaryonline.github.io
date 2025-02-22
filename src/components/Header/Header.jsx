@@ -27,6 +27,8 @@ import {
   PersonOutline,
   SettingsOutlined,
 } from "@mui/icons-material";
+import VolunteerActivismIcon from '@mui/icons-material/VolunteerActivism';
+
 import { Divider } from "@mui/material";
 
 import logo from "../../assets/logo512.png";
