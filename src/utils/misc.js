@@ -90,208 +90,208 @@ export const handleMouseHover = (e, setHover, setIsShown) => {
   setIsShown(true);
 };
 
-export const fetchCount = (book) => {
+const bookSources = {
+  genesis: {
+    1: 50
+  },
+  exodus: {
+    1: 40
+  },
+  leviticus: {
+    1: 27
+  },
+  numbers: {
+      1: 36
+  },
+  deuteronomy: {
+      1: 34
+  },
+  joshua: {
+      1: 24
+  },
+  judges: {
+      1: 21
+  },
+  ruth: {
+      1: 4
+  },
+  firstSamuel: {
+      1: 31
+  },
+  secondSamuel: {
+      1: 24
+  },
+  firstKings: {
+      1: 22
+  },
+  secondKings: {
+      1: 25
+  },
+  firstChronicles: {
+      1: 29
+  },
+  secondChronicles: {
+      1: 36
+  },
+  ezra: {
+      1: 10
+  },
+  nehemiah: {
+      1: 13
+  },
+  esther: {
+      1: 10
+  },
+  job: {
+      1: 42
+  },
+  psalms: {
+      1: 150
+  },
+  proverbs: {
+      1: 31
+  },
+  ecclesiastes: {
+      1: 12
+  },
+  songOfSolomon: {
+      1: 8
+  },
+  isaiah: {
+      1: 66
+  },
+  jeremiah: {
+      1: 52
+  },
+  lamentations: {
+      1: 5
+  },
+  ezekiel: {
+      1: 48
+  },
+  daniel: {
+      1: 12
+  },
+  hosea: {
+      1: 14
+  },
+  joel: {
+      1: 3
+  },
+  amos: {
+      1: 9
+  },
+  obadiah: {
+      1: 1
+  },
+  jonah: {
+      1: 4
+  },
+  micah: {
+      1: 7
+  },
+  nahum: {
+      1: 3
+  },
+  habakkuk: {
+      1: 3
+  },
+  zephaniah: {
+      1: 3
+  },
+  haggai: {
+      1: 2
+  },
+  zechariah: {
+      1: 14
+  },
+  malachi: {
+      1: 4
+  },
+  matthew: {
+      1: 28
+  },
+  mark: {
+      1: 16
+  },
+  luke: {
+      1: 24
+  },
+  john: {
+      1: 21
+  },
+  acts: {
+      1: 28
+  },
+  romans: {
+      1: 16
+  },
+  firstCorinthians: {
+      1: 16
+  },
+  secondCorinthians: {
+      1: 13
+  },
+  galatians: {
+      1: 6
+  },
+  ephesians: {
+      1: 6
+  },
+  philippians: {
+      1: 4
+  },
+  colossians: {
+      1: 4
+  },
+  firstThessalonians: {
+      1: 5
+  },
+  secondThessalonians: {
+      1: 3
+  },
+  firstTimothy: {
+      1: 6
+  },
+  secondTimothy: {
+      1: 4
+  },
+  titus: {
+      1: 3
+  },
+  philemon: {
+      1: 1
+  },
+  hebrews: {
+      1: 13
+  },
+  james: {
+      1: 5
+  },
+  firstPeter: {
+      1: 5
+  },
+  secondPeter: {
+      1: 3
+  },
+  firstJohn: {
+      1: 5
+  },
+  secondJohn: {
+      1: 1
+  },
+  thirdJohn: {
+      1: 1
+  },
+  jude: {
+      1: 1
+  },
+  revelation: {
+      1: 22
+  }
+};
 
-  const bookSources = {
-    genesis: {
-      1: 50
-    },
-    exodus: {
-      1: 40
-    },
-    leviticus: {
-      1: 27
-    },
-    numbers: {
-        1: 36
-    },
-    deuteronomy: {
-        1: 34
-    },
-    joshua: {
-        1: 24
-    },
-    judges: {
-        1: 21
-    },
-    ruth: {
-        1: 4
-    },
-    firstSamuel: {
-        1: 31
-    },
-    secondSamuel: {
-        1: 24
-    },
-    firstKings: {
-        1: 22
-    },
-    secondKings: {
-        1: 25
-    },
-    firstChronicles: {
-        1: 29
-    },
-    secondChronicles: {
-        1: 36
-    },
-    ezra: {
-        1: 10
-    },
-    nehemiah: {
-        1: 13
-    },
-    esther: {
-        1: 10
-    },
-    job: {
-        1: 42
-    },
-    psalms: {
-        1: 150
-    },
-    proverbs: {
-        1: 31
-    },
-    ecclesiastes: {
-        1: 12
-    },
-    songOfSolomon: {
-        1: 8
-    },
-    isaiah: {
-        1: 66
-    },
-    jeremiah: {
-        1: 52
-    },
-    lamentations: {
-        1: 5
-    },
-    ezekiel: {
-        1: 48
-    },
-    daniel: {
-        1: 12
-    },
-    hosea: {
-        1: 14
-    },
-    joel: {
-        1: 3
-    },
-    amos: {
-        1: 9
-    },
-    obadiah: {
-        1: 1
-    },
-    jonah: {
-        1: 4
-    },
-    micah: {
-        1: 7
-    },
-    nahum: {
-        1: 3
-    },
-    habakkuk: {
-        1: 3
-    },
-    zephaniah: {
-        1: 3
-    },
-    haggai: {
-        1: 2
-    },
-    zechariah: {
-        1: 14
-    },
-    malachi: {
-        1: 4
-    },
-    matthew: {
-        1: 28
-    },
-    mark: {
-        1: 16
-    },
-    luke: {
-        1: 24
-    },
-    john: {
-        1: 21
-    },
-    acts: {
-        1: 28
-    },
-    romans: {
-        1: 16
-    },
-    firstCorinthians: {
-        1: 16
-    },
-    secondCorinthians: {
-        1: 13
-    },
-    galatians: {
-        1: 6
-    },
-    ephesians: {
-        1: 6
-    },
-    philippians: {
-        1: 4
-    },
-    colossians: {
-        1: 4
-    },
-    firstThessalonians: {
-        1: 5
-    },
-    secondThessalonians: {
-        1: 3
-    },
-    firstTimothy: {
-        1: 6
-    },
-    secondTimothy: {
-        1: 4
-    },
-    titus: {
-        1: 3
-    },
-    philemon: {
-        1: 1
-    },
-    hebrews: {
-        1: 13
-    },
-    james: {
-        1: 5
-    },
-    firstPeter: {
-        1: 5
-    },
-    secondPeter: {
-        1: 3
-    },
-    firstJohn: {
-        1: 5
-    },
-    secondJohn: {
-        1: 1
-    },
-    thirdJohn: {
-        1: 1
-    },
-    jude: {
-        1: 1
-    },
-    revelation: {
-        1: 22
-    }
-  };
+export const fetchCount = (book) => {
 
   if (!book) {
     console.log("Missing book or chapter:", book );
@@ -299,7 +299,7 @@ export const fetchCount = (book) => {
   }
 
   // Trim spaces and make sure the format is correct
-  const cleanBook = book.trim().replace(/\s+/g, "-").toLowerCase();
+  const cleanBook = book.trim().replace(/\s+/g, "-");
   // const cleanChapter = chapter.toString().trim();
 
   if (bookSources[cleanBook]) {
@@ -365,7 +365,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
               chapter: ver[0],
               verse: ver[1],
             });
-            setCount(fetchCount(matchBookWithNumbers))
+            setCount(await fetchCount(matchBookWithNumbers))
             setPage(1)
           } else {
             fetchVerse(matchBookWithNumbers, 1, "", setData, setVerse);
@@ -374,7 +374,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
               chapter: 1,
               verse: "",
             });
-            setCount(fetchCount(matchBookWithNumbers))
+            setCount(await fetchCount(matchBookWithNumbers))
             setPage(1)
           }
         } else {
@@ -384,7 +384,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
             chapter: 1,
             verse: "",
           });
-          setCount(fetchCount(str[0]))
+          setCount(await fetchCount(matchBookWithNumbers))
           setPage(1)
         }
       }
