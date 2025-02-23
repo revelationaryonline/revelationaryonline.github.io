@@ -17,6 +17,7 @@ import {
   capitalise,
   mdTheme,
   fetchCount,
+  checkNumbers
 } from "../../utils/misc";
 import useHighlight from "../../hooks/useHighlight";
 import MenuPanel from "../Menu/MenuPanel";
@@ -159,9 +160,10 @@ function DashboardContent({ loggedIn }) {
         search.length > 2
       ) {
         // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
+        let matchBookWithNumbers = checkNumbers(verse[0]?.book);
         setPage(verse[0].chapter);
         setResult([]);
-        setCount(-1);
+        setCount(matchBookWithNumbers.trim());
         setClearSearch(false);
       }
       setLoading(false);

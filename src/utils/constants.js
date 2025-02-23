@@ -9,7 +9,7 @@ export const booksArr = [
   "Joshua",
   "Judges",
   "Ruth",
-  "firstSamuel",
+  "1 Samuel",
   "2 Samuel",
   "1 Kings",
   "2 Kings",
