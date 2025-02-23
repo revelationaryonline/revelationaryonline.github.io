@@ -31,22 +31,22 @@ const videoSources = {
     ruth: {
         1: "https://www.youtube-nocookie.com/embed/0h1eoBeR4Jk?si=lfxYaNbUy7GHE09t&amp;controls=0",
     },
-    firstSamuel: {
+    firstsamuel: {
         1: "https://www.youtube-nocookie.com/embed/QJOju5Dw0V0?si=vtE-hkKFJbkujicT&amp;controls=0",
     },
-    secondSamuel: {
+    secondsamuel: {
         1: "https://www.youtube-nocookie.com/embed/YvoWDXNDJgs?si=gcrggc8IfyHc2RJO&amp;controls=0",
     },
-    firstKings: {
+    firstkings: {
         1: "https://www.youtube-nocookie.com/embed/bVFW3wbi9pk?si=HOUqzcMAlsJnEEI2&amp;controls=0",
     },
-    secondKings: {
+    secondkings: {
         1: "https://www.youtube-nocookie.com/embed/bVFW3wbi9pk?si=HOUqzcMAlsJnEEI2&amp;controls=0",
     },
-    firstChronicles: {
+    firstchronicles: {
         1: "https://www.youtube-nocookie.com/embed/HR7xaHv3Ias?si=EydK9ckzc1K8G8pB&amp;controls=0",
     },
-    secondChronicles: {
+    secondchronicles: {
         1: "https://www.youtube-nocookie.com/embed/HR7xaHv3Ias?si=EydK9ckzc1K8G8pB&amp;controls=0",
     },
     ezra: {
@@ -70,7 +70,7 @@ const videoSources = {
     ecclesiastes: {
         1: "https://www.youtube-nocookie.com/embed/lrsQ1tc-2wk?si=8n_uV53bJjVm3QRe&amp;controls=0",
     },
-    songOfSolomon: {
+    solomon: {
         1: "https://www.youtube-nocookie.com/embed/4KC7xE4fgOw?si=dCIKToCo-8zXIz5T&amp;controls=0",
     },
     isaiah: {
@@ -157,10 +157,10 @@ const videoSources = {
         // 5-16
         2: "https://www.youtube-nocookie.com/embed/0SVTl4Xa5fY?si=yopHnGgi5n9nkhWJ&amp;controls=0",
     },
-    firstCorinthians: {
+    firstcorinthians: {
         1: "https://www.youtube-nocookie.com/embed/yiHf8klCCc4?si=wIxwnZuPtbBN1WFD&amp;controls=0",
     },
-    secondCorinthians: {
+    secondcorinthians: {
         1: "https://www.youtube-nocookie.com/embed/3lfPK2vfC54?si=fVoq1dMoGwoGJkRZ&amp;controls=0",
     },
     galatians: {
@@ -176,16 +176,16 @@ const videoSources = {
     colossians: {
         1: "https://www.youtube-nocookie.com/embed/pXTXlDxQsvc?si=syh0Lh8OPfS9yNIp&amp;controls=0",
     },
-    firstThessalonians: {
+    firstthessalonians: {
         1: "https://www.youtube-nocookie.com/embed/No7Nq6IX23c?si=EEO4yvlSc5siGGcg&amp;controls=0",
     },
-    secondThessalonians: {
+    secondthessalonians: {
         1: "https://www.youtube-nocookie.com/embed/kbPBDKOn1cc?si=uNvhxXY0SlVfLR-9&amp;controls=0",
     },
-    firstTimothy: {
+    firsttimothy: {
         1: "https://www.youtube-nocookie.com/embed/7RoqnGcEjcs?si=Lxrag8khmr4epxKc&amp;controls=0",
     },
-    secondTimothy: {
+    secondtimothy: {
         1: "https://www.youtube-nocookie.com/embed/urlvnxCaL00?si=AV6_rP2lqBbEKGPM&amp;controls=0",
     },
     titus: {
@@ -200,19 +200,19 @@ const videoSources = {
     james: {
         1: "https://www.youtube-nocookie.com/embed/qn-hLHWwRYY?si=l296wcunVAMQdWM3&amp;controls=0",
     },
-    firstPeter: {
+    firstpeter: {
         1: "https://www.youtube-nocookie.com/embed/WhP7AZQlzCg?si=-h0FW-ZDwoSgSM_Z&amp;controls=0",
     },
-    secondPeter: {
+    secondpeter: {
         1: "https://www.youtube-nocookie.com/embed/wWLv_ITyKYc?si=-C2a6B9Uv1nhI_21&amp;controls=0",
     },
-    firstJohn: {
+    firstjohn: {
         1: "https://www.youtube-nocookie.com/embed/l3QkE6nKylM?si=xEbwBdjl-Zl4Bn-t&amp;controls=0",
     },
-    secondJohn: {
+    secondjohn: {
         1: "https://www.youtube-nocookie.com/embed/l3QkE6nKylM?si=xEbwBdjl-Zl4Bn-t&amp;controls=0",
     },
-    thirdJohn: {
+    thirdjohn: {
         1: "https://www.youtube-nocookie.com/embed/l3QkE6nKylM?si=xEbwBdjl-Zl4Bn-t&amp;controls=0",
     },
     jude: {
