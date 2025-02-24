@@ -309,7 +309,7 @@ export const fetchCount = (book) => {
 }
 
 // SearchBar
-export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark, setCount, setPage) => {
+export const handleSearch = async (e, setData, setVerse, searchTerm, setCount, setPage) => {
   setPage(1)
   if (e.keyCode === 13) {
     const term = e.target.value;
@@ -337,11 +337,6 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
             });
           }
           if (ver.length > 1 && !str.join(" ").includes('"')) {
-            setBookmark({
-              book: str[0],
-              chapter: ver[0],
-              verse: ver[1],
-            });
             fetchVerse(str[0], ver[0], ver[1], setData, setVerse);
             setCount(fetchCount(str[0]))
             setPage(1)
@@ -360,30 +355,15 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
           }
           if (ver.length > 1) {
             fetchVerse(matchBookWithNumbers, ver[0], ver[1], setData, setVerse);
-            setBookmark({
-              book: matchBookWithNumbers,
-              chapter: ver[0],
-              verse: ver[1],
-            });
             setCount(await fetchCount(matchBookWithNumbers))
             setPage(1)
           } else {
             fetchVerse(matchBookWithNumbers, 1, "", setData, setVerse);
-            setBookmark({
-              book: matchBookWithNumbers,
-              chapter: 1,
-              verse: "",
-            });
             setCount(await fetchCount(matchBookWithNumbers))
             setPage(1)
           }
         } else {
           fetchVerse(str[0], 1, "", setData, setVerse);
-          setBookmark({
-            book: str[0],
-            chapter: 1,
-            verse: "",
-          });
           setCount(await fetchCount(matchBookWithNumbers))
           setPage(1)
         }
@@ -396,6 +376,10 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
 
 // fetch Verse
 export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
+
+  console.log(book)
+  console.log(chapter)
+
   try {
     await fetch(
       `https://kjvapp.com/api/${book + "/"}${chapter}/${verse !== "" ? new Number(verse) : ""

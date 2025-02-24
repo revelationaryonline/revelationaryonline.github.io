@@ -17,12 +17,19 @@ import HighlightColorSelect from "../HighlightSelect/HighlightColorSelect";
 import ShortTextIcon from '@mui/icons-material/ShortText';
 import BookmarksIcon from '@mui/icons-material/Bookmarks';
 import CommentBankOutlinedIcon from '@mui/icons-material/CommentBankOutlined';
+import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
+import BookmarkButton from "../BookmarkButton/BookmarkButton";
 
 const TopToolbar = ({
   handleColumns,
   handleFontSize,
-  handleViewBookmark,
-  handleHelp,
+  verse,
+  page,
+  setSearch,
+  fetchVerse,
+  setData,
+  setPage,
+  setVerse
 }) => {
   const handleAddComment = () => {
     console.log("Comment");
@@ -70,7 +77,7 @@ const TopToolbar = ({
             }}
           >
             <IconButton onClick={() => handleFontSize(1)}>
-              <TextIncreaseIcon />
+              <TextIncreaseIcon/>
             </IconButton>
           </Tooltip>
           <Tooltip title="Smaller Text" fontSize={"small"}>
@@ -108,7 +115,6 @@ const TopToolbar = ({
             flexItem
             variant={"middle"}
           />
-          <FullscreenButton />
           {/* <Tooltip title="Comments">
           <IconButton onClick={() => handleAddComment()}
             sx={{
@@ -120,19 +126,30 @@ const TopToolbar = ({
             }}>
             <AccountTreeIcon fontSize={'small'}/>
           </IconButton>
-        </Tooltip>
-        <Tooltip title="Bookmarks">
-          <IconButton onClick={() => handleViewBookmark()}
+        </Tooltip> */}
+        {/* <Tooltip title="Bookmarks">
+          <IconButton onClick={() => handleGoToBookmark()}
             sx={{
               opacity: 0.75,
               '&.MuiIconButton-root:hover':{
                 backgroundColor: 'rgba(0, 0, 0, 0.00)',
-                opacity:1
+                opacity: 1
               }
             }}>
-            <BookmarkIcon fontSize={'small'} />
+            <BookmarkBorderIcon fontSize="small" />
           </IconButton>
         </Tooltip> */}
+        <BookmarkButton 
+          verse={verse}
+          page={page}
+          setSearch={setSearch}
+          fetchVerse={fetchVerse}
+          setData={setData}
+          setPage={setPage}
+          setVerse={setVerse}
+        />
+
+        <FullscreenButton />
         </Box>
         <Box position={"relative"} display={"flex"}>
           <Tooltip title="Refresh">

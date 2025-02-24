@@ -6,11 +6,15 @@ import { VideoCall } from "@mui/icons-material";
 
 const videoSources = {
     genesis: {
+      // 1-11
       1: "https://www.youtube-nocookie.com/embed/GQI72THyO5I?si=zbWixZDFtB_GBJjE&controls=0",
+      // 12-50
       2: "https://www.youtube-nocookie.com/embed/F4isSyennFo?si=-gNKc8GuD-iIeb0Q&controls=0",
     },
     exodus: {
+      // 1-18
       1: "https://www.youtube-nocookie.com/embed/jH_aojNJM3E?si=r5RjNuqvfgShPK_O&amp;controls=0",
+      // 19-40
       2: "https://www.youtube-nocookie.com/embed/oNpTha80yyE?si=fWjF7HjkM4BadpWP&amp;controls=0",
     },
     leviticus: {
@@ -167,7 +171,7 @@ const videoSources = {
         1: "https://www.youtube-nocookie.com/embed/vmx4UjRFp0M?si=9pbXeZ0YU8NVDllK&amp;controls=0",
     },
     ephesians: {
-        // I love you Grandma 
+        // I love you Grandma & Grandpa
         1: "https://www.youtube-nocookie.com/embed/Y71r-T98E2Q?si=DiwKCIilFNj2oU3V&amp;controls=0",
     },
     philippians: {
@@ -219,7 +223,9 @@ const videoSources = {
         1: "https://www.youtube-nocookie.com/embed/6UoCmakZmys?si=xagDT-EpLAJEHquE&amp;controls=0",
     },
     revelation: {
+        // 1-11
         1: "https://www.youtube-nocookie.com/embed/5nvVVcYD-0w?si=_7VhSzUUchPfgL7K&amp;controls=0",
+        // 12-22
         2: "https://www.youtube-nocookie.com/embed/QpnIrbq2bKo?si=8ernx63Zyu5JdTMO&amp;controls=0",
     }
   };
@@ -229,6 +235,9 @@ const VideoModal = ({ currentBook, currentChapter }) => {
   
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
+
+  console.log(currentBook)
+  console.log(currentChapter)
 
   const generateVideoUrl = (book, chapter) => {
     if (!book || !chapter) {
@@ -241,7 +250,63 @@ const VideoModal = ({ currentBook, currentChapter }) => {
     // const cleanChapter = chapter.toString().trim();
 
     if (videoSources[cleanBook]) {
-        return chapter <= 11 ? videoSources[cleanBook][1] : videoSources[cleanBook][2] || "";
+        if (cleanBook === 'genesis') {
+            if (chapter <= 11) {
+              return videoSources[cleanBook][1]; // Load the video for 1-11
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 12-50
+            }
+          }
+          if (cleanBook === 'exodus') {
+            if (chapter <= 18) {
+              return videoSources[cleanBook][1]; // Load the video for 1-18
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 19-40
+            }
+          }
+          if (cleanBook === 'matthew') {
+            if (chapter <= 14) {
+              return videoSources[cleanBook][1]; // Load the video for 1-14
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 13-21
+            }
+          }
+          if (cleanBook === 'luke') {
+            if (chapter <= 9) {
+              return videoSources[cleanBook][1]; // Load the video for 1-9
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 10-24
+            }
+          }
+          if (cleanBook === 'john') {
+            if (chapter <= 12) {
+              return videoSources[cleanBook][1]; // Load the video for 1-12
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 13-21
+            }
+          }
+          if (cleanBook === 'acts') {
+            if (chapter <= 12) {
+              return videoSources[cleanBook][1]; // Load the video for 1-12
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 13-28
+            }
+          }
+          if (cleanBook === 'romans') {
+            if (chapter <= 4) {
+              return videoSources[cleanBook][1]; // Load the video for 1-4
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 5-16
+            }
+          }
+          if (cleanBook === 'revelation') {
+            if (chapter <= 4) {
+              return videoSources[cleanBook][1]; // Load the video for 1-11
+            } else {
+              return videoSources[cleanBook][2]; // Load the video for 12-22
+            }
+          }
+          return videoSources[cleanBook][1];
       }
 
     return "";

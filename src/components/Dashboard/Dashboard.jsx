@@ -47,7 +47,7 @@ function DashboardContent({ loggedIn }) {
   const [contextMenu, setContextMenu] = useState(null);
 
   const [verse, setVerse] = useState([]);
-  const [bookmark, setBookmark] = useState([]);
+  // const [bookmark, setBookmark] = useState([]);
   const [result, setResult] = useState([]);
   const [columns, setColumns] = useState(result.length <= 1 ? 2 : 2);
   const [data, setData] = useState([]);
@@ -227,9 +227,16 @@ function DashboardContent({ loggedIn }) {
     setResult([]);
   };
 
-  const handleViewBookmark = (e) => {
-    alert(e);
-  };
+  // const handleGoToBookmark = (e) => {
+  //   alert(e.target.value);
+  //   setPage(18);
+  //   fetchVerse('secondChronicles', 18, "", setData, setVerse);
+  //   setSearch('secondChronicles');
+  // };
+
+  // const handleSetBookMark = () => {
+  //   setBookmark({book: verse[0]?.book, chapter: page})
+  // }
 
   // Handle search input change
   const handleSearchChange = (event) => {
@@ -308,7 +315,14 @@ function DashboardContent({ loggedIn }) {
           <TopToolbar
             handleColumns={handleColumns}
             handleFontSize={handleFontSize}
-            handleViewBookmark={handleViewBookmark}
+            // handleViewBookmark={handleGoToBookmark} 
+            verse={verse}
+            page={page}
+            fetchVerse={fetchVerse}
+            setSearch={setSearch}
+            setData={setData}
+            setPage={setPage}
+            setVerse={setVerse}
           />
 
           {visible.includes("search") && (
@@ -381,8 +395,7 @@ function DashboardContent({ loggedIn }) {
                   e,
                   setData,
                   setVerse,
-                  searchTerm,
-                  setBookmark,
+                  searchTerm,                  
                   setCount,
                   setPage
                 )
@@ -428,18 +441,18 @@ function DashboardContent({ loggedIn }) {
                       width: '100%'
                     }}
                   >
-                    {verse.length >= 1 &&
+                    {verse && verse.length >= 1 &&
                       capitalise(verse[0].book) +
                         " " +
                         verse[0].chapter +
                         ":" +
                         verse[verse.length - 1].verse}
-                    {verse.length > 0 &&
+                    {verse && verse.length > 0 &&
                       verse[0]?.book &&
                       verse[0]?.chapter && (
                         <VideoModal
-                          currentBook={verse[0].book}
-                          currentChapter={verse[0].chapter}
+                          currentBook={verse && verse[0].book}
+                          currentChapter={verse && verse[0].chapter}
                         />
                       )}
                   {/* <img style={{ position: 'absolute', right: 125, width: '50px', filter: 'invert(1)'}} src={tomb}></img> */}
@@ -455,10 +468,10 @@ function DashboardContent({ loggedIn }) {
                       fontWeight: 200,
                       fontSize: `${textSize}px`,
                       display: "inline-block",
-                      columns: verse.length === 1 ? 1 : columns,
+                      columns: verse && verse.length === 1 ? 1 : columns,
                     }}
                   >
-                    {verse.length === 0 && result && (
+                    {verse && verse.length === 0 && result && (
                       <Grid
                         item
                         display={"flex"}
@@ -505,7 +518,7 @@ function DashboardContent({ loggedIn }) {
                         >{`per Page`}</Typography>
                       </Grid>
                     )}
-                    {verse.length >= 1
+                    {verse && verse.length >= 1
                       ? verse.map((v, index) => (
                           // console.log(v.id),
                           // console.log(highlightedVerses.includes(
@@ -621,7 +634,7 @@ function DashboardContent({ loggedIn }) {
                               ? theme.palette.grey[100]
                               : theme.palette.grey[900],
                         }}
-                        count={fetchCount(verse[0]?.book)}
+                        count={fetchCount(verse && verse[0]?.book)}
                         page={page}
                         onChange={(e, value, v) =>
                           handleChange(e, value, verse)
@@ -629,8 +642,8 @@ function DashboardContent({ loggedIn }) {
                       />
                     </>
                   )}
-                  {search &&
-                    result.length === 0 &&
+                  {search && result &&
+                    result.length === 0 && verse &&
                     verse.length === 0 &&
                     !loading && (
                       <Typography
