@@ -46,7 +46,11 @@ const HighlightColorSelect = () => {
           }}
         >
           {/* <ColorLensIcon /> */}
-          <BorderColorIcon fontSize="small" />
+          <BorderColorIcon   
+          sx={{
+            width: '22px'
+          }}
+          fontSize={"small"}/>
         </IconButton>
       </Tooltip>
 
