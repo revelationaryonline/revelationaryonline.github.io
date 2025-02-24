@@ -7,13 +7,18 @@ import Dashboard from "./components/Dashboard/Dashboard";
 import Profile from "./pages/Profile";
 import Account from "./pages/Account";
 import { Blog } from "./pages/Blog";
-import { Footer } from './components/Footer/Footer';
 import LoginPage from "./pages/LoginPage";
 import { Box } from "@mui/material";
 
+// Import Firebase authentication
+import { getAuth, onAuthStateChanged } from "firebase/auth";
+
 export default function App() {
-  const [loggedIn, setLoggedIn] = useState(true);
+  const [loggedIn, setLoggedIn] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
+
+  // Initialize Firebase Auth
+  const auth = getAuth();
 
   // Check for the user's theme preference on initial load
   useEffect(() => {
@@ -32,6 +37,20 @@ export default function App() {
       window.matchMedia("(prefers-color-scheme: dark)").removeEventListener('change', themeChangeListener);
     };
   }, []);
+
+  // Set up the auth state listener to update the loggedIn state
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, (user) => {
+      if (user) {
+        setLoggedIn(true); // User is logged in
+      } else {
+        setLoggedIn(false); // User is logged out
+      }
+    });
+
+    // Clean up the listener when the component unmounts
+    return () => unsubscribe();
+  }, [auth]);
 
   // Define light and dark themes using MUI's createTheme
   const lightTheme = createTheme({
@@ -66,20 +85,16 @@ export default function App() {
   return (
     <ThemeProvider theme={theme}>
       <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
-      <div className="App">
-        <Header loggedIn={loggedIn} />
-        <Routes>
-          <Route index path="/" element={<Dashboard />} />
-          <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
-          <Route path="/account" element={<Account loggedIn={loggedIn} />} />
-          <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
-          <Route path="/login" element={<LoginPage  />} />
-        </Routes>
-        {/* <Footer
-          title="revelationary"
-          description="A Bible Reading Web Application"
-        /> */}
-      </div>
+        <div className="App">
+          <Header loggedIn={loggedIn} />
+          <Routes>
+            <Route index path="/" element={<Dashboard loggedIn={loggedIn} />} />
+            <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
+            <Route path="/account" element={<Account loggedIn={loggedIn} />} />
+            <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
+            <Route path="/login" element={<LoginPage />} />
+          </Routes>
+        </div>
       </Box>
     </ThemeProvider>
   );

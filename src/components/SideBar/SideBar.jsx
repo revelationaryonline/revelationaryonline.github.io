@@ -19,7 +19,12 @@ import InsertLinkIcon from "@mui/icons-material/InsertLink";
 
 import { drawerWidth } from "../../utils/constants";
 import { mdTheme } from "../../utils/misc";
-import { HighlightAlt, MouseOutlined, PolylineOutlined, ScreenSearchDesktopSharp } from "@mui/icons-material";
+import {
+  HighlightAlt,
+  MouseOutlined,
+  PolylineOutlined,
+  ScreenSearchDesktopSharp,
+} from "@mui/icons-material";
 
 const Drawer = styled(MuiDrawer, {
   shouldForwardProp: (prop) => prop !== "open",
@@ -83,15 +88,22 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             px: [1],
           }}
         >
-        <Tooltip title="Side Bar">
-          <IconButton onClick={toggleDrawer} sx={{
-                        "&.MuiIconButton-root:hover": {
-                          backgroundColor: "rgba(0, 0, 0, 0.00)",
-                          opacity: 1,
-                        },
-          }}>
-            <ChevronLeftIcon />
-          </IconButton>
+          <Tooltip title="Side Bar">
+            <IconButton
+              onClick={toggleDrawer}
+              sx={{
+                "&.MuiIconButton-root:hover": {
+                  backgroundColor: "rgba(0, 0, 0, 0.00)",
+                  opacity: 1,
+                },
+              }}
+            >
+              <ChevronLeftIcon 
+              sx={{
+                position: 'absolute',
+                ml: { xs: -3, sm: -5 },
+              }}/>
+            </IconButton>
           </Tooltip>
         </Toolbar>
         <Divider />
@@ -108,7 +120,10 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
           // subheader={<ListSubheader>Settings</ListSubheader>}
         >
           <ListItem>
-            <ListItemIcon sx={{ pl: 0.75}}>
+            <ListItemIcon sx={{ 
+              pl: { xs: 0, sm: 0.75 }
+            }}
+              >
               <SearchIcon />
             </ListItemIcon>
             <ListItemText id="switch-list-label-search" primary="Search" />
@@ -123,7 +138,9 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             />
           </ListItem>
           <ListItem>
-            <ListItemIcon sx={{ pl: 0.75}}>
+            <ListItemIcon sx={{ 
+              pl: { xs: 0, sm: 0.75 }
+              }}>
               {/* <PolylineOutlined />- Save this for linked verses */}
               <HighlightAlt />
             </ListItemIcon>

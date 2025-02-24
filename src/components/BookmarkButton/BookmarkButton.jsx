@@ -14,7 +14,7 @@ function Bookmark({
   setSearch,
   setData,
   setVerse,
-  setPage,
+  setPage
 }) {
   const [bookmark, setBookmark] = useState(null);
 
@@ -45,7 +45,7 @@ function Bookmark({
       fetchVerse(bookmark.book, bookmark.chapter, "", setData, setVerse);
       setSearch(bookmark.book);
       setPage(bookmark.chapter);
-      setVerse(1)
+      setVerse(1);
     }
   };
 

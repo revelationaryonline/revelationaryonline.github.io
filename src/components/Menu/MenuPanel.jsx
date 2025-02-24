@@ -22,6 +22,7 @@ const MenuPanel = ({
   selectedVerse,
   search,
   setSelectedVerse,
+  loggedIn
 }) => {
   if (!contextMenu || !selectedVerse) return null;
 
@@ -79,7 +80,9 @@ const MenuPanel = ({
             ⌘L
           </Typography>
         </MenuItem> */}
-        <MenuItem onClick={(e) => handleHighlight(e)}>
+        <MenuItem 
+        disabled={!loggedIn}
+        onClick={(e) => handleHighlight(e)}>
           <ListItemIcon>
             <BorderColorIcon fontSize="small" />
           </ListItemIcon>

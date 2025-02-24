@@ -1,13 +1,22 @@
 import React, { useState } from "react";
-import { Tooltip, IconButton, Menu, MenuItem, ListItemIcon, ListItemText } from "@mui/material";
+import {
+  Tooltip,
+  IconButton,
+  Menu,
+  MenuItem,
+  ListItemIcon,
+  ListItemText,
+} from "@mui/material";
 import ColorLensIcon from "@mui/icons-material/ColorLens";
 import { HighlightAlt } from "@mui/icons-material";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
 
-const HighlightColorSelect = () => {
+const HighlightColorSelect = ({ loggedIn }) => {
   const [anchorEl, setAnchorEl] = useState(null);
   const [selectedColor, setSelectedColor] = useState("#ffeb3b"); // Default color (yellow)
 
+
+  console.log("LOGGED IN", loggedIn)
   // Color options (you can change these)
   const colorOptions = [
     { label: "Yellow", value: "#ffff00" },
@@ -36,6 +45,7 @@ const HighlightColorSelect = () => {
     <>
       <Tooltip title="Highlight Color" fontSize="small">
         <IconButton
+          disabled={!loggedIn}
           onClick={openMenu}
           sx={{
             opacity: 0.75,
@@ -46,11 +56,12 @@ const HighlightColorSelect = () => {
           }}
         >
           {/* <ColorLensIcon /> */}
-          <BorderColorIcon   
-          sx={{
-            width: '22px'
-          }}
-          fontSize={"small"}/>
+          <BorderColorIcon
+            sx={{
+              width: "22px",
+            }}
+            fontSize={"small"}
+          />
         </IconButton>
       </Tooltip>
 
@@ -65,8 +76,10 @@ const HighlightColorSelect = () => {
             key={color.value}
             onClick={() => handleColorSelect(color.value)}
             sx={{
-              backgroundColor: (theme) => theme.palette.mode === "light" ? '#FFFFFF' : '#212121"',
-              color: (theme) => theme.palette.mode === "light" ? '#212121' : '#FFFFFF"',
+              backgroundColor: (theme) =>
+                theme.palette.mode === "light" ? "#FFFFFF" : '#212121"',
+              color: (theme) =>
+                theme.palette.mode === "light" ? "#212121" : '#FFFFFF"',
               "&:hover": {
                 // backgroundColor: color.value,
                 backgroundColor: "rgba(0, 0, 0, 0.4)",
@@ -81,15 +94,17 @@ const HighlightColorSelect = () => {
                   height: 12,
                   borderRadius: "50%",
                   backgroundColor: color.value,
-                  backgroundBlendMode: 'normal',
+                  backgroundBlendMode: "normal",
                 }}
               />
             </ListItemIcon>
-            <ListItemText 
+            <ListItemText
               disableTypography
-            sx={{
-              fontSize:'14px'
-            }} primary={color.label} />
+              sx={{
+                fontSize: "14px",
+              }}
+              primary={color.label}
+            />
           </MenuItem>
         ))}
       </Menu>

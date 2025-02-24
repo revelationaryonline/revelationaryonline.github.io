@@ -6,7 +6,7 @@ const useHighlight = () => {
 
   useEffect(() => {
     const savedHighlights = Cookies.get("highlightedVerses");
-    console.log("Saved cookie highlights:", savedHighlights);  // Debugging log to check cookie data
+    // console.log("Saved cookie highlights:", savedHighlights);  // Debugging log to check cookie data
     
     if (savedHighlights) {
       // Parse and ensure all values are strings
@@ -17,7 +17,7 @@ const useHighlight = () => {
 
   const toggleHighlight = (verseId) => {
     // Log the ID being toggled to ensure correctness
-    console.log("Toggling Highlight for verse ID:", verseId);
+    // console.log("Toggling Highlight for verse ID:", verseId);
   
     setHighlightedVerses((prev) => {
       // Store the ID as a string to avoid precision loss
@@ -27,7 +27,7 @@ const useHighlight = () => {
         ? prev.filter((id) => id !== stringVerseId)  // Remove if already highlighted
         : [...prev, stringVerseId];  // Add if not highlighted
   
-      console.log("Updated highlightedVerses:", updated);  // Log the updated state
+      // console.log("Updated highlightedVerses:", updated);  // Log the updated state
   
       // Save to cookie as an array of strings
       Cookies.set("highlightedVerses", JSON.stringify(updated), { expires: 365 });

@@ -377,9 +377,6 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setCount, s
 // fetch Verse
 export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
 
-  console.log(book)
-  console.log(chapter)
-
   try {
     await fetch(
       `https://kjvapp.com/api/${book + "/"}${chapter}/${verse !== "" ? new Number(verse) : ""
