@@ -58,7 +58,7 @@ const FeaturedPost = (props) => {
                 display: "flex",
                 flexDirection: "row",
                 width: "max-content",
-                paddingX: "5px",
+                px: "5px",
                 ml: 0,
                 mt: 2,
                 fontSize: "12px",

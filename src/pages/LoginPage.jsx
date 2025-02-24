@@ -16,6 +16,7 @@ import {
 } from "firebase/auth";
 import { auth } from "../firebase"; // Import the initialized auth instance
 import { mdTheme } from "../utils/misc";
+import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 
 import logo from "../assets/logo512.png";
 
@@ -86,9 +87,9 @@ const LoginPage = () => {
           >
             <img
               style={{
-                marginTop: "1rem",
+                marginTop: "3rem",
                 marginBottom: "1.5rem",
-                width: "50%",
+                width: "20%",
               }}
               src={logo}
             ></img>
@@ -103,10 +104,67 @@ const LoginPage = () => {
               marginBottom: "1.5rem",
             }}
           >
-            <Typography component="h1" variant="h5" gutterBottom>
+            <Typography sx={{mb: 3}} component="h1" variant="h5" gutterBottom>
               {isSigningUp ? "Sign Up" : "Sign In"}
             </Typography>
 
+            {isSigningUp && (<>
+            <Typography textAlign={'left'} sx={{ textAlign: 'left'}}>A Free account lets you:</Typography>
+            <Box sx={{
+              mt:1,
+              mb:3
+            }}>
+            <Typography
+              sx={{
+                pt: 1,
+                mt: 1,
+                display: "flex",
+                alignItems: "center", // This centers the icon and text vertically
+              }}
+            >
+              <CheckCircleIcon
+                fontSize="small"
+                color="success"
+                sx={{ mr: 1 }}
+              />{" "}
+              {/* Add margin to the right of the icon */}
+              Add comments on every verse
+            </Typography>
+
+            <Typography
+              sx={{
+                pt: 1,
+                mt: 1,
+                display: "flex",
+                alignItems: "center", // This centers the icon and text vertically
+              }}
+            >
+              <CheckCircleIcon
+                fontSize="small"
+                color="success"
+                sx={{ mr: 1 }}
+              />{" "}
+              {/* Add margin to the right of the icon */}
+              Read our blog
+            </Typography>
+
+            <Typography
+              sx={{
+                pt: 1,
+                mt: 1,
+                display: "flex",
+                alignItems: "center", // This centers the icon and text vertically
+              }}
+            >
+              <CheckCircleIcon
+                fontSize="small"
+                color="success"
+                sx={{ mr: 1 }}
+              />{" "}
+              {/* Add margin to the right of the icon */}
+              Highlight Verses
+            </Typography>
+            </Box></>)}
             {error && (
               <Typography color="error" variant="body2" sx={{ mb: 2 }}>
                 {error}
@@ -242,7 +300,25 @@ const LoginPage = () => {
                 type="button"
                 fullWidth
                 variant="outlined"
-                sx={{ mt: 1, mb: 2 }}
+                sx={{
+                  mt: 1,
+                  mb: 2,
+                  backgroundColor: "#transparent",
+                  color: (theme) =>
+                    theme.palette.mode === "light" ? "#212121" : "#a1a1a1",
+                  border: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "1px solid #212121"
+                      : "1px solid #a1a1a1",
+                  "&:hover": {
+                    backgroundColor: (theme) =>
+                      theme.palette.mode === "light" ? "#212121" : "#FFF",
+                    border: (theme) =>
+                      theme.palette.mode !== "light"
+                        ? "1px solid #212121"
+                        : "1px solid #a1a1a1",
+                  },
+                }}
                 onClick={handleGoogleSignIn}
               >
                 Sign In with Google
@@ -258,15 +334,39 @@ const LoginPage = () => {
               {isSigningUp ? (
                 <>
                   Already have an account?{" "}
-                  <Button variant="text" onClick={() => setIsSigningUp(false)}>
+                  <Button
+                    variant="text"
+                    onClick={() => setIsSigningUp(false)}
+                    sx={{
+                      backgroundColor: "#transparent",
+                      color: (theme) =>
+                        theme.palette.mode === "light" ? "#212121" : "#a1a1a1",
+                      // border: (theme) =>
+                      //   theme.palette.mode === "light"
+                      //     ? "1px solid #212121"
+                      //     : "1px solid #a1a1a1",
+                    }}
+                  >
                     Sign In
                   </Button>
                 </>
               ) : (
                 <>
                   Don’t have an account?{" "}
-                  <Button variant="text" onClick={() => setIsSigningUp(true)}>
-                    Sign Up Now
+                  <Button
+                    variant="text"
+                    onClick={() => setIsSigningUp(true)}
+                    sx={{
+                      backgroundColor: "#transparent",
+                      color: (theme) =>
+                        theme.palette.mode === "light" ? "#212121" : "#a1a1a1",
+                      // border: (theme) =>
+                      //   theme.palette.mode === "light"
+                      //     ? "1px solid #212121"
+                      //     : "1px solid #a1a1a1",
+                    }}
+                  >
+                    Sign Up
                   </Button>
                 </>
               )}

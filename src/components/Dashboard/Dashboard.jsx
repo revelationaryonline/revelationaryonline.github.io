@@ -168,7 +168,7 @@ function DashboardContent({ loggedIn }) {
       }
       setLoading(false);
     }
-  }, [visible, result, search, verse, count, loading, page ]);
+  }, [visible, result, search, verse, count, loading, page, loggedIn ]);
 
   // result causes a loop with search
 
@@ -323,6 +323,7 @@ function DashboardContent({ loggedIn }) {
             setData={setData}
             setPage={setPage}
             setVerse={setVerse}
+            loggedIn={loggedIn}
           />
 
           {visible.includes("search") && (
@@ -571,6 +572,7 @@ function DashboardContent({ loggedIn }) {
                               handleHighlight={handleHighlight}
                               handleClose={handleClose}
                               search={search}
+                              loggedIn={loggedIn}
                             />
                           </span>
                         ))

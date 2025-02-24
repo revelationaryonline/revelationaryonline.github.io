@@ -236,9 +236,6 @@ const VideoModal = ({ currentBook, currentChapter }) => {
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
 
-  console.log(currentBook)
-  console.log(currentChapter)
-
   const generateVideoUrl = (book, chapter) => {
     if (!book || !chapter) {
       console.log("Missing book or chapter:", book, chapter);

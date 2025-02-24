@@ -29,7 +29,8 @@ const TopToolbar = ({
   fetchVerse,
   setData,
   setPage,
-  setVerse
+  setVerse,
+  loggedIn
 }) => {
   const handleAddComment = () => {
     console.log("Comment");
@@ -47,7 +48,6 @@ const TopToolbar = ({
           <AlertDialogSlide />
           <Divider
             orientation="vertical"
-            paddingX={"1rem"}
             flexItem
             variant={"middle"}
           />
@@ -94,7 +94,7 @@ const TopToolbar = ({
               <TextDecreaseIcon />
             </IconButton>
           </Tooltip>
-          <HighlightColorSelect />
+          <HighlightColorSelect loggedIn={loggedIn}/>
           {/* <Tooltip title="Highlighted Verses" fontSize={"small"}>
             <IconButton
               // onClick={() => handleFontSize(-1)}
@@ -111,7 +111,6 @@ const TopToolbar = ({
           </Tooltip> */}
           <Divider
             orientation="vertical"
-            paddingX={"1rem"}
             flexItem
             variant={"middle"}
           />
