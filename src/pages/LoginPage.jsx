@@ -1,12 +1,13 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { ThemeProvider } from "@mui/material/styles";
+import {  useTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
+import Checkbox from "@mui/material/Checkbox";
 import Paper from "@mui/material/Paper";
 import {
   createUserWithEmailAndPassword,
@@ -17,29 +18,114 @@ import {
 import { auth } from "../firebase"; // Import the initialized auth instance
 import { mdTheme } from "../utils/misc";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
+import FormControlLabel from "@mui/material/FormControlLabel";
 
 import logo from "../assets/logo512.png";
+
+const WORDPRESS_SUBSCRIBE_API =
+  "https://public-api.wordpress.com/rest/v1.1/sites/revelationaryonline.wordpress.com/subscribers/new";
+
+const subscribeToWordPress = async (email) => {
+  try {
+    // Check if the user is already subscribed (if WordPress API supports it)
+    const response = await fetch(WORDPRESS_SUBSCRIBE_API, {
+      method: "GET", // Adjust if WordPress allows checking subscription status
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+    const data = await response.json();
+
+    if (response.ok && !data.subscribed) {
+      // Assuming response tells you if the user is subscribed
+      // Proceed with subscription if not already subscribed
+      const subscribeResponse = await fetch(WORDPRESS_SUBSCRIBE_API, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ email }),
+      });
+
+      const subscribeData = await subscribeResponse.json();
+      if (!subscribeResponse.ok) {
+        throw new Error(
+          subscribeData.message || "Failed to subscribe to WordPress"
+        );
+      }
+      console.log("Successfully subscribed to WordPress:", subscribeData);
+    }
+  } catch (error) {
+    console.error("Error subscribing to WordPress:", error.message);
+  }
+};
 
 const LoginPage = () => {
   const [isSigningUp, setIsSigningUp] = useState(false);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
+  const [isOptedOut, setIsOptedOut] = useState(false); // State to track if user opted out
   const navigate = useNavigate();
 
+  const theme = useTheme();
+  const isDarkMode = theme.palette.mode === "dark";
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
     try {
       const result = await signInWithPopup(auth, provider);
       const user = result.user;
       console.log("User Info:", user);
+  
+      const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
+      const authHeader = "Basic " + btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`);
+  
+      // Step 1: Check if the user already exists
+      const checkUserResponse = await fetch(wpApiUrl, {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": authHeader,
+        },
+      });
+  
+      const existingUsers = await checkUserResponse.json();
+  
+      if (existingUsers.length > 0) {
+        console.log("User already exists in WordPress:", existingUsers);
+        navigate("/"); // Redirect since they are already registered
+        return;
+      }
+  
+      // Step 2: If user doesn't exist, create a new subscriber
+      const createUserResponse = await fetch(`${process.env.REACT_APP_WP_API_URL}/users`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": authHeader,
+        },
+        body: JSON.stringify({
+          username: user.email.split("@")[0], // Use email prefix as username
+          email: user.email,
+          roles: ["subscriber"],
+          password: "SecurePass123!", // Ideally, generate a secure password
+        }),
+      });
+  
+      const wpData = await createUserResponse.json();
+      if (createUserResponse.ok) {
+        console.log("WordPress Subscription Success:", wpData);
+      } else {
+        console.error("WordPress Subscription Failed:", wpData);
+      }
+  
       navigate("/");
     } catch (error) {
       console.error("Error during Google Sign-In:", error.message);
       setError(error.message);
     }
   };
-
+  
   const handleSignUp = async () => {
     try {
       const userCredential = await createUserWithEmailAndPassword(
@@ -49,7 +135,9 @@ const LoginPage = () => {
       );
       const user = userCredential.user;
       console.log("Signed up with:", user.email);
-      //   alert("Sign-up successful!");
+      if (!isOptedOut) {
+        await subscribeToWordPress(user.email); // Subscribe to WordPress only if not opted out
+      }
       navigate("/");
     } catch (error) {
       console.error("Error signing up:", error.message);
@@ -79,92 +167,116 @@ const LoginPage = () => {
       <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
         <CssBaseline />
         <Container component="main" maxWidth="xs">
-          <Box
-            sx={{
-              mt: 5,
-              filter: (theme) => theme.palette.mode === "dark" && "invert(1)",
-            }}
-          >
-            <img
-              style={{
-                marginTop: "3rem",
-                marginBottom: "1.5rem",
-                width: "20%",
-              }}
-              src={logo}
-            ></img>
-          </Box>
           <Paper
             elevation={6}
             sx={{
               p: 4,
+              mt: 10,
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
               marginBottom: "1.5rem",
             }}
           >
-            <Typography sx={{mb: 3}} component="h1" variant="h5" gutterBottom>
+            <Box display={"flex"} flexDirection={"row"}>
+              <img
+                src={logo}
+                style={{
+                  width: "20px",
+                  height: "20px",
+                  marginTop: "7px",
+                  marginBottom: 30,
+                  marginRight: 10,
+                  marginLeft: 10,
+                  filter: isDarkMode && "invert(1)",
+                }}
+              ></img>
+              <Typography
+                variant="p"
+                component="div"
+                sx={{
+                  textAlign: { xs: "center", sm: "left" },
+                  mt: "3.5px",
+                  flexGrow: 1,
+                  fontFamily: "cardo",
+                  fontWeight: 600,
+                  fontStyle: "bold",
+                  letterSpacing: "1.65px",
+                  color: (theme) =>
+                    theme.palette.mode === "light" ? "#212121" : "#FFF",
+                }}
+              >
+                revelationary
+              </Typography>
+            </Box>
+            <Typography sx={{ mb: 3, fontSize: '24px' }} component="h1" variant="h5" gutterBottom>
               {isSigningUp ? "Sign Up" : "Sign In"}
             </Typography>
 
-            {isSigningUp && (<>
-            <Typography textAlign={'left'} sx={{ textAlign: 'left'}}>A Free account lets you:</Typography>
-            <Box sx={{
-              mt:1,
-              mb:3
-            }}>
-            <Typography
-              sx={{
-                pt: 1,
-                mt: 1,
-                display: "flex",
-                alignItems: "center", // This centers the icon and text vertically
-              }}
-            >
-              <CheckCircleIcon
-                fontSize="small"
-                color="success"
-                sx={{ mr: 1 }}
-              />{" "}
-              {/* Add margin to the right of the icon */}
-              Add comments on every verse
-            </Typography>
+            {isSigningUp && (
+              <>
+                <Typography>
+                  A Free account lets you:
+                </Typography>
+                <Box
+                  sx={{
+                    mt: 1,
+                    mb: 3,
+                  }}
+                >
+                  <Typography
+                    sx={{
+                      pt: 1,
+                      mt: 1,
+                      display: "flex",
+                      alignItems: "center", // This centers the icon and text vertically
+                    }}
+                  >
+                    <CheckCircleIcon
+                      fontSize="small"
+                      color={isOptedOut ? "disabled" : "success"} // Change icon color based on opt-out status
+                      sx={{ mr: 1 }}
+                    />{" "}
+                    {/* Add margin to the right of the icon */}
+                    Add comments on every verse
+                  </Typography>
 
-            <Typography
-              sx={{
-                pt: 1,
-                mt: 1,
-                display: "flex",
-                alignItems: "center", // This centers the icon and text vertically
-              }}
-            >
-              <CheckCircleIcon
-                fontSize="small"
-                color="success"
-                sx={{ mr: 1 }}
-              />{" "}
-              {/* Add margin to the right of the icon */}
-              Read our blog
-            </Typography>
+                  <Typography
+                    sx={{
+                      pt: 1,
+                      mt: 1,
+                      display: "flex",
+                      alignItems: "center", // This centers the icon and text vertically
+                    }}
+                  >
+                    <CheckCircleIcon
+                      fontSize="small"
+                      color="success"
+                      sx={{ mr: 1 }}
+                    />{" "}
+                    {/* Add margin to the right of the icon */}
+                    Read our blog
+                  </Typography>
 
-            <Typography
-              sx={{
-                pt: 1,
-                mt: 1,
-                display: "flex",
-                alignItems: "center", // This centers the icon and text vertically
-              }}
-            >
-              <CheckCircleIcon
-                fontSize="small"
-                color="success"
-                sx={{ mr: 1 }}
-              />{" "}
-              {/* Add margin to the right of the icon */}
-              Highlight Verses
-            </Typography>
-            </Box></>)}
+                  <Typography
+                    sx={{
+                      pt: 1,
+                      mt: 1,
+                      display: "flex",
+                      alignItems: "center", // This centers the icon and text vertically
+                    }}
+                  >
+                    <CheckCircleIcon
+                      fontSize="small"
+                      color="success"
+                      sx={{ mr: 1 }}
+                    />{" "}
+                    {/* Add margin to the right of the icon */}
+                    Highlight Verses
+                  </Typography>
+                </Box>
+              </>
+            )}
             {error && (
               <Typography color="error" variant="body2" sx={{ mb: 2 }}>
                 {error}
@@ -371,6 +483,26 @@ const LoginPage = () => {
                 </>
               )}
             </Typography>
+            {isSigningUp && (
+              <Box sx={{ mt: 2 }}>
+                <FormControlLabel
+                  sx={{
+                    display: "flex",
+                    color: "#a1a1a1",
+                    "& .MuiFormControlLabel-label": {
+                      fontSize: "14px",
+                    },
+                  }}
+                  control={
+                    <Checkbox
+                      onChange={(e) => setIsOptedOut(e.target.checked)}
+                      checked={isOptedOut}
+                    />
+                  }
+                  label={`I don't want to post comments`}
+                />
+              </Box>
+            )}
           </Paper>
         </Container>
       </Box>
