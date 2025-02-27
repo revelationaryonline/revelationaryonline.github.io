@@ -16,6 +16,9 @@ import { getAuth, onAuthStateChanged } from "firebase/auth";
 export default function App() {
   const [loggedIn, setLoggedIn] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
+  const [user, setUser] = useState(null);
+  const [token, setToken] = useState(null); // State for storing the Firebase token
+  const [wpToken, setWpToken] = useState(localStorage.getItem('wp_token') || null); // Try to load WP token from localStorage
 
   // Initialize Firebase Auth
   const auth = getAuth();
@@ -40,15 +43,38 @@ export default function App() {
 
   // Set up the auth state listener to update the loggedIn state
   useEffect(() => {
-    const unsubscribe = onAuthStateChanged(auth, (user) => {
+    const unsubscribe = onAuthStateChanged(auth, async (user) => {
       if (user) {
-        setLoggedIn(true); // User is logged in
+        setLoggedIn(true);
+        setUser(user);
+  
+        try {
+          // Retrieve the Firebase ID token
+          const firebaseToken = await user.getIdToken();
+          setToken(firebaseToken); // Store the Firebase token
+          console.log("Firebase Token:", firebaseToken);
+  
+          // Exchange Firebase token for WordPress JWT
+          // const wpToken = await getWPToken(firebaseToken);
+          // console.log(wpToken);
+          // if (wpToken) {
+          //   setWpToken(wpToken); // Store the WP JWT token
+          //   localStorage.setItem('wp_token', wpToken); // Store the WordPress token
+          //   console.log("WordPress Token:", wpToken);
+          // } else {
+          //   console.error("Failed to get WordPress JWT");
+          // }
+        } catch (error) {
+          console.error("Error retrieving tokens:", error);
+        }
       } else {
-        setLoggedIn(false); // User is logged out
+        setLoggedIn(false);
+        setUser(null);
+        setWpToken(null);
+        localStorage.removeItem('wp_token');
       }
     });
-
-    // Clean up the listener when the component unmounts
+  
     return () => unsubscribe();
   }, [auth]);
 
@@ -88,11 +114,11 @@ export default function App() {
         <div className="App">
           <Header loggedIn={loggedIn} />
           <Routes>
-            <Route index path="/" element={<Dashboard loggedIn={loggedIn} />} />
+            <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={() => setWpToken()} />} />
             <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
             <Route path="/account" element={<Account loggedIn={loggedIn} />} />
             <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
-            <Route path="/login" element={<LoginPage />} />
+            <Route path="/login" element={<LoginPage user={user} />} />
           </Routes>
         </div>
       </Box>

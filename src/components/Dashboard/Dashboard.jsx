@@ -34,16 +34,17 @@ import Select from "@mui/material/Select";
 import Tooltip from "@mui/material/Tooltip";
 import VideoModal from "../VideoModal/VideoModal";
 import CommentIcon from "@mui/icons-material/Comment";
-import CommentsDisabledIcon from '@mui/icons-material/CommentsDisabled';
+import CommentsDisabledIcon from "@mui/icons-material/CommentsDisabled";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import FloatingCommentForm from "../forms/FloatingCommentForm";
+import WPLoginModal from "../forms/WPLoginModal";
 import { Image } from "@mui/icons-material";
 import tomb from "../../assets/drawings/tomb.png";
 
 // TODO: automate this to be detected on system preferences
 // const mdTheme = createTheme({ palette: { mode: "light" } });
 
-function DashboardContent({ loggedIn }) {
+function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
   const [open, setOpen] = useState(false);
   const toggleDrawer = () => {
     setOpen(!open);
@@ -74,7 +75,8 @@ function DashboardContent({ loggedIn }) {
   const [comments, setComments] = useState([]);
   const [commentOpen, setCommentOpen] = useState(false);
   const [commentPosition, setCommentPosition] = useState({ x: 0, y: 0 });
-  const [slug, setSlug] = useState("")
+  const [slug, setSlug] = useState("");
+  // const [token, setToken] = useState(null);
 
   const { highlightedVerses, toggleHighlight } = useHighlight();
 
@@ -139,16 +141,37 @@ function DashboardContent({ loggedIn }) {
   };
 
   useEffect(() => {
+    const savedToken = localStorage.getItem("wpToken");
+    if (savedToken) {
+      setWpToken(savedToken);
+    }
+  }, []);
+
+  useEffect(() => {
+    if (wpToken) {
+      localStorage.setItem("wpToken", wpToken);
+      console.log(wpToken)
+    } else {
+      localStorage.removeItem("wpToken");
+    }
+  }, [wpToken]);
+
+  useEffect(() => {
     if (loading) {
       if (search === "" && count >= 0) {
         fetchVerse("genesis", 1, "", setData, setVerse);
         setPage(1);
         setCount(-1);
+        setSlug(
+          `${"genesis"}-${1}${1}`
+        );
         if (verse[0]?.book && count === -1) {
           // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
           setPage(verse[0].chapter);
           setClearSearch(false);
-          setSlug(`${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
+          setSlug(
+            `${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`
+          );
         }
       } else if (
         search.includes('"') &&
@@ -178,9 +201,28 @@ function DashboardContent({ loggedIn }) {
         setClearSearch(false);
         setSlug(`${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
       }
+      if (user === null || user === undefined) {
+        if (wpToken) {
+          // Only remove if a token exists
+          setWpToken(null);
+          localStorage.removeItem("wpToken");
+          console.log("Token removed from storage");
+        }
+      }
       setLoading(false);
     }
-  }, [visible, result, search, verse, count, loading, page, loggedIn, selectedVerse]);
+  }, [
+    visible,
+    result,
+    search,
+    verse,
+    count,
+    loading,
+    page,
+    loggedIn,
+    selectedVerse,
+    user,
+  ]);
 
   // result causes a loop with search
 
@@ -610,11 +652,19 @@ function DashboardContent({ loggedIn }) {
                               // use mouse leave to reset context menu selection
                               // onMouseLeave={() => setIsShown(false)}
                             >
-                              <span style={{ position: "absolute"}}>
+                              <span style={{ position: "absolute" }}>
                                 {v.text === selectedVerse[0]?.text && (
-                                  <Tooltip title={loggedIn ? "Add Comment" : "Sign In To Comment"}>
+                                  <Tooltip
+                                    title={
+                                      loggedIn
+                                        ? "Add Comment"
+                                        : "Sign In To Comment"
+                                    }
+                                  >
                                     <IconButton
-                                      onClick={(e) => handleCommentOpen(e,selectedVerse[0])}
+                                      onClick={(e) =>
+                                        handleCommentOpen(e, selectedVerse[0])
+                                      }
                                       sx={{
                                         padding: 1,
                                         opacity: 0.95,
@@ -637,13 +687,17 @@ function DashboardContent({ loggedIn }) {
                                       {loggedIn ? (
                                         <CommentIcon fontSize="small" />
                                       ) : (
-                                        <CommentsDisabledIcon fontSize="small"/>
+                                        <CommentsDisabledIcon fontSize="small" />
                                       )}
                                     </IconButton>
                                   </Tooltip>
                                 )}
                                 {v.text === selectedVerse[0]?.text && (
-                                  <Tooltip title={loggedIn ? "Like" : "Sign In To Like"}>
+                                  <Tooltip
+                                    title={
+                                      loggedIn ? "Like" : "Sign In To Like"
+                                    }
+                                  >
                                     <IconButton
                                       // onClick
                                       sx={{
@@ -799,19 +853,22 @@ function DashboardContent({ loggedIn }) {
             </Grid>
             <Copyright sx={{ pt: 4 }} />
             {commentOpen && selectedVerse[0] && (
-        <FloatingCommentForm
-          open={commentOpen}
-          commentsMenu={commentsMenu}
-          setOpen={setCommentOpen}
-          position={commentPosition}
-          verse={selectedVerse[0]}
-          loggedIn={loggedIn}
-          comments={comments}
-          setComments={setComments}
-          fetchComments={fetchComments}
-          setCommentsMenu={setCommentsMenu}
-          slug={slug}
-        />)}
+              <FloatingCommentForm
+                open={commentOpen}
+                commentsMenu={commentsMenu}
+                setOpen={setCommentOpen}
+                position={commentPosition}
+                verse={selectedVerse[0]}
+                loggedIn={loggedIn}
+                comments={comments}
+                setComments={setComments}
+                fetchComments={fetchComments}
+                setCommentsMenu={setCommentsMenu}
+                slug={slug}
+                setWpToken={setWpToken}
+              />
+            )}
+            <WPLoginModal user={user} token={wpToken} setToken={setWpToken} />
           </Container>
         </Box>
         <Backdrop
@@ -825,6 +882,6 @@ function DashboardContent({ loggedIn }) {
   );
 }
 
-export default function Dashboard({ loggedIn }) {
-  return <DashboardContent loggedIn={loggedIn} />;
+export default function Dashboard({ loggedIn, user, wpToken, setWpToken  }) {
+  return <DashboardContent loggedIn={loggedIn} user={user} wpToken={wpToken} setWpToken={setWpToken} />;
 }
