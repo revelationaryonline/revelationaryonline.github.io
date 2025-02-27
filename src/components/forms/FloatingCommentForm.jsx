@@ -16,15 +16,34 @@ const FloatingCommentForm = ({
   setComments,
   commentsMenu,
   setCommentsMenu,
+  setWpToken
 }) => {
   const [newComment, setNewComment] = useState("");
   const [loading, setLoading] = useState(false);
   const [menuPosition, setMenuPosition] = useState(position); // Store last position
   const [dragging, setDragging] = useState(false);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
+  const [postID, setPostID] = useState(0)
+
+  async function getPostIdBySlug(slug) {
+    const response = await fetch(`https://revelationary.org/wp-json/wp/v2/posts?slug=${slug}`);
+    const data = await response.json();
+    
+    if (data.length > 0) {
+        return data[0].id; // The first item in the array is the post
+    } else {
+        throw new Error("Post not found");
+    }
+}
+
 
   const handleCommentSubmit = async () => {
     if (!newComment.trim()) return;
+    const wpToken = localStorage.getItem('wpToken'); 
+    // if (!wpToken) {
+    //   console.error("User is not authenticated. Token is missing.");
+    //   return;
+    // }
     setLoading(true);
     try {
       const response = await fetch(
@@ -33,17 +52,23 @@ const FloatingCommentForm = ({
           method: "POST",
           headers: {
             "Content-Type": "application/json",
+            "Authorization": `Bearer ${wpToken}`,
           },
           body: JSON.stringify({
             content: newComment,
+            post: postID,
             post_slug: slug,
-            status: "approve",
+            // status: "approve",
           }),
         }
       );
+      console.log(wpToken)
+      console.log(response)
       if (response.ok) {
         setNewComment("");
         fetchComments();
+        console.log('posted')
+        console.log(response)
       }
     } catch (error) {
       console.error("Error submitting comment:", error);
@@ -56,7 +81,9 @@ const FloatingCommentForm = ({
     if (commentsMenu) {
       setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
     }
-  }, [commentsMenu]);
+    const postId = getPostIdBySlug(slug).then((res) => setPostID(res));
+    console.log(postId)
+  }, [commentsMenu, slug]);
 
   const handleMouseDown = (e) => {
     setDragging(true);
@@ -156,6 +183,7 @@ const FloatingCommentForm = ({
                     key={comment.id}
                     variant="body2"
                     sx={{
+                      color:'black',
                       mb: 1,
                       wordBreak: "break-word",
                       whiteSpace: "pre-wrap",

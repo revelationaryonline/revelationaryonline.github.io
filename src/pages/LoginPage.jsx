@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import {  useTheme, ThemeProvider } from "@mui/material/styles";
+import { useTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
@@ -37,7 +37,6 @@ const subscribeToWordPress = async (email) => {
     const data = await response.json();
 
     if (response.ok && !data.subscribed) {
-      // Assuming response tells you if the user is subscribed
       // Proceed with subscription if not already subscribed
       const subscribeResponse = await fetch(WORDPRESS_SUBSCRIBE_API, {
         method: "POST",
@@ -60,16 +59,17 @@ const subscribeToWordPress = async (email) => {
   }
 };
 
-const LoginPage = () => {
+const LoginPage = ({ user }) => {
   const [isSigningUp, setIsSigningUp] = useState(false);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
-  const [isOptedOut, setIsOptedOut] = useState(false); // State to track if user opted out
+  const [isOptedOut, setIsOptedOut] = useState(false); // Track if user opted out
   const navigate = useNavigate();
 
   const theme = useTheme();
   const isDarkMode = theme.palette.mode === "dark";
+
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
     try {
@@ -93,7 +93,7 @@ const LoginPage = () => {
   
       if (existingUsers.length > 0) {
         console.log("User already exists in WordPress:", existingUsers);
-        navigate("/"); // Redirect since they are already registered
+        setTimeout(() => navigate("/"), 500);
         return;
       }
   
@@ -108,7 +108,7 @@ const LoginPage = () => {
           username: user.email.split("@")[0], // Use email prefix as username
           email: user.email,
           roles: ["subscriber"],
-          password: "SecurePass123!", // Ideally, generate a secure password
+          password: Math.random().toString(36).slice(-10), // Generate a secure password
         }),
       });
   
@@ -125,14 +125,10 @@ const LoginPage = () => {
       setError(error.message);
     }
   };
-  
+
   const handleSignUp = async () => {
     try {
-      const userCredential = await createUserWithEmailAndPassword(
-        auth,
-        email,
-        password
-      );
+      const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
       console.log("Signed up with:", user.email);
       if (!isOptedOut) {
@@ -147,20 +143,26 @@ const LoginPage = () => {
 
   const handleLogin = async () => {
     try {
-      const userCredential = await signInWithEmailAndPassword(
-        auth,
-        email,
-        password
-      );
+      const userCredential = await signInWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
       console.log("Logged in as:", user.email);
-      //   alert("Login successful!");
       navigate("/");
     } catch (error) {
       console.error("Error logging in:", error.message);
       setError(error.message);
     }
   };
+
+  useEffect(() => {
+    if (user) {
+      const token = localStorage.getItem("wpToken"); // Ensure token exists
+      if (token) {
+        console.log("Token already exists in storage:", token);
+      } else {
+        console.log("No token found in storage.");
+      }
+    }
+  }, [user]);
 
   return (
     <ThemeProvider theme={mdTheme}>
@@ -190,7 +192,7 @@ const LoginPage = () => {
                   marginLeft: 10,
                   filter: isDarkMode && "invert(1)",
                 }}
-              ></img>
+              />
               <Typography
                 variant="p"
                 component="div"
@@ -215,29 +217,17 @@ const LoginPage = () => {
 
             {isSigningUp && (
               <>
-                <Typography>
-                  A Free account lets you:
-                </Typography>
-                <Box
-                  sx={{
-                    mt: 1,
-                    mb: 3,
-                  }}
-                >
+                <Typography>A Free account lets you:</Typography>
+                <Box sx={{ mt: 1, mb: 3 }}>
                   <Typography
                     sx={{
                       pt: 1,
                       mt: 1,
                       display: "flex",
-                      alignItems: "center", // This centers the icon and text vertically
+                      alignItems: "center",
                     }}
                   >
-                    <CheckCircleIcon
-                      fontSize="small"
-                      color={isOptedOut ? "disabled" : "success"} // Change icon color based on opt-out status
-                      sx={{ mr: 1 }}
-                    />{" "}
-                    {/* Add margin to the right of the icon */}
+                    <CheckCircleIcon fontSize="small" color={isOptedOut ? "disabled" : "success"} sx={{ mr: 1 }} />
                     Add comments on every verse
                   </Typography>
 
@@ -246,15 +236,10 @@ const LoginPage = () => {
                       pt: 1,
                       mt: 1,
                       display: "flex",
-                      alignItems: "center", // This centers the icon and text vertically
+                      alignItems: "center",
                     }}
                   >
-                    <CheckCircleIcon
-                      fontSize="small"
-                      color="success"
-                      sx={{ mr: 1 }}
-                    />{" "}
-                    {/* Add margin to the right of the icon */}
+                    <CheckCircleIcon fontSize="small" color="success" sx={{ mr: 1 }} />
                     Read our blog
                   </Typography>
 
@@ -263,15 +248,10 @@ const LoginPage = () => {
                       pt: 1,
                       mt: 1,
                       display: "flex",
-                      alignItems: "center", // This centers the icon and text vertically
+                      alignItems: "center",
                     }}
                   >
-                    <CheckCircleIcon
-                      fontSize="small"
-                      color="success"
-                      sx={{ mr: 1 }}
-                    />{" "}
-                    {/* Add margin to the right of the icon */}
+                    <CheckCircleIcon fontSize="small" color="success" sx={{ mr: 1 }} />
                     Highlight Verses
                   </Typography>
                 </Box>
@@ -294,46 +274,6 @@ const LoginPage = () => {
               autoFocus
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              sx={{
-                WebkitBoxShadow: "none !important",
-                // Target the fieldset to change the border color
-                "& .Mui-focused": {
-                  color: (theme) =>
-                    theme.palette.mode === "light"
-                      ? "black !important"
-                      : "white !important",
-                  WebkitBoxShadow: "none !important",
-                  "& .MuiOutlinedInput-notchedOutline": {
-                    borderColor: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "#ccc !important"
-                        : "#FFF !important", // Light/dark border
-                    WebkitBoxShadow: "none !important",
-                    color: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "black"
-                        : "white !important",
-                    WebkitBoxShadow: "none !important",
-                  },
-                  "& input:-webkit-autofill": {
-                    WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
-                    WebkitTextFillColor: (theme) =>
-                      theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
-                    transition: "background-color 5000s ease-in-out 0s",
-                  },
-                },
-                // Optional: If you also want to modify the color inside the input
-                "& .MuiInputBase-input": {
-                  color: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white",
-                },
-                "& .MuiInputBase-input:-webkit-autofill": {
-                  WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
-                  WebkitTextFillColor: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
-                  transition: "background-color 5000s ease-in-out 0s",
-                },
-              }}
             />
 
             <TextField
@@ -347,46 +287,6 @@ const LoginPage = () => {
               autoComplete="current-password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
-              sx={{
-                WebkitBoxShadow: "none !important",
-                // Target the fieldset to change the border color
-                "& .Mui-focused": {
-                  color: (theme) =>
-                    theme.palette.mode === "light"
-                      ? "black !important"
-                      : "white !important",
-                  WebkitBoxShadow: "none !important",
-                  "& .MuiOutlinedInput-notchedOutline": {
-                    borderColor: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "#ccc !important"
-                        : "#FFF !important", // Light/dark border
-                    WebkitBoxShadow: "none !important",
-                    color: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "black"
-                        : "white !important",
-                    WebkitBoxShadow: "none !important",
-                  },
-                  "& input:-webkit-autofill": {
-                    WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
-                    WebkitTextFillColor: (theme) =>
-                      theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
-                    transition: "background-color 5000s ease-in-out 0s",
-                  },
-                },
-                // Optional: If you also want to modify the color inside the input
-                "& .MuiInputBase-input": {
-                  color: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white",
-                },
-                "& .MuiInputBase-input:-webkit-autofill": {
-                  WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
-                  WebkitTextFillColor: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
-                  transition: "background-color 5000s ease-in-out 0s",
-                },
-              }}
             />
 
             <Button
@@ -425,10 +325,6 @@ const LoginPage = () => {
                   "&:hover": {
                     backgroundColor: (theme) =>
                       theme.palette.mode === "light" ? "#212121" : "#FFF",
-                    border: (theme) =>
-                      theme.palette.mode !== "light"
-                        ? "1px solid #212121"
-                        : "1px solid #a1a1a1",
                   },
                 }}
                 onClick={handleGoogleSignIn}
@@ -449,15 +345,6 @@ const LoginPage = () => {
                   <Button
                     variant="text"
                     onClick={() => setIsSigningUp(false)}
-                    sx={{
-                      backgroundColor: "#transparent",
-                      color: (theme) =>
-                        theme.palette.mode === "light" ? "#212121" : "#a1a1a1",
-                      // border: (theme) =>
-                      //   theme.palette.mode === "light"
-                      //     ? "1px solid #212121"
-                      //     : "1px solid #a1a1a1",
-                    }}
                   >
                     Sign In
                   </Button>
@@ -468,15 +355,6 @@ const LoginPage = () => {
                   <Button
                     variant="text"
                     onClick={() => setIsSigningUp(true)}
-                    sx={{
-                      backgroundColor: "#transparent",
-                      color: (theme) =>
-                        theme.palette.mode === "light" ? "#212121" : "#a1a1a1",
-                      // border: (theme) =>
-                      //   theme.palette.mode === "light"
-                      //     ? "1px solid #212121"
-                      //     : "1px solid #a1a1a1",
-                    }}
                   >
                     Sign Up
                   </Button>
