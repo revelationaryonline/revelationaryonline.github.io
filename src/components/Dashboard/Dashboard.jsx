@@ -17,7 +17,7 @@ import {
   capitalise,
   mdTheme,
   fetchCount,
-  checkNumbers
+  checkNumbers,
 } from "../../utils/misc";
 import useHighlight from "../../hooks/useHighlight";
 import MenuPanel from "../Menu/MenuPanel";
@@ -33,8 +33,12 @@ import CircularProgress from "@mui/material/CircularProgress";
 import Select from "@mui/material/Select";
 import Tooltip from "@mui/material/Tooltip";
 import VideoModal from "../VideoModal/VideoModal";
+import CommentIcon from "@mui/icons-material/Comment";
+import CommentsDisabledIcon from '@mui/icons-material/CommentsDisabled';
+import FavoriteIcon from "@mui/icons-material/Favorite";
+import FloatingCommentForm from "../forms/FloatingCommentForm";
 import { Image } from "@mui/icons-material";
-import tomb from "../../assets/drawings/tomb.png"
+import tomb from "../../assets/drawings/tomb.png";
 
 // TODO: automate this to be detected on system preferences
 // const mdTheme = createTheme({ palette: { mode: "light" } });
@@ -45,6 +49,7 @@ function DashboardContent({ loggedIn }) {
     setOpen(!open);
   };
   const [contextMenu, setContextMenu] = useState(null);
+  const [commentsMenu, setCommentsMenu] = useState(null);
 
   const [verse, setVerse] = useState([]);
   // const [bookmark, setBookmark] = useState([]);
@@ -66,6 +71,10 @@ function DashboardContent({ loggedIn }) {
   const [resultsPerPage, setResultsPerPage] = useState(25); // Number of results per page
   const [clearSearch, setClearSearch] = useState(false);
   const [focused, setFocused] = useState(false);
+  const [comments, setComments] = useState([]);
+  const [commentOpen, setCommentOpen] = useState(false);
+  const [commentPosition, setCommentPosition] = useState({ x: 0, y: 0 });
+  const [slug, setSlug] = useState("")
 
   const { highlightedVerses, toggleHighlight } = useHighlight();
 
@@ -139,6 +148,7 @@ function DashboardContent({ loggedIn }) {
           // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
           setPage(verse[0].chapter);
           setClearSearch(false);
+          setSlug(`${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
         }
       } else if (
         search.includes('"') &&
@@ -151,6 +161,7 @@ function DashboardContent({ loggedIn }) {
         setCount(result.length - 1);
         setColumns(1);
         setClearSearch(false);
+        setSlug(`${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
       }
       if (
         verse[0]?.book &&
@@ -165,10 +176,11 @@ function DashboardContent({ loggedIn }) {
         setResult([]);
         setCount(matchBookWithNumbers.trim());
         setClearSearch(false);
+        setSlug(`${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
       }
       setLoading(false);
     }
-  }, [visible, result, search, verse, count, loading, page, loggedIn ]);
+  }, [visible, result, search, verse, count, loading, page, loggedIn, selectedVerse]);
 
   // result causes a loop with search
 
@@ -194,7 +206,7 @@ function DashboardContent({ loggedIn }) {
     setVisible(newChecked);
   };
 
-  const handleContextMenu = (event, verse) => {
+  const handleContextMenu = (event) => {
     event.preventDefault();
     // event.target.style.textDecoration === "underline"
     //   ? (event.target.style.textDecoration = "none")
@@ -263,11 +275,10 @@ function DashboardContent({ loggedIn }) {
           ? prev.filter((v) => v !== verse)
           : [...prev, verse]
       );
-    } else if (contextMenu === null ) {
+    } else if (contextMenu === null) {
       // If it's not, add it to the selection
       setSelectedVerse([...selectedVerse, verse]);
     }
-
   };
 
   const handleHighlight = (e) => {
@@ -282,13 +293,50 @@ function DashboardContent({ loggedIn }) {
     handleClose(); // Close the context menu
   };
 
+  const handleCommentOpen = (e) => {
+    if (!loggedIn) return;
+    e.preventDefault();
+    // event.target.style.textDecoration === "underline"
+    //   ? (event.target.style.textDecoration = "none")
+    //   : (event.target.style.textDecoration = "underline");
+    //   setSelectedVerse((prev) => [...prev, verse]);
+
+    setCommentsMenu(
+      commentsMenu === null
+        ? {
+            mouseX: e.clientX,
+            mouseY: e.clientY,
+          }
+        : // repeated contextmenu when it is already open closes it with Chrome 84 on Ubuntu
+          // Other native context menus might behave different.
+          // With this behavior we prevent contextmenu from the backdrop to re-locale existing context menus.
+          null
+    );
+    setCommentPosition({ x: e.mouseX, y: e.mouseY });
+    setCommentOpen(true);
+    fetchComments(slug);
+    // handleClose();
+  };
+
+  const fetchComments = async (slug) => {
+    try {
+      const response = await fetch(
+        `${process.env.REACT_APP_WP_API_URL}/comments?post_slug=${slug}`
+      );
+      const data = await response.json();
+      setComments(data);
+    } catch (error) {
+      console.error("Error fetching comments:", error);
+    }
+  };
+
   // Memoized search results for pagination
   const paginatedResults = useMemo(() => {
     const startIndex = (searchPage - 1) * resultsPerPage;
     const endIndex = startIndex + resultsPerPage;
     return result.slice(startIndex, endIndex);
   }, [result, searchPage, resultsPerPage]);
-   
+
   return (
     <ThemeProvider theme={mdTheme}>
       <Box sx={{ display: "flex", marginTop: 5.75 }}>
@@ -315,7 +363,7 @@ function DashboardContent({ loggedIn }) {
           <TopToolbar
             handleColumns={handleColumns}
             handleFontSize={handleFontSize}
-            // handleViewBookmark={handleGoToBookmark} 
+            // handleViewBookmark={handleGoToBookmark}
             verse={verse}
             page={page}
             fetchVerse={fetchVerse}
@@ -334,10 +382,10 @@ function DashboardContent({ loggedIn }) {
               label="Search"
               id="searchBar"
               sx={{
-                width: 'auto',
+                width: "auto",
                 display: "flex",
                 mx: 3,
-                marginTop: "-0.98rem",                
+                marginTop: "-0.98rem",
                 WebkitBoxShadow: "none !important",
                 // Target the fieldset to change the border color
                 "& .Mui-focused": {
@@ -396,7 +444,7 @@ function DashboardContent({ loggedIn }) {
                   e,
                   setData,
                   setVerse,
-                  searchTerm,                  
+                  searchTerm,
                   setCount,
                   setPage
                 )
@@ -439,16 +487,18 @@ function DashboardContent({ loggedIn }) {
                       position: "absolute",
                       marginBottom: "1rem",
                       marginTop: "-3.5rem",
-                      width: '100%'
+                      width: "100%",
                     }}
                   >
-                    {verse && verse.length >= 1 &&
+                    {verse &&
+                      verse.length >= 1 &&
                       capitalise(verse[0].book) +
                         " " +
                         verse[0].chapter +
                         ":" +
                         verse[verse.length - 1].verse}
-                    {verse && verse.length > 0 &&
+                    {verse &&
+                      verse.length > 0 &&
                       verse[0]?.book &&
                       verse[0]?.chapter && (
                         <VideoModal
@@ -456,9 +506,9 @@ function DashboardContent({ loggedIn }) {
                           currentChapter={verse && verse[0].chapter}
                         />
                       )}
-                  {/* <img style={{ position: 'absolute', right: 125, width: '50px', filter: 'invert(1)'}} src={tomb}></img> */}
+                    {/* <img style={{ position: 'absolute', right: 125, width: '50px', filter: 'invert(1)'}} src={tomb}></img> */}
                   </Typography>
-                  
+
                   <Typography
                     variant="p"
                     component="p"
@@ -560,8 +610,69 @@ function DashboardContent({ loggedIn }) {
                               // use mouse leave to reset context menu selection
                               // onMouseLeave={() => setIsShown(false)}
                             >
+                              <span style={{ position: "absolute"}}>
+                                {v.text === selectedVerse[0]?.text && (
+                                  <Tooltip title={loggedIn ? "Add Comment" : "Sign In To Comment"}>
+                                    <IconButton
+                                      onClick={(e) => handleCommentOpen(e,selectedVerse[0])}
+                                      sx={{
+                                        padding: 1,
+                                        opacity: 0.95,
+                                        mt: -10,
+                                        ml: 5,
+                                        position: "relative",
+                                        background: (theme) =>
+                                          theme.palette.mode === "light"
+                                            ? "#A1a1a1aa"
+                                            : "#212121aa",
+                                        "&.MuiIconButton-root:hover": {
+                                          background: (theme) =>
+                                            theme.palette.mode === "light"
+                                              ? "#A1a1a1"
+                                              : "#212121",
+                                          opacity: 1,
+                                        },
+                                      }}
+                                    >
+                                      {loggedIn ? (
+                                        <CommentIcon fontSize="small" />
+                                      ) : (
+                                        <CommentsDisabledIcon fontSize="small"/>
+                                      )}
+                                    </IconButton>
+                                  </Tooltip>
+                                )}
+                                {v.text === selectedVerse[0]?.text && (
+                                  <Tooltip title={loggedIn ? "Like" : "Sign In To Like"}>
+                                    <IconButton
+                                      // onClick
+                                      sx={{
+                                        padding: 1,
+                                        opacity: 0.95,
+                                        mt: -10,
+                                        ml: 1,
+                                        position: "relative",
+                                        background: (theme) =>
+                                          theme.palette.mode === "light"
+                                            ? "#A1a1a1aa"
+                                            : "#212121aa",
+                                        "&.MuiIconButton-root:hover": {
+                                          background: (theme) =>
+                                            theme.palette.mode === "light"
+                                              ? "#A1a1a1"
+                                              : "#212121",
+                                          opacity: 1,
+                                        },
+                                      }}
+                                    >
+                                      <FavoriteIcon fontSize="small" />
+                                    </IconButton>
+                                  </Tooltip>
+                                )}
+                              </span>
                               {v.text}&nbsp;
                             </span>
+
                             <MenuPanel
                               contextMenu={contextMenu}
                               setContextMenu={() => setContextMenu()}
@@ -622,7 +733,6 @@ function DashboardContent({ loggedIn }) {
                   </Typography>
 
                   {verse && verse.length > 1 && (
-
                     <>
                       <Pagination
                         sx={{
@@ -644,8 +754,10 @@ function DashboardContent({ loggedIn }) {
                       />
                     </>
                   )}
-                  {search && result &&
-                    result.length === 0 && verse &&
+                  {search &&
+                    result &&
+                    result.length === 0 &&
+                    verse &&
                     verse.length === 0 &&
                     !loading && (
                       <Typography
@@ -686,6 +798,20 @@ function DashboardContent({ loggedIn }) {
               />
             </Grid>
             <Copyright sx={{ pt: 4 }} />
+            {commentOpen && selectedVerse[0] && (
+        <FloatingCommentForm
+          open={commentOpen}
+          commentsMenu={commentsMenu}
+          setOpen={setCommentOpen}
+          position={commentPosition}
+          verse={selectedVerse[0]}
+          loggedIn={loggedIn}
+          comments={comments}
+          setComments={setComments}
+          fetchComments={fetchComments}
+          setCommentsMenu={setCommentsMenu}
+          slug={slug}
+        />)}
           </Container>
         </Box>
         <Backdrop
