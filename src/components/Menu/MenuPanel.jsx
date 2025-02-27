@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
 import MenuList from "@mui/material/MenuList";
@@ -11,6 +11,8 @@ import ShareIcon from "@mui/icons-material/Share";
 import AttachFileIcon from "@mui/icons-material/AttachFile";
 import AddLinkIcon from "@mui/icons-material/AddLink";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
+import CommentIcon from "@mui/icons-material/Comment";
+import FloatingCommentForm from "../forms/FloatingCommentForm";
 
 const MenuPanel = ({
   contextMenu,
@@ -24,6 +26,7 @@ const MenuPanel = ({
   setSelectedVerse,
   loggedIn
 }) => {
+
   if (!contextMenu || !selectedVerse) return null;
 
   // copy a verse
@@ -37,9 +40,15 @@ const MenuPanel = ({
     await handleClose();
   };
 
+
+  // useEffect(() => {
+  //   fetchComments();
+  // }, [slug]);
+
   return (
+    <>
     <Menu
-      elevation={0}
+      elevation={1}
       open={contextMenu !== null}
       onClose={handleClose}
       anchorReference="anchorPosition"
@@ -113,8 +122,15 @@ const MenuPanel = ({
             ⌘O
           </Typography>
         </MenuItem> */}
+                  {/* <MenuItem disabled={!loggedIn} onClick={handleCommentOpen}>
+            <ListItemIcon>
+              <CommentIcon fontSize="small" />
+            </ListItemIcon>
+            <ListItemText>Add Comment</ListItemText>
+          </MenuItem> */}
       </MenuList>
     </Menu>
+      </>
   );
 };
 

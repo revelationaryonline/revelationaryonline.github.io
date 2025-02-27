@@ -14,9 +14,7 @@ import BorderColorIcon from "@mui/icons-material/BorderColor";
 const HighlightColorSelect = ({ loggedIn }) => {
   const [anchorEl, setAnchorEl] = useState(null);
   const [selectedColor, setSelectedColor] = useState("#ffeb3b"); // Default color (yellow)
-
-
-  console.log("LOGGED IN", loggedIn)
+  
   // Color options (you can change these)
   const colorOptions = [
     { label: "Yellow", value: "#ffff00" },
