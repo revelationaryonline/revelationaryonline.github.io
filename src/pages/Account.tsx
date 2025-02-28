@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { createTheme, ThemeProvider } from "@mui/material/styles";
+import React from "react";
+import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
@@ -7,11 +7,8 @@ import Grid from "@mui/material/Grid";
 import Paper from "@mui/material/Paper";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import { Copyright } from "../components/Copyright/Copyright";
-import { Skeleton } from "@mui/material";
-import Stack from "@mui/material/Stack";
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
-import Divider from "@mui/material/Divider";
 import ListItemText from "@mui/material/ListItemText";
 import ListSubheader from "@mui/material/ListSubheader";
 import ListItemIcon from "@mui/material/ListItemIcon";
@@ -22,7 +19,7 @@ import Typography from "@mui/material/Typography";
 
 import { mdTheme } from "../utils/misc";
 
-function AccountContent() {
+function AccountContent({ loggedIn }: { loggedIn: boolean }) {
   return (
     <ThemeProvider theme={mdTheme}>
       <Box sx={{ display: "flex", marginTop: "15px", fontFamily: "Quicksand" }}>
@@ -64,7 +61,6 @@ function AccountContent() {
                           width: "auto",
                         }}
                         component="span"
-                        variant="p"
                         color="text.primary"
                       >
                         ACCOUNT
@@ -114,7 +110,6 @@ function AccountContent() {
                           width: "auto",
                         }}
                         component="span"
-                        variant="p"
                         color="text.primary"
                       >
                         CARD PAYMENTS
@@ -260,6 +255,6 @@ function AccountContent() {
   );
 }
 
-export default function Account() {
-  return <AccountContent />;
+export default function Account({ loggedIn }: { loggedIn: boolean }) {
+  return <AccountContent loggedIn />;
 }

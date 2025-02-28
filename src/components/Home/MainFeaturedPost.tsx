@@ -5,12 +5,20 @@ import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid';
 import Link from '@mui/material/Link';
 import Box from '@mui/material/Box';
-import heroPost from "../../assets/hero-post.jpg"
+import heroPost from "../../assets/hero-post.jpg";
 
-const MainFeaturedPost = (props) => {
-    const { post } = props;
+interface Post {
+    title: string;
+    excerpt: string;
+    URL: string;
+    post_thumbnail: {
+        URL: string;
+    };
+}
 
-    function extractContent(s) {
+const MainFeaturedPost = ({ post }: { post: Post }) => {
+
+    function extractContent(s: string) {
         var span = document.createElement('span');
         span.innerHTML = s;
         return span.textContent || span.innerText;
@@ -36,7 +44,7 @@ const MainFeaturedPost = (props) => {
             elevation={5}
         >
             {/* Increase the priority of the hero background image */}
-            {<img style={{ display: 'none', borderRadius: '15px' }} src={post && post?.post_thumbnail?.URL} alt={'post'} />}
+            <img style={{ display: 'none', borderRadius: '15px' }} src={post && post?.post_thumbnail?.URL} alt={'post'} />
             <Box
                 sx={{
                     position: 'absolute',
@@ -58,7 +66,7 @@ const MainFeaturedPost = (props) => {
                             pr: { md: 0 },
                         }}
                     >
-                        <Typography component="p" variant="p" color="#a1a1a1" gutterBottom lineHeight={1.1}>
+                        <Typography component="p" color="#a1a1a1" gutterBottom lineHeight={1.1}>
                            Featured Verse
                         </Typography>
                         <Typography component="h1" variant="h4" color="inherit" gutterBottom lineHeight={1.1}>

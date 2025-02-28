@@ -12,13 +12,13 @@ import LoginPage from "./pages/LoginPage";
 import { Box } from "@mui/material";
 
 // Import Firebase authentication
-import { getAuth, onAuthStateChanged } from "firebase/auth";
+import { getAuth, onAuthStateChanged, User } from "firebase/auth";
 
 export default function App() {
-  const [loggedIn, setLoggedIn] = useState(false);
-  const [darkMode, setDarkMode] = useState(false);
-  const [user, setUser] = useState(null);
-  const [wpToken, setWpToken] = useState(Cookies.get('wpToken') || null); // Try to load WP token from localStorage
+  const [loggedIn, setLoggedIn] = useState<boolean>(false);
+  const [darkMode, setDarkMode] = useState<boolean>(false);
+  const [user, setUser] = useState<User | null>(null);
+  const [wpToken, setWpToken] = useState<string | null>(Cookies.get('wpToken') || null); // Try to load WP token from localStorage
 
   // Initialize Firebase Auth
   const auth = getAuth();
@@ -29,7 +29,7 @@ export default function App() {
     setDarkMode(prefersDark);
 
     // Listen for changes in theme preference
-    const themeChangeListener = (e) => {
+    const themeChangeListener = (e: MediaQueryListEvent) => {
       setDarkMode(e.matches);
     };
     
@@ -94,11 +94,11 @@ export default function App() {
         <div className="App">
           <Header loggedIn={loggedIn} />
             <Routes>
-              <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={() => setWpToken()} />} />
-              <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
-              <Route path="/account" element={<Account loggedIn={loggedIn} />} />
-              <Route path="/settings" element={<Account loggedIn={loggedIn} />} />
+              <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
               <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
+              <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
+              <Route path="/settings" element={<Account loggedIn={loggedIn} />} />
+              <Route path="/account" element={<Account loggedIn={loggedIn} />} />
               <Route path="/login" element={<LoginPage user={user} />} />
             </Routes>
         </div>
