@@ -16,7 +16,8 @@ const FloatingCommentForm = ({
   setComments,
   commentsMenu,
   setCommentsMenu,
-  selectedVerse
+  selectedVerse,
+  setSelectedVerse
 }) => {
   const [newComment, setNewComment] = useState("");
   const [loading, setLoading] = useState(false);
@@ -70,6 +71,8 @@ const FloatingCommentForm = ({
         setNewComment("");
         fetchComments();
         console.log('posted')
+        setCommentsMenu(null)
+        setSelectedVerse([])
         // console.log(response)
       }
     } catch (error) {
@@ -168,8 +171,8 @@ useEffect(() => {
       open={open}
       anchorReference="anchorPosition"
       anchorPosition={{
-        top: menuPosition && menuPosition.y,
-        left: menuPosition && menuPosition.x,
+        top: menuPosition && menuPosition.y || 100,
+        left: menuPosition && menuPosition.x || 20,
       }}
       sx={{
         "& ul": { padding: 0 },
