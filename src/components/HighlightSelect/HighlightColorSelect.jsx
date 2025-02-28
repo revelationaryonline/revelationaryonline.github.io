@@ -58,6 +58,8 @@ const HighlightColorSelect = ({ loggedIn }) => {
           <BorderColorIcon
             sx={{
               width: "22px",
+              height: "22px",
+              marginTop: "2px",
             }}
             fontSize={"small"}
           />
@@ -69,12 +71,13 @@ const HighlightColorSelect = ({ loggedIn }) => {
         anchorEl={anchorEl}
         open={Boolean(anchorEl)}
         onClose={closeMenu}
-        dense
+        
       >
         {colorOptions.map((color) => (
           <MenuItem
             key={color.value}
             onClick={() => handleColorSelect(color.value)}
+            dense
             sx={{
               backgroundColor: (theme) =>
                 theme.palette.mode === "light" ? "#FFFFFF" : '#212121"',

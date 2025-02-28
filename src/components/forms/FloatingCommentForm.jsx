@@ -17,7 +17,8 @@ const FloatingCommentForm = ({
   commentsMenu,
   setCommentsMenu,
   selectedVerse,
-  setSelectedVerse
+  setSelectedVerse,
+  handleClose
 }) => {
   const [newComment, setNewComment] = useState("");
   const [loading, setLoading] = useState(false);
@@ -113,8 +114,6 @@ const FloatingCommentForm = ({
 useEffect(() => {    
   const fetchPostAndComments = async () => {
     if (commentsMenu && selectedVerse && selectedVerse[0]) {
-      console.log(selectedVerse);
-      
       const newSlug = `${selectedVerse[0]?.book.trim()}-${selectedVerse[0]?.chapter}${selectedVerse[0]?.verse}`;
       await setSlug(newSlug);
 
@@ -135,7 +134,7 @@ useEffect(() => {
     setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
   }
   fetchPostAndComments();
-}, [commentsMenu, selectedVerse]);
+}, [commentsMenu, selectedVerse, open]);
 
   const handleMouseDown = (e) => {
     setDragging(true);
@@ -202,7 +201,7 @@ useEffect(() => {
           <IconButton
             sx={{ position: "absolute", right: 8, top: 8 }}
             size="small"
-            onClick={() => setOpen(false)}
+            onClick={() => setOpen(false) && handleClose() && setSelectedVerse([])}
           >
             <CloseIcon fontSize="small" />
           </IconButton>
