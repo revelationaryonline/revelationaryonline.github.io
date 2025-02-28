@@ -42,6 +42,7 @@ const HighlightColorSelect = ({ loggedIn }) => {
   return (
     <>
       <Tooltip title="Highlight Color" fontSize="small">
+        <span>
         <IconButton
           disabled={!loggedIn}
           onClick={openMenu}
@@ -61,6 +62,7 @@ const HighlightColorSelect = ({ loggedIn }) => {
             fontSize={"small"}
           />
         </IconButton>
+        </span>
       </Tooltip>
 
       <Menu

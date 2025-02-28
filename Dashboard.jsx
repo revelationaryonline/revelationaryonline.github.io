@@ -119,9 +119,9 @@ function DashboardContent() {
       <Box sx={{ display: "flex" }}>
         <CssBaseline />
         <SideBar handleToggle={toggleDrawer} open={open} toggleDrawer={toggleDrawer} checked={checked} />
-        <Box component="main" sx={{ backgroundColor: (theme) => theme.palette.mode === "light" ? theme.palette.grey[300] : theme.palette.grey[900], flexGrow: 1, height: "100vh", overflow: "auto", marginTop: { xs: "0.5rem", sm: "1rem" } }}>
+        <Box component="main" sx={{ backgroundColor: (theme) => theme.palette.mode === "light" ? theme.palette.grey[300] : theme.palette.grey[900], flexGrow: 1, height: "100vh", overflow: "auto", mt: { xs: "0.5rem", sm: "1rem" } }}>
           <TopToolbar handleColumns={setColumns} handleFontSize={setTextSize} />
-          <Box sx={{ display: "flex", alignItems: "center", mx: 3, marginTop: "-1rem" }}>
+          <Box sx={{ display: "flex", alignItems: "center", mx: 3, mt: "-1rem" }}>
             <TextField
               inputProps={{ "aria-labelledby": "switch-list-label-search" }}
               label="Search"
@@ -142,10 +142,10 @@ function DashboardContent() {
             <Grid container spacing={3}>
               <Grid item xs={12} md={checked.includes("guide") ? 8 : 12} lg={checked.includes("guide") ? 9 : 12}>
                 <Paper sx={{ px: { xs: 4, md: 8 }, py: 12, display: "flex", width: "auto", position: "relative", textAlign: "justify", height: "auto" }} elevation={4}>
-                  <Typography variant="h5" component="div" gridColumn={1} className="verse__title" sx={{ fontFamily: "EB Garamond", fontWeight: 200, fontSize: "1.85rem", display: "flex", position: "absolute", marginBottom: "1rem", marginTop: "-3.5rem" }}>
+                  <Typography variant="h5" component="div" gridColumn={1} className="verse__title" sx={{ fontFamily: "EB Garamond", fontWeight: 200, fontSize: "1.85rem", display: "flex", position: "absolute", marginBottom: "1rem", mt: "-3.5rem" }}>
                     {verse.length >= 1 && capitalise(verse[0].book) + " " + verse[0].chapter + ":" + verse[verse.length - 1].verse}
                   </Typography>
-                  <Typography variant="p" component="p" gridColumn={3} className="verse__container" sx={{ fontFamily: "EB Garamond", fontWeight: 200, fontSize: `${textSize}px`, display: "inline-block", columns: verse.length === 1 ? 1 : columns }}>
+                  <Typography variant="span" component="span" gridColumn={3} className="verse__container" sx={{ fontFamily: "EB Garamond", fontWeight: 200, fontSize: `${textSize}px`, display: "inline-block", columns: verse.length === 1 ? 1 : columns }}>
                     {verse.length >= 1 ? verse.map((v, index) => (
                       <span onContextMenu={(e) => handleContextMenu(e, v)} style={{ cursor: "context-menu" }} key={index} value={v} className={`${v.text === selectedVerse[0]?.text ? "verse__selected" : ""}`}>
                         <span className="verse__number">{v.verse}&nbsp;</span>
@@ -166,11 +166,11 @@ function DashboardContent() {
                   )}
                   {result.length >= 1 && (
                     <Grid item>
-                      <Typography item sx={{ display: "block", marginTop: "-3rem", marginLeft: "-2rem", width: "auto", position: "absolute" }} className={`result__total ${verse ? "hide" : "show"}`}>
+                      <Typography item sx={{ display: "block", mt: "-3rem", marginLeft: "-2rem", width: "auto", position: "absolute" }} className={`result__total ${verse ? "hide" : "show"}`}>
                         {`${result.length} results`}
                       </Typography>
                       <Pagination
-                        sx={{ position: "relative", marginTop: "1rem" }}
+                        sx={{ position: "relative", mt: "1rem" }}
                         count={Math.ceil(result.length / resultsPerPage)}
                         page={searchPage}
                         onChange={handleSearchPageChange}
@@ -178,12 +178,12 @@ function DashboardContent() {
                     </Grid>
                   )}
                   {!search && (
-                    <Typography item sx={{ display: "block", marginTop: "-3rem", marginLeft: "-2rem", width: "auto", position: "absolute" }}>
+                    <Typography item sx={{ display: "block", mt: "-3rem", marginLeft: "-2rem", width: "auto", position: "absolute" }}>
                       Start typing to search...
                     </Typography>
                   )}
                   {search && result.length === 0 && !loading && (
-                    <Typography item sx={{ display: "block", marginTop: "-3rem", marginLeft: "-2rem", width: "auto", position: "absolute" }}>
+                    <Typography item sx={{ display: "block", mt: "-3rem", marginLeft: "-2rem", width: "auto", position: "absolute" }}>
                       No results found.
                     </Typography>
                   )}

@@ -15,9 +15,8 @@ import DonateButton from "../DonateButton/DonateButton";
 import FullscreenButton from "../FullScreenButton/FullScreenButton";
 import HighlightColorSelect from "../HighlightSelect/HighlightColorSelect";
 import ShortTextIcon from '@mui/icons-material/ShortText';
-import BookmarksIcon from '@mui/icons-material/Bookmarks';
+import BookmarksIcon from '@mui/icons-material/Bookmarks'; // FUTURE: multi-bookmarks?
 import CommentBankOutlinedIcon from '@mui/icons-material/CommentBankOutlined';
-import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
 import BookmarkButton from "../BookmarkButton/BookmarkButton";
 
 const TopToolbar = ({
@@ -32,9 +31,6 @@ const TopToolbar = ({
   setVerse,
   loggedIn
 }) => {
-  const handleAddComment = () => {
-    console.log("Comment");
-  };
 
   return (
     <Toolbar sx={{ mb: 2.3, mt: -0.075 }}>
@@ -124,18 +120,6 @@ const TopToolbar = ({
               }
             }}>
             <AccountTreeIcon fontSize={'small'}/>
-          </IconButton>
-        </Tooltip> */}
-        {/* <Tooltip title="Bookmarks">
-          <IconButton onClick={() => handleGoToBookmark()}
-            sx={{
-              opacity: 0.75,
-              '&.MuiIconButton-root:hover':{
-                backgroundColor: 'rgba(0, 0, 0, 0.00)',
-                opacity: 1
-              }
-            }}>
-            <BookmarkBorderIcon fontSize="small" />
           </IconButton>
         </Tooltip> */}
         <BookmarkButton 
