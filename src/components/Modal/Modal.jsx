@@ -64,45 +64,56 @@ export default function AlertDialogSlide() {
               <CloseIcon />
             </IconButton>
           </Box>
-          <DialogTitle fontSize={17} position={'absolute'} marginTop={-2}>{"Help - How to use the Search Bar"}</DialogTitle>
-          <DialogActions marginTop={-10}>
+          <DialogTitle fontSize={17} position={'absolute'} mt={-2}>{"Help - How to use the Search Bar"}</DialogTitle>
+          <DialogActions mt={-10}>
           </DialogActions>
           <DialogContent>
             <DialogContentText id="alert-dialog-slide-description">
-              <Typography variant="body2" gutterBottom marginBottom={2}>
+              <Typography variant="span" sx={{ display: 'block'}} gutterBottom marginBottom={2}>
                 The search bar uses it's own shortcuts to search biblical text.
                 This is intended for ease of use and faster searches.
               </Typography>
               
               {/* Antonia 17 */}
-              <Typography fontSize={17} variant="h6" color="white" gutterBottom>
+              <Typography fontSize={17} variant="span" sx={{ display: 'block'}} color="white" gutterBottom>
                 Searching for keywords or Phrases
               </Typography>
-              <Typography variant="body2" gutterBottom marginBottom={2}>
+              <Typography variant="span" sx={{ display: 'block'}} gutterBottom marginBottom={2}>
                 To search for a keyword or phrase just type your text in
                 double quotation marks " and press enter. 
                 For example: 
-                <pre><code>"light"</code></pre>
+                <span style={{
+                  display: 'block'
+                }}>
+                <code>"light"</code></span>
                 Will search the entire Bible for any references to the word light.
               </Typography>
-              <Typography fontSize={17} variant="h6" color="white" gutterBottom>
+              <Typography fontSize={17} variant="span" sx={{ display: 'block'}} color="white" gutterBottom>
                 Searching for Chapters
               </Typography>
-              <Typography variant="body2" gutterBottom marginBottom={2}>
+              <Typography variant="span" sx={{ display: 'block'}} gutterBottom marginBottom={2}>
                 To search for a chapter just type a : after the
                 chapter number. So, First John Chapter three would be: 
-                <pre><code>1 John 3:</code></pre>
+                <span style={{
+                  display: 'block'
+                }}>
+                <code>1 John 3:</code></span>
                 or
-                <pre><code>first John 3:</code></pre>
+                <span style={{
+                  display: 'block'
+                }}>
+                <code>first John 3:</code></span>
                  Then press return
               </Typography>
-              <Typography fontSize={17} variant="h6" color="white" gutterBottom>
+              <Typography fontSize={17} variant="span" sx={{ display: 'block'}} color="white" gutterBottom>
                 Searching for Verses
               </Typography>
-              <Typography variant="body2" gutterBottom marginBottom={2}>
+              <Typography variant="span" sx={{ display: 'block'}} gutterBottom marginBottom={2}>
                 To search for a verse just type the book name, the chapter
                 number then a : followed by a verse. For example: 
-                <pre><code>John 3:16</code></pre>
+                <span style={{
+                  display: 'block'
+                }}><code>John 3:16</code></span>
                 Then press return
               </Typography>
             </DialogContentText>

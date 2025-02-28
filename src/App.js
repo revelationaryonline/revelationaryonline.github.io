@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Routes, Route } from "react-router-dom";
+import Cookies from 'js-cookie';
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import "./App.css";
 import Header from "./components/Header/Header";
@@ -17,8 +18,7 @@ export default function App() {
   const [loggedIn, setLoggedIn] = useState(false);
   const [darkMode, setDarkMode] = useState(false);
   const [user, setUser] = useState(null);
-  const [token, setToken] = useState(null); // State for storing the Firebase token
-  const [wpToken, setWpToken] = useState(localStorage.getItem('wp_token') || null); // Try to load WP token from localStorage
+  const [wpToken, setWpToken] = useState(Cookies.get('wpToken') || null); // Try to load WP token from localStorage
 
   // Initialize Firebase Auth
   const auth = getAuth();
@@ -47,31 +47,11 @@ export default function App() {
       if (user) {
         setLoggedIn(true);
         setUser(user);
-  
-        try {
-          // Retrieve the Firebase ID token
-          const firebaseToken = await user.getIdToken();
-          setToken(firebaseToken); // Store the Firebase token
-          console.log("Firebase Token:", firebaseToken);
-  
-          // Exchange Firebase token for WordPress JWT
-          // const wpToken = await getWPToken(firebaseToken);
-          // console.log(wpToken);
-          // if (wpToken) {
-          //   setWpToken(wpToken); // Store the WP JWT token
-          //   localStorage.setItem('wp_token', wpToken); // Store the WordPress token
-          //   console.log("WordPress Token:", wpToken);
-          // } else {
-          //   console.error("Failed to get WordPress JWT");
-          // }
-        } catch (error) {
-          console.error("Error retrieving tokens:", error);
-        }
       } else {
         setLoggedIn(false);
         setUser(null);
         setWpToken(null);
-        localStorage.removeItem('wp_token');
+        Cookies.remove('wpToken')
       }
     });
   

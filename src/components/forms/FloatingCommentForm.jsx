@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import Cookies from 'js-cookie';
 import { TextField, Button, Typography, MenuItem, Box } from "@mui/material";
 import Menu from "@mui/material/Menu";
 import IconButton from "@mui/material/IconButton";
@@ -8,42 +9,43 @@ const FloatingCommentForm = ({
   open,
   setOpen,
   position,
-  verse,
   loggedIn,
-  fetchComments,
   slug,
+  setSlug,
   comments,
   setComments,
   commentsMenu,
   setCommentsMenu,
-  setWpToken
+  selectedVerse
 }) => {
   const [newComment, setNewComment] = useState("");
   const [loading, setLoading] = useState(false);
   const [menuPosition, setMenuPosition] = useState(position); // Store last position
   const [dragging, setDragging] = useState(false);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
-  const [postID, setPostID] = useState(0)
+  const [postID, setPostID] = useState(null)
 
   async function getPostIdBySlug(slug) {
-    const response = await fetch(`https://revelationary.org/wp-json/wp/v2/posts?slug=${slug}`);
-    const data = await response.json();
-    
-    if (data.length > 0) {
-        return data[0].id; // The first item in the array is the post
-    } else {
-        throw new Error("Post not found");
+    if (commentsMenu && selectedVerse && selectedVerse[0]) {
+      const response = await fetch(`https://revelationary.org/wp-json/wp/v2/posts?slug=${slug}`);
+      const data = await response.json();
+      if (data.length > 0) {
+        return data[0].id; // Return post ID
+      } else {
+        console.error("Post not found");
+        return null;
+      }
     }
-}
+  }
 
 
   const handleCommentSubmit = async () => {
     if (!newComment.trim()) return;
-    const wpToken = localStorage.getItem('wpToken'); 
-    // if (!wpToken) {
-    //   console.error("User is not authenticated. Token is missing.");
-    //   return;
-    // }
+    const wpToken = Cookies.get('wpToken'); 
+    if (!wpToken) {
+      console.error("User is not authenticated. Token is missing.");
+      return;
+    }
     setLoading(true);
     try {
       const response = await fetch(
@@ -62,13 +64,13 @@ const FloatingCommentForm = ({
           }),
         }
       );
-      console.log(wpToken)
-      console.log(response)
+      // console.log(wpToken)
+      // console.log(response)
       if (response.ok) {
         setNewComment("");
         fetchComments();
         console.log('posted')
-        console.log(response)
+        // console.log(response)
       }
     } catch (error) {
       console.error("Error submitting comment:", error);
@@ -77,13 +79,60 @@ const FloatingCommentForm = ({
     }
   };
 
+  const fetchComments = async (postId) => {
+    if (!postId) {
+      console.log("No post ID available, skipping fetchComments");
+      return;
+    }
+    try {
+      const response = await fetch(
+        `https://revelationary.org/wp-json/wp/v2/comments?post=${postId}`
+      );
+      const data = await response.json();
+      setComments(data);
+    } catch (error) {
+      console.error("Error fetching comments:", error);
+    }
+  };
+
   useEffect(() => {
-    if (commentsMenu) {
+    if (commentsMenu && commentsMenu.mouseX !== undefined) {
       setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
     }
-    const postId = getPostIdBySlug(slug).then((res) => setPostID(res));
-    console.log(postId)
-  }, [commentsMenu, slug]);
+  }, [commentsMenu]);
+
+  useEffect(() => {
+    if (postID) {
+      fetchComments(postID);
+    }
+  }, [postID]);
+
+useEffect(() => {    
+  const fetchPostAndComments = async () => {
+    if (commentsMenu && selectedVerse && selectedVerse[0]) {
+      console.log(selectedVerse);
+      
+      const newSlug = `${selectedVerse[0]?.book.trim()}-${selectedVerse[0]?.chapter}${selectedVerse[0]?.verse}`;
+      await setSlug(newSlug);
+
+      try {
+        const postId = await getPostIdBySlug(newSlug); // Wait for post ID
+        console.log("Fetched Post ID:", postId);
+
+        if (postId) {
+          setPostID(postId);
+          fetchComments(postId); // Fetch comments using the correct post ID
+        }
+      } catch (error) {
+        console.error("Error fetching post ID:", error);
+      }
+    }
+  };
+  if (commentsMenu) {
+    setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
+  }
+  fetchPostAndComments();
+}, [commentsMenu, selectedVerse]);
 
   const handleMouseDown = (e) => {
     setDragging(true);
@@ -119,8 +168,8 @@ const FloatingCommentForm = ({
       open={open}
       anchorReference="anchorPosition"
       anchorPosition={{
-        top: menuPosition.y,
-        left: menuPosition.x,
+        top: menuPosition && menuPosition.y,
+        left: menuPosition && menuPosition.x,
       }}
       sx={{
         "& ul": { padding: 0 },

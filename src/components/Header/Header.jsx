@@ -142,7 +142,7 @@ function Header(props) {
                 style={{
                   width: "20px",
                   height: "20px",
-                  marginTop: '7px',
+                  mt: '7px',
                   marginRight: 10,
                   marginLeft: 10,
                   filter: isDarkMode ? "invert(1)" : "none",
@@ -210,7 +210,6 @@ function Header(props) {
                   vertical: "top",
                   horizontal: "right",
                 }}
-                borderRadius={0}
                 open={Boolean(anchorElUser)}
                 onClose={handleCloseUserMenu}
               >
@@ -246,7 +245,7 @@ function Header(props) {
                         <Typography
                           sx={{
                             marginLeft: 2,
-                            marginTop: 1,
+                            mt: 1,
                             fontSize: "0.75rem",
                             fontWeight: 600,
                             color: "white",
@@ -257,7 +256,7 @@ function Header(props) {
                         <Typography
                           sx={{
                             marginLeft: 2,
-                            marginTop: -1,
+                            mt: -1,
                             fontSize: "0.65rem",
                             fontWeight: 400,
                             color: "white",

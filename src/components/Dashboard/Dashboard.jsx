@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useMemo } from "react";
+import Cookies from "js-cookie";
 import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
@@ -141,18 +142,19 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
   };
 
   useEffect(() => {
-    const savedToken = localStorage.getItem("wpToken");
+    const savedToken = Cookies.get("wpToken"); // expires in 7 days
+
     if (savedToken) {
-      setWpToken(savedToken);
+      Cookies.set("wpToken", wpToken, { expires: 7, path: "" }); // expires in 7 days
     }
   }, []);
 
   useEffect(() => {
-    if (wpToken) {
-      localStorage.setItem("wpToken", wpToken);
-      console.log(wpToken)
+    if (wpToken && loggedIn) {
+      Cookies.set("wpToken", wpToken, { expires: 7, path: "" }); // expires in 7 days
+      // console.log(wpToken);
     } else {
-      localStorage.removeItem("wpToken");
+      // Cookies.remove('wpToken');
     }
   }, [wpToken]);
 
@@ -163,14 +165,22 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
         setPage(1);
         setCount(-1);
         setSlug(
-          `${"genesis"}-${1}${1}`
+          `${selectedVerse[0] ? selectedVerse[0]?.book : "genesis"}-${
+            selectedVerse[0] && selectedVerse[0]?.chapter
+              ? selectedVerse[0]?.chapter
+              : 1
+          }${
+            selectedVerse[0] && selectedVerse[0]?.verse
+              ? selectedVerse[0]?.verse
+              : 1
+          }`
         );
         if (verse[0]?.book && count === -1) {
           // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
           setPage(verse[0].chapter);
           setClearSearch(false);
           setSlug(
-            `${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`
+            `${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.ve}`
           );
         }
       } else if (
@@ -184,7 +194,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
         setCount(result.length - 1);
         setColumns(1);
         setClearSearch(false);
-        setSlug(`${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
+        setSlug(`${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
       }
       if (
         verse[0]?.book &&
@@ -199,7 +209,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
         setResult([]);
         setCount(matchBookWithNumbers.trim());
         setClearSearch(false);
-        setSlug(`${verse[0].book}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
+        setSlug(`${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
       }
       if (user === null || user === undefined) {
         if (wpToken) {
@@ -222,6 +232,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     loggedIn,
     selectedVerse,
     user,
+    slug,
   ]);
 
   // result causes a loop with search
@@ -310,7 +321,10 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
 
   const handleVerseSelect = (verse) => {
     // Check if the verse is already selected
-    if (selectedVerse.includes(verse) && contextMenu === null) {
+    if (
+      (selectedVerse.includes(verse) && contextMenu === null) ||
+      (selectedVerse.includes(verse) && commentsMenu === null)
+    ) {
       // If it is, remove it from the selection
       setSelectedVerse((prev) =>
         prev.includes(verse)
@@ -320,56 +334,59 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     } else if (contextMenu === null) {
       // If it's not, add it to the selection
       setSelectedVerse([...selectedVerse, verse]);
+    } else if (commentsMenu === null) {
+      // If it's not, add it to the selection
+      setSelectedVerse([...selectedVerse, verse]);
     }
   };
 
   const handleHighlight = (e) => {
-    // e.preventDefault();
-
     // Loop through all selected verses and toggle highlight for each
     selectedVerse.forEach((verse) => {
       toggleHighlight(verse.id); // Toggle highlight for each selected verse
-      // console.log('Selected Verse ID: ', verse.id);
     });
 
     handleClose(); // Close the context menu
   };
 
-  const handleCommentOpen = (e) => {
+  // const handleCommentOpen = (e) => {
+  //   if (!loggedIn) return;
+  //   e.preventDefault();
+
+  //   // event.target.style.textDecoration === "underline"
+  //   //   ? (event.target.style.textDecoration = "none")
+  //   //   : (event.target.style.textDecoration = "underline");
+  //   //   setSelectedVerse((prev) => [...prev, verse]);
+
+  //   setCommentsMenu(
+  //     commentsMenu === null
+  //       ? {
+  //           mouseX: e.clientX,
+  //           mouseY: e.clientY,
+  //         }
+  //       :
+  //         null
+  //   );
+  //   setCommentPosition({ x: e.mouseX, y: e.mouseY });
+  //   setCommentOpen(true);
+  // };
+
+  const handleCommentOpen = (e, verse) => {
     if (!loggedIn) return;
     e.preventDefault();
-    // event.target.style.textDecoration === "underline"
-    //   ? (event.target.style.textDecoration = "none")
-    //   : (event.target.style.textDecoration = "underline");
-    //   setSelectedVerse((prev) => [...prev, verse]);
-
+    e.stopPropagation(); // Prevent event bubbling
     setCommentsMenu(
       commentsMenu === null
         ? {
             mouseX: e.clientX,
             mouseY: e.clientY,
           }
-        : // repeated contextmenu when it is already open closes it with Chrome 84 on Ubuntu
-          // Other native context menus might behave different.
-          // With this behavior we prevent contextmenu from the backdrop to re-locale existing context menus.
-          null
+        : null
     );
     setCommentPosition({ x: e.mouseX, y: e.mouseY });
     setCommentOpen(true);
-    fetchComments(slug);
-    // handleClose();
-  };
-
-  const fetchComments = async (slug) => {
-    try {
-      const response = await fetch(
-        `${process.env.REACT_APP_WP_API_URL}/comments?post_slug=${slug}`
-      );
-      const data = await response.json();
-      setComments(data);
-    } catch (error) {
-      console.error("Error fetching comments:", error);
-    }
+    console.log("Opening comments for slug:", slug); // Debugging output
+    setSlug(`${verse.book.trim()}-${verse.chapter}${verse.verse}`);
   };
 
   // Memoized search results for pagination
@@ -381,7 +398,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
 
   return (
     <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: "flex", marginTop: 5.75 }}>
+      <Box sx={{ display: "flex", mt: 5.75 }}>
         <CssBaseline />
         <SideBar
           handleToggle={handleToggle}
@@ -399,7 +416,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
             flexGrow: 1,
             height: "100vh",
             overflow: "auto",
-            marginTop: { xs: "0.5rem", sm: "1rem" },
+            mt: { xs: "0.5rem", sm: "1rem" },
           }}
         >
           <TopToolbar
@@ -427,7 +444,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                 width: "auto",
                 display: "flex",
                 mx: 3,
-                marginTop: "-0.98rem",
+                mt: "-0.98rem",
                 WebkitBoxShadow: "none !important",
                 // Target the fieldset to change the border color
                 "& .Mui-focused": {
@@ -528,7 +545,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                       display: "flex",
                       position: "absolute",
                       marginBottom: "1rem",
-                      marginTop: "-3.5rem",
+                      mt: "-3.5rem",
                       width: "100%",
                     }}
                   >
@@ -552,8 +569,8 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                   </Typography>
 
                   <Typography
-                    variant="p"
-                    component="p"
+                    variant="span"
+                    component="span"
                     gridColumn={3}
                     className="verse__container"
                     sx={{
@@ -566,12 +583,11 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                   >
                     {verse && verse.length === 0 && result && (
                       <Grid
-                        item
+                        container
                         display={"flex"}
-                        sx={{ marginBottom: "1rem", marginTop: "-2rem" }}
+                        sx={{ marginBottom: "1rem", mt: "-2rem" }}
                       >
                         <Typography
-                          item
                           sx={{
                             fontSize: "1.2rem", // Jack 12.09
                             marginRight: "9px",
@@ -590,7 +606,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                             ml: 2,
                             padding: 0,
                             height: "2rem",
-                            marginTop: "-0.3rem",
+                            mt: "-0.3rem",
                             marginLeft: "3rem",
                           }}
                         >
@@ -599,10 +615,9 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                           <MenuItem value={100}>100</MenuItem>
                         </Select>
                         <Typography
-                          item
                           sx={{
                             display: "block",
-                            marginTop: "0.20rem", // Mum 20.12
+                            mt: "0.20rem", // Mum 20.12
                             marginLeft: "1.2rem",
                             width: "auto",
                             fontSize: "0.7rem",
@@ -792,7 +807,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                         sx={{
                           position: "fixed",
                           marginLeft: "-50px",
-                          marginTop: "83px", // 83 Samantha
+                          mt: "83px", // 83 Samantha
                           width: "min-content",
                           opacity: 0.75,
                           backgroundColor: (theme) =>
@@ -818,7 +833,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                         item
                         sx={{
                           display: "block",
-                          marginTop: "-3rem",
+                          mt: "-3rem",
                           marginLeft: "-2rem",
                           width: "auto",
                           position: "absolute",
@@ -832,7 +847,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                       <Pagination
                         sx={{
                           position: "absolute",
-                          marginTop: "0rem",
+                          mt: "0rem",
                           marginLeft: "1rem",
                         }}
                         count={Math.ceil(result.length / resultsPerPage)}
@@ -852,19 +867,18 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
               />
             </Grid>
             <Copyright sx={{ pt: 4 }} />
-            {commentOpen && selectedVerse[0] && (
+            {commentOpen && selectedVerse && (
               <FloatingCommentForm
                 open={commentOpen}
                 commentsMenu={commentsMenu}
                 setOpen={setCommentOpen}
                 position={commentPosition}
-                verse={selectedVerse[0]}
                 loggedIn={loggedIn}
                 comments={comments}
                 setComments={setComments}
-                fetchComments={fetchComments}
                 setCommentsMenu={setCommentsMenu}
                 slug={slug}
+                setSlug={setSlug}
                 setWpToken={setWpToken}
               />
             )}
@@ -882,6 +896,13 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
   );
 }
 
-export default function Dashboard({ loggedIn, user, wpToken, setWpToken  }) {
-  return <DashboardContent loggedIn={loggedIn} user={user} wpToken={wpToken} setWpToken={setWpToken} />;
+export default function Dashboard({ loggedIn, user, wpToken, setWpToken }) {
+  return (
+    <DashboardContent
+      loggedIn={loggedIn}
+      user={user}
+      wpToken={wpToken}
+      setWpToken={setWpToken}
+    />
+  );
 }

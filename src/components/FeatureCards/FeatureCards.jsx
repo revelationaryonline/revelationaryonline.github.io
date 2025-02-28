@@ -58,7 +58,7 @@ function FeatureCards() {
               sx={{
                 minWidth: "80%",
                 background: "#e1e1e1",
-                marginTop: "3rem",
+                mt: "3rem",
                 mx: "1rem",
                 padding: "1rem",
               }}
@@ -66,7 +66,7 @@ function FeatureCards() {
             >
               <CardContent>
                 <Typography
-                  sx={{ fontSize: 15, marginTop: "1rem", marginBottom: "1rem" }}
+                  sx={{ fontSize: 15, mt: "1rem", marginBottom: "1rem" }}
                   color="#212121"
                   gutterBottom
                 >
@@ -95,7 +95,7 @@ function FeatureCards() {
               sx={{
                 minWidth: "80%",
                 background: "#e1e1e1",
-                marginTop: "3rem",
+                mt: "3rem",
                 mx: "1rem",
                 padding: "1rem",
               }}
@@ -103,7 +103,7 @@ function FeatureCards() {
             >
               <CardContent>
                 <Typography
-                  sx={{ fontSize: 15, marginTop: "1rem", marginBottom: "1rem" }}
+                  sx={{ fontSize: 15, mt: "1rem", marginBottom: "1rem" }}
                   color="#212121"
                   gutterBottom
                 >
@@ -132,7 +132,7 @@ function FeatureCards() {
               sx={{
                 minWidth: "80%",
                 background: "#e1e1e1",
-                marginTop: "3rem",
+                mt: "3rem",
                 mx: "1rem",
                 padding: "1rem",
               }}
@@ -140,7 +140,7 @@ function FeatureCards() {
             >
               <CardContent>
                 <Typography
-                  sx={{ fontSize: 15, marginTop: "1rem", marginBottom: "1rem" }}
+                  sx={{ fontSize: 15, mt: "1rem", marginBottom: "1rem" }}
                   color="#212121"
                   gutterBottom
                 >

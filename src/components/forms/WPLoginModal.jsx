@@ -1,16 +1,18 @@
 import { useState, useEffect } from "react";
+import Cookies from 'js-cookie';
 import { Modal, Box, Typography, TextField, Button } from "@mui/material";
 
-const WPLoginModal = ({ user, token, setWpToken }) => {
+const WPLoginModal = ({ user, wpToken }) => {
   const [open, setOpen] = useState(false);
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
 
   useEffect(() => {
+    const token = Cookies.get('wpToken') || ""
     if (user && !token) {
       setOpen(true); // Open modal if user is logged in but has no WP token
     }
-  }, [user, token]);
+  }, [user, wpToken]);
 
   const handleLogin = async () => {
     if (!user || !password) return;
@@ -29,10 +31,11 @@ const WPLoginModal = ({ user, token, setWpToken }) => {
 
       if (response.ok) {
         // setWpToken(data.token);
-        localStorage.setItem('wpToken', data.token)
+        Cookies.set('wpToken', data.token, { expires: 7, path: '' }); // expires in 7 days
+        
         setOpen(false); // Close modal on success
       } else {
-        setError("Invalid login. Please check your credentials.");
+        setError("Invalid password. Please check your credentials.");
       }
     } catch (error) {
       console.error("Error fetching token:", error);

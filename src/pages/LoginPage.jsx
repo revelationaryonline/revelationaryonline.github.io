@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
+import Cookies from 'js-cookie';
 import { useTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
@@ -155,7 +156,8 @@ const LoginPage = ({ user }) => {
 
   useEffect(() => {
     if (user) {
-      const token = localStorage.getItem("wpToken"); // Ensure token exists
+      const token = Cookies.get('wpToken');
+      // Ensure token exists
       if (token) {
         console.log("Token already exists in storage:", token);
       } else {
