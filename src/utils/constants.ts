@@ -1,6 +1,6 @@
 export const drawerWidth = 240;
 
-export const booksArr = [
+export const booksArr: string[] = [
   "Genesis",
   "Exodus",
   "Leviticus",
