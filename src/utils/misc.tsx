@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from 'react';
+import React, { useRef, useState, useEffect, ReactNode } from 'react';
 import { createTheme } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import { booksArr } from "./constants";
@@ -22,75 +22,79 @@ export const bull = (
 );
 
 // capitalise
-export const capitalise = (str) => {
+export const capitalise = (str: string): string => {
   let res = str.split("");
   res[0] = res[0].toUpperCase();
   return res.join("");
 };
 
 // check Book Title for Numbers (Words to Integers)
-export const checkNumbers = (arr) => {
+export const checkNumbers = (arr: unknown[] | string[]): string => {
   let res = "";
   switch (true) {
-    case arr[0].includes("first"):
-      res = `first${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("first"):
+      res = `first${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("First"):
-      res = `first${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("First"):
+      res = `first${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("1st"):
-      res = `first${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("1st"):
+      res = `first${capitalise(arr[1] as string)}` as unknown as string;
       return res;
-    case arr[0].includes("1"):
-      res = `first${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("1"):
+      res = `first${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes(1):
-      res = `first${capitalise(arr[1])}`;
+    case (arr[0] as number).toString().includes("1"):
+      res = `first${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("second"):
-      res = `second${capitalise(arr[1])}`;
+    case (arr[0] as string ).includes("second"):
+      res = `second${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("Second"):
-      res = `second${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("Second"):
+      res = `second${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("2nd"):
-      res = `second${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("2nd"):
+      res = `second${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("2"):
-      res = `second${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("2"):
+      res = `second${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes(2):
-      res = `second${capitalise(arr[1])}`;
+    case (arr[0] as number).toString().includes("2"):
+      res = `second${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("third"):
-      res = `third${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("third"):
+      res = `third${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("Third"):
-      res = `third${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("Third"):
+      res = `third${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("3rd"):
-      res = `third${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("3rd"):
+      res = `third${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes("3"):
-      res = `third${capitalise(arr[1])}`;
+    case (arr[0] as string).includes("3"):
+      res = `third${capitalise(arr[1] as string)}`;
       return res;
-    case arr[0].includes(3):
-      res = `third${capitalise(arr[1])}`;
+    case (arr[0] as number).toString().includes("3"):
+      res = `third${capitalise(arr[1] as string)}`;
       return res;
     default:
-      return arr[0];
+      return (arr[0] as string | number).toString();
   }
 };
 
 /* EVENTs */
 
 // Mouse
-export const handleMouseHover = (e, setHover, setIsShown) => {
+export const handleMouseHover = (
+  e: React.MouseEvent,
+  setHover: React.Dispatch<React.SetStateAction<React.MouseEvent | null>>,
+  setIsShown: React.Dispatch<React.SetStateAction<boolean>>
+): void => {
   setHover(e);
   setIsShown(true);
 };
 
-const bookSources = {
+const bookSources: { [key: string]: { [key: number]: number } } = {
   genesis: {
     1: 50
   },
@@ -291,7 +295,7 @@ const bookSources = {
   }
 };
 
-export const fetchCount = (book) => {
+export const fetchCount = (book: string): number | string => {
 
   if (!book) {
     console.log("Missing book or chapter:", book );
@@ -300,34 +304,41 @@ export const fetchCount = (book) => {
 
   // Trim spaces and make sure the format is correct
   const cleanBook = book.trim().replace(/\s+/g, "-");
-  // const cleanChapter = chapter.toString().trim();
 
   if (bookSources[cleanBook]) {
       return bookSources[cleanBook][1]
   }
 
+  return "";
 }
 
 // SearchBar
-export const handleSearch = async (e, setData, setVerse, searchTerm, setCount, setPage) => {
+export const handleSearch = async (
+  e: React.KeyboardEvent<HTMLInputElement>,
+  setData: React.Dispatch<React.SetStateAction<any[]>>,
+  setVerse: React.Dispatch<React.SetStateAction<any[]>>,
+  searchTerm: (term: string) => void,
+  setCount: React.Dispatch<React.SetStateAction<number | string>>,
+  setPage: React.Dispatch<React.SetStateAction<number>>
+): Promise<void> => {
   setPage(1)
   if (e.keyCode === 13) {
-    const term = e.target.value;
+    const term = (e.target as HTMLInputElement).value;
     if ((term.match(/"/g) || []).length >= 2) {
       searchTerm(term);
     } else {
       let str = term.split(" ");
-      let m;
-      let ver = [];
+      let m: RegExpExecArray | null;
+      let ver: string[] = [];
 
       if (str.length >= 1 && !str.join(" ").includes('"')) {
         let lwrCase = booksArr.map((book) => book.toLowerCase());
         let matchBook = booksArr.includes(str[0]) || lwrCase.includes(str[0]);
-        let matchBookWithNumbers = checkNumbers(str);
+        let matchBookWithNumbers = checkNumbers(str) as string;
         const regex = new RegExp("[0-9]*:[0-9]*", "gm");
 
         if (matchBook) {
-          while ((m = regex.exec(str)) !== null) {
+          while ((m = regex.exec(str.join(" "))) !== null) {
             if (m.index === regex.lastIndex) {
               regex.lastIndex++;
             }
@@ -344,7 +355,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setCount, s
             fetchVerse(str[0], 1, "", setData, setVerse);
           }
         } else if (matchBookWithNumbers) {
-          while ((m = regex.exec(str)) !== null) {
+          while ((m = regex.exec(str.join(" "))) !== null) {
             if (m.index === regex.lastIndex) {
               regex.lastIndex++;
             }
@@ -375,16 +386,21 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setCount, s
 /* DATA DRIVEN */
 
 // fetch Verse
-export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
+export const fetchVerse = async (
+  book: string,
+  chapter: string | number,
+  verse: string | number,
+  setData: React.Dispatch<React.SetStateAction<any[]>>,
+  setVerse: React.Dispatch<React.SetStateAction<any[]>>
+): Promise<void> => {
 
   try {
     await fetch(
-      `https://kjvapp.com/api/${book + "/"}${chapter}/${verse !== "" ? new Number(verse) : ""
+      `https://kjvapp.com/api/${book + "/"}${chapter}/${verse !== "" ? Number(verse) : ""
       }`
     )
       .then((res) => res.json())
       .then(async (res) => {
-        // console.log(res);
         if (res.length >= 1 && res[0].text) {
           setData(res);
           setVerse(res);
@@ -397,36 +413,25 @@ export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
   }
 };
 
-// // Fetch Count
-// export const fetchCount = async (book, setCount) => {
-//   try {
-//     return await fetch(`https://kjvapp.com/api/${book}/chapters`)
-//       .then((res) => res.json())
-//       .then((res) => {
-//         setCount(res[0].count);
-//       });
-//   } catch (e) {
-//     console.log(e);
-//   }
-// };
-
-
-
 /* UI */
 // ANIMATION DRIVEN 
 // Fade Out Section
-export const FadeOutSection = (children) => {
-  // add y scroll position to reload when y == 0 (top of page)
-  const [isVisible, setVisible] = React.useState(true);
-  const domRef = React.useRef();
-  React.useEffect(() => {
-
+export const FadeOutSection: React.FC<{ children: ReactNode }> = ({ children }) => {
+  const [isVisible, setVisible] = useState(true);
+  const domRef = useRef<HTMLDivElement | null>(null);
+  useEffect(() => {
     if (isVisible === true) {
       const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => setVisible(entry.isIntersecting));
-      }, []);
-      observer.observe(domRef.current);
-      return () => observer.unobserve(domRef.current);
+      }, {});
+      if (domRef.current) {
+        observer.observe(domRef.current);
+      }
+      return () => {
+        if (domRef.current) {
+          observer.unobserve(domRef.current);
+        }
+      };
     }
   }, [isVisible]);
   return (
@@ -440,10 +445,9 @@ export const FadeOutSection = (children) => {
 }
 
 // Fade In Section
-export const FadeInSection = (children) => {
-  // add y scroll position to reload when y == 0 (top of page)
+export const FadeInSection: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [isVisible, setVisible] = useState(true);
-  const domRef = useRef();
+  const domRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
     const observer = new IntersectionObserver(entries => {
@@ -451,8 +455,14 @@ export const FadeInSection = (children) => {
         setVisible(entry.isIntersecting)
       );
     });
-    observer.observe(domRef.current);
-    return () => observer.unobserve(domRef.current);
+    if (domRef.current) {
+      observer.observe(domRef.current);
+    }
+    return () => {
+      if (domRef.current) {
+        observer.unobserve(domRef.current);
+      }
+    };
   }, []);
 
   return (
@@ -462,17 +472,14 @@ export const FadeInSection = (children) => {
     >
       {children}
     </div>
-  );
-
+  )
 }
 
 export let mdTheme = createTheme({ palette: { mode: "dark" } });
 
 const darkThemeMq = window.matchMedia("(prefers-color-scheme: dark)");
 if (darkThemeMq.matches) {
-  // Theme set to dark.
   mdTheme = createTheme({ palette: { mode: "dark" } });
 } else {
-  // Theme set to light.
   mdTheme = createTheme({ palette: { mode: "light" } });
 }
