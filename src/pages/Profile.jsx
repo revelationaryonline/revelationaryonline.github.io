@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Cookies from "js-cookie";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
@@ -7,15 +8,7 @@ import Grid from "@mui/material/Grid";
 import Paper from "@mui/material/Paper";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import { Copyright } from "../components/Copyright/Copyright";
-import { Skeleton } from "@mui/material";
-import Stack from "@mui/material/Stack";
-import List from "@mui/material/List";
-import ListItem from "@mui/material/ListItem";
-import Divider from "@mui/material/Divider";
-import ListItemText from "@mui/material/ListItemText";
-import ListItemAvatar from "@mui/material/ListItemAvatar";
-import Tooltip from "@mui/material/Tooltip";
-import IconButton from "@mui/material/IconButton";
+import {Circle} from "@mui/icons-material";
 import PersonIcon from "@mui/icons-material/Person";
 import Avatar from "@mui/material/Avatar";
 import Typography from "@mui/material/Typography";
@@ -26,6 +19,31 @@ const mdTheme = createTheme({ palette: { mode: "dark" } });
 
 function ProfileContent() {
   const [user, setUser] = useState(null); // State to manage the logged-in user
+  const [darkMode, setDarkMode] = useState(true);
+  const [highlightedVerses, setHighlightedVerses] = useState([]);
+  const [bookmark, setBookmark] = useState(null);
+  const [bio, setBio] = useState("This is a placeholder bio.");
+  const [socialLinks, setSocialLinks] = useState({
+    linkedIn: "https://www.linkedin.com",
+    gitHub: "https://github.com",
+  });
+
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
+      setUser(currentUser);
+    });
+    return () => unsubscribe();
+  }, []);
+
+  useEffect(() => {
+    const highlighted = Cookies.get("highlightedVerses")
+      ? JSON.parse(Cookies.get("highlightedVerses"))
+      : [];
+    const bookmarkCookie = Cookies.get("bookmark");
+
+    setHighlightedVerses(highlighted);
+    setBookmark(bookmarkCookie);
+  }, []);
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
@@ -81,24 +99,52 @@ function ProfileContent() {
                         USER PROFILE
                       </Typography> */}
                       {/* user api */}
-                      <Grid item xs={12} md={6} sx={{ textAlign: "left", marginTop: -15 }}>
-                      <Tooltip title={user && user?.displayName}>
-                          {user && user.photoURL ? (
-                            <Avatar
-                              sx={{ width: 128, height: 128, border: '3px solid white' }}
-                              alt={user.displayName || "User"}
-                              src={user.photoURL}
-                              elevation={4}
-                            />
-                          ) : (
-                            <Avatar>
-                              <PersonIcon elevation={4} />
-                            </Avatar>
-                          )}
-                      </Tooltip>
-                      <Typography sx={{ marginTop: 4}}>
-                        {user && user.displayName}
-                      </Typography>
+                      <Grid item xs={12} md={6} sx={{ textAlign: "left", marginTop: 0, display: 'flex' }}>
+                      {user.photoURL ? (
+                        // console.log(user.photoURL),
+                        <img
+                          style={{
+                            width: 48,
+                            height: 48,
+                            borderRadius: 5,
+                            marginBottom: 5,
+                          }}
+                          alt={user.displayName || "User"}
+                          src={user.photoURL}
+                        />
+                      ) : (
+                        // console.log(user.photoURL),
+                        <Avatar>
+                          <PersonIcon />
+                        </Avatar>
+                      )}
+                      <div style={{ borderRadius: 0 }}>
+                        <Typography
+                          sx={{
+                            marginLeft: 2,
+                            mt: 1,
+                            fontSize: "0.75rem",
+                            fontWeight: 600,
+                            color: "white",
+                          }}
+                        >
+                          {user.displayName}
+                        </Typography>
+                        <Typography
+                          sx={{
+                            marginLeft: 2,
+                            mt: -1,
+                            fontSize: "0.65rem",
+                            fontWeight: 400,
+                            color: "white",
+                            display: "flex",
+                            alignItems: "center",
+                          }}
+                        >
+                          <Circle sx={{ width: 10 }} htmlColor={"#02b548"} />
+                          &nbsp;Active
+                        </Typography>
+                      </div>
                       </Grid>
                     </Grid>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>

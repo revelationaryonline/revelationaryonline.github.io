@@ -141,6 +141,10 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     setContextMenu(null);
   };
 
+  const handleCommentsClose = () => {
+    setCommentsMenu(null);
+  };
+
   useEffect(() => {
     const savedToken = Cookies.get("wpToken"); // expires in 7 days
 
@@ -215,8 +219,8 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
         if (wpToken) {
           // Only remove if a token exists
           setWpToken(null);
-          localStorage.removeItem("wpToken");
-          console.log("Token removed from storage");
+          // localStorage.removeItem("wpToken");
+          // console.log("Token removed from storage");
         }
       }
       setLoading(false);
@@ -668,7 +672,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                               // use mouse leave to reset context menu selection
                               // onMouseLeave={() => setIsShown(false)}
                             >
-                              <span style={{ position: "absolute" }}>
+                              <span style={{ position: "relative" }}>
                                 {v.text === selectedVerse[0]?.text && (
                                   <Tooltip
                                     title={
@@ -683,7 +687,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                                       }
                                       sx={{
                                         padding: 1,
-                                        opacity: 0.95,
+                                        opacity: 1,
                                         mt: -10,
                                         ml: 5,
                                         position: "relative",
@@ -718,7 +722,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                                       // onClick
                                       sx={{
                                         padding: 1,
-                                        opacity: 0.95,
+                                        opacity: 1,
                                         mt: -10,
                                         ml: 1,
                                         position: "relative",
@@ -883,6 +887,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                 setWpToken={setWpToken}
                 selectedVerse={selectedVerse}
                 setSelectedVerse={setSelectedVerse}
+                handleClose={handleClose}
               />
             )}
             <WPLoginModal user={user} token={wpToken} setToken={setWpToken} />

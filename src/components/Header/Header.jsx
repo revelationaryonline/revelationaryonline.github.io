@@ -142,7 +142,7 @@ function Header(props) {
                 style={{
                   width: "20px",
                   height: "20px",
-                  mt: '7px',
+                  marginTop: '7px',
                   marginRight: 10,
                   marginLeft: 10,
                   filter: isDarkMode ? "invert(1)" : "none",
@@ -153,7 +153,7 @@ function Header(props) {
                 component="div"
                 sx={{
                   textAlign: { xs: "center", sm: "left" },
-                  mt: '3.5px',
+                  marginTop: '3.5px',
                   flexGrow: 1,
                   fontFamily: "cardo",
                   fontWeight: 600,

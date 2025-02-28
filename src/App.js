@@ -93,13 +93,14 @@ export default function App() {
       <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
         <div className="App">
           <Header loggedIn={loggedIn} />
-          <Routes>
-            <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={() => setWpToken()} />} />
-            <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
-            <Route path="/account" element={<Account loggedIn={loggedIn} />} />
-            <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
-            <Route path="/login" element={<LoginPage user={user} />} />
-          </Routes>
+            <Routes>
+              <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={() => setWpToken()} />} />
+              <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
+              <Route path="/account" element={<Account loggedIn={loggedIn} />} />
+              <Route path="/settings" element={<Account loggedIn={loggedIn} />} />
+              <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
+              <Route path="/login" element={<LoginPage user={user} />} />
+            </Routes>
         </div>
       </Box>
     </ThemeProvider>
