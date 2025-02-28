@@ -233,6 +233,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     selectedVerse,
     user,
     slug,
+    commentsMenu
   ]);
 
   // result causes a loop with search
@@ -322,8 +323,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
   const handleVerseSelect = (verse) => {
     // Check if the verse is already selected
     if (
-      (selectedVerse.includes(verse) && contextMenu === null) ||
-      (selectedVerse.includes(verse) && commentsMenu === null)
+      selectedVerse.includes(verse) && contextMenu === null
     ) {
       // If it is, remove it from the selection
       setSelectedVerse((prev) =>
@@ -334,10 +334,11 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     } else if (contextMenu === null) {
       // If it's not, add it to the selection
       setSelectedVerse([...selectedVerse, verse]);
-    } else if (commentsMenu === null) {
-      // If it's not, add it to the selection
-      setSelectedVerse([...selectedVerse, verse]);
-    }
+    } 
+    // else if (commentsMenu === null) {
+    //   // If it's not, add it to the selection
+    //   setSelectedVerse([...selectedVerse, verse]);
+    // }
   };
 
   const handleHighlight = (e) => {
@@ -880,6 +881,8 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                 slug={slug}
                 setSlug={setSlug}
                 setWpToken={setWpToken}
+                selectedVerse={selectedVerse}
+                setSelectedVerse={setSelectedVerse}
               />
             )}
             <WPLoginModal user={user} token={wpToken} setToken={setWpToken} />
