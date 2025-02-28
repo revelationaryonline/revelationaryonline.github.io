@@ -100,7 +100,7 @@ function ProfileContent() {
                       </Typography> */}
                       {/* user api */}
                       <Grid item xs={12} md={6} sx={{ textAlign: "left", marginTop: 0, display: 'flex' }}>
-                      {user.photoURL ? (
+                      {user && user?.photoURL ? (
                         // console.log(user.photoURL),
                         <img
                           style={{
@@ -128,7 +128,7 @@ function ProfileContent() {
                             color: "white",
                           }}
                         >
-                          {user.displayName}
+                          {user && user.displayName}
                         </Typography>
                         <Typography
                           sx={{
