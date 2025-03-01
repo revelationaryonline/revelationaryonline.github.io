@@ -6,22 +6,25 @@ import Divider from "@mui/material/Divider";
 
 interface Post {
     ID?: number;
-    title?: string | undefined;
+    title?: { 
+      rendered: string | undefined;
+    },
     comment_count?: number;
-    excerpt?: string | undefined;
+    excerpt?: string;
     URL?: string;
     post_thumbnail?: {
-      URL: string;
+      URL?: string;
     };
-    date: string;
-    description: string;
-    image: string;
-    imageLabel: string;
+    date?: string;
+    description?: string;
+    image?: string;
+    imageLabel?: string;
+    link?: string;
   } 
 
 interface MainProps {
   posts?: Post[];
-  title: string;
+  title: { rendered: string };
 }
 
 const Main: React.FC<MainProps> = (props) => {
@@ -54,7 +57,7 @@ const Main: React.FC<MainProps> = (props) => {
         variant="h6"
         gutterBottom
       >
-        {title}
+        {title.rendered}
       </Typography>
       <Divider />
     </Grid>
@@ -75,7 +78,9 @@ Main.propTypes = {
       }),
     })
   ),
-  title: PropTypes.string.isRequired,
+  title: PropTypes.shape({
+    rendered: PropTypes.string.isRequired,
+  }).isRequired,
 };
 
 export default Main;

@@ -9,17 +9,22 @@ import heroPost from "../../assets/hero-post.jpg";
 
 interface Post {
     ID?: number;
-    title?: string | undefined;
+    title?: { 
+      rendered: string | undefined;
+    },
     comment_count?: number;
-    excerpt?: string | undefined;
+    excerpt?: string;
     URL?: string;
     post_thumbnail?: {
-      URL: string;
+      URL?: string;
     };
-    date: string;
-    description: string;
-    image: string;
-    imageLabel: string;
+    date?: string;
+    content?: { 
+        rendered: string | undefined;
+      },
+    image?: string;
+    imageLabel?: string;
+    link?: string;
   } 
 
 interface MainFeaturedPostProps {
@@ -53,7 +58,7 @@ const MainFeaturedPost: React.FC<MainFeaturedPostProps> = ({ post }) => {
             elevation={5}
         >
             {/* Increase the priority of the hero background image */}
-            <img style={{ display: 'none', borderRadius: '15px' }} src={post?.post_thumbnail?.URL} alt={'post'} />
+            <img style={{ display: 'none', borderRadius: '15px' }} src={post?.link} alt={'post'} />
             <Box
                 sx={{
                     position: 'absolute',
@@ -79,12 +84,12 @@ const MainFeaturedPost: React.FC<MainFeaturedPostProps> = ({ post }) => {
                            Featured Verse
                         </Typography>
                         <Typography component="h1" variant="h4" color="inherit" gutterBottom lineHeight={1.1}>
-                            {post?.title}
+                            {post?.title?.rendered}
                         </Typography>
                         <Typography variant="h5" color="inherit" paragraph lineHeight={1} fontSize={'1rem'}>
-                            {post && extractContent(post?.excerpt as string)}
+                            {post && extractContent(post?.content?.rendered as string)}
                         </Typography>
-                        <Link variant="subtitle1" sx={{ fontSize: '15px'}} color="#a1a1a1" href={post?.URL}>
+                        <Link variant="subtitle1" sx={{ fontSize: '15px'}} color="#a1a1a1" href={'#'}>
                             {'Continue Reading...'}
                         </Link>
                     </Box>

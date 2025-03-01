@@ -13,17 +13,20 @@ import { ThemeProvider } from "@emotion/react";
 
 interface Post {
   ID?: number;
-  title?: string | undefined;
+  title?: { 
+    rendered: string | undefined;
+  },
   comment_count?: number;
   excerpt?: string;
   URL?: string;
   post_thumbnail?: {
-    URL: string;
+    URL?: string;
   };
-  date: string;
-  description: string;
-  image: string;
-  imageLabel: string;
+  date?: string;
+  description?: string;
+  image?: string;
+  imageLabel?: string;
+  link?: string;
 } 
 
 interface FeaturedPostProps {
@@ -32,6 +35,7 @@ interface FeaturedPostProps {
 
 const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
 
+  console.log(post)
   function extractContent(s: string) {
     const span = document.createElement("span");
     span.innerHTML = s;
@@ -40,10 +44,10 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
 
   return (
     <Grid item xs={12} md={4}>
-      <CardActionArea component="a" href={post?.URL}>
+      <CardActionArea component="a" href={'#'}>
         <Card
           sx={{
-            borderRadius: 45,
+            // borderRadius: 45,
             backgroundColor: "transparent",
             display: "flex", // Keeps the rounded corners
             overflow: "hidden", // Ensures child elements don't overflow the rounded corners
@@ -66,7 +70,7 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
                 fontSize: "20px",
               }}
             >
-              • {post.title}
+              • {post?.title?.rendered}
             </Typography>
             <Typography
               variant="subtitle2"
@@ -82,10 +86,10 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
               }}
               color="#999"
             >
-              0 Comments
+              {post.comment_count}&nbsp;Comments
             </Typography>
             <Link
-              href={post?.URL}
+              href={post?.link}
               sx={{
                 display: "flex",
                 mt: 1,
@@ -96,14 +100,14 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
                 width: "max-content",
               }}
             >
-              <Typography
+              {/* <Typography
                 variant="body2"
                 right={0}
                 justifySelf={"right"}
                 color={"#FFF"}
               >
                 {"Continue Reading..."}
-              </Typography>
+              </Typography> */}
             </Link>
           </CardContent>
         </Card>
@@ -118,7 +122,9 @@ FeaturedPost.propTypes = {
     description: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
     imageLabel: PropTypes.string.isRequired,
-    title: PropTypes.string.isRequired,
+    title: PropTypes.shape({
+      rendered: PropTypes.string.isRequired,
+    }).isRequired,
     URL: PropTypes.string.isRequired,
   }).isRequired,
 };
