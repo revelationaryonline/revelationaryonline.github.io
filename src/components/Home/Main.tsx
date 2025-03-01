@@ -62,6 +62,7 @@ const Main: React.FC<MainProps> = (props) => {
 };
 
 Main.propTypes = {
+// @ts-ignore-next-line
   posts: PropTypes.arrayOf(
     PropTypes.shape({
       ID: PropTypes.number,

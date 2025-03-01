@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 
 const useHighlight = () => {
-  const [highlightedVerses, setHighlightedVerses] = useState([]);
+  const [highlightedVerses, setHighlightedVerses] = useState<string[]>([]);
 
   useEffect(() => {
     const savedHighlights = Cookies.get("highlightedVerses");
@@ -15,23 +15,28 @@ const useHighlight = () => {
     }
   }, []);
 
-  const toggleHighlight = (verseId) => {
+  interface HighlightedVerses {
+    highlightedVerses: string[];
+    toggleHighlight: (verseId: string | number) => void;
+  }
+
+  const toggleHighlight = (verseId: string | number): void => {
     // Log the ID being toggled to ensure correctness
     // console.log("Toggling Highlight for verse ID:", verseId);
-  
-    setHighlightedVerses((prev) => {
+
+    setHighlightedVerses((prev: string[]) => {
       // Store the ID as a string to avoid precision loss
       const stringVerseId = String(verseId);
-      
+
       const updated = prev.includes(stringVerseId)
         ? prev.filter((id) => id !== stringVerseId)  // Remove if already highlighted
         : [...prev, stringVerseId];  // Add if not highlighted
-  
+
       // console.log("Updated highlightedVerses:", updated);  // Log the updated state
-  
+
       // Save to cookie as an array of strings
       Cookies.set("highlightedVerses", JSON.stringify(updated), { expires: 365 });
-  
+
       return updated;
     });
   };
