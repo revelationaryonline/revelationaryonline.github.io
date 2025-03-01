@@ -4,7 +4,27 @@ import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 import Divider from "@mui/material/Divider";
 
-function Main(props) {
+interface Post {
+    ID?: number;
+    title?: string | undefined;
+    comment_count?: number;
+    excerpt?: string | undefined;
+    URL?: string;
+    post_thumbnail?: {
+      URL: string;
+    };
+    date: string;
+    description: string;
+    image: string;
+    imageLabel: string;
+  } 
+
+interface MainProps {
+  posts?: Post[];
+  title: string;
+}
+
+const Main: React.FC<MainProps> = (props) => {
   const { posts, title } = props;
 
   return (
@@ -39,10 +59,21 @@ function Main(props) {
       <Divider />
     </Grid>
   );
-}
+};
 
 Main.propTypes = {
-  posts: PropTypes.arrayOf(PropTypes.string).isRequired,
+  posts: PropTypes.arrayOf(
+    PropTypes.shape({
+      ID: PropTypes.number,
+      title: PropTypes.string,
+      comment_count: PropTypes.number,
+      excerpt: PropTypes.string,
+      URL: PropTypes.string,
+      post_thumbnail: PropTypes.shape({
+        URL: PropTypes.string,
+      }),
+    })
+  ),
   title: PropTypes.string.isRequired,
 };
 
