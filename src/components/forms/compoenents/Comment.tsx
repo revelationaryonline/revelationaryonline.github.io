@@ -1,11 +1,48 @@
-import React from "react";
-import { Box, Typography, Avatar } from "@mui/material";
+import React, { useEffect, useState } from "react";
+import { Box, Typography, Avatar, IconButton } from "@mui/material";
+import FavoriteIcon from "@mui/icons-material/Favorite";
+import Cookies from "js-cookie";
 
 interface CommentProps {
   comment: any;
 }
 
 const Comment: React.FC<CommentProps> = ({ comment }) => {
+  const [likes, setLikes] = useState(comment.likes || 0);
+  const [liked, setLiked] = useState(false);
+  const userId = Cookies.get("userId"); // Assuming user ID is stored in cookies
+  const wpToken = Cookies.get("wpToken"); // Get the authentication token from cookies
+
+  const handleLike = async () => {
+    const action = liked ? "unlike" : "like";
+    try {
+      const response = await fetch(
+        `${process.env.REACT_APP_WP_API_URL_CUSTOM}/like-comment/${comment.id}`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${wpToken}`, // Include the authentication token
+          },
+          body: JSON.stringify({ action }),
+        }
+      );
+      const data = await response.json();
+      setLikes(data.likes);
+      setLiked(!liked);
+    } catch (error) {
+      console.error("Error liking comment:", error);
+    }
+  };
+
+  useEffect(() => {
+    // Check if the user has already liked the comment
+    const likedUsers = comment.liked_users ? comment.liked_users : [];
+    if (userId && likedUsers.includes(parseInt(userId))) {
+      setLiked(true);
+    }
+  }, [comment.liked_users, userId]);
+
   return (
     <Box
       sx={{
@@ -17,10 +54,10 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
       <Avatar
         alt={comment.author_name}
         src={comment.author_avatar_urls?.[48]}
-        sx={{ mr: 1, width: '24px', height: '24px', borderRadius: '0px' }}
+        sx={{ mr: 1, width: "24px", height: "24px", borderRadius: "0px" }}
       />
       <Box>
-        <Typography variant="body2" sx={{ fontWeight: "bold", color: 'black' }}>
+        <Typography variant="body2" sx={{ fontWeight: "bold", color: "black" }}>
           {comment.author_name}
         </Typography>
         <Typography
@@ -29,15 +66,47 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
             px: 2,
             mt: -1,
             lineHeight: 1.1,
-            fontSize: '14px',
+            fontSize: "14px",
             color: "black",
             wordBreak: "break-word",
             whiteSpace: "pre-wrap",
             overflowWrap: "break-word",
             textAlign: "justify",
+            fontFamily: "'Alegreya Sans', sans-serif", // Use Alegreya Sans font
           }}
           dangerouslySetInnerHTML={{ __html: comment.content.rendered }}
         />
+        <Box sx={{ display: "flex", alignItems: "center", mt: -4 }}>
+          <IconButton
+            size="small"
+            onClick={handleLike}
+            color={liked ? "warning" : "secondary"}
+            TouchRippleProps={{
+              classes: { rippleVisible: "MuiTouchRipple-warning" },
+            }}
+            // disabled={liked}
+          >
+            <FavoriteIcon
+              sx={{ color: liked ? "warning" : "secondary", width: "18px" }}
+              fontSize="small"
+            />
+          </IconButton>
+          <Typography
+            variant="body2"
+            sx={{
+              ml: 0,
+              mt: "-1.75px",
+              color: "#777",
+              fontSize: "14px",
+              fontWeight: 800,
+              lineHeight: 'normal', // Adjust line height
+              verticalAlign: 'baseline', // Adjust vertical alignment
+              fontFamily: "'Alegreya Sans', sans-serif",
+            }}
+          >
+            {likes}
+          </Typography>
+        </Box>
       </Box>
     </Box>
   );

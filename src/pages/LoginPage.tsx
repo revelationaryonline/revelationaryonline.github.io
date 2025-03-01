@@ -24,47 +24,6 @@ import FormControlLabel from "@mui/material/FormControlLabel";
 
 import logo from "../assets/logo512.png";
 
-const WORDPRESS_SUBSCRIBE_API =
-  "https://public-api.wordpress.com/rest/v1.1/sites/revelationaryonline.wordpress.com/subscribers/new";
-
-const subscribeToWordPress = async (email: string): Promise<void> => {
-  try {
-    // Check if the user is already subscribed (if WordPress API supports it)
-    const response = await fetch(WORDPRESS_SUBSCRIBE_API, {
-      method: "GET", // Adjust if WordPress allows checking subscription status
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
-    const data = await response.json();
-
-    if (response.ok && !data.subscribed) {
-      // Proceed with subscription if not already subscribed
-      const subscribeResponse = await fetch(WORDPRESS_SUBSCRIBE_API, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ email }),
-      });
-
-      const subscribeData = await subscribeResponse.json();
-      if (!subscribeResponse.ok) {
-        throw new Error(
-          subscribeData.message || "Failed to subscribe to WordPress"
-        );
-      }
-      console.log("Successfully subscribed to WordPress:", subscribeData);
-    }
-  } catch (error) {
-    if (error instanceof Error) {
-      console.error("Error subscribing to WordPress:", error.message);
-    } else {
-      console.error("Error subscribing to WordPress:", error);
-    }
-  }
-};
-
 interface LoginPageProps {
   user: User | null;
 }
@@ -103,6 +62,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   
       if (existingUsers.length > 0) {
         console.log("User already exists in WordPress:", existingUsers);
+        Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
         setTimeout(() => navigate("/"), 500);
         return;
       }
@@ -125,6 +85,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       const wpData = await createUserResponse.json();
       if (createUserResponse.ok) {
         console.log("WordPress Subscription Success:", wpData);
+        Cookies.set("userId", wpData.id); // Save user ID in cookies
       } else {
         console.error("WordPress Subscription Failed:", wpData);
       }
@@ -145,9 +106,22 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       const userCredential = await createUserWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
       console.log("Signed up with:", user.email);
-      if (!isOptedOut) {
-        await subscribeToWordPress(user.email!); // Subscribe to WordPress only if not opted out
+
+      // Fetch the user ID from WordPress and save it in cookies
+      const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
+      const authHeader = "Basic " + btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`);
+      const checkUserResponse = await fetch(wpApiUrl, {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": authHeader,
+        },
+      });
+      const existingUsers = await checkUserResponse.json();
+      if (existingUsers.length > 0) {
+        Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
       }
+
       navigate("/");
     } catch (error) {
       if (error instanceof Error) {
@@ -164,6 +138,22 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       const userCredential = await signInWithEmailAndPassword(auth, email, password);
       const user = userCredential.user;
       console.log("Logged in as:", user.email);
+
+      // Fetch the user ID from WordPress and save it in cookies
+      const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
+      const authHeader = "Basic " + btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`);
+      const checkUserResponse = await fetch(wpApiUrl, {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": authHeader,
+        },
+      });
+      const existingUsers = await checkUserResponse.json();
+      if (existingUsers.length > 0) {
+        Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
+      }
+
       navigate("/");
     } catch (error) {
       if (error instanceof Error) {

@@ -4,7 +4,13 @@ import { TextField, Button, Typography, MenuItem, Box, IconButton } from "@mui/m
 import Menu from "@mui/material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 import { RefreshRounded } from "@mui/icons-material";
+import ChatIcon from '@mui/icons-material/Chat';
+import CommentIcon from '@mui/icons-material/Comment';
 import Comment from "./compoenents/Comment"; // Import the new Comment component
+import Tooltip from "@mui/material/Tooltip";
+
+
+import { capitalise } from "../Dashboard/misc";
 
 import emojiRegex from "emoji-regex";
 
@@ -141,7 +147,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
           }),
         }
       );
-      
+
       if (response.ok) {
         setNewComment("");
         setCharCount(0);
@@ -265,7 +271,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         sx={{
           height: "auto",
           minWidth: 350,
-          maxWidth: 400,
+          maxWidth: '100%',
           padding: 2,
           "&:hover": { backgroundColor: "transparent" },
         }}
@@ -303,8 +309,29 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
               gap: 2,
             }}
           >
-            <Typography variant="subtitle1">Comments:</Typography>
-
+            <Typography variant="subtitle2">Comments:</Typography>
+            <Typography sx={{ color: '#a1a1a1' }} variant="body2">
+              {capitalise(selectedVerse[0]?.book)} {selectedVerse[0]?.chapter}:
+              {selectedVerse[0]?.verse}
+            </Typography>
+            <Typography variant="body2" sx={{ fontStyle: 'italic', color: "#a1a1a1", fontSize: "0.85rem", wordBreak: "break-word", width: "100%", textWrap: "wrap" }}>
+              {selectedVerse[0]?.text}
+            </Typography>
+            <Tooltip
+            title="Comments"
+            sx={{
+              opacity: 0.75,
+              "&.MuiIconButton-root:hover": {
+                backgroundColor: "rgba(0, 0, 0, 0.00)",
+                opacity: 1,
+              },
+            }}
+          >
+            <IconButton disableRipple onClick={handleViewComments} size="small" color="primary">
+              <ChatIcon sx={{ mt: -1, color: '#FFF' }} fontSize="small" />
+              <CommentIcon sx={{ color: '#FFF' }}  fontSize="small" />
+            </IconButton>
+          </Tooltip>
             {/* Scrollable comments section */}
             <Box
               sx={{
@@ -377,8 +404,9 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                   size="small"
                   color="success"
                   sx={{
-                    py: 1.5,
+                    py: 1,
                     fontSize: "0.875rem",
+
                   }}
                   disabled={loading || charCount > charLimit}
                 >

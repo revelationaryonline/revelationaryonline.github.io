@@ -19,6 +19,8 @@ import ShortTextIcon from '@mui/icons-material/ShortText';
 import BookmarksIcon from '@mui/icons-material/Bookmarks'; // FUTURE: multi-bookmarks?
 import CommentBankOutlinedIcon from '@mui/icons-material/CommentBankOutlined';
 import BookmarkButton from "../BookmarkButton/BookmarkButton";
+import ChatIcon from '@mui/icons-material/Chat';
+import CommentIcon from '@mui/icons-material/Comment';
 
 const TopToolbar = ({
   handleColumns,

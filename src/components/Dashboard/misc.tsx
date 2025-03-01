@@ -23,6 +23,7 @@ export const bull = (
 
 // capitalise
 export const capitalise = (str: string) => {
+  if(!str) return;
   const res = str.split("");
   res[0] = res[0].toUpperCase();
   return res.join("");
@@ -93,20 +94,20 @@ export const handleMouseHover = (e: any, setHover: (arg0: any) => void, setIsSho
 // SearchBar
 export const handleSearch = async (e: { keyCode: number; target: { value: string; }; }, setData: any, setVerse: any, searchTerm: (arg0: any) => void, setBookmark: (arg0: { book: any; chapter: any; verse: any; }) => void) => {
   if (e.keyCode === 13) {
-    let str = e.target.value.split(" ");
+    const str = e.target.value.split(" ");
     let m;
     let ver: string | any[] = [];
 
     if (str.length >= 1 && !str.join(" ").includes('"')) {
       // work on array manipulation to map and filter original search term and
-      let lwrCase = booksArr.map((book: string, index: any) => {
+      const lwrCase = booksArr.map((book: string, index: any) => {
         return book.toLowerCase();
       });
       // matches with capital letters and lower case
 
-      let matchBook =
+      const matchBook =
         (await booksArr.includes(str[0])) || lwrCase.includes(str[0]);
-      let matchBookWithNumbers = await checkNumbers(str);
+      const matchBookWithNumbers = await checkNumbers(str);
       const regex = new RegExp("[0-9]*:[0-9]*", "gm");
 
       // match book level first
