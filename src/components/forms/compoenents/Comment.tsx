@@ -10,14 +10,14 @@ interface CommentProps {
 const Comment: React.FC<CommentProps> = ({ comment }) => {
   const [likes, setLikes] = useState(comment.likes || 0);
   const [liked, setLiked] = useState(false);
-  const userId = Cookies.get("userId"); // Assuming user ID is stored in cookies
+  const userId = Cookies.get("userId") || ""; // Assuming user ID is stored in cookies
   const wpToken = Cookies.get("wpToken"); // Get the authentication token from cookies
 
   const handleLike = async () => {
     const action = liked ? "unlike" : "like";
     try {
       const response = await fetch(
-        `${process.env.REACT_APP_WP_API_URL_CUSTOM}/like-comment/${comment.id}`,
+        `${process.env.REACT_APP_WP_API_URL_CUSTOM}/like-comment/${comment?.id}`,
         {
           method: "POST",
           headers: {
@@ -35,9 +35,10 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
     }
   };
 
+  const likedUsers = comment?.liked_users ? Object.values(comment.liked_users) : [];
+
   useEffect(() => {
     // Check if the user has already liked the comment
-    const likedUsers = comment.liked_users ? comment.liked_users : [];
     if (userId && likedUsers.includes(parseInt(userId))) {
       setLiked(true);
     }
@@ -74,7 +75,7 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
             textAlign: "justify",
             fontFamily: "'Alegreya Sans', sans-serif", // Use Alegreya Sans font
           }}
-          dangerouslySetInnerHTML={{ __html: comment.content.rendered }}
+          dangerouslySetInnerHTML={{ __html: comment?.content?.rendered }}
         />
         <Box sx={{ display: "flex", alignItems: "center", mt: -4 }}>
           <IconButton
@@ -87,7 +88,7 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
             // disabled={liked}
           >
             <FavoriteIcon
-              sx={{ color: liked ? "warning" : "secondary", width: "18px" }}
+              sx={{ color: liked || likedUsers.includes(parseInt(userId)) ? "warning" : "secondary", width: "18px" }}
               fontSize="small"
             />
           </IconButton>
