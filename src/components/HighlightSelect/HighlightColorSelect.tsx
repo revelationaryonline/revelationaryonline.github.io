@@ -11,8 +11,8 @@ import ColorLensIcon from "@mui/icons-material/ColorLens";
 import { HighlightAlt } from "@mui/icons-material";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
 
-const HighlightColorSelect = ({ loggedIn }) => {
-  const [anchorEl, setAnchorEl] = useState(null);
+const HighlightColorSelect = ({ loggedIn } : { loggedIn: boolean }) => {
+  const [anchorEl, setAnchorEl] = useState<HTMLButtonElement | null>(null);
   const [selectedColor, setSelectedColor] = useState("#ffeb3b"); // Default color (yellow)
   
   // Color options (you can change these)
@@ -24,14 +24,23 @@ const HighlightColorSelect = ({ loggedIn }) => {
     { label: "Purple", value: "#9c27b0" },
   ];
 
-  const handleColorSelect = (color) => {
+  const handleColorSelect = (color: string) => {
     setSelectedColor(color);
     // Set the CSS variable for the highlight color
     document.documentElement.style.setProperty("--highlight-color", color);
     setAnchorEl(null);
   };
 
-  const openMenu = (event) => {
+  interface ColorOption {
+    label: string;
+    value: string;
+  }
+
+  interface HighlightColorSelectProps {
+    loggedIn: boolean;
+  }
+
+  const openMenu = (event: React.MouseEvent<HTMLButtonElement>) => {
     setAnchorEl(event.currentTarget);
   };
 
@@ -41,7 +50,7 @@ const HighlightColorSelect = ({ loggedIn }) => {
 
   return (
     <>
-      <Tooltip title="Highlight Color" fontSize="small">
+      <Tooltip title="Highlight Color">
         <span>
         <IconButton
           disabled={!loggedIn}
