@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Cookies from "js-cookie";
+import emojiRegex from "emoji-regex";
 import {
   TextField,
   Button,
@@ -19,7 +20,7 @@ import Tooltip from "@mui/material/Tooltip";
 
 import { capitalise } from "../../utils/misc";
 
-import emojiRegex from "emoji-regex";
+import logo from "../../assets/logo512.png";
 
 interface FloatingCommentFormProps {
   setOpen: React.Dispatch<React.SetStateAction<boolean>>;
@@ -62,6 +63,9 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   const [offset, setOffset] = useState({ x: 0, y: 0 });
   const [postID, setPostID] = useState<number | null>(null);
   const [charCount, setCharCount] = useState(0);
+  const [page, setPage] = useState(1); // Track the current page of comments
+  const [loadingMore, setLoadingMore] = useState(false); // Track if more comments are being loaded
+  const [hasMoreComments, setHasMoreComments] = useState(true); // Track if there are more comments to fetch
   const charLimit = 350;
 
   async function getPostIdBySlug(slug: string) {
@@ -97,13 +101,16 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       },
     };
 
-    const response = await fetch(`${url}?key=${API_KEY}`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(body),
-    });
+    const response = await fetch(
+      `${process.env.REACT_APP_PERSPECTIVE_API_URL}?key=${API_KEY}`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(body),
+      }
+    );
 
     const data = await response.json();
 
@@ -172,21 +179,31 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     }
   };
 
-  const fetchComments = async (postId: number) => {
+  // eslint-disable-next-line
+  const fetchComments = async (postId: number, page: number = 1) => {
     if (!postId) {
       console.log("No post ID available, skipping fetchComments");
       return;
     }
     try {
       const response = await fetch(
-        `https://revelationary.org/wp-json/wp/v2/comments?post=${postId}`
+        `https://revelationary.org/wp-json/wp/v2/comments?post=${postId}&page=${page}`
       );
       const data = await response.json();
-      setComments(data);
+      if (data.length === 0) {
+        setHasMoreComments(false); // No more comments to fetch
+      } else {
+        if (page === 1) {
+          setComments(data);
+        } else {
+          setComments((prevComments) => [...prevComments, ...data]);
+        }
+      }
     } catch (error) {
       console.error("Error fetching comments:", error);
     } finally {
       setLoading(false);
+      setLoadingMore(false);
     }
   };
 
@@ -262,6 +279,20 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       setCharCount(value.length);
     }
   };
+
+  const handleScroll = (e: React.UIEvent<HTMLDivElement>) => {
+    const { scrollTop, scrollHeight, clientHeight } = e.currentTarget;
+    if (scrollTop + clientHeight >= scrollHeight - 5 && !loadingMore) {
+      setLoadingMore(true);
+      setPage((prevPage) => prevPage + 1);
+    }
+  };
+
+  useEffect(() => {
+    if (page > 1 && postID) {
+      fetchComments(postID, page);
+    }
+  }, [page, postID]);
 
   if (!open) return null;
 
@@ -382,6 +413,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 borderRadius: 1,
                 backgroundColor: "#f9f9f9",
               }}
+              onScroll={handleScroll}
             >
               {loading ? (
                 <Box
@@ -392,7 +424,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     height: "100vh",
                   }}
                 >
-                  <CircularProgress />
+                  <CircularProgress color={"warning"} />
                 </Box>
               ) : comments.length > 0 ? (
                 comments.map((comment: any) => (
@@ -412,6 +444,82 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 >
                   There are no comments on this verse yet... Be the first!
                 </Typography>
+              )}
+              {loadingMore && hasMoreComments && (
+                <Box
+                  sx={{
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    mt: 2,
+                  }}
+                >
+                  <CircularProgress color={"warning"} size={24} />
+                </Box>
+              )}
+              {!hasMoreComments && (
+                <Box
+                sx={{
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "center",
+                  alignItems: "center",
+                  mt: 2,
+                  color: "#777",
+                  fontSize: "14px",
+                  fontWeight: 800,
+                  lineHeight: "normal", // Adjust line height
+                  verticalAlign: "baseline", // Adjust vertical alignment
+                  fontFamily: "'Cardo', serif",
+                  border: "1px solid #ccc",
+                  borderRadius: 1,
+                  padding: 1,
+                  backgroundColor: "#f9f9f9",
+                }}
+                >
+                <Typography
+                  variant="body2"
+                  color="black"
+                  sx={{
+                    mt: 1,
+                    px: 2,
+                    wordBreak: "break-word",
+                    whiteSpace: "pre-wrap",
+                    overflowWrap: "break-word",
+                    overflow: "scroll",
+                  }}
+                >
+                  No more comments to load... Why not head to our blog and see which verses are trending ? Just click the Menu in the Top Right corner of your screen
+                </Typography>
+                <Box
+                  sx={{
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    mt: 2,
+                    color: "#777",
+                    fontSize: "14px",
+                    fontWeight: 800,
+                    lineHeight: "normal", // Adjust line height
+                    verticalAlign: "baseline", // Adjust vertical alignment
+                    fontFamily: "'Cardo', serif",
+                  }}
+                >
+                  <img
+                    src={logo}
+                    alt="revelationary"
+                    style={{
+                      width: "20px",
+                      height: "20px",
+                      marginTop: "0px",
+                      marginRight: 10,
+                      marginLeft: 10,
+                      // filter: isDarkMode ? "invert(1)" : "none",
+                    }}
+                  ></img>
+                  revelationary.online/#/blog
+                </Box>
+                </Box>
               )}
             </Box>
             {/* Refresh Icon Button */}
