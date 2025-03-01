@@ -82,7 +82,7 @@ const MainFeaturedPost: React.FC<MainFeaturedPostProps> = ({ post }) => {
                             {post?.title}
                         </Typography>
                         <Typography variant="h5" color="inherit" paragraph lineHeight={1} fontSize={'1rem'}>
-                            {post && extractContent(post?.excerpt)}
+                            {post && extractContent(post?.excerpt as string)}
                         </Typography>
                         <Link variant="subtitle1" sx={{ fontSize: '15px'}} color="#a1a1a1" href={post?.URL}>
                             {'Continue Reading...'}
@@ -95,6 +95,7 @@ const MainFeaturedPost: React.FC<MainFeaturedPostProps> = ({ post }) => {
 }
 
 MainFeaturedPost.propTypes = {
+    // @ts-ignore
     post: PropTypes.shape({
         title: PropTypes.string.isRequired,
         excerpt: PropTypes.string.isRequired,
