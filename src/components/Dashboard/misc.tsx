@@ -23,7 +23,7 @@ export const bull = (
 
 // capitalise
 export const capitalise = (str: string) => {
-  let res = str.split("");
+  const res = str.split("");
   res[0] = res[0].toUpperCase();
   return res.join("");
 };

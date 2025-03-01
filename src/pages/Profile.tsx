@@ -628,7 +628,7 @@ function ProfileContent() {
                 ></Paper>
               </Grid>
             </Grid>
-            <Copyright sx={{ pt: 4 }} component={"symbol"} />
+            <Copyright sx={{ pt: 4 }} />
           </Container>
         </Box>
       </Box>

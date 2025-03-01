@@ -199,7 +199,7 @@
 }
 
 .dark-svg {
-  filter: invert(0.15) contrast(1.65);
+  filter: invert(0.75) contrast(1.9);
   -webkit-font-smoothing: subpixel-antialiased;
 }
 

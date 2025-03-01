@@ -41,15 +41,11 @@ const MenuPanel = ({
     await handleClose();
   };
 
-
-  // useEffect(() => {
-  //   fetchComments();
-  // }, [slug]);
-
   return (
     <>
     <Menu
-      elevation={1}
+      elevation={0}
+      sx={{ backgroundColor: "rgba(0, 0, 0, 0.005)" }}
       open={contextMenu !== null}
       onClose={handleClose}
       anchorReference="anchorPosition"
@@ -62,7 +58,7 @@ const MenuPanel = ({
           : undefined
       }
     >
-      <MenuList dense sx={{ width: 320, maxWidth: "100%" }}>
+      <MenuList dense sx={{ width: 320, maxWidth: "100%", backgroundColor: '#212121' }}>
         <MenuItem onClick={() => handleCopy()}>
           <ListItemIcon>
             <ContentCopy fontSize="small" />

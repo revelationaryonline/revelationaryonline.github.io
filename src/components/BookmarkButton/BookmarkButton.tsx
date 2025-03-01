@@ -1,18 +1,17 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { Box } from "@mui/material";
 import Tooltip from "@mui/material/Tooltip";
 import Cookies from "js-cookie";
 import IconButton from "@mui/material/IconButton";
 import BookmarkAddIcon from "@mui/icons-material/BookmarkAdd"; // New bookmark icon
 import BookmarkRemoveIcon from "@mui/icons-material/BookmarkRemove"; // Remove bookmark icon
-import BookmarkBorderIcon from "@mui/icons-material/BookmarkBorder"; // Empty bookmark icon
 
 interface BookmarkProps {
   verse: { book: string }[];
   page: number;
-  fetchVerse: (book: string, chapter: number, search: string, setData: any, setVerse: any) => void;
+  fetchVerse: (book: string, chapter: number, search: string, setData: (data: { book: string }[]) => void, setVerse: (verse: number) => void) => void;
   setSearch: (search: string) => void;
-  setData: (data: any) => void;
+  setData: (data: { book: string }[]) => void;
   setVerse: (verse: number) => void;
   setPage: (page: number) => void;
 }

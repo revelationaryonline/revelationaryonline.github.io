@@ -30,7 +30,7 @@ export const bull = (
 
 // capitalise
 export const capitalise = (str: string): string => {
-  let res = str.split("");
+  const res = str.split("");
   res[0] = res[0].toUpperCase();
   return res.join("");
 };
@@ -335,14 +335,14 @@ export const handleSearch = async (
     if ((term.match(/"/g) || []).length >= 2) {
       searchTerm(term);
     } else {
-      let str = term.split(" ");
+      const str = term.split(" ");
       let m: RegExpExecArray | null;
       let ver: string[] = [];
 
       if (str.length >= 1 && !str.join(" ").includes('"')) {
-        let lwrCase = booksArr.map((book) => book.toLowerCase());
-        let matchBook = booksArr.includes(str[0]) || lwrCase.includes(str[0]);
-        let matchBookWithNumbers = checkNumbers(str.join(" ")) as string;
+        const lwrCase = booksArr.map((book) => book.toLowerCase());
+        const matchBook = booksArr.includes(str[0]) || lwrCase.includes(str[0]);
+        const matchBookWithNumbers = checkNumbers(str.join(" ")) as string;
         const regex = new RegExp("[0-9]*:[0-9]*", "gm");
 
         if (matchBook) {

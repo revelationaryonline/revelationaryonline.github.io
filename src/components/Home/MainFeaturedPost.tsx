@@ -29,10 +29,10 @@ interface MainFeaturedPostProps {
 const MainFeaturedPost: React.FC<MainFeaturedPostProps> = ({ post }) => {
 
     function extractContent(s: string) {
-        var span = document.createElement('span');
+        const span = document.createElement('span');
         span.innerHTML = s;
         return span.textContent || span.innerText;
-    };
+    }
 
     return (
         <Paper

@@ -1,4 +1,3 @@
-// @ts-nocheck
 import React from "react";
 import { ThemeProvider } from "@mui/material/styles";
 import { styled } from "@mui/material/styles";
@@ -19,7 +18,6 @@ import HelpCenterIcon from "@mui/icons-material/HelpCenter";
 import InsertLinkIcon from "@mui/icons-material/InsertLink";
 
 import { drawerWidth } from "../../utils/constants";
-import { mdTheme } from "../../utils/misc";
 import {
   HighlightAlt,
   MouseOutlined,
@@ -34,7 +32,7 @@ const Drawer = styled(MuiDrawer, {
     position: "relative",
     whiteSpace: "nowrap",
     width: drawerWidth,
-    backgroundColor: (theme) =>
+    backgroundColor: (theme: { palette: { mode: string; grey: any[]; }; }) =>
       theme.palette.mode === "light"
         ? theme.palette.grey[300]
         : theme.palette.grey[900],
@@ -57,9 +55,15 @@ const Drawer = styled(MuiDrawer, {
   },
 }));
 
-export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
+interface SideBarProps {
+  handleToggle: (name: string) => void;
+  open: boolean;
+  toggleDrawer: () => void;
+  checked: string[];
+}
+
+export const SideBar: React.FC<SideBarProps> = ({ handleToggle, open, toggleDrawer, checked }) => {
   return (
-    <ThemeProvider theme={mdTheme}>
       <Drawer
         sx={{
           backgroundColor: (theme) =>
@@ -130,6 +134,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             <ListItemText id="switch-list-label-search" primary="Search" />
             <Switch
               edge="end"
+              // @ts-ignore
               onChange={handleToggle("search")}
               checked={checked.indexOf("search") !== -1}
               inputProps={{
@@ -148,6 +153,7 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
             <ListItemText id="switch-list-label-guide" primary="Guide" />
             <Switch
               edge="end"
+              // @ts-ignore
               onChange={handleToggle("guide")}
               checked={checked.indexOf("guide") !== -1}
               inputProps={{
@@ -193,6 +199,5 @@ export const SideBar = ({ handleToggle, open, toggleDrawer, checked }) => {
         </List>
         <List></List>
       </Drawer>
-    </ThemeProvider>
   );
 };

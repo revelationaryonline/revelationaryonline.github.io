@@ -174,6 +174,12 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     };
   }, [dragging]); // Only run when `dragging` changes
 
+  useEffect(() => {
+    if (commentsMenu && postID) {
+      fetchComments(postID);
+    }
+  }, [commentsMenu, postID]);
+
   if (!open) return null;
 
   return (

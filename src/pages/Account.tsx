@@ -247,7 +247,7 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                 </Paper>
               </Grid>
             </Grid>
-            <Copyright component={"symbol"} sx={{ pt: 4 }} />
+            <Copyright sx={{ pt: 4 }} />
           </Container>
         </Box>
       </Box>

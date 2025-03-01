@@ -71,7 +71,7 @@ export default function AlertDialogSlide() {
           <DialogContent>
             <DialogContentText id="alert-dialog-slide-description">
               <Typography variant="span" sx={{ display: 'block'}} gutterBottom marginBottom={2}>
-                The search bar uses it's own shortcuts to search biblical text.
+                The search bar uses it&apos;s own shortcuts to search biblical text.
                 This is intended for ease of use and faster searches.
               </Typography>
               
@@ -81,12 +81,12 @@ export default function AlertDialogSlide() {
               </Typography>
               <Typography variant="span" sx={{ display: 'block'}} gutterBottom marginBottom={2}>
                 To search for a keyword or phrase just type your text in
-                double quotation marks " and press enter. 
+                double quotation marks and press enter. 
                 For example: 
                 <span style={{
                   display: 'block'
                 }}>
-                <code>"light"</code></span>
+                <code>&quot;light&quot;</code></span>
                 Will search the entire Bible for any references to the word light.
               </Typography>
               <Typography fontSize={17} variant="span" sx={{ display: 'block'}} color="white" gutterBottom>
