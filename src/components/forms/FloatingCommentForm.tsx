@@ -1,9 +1,12 @@
 import { useEffect, useState } from "react";
 import Cookies from "js-cookie";
-import { TextField, Button, Typography, MenuItem, Box } from "@mui/material";
+import { TextField, Button, Typography, MenuItem, Box, IconButton } from "@mui/material";
 import Menu from "@mui/material/Menu";
-import IconButton from "@mui/material/IconButton";
 import CloseIcon from "@mui/icons-material/Close";
+import { RefreshRounded } from "@mui/icons-material";
+import Comment from "./compoenents/Comment"; // Import the new Comment component
+
+import emojiRegex from "emoji-regex";
 
 interface FloatingCommentFormProps {
   setOpen: React.Dispatch<React.SetStateAction<boolean>>;
@@ -39,11 +42,14 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   handleClose,
 }) => {
   const [newComment, setNewComment] = useState("");
+  const [cleanComment, setCleanComment] = useState("");
   const [loading, setLoading] = useState(false);
   const [menuPosition, setMenuPosition] = useState(position); // Store last position
   const [dragging, setDragging] = useState(false);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
   const [postID, setPostID] = useState<number | null>(null);
+  const [charCount, setCharCount] = useState(0);
+  const charLimit = 350;
 
   async function getPostIdBySlug(slug: string) {
     if (commentsMenu && selectedVerse && selectedVerse[0]) {
@@ -60,8 +66,57 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     }
   }
 
+  const checkPerspectiveAPI = async (comment: string) => {
+    const API_KEY = process.env.REACT_APP_PERSPECTIVE_API_KEY;
+    const url = "https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze";
+    const body = {
+      comment: {
+        text: comment,
+      },
+      languages: ["en"],
+      requestedAttributes: {
+        TOXICITY: {},
+        SEVERE_TOXICITY: {},
+        INSULT: {},
+        PROFANITY: {},
+        SPAM: {},
+      },
+    };
+
+    const response = await fetch(`${url}?key=${API_KEY}`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(body),
+    });
+
+    const data = await response.json();
+
+    // Analyze the response and check for toxicity levels or other inappropriate content
+    if (data.attributeScores.TOXICITY.summaryScore.value > 0.7) {
+      // If toxicity is above threshold, don't allow posting
+      alert("Your comment contains inappropriate language.");
+      return false;
+    }
+
+    return true;
+  };
+
+  async function removeEmojis(text: string) {
+    return text.replace(emojiRegex(), '');
+  }
+
   const handleCommentSubmit = async () => {
     if (!newComment.trim()) return;
+    
+    setCleanComment(await removeEmojis(newComment).then((res) => res));
+
+    const isCommentValid = await checkPerspectiveAPI(cleanComment);
+    if (!isCommentValid) {
+      return; // Exit if the comment is flagged as inappropriate
+    }
+
     const wpToken = Cookies.get("wpToken");
     if (!wpToken) {
       console.error("User is not authenticated. Token is missing.");
@@ -78,7 +133,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
             Authorization: `Bearer ${wpToken}`,
           },
           body: JSON.stringify({
-            content: newComment,
+            content: cleanComment,
             post: postID,
             post_slug: slug,
           }),
@@ -86,6 +141,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       );
       if (response.ok) {
         setNewComment("");
+        setCharCount(0);
         if (postID !== null) {
           fetchComments(postID);
         }
@@ -178,6 +234,14 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     };
   }, [dragging]); // Only run when `dragging` changes
 
+  const handleCommentChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const value = e.target.value;
+    if (value.length <= charLimit) {
+      setNewComment(value);
+      setCharCount(value.length);
+    }
+  };
+
   if (!open) return null;
 
   return (
@@ -252,19 +316,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
             >
               {comments.length > 0 ? (
                 comments.map((comment: any) => (
-                  <Typography
-                    key={comment.id}
-                    variant="body2"
-                    sx={{
-                      color: "black",
-                      mb: 1,
-                      wordBreak: "break-word",
-                      whiteSpace: "pre-wrap",
-                      overflowWrap: "break-word",
-                    }}
-                  >
-                    {comment.content.rendered}
-                  </Typography>
+                  <Comment key={comment.id} comment={comment} />
                 ))
               ) : (
                 <Typography
@@ -282,20 +334,21 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 </Typography>
               )}
             </Box>
-
-            {/* View Comments Button */}
-            <Button
+                          {/* Refresh Icon Button */}
+            <Box sx={{ position: "relative" }}>
+            <IconButton
               onClick={handleViewComments}
-              variant="contained"
               size="small"
               color="primary"
               sx={{
-                py: 1.5,
-                fontSize: "0.875rem",
+                position: "absolute",
+                left: '88%',
+                bottom: 20,
               }}
-            >
-              View Comments
-            </Button>
+              >
+              <RefreshRounded fontSize="small" />
+              </IconButton>  
+              </Box>
 
             {/* Comment Input Section */}
             {loggedIn && (
@@ -303,11 +356,18 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 <TextField
                   label="Add a comment"
                   value={newComment}
-                  onChange={(e) => setNewComment(e.target.value)}
+                  onChange={handleCommentChange}
                   fullWidth
                   multiline
                   rows={3}
                 />
+                <Typography
+                  variant="body2"
+                  color={charCount > charLimit ? "red" : "black"}
+                  sx={{ alignSelf: "flex-end" }}
+                >
+                  {charCount}/{charLimit}
+                </Typography>
                 <Button
                   onClick={handleCommentSubmit}
                   variant="contained"
@@ -317,7 +377,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     py: 1.5,
                     fontSize: "0.875rem",
                   }}
-                  disabled={loading}
+                  disabled={loading || charCount > charLimit}
                 >
                   {loading ? "Posting..." : "Post Comment"}
                 </Button>
