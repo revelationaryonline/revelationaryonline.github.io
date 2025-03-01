@@ -1,4 +1,3 @@
-// @ts-nocheck
 import * as React from "react";
 import PropTypes from "prop-types";
 import Grid from "@mui/material/Grid";
@@ -7,7 +6,24 @@ import Paper from "@mui/material/Paper";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
 
-function SidePanel(props) {
+interface Archive {
+  title: string;
+  url: string;
+}
+
+interface Social {
+  icon: React.ElementType;
+  name: string;
+}
+
+interface SidePanelProps {
+  archives: Archive[];
+  description: string;
+  social: Social[];
+  title: string;
+}
+
+function SidePanel(props: SidePanelProps) {
   const { archives, description, social, title } = props;
 
   return (
@@ -27,7 +43,7 @@ function SidePanel(props) {
           {title}
         </Typography>
         <Typography
-          variant="p"
+          variant="body1"
           sx={{
             lineHeight: 1.25,
             mt: 0,

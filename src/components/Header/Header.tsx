@@ -137,9 +137,19 @@ function Header(props) {
               justifyContent: "space-between",
             }}
           >
+              <Link
+                to="/"
+                style={{
+                  textDecoration: "none",
+                  color: isDarkMode ? "#FFF" : "#212121",
+                  display: "flex",
+                  alignItems: "center",
+                }}
+              >
             <Box display={"flex"} flexDirection={"row"}>
               <img
                 src={logo}
+                alt="revelationary"
                 style={{
                   width: "20px",
                   height: "20px",
@@ -167,6 +177,7 @@ function Header(props) {
                 revelationary
               </Typography>
             </Box>
+              </Link>
 
             <Box sx={{ flexGrow: 0, borderRadius: 0 }}>
               <Tooltip title={user && user.displayName}>

@@ -2,17 +2,25 @@ import { useState, useEffect } from "react";
 import Cookies from 'js-cookie';
 import { Modal, Box, Typography, TextField, Button } from "@mui/material";
 
-const WPLoginModal = ({ user, wpToken }) => {
+interface WPLoginModalProps {
+  user: any;
+  wpToken: any;
+  setToken: (token: string | null) => void;
+}
+
+const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) => {
   const [open, setOpen] = useState(false);
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
 
   useEffect(() => {
-    const token = Cookies.get('wpToken') || ""
+    const token = Cookies.get('wpToken');
     if (user && !token) {
       setOpen(true); // Open modal if user is logged in but has no WP token
+    } else {
+      setOpen(false); // Close modal if token is present
     }
-  }, [user, wpToken]);
+  }, [user]);
 
   const handleLogin = async () => {
     if (!user || !password) return;
@@ -30,9 +38,8 @@ const WPLoginModal = ({ user, wpToken }) => {
       const data = await response.json();
 
       if (response.ok) {
-        // setWpToken(data.token);
+        setToken(data.token);
         Cookies.set('wpToken', data.token, { expires: 7, path: '' }); // expires in 7 days
-        
         setOpen(false); // Close modal on success
       } else {
         setError("Invalid password. Please check your credentials.");

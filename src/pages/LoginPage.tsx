@@ -205,6 +205,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
           >
             <Box display={"flex"} flexDirection={"row"}>
               <img
+                alt="revelationary Logo"
                 src={logo}
                 style={{
                   width: "20px",

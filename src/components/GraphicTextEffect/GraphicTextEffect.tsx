@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, SvgIcon, useTheme } from "@mui/material";
+import { Link, useTheme } from "@mui/material";
 
 const GraphicTextEffect = ({
   text = "STATES",

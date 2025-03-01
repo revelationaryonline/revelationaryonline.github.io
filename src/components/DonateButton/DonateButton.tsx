@@ -27,6 +27,7 @@ const DonateButton = () => {
       <Dialog open={open} onClose={() => setOpen(false)} maxWidth="md" fullWidth>
         <DialogContent>
           <iframe
+            title="Go Fund Me Donation Page"
             src="https://gofund.me/7e0c1f1f"
             width="100%"
             height="500px"
