@@ -42,7 +42,7 @@ const sidebar = {
 
 interface Post {
   ID?: number;
-  title?: string | undefined;
+  title?: { rendered: string | undefined } | undefined;
   comment_count?: number;
   excerpt?: string | undefined;
   URL?: string;
@@ -53,7 +53,7 @@ interface Post {
   description: string;
   image: string;
   imageLabel: string;
-} 
+}
 
 export const Blog: React.FC = () => {
   const [posts, setPosts] = useState<Post[]>([]);
@@ -63,17 +63,17 @@ export const Blog: React.FC = () => {
   const fetchPosts = async () => {
     try {
       const response = await fetch(
-        `https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts?number=50`
+        `https://revelationary.org/wp-json/wp/v2/posts?per_page=50`
       );
       const result = await response.json();
       setLoading(false);
-      if (result.posts) {
-        // Sort posts by comment count (highest first)
-        const sortedPosts = result.posts.sort(
-          (a: Post, b: Post) => (b.comment_count || 0) - (a.comment_count || 0)
+      if (result) {
+        // Sort posts by the most recent comments first
+        const sortedPosts = result.sort(
+          (a: Post, b: Post) => new Date(b.date).getTime() - new Date(a.date).getTime()
         );
 
-        // Get the top 9 most commented posts
+        // Get the top 9 most recent commented posts
         setPosts(sortedPosts.slice(0, 9));
       }
     } catch (error) {
@@ -87,12 +87,12 @@ export const Blog: React.FC = () => {
   }, []);
 
   return (
-  <ThemeProvider theme={createTheme()}>
+    <ThemeProvider theme={createTheme()}>
       <CssBaseline />
       <Container maxWidth="lg">
         <Header title="Blog" sections={sections} />
         <main>
-        <Typography
+          <Typography
             component="h2"
             variant="h5"
             color="inherit"
@@ -111,13 +111,12 @@ export const Blog: React.FC = () => {
           >
             {/* {posts.length > 0 && posts.filter((item) => item.ID !== 38)[0].title} */}
           </Typography>
-            <Box
+          <Box
             sx={{ border: '1px solid #a1a1a1'}}
-            >
+          >
             <GraphicTextEffect id="svg-jesus" text="JESUS" />
-            
-            </Box>
-            <Typography
+          </Box>
+          <Typography
             className="svg__sub-heading"
             component="h2"
             variant="h5"
@@ -126,8 +125,6 @@ export const Blog: React.FC = () => {
             noWrap
             sx={{
               width: '100%',
-              // flex: 1,
-              // display: "flex",
               mt: {xs: -4, md:-10},
               mb: {xs: 8, md: 14},
               ml: 0,
@@ -135,9 +132,9 @@ export const Blog: React.FC = () => {
               textDecoration: "none",
               color: "#a1a1a1",
             }}
-          >IS KING</Typography>
-            
-
+          >
+            IS KING
+          </Typography>
 
           <MainFeaturedPost
             post={posts.length > 0 ? posts.filter((item) => item.ID !== 38)[0] : null}
@@ -166,14 +163,14 @@ export const Blog: React.FC = () => {
             <Grid container xs={12} md={9} mt={0} ml={-2} spacing={2}>
               {posts &&
                 posts.map((post) => (
-                  <FeaturedPost key={post?.title} post={post} />
+                  <FeaturedPost key={post?.ID} post={post} />
                 ))}
             </Grid>
 
             {/* Right Side - 25% width */}
             <Grid item xs={12} md={3} justifyItems={"center"}>
               <Box sx={{ mt: 2, mx: 4 }}>
-                <Main title="Further Reading" posts={posts} />
+                <Main title={ {rendered: "Further Reading" }} posts={posts} />
                 <SidePanel
                   title={sidebar.title}
                   description={sidebar.description}

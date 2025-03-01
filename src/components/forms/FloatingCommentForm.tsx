@@ -280,7 +280,6 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
           sx={{
             minWidth: 400,
             maxWidth: 400,
-            minHeight: '60vh',
             padding: 2,
             cursor: dragging ? "grabbing" : "grab",
             userSelect: "none",
