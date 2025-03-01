@@ -65,6 +65,16 @@ export default function App() {
       primary: {
         main: "#1976d2", // Customize your primary color
       },
+      common: {
+        white: "#ffffff",
+        black: "#212121",
+      },
+      secondary: {  
+        main: "#A1A1A1", // Customize your secondary color
+      },
+      warning: { 
+        main: "#FF0000",
+      },
       background: {
         default: "#ffffff", // Light mode background
         paper: "#f4f4f4", // Light paper background
@@ -77,6 +87,16 @@ export default function App() {
       mode: "dark",
       primary: {
         main: "#90caf9", // Customize your primary color for dark mode
+      },
+      common: {
+        white: "#ffffff",
+        black: "#212121",
+      },
+      secondary: {  
+        main: "#A1A1A1", // Customize your secondary color
+      },
+      warning: { 
+        main: "#FF0000",
       },
       background: {
         default: "#121212", // Dark mode background
