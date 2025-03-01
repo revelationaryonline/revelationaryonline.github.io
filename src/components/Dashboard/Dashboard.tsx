@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from "react";
+import React, { useState, useEffect, useMemo, ChangeEvent } from "react";
 import Cookies from "js-cookie";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
@@ -125,7 +125,6 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
           setLoading(false);
         }
       } catch (e) {
-        console.log(e);
         setLoading(false);
       } finally {
         setLoading(false); // Hide loading state
@@ -145,7 +144,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
     return false;
   };
 
-  const handleChange = (event: any, value: number, v: { book: string }[]) => {
+  const handleChange = (event: ChangeEvent<unknown>, value: number, v: { book: string }[]) => {
     setPage(1);
     setPage(value);
     fetchVerse(v[0].book, value, "", setData, setVerse);
@@ -162,17 +161,17 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
 
   useEffect(() => {
     const savedToken = Cookies.get("wpToken"); // expires in 7 days
-
-    if (savedToken) {
-      Cookies.set("wpToken", wpToken || "", { expires: 7, path: "" }); // expires in 7 days
+  
+    if (savedToken && !wpToken) {
+      setWpToken(savedToken);
     }
   }, []);
-
+  
   useEffect(() => {
-    if (wpToken && loggedIn) {
+    if (wpToken) {
       Cookies.set("wpToken", wpToken, { expires: 7, path: "" }); // expires in 7 days
     }
-  }, [wpToken, loggedIn]);
+  }, [wpToken]);
 
   useEffect(() => {
     if (loading) {

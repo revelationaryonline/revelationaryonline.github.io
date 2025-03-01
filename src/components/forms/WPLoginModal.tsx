@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Cookies from 'js-cookie';
 import { Modal, Box, Typography, TextField, Button } from "@mui/material";
 
+
 interface WPLoginModalProps {
   user: any;
   wpToken: any;
@@ -20,7 +21,7 @@ const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) 
     } else {
       setOpen(false); // Close modal if token is present
     }
-  }, [user]);
+  }, [user, wpToken]);
 
   const handleLogin = async () => {
     if (!user || !password) return;
