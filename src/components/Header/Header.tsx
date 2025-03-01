@@ -281,7 +281,7 @@ function Header(props) {
                         </Typography>
                       </div>
                     </MenuItem>
-                    <MenuItem sx={{ paddingY: 2 }} dense>
+                    {/* <MenuItem sx={{ paddingY: 2 }} dense>
                       <Typography
                         variant="body2"
                         sx={{
@@ -300,7 +300,7 @@ function Header(props) {
                           <Link to={"/profile"}>Update&nbsp;</Link>
                         </span>
                       </Typography>
-                    </MenuItem>
+                    </MenuItem> */}
                     <MenuItem
                       sx={{ paddingY: 0 }}
                       onClick={handleCloseUserMenu}
@@ -310,7 +310,7 @@ function Header(props) {
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/blog">Blog</Link>
                     </MenuItem>
-                    <MenuItem
+                    {/* <MenuItem
                       sx={{ paddingY: 1 }}
                       onClick={handleCloseUserMenu}
                       dense
@@ -321,7 +321,7 @@ function Header(props) {
                       />
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/settings">Pause Notifications</Link>
-                    </MenuItem>
+                    </MenuItem> */}
                     <MenuItem
                       sx={{ paddingY: 0 }}
                       onClick={handleCloseUserMenu}
@@ -343,7 +343,7 @@ function Header(props) {
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/settings">Account Settings</Link>
                     </MenuItem>
-                    <MenuItem
+                    {/* <MenuItem
                       sx={{ paddingY: 1 }}
                       onClick={handleCloseUserMenu}
                       dense
@@ -354,7 +354,7 @@ function Header(props) {
                       />
                       &nbsp;&nbsp;&nbsp;
                       <Link to="/notifications">Notification Settings</Link>
-                    </MenuItem>
+                    </MenuItem> */}
                     <MenuItem
                       sx={{ paddingY: 1 }}
                       onClick={handleCloseUserMenu}
