@@ -1,14 +1,21 @@
 import { useEffect, useState } from "react";
 import Cookies from "js-cookie";
-import { TextField, Button, Typography, MenuItem, Box, IconButton } from "@mui/material";
+import {
+  TextField,
+  Button,
+  Typography,
+  MenuItem,
+  Box,
+  IconButton,
+  CircularProgress,
+} from "@mui/material";
 import Menu from "@mui/material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 import { RefreshRounded } from "@mui/icons-material";
-import ChatIcon from '@mui/icons-material/Chat';
-import CommentIcon from '@mui/icons-material/Comment';
+import ChatIcon from "@mui/icons-material/Chat";
+import CommentIcon from "@mui/icons-material/Comment";
 import Comment from "./compoenents/Comment"; // Import the new Comment component
 import Tooltip from "@mui/material/Tooltip";
-
 
 import { capitalise } from "../../utils/misc";
 
@@ -74,7 +81,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
   const checkPerspectiveAPI = async (comment: string) => {
     const API_KEY = process.env.REACT_APP_PERSPECTIVE_API_KEY;
-    const url = "https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze";
+    const url =
+      "https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze";
     const body = {
       comment: {
         text: comment,
@@ -110,7 +118,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   };
 
   async function removeEmojis(text: string) {
-    return text.replace(emojiRegex(), '');
+    return text.replace(emojiRegex(), "");
   }
 
   const handleCommentSubmit = async () => {
@@ -123,7 +131,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     }
 
     setLoading(true);
-    
+
     try {
       const cleanComment = await removeEmojis(newComment);
       const isCommentValid = await checkPerspectiveAPI(cleanComment);
@@ -177,6 +185,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       setComments(data);
     } catch (error) {
       console.error("Error fetching comments:", error);
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -184,9 +194,11 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     if (commentsMenu) {
       const fetchPostAndComments = async () => {
         if (selectedVerse && selectedVerse[0]) {
-          const newSlug = `${selectedVerse[0]?.book.trim()}-${selectedVerse[0]?.chapter}${selectedVerse[0]?.verse}`;
+          const newSlug = `${selectedVerse[0]?.book.trim()}-${
+            selectedVerse[0]?.chapter
+          }${selectedVerse[0]?.verse}`;
           setSlug(newSlug);
-  
+
           try {
             const postId = await getPostIdBySlug(newSlug);
             if (postId) {
@@ -198,13 +210,13 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
           }
         }
       };
-  
+
       fetchPostAndComments();
     } else {
       setComments([]); // Clear comments when the menu is closed
     }
   }, [commentsMenu, selectedVerse]);
-  
+
   useEffect(() => {
     if (commentsMenu && postID) {
       fetchComments(postID);
@@ -271,7 +283,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         sx={{
           height: "auto",
           minWidth: 350,
-          maxWidth: '100%',
+          maxWidth: "100%",
           padding: 2,
           "&:hover": { backgroundColor: "transparent" },
         }}
@@ -310,28 +322,55 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
             }}
           >
             {/* <Typography variant="subtitle2">Comments:</Typography> */}
-            <Typography sx={{ color: '#a1a1a1' }} variant="body2">
-              {selectedVerse && selectedVerse[0] ? ( <>{selectedVerse[0]?.book && capitalise(selectedVerse[0]?.book) + " " + selectedVerse[0]?.chapter + ":" + selectedVerse[0]?.verse}</>) : "No verse selected"}
+            <Typography sx={{ color: "#a1a1a1" }} variant="body2">
+              {selectedVerse && selectedVerse[0] ? (
+                <>
+                  {selectedVerse[0]?.book &&
+                    capitalise(selectedVerse[0]?.book) +
+                      " " +
+                      selectedVerse[0]?.chapter +
+                      ":" +
+                      selectedVerse[0]?.verse}
+                </>
+              ) : (
+                "No verse selected"
+              )}
             </Typography>
-            <Typography variant="body2" sx={{ mb: -1, fontStyle: 'italic', color: "#a1a1a1", fontSize: "0.85rem", wordBreak: "break-word", width: "100%", textWrap: "wrap" }}>
+            <Typography
+              variant="body2"
+              sx={{
+                mb: -1,
+                fontStyle: "italic",
+                color: "#a1a1a1",
+                fontSize: "0.85rem",
+                wordBreak: "break-word",
+                width: "100%",
+                textWrap: "wrap",
+              }}
+            >
               {selectedVerse[0]?.text}
             </Typography>
             <Tooltip
-            title="Comments"
-            sx={{
-              opacity: 0.75,
-              mb: -1,
-              "&.MuiIconButton-root:hover": {
-                backgroundColor: "rgba(0, 0, 0, 0.00)",
-                opacity: 1,
-              },
-            }}
-          >
-            <IconButton disableRipple onClick={handleViewComments} size="small" color="primary">
-              <ChatIcon sx={{ mt: -1, color: '#FFF' }} fontSize="small" />
-              <CommentIcon sx={{ color: '#FFF' }}  fontSize="small" />
-            </IconButton>
-          </Tooltip>
+              title="Comments"
+              sx={{
+                opacity: 0.75,
+                mb: -1,
+                "&.MuiIconButton-root:hover": {
+                  backgroundColor: "rgba(0, 0, 0, 0.00)",
+                  opacity: 1,
+                },
+              }}
+            >
+              <IconButton
+                disableRipple
+                onClick={handleViewComments}
+                size="small"
+                color="primary"
+              >
+                <ChatIcon sx={{ mt: -1, color: "#FFF" }} fontSize="small" />
+                <CommentIcon sx={{ color: "#FFF" }} fontSize="small" />
+              </IconButton>
+            </Tooltip>
             {/* Scrollable comments section */}
             <Box
               sx={{
@@ -344,7 +383,18 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 backgroundColor: "#f9f9f9",
               }}
             >
-              {comments.length > 0 ? (
+              {loading ? (
+                <Box
+                  sx={{
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    height: "100vh",
+                  }}
+                >
+                  <CircularProgress />
+                </Box>
+              ) : comments.length > 0 ? (
                 comments.map((comment: any) => (
                   <Comment key={comment.id} comment={comment} />
                 ))
@@ -364,21 +414,21 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 </Typography>
               )}
             </Box>
-                          {/* Refresh Icon Button */}
+            {/* Refresh Icon Button */}
             <Box sx={{ position: "relative" }}>
-            <IconButton
-              onClick={handleViewComments}
-              size="small"
-              color="primary"
-              sx={{
-                position: "absolute",
-                left: '88%',
-                bottom: 20,
-              }}
+              <IconButton
+                onClick={handleViewComments}
+                size="small"
+                color="primary"
+                sx={{
+                  position: "absolute",
+                  left: "88%",
+                  bottom: 20,
+                }}
               >
-              <RefreshRounded fontSize="small" />
-              </IconButton>  
-              </Box>
+                <RefreshRounded fontSize="small" />
+              </IconButton>
+            </Box>
 
             {/* Comment Input Section */}
             {loggedIn && (
@@ -423,12 +473,16 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                       WebkitTextFillColor: (theme) =>
                         theme.palette.mode === "light" ? "black" : "white",
                       transition: "background-color 5000s ease-in-out 0s",
-                    }
+                    },
                   }}
                 />
                 <Typography
                   variant="body2"
-                  color={charCount >= charLimit - 10 && charCount <= charLimit ? "red" : "#A1A1A1"}
+                  color={
+                    charCount >= charLimit - 10 && charCount <= charLimit
+                      ? "red"
+                      : "#A1A1A1"
+                  }
                   sx={{ alignSelf: "flex-end" }}
                 >
                   {charCount}/{charLimit}
@@ -444,7 +498,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     backgroundColor: "#a1a1a1",
                     "&:hover": {
                       backgroundColor: "success",
-                    }
+                    },
                   }}
                   type="submit"
                   fullWidth
