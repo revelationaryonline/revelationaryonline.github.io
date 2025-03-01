@@ -95,7 +95,9 @@ export default function App() {
           <Header loggedIn={loggedIn} />
             <Routes>
               <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
+              {/* @ts-ignore-next-line */}
               <Route path="/blog" element={<Blog loggedIn={loggedIn} />} />
+              {/* @ts-ignore-next-line */}
               <Route path="/profile" element={<Profile loggedIn={loggedIn} />} />
               <Route path="/settings" element={<Account loggedIn={loggedIn} />} />
               <Route path="/account" element={<Account loggedIn={loggedIn} />} />

@@ -7,6 +7,16 @@ import BookmarkAddIcon from "@mui/icons-material/BookmarkAdd"; // New bookmark i
 import BookmarkRemoveIcon from "@mui/icons-material/BookmarkRemove"; // Remove bookmark icon
 import BookmarkBorderIcon from "@mui/icons-material/BookmarkBorder"; // Empty bookmark icon
 
+interface BookmarkProps {
+  verse: { book: string }[];
+  page: number;
+  fetchVerse: (book: string, chapter: number, search: string, setData: any, setVerse: any) => void;
+  setSearch: (search: string) => void;
+  setData: (data: any) => void;
+  setVerse: (verse: number) => void;
+  setPage: (page: number) => void;
+}
+
 function Bookmark({
   verse,
   page,
@@ -15,8 +25,8 @@ function Bookmark({
   setData,
   setVerse,
   setPage
-}) {
-  const [bookmark, setBookmark] = useState(null);
+}: BookmarkProps) {
+  const [bookmark, setBookmark] = useState<{ book: string; chapter: number } | null>(null);
 
   useEffect(() => {
     // Load bookmark from cookies on component mount
@@ -54,7 +64,6 @@ function Bookmark({
       {/* Toggle Bookmark Icon */}
       <Tooltip
         title={bookmark ? "Remove Bookmark" : "Add Bookmark"}
-        fontSize={"small"}
       >
         <IconButton
           onClick={handleToggleBookmark}

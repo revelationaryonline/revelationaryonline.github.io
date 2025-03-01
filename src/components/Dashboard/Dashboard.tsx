@@ -1,142 +1,134 @@
 import React, { useState, useEffect, useMemo } from "react";
 import Cookies from "js-cookie";
-import { ThemeProvider } from "@mui/material/styles";
+import { createTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
-import Typography from "@mui/material/Typography";
-import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Paper from "@mui/material/Paper";
-import { Copyright } from "../Copyright/Copyright";
+import Typography from "@mui/material/Typography";
 import TextField from "@mui/material/TextField";
-import { SideBar } from "../SideBar/SideBar";
+import InputAdornment from "@mui/material/InputAdornment";
+import SearchIcon from "@mui/icons-material/Search";
+import FavoriteIcon from "@mui/icons-material/Favorite";
+import CommentIcon from "@mui/icons-material/Comment";
 import Pagination from "@mui/material/Pagination";
-import {
-  handleMouseHover,
-  handleSearch,
-  fetchVerse,
-  capitalise,
-  mdTheme,
-  fetchCount,
-  checkNumbers,
-} from "../../utils/misc";
-import useHighlight from "../../hooks/useHighlight";
+import CircularProgress from "@mui/material/CircularProgress";
+import Backdrop from "@mui/material/Backdrop";
+import Select, { SelectChangeEvent } from "@mui/material/Select";
+import CommentsDisabledIcon from "@mui/icons-material/CommentsDisabled";
+import { SideBar } from "../SideBar/SideBar";
+import TopToolbar from "../Toolbar/TopToolbar"
+import VideoModal from "../VideoModal/VideoModal";
 import MenuPanel from "../Menu/MenuPanel";
 import Guide from "../Guide/Guide";
-import TopToolbar from "../Toolbar/TopToolbar";
-import IconButton from "@mui/material/IconButton";
-import ClearIcon from "@mui/icons-material/Clear";
-import SearchIcon from "@mui/icons-material/Search";
-import { MenuItem } from "@mui/material";
-import InputAdornment from "@mui/material/InputAdornment";
-import Backdrop from "@mui/material/Backdrop";
-import CircularProgress from "@mui/material/CircularProgress";
-import Select from "@mui/material/Select";
-import Tooltip from "@mui/material/Tooltip";
-import VideoModal from "../VideoModal/VideoModal";
-import CommentIcon from "@mui/icons-material/Comment";
-import CommentsDisabledIcon from "@mui/icons-material/CommentsDisabled";
-import FavoriteIcon from "@mui/icons-material/Favorite";
 import FloatingCommentForm from "../forms/FloatingCommentForm";
 import WPLoginModal from "../forms/WPLoginModal";
-import { Image } from "@mui/icons-material";
-import tomb from "../../assets/drawings/tomb.png";
+import { fetchVerse, fetchCount, checkNumbers, handleSearch, handleMouseHover, capitalise } from "../../utils/misc";
+import useHighlight from "../../hooks/useHighlight";
+import { Copyright } from "../Copyright/Copyright";
+import Container from "@mui/material/Container";
+import IconButton from "@mui/material/IconButton";
+import Tooltip from "@mui/material/Tooltip";
 
-// TODO: automate this to be detected on system preferences
-// const mdTheme = createTheme({ palette: { mode: "light" } });
+const mdTheme = createTheme({ palette: { mode: "light" } });
 
-function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
+interface DashboardContentProps {
+  loggedIn: boolean;
+  user: any;
+  wpToken: string | null;
+  setWpToken: (token: string | null) => void;
+}
+
+interface Verse {
+  book: string;
+  chapter: number;
+  verse: number;
+  text: string;
+  id: string;
+}
+
+const DashboardContent: React.FC<DashboardContentProps> = ({ loggedIn, user, wpToken, setWpToken }) => {
   const [open, setOpen] = useState(false);
   const toggleDrawer = () => {
     setOpen(!open);
   };
-  const [contextMenu, setContextMenu] = useState(null);
-  const [commentsMenu, setCommentsMenu] = useState(null);
+  const [contextMenu, setContextMenu] = useState<{ mouseX: number; mouseY: number } | null>(null);
+  const [commentsMenu, setCommentsMenu] = useState<{ mouseX: number; mouseY: number } | null>(null);
 
-  const [verse, setVerse] = useState([]);
-  // const [bookmark, setBookmark] = useState([]);
-  const [result, setResult] = useState([]);
+  const [verse, setVerse] = useState<Verse[]>([]);
+  const [result, setResult] = useState<any[]>([]);
   const [columns, setColumns] = useState(result.length <= 1 ? 2 : 2);
-  const [data, setData] = useState([]);
-  const [count, setCount] = useState(0);
-  const [hover, setHover] = useState({});
+  const [data, setData] = useState<any[]>([]);
+  const [count, setCount] = useState<string | number>(0);
+  const [hover, setHover] = useState<{ text: string; book: string; chapter: number; verse: number } | undefined>(undefined);
   const [isShown, setIsShown] = useState(false);
   const [search, setSearch] = useState("");
   const [textSize, setTextSize] = useState(16);
   const [error, setError] = useState("");
-  const [visible, setVisible] = useState(["search", "guide"]);
-  const [highlighted, setHighlighted] = useState([]);
-  const [selectedVerse, setSelectedVerse] = useState([]);
+  const [visible, setVisible] = useState<string[]>(["search", "guide"]);
+  const [highlighted, setHighlighted] = useState<string[]>([]);
+  const [selectedVerse, setSelectedVerse] = useState<Verse[]>([]);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(true);
   const [searchPage, setSearchPage] = useState(1); // Pagination for search results
   const [resultsPerPage, setResultsPerPage] = useState(25); // Number of results per page
   const [clearSearch, setClearSearch] = useState(false);
   const [focused, setFocused] = useState(false);
-  const [comments, setComments] = useState([]);
+  const [comments, setComments] = useState<any[]>([]);
   const [commentOpen, setCommentOpen] = useState(false);
   const [commentPosition, setCommentPosition] = useState({ x: 0, y: 0 });
   const [slug, setSlug] = useState("");
-  // const [token, setToken] = useState(null);
 
   const { highlightedVerses, toggleHighlight } = useHighlight();
 
-  // hightlight verse helper box window
-  const searchTerm = async (term, setState) => {
+  const searchTerm = async (term: string) => {
     if (term !== "") {
       setLoading(true); // Show loading state
-      function sanitizeString(str) {
+      function sanitizeString(str: string) {
         str = str.replace(/[^a-z0-9áéíóúñü \.,_-]/gim, "");
         return str.trim();
       }
       try {
-        await fetch(
+        const response = await fetch(
           `https://kjvapp.com/api/search?text=${sanitizeString(term)}`
-        )
-          .then((res) => res.json())
-          .then((res) => {
-            // console.log(res);
-            if (res.length >= 1 && res[0].text) {
-              setData(res);
-              setResult(res);
-              // console.log(res);
-              setVerse([]);
-              setLoading(false);
-            } else {
-              // console.log(res[0]);
-              setLoading(false);
-            }
-          });
+        );
+        const res = await response.json();
+        if (res.length >= 1 && res[0].text) {
+          setData(res);
+          setResult(res);
+          setVerse([]);
+          setLoading(false);
+        } else {
+          setLoading(false);
+        }
       } catch (e) {
-        // setResult(e);
         console.log(e);
         setLoading(false);
       } finally {
         setLoading(false); // Hide loading state
       }
     } else {
-      // do nothing
-      // setResult([]); // Clear results if search term is empty,
       setLoading(false); // Hide loading state
     }
   };
 
-  const checkSearch = (str) => {
-    str = str.split("");
+  const checkSearch = (str: string | string[]) => {
+    if (typeof str === "string") {
+      str = str.split("");
+    }
     if (str[str.length - 1] === '"') {
       return true;
     }
     return false;
   };
 
-  const handleChange = (event, value, v) => {
+  const handleChange = (event: any, value: number, v: { book: string }[]) => {
     setPage(1);
     setPage(value);
     fetchVerse(v[0].book, value, "", setData, setVerse);
     setSearch(v[0].book);
   };
 
-  // Close context menu - right click
   const handleClose = () => {
     setContextMenu(null);
   };
@@ -149,18 +141,15 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     const savedToken = Cookies.get("wpToken"); // expires in 7 days
 
     if (savedToken) {
-      Cookies.set("wpToken", wpToken, { expires: 7, path: "" }); // expires in 7 days
+      Cookies.set("wpToken", wpToken || "", { expires: 7, path: "" }); // expires in 7 days
     }
   }, []);
 
   useEffect(() => {
     if (wpToken && loggedIn) {
       Cookies.set("wpToken", wpToken, { expires: 7, path: "" }); // expires in 7 days
-      // console.log(wpToken);
-    } else {
-      // Cookies.remove('wpToken');
     }
-  }, [wpToken]);
+  }, [wpToken, loggedIn]);
 
   useEffect(() => {
     if (loading) {
@@ -169,7 +158,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
         setPage(1);
         setCount(-1);
         setSlug(
-          `${selectedVerse[0] ? selectedVerse[0]?.book : "genesis"}-${
+          `${selectedVerse[0] && 'book' in selectedVerse[0] ? selectedVerse[0]?.book : "genesis"}-${
             selectedVerse[0] && selectedVerse[0]?.chapter
               ? selectedVerse[0]?.chapter
               : 1
@@ -180,11 +169,10 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
           }`
         );
         if (verse[0]?.book && count === -1) {
-          // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
           setPage(verse[0].chapter);
           setClearSearch(false);
           setSlug(
-            `${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.ve}`
+            `${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.verse}`
           );
         }
       } else if (
@@ -193,12 +181,11 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
         loading &&
         count === -1
       ) {
-        // console.log(`search term: + ${search}`);
         searchTerm(search);
         setCount(result.length - 1);
         setColumns(1);
         setClearSearch(false);
-        setSlug(`${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
+        setSlug(`${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.verse}`);
       }
       if (
         verse[0]?.book &&
@@ -207,20 +194,16 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
         !search.includes('"') &&
         search.length > 2
       ) {
-        // fetchCount(verse[0].book, setCount).then((res) => console.log(res));
         let matchBookWithNumbers = checkNumbers(verse[0]?.book);
         setPage(verse[0].chapter);
         setResult([]);
-        setCount(matchBookWithNumbers.trim());
+        setCount(Number(matchBookWithNumbers.trim()));
         setClearSearch(false);
-        setSlug(`${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.ve}`);
+        setSlug(`${verse[0].book.trim()}-${verse[0].chapter}${selectedVerse[0]?.verse}`);
       }
       if (user === null || user === undefined) {
         if (wpToken) {
-          // Only remove if a token exists
           setWpToken(null);
-          // localStorage.removeItem("wpToken");
-          // console.log("Token removed from storage");
         }
       }
       setLoading(false);
@@ -240,18 +223,14 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     commentsMenu
   ]);
 
-  // result causes a loop with search
-
-  // verse, visible, count, search, result
-  // checked box sidebar
-  const [checked, setChecked] = useState([
+  const [checked, setChecked] = useState<string[]>([
     "comments",
     "search",
     "guide",
     "links",
   ]);
 
-  const handleToggle = (value) => () => {
+  const handleToggle = (value: string) => () => {
     const currentIndex = checked.indexOf(value);
     const newChecked = [...checked];
 
@@ -264,137 +243,80 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
     setVisible(newChecked);
   };
 
-  const handleContextMenu = (event) => {
+  const handleContextMenu = (event: React.MouseEvent, verse: any) => {
     event.preventDefault();
-    // event.target.style.textDecoration === "underline"
-    //   ? (event.target.style.textDecoration = "none")
-    //   : (event.target.style.textDecoration = "underline");
-    //   setSelectedVerse((prev) => [...prev, verse]);
-
     setContextMenu(
       contextMenu === null
         ? {
-            mouseX: event.clientX,
-            mouseY: event.clientY,
+            mouseX: event.clientX - 2,
+            mouseY: event.clientY - 4,
           }
-        : // repeated contextmenu when it is already open closes it with Chrome 84 on Ubuntu
-          // Other native context menus might behave different.
-          // With this behavior we prevent contextmenu from the backdrop to re-locale existing context menus.
-          null
+        : null
     );
   };
 
-  const handleColumns = (e) => {
+  const handleColumns = (e: number) => {
     e === 1 && columns === 2 ? setColumns(1) : setColumns(2);
   };
-  const handleFontSize = (e) => {
+
+  const handleFontSize = (e: number) => {
     setTextSize(textSize + e);
   };
 
-  // Clear search bar and results
   const handleClearSearch = () => {
     setSearch("");
     setResult([]);
   };
 
-  // const handleGoToBookmark = (e) => {
-  //   alert(e.target.value);
-  //   setPage(18);
-  //   fetchVerse('secondChronicles', 18, "", setData, setVerse);
-  //   setSearch('secondChronicles');
-  // };
-
-  // const handleSetBookMark = () => {
-  //   setBookmark({book: verse[0]?.book, chapter: page})
-  // }
-
-  // Handle search input change
-  const handleSearchChange = (event) => {
+  const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearch(event.target.value);
   };
 
-  // Handle pagination change for search results
-  const handleSearchPageChange = (event, value) => {
+  const handleSearchPageChange = (event: React.ChangeEvent<unknown>, value: number) => {
     setSearchPage(value);
   };
 
-  // Handle results per page change
-  const handleResultsPerPageChange = (event) => {
-    setResultsPerPage(event.target.value);
+  const handleResultsPerPageChange = (event: SelectChangeEvent<number>) => {
+    setResultsPerPage(event.target.value as number);
     setSearchPage(1); // Reset to first page
   };
 
-  const handleVerseSelect = (verse) => {
-    // Check if the verse is already selected
-    if (
-      selectedVerse.includes(verse) && contextMenu === null
-    ) {
-      // If it is, remove it from the selection
+  const handleVerseSelect = (verse: Verse) => {
+    if (selectedVerse.includes(verse) && contextMenu === null) {
       setSelectedVerse((prev) =>
         prev.includes(verse)
           ? prev.filter((v) => v !== verse)
           : [...prev, verse]
       );
     } else if (contextMenu === null) {
-      // If it's not, add it to the selection
       setSelectedVerse([...selectedVerse, verse]);
-    } 
-    // else if (commentsMenu === null) {
-    //   // If it's not, add it to the selection
-    //   setSelectedVerse([...selectedVerse, verse]);
-    // }
+    }
   };
 
-  const handleHighlight = (e) => {
-    // Loop through all selected verses and toggle highlight for each
+  const handleHighlight = () => {
     selectedVerse.forEach((verse) => {
-      toggleHighlight(verse.id); // Toggle highlight for each selected verse
+      toggleHighlight(verse.id);
     });
-
-    handleClose(); // Close the context menu
+    handleClose();
   };
 
-  // const handleCommentOpen = (e) => {
-  //   if (!loggedIn) return;
-  //   e.preventDefault();
-
-  //   // event.target.style.textDecoration === "underline"
-  //   //   ? (event.target.style.textDecoration = "none")
-  //   //   : (event.target.style.textDecoration = "underline");
-  //   //   setSelectedVerse((prev) => [...prev, verse]);
-
-  //   setCommentsMenu(
-  //     commentsMenu === null
-  //       ? {
-  //           mouseX: e.clientX,
-  //           mouseY: e.clientY,
-  //         }
-  //       :
-  //         null
-  //   );
-  //   setCommentPosition({ x: e.mouseX, y: e.mouseY });
-  //   setCommentOpen(true);
-  // };
-
-  const handleCommentOpen = (e, verse) => {
+  const handleCommentOpen = (event: React.MouseEvent, verse: Verse) => {
     if (!loggedIn) return;
-    e.preventDefault();
-    e.stopPropagation(); // Prevent event bubbling
+    event.preventDefault();
+    event.stopPropagation();
     setCommentsMenu(
       commentsMenu === null
         ? {
-            mouseX: e.clientX,
-            mouseY: e.clientY,
+            mouseX: event.clientX,
+            mouseY: event.clientY,
           }
         : null
     );
-    setCommentPosition({ x: e.mouseX, y: e.mouseY });
+    setCommentPosition({ x: event.clientX, y: event.clientY });
     setCommentOpen(true);
-    console.log("Opening comments for slug:", slug); // Debugging output
     setSlug(`${verse.book.trim()}-${verse.chapter}${verse.verse}`);
   };
 
-  // Memoized search results for pagination
   const paginatedResults = useMemo(() => {
     const startIndex = (searchPage - 1) * resultsPerPage;
     const endIndex = startIndex + resultsPerPage;
@@ -427,7 +349,6 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
           <TopToolbar
             handleColumns={handleColumns}
             handleFontSize={handleFontSize}
-            // handleViewBookmark={handleGoToBookmark}
             verse={verse}
             page={page}
             fetchVerse={fetchVerse}
@@ -451,41 +372,36 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                 mx: 3,
                 mt: "-0.98rem",
                 WebkitBoxShadow: "none !important",
-                // Target the fieldset to change the border color
                 "& .Mui-focused": {
                   color: (theme) =>
                     theme.palette.mode === "light"
                       ? "black !important"
                       : "white !important",
-                  WebkitBoxShadow: "none !important",
                   "& .MuiOutlinedInput-notchedOutline": {
                     borderColor: (theme) =>
                       theme.palette.mode === "light"
                         ? "#ccc !important"
-                        : "#FFF !important", // Light/dark border
-                    WebkitBoxShadow: "none !important",
+                        : "#FFF !important",
                     color: (theme) =>
                       theme.palette.mode === "light"
                         ? "black"
                         : "white !important",
-                    WebkitBoxShadow: "none !important",
                   },
                   "& input:-webkit-autofill": {
-                    WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
+                    WebkitBoxShadow: "0 0 0 100px #212121AA inset",
                     WebkitTextFillColor: (theme) =>
-                      theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
+                      theme.palette.mode === "light" ? "black" : "white",
                     transition: "background-color 5000s ease-in-out 0s",
                   },
                 },
-                // Optional: If you also want to modify the color inside the input
                 "& .MuiInputBase-input": {
                   color: (theme) =>
                     theme.palette.mode === "light" ? "black" : "white",
                 },
                 "& .MuiInputBase-input:-webkit-autofill": {
-                  WebkitBoxShadow: "0 0 0 100px #212121AA inset", // Change to match background
+                  WebkitBoxShadow: "0 0 0 100px #212121AA inset",
                   WebkitTextFillColor: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white", // Ensure text remains visible
+                    theme.palette.mode === "light" ? "black" : "white",
                   transition: "background-color 5000s ease-in-out 0s",
                 },
               }}
@@ -500,10 +416,8 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
               placeholder={`Search by book ie. john or first john, 1 john etc.`}
               onFocus={() => setFocused(true)}
               onBlur={() => setFocused(false)}
-              onChange={(event) => {
-                setSearch(event.target.value);
-              }}
-              onKeyDown={(e) =>
+              onChange={handleSearchChange}
+              onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) =>
                 handleSearch(
                   e,
                   setData,
@@ -515,9 +429,6 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
               }
             />
           )}
-          {/* *** */}
-          {/* Main bible text */}
-          {/* ROUTES */}
           <Container maxWidth="lg" sx={{ mt: 3, mb: 4 }}>
             <Grid container spacing={3}>
               <Grid
@@ -570,11 +481,9 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                           currentChapter={verse && verse[0].chapter}
                         />
                       )}
-                    {/* <img style={{ position: 'absolute', right: 125, width: '50px', filter: 'invert(1)'}} src={tomb}></img> */}
                   </Typography>
 
                   <Typography
-                    variant="span"
                     component="span"
                     gridColumn={3}
                     className="verse__container"
@@ -594,7 +503,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                       >
                         <Typography
                           sx={{
-                            fontSize: "1.2rem", // Jack 12.09
+                            fontSize: "1.2rem",
                             marginRight: "9px",
                             display: "block",
                             width: "auto",
@@ -602,7 +511,6 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                           className={`result__total ${verse ? "hide" : "show"}`}
                         >
                           {`${result.length}`}&nbsp;
-                          <span style={{ fontSize: "0.9rem" }}>results</span>
                         </Typography>
                         <Select
                           value={resultsPerPage}
@@ -615,36 +523,28 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                             marginLeft: "3rem",
                           }}
                         >
-                          <MenuItem value={25}>25</MenuItem>
-                          <MenuItem value={50}>50</MenuItem>
-                          <MenuItem value={100}>100</MenuItem>
                         </Select>
                         <Typography
                           sx={{
                             display: "block",
-                            mt: "0.20rem", // Mum 20.12
+                            mt: "0.20rem",
                             marginLeft: "1.2rem",
                             width: "auto",
                             fontSize: "0.7rem",
                           }}
                           className={`result__total ${verse ? "hide" : "show"}`}
-                        >{`per Page`}</Typography>
+                        ></Typography>
                       </Grid>
                     )}
                     {verse && verse.length >= 1
                       ? verse.map((v, index) => (
-                          // console.log(v.id),
-                          // console.log(highlightedVerses.includes(
-                          //   v.id.toString()
-                          // )),
                           <span
                             onContextMenu={(e) => handleContextMenu(e, v)}
-                            onClick={() => handleVerseSelect(v)} // Trigger handleVerseSelect on click
+                            onClick={() => handleVerseSelect(v)}
                             style={{
                               cursor: "context-menu",
                             }}
                             key={index}
-                            value={v}
                             className={`${
                               v.text === selectedVerse[0]?.text
                                 ? "verse__selected"
@@ -660,15 +560,12 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                             </span>
                             <span
                               className={`verse__text`}
-                              value={v}
                               style={{
                                 backgroundColor: selectedVerse.includes(v)
                                   ? "lightblue"
                                   : "transparent", // Feedback for selection
                               }}
-                              onMouseEnter={(e) =>
-                                handleMouseHover(v, setHover, setIsShown)
-                              }
+                              onMouseEnter={(e) => handleMouseHover(e, setHover, setIsShown, { book: v.book, chapter: v.chapter, verse: v.verse })}
                               // use mouse leave to reset context menu selection
                               // onMouseLeave={() => setIsShown(false)}
                             >
@@ -726,12 +623,12 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                                         mt: -10,
                                         ml: 1,
                                         position: "relative",
-                                        background: (theme) =>
+                                        background: (theme: { palette: { mode: string; }; }) =>
                                           theme.palette.mode === "light"
                                             ? "#A1a1a1aa"
                                             : "#212121aa",
                                         "&.MuiIconButton-root:hover": {
-                                          background: (theme) =>
+                                          background: (theme: { palette: { mode: string; }; }) =>
                                             theme.palette.mode === "light"
                                               ? "#A1a1a1"
                                               : "#212121",
@@ -749,7 +646,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
 
                             <MenuPanel
                               contextMenu={contextMenu}
-                              setContextMenu={() => setContextMenu()}
+                              setContextMenu={setContextMenu}
                               selectedVerse={selectedVerse}
                               setSelectedVerse={setSelectedVerse}
                               highlightedVerses={highlightedVerses}
@@ -767,7 +664,6 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                             onContextMenu={(e) => handleContextMenu(e, home)}
                             style={{ cursor: "context-menu" }}
                             key={index}
-                            value={home}
                             className={`${
                               home.text === selectedVerse[0]?.text
                                 ? "verse__selected"
@@ -784,21 +680,15 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                             </span>
                             <span
                               className={`verse__text`}
-                              value={home}
-                              onMouseEnter={(e) =>
-                                handleMouseHover(home, setHover, setIsShown)
-                              }
-                              // use mouse leave to reset context menu selection
-                              // onMouseLeave={() => setIsShown(false)}
+                              onMouseEnter={(e) => handleMouseHover(e, setHover, setIsShown, { book: home.book, chapter: home.chapter, verse: home.verse })}
                             >
                               {home.text}&nbsp;
                             </span>
                             <MenuPanel
                               contextMenu={contextMenu}
-                              setContextMenu={() => setContextMenu()}
+                              setContextMenu={() => setContextMenu(null)}
                               selectedVerse={selectedVerse}
-                              search={search}
-                            />
+                              search={search} highlightedVerses={undefined} toggleHighlight={undefined} handleHighlight={undefined} handleClose={undefined} setSelectedVerse={undefined} loggedIn={undefined}                            />
                             <br></br>
                             <br></br>
                             <br></br>
@@ -820,9 +710,9 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                               ? theme.palette.grey[100]
                               : theme.palette.grey[900],
                         }}
-                        count={fetchCount(verse && verse[0]?.book)}
+                        count={Number(fetchCount(verse && verse[0]?.book))}
                         page={page}
-                        onChange={(e, value, v) =>
+                        onChange={(e, value) =>
                           handleChange(e, value, verse)
                         }
                       />
@@ -835,7 +725,6 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                     verse.length === 0 &&
                     !loading && (
                       <Typography
-                        item
                         sx={{
                           display: "block",
                           mt: "-3rem",
@@ -871,7 +760,7 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                 hover={hover}
               />
             </Grid>
-            <Copyright sx={{ pt: 4 }} />
+            <Copyright component={"symbol"} sx={{ pt: 4 }} />
             {commentOpen && selectedVerse && (
               <FloatingCommentForm
                 open={commentOpen}
@@ -884,12 +773,12 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
                 setCommentsMenu={setCommentsMenu}
                 slug={slug}
                 setSlug={setSlug}
-                setWpToken={setWpToken}
                 selectedVerse={selectedVerse}
                 setSelectedVerse={setSelectedVerse}
                 handleClose={handleClose}
               />
             )}
+            {/* @ts-ignore-next-line */}
             <WPLoginModal user={user} token={wpToken} setToken={setWpToken} />
           </Container>
         </Box>
@@ -904,7 +793,17 @@ function DashboardContent({ loggedIn, user, wpToken, setWpToken }) {
   );
 }
 
-export default function Dashboard({ loggedIn, user, wpToken, setWpToken }) {
+export default function Dashboard({
+  loggedIn,
+  user,
+  wpToken,
+  setWpToken,
+}: {
+  loggedIn: boolean;
+  user: any;
+  wpToken: string | null;
+  setWpToken: (token: string | null) => void;
+}) {
   return (
     <DashboardContent
       loggedIn={loggedIn}

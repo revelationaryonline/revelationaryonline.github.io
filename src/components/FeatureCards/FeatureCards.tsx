@@ -1,5 +1,3 @@
-// CardSample.js file
-
 import React from "react";
 import { styled } from "@mui/material/styles";
 import Paper from "@mui/material/Paper";
@@ -36,7 +34,6 @@ function FeatureCards() {
     backgroundColor: "#fff",
     height: "27.5rem",
     padding: theme.spacing(1),
-    padding: 8,
     textAlign: "center",
     color: "black",
   }));
@@ -72,7 +69,7 @@ function FeatureCards() {
                 >
                   Save Verses
                 </Typography>
-                <Tooltip title="Save Verse" disableRipple>
+                <Tooltip title="Save Verse">
                   <IconButton>
                     <BookmarkIcon />
                   </IconButton>
@@ -109,7 +106,7 @@ function FeatureCards() {
                 >
                   Link Verses
                 </Typography>
-                <Tooltip title="Link Verses" disableRipple>
+                <Tooltip title="Link Verses">
                   <IconButton>
                     <AccountTreeIcon />
                   </IconButton>

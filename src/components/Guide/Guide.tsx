@@ -7,7 +7,14 @@ import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
 import Button from "@mui/material/Button";
 
-const Guide = ({ visible, isShown, selectedVerse, hover }) => {
+interface GuideProps {
+  visible: string[];
+  isShown: boolean;
+  selectedVerse: { text: string }[];
+  hover?: { text: string; book: string; chapter: number; verse: number };
+}
+
+const Guide: React.FC<GuideProps> = ({ visible, isShown, selectedVerse, hover }) => {
   return (
     <>
       {visible.includes("guide") && (

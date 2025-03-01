@@ -7,8 +7,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import Typography from "@mui/material/Typography";
 import Link from "@mui/material/Link";
 
-function Header(props) {
-  const { sections, title, theme } = props;
+function Header({ sections }: { sections: { title: string, url: string }[] }) {
 
   return (
     <React.Fragment>
@@ -47,7 +46,7 @@ function Header(props) {
         variant="dense"
         sx={{ justifyContent: "space-between", overflowX: "auto" }}
       >
-        {sections.map((section) => (
+        {sections.map((section: { title: string, url: string }) => (
           <Link
             color="inherit"
             noWrap

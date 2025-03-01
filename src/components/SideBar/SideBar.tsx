@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React from "react";
 import { ThemeProvider } from "@mui/material/styles";
 import { styled } from "@mui/material/styles";

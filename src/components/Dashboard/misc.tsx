@@ -1,7 +1,7 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { createTheme } from "@mui/material/styles";
 import Box from "@mui/material/Box";
-import { booksArr } from "./constants";
+import { booksArr } from "../../utils/constants";
 
 /* 
 *
@@ -22,14 +22,14 @@ export const bull = (
 );
 
 // capitalise
-export const capitalise = (str) => {
+export const capitalise = (str: string) => {
   let res = str.split("");
   res[0] = res[0].toUpperCase();
   return res.join("");
 };
 
 // check Book Title for Numbers (Words to Integers)
-export const checkNumbers = (arr) => {
+export const checkNumbers = (arr: any[]) => {
   let res = "";
   switch (true) {
     case arr[0].includes("first"):
@@ -85,21 +85,21 @@ export const checkNumbers = (arr) => {
 /* EVENTs */
 
 // Mouse
-export const handleMouseHover = (e, setHover, setIsShown) => {
+export const handleMouseHover = (e: any, setHover: (arg0: any) => void, setIsShown: (arg0: boolean) => void) => {
   setHover(e);
   setIsShown(true);
 };
 
 // SearchBar
-export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark) => {
+export const handleSearch = async (e: { keyCode: number; target: { value: string; }; }, setData: any, setVerse: any, searchTerm: (arg0: any) => void, setBookmark: (arg0: { book: any; chapter: any; verse: any; }) => void) => {
   if (e.keyCode === 13) {
     let str = e.target.value.split(" ");
     let m;
-    let ver = [];
+    let ver: string | any[] = [];
 
     if (str.length >= 1 && !str.join(" ").includes('"')) {
       // work on array manipulation to map and filter original search term and
-      let lwrCase = booksArr.map((book, index) => {
+      let lwrCase = booksArr.map((book: string, index: any) => {
         return book.toLowerCase();
       });
       // matches with capital letters and lower case
@@ -112,7 +112,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
       // match book level first
       if (matchBook) {
         console.log("match book: " + matchBook);
-        while ((m = regex.exec(str)) !== null) {
+        while ((m = regex.exec(str.join(" "))) !== null) {
           // This is necessary to avoid infinite loops with zero-width matches
           if (m.index === regex.lastIndex) {
             regex.lastIndex++;
@@ -142,7 +142,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
       } else if (matchBookWithNumbers) {
         //search again but this time with the transformed book title
         // from 1 kings to firstKings so it matches the database
-        while ((m = regex.exec(str)) !== null) {
+        while ((m = regex.exec(str.join(" "))) !== null) {
           if (m.index === regex.lastIndex) {
             regex.lastIndex++;
           }
@@ -183,7 +183,7 @@ export const handleSearch = async (e, setData, setVerse, searchTerm, setBookmark
 /* DATA DRIVEN */
 
 // fetch Verse
-export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
+export const fetchVerse = async (book: string, chapter: number, verse: string, setData: (arg0: any) => void, setVerse: (arg0: any) => void) => {
   try {
     await fetch(
       `https://kjvapp.com/api/${book + "/"}${chapter}/${verse !== "" ? Number(verse) : ""
@@ -205,7 +205,7 @@ export const fetchVerse = async (book, chapter, verse, setData, setVerse) => {
 };
 
 // Fetch Count
-export const fetchCount = async (book, setCount) => {
+export const fetchCount = async (book: any, setCount: (arg0: any) => void) => {
   try {
     return await fetch(`https://kjvapp.com/api/${book}/chapters`)
       .then((res) => res.json())
@@ -222,18 +222,24 @@ export const fetchCount = async (book, setCount) => {
 /* UI */
 // ANIMATION DRIVEN 
 // Fade Out Section
-export const FadeOutSection = (children) => {
+export const FadeOutSection = (children: boolean | React.ReactChild | React.ReactFragment | React.ReactPortal | null | undefined) => {
   // add y scroll position to reload when y == 0 (top of page)
   const [isVisible, setVisible] = React.useState(true);
-  const domRef = React.useRef();
+  const domRef = React.useRef<HTMLDivElement | null>(null);
   React.useEffect(() => {
 
     if (isVisible === true) {
       const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => setVisible(entry.isIntersecting));
-      }, []);
-      observer.observe(domRef.current);
-      return () => observer.unobserve(domRef.current);
+      }, { threshold: 0.1 });
+      if (domRef.current) {
+        observer.observe(domRef.current);
+      }
+      return () => {
+        if (domRef.current) {
+          observer.unobserve(domRef.current);
+        }
+      };
     }
   }, [isVisible]);
   return (
@@ -247,10 +253,10 @@ export const FadeOutSection = (children) => {
 }
 
 // Fade In Section
-export const FadeInSection = (children) => {
+export const FadeInSection = (children: boolean | React.ReactChild | React.ReactFragment | React.ReactPortal | null | undefined) => {
   // add y scroll position to reload when y == 0 (top of page)
   const [isVisible, setVisible] = useState(true);
-  const domRef = useRef();
+  const domRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
     const observer = new IntersectionObserver(entries => {
@@ -258,8 +264,14 @@ export const FadeInSection = (children) => {
         setVisible(entry.isIntersecting)
       );
     });
-    observer.observe(domRef.current);
-    return () => observer.unobserve(domRef.current);
+    if (domRef.current) {
+      observer.observe(domRef.current);
+    }
+    return () => {
+      if (domRef.current) {
+        observer.unobserve(domRef.current);
+      }
+    };
   }, []);
 
   return (

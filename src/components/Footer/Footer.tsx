@@ -18,7 +18,7 @@ function Copyright() {
   );
 }
 
-export function Footer(props) {
+export function Footer(props: { description: any; title: any; }) {
   const { description, title } = props;
 
   return (

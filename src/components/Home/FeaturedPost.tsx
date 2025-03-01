@@ -42,8 +42,8 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
     <Grid item xs={12} md={4}>
       <CardActionArea component="a" href={post?.URL}>
         <Card
-          borderRadius={45}
           sx={{
+            borderRadius: 45,
             backgroundColor: "transparent",
             display: "flex", // Keeps the rounded corners
             overflow: "hidden", // Ensures child elements don't overflow the rounded corners
@@ -52,7 +52,6 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
           elevation={3}
         >
           <CardContent
-            borderRadius={45}
             sx={{
               flex: 1,
             }}
@@ -85,10 +84,8 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
             >
               0 Comments
             </Typography>
-            <Typography
-              variant="body2"
-              right={0}
-              justifySelf={"right"}
+            <Link
+              href={post?.URL}
               sx={{
                 display: "flex",
                 mt: 1,
@@ -98,11 +95,16 @@ const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
                 color: "#a1a1a1",
                 width: "max-content",
               }}
-              href={post?.URL}
-              color={"#FFF"}
             >
-              {"Continue Reading..."}
-            </Typography>
+              <Typography
+                variant="body2"
+                right={0}
+                justifySelf={"right"}
+                color={"#FFF"}
+              >
+                {"Continue Reading..."}
+              </Typography>
+            </Link>
           </CardContent>
         </Card>
       </CardActionArea>
