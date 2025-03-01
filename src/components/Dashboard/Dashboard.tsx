@@ -36,6 +36,7 @@ import Container from "@mui/material/Container";
 import IconButton from "@mui/material/IconButton";
 import Tooltip from "@mui/material/Tooltip";
 import { User } from "firebase/auth";
+import MenuItem from "@mui/material/MenuItem";
 
 interface DashboardContentProps {
   loggedIn: boolean;
@@ -144,11 +145,17 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
     return false;
   };
 
-  const handleChange = (event: ChangeEvent<unknown>, value: number, v: { book: string }[]) => {
-    setPage(1);
-    setPage(value);
-    fetchVerse(v[0].book, value, "", setData, setVerse);
-    setSearch(v[0].book);
+  const handleChange = (
+    event: ChangeEvent<unknown>,
+    value: number,
+    v: { book: string }[]
+  ) => {
+    if (v && v.length > 0) {
+      setPage(1);
+      setPage(value);
+      fetchVerse(v[0]?.book, value, "", setData, setVerse);
+      setSearch(v[0]?.book);
+    }
   };
 
   const handleClose = () => {
@@ -162,25 +169,23 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
 
   useEffect(() => {
     const savedToken = Cookies.get("wpToken"); // expires in 7 days
-  
+
     if (savedToken && !wpToken) {
       setWpToken(savedToken);
     }
   }, []);
-  
+
   useEffect(() => {
     if (wpToken) {
       Cookies.set("wpToken", wpToken, { expires: 7, path: "" }); // expires in 7 days
     }
   }, [wpToken]);
-  
+
   useEffect(() => {
     if (commentsMenu) {
       setComments([]); // Clear comments when the menu is opened
     }
   }, [commentsMenu]);
-
-  
 
   useEffect(() => {
     if (loading) {
@@ -203,7 +208,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
               : 1
           }`
         );
-        if (verse[0]?.book && count === -1) {
+        if (verse && verse.length > 0 && verse[0]?.book && count === -1) {
           setPage(verse[0].chapter);
           setClearSearch(false);
           setSlug(
@@ -218,18 +223,20 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         loading &&
         count === -1
       ) {
+        console.log(search)
         searchTerm(search);
         setCount(result.length - 1);
         setColumns(1);
         setClearSearch(false);
-        setSlug(
-          `${verse[0].book.trim()}-${verse[0].chapter}${
-            selectedVerse[0]?.verse
-          }`
-        );
+        if (verse && verse.length > 0) {
+          setSlug(
+            `${verse[0].book.trim()}-${verse[0].chapter}${
+              selectedVerse[0]?.verse
+            }`
+          );
+        }
       }
-      if (
-        verse[0]?.book &&
+      if (verse && verse.length > 0 && verse[0]?.book &&
         count !== 0 &&
         search &&
         !search.includes('"') &&
@@ -373,14 +380,14 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         handleToggle={handleToggle}
         open={open}
         toggleDrawer={toggleDrawer}
-        checked={checked}      
+        checked={checked}
       />
       <Box
         component="main"
         sx={{
           backgroundColor: (theme) =>
             theme.palette.mode === "light"
-              ? theme.palette.grey[100]
+              ? "#FFFFFF"
               : theme.palette.grey[900],
           flexGrow: 1,
           height: "100vh",
@@ -557,7 +564,12 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                           mt: "-0.3rem",
                           marginLeft: "3rem",
                         }}
-                      ></Select>
+                      >
+                        <MenuItem value={10}>10</MenuItem>
+                        <MenuItem value={25}>25</MenuItem>
+                        <MenuItem value={50}>50</MenuItem>
+                        <MenuItem value={100}>100</MenuItem>
+                      </Select>
                       <Typography
                         sx={{
                           display: "block",
@@ -764,11 +776,27 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                         marginLeft: "-50px",
                         mt: "83px", // 83 Samantha
                         width: "min-content",
-                        opacity: 0.75,
+                        opacity: 1,
                         backgroundColor: (theme) =>
                           theme.palette.mode === "light"
-                            ? theme.palette.grey[100]
+                            ? "#FFFFFF"
                             : theme.palette.grey[900],
+                        "& .Mui-selected": {
+                          opacity: 0.5,
+                          backgroundColor: "rgb(0,0,0,0,0.04)",
+                          color: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "#000000" // Black text color for light mode
+                              : "#FFFFFF", // White text color for dark mode
+                        },
+                        "& .Mui-hover": {
+                          opacity: 0.5,
+                          backgroundColor: "rgb(0,0,0,0,0.04)",
+                          color: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "#000000" // Black text color for light mode
+                              : "#FFFFFF", // White text color for dark mode
+                        },
                       }}
                       count={Number(fetchCount(verse && verse[0]?.book))}
                       page={page}
@@ -801,6 +829,27 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                         position: "absolute",
                         mt: "0rem",
                         marginLeft: "1rem",
+                        opacity: 1,
+                        backgroundColor: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "#FFFFFF"
+                            : theme.palette.grey[900],
+                        "& .Mui-selected": {
+                          opacity: 0.5,
+                          backgroundColor: "rgb(0,0,0,0,0.04)",
+                          color: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "#000000" // Black text color for light mode
+                              : "#FFFFFF", // White text color for dark mode
+                        },
+                        "& .Mui-hover": {
+                          opacity: 0.5,
+                          backgroundColor: "rgb(0,0,0,0,0.04)",
+                          color: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "#000000" // Black text color for light mode
+                              : "#FFFFFF", // White text color for dark mode
+                        },
                       }}
                       count={Math.ceil(result.length / resultsPerPage)}
                       page={searchPage}

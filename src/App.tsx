@@ -63,7 +63,7 @@ export default function App() {
     palette: {
       mode: "light",
       primary: {
-        main: "#1976d2", // Customize your primary color
+        main: "#A1A1A1", // Customize your primary color
       },
       common: {
         white: "#ffffff",
@@ -77,7 +77,7 @@ export default function App() {
       },
       background: {
         default: "#ffffff", // Light mode background
-        paper: "#f4f4f4", // Light paper background
+        paper: "#FFFFFF", // Light paper background
       },
     },
   });

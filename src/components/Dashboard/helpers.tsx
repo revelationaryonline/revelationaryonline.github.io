@@ -31,6 +31,7 @@ export const capitalise = (str: string) => {
 
 // check Book Title for Numbers (Words to Integers)
 export const checkNumbers = (arr: any[]) => {
+  
   let res = "";
   switch (true) {
     case arr[0].includes("first"):
