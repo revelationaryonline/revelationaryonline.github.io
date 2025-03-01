@@ -23,7 +23,7 @@ const GraphicTextEffect = ({
       xmlns="http://www.w3.org/2000/svg"
       id={id}
       className={theme && isDarkMode ? "light-svg" : "dark-svg"}
-      sx={{ background: "transparent", overflow: "visible" }}
+      style={{ background: "transparent", overflow: "visible" }}
     >
       <defs>
         <filter id="money">

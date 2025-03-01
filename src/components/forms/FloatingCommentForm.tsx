@@ -5,7 +5,23 @@ import Menu from "@mui/material/Menu";
 import IconButton from "@mui/material/IconButton";
 import CloseIcon from "@mui/icons-material/Close";
 
-const FloatingCommentForm = ({
+interface FloatingCommentFormProps {
+  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
+  position: { x: number; y: number };
+  loggedIn: boolean;
+  slug: string;
+  setSlug: React.Dispatch<React.SetStateAction<string>>;
+  comments: any[];
+  setComments: React.Dispatch<React.SetStateAction<any[]>>;
+  commentsMenu: { mouseX: number; mouseY: number } | null;
+  open: boolean;
+  setCommentsMenu: React.Dispatch<React.SetStateAction<{ mouseX: number; mouseY: number } | null>>;
+  selectedVerse: any[];
+  setSelectedVerse: React.Dispatch<React.SetStateAction<any[]>>;
+  handleClose: () => void;
+}
+
+const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   open,
   setOpen,
   position,
@@ -25,9 +41,9 @@ const FloatingCommentForm = ({
   const [menuPosition, setMenuPosition] = useState(position); // Store last position
   const [dragging, setDragging] = useState(false);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
-  const [postID, setPostID] = useState(null)
+  const [postID, setPostID] = useState<number | null>(null);
 
-  async function getPostIdBySlug(slug) {
+  async function getPostIdBySlug(slug: string) {
     if (commentsMenu && selectedVerse && selectedVerse[0]) {
       const response = await fetch(`https://revelationary.org/wp-json/wp/v2/posts?slug=${slug}`);
       const data = await response.json();
@@ -39,7 +55,6 @@ const FloatingCommentForm = ({
       }
     }
   }
-
 
   const handleCommentSubmit = async () => {
     if (!newComment.trim()) return;
@@ -62,19 +77,16 @@ const FloatingCommentForm = ({
             content: newComment,
             post: postID,
             post_slug: slug,
-            // status: "approve",
           }),
         }
       );
-      // console.log(wpToken)
-      // console.log(response)
       if (response.ok) {
         setNewComment("");
-        fetchComments();
-        console.log('posted')
-        setCommentsMenu(null)
-        setSelectedVerse([])
-        // console.log(response)
+        if (postID !== null) {
+          fetchComments(postID);
+        }
+        setCommentsMenu(null);
+        setSelectedVerse([]);
       }
     } catch (error) {
       console.error("Error submitting comment:", error);
@@ -83,7 +95,7 @@ const FloatingCommentForm = ({
     }
   };
 
-  const fetchComments = async (postId) => {
+  const fetchComments = async (postId: number) => {
     if (!postId) {
       console.log("No post ID available, skipping fetchComments");
       return;
@@ -111,37 +123,37 @@ const FloatingCommentForm = ({
     }
   }, [postID]);
 
-useEffect(() => {    
-  const fetchPostAndComments = async () => {
-    if (commentsMenu && selectedVerse && selectedVerse[0]) {
-      const newSlug = `${selectedVerse[0]?.book.trim()}-${selectedVerse[0]?.chapter}${selectedVerse[0]?.verse}`;
-      await setSlug(newSlug);
+  useEffect(() => {    
+    const fetchPostAndComments = async () => {
+      if (commentsMenu && selectedVerse && selectedVerse[0]) {
+        const newSlug = `${selectedVerse[0]?.book.trim()}-${selectedVerse[0]?.chapter}${selectedVerse[0]?.verse}`;
+        await setSlug(newSlug);
 
-      try {
-        const postId = await getPostIdBySlug(newSlug); // Wait for post ID
-        console.log("Fetched Post ID:", postId);
+        try {
+          const postId = await getPostIdBySlug(newSlug); // Wait for post ID
+          console.log("Fetched Post ID:", postId);
 
-        if (postId) {
-          setPostID(postId);
-          fetchComments(postId); // Fetch comments using the correct post ID
+          if (postId) {
+            setPostID(postId);
+            fetchComments(postId); // Fetch comments using the correct post ID
+          }
+        } catch (error) {
+          console.error("Error fetching post ID:", error);
         }
-      } catch (error) {
-        console.error("Error fetching post ID:", error);
       }
+    };
+    if (commentsMenu) {
+      setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
     }
-  };
-  if (commentsMenu) {
-    setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
-  }
-  fetchPostAndComments();
-}, [commentsMenu, selectedVerse, open]);
+    fetchPostAndComments();
+  }, [commentsMenu, selectedVerse, open]);
 
-  const handleMouseDown = (e) => {
+  const handleMouseDown = (e: React.MouseEvent) => {
     setDragging(true);
     setOffset({ x: e.clientX - menuPosition.x, y: e.clientY - menuPosition.y });
   };
 
-  const handleMouseMove = (e) => {
+  const handleMouseMove = (e: MouseEvent) => {
     if (!dragging) return;
     setMenuPosition({ x: e.clientX - offset.x, y: e.clientY - offset.y });
   };
@@ -201,7 +213,11 @@ useEffect(() => {
           <IconButton
             sx={{ position: "absolute", right: 8, top: 8 }}
             size="small"
-            onClick={() => setOpen(false) && handleClose() && setSelectedVerse([])}
+            onClick={() => {
+              setOpen(false);
+              handleClose();
+              setSelectedVerse([]);
+            }}
           >
             <CloseIcon fontSize="small" />
           </IconButton>
@@ -229,7 +245,7 @@ useEffect(() => {
               }}
             >
               {comments.length > 0 ? (
-                comments.map((comment) => (
+                comments.map((comment: any) => (
                   <Typography
                     key={comment.id}
                     variant="body2"

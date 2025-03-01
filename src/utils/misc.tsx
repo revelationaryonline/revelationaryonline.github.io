@@ -3,6 +3,13 @@ import { createTheme } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import { booksArr } from "./constants";
 
+type Verse = {
+  book: string;
+  chapter: number;
+  verse: number;
+  text: string;
+};
+
 /* 
 *
 *   HELPER FUNCTIONS 
@@ -29,7 +36,7 @@ export const capitalise = (str: string): string => {
 };
 
 // check Book Title for Numbers (Words to Integers)
-export const checkNumbers = (arr: unknown[] | string[]): string => {
+export const checkNumbers = (arr: string): string => {
   let res = "";
   switch (true) {
     case (arr[0] as string).includes("first"):
@@ -44,7 +51,7 @@ export const checkNumbers = (arr: unknown[] | string[]): string => {
     case (arr[0] as string).includes("1"):
       res = `first${capitalise(arr[1] as string)}`;
       return res;
-    case (arr[0] as number).toString().includes("1"):
+    case (arr[0] as string).toString().includes("1"):
       res = `first${capitalise(arr[1] as string)}`;
       return res;
     case (arr[0] as string ).includes("second"):
@@ -59,7 +66,7 @@ export const checkNumbers = (arr: unknown[] | string[]): string => {
     case (arr[0] as string).includes("2"):
       res = `second${capitalise(arr[1] as string)}`;
       return res;
-    case (arr[0] as number).toString().includes("2"):
+    case (arr[0] as string).toString().includes("2"):
       res = `second${capitalise(arr[1] as string)}`;
       return res;
     case (arr[0] as string).includes("third"):
@@ -74,7 +81,7 @@ export const checkNumbers = (arr: unknown[] | string[]): string => {
     case (arr[0] as string).includes("3"):
       res = `third${capitalise(arr[1] as string)}`;
       return res;
-    case (arr[0] as number).toString().includes("3"):
+    case (arr[0] as string).toString().includes("3"):
       res = `third${capitalise(arr[1] as string)}`;
       return res;
     default:
@@ -86,11 +93,12 @@ export const checkNumbers = (arr: unknown[] | string[]): string => {
 
 // Mouse
 export const handleMouseHover = (
-  e: React.MouseEvent,
-  setHover: React.Dispatch<React.SetStateAction<React.MouseEvent | null>>,
-  setIsShown: React.Dispatch<React.SetStateAction<boolean>>
-): void => {
-  setHover(e);
+  event: React.MouseEvent,
+  setHover: React.Dispatch<React.SetStateAction<{ text: string; book: string; chapter: number; verse: number } | undefined>>,
+  setIsShown: React.Dispatch<React.SetStateAction<boolean>>,
+  verse: { book: string; chapter: number; verse: number }
+) => {
+  setHover({ text: event.currentTarget.textContent || "", ...verse });
   setIsShown(true);
 };
 
@@ -334,7 +342,7 @@ export const handleSearch = async (
       if (str.length >= 1 && !str.join(" ").includes('"')) {
         let lwrCase = booksArr.map((book) => book.toLowerCase());
         let matchBook = booksArr.includes(str[0]) || lwrCase.includes(str[0]);
-        let matchBookWithNumbers = checkNumbers(str) as string;
+        let matchBookWithNumbers = checkNumbers(str.join(" ")) as string;
         const regex = new RegExp("[0-9]*:[0-9]*", "gm");
 
         if (matchBook) {

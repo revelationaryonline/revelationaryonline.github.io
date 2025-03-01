@@ -3,10 +3,10 @@ import MenuItem from "@mui/material/MenuItem";
 
 //  not refactored for use yet
 export const ContextMenu = (
-  contextMenu,
-  setContextMenu,
-  verse,
-  handleClose
+  contextMenu: { mouseY: any; mouseX: any; } | null,
+  setContextMenu: any,
+  verse: any,
+  handleClose: ((event: React.MouseEvent<HTMLElement>) => void) | undefined
 ) => {
   return (
     <Menu
@@ -20,10 +20,10 @@ export const ContextMenu = (
       }
       elevation={0}
     >
-      <MenuItem onClick={handleClose}>Copy</MenuItem>
-      <MenuItem onClick={handleClose}>Print</MenuItem>
-      <MenuItem onClick={handleClose}>Highlight</MenuItem>
-      <MenuItem onClick={handleClose}>Email</MenuItem>
+      <MenuItem onClick={(event) => handleClose?.(event)}>Copy</MenuItem>
+      {/* <MenuItem onClick={(event) => handleClose?.(event)}>Print</MenuItem> */}
+      <MenuItem onClick={(event) => handleClose?.(event)}>Highlight</MenuItem>
+      {/* <MenuItem onClick={(event) => handleClose?.(event)}>Email</MenuItem> */}
     </Menu>
   );
 };
