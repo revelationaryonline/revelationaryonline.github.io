@@ -109,21 +109,23 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
   const handleCommentSubmit = async () => {
     if (!newComment.trim()) return;
-    
-    setCleanComment(await removeEmojis(newComment).then((res) => res));
-
-    const isCommentValid = await checkPerspectiveAPI(cleanComment);
-    if (!isCommentValid) {
-      return; // Exit if the comment is flagged as inappropriate
-    }
 
     const wpToken = Cookies.get("wpToken");
     if (!wpToken) {
       console.error("User is not authenticated. Token is missing.");
       return;
     }
+
     setLoading(true);
+    
     try {
+      const cleanComment = await removeEmojis(newComment);
+      const isCommentValid = await checkPerspectiveAPI(cleanComment);
+      if (!isCommentValid) {
+        setLoading(false);
+        return; // Exit if the comment is flagged as inappropriate
+      }
+
       const response = await fetch(
         `${process.env.REACT_APP_WP_API_URL}/comments`,
         {
@@ -139,6 +141,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
           }),
         }
       );
+      
       if (response.ok) {
         setNewComment("");
         setCharCount(0);
