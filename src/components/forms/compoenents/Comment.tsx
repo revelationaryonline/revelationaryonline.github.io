@@ -64,7 +64,7 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
           variant="body2"
           sx={{
             px: 2,
-            mt: -1,
+            mt: -1.85,
             lineHeight: 1.1,
             fontSize: "14px",
             color: "black",

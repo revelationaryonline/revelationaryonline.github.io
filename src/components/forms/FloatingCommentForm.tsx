@@ -10,7 +10,7 @@ import Comment from "./compoenents/Comment"; // Import the new Comment component
 import Tooltip from "@mui/material/Tooltip";
 
 
-import { capitalise } from "../Dashboard/misc";
+import { capitalise } from "../../utils/misc";
 
 import emojiRegex from "emoji-regex";
 
@@ -155,7 +155,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
           fetchComments(postID);
         }
         setCommentsMenu(null);
-        setSelectedVerse([]);
+        // setSelectedVerse([]);
       }
     } catch (error) {
       console.error("Error submitting comment:", error);
@@ -278,8 +278,9 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       >
         <Box
           sx={{
-            minWidth: 350,
+            minWidth: 400,
             maxWidth: 400,
+            minHeight: '60vh',
             padding: 2,
             cursor: dragging ? "grabbing" : "grab",
             userSelect: "none",
@@ -309,18 +310,18 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
               gap: 2,
             }}
           >
-            <Typography variant="subtitle2">Comments:</Typography>
+            {/* <Typography variant="subtitle2">Comments:</Typography> */}
             <Typography sx={{ color: '#a1a1a1' }} variant="body2">
-              {capitalise(selectedVerse[0]?.book)} {selectedVerse[0]?.chapter}:
-              {selectedVerse[0]?.verse}
+              {selectedVerse && selectedVerse[0] ? ( <>{selectedVerse[0]?.book && capitalise(selectedVerse[0]?.book) + " " + selectedVerse[0]?.chapter + ":" + selectedVerse[0]?.verse}</>) : "No verse selected"}
             </Typography>
-            <Typography variant="body2" sx={{ fontStyle: 'italic', color: "#a1a1a1", fontSize: "0.85rem", wordBreak: "break-word", width: "100%", textWrap: "wrap" }}>
+            <Typography variant="body2" sx={{ mb: -1, fontStyle: 'italic', color: "#a1a1a1", fontSize: "0.85rem", wordBreak: "break-word", width: "100%", textWrap: "wrap" }}>
               {selectedVerse[0]?.text}
             </Typography>
             <Tooltip
             title="Comments"
             sx={{
               opacity: 0.75,
+              mb: -1,
               "&.MuiIconButton-root:hover": {
                 backgroundColor: "rgba(0, 0, 0, 0.00)",
                 opacity: 1,
@@ -390,10 +391,45 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                   fullWidth
                   multiline
                   rows={3}
+                  sx={{
+                    WebkitBoxShadow: "none !important",
+                    "& .Mui-focused": {
+                      color: (theme) =>
+                        theme.palette.mode === "light"
+                          ? "black !important"
+                          : "white !important",
+                      "& .MuiOutlinedInput-notchedOutline": {
+                        borderColor: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "#ccc !important"
+                            : "#FFF !important",
+                        color: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "black"
+                            : "white !important",
+                      },
+                      "& input:-webkit-autofill": {
+                        WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                        WebkitTextFillColor: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                        transition: "background-color 5000s ease-in-out 0s",
+                      },
+                    },
+                    "& .MuiInputBase-input": {
+                      color: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                    },
+                    "& .MuiInputBase-input:-webkit-autofill": {
+                      WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                      WebkitTextFillColor: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                      transition: "background-color 5000s ease-in-out 0s",
+                    }
+                  }}
                 />
                 <Typography
                   variant="body2"
-                  color={charCount > charLimit ? "red" : "black"}
+                  color={charCount >= charLimit - 10 && charCount <= charLimit ? "red" : "#A1A1A1"}
                   sx={{ alignSelf: "flex-end" }}
                 >
                   {charCount}/{charLimit}
@@ -406,8 +442,13 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                   sx={{
                     py: 1,
                     fontSize: "0.875rem",
-
+                    backgroundColor: "#a1a1a1",
+                    "&:hover": {
+                      backgroundColor: "success",
+                    }
                   }}
+                  type="submit"
+                  fullWidth
                   disabled={loading || charCount > charLimit}
                 >
                   {loading ? "Posting..." : "Post Comment"}

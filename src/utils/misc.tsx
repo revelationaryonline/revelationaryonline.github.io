@@ -36,56 +36,57 @@ export const capitalise = (str: string): string => {
 };
 
 // check Book Title for Numbers (Words to Integers)
-export const checkNumbers = (arr: string): string => {
+export const checkNumbers = (str: string): string => {
+  const arr = str.split(" ");
   let res = "";
   switch (true) {
-    case (arr[0] as string).includes("first"):
-      res = `first${capitalise(arr[1] as string)}`;
+    case arr[0].includes("first"):
+      res = `first${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("First"):
-      res = `first${capitalise(arr[1] as string)}`;
+    case arr[0].includes("First"):
+      res = `first${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("1st"):
-      res = `first${capitalise(arr[1] as string)}` as unknown as string;
+    case arr[0].includes("1st"):
+      res = `first${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("1"):
-      res = `first${capitalise(arr[1] as string)}`;
+    case arr[0].includes("1"):
+      res = `first${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).toString().includes("1"):
-      res = `first${capitalise(arr[1] as string)}`;
+    case arr[0].toString().includes("1"):
+      res = `first${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string ).includes("second"):
-      res = `second${capitalise(arr[1] as string)}`;
+    case arr[0].includes("second"):
+      res = `second${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("Second"):
-      res = `second${capitalise(arr[1] as string)}`;
+    case arr[0].includes("Second"):
+      res = `second${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("2nd"):
-      res = `second${capitalise(arr[1] as string)}`;
+    case arr[0].includes("2nd"):
+      res = `second${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("2"):
-      res = `second${capitalise(arr[1] as string)}`;
+    case arr[0].includes("2"):
+      res = `second${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).toString().includes("2"):
-      res = `second${capitalise(arr[1] as string)}`;
+    case arr[0].toString().includes("2"):
+      res = `second${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("third"):
-      res = `third${capitalise(arr[1] as string)}`;
+    case arr[0].includes("third"):
+      res = `third${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("Third"):
-      res = `third${capitalise(arr[1] as string)}`;
+    case arr[0].includes("Third"):
+      res = `third${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("3rd"):
-      res = `third${capitalise(arr[1] as string)}`;
+    case arr[0].includes("3rd"):
+      res = `third${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).includes("3"):
-      res = `third${capitalise(arr[1] as string)}`;
+    case arr[0].includes("3"):
+      res = `third${capitalise(arr[1])}`;
       return res;
-    case (arr[0] as string).toString().includes("3"):
-      res = `third${capitalise(arr[1] as string)}`;
+    case arr[0].toString().includes("3"):
+      res = `third${capitalise(arr[1])}`;
       return res;
     default:
-      return (arr[0] as string | number).toString();
+      return arr.join(" ");
   }
 };
 
