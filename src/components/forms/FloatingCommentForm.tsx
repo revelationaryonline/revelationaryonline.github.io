@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Cookies from 'js-cookie';
+import Cookies from "js-cookie";
 import { TextField, Button, Typography, MenuItem, Box } from "@mui/material";
 import Menu from "@mui/material/Menu";
 import IconButton from "@mui/material/IconButton";
@@ -15,7 +15,9 @@ interface FloatingCommentFormProps {
   setComments: React.Dispatch<React.SetStateAction<any[]>>;
   commentsMenu: { mouseX: number; mouseY: number } | null;
   open: boolean;
-  setCommentsMenu: React.Dispatch<React.SetStateAction<{ mouseX: number; mouseY: number } | null>>;
+  setCommentsMenu: React.Dispatch<
+    React.SetStateAction<{ mouseX: number; mouseY: number } | null>
+  >;
   selectedVerse: any[];
   setSelectedVerse: React.Dispatch<React.SetStateAction<any[]>>;
   handleClose: () => void;
@@ -34,7 +36,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   setCommentsMenu,
   selectedVerse,
   setSelectedVerse,
-  handleClose
+  handleClose,
 }) => {
   const [newComment, setNewComment] = useState("");
   const [loading, setLoading] = useState(false);
@@ -45,7 +47,9 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
   async function getPostIdBySlug(slug: string) {
     if (commentsMenu && selectedVerse && selectedVerse[0]) {
-      const response = await fetch(`https://revelationary.org/wp-json/wp/v2/posts?slug=${slug}`);
+      const response = await fetch(
+        `https://revelationary.org/wp-json/wp/v2/posts?slug=${slug}`
+      );
       const data = await response.json();
       if (data.length > 0) {
         return data[0].id; // Return post ID
@@ -58,7 +62,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
   const handleCommentSubmit = async () => {
     if (!newComment.trim()) return;
-    const wpToken = Cookies.get('wpToken'); 
+    const wpToken = Cookies.get("wpToken");
     if (!wpToken) {
       console.error("User is not authenticated. Token is missing.");
       return;
@@ -71,7 +75,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "Authorization": `Bearer ${wpToken}`,
+            Authorization: `Bearer ${wpToken}`,
           },
           body: JSON.stringify({
             content: newComment,
@@ -112,41 +116,41 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   };
 
   useEffect(() => {
-    if (commentsMenu && commentsMenu.mouseX !== undefined) {
-      setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
+    if (commentsMenu) {
+      const fetchPostAndComments = async () => {
+        if (selectedVerse && selectedVerse[0]) {
+          const newSlug = `${selectedVerse[0]?.book.trim()}-${selectedVerse[0]?.chapter}${selectedVerse[0]?.verse}`;
+          setSlug(newSlug);
+  
+          try {
+            const postId = await getPostIdBySlug(newSlug);
+            if (postId) {
+              setPostID(postId);
+              fetchComments(postId);
+            }
+          } catch (error) {
+            console.error("Error fetching post ID:", error);
+          }
+        }
+      };
+  
+      fetchPostAndComments();
+    } else {
+      setComments([]); // Clear comments when the menu is closed
     }
-  }, [commentsMenu]);
-
+  }, [commentsMenu, selectedVerse]);
+  
   useEffect(() => {
-    if (postID) {
+    if (commentsMenu && postID) {
       fetchComments(postID);
     }
-  }, [postID]);
+  }, [commentsMenu, postID]);
 
-  useEffect(() => {    
-    const fetchPostAndComments = async () => {
-      if (commentsMenu && selectedVerse && selectedVerse[0]) {
-        const newSlug = `${selectedVerse[0]?.book.trim()}-${selectedVerse[0]?.chapter}${selectedVerse[0]?.verse}`;
-        await setSlug(newSlug);
-
-        try {
-          const postId = await getPostIdBySlug(newSlug); // Wait for post ID
-          console.log("Fetched Post ID:", postId);
-
-          if (postId) {
-            setPostID(postId);
-            fetchComments(postId); // Fetch comments using the correct post ID
-          }
-        } catch (error) {
-          console.error("Error fetching post ID:", error);
-        }
-      }
-    };
-    if (commentsMenu) {
-      setMenuPosition({ x: commentsMenu.mouseX, y: commentsMenu.mouseY });
+  const handleViewComments = async () => {
+    if (postID) {
+      await fetchComments(postID);
     }
-    fetchPostAndComments();
-  }, [commentsMenu, selectedVerse, open]);
+  };
 
   const handleMouseDown = (e: React.MouseEvent) => {
     setDragging(true);
@@ -174,12 +178,6 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     };
   }, [dragging]); // Only run when `dragging` changes
 
-  useEffect(() => {
-    if (commentsMenu && postID) {
-      fetchComments(postID);
-    }
-  }, [commentsMenu, postID]);
-
   if (!open) return null;
 
   return (
@@ -188,8 +186,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       open={open}
       anchorReference="anchorPosition"
       anchorPosition={{
-        top: menuPosition && menuPosition.y || 100,
-        left: menuPosition && menuPosition.x || 20,
+        top: (menuPosition && menuPosition.y) || 100,
+        left: (menuPosition && menuPosition.x) || 20,
       }}
       sx={{
         "& ul": { padding: 0 },
@@ -223,6 +221,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
               setOpen(false);
               handleClose();
               setSelectedVerse([]);
+              setCommentsMenu(null);
+              setComments([]);
             }}
           >
             <CloseIcon fontSize="small" />
@@ -256,7 +256,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     key={comment.id}
                     variant="body2"
                     sx={{
-                      color:'black',
+                      color: "black",
                       mb: 1,
                       wordBreak: "break-word",
                       whiteSpace: "pre-wrap",
@@ -275,13 +275,27 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     wordBreak: "break-word",
                     whiteSpace: "pre-wrap",
                     overflowWrap: "break-word",
-                    overflow: 'scroll'
+                    overflow: "scroll",
                   }}
                 >
                   There are no comments on this verse yet... Be the first!
                 </Typography>
               )}
             </Box>
+
+            {/* View Comments Button */}
+            <Button
+              onClick={handleViewComments}
+              variant="contained"
+              size="small"
+              color="primary"
+              sx={{
+                py: 1.5,
+                fontSize: "0.875rem",
+              }}
+            >
+              View Comments
+            </Button>
 
             {/* Comment Input Section */}
             {loggedIn && (

@@ -157,6 +157,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
 
   const handleCommentsClose = () => {
     setCommentsMenu(null);
+    setComments([]); // Clear comments when the menu is closed
   };
 
   useEffect(() => {
@@ -172,6 +173,14 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
       Cookies.set("wpToken", wpToken, { expires: 7, path: "" }); // expires in 7 days
     }
   }, [wpToken]);
+  
+  useEffect(() => {
+    if (commentsMenu) {
+      setComments([]); // Clear comments when the menu is opened
+    }
+  }, [commentsMenu]);
+
+  
 
   useEffect(() => {
     if (loading) {
