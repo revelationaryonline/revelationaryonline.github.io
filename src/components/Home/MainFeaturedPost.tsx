@@ -8,15 +8,25 @@ import Box from '@mui/material/Box';
 import heroPost from "../../assets/hero-post.jpg";
 
 interface Post {
-    title: string;
-    excerpt: string;
-    URL: string;
-    post_thumbnail: {
-        URL: string;
+    ID?: number;
+    title?: string | undefined;
+    comment_count?: number;
+    excerpt?: string | undefined;
+    URL?: string;
+    post_thumbnail?: {
+      URL: string;
     };
+    date: string;
+    description: string;
+    image: string;
+    imageLabel: string;
+  } 
+
+interface MainFeaturedPostProps {
+  post: Post | null;
 }
 
-const MainFeaturedPost = ({ post }: { post: Post }) => {
+const MainFeaturedPost: React.FC<MainFeaturedPostProps> = ({ post }) => {
 
     function extractContent(s: string) {
         var span = document.createElement('span');
@@ -35,7 +45,6 @@ const MainFeaturedPost = ({ post }: { post: Post }) => {
                 backgroundSize: 'cover',
                 backgroundRepeat: 'no-repeat',
                 backgroundPosition: 'top',
-                // backgroundImage: `url(${post && post?.post_thumbnail?.URL})`,
                 backgroundImage: `url(${heroPost})`,
                 opacity: 1,
                 height: '100%',
@@ -44,7 +53,7 @@ const MainFeaturedPost = ({ post }: { post: Post }) => {
             elevation={5}
         >
             {/* Increase the priority of the hero background image */}
-            <img style={{ display: 'none', borderRadius: '15px' }} src={post && post?.post_thumbnail?.URL} alt={'post'} />
+            <img style={{ display: 'none', borderRadius: '15px' }} src={post?.post_thumbnail?.URL} alt={'post'} />
             <Box
                 sx={{
                     position: 'absolute',
@@ -70,12 +79,12 @@ const MainFeaturedPost = ({ post }: { post: Post }) => {
                            Featured Verse
                         </Typography>
                         <Typography component="h1" variant="h4" color="inherit" gutterBottom lineHeight={1.1}>
-                            {post && post?.title}
+                            {post?.title}
                         </Typography>
                         <Typography variant="h5" color="inherit" paragraph lineHeight={1} fontSize={'1rem'}>
                             {post && extractContent(post?.excerpt)}
                         </Typography>
-                        <Link variant="subtitle1" sx={{ fontSize: '15px'}} color="#a1a1a1" href={`${post && post?.URL}`}>
+                        <Link variant="subtitle1" sx={{ fontSize: '15px'}} color="#a1a1a1" href={post?.URL}>
                             {'Continue Reading...'}
                         </Link>
                     </Box>
@@ -87,12 +96,13 @@ const MainFeaturedPost = ({ post }: { post: Post }) => {
 
 MainFeaturedPost.propTypes = {
     post: PropTypes.shape({
-        // excerpt: PropTypes.string.isRequired,
-        // image: PropTypes.string.isRequired,
-        // imageText: PropTypes.string.isRequired,
-        // linkText: PropTypes.string.isRequired,
         title: PropTypes.string.isRequired,
-    }).isRequired,
+        excerpt: PropTypes.string.isRequired,
+        URL: PropTypes.string.isRequired,
+        post_thumbnail: PropTypes.shape({
+            URL: PropTypes.string.isRequired,
+        }).isRequired,
+    }),
 };
 
 export default MainFeaturedPost;

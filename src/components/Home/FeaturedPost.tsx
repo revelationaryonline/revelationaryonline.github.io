@@ -11,10 +11,28 @@ import moment from "moment";
 import { createTheme, responsiveFontSizes } from "@mui/material";
 import { ThemeProvider } from "@emotion/react";
 
-const FeaturedPost = (props) => {
-  const { post } = props;
+interface Post {
+  ID?: number;
+  title?: string | undefined;
+  comment_count?: number;
+  excerpt?: string;
+  URL?: string;
+  post_thumbnail?: {
+    URL: string;
+  };
+  date: string;
+  description: string;
+  image: string;
+  imageLabel: string;
+} 
 
-  function extractContent(s) {
+interface FeaturedPostProps {
+  post: Post;
+}
+
+const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
+
+  function extractContent(s: string) {
     var span = document.createElement("span");
     span.innerHTML = s;
     return span.textContent || span.innerText;
@@ -27,7 +45,6 @@ const FeaturedPost = (props) => {
           borderRadius={45}
           sx={{
             backgroundColor: "transparent",
-
             display: "flex", // Keeps the rounded corners
             overflow: "hidden", // Ensures child elements don't overflow the rounded corners
             position: "relative", // Required for absolute positioning of the overlay
@@ -69,7 +86,7 @@ const FeaturedPost = (props) => {
               0 Comments
             </Typography>
             <Typography
-              variant="p"
+              variant="body2"
               right={0}
               justifySelf={"right"}
               sx={{
@@ -100,6 +117,7 @@ FeaturedPost.propTypes = {
     image: PropTypes.string.isRequired,
     imageLabel: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
+    URL: PropTypes.string.isRequired,
   }).isRequired,
 };
 

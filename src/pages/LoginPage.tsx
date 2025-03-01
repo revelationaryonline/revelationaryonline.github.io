@@ -15,6 +15,7 @@ import {
   signInWithEmailAndPassword,
   signInWithPopup,
   GoogleAuthProvider,
+  User,
 } from "firebase/auth";
 import { auth } from "../firebase"; // Import the initialized auth instance
 import { mdTheme } from "../utils/misc";
@@ -26,7 +27,7 @@ import logo from "../assets/logo512.png";
 const WORDPRESS_SUBSCRIBE_API =
   "https://public-api.wordpress.com/rest/v1.1/sites/revelationaryonline.wordpress.com/subscribers/new";
 
-const subscribeToWordPress = async (email) => {
+const subscribeToWordPress = async (email: string): Promise<void> => {
   try {
     // Check if the user is already subscribed (if WordPress API supports it)
     const response = await fetch(WORDPRESS_SUBSCRIBE_API, {
@@ -56,11 +57,19 @@ const subscribeToWordPress = async (email) => {
       console.log("Successfully subscribed to WordPress:", subscribeData);
     }
   } catch (error) {
-    console.error("Error subscribing to WordPress:", error.message);
+    if (error instanceof Error) {
+      console.error("Error subscribing to WordPress:", error.message);
+    } else {
+      console.error("Error subscribing to WordPress:", error);
+    }
   }
 };
 
-const LoginPage = ({ user }) => {
+interface LoginPageProps {
+  user: User | null;
+}
+
+const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   const [isSigningUp, setIsSigningUp] = useState(false);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -106,7 +115,7 @@ const LoginPage = ({ user }) => {
           "Authorization": authHeader,
         },
         body: JSON.stringify({
-          username: user.email.split("@")[0], // Use email prefix as username
+          username: user.email?.split("@")[0], // Use email prefix as username
           email: user.email,
           roles: ["subscriber"],
           password: Math.random().toString(36).slice(-10), // Generate a secure password
@@ -122,8 +131,12 @@ const LoginPage = ({ user }) => {
   
       navigate("/");
     } catch (error) {
-      console.error("Error during Google Sign-In:", error.message);
-      setError(error.message);
+      if (error instanceof Error) {
+        console.error("Error during Google Sign-In:", error.message);
+        setError(error.message);
+      } else {
+        console.error("Error during Google Sign-In:", error);
+      }
     }
   };
 
@@ -133,12 +146,16 @@ const LoginPage = ({ user }) => {
       const user = userCredential.user;
       console.log("Signed up with:", user.email);
       if (!isOptedOut) {
-        await subscribeToWordPress(user.email); // Subscribe to WordPress only if not opted out
+        await subscribeToWordPress(user.email!); // Subscribe to WordPress only if not opted out
       }
       navigate("/");
     } catch (error) {
-      console.error("Error signing up:", error.message);
-      setError(error.message);
+      if (error instanceof Error) {
+        console.error("Error signing up:", error.message);
+        setError(error.message);
+      } else {
+        console.error("Error signing up:", error);
+      }
     }
   };
 
@@ -149,8 +166,12 @@ const LoginPage = ({ user }) => {
       console.log("Logged in as:", user.email);
       navigate("/");
     } catch (error) {
-      console.error("Error logging in:", error.message);
-      setError(error.message);
+      if (error instanceof Error) {
+        console.error("Error logging in:", error.message);
+        setError(error.message);
+      } else {
+        console.error("Error logging in:", error);
+      }
     }
   };
 
@@ -192,11 +213,11 @@ const LoginPage = ({ user }) => {
                   marginBottom: 30,
                   marginRight: 10,
                   marginLeft: 10,
+                  // @ts-ignore-next-line
                   filter: isDarkMode && "invert(1)",
                 }}
               />
               <Typography
-                variant="p"
                 component="div"
                 sx={{
                   textAlign: { xs: "center", sm: "left" },

@@ -11,11 +11,7 @@ import MainFeaturedPost from "../components/Home/MainFeaturedPost";
 import FeaturedPost from "../components/Home/FeaturedPost";
 import Main from "../components/Home/Main";
 import SidePanel from "../components/Home/SidePanel";
-import Backdrop from "@mui/material/Backdrop";
 import Box from "@mui/material/Box";
-import Modal from "@mui/material/Modal";
-import Fade from "@mui/material/Fade";
-import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import { Divider } from "@mui/material";
 import GraphicTextEffect from "../components/GraphicTextEffect/GraphicTextEffect";
@@ -44,39 +40,46 @@ const sidebar = {
   ],
 };
 
-// TODO remove, this demo shouldn't need to reset the theme.
-// const defaultTheme = createTheme();
+interface Post {
+  ID?: number;
+  title?: string | undefined;
+  comment_count?: number;
+  excerpt?: string | undefined;
+  URL?: string;
+  post_thumbnail?: {
+    URL: string;
+  };
+  date: string;
+  description: string;
+  image: string;
+  imageLabel: string;
+} 
 
-export const Blog = () => {
-  // const posts = [post1, post2, post3];
-
-  const [posts, setPosts] = useState([]);
+export const Blog: React.FC = () => {
+  const [posts, setPosts] = useState<Post[]>([]);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [error, setError] = useState<Error | null>(null);
 
   const fetchPosts = async () => {
-    fetch(
-      `https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts?number=50`
-    ) // Fetch more posts
-      .then((res) => res.json())
-      .then(
-        (result) => {
-          setLoading(false);
-          if (result.posts) {
-            // Sort posts by comment count (highest first)
-            const sortedPosts = result.posts.sort(
-              (a, b) => b.comment_count - a.comment_count
-            );
-
-            // Get the top 9 most commented posts
-            setPosts(sortedPosts.slice(0, 9));
-          }
-        },
-        (error) => {
-          setLoading(false);
-          setError(error);
-        }
+    try {
+      const response = await fetch(
+        `https://public-api.wordpress.com/rest/v1.1/sites/223816114/posts?number=50`
       );
+      const result = await response.json();
+      setLoading(false);
+      if (result.posts) {
+        // Sort posts by comment count (highest first)
+        const sortedPosts = result.posts.sort(
+          (a: Post, b: Post) => (b.comment_count || 0) - (a.comment_count || 0)
+        );
+
+        // Get the top 9 most commented posts
+        setPosts(sortedPosts.slice(0, 9));
+      }
+    } catch (error) {
+      setLoading(false);
+      setError(error as Error);
+    }
   };
 
   useEffect(() => {
@@ -84,7 +87,7 @@ export const Blog = () => {
   }, []);
 
   return (
-    <ThemeProvider>
+  <ThemeProvider theme={createTheme()}>
       <CssBaseline />
       <Container maxWidth="lg">
         <Header title="Blog" sections={sections} />
@@ -110,7 +113,6 @@ export const Blog = () => {
           </Typography>
             <Box
             sx={{ border: '1px solid #a1a1a1'}}
-            elevation={5}
             >
             <GraphicTextEffect id="svg-jesus" text="JESUS" />
             
@@ -138,7 +140,7 @@ export const Blog = () => {
 
 
           <MainFeaturedPost
-            post={posts.length > 0 && posts.filter((item) => item.ID !== 38)[0]}
+            post={posts.length > 0 ? posts.filter((item) => item.ID !== 38)[0] : null}
           />
           <Typography
             component="h2"
