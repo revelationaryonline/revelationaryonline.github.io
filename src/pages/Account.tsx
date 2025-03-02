@@ -1,12 +1,10 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import Paper from "@mui/material/Paper";
-import NotificationsIcon from "@mui/icons-material/Notifications";
-import { Copyright } from "../components/Copyright/Copyright";
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
 import ListItemText from "@mui/material/ListItemText";
@@ -16,10 +14,37 @@ import Switch from "@mui/material/Switch";
 import ListItemAvatar from "@mui/material/ListItemAvatar";
 import Avatar from "@mui/material/Avatar";
 import Typography from "@mui/material/Typography";
-
+import Circle from "@mui/icons-material/Circle";
+import PersonIcon from "@mui/icons-material/Person";
+import { onAuthStateChanged, User } from "firebase/auth";
+import { auth } from "../firebase"; // Import your initialized Firebase auth instance
 import { mdTheme } from "../utils/misc";
+import { Copyright } from "../components/Copyright/Copyright";
 
 function AccountContent({ loggedIn }: { loggedIn: boolean }) {
+  const [user, setUser] = useState<User | null>(null);
+  const [checked, setChecked] = useState<string[]>([]);
+
+  useEffect(() => {
+    const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
+      setUser(currentUser);
+    });
+    return () => unsubscribe();
+  }, []);
+
+  const handleToggle = (value: string) => () => {
+    const currentIndex = checked.indexOf(value);
+    const newChecked = [...checked];
+
+    if (currentIndex === -1) {
+      newChecked.push(value);
+    } else {
+      newChecked.splice(currentIndex, 1);
+    }
+
+    setChecked(newChecked);
+  };
+
   return (
     <ThemeProvider theme={mdTheme}>
       <Box sx={{ display: "flex", marginTop: "15px", fontFamily: "Quicksand" }}>
@@ -54,17 +79,6 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                 >
                   <Grid container spacing={3} sx={{ textAlign: "left" }}>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      <Typography
-                        sx={{
-                          display: "block",
-                          textAlign: "left",
-                          width: "auto",
-                        }}
-                        component="span"
-                        color="text.primary"
-                      >
-                        ACCOUNT
-                      </Typography>
                       {/* user api */}
                       <List
                         sx={{
@@ -77,28 +91,52 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                         }}
                       >
                         <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Remy Sharp"
-                              src="/static/images/avatar/1.jpg"
+                          {user && user.photoURL ? (
+                            <img
+                              style={{
+                                width: 48,
+                                height: 48,
+                                borderRadius: 5,
+                                marginBottom: 5,
+                              }}
+                              alt={user.displayName || "User"}
+                              src={user.photoURL}
                             />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Remy Sharp"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {" — Studying"}
-                              </React.Fragment>
-                            }
-                          />
+                          ) : (
+                            <Avatar>
+                              <PersonIcon />
+                            </Avatar>
+                          )}
+                          <div style={{ borderRadius: 0 }}>
+                            <Typography
+                              sx={{
+                                marginLeft: 2,
+                                mt: 1,
+                                fontSize: "0.75rem",
+                                fontWeight: 600,
+                                color: "white",
+                              }}
+                            >
+                              {user && user.displayName}
+                            </Typography>
+                            <Typography
+                              sx={{
+                                marginLeft: 2,
+                                mt: -1,
+                                fontSize: "0.65rem",
+                                fontWeight: 400,
+                                color: "white",
+                                display: "flex",
+                                alignItems: "center",
+                              }}
+                            >
+                              <Circle
+                                sx={{ width: 10 }}
+                                htmlColor={"#02b548"}
+                              />
+                              &nbsp;Active
+                            </Typography>
+                          </div>
                         </ListItem>
                       </List>
                     </Grid>
@@ -112,11 +150,8 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                         component="span"
                         color="text.primary"
                       >
-                        CARD PAYMENTS
+                        SUBSCRIPTIONS
                       </Typography>
-                      {/* Proxima Nova, Gill Sans, Europa, I */}
-                      {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
-                      {/* Museo Sans, Recta and Helvetica */}
                       <List
                         sx={{
                           marginTop: "1rem",
@@ -140,8 +175,8 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("comments")}
-                            // checked={checked.indexOf("comments") !== -1}
+                            onChange={handleToggle("default-payment")}
+                            checked={checked.indexOf("default-payment") !== -1}
                             inputProps={{
                               "aria-labelledby":
                                 "switch-list-label-default-payment",
@@ -172,8 +207,8 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("comments")}
-                            // checked={checked.indexOf("comments") !== -1}
+                            onChange={handleToggle("comments")}
+                            checked={checked.indexOf("comments") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-comments",
                             }}
@@ -188,8 +223,8 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("search")}
-                            // checked={checked.indexOf("search") !== -1}
+                            onChange={handleToggle("search")}
+                            checked={checked.indexOf("search") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-search",
                             }}
@@ -206,8 +241,8 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("guide")}
-                            // checked={checked.indexOf("guide") !== -1}
+                            onChange={handleToggle("guide")}
+                            checked={checked.indexOf("guide") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-guide",
                             }}
@@ -224,8 +259,8 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("links")}
-                            // checked={checked.indexOf("links") !== -1}
+                            onChange={handleToggle("links")}
+                            checked={checked.indexOf("links") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-links",
                             }}
@@ -256,5 +291,5 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
 }
 
 export default function Account({ loggedIn }: { loggedIn: boolean }) {
-  return <AccountContent loggedIn />;
+  return <AccountContent loggedIn={loggedIn} />;
 }
