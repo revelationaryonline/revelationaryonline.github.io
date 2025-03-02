@@ -59,7 +59,9 @@ function ProfileContent() {
 
   return (
     <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: "flex", marginTop: "3.5rem", fontFamily: "Quicksand" }}>
+      <Box
+        sx={{ display: "flex", marginTop: "3.5rem", fontFamily: "Quicksand" }}
+      >
         <CssBaseline />
         {/* sidebar */}
         <Box
@@ -91,50 +93,59 @@ function ProfileContent() {
                 >
                   <Grid container spacing={3} sx={{ textAlign: "left" }}>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                                            <Grid item xs={12} md={6} sx={{ textAlign: "left", marginTop: 0, display: 'flex' }}>
-                      {user && user.photoURL ? (
-                                                <img
-                          style={{
-                            width: 48,
-                            height: 48,
-                            borderRadius: 5,
-                            marginBottom: 5,
-                          }}
-                          alt={user.displayName || "User"}
-                          src={user.photoURL}
-                        />
-                      ) : (
-                                                <Avatar>
-                          <PersonIcon />
-                        </Avatar>
-                      )}
-                      <div style={{ borderRadius: 0 }}>
-                        <Typography
-                          sx={{
-                            marginLeft: 2,
-                            mt: 1,
-                            fontSize: "0.75rem",
-                            fontWeight: 600,
-                            color: "white",
-                          }}
-                        >
-                          {user && user.displayName}
-                        </Typography>
-                        <Typography
-                          sx={{
-                            marginLeft: 2,
-                            mt: -1,
-                            fontSize: "0.65rem",
-                            fontWeight: 400,
-                            color: "white",
-                            display: "flex",
-                            alignItems: "center",
-                          }}
-                        >
-                          <Circle sx={{ width: 10 }} htmlColor={"#02b548"} />
-                          &nbsp;Active
-                        </Typography>
-                 {/* <Typography
+                      <Grid
+                        item
+                        xs={12}
+                        md={6}
+                        sx={{
+                          textAlign: "left",
+                          marginTop: 0,
+                          display: "flex",
+                        }}
+                      >
+                        {user && user.photoURL ? (
+                          <img
+                            style={{
+                              width: 48,
+                              height: 48,
+                              borderRadius: 5,
+                              marginBottom: 5,
+                            }}
+                            alt={user.displayName || "User"}
+                            src={user.photoURL}
+                          />
+                        ) : (
+                          <Avatar>
+                            <PersonIcon />
+                          </Avatar>
+                        )}
+                        <div style={{ borderRadius: 0 }}>
+                          <Typography
+                            sx={{
+                              marginLeft: 2,
+                              mt: 1,
+                              fontSize: "0.75rem",
+                              fontWeight: 600,
+                              color: "white",
+                            }}
+                          >
+                            {user && user.displayName}
+                          </Typography>
+                          <Typography
+                            sx={{
+                              marginLeft: 2,
+                              mt: -1,
+                              fontSize: "0.65rem",
+                              fontWeight: 400,
+                              color: "white",
+                              display: "flex",
+                              alignItems: "center",
+                            }}
+                          >
+                            <Circle sx={{ width: 10 }} htmlColor={"#02b548"} />
+                            &nbsp;Active
+                          </Typography>
+                          {/* <Typography
                         sx={{
                           display: "block",
                           textAlign: "right",
@@ -146,10 +157,10 @@ function ProfileContent() {
                       >
                         NEWS FEED
                       </Typography> */}
-                      {/* Proxima Nova, Gill Sans, Europa, I */}
-                      {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
-                      {/* Museo Sans, Recta and Helvetica */}
-                      {/* <List
+                          {/* Proxima Nova, Gill Sans, Europa, I */}
+                          {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
+                          {/* Museo Sans, Recta and Helvetica */}
+                          {/* <List
                         sx={{
                           width: "100%",
                           maxWidth: 360,
@@ -293,10 +304,10 @@ function ProfileContent() {
                           />
                         </ListItem>
                       </List> */}
-     </div>
+                        </div>
                       </Grid>
                     </Grid>
-     {/* <Typography
+                    {/* <Typography
                         sx={{
                           display: "block",
                           textAlign: "right",
@@ -308,10 +319,10 @@ function ProfileContent() {
                       >
                         NEWS FEED
                       </Typography> */}
-                      {/* Proxima Nova, Gill Sans, Europa, I */}
-                      {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
-                      {/* Museo Sans, Recta and Helvetica */}
-                      {/* <List
+                    {/* Proxima Nova, Gill Sans, Europa, I */}
+                    {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
+                    {/* Museo Sans, Recta and Helvetica */}
+                    {/* <List
                         sx={{
                           width: "100%",
                           maxWidth: 360,
@@ -455,7 +466,7 @@ function ProfileContent() {
                           />
                         </ListItem>
                       </List> */}
-               <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
+                    <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
                       {/* <Typography
                         sx={{
                           display: "block",

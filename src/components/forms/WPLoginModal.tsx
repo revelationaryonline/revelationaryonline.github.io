@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Cookies from 'js-cookie';
 import { Modal, Box, Typography, TextField, Button } from "@mui/material";
 
+const WP_API_URL = process.env.REACT_APP_WP_API_URL?.replace('/wp/v2', '');
 
 interface WPLoginModalProps {
   user: any;
@@ -24,10 +25,10 @@ const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) 
   }, [user, wpToken]);
 
   const handleLogin = async () => {
-    if (!user || !password) return;
+    if (!user || !password || !WP_API_URL) return;
 
     try {
-      const response = await fetch(`https://revelationary.org/wp-json/jwt-auth/v1/token`, {
+      const response = await fetch(`${WP_API_URL}/jwt-auth/v1/token`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

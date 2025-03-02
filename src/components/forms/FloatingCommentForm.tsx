@@ -15,12 +15,16 @@ import CloseIcon from "@mui/icons-material/Close";
 import { RefreshRounded } from "@mui/icons-material";
 import ChatIcon from "@mui/icons-material/Chat";
 import CommentIcon from "@mui/icons-material/Comment";
-import Comment from "./compoenents/Comment"; // Import the new Comment component
+import Comment from "./components/Comment"; // Import the new Comment component
 import Tooltip from "@mui/material/Tooltip";
 
 import { capitalise } from "../../utils/misc";
 
 import logo from "../../assets/logo512.png";
+
+const WP_API_URL = process.env.REACT_APP_WP_API_URL;
+const PERSPECTIVE_API_URL = process.env.REACT_APP_PERSPECTIVE_API_URL;
+const PERSPECTIVE_API_KEY = process.env.REACT_APP_PERSPECTIVE_API_KEY;
 
 interface FloatingCommentFormProps {
   setOpen: React.Dispatch<React.SetStateAction<boolean>>;
@@ -70,9 +74,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
   async function getPostIdBySlug(slug: string) {
     if (commentsMenu && selectedVerse && selectedVerse[0]) {
-      const response = await fetch(
-        `https://revelationary.org/wp-json/wp/v2/posts?slug=${slug}`
-      );
+      const response = await fetch(`${WP_API_URL}/posts?slug=${slug}`);
       const data = await response.json();
       if (data.length > 0) {
         return data[0].id; // Return post ID
@@ -84,9 +86,11 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   }
 
   const checkPerspectiveAPI = async (comment: string) => {
-    const API_KEY = process.env.REACT_APP_PERSPECTIVE_API_KEY;
-    const url =
-      "https://commentanalyzer.googleapis.com/v1alpha1/comments:analyze";
+    if (!PERSPECTIVE_API_KEY || !PERSPECTIVE_API_URL) {
+      console.error("Perspective API configuration missing");
+      return true;
+    }
+
     const body = {
       comment: {
         text: comment,
@@ -102,7 +106,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     };
 
     const response = await fetch(
-      `${process.env.REACT_APP_PERSPECTIVE_API_URL}?key=${API_KEY}`,
+      `${PERSPECTIVE_API_URL}?key=${PERSPECTIVE_API_KEY}`,
       {
         method: "POST",
         headers: {
@@ -147,21 +151,18 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         return; // Exit if the comment is flagged as inappropriate
       }
 
-      const response = await fetch(
-        `${process.env.REACT_APP_WP_API_URL}/comments`,
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization: `Bearer ${wpToken}`,
-          },
-          body: JSON.stringify({
-            content: cleanComment,
-            post: postID,
-            post_slug: slug,
-          }),
-        }
-      );
+      const response = await fetch(`${WP_API_URL}/comments`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${wpToken}`,
+        },
+        body: JSON.stringify({
+          content: cleanComment,
+          post: postID,
+          post_slug: slug,
+        }),
+      });
 
       if (response.ok) {
         setNewComment("");
@@ -181,14 +182,12 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
   // eslint-disable-next-line
   const fetchComments = async (postId: number, page: number = 1) => {
-    if (!postId) {
-      console.log("No post ID available, skipping fetchComments");
+    if (!postId || !WP_API_URL) {
+      console.log("No post ID or API URL available, skipping fetchComments");
       return;
     }
     try {
-      const response = await fetch(
-        `https://revelationary.org/wp-json/wp/v2/comments?post=${postId}&page=${page}`
-      );
+      const response = await fetch(`${WP_API_URL}/comments?post=${postId}&page=${page}`);
       const data = await response.json();
       if (data.length === 0) {
         setHasMoreComments(false); // No more comments to fetch
@@ -459,41 +458,9 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
               )}
               {!hasMoreComments && (
                 <Box
-                sx={{
-                  display: "flex",
-                  flexDirection: "column",
-                  justifyContent: "center",
-                  alignItems: "center",
-                  mt: 2,
-                  color: "#777",
-                  fontSize: "14px",
-                  fontWeight: 800,
-                  lineHeight: "normal", // Adjust line height
-                  verticalAlign: "baseline", // Adjust vertical alignment
-                  fontFamily: "'Cardo', serif",
-                  border: "1px solid #ccc",
-                  borderRadius: 1,
-                  padding: 1,
-                  backgroundColor: "#f9f9f9",
-                }}
-                >
-                <Typography
-                  variant="body2"
-                  color="black"
-                  sx={{
-                    mt: 1,
-                    px: 2,
-                    wordBreak: "break-word",
-                    whiteSpace: "pre-wrap",
-                    overflowWrap: "break-word",
-                    overflow: "scroll",
-                  }}
-                >
-                  No more comments to load... Why not head to our blog and see which verses are trending ? Just click the Menu in the Top Right corner of your screen
-                </Typography>
-                <Box
                   sx={{
                     display: "flex",
+                    flexDirection: "column",
                     justifyContent: "center",
                     alignItems: "center",
                     mt: 2,
@@ -503,22 +470,54 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     lineHeight: "normal", // Adjust line height
                     verticalAlign: "baseline", // Adjust vertical alignment
                     fontFamily: "'Cardo', serif",
+                    border: "1px solid #ccc",
+                    borderRadius: 1,
+                    padding: 1,
+                    backgroundColor: "#f9f9f9",
                   }}
                 >
-                  <img
-                    src={logo}
-                    alt="revelationary"
-                    style={{
-                      width: "20px",
-                      height: "20px",
-                      marginTop: "0px",
-                      marginRight: 10,
-                      marginLeft: 10,
-                      // filter: isDarkMode ? "invert(1)" : "none",
+                  <Typography
+                    variant="body2"
+                    color="black"
+                    sx={{
+                      mt: 1,
+                      px: 2,
+                      wordBreak: "break-word",
+                      whiteSpace: "pre-wrap",
+                      overflowWrap: "break-word",
+                      overflow: "scroll",
                     }}
-                  ></img>
-                  revelationary.online/#/blog
-                </Box>
+                  >
+                    No more comments to load... Why not head to our blog and see which verses are trending ? Just click the Menu in the Top Right corner of your screen
+                  </Typography>
+                  <Box
+                    sx={{
+                      display: "flex",
+                      justifyContent: "center",
+                      alignItems: "center",
+                      mt: 2,
+                      color: "#777",
+                      fontSize: "14px",
+                      fontWeight: 800,
+                      lineHeight: "normal", // Adjust line height
+                      verticalAlign: "baseline", // Adjust vertical alignment
+                      fontFamily: "'Cardo', serif",
+                    }}
+                  >
+                    <img
+                      src={logo}
+                      alt="revelationary"
+                      style={{
+                        width: "20px",
+                        height: "20px",
+                        marginTop: "0px",
+                        marginRight: 10,
+                        marginLeft: 10,
+                        // filter: isDarkMode ? "invert(1)" : "none",
+                      }}
+                    ></img>
+                    revelationary.online/#/blog
+                  </Box>
                 </Box>
               )}
             </Box>
