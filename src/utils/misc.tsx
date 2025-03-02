@@ -330,7 +330,7 @@ export const handleSearch = async (
   setCount: React.Dispatch<React.SetStateAction<number | string>>,
   setPage: React.Dispatch<React.SetStateAction<number>>
 ): Promise<void> => {
-  setPage(1)
+  setPage(1);
   if (e.keyCode === 13) {
     const term = (e.target as HTMLInputElement).value;
     if ((term.match(/"/g) || []).length >= 2) {
@@ -357,11 +357,19 @@ export const handleSearch = async (
             });
           }
           if (ver.length > 1 && !str.join(" ").includes('"')) {
-            fetchVerse(str[0], ver[0], ver[1], setData, setVerse);
-            setCount(fetchCount(str[0]))
-            setPage(1)
+            fetchVerse(str[0].trim(), ver[0], ver[1], setData, setVerse);
+            setCount(fetchCount(str[0].trim()));
+            setPage(1);
+          } else if (ver.length === 1 && term.endsWith(":")) {
+            fetchVerse(str[0].trim(), ver[0]+":", "", setData, setVerse);
+            setCount(fetchCount(str[0].trim()));
+            setPage(1);
+          } else if (ver.length === 1) {
+            fetchVerse(str[0].trim(), ver[0]+":", "", setData, setVerse);
+            setCount(fetchCount(str[0].trim()));
+            setPage(1);
           } else {
-            fetchVerse(str[0], 1, "", setData, setVerse);
+            fetchVerse(str[0].trim(), 1, "", setData, setVerse);
           }
         } else if (matchBookWithNumbers) {
           while ((m = regex.exec(str.join(" "))) !== null) {
@@ -374,18 +382,22 @@ export const handleSearch = async (
             });
           }
           if (ver.length > 1) {
-            fetchVerse(matchBookWithNumbers, ver[0], ver[1], setData, setVerse);
-            setCount(await fetchCount(matchBookWithNumbers))
-            setPage(1)
+            fetchVerse(matchBookWithNumbers.trim(), ver[0], ver[1], setData, setVerse);
+            setCount(await fetchCount(matchBookWithNumbers.trim()));
+            setPage(1);
+          } else if (ver.length === 1) {
+            fetchVerse(matchBookWithNumbers.trim(), ver[0], "", setData, setVerse);
+            setCount(await fetchCount(matchBookWithNumbers.trim()));
+            setPage(1);
           } else {
-            fetchVerse(matchBookWithNumbers, 1, "", setData, setVerse);
-            setCount(await fetchCount(matchBookWithNumbers))
-            setPage(1)
+            fetchVerse(matchBookWithNumbers.trim(), 1, "", setData, setVerse);
+            setCount(await fetchCount(matchBookWithNumbers.trim()));
+            setPage(1);
           }
         } else {
-          fetchVerse(str[0], 1, "", setData, setVerse);
-          setCount(await fetchCount(matchBookWithNumbers))
-          setPage(1)
+          fetchVerse(str[0].trim(), 1, "", setData, setVerse);
+          setCount(await fetchCount(matchBookWithNumbers.trim()));
+          setPage(1);
         }
       }
     }
@@ -403,9 +415,12 @@ export const fetchVerse = async (
   setVerse: React.Dispatch<React.SetStateAction<any[]>>
 ): Promise<void> => {
 
+  
+  const checkBook = book.split(' ')
+ const bk = checkBook[0]
   try {
     await fetch(
-      `https://kjvapp.com/api/${book + "/"}${chapter}/${verse !== "" ? Number(verse) : ""
+      `https://kjvapp.com/api/${bk}/${chapter}/${verse !== "" ? Number(verse) : ""
       }`
     )
       .then((res) => res.json())

@@ -223,7 +223,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         loading &&
         count === -1
       ) {
-        console.log(search)
+        console.log(search);
         searchTerm(search);
         setCount(result.length - 1);
         setColumns(1);
@@ -236,7 +236,10 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
           );
         }
       }
-      if (verse && verse.length > 0 && verse[0]?.book &&
+      if (
+        verse &&
+        verse.length > 0 &&
+        verse[0]?.book &&
         count !== 0 &&
         search &&
         !search.includes('"') &&
@@ -648,7 +651,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                                       background: (theme) =>
                                         theme.palette.mode === "light"
                                           ? "#A1a1a1aa"
-                                          : "#212121aa",
+                                          : "#a1a1a1",
                                       "&.MuiIconButton-root:hover": {
                                         background: (theme) =>
                                           theme.palette.mode === "light"
@@ -666,7 +669,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                                   </IconButton>
                                 </Tooltip>
                               )}
-                              {v.text === selectedVerse[0]?.text && (
+                              {/* {v.text === selectedVerse[0]?.text && (
                                 <Tooltip
                                   title={loggedIn ? "Like" : "Sign In To Like"}
                                 >
@@ -698,7 +701,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                                     <FavoriteIcon fontSize="small" />
                                   </IconButton>
                                 </Tooltip>
-                              )}
+                              )} */}
                             </span>
                             {v.text}&nbsp;
                           </span>
@@ -772,11 +775,12 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                   <>
                     <Pagination
                       sx={{
+                        opacity: 1,
                         position: "fixed",
-                        marginLeft: "-50px",
+                        marginLeft: "-65px",
+                        pl: 1,
                         mt: "83px", // 83 Samantha
                         width: "min-content",
-                        opacity: 1,
                         backgroundColor: (theme) =>
                           theme.palette.mode === "light"
                             ? "#FFFFFF"
