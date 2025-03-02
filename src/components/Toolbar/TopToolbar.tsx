@@ -12,7 +12,7 @@ import VerticalSplitIcon from "@mui/icons-material/VerticalSplit";
 import RefreshIcon from "@mui/icons-material/Refresh";
 import AlertDialogSlide from "../Modal/Modal";
 import { Divider, Box } from "@mui/material";
-import DonateButton from "../DonateButton/DonateButton";
+// import DonateButton from "../DonateButton/DonateButton";
 import FullscreenButton from "../FullScreenButton/FullScreenButton";
 import HighlightColorSelect from "../HighlightSelect/HighlightColorSelect";
 import ShortTextIcon from '@mui/icons-material/ShortText';
@@ -152,7 +152,7 @@ const TopToolbar = ({
               <RefreshIcon fontSize={"medium"} />
             </IconButton>
           </Tooltip>
-          <DonateButton />
+          {/* <DonateButton /> */}
         </Box>
       </ButtonGroup>
     </Toolbar>

@@ -17,7 +17,7 @@ import Select, { SelectChangeEvent } from "@mui/material/Select";
 import CommentsDisabledIcon from "@mui/icons-material/CommentsDisabled";
 import { SideBar } from "../SideBar/SideBar";
 import TopToolbar from "../Toolbar/TopToolbar";
-import VideoModal from "../VideoModal/VideoModal";
+// import VideoModal from "../VideoModal/VideoModal";
 import MenuPanel from "../Menu/MenuPanel";
 import Guide from "../Guide/Guide";
 import FloatingCommentForm from "../forms/FloatingCommentForm";
@@ -514,7 +514,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                       verse[0].chapter +
                       ":" +
                       verse[verse.length - 1].verse}
-                  {verse &&
+                  {/* {verse &&
                     verse.length > 0 &&
                     verse[0]?.book &&
                     verse[0]?.chapter && (
@@ -522,7 +522,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                         currentBook={verse && verse[0].book}
                         currentChapter={verse && verse[0].chapter}
                       />
-                    )}
+                    )} */}
                 </Typography>
 
                 <Typography
