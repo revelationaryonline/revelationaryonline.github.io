@@ -49,8 +49,8 @@ export default function SignOutDialog({ open, onClose, onConfirm }: SignOutDialo
       onClose={onClose}
       PaperProps={{
         sx: {
-          backgroundColor: (theme) => theme.palette.mode === 'light' ? '#FFF' : '#212121',
-          color: (theme) => theme.palette.mode === 'light' ? '#212121' : '#FFF',
+          backgroundColor: (theme) => theme.palette.mode === 'light' ? '#FFF' : '#000',
+          color: (theme) => theme.palette.mode === 'light' ? '#000' : '#FFF',
           borderRadius: 0
         }
       }}
@@ -60,7 +60,13 @@ export default function SignOutDialog({ open, onClose, onConfirm }: SignOutDialo
         fontWeight: 600,
         letterSpacing: '1.65px',
       }}>
-        Sign Out Options
+        Just a sec...
+      </DialogTitle>
+      <DialogTitle sx={{ 
+        mt: -1,
+        fontWeight: 200,
+      }}>
+        Do you want to save anything on this device ?
       </DialogTitle>
       <DialogContent>
         <Box sx={{ mb: 2 }}>
@@ -111,7 +117,7 @@ export default function SignOutDialog({ open, onClose, onConfirm }: SignOutDialo
           />
         </Box>
         <Typography variant="body2" sx={{ color: '#a1a1a1', fontSize: '14px' }}>
-          Note: If you don&apos;t save your session, you&apos;ll need to enter your API password again on next login.
+          Note: If you don&apos;t save your session, you&apos;ll need to enter your Comments API password again on next login.
         </Typography>
       </DialogContent>
       <DialogActions sx={{ p: 2 }}>

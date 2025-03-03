@@ -402,7 +402,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
             <Typography
               variant="body2"
               sx={{
-                mb: -1,
+                mb: -2,
                 fontStyle: "italic",
                 color: "#a1a1a1",
                 fontSize: "0.85rem",
@@ -417,7 +417,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
               title="Comments"
               sx={{
                 opacity: 0.75,
-                mb: -1,
+                mb: 0,
                 "&.MuiIconButton-root:hover": {
                   backgroundColor: "rgba(0, 0, 0, 0.00)",
                   opacity: 1,
