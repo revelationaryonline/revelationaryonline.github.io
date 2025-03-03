@@ -19,6 +19,7 @@ import {
   Divider,
   Alert,
   Snackbar,
+  Skeleton,
 } from "@mui/material";
 import { PersonOutline, PhotoCamera, Save } from "@mui/icons-material";
 import { onAuthStateChanged, updateProfile, User } from "firebase/auth";
@@ -40,6 +41,7 @@ const BIBLE_VERSIONS = [
 function ProfileContent() {
   const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(false);
+  const [imageLoading, setImageLoading] = useState(true);
   const [message, setMessage] = useState<{
     type: "success" | "error";
     text: string;
@@ -169,19 +171,44 @@ function ProfileContent() {
                   >
                     <Box alignItems="flex-start">
                       {photoURL ? (
-                        <img
-                          style={{
-                            width: 96,
-                            height: 96,
-                            borderRadius: 5,
-                            marginBottom: 5,
-                          }}
-                          alt={displayName || "User"}
-                          src={photoURL}
-                        />
+                        <>
+                          {imageLoading && (
+                            <Skeleton 
+                              variant="rectangular" 
+                              width={96} 
+                              height={96} 
+                              sx={{ 
+                                borderRadius: 1,
+                                position: 'absolute',
+                                bgcolor: (theme) => theme.palette.mode === 'dark' ? 'grey.800' : 'grey.200'
+                              }} 
+                            />
+                          )}
+                          <img
+                            style={{
+                              width: 96,
+                              height: 96,
+                              borderRadius: 5,
+                              marginBottom: 5,
+                              display: imageLoading ? 'none' : 'block'
+                            }}
+                            alt={displayName || "User"}
+                            src={photoURL}
+                            onLoad={() => setImageLoading(false)}
+                            onError={(e) => {
+                              e.currentTarget.style.display = 'none';
+                              setPhotoURL(''); // Clear the invalid URL
+                              setImageLoading(false);
+                            }}
+                          />
+                        </>
                       ) : (
-                        <Avatar>
-                          <PersonIcon />
+                        <Avatar sx={{ 
+                          width: 96, 
+                          height: 96,
+                          bgcolor: (theme) => theme.palette.mode === 'dark' ? 'grey.800' : 'grey.200'
+                        }}>
+                          <PersonIcon sx={{ width: 48, height: 48 }} />
                         </Avatar>
                       )}
                     </Box >
