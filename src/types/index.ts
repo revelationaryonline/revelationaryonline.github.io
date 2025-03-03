@@ -3,10 +3,23 @@ export interface WordPressUser {
   username: string;
   email: string;
   roles: string[];
+  first_name?: string;
+  last_name?: string;
+  description?: string;
+  avatar_urls?: {
+    [key: string]: string;
+  };
   meta?: {
     bible_preferences?: string;
     study_notes?: string;
     favorite_verses?: string;
+    social_links?: {
+      twitter?: string;
+      linkedin?: string;
+      github?: string;
+    };
+    preferred_bible_version?: string;
+    theme_preference?: 'light' | 'dark';
   };
 }
 
@@ -41,4 +54,5 @@ export interface UserProfile {
     fontSize: number;
     theme: 'light' | 'dark';
   };
+  wordPressProfile?: WordPressUser;
 }

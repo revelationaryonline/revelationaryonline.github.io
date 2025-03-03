@@ -5,9 +5,9 @@ import { WordPressUser, StudyNote } from '../types';
 const WP_API_URL = process.env.REACT_APP_WP_API_URL;
 const CUSTOM_API_URL = process.env.REACT_APP_WP_API_URL_CUSTOM;
 
-const getAuthHeaders = () => ({
+const getAuthHeaders = (token?: string) => ({
   'Content-Type': 'application/json',
-  'Authorization': `Basic ${btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`)}`,
+  'Authorization': token ? `Bearer ${token}` : `Basic ${btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`)}`,
 });
 
 export const createOrGetWordPressUser = async (email: string, username?: string): Promise<WordPressUser> => {
@@ -140,6 +140,76 @@ export const fetchBlogPost = async (slug: string) => {
     return post;
   } catch (error) {
     console.error('Error fetching blog post:', error);
+    throw error;
+  }
+};
+
+export const updateWordPressProfile = async (userId: number, data: Partial<WordPressUser>): Promise<WordPressUser> => {
+  const token = Cookies.get('wpToken');
+  if (!token) {
+    throw new Error('User not authenticated');
+  }
+
+  try {
+    const response = await fetch(`${WP_API_URL}/users/${userId}`, {
+      method: 'POST',
+      headers: getAuthHeaders(token),
+      body: JSON.stringify(data),
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to update WordPress profile');
+    }
+
+    return response.json();
+  } catch (error) {
+    console.error('Failed to update WordPress profile:', error);
+    throw error;
+  }
+};
+
+export const updateWordPressUserMeta = async (userId: number, meta: Record<string, any>): Promise<WordPressUser> => {
+  const token = Cookies.get('wpToken');
+  if (!token) {
+    throw new Error('User not authenticated');
+  }
+
+  try {
+    const response = await fetch(`${WP_API_URL}/users/${userId}/meta`, {
+      method: 'POST',
+      headers: getAuthHeaders(token),
+      body: JSON.stringify(meta),
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to update WordPress user meta');
+    }
+
+    return response.json();
+  } catch (error) {
+    console.error('Failed to update WordPress user meta:', error);
+    throw error;
+  }
+};
+
+export const getWordPressProfile = async (userId: number): Promise<WordPressUser> => {
+  const token = Cookies.get('wpToken');
+  if (!token) {
+    throw new Error('User not authenticated');
+  }
+
+  try {
+    const response = await fetch(`${WP_API_URL}/users/${userId}`, {
+      headers: getAuthHeaders(token),
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to fetch WordPress profile');
+    }
+
+    return response.json();
+  } catch (error) {
+    console.error('Failed to fetch WordPress profile:', error);
     throw error;
   }
 };

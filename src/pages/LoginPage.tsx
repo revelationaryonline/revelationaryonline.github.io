@@ -271,6 +271,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 </Box>
               </>
             )}
+
             {error && (
               <Typography color="error" variant="body2" sx={{ mb: 2 }}>
                 {error}
@@ -288,6 +289,41 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               autoFocus
               value={email}
               onChange={(e) => setEmail(e.target.value)}
+              sx={{
+              WebkitBoxShadow: "none !important",
+              "& .Mui-focused": {
+                color: (theme) =>
+                  theme.palette.mode === "light"
+                    ? "black !important"
+                    : "white !important",
+                "& .MuiOutlinedInput-notchedOutline": {
+                  borderColor: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "#ccc !important"
+                      : "#FFF !important",
+                  color: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "black"
+                      : "white !important",
+                },
+                "& input:-webkit-autofill": {
+                  WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                  WebkitTextFillColor: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                  transition: "background-color 5000s ease-in-out 0s",
+                },
+              },
+              "& .MuiInputBase-input": {
+                color: (theme) =>
+                  theme.palette.mode === "light" ? "black" : "white",
+              },
+              "& .MuiInputBase-input:-webkit-autofill": {
+                WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                WebkitTextFillColor: (theme) =>
+                  theme.palette.mode === "light" ? "black" : "white",
+                transition: "background-color 5000s ease-in-out 0s",
+              },
+            }}
             />
 
             <TextField
@@ -301,6 +337,41 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               autoComplete="current-password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
+              sx={{
+                WebkitBoxShadow: "none !important",
+                "& .Mui-focused": {
+                  color: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "black !important"
+                      : "white !important",
+                  "& .MuiOutlinedInput-notchedOutline": {
+                    borderColor: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "#ccc !important"
+                        : "#FFF !important",
+                    color: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "black"
+                        : "white !important",
+                  },
+                  "& input:-webkit-autofill": {
+                    WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                    WebkitTextFillColor: (theme) =>
+                      theme.palette.mode === "light" ? "black" : "white",
+                    transition: "background-color 5000s ease-in-out 0s",
+                  },
+                },
+                "& .MuiInputBase-input": {
+                  color: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                },
+                "& .MuiInputBase-input:-webkit-autofill": {
+                  WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                  WebkitTextFillColor: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                  transition: "background-color 5000s ease-in-out 0s",
+                },
+              }}
             />
 
             <Button
@@ -365,7 +436,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 </>
               ) : (
                 <>
-                  Don’t have an account?{" "}
+                  Don&apos;t have an account?{" "}
                   <Button
                     variant="text"
                     onClick={() => setIsSigningUp(true)}
@@ -375,6 +446,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 </>
               )}
             </Typography>
+
             {isSigningUp && (
               <Box sx={{ mt: 2 }}>
                 <FormControlLabel
