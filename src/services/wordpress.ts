@@ -5,8 +5,8 @@ import { WordPressUser, StudyNote } from '../types';
 const WP_API_URL = process.env.REACT_APP_WP_API_URL;
 const CUSTOM_API_URL = process.env.REACT_APP_WP_API_URL_CUSTOM;
 
-const getAuthHeaders = (token?: string) => ({
-  'Content-Type': 'application/json',
+const getAuthHeaders = (token?: string, isFormData = false) => ({
+  ...(isFormData ? {} : { 'Content-Type': 'application/json' }),
   'Authorization': token ? `Bearer ${token}` : `Basic ${btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`)}`,
 });
 
@@ -210,6 +210,65 @@ export const getWordPressProfile = async (userId: number): Promise<WordPressUser
     return response.json();
   } catch (error) {
     console.error('Failed to fetch WordPress profile:', error);
+    throw error;
+  }
+};
+
+export const uploadProfileImage = async (file: File): Promise<string> => {
+  const token = Cookies.get('wpToken');
+  if (!token) {
+    throw new Error('User not authenticated');
+  }
+
+  try {
+    // First, try to get the user's current media items to find old profile photos
+    const userId = Cookies.get('userId');
+    if (userId) {
+      try {
+        const mediaResponse = await fetch(
+          `${WP_API_URL}/media?author=${userId}&per_page=10`,
+          {
+            headers: getAuthHeaders(token),
+          }
+        );
+        const mediaItems = await mediaResponse.json();
+        
+        // Find and delete old profile photos
+        const oldProfilePhotos = mediaItems.filter((item: any) => 
+          item.title?.rendered?.includes('profile-photo')
+        );
+        
+        for (const photo of oldProfilePhotos) {
+          await fetch(`${WP_API_URL}/media/${photo.id}?force=true`, {
+            method: 'DELETE',
+            headers: getAuthHeaders(token),
+          });
+        }
+      } catch (error) {
+        console.error('Failed to cleanup old profile photos:', error);
+        // Continue with upload even if cleanup fails
+      }
+    }
+
+    // Prepare optimized image for upload
+    const formData = new FormData();
+    formData.append('file', file);
+    formData.append('title', `profile-photo-${Date.now()}`); // Add timestamp to prevent conflicts
+
+    const response = await fetch(`${WP_API_URL}/media`, {
+      method: 'POST',
+      headers: getAuthHeaders(token, true),
+      body: formData,
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to upload profile image');
+    }
+
+    const data = await response.json();
+    return data.source_url;
+  } catch (error) {
+    console.error('Failed to upload profile image:', error);
     throw error;
   }
 };

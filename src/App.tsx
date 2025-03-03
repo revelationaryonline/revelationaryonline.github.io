@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route, useLocation } from "react-router-dom";
 import Cookies from 'js-cookie';
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import "./App.css";
@@ -10,6 +10,7 @@ import Account from "./pages/Account";
 import { Blog } from "./pages/Blog";
 import LoginPage from "./pages/LoginPage";
 import { Box } from "@mui/material";
+import CookieConsent from "./components/CookieConsent/CookieConsent";
 
 // Import Firebase authentication
 import { getAuth, onAuthStateChanged, User } from "firebase/auth";
@@ -123,6 +124,7 @@ export default function App() {
               <Route path="/account" element={<Account loggedIn={loggedIn} />} />
               <Route path="/login" element={<LoginPage user={user} />} />
             </Routes>
+            <CookieConsent />
         </div>
       </Box>
     </ThemeProvider>

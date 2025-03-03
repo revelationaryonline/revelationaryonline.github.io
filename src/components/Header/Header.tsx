@@ -1,20 +1,19 @@
 // @ts-nocheck
-import React, { useEffect, useState } from "react";
-import { useNavigate , Link } from "react-router-dom";
+import React, { useState, useEffect } from "react";
+import { Link as RouterLink, useNavigate } from "react-router-dom";
 import { useTheme } from "@mui/material/styles";
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import CssBaseline from "@mui/material/CssBaseline";
 import Drawer from "@mui/material/Drawer";
+import Divider from "@mui/material/Divider";
 import IconButton from "@mui/material/IconButton";
 import Menu from "@mui/material/Menu";
 import MenuItem from "@mui/material/MenuItem";
+import MenuIcon from "@mui/icons-material/Menu";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Tooltip from "@mui/material/Tooltip";
-import Avatar from "@mui/material/Avatar";
-import PersonIcon from "@mui/icons-material/Person";
-import MenuIcon from "@mui/icons-material/Menu";
 import { onAuthStateChanged } from "firebase/auth"; // Import the auth state listener
 import { auth } from "../../firebase"; // Import your initialized Firebase auth instance
 import {
@@ -29,39 +28,47 @@ import {
 } from "@mui/icons-material";
 import VolunteerActivismIcon from '@mui/icons-material/VolunteerActivism';
 import SignOutDialog from './modals/SignOutDialog';
-
-import { Divider } from "@mui/material";
+import { UserAvatar } from "../UserAvatar/UserAvatar";
+import Home from "@mui/icons-material/Home";
+import Article from "@mui/icons-material/Article";
+import Login from "@mui/icons-material/Login";
+import Person from "@mui/icons-material/Person";
+import Logout from "@mui/icons-material/Logout";
+import Settings from "@mui/icons-material/Settings";
+import { Link } from "react-router-dom";
 
 import logo from "../../assets/logo512.png";
 
 const drawerWidth = 240;
 
-function Header(props) {
-  const { window } = props;
+interface HeaderProps {
+  window?: () => Window;
+  loggedIn: boolean;
+}
+
+function Header(props: HeaderProps) {
+  const { window, loggedIn } = props;
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [anchorElUser, setAnchorElUser] = useState(null);
-  const [user, setUser] = useState(null); // State to manage the logged-in user
+  const [user, setUser] = useState<any>(null);
+  const [anchorElUser, setAnchorElUser] = useState<null | HTMLElement>(null);
   const [signOutDialogOpen, setSignOutDialogOpen] = useState(false);
   const navigate = useNavigate();
 
   const theme = useTheme();
   const isDarkMode = theme.palette.mode === "dark";
 
-  const container =
-    window !== undefined ? () => window().document.body : undefined;
-
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-      setUser(currentUser); // Set the user if authenticated, or null if logged out
+      setUser(currentUser);
     });
-    return () => unsubscribe(); // Clean up the listener on component unmount
+    return () => unsubscribe();
   }, []);
 
   const handleDrawerToggle = () => {
-    setMobileOpen((prevState) => !prevState);
+    setMobileOpen(!mobileOpen);
   };
 
-  const handleOpenUserMenu = (event) => {
+  const handleOpenUserMenu = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorElUser(event.currentTarget);
   };
 
@@ -70,15 +77,7 @@ function Header(props) {
   };
 
   const drawer = (
-    <Box
-      onClick={handleDrawerToggle}
-      sx={{
-        textAlign: "center",
-        background: (theme) =>
-          theme.palette.mode === "light" ? "#FFF" : "#212121",
-        height: "100%",
-      }}
-    >
+    <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center', background: (theme) => theme.palette.mode === "light" ? "#FFF" : "#212121", height: "100%" }}>
       <Typography
         variant="p"
         component="div"
@@ -97,8 +96,36 @@ function Header(props) {
       >
         revelationary
       </Typography>
+      <Divider />
+      <Box sx={{ display: 'flex', flexDirection: 'column', p: 2, gap: 1 }}>
+        <MenuItem component={RouterLink} to="/">
+          <Home sx={{ mr: 1 }} /> Home
+        </MenuItem>
+        <MenuItem component={RouterLink} to="/blog">
+          <Article sx={{ mr: 1 }} /> Blog
+        </MenuItem>
+        {loggedIn ? (
+          <>
+            <MenuItem component={RouterLink} to="/profile">
+              <Person sx={{ mr: 1 }} /> Profile
+            </MenuItem>
+            <MenuItem component={RouterLink} to="/settings">
+              <Settings sx={{ mr: 1 }} /> Settings
+            </MenuItem>
+            <MenuItem onClick={() => setSignOutDialogOpen(true)}>
+              <Logout sx={{ mr: 1 }} /> Sign Out
+            </MenuItem>
+          </>
+        ) : (
+          <MenuItem component={RouterLink} to="/login">
+            <Login sx={{ mr: 1 }} /> Sign In
+          </MenuItem>
+        )}
+      </Box>
     </Box>
   );
+
+  const container = window !== undefined ? () => window().document.body : undefined;
 
   return (
     <Box sx={{ display: "flex" }}>
@@ -138,62 +165,52 @@ function Header(props) {
               justifyContent: "space-between",
             }}
           >
-              <Link
-                to="/"
-                style={{
-                  textDecoration: "none",
-                  color: isDarkMode ? "#FFF" : "#212121",
-                  display: "flex",
-                  alignItems: "center",
-                }}
-              >
-            <Box display={"flex"} flexDirection={"row"}>
-              <img
-                src={logo}
-                alt="revelationary"
-                style={{
-                  width: "20px",
-                  height: "20px",
-                  marginTop: '7px',
-                  marginRight: 10,
-                  marginLeft: 10,
-                  filter: isDarkMode ? "invert(1)" : "none",
-                }}
-              ></img>
-              <Typography
-                variant="p"
-                component="div"
-                sx={{
-                  textAlign: { xs: "center", sm: "left" },
-                  marginTop: '3.5px',
-                  flexGrow: 1,
-                  fontFamily: "cardo",
-                  fontWeight: 600,
-                  fontStyle: "bold",
-                  letterSpacing: "1.65px",
-                  color: (theme) =>
-                    theme.palette.mode === "light" ? "#212121" : "#FFF",
-                }}
-              >
-                revelationary
-              </Typography>
-            </Box>
-              </Link>
+            <Link
+              to="/"
+              style={{
+                textDecoration: "none",
+                color: isDarkMode ? "#FFF" : "#212121",
+                display: "flex",
+                alignItems: "center",
+              }}
+            >
+              <Box display={"flex"} flexDirection={"row"}>
+                <img
+                  src={logo}
+                  alt="revelationary"
+                  style={{
+                    width: "20px",
+                    height: "20px",
+                    marginTop: '7px',
+                    marginRight: 10,
+                    marginLeft: 10,
+                    filter: isDarkMode ? "invert(1)" : "none",
+                  }}
+                ></img>
+                <Typography
+                  variant="p"
+                  component="div"
+                  sx={{
+                    textAlign: { xs: "center", sm: "left" },
+                    marginTop: '3.5px',
+                    flexGrow: 1,
+                    fontFamily: "cardo",
+                    fontWeight: 600,
+                    fontStyle: "bold",
+                    letterSpacing: "1.65px",
+                    color: (theme) =>
+                      theme.palette.mode === "light" ? "#212121" : "#FFF",
+                  }}
+                >
+                  revelationary
+                </Typography>
+              </Box>
+            </Link>
 
             <Box sx={{ flexGrow: 0, borderRadius: 0 }}>
               <Tooltip title={user && user.displayName}>
                 <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                  {user && user.photoURL ? (
-                    <Avatar
-                      sx={{ width: 32, height: 32 }}
-                      alt={user.displayName || "User"}
-                      src={user.photoURL}
-                    />
-                  ) : (
-                    <Avatar>
-                      <PersonIcon />
-                    </Avatar>
-                  )}
+                  <UserAvatar user={user} size={32} />
                 </IconButton>
               </Tooltip>
               <Menu
@@ -226,7 +243,7 @@ function Header(props) {
                 open={Boolean(anchorElUser)}
                 onClose={handleCloseUserMenu}
               >
-                {user ? (
+                {loggedIn ? (
                   <div
                     style={{
                       backgroundColor: "#212121",
@@ -236,24 +253,7 @@ function Header(props) {
                     }}
                   >
                     <MenuItem sx={{ paddingY: 2 }} disableTouchRipple>
-                      {user.photoURL ? (
-                        // console.log(user.photoURL),
-                        <img
-                          style={{
-                            width: 48,
-                            height: 48,
-                            borderRadius: 5,
-                            marginBottom: 5,
-                          }}
-                          alt={user.displayName || "User"}
-                          src={user.photoURL}
-                        />
-                      ) : (
-                        // console.log(user.photoURL),
-                        <Avatar>
-                          <PersonIcon />
-                        </Avatar>
-                      )}
+                      <UserAvatar user={user} size={48} />
                       <div style={{ borderRadius: 0 }}>
                         <Typography
                           sx={{
@@ -391,8 +391,7 @@ function Header(props) {
           </Box>
         </Toolbar>
       </AppBar>
-
-      <Box component="nav">
+      <nav>
         <Drawer
           container={container}
           variant="temporary"
@@ -402,26 +401,18 @@ function Header(props) {
             keepMounted: true,
           }}
           sx={{
-            display: { xs: "block", sm: "none" },
-            "& .MuiDrawer-paper": {
-              boxSizing: "border-box",
-              width: drawerWidth,
-            },
+            display: { xs: 'block' },
+            '& .MuiDrawer-paper': { boxSizing: 'border-box', width: drawerWidth },
           }}
         >
           {drawer}
         </Drawer>
-      </Box>
-
-      <SignOutDialog
-        open={signOutDialogOpen}
-        onClose={() => setSignOutDialogOpen(false)}
-        onConfirm={() => {
-          auth.signOut();
-          setSignOutDialogOpen(false);
-          navigate("/login");
-        }}
-      />
+      </nav>
+      <SignOutDialog open={signOutDialogOpen} onClose={() => setSignOutDialogOpen(false)} onConfirm={() => {
+        auth.signOut();
+        setSignOutDialogOpen(false);
+        navigate("/login");
+      }} />
     </Box>
   );
 }

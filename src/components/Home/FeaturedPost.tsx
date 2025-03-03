@@ -35,13 +35,6 @@ interface FeaturedPostProps {
 
 const FeaturedPost: React.FC<FeaturedPostProps> = ({ post }) => {
 
-  console.log(post)
-  function extractContent(s: string) {
-    const span = document.createElement("span");
-    span.innerHTML = s;
-    return span.textContent || span.innerText;
-  }
-
   return (
     <Grid item xs={12} md={4}>
       <CardActionArea component="a" href={'#'}>
