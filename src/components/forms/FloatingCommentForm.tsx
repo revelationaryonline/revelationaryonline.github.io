@@ -474,7 +474,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     overflow: "scroll",
                   }}
                 >
-                  There are no comments on this verse yet... Be the first!
+                  {/* There are no comments on this verse yet... Be the first! */}
                 </Typography>
               )}
               {loadingMore && hasMoreComments && (
@@ -521,7 +521,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                       overflow: "scroll",
                     }}
                   >
-                    No more comments to load... Why not head to our blog and see which verses are trending ? Just click the Menu in the Top Right corner of your screen
+                    No more comments to load... Add yours ! or Why not head to our blog and see which verses are trending ? Just click the Menu in the Top Right corner of your screen
                   </Typography>
                   <Box
                     sx={{

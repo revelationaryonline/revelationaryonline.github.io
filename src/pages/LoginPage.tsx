@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import Cookies from 'js-cookie';
+import Cookies from "js-cookie";
 import { useTheme, ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
@@ -45,43 +45,50 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       const result = await signInWithPopup(auth, provider);
       const user = result.user;
       console.log("User Info:", user);
-  
+
       const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
-      const authHeader = "Basic " + btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`);
-  
+      const authHeader =
+        "Basic " +
+        btoa(
+          `${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`
+        );
+
       // Step 1: Check if the user already exists
       const checkUserResponse = await fetch(wpApiUrl, {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": authHeader,
+          Authorization: authHeader,
         },
       });
-  
+
       const existingUsers = await checkUserResponse.json();
-  
+
       if (existingUsers.length > 0) {
         console.log("User already exists in WordPress:", existingUsers);
         Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
         setTimeout(() => navigate("/"), 500);
         return;
       }
-  
+
       // Step 2: If user doesn't exist, create a new subscriber
-      const createUserResponse = await fetch(`${process.env.REACT_APP_WP_API_URL}/users`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": authHeader,
-        },
-        body: JSON.stringify({
-          username: user.email?.split("@")[0], // Use email prefix as username
-          email: user.email,
-          roles: ["subscriber"],
-          password: Math.random().toString(36).slice(-10), // Generate a secure password
-        }),
-      });
-  
+      const createUserResponse = await fetch(
+        `${process.env.REACT_APP_WP_API_URL}/users`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: authHeader,
+          },
+          body: JSON.stringify({
+            username: user.email?.split("@")[0], // Use email prefix as username
+            email: user.email,
+            roles: ["subscriber"],
+            password: Math.random().toString(36).slice(-10), // Generate a secure password
+          }),
+        }
+      );
+
       const wpData = await createUserResponse.json();
       if (createUserResponse.ok) {
         console.log("WordPress Subscription Success:", wpData);
@@ -89,7 +96,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       } else {
         console.error("WordPress Subscription Failed:", wpData);
       }
-  
+
       navigate("/");
     } catch (error) {
       if (error instanceof Error) {
@@ -103,23 +110,56 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
   const handleSignUp = async () => {
     try {
-      const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+      const userCredential = await createUserWithEmailAndPassword(
+        auth,
+        email,
+        password
+      );
       const user = userCredential.user;
-      console.log("Signed up with:", user.email);
 
       // Fetch the user ID from WordPress and save it in cookies
       const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
-      const authHeader = "Basic " + btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`);
+      const authHeader =
+        "Basic " +
+        btoa(
+          `${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`
+        );
       const checkUserResponse = await fetch(wpApiUrl, {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": authHeader,
+          Authorization: authHeader,
         },
       });
       const existingUsers = await checkUserResponse.json();
       if (existingUsers.length > 0) {
         Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
+      }
+
+      // Step 2: If user doesn't exist, create a new subscriber
+      const createUserResponse = await fetch(
+        `${process.env.REACT_APP_WP_API_URL}/users`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: authHeader,
+          },
+          body: JSON.stringify({
+            username: user.email?.split("@")[0], // Use email prefix as username
+            email: user.email,
+            roles: ["subscriber"],
+            password: Math.random().toString(36).slice(-10), // Generate a secure password
+          }),
+        }
+      );
+
+      const wpData = await createUserResponse.json();
+      if (createUserResponse.ok) {
+        console.log("WordPress Subscription Success:", wpData);
+        Cookies.set("userId", wpData.id); // Save user ID in cookies
+      } else {
+        console.error("WordPress Subscription Failed:", wpData);
       }
 
       navigate("/");
@@ -135,18 +175,26 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
   const handleLogin = async () => {
     try {
-      const userCredential = await signInWithEmailAndPassword(auth, email, password);
+      const userCredential = await signInWithEmailAndPassword(
+        auth,
+        email,
+        password
+      );
       const user = userCredential.user;
       console.log("Logged in as:", user.email);
 
       // Fetch the user ID from WordPress and save it in cookies
       const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
-      const authHeader = "Basic " + btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`);
+      const authHeader =
+        "Basic " +
+        btoa(
+          `${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`
+        );
       const checkUserResponse = await fetch(wpApiUrl, {
         method: "GET",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": authHeader,
+          Authorization: authHeader,
         },
       });
       const existingUsers = await checkUserResponse.json();
@@ -167,7 +215,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
   useEffect(() => {
     if (user) {
-      const token = Cookies.get('wpToken');
+      const token = Cookies.get("wpToken");
       // Ensure token exists
       if (token) {
         console.log("Token already exists in storage:", token);
@@ -225,7 +273,12 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 revelationary
               </Typography>
             </Box>
-            <Typography sx={{ mb: 3, fontSize: '24px' }} component="h1" variant="h5" gutterBottom>
+            <Typography
+              sx={{ mb: 3, fontSize: "24px" }}
+              component="h1"
+              variant="h5"
+              gutterBottom
+            >
               {isSigningUp ? "Sign Up" : "Sign In"}
             </Typography>
 
@@ -241,7 +294,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       alignItems: "center",
                     }}
                   >
-                    <CheckCircleIcon fontSize="small" color={isOptedOut ? "disabled" : "success"} sx={{ mr: 1 }} />
+                    <CheckCircleIcon
+                      fontSize="small"
+                      color={isOptedOut ? "disabled" : "success"}
+                      sx={{ mr: 1 }}
+                    />
                     Add comments on every verse
                   </Typography>
 
@@ -253,7 +310,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       alignItems: "center",
                     }}
                   >
-                    <CheckCircleIcon fontSize="small" color="success" sx={{ mr: 1 }} />
+                    <CheckCircleIcon
+                      fontSize="small"
+                      color="success"
+                      sx={{ mr: 1 }}
+                    />
                     Read our blog
                   </Typography>
 
@@ -265,7 +326,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       alignItems: "center",
                     }}
                   >
-                    <CheckCircleIcon fontSize="small" color="success" sx={{ mr: 1 }} />
+                    <CheckCircleIcon
+                      fontSize="small"
+                      color="success"
+                      sx={{ mr: 1 }}
+                    />
                     Highlight Verses
                   </Typography>
                 </Box>
@@ -290,40 +355,40 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               sx={{
-              WebkitBoxShadow: "none !important",
-              "& .Mui-focused": {
-                color: (theme) =>
-                  theme.palette.mode === "light"
-                    ? "black !important"
-                    : "white !important",
-                "& .MuiOutlinedInput-notchedOutline": {
-                  borderColor: (theme) =>
-                    theme.palette.mode === "light"
-                      ? "#ccc !important"
-                      : "#FFF !important",
+                WebkitBoxShadow: "none !important",
+                "& .Mui-focused": {
                   color: (theme) =>
                     theme.palette.mode === "light"
-                      ? "black"
+                      ? "black !important"
                       : "white !important",
+                  "& .MuiOutlinedInput-notchedOutline": {
+                    borderColor: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "#ccc !important"
+                        : "#FFF !important",
+                    color: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "black"
+                        : "white !important",
+                  },
+                  "& input:-webkit-autofill": {
+                    WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                    WebkitTextFillColor: (theme) =>
+                      theme.palette.mode === "light" ? "black" : "white",
+                    transition: "background-color 5000s ease-in-out 0s",
+                  },
                 },
-                "& input:-webkit-autofill": {
+                "& .MuiInputBase-input": {
+                  color: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                },
+                "& .MuiInputBase-input:-webkit-autofill": {
                   WebkitBoxShadow: "0 0 0 100px #212121AA inset",
                   WebkitTextFillColor: (theme) =>
                     theme.palette.mode === "light" ? "black" : "white",
                   transition: "background-color 5000s ease-in-out 0s",
                 },
-              },
-              "& .MuiInputBase-input": {
-                color: (theme) =>
-                  theme.palette.mode === "light" ? "black" : "white",
-              },
-              "& .MuiInputBase-input:-webkit-autofill": {
-                WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                WebkitTextFillColor: (theme) =>
-                  theme.palette.mode === "light" ? "black" : "white",
-                transition: "background-color 5000s ease-in-out 0s",
-              },
-            }}
+              }}
             />
 
             <TextField
@@ -427,20 +492,14 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               {isSigningUp ? (
                 <>
                   Already have an account?{" "}
-                  <Button
-                    variant="text"
-                    onClick={() => setIsSigningUp(false)}
-                  >
+                  <Button variant="text" onClick={() => setIsSigningUp(false)}>
                     Sign In
                   </Button>
                 </>
               ) : (
                 <>
                   Don&apos;t have an account?{" "}
-                  <Button
-                    variant="text"
-                    onClick={() => setIsSigningUp(true)}
-                  >
+                  <Button variant="text" onClick={() => setIsSigningUp(true)}>
                     Sign Up
                   </Button>
                 </>

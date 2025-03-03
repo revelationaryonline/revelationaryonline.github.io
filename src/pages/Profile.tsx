@@ -40,8 +40,8 @@ const BIBLE_VERSIONS = [
   { value: "NASB", label: "New American Standard Bible" },
 ];
 
-function ProfileContent() {
-  const [user, setUser] = useState<User | null>(null);
+function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+  // const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(false);
   const [imageLoading, setImageLoading] = useState(true);
   const [message, setMessage] = useState<{
@@ -58,18 +58,21 @@ function ProfileContent() {
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-      if (currentUser) {
-        setUser(currentUser);
-        setDisplayName(currentUser.displayName || "");
-        setEmail(currentUser.email || "");
-        setPhotoURL(currentUser.photoURL || "");
+      // if (currentUser) {
+      //   console.log(currentUser)
+      //   setUser(currentUser);
+      //   setDisplayName(currentUser?.displayName || "");
+      //   setEmail(currentUser?.email || "");
+      //   setPhotoURL(currentUser?.photoURL || "");
 
-        // Load WordPress preferences
-        const userId = Cookies.get("userId");
-        if (userId) {
-          loadWordPressPreferences(parseInt(userId));
-        }
-      }
+      //   // Load WordPress preferences
+      //   const userId = Cookies.get("userId");
+      //   if (userId) {
+      //     loadWordPressPreferences(parseInt(userId));
+      //     setImageLoading(false);
+      //     setLoading(false);
+      //   }
+      // }
     });
     return () => unsubscribe();
   }, []);
@@ -87,10 +90,14 @@ function ProfileContent() {
 
       if (wpUser.meta) {
         // setBibleVersion(wpUser.meta.preferred_bible_version || "KJV");
-        setBio(wpUser.description || "");
+        // setBio(wpUser.description || "");
+        console.log(wpUser)
       }
     } catch (error) {
       console.error("Failed to load WordPress preferences:", error);
+    } finally {
+      setImageLoading(false);
+      setLoading(false);
     }
   };
 
@@ -99,18 +106,12 @@ function ProfileContent() {
 
     setLoading(true);
     try {
-      // Update Firebase profile
-      await updateProfile(user, {
-        displayName,
-        photoURL,
-      });
-
       // Update WordPress profile
       const userId = Cookies.get("userId");
       if (userId) {
-        await updateWordPressProfile(parseInt(userId), {
-          description: bio,
-        });
+        // await updateWordPressProfile(parseInt(userId), {
+        //   description: bio,
+        // });
 
         // await updateWordPressUserMeta(parseInt(userId), {
         //   preferred_bible_version: bibleVersion
@@ -166,7 +167,7 @@ function ProfileContent() {
                       maxWidth: 400,
                       maxHeight: 360,
                       bgcolor: "background.transparent",
-                      marginTop: "1rem",
+                      marginTop: "0rem",
                       float: "left",
                       display: "flex"
                     }}
@@ -186,7 +187,7 @@ function ProfileContent() {
                             color: "white",
                           }}
                         >
-                          {displayName}
+                          {user?.displayName}
                         </Typography>
                         <Typography
                           sx={{
@@ -208,7 +209,7 @@ function ProfileContent() {
                     component="label"
                     sx={{
                       position: "absolute",
-                      bottom: 20,
+                      bottom: 10,
                       left: 110,
                       minWidth: 40,
                       width: 40,
@@ -272,9 +273,10 @@ function ProfileContent() {
               {/* Basic Info */}
               <Grid item xs={12} md={6}>
                 <TextField
+                  disabled
                   fullWidth
                   label="Display Name"
-                  value={displayName}
+                  value={user?.displayName}
                   onChange={(e) => setDisplayName(e.target.value)}
                   sx={{
                     mb: 3,
@@ -291,7 +293,7 @@ function ProfileContent() {
                 <TextField
                   fullWidth
                   label="Email"
-                  value={email}
+                  value={user?.email}
                   disabled
                   sx={{
                     mb: 3,
@@ -401,6 +403,6 @@ function ProfileContent() {
   );
 }
 
-export default function Profile() {
-  return <ProfileContent />;
+export default function Profile({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+  return <ProfileContent loggedIn={loggedIn} user={user} setUser={setUser} />;
 }

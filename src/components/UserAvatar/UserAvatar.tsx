@@ -20,7 +20,7 @@ export const UserAvatar: React.FC<UserAvatarProps> = ({
   // Reset states when user or photoURL changes
   useEffect(() => {
     if (user?.photoURL) {
-      setLoading(true);
+      setLoading(false);
       setError(false);
     }
   }, [user?.photoURL]);
@@ -74,6 +74,7 @@ export const UserAvatar: React.FC<UserAvatarProps> = ({
       sx={{ 
         width: size, 
         height: size,
+        borderRadius: 1,
         bgcolor: theme => theme.palette.mode === 'dark' ? 'grey.800' : 'grey.200',
         display: error ? 'flex' : 'block'
       }}
@@ -81,12 +82,13 @@ export const UserAvatar: React.FC<UserAvatarProps> = ({
     >
       {!error ? (
         <img
-          src={user.photoURL}
-          alt={user.displayName || 'User'}
+          src={user?.photoURL}
+          alt={user?.displayName || 'User'}
           style={{ 
             width: '100%', 
             height: '100%',
-            objectFit: 'cover'
+            objectFit: 'cover',
+            borderRadius: 0,
           }}
           onLoad={() => {
             setLoading(false);

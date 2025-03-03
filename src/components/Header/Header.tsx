@@ -152,6 +152,8 @@ function Header(props: HeaderProps) {
             >
               <MenuIcon
                 sx={{
+                  mt:1.15,
+                  ml: 0.5,
                   color: (theme) =>
                     theme.palette.mode === "light" ? "#a1a1a1" : "#FFF",
                 }}
