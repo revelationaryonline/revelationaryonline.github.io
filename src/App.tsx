@@ -47,12 +47,12 @@ export default function App() {
     const unsubscribe = onAuthStateChanged(auth, async (user) => {
       if (user) {
         setLoggedIn(true);
+        console.log(user)
         setUser(user);
       } else {
         setLoggedIn(false);
         setUser(null);
-        setWpToken(null);
-        // Cookies.remove('wpToken')
+        setWpToken(null); 
       }
     });
   
@@ -116,13 +116,11 @@ export default function App() {
           <Header loggedIn={loggedIn} />
             <Routes>
               <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
-              
               <Route path="/blog" element={<Blog />} />
-              <Route path="/profile" element={<Profile />} />
-              
-              <Route path="/settings" element={<Account loggedIn={loggedIn} />} />
-              <Route path="/account" element={<Account loggedIn={loggedIn} />} />
-              <Route path="/login" element={<LoginPage user={user} />} />
+              <Route path="/profile" element={<Profile user={user} setUser={setUser} loggedIn={loggedIn} />} />
+              <Route path="/settings" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
+              <Route path="/account" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
+              <Route path="/login" element={<LoginPage user={user}  />} />
             </Routes>
             <CookieConsent />
         </div>

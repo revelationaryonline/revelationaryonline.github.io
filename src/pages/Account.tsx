@@ -21,8 +21,8 @@ import { auth } from "../firebase"; // Import your initialized Firebase auth ins
 import { mdTheme } from "../utils/misc";
 import { Copyright } from "../components/Copyright/Copyright";
 
-function AccountContent({ loggedIn }: { loggedIn: boolean }) {
-  const [user, setUser] = useState<User | null>(null);
+function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+  // const [user, setUser] = useState<User | null>(null);
   const [checked, setChecked] = useState<string[]>([]);
 
   useEffect(() => {
@@ -91,7 +91,7 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                         }}
                       >
                         <ListItem alignItems="flex-start">
-                          {user && user.photoURL ? (
+                          {user && user?.photoURL ? (
                             <img
                               style={{
                                 width: 48,
@@ -99,8 +99,8 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
                                 borderRadius: 5,
                                 marginBottom: 5,
                               }}
-                              alt={user.displayName || "User"}
-                              src={user.photoURL}
+                              alt={user?.displayName || "User"}
+                              src={user?.photoURL}
                             />
                           ) : (
                             <Avatar>
@@ -290,6 +290,6 @@ function AccountContent({ loggedIn }: { loggedIn: boolean }) {
   );
 }
 
-export default function Account({ loggedIn }: { loggedIn: boolean }) {
-  return <AccountContent loggedIn={loggedIn} />;
+export default function Account({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+  return <AccountContent loggedIn={loggedIn} user={user} setUser={setUser} />;
 }
