@@ -42,7 +42,6 @@ function ProfileContent() {
   const [email, setEmail] = useState("");
   const [photoURL, setPhotoURL] = useState("");
   const [bibleVersion, setBibleVersion] = useState("KJV");
-  const [fontSize, setFontSize] = useState(16);
   const [bio, setBio] = useState("");
 
   useEffect(() => {
@@ -255,36 +254,13 @@ function ProfileContent() {
                     ))}
                   </Select>
                 </FormControl>
-
-                <FormControl fullWidth sx={{ mb: 3 }}>
-                  <Typography variant="subtitle2" gutterBottom sx={{ color: "text.secondary" }}>
-                    Font Size
-                  </Typography>
-                  <Select
-                    value={fontSize}
-                    onChange={(e) => setFontSize(Number(e.target.value))}
-                    sx={{
-                      "&:hover .MuiOutlinedInput-notchedOutline": {
-                        borderColor: "primary.main",
-                      },
-                      "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
-                        borderColor: "primary.main",
-                      }
-                    }}
-                  >
-                    <MenuItem value={14}>Small</MenuItem>
-                    <MenuItem value={16}>Medium</MenuItem>
-                    <MenuItem value={18}>Large</MenuItem>
-                    <MenuItem value={20}>Extra Large</MenuItem>
-                  </Select>
-                </FormControl>
               </Grid>
 
               {/* Save Button */}
               <Grid item xs={12} sx={{ textAlign: "center", mt: 2 }}>
                 <Button
                   variant="contained"
-                  color="primary"
+                  color="secondary"
                   size="large"
                   onClick={handleSave}
                   disabled={loading}
@@ -298,7 +274,7 @@ function ProfileContent() {
                     boxShadow: 2,
                     "&:hover": {
                       boxShadow: 4,
-                      backgroundColor: "primary.dark"
+                      backgroundColor: "success.main"
                     }
                   }}
                 >
