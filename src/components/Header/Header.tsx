@@ -29,6 +29,7 @@ import {
   SettingsOutlined,
 } from "@mui/icons-material";
 import VolunteerActivismIcon from '@mui/icons-material/VolunteerActivism';
+import SignOutDialog from './modals/SignOutDialog';
 
 import { Divider } from "@mui/material";
 
@@ -41,6 +42,7 @@ function Header(props) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [anchorElUser, setAnchorElUser] = useState(null);
   const [user, setUser] = useState(null); // State to manage the logged-in user
+  const [signOutDialogOpen, setSignOutDialogOpen] = useState(false);
   const navigate = useNavigate();
 
   const theme = useTheme();
@@ -371,9 +373,8 @@ function Header(props) {
                     <MenuItem
                       sx={{ paddingY: 1, color: "#888" }}
                       onClick={() => {
-                        auth.signOut();
+                        setSignOutDialogOpen(true);
                         handleCloseUserMenu();
-                        navigate("/login");
                       }}
                       dense
                     >
@@ -402,7 +403,7 @@ function Header(props) {
             keepMounted: true,
           }}
           sx={{
-            display: { xs: "block", sm: "block" },
+            display: { xs: "block", sm: "none" },
             "& .MuiDrawer-paper": {
               boxSizing: "border-box",
               width: drawerWidth,
@@ -412,6 +413,16 @@ function Header(props) {
           {drawer}
         </Drawer>
       </Box>
+
+      <SignOutDialog
+        open={signOutDialogOpen}
+        onClose={() => setSignOutDialogOpen(false)}
+        onConfirm={() => {
+          auth.signOut();
+          setSignOutDialogOpen(false);
+          navigate("/login");
+        }}
+      />
     </Box>
   );
 }

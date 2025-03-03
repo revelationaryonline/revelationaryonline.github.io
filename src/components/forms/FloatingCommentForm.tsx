@@ -71,6 +71,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   const [loadingMore, setLoadingMore] = useState(false); // Track if more comments are being loaded
   const [hasMoreComments, setHasMoreComments] = useState(true); // Track if there are more comments to fetch
   const charLimit = 350;
+  const [error, setError] = useState<string | null>(null);
+  const [toxicityScores, setToxicityScores] = useState<Record<string, number> | null>(null);
 
   async function getPostIdBySlug(slug: string) {
     if (commentsMenu && selectedVerse && selectedVerse[0]) {
@@ -85,47 +87,73 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     }
   }
 
-  const checkPerspectiveAPI = async (comment: string) => {
+  const checkPerspectiveAPI = async (comment: string): Promise<{ isValid: boolean; message?: string }> => {
+    setError(null);
+    setToxicityScores(null);
+
     if (!PERSPECTIVE_API_KEY || !PERSPECTIVE_API_URL) {
-      console.error("Perspective API configuration missing");
-      return true;
+      setError("Comment moderation is currently unavailable. Please try again later.");
+      return { isValid: false, message: "Moderation service unavailable" };
     }
 
-    const body = {
-      comment: {
-        text: comment,
-      },
-      languages: ["en"],
-      requestedAttributes: {
-        TOXICITY: {},
-        SEVERE_TOXICITY: {},
-        INSULT: {},
-        PROFANITY: {},
-        SPAM: {},
-      },
-    };
-
-    const response = await fetch(
-      `${PERSPECTIVE_API_URL}?key=${PERSPECTIVE_API_KEY}`,
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
+    try {
+      const body = {
+        comment: { text: comment },
+        languages: ["en"],
+        requestedAttributes: {
+          TOXICITY: {},
+          SEVERE_TOXICITY: {},
+          INSULT: {},
+          PROFANITY: {},
+          THREAT: {},
+          IDENTITY_ATTACK: {},
         },
+      };
+
+      const response = await fetch(`${PERSPECTIVE_API_URL}?key=${PERSPECTIVE_API_KEY}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
       }
-    );
 
-    const data = await response.json();
+      const data = await response.json();
+      
+      // Store all toxicity scores
+      const scores = {
+        toxicity: data.attributeScores.TOXICITY.summaryScore.value,
+        severeToxicity: data.attributeScores.SEVERE_TOXICITY.summaryScore.value,
+        insult: data.attributeScores.INSULT.summaryScore.value,
+        profanity: data.attributeScores.PROFANITY.summaryScore.value,
+        threat: data.attributeScores.THREAT?.summaryScore.value || 0,
+        identityAttack: data.attributeScores.IDENTITY_ATTACK?.summaryScore.value || 0,
+      };
+      setToxicityScores(scores);
 
-    // Analyze the response and check for toxicity levels or other inappropriate content
-    if (data.attributeScores.TOXICITY.summaryScore.value > 0.7) {
-      // If toxicity is above threshold, don't allow posting
-      alert("Your comment contains inappropriate language.");
-      return false;
+      // Check for various types of inappropriate content
+      const violations = [];
+      if (scores.toxicity > 0.7) violations.push("toxic language");
+      if (scores.severeToxicity > 0.7) violations.push("severely toxic content");
+      if (scores.insult > 0.7) violations.push("insulting content");
+      if (scores.profanity > 0.7) violations.push("profanity");
+      if (scores.threat > 0.7) violations.push("threatening content");
+      if (scores.identityAttack > 0.7) violations.push("discriminatory content");
+
+      if (violations.length > 0) {
+        const message = `Your comment contains ${violations.join(", ")}. Please revise and try again.`;
+        setError(message);
+        return { isValid: false, message };
+      }
+
+      return { isValid: true };
+    } catch (error) {
+      console.error("Error checking content:", error);
+      setError("Unable to verify comment content. Please try again.");
+      return { isValid: false, message: "Error checking content" };
     }
-
-    return true;
   };
 
   async function removeEmojis(text: string) {
@@ -137,18 +165,20 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
     const wpToken = Cookies.get("wpToken");
     if (!wpToken) {
-      console.error("User is not authenticated. Token is missing.");
+      setError("Please log in to post comments.");
       return;
     }
 
     setLoading(true);
+    setError(null);
 
     try {
       const cleanComment = await removeEmojis(newComment);
-      const isCommentValid = await checkPerspectiveAPI(cleanComment);
-      if (!isCommentValid) {
+      const { isValid, message } = await checkPerspectiveAPI(cleanComment);
+      
+      if (!isValid) {
         setLoading(false);
-        return; // Exit if the comment is flagged as inappropriate
+        return;
       }
 
       const response = await fetch(`${WP_API_URL}/comments`, {
@@ -164,17 +194,20 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         }),
       });
 
-      if (response.ok) {
-        setNewComment("");
-        setCharCount(0);
-        if (postID !== null) {
-          fetchComments(postID);
-        }
-        setCommentsMenu(null);
-        // setSelectedVerse([]);
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
       }
+
+      setNewComment("");
+      setCharCount(0);
+      setError(null);
+      if (postID !== null) {
+        fetchComments(postID);
+      }
+      setCommentsMenu(null);
     } catch (error) {
       console.error("Error submitting comment:", error);
+      setError("Failed to post comment. Please try again.");
     } finally {
       setLoading(false);
     }
@@ -583,6 +616,11 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     },
                   }}
                 />
+                {error && (
+                  <Typography color="error" variant="body2" sx={{ mt: 1, mb: 1 }}>
+                    {error}
+                  </Typography>
+                )}
                 <Typography
                   variant="body2"
                   color={

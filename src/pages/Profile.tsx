@@ -1,649 +1,332 @@
 import React, { useState, useEffect } from "react";
 import Cookies from "js-cookie";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
-import CssBaseline from "@mui/material/CssBaseline";
-import Box from "@mui/material/Box";
-import Container from "@mui/material/Container";
-import Grid from "@mui/material/Grid";
-import Paper from "@mui/material/Paper";
-import NotificationsIcon from "@mui/icons-material/Notifications";
-import { Copyright } from "../components/Copyright/Copyright";
-import { Circle } from "@mui/icons-material";
-import PersonIcon from "@mui/icons-material/Person";
-import Avatar from "@mui/material/Avatar";
-import Typography from "@mui/material/Typography";
-import { onAuthStateChanged, User } from "firebase/auth"; // Import the auth state listener and User type
-import { auth } from "../firebase"; // Import your initialized Firebase auth instance
+import {
+  Box,
+  Container,
+  Grid,
+  Paper,
+  Avatar,
+  Typography,
+  TextField,
+  Button,
+  Select,
+  MenuItem,
+  FormControl,
+  InputLabel,
+  Switch,
+  FormControlLabel,
+  Divider,
+  Alert,
+  Snackbar,
+} from "@mui/material";
+import { PersonOutline, PhotoCamera, Save } from "@mui/icons-material";
+import { onAuthStateChanged, updateProfile, User } from "firebase/auth";
+import { auth } from "../firebase";
+import { updateWordPressProfile, updateWordPressUserMeta } from "../services/wordpress";
 
-const mdTheme = createTheme({ palette: { mode: "dark" } });
-
-interface SocialLinks {
-  linkedIn: string;
-  gitHub: string;
-}
+const BIBLE_VERSIONS = [
+  { value: "KJV", label: "King James Version" },
+  { value: "NIV", label: "New International Version" },
+  { value: "ESV", label: "English Standard Version" },
+  { value: "NASB", label: "New American Standard Bible" },
+];
 
 function ProfileContent() {
-  const [user, setUser] = useState<User | null>(null); // State to manage the logged-in user
-  const [darkMode, setDarkMode] = useState<boolean>(true);
-  const [highlightedVerses, setHighlightedVerses] = useState<string[]>([]);
-  const [bookmark, setBookmark] = useState<string | null>(null);
-  const [bio, setBio] = useState<string>("This is a placeholder bio.");
-  const [socialLinks, setSocialLinks] = useState<SocialLinks>({
-    linkedIn: "https://www.linkedin.com",
-    gitHub: "https://github.com",
-  });
+  const [user, setUser] = useState<User | null>(null);
+  const [loading, setLoading] = useState(false);
+  const [message, setMessage] = useState<{ type: 'success' | 'error', text: string } | null>(null);
+  
+  // Profile Fields
+  const [displayName, setDisplayName] = useState("");
+  const [email, setEmail] = useState("");
+  const [photoURL, setPhotoURL] = useState("");
+  const [bibleVersion, setBibleVersion] = useState("KJV");
+  const [fontSize, setFontSize] = useState(16);
+  const [bio, setBio] = useState("");
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-      setUser(currentUser);
+      if (currentUser) {
+        setUser(currentUser);
+        setDisplayName(currentUser.displayName || "");
+        setEmail(currentUser.email || "");
+        setPhotoURL(currentUser.photoURL || "");
+        
+        // Load WordPress preferences
+        const userId = Cookies.get('userId');
+        if (userId) {
+          loadWordPressPreferences(parseInt(userId));
+        }
+      }
     });
     return () => unsubscribe();
   }, []);
 
-  useEffect(() => {
-    const highlighted = Cookies.get("highlightedVerses")
-      ? JSON.parse(Cookies.get("highlightedVerses") as string)
-      : [];
-    const bookmarkCookie = Cookies.get("bookmark");
+  const loadWordPressPreferences = async (userId: number) => {
+    try {
+      const wpUser = await fetch(`${process.env.REACT_APP_WP_API_URL}/users/${userId}`, {
+        headers: {
+          'Authorization': `Bearer ${Cookies.get('wpToken')}`,
+        },
+      }).then(res => res.json());
 
-    setHighlightedVerses(highlighted);
-    setBookmark(bookmarkCookie || null);
-  }, []);
+      if (wpUser.meta) {
+        setBibleVersion(wpUser.meta.preferred_bible_version || "KJV");
+        setBio(wpUser.description || "");
+      }
+    } catch (error) {
+      console.error("Failed to load WordPress preferences:", error);
+    }
+  };
 
-  useEffect(() => {
-    const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-      setUser(currentUser); // Set the user if authenticated, or null if logged out
-    });
-    return () => unsubscribe(); // Clean up the listener on component unmount
-  }, []);
+  const handleSave = async () => {
+    if (!user) return;
+    
+    setLoading(true);
+    try {
+      // Update Firebase profile
+      await updateProfile(user, {
+        displayName,
+        photoURL,
+      });
+
+      // Update WordPress profile
+      const userId = Cookies.get('userId');
+      if (userId) {
+        await updateWordPressProfile(parseInt(userId), {
+          description: bio,
+        });
+
+        await updateWordPressUserMeta(parseInt(userId), {
+          preferred_bible_version: bibleVersion 
+        });
+      }
+
+      setMessage({ type: 'success', text: 'Profile updated successfully!' });
+    } catch (error) {
+      console.error("Failed to update profile:", error);
+      setMessage({ type: 'error', text: 'Failed to update profile. Please try again.' });
+    } finally {
+      setLoading(false);
+    }
+  };
 
   return (
-    <ThemeProvider theme={mdTheme}>
-      <Box
-        sx={{ display: "flex", marginTop: "3.5rem", fontFamily: "Quicksand" }}
-      >
-        <CssBaseline />
-        {/* sidebar */}
-        <Box
-          component="main"
-          sx={{
-            backgroundColor: (theme) =>
-              theme.palette.mode === "light"
-                ? theme.palette.grey[300]
-                : theme.palette.grey[900],
-            flexGrow: 1,
-            height: "100vh",
-            overflow: "auto",
-          }}
-        >
-          <Container maxWidth="lg" sx={{ mt: 4, mb: 4 }}>
-            <Grid container spacing={3}>
-              <Grid item xs={12} marginTop={15}>
-                <Paper
-                  sx={{
-                    px: 8,
-                    py: 8,
-                    display: "flex",
-                    width: "100%",
-                    position: "relative",
-                    height: "auto",
-                    fontFamily: "Quicksand",
-                  }}
-                  elevation={4}
-                >
-                  <Grid container spacing={3} sx={{ textAlign: "left" }}>
-                    <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      <Grid
-                        item
-                        xs={12}
-                        md={6}
-                        sx={{
-                          textAlign: "left",
-                          marginTop: 0,
-                          display: "flex",
-                        }}
-                      >
-                        {user && user.photoURL ? (
-                          <img
-                            style={{
-                              width: 48,
-                              height: 48,
-                              borderRadius: 5,
-                              marginBottom: 5,
-                            }}
-                            alt={user.displayName || "User"}
-                            src={user.photoURL}
-                          />
-                        ) : (
-                          <Avatar>
-                            <PersonIcon />
-                          </Avatar>
-                        )}
-                        <div style={{ borderRadius: 0 }}>
-                          <Typography
-                            sx={{
-                              marginLeft: 2,
-                              mt: 1,
-                              fontSize: "0.75rem",
-                              fontWeight: 600,
-                              color: "white",
-                            }}
-                          >
-                            {user && user.displayName}
-                          </Typography>
-                          <Typography
-                            sx={{
-                              marginLeft: 2,
-                              mt: -1,
-                              fontSize: "0.65rem",
-                              fontWeight: 400,
-                              color: "white",
-                              display: "flex",
-                              alignItems: "center",
-                            }}
-                          >
-                            <Circle sx={{ width: 10 }} htmlColor={"#02b548"} />
-                            &nbsp;Active
-                          </Typography>
-                          {/* <Typography
-                        sx={{
-                          display: "block",
-                          textAlign: "right",
-                          width: "auto",
-                        }}
-                        component="span"
-                        variant="body2"
-                        color="text.primary"
-                      >
-                        NEWS FEED
-                      </Typography> */}
-                          {/* Proxima Nova, Gill Sans, Europa, I */}
-                          {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
-                          {/* Museo Sans, Recta and Helvetica */}
-                          {/* <List
-                        sx={{
-                          width: "100%",
-                          maxWidth: 360,
-                          maxHeight: 360,
-                          bgcolor: "background.transparent",
-                          overflow: "scroll",
-                          marginTop: "1rem",
-                          float: "right",
-                        }}
-                      >
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Remy Sharp"
-                              src="/static/images/avatar/1.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Remy Sharp"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — I'll be in your neighborhood doing errands this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="John Dee"
-                              src="/static/images/avatar/1.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="John Dee"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — I'll be in your neighborhood doing errands this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <Divider variant="inset" component="li" />
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Travis Howard"
-                              src="/static/images/avatar/2.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Travis Howard"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Wish I could come, but I'm out of town this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Hugh Tolkein"
-                              src="/static/images/avatar/2.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Hugh Tolkein"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Wish I could come, but I'm out of town this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <Divider variant="inset" component="li" />
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Cindy Baker"
-                              src="/static/images/avatar/3.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Sarah Michelle"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Do you have Paris recommendations? Have you ever…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                      </List> */}
-                        </div>
-                      </Grid>
-                    </Grid>
-                    {/* <Typography
-                        sx={{
-                          display: "block",
-                          textAlign: "right",
-                          width: "auto",
-                        }}
-                        component="span"
-                        variant="body2"
-                        color="text.primary"
-                      >
-                        NEWS FEED
-                      </Typography> */}
-                    {/* Proxima Nova, Gill Sans, Europa, I */}
-                    {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
-                    {/* Museo Sans, Recta and Helvetica */}
-                    {/* <List
-                        sx={{
-                          width: "100%",
-                          maxWidth: 360,
-                          maxHeight: 360,
-                          bgcolor: "background.transparent",
-                          overflow: "scroll",
-                          marginTop: "1rem",
-                          float: "right",
-                        }}
-                      >
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Remy Sharp"
-                              src="/static/images/avatar/1.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Remy Sharp"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — I'll be in your neighborhood doing errands this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="John Dee"
-                              src="/static/images/avatar/1.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="John Dee"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — I'll be in your neighborhood doing errands this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <Divider variant="inset" component="li" />
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Travis Howard"
-                              src="/static/images/avatar/2.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Travis Howard"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Wish I could come, but I'm out of town this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Hugh Tolkein"
-                              src="/static/images/avatar/2.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Hugh Tolkein"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Wish I could come, but I'm out of town this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <Divider variant="inset" component="li" />
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Cindy Baker"
-                              src="/static/images/avatar/3.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Sarah Michelle"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Do you have Paris recommendations? Have you ever…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                      </List> */}
-                    <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      {/* <Typography
-                        sx={{
-                          display: "block",
-                          textAlign: "right",
-                          width: "auto",
-                        }}
-                        component="span"
-                        variant="body2"
-                        color="text.primary"
-                      >
-                        NEWS FEED
-                      </Typography> */}
-                      {/* Proxima Nova, Gill Sans, Europa, I */}
-                      {/* TC Avant Garde Gothic, Myriad Pro, Futura PT,  */}
-                      {/* Museo Sans, Recta and Helvetica */}
-                      {/* <List
-                        sx={{
-                          width: "100%",
-                          maxWidth: 360,
-                          maxHeight: 360,
-                          bgcolor: "background.transparent",
-                          overflow: "scroll",
-                          marginTop: "1rem",
-                          float: "right",
-                        }}
-                      >
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Remy Sharp"
-                              src="/static/images/avatar/1.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Remy Sharp"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — I'll be in your neighborhood doing errands this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="John Dee"
-                              src="/static/images/avatar/1.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="John Dee"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — I'll be in your neighborhood doing errands this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <Divider variant="inset" component="li" />
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Travis Howard"
-                              src="/static/images/avatar/2.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Travis Howard"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Wish I could come, but I'm out of town this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Hugh Tolkein"
-                              src="/static/images/avatar/2.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Hugh Tolkein"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Wish I could come, but I'm out of town this…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                        <Divider variant="inset" component="li" />
-                        <ListItem alignItems="flex-start">
-                          <ListItemAvatar>
-                            <Avatar
-                              alt="Cindy Baker"
-                              src="/static/images/avatar/3.jpg"
-                            />
-                          </ListItemAvatar>
-                          <ListItemText
-                            primary="Sarah Michelle"
-                            secondary={
-                              <React.Fragment>
-                                <Typography
-                                  sx={{ display: "inline" }}
-                                  component="span"
-                                  variant="body2"
-                                  color="text.primary"
-                                >
-                                  Status
-                                </Typography>
-                                {
-                                  " — Do you have Paris recommendations? Have you ever…"
-                                }
-                              </React.Fragment>
-                            }
-                          />
-                        </ListItem>
-                      </List> */}
-                    </Grid>
-                  </Grid>
-                </Paper>
+    <Box>
+      <Box sx={{ 
+        display: "flex", 
+        minHeight: "100vh", 
+        bgcolor: "background.default",
+        alignItems: "flex-start" 
+      }}>
+        <Container maxWidth="md" sx={{ mt: 14, mb: 4 }}>
+          <Paper 
+            elevation={6} 
+            sx={{ 
+              p: 4, 
+              borderRadius: 2,
+              backgroundColor: "background.paper",
+              boxShadow: (theme) => theme.palette.mode === 'dark' 
+                ? '0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12)'
+                : '0px 3px 5px -1px rgba(0,0,0,0.1), 0px 6px 10px 0px rgba(0,0,0,0.04), 0px 1px 18px 0px rgba(0,0,0,0.02)'
+            }}>
+            <Grid container spacing={4}>
+              {/* Profile Header */}
+              <Grid item xs={12} sx={{ textAlign: "center", mb: 2 }}>
+                <Box sx={{ position: "relative", display: "inline-block" }}>
+                  <Avatar
+                    src={photoURL || undefined}
+                    sx={{ 
+                      width: 120, 
+                      height: 120, 
+                      mb: 2,
+                      border: (theme) => `4px solid ${theme.palette.primary.main}`,
+                      boxShadow: 3
+                    }}
+                  >
+                    {!photoURL && <PersonOutline sx={{ fontSize: 60 }} />}
+                  </Avatar>
+                  <Button
+                    component="label"
+                    sx={{
+                      position: "absolute",
+                      bottom: 20,
+                      right: -10,
+                      minWidth: 40,
+                      width: 40,
+                      height: 40,
+                      borderRadius: "50%",
+                      backgroundColor: "primary.main",
+                      color: "white",
+                      "&:hover": {
+                        backgroundColor: "primary.dark",
+                      },
+                      boxShadow: 2
+                    }}
+                  >
+                    <PhotoCamera />
+                    <input type="file" hidden accept="image/*" onChange={(e) => {
+                      const file = e.target.files?.[0];
+                      if (file) {
+                        setPhotoURL(URL.createObjectURL(file));
+                      }
+                    }} />
+                  </Button>
+                </Box>
               </Grid>
 
-              {/* Recent Orders */}
-              <Grid item xs={12}>
-                <Paper
-                  sx={{ p: 2, display: "flex", flexDirection: "column" }}
-                  elevation={4}
-                ></Paper>
+              {/* Basic Info */}
+              <Grid item xs={12} md={6}>
+                <TextField
+                  fullWidth
+                  label="Display Name"
+                  value={displayName}
+                  onChange={(e) => setDisplayName(e.target.value)}
+                  sx={{ 
+                    mb: 3,
+                    "& .MuiOutlinedInput-root": {
+                      "&:hover fieldset": {
+                        borderColor: "primary.main",
+                      },
+                      "&.Mui-focused fieldset": {
+                        borderColor: "primary.main",
+                      }
+                    }
+                  }}
+                />
+                <TextField
+                  fullWidth
+                  label="Email"
+                  value={email}
+                  disabled
+                  sx={{ 
+                    mb: 3,
+                    "& .MuiOutlinedInput-root": {
+                      "&.Mui-disabled": {
+                        backgroundColor: "action.disabledBackground"
+                      }
+                    }
+                  }}
+                />
+                <TextField
+                  fullWidth
+                  label="Bio"
+                  value={bio}
+                  onChange={(e) => setBio(e.target.value)}
+                  multiline
+                  rows={4}
+                  sx={{ 
+                    mb: 3,
+                    "& .MuiOutlinedInput-root": {
+                      "&:hover fieldset": {
+                        borderColor: "primary.main",
+                      },
+                      "&.Mui-focused fieldset": {
+                        borderColor: "primary.main",
+                      }
+                    }
+                  }}
+                />
+              </Grid>
+
+              {/* Study Preferences */}
+              <Grid item xs={12} md={6}>
+                <Typography variant="h6" sx={{ mb: 2, color: "text.primary" }}>Study Preferences</Typography>
+                <FormControl fullWidth sx={{ mb: 3 }}>
+                  <InputLabel>Preferred Bible Version</InputLabel>
+                  <Select
+                    value={bibleVersion}
+                    label="Preferred Bible Version"
+                    onChange={(e) => setBibleVersion(e.target.value)}
+                    sx={{
+                      "&:hover .MuiOutlinedInput-notchedOutline": {
+                        borderColor: "primary.main",
+                      },
+                      "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
+                        borderColor: "primary.main",
+                      }
+                    }}
+                  >
+                    {BIBLE_VERSIONS.map((version) => (
+                      <MenuItem key={version.value} value={version.value}>
+                        {version.label}
+                      </MenuItem>
+                    ))}
+                  </Select>
+                </FormControl>
+
+                <FormControl fullWidth sx={{ mb: 3 }}>
+                  <Typography variant="subtitle2" gutterBottom sx={{ color: "text.secondary" }}>
+                    Font Size
+                  </Typography>
+                  <Select
+                    value={fontSize}
+                    onChange={(e) => setFontSize(Number(e.target.value))}
+                    sx={{
+                      "&:hover .MuiOutlinedInput-notchedOutline": {
+                        borderColor: "primary.main",
+                      },
+                      "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
+                        borderColor: "primary.main",
+                      }
+                    }}
+                  >
+                    <MenuItem value={14}>Small</MenuItem>
+                    <MenuItem value={16}>Medium</MenuItem>
+                    <MenuItem value={18}>Large</MenuItem>
+                    <MenuItem value={20}>Extra Large</MenuItem>
+                  </Select>
+                </FormControl>
+              </Grid>
+
+              {/* Save Button */}
+              <Grid item xs={12} sx={{ textAlign: "center", mt: 2 }}>
+                <Button
+                  variant="contained"
+                  color="primary"
+                  size="large"
+                  onClick={handleSave}
+                  disabled={loading}
+                  startIcon={<Save />}
+                  sx={{
+                    px: 4,
+                    py: 1.5,
+                    borderRadius: 2,
+                    textTransform: "none",
+                    fontWeight: "bold",
+                    boxShadow: 2,
+                    "&:hover": {
+                      boxShadow: 4,
+                      backgroundColor: "primary.dark"
+                    }
+                  }}
+                >
+                  {loading ? "Saving..." : "Save Changes"}
+                </Button>
               </Grid>
             </Grid>
-            <Copyright sx={{ pt: 4 }} />
-          </Container>
-        </Box>
+          </Paper>
+        </Container>
       </Box>
-    </ThemeProvider>
+
+      <Snackbar 
+        open={!!message} 
+        autoHideDuration={6000} 
+        onClose={() => setMessage(null)}
+        anchorOrigin={{ vertical: 'bottom', horizontal: 'center' }}
+      >
+        <Alert 
+          onClose={() => setMessage(null)} 
+          severity={message?.type || 'info'} 
+          sx={{ width: '100%' }}
+          elevation={6}
+          variant="filled"
+        >
+          {message?.text}
+        </Alert>
+      </Snackbar>
+    </Box>
   );
 }
 
