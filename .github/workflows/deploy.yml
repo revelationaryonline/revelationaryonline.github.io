@@ -40,7 +40,6 @@ jobs:
           REACT_APP_FIREBASE_APP_ID: ${{ secrets.REACT_APP_FIREBASE_APP_ID }}
           REACT_APP_PERSPECTIVE_API_URL: ${{ secrets.REACT_APP_PERSPECTIVE_API_URL }}
           REACT_APP_PERSPECTIVE_API_KEY: ${{ secrets.REACT_APP_PERSPECTIVE_API_KEY }}
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
