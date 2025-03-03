@@ -71,32 +71,6 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
         return;
       }
 
-      // Step 2: If user doesn't exist, create a new subscriber
-      const createUserResponse = await fetch(
-        `${process.env.REACT_APP_WP_API_URL}/users`,
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization: authHeader,
-          },
-          body: JSON.stringify({
-            username: user.email?.split("@")[0], // Use email prefix as username
-            email: user.email,
-            roles: ["subscriber"],
-            password: Math.random().toString(36).slice(-10), // Generate a secure password
-          }),
-        }
-      );
-
-      const wpData = await createUserResponse.json();
-      if (createUserResponse.ok) {
-        console.log("WordPress Subscription Success:", wpData);
-        Cookies.set("userId", wpData.id); // Save user ID in cookies
-      } else {
-        console.error("WordPress Subscription Failed:", wpData);
-      }
-
       navigate("/");
     } catch (error) {
       if (error instanceof Error) {
