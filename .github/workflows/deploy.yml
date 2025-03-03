@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+# Add permissions block to grant write access
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
