@@ -39,12 +39,14 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   const theme = useTheme();
   const isDarkMode = theme.palette.mode === "dark";
 
+  const WP_API_URL = process.env.REACT_APP_WP_API_URL?.replace('/wp/v2', '');
+
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
     try {
       const result = await signInWithPopup(auth, provider);
       const user = result.user;
-      console.log("User Info:", user);
+      // console.log("User Info:", user);
 
       const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
       const authHeader =
@@ -65,7 +67,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       const existingUsers = await checkUserResponse.json();
 
       if (existingUsers.length > 0) {
-        console.log("User already exists in WordPress:", existingUsers);
+        console.log("User already exists in WordPress:");
         Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
         setTimeout(() => navigate("/"), 500);
         return;
@@ -91,61 +93,60 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       );
       const user = userCredential.user;
 
-      // Fetch the user ID from WordPress and save it in cookies
-      const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
-      const authHeader =
-        "Basic " +
-        btoa(
-          `${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`
-        );
-      const checkUserResponse = await fetch(wpApiUrl, {
-        method: "GET",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: authHeader,
-        },
-      });
-      const existingUsers = await checkUserResponse.json();
-      if (existingUsers.length > 0) {
-        Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
+      // Instead of creating a WordPress user directly, let's use the JWT auth endpoint
+      if (!WP_API_URL) {
+        console.error("WordPress API URL not configured");
+        return;
       }
 
-      // Step 2: If user doesn't exist, create a new subscriber
-      const createUserResponse = await fetch(
-        `${process.env.REACT_APP_WP_API_URL}/users`,
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-            Authorization: authHeader,
-          },
-          body: JSON.stringify({
-            username: user.email?.split("@")[0], // Use email prefix as username
-            email: user.email,
-            roles: ["subscriber"],
-            password: Math.random().toString(36).slice(-10), // Generate a secure password
-          }),
-        }
-      );
+      // Get JWT token first
+      const tokenResponse = await fetch(`${WP_API_URL}/jwt-auth/v1/token`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          username: process.env.REACT_APP_WP_USERNAME,
+          password: process.env.REACT_APP_WP_APP_PASSWORD
+        }),
+      });
+
+      const tokenData = await tokenResponse.json();
+      
+      if (!tokenResponse.ok) {
+        console.error("Failed to get JWT token:", tokenData);
+        return;
+      }
+
+      // Now create the WordPress user with JWT auth
+      const createUserResponse = await fetch(`${WP_API_URL}/wp/v2/users`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${tokenData.token}`
+        },
+        body: JSON.stringify({
+          username: user.email?.split("@")[0], // Use email prefix as username
+          email: user.email,
+          roles: ["subscriber"],
+          password: Math.random().toString(36).slice(-10), // Generate a random password
+        }),
+      });
 
       const wpData = await createUserResponse.json();
       if (createUserResponse.ok) {
-        console.log("WordPress Subscription Success:", wpData);
-        Cookies.set("userId", wpData.id); // Save user ID in cookies
+        console.log("WordPress user created:");
+        Cookies.set("userId", wpData.id.toString());
       } else {
-        console.error("WordPress Subscription Failed:", wpData);
+        console.error("Failed to create WordPress user:", wpData);
       }
 
       navigate("/");
     } catch (error) {
-      if (error instanceof Error) {
-        console.error("Error signing up:", error.message);
-        setError(error.message);
-      } else {
-        console.error("Error signing up:", error);
-      }
+      console.error("Error signing up:", error);
+      setError(error instanceof Error ? error.message : "Failed to sign up");
     }
-  };
+};
 
   const handleLogin = async () => {
     try {
