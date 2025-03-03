@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import {
   Dialog,
   DialogTitle,
@@ -19,9 +19,9 @@ interface SignOutDialogProps {
 }
 
 export default function SignOutDialog({ open, onClose, onConfirm }: SignOutDialogProps) {
-  const [saveHighlightedVerses, setSaveHighlightedVerses] = useState(true);
-  const [saveBookmark, setSaveBookmark] = useState(true);
-  const [saveSession, setSaveSession] = useState(true);
+  const [saveHighlightedVerses, setSaveHighlightedVerses] = React.useState(true);
+  const [saveBookmark, setSaveBookmark] = React.useState(true);
+  const [saveSession, setSaveSession] = React.useState(true);
 
   const handleSignOut = () => {
     if (!saveSession) {
@@ -49,8 +49,8 @@ export default function SignOutDialog({ open, onClose, onConfirm }: SignOutDialo
       onClose={onClose}
       PaperProps={{
         sx: {
-          backgroundColor: (theme) => theme.palette.mode === 'light' ? '#FFF' : '#000',
-          color: (theme) => theme.palette.mode === 'light' ? '#000' : '#FFF',
+          backgroundColor: (theme) => theme.palette.mode === 'light' ? '#FFF' : '#212121',
+          color: (theme) => theme.palette.mode === 'light' ? '#212121' : '#FFF',
           borderRadius: 0
         }
       }}
@@ -60,7 +60,7 @@ export default function SignOutDialog({ open, onClose, onConfirm }: SignOutDialo
         fontWeight: 600,
         letterSpacing: '1.65px',
       }}>
-        Before you sign out
+        Sign Out Options
       </DialogTitle>
       <DialogContent>
         <Box sx={{ mb: 2 }}>

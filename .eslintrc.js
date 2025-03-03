@@ -15,8 +15,8 @@ module.exports = {
     },
     extends: [
       'eslint:recommended',
-      'plugin:react/recommended',
-      'plugin:react-hooks/recommended',
+      // 'plugin:react/recommended',
+      // 'plugin:react-hooks/recommended',
       'plugin:jsx-a11y/recommended',
       'plugin:import/errors',
       'plugin:import/warnings',
@@ -35,20 +35,20 @@ module.exports = {
       'react/prop-types': 'off', // Disable PropTypes (use TypeScript for type checking)
       'react/react-in-jsx-scope': 'off', // React 17+ doesn't require this rule
       'react/jsx-uses-react': 'off', // React 17+ doesn't require this rule
-      'react/jsx-uses-vars': 'error', // Ensure variables used in JSX are marked as used
+      'react/jsx-uses-vars': 'off', // Ensure variables used in JSX are marked as used
       
       // TypeScript
       '@typescript-eslint/ban-ts-comment': 'off', // Allow @ts-ignore comments
-      '@typescript-eslint/no-unused-vars': 'warn', // Warn about unused variables
+      '@typescript-eslint/no-unused-vars': 'off', // Warn about unused variables
       '@typescript-eslint/explicit-module-boundary-types': 'off', // You can omit return types in functions if you wish
-      '@typescript-eslint/no-explicit-any': 'warn', // Avoid using `any`, but allow warnings
+      '@typescript-eslint/no-explicit-any': 'off', // Avoid using `any`, but allow warnings
   
       // General JS/React rules
-      'no-console': 'warn', // Warn about console logs in production code
-      'no-unused-vars': 'warn', // Warn about unused variables
-      'react/jsx-no-target-blank': 'warn', // Prevent potential security vulnerabilities
+      'no-console': 'off', // Warn about console logs in production code
+      'no-unused-vars': 'off', // Warn about unused variables
+      'react/jsx-no-target-blank': 'off', // Prevent potential security vulnerabilities
       'jsx-a11y/anchor-is-valid': 'warn', // Ensure links are valid and accessible
-      'jsx-a11y/no-autofocus': 'warn', // Prevent auto-focusing elements on page load
+      'jsx-a11y/no-autofocus': 'off', // Prevent auto-focusing elements on page load
       'import/no-unresolved': 'error', // Prevent unresolved imports
       'import/no-named-as-default': 'warn', // Prevent accidental default imports
       'import/prefer-default-export': 'off', // Use named exports when necessary

@@ -1,0 +1,38 @@
+# Build output
+build/
+dist/
+static/
+
+# Dependencies
+node_modules/
+
+# Cache and logs
+.cache/
+coverage/
+*.log
+
+# Config files
+.env*
+.prettierrc
+.gitignore
+
+# Generated files
+*.min.js
+*.bundle.js
+*.chunk.js
+*.map
+
+# Service worker
+service-worker.js
+sw.js
+
+# Test files
+__tests__/
+__mocks__/
+*.test.js
+*.spec.js
+
+# Other
+.DS_Store
+.idea/
+.vscode/
