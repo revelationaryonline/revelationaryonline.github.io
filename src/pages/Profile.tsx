@@ -6,7 +6,6 @@ import {
   Container,
   Grid,
   Paper,
-  Avatar,
   Typography,
   TextField,
   Button,
@@ -27,9 +26,12 @@ import { auth } from "../firebase";
 import {
   updateWordPressProfile,
   updateWordPressUserMeta,
+  uploadProfileImage,
 } from "../services/wordpress";
 import Circle from "@mui/icons-material/Circle";
 import PersonIcon from "@mui/icons-material/Person";
+import { optimizeImage } from "../utils/imageUtils";
+import { UserAvatar } from "../components/UserAvatar/UserAvatar";
 
 const BIBLE_VERSIONS = [
   { value: "KJV", label: "King James Version" },
@@ -170,48 +172,10 @@ function ProfileContent() {
                     }}
                   >
                     <Box alignItems="flex-start">
-                      {photoURL ? (
-                        <>
-                          {imageLoading && (
-                            <Skeleton 
-                              variant="rectangular" 
-                              width={96} 
-                              height={96} 
-                              sx={{ 
-                                borderRadius: 1,
-                                position: 'absolute',
-                                bgcolor: (theme) => theme.palette.mode === 'dark' ? 'grey.800' : 'grey.200'
-                              }} 
-                            />
-                          )}
-                          <img
-                            style={{
-                              width: 96,
-                              height: 96,
-                              borderRadius: 5,
-                              marginBottom: 5,
-                              display: imageLoading ? 'none' : 'block'
-                            }}
-                            alt={displayName || "User"}
-                            src={photoURL}
-                            onLoad={() => setImageLoading(false)}
-                            onError={(e) => {
-                              e.currentTarget.style.display = 'none';
-                              setPhotoURL(''); // Clear the invalid URL
-                              setImageLoading(false);
-                            }}
-                          />
-                        </>
-                      ) : (
-                        <Avatar sx={{ 
-                          width: 96, 
-                          height: 96,
-                          bgcolor: (theme) => theme.palette.mode === 'dark' ? 'grey.800' : 'grey.200'
-                        }}>
-                          <PersonIcon sx={{ width: 48, height: 48 }} />
-                        </Avatar>
-                      )}
-                    </Box >
+                      <Box sx={{ position: 'relative' }}>
+                        <UserAvatar user={user} size={96} />
+                      </Box>
+                    </Box>
                       <div style={{ borderRadius: 0 }}>
                         <Typography
                           sx={{
@@ -263,10 +227,41 @@ function ProfileContent() {
                       type="file"
                       hidden
                       accept="image/*"
-                      onChange={(e) => {
+                      onChange={async (e) => {
                         const file = e.target.files?.[0];
                         if (file) {
-                          setPhotoURL(URL.createObjectURL(file));
+                          try {
+                            setImageLoading(true);
+                            
+                            // Validate file size
+                            if (file.size > 5 * 1024 * 1024) { // 5MB limit
+                              throw new Error('Image size should be less than 5MB');
+                            }
+
+                            // Optimize image before upload
+                            const optimizedFile = await optimizeImage(file, {
+                              maxWidth: 400,
+                              maxHeight: 400,
+                              quality: 0.8
+                            });
+
+                            // Upload to WordPress and get permanent URL
+                            const permanentUrl = await uploadProfileImage(optimizedFile);
+                            setPhotoURL(permanentUrl);
+                            
+                            // Update Firebase profile immediately
+                            if (user) {
+                              await updateProfile(user, { photoURL: permanentUrl });
+                            }
+                          } catch (error) {
+                            console.error('Failed to upload image:', error);
+                            setMessage({
+                              type: "error",
+                              text: error instanceof Error ? error.message : "Failed to upload image. Please try again.",
+                            });
+                          } finally {
+                            setImageLoading(false);
+                          }
                         }
                       }}
                     />
