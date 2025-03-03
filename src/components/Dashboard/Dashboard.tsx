@@ -414,7 +414,10 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         {visible.includes("search") && (
           <TextField
             inputProps={{
-              "aria-labelledby": "switch-list-label-search",
+              ariaLabelledby: "switch-list-label-search",
+              autoComplete: "new-password", // Alternative approach
+              spellCheck: "false",
+              autoCapitalize: "none",
             }}
             label="Search"
             id="searchBar"

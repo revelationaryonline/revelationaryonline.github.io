@@ -21,6 +21,7 @@ import { auth } from "../firebase"; // Import the initialized auth instance
 import { mdTheme } from "../utils/misc";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import FormControlLabel from "@mui/material/FormControlLabel";
+import Link from "@mui/material/Link";
 
 import logo from "../assets/logo512.png";
 
@@ -33,13 +34,14 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
-  const [isOptedOut, setIsOptedOut] = useState(false); // Track if user opted out
+  const [agreedToTerms, setAgreedToTerms] = useState(false); // terms of service
+  const [isOptedOut, setIsOptedOut] = useState(false); // Track if user opted out cookies
   const navigate = useNavigate();
 
   const theme = useTheme();
   const isDarkMode = theme.palette.mode === "dark";
 
-  const WP_API_URL = process.env.REACT_APP_WP_API_URL?.replace('/wp/v2', '');
+  const WP_API_URL = process.env.REACT_APP_WP_API_URL?.replace("/wp/v2", "");
 
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
@@ -85,6 +87,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   };
 
   const handleSignUp = async () => {
+    if (!agreedToTerms) {
+      setError("Please agree to the Terms of Service and Privacy Policy");
+      return;
+    }
+
     try {
       const userCredential = await createUserWithEmailAndPassword(
         auth,
@@ -107,12 +114,12 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
         },
         body: JSON.stringify({
           username: process.env.REACT_APP_WP_USERNAME,
-          password: process.env.REACT_APP_WP_APP_PASSWORD
+          password: process.env.REACT_APP_WP_APP_PASSWORD,
         }),
       });
 
       const tokenData = await tokenResponse.json();
-      
+
       if (!tokenResponse.ok) {
         console.error("Failed to get JWT token:", tokenData);
         return;
@@ -123,7 +130,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": `Bearer ${tokenData.token}`
+          Authorization: `Bearer ${tokenData.token}`,
         },
         body: JSON.stringify({
           username: user.email?.split("@")[0], // Use email prefix as username
@@ -146,7 +153,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       console.error("Error signing up:", error);
       setError(error instanceof Error ? error.message : "Failed to sign up");
     }
-};
+  };
 
   const handleLogin = async () => {
     try {
@@ -271,7 +278,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   >
                     <CheckCircleIcon
                       fontSize="small"
-                      color={isOptedOut ? "disabled" : "success"}
+                      color={!agreedToTerms ? "disabled" as const : (isOptedOut ? "disabled" as const : "success" as const)}
                       sx={{ mr: 1 }}
                     />
                     Add comments on every verse
@@ -287,7 +294,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   >
                     <CheckCircleIcon
                       fontSize="small"
-                      color="success"
+                      color={agreedToTerms ? "success" as const : "disabled" as const}
                       sx={{ mr: 1 }}
                     />
                     Read our blog
@@ -303,7 +310,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   >
                     <CheckCircleIcon
                       fontSize="small"
-                      color="success"
+                      color={agreedToTerms ? "success" as const : "disabled" as const}
                       sx={{ mr: 1 }}
                     />
                     Highlight Verses
@@ -413,7 +420,50 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 },
               }}
             />
-
+            {isSigningUp && (
+              <Box sx={{ width: "100%", mt: 1 }}>
+                <FormControlLabel
+                  control={
+                    <Checkbox
+                      required
+                      checked={agreedToTerms}
+                      onChange={(e) => setAgreedToTerms(e.target.checked)}
+                    />
+                  }
+                  label={
+                    <Typography
+                    variant="body2"
+                    color="text.secondary"
+                    align="center"
+                    sx={{
+                      mt: 2,
+                      color: "#a1a1a1",
+                      "& .MuiFormControlLabel-label": {
+                        fontSize: "14px",
+                      },
+                    }}
+                  >
+                      I agree to the{" "}
+                      <Link
+                        href="/terms-of-service"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Terms of Service
+                      </Link>{" "}
+                      and{" "}
+                      <Link
+                        href="/privacy-policy"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Privacy Policy
+                      </Link>
+                    </Typography>
+                  }
+                />
+              </Box>
+            )}
             <Button
               type="submit"
               fullWidth
@@ -462,19 +512,26 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               variant="body2"
               color="text.secondary"
               align="center"
-              sx={{ mt: 2 }}
+              sx={{
+                mt: 2,
+                display: "flex",
+                color: "#a1a1a1",
+                "& .MuiFormControlLabel-label": {
+                  fontSize: "14px",
+                },
+              }}
             >
               {isSigningUp ? (
                 <>
                   Already have an account?{" "}
-                  <Button variant="text" onClick={() => setIsSigningUp(false)}>
+                  <Button variant="text" sx={{ color: "#a1a1a1" , mt: -1}} onClick={() => setIsSigningUp(false)}>
                     Sign In
                   </Button>
                 </>
               ) : (
                 <>
                   Don&apos;t have an account?{" "}
-                  <Button variant="text" onClick={() => setIsSigningUp(true)}>
+                  <Button variant="text" sx={{ color: "#a1a1a1" , mt: -1}} onClick={() => setIsSigningUp(true)}>
                     Sign Up
                   </Button>
                 </>
