@@ -47,6 +47,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
     const provider = new GoogleAuthProvider();
     try {
       const result = await signInWithPopup(auth, provider);
+
+      if(!result.user) {
+        setError("Please login to continue");
+        return;
+      }
       const user = result.user;
       // console.log("User Info:", user);
 
@@ -73,6 +78,38 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
         Cookies.set("userId", existingUsers[0].id); // Save user ID in cookies
         setTimeout(() => navigate("/"), 500);
         return;
+      }
+
+      // Step 2: If user doesn't exist, create a new WordPress user
+      console.log("Creating new WordPress user...");
+      
+      // Generate a secure random password
+      const randomPassword = Math.random().toString(36).slice(-10) + 
+                            Math.random().toString(36).toUpperCase().slice(-2) + 
+                            Math.random().toString(36).slice(-2) + 
+                            '!';
+      
+      const createUserResponse = await fetch(`${process.env.REACT_APP_WP_API_URL}/users`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': authHeader
+        },
+        body: JSON.stringify({
+          username: user?.email?.split('@')[0] + '_' + Math.random().toString(36).substring(2, 6),
+          email: user.email ?? '',
+          password: randomPassword,
+          name: user.displayName || user?.email?.split('@')[0],
+          roles: ['subscriber']
+        })
+      });
+      
+      if (createUserResponse.ok) {
+        const newUser = await createUserResponse.json();
+        console.log("WordPress user created successfully:", newUser);
+        Cookies.set("userId", newUser.id);
+      } else {
+        console.error("Failed to create WordPress user:", await createUserResponse.text());
       }
 
       navigate("/");

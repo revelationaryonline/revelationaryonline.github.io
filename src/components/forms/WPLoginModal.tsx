@@ -28,26 +28,17 @@ const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) 
     if (!user || !password || !WP_API_URL) return;
 
     try {
-      const response = await fetch(`${WP_API_URL}/jwt-auth/v1/token`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          username: user.email.split('@')[0], // Assuming WP uses email as username
-          password: password,  
-        }),
+      // Use the App Password directly for comments
+      setToken(password);  // Store the App Password
+      Cookies.set('wpToken', password, { 
+        expires: 7, 
+        path: '/',
+        secure: true,
+        sameSite: 'strict'
       });
-
-      const data = await response.json();
-
-      if (response.ok) {
-        setToken(data.token);
-        Cookies.set('wpToken', data.token, { expires: 7, path: '' }); // expires in 7 days
-        setOpen(false); // Close modal on success
-      } else {
-        setError("Invalid password. Please check your credentials.");
-      }
+      setOpen(false);
     } catch (error) {
-      console.error("Error fetching token:", error);
+      console.error("Error setting comment password:", error);
       setError("An error occurred. Please try again.");
     }
   };

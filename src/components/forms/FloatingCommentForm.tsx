@@ -21,12 +21,14 @@ import Tooltip from "@mui/material/Tooltip";
 import { capitalise } from "../../utils/misc";
 
 import logo from "../../assets/logo512.png";
+import { User } from "firebase/auth";
 
 const WP_API_URL = process.env.REACT_APP_WP_API_URL;
 const PERSPECTIVE_API_URL = process.env.REACT_APP_PERSPECTIVE_API_URL;
 const PERSPECTIVE_API_KEY = process.env.REACT_APP_PERSPECTIVE_API_KEY;
 
 interface FloatingCommentFormProps {
+  user: User | null;
   setOpen: React.Dispatch<React.SetStateAction<boolean>>;
   position: { x: number; y: number };
   loggedIn: boolean;
@@ -45,6 +47,7 @@ interface FloatingCommentFormProps {
 }
 
 const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
+  user,
   open,
   setOpen,
   position,
@@ -86,6 +89,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       }
     }
   }
+
 
   const checkPerspectiveAPI = async (comment: string): Promise<{ isValid: boolean; message?: string }> => {
     setError(null);
@@ -185,7 +189,9 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${wpToken}`,
+          Authorization: `Basic ${btoa(
+            `${user?.email|| ""}:${wpToken}`
+          )}`,
         },
         body: JSON.stringify({
           content: cleanComment,
@@ -460,7 +466,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 </Box>
               ) : comments.length > 0 ? (
                 comments.map((comment: any) => (
-                  <Comment key={comment.id} comment={comment} />
+                  <Comment key={comment.id} comment={comment} user={user} />
                 ))
               ) : (
                 <Typography

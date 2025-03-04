@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Avatar, Skeleton } from '@mui/material';
 import PersonIcon from '@mui/icons-material/Person';
 import { User } from 'firebase/auth';
+import Cookies from 'js-cookie';
 
 interface UserAvatarProps {
   user: User | null;
@@ -16,14 +17,18 @@ export const UserAvatar: React.FC<UserAvatarProps> = ({
 }) => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(false);
+  const [userId, setUserId] = useState<number | null>(null);
 
+  
   // Reset states when user or photoURL changes
   useEffect(() => {
-    if (user?.photoURL) {
+    const c = Cookies.get('userId')
+    setUserId(c ? parseInt(c) : null);
+    if (user && user.photoURL) {
       setLoading(false);
       setError(false);
     }
-  }, [user?.photoURL]);
+  }, [user, user?.photoURL]);
 
   if (!user) {
     return (
