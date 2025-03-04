@@ -13,6 +13,7 @@ const Comment: React.FC<CommentProps> = ({ comment, user }) => {
   const [likes, setLikes] = useState(comment.likes || 0);
   const [liked, setLiked] = useState(false);
   const [credentials, setCredentials] = useState<any>(null);
+  const userId = Cookies.get("userId");
   const wpToken = Cookies.get("wpToken"); // Get the authentication token from cookies
 
   useEffect(() => {
@@ -30,14 +31,13 @@ const Comment: React.FC<CommentProps> = ({ comment, user }) => {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "Authorization": `Basic ${credentials}`, // Use Basic auth with blank username
+            "Authorization": `Basic ${credentials}`, // Use Basic auth with credentials
           },
           body: JSON.stringify({ action }),
         }
       );
       const data = await response.json();
-      console.log(data)
-      setLikes(data?.likes);
+      setLikes(data.likes);
       setLiked(!liked);
     } catch (error) {
       console.error("Error liking comment:", error);
@@ -48,11 +48,10 @@ const Comment: React.FC<CommentProps> = ({ comment, user }) => {
 
   useEffect(() => {
     // Check if the user has already liked the comment
-    const userId = Cookies.get("userId");
     if (userId && likedUsers.includes(parseInt(userId))) {
       setLiked(true);
     }
-  }, [comment.liked_users]);
+  }, [comment.likes]);
 
   return (
     <Box
@@ -91,7 +90,7 @@ const Comment: React.FC<CommentProps> = ({ comment, user }) => {
           <IconButton
             size="small"
             onClick={handleLike}
-            color={liked ? "warning" : "secondary"}
+            color={liked || likedUsers.includes(parseInt(userId ? userId : '0')) ? "warning" : "secondary"}
             TouchRippleProps={{
               classes: { rippleVisible: "MuiTouchRipple-warning" },
             }}
@@ -99,7 +98,7 @@ const Comment: React.FC<CommentProps> = ({ comment, user }) => {
           >
             <FavoriteIcon
               sx={{ 
-                color: liked ? "warning" : "secondary", 
+                color: liked || likedUsers.includes(parseInt(userId ? userId : '0')) ? "warning" : "secondary", 
                 width: "18px" 
               }}
               fontSize="small"

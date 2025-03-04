@@ -32,3 +32,5 @@ node_modules
 /src/pages/.htaccess
 /src/pages/functions.php
 /test_server/
+
+/components/Dashboard.tsx

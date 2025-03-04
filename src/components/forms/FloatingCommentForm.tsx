@@ -189,9 +189,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Basic ${btoa(
-            `${user?.email|| ""}:${wpToken}`
-          )}`,
+          Authorization: `Basic ${btoa(`${user?.email || ""}:${wpToken}`)}`,
         },
         body: JSON.stringify({
           content: cleanComment,

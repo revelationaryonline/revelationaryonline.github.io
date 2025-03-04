@@ -162,6 +162,14 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
         return;
       }
 
+      // Store the JWT token in cookies
+      Cookies.set("wpToken", tokenData.token, { 
+        expires: 7, 
+        path: '/',
+        secure: true,
+        sameSite: 'strict'
+      });
+      
       // Now create the WordPress user with JWT auth
       const createUserResponse = await fetch(`${WP_API_URL}/wp/v2/users`, {
         method: "POST",
