@@ -47,7 +47,8 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
   const [checked, setChecked] = useState<string[]>([]);
   const [openDialog, setOpenDialog] = useState(false);
   const [isDeleting, setIsDeleting] = useState(false);
-  const [userId, setUserId] = useState<number | null>(null);
+  // const [userId, setUserId] = useState<number | null>(null);
+  const userId = Cookies.get('userId')
   const [deleteStep, setDeleteStep] = useState<'initial' | 'verify' | 'export' | 'deleting'>('initial');
   const [error, setError] = useState<string | null>(null);
   const [snackbar, setSnackbar] = useState<{open: boolean; message: string; severity: 'success' | 'error' | 'info'}>({
@@ -104,7 +105,9 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
 
       // Delete WordPress account using the standard WordPress REST API to delete a user by ID
       // alert(userId)
-      const response = await fetch(`https://revelationary.org/wp-json/wp/v2/users/${userId}?force=true&reassign=0`, {
+      let response;
+      if(userId) 
+      response = await fetch(`https://revelationary.org/wp-json/wp/v2/users/${userId}?force=true&reassign=0`, {
         method: 'DELETE',
         credentials: 'omit', // Omit credentials to avoid CORS issues
         headers: {
@@ -117,7 +120,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
       // Parse the response
       let responseData;
       try {
-        responseData = await response.json();
+        responseData = await response?.json();
       } catch (err) {
         console.error('Error parsing response:', err);
         responseData = { message: 'Failed to parse server response' };
@@ -126,7 +129,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
       console.log('Server response:', responseData);
       
       // Handle errors from WordPress deletion
-      if (!response.ok) {
+      if (!response?.ok) {
         if (responseData && responseData.code) {
           // Custom error handling based on server response codes
           switch(responseData.code) {
@@ -141,11 +144,11 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
             case 'deletion_failed':
               throw new Error('Server error: Failed to delete your account');
             default:
-              throw new Error(responseData.message || `Error: ${response.status}`);
+              throw new Error(responseData.message || `Error: ${response?.status}`);
           }
         }
         
-        throw new Error(`Request failed with status ${response.status}`);
+        throw new Error(`Request failed with status ${response?.status}`);
       }
 
       console.log('WordPress user deletion successful:', responseData);
@@ -228,6 +231,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
       }
       
       console.log('Fetching user debug info from:', `${wpApiUrl}/user-debug?user_id=${userId}`);
+      console.log('User ID:', `${JSON.stringify(userId)}`);
       console.log('User Info:', `${JSON.stringify(user)}`);
       
       const response = await fetch(`${wpApiUrl}/user-debug?user_id=${userId}`, {
@@ -280,9 +284,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
   }, [setUser]);
 
   useEffect(() => {
-    // Check permissions when component mounts
-    const c = Cookies.get('userId')
-    setUserId(c ? parseInt(c) : null);
+    // Check permissions when component mounts    
     checkUserPermissions();
   }, []);
 
@@ -341,7 +343,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                                 marginBottom: 5,
                               }}
                               alt={user?.displayName || "User"}
-                              src={user?.photoURL}
+                              src={`${user?.photoURL}`}
                             />
                           ) 
                           // : 

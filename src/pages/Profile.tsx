@@ -58,21 +58,21 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
-      // if (currentUser) {
-      //   console.log(currentUser)
-      //   setUser(currentUser);
-      //   setDisplayName(currentUser?.displayName || "");
-      //   setEmail(currentUser?.email || "");
-      //   setPhotoURL(currentUser?.photoURL || "");
+      if (currentUser) {
+        console.log(currentUser)
+        setUser(currentUser);
+        setDisplayName(currentUser?.displayName || "");
+        setEmail(currentUser?.email || "");
+        setPhotoURL(currentUser?.photoURL || "");
 
-      //   // Load WordPress preferences
-      //   const userId = Cookies.get("userId");
-      //   if (userId) {
-      //     loadWordPressPreferences(parseInt(userId));
-      //     setImageLoading(false);
-      //     setLoading(false);
-      //   }
-      // }
+        // Load WordPress preferences
+        const userId = Cookies.get("userId");
+        if (userId) {
+          loadWordPressPreferences(parseInt(userId));
+          setImageLoading(false);
+          setLoading(false);
+        }
+      }
     });
     return () => unsubscribe();
   }, []);
@@ -83,7 +83,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
         `${process.env.REACT_APP_WP_API_URL}/users/${userId}`,
         {
           headers: {
-            Authorization: `Bearer ${Cookies.get("wpToken")}`,
+            Authorization: `JWT ${Cookies.get("wpToken")}`,
           },
         }
       ).then((res) => res.json());
@@ -109,13 +109,13 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
       // Update WordPress profile
       const userId = Cookies.get("userId");
       if (userId) {
-        // await updateWordPressProfile(parseInt(userId), {
-        //   description: bio,
-        // });
+        await updateWordPressProfile(parseInt(userId), {
+          description: bio,
+        });
 
-        // await updateWordPressUserMeta(parseInt(userId), {
-        //   preferred_bible_version: bibleVersion
-        // });
+        await updateWordPressUserMeta(parseInt(userId), {
+          preferred_bible_version: "KJV"
+        });
       }
 
       setMessage({ type: "success", text: "Profile updated successfully!" });
@@ -205,7 +205,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         </Typography>
                       </div>
                   </Box>
-                  {/* <Button
+                  <Button
                     component="label"
                     sx={{
                       position: "absolute",
@@ -266,7 +266,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         }
                       }}
                     />
-                  </Button> */}
+                  </Button>
                 </Box>
               </Grid>
 
@@ -304,7 +304,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                     },
                   }}
                 />
-                {/* <TextField
+                <TextField
                   fullWidth
                   label="Bio"
                   value={bio}
@@ -322,17 +322,16 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                       },
                     },
                   }}
-                /> */}
+                />
               </Grid>
 
-              {/* Study Preferences
+              {/* Study Preferences */}
               <Grid item xs={12} md={6}>
                 <Typography variant="h6" sx={{ mb: 2, color: "text.primary" }}>Study Preferences</Typography>
                 <FormControl fullWidth sx={{ mb: 3 }}>
                   <InputLabel>Preferred Bible Version</InputLabel>
                   <Select
-                    disabled
-                    value={bibleVersion}
+                    value={"KJV"}
                     label="Preferred Bible Version"
                     // onChange={(e) => setBibleVersion(e.target.value)}
                     sx={{
@@ -351,7 +350,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                     ))}
                   </Select>
                 </FormControl>
-              </Grid> */}
+              </Grid>
 
               {/* Save Button */}
               <Grid item xs={12} sx={{ textAlign: "center", mt: 2 }}>
