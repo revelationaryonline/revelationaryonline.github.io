@@ -37,6 +37,7 @@ import IconButton from "@mui/material/IconButton";
 import Tooltip from "@mui/material/Tooltip";
 import { User } from "firebase/auth";
 import MenuItem from "@mui/material/MenuItem";
+import Alert from "../Alert/Alert"
 
 interface DashboardContentProps {
   loggedIn: boolean;
@@ -896,6 +897,9 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
           <WPLoginModal user={user} wpToken={wpToken} setToken={setWpToken} />
         </Container>
       </Box>
+      {commentOpen &&
+      <Alert  message={""} link="" />
+      }
       <Backdrop
         sx={{ color: "#fff", zIndex: (theme) => theme.zIndex.drawer + 1 }}
         open={loading}
