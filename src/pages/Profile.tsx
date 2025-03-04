@@ -205,7 +205,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         </Typography>
                       </div>
                   </Box>
-                  <Button
+                  {/* <Button
                     component="label"
                     sx={{
                       position: "absolute",
@@ -266,7 +266,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         }
                       }}
                     />
-                  </Button>
+                  </Button> */}
                 </Box>
               </Grid>
 
@@ -304,7 +304,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                     },
                   }}
                 />
-                <TextField
+                {/* <TextField
                   fullWidth
                   label="Bio"
                   value={bio}
@@ -322,7 +322,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                       },
                     },
                   }}
-                />
+                /> */}
               </Grid>
 
               {/* Study Preferences

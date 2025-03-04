@@ -877,6 +877,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
           <Copyright sx={{ pt: 4 }} />
           {commentOpen && selectedVerse && (
             <FloatingCommentForm
+              user={user}
               open={commentOpen}
               commentsMenu={commentsMenu}
               setOpen={setCommentOpen}

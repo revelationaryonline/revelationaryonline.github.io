@@ -2,16 +2,24 @@ import React, { useEffect, useState } from "react";
 import { Box, Typography, Avatar, IconButton } from "@mui/material";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import Cookies from "js-cookie";
+import { User } from "firebase/auth";
 
 interface CommentProps {
   comment: any;
+  user: User | null;
 }
 
-const Comment: React.FC<CommentProps> = ({ comment }) => {
+const Comment: React.FC<CommentProps> = ({ comment, user }) => {
   const [likes, setLikes] = useState(comment.likes || 0);
   const [liked, setLiked] = useState(false);
-  const userId = Cookies.get("userId") || ""; // Assuming user ID is stored in cookies
+  const [credentials, setCredentials] = useState<any>(null);
   const wpToken = Cookies.get("wpToken"); // Get the authentication token from cookies
+
+  useEffect(() => {
+    if (user) {
+      setCredentials(btoa(`${user.email}:${wpToken}`));
+    }
+  }, [user, wpToken]);
 
   const handleLike = async () => {
     const action = liked ? "unlike" : "like";
@@ -22,13 +30,14 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "Authorization": `Bearer ${wpToken}`, // Include the authentication token
+            "Authorization": `Basic ${credentials}`, // Use Basic auth with blank username
           },
           body: JSON.stringify({ action }),
         }
       );
       const data = await response.json();
-      setLikes(data.likes);
+      console.log(data)
+      setLikes(data?.likes);
       setLiked(!liked);
     } catch (error) {
       console.error("Error liking comment:", error);
@@ -39,10 +48,11 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
 
   useEffect(() => {
     // Check if the user has already liked the comment
+    const userId = Cookies.get("userId");
     if (userId && likedUsers.includes(parseInt(userId))) {
       setLiked(true);
     }
-  }, [comment.liked_users, userId]);
+  }, [comment.liked_users]);
 
   return (
     <Box
@@ -88,7 +98,10 @@ const Comment: React.FC<CommentProps> = ({ comment }) => {
             // disabled={liked}
           >
             <FavoriteIcon
-              sx={{ color: liked || likedUsers.includes(parseInt(userId)) ? "warning" : "secondary", width: "18px" }}
+              sx={{ 
+                color: liked ? "warning" : "secondary", 
+                width: "18px" 
+              }}
               fontSize="small"
             />
           </IconButton>

@@ -27,3 +27,8 @@ yarn-error.log*
 
 Server1.pem
 node_modules
+
+# WP
+/src/pages/.htaccess
+/src/pages/functions.php
+/test_server/
