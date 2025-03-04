@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Cookies from "js-cookie";
-import { createTheme, ThemeProvider } from "@mui/material/styles";
 import {
   Box,
   Container,
@@ -13,14 +12,10 @@ import {
   MenuItem,
   FormControl,
   InputLabel,
-  Switch,
-  FormControlLabel,
-  Divider,
   Alert,
   Snackbar,
-  Skeleton,
 } from "@mui/material";
-import { PersonOutline, PhotoCamera, Save } from "@mui/icons-material";
+import { PhotoCamera, Save } from "@mui/icons-material";
 import { onAuthStateChanged, updateProfile, User } from "firebase/auth";
 import { auth } from "../firebase";
 import {
@@ -29,7 +24,6 @@ import {
   uploadProfileImage,
 } from "../services/wordpress";
 import Circle from "@mui/icons-material/Circle";
-import PersonIcon from "@mui/icons-material/Person";
 import { optimizeImage } from "../utils/imageUtils";
 import { UserAvatar } from "../components/UserAvatar/UserAvatar";
 
