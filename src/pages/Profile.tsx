@@ -14,6 +14,7 @@ import {
   InputLabel,
   Alert,
   Snackbar,
+  Tooltip,
 } from "@mui/material";
 import { PhotoCamera, Save } from "@mui/icons-material";
 import { onAuthStateChanged, updateProfile, User } from "firebase/auth";
@@ -199,7 +200,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         </Typography>
                       </div>
                   </Box>
-                  <Button
+                  {/* <Button
                     component="label"
                     sx={{
                       position: "absolute",
@@ -260,7 +261,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         }
                       }}
                     />
-                  </Button>
+                  </Button> */}
                 </Box>
               </Grid>
 
@@ -269,36 +270,87 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                 <TextField
                   disabled
                   fullWidth
-                  label="Display Name"
                   value={user?.displayName}
                   onChange={(e) => setDisplayName(e.target.value)}
                   sx={{
                     mb: 3,
-                    "& .MuiOutlinedInput-root": {
-                      "&:hover fieldset": {
-                        borderColor: "primary.main",
+                    WebkitBoxShadow: "none !important",
+                    "& .Mui-focused": {
+                      color: (theme) =>
+                        theme.palette.mode === "light"
+                          ? "black !important"
+                          : "white !important",
+                      "& .MuiOutlinedInput-notchedOutline": {
+                        borderColor: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "#ccc !important"
+                            : "#FFF !important",
+                        color: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "black"
+                            : "white !important",
                       },
-                      "&.Mui-focused fieldset": {
-                        borderColor: "primary.main",
+                      "& input:-webkit-autofill": {
+                        WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                        WebkitTextFillColor: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                        transition: "background-color 5000s ease-in-out 0s",
                       },
+                    },
+                    "& .MuiInputBase-input": {
+                      color: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                    },
+                    "& .MuiInputBase-input:-webkit-autofill": {
+                      WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                      WebkitTextFillColor: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                      transition: "background-color 5000s ease-in-out 0s",
                     },
                   }}
                 />
                 <TextField
                   fullWidth
-                  label="Email"
                   value={user?.email}
                   disabled
                   sx={{
                     mb: 3,
-                    "& .MuiOutlinedInput-root": {
-                      "&.Mui-disabled": {
-                        backgroundColor: "action.disabledBackground",
+                    WebkitBoxShadow: "none !important",
+                    "& .Mui-focused": {
+                      color: (theme) =>
+                        theme.palette.mode === "light"
+                          ? "black !important"
+                          : "white !important",
+                      "& .MuiOutlinedInput-notchedOutline": {
+                        borderColor: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "#ccc !important"
+                            : "#FFF !important",
+                        color: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "black"
+                            : "white !important",
                       },
+                      "& input:-webkit-autofill": {
+                        WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                        WebkitTextFillColor: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                        transition: "background-color 5000s ease-in-out 0s",
+                      },
+                    },
+                    "& .MuiInputBase-input": {
+                      color: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                    },
+                    "& .MuiInputBase-input:-webkit-autofill": {
+                      WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                      WebkitTextFillColor: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                      transition: "background-color 5000s ease-in-out 0s",
                     },
                   }}
                 />
-                <TextField
+                {/* <TextField
                   fullWidth
                   label="Bio"
                   value={bio}
@@ -307,24 +359,51 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                   rows={4}
                   sx={{
                     mb: 3,
-                    "& .MuiOutlinedInput-root": {
-                      "&:hover fieldset": {
-                        borderColor: "primary.main",
+                    WebkitBoxShadow: "none !important",
+                    "& .Mui-focused": {
+                      color: (theme) =>
+                        theme.palette.mode === "light"
+                          ? "black !important"
+                          : "white !important",
+                      "& .MuiOutlinedInput-notchedOutline": {
+                        borderColor: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "#ccc !important"
+                            : "#FFF !important",
+                        color: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "black"
+                            : "white !important",
                       },
-                      "&.Mui-focused fieldset": {
-                        borderColor: "primary.main",
+                      "& input:-webkit-autofill": {
+                        WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                        WebkitTextFillColor: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                        transition: "background-color 5000s ease-in-out 0s",
                       },
                     },
+                    "& .MuiInputBase-input": {
+                      color: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                    },
+                    "& .MuiInputBase-input:-webkit-autofill": {
+                      WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                      WebkitTextFillColor: (theme) =>
+                        theme.palette.mode === "light" ? "black" : "white",
+                      transition: "background-color 5000s ease-in-out 0s",
+                    },
                   }}
-                />
+                /> */}
               </Grid>
 
               {/* Study Preferences */}
               <Grid item xs={12} md={6}>
                 <Typography variant="h6" sx={{ mb: 2, color: "text.primary" }}>Study Preferences</Typography>
+                <Tooltip title="More versions soon !">
                 <FormControl fullWidth sx={{ mb: 3 }}>
                   <InputLabel>Preferred Bible Version</InputLabel>
                   <Select
+                    disabled
                     value={"KJV"}
                     label="Preferred Bible Version"
                     // onChange={(e) => setBibleVersion(e.target.value)}
@@ -344,11 +423,12 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                     ))}
                   </Select>
                 </FormControl>
+                </Tooltip>
               </Grid>
 
               {/* Save Button */}
               <Grid item xs={12} sx={{ textAlign: "center", mt: 2 }}>
-                <Button
+                {/* <Button
                   variant="contained"
                   color="secondary"
                   size="large"
@@ -369,7 +449,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                   }}
                 >
                   {loading ? "Saving..." : "Save Changes"}
-                </Button>
+                </Button> */}
               </Grid>
             </Grid>
           </Paper>

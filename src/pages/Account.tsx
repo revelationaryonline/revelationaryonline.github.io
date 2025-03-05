@@ -43,6 +43,7 @@ import Chip from "@mui/material/Chip";
 import CheckCircleOutline from "@mui/icons-material/CheckCircleOutline";
 import RefreshIcon from "@mui/icons-material/Refresh";
 
+
 function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
   const [checked, setChecked] = useState<string[]>([]);
   const [openDialog, setOpenDialog] = useState(false);
@@ -59,6 +60,12 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
   const [userDebugInfo, setUserDebugInfo] = useState<any>(null);
   const [isDebugLoading, setIsDebugLoading] = useState(false);
   const navigate = useNavigate();
+  
+  const deleteDebug = process.env.USER_DELETE_DEBUG;
+
+  console.log('Config check:', {
+    deleteDebug
+  });
 
   const showError = (message: string) => {
     setError(message);
@@ -505,7 +512,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                   DELETE ACCOUNT
                 </Paper>
               </Grid>
-
+              {deleteDebug === "true" && (
               <Grid item xs={12}>
                 <Box sx={{ 
                   p: 2, 
@@ -587,6 +594,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                   )}
                 </Box>
               </Grid>
+              )}
             </Grid>
             <Copyright sx={{ pt: 4 }} />
           </Container>
@@ -670,7 +678,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
         </DialogActions>
       </Dialog>
 
-      <Snackbar
+      {/* <Snackbar
         open={snackbar.open}
         autoHideDuration={6000}
         onClose={() => setSnackbar(prev => ({ ...prev, open: false }))}
@@ -678,7 +686,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
         <Alert severity={snackbar.severity} onClose={() => setSnackbar(prev => ({ ...prev, open: false }))}>
           {snackbar.message}
         </Alert>
-      </Snackbar>
+      </Snackbar> */}
     </ThemeProvider>
   );
 }
