@@ -38,6 +38,7 @@ import Tooltip from "@mui/material/Tooltip";
 import { User } from "firebase/auth";
 import MenuItem from "@mui/material/MenuItem";
 import Alert from "../Alert/Alert"
+import Footer from "../Footer/Footer";
 
 interface DashboardContentProps {
   loggedIn: boolean;
@@ -378,7 +379,8 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
   }, [result, searchPage, resultsPerPage]);
 
   return (
-    <Box sx={{ display: "flex", mt: 5.75 }}>
+    <>
+    <Box sx={{ display: "flex", mt: 5.75, height: "222vh" }}>
       <CssBaseline />
       <SideBar
         handleToggle={handleToggle}
@@ -394,7 +396,8 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
               ? "#FFFFFF"
               : theme.palette.grey[900],
           flexGrow: 1,
-          height: "100vh",
+          // height: "100vh",
+          height: "220vh",
           overflow: "auto",
           mt: { xs: "0.5rem", sm: "1rem" },
         }}
@@ -780,7 +783,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                     <Pagination
                       sx={{
                         opacity: 1,
-                        position: "fixed",
+                        position: "absolute",
                         marginLeft: "-65px",
                         pl: 1,
                         mt: "83px", // 83 Samantha
@@ -875,7 +878,6 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
               hover={hover}
             />
           </Grid>
-          <Copyright sx={{ pt: 4 }} />
           {commentOpen && selectedVerse && (
             <FloatingCommentForm
               user={user}
@@ -907,6 +909,8 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         <CircularProgress color="inherit" />
       </Backdrop>
     </Box>
+      <Footer />
+    </>
   );
 };
 
