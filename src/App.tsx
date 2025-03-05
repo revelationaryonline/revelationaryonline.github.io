@@ -14,6 +14,7 @@ import CookieConsent from "./components/CookieConsent/CookieConsent";
 
 // Import Firebase authentication
 import { getAuth, onAuthStateChanged, User } from "firebase/auth";
+import Footer from "./components/Footer/Footer";
 
 export default function App() {
   const [loggedIn, setLoggedIn] = useState<boolean>(false);

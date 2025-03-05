@@ -190,7 +190,7 @@ function Header(props: HeaderProps) {
                   }}
                 ></img>
                 <Typography
-                  variant="p"
+                  // variant="p"
                   component="div"
                   sx={{
                     textAlign: { xs: "center", sm: "left" },
