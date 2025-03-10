@@ -23,12 +23,11 @@ import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
 import Button from "@mui/material/Button";
 import { useNavigate } from "react-router-dom";
-import { 
-  deleteUser, 
-  onAuthStateChanged, 
-  User, 
+import {
+  deleteUser,
+  onAuthStateChanged,
   reauthenticateWithPopup,
-  GoogleAuthProvider
+  GoogleAuthProvider,
 } from "firebase/auth";
 import { auth } from "../firebase";
 import { mdTheme } from "../utils/misc";
@@ -42,144 +41,173 @@ import Snackbar from "@mui/material/Snackbar";
 import Chip from "@mui/material/Chip";
 import CheckCircleOutline from "@mui/icons-material/CheckCircleOutline";
 import RefreshIcon from "@mui/icons-material/Refresh";
+import Footer from "../components/Footer/Footer";
 
-
-function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+function AccountContent({
+  loggedIn,
+  user,
+  setUser,
+}: {
+  loggedIn: boolean;
+  user: any;
+  setUser: any;
+}) {
   const [checked, setChecked] = useState<string[]>([]);
   const [openDialog, setOpenDialog] = useState(false);
   const [isDeleting, setIsDeleting] = useState(false);
   // const [userId, setUserId] = useState<number | null>(null);
-  const userId = Cookies.get('userId')
-  const [deleteStep, setDeleteStep] = useState<'initial' | 'verify' | 'export' | 'deleting'>('initial');
+  const userId = Cookies.get("userId");
+  const [deleteStep, setDeleteStep] = useState<
+    "initial" | "verify" | "export" | "deleting"
+  >("initial");
   const [error, setError] = useState<string | null>(null);
-  const [snackbar, setSnackbar] = useState<{open: boolean; message: string; severity: 'success' | 'error' | 'info'}>({
+  const [snackbar, setSnackbar] = useState<{
+    open: boolean;
+    message: string;
+    severity: "success" | "error" | "info";
+  }>({
     open: false,
-    message: '',
-    severity: 'info'
+    message: "",
+    severity: "info",
   });
   const [userDebugInfo, setUserDebugInfo] = useState<any>(null);
   const [isDebugLoading, setIsDebugLoading] = useState(false);
   const navigate = useNavigate();
-  
+
   const deleteDebug = process.env.USER_DELETE_DEBUG;
 
-  console.log('Config check:', {
-    deleteDebug
+  console.log("Config check:", {
+    deleteDebug,
   });
 
   const showError = (message: string) => {
     setError(message);
-    setSnackbar({ open: true, message, severity: 'error' });
+    setSnackbar({ open: true, message, severity: "error" });
   };
 
   const handleConfirmDelete = async () => {
     setIsDeleting(true);
     setError(null);
-    
+
     try {
       // Change deleteStep to 'verify' at the beginning
-      setDeleteStep('verify');
-      
+      setDeleteStep("verify");
+
       const wpApiUrl = process.env.REACT_APP_WP_API_URL_CUSTOM;
       const wpUsername = process.env.REACT_APP_WP_USERNAME;
       const wpAppPassword = process.env.REACT_APP_WP_APP_PASSWORD;
       const deleteSecret = process.env.REACT_APP_WP_DELETE_SECRET;
-      
+
       // Debug log
-      console.log('Config check:', {
+      console.log("Config check:", {
         wpApiUrl,
         wpUsername,
         hasAppPassword: !!wpAppPassword,
-        hasDeleteSecret: !!deleteSecret
+        hasDeleteSecret: !!deleteSecret,
       });
-      
+
       if (!wpApiUrl || !wpUsername || !wpAppPassword || !deleteSecret) {
-        throw new Error(`WordPress configuration missing: ${JSON.stringify({
-          hasApiUrl: !!wpApiUrl,
-          hasUsername: !!wpUsername,
-          hasAppPassword: !!wpAppPassword,
-          hasDeleteSecret: !!deleteSecret
-        })}`);
+        throw new Error(
+          `WordPress configuration missing: ${JSON.stringify({
+            hasApiUrl: !!wpApiUrl,
+            hasUsername: !!wpUsername,
+            hasAppPassword: !!wpAppPassword,
+            hasDeleteSecret: !!deleteSecret,
+          })}`
+        );
       }
 
       // Export user data for GDPR compliance (mock step)
-      setDeleteStep('export');
+      setDeleteStep("export");
       // Simulate data export time
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      await new Promise((resolve) => setTimeout(resolve, 1000));
 
       // Set to deleting before actual delete happens
-      setDeleteStep('deleting');
+      setDeleteStep("deleting");
 
       // Delete WordPress account using the standard WordPress REST API to delete a user by ID
       // alert(userId)
       let response;
-      if(userId) 
-      response = await fetch(`https://revelationary.org/wp-json/wp/v2/users/${userId}?force=true&reassign=0`, {
-        method: 'DELETE',
-        credentials: 'omit', // Omit credentials to avoid CORS issues
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Basic ${btoa(`${wpUsername}:${wpAppPassword}`)}`,
-          'Accept': 'application/json'
-        }
-      });
+      if (userId)
+        response = await fetch(
+          `https://revelationary.org/wp-json/wp/v2/users/${userId}?force=true&reassign=0`,
+          {
+            method: "DELETE",
+            credentials: "omit", // Omit credentials to avoid CORS issues
+            headers: {
+              "Content-Type": "application/json",
+              Authorization: `Basic ${btoa(`${wpUsername}:${wpAppPassword}`)}`,
+              Accept: "application/json",
+            },
+          }
+        );
 
       // Parse the response
       let responseData;
       try {
         responseData = await response?.json();
       } catch (err) {
-        console.error('Error parsing response:', err);
-        responseData = { message: 'Failed to parse server response' };
+        console.error("Error parsing response:", err);
+        responseData = { message: "Failed to parse server response" };
       }
-      
-      console.log('Server response:', responseData);
-      
+
+      console.log("Server response:", responseData);
+
       // Handle errors from WordPress deletion
       if (!response?.ok) {
         if (responseData && responseData.code) {
           // Custom error handling based on server response codes
-          switch(responseData.code) {
-            case 'invalid_delete_secret':
-              throw new Error('Authentication error: Invalid deletion secret');
-            case 'not_logged_in':
-              throw new Error('Authentication error: You must be logged in to delete your account');
-            case 'no_delete_permission':
-              throw new Error('Permission error: You do not have permission to delete your account');
-            case 'not_subscriber':
-              throw new Error('Role error: Only subscribers can delete their accounts');
-            case 'deletion_failed':
-              throw new Error('Server error: Failed to delete your account');
+          switch (responseData.code) {
+            case "invalid_delete_secret":
+              throw new Error("Authentication error: Invalid deletion secret");
+            case "not_logged_in":
+              throw new Error(
+                "Authentication error: You must be logged in to delete your account"
+              );
+            case "no_delete_permission":
+              throw new Error(
+                "Permission error: You do not have permission to delete your account"
+              );
+            case "not_subscriber":
+              throw new Error(
+                "Role error: Only subscribers can delete their accounts"
+              );
+            case "deletion_failed":
+              throw new Error("Server error: Failed to delete your account");
             default:
-              throw new Error(responseData.message || `Error: ${response?.status}`);
+              throw new Error(
+                responseData.message || `Error: ${response?.status}`
+              );
           }
         }
-        
+
         throw new Error(`Request failed with status ${response?.status}`);
       }
 
-      console.log('WordPress user deletion successful:', responseData);
+      console.log("WordPress user deletion successful:", responseData);
 
       // Step 2: Delete Firebase account if WordPress deletion succeeded
       try {
         await deleteUser(user);
-        console.log('Firebase user deleted successfully');
+        console.log("Firebase user deleted successfully");
       } catch (firebaseError: any) {
-        console.log('Firebase deletion error:', firebaseError);
-        
-        if (firebaseError.code === 'auth/requires-recent-login') {
-          console.log('Requiring reauthentication...');
+        console.log("Firebase deletion error:", firebaseError);
+
+        if (firebaseError.code === "auth/requires-recent-login") {
+          console.log("Requiring reauthentication...");
           try {
             const provider = new GoogleAuthProvider();
             await reauthenticateWithPopup(user, provider);
             await deleteUser(user);
-            console.log('Firebase user deleted after reauthentication');
+            console.log("Firebase user deleted after reauthentication");
           } catch (reAuthError: any) {
-            console.error('Reauthentication failed:', reAuthError);
-            throw new Error('Failed to authenticate for account deletion. Please sign out and try again.');
+            console.error("Reauthentication failed:", reAuthError);
+            throw new Error(
+              "Failed to authenticate for account deletion. Please sign out and try again."
+            );
           }
         } else {
-          console.error('Unknown Firebase error:', firebaseError);
+          console.error("Unknown Firebase error:", firebaseError);
           throw firebaseError;
         }
       }
@@ -191,16 +219,16 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
       }
 
       setUser(null);
-      navigate('/');
+      navigate("/");
       setSnackbar({
         open: true,
-        message: 'Your account has been successfully deleted.',
-        severity: 'success'
+        message: "Your account has been successfully deleted.",
+        severity: "success",
       });
     } catch (error: any) {
-      console.error('Delete error:', error);
-      showError(error.message || 'Failed to delete account');
-      setDeleteStep('initial');
+      console.error("Delete error:", error);
+      showError(error.message || "Failed to delete account");
+      setDeleteStep("initial");
     } finally {
       setIsDeleting(false);
       setOpenDialog(false); // Close dialog after completion or error
@@ -227,29 +255,32 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
   const checkUserPermissions = async () => {
     setIsDebugLoading(true);
     setError(null);
-    
+
     try {
       const wpApiUrl = process.env.REACT_APP_WP_API_URL_CUSTOM;
       const wpUsername = process.env.REACT_APP_WP_USERNAME;
       const wpAppPassword = process.env.REACT_APP_WP_APP_PASSWORD;
-      
+
       if (!wpApiUrl || !wpUsername || !wpAppPassword) {
-        throw new Error('Missing WordPress configuration');
+        throw new Error("Missing WordPress configuration");
       }
-      
-      console.log('Fetching user debug info from:', `${wpApiUrl}/user-debug?user_id=${userId}`);
-      console.log('User ID:', `${JSON.stringify(userId)}`);
-      console.log('User Info:', `${JSON.stringify(user)}`);
-      
+
+      console.log(
+        "Fetching user debug info from:",
+        `${wpApiUrl}/user-debug?user_id=${userId}`
+      );
+      console.log("User ID:", `${JSON.stringify(userId)}`);
+      console.log("User Info:", `${JSON.stringify(user)}`);
+
       const response = await fetch(`${wpApiUrl}/user-debug?user_id=${userId}`, {
-        method: 'GET',
-        credentials: 'omit',
+        method: "GET",
+        credentials: "omit",
         headers: {
-          'Authorization': `Basic ${btoa(`${wpUsername}:${wpAppPassword}`)}`,
-          'Accept': 'application/json'
-        }
+          Authorization: `Basic ${btoa(`${wpUsername}:${wpAppPassword}`)}`,
+          Accept: "application/json",
+        },
       });
-      
+
       if (!response.ok) {
         let errorMessage = `Error: HTTP ${response.status}`;
         try {
@@ -260,24 +291,23 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
         }
         throw new Error(`API Error: ${errorMessage}`);
       }
-      
+
       const data = await response.json();
       setUserDebugInfo(data);
-      console.log('User debug info:', data);
-      
+      console.log("User debug info:", data);
+
       // Show a snackbar with permission status
       setSnackbar({
         open: true,
-        message: data.has_delete_self 
-          ? 'You have permission to delete your account' 
-          : 'You do not have permission to delete your account',
-        severity: data.has_delete_self ? 'info' : 'error'
+        message: data.has_delete_self
+          ? "You have permission to delete your account"
+          : "You do not have permission to delete your account",
+        severity: data.has_delete_self ? "info" : "error",
       });
-      
     } catch (error: any) {
-      console.error('Error fetching user debug info:', error);
-      setUserDebugInfo({ error: error.message || 'Failed to fetch user data' });
-      showError(error.message || 'Failed to fetch user permissions');
+      console.error("Error fetching user debug info:", error);
+      setUserDebugInfo({ error: error.message || "Failed to fetch user data" });
+      showError(error.message || "Failed to fetch user permissions");
     } finally {
       setIsDebugLoading(false);
     }
@@ -291,7 +321,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
   }, [setUser]);
 
   useEffect(() => {
-    // Check permissions when component mounts    
+    // Check permissions when component mounts
     checkUserPermissions();
   }, []);
 
@@ -303,6 +333,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
         <Box
           component="main"
           sx={{
+            mt: 5,
             backgroundColor: (theme) =>
               theme.palette.mode === "light"
                 ? theme.palette.grey[300]
@@ -341,24 +372,23 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         }}
                       >
                         <ListItem alignItems="flex-start">
-                          {(
+                          {
                             <img
                               style={{
                                 width: 48,
                                 height: 48,
                                 borderRadius: 5,
-                                marginBottom: 5,
+                                marginBottom: 10,
                               }}
                               alt={user?.displayName || "User"}
                               src={`${user?.photoURL}`}
                             />
-                          ) 
-                          // : 
-                          // (
-                          //   <Avatar>
-                          //     <PersonIcon />
-                          //   </Avatar>
-                          // )
+                            // :
+                            // (
+                            //   <Avatar>
+                            //     <PersonIcon />
+                            //   </Avatar>
+                            // )
                           }
                           <div style={{ borderRadius: 0 }}>
                             <Typography
@@ -405,7 +435,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                       >
                         SUBSCRIPTIONS
                       </Typography> */}
-                      <List
+                      {/* <List
                         sx={{
                           marginTop: "1rem",
                           width: "100%",
@@ -420,7 +450,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         }
                       >
                         <ListItem>
-                          <ListItemIcon>{/* <CommentIcon /> */}</ListItemIcon>
+                          <ListItemIcon></ListItemIcon>
                           <ListItemText
                             id="switch-list-label-comments"
                             primary="Auto Renew"
@@ -436,7 +466,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                           />
                         </ListItem>
                         <ListItem>
-                          <ListItemIcon>{/* <SearchIcon /> */}</ListItemIcon>
+                          <ListItemIcon></ListItemIcon>
                           <ListItemText
                             id="switch-list-label-search"
                             primary="Pause Membership"
@@ -453,7 +483,6 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         </ListItem>
                         <ListItem>
                           <ListItemIcon>
-                            {/* <HelpCenterIcon /> */}
                           </ListItemIcon>
                           <ListItemText
                             id="switch-list-label-guide"
@@ -471,7 +500,6 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                         </ListItem>
                         <ListItem>
                           <ListItemIcon>
-                            {/* <InsertLinkIcon /> */}
                           </ListItemIcon>
                           <ListItemText
                             id="switch-list-label-links"
@@ -487,7 +515,7 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                             }}
                           />
                         </ListItem>
-                      </List>
+                      </List> */}
                     </Grid>
                   </Grid>
                 </Paper>
@@ -497,15 +525,15 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
               <Grid item xs={12} md={12}>
                 <Paper
                   onClick={handleDelete}
-                  sx={{ 
-                    p: 2, 
-                    display: "flex", 
-                    flexDirection: "column", 
+                  sx={{
+                    p: 2,
+                    display: "flex",
+                    flexDirection: "column",
                     backgroundColor: "#BB0000",
                     cursor: "pointer",
-                    '&:hover': {
-                      backgroundColor: "#990000"
-                    }
+                    "&:hover": {
+                      backgroundColor: "#990000",
+                    },
                   }}
                   elevation={4}
                 >
@@ -513,90 +541,136 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                 </Paper>
               </Grid>
               {deleteDebug === "true" && (
-              <Grid item xs={12}>
-                <Box sx={{ 
-                  p: 2, 
-                  display: 'flex', 
-                  flexDirection: 'column',
-                  backgroundColor: '#f5f5f5',
-                  borderRadius: 1,
-                  mb: 2
-                }}>
-                  <Typography variant="h6" sx={{ mb: 2 }}>User Permission Debug</Typography>
-                  {isDebugLoading ? (
-                    <Box sx={{ display: 'flex', alignItems: 'center' }}>
-                      <CircularProgress size={20} sx={{ mr: 2 }} />
-                      <Typography>Loading user information...</Typography>
-                    </Box>
-                  ) : userDebugInfo?.error ? (
-                    <Alert severity="error" sx={{ mb: 2 }}>
-                      {userDebugInfo.error}
-                    </Alert>
-                  ) : userDebugInfo ? (
-                    <Box>
-                      <Grid container spacing={2}>
-                        <Grid item xs={12} sm={6}>
-                          <Paper sx={{ p: 2 }}>
-                            <Typography variant="subtitle1" sx={{ fontWeight: 'bold', mb: 1 }}>User Information</Typography>
-                            <Typography><strong>User ID:</strong> {userDebugInfo.ID}</Typography>
-                            <Typography><strong>Username:</strong> {userDebugInfo.user_login}</Typography>
-                            <Typography><strong>Display Name:</strong> {userDebugInfo.display_name}</Typography>
-                            <Typography><strong>Roles:</strong> {userDebugInfo.roles?.join(', ') || 'None'}</Typography>
-                            <Typography sx={{ mt: 1 }}>
-                              <strong>Can Delete Self:</strong>{' '}
-                              {userDebugInfo.has_delete_self ? (
-                                <Chip size="small" label="Yes" color="success" />
-                              ) : (
-                                <Chip size="small" label="No" color="error" />
-                              )}
-                            </Typography>
-                          </Paper>
-                        </Grid>
-                        <Grid item xs={12} sm={6}>
-                          <Paper sx={{ p: 2, height: '100%' }}>
-                            <Typography variant="subtitle1" sx={{ fontWeight: 'bold', mb: 1 }}>Capabilities</Typography>
-                            {userDebugInfo.capabilities && typeof userDebugInfo.capabilities === 'object' ? (
-                              <Box sx={{ maxHeight: '200px', overflow: 'auto' }}>
-                                <List dense>
-                                  {Object.keys(userDebugInfo.capabilities)
-                                    .filter(cap => userDebugInfo.capabilities[cap] === true)
-                                    .map(cap => (
-                                      <ListItem key={cap} disablePadding>
-                                        <ListItemIcon sx={{ minWidth: '35px' }}>
-                                          <CheckCircleOutline fontSize="small" color="success" />
-                                        </ListItemIcon>
-                                        <ListItemText primary={cap} />
-                                      </ListItem>
-                                    ))}
-                                </List>
-                              </Box>
-                            ) : (
-                              <Typography>No capabilities found</Typography>
-                            )}
-                          </Paper>
-                        </Grid>
-                      </Grid>
-                      
-                      <Box sx={{ mt: 2, display: 'flex', justifyContent: 'flex-end' }}>
-                        <Button 
-                          variant="outlined"
-                          size="small"
-                          color="primary"
-                          onClick={checkUserPermissions}
-                          startIcon={<RefreshIcon />}
-                        >
-                          Refresh Debug Info
-                        </Button>
+                <Grid item xs={12}>
+                  <Box
+                    sx={{
+                      p: 2,
+                      display: "flex",
+                      flexDirection: "column",
+                      backgroundColor: "#f5f5f5",
+                      borderRadius: 1,
+                      mb: 2,
+                    }}
+                  >
+                    <Typography variant="h6" sx={{ mb: 2 }}>
+                      User Permission Debug
+                    </Typography>
+                    {isDebugLoading ? (
+                      <Box sx={{ display: "flex", alignItems: "center" }}>
+                        <CircularProgress size={20} sx={{ mr: 2 }} />
+                        <Typography>Loading user information...</Typography>
                       </Box>
-                    </Box>
-                  ) : (
-                    <Typography>No user information available</Typography>
-                  )}
-                </Box>
-              </Grid>
+                    ) : userDebugInfo?.error ? (
+                      <Alert severity="error" sx={{ mb: 2 }}>
+                        {userDebugInfo.error}
+                      </Alert>
+                    ) : userDebugInfo ? (
+                      <Box>
+                        <Grid container spacing={2}>
+                          <Grid item xs={12} sm={6}>
+                            <Paper sx={{ p: 2 }}>
+                              <Typography
+                                variant="subtitle1"
+                                sx={{ fontWeight: "bold", mb: 1 }}
+                              >
+                                User Information
+                              </Typography>
+                              <Typography>
+                                <strong>User ID:</strong> {userDebugInfo.ID}
+                              </Typography>
+                              <Typography>
+                                <strong>Username:</strong>{" "}
+                                {userDebugInfo.user_login}
+                              </Typography>
+                              <Typography>
+                                <strong>Display Name:</strong>{" "}
+                                {userDebugInfo.display_name}
+                              </Typography>
+                              <Typography>
+                                <strong>Roles:</strong>{" "}
+                                {userDebugInfo.roles?.join(", ") || "None"}
+                              </Typography>
+                              <Typography sx={{ mt: 1 }}>
+                                <strong>Can Delete Self:</strong>{" "}
+                                {userDebugInfo.has_delete_self ? (
+                                  <Chip
+                                    size="small"
+                                    label="Yes"
+                                    color="success"
+                                  />
+                                ) : (
+                                  <Chip size="small" label="No" color="error" />
+                                )}
+                              </Typography>
+                            </Paper>
+                          </Grid>
+                          <Grid item xs={12} sm={6}>
+                            <Paper sx={{ p: 2, height: "100%" }}>
+                              <Typography
+                                variant="subtitle1"
+                                sx={{ fontWeight: "bold", mb: 1 }}
+                              >
+                                Capabilities
+                              </Typography>
+                              {userDebugInfo.capabilities &&
+                              typeof userDebugInfo.capabilities === "object" ? (
+                                <Box
+                                  sx={{ maxHeight: "200px", overflow: "auto" }}
+                                >
+                                  <List dense>
+                                    {Object.keys(userDebugInfo.capabilities)
+                                      .filter(
+                                        (cap) =>
+                                          userDebugInfo.capabilities[cap] ===
+                                          true
+                                      )
+                                      .map((cap) => (
+                                        <ListItem key={cap} disablePadding>
+                                          <ListItemIcon
+                                            sx={{ minWidth: "35px" }}
+                                          >
+                                            <CheckCircleOutline
+                                              fontSize="small"
+                                              color="success"
+                                            />
+                                          </ListItemIcon>
+                                          <ListItemText primary={cap} />
+                                        </ListItem>
+                                      ))}
+                                  </List>
+                                </Box>
+                              ) : (
+                                <Typography>No capabilities found</Typography>
+                              )}
+                            </Paper>
+                          </Grid>
+                        </Grid>
+
+                        <Box
+                          sx={{
+                            mt: 2,
+                            display: "flex",
+                            justifyContent: "flex-end",
+                          }}
+                        >
+                          <Button
+                            variant="outlined"
+                            size="small"
+                            color="primary"
+                            onClick={checkUserPermissions}
+                            startIcon={<RefreshIcon />}
+                          >
+                            Refresh Debug Info
+                          </Button>
+                        </Box>
+                      </Box>
+                    ) : (
+                      <Typography>No user information available</Typography>
+                    )}
+                  </Box>
+                </Grid>
               )}
             </Grid>
-            <Copyright sx={{ pt: 4 }} />
           </Container>
         </Box>
       </Box>
@@ -605,40 +679,44 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
         open={openDialog}
         onClose={() => !isDeleting && setOpenDialog(false)}
       >
-        <DialogTitle sx={{ color: '#BB0000' }}>Delete Account</DialogTitle>
+        <DialogTitle sx={{ color: "#BB0000" }}>Delete Account</DialogTitle>
         <DialogContent>
-          <Box sx={{ width: '100%', mb: 2 }}>
-            <LinearProgress 
-              variant="determinate" 
+          <Box sx={{ width: "100%", mb: 2 }}>
+            <LinearProgress
+              variant="determinate"
               value={
-                deleteStep === 'initial' ? 0 :
-                deleteStep === 'verify' ? 25 :
-                deleteStep === 'export' ? 50 :
-                deleteStep === 'deleting' ? 75 : 100
-              } 
+                deleteStep === "initial"
+                  ? 0
+                  : deleteStep === "verify"
+                  ? 25
+                  : deleteStep === "export"
+                  ? 50
+                  : deleteStep === "deleting"
+                  ? 75
+                  : 100
+              }
             />
           </Box>
-          {deleteStep === 'initial' && (
+          {deleteStep === "initial" && (
             <>
               <DialogContentText>
-                Are you sure you want to delete your account? This action cannot be undone.
+                Are you sure you want to delete your account? This action cannot
+                be undone.
               </DialogContentText>
             </>
           )}
-          {deleteStep === 'verify' && (
+          {deleteStep === "verify" && (
             <DialogContentText>
               Verifying WordPress credentials...
             </DialogContentText>
           )}
-          {deleteStep === 'export' && (
+          {deleteStep === "export" && (
             <DialogContentText>
               Exporting your data for GDPR compliance...
             </DialogContentText>
           )}
-          {deleteStep === 'deleting' && (
-            <DialogContentText>
-              Deleting your account...
-            </DialogContentText>
+          {deleteStep === "deleting" && (
+            <DialogContentText>Deleting your account...</DialogContentText>
           )}
           {error && (
             <Alert severity="error" sx={{ mt: 2 }}>
@@ -647,31 +725,31 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
           )}
         </DialogContent>
         <DialogActions>
-          <Button 
-            onClick={() => setOpenDialog(false)} 
-            disabled={isDeleting}
-          >
+          <Button onClick={() => setOpenDialog(false)} disabled={isDeleting}>
             Cancel
           </Button>
-          <Button 
-            onClick={handleConfirmDelete} 
-            color="error" 
+          <Button
+            onClick={handleConfirmDelete}
+            color="error"
             variant="contained"
             autoFocus
             disabled={isDeleting}
             sx={{
-              backgroundColor: '#BB0000',
-              '&:hover': {
-                backgroundColor: '#990000'
-              }
+              backgroundColor: "#BB0000",
+              "&:hover": {
+                backgroundColor: "#990000",
+              },
             }}
           >
             {isDeleting ? (
               <CircularProgress size={24} color="inherit" />
+            ) : deleteStep === "initial" ? (
+              "Delete Account"
+            ) : deleteStep === "verify" ? (
+              "Verify & Continue"
+            ) : deleteStep === "export" ? (
+              "Exporting..."
             ) : (
-              deleteStep === 'initial' ? "Delete Account" :
-              deleteStep === 'verify' ? "Verify & Continue" :
-              deleteStep === 'export' ? "Exporting..." :
               "Deleting..."
             )}
           </Button>
@@ -687,10 +765,19 @@ function AccountContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
           {snackbar.message}
         </Alert>
       </Snackbar> */}
+      <Footer />
     </ThemeProvider>
   );
 }
 
-export default function Account({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+export default function Account({
+  loggedIn,
+  user,
+  setUser,
+}: {
+  loggedIn: boolean;
+  user: any;
+  setUser: any;
+}) {
   return <AccountContent loggedIn={loggedIn} user={user} setUser={setUser} />;
 }

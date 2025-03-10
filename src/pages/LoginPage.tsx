@@ -24,6 +24,7 @@ import FormControlLabel from "@mui/material/FormControlLabel";
 import Link from "@mui/material/Link";
 
 import logo from "../assets/logo512.png";
+import Footer from "../components/Footer/Footer";
 
 interface LoginPageProps {
   user: User | null;
@@ -48,7 +49,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
     try {
       const result = await signInWithPopup(auth, provider);
 
-      if(!result.user) {
+      if (!result.user) {
         setError("Please login to continue");
         return;
       }
@@ -82,34 +83,44 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
       // Step 2: If user doesn't exist, create a new WordPress user
       console.log("Creating new WordPress user...");
-      
+
       // Generate a secure random password
-      const randomPassword = Math.random().toString(36).slice(-10) + 
-                            Math.random().toString(36).toUpperCase().slice(-2) + 
-                            Math.random().toString(36).slice(-2) + 
-                            '!';
-      
-      const createUserResponse = await fetch(`${process.env.REACT_APP_WP_API_URL}/users`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': authHeader
-        },
-        body: JSON.stringify({
-          username: user?.email?.split('@')[0] + '_' + Math.random().toString(36).substring(2, 6),
-          email: user.email ?? '',
-          password: randomPassword,
-          name: user.displayName || user?.email?.split('@')[0],
-          roles: ['subscriber']
-        })
-      });
-      
+      const randomPassword =
+        Math.random().toString(36).slice(-10) +
+        Math.random().toString(36).toUpperCase().slice(-2) +
+        Math.random().toString(36).slice(-2) +
+        "!";
+
+      const createUserResponse = await fetch(
+        `${process.env.REACT_APP_WP_API_URL}/users`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: authHeader,
+          },
+          body: JSON.stringify({
+            username:
+              user?.email?.split("@")[0] +
+              "_" +
+              Math.random().toString(36).substring(2, 6),
+            email: user.email ?? "",
+            password: randomPassword,
+            name: user.displayName || user?.email?.split("@")[0],
+            roles: ["subscriber"],
+          }),
+        }
+      );
+
       if (createUserResponse.ok) {
         const newUser = await createUserResponse.json();
         console.log("WordPress user created successfully:", newUser);
         Cookies.set("userId", newUser.id);
       } else {
-        console.error("Failed to create WordPress user:", await createUserResponse.text());
+        console.error(
+          "Failed to create WordPress user:",
+          await createUserResponse.text()
+        );
       }
 
       navigate("/");
@@ -163,13 +174,13 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       }
 
       // Store the JWT token in cookies
-      Cookies.set("wpToken", tokenData.token, { 
-        expires: 7, 
-        path: '/',
+      Cookies.set("wpToken", tokenData.token, {
+        expires: 7,
+        path: "/",
         secure: true,
-        sameSite: 'strict'
+        sameSite: "strict",
       });
-      
+
       // Now create the WordPress user with JWT auth
       const createUserResponse = await fetch(`${WP_API_URL}/wp/v2/users`, {
         method: "POST",
@@ -323,7 +334,13 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   >
                     <CheckCircleIcon
                       fontSize="small"
-                      color={!agreedToTerms ? "disabled" as const : (isOptedOut ? "disabled" as const : "success" as const)}
+                      color={
+                        !agreedToTerms
+                          ? ("disabled" as const)
+                          : isOptedOut
+                          ? ("disabled" as const)
+                          : ("success" as const)
+                      }
                       sx={{ mr: 1 }}
                     />
                     Add comments on every verse
@@ -339,7 +356,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   >
                     <CheckCircleIcon
                       fontSize="small"
-                      color={agreedToTerms ? "success" as const : "disabled" as const}
+                      color={
+                        agreedToTerms
+                          ? ("success" as const)
+                          : ("disabled" as const)
+                      }
                       sx={{ mr: 1 }}
                     />
                     Read our blog
@@ -355,7 +376,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   >
                     <CheckCircleIcon
                       fontSize="small"
-                      color={agreedToTerms ? "success" as const : "disabled" as const}
+                      color={
+                        agreedToTerms
+                          ? ("success" as const)
+                          : ("disabled" as const)
+                      }
                       sx={{ mr: 1 }}
                     />
                     Highlight Verses
@@ -477,17 +502,17 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   }
                   label={
                     <Typography
-                    variant="body2"
-                    color="text.secondary"
-                    align="center"
-                    sx={{
-                      mt: 2,
-                      color: "#a1a1a1",
-                      "& .MuiFormControlLabel-label": {
-                        fontSize: "14px",
-                      },
-                    }}
-                  >
+                      variant="body2"
+                      color="text.secondary"
+                      align="center"
+                      sx={{
+                        mt: 2,
+                        color: "#a1a1a1",
+                        "& .MuiFormControlLabel-label": {
+                          fontSize: "14px",
+                        },
+                      }}
+                    >
                       I agree to the{" "}
                       <Link
                         href="/terms-of-service"
@@ -569,14 +594,22 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               {isSigningUp ? (
                 <>
                   Already have an account?{" "}
-                  <Button variant="text" sx={{ color: "#a1a1a1" , mt: -1}} onClick={() => setIsSigningUp(false)}>
+                  <Button
+                    variant="text"
+                    sx={{ color: "#a1a1a1", mt: -1 }}
+                    onClick={() => setIsSigningUp(false)}
+                  >
                     Sign In
                   </Button>
                 </>
               ) : (
                 <>
                   Don&apos;t have an account?{" "}
-                  <Button variant="text" sx={{ color: "#a1a1a1" , mt: -1}} onClick={() => setIsSigningUp(true)}>
+                  <Button
+                    variant="text"
+                    sx={{ color: "#a1a1a1", mt: -1 }}
+                    onClick={() => setIsSigningUp(true)}
+                  >
                     Sign Up
                   </Button>
                 </>
@@ -606,6 +639,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
           </Paper>
         </Container>
       </Box>
+      <Footer />
     </ThemeProvider>
   );
 };
