@@ -15,6 +15,7 @@ import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import { Divider } from "@mui/material";
 import GraphicTextEffect from "../components/GraphicTextEffect/GraphicTextEffect";
+import Footer from "../components/Footer/Footer";
 
 const sections = [
   { title: "Technology", url: "#" },
@@ -70,7 +71,8 @@ export const Blog: React.FC = () => {
       if (result) {
         // Sort posts by the most recent comments first
         const sortedPosts = result.sort(
-          (a: Post, b: Post) => new Date(b.date).getTime() - new Date(a.date).getTime()
+          (a: Post, b: Post) =>
+            new Date(b.date).getTime() - new Date(a.date).getTime()
         );
 
         // Get the top 9 most recent commented posts
@@ -101,7 +103,7 @@ export const Blog: React.FC = () => {
             sx={{
               flex: 1,
               display: "flex",
-              fontSize: '16px',
+              fontSize: "16px",
               mt: 2,
               mb: 2,
               ml: 1,
@@ -111,9 +113,7 @@ export const Blog: React.FC = () => {
           >
             {/* {posts.length > 0 && posts.filter((item) => item.ID !== 38)[0].title} */}
           </Typography>
-          <Box
-            sx={{ border: '1px solid #a1a1a1'}}
-          >
+          <Box sx={{ border: "1px solid #a1a1a1" }}>
             <GraphicTextEffect id="svg-jesus" text="JESUS" />
           </Box>
           <Typography
@@ -124,9 +124,9 @@ export const Blog: React.FC = () => {
             align="center"
             noWrap
             sx={{
-              width: '100%',
-              mt: {xs: -4, md:-10},
-              mb: {xs: 8, md: 14},
+              width: "100%",
+              mt: { xs: -4, md: -10 },
+              mb: { xs: 8, md: 14 },
               ml: 0,
               fontSize: "0.9rem",
               textDecoration: "none",
@@ -137,7 +137,11 @@ export const Blog: React.FC = () => {
           </Typography>
 
           <MainFeaturedPost
-            post={posts.length > 0 ? posts.filter((item) => item.ID !== 38)[0] : null}
+            post={
+              posts.length > 0
+                ? posts.filter((item) => item.ID !== 38)[0]
+                : null
+            }
           />
           <Typography
             component="h2"
@@ -170,7 +174,7 @@ export const Blog: React.FC = () => {
             {/* Right Side - 25% width */}
             <Grid item xs={12} md={3} justifyItems={"center"}>
               <Box sx={{ mt: 2, mx: 4 }}>
-                <Main title={ {rendered: "Further Reading" }} posts={posts} />
+                <Main title={{ rendered: "Further Reading" }} posts={posts} />
                 <SidePanel
                   title={sidebar.title}
                   description={sidebar.description}
@@ -183,6 +187,7 @@ export const Blog: React.FC = () => {
           <Box my={10} />
         </main>
       </Container>
+      <Footer />
     </ThemeProvider>
   );
 };

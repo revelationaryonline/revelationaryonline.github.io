@@ -27,6 +27,7 @@ import {
 import Circle from "@mui/icons-material/Circle";
 import { optimizeImage } from "../utils/imageUtils";
 import { UserAvatar } from "../components/UserAvatar/UserAvatar";
+import Footer from "../components/Footer/Footer";
 
 const BIBLE_VERSIONS = [
   { value: "KJV", label: "King James Version" },
@@ -35,7 +36,15 @@ const BIBLE_VERSIONS = [
   { value: "NASB", label: "New American Standard Bible" },
 ];
 
-function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+function ProfileContent({
+  loggedIn,
+  user,
+  setUser,
+}: {
+  loggedIn: boolean;
+  user: any;
+  setUser: any;
+}) {
   // const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(false);
   const [imageLoading, setImageLoading] = useState(true);
@@ -54,7 +63,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       if (currentUser) {
-        console.log(currentUser)
+        console.log(currentUser);
         setUser(currentUser);
         setDisplayName(currentUser?.displayName || "");
         setEmail(currentUser?.email || "");
@@ -86,7 +95,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
       if (wpUser.meta) {
         // setBibleVersion(wpUser.meta.preferred_bible_version || "KJV");
         // setBio(wpUser.description || "");
-        console.log(wpUser)
+        console.log(wpUser);
       }
     } catch (error) {
       console.error("Failed to load WordPress preferences:", error);
@@ -109,7 +118,7 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
         });
 
         await updateWordPressUserMeta(parseInt(userId), {
-          preferred_bible_version: "KJV"
+          preferred_bible_version: "KJV",
         });
       }
 
@@ -126,52 +135,59 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
   };
 
   return (
-    <Box>
-      <Box
-        sx={{
-          display: "flex",
-          minHeight: "100vh",
-          bgcolor: "background.default",
-          alignItems: "flex-start",
-        }}
-      >
-        <Container maxWidth="md" sx={{ mt: 14, mb: 4 }}>
-          <Paper
-            elevation={6}
-            sx={{
-              p: 4,
-              borderRadius: 2,
-              backgroundColor: "background.paper",
-              boxShadow: (theme) =>
-                theme.palette.mode === "dark"
-                  ? "0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12)"
-                  : "0px 3px 5px -1px rgba(0,0,0,0.1), 0px 6px 10px 0px rgba(0,0,0,0.04), 0px 1px 18px 0px rgba(0,0,0,0.02)",
-            }}
-          >
-            <Grid container spacing={4}>
-              {/* Profile Header */}
-              <Grid
-                item
-                xs={12}
-                sx={{ display: "flex", justifyContent: "center", mb: 3, flexDirection: "column", alignItems: "flex-start" }}
-              >
-                <Box sx={{ position: "relative" }}>
-                  <Box
-                    sx={{
-                      width: "100%",
-                      maxWidth: 400,
-                      maxHeight: 360,
-                      bgcolor: "background.transparent",
-                      marginTop: "0rem",
-                      float: "left",
-                      display: "flex"
-                    }}
-                  >
-                    <Box alignItems="flex-start">
-                      <Box sx={{ position: 'relative' }}>
-                        <UserAvatar user={user} size={96} />
+    <>
+      <Box>
+        <Box
+          sx={{
+            display: "flex",
+            minHeight: "100vh",
+            bgcolor: "#212121",
+            alignItems: "flex-start",
+          }}
+        >
+          <Container maxWidth="md" sx={{ mt: 14, mb: 4 }}>
+            <Paper
+              elevation={6}
+              sx={{
+                p: 4,
+                borderRadius: 2,
+                backgroundColor: "background.paper",
+                boxShadow: (theme) =>
+                  theme.palette.mode === "dark"
+                    ? "0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12)"
+                    : "0px 3px 5px -1px rgba(0,0,0,0.1), 0px 6px 10px 0px rgba(0,0,0,0.04), 0px 1px 18px 0px rgba(0,0,0,0.02)",
+              }}
+            >
+              <Grid container spacing={4}>
+                {/* Profile Header */}
+                <Grid
+                  item
+                  xs={12}
+                  sx={{
+                    display: "flex",
+                    justifyContent: "center",
+                    mb: 3,
+                    flexDirection: "column",
+                    alignItems: "flex-start",
+                  }}
+                >
+                  <Box sx={{ position: "relative" }}>
+                    <Box
+                      sx={{
+                        width: "100%",
+                        maxWidth: 400,
+                        maxHeight: 360,
+                        bgcolor: "background.transparent",
+                        marginTop: "0rem",
+                        float: "left",
+                        display: "flex",
+                      }}
+                    >
+                      <Box alignItems="flex-start">
+                        <Box sx={{ position: "relative" }}>
+                          <UserAvatar user={user} size={96} />
+                        </Box>
                       </Box>
-                    </Box>
                       <div style={{ borderRadius: 0 }}>
                         <Typography
                           sx={{
@@ -199,8 +215,8 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                           &nbsp;Active
                         </Typography>
                       </div>
-                  </Box>
-                  {/* <Button
+                    </Box>
+                    {/* <Button
                     component="label"
                     sx={{
                       position: "absolute",
@@ -262,95 +278,95 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                       }}
                     />
                   </Button> */}
-                </Box>
-              </Grid>
+                  </Box>
+                </Grid>
 
-              {/* Basic Info */}
-              <Grid item xs={12} md={6}>
-                <TextField
-                  disabled
-                  fullWidth
-                  value={user?.displayName}
-                  onChange={(e) => setDisplayName(e.target.value)}
-                  sx={{
-                    mb: 3,
-                    WebkitBoxShadow: "none !important",
-                    "& .Mui-focused": {
-                      color: (theme) =>
-                        theme.palette.mode === "light"
-                          ? "black !important"
-                          : "white !important",
-                      "& .MuiOutlinedInput-notchedOutline": {
-                        borderColor: (theme) =>
-                          theme.palette.mode === "light"
-                            ? "#ccc !important"
-                            : "#FFF !important",
+                {/* Basic Info */}
+                <Grid item xs={12} md={6}>
+                  <TextField
+                    disabled
+                    fullWidth
+                    value={user?.displayName}
+                    onChange={(e) => setDisplayName(e.target.value)}
+                    sx={{
+                      mb: 3,
+                      WebkitBoxShadow: "none !important",
+                      "& .Mui-focused": {
                         color: (theme) =>
                           theme.palette.mode === "light"
-                            ? "black"
+                            ? "black !important"
                             : "white !important",
+                        "& .MuiOutlinedInput-notchedOutline": {
+                          borderColor: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "#ccc !important"
+                              : "#FFF !important",
+                          color: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "black"
+                              : "white !important",
+                        },
+                        "& input:-webkit-autofill": {
+                          WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                          WebkitTextFillColor: (theme) =>
+                            theme.palette.mode === "light" ? "black" : "white",
+                          transition: "background-color 5000s ease-in-out 0s",
+                        },
                       },
-                      "& input:-webkit-autofill": {
+                      "& .MuiInputBase-input": {
+                        color: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                      },
+                      "& .MuiInputBase-input:-webkit-autofill": {
                         WebkitBoxShadow: "0 0 0 100px #212121AA inset",
                         WebkitTextFillColor: (theme) =>
                           theme.palette.mode === "light" ? "black" : "white",
                         transition: "background-color 5000s ease-in-out 0s",
                       },
-                    },
-                    "& .MuiInputBase-input": {
-                      color: (theme) =>
-                        theme.palette.mode === "light" ? "black" : "white",
-                    },
-                    "& .MuiInputBase-input:-webkit-autofill": {
-                      WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                      WebkitTextFillColor: (theme) =>
-                        theme.palette.mode === "light" ? "black" : "white",
-                      transition: "background-color 5000s ease-in-out 0s",
-                    },
-                  }}
-                />
-                <TextField
-                  fullWidth
-                  value={user?.email}
-                  disabled
-                  sx={{
-                    mb: 3,
-                    WebkitBoxShadow: "none !important",
-                    "& .Mui-focused": {
-                      color: (theme) =>
-                        theme.palette.mode === "light"
-                          ? "black !important"
-                          : "white !important",
-                      "& .MuiOutlinedInput-notchedOutline": {
-                        borderColor: (theme) =>
-                          theme.palette.mode === "light"
-                            ? "#ccc !important"
-                            : "#FFF !important",
+                    }}
+                  />
+                  <TextField
+                    fullWidth
+                    value={user?.email}
+                    disabled
+                    sx={{
+                      mb: 3,
+                      WebkitBoxShadow: "none !important",
+                      "& .Mui-focused": {
                         color: (theme) =>
                           theme.palette.mode === "light"
-                            ? "black"
+                            ? "black !important"
                             : "white !important",
+                        "& .MuiOutlinedInput-notchedOutline": {
+                          borderColor: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "#ccc !important"
+                              : "#FFF !important",
+                          color: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "black"
+                              : "white !important",
+                        },
+                        "& input:-webkit-autofill": {
+                          WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                          WebkitTextFillColor: (theme) =>
+                            theme.palette.mode === "light" ? "black" : "white",
+                          transition: "background-color 5000s ease-in-out 0s",
+                        },
                       },
-                      "& input:-webkit-autofill": {
+                      "& .MuiInputBase-input": {
+                        color: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                      },
+                      "& .MuiInputBase-input:-webkit-autofill": {
                         WebkitBoxShadow: "0 0 0 100px #212121AA inset",
                         WebkitTextFillColor: (theme) =>
                           theme.palette.mode === "light" ? "black" : "white",
                         transition: "background-color 5000s ease-in-out 0s",
                       },
-                    },
-                    "& .MuiInputBase-input": {
-                      color: (theme) =>
-                        theme.palette.mode === "light" ? "black" : "white",
-                    },
-                    "& .MuiInputBase-input:-webkit-autofill": {
-                      WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                      WebkitTextFillColor: (theme) =>
-                        theme.palette.mode === "light" ? "black" : "white",
-                      transition: "background-color 5000s ease-in-out 0s",
-                    },
-                  }}
-                />
-                {/* <TextField
+                    }}
+                  />
+                  {/* <TextField
                   fullWidth
                   label="Bio"
                   value={bio}
@@ -394,41 +410,46 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                     },
                   }}
                 /> */}
-              </Grid>
+                </Grid>
 
-              {/* Study Preferences */}
-              <Grid item xs={12} md={6}>
-                <Typography variant="h6" sx={{ mb: 2, color: "text.primary" }}>Study Preferences</Typography>
-                <Tooltip title="More versions soon !">
-                <FormControl fullWidth sx={{ mb: 3 }}>
-                  <InputLabel>Preferred Bible Version</InputLabel>
-                  <Select
-                    disabled
-                    value={"KJV"}
-                    label="Preferred Bible Version"
-                    // onChange={(e) => setBibleVersion(e.target.value)}
-                    sx={{
-                      "&:hover .MuiOutlinedInput-notchedOutline": {
-                        borderColor: "primary.main",
-                      },
-                      "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
-                        borderColor: "primary.main",
-                      }
-                    }}
+                {/* Study Preferences */}
+                <Grid item xs={12} md={6}>
+                  <Typography
+                    variant="h6"
+                    sx={{ mb: 2, color: "text.primary" }}
                   >
-                    {BIBLE_VERSIONS.map((version) => (
-                      <MenuItem key={version.value} value={version.value}>
-                        {version.label}
-                      </MenuItem>
-                    ))}
-                  </Select>
-                </FormControl>
-                </Tooltip>
-              </Grid>
+                    Study Preferences
+                  </Typography>
+                  <Tooltip title="More versions soon !">
+                    <FormControl fullWidth sx={{ mb: 3 }}>
+                      <InputLabel>Preferred Bible Version</InputLabel>
+                      <Select
+                        disabled
+                        value={"KJV"}
+                        label="Preferred Bible Version"
+                        // onChange={(e) => setBibleVersion(e.target.value)}
+                        sx={{
+                          "&:hover .MuiOutlinedInput-notchedOutline": {
+                            borderColor: "primary.main",
+                          },
+                          "&.Mui-focused .MuiOutlinedInput-notchedOutline": {
+                            borderColor: "primary.main",
+                          },
+                        }}
+                      >
+                        {BIBLE_VERSIONS.map((version) => (
+                          <MenuItem key={version.value} value={version.value}>
+                            {version.label}
+                          </MenuItem>
+                        ))}
+                      </Select>
+                    </FormControl>
+                  </Tooltip>
+                </Grid>
 
-              {/* Save Button */}
-              <Grid item xs={12} sx={{ textAlign: "center", mt: 2 }}>
-                {/* <Button
+                {/* Save Button */}
+                <Grid item xs={12} sx={{ textAlign: "center", mt: 2 }}>
+                  {/* <Button
                   variant="contained"
                   color="secondary"
                   size="large"
@@ -450,32 +471,42 @@ function ProfileContent({ loggedIn, user, setUser }: { loggedIn: boolean, user: 
                 >
                   {loading ? "Saving..." : "Save Changes"}
                 </Button> */}
+                </Grid>
               </Grid>
-            </Grid>
-          </Paper>
-        </Container>
-      </Box>
+            </Paper>
+          </Container>
+        </Box>
 
-      <Snackbar
-        open={!!message}
-        autoHideDuration={6000}
-        onClose={() => setMessage(null)}
-        anchorOrigin={{ vertical: "bottom", horizontal: "center" }}
-      >
-        <Alert
+        <Snackbar
+          open={!!message}
+          autoHideDuration={6000}
           onClose={() => setMessage(null)}
-          severity={message?.type || "info"}
-          sx={{ width: "100%" }}
-          elevation={6}
-          variant="filled"
+          anchorOrigin={{ vertical: "bottom", horizontal: "center" }}
         >
-          {message?.text}
-        </Alert>
-      </Snackbar>
-    </Box>
+          <Alert
+            onClose={() => setMessage(null)}
+            severity={message?.type || "info"}
+            sx={{ width: "100%" }}
+            elevation={6}
+            variant="filled"
+          >
+            {message?.text}
+          </Alert>
+        </Snackbar>
+      </Box>
+      <Footer />
+    </>
   );
 }
 
-export default function Profile({ loggedIn, user, setUser }: { loggedIn: boolean, user: any, setUser: any }) {
+export default function Profile({
+  loggedIn,
+  user,
+  setUser,
+}: {
+  loggedIn: boolean;
+  user: any;
+  setUser: any;
+}) {
   return <ProfileContent loggedIn={loggedIn} user={user} setUser={setUser} />;
 }
