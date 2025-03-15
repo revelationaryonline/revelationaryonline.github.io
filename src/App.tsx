@@ -119,7 +119,7 @@ export default function App() {
               <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
               <Route path="/blog" element={<Blog />} />
               <Route path="/profile" element={<Profile user={user} setUser={setUser} loggedIn={loggedIn} />} />
-              <Route path="/settings" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
+              <Route path="/account" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
               <Route path="/login" element={<LoginPage user={user}  />} />
             </Routes>
             <CookieConsent />

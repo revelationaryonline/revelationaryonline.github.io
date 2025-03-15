@@ -18,20 +18,25 @@ const Comment: React.FC<CommentProps> = ({ comment, user }) => {
 
   useEffect(() => {
     if (user) {
-      setCredentials(btoa(`${user.email}:${wpToken}`));
+      setCredentials(btoa(`${user?.email || ""}:${wpToken}`));
     }
   }, [user, wpToken]);
 
   const handleLike = async () => {
     const action = liked ? "unlike" : "like";
     try {
+      // Log auth details for debugging
+      console.log("Auth token type:", typeof wpToken);
+      console.log("Auth token length:", wpToken ? wpToken.length : 0);
+      console.log("User email:", user?.email);
+
       const response = await fetch(
         `${process.env.REACT_APP_WP_API_URL_CUSTOM}/like-comment/${comment?.id}`,
         {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
-            "Authorization": `Basic ${credentials}`, // Use Basic auth with credentials
+            "Authorization": `Basic ${btoa(`${user?.email || ""}:${wpToken}`)}`,
           },
           body: JSON.stringify({ action }),
         }

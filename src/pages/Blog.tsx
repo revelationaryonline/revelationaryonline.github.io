@@ -89,7 +89,7 @@ export const Blog: React.FC = () => {
   }, []);
 
   return (
-    <ThemeProvider theme={createTheme()}>
+    <>
       <CssBaseline />
       <Container maxWidth="lg">
         <Header title="Blog" sections={sections} />
@@ -186,8 +186,8 @@ export const Blog: React.FC = () => {
           </Grid>
           <Box my={10} />
         </main>
+        <Footer />
       </Container>
-      <Footer />
-    </ThemeProvider>
+    </>
   );
 };

@@ -109,7 +109,7 @@ function Header(props: HeaderProps) {
             <MenuItem component={RouterLink} to="/profile">
               <Person sx={{ mr: 1 }} /> Profile
             </MenuItem>
-            <MenuItem component={RouterLink} to="/settings">
+            <MenuItem component={RouterLink} to="/account">
               <Settings sx={{ mr: 1 }} /> Settings
             </MenuItem>
             <MenuItem onClick={() => setSignOutDialogOpen(true)}>
@@ -305,13 +305,15 @@ function Header(props: HeaderProps) {
                       </Typography>
                     </MenuItem> */}
                     <MenuItem
-                      sx={{ paddingY: 0 }}
+                      component={RouterLink}
+                      to="/blog"
+                      sx={{ paddingY: 0, color: "#A1A1A1" }}
                       onClick={handleCloseUserMenu}
                       dense
                     >
                       <Book fontSize="small" sx={{ color: "#888" }} />
-                      &nbsp;&nbsp;&nbsp;
-                      <Link to="/blog">Blog</Link>
+                      &nbsp;&nbsp;
+                      Blog
                     </MenuItem>
                     {/* <MenuItem
                       sx={{ paddingY: 1 }}
@@ -326,16 +328,20 @@ function Header(props: HeaderProps) {
                       <Link to="/settings">Pause Notifications</Link>
                     </MenuItem> */}
                     <MenuItem
-                      sx={{ paddingY: 0 }}
+                      component={RouterLink}
+                      to="/profile"
+                      sx={{ paddingY: 0, color: '#A1A1A1' }}
                       onClick={handleCloseUserMenu}
                       dense
                     >
                       <PersonOutline fontSize="small" sx={{ color: "#888" }} />
-                      &nbsp;&nbsp;&nbsp;
-                      <Link to="/profile">Profile</Link>
+                      &nbsp;&nbsp;
+                      Profile
                     </MenuItem>
                     <MenuItem
-                      sx={{ paddingY: 1 }}
+                      component={RouterLink}
+                      to="/account"
+                      sx={{ paddingY: 1, color: '#A1A1A1' }}
                       onClick={handleCloseUserMenu}
                       dense
                     >
@@ -343,8 +349,8 @@ function Header(props: HeaderProps) {
                         fontSize="small"
                         sx={{ color: "#888" }}
                       />
-                      &nbsp;&nbsp;&nbsp;
-                      <Link to="/settings">Account Settings</Link>
+                      &nbsp;&nbsp;
+                      Account Settings
                     </MenuItem>
                     {/* <MenuItem
                       sx={{ paddingY: 1 }}
@@ -359,7 +365,9 @@ function Header(props: HeaderProps) {
                       <Link to="/notifications">Notification Settings</Link>
                     </MenuItem> */}
                     <MenuItem
-                      sx={{ paddingY: 1 }}
+                      component={RouterLink}
+                      to="/"
+                      sx={{ paddingY: 1, color: '#A1A1A1' }}
                       onClick={handleCloseUserMenu}
                       dense
                     >
@@ -367,8 +375,8 @@ function Header(props: HeaderProps) {
                         fontSize="small"
                         sx={{ color: "#888" }}
                       />
-                      &nbsp;&nbsp;&nbsp;
-                      <Link to="/">KJV Bible</Link>
+                      &nbsp;&nbsp;
+                      KJV Bible
                     </MenuItem>
                     <Divider />
                     <MenuItem
