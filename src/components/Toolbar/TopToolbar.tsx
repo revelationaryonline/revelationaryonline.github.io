@@ -50,6 +50,7 @@ const TopToolbar = ({
             flexItem
             variant={"middle"}
           />
+          <Box sx={{ display: { xs: 'none', sm: 'block' } }} >
           <Tooltip title="Columns" fontSize={"small"}>
             <IconButton
               onClick={() => handleColumns(1)}
@@ -64,6 +65,7 @@ const TopToolbar = ({
               <VerticalSplitIcon />
             </IconButton>
           </Tooltip>
+          </Box>
           <Tooltip
             title="Larger Text"
             fontSize={"small"}

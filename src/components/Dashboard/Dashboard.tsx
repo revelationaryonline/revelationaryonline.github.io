@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useMemo, ChangeEvent } from "react";
+import useMediaQuery from "@mui/material/useMediaQuery";
 import Cookies from "js-cookie";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
@@ -77,6 +78,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
 
   const [verse, setVerse] = useState<Verse[]>([]);
   const [result, setResult] = useState<Verse[]>([]);
+  const isMobile = useMediaQuery('(max-width:600px)');
   const [columns, setColumns] = useState(result.length <= 1 ? 2 : 2);
   // eslint-disable-next-line
   const [data, setData] = useState<any[]>([]);
@@ -548,7 +550,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                     fontWeight: 200,
                     fontSize: `${textSize}px`,
                     display: "inline-block",
-                    columns: verse && verse.length === 1 ? 1 : columns,
+                    columns: (verse && verse.length === 1) || isMobile ? 1 : columns,
                   }}
                 >
                   {verse && verse.length === 0 && result && (
