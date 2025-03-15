@@ -10,6 +10,7 @@ import InputAdornment from "@mui/material/InputAdornment";
 import SearchIcon from "@mui/icons-material/Search";
 import FavoriteIcon from "@mui/icons-material/Favorite";
 import CommentIcon from "@mui/icons-material/Comment";
+import BorderColorIcon from "@mui/icons-material/BorderColor";
 import Pagination from "@mui/material/Pagination";
 import CircularProgress from "@mui/material/CircularProgress";
 import Backdrop from "@mui/material/Backdrop";
@@ -641,6 +642,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                           >
                             <span style={{ position: "relative" }}>
                               {v.text === selectedVerse[0]?.text && (
+                                <>
                                 <Tooltip
                                   title={
                                     loggedIn
@@ -678,6 +680,43 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                                     )}
                                   </IconButton>
                                 </Tooltip>
+                                <Tooltip
+                                  title={
+                                    loggedIn
+                                      ? "Highlight Verse"
+                                      : "Sign In To Highlight"
+                                  }
+                                  >
+                                  <IconButton
+                                    onClick={() => handleHighlight()}
+                                    disabled={!loggedIn}
+                                    sx={{
+                                      padding: 1,
+                                      opacity: 1,
+                                      mt: -10,
+                                      ml: 2,
+                                      position: "relative",
+                                      background: (theme) =>
+                                        theme.palette.mode === "light"
+                                          ? "#A1a1a1aa"
+                                          : "#a1a1a1",
+                                      "&.MuiIconButton-root:hover": {
+                                        background: (theme) =>
+                                          theme.palette.mode === "light"
+                                            ? "#A1a1a1"
+                                            : "#212121",
+                                        opacity: 1,
+                                      },
+                                    }}
+                                  >
+                                    {loggedIn ? (
+                                      <BorderColorIcon fontSize="small" />
+                                    ) : (
+                                      <BorderColorIcon fontSize="small" />
+                                    )}
+                                  </IconButton>
+                                </Tooltip>
+                                </>
                               )}
                               {/* {v.text === selectedVerse[0]?.text && (
                                 <Tooltip
