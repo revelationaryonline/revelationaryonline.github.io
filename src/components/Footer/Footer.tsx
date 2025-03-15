@@ -74,7 +74,7 @@ const Footer = () => {
             </Link>
           </Grid>
           <Box width={'100%'}>
-          <Typography variant="body2" sx={{ ml: 1.5, mt: 1, position: 'absolute', color: "grey.600", textAlign: 'left' }}>
+          <Typography variant="body2" sx={{ ml: 1.5, mt: 1, position: 'absolute', color: "grey.600", textAlign: 'left', display: { xs: 'none', sm: 'block' } }}>
             info@revelationary.org
           </Typography>
           </Box>

@@ -189,7 +189,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Basic ${btoa(`${user?.email || ""}:${wpToken}`)}`,
+          "Authorization": `Basic ${btoa(`${user?.email || ""}:${wpToken}`)}`,
         },
         body: JSON.stringify({
           content: cleanComment,
@@ -357,8 +357,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       >
         <Box
           sx={{
-            minWidth: 400,
-            maxWidth: 400,
+            minWidth: {xs: '50vw', sm: 400},
+            maxWidth: {xs: '100vw', sm: 600},
             padding: 2,
             cursor: dragging ? "grabbing" : "grab",
             userSelect: "none",
@@ -441,7 +441,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
             {/* Scrollable comments section */}
             <Box
               sx={{
-                maxHeight: 200,
+                maxHeight: 300,
                 overflowY: "auto",
                 overflowX: "scroll",
                 padding: 1,
@@ -523,6 +523,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                       whiteSpace: "pre-wrap",
                       overflowWrap: "break-word",
                       overflow: "scroll",
+                      fontSize: {xs: '12px', sm: '16px'},
                     }}
                   >
                     No more comments to load... Add yours ! or Why not head to our blog and see which verses are trending ? Just click the Menu in the Top Right corner of your screen
