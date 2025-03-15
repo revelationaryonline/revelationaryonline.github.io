@@ -420,7 +420,7 @@ function AccountContent({
                       </List>
                     </Grid>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      <Typography
+                      {/* <Typography
                         sx={{
                           display: "block",
                           textAlign: "center",
@@ -430,7 +430,7 @@ function AccountContent({
                         color="text.primary"
                       >
                         SUBSCRIPTIONS
-                      </Typography>
+                      </Typography> */}
                       <List
                         sx={{
                           marginTop: "1rem",
@@ -444,7 +444,7 @@ function AccountContent({
                         //   </ListSubheader>
                         // }
                       >
-                        <ListItem>
+                        {/* <ListItem>
                           <ListItemIcon>
                             <PublishedWithChangesIcon />
                           </ListItemIcon>
@@ -455,8 +455,6 @@ function AccountContent({
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("auto-renew")}
-                            // checked={checked.indexOf("auto-renew") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-auto-renew",
                             }}
@@ -473,8 +471,6 @@ function AccountContent({
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("pause-membership")}
-                            // checked={checked.indexOf("pause-membership") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-pause-membership",
                             }}
@@ -491,13 +487,11 @@ function AccountContent({
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("freemium")}
-                            // checked={checked.indexOf("freemium") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-freemium",
                             }}
                           />
-                        </ListItem>
+                        </ListItem> */}
                         {/* <ListItem>
                           <ListItemIcon>
                           </ListItemIcon>
