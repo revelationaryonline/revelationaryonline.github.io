@@ -383,12 +383,6 @@ function AccountContent({
                               alt={user?.displayName || "User"}
                               src={`${user?.photoURL}`}
                             />
-                            // :
-                            // (
-                            //   <Avatar>
-                            //     <PersonIcon />
-                            //   </Avatar>
-                            // )
                           }
                           <div style={{ borderRadius: 0 }}>
                             <Typography
@@ -531,13 +525,16 @@ function AccountContent({
                     flexDirection: "column",
                     backgroundColor: "#BB0000",
                     cursor: "pointer",
+                    fontFamily: "Comfortaa",
                     "&:hover": {
                       backgroundColor: "#990000",
                     },
                   }}
                   elevation={4}
                 >
+                  <Typography>
                   DELETE ACCOUNT
+                  </Typography>
                 </Paper>
               </Grid>
               {deleteDebug === "true" && (
