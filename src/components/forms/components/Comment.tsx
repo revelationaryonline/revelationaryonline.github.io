@@ -88,6 +88,15 @@ const Comment: React.FC<CommentProps> = ({ comment, user }) => {
             overflowWrap: "break-word",
             textAlign: "justify",
             fontFamily: "'Alegreya Sans', sans-serif", // Use Alegreya Sans font
+            // Add styles for links in comments
+            '& a': {
+              color: '#a1a1a1',
+              textDecoration: 'underline',
+              transition: 'color 0.2s ease',
+              '&:hover': {
+                color: 'black',
+              }
+            }
           }}
           dangerouslySetInnerHTML={{ __html: comment?.content?.rendered }}
         />

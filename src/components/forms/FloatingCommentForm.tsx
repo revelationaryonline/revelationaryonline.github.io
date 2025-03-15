@@ -12,7 +12,7 @@ import {
 } from "@mui/material";
 import Menu from "@mui/material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
-import { RefreshRounded } from "@mui/icons-material";
+import { RefreshRounded, Sanitizer, SanitizerOutlined } from "@mui/icons-material";
 import ChatIcon from "@mui/icons-material/Chat";
 import CommentIcon from "@mui/icons-material/Comment";
 import Comment from "./components/Comment"; // Import the new Comment component
@@ -163,6 +163,13 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   async function removeEmojis(text: string) {
     return text.replace(emojiRegex(), "");
   }
+  
+  // Function to decode HTML entities in error messages
+  const decodeHtmlEntities = (text: string) => {
+    const textArea = document.createElement('textarea');
+    textArea.innerHTML = text;
+    return textArea.value;
+  };
 
   const handleCommentSubmit = async () => {
     if (!newComment.trim()) return;
@@ -199,7 +206,18 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       });
 
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
+        // Try to get the error message from the response
+        let errorMessage = `HTTP error! status: ${response.status}`;
+        try {
+          const errorData = await response.json();
+          if (errorData && errorData.message) {
+            errorMessage = errorData.message;
+          }
+        } catch (jsonError) {
+          // If response can't be parsed as JSON, use the status text
+          errorMessage = response.statusText || errorMessage;
+        }
+        throw new Error(errorMessage);
       }
 
       setNewComment("");
@@ -208,10 +226,12 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       if (postID !== null) {
         fetchComments(postID);
       }
-      setCommentsMenu(null);
-    } catch (error) {
+      // We don't want to reset the comments menu position after posting
+      // Removing: setCommentsMenu(null);
+    } catch (error: unknown) {
       console.error("Error submitting comment:", error);
-      setError("Failed to post comment. Please try again.");
+      const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+      setError(`Failed to post comment. Please try again. ${errorMessage}`);
     } finally {
       setLoading(false);
     }
@@ -266,7 +286,11 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
       fetchPostAndComments();
     } else {
-      setComments([]); // Clear comments when the menu is closed
+      // Only clear comments when the menu is deliberately closed
+      // not when we're just refreshing the list after posting
+      if (!loading) {
+        setComments([]);
+      }
     }
   }, [commentsMenu, selectedVerse]);
 
@@ -622,8 +646,17 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                   }}
                 />
                 {error && (
-                  <Typography color="error" variant="body2" sx={{ mt: 1, mb: 1 }}>
-                    {error}
+                  <Typography color="error" variant="body2" sx={{ 
+                    display: 'block', 
+                    width: '100%', 
+                    mt: 1, 
+                    mb: 1, 
+                    wordBreak: "break-word",
+                    whiteSpace: "normal",
+                    overflowWrap: "break-word"
+                  }}>
+                    {/* Decode HTML entities in the error message */}
+                    <div dangerouslySetInnerHTML={{ __html: error }} />
                   </Typography>
                 )}
                 <Typography
