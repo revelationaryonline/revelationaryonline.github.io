@@ -41,6 +41,9 @@ import Snackbar from "@mui/material/Snackbar";
 import Chip from "@mui/material/Chip";
 import CheckCircleOutline from "@mui/icons-material/CheckCircleOutline";
 import RefreshIcon from "@mui/icons-material/Refresh";
+import PublishedWithChangesIcon from '@mui/icons-material/PublishedWithChanges';
+import PauseIcon from '@mui/icons-material/Pause';
+import ManageAccountsIcon from '@mui/icons-material/ManageAccounts';
 import Footer from "../components/Footer/Footer";
 
 function AccountContent({
@@ -359,12 +362,11 @@ function AccountContent({
                   elevation={4}
                 >
                   <Grid container spacing={3} sx={{ textAlign: "left" }}>
-                    <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
+                    <Grid item xs={12} md={12} sx={{ textAlign: "right" }}>
                       {/* user api */}
                       <List
                         sx={{
                           width: "100%",
-                          maxWidth: "auto",
                           maxHeight: 360,
                           bgcolor: "background.transparent",
                           marginTop: "1rem",
@@ -418,33 +420,34 @@ function AccountContent({
                       </List>
                     </Grid>
                     <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      {/* <Typography
+                      <Typography
                         sx={{
                           display: "block",
-                          textAlign: "right",
+                          textAlign: "center",
                           width: "auto",
                         }}
                         component="span"
                         color="text.primary"
                       >
                         SUBSCRIPTIONS
-                      </Typography> */}
-                      {/* <List
+                      </Typography>
+                      <List
                         sx={{
                           marginTop: "1rem",
                           width: "100%",
-                          maxWidth: "80%",
                           bgcolor: "background.transparent",
-                          float: "right",
+                          float: "center",
                         }}
-                        subheader={
-                          <ListSubheader sx={{ background: "none" }}>
-                            Settings
-                          </ListSubheader>
-                        }
+                        // subheader={
+                        //   <ListSubheader sx={{ background: "none", textAlign: "left" }}>
+                        //     Settings
+                        //   </ListSubheader>
+                        // }
                       >
                         <ListItem>
-                          <ListItemIcon></ListItemIcon>
+                          <ListItemIcon>
+                            <PublishedWithChangesIcon />
+                          </ListItemIcon>
                           <ListItemText
                             id="switch-list-label-comments"
                             primary="Auto Renew"
@@ -460,7 +463,9 @@ function AccountContent({
                           />
                         </ListItem>
                         <ListItem>
-                          <ListItemIcon></ListItemIcon>
+                          <ListItemIcon>
+                            <PauseIcon />
+                          </ListItemIcon>
                           <ListItemText
                             id="switch-list-label-search"
                             primary="Pause Membership"
@@ -477,6 +482,7 @@ function AccountContent({
                         </ListItem>
                         <ListItem>
                           <ListItemIcon>
+                            <ManageAccountsIcon />
                           </ListItemIcon>
                           <ListItemText
                             id="switch-list-label-guide"
@@ -492,7 +498,7 @@ function AccountContent({
                             }}
                           />
                         </ListItem>
-                        <ListItem>
+                        {/* <ListItem>
                           <ListItemIcon>
                           </ListItemIcon>
                           <ListItemText
@@ -508,8 +514,8 @@ function AccountContent({
                               "aria-labelledby": "switch-list-label-links",
                             }}
                           />
-                        </ListItem>
-                      </List> */}
+                        </ListItem> */}
+                      </List>
                     </Grid>
                   </Grid>
                 </Paper>
