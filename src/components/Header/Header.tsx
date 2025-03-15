@@ -1,6 +1,6 @@
 // @ts-nocheck
 import React, { useState, useEffect } from "react";
-import { Link as RouterLink, useNavigate } from "react-router-dom";
+import { Link, Link as RouterLink, useNavigate } from "react-router-dom";
 import { useTheme } from "@mui/material/styles";
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
@@ -35,7 +35,6 @@ import Login from "@mui/icons-material/Login";
 import Person from "@mui/icons-material/Person";
 import Logout from "@mui/icons-material/Logout";
 import Settings from "@mui/icons-material/Settings";
-import { Link } from "react-router-dom";
 
 import logo from "../../assets/logo512.png";
 
@@ -99,7 +98,7 @@ function Header(props: HeaderProps) {
       <Divider />
       <Box sx={{ display: 'flex', flexDirection: 'column', p: 2, gap: 1 }}>
         <MenuItem component={RouterLink} to="/">
-          <Home sx={{ mr: 1 }} /> Home
+          <Home sx={{ mr: 1 }} /> Tutorials
         </MenuItem>
         <MenuItem component={RouterLink} to="/blog">
           <Article sx={{ mr: 1 }} /> Blog
