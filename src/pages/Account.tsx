@@ -449,16 +449,16 @@ function AccountContent({
                             <PublishedWithChangesIcon />
                           </ListItemIcon>
                           <ListItemText
-                            id="switch-list-label-comments"
+                            id="switch-list-label-auto-renew"
                             primary="Auto Renew"
                           />
                           <Switch
                             edge="end"
                             color="default"
-                            onChange={handleToggle("comments")}
-                            checked={checked.indexOf("comments") !== -1}
+                            // onChange={handleToggle("auto-renew")}
+                            // checked={checked.indexOf("auto-renew") !== -1}
                             inputProps={{
-                              "aria-labelledby": "switch-list-label-comments",
+                              "aria-labelledby": "switch-list-label-auto-renew",
                             }}
                           />
                         </ListItem>
@@ -467,16 +467,16 @@ function AccountContent({
                             <PauseIcon />
                           </ListItemIcon>
                           <ListItemText
-                            id="switch-list-label-search"
+                            id="switch-list-label-pause-membership"
                             primary="Pause Membership"
                           />
                           <Switch
                             edge="end"
                             color="default"
-                            onChange={handleToggle("search")}
-                            checked={checked.indexOf("search") !== -1}
+                            // onChange={handleToggle("pause-membership")}
+                            // checked={checked.indexOf("pause-membership") !== -1}
                             inputProps={{
-                              "aria-labelledby": "switch-list-label-search",
+                              "aria-labelledby": "switch-list-label-pause-membership",
                             }}
                           />
                         </ListItem>
@@ -485,16 +485,16 @@ function AccountContent({
                             <ManageAccountsIcon />
                           </ListItemIcon>
                           <ListItemText
-                            id="switch-list-label-guide"
+                            id="switch-list-label-freemium"
                             primary="Freemium"
                           />
                           <Switch
                             edge="end"
                             color="default"
-                            onChange={handleToggle("guide")}
-                            checked={checked.indexOf("guide") !== -1}
+                            // onChange={handleToggle("freemium")}
+                            // checked={checked.indexOf("freemium") !== -1}
                             inputProps={{
-                              "aria-labelledby": "switch-list-label-guide",
+                              "aria-labelledby": "switch-list-label-freemium",
                             }}
                           />
                         </ListItem>
