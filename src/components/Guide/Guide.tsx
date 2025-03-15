@@ -6,6 +6,7 @@ import Card from "@mui/material/Card";
 import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
 import Button from "@mui/material/Button";
+import { Box } from "@mui/material";
 
 interface GuideProps {
   visible: string[];
@@ -18,7 +19,7 @@ const Guide: React.FC<GuideProps> = ({ visible, isShown, selectedVerse, hover })
   return (
     <>
       {visible.includes("guide") && (
-        <Grid item xs={12} md={4} lg={3} gap={1}>
+        <Grid item xs={12} md={4} lg={3} gap={1} sx={{ display: { xs: 'none', sm: 'flex' } }}>
           <Paper
             sx={{
               p: 2,

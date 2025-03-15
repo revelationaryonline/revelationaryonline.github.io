@@ -134,8 +134,9 @@ const TopToolbar = ({
           setPage={setPage}
           setVerse={setVerse}
         />
-
+    <Box sx={{ display: { xs: 'none', sm: 'block' } }} >
         <FullscreenButton />
+    </Box>
         </Box>
         <Box position={"relative"} display={"flex"}>
           <Tooltip title="Refresh">

@@ -382,12 +382,15 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
     <>
     <Box sx={{ display: "flex", mt: 5.75, height: "222vh" }}>
       <CssBaseline />
-      <SideBar
-        handleToggle={handleToggle}
-        open={open}
-        toggleDrawer={toggleDrawer}
-        checked={checked}
-      />
+      {/* Hide SideBar on mobile devices */}
+      <Box sx={{ display: { xs: 'none', sm: 'flex' } }}>
+        <SideBar
+          handleToggle={handleToggle}
+          open={open}
+          toggleDrawer={toggleDrawer}
+          checked={checked}
+        />
+      </Box>
       <Box
         component="main"
         sx={{
@@ -418,7 +421,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         {visible.includes("search") && (
           <TextField
             inputProps={{
-              ariaLabelledby: "switch-list-label-search",
+              "aria-labelledby": "switch-list-label-search",
               autoComplete: "new-password", // Alternative approach
               spellCheck: "false",
               autoCapitalize: "none",
@@ -785,7 +788,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                         opacity: 1,
                         position: "absolute",
                         marginLeft: "-65px",
-                        pl: 1,
+                        pl: {xs: 3, sm: 1},
                         mt: "83px", // 83 Samantha
                         width: "min-content",
                         backgroundColor: (theme) =>
