@@ -45,6 +45,7 @@ import PublishedWithChangesIcon from '@mui/icons-material/PublishedWithChanges';
 import PauseIcon from '@mui/icons-material/Pause';
 import ManageAccountsIcon from '@mui/icons-material/ManageAccounts';
 import Footer from "../components/Footer/Footer";
+import SubscriptionStatus from "../components/Subscription/SubscriptionStatus";
 
 function AccountContent({
   loggedIn,
@@ -419,8 +420,8 @@ function AccountContent({
                         </ListItem>
                       </List>
                     </Grid>
-                    <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
-                      <Typography
+                    <Grid item xs={12} md={12} sx={{ display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
+                      {/* <Typography
                         sx={{
                           display: "block",
                           textAlign: "center",
@@ -430,7 +431,10 @@ function AccountContent({
                         color="text.primary"
                       >
                         SUBSCRIPTIONS
-                      </Typography>
+                      </Typography> */}
+                      <Box sx={{ mb: 3, minWidth: '50%', mt: 2 }}>
+                        <SubscriptionStatus />
+                      </Box>
                       <List
                         sx={{
                           marginTop: "1rem",
@@ -444,7 +448,7 @@ function AccountContent({
                         //   </ListSubheader>
                         // }
                       >
-                        <ListItem>
+                        {/* <ListItem>
                           <ListItemIcon>
                             <PublishedWithChangesIcon />
                           </ListItemIcon>
@@ -497,7 +501,7 @@ function AccountContent({
                               "aria-labelledby": "switch-list-label-freemium",
                             }}
                           />
-                        </ListItem>
+                        </ListItem> */}
                         {/* <ListItem>
                           <ListItemIcon>
                           </ListItemIcon>

@@ -9,8 +9,12 @@ import Profile from "./pages/Profile";
 import Account from "./pages/Account";
 import { Blog } from "./pages/Blog";
 import LoginPage from "./pages/LoginPage";
+import SubscribePage from "./pages/SubscribePage";
+import PaymentSuccessPage from "./pages/PaymentSuccessPage";
+import PaymentCanceledPage from "./pages/PaymentCanceledPage";
 import { Box } from "@mui/material";
 import CookieConsent from "./components/CookieConsent/CookieConsent";
+import { SubscriptionProvider } from "./contexts/SubscriptionContext";
 
 // Import Firebase authentication
 import { getAuth, onAuthStateChanged, User } from "firebase/auth";
@@ -88,7 +92,7 @@ export default function App() {
     palette: {
       mode: "dark",
       primary: {
-        main: "#90caf9", // Customize your primary color for dark mode
+        main: "#FFFFFF", // Customize your primary color for dark mode
       },
       common: {
         white: "#ffffff",
@@ -115,14 +119,19 @@ export default function App() {
       <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
         <div className="App">
           <Header loggedIn={loggedIn} />
+          <SubscriptionProvider>
             <Routes>
               <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
               <Route path="/blog" element={<Blog />} />
               <Route path="/profile" element={<Profile user={user} setUser={setUser} loggedIn={loggedIn} />} />
               <Route path="/account" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
               <Route path="/login" element={<LoginPage user={user}  />} />
+              <Route path="/subscribe" element={<SubscribePage user={user} loggedIn={loggedIn} />} />
+              <Route path="/payment-success" element={<PaymentSuccessPage />} />
+              <Route path="/payment-canceled" element={<PaymentCanceledPage />} />
             </Routes>
             <CookieConsent />
+          </SubscriptionProvider>
         </div>
       </Box>
     </ThemeProvider>
