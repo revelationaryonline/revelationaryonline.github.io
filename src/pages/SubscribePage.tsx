@@ -49,7 +49,7 @@ const SubscribePage: React.FC<SubscribePageProps> = ({ user, loggedIn }) => {
   ];
   
   return (
-    <Container maxWidth="lg" sx={{ py: 8 }}>
+    <Container maxWidth="lg" sx={{ py: 8, mt: 5 }}>
       <Box sx={{ textAlign: 'center', mb: 6 }}>
         <Typography variant="h4" component="h1" gutterBottom>
           Choose Your Subscription Plan
@@ -82,7 +82,7 @@ const SubscribePage: React.FC<SubscribePageProps> = ({ user, loggedIn }) => {
             
             <Box sx={{ display: 'flex', alignItems: 'baseline', mb: 2 }}>
               <Typography variant="h3" component="span">
-                ${SUBSCRIPTION_PLANS.MONTHLY.amount}
+                £{SUBSCRIPTION_PLANS.MONTHLY.amount}
               </Typography>
               <Typography variant="subtitle1" color="text.secondary" sx={{ ml: 1 }}>
                 /{SUBSCRIPTION_PLANS.MONTHLY.interval}
@@ -160,9 +160,9 @@ const SubscribePage: React.FC<SubscribePageProps> = ({ user, loggedIn }) => {
               </Box>
             </Box>
             
-            <Box sx={{ display: 'flex', alignItems: 'baseline', mb: 2 }}>
+            <Box sx={{ display: 'flex', alignItems: 'baseline', mb: 2, mt: -2.5 }}>
               <Typography variant="h3" component="span">
-                ${SUBSCRIPTION_PLANS.YEARLY.amount}
+                £{SUBSCRIPTION_PLANS.YEARLY.amount}
               </Typography>
               <Typography variant="subtitle1" color="text.secondary" sx={{ ml: 1 }}>
                 /{SUBSCRIPTION_PLANS.YEARLY.interval}
