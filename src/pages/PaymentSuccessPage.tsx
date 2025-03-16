@@ -27,9 +27,9 @@ const PaymentSuccessPage: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   
   // Get the user email from Firebase auth when component mounts
+  const auth = getAuth();
+  const currentUser = auth.currentUser;
   useEffect(() => {
-    const auth = getAuth();
-    const currentUser = auth.currentUser;
     
     if (currentUser && currentUser.email) {
       setUserEmail(currentUser.email);
