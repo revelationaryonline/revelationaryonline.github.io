@@ -282,7 +282,7 @@ function ProfileContent({
                 </Grid>
 
                 {/* Basic Info */}
-                <Grid item xs={12} md={6}>
+                <Grid item xs={12} md={12}>
                   <TextField
                     disabled
                     fullWidth
@@ -413,7 +413,7 @@ function ProfileContent({
                 </Grid>
 
                 {/* Study Preferences */}
-                <Grid item xs={12} md={6}>
+                <Grid item xs={12} md={12}>
                   <Typography
                     variant="h6"
                     sx={{ mb: 2, color: "text.primary" }}

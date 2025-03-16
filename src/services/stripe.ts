@@ -8,7 +8,7 @@ export const SUBSCRIPTION_PLANS = {
     // paymentLink: 'https://buy.stripe.com/eVa8zz47xccg0Ao5kk', // Replace with your actual yearly payment link
     paymentLink: 'https://buy.stripe.com/test_8wM6rYaSs3kc2nmfYY', // Replace with your actual yearly payment link
     name: 'Monthly',
-    amount: 4.99,
+    amount: 1.99,
     interval: 'month',
     description: 'Full access to all premium features'
   },
@@ -17,9 +17,9 @@ export const SUBSCRIPTION_PLANS = {
     // paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // Replace with your actual monthly payment link
     paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // Replace with your actual monthly payment link
     name: 'Yearly',
-    amount: 49.99,
+    amount: 19.99,
     interval: 'year',
-    description: 'Full access to all premium features (save 17%)'
+    description: 'Full access to all premium features - 2 months free'
   }
 };
 
