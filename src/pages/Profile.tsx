@@ -17,6 +17,8 @@ import {
   Tooltip,
 } from "@mui/material";
 import { PhotoCamera, Save } from "@mui/icons-material";
+import HighlightIcon from "@mui/icons-material/Highlight";
+import CommentIcon from "@mui/icons-material/Comment";
 import { onAuthStateChanged, updateProfile, User } from "firebase/auth";
 import { auth } from "../firebase";
 import {
@@ -28,6 +30,7 @@ import Circle from "@mui/icons-material/Circle";
 import { optimizeImage } from "../utils/imageUtils";
 import { UserAvatar } from "../components/UserAvatar/UserAvatar";
 import Footer from "../components/Footer/Footer";
+import useHighlight from "../hooks/useHighlight";
 
 const BIBLE_VERSIONS = [
   { value: "KJV", label: "King James Version" },
@@ -45,6 +48,11 @@ function ProfileContent({
   user: any;
   setUser: any;
 }) {
+
+  // Add inside the component
+const { highlightedVerses } = useHighlight();
+const [comments, setComments] = useState<any[]>([]);
+
   // const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(false);
   const [imageLoading, setImageLoading] = useState(true);
@@ -80,6 +88,74 @@ function ProfileContent({
     });
     return () => unsubscribe();
   }, []);
+
+  // Helper function to transform slug to verse reference
+const transformSlugToVerse = (slug: string) => {
+  if (!slug) return "Unknown Verse";
+  
+  // Expected format: book-chapter-verse or similar
+  const parts = slug.split("-");
+  
+  if (parts.length < 2) return slug; // Not a verse format
+  
+  // Extract book, chapter, and verse
+  let book = parts[0];
+  // Capitalize first letter of book
+  book = book.charAt(0).toUpperCase() + book.slice(1);
+  
+  // Handle chapter and verse
+  // For formats like genesis-11 (chapter only)
+  if (parts.length === 2) {
+    return `${book} ${parts[1]}:1`;
+  }
+  // For formats like genesis-1-1 (chapter and verse)
+  else if (parts.length >= 3) {
+    return `${book} ${parts[1]}:${parts[2]}`;
+  }
+  
+  return slug;
+};
+
+// Add inside useEffect or as a separate function
+const fetchUserComments = async () => {
+  try {
+    const userId = Cookies.get("userId");
+    if (userId && Cookies.get("wpToken")) {
+      // Instead of filtering by author parameter, get all comments and filter client-side
+      const response = await fetch(
+        `${process.env.REACT_APP_WP_API_URL}/comments?_embed=true`,
+        {
+          headers: {
+            Authorization: `JWT ${Cookies.get("wpToken")}`,
+          },
+        }
+      );
+      
+      if (!response.ok) {
+        console.error("Failed to fetch comments:", await response.text());
+        return;
+      }
+      
+      const allComments = await response.json();
+      
+      // Filter comments by the current user
+      const userComments = allComments.filter((comment: any) => {
+        return comment.author === parseInt(userId);
+      }).map((comment: any) => {
+        // Add transformed verse reference if available
+        if (comment.post) {
+          const postSlug = comment._embedded?.post?.[0]?.slug || comment.post_name || '';
+          comment.verseReference = transformSlugToVerse(postSlug);
+        }
+        return comment;
+      });
+      
+      setComments(userComments);
+    }
+  } catch (error) {
+    console.error("Failed to fetch user comments:", error);
+  }
+};
 
   const loadWordPressPreferences = async (userId: number) => {
     try {
@@ -133,6 +209,18 @@ function ProfileContent({
       setLoading(false);
     }
   };
+
+  // Call this in useEffect after loading WordPress preferences
+useEffect(() => {
+  const userId = Cookies.get("userId");
+  // Existing code...
+  if (userId) {
+    loadWordPressPreferences(parseInt(userId));
+    fetchUserComments();
+    setImageLoading(false);
+    setLoading(false);
+  }
+}, []);
 
   return (
     <>
@@ -446,6 +534,70 @@ function ProfileContent({
                     </FormControl>
                   </Tooltip>
                 </Grid>
+                {/* Highlighted Verses Stats */}
+<Grid item xs={12} md={12}>
+  <Typography
+    variant="h6"
+    sx={{ mb: 2, mt: 3, color: "text.primary" }}
+  >
+    Your Highlights
+  </Typography>
+  <Paper
+    elevation={1}
+    sx={{
+      p: 2,
+      borderRadius: 2,
+      backgroundColor: "background.paper",
+    }}
+  >
+    <Box sx={{ display: "flex", alignItems: "center" }}>
+      <HighlightIcon sx={{ mr: 1, color: "warning.main" }} />
+      <Typography variant="body1">
+        You have highlighted <strong>{highlightedVerses?.length || 0}</strong> verses
+      </Typography>
+    </Box>
+  </Paper>
+</Grid>
+
+{/* User Comments */}
+<Grid item xs={12} md={12}>
+  <Typography
+    variant="h6"
+    sx={{ mb: 2, mt: 3, color: "text.primary" }}
+  >
+    Your Comments
+  </Typography>
+  <Paper
+    elevation={1}
+    sx={{
+      p: 2,
+      borderRadius: 2,
+      backgroundColor: "background.paper",
+      maxHeight: 300,
+      overflow: "auto"
+    }}
+  >
+    {comments.length > 0 ? (
+      comments.map((comment) => (
+        <Box key={comment.id} sx={{ mb: 2, pb: 2, borderBottom: 1, borderColor: "divider" }}>
+          <Typography variant="subtitle2" sx={{ fontWeight: "bold" }}>
+            {new Date(comment.date).toLocaleDateString()}
+          </Typography>
+          <Typography variant="body2">
+            <div dangerouslySetInnerHTML={{ __html: comment.content?.rendered || comment.content || '' }} />
+          </Typography>
+          <Typography variant="caption" sx={{ color: "text.secondary", mt: 1, display: "block" }}>
+            On: {comment.verseReference || comment.post_title || comment.post?.title?.rendered || "Bible Study"}
+          </Typography>
+        </Box>
+      ))
+    ) : (
+      <Typography variant="body2" sx={{ fontStyle: "italic", color: "text.secondary" }}>
+        You haven't made any comments yet.
+      </Typography>
+    )}
+  </Paper>
+</Grid>
 
                 {/* Save Button */}
                 <Grid item xs={12} sx={{ textAlign: "center", mt: 2 }}>
