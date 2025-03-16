@@ -16,6 +16,9 @@ import Avatar from "@mui/material/Avatar";
 import Typography from "@mui/material/Typography";
 import Circle from "@mui/icons-material/Circle";
 import PersonIcon from "@mui/icons-material/Person";
+import BookmarkIcon from "@mui/icons-material/Bookmark";
+import AccessTimeIcon from "@mui/icons-material/AccessTime";
+import CommentIcon from "@mui/icons-material/Comment";
 import Dialog from "@mui/material/Dialog";
 import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
@@ -420,7 +423,54 @@ function AccountContent({
                         </ListItem>
                       </List>
                     </Grid>
-                    <Grid item xs={12} md={12} sx={{ display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
+                    <Grid item xs={12} md={6} sx={{ display: "flex", flexDirection: "column", alignItems: "flex-start" }}>
+                    <Box sx={{ mb: 3, minWidth: '100%', mt: 2 }}>
+          <Typography variant="h6" gutterBottom align="left">
+            What's included in your subscription:
+          </Typography>
+          <List>
+            <ListItem>
+              <ListItemIcon>
+                <CommentIcon color="primary" />
+              </ListItemIcon>
+              <ListItemText 
+                primary="Comments" 
+                secondary="Share your insights and discuss scriptures with others" 
+              />
+            </ListItem>
+            <ListItem>
+              <ListItemIcon>
+                <BookmarkIcon color="primary" />
+              </ListItemIcon>
+              <ListItemText 
+                primary="Premium Features" 
+                secondary="Access to all current and future premium features" 
+              />
+            </ListItem>
+            <ListItem>
+              <ListItemIcon>
+                <AccessTimeIcon color="primary" />
+              </ListItemIcon>
+              <ListItemText 
+                primary="Priority Support" 
+                secondary="Get help quickly when you need it" 
+              />
+            </ListItem>
+          </List>
+        </Box>
+        
+        <Box sx={{ display: 'flex', justifyContent: 'center', gap: 2, mt: 4 }}>
+          {/* <Button 
+            to="/account" 
+            variant="contained" 
+            color="primary" 
+            size="large"
+          >
+            View My Account
+          </Button> */}
+                      </Box>
+                    </Grid>
+                    <Grid item xs={12} md={6} sx={{ display: "flex", flexDirection: "column", alignItems: "flex-end" }}>
                       {/* <Typography
                         sx={{
                           display: "block",
@@ -433,9 +483,14 @@ function AccountContent({
                         SUBSCRIPTIONS
                       </Typography> */}
 
-                      <Box sx={{ mb: 3, minWidth: '50%', mt: 2 }}>
+
+                      {/* SUBSCRIPTION SQUARE BLOCK */}
+
+                      <Box sx={{ mb: 3, minWidth: '100%', mt: 2 }}>
                         <SubscriptionStatus />
                       </Box>
+
+
                       <List
                         sx={{
                           marginTop: "1rem",
