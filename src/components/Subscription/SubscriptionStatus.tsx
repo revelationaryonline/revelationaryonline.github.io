@@ -119,7 +119,7 @@ const SubscriptionStatus: React.FC = () => {
               </DialogContentText>
             </DialogContent>
             <DialogActions>
-              <Button onClick={() => setOpenDialog(false)}>
+              <Button sx={{ color: "#A1A1A1" }} onClick={() => setOpenDialog(false)}>
                 Keep Subscription
               </Button>
               <Button 

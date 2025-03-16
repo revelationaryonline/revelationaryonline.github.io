@@ -533,7 +533,7 @@ function AccountContent({
                     p: 2,
                     display: "flex",
                     flexDirection: "column",
-                    backgroundColor: "#BB0000",
+                    backgroundColor: "#BB000000",
                     cursor: "pointer",
                     fontFamily: "Comfortaa",
                     "&:hover": {
