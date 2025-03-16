@@ -134,7 +134,7 @@ const PaymentSuccessPage: React.FC = () => {
   }, [refreshStatus, searchParams, userEmail]);
 
   return (
-    <Container maxWidth="md" sx={{ py: 8 }}>
+    <Container maxWidth="md" sx={{ py: 8, mt: 5 }}>
       {error && (
         <Alert severity="error" sx={{ mb: 4 }}>
           {error}

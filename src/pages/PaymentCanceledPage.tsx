@@ -23,7 +23,7 @@ import { Link as RouterLink } from 'react-router-dom';
 
 const PaymentCanceledPage: React.FC = () => {
   return (
-    <Container maxWidth="md" sx={{ py: 8 }}>
+    <Container maxWidth="md" sx={{ py: 8, mt: 5 }}>
       <Paper 
         elevation={3} 
         sx={{ 
@@ -124,7 +124,7 @@ const PaymentCanceledPage: React.FC = () => {
             </AccordionSummary>
             <AccordionDetails>
               <Typography align="left">
-                If you continue to experience issues with payment, please contact our support team at support@revelationaryonline.com.
+                If you continue to experience issues with payment, please contact our support team at info@revelationaryonline.com.
               </Typography>
             </AccordionDetails>
           </Accordion>
@@ -154,7 +154,7 @@ const PaymentCanceledPage: React.FC = () => {
           <Button
             startIcon={<HelpOutlineIcon />}
             component={RouterLink}
-            to="/contact"
+            to="https://revelationary.org/contact/"
             size="small"
           >
             Need help? Contact Support
