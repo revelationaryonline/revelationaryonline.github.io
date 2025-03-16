@@ -432,6 +432,7 @@ function AccountContent({
                       >
                         SUBSCRIPTIONS
                       </Typography> */}
+
                       <Box sx={{ mb: 3, minWidth: '50%', mt: 2 }}>
                         <SubscriptionStatus />
                       </Box>
@@ -459,8 +460,6 @@ function AccountContent({
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("auto-renew")}
-                            // checked={checked.indexOf("auto-renew") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-auto-renew",
                             }}
@@ -477,8 +476,6 @@ function AccountContent({
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("pause-membership")}
-                            // checked={checked.indexOf("pause-membership") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-pause-membership",
                             }}
@@ -495,8 +492,6 @@ function AccountContent({
                           <Switch
                             edge="end"
                             color="default"
-                            // onChange={handleToggle("freemium")}
-                            // checked={checked.indexOf("freemium") !== -1}
                             inputProps={{
                               "aria-labelledby": "switch-list-label-freemium",
                             }}
