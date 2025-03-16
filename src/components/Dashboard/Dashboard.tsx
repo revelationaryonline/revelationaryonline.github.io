@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo, ChangeEvent } from "react";
+import React, { useState, useEffect, useMemo, ChangeEvent, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import Cookies from "js-cookie";
@@ -401,6 +401,36 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
     return result.slice(startIndex, endIndex);
   }, [result, searchPage, resultsPerPage]);
 
+  const paperRef = useRef<HTMLDivElement>(null);
+const [showPagination, setShowPagination] = useState(true);
+
+useEffect(() => {
+  const handleScroll = () => {
+    if (paperRef.current) {
+      // Get Paper element's bottom position
+      const paperBottom = paperRef.current.getBoundingClientRect().bottom;
+
+      console.log(paperBottom)
+      console.log(paperRef.current)
+      
+      // If paperBottom is above viewport (user scrolled past Paper)
+      // then hide pagination, otherwise show it
+      setShowPagination(paperBottom > 150);
+    }
+  };
+  
+  // Add scroll listener to window
+  window.addEventListener('scroll', handleScroll);
+  
+  // Initial check
+  handleScroll();
+  
+  // Cleanup
+  return () => {
+    window.removeEventListener('scroll', handleScroll);
+  };
+}, []);
+
   return (
     <>
     <Box sx={{ display: "flex", mt: 5.75, height: "222vh" }}>
@@ -516,6 +546,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
               lg={checked.includes("guide") ? 9 : 12}
             >
               <Paper
+                ref={paperRef} 
                 sx={{
                   px: { xs: 4, md: 8 },
                   py: 12,
@@ -842,12 +873,12 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                       ))}
                 </Typography>
 
-                {verse && verse.length > 1 && (
+                {verse && verse.length > 1 && showPagination && (
                   <>
                     <Pagination
                       sx={{
                         opacity: 1,
-                        position: "absolute",
+                        position: "fixed",
                         marginLeft: "-65px",
                         pl: {xs: 3, sm: 1},
                         mt: "83px", // 83 Samantha
