@@ -5,8 +5,8 @@ import { loadStripe } from '@stripe/stripe-js';
 export const SUBSCRIPTION_PLANS = {
   MONTHLY: {
     id: 'monthly_plan',
-    // paymentLink: 'https://buy.stripe.com/eVa8zz47xccg0Ao5kk', // Replace with your actual yearly payment link
-    paymentLink: 'https://buy.stripe.com/test_8wM6rYaSs3kc2nmfYY', // Replace with your actual yearly payment link
+    // paymentLink: 'https://buy.stripe.com/eVa8zz47xccg0Ao5kk', // PROD
+    paymentLink: 'https://buy.stripe.com/test_8wM6rYaSs3kc2nmfYY', // TEST
     name: 'Monthly',
     amount: 1.99,
     interval: 'month',
@@ -14,8 +14,8 @@ export const SUBSCRIPTION_PLANS = {
   },
   YEARLY: {
     id: 'yearly_plan',
-    // paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // Replace with your actual monthly payment link
-    paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // Replace with your actual monthly payment link
+    // paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // PROD
+    paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // TEST
     name: 'Yearly',
     amount: 19.99,
     interval: 'year',
@@ -133,7 +133,7 @@ export const checkSubscriptionStatus = async (userEmail: string) => {
   }
 };
 
-// Cancel subscription
+// Cancel subscription - Redirects to Stripe Customer Portal
 export const cancelSubscription = async (subscriptionId: string) => {
   try {
     // For testing mode
@@ -142,25 +142,28 @@ export const cancelSubscription = async (subscriptionId: string) => {
       return { success: true };
     }
 
-    // In production, would make API call to backend
-    // Using existing WordPress/Firebase and Stripe integration
+    // For production, use Stripe Customer Portal
+    // This is the recommended approach by Stripe for handling subscription management
+    // without exposing API keys in frontend code
     
-    // Example endpoint might be:
-    // const response = await fetch('/wp-json/custom/v1/cancel-subscription', {
-    //   method: 'POST',
-    //   headers: { 
-    //     'Content-Type': 'application/json',
-    //     'Authorization': `JWT ${Cookies.get('wpToken')}`
-    //   },
-    //   body: JSON.stringify({ subscriptionId })
-    // });
-    // const data = await response.json();
-    // return data;
+    // Production implementation - redirect to Stripe Customer Portal
+    // The URL below should be your live Stripe Customer Portal link
+    const stripeCustomerPortalUrl = 'https://billing.stripe.com/p/login/00g14P1th6YseVaaEE';
     
-    // For now, return success
-    return { success: true };
+    // Open the portal in a new tab
+    window.open(stripeCustomerPortalUrl, '_blank');
+    
+    // Return success with message that user was redirected
+    return { 
+      success: true, 
+      redirected: true,
+      message: 'Redirected to Stripe Customer Portal for subscription management.'
+    };
   } catch (error) {
-    console.error('Error cancelling subscription:', error);
-    return { success: false, error: 'Failed to cancel subscription' };
+    console.error('Error with subscription cancellation:', error);
+    return { 
+      success: false, 
+      error: 'Failed to open Stripe Customer Portal. Please try again or visit https://billing.stripe.com/p/login/00g14P1th6YseVaaEE directly.'
+    };
   }
 };
