@@ -19,6 +19,8 @@ import {
 import { PhotoCamera, Save } from "@mui/icons-material";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
 import CommentIcon from "@mui/icons-material/Comment";
+import DeleteIcon from "@mui/icons-material/Delete";
+import IconButton from "@mui/material/IconButton";
 import { onAuthStateChanged, updateProfile, User } from "firebase/auth";
 import { auth } from "../firebase";
 import {
@@ -51,6 +53,56 @@ function ProfileContent({
   // Add inside the component
   const { highlightedVerses } = useHighlight();
   const [comments, setComments] = useState<any[]>([]);
+  
+  // Function to delete a comment
+  const deleteComment = async (commentId: number) => {
+    try {
+      // Verify user is logged in
+      if (!Cookies.get("userId")) {
+        alert("You need to be logged in to delete comments.");
+        return;
+      }
+
+      // Show confirmation dialog
+      if (!window.confirm("Are you sure you want to delete this comment?")) {
+        return;
+      }
+
+      // Get admin credentials from environment variables
+      const username = process.env.REACT_APP_WP_USERNAME;
+      const password = process.env.REACT_APP_WP_APP_PASSWORD;
+      
+      // Create base64 encoded credentials for Basic Auth
+      const credentials = btoa(`${username}:${password}`);
+      
+      // Use admin credentials to delete the comment
+      const response = await fetch(
+        `${process.env.REACT_APP_WP_API_URL}/comments/${commentId}`,
+        {
+          method: "DELETE",
+          headers: {
+            Authorization: `Basic ${credentials}`,
+            'Content-Type': 'application/json'
+          },
+        }
+      );
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        console.error("Failed to delete comment:", errorText);
+        alert("Failed to delete comment. Please try again later.");
+        return;
+      }
+
+      // Remove the deleted comment from state
+      setComments(comments.filter(c => c.id !== commentId));
+      alert("Comment deleted successfully.");
+      
+    } catch (error) {
+      console.error("Error deleting comment:", error);
+      alert("An error occurred while deleting the comment.");
+    }
+  };
 
   // const [user, setUser] = useState<User | null>(null);
   const [loading, setLoading] = useState(false);
@@ -564,6 +616,8 @@ function ProfileContent({
                   </Paper>
                 </Grid>
 
+
+
                 {/* User Comments */}
                 <Grid item xs={12} md={12}>
                   <Typography
@@ -591,11 +645,25 @@ function ProfileContent({
                             pb: 2,
                             borderBottom: 1,
                             borderColor: "divider",
+                            position: "relative",
                           }}
                         >
+                          <IconButton
+                            size="small"
+                            aria-label="delete comment"
+                            sx={{
+                              position: "absolute",
+                              top: 0,
+                              right: 0,
+                              color: "text.secondary",
+                            }}
+                            onClick={() => deleteComment(comment.id)}
+                          >
+                            <DeleteIcon fontSize="small" />
+                          </IconButton>
                           <Typography
                             variant="subtitle2"
-                            sx={{ fontWeight: "bold" }}
+                            sx={{ fontWeight: "bold", pr: 4 }}
                           >
                             {new Date(comment.date).toLocaleDateString()}
                           </Typography>
