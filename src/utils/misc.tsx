@@ -503,7 +503,45 @@ export let mdTheme = createTheme({ palette: { mode: "dark" } });
 
 const darkThemeMq = window.matchMedia("(prefers-color-scheme: dark)");
 if (darkThemeMq.matches) {
-  mdTheme = createTheme({ palette: { mode: "dark" } });
+  mdTheme = createTheme({ palette: { 
+    mode: "dark",
+    primary: {
+      main: "#FFFFFF", // Customize your primary color for dark mode
+    },
+    common: {
+      white: "#ffffff",
+      black: "#212121",
+    },
+    secondary: {  
+      main: "#A1A1A1", // Customize your secondary color
+    },
+    warning: { 
+      main: "#FF0000",
+    },
+    background: {
+      default: "#121212", // Dark mode background
+      paper: "#1d1d1d", // Dark paper background
+    },
+   } });
 } else {
-  mdTheme = createTheme({ palette: { mode: "light" } });
+  mdTheme = createTheme({ palette: { 
+    mode: "light",
+    primary: {
+      main: "#A1A1A1", // Customize your primary color
+    },
+    common: {
+      white: "#ffffff",
+      black: "#212121",
+    },
+    secondary: {  
+      main: "#A1A1A1", // Customize your secondary color
+    },
+    warning: { 
+      main: "#FF0000",
+    },
+    background: {
+      default: "#ffffff", // Light mode background
+      paper: "#FFFFFF", // Light paper background
+    },
+   } });
 }
