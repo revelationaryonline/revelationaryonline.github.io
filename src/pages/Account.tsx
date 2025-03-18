@@ -342,9 +342,7 @@ function AccountContent({
           sx={{
             mt: 5,
             backgroundColor: (theme) =>
-              theme.palette.mode === "light"
-                ? theme.palette.grey[300]
-                : theme.palette.grey[900],
+              theme.palette.mode === "dark" ? "#212121" : "#FFFFFF",
             flexGrow: 1,
             height: "100vh",
             overflow: "auto",
@@ -397,7 +395,8 @@ function AccountContent({
                                 mt: 1,
                                 fontSize: "0.75rem",
                                 fontWeight: 600,
-                                color: "white",
+                                color: (theme) =>
+                                  theme.palette.mode === "dark" ? "#A1A1A1" : "#000000",
                               }}
                             >
                               {user && user.displayName}
