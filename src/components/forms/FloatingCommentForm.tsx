@@ -382,7 +382,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         <Box
           sx={{
             minWidth: {xs: '50vw', sm: 400},
-            maxWidth: {xs: '100vw', sm: 600},
+            maxWidth: {xs: '100vw', sm: 450},
             padding: 2,
             cursor: dragging ? "grabbing" : "grab",
             userSelect: "none",
@@ -465,7 +465,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
             {/* Scrollable comments section */}
             <Box
               sx={{
-                maxHeight: 300,
+                height: 300, // Fixed height instead of maxHeight to maintain container shape
                 overflowY: "auto",
                 overflowX: "scroll",
                 padding: 1,
@@ -481,29 +481,27 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     display: "flex",
                     justifyContent: "center",
                     alignItems: "center",
-                    height: "100vh",
+                    minHeight: "150px", // Fixed height to maintain container shape
+                    width: "100%"
                   }}
                 >
-                  <CircularProgress color={"warning"} />
+                  <CircularProgress color={"success"} />
                 </Box>
               ) : comments.length > 0 ? (
                 comments.map((comment: any) => (
                   <Comment key={comment.id} comment={comment} user={user} />
                 ))
               ) : (
-                <Typography
-                  variant="body2"
-                  color="black"
+                <Box
                   sx={{
-                    mb: 1,
-                    wordBreak: "break-word",
-                    whiteSpace: "pre-wrap",
-                    overflowWrap: "break-word",
-                    overflow: "scroll",
+                    display: "flex",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    height: "150px",
                   }}
                 >
-                  {/* There are no comments on this verse yet... Be the first! */}
-                </Typography>
+<CircularProgress color={"success"} />
+                </Box>
               )}
               {loadingMore && hasMoreComments && (
                 <Box
@@ -512,12 +510,13 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     justifyContent: "center",
                     alignItems: "center",
                     mt: 2,
+                    mb: 2, // Added bottom margin for consistent spacing
                   }}
                 >
                   <CircularProgress color={"warning"} size={24} />
                 </Box>
               )}
-              {!hasMoreComments && (
+              {!hasMoreComments && comments.length > 0 && (
                 <Box
                   sx={{
                     display: "flex",
@@ -687,7 +686,14 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                   fullWidth
                   disabled={loading || charCount > charLimit}
                 >
-                  {loading ? "Posting..." : "Post Comment"}
+                  {loading ? (
+                    <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                      <CircularProgress size={16} color="inherit" sx={{ mr: 1 }} />
+                      Posting...
+                    </Box>
+                  ) : (
+                    "Post Comment"
+                  )}
                 </Button>
               </Box>
             )}

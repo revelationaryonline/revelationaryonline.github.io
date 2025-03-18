@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Cookies from 'js-cookie';
 import { Modal, Box, Typography, TextField, Button } from "@mui/material";
+import { useSubscription } from "../../contexts/SubscriptionContext";
 
 const WP_API_URL = process.env.REACT_APP_WP_API_URL?.replace('/wp/v2', '');
 
@@ -14,15 +15,16 @@ const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) 
   const [open, setOpen] = useState(false);
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
+  const { subscription } = useSubscription();
 
   useEffect(() => {
     const token = Cookies.get('wpToken');
-    if (user && !token) {
-      setOpen(true); // Open modal if user is logged in but has no WP token
+    if (user && !token && subscription?.isActive) {
+      setOpen(true); // Open modal if user is logged in, has no WP token, and has an active subscription
     } else {
-      setOpen(false); // Close modal if token is present
+      setOpen(false); // Close modal if token is present or no active subscription
     }
-  }, [user, wpToken]);
+  }, [user, wpToken, subscription]);
 
   const handleLogin = async () => {
     if (!user || !password || !WP_API_URL) return;
