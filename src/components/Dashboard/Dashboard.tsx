@@ -653,11 +653,6 @@ useEffect(() => {
                           key={index}
                           onContextMenu={(e) => handleContextMenu(e, v)}
                           onClick={() => handleVerseSelect(v)}
-                          onKeyDown={(e) => {
-                            if (e.key === "v" && e.metaKey) {
-                              handleVerseSelect(v);
-                            }
-                          }}
                           tabIndex={0}
                           role="button"
                           style={{
