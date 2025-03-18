@@ -90,12 +90,12 @@ function Header(props: HeaderProps) {
     highlighting: {
       id: "highlighting",
       title: "Verse Highlighting Tutorial",
-      videoUrl: "https://www.youtube.com/embed/your-highlighting-video-id"
+      videoUrl: "https://youtu.be/lfvQp3VyrV4" 
     },
     comments: {
       id: "comments",
       title: "Comments Tutorial",
-      videoUrl: "https://www.youtube.com/embed/your-comments-video-id"
+      videoUrl: "" 
     },
     bookmarks: {
       id: "bookmarks",
