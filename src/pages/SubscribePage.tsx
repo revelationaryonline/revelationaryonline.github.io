@@ -202,10 +202,10 @@ const SubscribePage: React.FC<SubscribePageProps> = ({ user, loggedIn }) => {
       
       <Box sx={{ textAlign: 'center', mt: 6 }}>
         <Typography variant="body2" color="text.secondary">
-          By subscribing, you agree to our <Link href="/terms">Terms of Service</Link> and <Link href="/privacy">Privacy Policy</Link>.
+          By subscribing, you agree to our <Link href="https://revelationary.org/terms-of-service/">Terms of Service</Link> and <Link href="https://revelationary.org/privacy-policy/">Privacy Policy</Link>.
         </Typography>
         <Typography variant="body2" color="text.secondary" sx={{ mt: 1 }}>
-          Have questions? <Link href="/contact">Contact us</Link>
+          Have questions? <Link href="https://revelationary.org/contact/">Contact us</Link>
         </Typography>
       </Box>
     </Container>

@@ -515,7 +515,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                     >
                       I agree to the{" "}
                       <Link
-                        href="/terms-of-service"
+                        href="https://revelationary.org/terms-of-service/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
@@ -523,7 +523,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       </Link>{" "}
                       and{" "}
                       <Link
-                        href="/privacy-policy"
+                        href="https://revelationary.org/privacy-policy/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
