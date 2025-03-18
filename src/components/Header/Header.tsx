@@ -85,22 +85,17 @@ function Header(props: HeaderProps) {
     search: {
       id: "search",
       title: "Search Bar Tutorial",
-      videoUrl: "https://www.youtube.com/embed/2n0lYXcCFTw"
+      videoUrl: "https://www.youtube.com/embed/rWVsOgPyOXk"    
     },
     highlighting: {
       id: "highlighting",
       title: "Verse Highlighting Tutorial",
-      videoUrl: "https://youtu.be/lfvQp3VyrV4" 
+      videoUrl: "https://www.youtube.com/embed/uwCpuIvyo_o"
     },
     comments: {
       id: "comments",
       title: "Comments Tutorial",
-      videoUrl: "" 
-    },
-    bookmarks: {
-      id: "bookmarks",
-      title: "Bookmarks Tutorial",
-      videoUrl: "https://www.youtube.com/embed/your-bookmarks-video-id"
+      videoUrl: "https://www.youtube.com/embed/GMoU7B7v454"
     }
   };
   
@@ -218,10 +213,6 @@ function Header(props: HeaderProps) {
               <MenuItem onClick={() => handleTutorialClick('comments')} sx={{ pl: 2, fontSize: '16px', color: '#A1A1A1' }}>
                 <CommentIcon fontSize="small" sx={{ width: 20, height: 20, mr: 1, color: '#A1A1A1' }} /> 
                 <Typography variant="body1" sx={{ fontSize: '15px' }}>Comments</Typography>
-              </MenuItem>
-              <MenuItem onClick={() => handleTutorialClick('bookmarks')} sx={{ pl: 2, fontSize: '16px', color: '#A1A1A1' }}>
-                <BookmarkIcon fontSize="small" sx={{ width: 20, height: 20, mr: 1, color: '#A1A1A1' }} /> 
-                <Typography variant="body1" sx={{ fontSize: '15px' }}>Bookmarks</Typography>
               </MenuItem>
             </Box>
           </AccordionDetails>
