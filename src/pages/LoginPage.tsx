@@ -322,7 +322,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
             {isSigningUp && (
               <>
-                <Typography>A Free account lets you:</Typography>
+                <Typography>An account lets you:</Typography>
                 <Box sx={{ mt: 1, mb: 3 }}>
                   <Typography
                     sx={{
