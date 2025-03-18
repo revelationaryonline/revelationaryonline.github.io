@@ -5,8 +5,8 @@ import { loadStripe } from '@stripe/stripe-js';
 export const SUBSCRIPTION_PLANS = {
   MONTHLY: {
     id: 'monthly_plan',
-    // paymentLink: 'https://buy.stripe.com/eVa8zz47xccg0Ao5kk', // PROD
-    paymentLink: 'https://buy.stripe.com/test_8wM6rYaSs3kc2nmfYY', // TEST
+    paymentLink: 'https://buy.stripe.com/eVa8zz47xccg0Ao5kk', // PROD
+    // paymentLink: 'https://buy.stripe.com/test_8wM6rYaSs3kc2nmfYY', // TEST
     name: 'Monthly',
     amount: 1.99,
     interval: 'month',
@@ -14,8 +14,8 @@ export const SUBSCRIPTION_PLANS = {
   },
   YEARLY: {
     id: 'yearly_plan',
-    // paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // PROD
-    paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // TEST
+    paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // PROD
+    // paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // TEST
     name: 'Yearly',
     amount: 19.99,
     interval: 'year',
