@@ -285,7 +285,8 @@ function ProfileContent({
           sx={{
             display: "flex",
             minHeight: "100vh",
-            bgcolor: "#212121",
+            backgroundColor: (theme) =>
+              theme.palette.mode === "dark" ? "#212121" : "#FFFFFF",
             alignItems: "flex-start",
           }}
         >
@@ -295,7 +296,8 @@ function ProfileContent({
               sx={{
                 p: 4,
                 borderRadius: 2,
-                backgroundColor: "background.default",
+                backgroundColor: (theme) =>
+                  theme.palette.mode === "dark" ? "#212121" : "#FFF",
                 boxShadow: (theme) =>
                   theme.palette.mode === "dark"
                     ? "0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12)"
@@ -339,7 +341,8 @@ function ProfileContent({
                             mt: 1,
                             fontSize: "0.75rem",
                             fontWeight: 600,
-                            color: "white",
+                            color: (theme) =>
+                              theme.palette.mode === "dark" ? "#A1A1A1" : "#000000",
                           }}
                         >
                           {user?.displayName}
@@ -627,11 +630,12 @@ function ProfileContent({
                     Your Comments
                   </Typography>
                   <Paper
-                    elevation={1}
+                    elevation={3}
                     sx={{
                       p: 2,
                       borderRadius: 2,
-                      backgroundColor: "background.paper",
+                      backgroundColor: (theme) =>
+                        theme.palette.mode === "dark" ? "#212121" : "#FFFFFF",
                       maxHeight: 300,
                       overflow: "auto",
                     }}

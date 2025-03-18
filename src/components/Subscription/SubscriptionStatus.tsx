@@ -52,7 +52,8 @@ const SubscriptionStatus: React.FC = () => {
         borderColor: 'divider',
         borderRadius: 2,
         marginBottom: 3,
-        backgroundColor: '#212121',
+        backgroundColor: (theme) =>
+          theme.palette.mode === "dark" ? "#212121" : "#FFFFFF",
       }}
     >
       <Box sx={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', mb: 2 }}>

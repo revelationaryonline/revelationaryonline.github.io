@@ -12,7 +12,11 @@ import {
 } from "@mui/material";
 import Menu from "@mui/material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
-import { RefreshRounded, Sanitizer, SanitizerOutlined } from "@mui/icons-material";
+import {
+  RefreshRounded,
+  Sanitizer,
+  SanitizerOutlined,
+} from "@mui/icons-material";
 import ChatIcon from "@mui/icons-material/Chat";
 import CommentIcon from "@mui/icons-material/Comment";
 import Comment from "./components/Comment"; // Import the new Comment component
@@ -75,7 +79,10 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   const [hasMoreComments, setHasMoreComments] = useState(true); // Track if there are more comments to fetch
   const charLimit = 350;
   const [error, setError] = useState<string | null>(null);
-  const [toxicityScores, setToxicityScores] = useState<Record<string, number> | null>(null);
+  const [toxicityScores, setToxicityScores] = useState<Record<
+    string,
+    number
+  > | null>(null);
 
   async function getPostIdBySlug(slug: string) {
     if (commentsMenu && selectedVerse && selectedVerse[0]) {
@@ -90,13 +97,16 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     }
   }
 
-
-  const checkPerspectiveAPI = async (comment: string): Promise<{ isValid: boolean; message?: string }> => {
+  const checkPerspectiveAPI = async (
+    comment: string
+  ): Promise<{ isValid: boolean; message?: string }> => {
     setError(null);
     setToxicityScores(null);
 
     if (!PERSPECTIVE_API_KEY || !PERSPECTIVE_API_URL) {
-      setError("Comment moderation is currently unavailable. Please try again later.");
+      setError(
+        "Comment moderation is currently unavailable. Please try again later."
+      );
       return { isValid: false, message: "Moderation service unavailable" };
     }
 
@@ -114,18 +124,21 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         },
       };
 
-      const response = await fetch(`${PERSPECTIVE_API_URL}?key=${PERSPECTIVE_API_KEY}`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(body),
-      });
+      const response = await fetch(
+        `${PERSPECTIVE_API_URL}?key=${PERSPECTIVE_API_KEY}`,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(body),
+        }
+      );
 
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
 
       const data = await response.json();
-      
+
       // Store all toxicity scores
       const scores = {
         toxicity: data.attributeScores.TOXICITY.summaryScore.value,
@@ -133,21 +146,26 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         insult: data.attributeScores.INSULT.summaryScore.value,
         profanity: data.attributeScores.PROFANITY.summaryScore.value,
         threat: data.attributeScores.THREAT?.summaryScore.value || 0,
-        identityAttack: data.attributeScores.IDENTITY_ATTACK?.summaryScore.value || 0,
+        identityAttack:
+          data.attributeScores.IDENTITY_ATTACK?.summaryScore.value || 0,
       };
       setToxicityScores(scores);
 
       // Check for various types of inappropriate content
       const violations = [];
       if (scores.toxicity > 0.7) violations.push("toxic language");
-      if (scores.severeToxicity > 0.7) violations.push("severely toxic content");
+      if (scores.severeToxicity > 0.7)
+        violations.push("severely toxic content");
       if (scores.insult > 0.7) violations.push("insulting content");
       if (scores.profanity > 0.7) violations.push("profanity");
       if (scores.threat > 0.7) violations.push("threatening content");
-      if (scores.identityAttack > 0.7) violations.push("discriminatory content");
+      if (scores.identityAttack > 0.7)
+        violations.push("discriminatory content");
 
       if (violations.length > 0) {
-        const message = `Your comment contains ${violations.join(", ")}. Please revise and try again.`;
+        const message = `Your comment contains ${violations.join(
+          ", "
+        )}. Please revise and try again.`;
         setError(message);
         return { isValid: false, message };
       }
@@ -163,10 +181,10 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
   async function removeEmojis(text: string) {
     return text.replace(emojiRegex(), "");
   }
-  
+
   // Function to decode HTML entities in error messages
   const decodeHtmlEntities = (text: string) => {
-    const textArea = document.createElement('textarea');
+    const textArea = document.createElement("textarea");
     textArea.innerHTML = text;
     return textArea.value;
   };
@@ -186,7 +204,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
     try {
       const cleanComment = await removeEmojis(newComment);
       const { isValid, message } = await checkPerspectiveAPI(cleanComment);
-      
+
       if (!isValid) {
         setLoading(false);
         return;
@@ -196,7 +214,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          "Authorization": `Basic ${btoa(`${user?.email || ""}:${wpToken}`)}`,
+          Authorization: `Basic ${btoa(`${user?.email || ""}:${wpToken}`)}`,
         },
         body: JSON.stringify({
           content: cleanComment,
@@ -207,12 +225,14 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
 
       if (!response.ok) {
         // Try to get the error message from the response
+        setLoading(false);
         let errorMessage = `HTTP error! status: ${response.status}`;
         try {
           const errorData = await response.json();
           if (errorData && errorData.message) {
             errorMessage = errorData.message;
           }
+          setLoading(false);
         } catch (jsonError) {
           // If response can't be parsed as JSON, use the status text
           errorMessage = response.statusText || errorMessage;
@@ -230,7 +250,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       // Removing: setCommentsMenu(null);
     } catch (error: unknown) {
       console.error("Error submitting comment:", error);
-      const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+      const errorMessage =
+        error instanceof Error ? error.message : "Unknown error";
       setError(`Failed to post comment. Please try again. ${errorMessage}`);
     } finally {
       setLoading(false);
@@ -244,10 +265,18 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       return;
     }
     try {
-      const response = await fetch(`${WP_API_URL}/comments?post=${postId}&page=${page}`);
+      const response = await fetch(
+        `${WP_API_URL}/comments?post=${postId}&page=${page}`
+      );
       const data = await response.json();
       if (data.length === 0) {
         setHasMoreComments(false); // No more comments to fetch
+        if (page === 1) {
+          // If it's the first page and no comments, set comments to empty array
+          // This ensures we show the end of comments message
+          setComments([]);
+          setLoading(false);
+        }
       } else {
         if (page === 1) {
           setComments(data);
@@ -381,8 +410,8 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
       >
         <Box
           sx={{
-            minWidth: {xs: '50vw', sm: 400},
-            maxWidth: {xs: '100vw', sm: 450},
+            minWidth: { xs: "50vw", sm: 400 },
+            maxWidth: { xs: "100vw", sm: 450 },
             padding: 2,
             cursor: dragging ? "grabbing" : "grab",
             userSelect: "none",
@@ -482,7 +511,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     justifyContent: "center",
                     alignItems: "center",
                     minHeight: "150px", // Fixed height to maintain container shape
-                    width: "100%"
+                    width: "100%",
                   }}
                 >
                   <CircularProgress color={"success"} />
@@ -491,6 +520,28 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                 comments.map((comment: any) => (
                   <Comment key={comment.id} comment={comment} user={user} />
                 ))
+              ) : !hasMoreComments ? (
+                /* Show the empty state message when hasMoreComments is false (API returned empty array) */
+                <Box
+                  sx={{
+                    display: "flex",
+                    flexDirection: "column",
+                    justifyContent: "center",
+                    alignItems: "center",
+                    height: "150px",
+                  }}
+                >
+                  <Typography
+                    variant="body2"
+                    sx={{
+                      textAlign: "center",
+                      color: "#A1A1A1",
+                      padding: 2,
+                    }}
+                  >
+                    No comments yet. Be the first to add one!
+                  </Typography>
+                </Box>
               ) : (
                 <Box
                   sx={{
@@ -500,7 +551,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                     height: "150px",
                   }}
                 >
-<CircularProgress color={"success"} />
+                  <CircularProgress color={"success"} />
                 </Box>
               )}
               {loadingMore && hasMoreComments && (
@@ -546,10 +597,12 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                       whiteSpace: "pre-wrap",
                       overflowWrap: "break-word",
                       overflow: "scroll",
-                      fontSize: {xs: '12px', sm: '16px'},
+                      fontSize: { xs: "12px", sm: "16px" },
                     }}
                   >
-                    No more comments to load... Add yours ! or Why not head to our blog and see which verses are trending ? Just click the Menu in the Top Right corner of your screen
+                    No more comments to load... Add yours ! or Why not head to
+                    our blog and see which verses are trending ? Just click the
+                    Menu in the Top Right corner of your screen
                   </Typography>
                   <Box
                     sx={{
@@ -645,15 +698,19 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                   }}
                 />
                 {error && (
-                  <Typography color="error" variant="body2" sx={{ 
-                    display: 'block', 
-                    width: '100%', 
-                    mt: 1, 
-                    mb: 1, 
-                    wordBreak: "break-word",
-                    whiteSpace: "normal",
-                    overflowWrap: "break-word"
-                  }}>
+                  <Typography
+                    color="error"
+                    variant="body2"
+                    sx={{
+                      display: "block",
+                      width: "100%",
+                      mt: 1,
+                      mb: 1,
+                      wordBreak: "break-word",
+                      whiteSpace: "normal",
+                      overflowWrap: "break-word",
+                    }}
+                  >
                     {/* Decode HTML entities in the error message */}
                     <div dangerouslySetInnerHTML={{ __html: error }} />
                   </Typography>
@@ -687,8 +744,18 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
                   disabled={loading || charCount > charLimit}
                 >
                   {loading ? (
-                    <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                      <CircularProgress size={16} color="inherit" sx={{ mr: 1 }} />
+                    <Box
+                      sx={{
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                      }}
+                    >
+                      <CircularProgress
+                        size={16}
+                        color="inherit"
+                        sx={{ mr: 1 }}
+                      />
                       Posting...
                     </Box>
                   ) : (
