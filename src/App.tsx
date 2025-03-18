@@ -118,7 +118,7 @@ export default function App() {
     <ThemeProvider theme={theme}>
       <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
         <div className="App">
-          <Header loggedIn={loggedIn} />
+          <Header isDarkMode={darkMode} loggedIn={loggedIn} />
           <SubscriptionProvider>
             <Routes>
               <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />

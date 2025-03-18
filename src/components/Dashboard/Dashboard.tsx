@@ -409,10 +409,8 @@ useEffect(() => {
     if (paperRef.current) {
       // Get Paper element's bottom position
       const paperBottom = paperRef.current.getBoundingClientRect().bottom;
-
-      console.log(paperBottom)
-      console.log(paperRef.current)
-      
+      // console.log(paperBottom)
+      // console.log(paperRef.current)
       // If paperBottom is above viewport (user scrolled past Paper)
       // then hide pagination, otherwise show it
       setShowPagination(paperBottom > 150);
