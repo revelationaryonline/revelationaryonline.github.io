@@ -273,12 +273,12 @@ function Header(props: HeaderProps) {
       <Box sx={{ mb: 3 }}>
         {loggedIn ? (
           <>
-            <MenuItem component={RouterLink} to="/profile" onClick={handleDrawerToggle}>
+            {/* <MenuItem component={RouterLink} to="/profile" onClick={handleDrawerToggle}>
               <Person sx={{ mr: 2 }} /> Profile
             </MenuItem>
             <MenuItem component={RouterLink} to="/account" onClick={handleDrawerToggle}>
               <Settings sx={{ mr: 2 }} /> Settings
-            </MenuItem>
+            </MenuItem> */}
             <MenuItem onClick={() => {
               setSignOutDialogOpen(true);
               handleDrawerToggle();
@@ -394,13 +394,14 @@ function Header(props: HeaderProps) {
               <Menu
                 sx={{
                   // mt: "45px",
-                  backgroundColor: "#212121AA",
+                  backgroundColor: "#212121AA", //transparent background overlay
                   borderRadius: 0,
                   "& ul": {
                     "&.MuiList-root": {
                       "&.MuiList-padding": {
                         "&.MuiMenu-list": {
-                          background: "#212121 !important",
+                          background: (theme) =>
+                            theme.palette.mode === "dark" ? "#212121" : "#FFF",
                           borderRadius: "0px",
                         },
                       },
@@ -424,7 +425,6 @@ function Header(props: HeaderProps) {
                 {loggedIn ? (
                   <div
                     style={{
-                      backgroundColor: "#212121",
                       padding: 0,
                       margin: 0,
                       borderRadius: 0,
@@ -439,7 +439,8 @@ function Header(props: HeaderProps) {
                             mt: 1,
                             fontSize: "0.75rem",
                             fontWeight: 600,
-                            color: "white",
+                            color: (theme) =>
+                              theme.palette.mode === "light" ? "#212121" : "#FFF",
                           }}
                         >
                           {user.displayName}
@@ -450,13 +451,14 @@ function Header(props: HeaderProps) {
                             mt: -1,
                             fontSize: "0.65rem",
                             fontWeight: 400,
-                            color: "white",
+                            color: (theme) =>
+                              theme.palette.mode === "light" ? "#212121" : "#FFF",
                             display: "flex",
                             alignItems: "center",
                           }}
                         >
                           <Circle sx={{ width: 10 }} htmlColor={"#02b548"} />
-                          &nbsp;Active
+                          &nbsp;&nbsp;Active
                         </Typography>
                       </div>
                     </MenuItem>
