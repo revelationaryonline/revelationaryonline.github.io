@@ -16,6 +16,9 @@ import Avatar from "@mui/material/Avatar";
 import Typography from "@mui/material/Typography";
 import Circle from "@mui/icons-material/Circle";
 import PersonIcon from "@mui/icons-material/Person";
+import BookmarkIcon from "@mui/icons-material/Bookmark";
+import AccessTimeIcon from "@mui/icons-material/AccessTime";
+import CommentIcon from "@mui/icons-material/Comment";
 import Dialog from "@mui/material/Dialog";
 import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
@@ -41,10 +44,11 @@ import Snackbar from "@mui/material/Snackbar";
 import Chip from "@mui/material/Chip";
 import CheckCircleOutline from "@mui/icons-material/CheckCircleOutline";
 import RefreshIcon from "@mui/icons-material/Refresh";
-import PublishedWithChangesIcon from '@mui/icons-material/PublishedWithChanges';
-import PauseIcon from '@mui/icons-material/Pause';
-import ManageAccountsIcon from '@mui/icons-material/ManageAccounts';
+import PublishedWithChangesIcon from "@mui/icons-material/PublishedWithChanges";
+import PauseIcon from "@mui/icons-material/Pause";
+import ManageAccountsIcon from "@mui/icons-material/ManageAccounts";
 import Footer from "../components/Footer/Footer";
+import SubscriptionStatus from "../components/Subscription/SubscriptionStatus";
 
 function AccountContent({
   loggedIn,
@@ -419,7 +423,80 @@ function AccountContent({
                         </ListItem>
                       </List>
                     </Grid>
-                    <Grid item xs={12} md={6} sx={{ textAlign: "right" }}>
+                    <Grid
+                      item
+                      xs={12}
+                      md={6}
+                      sx={{
+                        display: "flex",
+                        flexDirection: "column",
+                        alignItems: "flex-start",
+                      }}
+                    >
+                      <Box sx={{ mb: 3, minWidth: "100%", mt: 2 }}>
+                        <Typography variant="h6" gutterBottom align="left">
+                          What's included in your subscription:
+                        </Typography>
+                        <List>
+                          <ListItem>
+                            <ListItemIcon>
+                              <CommentIcon color="primary" />
+                            </ListItemIcon>
+                            <ListItemText
+                              primary="Comments"
+                              secondary="Share your insights and discuss scriptures with others"
+                            />
+                          </ListItem>
+                          <ListItem>
+                            <ListItemIcon>
+                              <BookmarkIcon color="primary" />
+                            </ListItemIcon>
+                            <ListItemText
+                              primary="Premium Features"
+                              secondary="Access to all current and future premium features"
+                            />
+                          </ListItem>
+                          <ListItem>
+                            <ListItemIcon>
+                              <AccessTimeIcon color="primary" />
+                            </ListItemIcon>
+                            <ListItemText
+                              primary="Priority Support"
+                              secondary="Get help quickly when you need it"
+                            />
+                          </ListItem>
+                        </List>
+                      </Box>
+
+                      <Box
+                        sx={{
+                          display: "flex",
+                          justifyContent: "center",
+                          gap: 2,
+                          mt: 4,
+                        }}
+                      >
+                        <Button
+                          href="https://billing.stripe.com/p/login/00g14P1th6YseVaaEE"
+                          target="_blank"
+                          variant="contained"
+                          color="secondary"
+                          size="large"
+                        >
+                          Manage Subscription
+                        </Button>
+                      </Box>
+                    </Grid>
+                    <Grid
+                      item
+                      xs={12}
+                      md={6}
+                      sx={{
+                        display: "flex",
+                        flexDirection: "column",
+                        alignItems: "flex-end",
+                      }}
+                    >
                       {/* <Typography
                         sx={{
                           display: "block",
@@ -431,6 +508,13 @@ function AccountContent({
                       >
                         SUBSCRIPTIONS
                       </Typography> */}
+
+                      {/* SUBSCRIPTION SQUARE BLOCK */}
+
+                      <Box sx={{ mb: 3, minWidth: "100%", mt: 2 }}>
+                        <SubscriptionStatus />
+                      </Box>
+
                       <List
                         sx={{
                           marginTop: "1rem",
@@ -523,7 +607,7 @@ function AccountContent({
                     p: 2,
                     display: "flex",
                     flexDirection: "column",
-                    backgroundColor: "#BB0000",
+                    backgroundColor: "#BB000000",
                     cursor: "pointer",
                     fontFamily: "Comfortaa",
                     "&:hover": {
@@ -532,9 +616,7 @@ function AccountContent({
                   }}
                   elevation={4}
                 >
-                  <Typography>
-                  DELETE ACCOUNT
-                  </Typography>
+                  <Typography>DELETE ACCOUNT</Typography>
                 </Paper>
               </Grid>
               {deleteDebug === "true" && (

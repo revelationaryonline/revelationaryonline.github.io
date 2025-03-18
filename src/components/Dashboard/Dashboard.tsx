@@ -1,4 +1,5 @@
-import React, { useState, useEffect, useMemo, ChangeEvent } from "react";
+import React, { useState, useEffect, useMemo, ChangeEvent, useRef } from "react";
+import { useNavigate } from "react-router-dom";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import Cookies from "js-cookie";
 import CssBaseline from "@mui/material/CssBaseline";
@@ -41,6 +42,9 @@ import { User } from "firebase/auth";
 import MenuItem from "@mui/material/MenuItem";
 import Alert from "../Alert/Alert"
 import Footer from "../Footer/Footer";
+import SubscriptionCheck from "../Subscription/SubscriptionCheck";
+import { useSubscription } from "../../contexts/SubscriptionContext";
+import SubscriptionPromptDialog from "../Subscription/SubscriptionPromptDialog";
 
 interface DashboardContentProps {
   loggedIn: boolean;
@@ -64,6 +68,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
   setWpToken,
 }) => {
   const [open, setOpen] = useState(false);
+  const navigate = useNavigate();
   const toggleDrawer = () => {
     setOpen(!open);
   };
@@ -358,10 +363,24 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
     handleClose();
   };
 
+  const { subscription, canUseComments } = useSubscription();
+  const [subscriptionPromptOpen, setSubscriptionPromptOpen] = useState(false);
+
+  
   const handleCommentOpen = (event: React.MouseEvent, verse: Verse) => {
     if (!loggedIn) return;
+    
     event.preventDefault();
     event.stopPropagation();
+    
+    // Check subscription status first
+    if (!canUseComments) {
+      // Show subscription prompt instead of comment form
+      setSubscriptionPromptOpen(true);
+      return;
+    }
+    
+    // For subscribers, continue with opening the comment form
     setCommentsMenu(
       commentsMenu === null
         ? {
@@ -371,15 +390,44 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         : null
     );
     setCommentPosition({ x: event.clientX, y: event.clientY });
-    setCommentOpen(true);
     setSlug(`${verse.book.trim()}-${verse.chapter}${verse.verse}`);
+    setCommentOpen(true);
   };
+  
 
   const paginatedResults = useMemo(() => {
     const startIndex = (searchPage - 1) * resultsPerPage;
     const endIndex = startIndex + resultsPerPage;
     return result.slice(startIndex, endIndex);
   }, [result, searchPage, resultsPerPage]);
+
+  const paperRef = useRef<HTMLDivElement>(null);
+const [showPagination, setShowPagination] = useState(true);
+
+useEffect(() => {
+  const handleScroll = () => {
+    if (paperRef.current) {
+      // Get Paper element's bottom position
+      const paperBottom = paperRef.current.getBoundingClientRect().bottom;
+      // console.log(paperBottom)
+      // console.log(paperRef.current)
+      // If paperBottom is above viewport (user scrolled past Paper)
+      // then hide pagination, otherwise show it
+      setShowPagination(paperBottom > 150);
+    }
+  };
+  
+  // Add scroll listener to window
+  window.addEventListener('scroll', handleScroll);
+  
+  // Initial check
+  handleScroll();
+  
+  // Cleanup
+  return () => {
+    window.removeEventListener('scroll', handleScroll);
+  };
+}, []);
 
   return (
     <>
@@ -496,6 +544,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
               lg={checked.includes("guide") ? 9 : 12}
             >
               <Paper
+                ref={paperRef} 
                 sx={{
                   px: { xs: 4, md: 8 },
                   py: 12,
@@ -822,12 +871,12 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                       ))}
                 </Typography>
 
-                {verse && verse.length > 1 && (
+                {verse && verse.length > 1 && showPagination && (
                   <>
                     <Pagination
                       sx={{
                         opacity: 1,
-                        position: "absolute",
+                        position: "fixed",
                         marginLeft: "-65px",
                         pl: {xs: 3, sm: 1},
                         mt: "83px", // 83 Samantha
@@ -923,6 +972,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
             />
           </Grid>
           {commentOpen && selectedVerse && (
+            <SubscriptionCheck feature="comments">
             <FloatingCommentForm
               user={user}
               open={commentOpen}
@@ -939,10 +989,17 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
               setSelectedVerse={setSelectedVerse}
               handleClose={handleClose}
             />
+            </SubscriptionCheck>
           )}
           <WPLoginModal user={user} wpToken={wpToken} setToken={setWpToken} />
+          <SubscriptionPromptDialog
+  open={subscriptionPromptOpen}
+  onClose={() => setSubscriptionPromptOpen(false)}
+  feature="comments"
+/>
         </Container>
       </Box>
+
       {commentOpen &&
       <Alert  message={""} link="" />
       }
