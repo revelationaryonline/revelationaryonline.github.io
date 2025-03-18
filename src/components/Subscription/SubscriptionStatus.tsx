@@ -12,6 +12,7 @@ import {
   DialogContentText,
   DialogActions
 } from '@mui/material';
+import { Link as RouterLink } from 'react-router-dom';
 import { useSubscription } from '../../contexts/SubscriptionContext';
 import { cancelSubscription } from '../../services/stripe';
 
@@ -141,8 +142,8 @@ const SubscriptionStatus: React.FC = () => {
           <Button 
             variant="contained" 
             color="primary"
-            component="a"
-            href="/subscribe"
+            component={RouterLink}
+            to="/subscribe"
           >
             Subscribe Now
           </Button>
