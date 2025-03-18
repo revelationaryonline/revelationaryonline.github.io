@@ -41,10 +41,10 @@ const SubscribePage: React.FC<SubscribePageProps> = ({ user, loggedIn }) => {
   };
   
   const features = [
-    'Unlimited Study Notes',
+    // 'Unlimited Study Notes',
     'Advanced Search Features',
     'Personal Verse Highlights',
-    'Commentary Access',
+    'Add Verse Comments',
     'Ad-Free Experience'
   ];
   
