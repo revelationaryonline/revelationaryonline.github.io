@@ -5,7 +5,6 @@ import Container from "@mui/material/Container";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import TwitterIcon from "@mui/icons-material/Twitter";
-import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Header from "../components/Home/Header";
 import MainFeaturedPost from "../components/Home/MainFeaturedPost";
 import FeaturedPost from "../components/Home/FeaturedPost";

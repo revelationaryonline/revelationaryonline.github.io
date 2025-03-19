@@ -34,7 +34,6 @@ import {
   capitalise,
 } from "../../utils/misc";
 import useHighlight from "../../hooks/useHighlight";
-import { Copyright } from "../Copyright/Copyright";
 import Container from "@mui/material/Container";
 import IconButton from "@mui/material/IconButton";
 import Tooltip from "@mui/material/Tooltip";

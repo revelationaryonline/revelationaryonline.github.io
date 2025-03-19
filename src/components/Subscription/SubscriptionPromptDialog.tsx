@@ -74,7 +74,7 @@ const SubscriptionPromptDialog: React.FC<SubscriptionPromptDialogProps> = ({
           to="/subscribe"
           variant="contained"
           color="primary"
-          sx={{ minWidth: '120px' }}
+          sx={{ minWidth: '120px', fontSize: '15px' }}
           onClick={onClose}
         >
           Subscribe Now

@@ -1,6 +1,3 @@
-// Stripe service for payment links and subscription management
-import { loadStripe } from '@stripe/stripe-js';
-
 // Define payment links for subscription plans (placeholder links)
 export const SUBSCRIPTION_PLANS = {
   MONTHLY: {
