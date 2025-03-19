@@ -36,11 +36,9 @@ import useHighlight from "../hooks/useHighlight";
 
 const BIBLE_VERSIONS = [
   { value: "KJV", label: "King James Version" },
-  { value: "NIV", label: "New International Version" },
-  { value: "ESV", label: "English Standard Version" },
-  { value: "NASB", label: "New American Standard Bible" },
+  { value: "-", label: "New Versions Soon" },
 ];
-
+ 
 function ProfileContent({
   loggedIn,
   user,
@@ -116,13 +114,13 @@ function ProfileContent({
   const [displayName, setDisplayName] = useState("");
   const [email, setEmail] = useState("");
   const [photoURL, setPhotoURL] = useState("");
-  // const [bibleVersion, setBibleVersion] = useState("KJV");
+  const [bibleVersion, setBibleVersion] = useState("KJV");
   const [bio, setBio] = useState("");
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       if (currentUser) {
-        console.log(currentUser);
+        // console.log(currentUser);
         setUser(currentUser);
         setDisplayName(currentUser?.displayName || "");
         setEmail(currentUser?.email || "");
@@ -189,7 +187,7 @@ function ProfileContent({
 
         const allComments = await response.json();
 
-        console.log(allComments)
+        // console.log(allComments)
 
         // Filter comments by the current user
         const userComments = allComments
@@ -219,15 +217,14 @@ function ProfileContent({
         `${process.env.REACT_APP_WP_API_URL}/users/${userId}`,
         {
           headers: {
-            Authorization: `JWT ${Cookies.get("wpToken")}`,
+            Authorization: `Basic ${btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`)}`,
           },
         }
       ).then((res) => res.json());
 
       if (wpUser.meta) {
-        // setBibleVersion(wpUser.meta.preferred_bible_version || "KJV");
+        setBibleVersion(wpUser.meta.preferred_bible_version || "KJV");
         // setBio(wpUser.description || "");
-        console.log(wpUser);
       }
     } catch (error) {
       console.error("Failed to load WordPress preferences:", error);
@@ -250,7 +247,7 @@ function ProfileContent({
         });
 
         await updateWordPressUserMeta(parseInt(userId), {
-          preferred_bible_version: "KJV",
+          preferred_bible_version: bibleVersion,
         });
       }
 
@@ -336,6 +333,8 @@ function ProfileContent({
                       </Box>
                       <div style={{ borderRadius: 0 }}>
                         <Typography
+                          component="div"
+                          variant="body2"
                           sx={{
                             marginLeft: 2,
                             mt: 1,
@@ -348,6 +347,8 @@ function ProfileContent({
                           {user?.displayName}
                         </Typography>
                         <Typography
+                          component="div"
+                          variant="body2"
                           sx={{
                             marginLeft: 2,
                             mt: -1,
@@ -433,7 +434,7 @@ function ProfileContent({
                   <TextField
                     disabled
                     fullWidth
-                    value={user?.displayName}
+                    value={user && user?.displayName || ""}
                     onChange={(e) => setDisplayName(e.target.value)}
                     sx={{
                       mb: 3,
@@ -474,7 +475,7 @@ function ProfileContent({
                   />
                   <TextField
                     fullWidth
-                    value={user?.email}
+                    value={user && user?.email || ""}
                     disabled
                     sx={{
                       mb: 3,
@@ -567,14 +568,13 @@ function ProfileContent({
                   >
                     Study Preferences
                   </Typography>
-                  <Tooltip title="More versions soon !">
+                  {/* <Tooltip title="More versions soon !">
                     <FormControl fullWidth sx={{ mb: 3 }}>
                       <InputLabel>Preferred Bible Version</InputLabel>
                       <Select
-                        disabled
-                        value={"KJV"}
+                        value={bibleVersion}
                         label="Preferred Bible Version"
-                        // onChange={(e) => setBibleVersion(e.target.value)}
+                        onChange={(e) => setBibleVersion(e.target.value as string)}
                         sx={{
                           "&:hover .MuiOutlinedInput-notchedOutline": {
                             borderColor: "primary.main",
@@ -591,7 +591,48 @@ function ProfileContent({
                         ))}
                       </Select>
                     </FormControl>
-                  </Tooltip>
+                  </Tooltip> */}
+                  <TextField
+                    fullWidth
+                    value={"King James Version"}
+                    disabled
+                    sx={{
+                      mb: 3,
+                      WebkitBoxShadow: "none !important",
+                      "& .Mui-focused": {
+                        color: (theme) =>
+                          theme.palette.mode === "light"
+                            ? "black !important"
+                            : "white !important",
+                        "& .MuiOutlinedInput-notchedOutline": {
+                          borderColor: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "#ccc !important"
+                              : "#FFF !important",
+                          color: (theme) =>
+                            theme.palette.mode === "light"
+                              ? "black"
+                              : "white !important",
+                        },
+                        "& input:-webkit-autofill": {
+                          WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                          WebkitTextFillColor: (theme) =>
+                            theme.palette.mode === "light" ? "black" : "white",
+                          transition: "background-color 5000s ease-in-out 0s",
+                        },
+                      },
+                      "& .MuiInputBase-input": {
+                        color: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                      },
+                      "& .MuiInputBase-input:-webkit-autofill": {
+                        WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                        WebkitTextFillColor: (theme) =>
+                          theme.palette.mode === "light" ? "black" : "white",
+                        transition: "background-color 5000s ease-in-out 0s",
+                      },
+                    }}
+                  />
                 </Grid>
                 {/* Highlighted Verses Stats */}
                 <Grid item xs={12} md={12}>
@@ -611,7 +652,7 @@ function ProfileContent({
                   >
                     <Box sx={{ display: "flex", alignItems: "center" }}>
                       <BorderColorIcon sx={{ mr: 1, color: "primary.main" }} />
-                      <Typography variant="body1">
+                      <Typography component="div" variant="body1">
                         You have highlighted{" "}
                         <strong>{highlightedVerses?.length || 0}</strong> verses
                       </Typography>
@@ -671,7 +712,7 @@ function ProfileContent({
                           >
                             {new Date(comment.date).toLocaleDateString()}
                           </Typography>
-                          <Typography variant="body2">
+                          <Typography variant="body2" component="div">
                             <div
                               dangerouslySetInnerHTML={{
                                 __html:
