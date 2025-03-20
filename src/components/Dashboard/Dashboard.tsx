@@ -430,7 +430,7 @@ useEffect(() => {
 
   return (
     <>
-    <Box sx={{ display: "flex", mt: 5.75, height: "222vh" }}>
+    <Box sx={{ display: "flex", mt: 5.75, height: "100%" }}>
       <CssBaseline />
       {/* Hide SideBar on mobile devices */}
       <Box sx={{ display: { xs: 'none', sm: 'flex' } }}>
@@ -1009,7 +1009,7 @@ useEffect(() => {
         <CircularProgress color="inherit" />
       </Backdrop>
     </Box>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };
