@@ -15,6 +15,7 @@ import PaymentCanceledPage from "./pages/PaymentCanceledPage";
 import { Box } from "@mui/material";
 import CookieConsent from "./components/CookieConsent/CookieConsent";
 import { SubscriptionProvider } from "./contexts/SubscriptionContext";
+import { TourProvider } from "./components/Tour";
 
 // Import Firebase authentication
 import { getAuth, onAuthStateChanged, User } from "firebase/auth";
@@ -130,6 +131,7 @@ export default function App() {
               <Route path="/payment-success" element={<PaymentSuccessPage />} />
               <Route path="/payment-canceled" element={<PaymentCanceledPage />} />
             </Routes>
+            <TourProvider loggedIn={loggedIn} user={user} wpToken={wpToken} />
             <CookieConsent />
           </SubscriptionProvider>
         </div>
