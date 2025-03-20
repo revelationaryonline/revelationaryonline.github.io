@@ -430,7 +430,7 @@ useEffect(() => {
 
   return (
     <>
-    <Box sx={{ display: "flex", mt: 5.75, height: "100%" }}>
+    <Box sx={{ display: "flex", mt: 5.75 }}>
       <CssBaseline />
       {/* Hide SideBar on mobile devices */}
       <Box sx={{ display: { xs: 'none', sm: 'flex' } }}>
@@ -452,6 +452,7 @@ useEffect(() => {
           // height: "100vh",
           height: "220vh",
           overflowX: { xs: 'hidden', md: 'auto' },
+          overflowY: "scroll",
           mt: { xs: "0.5rem", sm: "1rem" },
         }}
       >
