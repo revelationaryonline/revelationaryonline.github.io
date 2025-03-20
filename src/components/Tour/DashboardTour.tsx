@@ -55,26 +55,44 @@ const DashboardTour: React.FC<DashboardTourProps> = ({ user, wpToken }) => {
   useEffect(() => {
     // Check if the user has seen the tour before
     const checkTourStatus = () => {
+      // Check for development mode reset parameter
+      const urlParams = new URLSearchParams(window.location.search);
+      const resetTour = urlParams.get('resetTour');
+
+      // If resetTour is explicitly set to 'true', run the tour regardless
+      if (resetTour === 'true') {
+        setRun(true);
+        return;
+      }
+
+      // Otherwise check cookies/localStorage
       if (user && user.uid) {
         // For logged-in users, check cookies or localStorage
         const hasSeenTourCookie = Cookies.get(`dashboardTourCompleted_${user.uid}`);
         const hasSeenTourLocal = localStorage.getItem(`dashboardTourCompleted_${user.uid}`);
         
+        // Only start the tour if both cookie and localStorage are missing
         if (!hasSeenTourCookie && !hasSeenTourLocal) {
           setRun(true);
+        } else {
+          setRun(false);
         }
       } else {
         // For anonymous users or when not logged in
         const hasSeenTourCookie = Cookies.get('dashboardTourCompleted');
         const hasSeenTourLocal = localStorage.getItem('dashboardTourCompleted');
         
+        // Only start the tour if both cookie and localStorage are missing
         if (!hasSeenTourCookie && !hasSeenTourLocal) {
           setRun(true);
+        } else {
+          setRun(false);
         }
       }
     };
 
-    checkTourStatus();
+    // Add a slight delay to ensure cookies/localStorage are read properly
+    setTimeout(checkTourStatus, 100);
   }, [user]);
 
   const handleJoyrideCallback = (data: CallBackProps) => {
@@ -87,13 +105,18 @@ const DashboardTour: React.FC<DashboardTourProps> = ({ user, wpToken }) => {
       // Save that the user has completed the tour
       if (user && user.uid) {
         // Save in cookie for logged-in users with a user ID
-        Cookies.set(`dashboardTourCompleted_${user.uid}`, 'true', { expires: 365 });
+        Cookies.set(`dashboardTourCompleted_${user.uid}`, 'true', { expires: 365, path: '/' });
         localStorage.setItem(`dashboardTourCompleted_${user.uid}`, 'true');
       } else {
         // Save in cookie for anonymous users
-        Cookies.set('dashboardTourCompleted', 'true', { expires: 365 });
+        Cookies.set('dashboardTourCompleted', 'true', { expires: 365, path: '/' });
         localStorage.setItem('dashboardTourCompleted', 'true');
       }
+
+      // Double-check that cookies were set properly
+      console.log('Tour completed - cookie status:', user?.uid ? 
+        Cookies.get(`dashboardTourCompleted_${user.uid}`) : 
+        Cookies.get('dashboardTourCompleted'));
     }
   };
 
