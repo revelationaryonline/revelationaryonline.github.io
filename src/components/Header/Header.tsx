@@ -567,7 +567,7 @@ function Header(props: HeaderProps) {
                   </div>
                 ) : (
                   <MenuItem sx={{ paddingY: 1 }} onClick={handleCloseUserMenu}>
-                    <Link to="/login">Login</Link>
+                    <Link to="/login">Login / Sign Up</Link>
                   </MenuItem>
                 )}
               </Menu>
