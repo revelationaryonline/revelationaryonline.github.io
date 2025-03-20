@@ -451,7 +451,7 @@ useEffect(() => {
           flexGrow: 1,
           // height: "100vh",
           height: "220vh",
-          overflow: "auto",
+          overflowX: { xs: 'hidden', md: 'auto' },
           mt: { xs: "0.5rem", sm: "1rem" },
         }}
       >
