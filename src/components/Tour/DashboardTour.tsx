@@ -27,9 +27,9 @@ const DashboardTour: React.FC<DashboardTourProps> = ({ user, wpToken }) => {
       title: 'Search Bar'
     },
     {
-      target: '.verse__container',
-      content: 'Bible verses appear here. If you subscribe, You can leave comments on each verse. If you sign up by email, you can highlight verses by selecting the text.',
-      placement: 'top',
+      target: '.verse__title',
+      content: 'Bible verses appear below. If you subscribe, You can leave comments on each verse. If you sign up by email, you can highlight verses by selecting the text.',
+      placement: 'bottom',
       title: 'Bible Verses'
     },
     {
@@ -129,6 +129,12 @@ const DashboardTour: React.FC<DashboardTourProps> = ({ user, wpToken }) => {
       scrollToFirstStep
       showProgress
       showSkipButton
+      locale={{
+        last: 'Complete',
+        next: 'Next',
+        skip: 'Skip',
+        back: 'Back'
+      }}
       steps={steps}
       styles={{
         options: {
@@ -156,6 +162,7 @@ const DashboardTour: React.FC<DashboardTourProps> = ({ user, wpToken }) => {
         tooltipTitle: {
           fontSize: '16px',
           fontWeight: 'bold',
+          marginLeft: '0.5rem',
           color: theme.palette.primary.main,
         },
         buttonNext: {

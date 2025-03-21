@@ -48,6 +48,9 @@ import Login from "@mui/icons-material/Login";
 import Person from "@mui/icons-material/Person";
 import Logout from "@mui/icons-material/Logout";
 import Settings from "@mui/icons-material/Settings";
+import Brightness4Icon from "@mui/icons-material/Brightness4"; // Dark mode icon
+import Brightness7Icon from "@mui/icons-material/Brightness7"; // Light mode icon
+import Switch from "@mui/material/Switch";
 import Dialog from "@mui/material/Dialog";
 import DialogContent from "@mui/material/DialogContent";
 
@@ -59,6 +62,7 @@ interface HeaderProps {
   window?: () => Window;
   loggedIn: boolean;
   isDarkMode: boolean;
+  toggleDarkMode: () => void;
 }
 
 // Tutorial video interface
@@ -69,7 +73,7 @@ interface TutorialVideo {
 }
 
 function Header(props: HeaderProps) {
-  const { window, loggedIn, isDarkMode } = props;
+  const { window, loggedIn, isDarkMode, toggleDarkMode } = props;
   const [mobileOpen, setMobileOpen] = useState(false);
   const [user, setUser] = useState<any>(null);
   const [anchorElUser, setAnchorElUser] = useState<null | HTMLElement>(null);
@@ -360,8 +364,8 @@ function Header(props: HeaderProps) {
                     width: "20px",
                     height: "20px",
                     marginTop: "7px",
-                    marginRight: 10,
-                    marginLeft: 10,
+                    marginRight: 10, 
+                    marginLeft: 0,
                     filter: isDarkMode ? "invert(1)" : "none",
                   }}
                 ></img>
@@ -369,12 +373,13 @@ function Header(props: HeaderProps) {
                   // variant="p"
                   component="div"
                   sx={{
-                    textAlign: { xs: "center", sm: "left" },
+                    textAlign: { xs: "left", sm: "left" },
                     marginTop: "3.5px",
                     flexGrow: 1,
                     fontFamily: "cardo",
                     fontWeight: 600,
                     fontStyle: "bold",
+                    fontSize: { xs: "14px", sm: "16px" },
                     letterSpacing: "1.65px",
                     color: (theme) =>
                       theme.palette.mode === "light" ? "#212121" : "#FFF",
@@ -385,7 +390,35 @@ function Header(props: HeaderProps) {
               </Box>
             </Link>
 
-            <Box sx={{ flexGrow: 0, borderRadius: 0 }}>
+            <Box sx={{ flexGrow: 0, borderRadius: 0, display: 'flex', alignItems: 'center' }}>
+              {/* Dark Mode Toggle */}
+              {/* Show IconButton on mobile, Switch on larger screens */}
+              <Box sx={{ display: { xs: 'none', sm: 'flex' }, alignItems: 'center', mr: 3 }}>
+                <Brightness7Icon sx={{ fontSize: '1rem', color: isDarkMode ? 'inherit' : 'text.disabled' }} />
+                <Switch
+                  size="small"
+                  checked={isDarkMode}
+                  onChange={toggleDarkMode}
+                  inputProps={{ 'aria-label': 'toggle dark mode' }}
+                  sx={{ mx: 0.5 }}
+                />
+                <Brightness4Icon sx={{ fontSize: '1rem', color: isDarkMode ? 'text.disabled' : 'inherit' }} />
+              </Box>
+              
+              {/* IconButton only for mobile */}
+              <Tooltip title={isDarkMode ? "Switch to light mode" : "Switch to dark mode"}>
+                <IconButton 
+                  onClick={toggleDarkMode} 
+                  sx={{ 
+                    mr: 2, 
+                    display: { xs: 'flex', sm: 'none' },
+                    padding: '4px'
+                  }}
+                >
+                  {isDarkMode ? <Brightness7Icon fontSize="small" /> : <Brightness4Icon fontSize="small" />}
+                </IconButton>
+              </Tooltip>
+              
               <Tooltip title={user && user.displayName}>
                 <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
                   <UserAvatar user={user} size={32} />
