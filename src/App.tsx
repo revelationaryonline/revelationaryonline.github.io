@@ -32,12 +32,26 @@ export default function App() {
 
   // Check for the user's theme preference on initial load
   useEffect(() => {
-    const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    setDarkMode(prefersDark);
+    // First check if there's a saved preference in localStorage
+    const savedTheme = localStorage.getItem('darkMode');
+    
+    if (savedTheme !== null) {
+      // Use saved preference if available
+      setDarkMode(savedTheme === 'true');
+    } else {
+      // If no saved preference, use dark mode by default instead of system preference
+      setDarkMode(true);
+      
+      // Save the default preference
+      localStorage.setItem('darkMode', 'true');
+    }
 
-    // Listen for changes in theme preference
+    // Listen for changes in system theme preference (optional)
     const themeChangeListener = (e: MediaQueryListEvent) => {
-      setDarkMode(e.matches);
+      // Only change theme based on system if no explicit user preference is saved
+      if (localStorage.getItem('darkMode') === null) {
+        setDarkMode(e.matches);
+      }
     };
     
     window.matchMedia("(prefers-color-scheme: dark)").addEventListener('change', themeChangeListener);
@@ -119,7 +133,15 @@ export default function App() {
     <ThemeProvider theme={theme}>
       <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
         <div className="App">
-          <Header isDarkMode={darkMode} loggedIn={loggedIn} />
+          <Header 
+            isDarkMode={darkMode} 
+            loggedIn={loggedIn} 
+            toggleDarkMode={() => {
+              const newMode = !darkMode;
+              setDarkMode(newMode);
+              localStorage.setItem('darkMode', newMode.toString());
+            }} 
+          />
           <SubscriptionProvider>
             <Routes>
               <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
