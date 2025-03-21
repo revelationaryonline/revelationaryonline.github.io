@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { ThemeProvider } from "@mui/material/styles";
+// import { ThemeProvider } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
@@ -28,7 +28,6 @@ import {
   GoogleAuthProvider,
 } from "firebase/auth";
 import { auth } from "../firebase";
-import { mdTheme } from "../utils/misc";
 import Cookies from "js-cookie";
 import TextField from "@mui/material/TextField";
 import Alert from "@mui/material/Alert";
@@ -327,8 +326,8 @@ function AccountContent({
   }, []);
 
   return (
-    <ThemeProvider theme={mdTheme}>
-      <Box sx={{ display: "flex", marginTop: "15px", fontFamily: "Quicksand" }}>
+    <>
+    <Box sx={{ display: "flex", marginTop: "15px", fontFamily: "Quicksand" }}>
         <CssBaseline />
         {/* sidebar */}
         <Box
@@ -515,11 +514,6 @@ function AccountContent({
                           bgcolor: "background.transparent",
                           float: "center",
                         }}
-                        // subheader={
-                        //   <ListSubheader sx={{ background: "none", textAlign: "left" }}>
-                        //     Settings
-                        //   </ListSubheader>
-                        // }
                       >
                         {/* <ListItem>
                           <ListItemIcon>
@@ -746,7 +740,7 @@ function AccountContent({
           </Container>
         </Box>
       </Box>
-      {/* Confirmation Dialog */}
+      <Box>
       <Dialog
         open={openDialog}
         onClose={() => !isDeleting && setOpenDialog(false)}
@@ -838,7 +832,8 @@ function AccountContent({
         </Alert>
       </Snackbar> */}
       <Footer />
-    </ThemeProvider>
+    </Box>
+    </>
   );
 }
 
