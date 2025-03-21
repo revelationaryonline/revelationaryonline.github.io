@@ -449,10 +449,8 @@ useEffect(() => {
               ? "#FFFFFF"
               : theme.palette.grey[900],
           flexGrow: 1,
-          // height: "100vh",
-          height: "220vh",
-          overflowX: { xs: 'hidden', md: 'auto' },
-          overflowY: "scroll",
+          minHeight: "100vh",
+          overflowX: "hidden",
           mt: { xs: "0.5rem", sm: "1rem" },
         }}
       >
