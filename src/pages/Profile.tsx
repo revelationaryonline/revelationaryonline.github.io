@@ -15,24 +15,35 @@ import {
   Alert,
   Snackbar,
   Tooltip,
+  Tab,
+  Tabs,
+  Divider,
+  Avatar,
+  Chip,
 } from "@mui/material";
 import { PhotoCamera, Save } from "@mui/icons-material";
 import BorderColorIcon from "@mui/icons-material/BorderColor";
 import CommentIcon from "@mui/icons-material/Comment";
 import DeleteIcon from "@mui/icons-material/Delete";
+import PersonIcon from "@mui/icons-material/Person";
+import NoteIcon from "@mui/icons-material/Note";
+import BookIcon from "@mui/icons-material/Book";
+import EmojiEventsIcon from "@mui/icons-material/EmojiEvents";
+import WhatshotIcon from "@mui/icons-material/Whatshot";
 import IconButton from "@mui/material/IconButton";
-import { onAuthStateChanged, updateProfile, User } from "firebase/auth";
+import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "../firebase";
 import {
   updateWordPressProfile,
   updateWordPressUserMeta,
-  uploadProfileImage,
 } from "../services/wordpress";
 import Circle from "@mui/icons-material/Circle";
 import { optimizeImage } from "../utils/imageUtils";
 import { UserAvatar } from "../components/UserAvatar/UserAvatar";
 import Footer from "../components/Footer/Footer";
 import useHighlight from "../hooks/useHighlight";
+import AchievementsPanel from "../components/BibleReading/AchievementsPanel";
+import ReadingStatsPanel from "../components/BibleReading/ReadingStatsPanel";
 
 const BIBLE_VERSIONS = [
   { value: "KJV", label: "King James Version" },
@@ -48,6 +59,12 @@ function ProfileContent({
   user: any;
   setUser: any;
 }) {
+  const [activeTab, setActiveTab] = useState(0);
+  
+  const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
+    setActiveTab(newValue);
+  };
+  
   // Add inside the component
   const { highlightedVerses } = useHighlight();
   const [comments, setComments] = useState<any[]>([]);
@@ -197,9 +214,32 @@ function ProfileContent({
           .map((comment: any) => {
             // Add transformed verse reference if available
             if (comment.post) {
-              const postSlug =
-                comment._embedded?.post?.[0]?.slug || comment.post_name || "";
-              comment.verseReference = transformSlugToVerse(postSlug);
+              // Check for embedded post data first (structure varies between endpoints)
+              // Try both comment._embedded.post and comment._embedded.up
+              const postData = comment._embedded?.post?.[0] || comment._embedded?.up?.[0] || {};
+              const postTitle = postData?.title?.rendered || "";
+              const postSlug = postData?.slug || comment.post_name || "";
+              
+              // Try to get verse reference from title first (more accurate)
+              if (postTitle) {
+                // Clean up the title - often has the verse reference like "Psalms 139:13"
+                const cleanTitle = postTitle.replace(/&[^;]+;/g, '').trim();
+                
+                // Check if the title looks like a verse reference (Book Chapter:Verse)
+                const versePattern = /^([\w\s]+)\s+(\d+):(\d+).*$/i;
+                const titleMatch = cleanTitle.match(versePattern);
+                
+                if (titleMatch) {
+                  const [, book, chapter, verse] = titleMatch;
+                  comment.verseReference = `${book} ${chapter}:${verse}`;
+                } else {
+                  // Fall back to slug transformation
+                  comment.verseReference = transformSlugToVerse(postSlug);
+                }
+              } else {
+                // Fall back to slug transformation
+                comment.verseReference = transformSlugToVerse(postSlug);
+              }
             }
             return comment;
           });
@@ -287,20 +327,93 @@ function ProfileContent({
             alignItems: "flex-start",
           }}
         >
-          <Container maxWidth="md" sx={{ mt: 14, mb: 4 }}>
-            <Paper
-              elevation={6}
-              sx={{
-                p: 4,
-                borderRadius: 2,
+          {/* Social Media Style Tabs at the top for navigation */}
+          <Container maxWidth="md" sx={{ mt: { xs: 8, sm: 10, md: 14 }, mb: 4 }}>
+            <Paper 
+              elevation={3} 
+              sx={{ 
+                mb: 4, 
+                borderRadius: { xs: 0, sm: 2 },
+                overflow: 'hidden',
+                position: 'sticky',
+                top: { xs: 0, sm: 10 },
+                zIndex: 10,
                 backgroundColor: (theme) =>
-                  theme.palette.mode === "dark" ? "#212121" : "#FFF",
-                boxShadow: (theme) =>
-                  theme.palette.mode === "dark"
-                    ? "0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12)"
-                    : "0px 3px 5px -1px rgba(0,0,0,0.1), 0px 6px 10px 0px rgba(0,0,0,0.04), 0px 1px 18px 0px rgba(0,0,0,0.02)",
+                  theme.palette.mode === "dark" ? "#121212" : "#FFFFFF",
               }}
             >
+              <Tabs 
+                value={activeTab} 
+                onChange={handleTabChange}
+                variant="fullWidth"
+                scrollButtons="auto"
+                allowScrollButtonsMobile
+                aria-label="profile sections"
+                sx={{
+                  '& .MuiTab-root': {
+                    minHeight: { xs: 48, sm: 56 },
+                    fontSize: { xs: 13, sm: 14 },
+                    textTransform: 'none',
+                    transition: 'all 0.2s ease-in-out',
+                    p: { xs: 1, sm: 2 },
+                    '&.Mui-selected': {
+                      fontWeight: 'bold',
+                      color: theme => theme.palette.primary.main,
+                    },
+                  },
+                  '& .MuiTabs-indicator': {
+                    height: 3,
+                    borderRadius: 1.5,
+                  }
+                }}
+              >
+                <Tab 
+                  icon={<PersonIcon />} 
+                  label="Profile" 
+                  iconPosition="start"
+                />
+                <Tab 
+                  icon={<CommentIcon />} 
+                  label="Comments" 
+                  iconPosition="start"
+                />
+                <Tab 
+                  icon={<EmojiEventsIcon />} 
+                  label="Achievements" 
+                  iconPosition="start"
+                />
+                <Tab 
+                  icon={<WhatshotIcon />} 
+                  label="Reading Streak" 
+                  iconPosition="start"
+                />
+              </Tabs>
+            </Paper>
+            {/* Profile Tab Panel */}
+            <Box 
+              role="tabpanel" 
+              hidden={activeTab !== 0}
+              sx={{
+                opacity: activeTab === 0 ? 1 : 0,
+                transition: 'opacity 0.3s ease-in-out',
+                display: activeTab === 0 ? 'block' : 'none',
+              }}
+            >
+              {activeTab === 0 && (
+                <Paper
+                  elevation={3}
+                  sx={{
+                    p: { xs: 2, sm: 3, md: 4 },
+                    borderRadius: 2,
+                    backgroundColor: (theme) =>
+                      theme.palette.mode === "dark" ? "#212121" : "#FFF",
+                    boxShadow: (theme) =>
+                      theme.palette.mode === "dark"
+                        ? "0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12)"
+                        : "0px 3px 5px -1px rgba(0,0,0,0.1), 0px 6px 10px 0px rgba(0,0,0,0.04), 0px 1px 18px 0px rgba(0,0,0,0.02)",
+                    mb: 4
+                  }}
+                >
               <Grid container spacing={4}>
                 {/* Profile Header */}
                 <Grid
@@ -634,35 +747,66 @@ function ProfileContent({
                     }}
                   />
                 </Grid>
-                {/* Highlighted Verses Stats */}
-                <Grid item xs={12} md={12}>
+                {/* Social Media Style Activity Stats Card */}
+                <Grid item xs={12}>
                   <Typography
                     variant="h6"
                     sx={{ mb: 2, mt: 3, color: "text.primary" }}
                   >
-                    Your Highlights
+                    Activity Summary
                   </Typography>
                   <Paper
-                    elevation={1}
+                    elevation={2}
                     sx={{
-                      p: 2,
+                      p: { xs: 2, sm: 3 },
                       borderRadius: 2,
                       backgroundColor: "background.paper",
+                      border: '1px solid',
+                      borderColor: 'divider'
                     }}
                   >
-                    <Box sx={{ display: "flex", alignItems: "center" }}>
-                      <BorderColorIcon sx={{ mr: 1, color: "primary.main" }} />
-                      <Typography component="div" variant="body1">
-                        You have highlighted{" "}
-                        <strong>{highlightedVerses?.length || 0}</strong> verses
-                      </Typography>
+                    <Box sx={{ display: "flex", justifyContent: "space-around", flexWrap: "wrap", gap: 2 }}>
+                      {/* Comments Stat */}
+                      <Box sx={{ 
+                        display: "flex", 
+                        flexDirection: "column", 
+                        alignItems: "center", 
+                        p: { xs: 1, sm: 2 },
+                        minWidth: { xs: '85px', sm: '100px' } 
+                      }}>
+                        <CommentIcon sx={{ fontSize: 32, mb: 1, color: "#1976d2" }} />
+                        <Typography variant="h5" fontWeight="bold">{comments.length}</Typography>
+                        <Typography variant="body2" color="text.secondary">Comments</Typography>
+                      </Box>
+                      
+                      {/* Highlights Stat */}
+                      <Box sx={{ 
+                        display: "flex", 
+                        flexDirection: "column", 
+                        alignItems: "center", 
+                        p: { xs: 1, sm: 2 },
+                        minWidth: { xs: '85px', sm: '100px' } 
+                      }}>
+                        <BorderColorIcon sx={{ fontSize: 32, mb: 1, color: "#9c27b0" }} />
+                        <Typography variant="h5" fontWeight="bold">{highlightedVerses?.length || 0}</Typography>
+                        <Typography variant="body2" color="text.secondary">Highlights</Typography>
+                      </Box>
+                      
+                      {/* Notes Stat */}
+                      <Box sx={{ 
+                        display: "flex", 
+                        flexDirection: "column", 
+                        alignItems: "center", 
+                        p: { xs: 1, sm: 2 },
+                        minWidth: { xs: '85px', sm: '100px' } 
+                      }}>
+                        <NoteIcon sx={{ fontSize: 32, mb: 1, color: "#ff9800" }} />
+                        <Typography variant="h5" fontWeight="bold">0</Typography>
+                        <Typography variant="body2" color="text.secondary">Notes</Typography>
+                      </Box>
                     </Box>
                   </Paper>
                 </Grid>
-
-
-
-                {/* User Comments */}
                 <Grid item xs={12} md={12}>
                   <Typography
                     variant="h6"
@@ -722,18 +866,16 @@ function ProfileContent({
                               }}
                             />
                           </Typography>
-                          <Typography
-                            variant="caption"
-                            sx={{
-                              color: "text.secondary",
-                              mt: 1,
-                              display: "block",
-                            }}
-                          >
-                            On:{" "}
-                            {comment._embedded?.up?.[0]?.title?.rendered ||
-                              "Unknown Verse"}
-                          </Typography>
+                          {/* Use the same Chip component as in Comments tab */}
+                          <Chip
+                            size="small"
+                            icon={<BookIcon />}
+                            label={comment.verseReference || transformSlugToVerse(comment._embedded?.up?.[0]?.slug || "") || comment._embedded?.up?.[0]?.title?.rendered || "Unknown Verse"}
+                            color="primary"
+                            variant="outlined"
+                            clickable
+                            sx={{ mt: 1 }}
+                          />
                         </Box>
                       ))
                     ) : (
@@ -773,7 +915,172 @@ function ProfileContent({
                 </Button> */}
                 </Grid>
               </Grid>
-            </Paper>
+                </Paper>
+              )}
+            </Box>
+            
+            {/* Comments Tab */}
+            <Box 
+              role="tabpanel" 
+              hidden={activeTab !== 1}
+              sx={{
+                opacity: activeTab === 1 ? 1 : 0,
+                transition: 'opacity 0.3s ease-in-out',
+                display: activeTab === 1 ? 'block' : 'none',
+              }}
+            >
+              {activeTab === 1 && (
+                <Paper elevation={2} sx={{ p: { xs: 2, sm: 3, md: 4 }, borderRadius: 2, mb: 4 }}>
+                  <Box sx={{ display: "flex", alignItems: "center", mb: 3 }}>
+                    <CommentIcon color="primary" sx={{ mr: 1 }} />
+                    <Typography variant="h5">Your Comments</Typography>
+                  </Box>
+                  <Divider sx={{ mb: 3 }} />
+                  {comments.length > 0 ? (
+                    <Grid container spacing={2}>
+                      {comments.map((comment) => (
+                        <Grid item xs={12} key={comment.id}>
+                          <Box
+                            sx={{
+                              p: 3,
+                              borderRadius: 2,
+                              position: "relative",
+                              bgcolor: "background.paper",
+                              boxShadow: 1,
+                              border: '1px solid',
+                              borderColor: 'divider', 
+                              transition: 'all 0.2s ease',
+                              "&:hover": {
+                                boxShadow: 2,
+                              },
+                            }}
+                          >
+                            <IconButton
+                              size="small"
+                              aria-label="delete comment"
+                              sx={{
+                                position: "absolute",
+                                top: 0,
+                                right: 0,
+                                color: "text.secondary",
+                              }}
+                              onClick={() => deleteComment(comment.id)}
+                            >
+                              <DeleteIcon fontSize="small" />
+                            </IconButton>
+                            <Box sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
+                              <Avatar 
+                                sx={{ width: 36, height: 36, mr: 1.5 }}
+                                src={user?.photoURL || undefined}
+                              >
+                                {user?.displayName?.charAt(0) || 'U'}
+                              </Avatar>
+                              <Box>
+                                <Typography variant="subtitle1" fontWeight="bold">
+                                  {user?.displayName || 'User'}
+                                </Typography>
+                                <Typography variant="caption" color="text.secondary">
+                                  {new Date(comment.date).toLocaleDateString('en-US', { 
+                                    year: 'numeric', 
+                                    month: 'short', 
+                                    day: 'numeric'
+                                  })}
+                                </Typography>
+                              </Box>
+                            </Box>
+                            
+                            <Typography 
+                              variant="body1" 
+                              component="div"
+                              sx={{ 
+                                mt: 1, 
+                                mb: 2,
+                                pl: 0.5
+                              }}
+                            >
+                              <div
+                                dangerouslySetInnerHTML={{
+                                  __html:
+                                    comment.content?.rendered ||
+                                    comment.content ||
+                                    "",
+                                }}
+                              />
+                            </Typography>
+                            
+                            {comment.verseReference && (
+                              <Chip
+                                size="small"
+                                icon={<BookIcon />}
+                                label={comment.verseReference}
+                                color="primary"
+                                variant="outlined"
+                                clickable
+                                sx={{ mt: 1 }}
+                              />
+                            )}
+                          </Box>
+                        </Grid>
+                      ))}
+                    </Grid>
+                  ) : (
+                    <Box sx={{ textAlign: 'center', py: 4 }}>
+                      <CommentIcon sx={{ fontSize: 48, color: 'text.disabled', mb: 2, opacity: 0.5 }} />
+                      <Typography variant="h6" color="text.secondary" gutterBottom>
+                        No Comments Yet
+                      </Typography>
+                      <Typography variant="body2" color="text.secondary">
+                        When you add comments on Bible verses, they'll show up here.
+                      </Typography>
+                    </Box>
+                  )}
+                </Paper>
+              )}
+            </Box>
+            
+            {/* Achievements Tab */}
+            <Box 
+              role="tabpanel" 
+              hidden={activeTab !== 2}
+              sx={{
+                opacity: activeTab === 2 ? 1 : 0,
+                transition: 'opacity 0.3s ease-in-out',
+                display: activeTab === 2 ? 'block' : 'none',
+              }}
+            >
+              {activeTab === 2 && (
+                <Paper elevation={2} sx={{ p: { xs: 2, sm: 3, md: 4 }, borderRadius: 2, mb: 4 }}>
+                  <Box sx={{ display: "flex", alignItems: "center", mb: 3 }}>
+                    <EmojiEventsIcon color="primary" sx={{ mr: 1 }} />
+                    <Typography variant="h5">Bible Reading Achievements</Typography>
+                  </Box>
+                  <Divider sx={{ mb: 3 }} />
+                  <AchievementsPanel />
+                </Paper>
+              )}
+            </Box>
+            
+            {/* Reading Streak Tab */}
+            <Box 
+              role="tabpanel" 
+              hidden={activeTab !== 3}
+              sx={{
+                opacity: activeTab === 3 ? 1 : 0,
+                transition: 'opacity 0.3s ease-in-out',
+                display: activeTab === 3 ? 'block' : 'none',
+              }}
+            >
+              {activeTab === 3 && (
+                <Paper elevation={2} sx={{ p: { xs: 2, sm: 3, md: 4 }, borderRadius: 2, mb: 4 }}>
+                  <Box sx={{ display: "flex", alignItems: "center", mb: 3 }}>
+                    <WhatshotIcon color="primary" sx={{ mr: 1 }} />
+                    <Typography variant="h5">Bible Reading Streak</Typography>
+                  </Box>
+                  <Divider sx={{ mb: 3 }} />
+                  <ReadingStatsPanel />
+                </Paper>
+              )}
+            </Box>
           </Container>
         </Box>
 
