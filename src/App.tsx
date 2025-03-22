@@ -20,6 +20,8 @@ import { TourProvider } from "./components/Tour";
 // Import Firebase authentication
 import { getAuth, onAuthStateChanged, User } from "firebase/auth";
 import Footer from "./components/Footer/Footer";
+// Import LoadingWrapper directly to avoid any module resolution issues
+import LoadingWrapper from "./components/LoadingSpinner/LoadingWrapper";
 
 export default function App() {
   const [loggedIn, setLoggedIn] = useState<boolean>(false);
@@ -143,16 +145,18 @@ export default function App() {
             }} 
           />
           <SubscriptionProvider>
-            <Routes>
-              <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
-              <Route path="/blog" element={<Blog />} />
-              <Route path="/profile" element={<Profile user={user} setUser={setUser} loggedIn={loggedIn} />} />
-              <Route path="/account" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
-              <Route path="/login" element={<LoginPage user={user}  />} />
-              <Route path="/subscribe" element={<SubscribePage user={user} loggedIn={loggedIn} />} />
-              <Route path="/payment-success" element={<PaymentSuccessPage />} />
-              <Route path="/payment-canceled" element={<PaymentCanceledPage />} />
-            </Routes>
+            <LoadingWrapper>
+              <Routes>
+                <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
+                <Route path="/blog" element={<Blog />} />
+                <Route path="/profile" element={<Profile user={user} setUser={setUser} loggedIn={loggedIn} />} />
+                <Route path="/account" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
+                <Route path="/login" element={<LoginPage user={user}  />} />
+                <Route path="/subscribe" element={<SubscribePage user={user} loggedIn={loggedIn} />} />
+                <Route path="/payment-success" element={<PaymentSuccessPage />} />
+                <Route path="/payment-canceled" element={<PaymentCanceledPage />} />
+              </Routes>
+            </LoadingWrapper>
             <TourProvider loggedIn={loggedIn} user={user} wpToken={wpToken} />
             <CookieConsent />
           </SubscriptionProvider>
