@@ -29,6 +29,7 @@ import Typography from "@mui/material/Typography";
 import Tooltip from "@mui/material/Tooltip";
 import { onAuthStateChanged } from "firebase/auth"; // Import the auth state listener
 import { auth } from "../../firebase"; // Import your initialized Firebase auth instance
+import NotificationBell from '../Notifications/NotificationBell';
 import {
   Book,
   Circle,
@@ -393,6 +394,7 @@ function Header(props: HeaderProps) {
             <Box sx={{ flexGrow: 0, borderRadius: 0, display: 'flex', alignItems: 'center' }}>
               {/* Dark Mode Toggle */}
               {/* Show IconButton on mobile, Switch on larger screens */}
+              <NotificationBell sx={{ mr: 2 }} />
               <Box sx={{ display: { xs: 'none', sm: 'flex' }, alignItems: 'center', mr: 3 }}>
                 <Brightness7Icon sx={{ fontSize: '1rem', color: isDarkMode ? 'inherit' : 'text.disabled' }} />
                 <Switch

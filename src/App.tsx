@@ -15,7 +15,9 @@ import PaymentCanceledPage from "./pages/PaymentCanceledPage";
 import { Box } from "@mui/material";
 import CookieConsent from "./components/CookieConsent/CookieConsent";
 import { SubscriptionProvider } from "./contexts/SubscriptionContext";
+import { NotificationProvider } from "./contexts/NotificationContext";
 import { TourProvider } from "./components/Tour";
+import ScrollTriggeredSignup from "./components/LeadMagnet/ScrollTriggeredSignup";
 
 // Import Firebase authentication
 import { getAuth, onAuthStateChanged, User } from "firebase/auth";
@@ -135,30 +137,33 @@ export default function App() {
     <ThemeProvider theme={theme}>
       <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
         <div className="App">
-          <Header 
-            isDarkMode={darkMode} 
-            loggedIn={loggedIn} 
-            toggleDarkMode={() => {
-              const newMode = !darkMode;
-              setDarkMode(newMode);
-              localStorage.setItem('darkMode', newMode.toString());
-            }} 
-          />
           <SubscriptionProvider>
-            <LoadingWrapper>
-              <Routes>
-                <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
-                <Route path="/blog" element={<Blog />} />
-                <Route path="/profile" element={<Profile user={user} setUser={setUser} loggedIn={loggedIn} />} />
-                <Route path="/account" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
-                <Route path="/login" element={<LoginPage user={user}  />} />
-                <Route path="/subscribe" element={<SubscribePage user={user} loggedIn={loggedIn} />} />
-                <Route path="/payment-success" element={<PaymentSuccessPage />} />
-                <Route path="/payment-canceled" element={<PaymentCanceledPage />} />
-              </Routes>
-            </LoadingWrapper>
-            <TourProvider loggedIn={loggedIn} user={user} wpToken={wpToken} />
-            <CookieConsent />
+            <NotificationProvider>
+              <Header 
+                isDarkMode={darkMode} 
+                loggedIn={loggedIn} 
+                toggleDarkMode={() => {
+                  const newMode = !darkMode;
+                  setDarkMode(newMode);
+                  localStorage.setItem('darkMode', newMode.toString());
+                }} 
+              />
+              <LoadingWrapper>
+                <Routes>
+                  <Route index path="/" element={<Dashboard user={user} loggedIn={loggedIn} wpToken={wpToken} setWpToken={setWpToken} />} />
+                  <Route path="/blog" element={<Blog />} />
+                  <Route path="/profile" element={<Profile user={user} setUser={setUser} loggedIn={loggedIn} />} />
+                  <Route path="/account" element={<Account user={user} setUser={setUser} loggedIn={loggedIn} />} />
+                  <Route path="/login" element={<LoginPage user={user}  />} />
+                  <Route path="/subscribe" element={<SubscribePage user={user} loggedIn={loggedIn} />} />
+                  <Route path="/payment-success" element={<PaymentSuccessPage />} />
+                  <Route path="/payment-canceled" element={<PaymentCanceledPage />} />
+                </Routes>
+                <ScrollTriggeredSignup threshold={0.4} rootMargin="0px" />
+              </LoadingWrapper>
+              <TourProvider loggedIn={loggedIn} user={user} wpToken={wpToken} />
+              <CookieConsent />
+            </NotificationProvider>
           </SubscriptionProvider>
         </div>
       </Box>
