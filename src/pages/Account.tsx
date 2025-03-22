@@ -346,7 +346,7 @@ function AccountContent({
               <Grid item xs={12}>
                 <Paper
                   sx={{
-                    px: 8,
+                    px: { xs: 2, sm: 8, md: 8 },
                     py: 8,
                     display: "flex",
                     width: "100%",
@@ -418,6 +418,7 @@ function AccountContent({
                     <Grid
                       item
                       xs={12}
+                      sm={12}
                       md={6}
                       sx={{
                         display: "flex",
@@ -429,7 +430,12 @@ function AccountContent({
                         <Typography variant="h6" gutterBottom align="left">
                           What's included in your subscription:
                         </Typography>
-                        <List>
+                        <List
+                          sx={{
+                            width: "100%",
+                            maxWidth: "100%",
+                          }}
+                        >
                           <ListItem>
                             <ListItemIcon>
                               <CommentIcon color="primary" />
