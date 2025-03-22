@@ -9,8 +9,6 @@ interface LoadingSpinnerProps {
 }
 
 const LoadingSpinner: React.FC<LoadingSpinnerProps> = ({ isLoading }) => {
-  if (!isLoading) return null;
-  
   // Get the current theme to determine if we're in dark mode
   const theme = useTheme();
   const isDarkMode = theme.palette.mode === 'dark';
@@ -20,6 +18,8 @@ const LoadingSpinner: React.FC<LoadingSpinnerProps> = ({ isLoading }) => {
   
   // Animation effect for the dots
   useEffect(() => {
+    if (!isLoading) return;
+    
     const interval = setInterval(() => {
       setDots(prevDots => {
         switch (prevDots) {
@@ -32,7 +32,9 @@ const LoadingSpinner: React.FC<LoadingSpinnerProps> = ({ isLoading }) => {
     }, 500); // Change dots every 500ms
     
     return () => clearInterval(interval);
-  }, []);
+  }, [isLoading]);
+  
+  if (!isLoading) return null;
 
   return (
     <Box

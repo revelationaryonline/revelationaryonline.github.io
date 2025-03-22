@@ -45,6 +45,7 @@ import SubscriptionCheck from "../Subscription/SubscriptionCheck";
 import { useSubscription } from "../../contexts/SubscriptionContext";
 import SubscriptionPromptDialog from "../Subscription/SubscriptionPromptDialog";
 
+
 interface DashboardContentProps {
   loggedIn: boolean;
   user: User | null;
@@ -195,6 +196,8 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
       setComments([]); // Clear comments when the menu is opened
     }
   }, [commentsMenu]);
+
+
 
   useEffect(() => {
     if (loading) {
@@ -1008,6 +1011,7 @@ useEffect(() => {
         <CircularProgress color="inherit" />
       </Backdrop>
     </Box>
+
       {/* <Footer /> */}
     </>
   );
