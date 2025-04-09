@@ -76,9 +76,9 @@ function AccountContent({
 
   const deleteDebug = process.env.USER_DELETE_DEBUG;
 
-  console.log("Config check:", {
-    deleteDebug,
-  });
+  // console.log("Config check:", {
+  //   deleteDebug,
+  // });
 
   const showError = (message: string) => {
     setError(message);
@@ -99,12 +99,12 @@ function AccountContent({
       const deleteSecret = process.env.REACT_APP_WP_DELETE_SECRET;
 
       // Debug log
-      console.log("Config check:", {
-        wpApiUrl,
-        wpUsername,
-        hasAppPassword: !!wpAppPassword,
-        hasDeleteSecret: !!deleteSecret,
-      });
+      // console.log("Config check:", {
+      //   wpApiUrl,
+      //   wpUsername,
+      //   hasAppPassword: !!wpAppPassword,
+      //   hasDeleteSecret: !!deleteSecret,
+      // });
 
       if (!wpApiUrl || !wpUsername || !wpAppPassword || !deleteSecret) {
         throw new Error(
@@ -151,7 +151,7 @@ function AccountContent({
         responseData = { message: "Failed to parse server response" };
       }
 
-      console.log("Server response:", responseData);
+      // console.log("Server response:", responseData);
 
       // Handle errors from WordPress deletion
       if (!response?.ok) {
@@ -184,22 +184,22 @@ function AccountContent({
         throw new Error(`Request failed with status ${response?.status}`);
       }
 
-      console.log("WordPress user deletion successful:", responseData);
+      // console.log("WordPress user deletion successful:", responseData);
 
       // Step 2: Delete Firebase account if WordPress deletion succeeded
       try {
         await deleteUser(user);
-        console.log("Firebase user deleted successfully");
+        // console.log("Firebase user deleted successfully");
       } catch (firebaseError: any) {
         console.log("Firebase deletion error:", firebaseError);
 
         if (firebaseError.code === "auth/requires-recent-login") {
-          console.log("Requiring reauthentication...");
+          // console.log("Requiring reauthentication...");
           try {
             const provider = new GoogleAuthProvider();
             await reauthenticateWithPopup(user, provider);
             await deleteUser(user);
-            console.log("Firebase user deleted after reauthentication");
+            // console.log("Firebase user deleted after reauthentication");
           } catch (reAuthError: any) {
             console.error("Reauthentication failed:", reAuthError);
             throw new Error(
@@ -265,12 +265,12 @@ function AccountContent({
         throw new Error("Missing WordPress configuration");
       }
 
-      console.log(
-        "Fetching user debug info from:",
-        `${wpApiUrl}/user-debug?user_id=${userId}`
-      );
-      console.log("User ID:", `${JSON.stringify(userId)}`);
-      console.log("User Info:", `${JSON.stringify(user)}`);
+      // console.log(
+      //   "Fetching user debug info from:",
+      //   `${wpApiUrl}/user-debug?user_id=${userId}`
+      // );
+      // console.log("User ID:", `${JSON.stringify(userId)}`);
+      // console.log("User Info:", `${JSON.stringify(user)}`);
 
       const response = await fetch(`${wpApiUrl}/user-debug?user_id=${userId}`, {
         method: "GET",
@@ -294,7 +294,7 @@ function AccountContent({
 
       const data = await response.json();
       setUserDebugInfo(data);
-      console.log("User debug info:", data);
+      // console.log("User debug info:", data);
 
       // Show a snackbar with permission status
       setSnackbar({

@@ -161,7 +161,7 @@ export const verifyStripeSubscription = async (email: string): Promise<Subscript
     // Get the subscription for this customer
     const subscriptionResponse = await fetch(`https://api.stripe.com/v1/subscriptions?customer=${customerId}`, {
       headers: {
-        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY_PROD}`,
         'Content-Type': 'application/x-www-form-urlencoded'
       }
     });
