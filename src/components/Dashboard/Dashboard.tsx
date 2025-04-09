@@ -632,7 +632,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                       width: "100%",
                     }}
                   >
-                    {verse &&
+                    {/* {verse &&
                       verse.length >= 1 &&
                       capitalise(verse[0].book) +
                         " " +
@@ -647,7 +647,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                         currentBook={verse && verse[0].book}
                         currentChapter={verse && verse[0].chapter}
                       />
-                    )}
+                    )} */}
                   </Typography>
 
                   <Typography
