@@ -24,8 +24,8 @@ export const SUBSCRIPTION_PLANS = {
   },
   YEARLY: {
     id: 'yearly_plan',
-    // paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // PROD
-    paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // TEST
+    paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // PROD
+    // paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // TEST
     name: 'Yearly',
     amount: 19.99,
     interval: 'year',
