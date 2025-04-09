@@ -264,7 +264,6 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   }, [user]);
 
   return (
-    <ThemeProvider theme={mdTheme}>
       <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
         <CssBaseline />
         <Container component="main" maxWidth="xs">
@@ -639,8 +638,6 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
           </Paper>
         </Container>
       </Box>
-      <Footer />
-    </ThemeProvider>
   );
 };
 

@@ -1,3 +1,16 @@
+import { loadStripe, Stripe } from '@stripe/stripe-js';
+
+// Add this configuration at the top level
+let stripeClient: Stripe | null = null;
+
+// Initialize Stripe client
+export const initializeStripe = async () => {
+  if (!stripeClient) {
+    stripeClient = await loadStripe(process.env.REACT_APP_STRIPE_PUBLISHABLE_KEY || '');
+  }
+  return stripeClient;
+};
+
 // Define payment links for subscription plans (placeholder links)
 export const SUBSCRIPTION_PLANS = {
   MONTHLY: {
@@ -11,8 +24,8 @@ export const SUBSCRIPTION_PLANS = {
   },
   YEARLY: {
     id: 'yearly_plan',
-    paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // PROD
-    // paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // TEST
+    // paymentLink: 'https://buy.stripe.com/14kcPPfQf7W03MA3cd', // PROD
+    paymentLink: 'https://buy.stripe.com/test_eVaaIe2lWdYQ9PO8wx', // TEST
     name: 'Yearly',
     amount: 19.99,
     interval: 'year',
@@ -24,35 +37,84 @@ export const SUBSCRIPTION_PLANS = {
 const TEST_MODE = false;
 
 // Redirect to the appropriate payment link
-export const redirectToPaymentLink = (plan: 'MONTHLY' | 'YEARLY', userEmail: string) => {
+export const redirectToPaymentLink = async (plan: 'MONTHLY' | 'YEARLY', userEmail: string) => {
   try {
-    if (TEST_MODE) {
-      console.log('TEST MODE: Simulating successful payment');
-      // Store fake subscription data in localStorage for testing
-      localStorage.setItem('test_subscription', JSON.stringify({
-        isActive: true,
-        subscriptionId: 'sub_test_' + Math.random().toString(36).substring(2, 15),
-        plan: plan === 'YEARLY' ? 'yearly' : 'monthly',
-        expiresAt: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString(), // 30 days from now
-      }));
-      
-      // Redirect to success page 
-      window.location.href = window.location.origin + '/account?subscription=success';
+    // First check if we have an existing subscription
+    const existingSubscription = await checkSubscriptionStatus(userEmail);
+    
+    if (existingSubscription.isActive) {
+      // If user already has an active subscription, redirect to account page
+      window.location.href = window.location.origin + '/account?existing_subscription=true';
       return;
     }
 
-    // Get the payment link URL
+    // Get the payment link URL based on plan
     const paymentLinkUrl = SUBSCRIPTION_PLANS[plan].paymentLink;
     
-    // Append email parameter if needed
+    // Append email parameter to the URL
     const url = new URL(paymentLinkUrl);
     url.searchParams.append('prefilled_email', userEmail);
+    
+    // Store the email in localStorage for later use
+    localStorage.setItem('userEmail', userEmail);
     
     // Redirect to the payment link
     window.location.href = url.toString();
   } catch (error) {
-    console.error('Error redirecting to payment link:', error);
-    throw error;
+    console.error('Error handling payment redirection:', error);
+    // If there's an error, redirect to account page with error
+    window.location.href = window.location.origin + '/account?payment_error=true';
+  }
+};
+
+// Function to get subscription ID from Stripe using email
+export const getSubscriptionIdFromStripe = async (email: string): Promise<string | null> => {
+  try {
+    const stripe = await initializeStripe();
+    if (!stripe) {
+      throw new Error('Stripe client not initialized');
+    }
+
+    // Get customer ID from email
+    const customerResponse = await fetch(`https://api.stripe.com/v1/customers?email=${email}`, {
+      headers: {
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Content-Type': 'application/x-www-form-urlencoded'
+      }
+    });
+
+    if (!customerResponse.ok) {
+      throw new Error('Failed to fetch customer');
+    }
+
+    const customerData = await customerResponse.json();
+    const customerId = customerData.data[0]?.id;
+
+    if (!customerId) {
+      return null;
+    }
+
+    // Get subscriptions for this customer
+    const subscriptionsResponse = await fetch(`https://api.stripe.com/v1/subscriptions?customer=${customerId}`, {
+      headers: {
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Content-Type': 'application/x-www-form-urlencoded'
+      }
+    });
+
+    if (!subscriptionsResponse.ok) {
+      throw new Error('Failed to fetch subscriptions');
+    }
+
+    const subscriptionsData = await subscriptionsResponse.json();
+    const activeSubscription = subscriptionsData.data.find(
+      (s: any) => s.status === 'active' || s.status === 'trialing'
+    );
+
+    return activeSubscription?.id || null;
+  } catch (error) {
+    console.error('Error fetching subscription ID:', error);
+    return null;
   }
 };
 
@@ -61,72 +123,120 @@ export const getStorageKeyFromEmail = (email: string): string => {
   return `subscription_${email.replace(/[^a-zA-Z0-9]/g, '_').toLowerCase()}`;
 };
 
-// Check subscription status by email - using existing relational data
-export const checkSubscriptionStatus = async (userEmail: string) => {
+// Define subscription state interface
+export interface SubscriptionState {
+  isActive: boolean;
+  plan: string | null;
+  expiresAt: string | null;
+  subscriptionId: string | null;
+}
+
+// Verify subscription with Stripe using email
+export const verifyStripeSubscription = async (email: string): Promise<SubscriptionState> => {
   try {
-    if (!userEmail) {
-      console.warn('No email provided for subscription check');
-      return { isActive: false, plan: null, expiresAt: null, subscriptionId: null };
-    }
-    
-    // Create storage key based on email
-    const storageKey = getStorageKeyFromEmail(userEmail);
-    
-    // Check for subscription in localStorage with email-based key
-    const subscriptionData = localStorage.getItem(storageKey);
-    if (subscriptionData) {
-      try {
-        const subscription = JSON.parse(subscriptionData);
-        return {
-          isActive: subscription.isActive,
-          plan: subscription.plan,
-          expiresAt: subscription.expiresAt,
-          subscriptionId: subscription.subscriptionId
-        };
-      } catch (e) {
-        console.error('Error parsing subscription data:', e);
-      }
-    }
-    
-    // Also check the old storage key for backward compatibility
-    const oldSubscriptionData = localStorage.getItem('user_subscription');
-    if (oldSubscriptionData) {
-      try {
-        const subscription = JSON.parse(oldSubscriptionData);
-        // Migrate old data to new email-based key
-        localStorage.setItem(storageKey, oldSubscriptionData);
-        return {
-          isActive: subscription.isActive,
-          plan: subscription.plan,
-          expiresAt: subscription.expiresAt,
-          subscriptionId: subscription.subscriptionId
-        };
-      } catch (e) {
-        console.error('Error parsing old subscription data:', e);
-      }
+    const stripe = await initializeStripe();
+    if (!stripe) {
+      throw new Error('Stripe client not initialized');
     }
 
-    // In production, would make an API call to your backend
-    // The backend would use WordPress/Firebase user data and Stripe API 
-    // to check subscription status by email
+    // First get the customer ID from email
+    const customerResponse = await fetch(`https://api.stripe.com/v1/customers?email=${email}`, {
+      headers: {
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Content-Type': 'application/x-www-form-urlencoded'
+      }
+    });
+
+    if (!customerResponse.ok) {
+      throw new Error('Failed to fetch customer');
+    }
+
+    const customerData = await customerResponse.json();
+    const customerId = customerData.data[0]?.id;
+
+    if (!customerId) {
+      throw new Error('Customer not found');
+    }
+
+    // Get the subscription for this customer
+    const subscriptionResponse = await fetch(`https://api.stripe.com/v1/subscriptions?customer=${customerId}`, {
+      headers: {
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Content-Type': 'application/x-www-form-urlencoded'
+      }
+    });
+
+    if (!subscriptionResponse.ok) {
+      throw new Error('Failed to fetch subscription');
+    }
+
+    const subscriptionData = await subscriptionResponse.json();
+    const activeSubscription = subscriptionData.data.find(
+      (s: any) => s.status === 'active' || s.status === 'trialing'
+    );
+
+    if (!activeSubscription) {
+      throw new Error('No active subscription found');
+    }
+
+    // Determine plan type based on interval
+    const planType = activeSubscription.items.data[0].plan.interval === 'year' ? 'yearly' : 'monthly';
+
+    return {
+      isActive: activeSubscription.status === 'active',
+      plan: planType,
+      expiresAt: new Date(activeSubscription.current_period_end * 1000).toISOString(),
+      subscriptionId: activeSubscription.id
+    };
+  } catch (error) {
+    console.error('Error verifying subscription:', error);
+    throw error;
+  }
+};
+
+// Check subscription status by email - using existing relational data
+export const checkSubscriptionStatus = async (userEmail: string): Promise<SubscriptionState> => {
+  try {
+    const storageKey = getStorageKeyFromEmail(userEmail);
+    const subscriptionData = localStorage.getItem(storageKey);
     
-    // Example endpoint might be:
-    // const response = await fetch('/wp-json/custom/v1/check-subscription', {
-    //   method: 'POST',
-    //   headers: { 
-    //     'Content-Type': 'application/json',
-    //     'Authorization': `JWT ${Cookies.get('wpToken')}`
-    //   },
-    //   body: JSON.stringify({ email: userEmail })
-    // });
-    // const data = await response.json();
-    // return data;
-    
-    // For now, return inactive as default
-    return { isActive: false, plan: null, expiresAt: null, subscriptionId: null };
+    if (subscriptionData) {
+      const subscription = JSON.parse(subscriptionData);
+      
+      // Verify the subscription with Stripe
+      if (subscription.subscriptionId) {
+        try {
+          const verifiedSubscription = await verifyStripeSubscription(userEmail);
+          // Update localStorage with verified data
+          localStorage.setItem(storageKey, JSON.stringify(verifiedSubscription));
+          return verifiedSubscription;
+        } catch (error) {
+          console.error('Error verifying subscription:', error);
+          // If verification fails, return inactive
+          return {
+            isActive: false,
+            plan: null,
+            expiresAt: null,
+            subscriptionId: null
+          };
+        }
+      }
+      return subscription;
+    }
+    return {
+      isActive: false,
+      plan: null,
+      expiresAt: null,
+      subscriptionId: null
+    };
   } catch (error) {
     console.error('Error checking subscription status:', error);
-    return { isActive: false, plan: null, expiresAt: null, subscriptionId: null };
+    return {
+      isActive: false,
+      plan: null,
+      expiresAt: null,
+      subscriptionId: null
+    };
   }
 };
 

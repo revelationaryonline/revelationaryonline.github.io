@@ -93,7 +93,7 @@ const NotificationBell: React.FC<NotificationBellProps> = ({ sx }) => {
           }}
         >
           <Badge badgeContent={unreadCount} color="error">
-            <NotificationsIcon />
+            <NotificationsIcon fontSize="small"/>
           </Badge>
         </IconButton>
       </Tooltip>

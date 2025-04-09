@@ -3,6 +3,8 @@ import { IconButton, Modal, Box } from "@mui/material";
 import Tooltip from "@mui/material/Tooltip";
 import { VideoCall } from "@mui/icons-material";
 
+import TBPLogo from "../../assets/BP_mono-wht.png";
+import TBPLogoSQ from "../../assets/BP_square-mono-wht.png";
 // Define the structure of the video sources object
 interface VideoSources {
   [book: string]: {
@@ -286,8 +288,35 @@ const VideoModal = ({
 
   return (
     <div>
-      <Tooltip title="Watch Video">
-        <IconButton onClick={handleOpen}>
+      <Tooltip
+        title={
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: "8px",
+              paddingRight: "10px",
+            }}
+          >
+            <img
+              src={TBPLogoSQ}
+              style={{ width: "75px", height: "75px" }}
+              alt="The Bible Project Logo"
+            />
+            <span>Watch Video Summary</span>
+          </div>
+        }
+      >
+        <IconButton
+          onClick={handleOpen}
+          sx={{
+            mt: "-5px",
+            width: "50px",
+            height: "50px",
+            ml: 3,
+            borderRadius: "50%",
+          }}
+        >
           <VideoCall />
         </IconButton>
       </Tooltip>
@@ -299,30 +328,54 @@ const VideoModal = ({
             top: "50%",
             left: "50%",
             transform: "translate(-50%, -50%)",
-            bgcolor: "background.paper",
-            boxShadow: 24,
-            p: 0,
+            bgcolor: "transparent",
+            boxShadow: "0px 10px 0px 0px rgba(0, 0, 0, 0.5)",
             outline: "none",
+            width: {
+              xs: "90%",
+              sm: "80%",
+              md: "60%",
+            },
+            maxWidth: {
+              xs: "100vw",
+              sm: "100vw",
+              md: "1000px",
+            },
+            maxHeight: {
+              xs: "80vh",
+              sm: "80vh",
+              md: "50vh",
+            },
+            "& iframe": {
+              width: "100%",
+              height: "100%",
+              maxWidth: "100%",
+              maxHeight: "100%",
+              aspectRatio: "16/9",
+            },
           }}
         >
-          {videoUrl ? (
-            <iframe
-              width="560"
-              height="315"
-              src={videoUrl}
-              title="The Bible Project Video"
-              frameBorder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerPolicy="strict-origin-when-cross-origin"
-              allowFullScreen
-              style={{
-                filter: "grayscale(1) contrast(2.5)",
-                opacity: 0.8,
-              }}
-            ></iframe>
-          ) : (
-            <p>No video available for this chapter.</p>
-          )}
+          <a href="https://www.bibleproject.com/" target="_blank" rel="noopener noreferrer">
+          <img src={TBPLogo} height="36" style={{ marginLeft: 3, backgroundColor: "#212121", boxShadow: "0px 0px 10px 0px rgba(0, 0, 0, 0.5)" }} alt="The Bible Project Logo" />
+          </a>
+          <Box>
+            {videoUrl ? (
+              <iframe
+                src={videoUrl}
+                title="The Bible Project Video"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allowFullScreen
+                style={{
+                  filter: "grayscale(1) contrast(2.5)",
+                  opacity: 0.8,
+                }}
+              ></iframe>
+            ) : (
+              <p>No video available for this chapter.</p>
+            )}
+          </Box>
         </Box>
       </Modal>
     </div>

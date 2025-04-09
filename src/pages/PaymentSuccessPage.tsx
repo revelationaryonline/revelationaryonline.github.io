@@ -18,7 +18,7 @@ import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import { Link as RouterLink, useSearchParams } from 'react-router-dom';
 import { useSubscription } from '../contexts/SubscriptionContext';
 import { getAuth } from 'firebase/auth';
-import { getStorageKeyFromEmail } from '../services/stripe';
+import { getStorageKeyFromEmail, verifyStripeSubscription } from '../services/stripe';
 
 const PaymentSuccessPage: React.FC = () => {
   const [searchParams] = useSearchParams();
@@ -52,86 +52,33 @@ const PaymentSuccessPage: React.FC = () => {
       // Make sure we have the user email
       if (!userEmail) {
         console.warn('No user email available for subscription storage');
+        setError('Unable to identify user. Please try logging in again.');
         return;
       }
-      
-      // Get the session_id from URL parameters
-      const sessionId = searchParams.get('session_id');
-      
-      if (!sessionId) {
-        console.warn('No session_id found in URL. Payment verification skipped.');
-        // Even without a session ID, we'll set subscription for demo/test purposes
-        // This makes testing easier but should be removed in production
-        setTestSubscription(userEmail);
-        return;
-      }
-      
+
       try {
-        // In a real implementation, you would verify the session with your backend
-        // Example API call to your backend would be:
-        // const response = await fetch('/api/verify-stripe-payment', {
-        //   method: 'POST',
-        //   headers: { 'Content-Type': 'application/json' },
-        //   body: JSON.stringify({ sessionId })
-        // });
-        // const data = await response.json();
-        // if (data.success) { ... set subscription ... }
-        
-        // For demo purposes, assume the payment is valid if session_id exists
-        // and set subscription information accordingly
-        const planParam = searchParams.get('plan');
-        const planType = planParam && ['monthly', 'yearly'].includes(planParam) ? planParam : 'monthly';
-        
-        // Create expiration date based on plan
-        const expiresInDays = planType === 'yearly' ? 365 : 30;
-        const expiresAt = new Date(Date.now() + expiresInDays * 24 * 60 * 60 * 1000).toISOString();
-        
-        // Create subscription data
-        const subscriptionData = {
-          isActive: true,
-          plan: planType,
-          expiresAt,
-          subscriptionId: sessionId // Use the Stripe session ID as our subscription ID
-        };
+        // Verify the subscription with Stripe using email
+        const subscription = await verifyStripeSubscription(userEmail);
         
         // Save to localStorage using email-based key
         const storageKey = getStorageKeyFromEmail(userEmail);
-        localStorage.setItem(storageKey, JSON.stringify(subscriptionData));
+        localStorage.setItem(storageKey, JSON.stringify(subscription));
         
         // Also save with old key for backward compatibility
-        localStorage.setItem('user_subscription', JSON.stringify(subscriptionData));
-        console.log('Subscription activated for:', userEmail, subscriptionData);
+        localStorage.setItem('user_subscription', JSON.stringify(subscription));
+        
+        // Force refresh the subscription status
+        await refreshStatus();
+        
+        console.log('Subscription activated for:', userEmail, subscription);
       } catch (error) {
         console.error('Error verifying payment:', error);
-      }
-      
-      // Refresh subscription status to update UI
-      refreshStatus();
-    };
-    
-    // Helper function to set test subscription (only used when no session_id)
-    const setTestSubscription = (email: string) => {
-      // Only use this for development
-      if (process.env.NODE_ENV === 'development' || window.location.hostname === 'localhost') {
-        const subscriptionData = {
-          isActive: true,
-          plan: 'monthly',
-          expiresAt: new Date(Date.now() + 30 * 24 * 60 * 60 * 1000).toISOString(),
-          subscriptionId: 'test_' + Math.random().toString(36).substring(2, 15)
-        };
-        
-        // Save with email-based key
-        const storageKey = getStorageKeyFromEmail(email);
-        localStorage.setItem(storageKey, JSON.stringify(subscriptionData));
-        
-        // Also save with old key for backward compatibility
-        localStorage.setItem('user_subscription', JSON.stringify(subscriptionData));
-        console.log('Test subscription set for:', email, subscriptionData);
+        setError('Failed to verify payment. Please contact support.');
       }
     };
-    
+
     verifyPayment();
-  }, [refreshStatus, searchParams, userEmail]);
+  }, [refreshStatus, userEmail]);
 
   return (
     <Container maxWidth="md" sx={{ py: 8, mt: 5 }}>

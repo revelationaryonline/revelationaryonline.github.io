@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import {
-  Box,
   Button,
   TextField,
   Typography,
@@ -25,6 +24,7 @@ import { auth } from '../../firebase';
 import { createUserWithEmailAndPassword, sendEmailVerification } from 'firebase/auth';
 import Cookies from 'js-cookie';
 import studyGuideImage from '../../assets/hero-post.jpg'; // Temporary - replace with study-guide-preview.jpg when available
+import { CheckCircle, CheckCircleOutline } from '@mui/icons-material';
 
 interface BibleStudySignupProps {
   position?: 'modal' | 'inline' | 'floating';
@@ -237,7 +237,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
   const renderContent = () => {
     if (subscribed) {
       return (
-        <Box sx={{ textAlign: 'center', py: 3 }}>
+        <div style={{ textAlign: 'center', padding: '1rem' }}>
           <Typography variant="h5" gutterBottom>
             Thank you for subscribing!
           </Typography>
@@ -255,7 +255,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
           >
             Close
           </Button>
-        </Box>
+        </div>
       );
     }
 
@@ -263,37 +263,49 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
       <>
         {step === 1 ? (
           <>
-            <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
-              <SchoolIcon sx={{ color: 'primary.main', mr: 1 }} />
+            <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem' }}>
+              <SchoolIcon sx={{ color: 'primary.main', marginRight: '0.5rem' }} />
               <Typography variant="h5" component="h2">
                 Get Your Free Bible Study Guide
               </Typography>
-            </Box>
+            </div>
             <Typography variant="body1" paragraph sx={{ fontWeight: 500 }}>
               Unlock deeper understanding of scripture with our 7-day study plan
             </Typography>
-            <Box sx={{ 
+            <div style={{ 
               display: 'flex', 
               flexDirection: isMobile ? 'column' : 'row',
-              gap: 2, 
-              mb: 3 
+              gap: '1rem', 
+              marginBottom: '1rem' 
             }}>
-              <Box sx={{ flex: 1, minWidth: isMobile ? '100%' : '45%' }}>
+              <div style={{ flex: 1, minWidth: isMobile ? '100%' : '45%' }}>
                 <Typography variant="body2" paragraph>
                   Our Bible study guide includes:
                 </Typography>
-                <Box component="ul" sx={{ pl: 2, mb: 2 }}>
-                  <Typography component="li" variant="body2">Daily devotionals & prayer guides</Typography>
-                  <Typography component="li" variant="body2">Verse-by-verse commentary</Typography>
-                  <Typography component="li" variant="body2">Historical context & study notes</Typography>
-                  <Typography component="li" variant="body2">Reflection questions & journaling prompts</Typography>
-                </Box>
+                <ul style={{ listStyleType: 'none', paddingLeft: 0, marginBottom: '1rem' }}>
+                  <li style={{ display: 'flex', alignItems: 'center', marginBottom: '0.5rem' }}>
+                    <CheckCircle sx={{ width: 20, height: 20 }} color="success" />
+                    <Typography variant="body2" style={{ fontSize: 15, marginLeft: '0.5rem' }}>Daily devotionals</Typography>
+                  </li>
+                  <li style={{ display: 'flex', alignItems: 'center', marginBottom: '0.5rem' }}>
+                    <CheckCircle sx={{ width: 20, height: 20 }} color="success" />
+                    <Typography variant="body2" style={{ fontSize: 15, marginLeft: '0.5rem' }}>Verse commentary</Typography>
+                  </li>
+                  <li style={{ display: 'flex', alignItems: 'center', marginBottom: '0.5rem' }}>
+                    <CheckCircle sx={{ width: 20, height: 20 }} color="success" />
+                    <Typography variant="body2" style={{ fontSize: 15, marginLeft: '0.5rem' }}>Historical context</Typography>
+                  </li>
+                  <li style={{ display: 'flex', alignItems: 'center', marginBottom: '0.5rem' }}>
+                    <CheckCircle sx={{ width: 20, height: 20 }} color="success" />
+                    <Typography variant="body2" style={{ fontSize: 15, marginLeft: '0.5rem' }}>Reflection questions</Typography>
+                  </li>
+                </ul>
                 <Typography variant="body2" paragraph sx={{ fontStyle: 'italic' }}>
                   "This study guide transformed my daily devotional time!" - Sarah K.
                 </Typography>
-              </Box>
+              </div>
               {!isMobile && (
-                <Box sx={{ 
+                <div style={{ 
                   flex: 1, 
                   display: 'flex', 
                   justifyContent: 'center', 
@@ -301,20 +313,19 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
                   borderRadius: 1,
                   overflow: 'hidden'
                 }}>
-                  <Box 
-                    component="img" 
+                  <img 
                     src={studyGuideImage}
                     alt="Bible Study Guide Preview" 
-                    sx={{ 
+                    style={{ 
                       maxWidth: '100%', 
                       maxHeight: 180,
                       objectFit: 'cover',
                       borderRadius: 1,
                     }}
                   />
-                </Box>
+                </div>
               )}
-            </Box>
+            </div>
             <TextField
               fullWidth
               label="Email Address"
@@ -430,19 +441,19 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
           }
         }}
       >
-        <Box 
-          sx={{ 
+        <div 
+          style={{ 
             position: 'absolute', 
             right: 8, 
             top: 8, 
-            color: (theme) => theme.palette.grey[500],
+            color: '#a1a1a1',
             zIndex: 1
           }}
         >
           <IconButton onClick={handleClose} disabled={loading}>
             <CloseIcon />
           </IconButton>
-        </Box>
+        </div>
         <DialogContent sx={{ p: { xs: 2, sm: 3 }, mt: 1 }}>
           {renderContent()}
         </DialogContent>
@@ -485,20 +496,19 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
           borderBottomRightRadius: 2,
         }}
       >
-        <Box sx={{ 
+        <div style={{ 
           display: 'flex', 
           alignItems: 'center',
           justifyContent: 'space-between',
-          maxWidth: 1200,
-          mx: 'auto'
+          maxWidth: 1200
         }}>
-          <Box sx={{ display: 'flex', alignItems: 'center', flex: 1 }}>
+          <div style={{ display: 'flex', alignItems: 'center', flex: 1 }}>
             <SchoolIcon sx={{ mr: 1, color: 'primary.main' }} />
             <Typography variant="body1" sx={{ fontWeight: 500, mr: 2 }}>
               Get your free 7-day Bible Study Guide!
             </Typography>
-          </Box>
-          <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+          </div>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 1 }}>
             <Button
               variant="contained"
               color="primary"
@@ -510,8 +520,8 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
             <IconButton size="small" onClick={handleClose}>
               <CloseIcon fontSize="small" />
             </IconButton>
-          </Box>
-        </Box>
+          </div>
+        </div>
       </Paper>
     </Slide>
   );

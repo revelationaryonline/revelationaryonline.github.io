@@ -44,12 +44,12 @@ const TopToolbar = ({
       >
         <Box position={"relative"} display={"flex"}>
           {/* Help Modal */}
-          <AlertDialogSlide />
-          <Divider
+          {/* <AlertDialogSlide /> */}
+          {/* <Divider
             orientation="vertical"
             flexItem
             variant={"middle"}
-          />
+          /> */}
           <Box sx={{ display: { xs: 'none', sm: 'block' } }} >
           <Tooltip title="Columns" fontSize={"small"}>
             <IconButton
@@ -136,11 +136,11 @@ const TopToolbar = ({
           setPage={setPage}
           setVerse={setVerse}
         />
-    <Box sx={{ display: { xs: 'none', sm: 'block' } }} >
+    {/* <Box sx={{ display: { xs: 'none', sm: 'block' } }} >
         <FullscreenButton />
-    </Box>
+    </Box> */}
         </Box>
-        <Box position={"relative"} display={"flex"}>
+        {/* <Box position={"relative"} display={"flex"}>
           <Tooltip title="Refresh">
             <IconButton
               onClick={() => window.location.reload()}
@@ -155,8 +155,7 @@ const TopToolbar = ({
               <RefreshIcon fontSize={"medium"} />
             </IconButton>
           </Tooltip>
-          {/* <DonateButton /> */}
-        </Box>
+        </Box> */}
       </ButtonGroup>
     </Toolbar>
   );

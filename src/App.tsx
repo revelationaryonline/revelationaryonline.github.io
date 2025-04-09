@@ -167,6 +167,7 @@ export default function App() {
           </SubscriptionProvider>
         </div>
       </Box>
+      <Footer />
     </ThemeProvider>
   );
 }

@@ -5,7 +5,7 @@ import { useSubscription } from '../../contexts/SubscriptionContext';
 
 interface SubscriptionCheckProps {
   children: React.ReactNode;
-  feature?: 'comments' | 'notes' | 'highlights' | 'all';
+  feature?: 'comments' | 'notes' | 'highlights' | 'all' | 'progress';
 }
 
 /**
@@ -19,6 +19,10 @@ const SubscriptionCheck: React.FC<SubscriptionCheckProps> = ({ children, feature
   const hasAccess = feature === 'comments' 
     ? canUseComments 
     : subscription.isActive;
+
+    if (feature === 'progress' && !hasAccess) {
+      return <></>;
+    }
 
   // If they have access, render the children
   if (hasAccess) {

@@ -141,7 +141,10 @@ function Header(props: HeaderProps) {
         flexDirection: "column",
       }}
     >
-      <Box display={"flex"} flexDirection={"row"} sx={{ my: 5, ml: 4 }}>
+      <Box display={"flex"} flexDirection={"row"} sx={{ 
+        my: 2, 
+        ml: { xs: 3.5, sm: 3.5, md: 3.25 }
+        }}>
         <img
           src={logo}
           alt="revelationary"
@@ -150,7 +153,6 @@ function Header(props: HeaderProps) {
             height: "20px",
             marginTop: "7px",
             marginRight: 10,
-            marginLeft: 10,
             filter: isDarkMode ? "invert(1)" : "none",
           }}
         ></img>
@@ -158,8 +160,9 @@ function Header(props: HeaderProps) {
           // variant="p"
           component="div"
           sx={{
-            textAlign: { xs: "center", sm: "left" },
+            textAlign: "left",
             marginTop: "3.5px",
+            ml: { xs: 0.25, sm: 0.25, md: 0.25 },
             flexGrow: 1,
             fontFamily: "cardo",
             fontWeight: 600,
@@ -187,7 +190,7 @@ function Header(props: HeaderProps) {
           }}
         >
           <AccordionSummary
-            expandIcon={<ExpandMoreIcon />}
+            expandIcon={<ExpandMoreIcon sx={{color: '#a1a1a1'}} />}
             aria-controls="tutorials-content"
             id="tutorials-header"
             sx={{ 
@@ -201,23 +204,23 @@ function Header(props: HeaderProps) {
             }}
           >
             <Box display="flex" alignItems="center" sx={{ ml: 1, py: 0.5 }}>
-              <SchoolIcon fontSize="small" sx={{ mr: 2 }} />
-              <Typography variant="body1" sx={{ fontSize: '15px' }}>Tutorials</Typography>
+              <SchoolIcon fontSize="small" sx={{color: '#a1a1a1', mr: 2 }} />
+              <Typography variant="body1" sx={{ color: '#a1a1a1', fontSize: '15px' }}>Tutorials</Typography>
             </Box>
           </AccordionSummary>
-          <AccordionDetails sx={{ padding: '0 0 0 16px' }}>
+          <AccordionDetails sx={{ padding: '0 0 0 16px'}}>
             <Box display="flex" flexDirection="column" gap={1}>
               <MenuItem onClick={() => handleTutorialClick('search')} sx={{ pl: 2, fontSize: '16px', color: '#A1A1A1' }}>
-                <SearchIcon fontSize="small" sx={{ width: 20, height: 20, mr: 1, color: '#A1A1A1' }} /> 
-                <Typography variant="body1" sx={{ fontSize: '15px' }}>Search</Typography>
+                <SearchIcon fontSize="small" sx={{ color: '#a1a1a1', width: 20, height: 20, mr: 1, color: '#A1A1A1' }} /> 
+                <Typography variant="body1" sx={{ color: '#a1a1a1', fontSize: '15px' }}>Search</Typography>
               </MenuItem>
               <MenuItem onClick={() => handleTutorialClick('highlighting')} sx={{ pl: 2, fontSize: '16px', color: '#A1A1A1' }}>
-                <BorderColorIcon fontSize="small" sx={{ width: 18, height: 18, mt: -1, mr: 1, color: '#A1A1A1' }} /> 
-                <Typography variant="body1" sx={{ fontSize: '15px' }}>Verse Highlighting</Typography>
+                <BorderColorIcon fontSize="small" sx={{ color: '#a1a1a1', width: 18, height: 18, mt: -1, mr: 1, color: '#A1A1A1' }} /> 
+                <Typography variant="body1" sx={{ color: '#a1a1a1', fontSize: '15px' }}>Verse Highlighting</Typography>
               </MenuItem>
               <MenuItem onClick={() => handleTutorialClick('comments')} sx={{ pl: 2, fontSize: '16px', color: '#A1A1A1' }}>
-                <CommentIcon fontSize="small" sx={{ width: 20, height: 20, mr: 1, color: '#A1A1A1' }} /> 
-                <Typography variant="body1" sx={{ fontSize: '15px' }}>Comments</Typography>
+                <CommentIcon fontSize="small" sx={{ color: '#a1a1a1', width: 20, height: 20, mr: 1, color: '#A1A1A1' }} /> 
+                <Typography variant="body1" sx={{ color: '#a1a1a1', fontSize: '15px' }}>Comments</Typography>
               </MenuItem>
             </Box>
           </AccordionDetails>
@@ -233,7 +236,7 @@ function Header(props: HeaderProps) {
           }}
         >
           <AccordionSummary
-            expandIcon={<ExpandMoreIcon />}
+            expandIcon={<ExpandMoreIcon sx={{color: '#a1a1a1'}} />}
             aria-controls="donate-content"
             id="donate-header"
             sx={{ 
@@ -247,8 +250,8 @@ function Header(props: HeaderProps) {
             }}
           >
             <Box display="flex" alignItems="center" sx={{ ml: 1, py: 0.5 }}>
-              <VolunteerActivismIcon fontSize="small" sx={{ mr: 2 }} />
-              <Typography variant="body1" sx={{ fontSize: '15px' }}>Donate</Typography>
+              <VolunteerActivismIcon fontSize="small" sx={{ color: '#a1a1a1', mr: 2, color: '#A1A1A1' }} />
+              <Typography variant="body1" sx={{ color: '#a1a1a1', fontSize: '15px' }}>Donate</Typography>
             </Box>
           </AccordionSummary>
           <AccordionDetails sx={{ padding: '0 0 0 16px' }}>
@@ -324,7 +327,7 @@ function Header(props: HeaderProps) {
               sx={{
                 mr: 2,
                 display: { sm: "block" },
-                mt: { xs: 0, sm: 0 },
+                mt: { xs: -1, sm: 0 },
                 "&.MuiIconButton-root:hover": {
                   backgroundColor: "rgba(0, 0, 0, 0.00)",
                   opacity: 1,
@@ -357,7 +360,7 @@ function Header(props: HeaderProps) {
                 alignItems: "center",
               }}
             >
-              <Box display={"flex"} flexDirection={"row"}>
+              <Box display={{ xs: "none", sm: "flex" }} flexDirection={"row"}>
                 <img
                   src={logo}
                   alt="revelationary"
@@ -394,9 +397,9 @@ function Header(props: HeaderProps) {
             <Box sx={{ flexGrow: 0, borderRadius: 0, display: 'flex', alignItems: 'center' }}>
               {/* Dark Mode Toggle */}
               {/* Show IconButton on mobile, Switch on larger screens */}
-              <NotificationBell sx={{ mr: 2 }} />
+              <NotificationBell sx={{ fontSize: '1rem', color: '#a1a1a1', mr: 0.5 }} />
               <Box sx={{ display: { xs: 'none', sm: 'flex' }, alignItems: 'center', mr: 3 }}>
-                <Brightness7Icon sx={{ fontSize: '1rem', color: isDarkMode ? 'inherit' : 'text.disabled' }} />
+                <Brightness7Icon sx={{ fontSize: '1rem', color: '#a1a1a1' }} />
                 <Switch
                   size="small"
                   checked={isDarkMode}
@@ -404,7 +407,7 @@ function Header(props: HeaderProps) {
                   inputProps={{ 'aria-label': 'toggle dark mode' }}
                   sx={{ mx: 0.5 }}
                 />
-                <Brightness4Icon sx={{ fontSize: '1rem', color: isDarkMode ? 'text.disabled' : 'inherit' }} />
+                <Brightness4Icon sx={{ fontSize: '1rem', color: '#a1a1a1' }} />
               </Box>
               
               {/* IconButton only for mobile */}
@@ -417,7 +420,7 @@ function Header(props: HeaderProps) {
                     padding: '4px'
                   }}
                 >
-                  {isDarkMode ? <Brightness7Icon fontSize="small" /> : <Brightness4Icon fontSize="small" />}
+                  {isDarkMode ? <Brightness7Icon fontSize="small" color="#a1a1a1" /> : <Brightness4Icon fontSize="small" color="#a1a1a1" />}
                 </IconButton>
               </Tooltip>
               

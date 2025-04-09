@@ -185,7 +185,6 @@ export const Blog: React.FC = () => {
           </Grid>
           <Box my={10} />
         </main>
-        <Footer />
       </Container>
     </>
   );
