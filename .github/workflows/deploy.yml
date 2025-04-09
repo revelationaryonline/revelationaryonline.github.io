@@ -1,0 +1,56 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - latest
+  pull_request:
+    branches:
+      - latest
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build
+      run: |
+        # Create a temporary .env file from GitHub Secrets
+        echo "REACT_APP_WP_API_URL=${{ secrets.REACT_APP_WP_API_URL }}" >> .env
+        echo "REACT_APP_WP_JSON_API_URL=${{ secrets.REACT_APP_WP_JSON_API_URL }}" >> .env
+        echo "REACT_APP_WP_API_URL_CUSTOM=${{ secrets.REACT_APP_WP_API_URL_CUSTOM }}" >> .env
+        echo "REACT_APP_WP_USERNAME=${{ secrets.REACT_APP_WP_USERNAME }}" >> .env
+        echo "REACT_APP_WP_APP_PASSWORD=${{ secrets.REACT_APP_WP_APP_PASSWORD }}" >> .env
+        echo "JWT_SECRET_KEY=${{ secrets.JWT_SECRET_KEY }}" >> .env
+        echo "REACT_APP_PERSPECTIVE_API_KEY=${{ secrets.REACT_APP_PERSPECTIVE_API_KEY }}" >> .env
+        echo "REACT_APP_PERSPECTIVE_API_URL=${{ secrets.REACT_APP_PERSPECTIVE_API_URL }}" >> .env
+        echo "REACT_APP_FIREBASE_API_KEY=${{ secrets.REACT_APP_FIREBASE_API_KEY }}" >> .env
+        echo "REACT_APP_FIREBASE_AUTH_DOMAIN=${{ secrets.REACT_APP_FIREBASE_AUTH_DOMAIN }}" >> .env
+        echo "REACT_APP_FIREBASE_PROJECT_ID=${{ secrets.REACT_APP_FIREBASE_PROJECT_ID }}" >> .env
+        echo "REACT_APP_FIREBASE_STORAGE_BUCKET=${{ secrets.REACT_APP_FIREBASE_STORAGE_BUCKET }}" >> .env
+        echo "REACT_APP_FIREBASE_MESSAGING_SENDER_ID=${{ secrets.REACT_APP_FIREBASE_MESSAGING_SENDER_ID }}" >> .env
+        echo "REACT_APP_FIREBASE_APP_ID=${{ secrets.REACT_APP_FIREBASE_APP_ID }}" >> .env
+        echo "REACT_APP_FIREBASE_MEASUREMENT_ID=${{ secrets.REACT_APP_FIREBASE_MEASUREMENT_ID }}" >> .env
+        echo "REACT_APP_WP_DELETE_SECRET=${{ secrets.REACT_APP_WP_DELETE_SECRET }}" >> .env
+        echo "USER_DELETE_DEBUG=${{ secrets.USER_DELETE_DEBUG }}" >> .env
+        echo "REACT_APP_STRIPE_PUBLISHABLE_KEY=${{ secrets.REACT_APP_STRIPE_PUBLISHABLE_KEY }}" >> .env
+        echo "REACT_APP_STRIPE_SECRET_KEY_PROD=${{ secrets.REACT_APP_STRIPE_SECRET_KEY_PROD }}" >> .env
+        echo "REACT_APP_STRIPE_SECRET_KEY=${{ secrets.REACT_APP_STRIPE_SECRET_KEY }}" >> .env
+        npm run build
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: build
+        branch: gh-pages
+        clean: true
