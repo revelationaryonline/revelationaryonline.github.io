@@ -22,6 +22,7 @@ import StarIcon from '@mui/icons-material/Star';
 import LightbulbIcon from '@mui/icons-material/Lightbulb';
 import { useSubscription } from '../../contexts/SubscriptionContext';
 import SubscriptionCheck from '../Subscription/SubscriptionCheck';
+import { getAuthHeaders } from '../../services/readingService';
 
 // Types for our achievements data
 interface Achievement {
@@ -79,7 +80,7 @@ const getRarityColor = (rarity: string) => {
   }
 };
 
-const AchievementsPanel: React.FC = () => {
+const AchievementsPanel: React.FC<{ user: any; wpToken: string }> = ({ user, wpToken }) => {
   const [achievements, setAchievements] = useState<Achievement[]>([]);
   const [progress, setProgress] = useState<ReadingProgress | null>(null);
   const [loading, setLoading] = useState(true);
@@ -91,29 +92,22 @@ const AchievementsPanel: React.FC = () => {
       try {
         setLoading(true);
         
-        // Get the WordPress token (from cookie or localStorage)
-        const wpToken = localStorage.getItem('wpToken') || '';
-        
         // Fetch achievements from the WordPress REST API
-        const achievementsResponse = await fetch(
-          `${process.env.REACT_APP_WP_API_URL}/wp-json/revelationary/v1/reading-progress`, 
+        const response = await fetch(
+          `https://revelationary.org/wp-json/revelationary/v1/reading-progress`, 
           {
-            headers: {
-              'Authorization': `Basic ${wpToken}`,
-              'Content-Type': 'application/json'
-            }
-          }
+            headers: getAuthHeaders(user, wpToken)}
         );
         
-        if (!achievementsResponse.ok) {
+        if (!response.ok) {
           throw new Error('Failed to fetch achievements');
         }
         
-        const achievementsData = await achievementsResponse.json();
+        const data = await response.json();
         
         // Update state with the fetched data
-        setAchievements(achievementsData.achievements || []);
-        setProgress(achievementsData.progress || null);
+        setAchievements(data.achievements || []);
+        setProgress(data.progress || null);
         
       } catch (err) {
         console.error('Error fetching achievements:', err);
@@ -124,7 +118,7 @@ const AchievementsPanel: React.FC = () => {
     };
     
     fetchAchievements();
-  }, []);
+  }, [user, wpToken]);
   
   if (loading) {
     return (
@@ -147,8 +141,8 @@ const AchievementsPanel: React.FC = () => {
       <Paper elevation={0} sx={{ p: 3, borderRadius: 2, mb: 4 }}>
         <Box sx={{ display: 'flex', alignItems: 'center', mb: 2 }}>
           <EmojiEventsIcon color="primary" sx={{ mr: 1 }} />
-          <Typography variant="h5" component="h2">
-            Bible Reading Achievements
+          <Typography variant="h5" component="h2" sx={{ fontSize: 16 }}>
+            Achievements
           </Typography>
         </Box>
         

@@ -23,7 +23,7 @@ function register_bible_reading_api_endpoints() {
         
         // Streaks
         ['route' => 'reading-streak', 'methods' => 'GET', 'callback' => 'get_reading_streak'],
-        ['route' => 'reading-streak', 'methods' => 'POST', 'callback' => 'update_reading_streak'],
+        ['route' => 'reading-streak', 'methods' => 'POST', 'callback' => 'update_streak_endpoint'],
         
         // Points & Leveling
         ['route' => 'reading-points', 'methods' => 'GET', 'callback' => 'get_reading_points'],
@@ -69,6 +69,153 @@ function register_bible_reading_api_endpoints() {
         'callback' => 'update_user_subscription',
         'permission_callback' => 'bible_reading_permission_check'
     ]);
+}
+
+/**
+ * Get user's reading streak
+ */
+function get_reading_streak($request) {
+    // Authentication check
+    $user_id = bible_reading_permission_check($request);
+    if (is_wp_error($user_id)) {
+        return $user_id;
+    }
+    
+    // Get streak data from user meta
+    $current_streak = intval(get_user_meta($user_id, 'bible_reading_streak', true)) ?: 0;
+    $longest_streak = intval(get_user_meta($user_id, 'bible_reading_longest_streak', true)) ?: 0;
+    
+    // Get reading activity for the last 30 days
+    $reading_history = get_user_meta($user_id, 'bible_reading_history', true) ?: [];
+    $last_30_days = [];
+    
+    // Generate data for last 30 days
+    $today = date('Y-m-d');
+    for ($i = 0; $i < 30; $i++) {
+        $date = date('Y-m-d', strtotime("-$i days"));
+        if (isset($reading_history[$date])) {
+            $last_30_days[] = [
+                'date' => $date,
+                'completed' => true,
+                'chapters_read' => $reading_history[$date]
+            ];
+        } else {
+            $last_30_days[] = [
+                'date' => $date,
+                'completed' => false,
+                'chapters_read' => 0
+            ];
+        }
+    }
+    
+    // Calculate additional stats
+    $total_days_read = count(array_filter($reading_history, function($chapters) { return $chapters > 0; }));
+    $total_chapters = array_sum($reading_history);
+    $average_chapters = $total_days_read > 0 ? $total_chapters / $total_days_read : 0;
+    
+    return [
+        'current_streak' => $current_streak,
+        'longest_streak' => $longest_streak,
+        'last_30_days' => $last_30_days,
+        'total_days_read' => $total_days_read,
+        'average_chapters_per_day' => $average_chapters
+    ];
+}
+
+/**
+ * Handle POST requests to update reading streak
+ */
+function update_streak_endpoint($request) {
+    // Authentication check
+    $user_id = bible_reading_permission_check($request);
+    if (is_wp_error($user_id)) {
+        return $user_id;
+    }
+    
+    // Get date from request or use today's date
+    $parameters = $request->get_json_params();
+    $date = isset($parameters['date']) ? sanitize_text_field($parameters['date']) : date('Y-m-d');
+    
+    // Make sure we have a reading history entry for today
+    $reading_history = get_user_meta($user_id, 'bible_reading_history', true) ?: [];
+    
+    // Log debugging information
+    $debug_info = [
+        'user_id' => $user_id,
+        'date' => $date,
+        'reading_history' => $reading_history,
+        'has_today_entry' => isset($reading_history[$date]) && $reading_history[$date] > 0
+    ];
+    error_log('Streak Debug: ' . print_r($debug_info, true));
+    
+    // Force create a reading history entry for today
+    // This ensures we definitely have a reading activity entry
+    $reading_history[$date] = isset($reading_history[$date]) ? max(1, $reading_history[$date]) : 1;
+    update_user_meta($user_id, 'bible_reading_history', $reading_history);
+    
+    // Call the existing function to update the streak
+    $streak = update_reading_streak($user_id, $date);
+    
+    // Log whether the streak was updated
+    error_log('Streak Update Result: ' . ($streak ? 'Success - Streak: ' . $streak : 'Failed'));
+    
+    if ($streak) {
+        return rest_ensure_response([
+            'success' => true,
+            'streak' => $streak,
+            'debug' => $debug_info
+        ]);
+    } else {
+        return rest_ensure_response([
+            'success' => false,
+            'message' => 'No reading activity found for today',
+            'debug' => $debug_info
+        ]);
+    }
+}
+
+/**
+ * Update reading streak when marking chapters as read
+ */
+function update_reading_streak($user_id, $date = null) {
+    if (!$date) {
+        $date = date('Y-m-d'); // Today's date in Y-m-d format
+    }
+    
+    // Get reading history
+    $reading_history = get_user_meta($user_id, 'bible_reading_history', true) ?: [];
+    
+    // If user read something today, update streak
+    if (isset($reading_history[$date]) && $reading_history[$date] > 0) {
+        // Get yesterday's date
+        $yesterday = date('Y-m-d', strtotime('-1 day'));
+        
+        // Get current streak
+        $current_streak = intval(get_user_meta($user_id, 'bible_reading_streak', true)) ?: 0;
+        
+        // If user read yesterday, increase streak, otherwise reset to 1
+        if (isset($reading_history[$yesterday]) && $reading_history[$yesterday] > 0) {
+            $current_streak++; 
+        } else {
+            $current_streak = 1;
+        }
+        
+        // Update current streak
+        update_user_meta($user_id, 'bible_reading_streak', $current_streak);
+        
+        // Update longest streak if needed
+        $longest_streak = intval(get_user_meta($user_id, 'bible_reading_longest_streak', true)) ?: 0;
+        if ($current_streak > $longest_streak) {
+            update_user_meta($user_id, 'bible_reading_longest_streak', $current_streak);
+        }
+        
+        // Check for streak achievements
+        check_streak_achievements($user_id, $current_streak);
+        
+        return $current_streak;
+    }
+    
+    return false;
 }
 
 /**
@@ -420,6 +567,103 @@ function get_reading_plan($request) {
     }
     
     return rest_ensure_response($plan);
+}
+
+/**
+ * Get reading progress
+ * Returns a record of which chapters the user has read
+ */
+function get_reading_progress($request) {
+    // Authentication is handled by the permission callback
+    $user_id = get_current_user_id();
+    error_log('Get Reading Progress - User ID: ' . $user_id);
+    
+    // Get the user's reading progress
+    $progress = get_user_meta($user_id, 'bible_reading_progress', true);
+    
+    // Initialize if not set
+    if (!$progress || !is_array($progress)) {
+        $progress = [];
+    }
+
+    // Include additional debug information in the response
+    $response_data = [
+        'reading_progress' => $progress
+    ];
+    
+    return rest_ensure_response($response_data);
+}
+
+/**
+ * Update reading progress
+ * Marks a chapter as read in the user's reading progress
+ */
+function update_reading_progress($request) {
+    // Authentication is handled by the permission callback
+    $user_id = get_current_user_id();
+    error_log('Update Reading Progress - User ID: ' . $user_id);
+    
+    $params = $request->get_params();
+    
+    // Validate required parameters
+    if (!isset($params['book']) || !isset($params['chapter'])) {
+        return new WP_Error('missing_parameters', 'Book and chapter are required', ['status' => 400]);
+    }
+    
+    $book = sanitize_text_field($params['book']);
+    $chapter = intval($params['chapter']);
+    
+    // Get current progress
+    $progress = get_user_meta($user_id, 'bible_reading_progress', true);
+    if (!$progress || !is_array($progress)) {
+        $progress = [];
+    }
+    
+    // Add this chapter to the book's array of read chapters
+    if (!isset($progress[$book])) {
+        $progress[$book] = [$chapter];
+    } else if (!in_array($chapter, $progress[$book])) {
+        $progress[$book][] = $chapter;
+    }
+    
+    // Save updated progress
+    update_user_meta($user_id, 'bible_reading_progress', $progress);
+    
+    // IMPORTANT: Also update reading history for streak tracking
+    $current_date = date('Y-m-d');
+    $reading_history = get_user_meta($user_id, 'bible_reading_history', true) ?: [];
+    
+    // If this is a newly read chapter, update the history count
+    if ($is_newly_read) {
+        // If we don't have an entry for today or it's 0, set it to 1 (first chapter read today)
+        if (!isset($reading_history[$current_date]) || $reading_history[$current_date] <= 0) {
+            $reading_history[$current_date] = 1;
+        } else {
+            // Increment the count for today if this is a new chapter
+            $reading_history[$current_date]++;
+        }
+        
+        // Save the updated reading history
+        update_user_meta($user_id, 'bible_reading_history', $reading_history);
+    }
+    
+    // Include additional debug information in the response
+    $response_data = [
+        'success' => true, 
+        'book' => $book, 
+        'chapter' => $chapter,
+        'updated_progress' => $progress,
+        'debug_info' => [
+            'user_id' => $user_id,
+            'user_roles' => get_userdata($user_id)->roles,
+            'auth_method' => isset($_SERVER['HTTP_AUTHORIZATION']) ? 'basic_auth' : 'cookie',
+            'timestamp' => current_time('mysql'),
+            'endpoint' => 'update_reading_progress',
+            'params_received' => $params
+        ]
+    ];
+    
+    return rest_ensure_response($response_data);
 }
 
 /**
@@ -781,29 +1025,168 @@ function calculate_points_to_level($level) {
 
 /**
  * Basic permission check for Bible reading endpoints
+ * Uses the same authentication logic as comments system
  */
-function bible_reading_permission_check() {
-    return current_user_can('read');
+function bible_reading_permission_check($request) {
+    // Get the Authorization header
+    $auth_header = $request->get_header("Authorization");
+    
+    // Check if Authorization header exists and starts with "Basic "
+    if (!$auth_header || strpos($auth_header, "Basic ") !== 0) {
+        error_log('Invalid or missing Authorization header: ' . $auth_header);
+        return new WP_Error(
+            "auth_invalid_format",
+            "Invalid authentication format. Basic authentication required.",
+            array("status" => 401)
+        );
+    }
+    
+    // Extract the credentials
+    $credentials = base64_decode(substr($auth_header, 6));
+    if (empty($credentials) || strpos($credentials, ':') === false) {
+        error_log('Invalid credentials format in Authorization header');
+        return new WP_Error(
+            "auth_invalid_credentials",
+            "Invalid credentials format",
+            array("status" => 401)
+        );
+    }
+    
+    list($username, $password) = explode(':', $credentials, 2);
+    
+    // Find user by email
+    $user = get_user_by('email', $username);
+    if (!$user) {
+        // Try by username as fallback
+        $user = get_user_by('login', $username);
+        if (!$user) {
+            error_log('User not found for email/username: ' . $username);
+            return new WP_Error(
+                "auth_user_not_found",
+                "User not found",
+                array("status" => 401)
+            );
+        }
+    }
+    
+    // Log authentication details
+    error_log('Processing auth for user: ' . $user->ID . ' (' . $username . ')');
+    
+    // Set the current user
+    wp_set_current_user($user->ID);
+    
+    // Grant temporary capability to edit user meta for this specific request
+    add_filter('user_has_cap', function($allcaps, $cap, $args) use ($user) {
+        // Only grant capabilities for the authenticated user to edit their own meta
+        if (isset($args[0]) && $args[0] === 'edit_user_meta' && 
+            isset($args[1]) && $args[1] === $user->ID) {
+            $allcaps['edit_user_meta'] = true;
+        }
+        return $allcaps;
+    }, 10, 3);
+    
+    return $user->ID;
 }
+
+/**
+ * Add the capability for subscribers to edit their own meta fields
+ */
+function add_subscriber_meta_capabilities() {
+    $role = get_role('subscriber');
+    if ($role) {
+        // Add capability to edit their own meta
+        $role->add_cap('edit_user_meta');
+    }
+}
+
+// Register this on init to ensure it's available early
+add_action('init', 'add_subscriber_meta_capabilities');
 
 /**
  * Premium permission check for Bible reading endpoints that require subscription
  */
 function bible_reading_premium_permission_check() {
-    if (!current_user_can('read')) {
+    // Allow OPTIONS requests for CORS pre-flight
+    if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+        return true;
+    }
+    
+    // First authenticate the user using same approach as basic_auth_handler in functions.php
+    $auth_header = null;
+    if (isset($_SERVER['HTTP_AUTHORIZATION'])) {
+        $auth_header = $_SERVER['HTTP_AUTHORIZATION'];
+    } elseif (isset($_SERVER['REDIRECT_HTTP_AUTHORIZATION'])) {
+        $auth_header = $_SERVER['REDIRECT_HTTP_AUTHORIZATION'];
+    } elseif (function_exists('apache_request_headers')) {
+        $headers = apache_request_headers();
+        if (isset($headers['Authorization'])) {
+            $auth_header = $headers['Authorization'];
+        }
+    }
+    
+    // If no Authorization header found, fall back to cookie auth
+    if (empty($auth_header)) {
+        if (!is_user_logged_in()) {
+            return false;
+        }
+        
+        // User is logged in via cookie, check subscription
+        $user_id = get_current_user_id();
+        $has_subscription = get_user_meta($user_id, 'has_active_subscription', true);
+        
+        // For testing/development purposes, this can be overridden
+        if (defined('BIBLE_READING_TEST_MODE') && BIBLE_READING_TEST_MODE) {
+            return true;
+        }
+        
+        return (bool) $has_subscription;
+    }
+    
+    // Check if it's a Basic auth header
+    if (strpos($auth_header, 'Basic ') !== 0) {
         return false;
     }
     
-    // Get the user ID
-    $user_id = get_current_user_id();
+    // Decode the credentials
+    $credentials = base64_decode(substr($auth_header, 6));
+    if (empty($credentials) || strpos($credentials, ':') === false) {
+        return false;
+    }
     
-    // Check if user has active subscription
-    $has_subscription = get_user_meta($user_id, 'has_active_subscription', true);
+    list($username, $password) = explode(':', $credentials, 2);
+    
+    // Remove any control characters
+    $username = preg_replace('/[\x00-\x1F\x7F]/u', '', $username);
+    $password = preg_replace('/[\x00-\x1F\x7F]/u', '', $password);
+    
+    if (empty($username) || empty($password)) {
+        return false;
+    }
+    
+    // Find user by email
+    $user_obj = get_user_by('email', $username);
+    if (!$user_obj) {
+        // Try by username as fallback
+        $user_obj = get_user_by('login', $username);
+        if (!$user_obj) {
+            error_log('User not found for email/username: ' . $username);
+            return false;
+        }
+    }
+    
+    // Set the current user as authenticated for this request
+    wp_set_current_user($user_obj->ID);
+    
+    // Now check subscription status
+    $has_subscription = get_user_meta($user_obj->ID, 'has_active_subscription', true);
     
     // For testing/development purposes, this can be overridden
     if (defined('BIBLE_READING_TEST_MODE') && BIBLE_READING_TEST_MODE) {
         return true;
     }
+    
+    // Add debug logging
+    error_log('User: ' . $user_obj->ID . ' subscription status: ' . ($has_subscription ? 'active' : 'inactive'));
     
     return (bool) $has_subscription;
 }

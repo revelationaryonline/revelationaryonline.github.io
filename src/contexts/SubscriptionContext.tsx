@@ -1,7 +1,7 @@
-import React, { createContext, useState, useEffect, useContext } from 'react';
+import React, { createContext, useContext, useState, useEffect } from 'react';
 import { checkSubscriptionStatus } from '../services/stripe';
+import { useNavigate } from 'react-router-dom';
 import Cookies from 'js-cookie';
-import { getAuth } from 'firebase/auth';
 
 // Define the shape of our subscription state
 interface SubscriptionState {
@@ -11,15 +11,16 @@ interface SubscriptionState {
   subscriptionId: string | null;
 }
 
-// Define the context interface
+// Define the shape of our context
 interface SubscriptionContextType {
   subscription: SubscriptionState;
   refreshStatus: () => Promise<void>;
   canUseComments: boolean;
+  clearSubscriptionData: () => void;
 }
 
 // Create the context with default values
-const SubscriptionContext = createContext<SubscriptionContextType>({
+const SubscriptionContext = React.createContext<SubscriptionContextType>({
   subscription: {
     isActive: false,
     plan: null,
@@ -27,11 +28,18 @@ const SubscriptionContext = createContext<SubscriptionContextType>({
     subscriptionId: null
   },
   refreshStatus: async () => { console.log('Default refreshStatus - should be overridden by provider'); },
-  canUseComments: false
+  canUseComments: false,
+  clearSubscriptionData: () => { console.log('Default clearSubscriptionData - should be overridden by provider'); }
 });
 
-// Export a hook for using this context
-export const useSubscription = () => useContext(SubscriptionContext);
+// Custom hook to use the context
+export const useSubscription = () => {
+  const context = React.useContext(SubscriptionContext);
+  if (context === undefined) {
+    throw new Error('useSubscription must be used within a SubscriptionProvider');
+  }
+  return context;
+};
 
 // Provider component
 export const SubscriptionProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
@@ -41,17 +49,42 @@ export const SubscriptionProvider: React.FC<{ children: React.ReactNode }> = ({ 
     expiresAt: null,
     subscriptionId: null
   });
+  const navigate = useNavigate();
+
+  // Function to clear all subscription data and redirect to login
+  const clearSubscriptionData = () => {
+    // Clear all subscription-related data from localStorage
+    const userEmail = localStorage.getItem('userEmail');
+    if (userEmail) {
+      const storageKey = `subscription_${userEmail.replace(/[^a-zA-Z0-9]/g, '_').toLowerCase()}`;
+      localStorage.removeItem(storageKey);
+    }
+    localStorage.removeItem('user_subscription');
+    localStorage.removeItem('userEmail');
+    localStorage.removeItem('is_test_subscription');
+    
+    // Clear cookies
+    Cookies.remove('wpToken');
+    Cookies.remove('userId');
+    
+    // Reset subscription state
+    setSubscription({
+      isActive: false,
+      plan: null,
+      expiresAt: null,
+      subscriptionId: null
+    });
+    
+    // Redirect to login page
+    navigate('/login');
+  };
 
   // Function to check subscription status
   const refreshStatus = async () => {
-    const userEmail = getUserEmail();
+    const userEmail = localStorage.getItem('userEmail');
     if (!userEmail) {
-      setSubscription({
-        isActive: false,
-        plan: null,
-        expiresAt: null,
-        subscriptionId: null
-      });
+      // If no user email, clear data and redirect to login
+      clearSubscriptionData();
       return;
     }
 
@@ -60,42 +93,24 @@ export const SubscriptionProvider: React.FC<{ children: React.ReactNode }> = ({ 
       setSubscription(status);
     } catch (error) {
       console.error('Error refreshing subscription status:', error);
+      // If there's an error checking subscription, clear data and redirect to login
+      clearSubscriptionData();
     }
   };
 
-  // Helper to get user email from auth
-  const getUserEmail = () => {
-    // Get email from Firebase Auth
-    const auth = getAuth();
-    const user = auth.currentUser;
-    
-    if (user && user.email) {
-      // Store in localStorage as fallback for easier testing
-      localStorage.setItem('userEmail', user.email);
-      return user.email;
-    }
-    
-    // Fallback to localStorage if Firebase auth is not available
-    // This helps with testing and persistence between page refreshes
-    return localStorage.getItem('userEmail') || null;
-  };
-
-  // Check subscription status on mount
+  // Check subscription status on mount and whenever the route changes
   useEffect(() => {
     refreshStatus();
-    // Set up periodic refresh (optional)
-    const interval = setInterval(refreshStatus, 60 * 60 * 1000); // refresh every hour
-    return () => clearInterval(interval);
-  }, []);
+  }, []); // Run only once on mount
 
   // Derived state for premium features
   const canUseComments = subscription.isActive;
 
-  // Context value
   const value = {
     subscription,
     refreshStatus,
-    canUseComments
+    canUseComments,
+    clearSubscriptionData
   };
 
   return (

@@ -1,4 +1,10 @@
-import React, { useState, useEffect, useMemo, ChangeEvent, useRef } from "react";
+import React, {
+  useState,
+  useEffect,
+  useMemo,
+  ChangeEvent,
+  useRef,
+} from "react";
 import { useNavigate } from "react-router-dom";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import Cookies from "js-cookie";
@@ -20,7 +26,6 @@ import Select, { SelectChangeEvent } from "@mui/material/Select";
 import CommentsDisabledIcon from "@mui/icons-material/CommentsDisabled";
 import { SideBar } from "../SideBar/SideBar";
 import TopToolbar from "../Toolbar/TopToolbar";
-// import VideoModal from "../VideoModal/VideoModal";
 import MenuPanel from "../Menu/MenuPanel";
 import Guide from "../Guide/Guide";
 import FloatingCommentForm from "../forms/FloatingCommentForm";
@@ -39,12 +44,12 @@ import IconButton from "@mui/material/IconButton";
 import Tooltip from "@mui/material/Tooltip";
 import { User } from "firebase/auth";
 import MenuItem from "@mui/material/MenuItem";
-import Alert from "../Alert/Alert"
-import Footer from "../Footer/Footer";
+import Alert from "../Alert/Alert";
 import SubscriptionCheck from "../Subscription/SubscriptionCheck";
 import { useSubscription } from "../../contexts/SubscriptionContext";
 import SubscriptionPromptDialog from "../Subscription/SubscriptionPromptDialog";
-
+import ReadingProgressToast from "../BibleReading/ReadingProgressToast";
+import VideoModal from "../VideoModal/VideoModal";
 
 interface DashboardContentProps {
   loggedIn: boolean;
@@ -68,6 +73,10 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
   setWpToken,
 }) => {
   const [open, setOpen] = useState(false);
+  const [showEmailSignup, setShowEmailSignup] = useState(false);
+  const [hasScrolled, setHasScrolled] = useState(false);
+  const [scrollTimeout, setScrollTimeout] = useState<NodeJS.Timeout | null>(null);
+  const [scrollPosition, setScrollPosition] = useState(0);
   const navigate = useNavigate();
   const toggleDrawer = () => {
     setOpen(!open);
@@ -83,7 +92,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
 
   const [verse, setVerse] = useState<Verse[]>([]);
   const [result, setResult] = useState<Verse[]>([]);
-  const isMobile = useMediaQuery('(max-width:600px)');
+  const isMobile = useMediaQuery("(max-width:600px)");
   const [columns, setColumns] = useState(result.length <= 1 ? 2 : 2);
   // eslint-disable-next-line
   const [data, setData] = useState<any[]>([]);
@@ -197,7 +206,48 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
     }
   }, [commentsMenu]);
 
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentScroll = window.scrollY;
+      setScrollPosition(currentScroll);
 
+      // Clear existing timeout
+      if (scrollTimeout) {
+        clearTimeout(scrollTimeout);
+      }
+
+      // Set new timeout
+      const timeout = setTimeout(() => {
+        // Only show if user has scrolled more than 300px
+        if (currentScroll > 300 && !hasScrolled) {
+          setHasScrolled(true);
+          setShowEmailSignup(true);
+        }
+      }, 100);
+
+      setScrollTimeout(timeout);
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      if (scrollTimeout) {
+        clearTimeout(scrollTimeout);
+      }
+    };
+  }, [hasScrolled, scrollTimeout]);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > window.innerHeight / 2 && !showEmailSignup) {
+        setShowEmailSignup(true);
+      }
+    };
+
+    // Add scroll listener to window
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   useEffect(() => {
     if (loading) {
@@ -368,20 +418,19 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
   const { subscription, canUseComments } = useSubscription();
   const [subscriptionPromptOpen, setSubscriptionPromptOpen] = useState(false);
 
-  
   const handleCommentOpen = (event: React.MouseEvent, verse: Verse) => {
     if (!loggedIn) return;
-    
+
     event.preventDefault();
     event.stopPropagation();
-    
+
     // Check subscription status first
     if (!canUseComments) {
       // Show subscription prompt instead of comment form
       setSubscriptionPromptOpen(true);
       return;
     }
-    
+
     // For subscribers, continue with opening the comment form
     setCommentsMenu(
       commentsMenu === null
@@ -395,7 +444,6 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
     setSlug(`${verse.book.trim()}-${verse.chapter}${verse.verse}`);
     setCommentOpen(true);
   };
-  
 
   const paginatedResults = useMemo(() => {
     const startIndex = (searchPage - 1) * resultsPerPage;
@@ -404,373 +452,385 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
   }, [result, searchPage, resultsPerPage]);
 
   const paperRef = useRef<HTMLDivElement>(null);
-const [showPagination, setShowPagination] = useState(true);
+  const [showPagination, setShowPagination] = useState(true);
 
-useEffect(() => {
   const handleScroll = () => {
     if (paperRef.current) {
-      // Get Paper element's bottom position
+      // Get Paper element's bottom position relative to viewport
       const paperBottom = paperRef.current.getBoundingClientRect().bottom;
-      // console.log(paperBottom)
-      // console.log(paperRef.current)
-      // If paperBottom is above viewport (user scrolled past Paper)
+      // Get viewport height
+      const vh = window.innerHeight;
+      // Calculate the threshold as a percentage of viewport height
+      // 15% of viewport height from bottom
+      const threshold = vh * 0.9;
+      
+      // If paperBottom is above viewport by more than the threshold
       // then hide pagination, otherwise show it
-      setShowPagination(paperBottom > 150);
+      setShowPagination(paperBottom > threshold);
     }
   };
-  
-  // Add scroll listener to window
-  window.addEventListener('scroll', handleScroll);
-  
-  // Initial check
-  handleScroll();
-  
-  // Cleanup
-  return () => {
-    window.removeEventListener('scroll', handleScroll);
-  };
-}, []);
+  useEffect(() => {
+
+    // Add scroll listener to window
+    window.addEventListener("scroll", handleScroll);
+
+    // Initial check
+    handleScroll();
+
+    // Cleanup
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
 
   return (
     <>
-    <Box sx={{ display: "flex", mt: 5.75 }}>
-      <CssBaseline />
-      {/* Hide SideBar on mobile devices */}
-      <Box sx={{ display: { xs: 'none', sm: 'flex' } }}>
-        <SideBar
-          handleToggle={handleToggle}
-          open={open}
-          toggleDrawer={toggleDrawer}
-          checked={checked}
-        />
-      </Box>
-      <Box
-        component="main"
-        sx={{
-          backgroundColor: (theme) =>
-            theme.palette.mode === "light"
-              ? "#FFFFFF"
-              : theme.palette.grey[900],
-          flexGrow: 1,
-          minHeight: "100vh",
-          overflowX: "hidden",
-          mt: { xs: "0.5rem", sm: "1rem" },
-        }}
-      >
-        <TopToolbar
-          handleColumns={handleColumns}
-          handleFontSize={handleFontSize}
-          verse={verse}
-          page={page}
-          fetchVerse={fetchVerse}
-          setSearch={setSearch}
-          setData={setData}
-          setPage={setPage}
-          setVerse={setVerse}
-          loggedIn={loggedIn}
-        />
+      <Box sx={{ display: "flex", mt: 5.75 }}>
+        <CssBaseline />
+        {/* Hide SideBar on mobile devices */}
+        <Box sx={{ display: { xs: "none", sm: "flex" } }}>
+          <SideBar
+            handleToggle={handleToggle}
+            open={open}
+            toggleDrawer={toggleDrawer}
+            checked={checked}
+          />
+        </Box>
+        <Box
+          component="main"
+          sx={{
+            backgroundColor: (theme) =>
+              theme.palette.mode === "light"
+                ? "#FFFFFF"
+                : theme.palette.grey[900],
+            flexGrow: 1,
+            minHeight: "100vh",
+            overflowX: "hidden",
+            mt: { xs: "0.5rem", sm: "1rem" },
+          }}
+        >
+          <TopToolbar
+            handleColumns={handleColumns}
+            handleFontSize={handleFontSize}
+            verse={verse}
+            page={page}
+            fetchVerse={fetchVerse}
+            setSearch={setSearch}
+            setData={setData}
+            setPage={setPage}
+            setVerse={setVerse}
+            loggedIn={loggedIn}
+          />
 
-        {visible.includes("search") && (
-          <TextField
-            inputProps={{
-              "aria-labelledby": "switch-list-label-search",
-              autoComplete: "new-password", // Alternative approach
-              spellCheck: "false",
-              autoCapitalize: "none",
-            }}
-            label="Search"
-            id="searchBar"
-            sx={{
-              width: "auto",
-              display: "flex",
-              mx: 3,
-              mt: "-0.98rem",
-              WebkitBoxShadow: "none !important",
-              "& .Mui-focused": {
-                color: (theme) =>
-                  theme.palette.mode === "light"
-                    ? "black !important"
-                    : "white !important",
-                "& .MuiOutlinedInput-notchedOutline": {
-                  borderColor: (theme) =>
-                    theme.palette.mode === "light"
-                      ? "#ccc !important"
-                      : "#FFF !important",
+          {visible.includes("search") && (
+            <TextField
+              inputProps={{
+                "aria-labelledby": "switch-list-label-search",
+                autoComplete: "new-password", // Alternative approach
+                spellCheck: "false",
+                autoCapitalize: "none",
+              }}
+              label="Search"
+              id="searchBar"
+              sx={{
+                width: "auto",
+                display: "flex",
+                mx: 3,
+                mt: "-0.98rem",
+                WebkitBoxShadow: "none !important",
+                "& .Mui-focused": {
                   color: (theme) =>
                     theme.palette.mode === "light"
-                      ? "black"
+                      ? "black !important"
                       : "white !important",
+                  "& .MuiOutlinedInput-notchedOutline": {
+                    borderColor: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "#ccc !important"
+                        : "#FFF !important",
+                    color: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "black"
+                        : "white !important",
+                  },
+                  "& input:-webkit-autofill": {
+                    WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                    WebkitTextFillColor: (theme) =>
+                      theme.palette.mode === "light" ? "black" : "white",
+                    transition: "background-color 5000s ease-in-out 0s",
+                  },
                 },
-                "& input:-webkit-autofill": {
+                "& .MuiInputBase-input": {
+                  color: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                },
+                "& .MuiInputBase-input:-webkit-autofill": {
                   WebkitBoxShadow: "0 0 0 100px #212121AA inset",
                   WebkitTextFillColor: (theme) =>
                     theme.palette.mode === "light" ? "black" : "white",
                   transition: "background-color 5000s ease-in-out 0s",
                 },
-              },
-              "& .MuiInputBase-input": {
-                color: (theme) =>
-                  theme.palette.mode === "light" ? "black" : "white",
-              },
-              "& .MuiInputBase-input:-webkit-autofill": {
-                WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                WebkitTextFillColor: (theme) =>
-                  theme.palette.mode === "light" ? "black" : "white",
-                transition: "background-color 5000s ease-in-out 0s",
-              },
-            }}
-            InputProps={{
-              startAdornment: focused ? (
-                <InputAdornment position="start">
-                  <SearchIcon fontSize="small" sx={{ opacity: 0.55 }} />
-                </InputAdornment>
-              ) : null,
-            }}
-            value={search}
-            placeholder={`Search by book ie. john or first john, 1 john etc.`}
-            onFocus={() => setFocused(true)}
-            onBlur={() => setFocused(false)}
-            onChange={handleSearchChange}
-            onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) =>
-              handleSearch(e, setData, setVerse, searchTerm, setCount, setPage)
-            }
-          />
-        )}
-        <Container maxWidth="lg" sx={{ mt: 3, mb: 4 }}>
-          <Grid container spacing={3}>
-            <Grid
-              item
-              xs={12}
-              md={checked.includes("guide") ? 8 : 12}
-              lg={checked.includes("guide") ? 9 : 12}
-            >
-              <Paper
-                ref={paperRef} 
-                sx={{
-                  px: { xs: 4, md: 8 },
-                  py: 12,
-                  display: "flex",
-                  width: "auto",
-                  position: "relative",
-                  textAlign: "justify",
-                  height: "auto",
-                }}
-                elevation={4}
+              }}
+              InputProps={{
+                startAdornment: focused ? (
+                  <InputAdornment position="start">
+                    <SearchIcon fontSize="small" sx={{ opacity: 0.55 }} />
+                  </InputAdornment>
+                ) : null,
+              }}
+              value={search}
+              placeholder={`Search by book ie. john or first john, 1 john etc.`}
+              onFocus={() => setFocused(true)}
+              onBlur={() => setFocused(false)}
+              onChange={handleSearchChange}
+              onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) =>
+                handleSearch(
+                  e,
+                  setData,
+                  setVerse,
+                  searchTerm,
+                  setCount,
+                  setPage
+                )
+              }
+            />
+          )}
+          <Container maxWidth="lg" sx={{ mt: 3, mb: 4 }}>
+            <Grid container spacing={3}>
+              <Grid
+                item
+                xs={12}
+                md={checked.includes("guide") ? 8 : 12}
+                lg={checked.includes("guide") ? 9 : 12}
               >
-                <Typography
-                  variant="h5"
-                  component="div"
-                  gridColumn={1}
-                  className="verse__title"
+                <Paper
+                  ref={paperRef}
                   sx={{
-                    fontFamily: "EB Garamond",
-                    fontWeight: 200,
-                    fontSize: "1.85rem",
+                    px: { xs: 4, md: 8 },
+                    py: 12,
                     display: "flex",
-                    position: "absolute",
-                    marginBottom: "1rem",
-                    mt: "-3.5rem",
-                    width: "100%",
+                    width: "auto",
+                    position: "relative",
+                    textAlign: "justify",
+                    height: "auto",
                   }}
+                  elevation={4}
                 >
-                  {verse &&
-                    verse.length >= 1 &&
-                    capitalise(verse[0].book) +
-                      " " +
-                      verse[0].chapter +
-                      ":" +
-                      verse[verse.length - 1].verse}
-                  {/* {verse &&
+                  <Typography
+                    variant="h5"
+                    component="div"
+                    gridColumn={1}
+                    className="verse__title"
+                    sx={{
+                      fontFamily: "EB Garamond",
+                      fontWeight: 200,
+                      fontSize: "1.85rem",
+                      display: "flex",
+                      position: "absolute",
+                      marginBottom: "1rem",
+                      mt: "-3.5rem",
+                      width: "100%",
+                    }}
+                  >
+                    {verse &&
+                      verse.length >= 1 &&
+                      capitalise(verse[0].book) +
+                        " " +
+                        verse[0].chapter +
+                        ":" +
+                        verse[verse.length - 1].verse}
+                    {verse &&
                     verse.length > 0 &&
                     verse[0]?.book &&
                     verse[0]?.chapter && (
-                      <VideoModal
+                        <VideoModal
                         currentBook={verse && verse[0].book}
                         currentChapter={verse && verse[0].chapter}
                       />
-                    )} */}
-                </Typography>
+                    )}
+                  </Typography>
 
-                <Typography
-                  component="span"
-                  gridColumn={3}
-                  className="verse__container"
-                  sx={{
-                    fontFamily: "EB Garamond",
-                    fontWeight: 200,
-                    fontSize: `${textSize}px`,
-                    display: "inline-block",
-                    columns: (verse && verse.length === 1) || isMobile ? 1 : columns,
-                  }}
-                >
-                  {verse && verse.length === 0 && result && (
-                    <Grid
-                      container
-                      display={"flex"}
-                      sx={{ marginBottom: "1rem", mt: "-2rem" }}
-                    >
-                      <Typography
-                        sx={{
-                          fontSize: "1.2rem",
-                          marginRight: "9px",
-                          display: "block",
-                          width: "auto",
-                        }}
-                        className={`result__total ${verse ? "hide" : "show"}`}
+                  <Typography
+                    component="span"
+                    gridColumn={3}
+                    className="verse__container"
+                    sx={{
+                      fontFamily: "EB Garamond",
+                      fontWeight: 200,
+                      fontSize: `${textSize}px`,
+                      display: "inline-block",
+                      columns:
+                        (verse && verse.length === 1) || isMobile ? 1 : columns,
+                    }}
+                  >
+                    {verse && verse.length === 0 && result && (
+                      <Grid
+                        container
+                        display={"flex"}
+                        sx={{ marginBottom: "1rem", mt: "-2rem" }}
                       >
-                        {`${result.length}`}&nbsp;
-                      </Typography>
-                      <Select
-                        value={resultsPerPage}
-                        onChange={handleResultsPerPageChange}
-                        sx={{
-                          ml: 2,
-                          padding: 0,
-                          height: "2rem",
-                          mt: "-0.3rem",
-                          marginLeft: "3rem",
-                        }}
-                      >
-                        <MenuItem value={10}>10</MenuItem>
-                        <MenuItem value={25}>25</MenuItem>
-                        <MenuItem value={50}>50</MenuItem>
-                        <MenuItem value={100}>100</MenuItem>
-                      </Select>
-                      <Typography
-                        sx={{
-                          display: "block",
-                          mt: "0.20rem",
-                          marginLeft: "1.2rem",
-                          width: "auto",
-                          fontSize: "0.7rem",
-                        }}
-                        className={`result__total ${verse ? "hide" : "show"}`}
-                      ></Typography>
-                    </Grid>
-                  )}
-                  {verse && verse.length >= 1
-                    ? verse.map((v, index) => (
-                        <span
-                          key={index}
-                          onContextMenu={(e) => handleContextMenu(e, v)}
-                          onClick={() => handleVerseSelect(v)}
-                          onKeyDown={(e) => {
-                            if (e.key === "G" && e.metaKey) {
-                              handleVerseSelect(v);
-                            }
+                        <Typography
+                          sx={{
+                            fontSize: "1.2rem",
+                            marginRight: "9px",
+                            display: "block",
+                            width: "auto",
                           }}
-                          tabIndex={0}
-                          role="button"
-                          style={{
-                            cursor: "context-menu",
-                          }}
-                          className={`${
-                            v.text === selectedVerse[0]?.text
-                              ? "verse__selected"
-                              : ""
-                          } ${
-                            highlightedVerses.includes(v.id.toString())
-                              ? "highlight"
-                              : "transparent"
-                          }`}
+                          className={`result__total ${verse ? "hide" : "show"}`}
                         >
-                          <span className="verse__number">{v.verse}&nbsp;</span>
+                          {`${result.length}`}&nbsp;
+                        </Typography>
+                        <Select
+                          value={resultsPerPage}
+                          onChange={handleResultsPerPageChange}
+                          sx={{
+                            ml: 2,
+                            padding: 0,
+                            height: "2rem",
+                            mt: "-0.3rem",
+                            marginLeft: "3rem",
+                          }}
+                        >
+                          <MenuItem value={10}>10</MenuItem>
+                          <MenuItem value={25}>25</MenuItem>
+                          <MenuItem value={50}>50</MenuItem>
+                          <MenuItem value={100}>100</MenuItem>
+                        </Select>
+                        <Typography
+                          sx={{
+                            display: "block",
+                            mt: "0.20rem",
+                            marginLeft: "1.2rem",
+                            width: "auto",
+                            fontSize: "0.7rem",
+                          }}
+                          className={`result__total ${verse ? "hide" : "show"}`}
+                        ></Typography>
+                      </Grid>
+                    )}
+                    {verse && verse.length >= 1
+                      ? verse.map((v, index) => (
                           <span
-                            className={`verse__text`}
-                            style={{
-                              backgroundColor: selectedVerse.includes(v)
-                                ? "lightblue"
-                                : "transparent", // Feedback for selection
+                            key={index}
+                            onContextMenu={(e) => handleContextMenu(e, v)}
+                            onClick={() => handleVerseSelect(v)}
+                            onKeyDown={(e) => {
+                              if (e.key === "G" && e.metaKey) {
+                                handleVerseSelect(v);
+                              }
                             }}
-                            onMouseEnter={(e) =>
-                              handleMouseHover(e, setHover, setIsShown, {
-                                book: v.book,
-                                chapter: v.chapter,
-                                verse: v.verse,
-                              })
-                            }
-                            // use mouse leave to reset context menu selection
-                            // onMouseLeave={() => setIsShown(false)}
+                            tabIndex={0}
+                            role="button"
+                            style={{
+                              cursor: "context-menu",
+                            }}
+                            className={`${
+                              v.text === selectedVerse[0]?.text
+                                ? "verse__selected"
+                                : ""
+                            } ${
+                              highlightedVerses.includes(v.id.toString())
+                                ? "highlight"
+                                : "transparent"
+                            }`}
                           >
-                            <span style={{ position: "relative" }}>
-                              {v.text === selectedVerse[0]?.text && (
-                                <>
-                                <Tooltip
-                                  title={
-                                    loggedIn
-                                      ? "Add Comment"
-                                      : "Sign In To Comment"
-                                  }
-                                >
-                                  <IconButton
-                                    onClick={(e) =>
-                                      handleCommentOpen(e, selectedVerse[0])
-                                    }
-                                    sx={{
-                                      padding: 1,
-                                      opacity: 1,
-                                      mt: -10,
-                                      ml: 5,
-                                      position: "relative",
-                                      background: (theme) =>
-                                        theme.palette.mode === "light"
-                                          ? "#A1a1a1aa"
+                            <span className="verse__number">
+                              {v.verse}&nbsp;
+                            </span>
+                            <span
+                              className={`verse__text`}
+                              style={{
+                                backgroundColor: selectedVerse.includes(v)
+                                  ? "lightblue"
+                                  : "transparent", // Feedback for selection
+                              }}
+                              onMouseEnter={(e) =>
+                                handleMouseHover(e, setHover, setIsShown, {
+                                  book: v.book,
+                                  chapter: v.chapter,
+                                  verse: v.verse,
+                                })
+                              }
+                              // use mouse leave to reset context menu selection
+                              // onMouseLeave={() => setIsShown(false)}
+                            >
+                              <span style={{ position: "relative", width: 1, }}>
+                                {v.text === selectedVerse[0]?.text && (
+                                  <>
+                                    <Tooltip
+                                      title={
+                                        loggedIn
+                                          ? "Add Comment"
+                                          : "Sign In To Comment"
+                                      }
+                                      sx={{
+                                      }}
+                                      >
+                                      <IconButton
+                                        onClick={(e) =>
+                                          handleCommentOpen(e, selectedVerse[0])
+                                        }
+                                        sx={{
+                                          padding: 1,
+                                          opacity: 1,
+                                          mt: -10,
+                                          ml: 5,
+                                          position: "relative",
+                                          background: (theme) =>
+                                            theme.palette.mode === "light"
+                                          ? "#a1a1a1"
                                           : "#a1a1a1",
-                                      "&.MuiIconButton-root:hover": {
-                                        background: (theme) =>
-                                          theme.palette.mode === "light"
-                                            ? "#A1a1a1"
-                                            : "#212121",
-                                        opacity: 1,
-                                      },
-                                    }}
-                                  >
-                                    {loggedIn ? (
-                                      <CommentIcon fontSize="small" />
-                                    ) : (
-                                      <CommentsDisabledIcon fontSize="small" />
-                                    )}
-                                  </IconButton>
-                                </Tooltip>
-                                <Tooltip
-                                  title={
-                                    loggedIn
-                                      ? "Highlight Verse"
-                                      : "Sign In To Highlight"
-                                  }
-                                  >
-                                  <IconButton
-                                    onClick={() => handleHighlight()}
-                                    disabled={!loggedIn}
-                                    sx={{
-                                      padding: 1,
-                                      opacity: 1,
-                                      mt: -10,
-                                      ml: 2,
-                                      position: "relative",
-                                      background: (theme) =>
-                                        theme.palette.mode === "light"
-                                          ? "#A1a1a1aa"
-                                          : "#a1a1a1",
-                                      "&.MuiIconButton-root:hover": {
-                                        background: (theme) =>
-                                          theme.palette.mode === "light"
-                                            ? "#A1a1a1"
-                                            : "#212121",
-                                        opacity: 1,
-                                      },
-                                    }}
-                                  >
-                                    {loggedIn ? (
-                                      <BorderColorIcon fontSize="small" />
-                                    ) : (
-                                      <BorderColorIcon fontSize="small" />
-                                    )}
-                                  </IconButton>
-                                </Tooltip>
-                                </>
-                              )}
-                              {/* {v.text === selectedVerse[0]?.text && (
+                                          backgroundColor: "#a1a1a1",
+                                          "&:hover": {
+                                            background: "#b3b3b3", // A lighter shade of #a1a1a1
+                                          },
+                                        }}
+                                      >
+                                        {loggedIn ? (
+                                          <CommentIcon fontSize="small" />
+                                        ) : (
+                                          <CommentsDisabledIcon fontSize="small" />
+                                        )}
+                                      </IconButton>
+                                    </Tooltip>
+                                    <Tooltip
+                                      title={
+                                        
+                                          highlightedVerses.includes(v.id.toString())
+                                          ? "Remove Highlight"
+                                          : "Highlight Verse"
+                                      }
+                                    >
+                                      <IconButton
+                                        onClick={() => handleHighlight()}
+                                          sx={{
+                                            padding: 1,
+                                            opacity: 1,
+                                            mt: -10,
+                                            ml: 2,
+                                            position: "relative",
+                                            background: (theme) =>
+                                              theme.palette.mode === "light"
+                                                ? "#a1a1a1"
+                                                : "#a1a1a1",
+                                            "& .MuiIconButton-root": {  
+                                              background: (theme) =>
+                                                theme.palette.mode === "light"
+                                                  ? "aA1a1a1"
+                                                  : "#212121"
+                                            },
+                                            "&:hover": {
+                                              background: "#b3b3b3", // A lighter shade of #a1a1a1
+                                            },
+                                          }}
+                                      >
+                                          <BorderColorIcon  fontSize="small" />
+                                      </IconButton>
+                                    </Tooltip>
+                                  </>
+                                )}
+                                {/* Favourite Verses Functionality */}
+                                {/* {v.text === selectedVerse[0]?.text && (
                                 <Tooltip
                                   title={loggedIn ? "Like" : "Sign In To Like"}
                                 >
@@ -780,22 +840,20 @@ useEffect(() => {
                                       padding: 1,
                                       opacity: 1,
                                       mt: -10,
-                                      ml: 1,
+                                      ml: 2,
                                       position: "relative",
-                                      background: (theme: {
-                                        palette: { mode: string };
-                                      }) =>
+                                      background: (theme) =>
                                         theme.palette.mode === "light"
-                                          ? "#A1a1a1aa"
-                                          : "#212121aa",
-                                      "&.MuiIconButton-root:hover": {
-                                        background: (theme: {
-                                          palette: { mode: string };
-                                        }) =>
+                                          ? "#a1a1a1"
+                                          : "#a1a1a1",
+                                      "& .MuiIconButton-root": {  
+                                        background: (theme) =>
                                           theme.palette.mode === "light"
-                                            ? "#A1a1a1"
-                                            : "#212121",
-                                        opacity: 1,
+                                            ? "aA1a1a1"
+                                            : "#212121"
+                                      },
+                                      "&:hover": {
+                                        background: "#b3b3b3", // A lighter shade of #a1a1a1
                                       },
                                     }}
                                   >
@@ -803,216 +861,224 @@ useEffect(() => {
                                   </IconButton>
                                 </Tooltip>
                               )} */}
+                              </span>
+                              {v.text}&nbsp;
                             </span>
-                            {v.text}&nbsp;
-                          </span>
 
-                          <MenuPanel
-                            contextMenu={contextMenu}
-                            setContextMenu={setContextMenu}
-                            selectedVerse={selectedVerse}
-                            setSelectedVerse={setSelectedVerse}
-                            highlightedVerses={highlightedVerses}
-                            toggleHighlight={toggleHighlight}
-                            handleHighlight={handleHighlight}
-                            handleClose={handleClose}
-                            search={search}
-                            loggedIn={loggedIn}
-                          />
-                        </span>
-                      ))
-                    : result &&
-                      paginatedResults.map((home, index) => (
-                        <span
-                          onContextMenu={(e) => handleContextMenu(e, home)}
-                          style={{ cursor: "context-menu" }}
-                          key={index}
-                          className={`${
-                            home.text === selectedVerse[0]?.text
-                              ? "verse__selected"
-                              : ""
-                          }`}
-                        >
-                          <span className="result__number">
-                            {capitalise(home.book) +
-                              " " +
-                              home.chapter +
-                              ":" +
-                              home.verse}
-                            &nbsp;
+                            <MenuPanel
+                              contextMenu={contextMenu}
+                              setContextMenu={setContextMenu}
+                              selectedVerse={selectedVerse}
+                              setSelectedVerse={setSelectedVerse}
+                              highlightedVerses={highlightedVerses}
+                              toggleHighlight={toggleHighlight}
+                              handleHighlight={handleHighlight}
+                              handleClose={handleClose}
+                              search={search}
+                              loggedIn={loggedIn}
+                            />
                           </span>
+                        ))
+                      : result &&
+                        paginatedResults.map((home, index) => (
                           <span
-                            className={`verse__text`}
-                            onMouseEnter={(e) =>
-                              handleMouseHover(e, setHover, setIsShown, {
-                                book: home.book,
-                                chapter: home.chapter,
-                                verse: home.verse,
-                              })
-                            }
+                            onContextMenu={(e) => handleContextMenu(e, home)}
+                            style={{ cursor: "context-menu" }}
+                            key={index}
+                            className={`${
+                              home.text === selectedVerse[0]?.text
+                                ? "verse__selected"
+                                : ""
+                            }`}
                           >
-                            {home.text}&nbsp;
+                            <span className="result__number">
+                              {capitalise(home.book) +
+                                " " +
+                                home.chapter +
+                                ":" +
+                                home.verse}
+                              &nbsp;
+                            </span>
+                            <span
+                              className={`verse__text`}
+                              onMouseEnter={(e) =>
+                                handleMouseHover(e, setHover, setIsShown, {
+                                  book: home.book,
+                                  chapter: home.chapter,
+                                  verse: home.verse,
+                                })
+                              }
+                            >
+                              {home.text}&nbsp;
+                            </span>
+                            <MenuPanel
+                              contextMenu={contextMenu}
+                              setContextMenu={() => setContextMenu(null)}
+                              selectedVerse={selectedVerse}
+                              search={search}
+                              highlightedVerses={undefined}
+                              toggleHighlight={undefined}
+                              handleHighlight={undefined}
+                              handleClose={undefined}
+                              setSelectedVerse={undefined}
+                              loggedIn={undefined}
+                            />
+                            <br></br>
+                            <br></br>
+                            <br></br>
                           </span>
-                          <MenuPanel
-                            contextMenu={contextMenu}
-                            setContextMenu={() => setContextMenu(null)}
-                            selectedVerse={selectedVerse}
-                            search={search}
-                            highlightedVerses={undefined}
-                            toggleHighlight={undefined}
-                            handleHighlight={undefined}
-                            handleClose={undefined}
-                            setSelectedVerse={undefined}
-                            loggedIn={undefined}
-                          />
-                          <br></br>
-                          <br></br>
-                          <br></br>
-                        </span>
-                      ))}
-                </Typography>
+                        ))}
+                  </Typography>
 
-                {verse && verse.length > 1 && showPagination && (
-                  <>
-                    <Pagination
-                      sx={{
-                        opacity: 1,
-                        position: "fixed",
-                        marginLeft: "-65px",
-                        pl: {xs: 3, sm: 1},
-                        mt: "83px", // 83 Samantha
-                        width: "min-content",
-                        backgroundColor: (theme) =>
-                          theme.palette.mode === "light"
-                            ? "#FFFFFF"
-                            : theme.palette.grey[900],
-                        "& .Mui-selected": {
-                          opacity: 0.5,
-                          backgroundColor: "rgb(0,0,0,0,0.04)",
-                          color: (theme) =>
+                  {verse && verse.length > 1 && showPagination && (
+                      <Pagination
+                        sx={{
+                          opacity: 1,
+                          position: "fixed",
+                          marginLeft: "-64px",
+                          pl: { xs: 3, sm: 1 },
+                          mt: "83px", // 83 Samantha
+                          width: "min-content",
+                          backgroundColor: (theme) =>
                             theme.palette.mode === "light"
-                              ? "#000000" // Black text color for light mode
-                              : "#FFFFFF", // White text color for dark mode
-                        },
-                        "& .Mui-hover": {
-                          opacity: 0.5,
-                          backgroundColor: "rgb(0,0,0,0,0.04)",
-                          color: (theme) =>
-                            theme.palette.mode === "light"
-                              ? "#000000" // Black text color for light mode
-                              : "#FFFFFF", // White text color for dark mode
-                        },
-                      }}
-                      count={Number(fetchCount(verse && verse[0]?.book))}
-                      page={page}
-                      onChange={(e, value) => handleChange(e, value, verse)}
-                    />
-                  </>
-                )}
-                {search &&
-                  result &&
-                  result.length === 0 &&
-                  verse &&
-                  verse.length === 0 &&
-                  !loading && (
-                    <Typography
-                      sx={{
-                        display: "block",
-                        mt: "-3rem",
-                        marginLeft: "-2rem",
-                        width: "auto",
-                        position: "absolute",
-                      }}
-                    >
-                      No results found.
-                    </Typography>
+                              ? "#FFFFFF"
+                              : '#212121',
+                          "& .Mui-selected": {
+                            opacity: 0.5,
+                            backgroundColor: "rgb(0,0,0,0,0.04)",
+                            color: (theme) =>
+                              theme.palette.mode === "light"
+                                ? "#000000" // Black text color for light mode
+                                : "#FFFFFF", // White text color for dark mode
+                          },
+                          "& .Mui-hover": {
+                            opacity: 0.5,
+                            backgroundColor: "rgb(0,0,0,0,0.04)",
+                            color: (theme) =>
+                              theme.palette.mode === "light"
+                                ? "#000000" // Black text color for light mode
+                                : "#FFFFFF", // White text color for dark mode
+                          },
+                        }}
+                        count={Number(fetchCount(verse && verse[0]?.book))}
+                        page={page}
+                        onChange={(e, value) => handleChange(e, value, verse)}
+                      />
                   )}
-                {verse.length === 0 && result && (
-                  <Grid item>
-                    <Pagination
-                      sx={{
-                        position: "absolute",
-                        mt: "0rem",
-                        marginLeft: "1rem",
-                        opacity: 1,
-                        backgroundColor: (theme) =>
-                          theme.palette.mode === "light"
-                            ? "#FFFFFF"
-                            : theme.palette.grey[900],
-                        "& .Mui-selected": {
-                          opacity: 0.5,
-                          backgroundColor: "rgb(0,0,0,0,0.04)",
-                          color: (theme) =>
+                  {search &&
+                    result &&
+                    result.length === 0 &&
+                    verse &&
+                    verse.length === 0 &&
+                    !loading && (
+                      <Typography
+                        sx={{
+                          display: "block",
+                          mt: "-3rem",
+                          marginLeft: "-2rem",
+                          width: "auto",
+                          position: "absolute",
+                        }}
+                      >
+                        No results found.
+                      </Typography>
+                    )}
+                  {verse.length === 0 && result && (
+                    <Grid item>
+                      <Pagination
+                        sx={{
+                          opacity: 1,
+                          position: "fixed",
+                          marginLeft: { xs: ".5rem", sm: "1rem" },
+                          pr: { xs: 5, sm: 1 },
+                          mt: "83px", // 83 Samantha
+                          width: "min-content",
+                          backgroundColor: (theme) =>
                             theme.palette.mode === "light"
-                              ? "#000000" // Black text color for light mode
-                              : "#FFFFFF", // White text color for dark mode
-                        },
-                        "& .Mui-hover": {
-                          opacity: 0.5,
-                          backgroundColor: "rgb(0,0,0,0,0.04)",
-                          color: (theme) =>
-                            theme.palette.mode === "light"
-                              ? "#000000" // Black text color for light mode
-                              : "#FFFFFF", // White text color for dark mode
-                        },
-                      }}
-                      count={Math.ceil(result.length / resultsPerPage)}
-                      page={searchPage}
-                      onChange={handleSearchPageChange}
-                    />
-                  </Grid>
-                )}
-              </Paper>
+                              ? "#FFFFFF"
+                              : '#212121',
+                          "& .Mui-selected": {
+                            opacity: 0.5,
+                            backgroundColor: "rgb(0,0,0,0,0.04)",
+                            color: (theme) =>
+                              theme.palette.mode === "light"
+                                ? "#000000" // Black text color for light mode
+                                : "#FFFFFF", // White text color for dark mode
+                          },
+                          "& .Mui-hover": {
+                            opacity: 0.5,
+                            backgroundColor: "rgb(0,0,0,0,0.04)",
+                            color: (theme) =>
+                              theme.palette.mode === "light"
+                                ? "#000000" // Black text color for light mode
+                                : "#FFFFFF", // White text color for dark mode
+                          },
+                        }}
+                        count={Math.ceil(result.length / resultsPerPage)}
+                        page={searchPage}
+                        onChange={handleSearchPageChange}
+                      />
+                    </Grid>
+                  )}
+                </Paper>
+              </Grid>
+              {/* Guide */}
+              <Guide
+                visible={visible}
+                isShown={isShown}
+                selectedVerse={selectedVerse}
+                hover={hover}
+              />
             </Grid>
-            {/* Guide */}
-            <Guide
-              visible={visible}
-              isShown={isShown}
-              selectedVerse={selectedVerse}
-              hover={hover}
+            {commentOpen && selectedVerse && (
+              <SubscriptionCheck feature="comments">
+                <FloatingCommentForm
+                  user={user}
+                  open={commentOpen}
+                  commentsMenu={commentsMenu}
+                  setOpen={setCommentOpen}
+                  position={commentPosition}
+                  loggedIn={loggedIn}
+                  comments={comments}
+                  setComments={setComments}
+                  setCommentsMenu={setCommentsMenu}
+                  slug={slug}
+                  setSlug={setSlug}
+                  selectedVerse={selectedVerse}
+                  setSelectedVerse={setSelectedVerse}
+                  handleClose={handleClose}
+                />
+              </SubscriptionCheck>
+            )}
+            {/* {showEmailSignup && !user && (
+              <EmailSignupForm onScroll={true} />
+            )} */}
+            <WPLoginModal user={user} wpToken={wpToken} setToken={setWpToken} />
+            <SubscriptionPromptDialog
+              open={subscriptionPromptOpen}
+              onClose={() => setSubscriptionPromptOpen(false)}
+              feature="comments"
             />
-          </Grid>
-          {commentOpen && selectedVerse && (
-            <SubscriptionCheck feature="comments">
-            <FloatingCommentForm
-              user={user}
-              open={commentOpen}
-              commentsMenu={commentsMenu}
-              setOpen={setCommentOpen}
-              position={commentPosition}
-              loggedIn={loggedIn}
-              comments={comments}
-              setComments={setComments}
-              setCommentsMenu={setCommentsMenu}
-              slug={slug}
-              setSlug={setSlug}
-              selectedVerse={selectedVerse}
-              setSelectedVerse={setSelectedVerse}
-              handleClose={handleClose}
-            />
-            </SubscriptionCheck>
-          )}
-          <WPLoginModal user={user} wpToken={wpToken} setToken={setWpToken} />
-          <SubscriptionPromptDialog
-  open={subscriptionPromptOpen}
-  onClose={() => setSubscriptionPromptOpen(false)}
-  feature="comments"
-/>
-        </Container>
+          </Container>
+        </Box>
+
+        {commentOpen && <Alert message={""} link="" />}
+        <Backdrop
+          sx={{ color: "#fff", zIndex: (theme) => theme.zIndex.drawer + 1 }}
+          open={loading}
+        >
+          <CircularProgress color="inherit" />
+        </Backdrop>
+        <SubscriptionCheck feature="progress">
+          <ReadingProgressToast
+            book={verse && verse.length > 1 && search ? verse[0]?.book : ""}
+            chapter={page}
+            wpToken={wpToken || Cookies.get('wpToken') || ''}
+            isPaginationChange={verse && verse.length > 0 && !result}
+            user={user}
+          />
+        </SubscriptionCheck>
       </Box>
-
-      {commentOpen &&
-      <Alert  message={""} link="" />
-      }
-      <Backdrop
-        sx={{ color: "#fff", zIndex: (theme) => theme.zIndex.drawer + 1 }}
-        open={loading}
-      >
-        <CircularProgress color="inherit" />
-      </Backdrop>
-    </Box>
-
-      {/* <Footer /> */}
     </>
   );
 };

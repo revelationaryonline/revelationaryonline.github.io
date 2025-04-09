@@ -40,7 +40,12 @@ const Footer = () => {
                 alignItems: "center",
               }}
             >
-              <Box display={"flex"} flexDirection={"row"}>
+              <Box
+              sx={{
+                display: "flex",
+                flexDirection: "row",
+                mt: -1.25
+              }}>
                 <img
                   src={logo}
                   alt="revelationary"
@@ -79,15 +84,18 @@ const Footer = () => {
           </Typography>
           </Box>
           </Grid>
-          <Grid container alignItems="right" justifyContent="flex-end">
+          <Grid container alignItems={{ xs: "center", sm: "right" }} justifyContent={{ xs: "center", sm: "flex-end" }} sx={{ mt: 3 }}>
           {/* Center Section - Navigation Links */}
-          <Grid item sx={{ display: "flex", gap: 4 }}>
+          <Grid item sx={{ 
+            display: "flex", 
+            gap: 4 }}>
             <MuiLink
               href="https://revelationary.org/"
               underline="none"
               sx={{
                 color: "#A1A1A1",
                 fontWeight: 500,
+                fontSize: { xs: "15px", sm: "18px" },
                 "&:hover": {
                   textDecoration: "underline",
                   color: (theme) =>
@@ -103,6 +111,7 @@ const Footer = () => {
               sx={{
                 color: "#A1A1A1",
                 fontWeight: 500,
+                fontSize: { xs: "15px", sm: "18px" },
                 "&:hover": {
                   textDecoration: "underline",
                   color: (theme) =>
@@ -118,6 +127,7 @@ const Footer = () => {
               sx={{
                 color: "#A1A1A1",
                 fontWeight: 500,
+                fontSize: { xs: "15px", sm: "18px" },
                 "&:hover": {
                   textDecoration: "underline",
                   color: (theme) =>
@@ -133,6 +143,7 @@ const Footer = () => {
               sx={{
                 color: "#A1A1A1",
                 fontWeight: 500,
+                fontSize: { xs: "15px", sm: "18px" },
                 "&:hover": {
                   textDecoration: "underline",
                   color: (theme) =>
@@ -152,16 +163,18 @@ const Footer = () => {
 
         {/* Bottom Section - Copyright & Social Icons */}
         <Grid container justifyContent="space-between" alignItems="center">
-          <Typography variant="body2" sx={{ color: "grey.600" }}>
-            © {new Date().getFullYear()} Revelationary Ltd. All rights reserved.
-            167-169 Great Portland Street 5th Floor London W1W 5PF . Company
+          <Typography component="div" variant="body2" sx={{ color: "grey.600", fontSize: { xs: "12px", sm: "14px" } }}>
+            © {new Date().getFullYear()} Revelationary Ltd. All rights reserved.<br></br>
+            167-169 Great Portland Street 5th Floor London W1W 5PF <hr style={{ border: "none", color: "transparent", backgroundColor: "transparent"}} /> Company
             Number 16288234
           </Typography>
           <Box>
             <IconButton
               href={"https://www.facebook.com/revelationary.online/"}
               target="_blank"
-              sx={{ color: "#A1A1A1", "&:hover": { color: (theme) =>
+              sx={{ color: "#A1A1A1",
+                mt: 2,
+                "&:hover": { color: (theme) =>
                 theme.palette.mode === "light" ? "#212121" : "#FFF", } }}
             >
               <Facebook />
@@ -169,7 +182,10 @@ const Footer = () => {
             <IconButton
               href={"https://www.instagram.com/revelationary.online/"}
               target="_blank"
-              sx={{ color: "#A1A1A1", "&:hover": { color: (theme) =>
+              sx={{ 
+                color: "#A1A1A1",
+                mt: 2,
+                "&:hover": { color: (theme) =>
                 theme.palette.mode === "light" ? "#212121" : "#FFF", } }}
             >
               <Instagram />

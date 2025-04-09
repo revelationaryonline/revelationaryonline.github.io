@@ -59,7 +59,7 @@ function Bookmark({
   };
 
   return (
-    <Box display={"flex"}>
+    <Box display={"flex"} sx={{ alignItems: "center" }}>
       {/* Toggle Bookmark Icon */}
       <Tooltip
         title={bookmark ? "Remove Bookmark" : "Add Bookmark"}
@@ -83,8 +83,8 @@ function Bookmark({
       </Tooltip>
       {/* Go to Bookmark Section */}
       {bookmark && (
-        <div style={{ marginTop: 6 }}>
-          <button onClick={handleGoToBookmark}>
+        <div style={{ marginTop: -2, marginLeft: 4 }}>
+          <button style={{ backgroundColor: "#fff", color: "#000", padding: "4px", borderRadius: "4px", border: "none" }} onClick={handleGoToBookmark}>
             Go to {bookmark.book} {bookmark.chapter}
           </button>
         </div>

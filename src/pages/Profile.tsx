@@ -133,8 +133,15 @@ function ProfileContent({
   const [photoURL, setPhotoURL] = useState("");
   const [bibleVersion, setBibleVersion] = useState("KJV");
   const [bio, setBio] = useState("");
+  const [wpToken, setWpToken] = useState("");
 
   useEffect(() => {
+    // Load WordPress token from cookies
+    const wpToken = Cookies.get('wpToken');
+    if (wpToken) {
+      setWpToken(wpToken);
+    }
+    
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
       if (currentUser) {
         // console.log(currentUser);
@@ -182,18 +189,21 @@ function ProfileContent({
     return slug;
   };
 
+  const userId = Cookies.get("userId");
   // Add inside useEffect or as a separate function
   const fetchUserComments = async () => {
     try {
-      const userId = Cookies.get("userId");
-      if (userId && Cookies.get("wpToken")) {
-        // Instead of filtering by author parameter, get all comments and filter client-side
+      const currentUserId = Cookies.get("userId");
+      const currentToken = Cookies.get("wpToken");
+      
+      if (currentUserId && currentToken) {
         const response = await fetch(
           `${process.env.REACT_APP_WP_API_URL}/comments?_embed=true`,
           {
             headers: {
-              Authorization: `JWT ${Cookies.get("wpToken")}`,
-            },
+              Authorization: `JWT ${currentToken}`,
+              'Content-Type': 'application/json'
+            }
           }
         );
 
@@ -203,41 +213,31 @@ function ProfileContent({
         }
 
         const allComments = await response.json();
+        // console.log("All comments fetched:", allComments); // Debug log
 
-        // console.log(allComments)
-
-        // Filter comments by the current user
         const userComments = allComments
           .filter((comment: any) => {
-            return comment.author === parseInt(userId);
+            return comment.author === parseInt(currentUserId);
           })
           .map((comment: any) => {
             // Add transformed verse reference if available
             if (comment.post) {
-              // Check for embedded post data first (structure varies between endpoints)
-              // Try both comment._embedded.post and comment._embedded.up
               const postData = comment._embedded?.post?.[0] || comment._embedded?.up?.[0] || {};
               const postTitle = postData?.title?.rendered || "";
               const postSlug = postData?.slug || comment.post_name || "";
               
-              // Try to get verse reference from title first (more accurate)
               if (postTitle) {
-                // Clean up the title - often has the verse reference like "Psalms 139:13"
                 const cleanTitle = postTitle.replace(/&[^;]+;/g, '').trim();
-                
-                // Check if the title looks like a verse reference (Book Chapter:Verse)
-                const versePattern = /^([\w\s]+)\s+(\d+):(\d+).*$/i;
+                const versePattern = /^([\w\s]+)\s+(\d+):(\d+).*/i;
                 const titleMatch = cleanTitle.match(versePattern);
                 
                 if (titleMatch) {
                   const [, book, chapter, verse] = titleMatch;
                   comment.verseReference = `${book} ${chapter}:${verse}`;
                 } else {
-                  // Fall back to slug transformation
                   comment.verseReference = transformSlugToVerse(postSlug);
                 }
               } else {
-                // Fall back to slug transformation
                 comment.verseReference = transformSlugToVerse(postSlug);
               }
             }
@@ -245,6 +245,7 @@ function ProfileContent({
           });
 
         setComments(userComments);
+        // console.log("User comments set:", userComments); // Debug log
       }
     } catch (error) {
       console.error("Failed to fetch user comments:", error);
@@ -305,15 +306,14 @@ function ProfileContent({
 
   // Call this in useEffect after loading WordPress preferences
   useEffect(() => {
-    const userId = Cookies.get("userId");
-    // Existing code...
-    if (userId) {
-      loadWordPressPreferences(parseInt(userId));
+    const currentUserId = Cookies.get("userId");
+    if (currentUserId && wpToken) {
+      loadWordPressPreferences(parseInt(currentUserId));
       fetchUserComments();
       setImageLoading(false);
       setLoading(false);
     }
-  }, []);
+  }, [userId, wpToken]);
 
   return (
     <>
@@ -355,7 +355,7 @@ function ProfileContent({
                     fontSize: { xs: 13, sm: 14 },
                     textTransform: 'none',
                     transition: 'all 0.2s ease-in-out',
-                    p: { xs: 1, sm: 2 },
+                    p: { xs: 0, sm: 2 },
                     '&.Mui-selected': {
                       fontWeight: 'bold',
                       color: theme => theme.palette.primary.main,
@@ -368,23 +368,23 @@ function ProfileContent({
                 }}
               >
                 <Tab 
-                  icon={<PersonIcon />} 
-                  label="Profile" 
+                  icon={<PersonIcon fontSize="small" />} 
+                  label={window.innerWidth < 600 ? "" : "Profile"}
                   iconPosition="start"
                 />
                 <Tab 
-                  icon={<CommentIcon />} 
-                  label="Comments" 
+                  icon={<CommentIcon fontSize="small" />} 
+                  label={window.innerWidth < 600 ? "" : "Comments"}
                   iconPosition="start"
                 />
-                <Tab 
-                  icon={<EmojiEventsIcon />} 
-                  label="Achievements" 
+                {/* <Tab 
+                  icon={<EmojiEventsIcon fontSize="small" />} 
+                  label={window.innerWidth < 600 ? "" : "Achievements"}
                   iconPosition="start"
-                />
+                /> */}
                 <Tab 
-                  icon={<WhatshotIcon />} 
-                  label="Reading Streak" 
+                  icon={<WhatshotIcon fontSize="small" />} 
+                  label={window.innerWidth < 600 ? "" : "Reading Streak"}
                   iconPosition="start"
                 />
               </Tabs>
@@ -677,7 +677,7 @@ function ProfileContent({
                 <Grid item xs={12} md={12}>
                   <Typography
                     variant="h6"
-                    sx={{ mb: 2, color: "text.primary" }}
+                    sx={{ mb: 2, color: "text.primary", fontSize: 16 }}
                   >
                     Study Preferences
                   </Typography>
@@ -747,13 +747,13 @@ function ProfileContent({
                     }}
                   />
                 </Grid>
-                {/* Social Media Style Activity Stats Card */}
+                {/* Achievements Section */}
                 <Grid item xs={12}>
                   <Typography
                     variant="h6"
-                    sx={{ mb: 2, mt: 3, color: "text.primary" }}
+                    sx={{ mb: 2, mt: 3, color: "text.primary", fontSize: 16 }}
                   >
-                    Activity Summary
+                    Achievements
                   </Typography>
                   <Paper
                     elevation={2}
@@ -766,7 +766,6 @@ function ProfileContent({
                     }}
                   >
                     <Box sx={{ display: "flex", justifyContent: "space-around", flexWrap: "wrap", gap: 2 }}>
-                      {/* Comments Stat */}
                       <Box sx={{ 
                         display: "flex", 
                         flexDirection: "column", 
@@ -774,12 +773,11 @@ function ProfileContent({
                         p: { xs: 1, sm: 2 },
                         minWidth: { xs: '85px', sm: '100px' } 
                       }}>
-                        <CommentIcon sx={{ fontSize: 32, mb: 1, color: "#1976d2" }} />
-                        <Typography variant="h5" fontWeight="bold">{comments.length}</Typography>
+                        <CommentIcon sx={{ fontSize: 32, mb: 1, color: (theme) => theme.palette.mode === "light" ? "#212121AA" : "white" }} />
+                        <Typography variant="h5" fontWeight="bold" sx={{ color: (theme) => theme.palette.mode === "light" ? "#212121AA" : "white" }}>{comments.length}</Typography>
                         <Typography variant="body2" color="text.secondary">Comments</Typography>
                       </Box>
                       
-                      {/* Highlights Stat */}
                       <Box sx={{ 
                         display: "flex", 
                         flexDirection: "column", 
@@ -787,12 +785,10 @@ function ProfileContent({
                         p: { xs: 1, sm: 2 },
                         minWidth: { xs: '85px', sm: '100px' } 
                       }}>
-                        <BorderColorIcon sx={{ fontSize: 32, mb: 1, color: "#9c27b0" }} />
-                        <Typography variant="h5" fontWeight="bold">{highlightedVerses?.length || 0}</Typography>
+                        <BorderColorIcon sx={{ fontSize: 32, mb: 1, color: (theme) => theme.palette.mode === "light" ? "#212121AA" : "white" }} />
+                        <Typography variant="h5" fontWeight="bold" sx={{ color: (theme) => theme.palette.mode === "light" ? "#212121AA" : "white" }}>{highlightedVerses?.length || 0}</Typography>
                         <Typography variant="body2" color="text.secondary">Highlights</Typography>
                       </Box>
-                      
-                      {/* Notes Stat */}
                       <Box sx={{ 
                         display: "flex", 
                         flexDirection: "column", 
@@ -800,8 +796,8 @@ function ProfileContent({
                         p: { xs: 1, sm: 2 },
                         minWidth: { xs: '85px', sm: '100px' } 
                       }}>
-                        <NoteIcon sx={{ fontSize: 32, mb: 1, color: "#ff9800" }} />
-                        <Typography variant="h5" fontWeight="bold">0</Typography>
+                        <NoteIcon sx={{ fontSize: 32, mb: 1, color: (theme) => theme.palette.mode === "light" ? "#212121AA" : "white" }} />
+                        <Typography variant="h5" fontWeight="bold" sx={{ color: (theme) => theme.palette.mode === "light" ? "#212121AA" : "white" }}>0</Typography>
                         <Typography variant="body2" color="text.secondary">Notes</Typography>
                       </Box>
                     </Box>
@@ -810,7 +806,7 @@ function ProfileContent({
                 <Grid item xs={12} md={12}>
                   <Typography
                     variant="h6"
-                    sx={{ mb: 2, mt: 3, color: "text.primary" }}
+                    sx={{ mb: 2, mt: 3, color: (theme) => theme.palette.mode === "light" ? "#212121AA" : "white", fontSize: 16 }}
                   >
                     Your Comments
                   </Typography>
@@ -933,7 +929,7 @@ function ProfileContent({
                 <Paper elevation={2} sx={{ p: { xs: 2, sm: 3, md: 4 }, borderRadius: 2, mb: 4 }}>
                   <Box sx={{ display: "flex", alignItems: "center", mb: 3 }}>
                     <CommentIcon color="primary" sx={{ mr: 1 }} />
-                    <Typography variant="h5">Your Comments</Typography>
+                    <Typography variant="h5" sx={{ fontSize: 17 }}>Your Comments</Typography>
                   </Box>
                   <Divider sx={{ mb: 3 }} />
                   {comments.length > 0 ? (
@@ -960,8 +956,8 @@ function ProfileContent({
                               aria-label="delete comment"
                               sx={{
                                 position: "absolute",
-                                top: 0,
-                                right: 0,
+                                top: 5,
+                                right: 5,
                                 color: "text.secondary",
                               }}
                               onClick={() => deleteComment(comment.id)}
@@ -970,7 +966,7 @@ function ProfileContent({
                             </IconButton>
                             <Box sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
                               <Avatar 
-                                sx={{ width: 36, height: 36, mr: 1.5 }}
+                                sx={{ width: 36, height: 36, mr: 1.5, mt: -2 }}
                                 src={user?.photoURL || undefined}
                               >
                                 {user?.displayName?.charAt(0) || 'U'}
@@ -1016,7 +1012,7 @@ function ProfileContent({
                                 color="primary"
                                 variant="outlined"
                                 clickable
-                                sx={{ mt: 1 }}
+                                sx={{ mt: 2, p: 1 }}
                               />
                             )}
                           </Box>
@@ -1039,7 +1035,7 @@ function ProfileContent({
             </Box>
             
             {/* Achievements Tab */}
-            <Box 
+            {/* <Box 
               role="tabpanel" 
               hidden={activeTab !== 2}
               sx={{
@@ -1052,32 +1048,32 @@ function ProfileContent({
                 <Paper elevation={2} sx={{ p: { xs: 2, sm: 3, md: 4 }, borderRadius: 2, mb: 4 }}>
                   <Box sx={{ display: "flex", alignItems: "center", mb: 3 }}>
                     <EmojiEventsIcon color="primary" sx={{ mr: 1 }} />
-                    <Typography variant="h5">Bible Reading Achievements</Typography>
+                    <Typography variant="h5" sx={{ fontSize: 17 }}>Trophies</Typography>
                   </Box>
                   <Divider sx={{ mb: 3 }} />
-                  <AchievementsPanel />
+                  <AchievementsPanel user={user} wpToken={wpToken} />
                 </Paper>
               )}
-            </Box>
+            </Box> */}
             
             {/* Reading Streak Tab */}
             <Box 
               role="tabpanel" 
-              hidden={activeTab !== 3}
+              hidden={activeTab !== 2}
               sx={{
-                opacity: activeTab === 3 ? 1 : 0,
+                opacity: activeTab === 2 ? 1 : 0,
                 transition: 'opacity 0.3s ease-in-out',
-                display: activeTab === 3 ? 'block' : 'none',
+                display: activeTab === 2 ? 'block' : 'none',
               }}
             >
-              {activeTab === 3 && (
+              {activeTab === 2 && (
                 <Paper elevation={2} sx={{ p: { xs: 2, sm: 3, md: 4 }, borderRadius: 2, mb: 4 }}>
                   <Box sx={{ display: "flex", alignItems: "center", mb: 3 }}>
                     <WhatshotIcon color="primary" sx={{ mr: 1 }} />
-                    <Typography variant="h5">Bible Reading Streak</Typography>
+                    <Typography variant="h5" sx={{ fontSize: 17 }}>Reading Progress</Typography>
                   </Box>
                   <Divider sx={{ mb: 3 }} />
-                  <ReadingStatsPanel />
+                  <ReadingStatsPanel user={user} wpToken={wpToken}/>
                 </Paper>
               )}
             </Box>
@@ -1100,8 +1096,7 @@ function ProfileContent({
             {message?.text}
           </Alert>
         </Snackbar>
-      </Box>
-      <Footer />
+      </Box> 
     </>
   );
 }

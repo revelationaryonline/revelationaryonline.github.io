@@ -53,7 +53,6 @@ const HighlightColorSelect = ({ loggedIn } : { loggedIn: boolean }) => {
       <Tooltip title="Highlight Color">
         <span>
         <IconButton
-          disabled={!loggedIn}
           onClick={openMenu}
           sx={{
             opacity: 0.75,

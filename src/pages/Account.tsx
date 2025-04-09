@@ -472,6 +472,8 @@ function AccountContent({
                           justifyContent: "center",
                           gap: 2,
                           mt: 4,
+                          marginLeft: "50%",
+                          transform: "translateX(-50%)",
                         }}
                       >
                         <Button
@@ -479,7 +481,8 @@ function AccountContent({
                           target="_blank"
                           variant="contained"
                           color="secondary"
-                          size="large"
+                          size="small"
+
                         >
                           Manage Subscription
                         </Button>
@@ -837,7 +840,6 @@ function AccountContent({
           {snackbar.message}
         </Alert>
       </Snackbar> */}
-      <Footer />
     </Box>
     </>
   );

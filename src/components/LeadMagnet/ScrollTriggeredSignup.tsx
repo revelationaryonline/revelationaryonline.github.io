@@ -15,19 +15,22 @@ const ScrollTriggeredSignup: React.FC<ScrollTriggeredSignupProps> = ({
   rootMargin = '0px' 
 }) => {
   const [showSignup, setShowSignup] = useState(false);
-  
+  const isSubscribed = localStorage.getItem('leadMagnetSubscribed') === 'true';
+  const hasBeenShown = localStorage.getItem('leadMagnetShown') === 'true';
+
+  // Effect to handle subscription status
+  useEffect(() => {
+    if (isSubscribed || hasBeenShown) {
+      setShowSignup(false);
+    }
+  }, [isSubscribed, hasBeenShown]);
+
   // Use simple scroll event instead of Intersection Observer
   useEffect(() => {
-    // Check if user is already subscribed or has dismissed the signup previously
-    const isSubscribed = localStorage.getItem('leadMagnetSubscribed') === 'true';
-    const hasBeenShown = localStorage.getItem('leadMagnetShown') === 'true';
-    
-    // Don't show the signup if user is already subscribed or has dismissed it
     if (isSubscribed || hasBeenShown) {
       return;
     }
 
-    // Function to check scroll position
     const handleScroll = () => {
       const scrollPosition = window.scrollY;
       const windowHeight = window.innerHeight;
@@ -52,13 +55,13 @@ const ScrollTriggeredSignup: React.FC<ScrollTriggeredSignupProps> = ({
     
     // Clean up
     return () => window.removeEventListener('scroll', handleScroll);
-  }, [showSignup]);
+  }, [showSignup, isSubscribed, hasBeenShown]);
   
   // Only render the centered signup overlay when triggered
   // Function to close the signup popup
   const handleClose = () => {
-    setShowSignup(false);
     localStorage.setItem('leadMagnetShown', 'true');
+    setShowSignup(false);
   };
 
   return (
