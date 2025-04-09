@@ -36,3 +36,9 @@ From the root:
 ```terminal
 npm run deploy
 ```
+
+## deployments
+
+- build with env
+- push to repo main
+- dont push to origin main
