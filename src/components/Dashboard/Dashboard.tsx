@@ -73,7 +73,6 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
   setWpToken,
 }) => {
   const [open, setOpen] = useState(false);
-  const [showEmailSignup, setShowEmailSignup] = useState(false);
   const [hasScrolled, setHasScrolled] = useState(false);
   const [scrollTimeout, setScrollTimeout] = useState<NodeJS.Timeout | null>(null);
   const [scrollPosition, setScrollPosition] = useState(0);
@@ -205,49 +204,6 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
       setComments([]); // Clear comments when the menu is opened
     }
   }, [commentsMenu]);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      const currentScroll = window.scrollY;
-      setScrollPosition(currentScroll);
-
-      // Clear existing timeout
-      if (scrollTimeout) {
-        clearTimeout(scrollTimeout);
-      }
-
-      // Set new timeout
-      const timeout = setTimeout(() => {
-        // Only show if user has scrolled more than 300px
-        if (currentScroll > 300 && !hasScrolled) {
-          setHasScrolled(true);
-          setShowEmailSignup(true);
-        }
-      }, 100);
-
-      setScrollTimeout(timeout);
-    };
-
-    window.addEventListener('scroll', handleScroll);
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-      if (scrollTimeout) {
-        clearTimeout(scrollTimeout);
-      }
-    };
-  }, [hasScrolled, scrollTimeout]);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      if (window.scrollY > window.innerHeight / 2 && !showEmailSignup) {
-        setShowEmailSignup(true);
-      }
-    };
-
-    // Add scroll listener to window
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
 
   useEffect(() => {
     if (loading) {
@@ -632,14 +588,14 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                       width: "100%",
                     }}
                   >
-                    {/* {verse &&
+                    {verse &&
                       verse.length >= 1 &&
                       capitalise(verse[0].book) +
                         " " +
                         verse[0].chapter +
                         ":" +
                         verse[verse.length - 1].verse}
-                    {verse &&
+                    {/* {verse &&
                     verse.length > 0 &&
                     verse[0]?.book &&
                     verse[0]?.chapter && (
@@ -1050,9 +1006,6 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                 />
               </SubscriptionCheck>
             )}
-            {/* {showEmailSignup && !user && (
-              <EmailSignupForm onScroll={true} />
-            )} */}
             <WPLoginModal user={user} wpToken={wpToken} setToken={setWpToken} />
             <SubscriptionPromptDialog
               open={subscriptionPromptOpen}
