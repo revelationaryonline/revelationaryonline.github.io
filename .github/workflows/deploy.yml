@@ -49,6 +49,7 @@ jobs:
         echo "REACT_APP_STRIPE_PUBLISHABLE_KEY=${{ secrets.REACT_APP_STRIPE_PUBLISHABLE_KEY }}" >> .env
         echo "REACT_APP_STRIPE_SECRET_KEY_PROD=${{ secrets.REACT_APP_STRIPE_SECRET_KEY_PROD }}" >> .env
         echo "REACT_APP_STRIPE_SECRET_KEY=${{ secrets.REACT_APP_STRIPE_SECRET_KEY }}" >> .env
+        cat .env
         npm run build
 
     - name: Deploy
