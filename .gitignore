@@ -1,8 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # configs
-.env
+# .env
 .env.prod
+.env.production
 
 # dependencies
 /node_modules
