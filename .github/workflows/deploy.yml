@@ -49,8 +49,39 @@ jobs:
         echo "REACT_APP_STRIPE_PUBLISHABLE_KEY=${{ secrets.REACT_APP_STRIPE_PUBLISHABLE_KEY }}" >> .env
         echo "REACT_APP_STRIPE_SECRET_KEY_PROD=${{ secrets.REACT_APP_STRIPE_SECRET_KEY_PROD }}" >> .env
         echo "REACT_APP_STRIPE_SECRET_KEY=${{ secrets.REACT_APP_STRIPE_SECRET_KEY }}" >> .env
-        cat .env
+
+        STRIPE_KEY=$(grep "REACT_APP_STRIPE_PUBLISHABLE_KEY" .env | cut -d'=' -f2)
+        echo "Stripe key (every second character): $(echo "$STRIPE_KEY" | sed -e 's/.\{1\}/&\n/g' | sed -n '2
+
         npm run build
+
+    - name: Check
+      env:
+        REACT_APP_WP_API_URL: ${{ secrets.REACT_APP_WP_API_URL }}
+        REACT_APP_WP_JSON_API_URL: ${{ secrets.REACT_APP_WP_JSON_API_URL }}
+        REACT_APP_WP_API_URL_CUSTOM: ${{ secrets.REACT_APP_WP_API_URL_CUSTOM }}
+        REACT_APP_WP_USERNAME: ${{ secrets.REACT_APP_WP_USERNAME }}
+        REACT_APP_WP_APP_PASSWORD: ${{ secrets.REACT_APP_WP_APP_PASSWORD }}
+        JWT_SECRET_KEY: ${{ secrets.JWT_SECRET_KEY }}
+        REACT_APP_PERSPECTIVE_API_KEY: ${{ secrets.REACT_APP_PERSPECTIVE_API_KEY }}
+        REACT_APP_PERSPECTIVE_API_URL: ${{ secrets.REACT_APP_PERSPECTIVE_API_URL }}
+        REACT_APP_FIREBASE_API_KEY: ${{ secrets.REACT_APP_FIREBASE_API_KEY }}
+        REACT_APP_FIREBASE_AUTH_DOMAIN: ${{ secrets.REACT_APP_FIREBASE_AUTH_DOMAIN }}
+        REACT_APP_FIREBASE_PROJECT_ID: ${{ secrets.REACT_APP_FIREBASE_PROJECT_ID }}
+        REACT_APP_FIREBASE_STORAGE_BUCKET: ${{ secrets.REACT_APP_FIREBASE_STORAGE_BUCKET }}
+        REACT_APP_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.REACT_APP_FIREBASE_MESSAGING_SENDER_ID }}
+        REACT_APP_FIREBASE_APP_ID: ${{ secrets.REACT_APP_FIREBASE_APP_ID }}
+        REACT_APP_FIREBASE_MEASUREMENT_ID: ${{ secrets.REACT_APP_FIREBASE_MEASUREMENT_ID }}
+        REACT_APP_WP_DELETE_SECRET: ${{ secrets.REACT_APP_WP_DELETE_SECRET }}
+        USER_DELETE_DEBUG: ${{ secrets.USER_DELETE_DEBUG }}
+        REACT_APP_STRIPE_PUBLISHABLE_KEY: ${{ secrets.REACT_APP_STRIPE_PUBLISHABLE_KEY }}
+        REACT_APP_STRIPE_SECRET_KEY_PROD: ${{ secrets.REACT_APP_STRIPE_SECRET_KEY_PROD }}
+        REACT_APP_STRIPE_SECRET_KEY: ${{ secrets.REACT_APP_STRIPE_SECRET_KEY }}
+
+      if: env.USER_DELETE_DEBUG == 'false'
+      run: echo "variable is here"
+      if: env.REACT_APP_WP_USERNAME == "revelationary"
+      run: echo "variable is in double quotes"
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
