@@ -35,7 +35,6 @@ jobs:
         echo "REACT_APP_WP_API_URL_CUSTOM=${{ secrets.REACT_APP_WP_API_URL_CUSTOM }}" >> .env
         echo "REACT_APP_WP_USERNAME=${{ secrets.REACT_APP_WP_USERNAME }}" >> .env
         echo "REACT_APP_WP_APP_PASSWORD=${{ secrets.REACT_APP_WP_APP_PASSWORD }}" >> .env
-        echo "JWT_SECRET_KEY=${{ secrets.JWT_SECRET_KEY }}" >> .env
         echo "REACT_APP_PERSPECTIVE_API_KEY=${{ secrets.REACT_APP_PERSPECTIVE_API_KEY }}" >> .env
         echo "REACT_APP_PERSPECTIVE_API_URL=${{ secrets.REACT_APP_PERSPECTIVE_API_URL }}" >> .env
         echo "REACT_APP_FIREBASE_API_KEY=${{ secrets.REACT_APP_FIREBASE_API_KEY }}" >> .env
@@ -48,9 +47,7 @@ jobs:
         echo "REACT_APP_WP_DELETE_SECRET=${{ secrets.REACT_APP_WP_DELETE_SECRET }}" >> .env
         echo "USER_DELETE_DEBUG=${{ secrets.USER_DELETE_DEBUG }}" >> .env
         echo "REACT_APP_STRIPE_PUBLISHABLE_KEY=${{ secrets.REACT_APP_STRIPE_PUBLISHABLE_KEY }}" >> .env
-        echo "REACT_APP_STRIPE_SECRET_KEY_PROD=${{ secrets.REACT_APP_STRIPE_SECRET_KEY_PROD }}" >> .env
-        echo "REACT_APP_STRIPE_SECRET_KEY=${{ secrets.REACT_APP_STRIPE_SECRET_KEY }}" >> .env
-        
+
         npm run build
 
     - name: Deploy
