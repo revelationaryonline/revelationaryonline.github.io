@@ -78,11 +78,6 @@ jobs:
         REACT_APP_STRIPE_SECRET_KEY_PROD: ${{ secrets.REACT_APP_STRIPE_SECRET_KEY_PROD }}
         REACT_APP_STRIPE_SECRET_KEY: ${{ secrets.REACT_APP_STRIPE_SECRET_KEY }}
 
-      if: env.USER_DELETE_DEBUG == 'false'
-      run: echo "variable is here"
-      if: env.REACT_APP_WP_USERNAME == "revelationary"
-      run: echo "variable is in double quotes"
-
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@v4
       with:
