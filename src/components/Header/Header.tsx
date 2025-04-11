@@ -424,7 +424,7 @@ function Header(props: HeaderProps) {
                 </IconButton>
               </Tooltip>
               
-              <Tooltip title={user && user.displayName}>
+              <Tooltip title={user && user?.displayName}>
                 <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
                   <UserAvatar user={user} size={32} />
                 </IconButton>

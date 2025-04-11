@@ -78,7 +78,7 @@ export const getSubscriptionIdFromStripe = async (email: string): Promise<string
     // Get customer ID from email
     const customerResponse = await fetch(`https://api.stripe.com/v1/customers?email=${email}`, {
       headers: {
-        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY_PROD}`,
         'Content-Type': 'application/x-www-form-urlencoded'
       }
     });
@@ -97,7 +97,7 @@ export const getSubscriptionIdFromStripe = async (email: string): Promise<string
     // Get subscriptions for this customer
     const subscriptionsResponse = await fetch(`https://api.stripe.com/v1/subscriptions?customer=${customerId}`, {
       headers: {
-        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY_PROD}`,
         'Content-Type': 'application/x-www-form-urlencoded'
       }
     });
@@ -142,7 +142,7 @@ export const verifyStripeSubscription = async (email: string): Promise<Subscript
     // First get the customer ID from email
     const customerResponse = await fetch(`https://api.stripe.com/v1/customers?email=${email}`, {
       headers: {
-        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY_PROD}`,
         'Content-Type': 'application/x-www-form-urlencoded'
       }
     });
@@ -161,7 +161,7 @@ export const verifyStripeSubscription = async (email: string): Promise<Subscript
     // Get the subscription for this customer
     const subscriptionResponse = await fetch(`https://api.stripe.com/v1/subscriptions?customer=${customerId}`, {
       headers: {
-        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY}`,
+        'Authorization': `Bearer ${process.env.REACT_APP_STRIPE_SECRET_KEY_PROD}`,
         'Content-Type': 'application/x-www-form-urlencoded'
       }
     });
