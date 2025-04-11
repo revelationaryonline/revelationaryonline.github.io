@@ -18,7 +18,7 @@ import AccessTimeIcon from '@mui/icons-material/AccessTime';
 import { Link as RouterLink, useSearchParams } from 'react-router-dom';
 import { useSubscription } from '../contexts/SubscriptionContext';
 import { getAuth } from 'firebase/auth';
-import { getStorageKeyFromEmail, verifyStripeSubscription } from '../services/stripe';
+import { getStorageKeyFromEmail, verifyStripeSubscription, getSubscriptionStatus } from '../services/stripe';
 
 const PaymentSuccessPage: React.FC = () => {
   const [searchParams] = useSearchParams();
@@ -57,8 +57,8 @@ const PaymentSuccessPage: React.FC = () => {
       }
 
       try {
-        // Verify the subscription with Stripe using email
-        const subscription = await verifyStripeSubscription(userEmail);
+        // Get subscription status directly (avoids redundant API calls)
+        const subscription = await getSubscriptionStatus(userEmail);
         
         // Save to localStorage using email-based key
         const storageKey = getStorageKeyFromEmail(userEmail);
@@ -66,6 +66,9 @@ const PaymentSuccessPage: React.FC = () => {
         
         // Also save with old key for backward compatibility
         localStorage.setItem('user_subscription', JSON.stringify(subscription));
+        
+        // Refresh the global subscription context
+        await refreshStatus();
         
         console.log('Subscription activated for:', userEmail, subscription);
       } catch (error) {
