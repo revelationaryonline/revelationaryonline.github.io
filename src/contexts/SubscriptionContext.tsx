@@ -1,6 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { checkSubscriptionStatus } from '../services/stripe';
-import { useNavigate } from 'react-router-dom';
+import { checkSubscriptionStatus, verifyStripeSubscription } from '../services/stripe';
 import Cookies from 'js-cookie';
 
 // Define the shape of our subscription state
@@ -49,7 +48,6 @@ export const SubscriptionProvider: React.FC<{ children: React.ReactNode }> = ({ 
     expiresAt: null,
     subscriptionId: null
   });
-  const navigate = useNavigate();
 
   // Function to clear all subscription data and redirect to login
   const clearSubscriptionData = () => {
@@ -60,12 +58,12 @@ export const SubscriptionProvider: React.FC<{ children: React.ReactNode }> = ({ 
       localStorage.removeItem(storageKey);
     }
     localStorage.removeItem('user_subscription');
-    localStorage.removeItem('userEmail');
+    // localStorage.removeItem('userEmail');
     localStorage.removeItem('is_test_subscription');
     
     // Clear cookies
-    Cookies.remove('wpToken');
-    Cookies.remove('userId');
+    // Cookies.remove('wpToken');
+    // Cookies.remove('userId');
     
     // Reset subscription state
     setSubscription({
@@ -76,29 +74,35 @@ export const SubscriptionProvider: React.FC<{ children: React.ReactNode }> = ({ 
     });
     
     // Redirect to login page
-    navigate('/login');
+    // navigate('/login');
   };
 
-  // Function to check subscription status
   const refreshStatus = async () => {
     const userEmail = localStorage.getItem('userEmail');
     if (!userEmail) {
-      // If no user email, clear data and redirect to login
-      clearSubscriptionData();
+      setSubscription({
+        isActive: false,
+        plan: null,
+        expiresAt: null,
+        subscriptionId: null
+      });
       return;
     }
-
+  
     try {
-      const status = await checkSubscriptionStatus(userEmail);
+      const status = await verifyStripeSubscription(userEmail);
       setSubscription(status);
     } catch (error) {
       console.error('Error refreshing subscription status:', error);
-      // If there's an error checking subscription, clear data and redirect to login
-      clearSubscriptionData();
+      setSubscription({
+        isActive: false,
+        plan: null,
+        expiresAt: null,
+        subscriptionId: null
+      });
     }
   };
 
-  // Check subscription status on mount and whenever the route changes
   useEffect(() => {
     refreshStatus();
   }, []); // Run only once on mount
