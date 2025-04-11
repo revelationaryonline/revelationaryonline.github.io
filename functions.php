@@ -630,6 +630,122 @@ function delete_comment_likes_meta($comment_id) {
 
 add_action('delete_comment', 'delete_comment_likes_meta');
 
+// stripe.api.proxy
+
+// Add Stripe API proxy endpoints
+add_action('rest_api_init', function () {
+    // Proxy for Stripe API requests
+    register_rest_route('revelationary/v1', '/stripe/api', array(
+        'methods' => ['GET', 'POST'],
+        'callback' => 'stripe_api_proxy',
+        "permission_callback" => function($request) {
+            // Get the Authorization header
+            $auth_header = $request->get_header("Authorization");
+            
+            // Check if Authorization header exists and starts with "Basic "
+            if (!$auth_header || strpos($auth_header, "Basic ") !== 0) {
+                error_log('Invalid or missing Authorization header: ' . $auth_header);
+                return new WP_Error(
+                    "auth_invalid_format",
+                    "Invalid authentication format. Basic authentication required.",
+                    array("status" => 401)
+                );
+            }
+            
+            // Extract the credentials
+            $credentials = base64_decode(substr($auth_header, 6));
+            if (empty($credentials) || strpos($credentials, ':') === false) {
+                error_log('Invalid credentials format in Authorization header');
+                return new WP_Error(
+                    "auth_invalid_credentials",
+                    "Invalid credentials format",
+                    array("status" => 401)
+                );
+            }
+            
+            list($username, $password) = explode(':', $credentials, 2);
+            
+            // Find user by email
+            $user = get_user_by('email', $username);
+            if (!$user) {
+                // Try by username as fallback
+                $user = get_user_by('login', $username);
+                if (!$user) {
+                    error_log('User not found for email/username: ' . $username);
+                    return new WP_Error(
+                        "auth_user_not_found",
+                        "User not found",
+                        array("status" => 401)
+                    );
+                }
+            }
+            
+            // Log authentication details
+            error_log('Processing auth for user: ' . $user->ID . ' (' . $username . ')');
+            
+            // Set the current user
+            wp_set_current_user($user->ID);
+            return true;
+        },
+    ));
+});
+
+function stripe_api_proxy($request) {
+    $user = wp_get_current_user();
+    if (!$user->ID) {
+        return new WP_REST_Response(['error' => 'Unauthorized'], 401);
+    }
+
+    $stripe_secret_key = defined('STRIPE_SECRET_KEY_PROD') ? STRIPE_SECRET_KEY_PROD : null;
+    if (!$stripe_secret_key) {
+        error_log('Stripe secret key not configured in wp-config.php');
+        return new WP_REST_Response(['error' => 'Stripe secret key not configured'], 500);
+    }
+
+    $allowed_endpoints = ['customers', 'subscriptions', 'checkout/sessions'];
+
+    $method = strtoupper($request->get_method());
+
+    if ($method === 'GET') {
+        // From query parameters
+        $endpoint = $request->get_param('endpoint');
+        $data = $request->get_params();
+        unset($data['endpoint']);
+    } else {
+        // From JSON body (POST)
+        $json = $request->get_json_params();
+        $endpoint = $json['endpoint'] ?? null;
+        $data = $json['data'] ?? [];
+    }
+
+    if (!$endpoint || !in_array($endpoint, $allowed_endpoints)) {
+        return new WP_REST_Response(['error' => 'Invalid or missing endpoint'], 400);
+    }
+
+    $stripe_url = "https://api.stripe.com/v1/{$endpoint}";
+    $ch = curl_init();
+
+    if ($method === 'GET' && !empty($data)) {
+        $stripe_url .= '?' . http_build_query($data);
+    } else {
+        curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data));
+    }
+
+    curl_setopt($ch, CURLOPT_URL, $stripe_url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, $method);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+        "Authorization: Bearer {$stripe_secret_key}",
+        "Content-Type: application/x-www-form-urlencoded"
+    ));
+
+    $response = curl_exec($ch);
+    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    return new WP_REST_Response(json_decode($response, true), $http_code);
+}
+
 if ( ! function_exists( 'extendable_styles' ) ) :
 
 	/**

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { 
   Box, 
   Typography, 
@@ -43,7 +43,7 @@ const SubscriptionStatus: React.FC = () => {
     if (!dateString) return 'Unknown';
     return new Date(dateString).toLocaleDateString();
   };
-
+  
   return (
     <Paper
       elevation={3}

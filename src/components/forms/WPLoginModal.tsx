@@ -19,7 +19,7 @@ const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) 
 
   useEffect(() => {
     const token = Cookies.get('wpToken');
-    if (user && !token && subscription?.isActive) {
+    if (user && !token) { // TODO: revisit this
       setOpen(true); // Open modal if user is logged in, has no WP token, and has an active subscription
     } else {
       setOpen(false); // Close modal if token is present or no active subscription
