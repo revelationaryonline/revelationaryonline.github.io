@@ -6,6 +6,66 @@ let stripeClient: Stripe | null = null;
 
 const wpApiUrl = process.env.REACT_APP_WP_JSON_API_URL + '/revelationary/v1/stripe/api';
 
+// Unified API call function to standardize requests to the Stripe proxy
+const callStripeAPI = async (endpoint: string, data: any, email: string, method: 'GET' | 'POST' = 'POST') => {
+  const wpToken = Cookies.get("wpToken");
+  if (!wpToken) {
+    throw new Error("Failed to get WordPress token");
+  }
+
+  // The Stripe proxy needs to know the endpoint regardless of method
+  if (method === 'GET') {
+    // For GET, use form-urlencoded via query parameters
+    const params = new URLSearchParams();
+    params.append('endpoint', endpoint);
+    
+    // Add parameters directly - Stripe doesn't expect a 'data' wrapper
+    if (data) {
+      Object.entries(data).forEach(([key, value]) => {
+        // Append parameters directly without the 'data[]' wrapper
+        params.append(key, String(value));
+      });
+    }
+    
+    const url = `${wpApiUrl}?${params.toString()}`;
+    console.log('GET request URL:', url); // Debug log
+    
+    const response = await fetch(url, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Basic ${btoa(email + ':' + wpToken)}`,
+      }
+    });
+
+    if (!response.ok) {
+      console.error('GET request failed:', await response.text());
+      throw new Error(`Failed GET API call to ${endpoint}: ${response.status}`);
+    }
+    
+    return response.json();
+  } else {
+    // For POST, use the API format expected by the WordPress proxy
+    const response = await fetch(wpApiUrl, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Basic ${btoa(email + ':' + wpToken)}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        endpoint: endpoint,
+        data: data
+      })
+    });
+
+    if (!response.ok) {
+      console.error('POST request failed:', await response.text());
+      throw new Error(`Failed POST API call to ${endpoint}: ${response.status}`);
+    }
+    
+    return response.json();
+  }
+};
+
 // Initialize Stripe client
 export const initializeStripe = async () => {
   if (!stripeClient) {
@@ -41,83 +101,49 @@ export const SUBSCRIPTION_PLANS = {
 // We use Stripe's test mode directly, no custom test mode needed
 const TEST_MODE = false;
 
-// First, create a function to create or get a customer
+// Robust function to get or create a customer without duplicates
 export const getOrCreateCustomer = async (email: string): Promise<string> => {
   try {
-    const wpToken = Cookies.get("wpToken");
-    if (!wpToken) {
-      throw new Error("Failed to get WordPress token");
+    // Use a proper GET request first to check for existing customer
+    const customerData = await callStripeAPI('customers', { email: email }, email, 'GET');
+    
+    // Log what we found for debugging
+    console.log('Checking for existing customer:', email, customerData);
+    
+    // If we found at least one customer with this email, use the first one
+    if (customerData.data && customerData.data.length > 0) {
+      const customerId = customerData.data[0].id;
+      console.log('Found existing customer:', customerId);
+      return customerId;
     }
-
-    // First try to get existing customer
-    const customerResponse = await fetch(wpApiUrl, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Basic ${btoa(email + ':' + wpToken)}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        endpoint: 'customers',
-        data: {
-          email: email
-        }
-      })
-    });
-
-    if (customerResponse.ok) {
-      const customerData = await customerResponse.json();
-      const customerId = customerData.data[0]?.id;
-      if (customerId) {
-        return customerId;
-      }
-    }
-
-    // If no customer exists, create one
-    const createResponse = await fetch(wpApiUrl, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Basic ${btoa(email + ':' + wpToken)}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        endpoint: 'customers',
-        data: {
-          email: email,
-          metadata: {
-            source: 'revelationary'
-          }
-        }
-      })
-    });
-
-    if (!createResponse.ok) {
-      throw new Error('Failed to create customer');
-    }
-
-    const createData = await createResponse.json();
-    return createData.id;
+    
+    // If customer truly doesn't exist, create a new one
+    console.log('Creating new customer for:', email);
+    const newCustomerData = await callStripeAPI('customers', {
+      email: email,
+      metadata: { source: 'revelationary' }
+    }, email, 'POST');
+    
+    console.log('Created new customer:', newCustomerData.id);
+    return newCustomerData.id;
   } catch (error) {
-    console.error('Error getting/creating customer:', error);
+    console.error('Error ensuring customer exists:', error);
     throw error;
   }
 };
 
-// Then modify redirectToPaymentLink to use Checkout Session
+// Redirects to Stripe Checkout Session for payment
 export const redirectToPaymentLink = async (
   plan: "MONTHLY" | "YEARLY",
   userEmail: string
 ) => {
   try {
-    const existingSubscription = await checkSubscriptionStatus(userEmail);
+    // Check for existing active subscription first
+    const existingSubscription = await getSubscriptionStatus(userEmail);
     if (existingSubscription.isActive) {
       window.location.href =
-        window.location.origin + "/account?existing_subscription=true";
+        window.location.origin + "/#/account?existing_subscription=true";
       return;
-    }
-
-    const wpToken = Cookies.get("wpToken");
-    if (!wpToken) {
-      throw new Error("Failed to get WordPress token");
     }
 
     // Get or create customer first
@@ -127,37 +153,23 @@ export const redirectToPaymentLink = async (
     localStorage.setItem('stripeCustomerId', customerId);
 
     // Create Checkout Session
-    const checkoutResponse = await fetch(wpApiUrl, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Basic ${btoa(userEmail + ':' + wpToken)}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        endpoint: 'checkout/sessions',
-        data: {
-          customer: customerId,
-          line_items: [{
-            price: plan === 'MONTHLY' ? 'price_monthly' : 'price_yearly',
-            quantity: 1
-          }],
-          mode: 'subscription',
-          success_url: `${window.location.origin}/payment-success?email=${encodeURIComponent(userEmail)}`,
-          cancel_url: `${window.location.origin}/account?payment_error=true`
-        }
-      })
-    });
+    const checkoutData = await callStripeAPI('checkout/sessions', {
+      customer: customerId,
+      line_items: [{
+        price: plan === 'MONTHLY' ? 'price_monthly' : 'price_yearly',
+        quantity: 1
+      }],
+      mode: 'subscription',
+      success_url: `${window.location.origin}/#/payment-success?email=${encodeURIComponent(userEmail)}`,
+      cancel_url: `${window.location.origin}/#/account?payment_error=true`
+    }, userEmail);
 
-    if (!checkoutResponse.ok) {
-      throw new Error('Failed to create checkout session');
-    }
-
-    const checkoutData = await checkoutResponse.json();
+    // Redirect to checkout
     window.location.href = checkoutData.url;
   } catch (error) {
     console.error("Error handling payment redirection:", error);
     window.location.href =
-      window.location.origin + "/account?payment_error=true";
+      window.location.origin + "/#/account?payment_error=true";
   }
 };
 
@@ -239,155 +251,45 @@ export interface SubscriptionState {
 export const verifyStripeSubscription = async (
   email: string
 ): Promise<SubscriptionState> => {
-  try {
-    const wpToken = Cookies.get("wpToken");
-
-    if (!wpToken) {
-      throw new Error("Failed to get WordPress token");
-    }
-
-    // Get both customer and subscriptions in one request
-    const response = await fetch(wpApiUrl, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Basic ${btoa(email + ':' + wpToken)}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        endpoint: 'customers/search',
-        data: {
-          query: `email:"${email}"`,
-          include: 'subscriptions'
-        }
-      })
-    });
-
-    if (!response.ok) {
-      throw new Error('Failed to fetch customer and subscriptions');
-    }
-
-    const data = await response.json();
-    const customer = data.data[0];
-
-    if (!customer) {
-      return {
-        isActive: false,
-        plan: null,
-        expiresAt: null,
-        subscriptionId: null
-      };
-    }
-
-    const activeSubscription = customer.subscriptions.data.find(
-      (s: any) => s.status === "active" || s.status === "trialing"
-    );
-
-    if (!activeSubscription) {
-      return {
-        isActive: false,
-        plan: null,
-        expiresAt: null,
-        subscriptionId: null
-      };
-    }
-
-    const planType = activeSubscription.items.data[0].plan.interval === 'year'
-      ? 'yearly'
-      : 'monthly';
-
-    return {
-      isActive: true,
-      plan: planType,
-      expiresAt: new Date(activeSubscription.current_period_end * 1000).toISOString(),
-      subscriptionId: activeSubscription.id
-    };
-  } catch (error) {
-    console.error("Error verifying subscription:", error);
-    return {
-      isActive: false,
-      plan: null,
-      expiresAt: null,
-      subscriptionId: null
-    };
-  }
+  // Note: Once the backend is updated to include 'customers/search' in allowed_endpoints,
+  // you can implement a more efficient version that gets everything in one request.
+  // For now, use the getSubscriptionStatus function which works with currently allowed endpoints
+  return getSubscriptionStatus(email);
 };
 
-// Check subscription status by email - using existing relational data
-export const checkSubscriptionStatus = async (email: string): Promise<SubscriptionState> => {
+// Consolidated subscription status checking using GET requests
+export const getSubscriptionStatus = async (email: string): Promise<SubscriptionState> => {
   try {
-    const wpToken = Cookies.get('wpToken');
-    if (!wpToken) {
-      throw new Error('Failed to get WordPress token');
+    // Get customer with GET request
+    const customerData = await callStripeAPI('customers', { email: email }, email, 'GET');
+    
+    // Debug log
+    console.log('Customer lookup result:', customerData);
+    
+    if (!customerData.data || customerData.data.length === 0) {
+      return { isActive: false, plan: null, expiresAt: null, subscriptionId: null };
     }
-
-    // Get customer ID
-    const customerResponse = await fetch(wpApiUrl, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Basic ${btoa(email + ':' + wpToken)}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        endpoint: 'customers',
-        data: {
-          email: email
-        }
-      })
-    });
-
-    if (!customerResponse.ok) {
-      throw new Error('Failed to fetch customer');
-    }
-
-    const customerData = await customerResponse.json();
-    const customerId = customerData.data[0]?.id;
-
-    if (!customerId) {
-      return {
-        isActive: false,
-        plan: null,
-        expiresAt: null,
-        subscriptionId: null
-      };
-    }
-
-    // Get subscriptions
-    const subscriptionsResponse = await fetch(wpApiUrl, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Basic ${btoa(email + ':' + wpToken)}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        endpoint: 'subscriptions',
-        data: {
-          customer: customerId
-        }
-      })
-    });
-
-    if (!subscriptionsResponse.ok) {
-      throw new Error('Failed to fetch subscriptions');
-    }
-
-    const subscriptionsData = await subscriptionsResponse.json();
+    
+    const customerId = customerData.data[0].id;
+    
+    // Get subscriptions with GET request
+    const subscriptionsData = await callStripeAPI('subscriptions', { customer: customerId }, email, 'GET');
+    
+    // Debug log
+    console.log('Subscription lookup result:', subscriptionsData);
+    
     const activeSubscription = subscriptionsData.data.find(
       (s: any) => s.status === 'active' || s.status === 'trialing'
     );
-
+    
     if (!activeSubscription) {
-      return {
-        isActive: false,
-        plan: null,
-        expiresAt: null,
-        subscriptionId: null
-      };
+      return { isActive: false, plan: null, expiresAt: null, subscriptionId: null };
     }
-
+    
     const planType = activeSubscription.items.data[0].plan.interval === 'year'
       ? 'yearly'
       : 'monthly';
-
+      
     return {
       isActive: true,
       plan: planType,
@@ -396,14 +298,12 @@ export const checkSubscriptionStatus = async (email: string): Promise<Subscripti
     };
   } catch (error) {
     console.error('Error checking subscription:', error);
-    return {
-      isActive: false,
-      plan: null,
-      expiresAt: null,
-      subscriptionId: null
-    };
+    return { isActive: false, plan: null, expiresAt: null, subscriptionId: null };
   }
 };
+
+// Alias checkSubscriptionStatus to getSubscriptionStatus for backward compatibility
+export const checkSubscriptionStatus = getSubscriptionStatus;
 
 // Cancel subscription - Redirects to Stripe Customer Portal
 export const cancelSubscription = async (subscriptionId: string) => {
