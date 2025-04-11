@@ -67,9 +67,6 @@ const PaymentSuccessPage: React.FC = () => {
         // Also save with old key for backward compatibility
         localStorage.setItem('user_subscription', JSON.stringify(subscription));
         
-        // Force refresh the subscription status
-        await refreshStatus();
-        
         console.log('Subscription activated for:', userEmail, subscription);
       } catch (error) {
         console.error('Error verifying payment:', error);

@@ -60,8 +60,10 @@ export const redirectToPaymentLink = async (
     // Get the payment link URL based on plan
     const paymentLinkUrl = SUBSCRIPTION_PLANS[plan].paymentLink;
 
-    // Append email parameter to the URL
+    // Create URL object
     const url = new URL(paymentLinkUrl);
+
+    // Append email parameter to the URL
     url.searchParams.append("prefilled_email", userEmail);
 
     // Store the email in localStorage for later use
