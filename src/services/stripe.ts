@@ -132,7 +132,7 @@ export const getOrCreateCustomer = async (email: string): Promise<string> => {
   }
 };
 
-// Redirects to Stripe Checkout Session for payment
+// Redirects to Stripe Checkout using direct payment links
 export const redirectToPaymentLink = async (
   plan: "MONTHLY" | "YEARLY",
   userEmail: string
@@ -146,26 +146,28 @@ export const redirectToPaymentLink = async (
       return;
     }
 
-    // Get or create customer first
+    // Get or create customer first to ensure the user exists in Stripe
     const customerId = await getOrCreateCustomer(userEmail);
 
-    // Store customer ID in localStorage
+    // Store customer ID and email in localStorage for reference after redirect
     localStorage.setItem('stripeCustomerId', customerId);
+    localStorage.setItem('userEmail', userEmail);
 
-    // Create Checkout Session
-    const checkoutData = await callStripeAPI('checkout/sessions', {
-      customer: customerId,
-      line_items: [{
-        price: plan === 'MONTHLY' ? 'price_monthly' : 'price_yearly',
-        quantity: 1
-      }],
-      mode: 'subscription',
-      success_url: `${window.location.origin}/#/payment-success?email=${encodeURIComponent(userEmail)}`,
-      cancel_url: `${window.location.origin}/#/account?payment_error=true`
-    }, userEmail);
-
-    // Redirect to checkout
-    window.location.href = checkoutData.url;
+    // Get payment link from subscription plans configuration
+    const paymentLink = SUBSCRIPTION_PLANS[plan].paymentLink;
+    
+    // Modify payment link to include success and cancel URLs
+    const successUrl = encodeURIComponent(`${window.location.origin}/#/payment-success?email=${encodeURIComponent(userEmail)}`);
+    const cancelUrl = encodeURIComponent(`${window.location.origin}/#/account?payment_error=true`);
+    
+    // Append success_url and cancel_url as query parameters to the payment link
+    // Note: This only works if the Stripe payment link is configured to accept these parameters
+    const checkoutUrl = `${paymentLink}?client_reference_id=${customerId}&prefilled_email=${encodeURIComponent(userEmail)}&success_url=${successUrl}&cancel_url=${cancelUrl}`;
+    
+    console.log('Redirecting to payment page:', checkoutUrl);
+    
+    // Redirect to the Stripe hosted checkout page
+    window.location.href = checkoutUrl;
   } catch (error) {
     console.error("Error handling payment redirection:", error);
     window.location.href =
