@@ -278,7 +278,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               marginBottom: "1.5rem",
             }}
           >
-            <Box display={"flex"} flexDirection={"row"}>
+            {/* <Box display={"flex"} flexDirection={"row"}>
               <img
                 alt="revelationary Logo"
                 src={logo}
@@ -309,7 +309,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               >
                 revelationary
               </Typography>
-            </Box>
+            </Box> */}
             <Typography
               sx={{ mb: 3, fontSize: "24px" }}
               component="h1"
@@ -342,7 +342,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       }
                       sx={{ mr: 1 }}
                     />
-                    Add bookmarks
+                    Get Newsletters
                   </Typography>
 
                   <Typography
@@ -362,7 +362,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       }
                       sx={{ mr: 1 }}
                     />
-                    Get Newsletters
+                    Add bookmarks
                   </Typography>
 
                   <Typography
@@ -547,6 +547,8 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 "&:hover": {
                   backgroundColor: (theme) =>
                     theme.palette.mode === "light" ? "#212121" : "#FFF",
+                  color: (theme) =>
+                    theme.palette.mode === "light" ? "#FFF" : "#212121"
                 },
               }}
               onClick={isSigningUp ? handleSignUp : handleLogin}
@@ -572,6 +574,12 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   "&:hover": {
                     backgroundColor: (theme) =>
                       theme.palette.mode === "light" ? "#212121" : "#FFF",
+                    color: (theme) =>
+                      theme.palette.mode === "light" ? "#FFF" : "#212121",
+                    border: (theme) =>
+                      theme.palette.mode === "light"
+                        ? "1px solid #212121"
+                        : "1px solid #a1a1a1",
                   },
                 }}
                 onClick={handleGoogleSignIn}
@@ -590,7 +598,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 color: "#a1a1a1",
                 "& .MuiFormControlLabel-label": {
                   fontSize: "14px",
-                },
+                }
               }}
             >
               {isSigningUp ? (
@@ -598,7 +606,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   Already have an account?{" "}
                   <Button
                     variant="text"
-                    sx={{ color: "#a1a1a1", mt: -1 }}
+                    sx={{ color: "#a1a1a1", mt: -1, ml: 1 }}
                     onClick={() => setIsSigningUp(false)}
                   >
                     Sign In
@@ -609,7 +617,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                   Don&apos;t have an account?{" "}
                   <Button
                     variant="text"
-                    sx={{ color: "#a1a1a1", mt: -1 }}
+                    sx={{ color: "#a1a1a1", mt: -1, ml: 1 }}
                     onClick={() => setIsSigningUp(true)}
                   >
                     Sign Up
