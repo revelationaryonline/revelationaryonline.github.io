@@ -46,18 +46,24 @@ const PaymentSuccessPage: React.FC = () => {
     }
   }, []);
   
-  // Check Stripe payment status and set subscription data when page loads
+  // Track verification status to prevent duplicate calls
+  const [verified, setVerified] = useState(false);
+  
+  // Check Stripe payment status once when component mounts
   useEffect(() => {
-    const verifyPayment = async () => {
-      // Make sure we have the user email
+    // Skip if already verified or no email
+    if (verified || !userEmail) {
       if (!userEmail) {
         console.warn('No user email available for subscription storage');
         setError('Unable to identify user. Please try logging in again.');
-        return;
       }
+      return;
+    }
 
+    const verifyPayment = async () => {
       try {
-        // Get subscription status directly (avoids redundant API calls)
+        // Get subscription status directly (single API call)
+        console.log('Verifying payment for:', userEmail);
         const subscription = await getSubscriptionStatus(userEmail);
         
         // Save to localStorage using email-based key
@@ -67,10 +73,13 @@ const PaymentSuccessPage: React.FC = () => {
         // Also save with old key for backward compatibility
         localStorage.setItem('user_subscription', JSON.stringify(subscription));
         
-        // Refresh the global subscription context
+        // Refresh the global subscription context once
         await refreshStatus();
         
         console.log('Subscription activated for:', userEmail, subscription);
+        
+        // Mark as verified to prevent duplicate calls
+        setVerified(true);
       } catch (error) {
         console.error('Error verifying payment:', error);
         setError('Failed to verify payment. Please contact support.');
@@ -78,7 +87,8 @@ const PaymentSuccessPage: React.FC = () => {
     };
 
     verifyPayment();
-  }, [refreshStatus, userEmail]);
+  // Only depend on userEmail, NOT on refreshStatus to avoid loops
+  }, [userEmail, verified]);
 
   return (
     <Container maxWidth="md" sx={{ py: 8, mt: 5 }}>

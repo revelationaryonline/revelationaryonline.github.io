@@ -266,7 +266,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   return (
       <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
         <CssBaseline />
-        <Container component="main" maxWidth="xs">
+        <Container component="main" maxWidth="sm">
           <Paper
             elevation={6}
             sx={{
@@ -321,7 +321,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
             {isSigningUp && (
               <>
-                <Typography>An account lets you:</Typography>
+                <Typography>A free account lets you:</Typography>
                 <Box sx={{ mt: 1, mb: 3 }}>
                   <Typography
                     sx={{
@@ -342,7 +342,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       }
                       sx={{ mr: 1 }}
                     />
-                    Add comments on every verse
+                    Add bookmarks
                   </Typography>
 
                   <Typography
@@ -362,7 +362,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       }
                       sx={{ mr: 1 }}
                     />
-                    Read our blog
+                    Get Newsletters
                   </Typography>
 
                   <Typography
@@ -494,7 +494,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 <FormControlLabel
                   control={
                     <Checkbox
-                      required
+                      
                       checked={agreedToTerms}
                       onChange={(e) => setAgreedToTerms(e.target.checked)}
                     />
@@ -505,10 +505,11 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       color="text.secondary"
                       align="center"
                       sx={{
-                        mt: 2,
+                        mt: 0.5,
                         color: "#a1a1a1",
+                        fontSize: 13,
                         "& .MuiFormControlLabel-label": {
-                          fontSize: "14px",
+                          fontSize: 13,
                         },
                       }}
                     >
@@ -517,6 +518,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                         href="https://revelationary.org/terms-of-service/"
                         target="_blank"
                         rel="noopener noreferrer"
+                        sx={{ fontSize: "13px" }}
                       >
                         Terms of Service
                       </Link>{" "}
@@ -525,6 +527,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                         href="https://revelationary.org/privacy-policy/"
                         target="_blank"
                         rel="noopener noreferrer"
+                        sx={{ fontSize: "13px" }}
                       >
                         Privacy Policy
                       </Link>
@@ -580,7 +583,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
             <Typography
               variant="body2"
               color="text.secondary"
-              align="center"
+              align="left"
               sx={{
                 mt: 2,
                 display: "flex",
@@ -631,7 +634,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                       checked={isOptedOut}
                     />
                   }
-                  label={`I don't want to post comments`}
+                  label={`I don't want newsletters`}
                 />
               </Box>
             )}
