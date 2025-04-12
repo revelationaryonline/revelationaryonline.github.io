@@ -8,6 +8,7 @@ interface SubscriptionState {
   plan: string | null;
   expiresAt: string | null;
   subscriptionId: string | null;
+  status?: string | null; // For tracking trial status
 }
 
 // Define the shape of our context

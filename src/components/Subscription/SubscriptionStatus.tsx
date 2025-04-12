@@ -87,15 +87,21 @@ const SubscriptionStatus: React.FC = () => {
               {subscription.plan === 'yearly' ? 'Yearly Premium' : 'Monthly Premium'}
             </Typography>
           </Box>
-          
+
+          {/* Check if subscription is in trial period */}
           {subscription.expiresAt && (
             <Box sx={{ mb: 2, textAlign: 'right' }}>
               <Typography variant="body2" color="text.secondary" gutterBottom>
-                Renewal Date:
+                {subscription.status === 'trialing' ? 'Free Trial Until:' : 'Renewal Date:'}
               </Typography>
               <Typography variant="body1">
                 {formatDate(subscription.expiresAt)}
               </Typography>
+              {subscription.status === 'trialing' && (
+                <Typography variant="body2" color="primary" sx={{ mt: 1, fontStyle: 'italic' }}>
+                  You're currently in your free trial period. Your first payment will be processed on {formatDate(subscription.expiresAt)}.
+                </Typography>
+              )}
             </Box>
           )}
           

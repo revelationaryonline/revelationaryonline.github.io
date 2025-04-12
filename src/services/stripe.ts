@@ -247,6 +247,7 @@ export interface SubscriptionState {
   plan: string | null;
   expiresAt: string | null;
   subscriptionId: string | null;
+  status?: string | null; // For tracking trial status
 }
 
 // Verify subscription with Stripe using email
@@ -291,12 +292,16 @@ export const getSubscriptionStatus = async (email: string): Promise<Subscription
     const planType = activeSubscription.items.data[0].plan.interval === 'year'
       ? 'yearly'
       : 'monthly';
+    
+    // Get subscription status (active, trialing, etc.)
+    const status = activeSubscription.status || null;
       
     return {
       isActive: true,
       plan: planType,
       expiresAt: new Date(activeSubscription.current_period_end * 1000).toISOString(),
-      subscriptionId: activeSubscription.id
+      subscriptionId: activeSubscription.id,
+      status: status // Include the subscription status
     };
   } catch (error) {
     console.error('Error checking subscription:', error);

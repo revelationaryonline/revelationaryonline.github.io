@@ -61,9 +61,9 @@ const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) 
           textAlign: "center",
         }}
       >
-        <Typography variant="h6">🔐 Comments API Login</Typography>
+        <Typography variant="h6">🔐 API Password</Typography>
         <Typography variant="body2" sx={{ mb: 2 }}>
-          We just sent a notification to your email. Enter your API password to post comments.
+          We just sent a notification to your email. Please enter your API password to connect to our services. For £1.99 a month you can have reading streaks, post comments and more!
         </Typography>
 
         <TextField
