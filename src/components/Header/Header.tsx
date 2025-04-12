@@ -397,7 +397,7 @@ function Header(props: HeaderProps) {
             <Box sx={{ flexGrow: 0, borderRadius: 0, display: 'flex', alignItems: 'center' }}>
               {/* Dark Mode Toggle */}
               {/* Show IconButton on mobile, Switch on larger screens */}
-              <NotificationBell sx={{ fontSize: '1rem', color: '#a1a1a1', mr: 0.5 }} />
+              {/* <NotificationBell sx={{ fontSize: '1rem', color: '#a1a1a1', mr: 0.5 }} /> */}
               <Box sx={{ display: { xs: 'none', sm: 'flex' }, alignItems: 'center', mr: 3 }}>
                 <Brightness7Icon sx={{ fontSize: '1rem', color: '#a1a1a1' }} />
                 <Switch
