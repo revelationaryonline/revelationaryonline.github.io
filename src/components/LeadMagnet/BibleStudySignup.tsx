@@ -245,16 +245,8 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
             Your free Bible study guide is on its way to your inbox.
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            (You can close this window now)
+            (You can close this window now - just click anywhere outside of it)
           </Typography>
-          <Button 
-            variant="outlined" 
-            color="primary" 
-            sx={{ mt: 2 }} 
-            onClick={handleClose}
-          >
-            Close
-          </Button>
         </div>
       );
     }
@@ -392,7 +384,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
                   color="primary" 
                 />
               }
-              label="Yes, I'd like to receive weekly Bible study insights via email"
+              label="Yes, I'd like to receive monthly insights via email"
               sx={{ mb: 2 }}
             />
             {serverError && (
