@@ -266,11 +266,11 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
             <div style={{ display: 'flex', alignItems: 'center', marginBottom: '1rem' }}>
               <SchoolIcon sx={{ color: 'primary.main', marginRight: '0.5rem' }} />
               <Typography variant="h5" component="h2">
-                Get Your Free Bible Study Guide
+                Create a Free Account
               </Typography>
             </div>
             <Typography variant="body1" paragraph sx={{ fontWeight: 500 }}>
-              Unlock deeper understanding of scripture with our 7-day study plan
+              Unlock deeper understanding of scripture
             </Typography>
             <div style={{ 
               display: 'flex', 
@@ -278,6 +278,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
               gap: '1rem', 
               marginBottom: '1rem' 
             }}>
+              {/* 
               <div style={{ flex: 1, minWidth: isMobile ? '100%' : '45%' }}>
                 <Typography variant="body2" paragraph>
                   Our Bible study guide includes:
@@ -303,7 +304,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
                 <Typography variant="body2" paragraph sx={{ fontStyle: 'italic' }}>
                   "This study guide transformed my daily devotional time!" - Sarah K.
                 </Typography>
-              </div>
+              </div> */}
               {!isMobile && (
                 <div style={{ 
                   flex: 1, 
@@ -347,7 +348,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
               endIcon={<ArrowForwardIcon />}
               sx={{ mb: 2 }}
             >
-              Get Free Study Guide
+              Subscribe
             </Button>
             <Typography variant="caption" color="text.secondary" align="center" display="block">
               We respect your privacy. Unsubscribe at any time.
@@ -359,7 +360,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
               Almost there!
             </Typography>
             <Typography variant="body1" paragraph>
-              Please enter your name to receive your free Bible study guide.
+              Please enter your name and create a password to access your free account
             </Typography>
             <TextField
               fullWidth
