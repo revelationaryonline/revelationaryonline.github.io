@@ -50,7 +50,7 @@ module.exports = {
       'jsx-a11y/anchor-is-valid': 'warn', // Ensure links are valid and accessible
       'jsx-a11y/no-autofocus': 'off', // Prevent auto-focusing elements on page load
       'import/no-unresolved': 'error', // Prevent unresolved imports
-      'import/no-named-as-default': 'warn', // Prevent accidental default imports
+      'import/no-named-as-default': 'off', // Prevent accidental default imports
       'import/prefer-default-export': 'off', // Use named exports when necessary
   
       // Prettier integration
