@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import ReCAPTCHA from "react-google-recaptcha";
 import { useNavigate } from "react-router-dom";
 import Cookies from "js-cookie";
@@ -27,6 +27,9 @@ import Link from "@mui/material/Link";
 import logo from "../assets/logo512.png";
 import Footer from "../components/Footer/Footer";
 
+const TEST_SITE_KEY = "6LcgGh0rAAAAAJ2LXuSIhbdhzv1636PLcKxGbni0"; // Replace with your actual site key
+const DELAY = 1500;
+
 interface LoginPageProps {
   user: User | null;
 }
@@ -45,7 +48,34 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
   const WP_API_URL = process.env.REACT_APP_WP_API_URL?.replace("/wp/v2", "");
 
-  const recaptchaRef = React.createRef<any>();
+  const [serverError, setServerError] = useState("");
+  const [captchaValue, setCaptchaValue] = useState<string | null>("[empty]");
+  const [captchaExpired, setCaptchaExpired] = useState(false);
+  const [captchaLoaded, setCaptchaLoaded] = useState(false);
+
+  const recaptchaRef = useRef<ReCAPTCHA>(null);
+
+   useEffect(() => {
+      const timer = setTimeout(() => {
+        setCaptchaLoaded(true);
+      }, DELAY);
+      return () => clearTimeout(timer);
+    }, []);
+
+    const handleCaptchaChange = (value: string | null) => {
+      console.log("Captcha value:", value);
+      setCaptchaValue(value);
+      if (value === null) {
+        setCaptchaExpired(true);
+      } else {
+        setCaptchaExpired(false);
+      }
+    };
+  
+    const asyncScriptOnLoad = () => {
+      console.log("reCAPTCHA script loaded");
+    };
+
 
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
@@ -139,9 +169,8 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
 
   const handleSignUp = async (e: any) => {
     e.preventDefault();
-    const recaptchaValue = recaptchaRef.current.getValue();
 
-    if (!recaptchaValue) {
+    if (!captchaValue || captchaValue === "[empty]") {
       alert("Please complete the CAPTCHA");
       return;
     }
@@ -501,12 +530,17 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
             }}
           />
           {isSigningUp && (
-            <Box sx={{ width: "100%", mt: 1 }}>
-              <ReCAPTCHA
-                ref={recaptchaRef}
-                size="invisible"
-                sitekey="6LdVyhsrAAAAACNVATWVnOrt05hLu8xp_tor2zaZ"
-              />
+            <Box sx={{ width: "100%", mt: 1}}>
+            {captchaLoaded && (
+              <Box sx={{ my: 2 }}>
+                <ReCAPTCHA
+                  ref={recaptchaRef}
+                  sitekey={TEST_SITE_KEY}
+                  onChange={handleCaptchaChange}
+                  asyncScriptOnLoad={asyncScriptOnLoad}
+                />
+              </Box>
+            )}
               <FormControlLabel
                 control={
                   <Checkbox
