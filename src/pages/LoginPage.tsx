@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import ReCAPTCHA from "react-google-recaptcha";
 import { useNavigate } from "react-router-dom";
 import Cookies from "js-cookie";
 import { useTheme, ThemeProvider } from "@mui/material/styles";
@@ -43,6 +44,8 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   const isDarkMode = theme.palette.mode === "dark";
 
   const WP_API_URL = process.env.REACT_APP_WP_API_URL?.replace("/wp/v2", "");
+
+  const recaptchaRef = React.createRef<any>();
 
   const handleGoogleSignIn = async () => {
     const provider = new GoogleAuthProvider();
@@ -134,7 +137,15 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
     }
   };
 
-  const handleSignUp = async () => {
+  const handleSignUp = async (e: any) => {
+    e.preventDefault();
+    const recaptchaValue = recaptchaRef.current.getValue();
+
+    if (!recaptchaValue) {
+      alert("Please complete the CAPTCHA");
+      return;
+    }
+
     if (!agreedToTerms) {
       setError("Please agree to the Terms of Service and Privacy Policy");
       return;
@@ -264,21 +275,21 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   }, [user]);
 
   return (
-      <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
-        <CssBaseline />
-        <Container component="main" maxWidth="sm">
-          <Paper
-            elevation={6}
-            sx={{
-              p: 4,
-              mt: 10,
-              display: "flex",
-              flexDirection: "column",
-              alignItems: "center",
-              marginBottom: "1.5rem",
-            }}
-          >
-            {/* <Box display={"flex"} flexDirection={"row"}>
+    <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
+      <CssBaseline />
+      <Container component="main" maxWidth="sm">
+        <Paper
+          elevation={6}
+          sx={{
+            p: 4,
+            mt: 10,
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            marginBottom: "1.5rem",
+          }}
+        >
+          {/* <Box display={"flex"} flexDirection={"row"}>
               <img
                 alt="revelationary Logo"
                 src={logo}
@@ -310,345 +321,349 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
                 revelationary
               </Typography>
             </Box> */}
-            <Typography
-              sx={{ mb: 3, fontSize: "24px" }}
-              component="h1"
-              variant="h5"
-              gutterBottom
-            >
-              {isSigningUp ? "Sign Up" : "Sign In"}
-            </Typography>
+          <Typography
+            sx={{ mb: 3, fontSize: "24px" }}
+            component="h1"
+            variant="h5"
+            gutterBottom
+          >
+            {isSigningUp ? "Sign Up" : "Sign In"}
+          </Typography>
 
-            {isSigningUp && (
-              <>
-                <Typography>A free account lets you:</Typography>
-                <Box sx={{ mt: 1, mb: 3 }}>
-                  <Typography
-                    sx={{
-                      pt: 1,
-                      mt: 1,
-                      display: "flex",
-                      alignItems: "center",
-                    }}
-                  >
-                    <CheckCircleIcon
-                      fontSize="small"
-                      color={
-                        !agreedToTerms
-                          ? ("disabled" as const)
-                          : isOptedOut
-                          ? ("disabled" as const)
-                          : ("success" as const)
-                      }
-                      sx={{ mr: 1 }}
-                    />
-                    Get Newsletters
-                  </Typography>
+          {isSigningUp && (
+            <>
+              <Typography>A free account lets you:</Typography>
+              <Box sx={{ mt: 1, mb: 3 }}>
+                <Typography
+                  sx={{
+                    pt: 1,
+                    mt: 1,
+                    display: "flex",
+                    alignItems: "center",
+                  }}
+                >
+                  <CheckCircleIcon
+                    fontSize="small"
+                    color={
+                      !agreedToTerms
+                        ? ("disabled" as const)
+                        : isOptedOut
+                        ? ("disabled" as const)
+                        : ("success" as const)
+                    }
+                    sx={{ mr: 1 }}
+                  />
+                  Get Newsletters
+                </Typography>
 
-                  <Typography
-                    sx={{
-                      pt: 1,
-                      mt: 1,
-                      display: "flex",
-                      alignItems: "center",
-                    }}
-                  >
-                    <CheckCircleIcon
-                      fontSize="small"
-                      color={
-                        agreedToTerms
-                          ? ("success" as const)
-                          : ("disabled" as const)
-                      }
-                      sx={{ mr: 1 }}
-                    />
-                    Add bookmarks
-                  </Typography>
+                <Typography
+                  sx={{
+                    pt: 1,
+                    mt: 1,
+                    display: "flex",
+                    alignItems: "center",
+                  }}
+                >
+                  <CheckCircleIcon
+                    fontSize="small"
+                    color={
+                      agreedToTerms
+                        ? ("success" as const)
+                        : ("disabled" as const)
+                    }
+                    sx={{ mr: 1 }}
+                  />
+                  Add bookmarks
+                </Typography>
 
-                  <Typography
-                    sx={{
-                      pt: 1,
-                      mt: 1,
-                      display: "flex",
-                      alignItems: "center",
-                    }}
-                  >
-                    <CheckCircleIcon
-                      fontSize="small"
-                      color={
-                        agreedToTerms
-                          ? ("success" as const)
-                          : ("disabled" as const)
-                      }
-                      sx={{ mr: 1 }}
-                    />
-                    Highlight Verses
-                  </Typography>
-                </Box>
-              </>
-            )}
-
-            {error && (
-              <Typography color="error" variant="body2" sx={{ mb: 2 }}>
-                {error}
-              </Typography>
-            )}
-
-            <TextField
-              margin="normal"
-              required
-              fullWidth
-              id="email"
-              label="Email Address"
-              name="email"
-              autoComplete="email"
-              autoFocus
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              sx={{
-                WebkitBoxShadow: "none !important",
-                "& .Mui-focused": {
-                  color: (theme) =>
-                    theme.palette.mode === "light"
-                      ? "black !important"
-                      : "white !important",
-                  "& .MuiOutlinedInput-notchedOutline": {
-                    borderColor: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "#ccc !important"
-                        : "#FFF !important",
-                    color: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "black"
-                        : "white !important",
-                  },
-                  "& input:-webkit-autofill": {
-                    WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                    WebkitTextFillColor: (theme) =>
-                      theme.palette.mode === "light" ? "black" : "white",
-                    transition: "background-color 5000s ease-in-out 0s",
-                  },
-                },
-                "& .MuiInputBase-input": {
-                  color: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white",
-                },
-                "& .MuiInputBase-input:-webkit-autofill": {
-                  WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                  WebkitTextFillColor: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white",
-                  transition: "background-color 5000s ease-in-out 0s",
-                },
-              }}
-            />
-
-            <TextField
-              margin="normal"
-              required
-              fullWidth
-              name="password"
-              label="Password"
-              type="password"
-              id="password"
-              autoComplete="current-password"
-              value={password}
-              onChange={(e) => setPassword(e.target.value)}
-              sx={{
-                WebkitBoxShadow: "none !important",
-                "& .Mui-focused": {
-                  color: (theme) =>
-                    theme.palette.mode === "light"
-                      ? "black !important"
-                      : "white !important",
-                  "& .MuiOutlinedInput-notchedOutline": {
-                    borderColor: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "#ccc !important"
-                        : "#FFF !important",
-                    color: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "black"
-                        : "white !important",
-                  },
-                  "& input:-webkit-autofill": {
-                    WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                    WebkitTextFillColor: (theme) =>
-                      theme.palette.mode === "light" ? "black" : "white",
-                    transition: "background-color 5000s ease-in-out 0s",
-                  },
-                },
-                "& .MuiInputBase-input": {
-                  color: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white",
-                },
-                "& .MuiInputBase-input:-webkit-autofill": {
-                  WebkitBoxShadow: "0 0 0 100px #212121AA inset",
-                  WebkitTextFillColor: (theme) =>
-                    theme.palette.mode === "light" ? "black" : "white",
-                  transition: "background-color 5000s ease-in-out 0s",
-                },
-              }}
-            />
-            {isSigningUp && (
-              <Box sx={{ width: "100%", mt: 1 }}>
-                <FormControlLabel
-                  control={
-                    <Checkbox
-                      
-                      checked={agreedToTerms}
-                      onChange={(e) => setAgreedToTerms(e.target.checked)}
-                    />
-                  }
-                  label={
-                    <Typography
-                      variant="body2"
-                      color="text.secondary"
-                      align="center"
-                      sx={{
-                        mt: 0.5,
-                        color: "#a1a1a1",
-                        fontSize: 13,
-                        "& .MuiFormControlLabel-label": {
-                          fontSize: 13,
-                        },
-                      }}
-                    >
-                      I agree to the{" "}
-                      <Link
-                        href="https://revelationary.org/terms-of-service/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        sx={{ fontSize: "13px" }}
-                      >
-                        Terms of Service
-                      </Link>{" "}
-                      and{" "}
-                      <Link
-                        href="https://revelationary.org/privacy-policy/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        sx={{ fontSize: "13px" }}
-                      >
-                        Privacy Policy
-                      </Link>
-                    </Typography>
-                  }
-                />
+                <Typography
+                  sx={{
+                    pt: 1,
+                    mt: 1,
+                    display: "flex",
+                    alignItems: "center",
+                  }}
+                >
+                  <CheckCircleIcon
+                    fontSize="small"
+                    color={
+                      agreedToTerms
+                        ? ("success" as const)
+                        : ("disabled" as const)
+                    }
+                    sx={{ mr: 1 }}
+                  />
+                  Highlight Verses
+                </Typography>
               </Box>
-            )}
+            </>
+          )}
+
+          {error && (
+            <Typography color="error" variant="body2" sx={{ mb: 2 }}>
+              {error}
+            </Typography>
+          )}
+
+          <TextField
+            margin="normal"
+            required
+            fullWidth
+            id="email"
+            label="Email Address"
+            name="email"
+            autoComplete="email"
+            autoFocus
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            sx={{
+              WebkitBoxShadow: "none !important",
+              "& .Mui-focused": {
+                color: (theme) =>
+                  theme.palette.mode === "light"
+                    ? "black !important"
+                    : "white !important",
+                "& .MuiOutlinedInput-notchedOutline": {
+                  borderColor: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "#ccc !important"
+                      : "#FFF !important",
+                  color: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "black"
+                      : "white !important",
+                },
+                "& input:-webkit-autofill": {
+                  WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                  WebkitTextFillColor: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                  transition: "background-color 5000s ease-in-out 0s",
+                },
+              },
+              "& .MuiInputBase-input": {
+                color: (theme) =>
+                  theme.palette.mode === "light" ? "black" : "white",
+              },
+              "& .MuiInputBase-input:-webkit-autofill": {
+                WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                WebkitTextFillColor: (theme) =>
+                  theme.palette.mode === "light" ? "black" : "white",
+                transition: "background-color 5000s ease-in-out 0s",
+              },
+            }}
+          />
+
+          <TextField
+            margin="normal"
+            required
+            fullWidth
+            name="password"
+            label="Password"
+            type="password"
+            id="password"
+            autoComplete="current-password"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            sx={{
+              WebkitBoxShadow: "none !important",
+              "& .Mui-focused": {
+                color: (theme) =>
+                  theme.palette.mode === "light"
+                    ? "black !important"
+                    : "white !important",
+                "& .MuiOutlinedInput-notchedOutline": {
+                  borderColor: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "#ccc !important"
+                      : "#FFF !important",
+                  color: (theme) =>
+                    theme.palette.mode === "light"
+                      ? "black"
+                      : "white !important",
+                },
+                "& input:-webkit-autofill": {
+                  WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                  WebkitTextFillColor: (theme) =>
+                    theme.palette.mode === "light" ? "black" : "white",
+                  transition: "background-color 5000s ease-in-out 0s",
+                },
+              },
+              "& .MuiInputBase-input": {
+                color: (theme) =>
+                  theme.palette.mode === "light" ? "black" : "white",
+              },
+              "& .MuiInputBase-input:-webkit-autofill": {
+                WebkitBoxShadow: "0 0 0 100px #212121AA inset",
+                WebkitTextFillColor: (theme) =>
+                  theme.palette.mode === "light" ? "black" : "white",
+                transition: "background-color 5000s ease-in-out 0s",
+              },
+            }}
+          />
+          {isSigningUp && (
+            <Box sx={{ width: "100%", mt: 1 }}>
+              <ReCAPTCHA
+                ref={recaptchaRef}
+                size="invisible"
+                sitekey="6LdVyhsrAAAAACNVATWVnOrt05hLu8xp_tor2zaZ"
+              />
+              <FormControlLabel
+                control={
+                  <Checkbox
+                    checked={agreedToTerms}
+                    onChange={(e) => setAgreedToTerms(e.target.checked)}
+                  />
+                }
+                label={
+                  <Typography
+                    variant="body2"
+                    color="text.secondary"
+                    align="center"
+                    sx={{
+                      mt: 0.5,
+                      color: "#a1a1a1",
+                      fontSize: 13,
+                      "& .MuiFormControlLabel-label": {
+                        fontSize: 13,
+                      },
+                    }}
+                  >
+                    I agree to the{" "}
+                    <Link
+                      href="https://revelationary.org/terms-of-service/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      sx={{ fontSize: "13px" }}
+                    >
+                      Terms of Service
+                    </Link>{" "}
+                    and{" "}
+                    <Link
+                      href="https://revelationary.org/privacy-policy/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      sx={{ fontSize: "13px" }}
+                    >
+                      Privacy Policy
+                    </Link>
+                  </Typography>
+                }
+              />
+            </Box>
+          )}
+          <Button
+            type="submit"
+            fullWidth
+            variant="contained"
+            sx={{
+              mt: 3,
+              mb: 2,
+              backgroundColor: "#a1a1a1",
+              "&:hover": {
+                backgroundColor: (theme) =>
+                  theme.palette.mode === "light" ? "#212121" : "#FFF",
+                color: (theme) =>
+                  theme.palette.mode === "light" ? "#FFF" : "#212121",
+              },
+            }}
+            onClick={isSigningUp ? handleSignUp : handleLogin}
+          >
+            {isSigningUp ? "Sign Up" : "Sign In"}
+          </Button>
+
+          {!isSigningUp && (
             <Button
-              type="submit"
+              type="button"
               fullWidth
-              variant="contained"
+              variant="outlined"
               sx={{
-                mt: 3,
+                mt: 1,
                 mb: 2,
-                backgroundColor: "#a1a1a1",
+                backgroundColor: "#transparent",
+                color: (theme) =>
+                  theme.palette.mode === "light" ? "#212121" : "#a1a1a1",
+                border: (theme) =>
+                  theme.palette.mode === "light"
+                    ? "1px solid #212121"
+                    : "1px solid #a1a1a1",
                 "&:hover": {
                   backgroundColor: (theme) =>
                     theme.palette.mode === "light" ? "#212121" : "#FFF",
                   color: (theme) =>
-                    theme.palette.mode === "light" ? "#FFF" : "#212121"
-                },
-              }}
-              onClick={isSigningUp ? handleSignUp : handleLogin}
-            >
-              {isSigningUp ? "Sign Up" : "Sign In"}
-            </Button>
-
-            {!isSigningUp && (
-              <Button
-                type="button"
-                fullWidth
-                variant="outlined"
-                sx={{
-                  mt: 1,
-                  mb: 2,
-                  backgroundColor: "#transparent",
-                  color: (theme) =>
-                    theme.palette.mode === "light" ? "#212121" : "#a1a1a1",
+                    theme.palette.mode === "light" ? "#FFF" : "#212121",
                   border: (theme) =>
                     theme.palette.mode === "light"
                       ? "1px solid #212121"
                       : "1px solid #a1a1a1",
-                  "&:hover": {
-                    backgroundColor: (theme) =>
-                      theme.palette.mode === "light" ? "#212121" : "#FFF",
-                    color: (theme) =>
-                      theme.palette.mode === "light" ? "#FFF" : "#212121",
-                    border: (theme) =>
-                      theme.palette.mode === "light"
-                        ? "1px solid #212121"
-                        : "1px solid #a1a1a1",
+                },
+              }}
+              onClick={handleGoogleSignIn}
+            >
+              Sign In with Google
+            </Button>
+          )}
+
+          <Typography
+            variant="body2"
+            color="text.secondary"
+            align="left"
+            sx={{
+              mt: 2,
+              display: "flex",
+              color: "#a1a1a1",
+              "& .MuiFormControlLabel-label": {
+                fontSize: "14px",
+              },
+            }}
+          >
+            {isSigningUp ? (
+              <>
+                Already have an account?{" "}
+                <Button
+                  variant="text"
+                  sx={{ color: "#a1a1a1", mt: -1, ml: 1 }}
+                  onClick={() => setIsSigningUp(false)}
+                >
+                  Sign In
+                </Button>
+              </>
+            ) : (
+              <>
+                Don&apos;t have an account?{" "}
+                <Button
+                  variant="text"
+                  sx={{ color: "#a1a1a1", mt: -1, ml: 1 }}
+                  onClick={() => setIsSigningUp(true)}
+                >
+                  Sign Up
+                </Button>
+              </>
+            )}
+          </Typography>
+
+          {isSigningUp && (
+            <Box sx={{ mt: 2 }}>
+              <FormControlLabel
+                sx={{
+                  display: "flex",
+                  color: "#a1a1a1",
+                  "& .MuiFormControlLabel-label": {
+                    fontSize: "14px",
                   },
                 }}
-                onClick={handleGoogleSignIn}
-              >
-                Sign In with Google
-              </Button>
-            )}
-
-            <Typography
-              variant="body2"
-              color="text.secondary"
-              align="left"
-              sx={{
-                mt: 2,
-                display: "flex",
-                color: "#a1a1a1",
-                "& .MuiFormControlLabel-label": {
-                  fontSize: "14px",
+                control={
+                  <Checkbox
+                    onChange={(e) => setIsOptedOut(e.target.checked)}
+                    checked={isOptedOut}
+                  />
                 }
-              }}
-            >
-              {isSigningUp ? (
-                <>
-                  Already have an account?{" "}
-                  <Button
-                    variant="text"
-                    sx={{ color: "#a1a1a1", mt: -1, ml: 1 }}
-                    onClick={() => setIsSigningUp(false)}
-                  >
-                    Sign In
-                  </Button>
-                </>
-              ) : (
-                <>
-                  Don&apos;t have an account?{" "}
-                  <Button
-                    variant="text"
-                    sx={{ color: "#a1a1a1", mt: -1, ml: 1 }}
-                    onClick={() => setIsSigningUp(true)}
-                  >
-                    Sign Up
-                  </Button>
-                </>
-              )}
-            </Typography>
-
-            {isSigningUp && (
-              <Box sx={{ mt: 2 }}>
-                <FormControlLabel
-                  sx={{
-                    display: "flex",
-                    color: "#a1a1a1",
-                    "& .MuiFormControlLabel-label": {
-                      fontSize: "14px",
-                    },
-                  }}
-                  control={
-                    <Checkbox
-                      onChange={(e) => setIsOptedOut(e.target.checked)}
-                      checked={isOptedOut}
-                    />
-                  }
-                  label={`I don't want newsletters`}
-                />
-              </Box>
-            )}
-          </Paper>
-        </Container>
-      </Box>
+                label={`I don't want newsletters`}
+              />
+            </Box>
+          )}
+        </Paper>
+      </Container>
+    </Box>
   );
 };
 

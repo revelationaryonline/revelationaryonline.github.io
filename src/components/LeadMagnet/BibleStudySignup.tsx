@@ -55,6 +55,10 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
   const isDarkMode = theme.palette.mode === 'dark';
 
+  const [serverError, setServerError] = useState('');
+  const recaptchaRef = React.createRef<any>();
+
+
   // Show modal after delay if it's a modal
   useEffect(() => {
     if (position === 'modal' && !localStorage.getItem('leadMagnetShown')) {
@@ -101,14 +105,11 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
     setStep(2);
   };
 
-  const [serverError, setServerError] = useState('');
-
   const validatePassword = (password: string) => {
     // Basic password validation: at least 8 characters
     return password.length >= 8;
   };
 
-  const recaptchaRef = React.createRef<any>();
   const handleSubmit = async (e: any) => {
 
     e.preventDefault();
