@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import ReCAPTCHA from "react-google-recaptcha";
 import {
   Button,
   TextField,
@@ -25,6 +26,7 @@ import { createUserWithEmailAndPassword, sendEmailVerification } from 'firebase/
 import Cookies from 'js-cookie';
 import studyGuideImage from '../../assets/hero-post.jpg'; // Temporary - replace with study-guide-preview.jpg when available
 import { CheckCircle, CheckCircleOutline } from '@mui/icons-material';
+import { EventType } from '@testing-library/react';
 
 interface BibleStudySignupProps {
   position?: 'modal' | 'inline' | 'floating';
@@ -61,7 +63,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
       }, delay);
       return () => clearTimeout(timer);
     }
-  }, [position, delay]);
+  }, [position, delay, subscribed]);
 
   // For testing purposes
   useEffect(() => {
@@ -106,15 +108,26 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
     return password.length >= 8;
   };
 
-  const handleSubmit = async () => {
+  const recaptchaRef = React.createRef<any>();
+  const handleSubmit = async (e: any) => {
+
+    e.preventDefault();
+    const recaptchaValue = recaptchaRef.current.getValue();
+
+    if (!recaptchaValue) {
+        alert("Please complete the CAPTCHA");
+        return;
+    }
+
     if (name.trim() === '') {
       return;
     }
-
+    
     if (!validatePassword(password)) {
       setPasswordError('Password must be at least 8 characters');
       return;
     }
+
     setPasswordError('');
 
     setLoading(true);
@@ -384,7 +397,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
                   color="primary" 
                 />
               }
-              label="Yes, I'd like to receive monthly insights via email"
+              label="Yes, I'd like to receive monthly news via email"
               sx={{ mb: 2 }}
             />
             {serverError && (
@@ -392,6 +405,12 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
                 {serverError}
               </Alert>
             )}
+    <ReCAPTCHA
+      ref={recaptchaRef}
+      size="invisible"
+      sitekey="6LdVyhsrAAAAACNVATWVnOrt05hLu8xp_tor2zaZ"
+
+    />
             <Button
               fullWidth
               variant="contained"
@@ -401,7 +420,7 @@ const BibleStudySignup: React.FC<BibleStudySignupProps> = ({
               disabled={loading}
               sx={{ mb: 2 }}
             >
-              {loading ? <CircularProgress size={24} /> : "Create Account & Get Guide"}
+              {loading ? <CircularProgress size={24} /> : "Create Account"}
             </Button>
             <Button
               fullWidth
