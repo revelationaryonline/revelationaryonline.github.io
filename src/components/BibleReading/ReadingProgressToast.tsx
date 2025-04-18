@@ -480,7 +480,7 @@ const ReadingProgressToast: React.FC<ReadingProgressToastProps> = ({
   return (
     <>
       <Snackbar
-        open={open}
+        open={open && user && wpToken && apiAvailable}
         autoHideDuration={10000}
         onClose={handleClose}
         anchorOrigin={{ vertical: 'bottom', horizontal: 'right' }}
@@ -492,6 +492,27 @@ const ReadingProgressToast: React.FC<ReadingProgressToastProps> = ({
           severity="info" 
           sx={{ 
             width: '100%',
+            backgroundColor: (theme) => theme.palette.mode === 'light' ? '#FFFFFF' : '#212121',
+            color: (theme) => theme.palette.mode === 'light' ? '#212121' : '#FFFFFF',
+            '& .MuiAlert-icon': {
+              display: 'none'
+            },
+            '& .MuiAlert-action': {
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              position: 'absolute',
+              right: 0,
+              top: 0,
+              padding: 0,
+              margin: 0,
+              width: 'auto',
+              height: 'auto',
+              backgroundColor: 'transparent',
+              '&:hover': {
+                backgroundColor: 'transparent',
+              }
+            },
             '& .MuiAlert-message': {
               width: '100%'
             }, 
@@ -508,7 +529,7 @@ const ReadingProgressToast: React.FC<ReadingProgressToastProps> = ({
               size="small"
               onClick={handleClose}
             >
-              <CloseIcon fontSize="small" sx={{ color: '#FFFFFF', mr: 2, mt: 2, position: 'absolute' }} />
+              <CloseIcon fontSize="small" sx={{ color: (theme) => theme.palette.mode === 'light' ? '#212121' : '#FFFFFF', mr: 2, mt: 2, position: 'absolute' }} />
             </IconButton>
           }
         >
