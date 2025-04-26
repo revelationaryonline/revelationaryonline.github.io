@@ -421,8 +421,8 @@ export const fetchVerse = async (
  const bk = checkBook[0]
   try {
     await fetch(
-      `https://kjvapp.com/api/${bk}/${chapter}/${verse !== "" ? Number(verse) : ""
-      }`
+      `https://kjvapp.com/api/${bk}/${chapter}/${verse !== "" ? Number(verse) : ""}`
+      // `https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-kjv/books/${bk}/chapters/${verse !== "" ? `${chapter}/verses/${verse}.json` : `${chapter}.json`}` 
     )
       .then((res) => res.json())
       .then(async (res) => {
@@ -436,7 +436,10 @@ export const fetchVerse = async (
   } catch (e) {
     console.log(e);
   }
+  // console.log(`https://cdn.jsdelivr.net/gh/wldeh/bible-api/bibles/en-kjv/books/${bk}/chapters/${verse !== "" ? `${chapter}/verses/${verse},json` : chapter}.json`)
+  // console.log(`https://kjvapp.com/api/${bk}/${chapter}/${verse !== "" ? Number(verse) : ""}`)
 };
+
 
 /* UI */
 // ANIMATION DRIVEN 
