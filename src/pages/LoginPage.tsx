@@ -307,6 +307,9 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
     <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
       <CssBaseline />
       <Container component="main" maxWidth="sm">
+        <Typography sx={{ fontSize: 14, fontStyle: 'italic' }}>We suffered a small outage in our database and have had to rollback. Any account made after 25.04.2025 and before 27.04.2025 may need to sign up again. If you did not receive your API password please contact us at info@revelationary.online Thanks and God Bless 
+        
+        </Typography>
         <Paper
           elevation={6}
           sx={{
