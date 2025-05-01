@@ -595,7 +595,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                         verse[0].chapter +
                         ":" +
                         verse[verse.length - 1].verse}
-                    {/* {verse &&
+                    {verse &&
                     verse.length > 0 &&
                     verse[0]?.book &&
                     verse[0]?.chapter && (
@@ -603,7 +603,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                         currentBook={verse && verse[0].book}
                         currentChapter={verse && verse[0].chapter}
                       />
-                    )} */}
+                    )}
                   </Typography>
 
                   <Typography
@@ -697,7 +697,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                               className={`verse__text`}
                               style={{
                                 backgroundColor: selectedVerse.includes(v)
-                                  ? "lightblue"
+                                  ? "rgba(173, 216, 230, 0.8)"
                                   : "transparent", // Feedback for selection
                               }}
                               onMouseEnter={(e) =>
@@ -712,7 +712,11 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                             >
                               <span style={{ position: "relative", width: 1, }}>
                                 {v.text === selectedVerse[0]?.text && (
-                                  <>
+                                  <Box sx={{
+                                    position: "relative",
+                                    width: 10,
+                                    height: 10,
+                                  }}>
                                     <Tooltip
                                       title={
                                         loggedIn
@@ -730,7 +734,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                                           padding: 1,
                                           opacity: 1,
                                           mt: -10,
-                                          ml: 5,
+                                          ml: 1,
                                           position: "relative",
                                           background: (theme) =>
                                             theme.palette.mode === "light"
@@ -762,8 +766,8 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                                           sx={{
                                             padding: 1,
                                             opacity: 1,
-                                            mt: -10,
-                                            ml: 2,
+                                            mt: -16,
+                                            ml: 7,
                                             position: "relative",
                                             background: (theme) =>
                                               theme.palette.mode === "light"
@@ -783,7 +787,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
                                           <BorderColorIcon  fontSize="small" />
                                       </IconButton>
                                     </Tooltip>
-                                  </>
+                                  </Box>
                                 )}
                                 {/* Favourite Verses Functionality */}
                                 {/* {v.text === selectedVerse[0]?.text && (
