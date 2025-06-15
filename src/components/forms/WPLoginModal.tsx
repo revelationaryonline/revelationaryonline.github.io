@@ -68,7 +68,7 @@ const WPLoginModal: React.FC<WPLoginModalProps> = ({ user, wpToken, setToken }) 
 
         <TextField
           type="password"
-          label="WordPress Password"
+          label="API Password"
           value={password}
           onChange={(e) => setPassword(e.target.value)}
           fullWidth

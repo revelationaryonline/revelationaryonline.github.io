@@ -298,7 +298,7 @@ const FloatingCommentForm: React.FC<FloatingCommentFormProps> = ({
         if (selectedVerse && selectedVerse[0]) {
           const newSlug = `${selectedVerse[0]?.book.trim()}-${
             selectedVerse[0]?.chapter
-          }${selectedVerse[0]?.verse}`;
+          }-${selectedVerse[0]?.verse}`;
           setSlug(newSlug);
 
           try {

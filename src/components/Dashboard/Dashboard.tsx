@@ -220,7 +220,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
             selectedVerse[0] && selectedVerse[0]?.chapter
               ? selectedVerse[0]?.chapter
               : 1
-          }${
+          }-${
             selectedVerse[0] && selectedVerse[0]?.verse
               ? selectedVerse[0]?.verse
               : 1
@@ -230,7 +230,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
           setPage(verse[0].chapter);
           setClearSearch(false);
           setSlug(
-            `${verse[0].book.trim()}-${verse[0].chapter}${
+            `${verse[0].book.trim()}-${verse[0].chapter}-${
               selectedVerse[0]?.verse
             }`
           );
@@ -248,7 +248,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         setClearSearch(false);
         if (verse && verse.length > 0) {
           setSlug(
-            `${verse[0].book.trim()}-${verse[0].chapter}${
+            `${verse[0].book.trim()}-${verse[0].chapter}-${
               selectedVerse[0]?.verse
             }`
           );
@@ -269,7 +269,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         setCount(Number(matchBookWithNumbers.trim()));
         setClearSearch(false);
         setSlug(
-          `${verse[0].book.trim()}-${verse[0].chapter}${
+          `${verse[0].book.trim()}-${verse[0].chapter}-${
             selectedVerse[0]?.verse
           }`
         );
@@ -397,7 +397,7 @@ const DashboardContent: React.FC<DashboardContentProps> = ({
         : null
     );
     setCommentPosition({ x: event.clientX, y: event.clientY });
-    setSlug(`${verse.book.trim()}-${verse.chapter}${verse.verse}`);
+    setSlug(`${verse.book.trim()}-${verse.chapter}-${verse.verse}`);
     setCommentOpen(true);
   };
 
