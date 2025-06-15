@@ -94,8 +94,6 @@ function AccountContent({
       setDeleteStep("verify");
 
       const wpApiUrl = process.env.REACT_APP_WP_API_URL_CUSTOM;
-      const wpUsername = process.env.REACT_APP_WP_USERNAME;
-      const wpAppPassword = process.env.REACT_APP_WP_APP_PASSWORD;
       const deleteSecret = process.env.REACT_APP_WP_DELETE_SECRET;
 
       // Debug log
@@ -106,12 +104,10 @@ function AccountContent({
       //   hasDeleteSecret: !!deleteSecret,
       // });
 
-      if (!wpApiUrl || !wpUsername || !wpAppPassword || !deleteSecret) {
+      if (!wpApiUrl || !deleteSecret) {
         throw new Error(
           `WordPress configuration missing: ${JSON.stringify({
             hasApiUrl: !!wpApiUrl,
-            hasUsername: !!wpUsername,
-            hasAppPassword: !!wpAppPassword,
             hasDeleteSecret: !!deleteSecret,
           })}`
         );
@@ -136,7 +132,7 @@ function AccountContent({
             credentials: "omit", // Omit credentials to avoid CORS issues
             headers: {
               "Content-Type": "application/json",
-              Authorization: `Basic ${btoa(`${wpUsername}:${wpAppPassword}`)}`,
+              Authorization: `Basic ${process.env.REACT_APP_AUTH}`,
               Accept: "application/json",
             },
           }
@@ -258,10 +254,8 @@ function AccountContent({
 
     try {
       const wpApiUrl = process.env.REACT_APP_WP_API_URL_CUSTOM;
-      const wpUsername = process.env.REACT_APP_WP_USERNAME;
-      const wpAppPassword = process.env.REACT_APP_WP_APP_PASSWORD;
 
-      if (!wpApiUrl || !wpUsername || !wpAppPassword) {
+      if (!wpApiUrl) {
         throw new Error("Missing WordPress configuration");
       }
 
@@ -276,7 +270,7 @@ function AccountContent({
         method: "GET",
         credentials: "omit",
         headers: {
-          Authorization: `Basic ${btoa(`${wpUsername}:${wpAppPassword}`)}`,
+          Authorization: `Basic ${process.env.REACT_APP_AUTH}`,
           Accept: "application/json",
         },
       });

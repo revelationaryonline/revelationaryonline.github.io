@@ -19,13 +19,10 @@ import {
   User,
 } from "firebase/auth";
 import { auth } from "../firebase"; // Import the initialized auth instance
-import { mdTheme } from "../utils/misc";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import FormControlLabel from "@mui/material/FormControlLabel";
 import Link from "@mui/material/Link";
-
 import logo from "../assets/logo512.png";
-import Footer from "../components/Footer/Footer";
 
 const TEST_SITE_KEY = "6LcgGh0rAAAAAJ2LXuSIhbdhzv1636PLcKxGbni0"; // Replace with your actual site key
 const DELAY = 1500;
@@ -90,11 +87,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
       // console.log("User Info:", user);
 
       const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
-      const authHeader =
-        "Basic " +
-        btoa(
-          `${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`
-        );
+      const authHeader = `Basic ${process.env.REACT_APP_AUTH}`;
 
       // Step 1: Check if the user already exists
       const checkUserResponse = await fetch(wpApiUrl, {
@@ -259,15 +252,12 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
         password
       );
       const user = userCredential.user;
-      console.log("Logged in as:", user.email);
+      // console.log("Logged in as:", user.email);
 
       // Fetch the user ID from WordPress and save it in cookies
       const wpApiUrl = `${process.env.REACT_APP_WP_API_URL}/users?search=${user.email}`;
-      const authHeader =
-        "Basic " +
-        btoa(
-          `${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`
-        );
+      const authHeader = `Basic ${process.env.REACT_APP_AUTH}`;
+
       const checkUserResponse = await fetch(wpApiUrl, {
         method: "GET",
         headers: {
@@ -304,7 +294,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
   }, [user]);
 
   return (
-    <Box sx={{ display: "flex", height: "100vh", alignItems: "center" }}>
+    <Box sx={{ mt: '15rem', mb: '15rem', display: "flex", height: "40rem", alignItems: "center" }}>
       <CssBaseline />
       <Container component="main" maxWidth="sm">
 
@@ -323,7 +313,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
             marginBottom: "1.5rem",
           }}
         >
-          {/* <Box display={"flex"} flexDirection={"row"}>
+          <Box display={"flex"} flexDirection={"row"}>
               <img
                 alt="revelationary Logo"
                 src={logo}
@@ -354,7 +344,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ user }) => {
               >
                 revelationary
               </Typography>
-            </Box> */}
+            </Box>
           <Typography
             sx={{ mb: 3, fontSize: "24px" }}
             component="h1"

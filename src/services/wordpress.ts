@@ -7,7 +7,7 @@ const CUSTOM_API_URL = process.env.REACT_APP_WP_API_URL_CUSTOM;
 
 const getAuthHeaders = (token?: string, isFormData = false) => ({
   ...(isFormData ? {} : { 'Content-Type': 'application/json' }),
-  'Authorization': token ? `Bearer ${token}` : `Basic ${btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`)}`,
+  'Authorization': token ? `Bearer ${token}` : `Basic ${process.env.REACT_APP_AUTH}`,
 });
 
 export const createOrGetWordPressUser = async (email: string, username?: string): Promise<WordPressUser> => {
@@ -17,7 +17,7 @@ export const createOrGetWordPressUser = async (email: string, username?: string)
       headers: getAuthHeaders(),
     });
     const existingUsers = await checkResponse.json();
-
+    
     if (existingUsers.length > 0) {
       const userId = existingUsers[0].id;
       Cookies.set('userId', userId.toString());

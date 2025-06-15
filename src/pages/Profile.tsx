@@ -64,6 +64,8 @@ function ProfileContent({
   const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
     setActiveTab(newValue);
   };
+
+  console.log(`Basic ${process.env.REACT_APP_AUTH}`)
   
   // Add inside the component
   const { highlightedVerses } = useHighlight();
@@ -82,13 +84,6 @@ function ProfileContent({
       if (!window.confirm("Are you sure you want to delete this comment?")) {
         return;
       }
-
-      // Get admin credentials from environment variables
-      const username = process.env.REACT_APP_WP_USERNAME;
-      const password = process.env.REACT_APP_WP_APP_PASSWORD;
-      
-      // Create base64 encoded credentials for Basic Auth
-      const credentials = btoa(`${username}:${password}`);
       
       // Use admin credentials to delete the comment
       const response = await fetch(
@@ -96,7 +91,7 @@ function ProfileContent({
         {
           method: "DELETE",
           headers: {
-            Authorization: `Basic ${credentials}`,
+            Authorization: `Basic ${process.env.REACT_APP_AUTH}`,
             'Content-Type': 'application/json'
           },
         }
@@ -153,7 +148,7 @@ function ProfileContent({
         // Load WordPress preferences
         const userId = Cookies.get("userId");
         if (userId) {
-          loadWordPressPreferences(parseInt(userId));
+          // loadWordPressPreferences(parseInt(userId));
           setImageLoading(false);
           setLoading(false);
         }
@@ -252,28 +247,28 @@ function ProfileContent({
     }
   };
 
-  const loadWordPressPreferences = async (userId: number) => {
-    try {
-      const wpUser = await fetch(
-        `${process.env.REACT_APP_WP_API_URL}/users/${userId}`,
-        {
-          headers: {
-            Authorization: `Basic ${btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`)}`,
-          },
-        }
-      ).then((res) => res.json());
+  // const loadWordPressPreferences = async (userId: number) => {
+  //   try {
+  //     const wpUser = await fetch(
+  //       `${process.env.REACT_APP_WP_API_URL}/users/${userId}`,
+  //       {
+  //         headers: {
+  //           Authorization: `Basic ${btoa(`${process.env.REACT_APP_WP_USERNAME}:${process.env.REACT_APP_WP_APP_PASSWORD}`)}`,
+  //         },
+  //       }
+  //     ).then((res) => res.json());
 
-      if (wpUser.meta) {
-        setBibleVersion(wpUser.meta.preferred_bible_version || "KJV");
-        // setBio(wpUser.description || "");
-      }
-    } catch (error) {
-      console.error("Failed to load WordPress preferences:", error);
-    } finally {
-      setImageLoading(false);
-      setLoading(false);
-    }
-  };
+  //     if (wpUser.meta) {
+  //       setBibleVersion(wpUser.meta.preferred_bible_version || "KJV");
+  //       // setBio(wpUser.description || "");
+  //     }
+  //   } catch (error) {
+  //     console.error("Failed to load WordPress preferences:", error);
+  //   } finally {
+  //     setImageLoading(false);
+  //     setLoading(false);
+  //   }
+  // };
 
   const handleSave = async () => {
     if (!user) return;
@@ -308,7 +303,6 @@ function ProfileContent({
   useEffect(() => {
     const currentUserId = Cookies.get("userId");
     if (currentUserId && wpToken) {
-      loadWordPressPreferences(parseInt(currentUserId));
       fetchUserComments();
       setImageLoading(false);
       setLoading(false);

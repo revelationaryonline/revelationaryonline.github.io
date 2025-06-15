@@ -135,7 +135,7 @@ export default function App() {
 
   return (
     <ThemeProvider theme={theme}>
-      <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '100vh', }}>
+      <Box sx={{ backgroundColor: (theme) => theme.palette.mode === 'light' ? 'white' : '#212121', minHeight: '125vh', }}>
         <div className="App">
           <SubscriptionProvider>
             <NotificationProvider>
