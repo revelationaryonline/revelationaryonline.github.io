@@ -29,16 +29,16 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### Deployment
+<!-- ### Deployment
 
 From the root: 
 
 ```terminal
 npm run deploy
-```
+``` -->
 
-## deployments
+## deployments ?? not sure about this
 
 - build with env
-- push to repo main
-- dont push to origin main
+- push to repo main - that is the private repo "webapp" the pipeline handles it from there
+- dont push to origin main - never ever ever - that is the public facing repo
