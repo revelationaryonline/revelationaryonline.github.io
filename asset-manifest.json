@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d17671ab.css",
-    "main.js": "/static/js/main.9a5c17b8.js",
+    "main.js": "/static/js/main.dcbae440.js",
     "static/media/gordon-johnson3.png": "/static/media/gordon-johnson3.bdc8292ae5334f9621ee.png",
     "static/media/hero-post.jpg": "/static/media/hero-post.9938210f1cbedea18f6b.jpg",
     "service-worker.js": "/service-worker.js",
@@ -9,10 +9,10 @@
     "static/media/BP_square-mono-wht.png": "/static/media/BP_square-mono-wht.cd45e079df22031376db.png",
     "index.html": "/index.html",
     "main.d17671ab.css.map": "/static/css/main.d17671ab.css.map",
-    "main.9a5c17b8.js.map": "/static/js/main.9a5c17b8.js.map"
+    "main.dcbae440.js.map": "/static/js/main.dcbae440.js.map"
   },
   "entrypoints": [
     "static/css/main.d17671ab.css",
-    "static/js/main.9a5c17b8.js"
+    "static/js/main.dcbae440.js"
   ]
 }
