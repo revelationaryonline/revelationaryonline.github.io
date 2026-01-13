@@ -1,36 +1,76 @@
+# robots.txt for https://revelationary.online
 # https://www.robotstxt.org/robotstxt.html
+
+########################################
+# Default: allow everything
+########################################
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://revelationary.online/sitemap.xml
+########################################
+# Explicitly allow known AI & SEO crawlers
+# (Redundant but signals intent & clarity)
+########################################
 
-# Allow AI crawlers
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
 
-User-agent: CCBot
+User-agent: OpenAI
 Allow: /
 
-User-agent: anthropic-ai
+User-agent: OAI-SearchBot
 Allow: /
 
-User-agent: Claude-Web
+User-agent: Googlebot
 Allow: /
 
 User-agent: Google-Extended
 Allow: /
 
-User-agent: PerplexityBot
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
 Allow: /
 
 User-agent: Applebot-Extended
 Allow: /
 
-# Disallow admin and private areas
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: FacebookExternalHit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+########################################
+# Optional: keep non-content areas out
+########################################
 Disallow: /api/
-Disallow: /private/
 Disallow: /admin/
+Disallow: /private/
+
+########################################
+# Sitemap (VERY important for discovery)
+########################################
+Sitemap: https://revelationary.online/sitemap.xml
