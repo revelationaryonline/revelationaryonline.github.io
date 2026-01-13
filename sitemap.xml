@@ -3,33 +3,26 @@
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Home Page -->
+  <!-- Home Page - Main Landing Page -->
   <url>
     <loc>https://revelationary.online/</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2026-01-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- Blog Page -->
+  <!-- Blog Page - Public Content -->
   <url>
     <loc>https://revelationary.online/#/blog</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2026-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <!-- Profile Page -->
-  <url>
-    <loc>https://revelationary.online/#/profile</loc>
-    <lastmod>2025-11-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <!-- Login Page -->
+  <!-- Login Page - Public Access -->
   <url>
     <loc>https://revelationary.online/#/login</loc>
-    <lastmod>2025-11-02</lastmod>
+    <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.5</priority>
   </url>
 </urlset>
 
