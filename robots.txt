@@ -2,10 +2,13 @@
 # https://www.robotstxt.org/robotstxt.html
 
 ########################################
-# Default: allow everything
+# Default: allow everything (except private areas)
 ########################################
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
 
 ########################################
 # Explicitly allow known AI & SEO crawlers
@@ -62,13 +65,6 @@ Allow: /
 
 User-agent: Twitterbot
 Allow: /
-
-########################################
-# Optional: keep non-content areas out
-########################################
-Disallow: /api/
-Disallow: /admin/
-Disallow: /private/
 
 ########################################
 # Sitemap (VERY important for discovery)
