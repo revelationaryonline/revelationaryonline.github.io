@@ -1,14 +1,46 @@
+# Default: no cache for HTML pages
 /*
   Cache-Control: public, max-age=0, must-revalidate
 
+# Static assets with content hashes - cache for 1 year
+# These patterns match files in /static/ directory (JS, CSS, images)
+/static/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/static/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/static/media/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fallback for any other static files
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
+# JavaScript files at root level (with content hashes in filenames)
 /*.js
   Cache-Control: public, max-age=31536000, immutable
 
+# CSS files at root level (with content hashes in filenames)
 /*.css
   Cache-Control: public, max-age=31536000, immutable
+
+# Logo and favicon files
+/logo*.png
+  Cache-Control: public, max-age=31536000, immutable
+
+/favicon.ico
+  Cache-Control: public, max-age=31536000, immutable
+
+# Manifest and other static JSON (cache for 1 day, no content hash)
+/manifest.json
+  Cache-Control: public, max-age=86400
+
+/robots.txt
+  Cache-Control: public, max-age=86400
+
+/sitemap.xml
+  Cache-Control: public, max-age=86400
