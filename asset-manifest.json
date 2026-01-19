@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.e5e23989.css",
-    "main.js": "/static/js/main.dd195a69.js",
+    "main.js": "/static/js/main.7ec70ff2.js",
     "static/js/911.2a40927c.chunk.js": "/static/js/911.2a40927c.chunk.js",
     "static/js/628.82d356e4.chunk.js": "/static/js/628.82d356e4.chunk.js",
     "static/media/hero-post.jpg": "/static/media/hero-post.9938210f1cbedea18f6b.jpg",
     "static/media/gordon-johnson3.webp": "/static/media/gordon-johnson3.a40115b8a0808aa6345a.webp",
+    "static/media/revelationary-logo-final-final.png": "/static/media/revelationary-logo-final-final.20828622f980cd58e5c1.png",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
     "static/media/logo512.png": "/static/media/logo512.53a3103fe0b3b04ba72c.png",
     "static/media/BP_square-mono-wht.png": "/static/media/BP_square-mono-wht.cd45e079df22031376db.png",
     "static/media/Success.lottie": "/static/media/Success.2673bfca909ad6b0731e.lottie",
-    "static/media/logo64.webp": "/static/media/logo64.b09e8481a4bd2cca2e89.webp",
     "main.e5e23989.css.map": "/static/css/main.e5e23989.css.map",
-    "main.dd195a69.js.map": "/static/js/main.dd195a69.js.map",
+    "main.7ec70ff2.js.map": "/static/js/main.7ec70ff2.js.map",
     "911.2a40927c.chunk.js.map": "/static/js/911.2a40927c.chunk.js.map",
     "628.82d356e4.chunk.js.map": "/static/js/628.82d356e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5e23989.css",
-    "static/js/main.dd195a69.js"
+    "static/js/main.7ec70ff2.js"
   ]
 }
