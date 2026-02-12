@@ -1,0 +1,42 @@
+{
+  "number": "H7173",
+  "language": "hebrew",
+  "transliteration": "Qarqaʻ",
+  "pronunciation": "kar-kah'",
+  "definition": "Karka (with the article prefix), a place in Palestine",
+  "kjvTranslation": "Karkaa.",
+  "hebrew": "קַרְקַע",
+  "translations": {
+    "bg": "Karka (с префикс), място в Палестина",
+    "cs": "Karka (s předponou), místo v Palestině",
+    "da": "Karka (med artikelpræfiks), et sted i Palæstina",
+    "de": "Karka (mit dem Artikelpräfix), ein Ort in Palästina",
+    "el": "Karka (με το πρόθεμα του άρθρου), τόπος στην Παλαιστίνη",
+    "es": "Karka (con el prefijo de artículo), lugar de Palestina",
+    "et": "Karka (artikli eesliitega), koht Palestiinas",
+    "fi": "Karka (artikkelin etuliitteellä), paikka Palestiinassa",
+    "fr": "Karka (avec le préfixe article), lieu en Palestine",
+    "hu": "Karka (a cikk előtaggal), egy hely Palesztinában",
+    "id": "Karka (dengan awalan kata sandang), sebuah tempat di Palestina",
+    "it": "Karka (con il prefisso dell'articolo), località della Palestina",
+    "ja": "カルカ（冠詞の接頭辞付き）、パレスチナの地名",
+    "ko": "카르카(기사 접두사 포함), 팔레스타인의 한 장소",
+    "lt": "Karka (su priešdėliu), vietovė Palestinoje",
+    "lv": "Karka (ar lietvārda priedēkli), vieta Palestīnā",
+    "nb": "Karka (med artikkelprefikset), et sted i Palestina",
+    "nl": "Karka (met het lidwoord voorvoegsel), een plaats in Palestina",
+    "pl": "Karka (z prefiksem artykułu), miejsce w Palestynie",
+    "pt": "Karka (com o prefixo de artigo), um lugar na Palestina",
+    "ro": "Karka (cu prefixul articolului), un loc în Palestina",
+    "ru": "Карка (с приставкой артикль), место в Палестине",
+    "sk": "Karka (s prívlastkom), miesto v Palestíne",
+    "sl": "Karka (s predpono), kraj v Palestini",
+    "sv": "Karka (med artikelprefixet), en plats i Palestina",
+    "tr": "Karka (makale ön eki ile), Filistin'de bir yer",
+    "uk": "Карка (з префіксом артикля), місце в Палестині",
+    "zh": "卡尔卡"
+  },
+  "verses": [
+    "joshua 15:3:16"
+  ]
+}

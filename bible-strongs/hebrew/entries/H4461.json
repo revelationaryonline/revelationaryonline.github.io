@@ -1,0 +1,42 @@
+{
+  "number": "H4461",
+  "language": "hebrew",
+  "transliteration": "mêmad",
+  "pronunciation": "may-mad'",
+  "definition": "a measure",
+  "kjvTranslation": "measure.",
+  "hebrew": "מֵמַד",
+  "translations": {
+    "bg": "мярка",
+    "cs": "opatření",
+    "da": "et mål",
+    "de": "eine Maßnahme",
+    "el": "ένα μέτρο",
+    "es": "una medida",
+    "et": "meede",
+    "fi": "toimenpide",
+    "fr": "une mesure",
+    "hu": "egy intézkedés",
+    "id": "ukuran",
+    "it": "una misura",
+    "ja": "小節",
+    "ko": "측정값",
+    "lt": "priemonė",
+    "lv": "pasākums",
+    "nb": "et mål",
+    "nl": "een maatregel",
+    "pl": "środek",
+    "pt": "uma medida",
+    "ro": "o măsură",
+    "ru": "мера",
+    "sk": "opatrenie",
+    "sl": "ukrep",
+    "sv": "en åtgärd",
+    "tr": "bir ölçü",
+    "uk": "міра",
+    "zh": "措施"
+  },
+  "verses": [
+    "job 38:5:2"
+  ]
+}

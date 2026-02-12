@@ -1,0 +1,42 @@
+{
+  "number": "H1341",
+  "language": "hebrew",
+  "transliteration": "gêʼ",
+  "pronunciation": "gay'",
+  "definition": "haughty",
+  "kjvTranslation": "proud.",
+  "translations": {
+    "bg": "надменен",
+    "cs": "povýšený",
+    "da": "hovmodig",
+    "de": "hochmütig",
+    "el": "αλαζονικό",
+    "es": "altivo",
+    "et": "ülbe",
+    "fi": "ylimielinen",
+    "fr": "hautain",
+    "hu": "gőgös",
+    "id": "angkuh",
+    "it": "altezzoso",
+    "ja": "高慢",
+    "ko": "거만한",
+    "lt": "pasipūtęs",
+    "lv": "augstprātīgs",
+    "nb": "hovmodig",
+    "nl": "hooghartig",
+    "pl": "wyniosły",
+    "pt": "arrogante",
+    "ro": "arogant",
+    "ru": "надменный",
+    "sk": "povýšenecky",
+    "sl": "vzvišenost",
+    "sv": "högfärdig",
+    "tr": "mağrur",
+    "uk": "зарозумілий",
+    "zh": "傲慢"
+  },
+  "hebrew": "גֵּא",
+  "verses": [
+    "isaiah 16:6:3"
+  ]
+}

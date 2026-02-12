@@ -1,0 +1,42 @@
+{
+  "number": "H4472",
+  "language": "hebrew",
+  "transliteration": "mamrôr",
+  "pronunciation": "mam-rore'",
+  "definition": "a bitterness, i.e. (figuratively) calamity",
+  "kjvTranslation": "bitterness.",
+  "hebrew": "מַמְרֹר",
+  "verses": [
+    "job 9:18:6"
+  ],
+  "translations": {
+    "bg": "горчивина, т.е. (в преносен смисъл) бедствие",
+    "cs": "hořkost, tj. (přeneseně) neštěstí",
+    "da": "en bitterhed, dvs. (i overført betydning) ulykke",
+    "de": "eine Bitterkeit, d.h. (im übertragenen Sinne) ein Unglück",
+    "el": "πικρία, δηλαδή (μεταφορικά) συμφορά",
+    "es": "una amargura, es decir (en sentido figurado) una calamidad",
+    "et": "kibedus, st (piltlikult) õnnetus",
+    "fi": "katkeruus eli (kuvaannollisesti) onnettomuus",
+    "fr": "une amertume, c'est-à-dire (au sens figuré) une calamité",
+    "hu": "keserűség, azaz (átvitt értelemben) szerencsétlenség",
+    "id": "kepahitan, yaitu (secara kiasan) bencana",
+    "it": "un'amarezza, cioè (in senso figurato) una calamità",
+    "ja": "災難",
+    "ko": "괴로움, 즉 (비유적으로) 재앙을 의미합니다",
+    "lt": "kartėlis, t. y. (perkeltine prasme) nelaimė",
+    "lv": "rūgtums, t. i., (pārnestā nozīmē) nelaime",
+    "nb": "en bitterhet, dvs. (i overført betydning) ulykke",
+    "nl": "een bitterheid, d.w.z. (figuurlijk) onheil",
+    "pl": "gorycz, tj. (w przenośni) nieszczęście",
+    "pt": "uma amargura, ou seja, (figurativamente) uma calamidade",
+    "ro": "o amărăciune, adică (la figurat) calamitate",
+    "ru": "горечь, т.е. (образно) бедствие",
+    "sk": "trpkosť, t. j. (obrazne) nešťastie",
+    "sl": "grenkoba, tj. (v prenesenem pomenu) nesreča",
+    "sv": "en bitterhet, dvs. (bildligt talat) olycka",
+    "tr": "bir acı, yani (mecazi olarak) felaket",
+    "uk": "гіркота, тобто (образно) лихо",
+    "zh": "苦，即（比喻）灾难"
+  }
+}

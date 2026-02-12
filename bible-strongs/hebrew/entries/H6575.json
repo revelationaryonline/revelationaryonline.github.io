@@ -1,0 +1,43 @@
+{
+  "number": "H6575",
+  "language": "hebrew",
+  "transliteration": "pârâshâh",
+  "pronunciation": "paw-raw-shaw'",
+  "definition": "exposition",
+  "kjvTranslation": "declaration, sum.",
+  "hebrew": "פָּרָשָׁה",
+  "translations": {
+    "bg": "изложение",
+    "cs": "expozice",
+    "da": "udstilling",
+    "de": "ausstellung",
+    "el": "έκθεση",
+    "es": "exposición",
+    "et": "ekspositsioon",
+    "fi": "näyttely",
+    "fr": "exposition",
+    "hu": "kiállítás",
+    "id": "eksposisi",
+    "it": "esposizione",
+    "ja": "解説",
+    "ko": "박람회",
+    "lt": "ekspozicija",
+    "lv": "ekspozīcija",
+    "nb": "utstilling",
+    "nl": "expositie",
+    "pl": "ekspozycja",
+    "pt": "exposição",
+    "ro": "expunere",
+    "ru": "экспозиция",
+    "sk": "expozícia",
+    "sl": "ekspozicija",
+    "sv": "utställning",
+    "tr": "teşhir",
+    "uk": "експозиція",
+    "zh": "博览会"
+  },
+  "verses": [
+    "esther 4:7:8",
+    "esther 10:2:4"
+  ]
+}

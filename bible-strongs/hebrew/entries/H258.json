@@ -1,0 +1,42 @@
+{
+  "number": "H258",
+  "language": "hebrew",
+  "transliteration": "ʼâchad",
+  "pronunciation": "aw-khad'",
+  "definition": "to unify, i.e. (figuratively) collect (one's thoughts)",
+  "kjvTranslation": "go one way or other.",
+  "translations": {
+    "bg": "да обединява, т.е. (образно) да събира (мислите си)",
+    "cs": "sjednotit, tj. (obrazně) shromáždit (své myšlenky)",
+    "da": "at forene, dvs. (i overført betydning) samle (ens tanker)",
+    "de": "vereinheitlichen, d.h. (im übertragenen Sinne) (seine Gedanken) sammeln",
+    "el": "να ενοποιήσετε, δηλαδή (μεταφορικά) να συγκεντρώσετε (τις σκέψεις σας)",
+    "es": "unificar, es decir, (en sentido figurado) recoger (los propios pensamientos)",
+    "et": "ühendada, st (piltlikult öeldes) koguda (oma mõtteid)",
+    "fi": "yhdistää, eli (kuvaannollisesti) koota (ajatukset) yhteen",
+    "fr": "unifier, c'est-à-dire (au sens figuré) rassembler (ses pensées)",
+    "hu": "egyesíteni, azaz (átvitt értelemben) összegyűjteni (a gondolatokat)",
+    "id": "untuk menyatukan, yaitu (secara kiasan) mengumpulkan (pikiran seseorang)",
+    "it": "unificare, cioè (in senso figurato) raccogliere (i propri pensieri)",
+    "ja": "一元化する、つまり（比喩的に）（自分の考えを）まとめる",
+    "ko": "통합하다, 즉 (비유적으로) (자신의 생각을) 모으다",
+    "lt": "sujungti, t. y. (perkeltine prasme) surinkti (savo mintis)",
+    "lv": "apvienot, t.i., (pārnestā nozīmē) apkopot (savas domas)",
+    "nb": "å forene, dvs. (i overført betydning) samle (sine tanker)",
+    "nl": "verenigen, d.w.z. (figuurlijk) gedachten verzamelen",
+    "pl": "ujednolicić, tj. (w przenośni) zebrać (swoje myśli)",
+    "pt": "unificar, ou seja, (figurativamente) reunir (os pensamentos)",
+    "ro": "a unifica, adică (la figurat) a aduna (gândurile cuiva)",
+    "ru": "объединять, т.е. (образно) собирать (свои мысли)",
+    "sk": "zjednotiť, t. j. (obrazne) zhromaždiť (svoje myšlienky)",
+    "sl": "združiti, tj. (v prenesenem pomenu) zbrati (svoje misli)",
+    "sv": "att förena, d.v.s. (bildligt talat) samla (sina tankar)",
+    "tr": "birleştirmek, yani (mecazi olarak) (kişinin düşüncelerini) toplamak",
+    "uk": "об'єднати, тобто (образно) зібрати (свої думки)",
+    "zh": "集思广益"
+  },
+  "hebrew": "אָחַד",
+  "verses": [
+    "ezekiel 21:21:0"
+  ]
+}

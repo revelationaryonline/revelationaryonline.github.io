@@ -1,0 +1,42 @@
+{
+  "number": "H4233",
+  "language": "hebrew",
+  "transliteration": "Machăvîym",
+  "pronunciation": "makh-av-eem'",
+  "definition": "a Machavite or inhabitant of some place named Machaveh",
+  "kjvTranslation": "Mahavite.",
+  "hebrew": "מַחֲוִים",
+  "translations": {
+    "bg": "махавит или жител на някакво място, наречено Махавех",
+    "cs": "machavec nebo obyvatel nějakého místa jménem Machaveh",
+    "da": "en machavit eller indbygger på et sted ved navn Machaveh",
+    "de": "ein Machavite oder Einwohner eines Ortes namens Machaveh",
+    "el": "ένας Μαχαβίτης ή κάτοικος κάποιου τόπου με το όνομα Μαχαβέ",
+    "es": "un machavita o habitante de algún lugar llamado Machaveh",
+    "et": "machavite või mõne Machaveh-nimelise koha elanik",
+    "fi": "machavilainen tai jonkin Machaveh-nimisen paikan asukas",
+    "fr": "un Machavite ou un habitant d'un lieu nommé Machaveh",
+    "hu": "egy Machavita vagy egy Machaveh nevű hely lakója",
+    "id": "seorang Machavite atau penduduk suatu tempat bernama Machaveh",
+    "it": "un machavita o un abitante di un luogo chiamato Machaveh",
+    "ja": "マチャヴェ人、またはマチャヴェという名のある場所の住民",
+    "ko": "마카비 또는 마카베라는 이름의 어떤 장소의 거주자",
+    "lt": "machavietis arba kažkurios vietos, pavadintos Machaveh, gyventojas",
+    "lv": "machavite vai kādas vietas ar nosaukumu Machaveh iedzīvotājs",
+    "nb": "en machavitt eller innbygger på et sted som heter Machaveh",
+    "nl": "een Machaviet of inwoner van een plaats genaamd Machaveh",
+    "pl": "machavite lub mieszkaniec miejsca o nazwie Machaveh",
+    "pt": "um machavita ou habitante de um lugar chamado Machaveh",
+    "ro": "un machavit sau locuitor al unui loc numit Machaveh",
+    "ru": "махавинец или житель какого-то места под названием Махавех",
+    "sk": "machavec alebo obyvateľ nejakého miesta menom Machaveh",
+    "sl": "machavit ali prebivalec nekega kraja z imenom Machaveh",
+    "sv": "en Machavite eller invånare i någon plats som heter Machaveh",
+    "tr": "bir Machavite ya da Machaveh adlı bir yerin sakini",
+    "uk": "махавієць або мешканець якогось місця з назвою Махаве",
+    "zh": "一个马查维人或一个叫马查维的地方的居民"
+  },
+  "verses": [
+    "firstChronicles 11:46:1"
+  ]
+}

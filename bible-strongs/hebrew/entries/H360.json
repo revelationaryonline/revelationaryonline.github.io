@@ -1,0 +1,42 @@
+{
+  "number": "H360",
+  "language": "hebrew",
+  "transliteration": "ʼĕyâlûwth",
+  "pronunciation": "eh-yaw-looth'",
+  "definition": "power; by implication, protection",
+  "kjvTranslation": "strength.",
+  "translations": {
+    "bg": "власт; по подразбиране - защита",
+    "cs": "moc; implicitně ochrana",
+    "da": "magt; underforstået, beskyttelse",
+    "de": "macht; implizit auch Schutz",
+    "el": "εξουσία- κατ' επέκταση, προστασία",
+    "es": "poder; por implicación, protección",
+    "et": "võim; kaudselt kaitse",
+    "fi": "valta; implisiittisesti suojelu",
+    "fr": "le pouvoir ; par voie de conséquence, la protection",
+    "hu": "hatalom; következésképpen védelem",
+    "id": "kekuasaan; dengan implikasi, perlindungan",
+    "it": "potere; per implicazione, la protezione",
+    "ja": "パワー、暗に保護",
+    "ko": "힘; 암시적으로 보호",
+    "lt": "galia; netiesiogiai - apsauga",
+    "lv": "vara; netieši, aizsardzība",
+    "nb": "makt; underforstått, beskyttelse",
+    "nl": "macht; bij implicatie, bescherming",
+    "pl": "moc; w domyśle, ochrona",
+    "pt": "poder; por implicação, proteção",
+    "ro": "putere; implicit, protecție",
+    "ru": "власть; по косвенным признакам - защита",
+    "sk": "moc; v dôsledku toho ochrana",
+    "sl": "moč; implicitno, zaščita",
+    "sv": "makt; underförstått, skydd",
+    "tr": "güç; ima yoluyla, koruma",
+    "uk": "влада; по суті, захист",
+    "zh": "权力；暗示保护"
+  },
+  "hebrew": "אֱיָלוּת",
+  "verses": [
+    "psalms 22:20:4"
+  ]
+}

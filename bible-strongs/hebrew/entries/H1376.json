@@ -1,0 +1,43 @@
+{
+  "number": "H1376",
+  "language": "hebrew",
+  "transliteration": "gᵉbîyr",
+  "pronunciation": "gheb-eer'",
+  "definition": "a master",
+  "kjvTranslation": "lord.",
+  "translations": {
+    "bg": "майстор",
+    "cs": "mistr",
+    "da": "en mester",
+    "de": "ein Meister",
+    "el": "ένας κύριος",
+    "es": "un maestro",
+    "et": "peremees",
+    "fi": "mestari",
+    "fr": "un maître",
+    "hu": "egy mester",
+    "id": "seorang master",
+    "it": "un maestro",
+    "ja": "主人",
+    "ko": "마스터",
+    "lt": "meistras",
+    "lv": "meistars",
+    "nb": "en mester",
+    "nl": "een meester",
+    "pl": "mistrz",
+    "pt": "um mestre",
+    "ro": "un maestru",
+    "ru": "мастер",
+    "sk": "majster",
+    "sl": "mojster",
+    "sv": "en mästare",
+    "tr": "bir usta",
+    "uk": "майстер",
+    "zh": "大师"
+  },
+  "hebrew": "גְּבִיר",
+  "verses": [
+    "genesis 27:29:7",
+    "genesis 27:37:5"
+  ]
+}

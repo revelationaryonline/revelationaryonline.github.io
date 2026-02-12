@@ -1,0 +1,42 @@
+{
+  "number": "H4629",
+  "language": "hebrew",
+  "transliteration": "maʻăreh",
+  "pronunciation": "mah-ar-eh'",
+  "definition": "a nude place, i.e. a common",
+  "kjvTranslation": "meadows.",
+  "hebrew": "מַעֲרֶה",
+  "verses": [
+    "judges 20:33:12"
+  ],
+  "translations": {
+    "bg": "голо място, т.е. общо",
+    "cs": "nahé místo, tj. společné místo",
+    "da": "et nøgent sted, dvs. et fælles",
+    "de": "ein nackter Ort, d.h. ein gemeinsamer",
+    "el": "ένας γυμνός τόπος, δηλαδή ένας κοινός",
+    "es": "un lugar desnudo, es decir, común",
+    "et": "alasti koht, s.t. ühine",
+    "fi": "alaston paikka eli yhteinen paikka",
+    "fr": "un lieu nu, c'est-à-dire un lieu commun",
+    "hu": "egy meztelen hely, azaz egy közös",
+    "id": "tempat telanjang, yaitu tempat umum",
+    "it": "un luogo nudo, cioè un luogo comune",
+    "ja": "ヌード・プレイス",
+    "ko": "누드 장소, 즉 일반적인",
+    "lt": "nuoga vieta, t. y. bendra",
+    "lv": "kaila vieta, t. i., kopīga vieta",
+    "nb": "et nakent sted, dvs. et felles",
+    "nl": "een naakte plaats, d.w.z. een gemeenschappelijke",
+    "pl": "nagie miejsce, tj. wspólne",
+    "pt": "um lugar nu, ou seja, um lugar comum",
+    "ro": "un loc nud, adică un loc comun",
+    "ru": "голое место, т.е. общее",
+    "sk": "nahé miesto, t. j. spoločné",
+    "sl": "golo mesto, tj. skupno",
+    "sv": "en naken plats, d.v.s. en gemensam",
+    "tr": "çıplak bir yer, yani ortak bir",
+    "uk": "оголене місце, тобто загальне",
+    "zh": "裸地，即公共场所"
+  }
+}

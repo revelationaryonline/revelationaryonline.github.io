@@ -1,0 +1,42 @@
+{
+  "number": "H8279",
+  "language": "hebrew",
+  "transliteration": "sered",
+  "pronunciation": "seh'-red",
+  "definition": "a (carpenter's) scribing-awl (for pricking or scratching measurements)",
+  "kjvTranslation": "line.",
+  "hebrew": "שֶׂרֶד",
+  "translations": {
+    "bg": "(дърводелски) пирон за изписване (за пробиване или драскане на измервания)",
+    "cs": "(tesařský) rýsovací nůž (k napichování nebo rýhování rozměrů)",
+    "da": "en (tømrers) ridsesabel (til at stikke eller ridse i mål)",
+    "de": "eine (Tischler-)Reißnadel (zum Einstechen oder Anritzen von Maßen)",
+    "el": "ένα (ξυλουργικό) τσεκούρι (για το τρύπημα ή τη χάραξη μετρήσεων)",
+    "es": "un punzón (de carpintero) (para pinchar o rayar medidas)",
+    "et": "(tisleri)püstol (mõõtmete torkamiseks või kraapimiseks)",
+    "fi": "(puusepän) piikkauspuukko (mittojen piikkaamiseen tai raaputtamiseen)",
+    "fr": "une scie à tracer (de charpentier) (pour piquer ou gratter les mesures)",
+    "hu": "(ács)fűrész (méretek szúrásához vagy karcolásához)",
+    "id": "sebuah penggaris (tukang kayu) (untuk menusuk atau menggores pengukuran)",
+    "it": "un'ascia (da falegname) per tracciare le misure (per pungere o graffiare le misure)",
+    "ja": "曲尺",
+    "ko": "(목수용) 스크라이빙 송곳(찌르거나 긁는 측정용)",
+    "lt": "(dailidės) braižymo pjūklas (matmenims įkalti arba įbrėžti)",
+    "lv": "(galdnieka) skrāpēšanas zāģis (mērījumu ieskrāpēšanai vai ieskrāpēšanai)",
+    "nb": "en (snekker-)rissøkke (til å stikke eller risse inn mål)",
+    "nl": "een (timmermans)krabber (voor het prikken of krassen van maten)",
+    "pl": "szpikulec (stolarski) (do nakłuwania lub wydrapywania wymiarów)",
+    "pt": "uma serra (de carpinteiro) (para picar ou riscar medidas)",
+    "ro": "un ghiont (de tâmplar) (pentru înțeparea sau zgârierea măsurătorilor)",
+    "ru": "(плотницкое) писчее шило (для прочерчивания или процарапывания измерений)",
+    "sk": "(tesársky) píling (na pichanie alebo škrabanie meradiel)",
+    "sl": "(mizarski) rezilo za vrezovanje (za vrezovanje ali praskanje meritev)",
+    "sv": "en (snickar-)ritpinne (för att sticka eller rista i mått)",
+    "tr": "bir (marangoz) kazıma testeresi (ölçüleri delmek veya çizmek için)",
+    "uk": "шило (столярне) (для проколювання або дряпання)",
+    "zh": "刻划锤"
+  },
+  "verses": [
+    "isaiah 44:13:5"
+  ]
+}

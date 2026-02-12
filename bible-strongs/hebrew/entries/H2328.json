@@ -1,0 +1,42 @@
+{
+  "number": "H2328",
+  "language": "hebrew",
+  "transliteration": "chûwg",
+  "pronunciation": "khoog",
+  "definition": "to describe a circle",
+  "kjvTranslation": "compass.",
+  "translations": {
+    "bg": "за описване на окръжност",
+    "cs": "k popisu kruhu",
+    "da": "for at beskrive en cirkel",
+    "de": "einen Kreis zu beschreiben",
+    "el": "για να περιγράψετε έναν κύκλο",
+    "es": "describir un círculo",
+    "et": "ringi kirjeldamiseks",
+    "fi": "kuvaamaan ympyrää",
+    "fr": "pour décrire un cercle",
+    "hu": "egy kör leírására",
+    "id": "untuk menggambarkan sebuah lingkaran",
+    "it": "per descrivere un cerchio",
+    "ja": "円を表す",
+    "ko": "를 사용하여 원을 설명합니다",
+    "lt": "apibūdinti apskritimą",
+    "lv": "aprakstīt apli",
+    "nb": "for å beskrive en sirkel",
+    "nl": "een cirkel beschrijven",
+    "pl": "aby opisać okrąg",
+    "pt": "para descrever um círculo",
+    "ro": "pentru a descrie un cerc",
+    "ru": "описать круг",
+    "sk": "na opis kruhu",
+    "sl": "za opis kroga",
+    "sv": "för att beskriva en cirkel",
+    "tr": "bir daireyi tanımlamak için",
+    "uk": "для опису кола",
+    "zh": "画圆"
+  },
+  "hebrew": "חוּג",
+  "verses": [
+    "job 26:10:1"
+  ]
+}

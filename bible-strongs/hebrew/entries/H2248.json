@@ -1,0 +1,42 @@
+{
+  "number": "H2248",
+  "language": "hebrew",
+  "transliteration": "chăbûwlâh",
+  "pronunciation": "khab-oo-law'",
+  "definition": "properly, overthrown, i.e. (morally) crime",
+  "kjvTranslation": "hurt.",
+  "translations": {
+    "bg": "правилно, низвергнато, т.е. (морално) престъпление",
+    "cs": "správně, svržený, tj. (morálně) zločin",
+    "da": "korrekt, væltet, dvs. (moralsk) forbrydelse",
+    "de": "richtig, umgestürzt, d.h. (moralisches) Verbrechen",
+    "el": "σωστά, ανατρέπεται, δηλαδή (ηθικά) έγκλημα",
+    "es": "propiamente, derrocado, es decir, (moralmente) delito",
+    "et": "korralikult, kukutatud, s.t. (moraalselt) kuritegu",
+    "fi": "kunnolla, kumotaan, eli (moraalisesti) rikos",
+    "fr": "proprement, renversé, c'est-à-dire crime (moral)",
+    "hu": "helyesen, megdöntött, azaz (erkölcsileg) bűncselekmény",
+    "id": "benar, digulingkan, yaitu kejahatan (secara moral)",
+    "it": "propriamente, rovesciato, cioè (moralmente) crimine",
+    "ja": "打倒罪",
+    "ko": "적절하게, 전복, 즉 (도덕적으로) 범죄",
+    "lt": "tinkamai, nuverstas, t. y. (moraliai) nusikaltimas",
+    "lv": "pareizi, gāzts, t.i., (morāli) noziegums",
+    "nb": "riktig, omstyrtet, dvs. (moralsk) forbrytelse",
+    "nl": "juist, omvergeworpen, d.w.z. (moreel) misdrijf",
+    "pl": "prawidłowo, obalony, tj. (moralnie) przestępstwo",
+    "pt": "propriamente, derrubado, ou seja, (moralmente) crime",
+    "ro": "corect, răsturnat, adică crimă (morală)",
+    "ru": "правильно, низвергнутый, т.е. (морально) преступный",
+    "sk": "správne, zvrhnutý, t. j. (morálne) zločin",
+    "sl": "pravilno, strmoglavljen, tj. (moralno) kaznivo dejanje",
+    "sv": "korrekt, störtad, dvs. (moraliskt) brott",
+    "tr": "düzgün, devrilmiş, yani (ahlaki olarak) suç",
+    "uk": "належним чином, повалений, тобто (морально) злочинний",
+    "zh": "正确的，被推翻的，即（道德上的）犯罪"
+  },
+  "hebrew": "חֲבוּלָה",
+  "verses": [
+    "daniel 6:23:19"
+  ]
+}

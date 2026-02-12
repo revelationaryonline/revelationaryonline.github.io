@@ -1,0 +1,42 @@
+{
+  "number": "H1337",
+  "language": "hebrew",
+  "transliteration": "Bath Rabbîym",
+  "pronunciation": "bath rab-beem'",
+  "definition": "the daughter (i.e. city) of Rabbah",
+  "kjvTranslation": "Bath-rabbim.",
+  "translations": {
+    "bg": "дъщерята (т.е. градът) на Рава",
+    "cs": "dcera (tj. město) Rabba",
+    "da": "rabbahs datter (dvs. by)",
+    "de": "die Tochter (d.h. die Stadt) von Rabba",
+    "el": "η κόρη (δηλ. η πόλη) της Ράββα",
+    "es": "hija (es decir, ciudad) de Rabá",
+    "et": "rabbahi tütar (st. linn)",
+    "fi": "rabban tytär (eli kaupunki)",
+    "fr": "la fille (c'est-à-dire la ville) de Rabba",
+    "hu": "rabbah leánya (azaz városa)",
+    "id": "anak perempuan (yaitu kota) Rabbah",
+    "it": "la figlia (cioè la città) di Rabbah",
+    "ja": "ラバの娘（＝街",
+    "ko": "랍바의 딸(즉, 도시)",
+    "lt": "rabos duktė (t. y. miestas)",
+    "lv": "rabbas meita (t.i., pilsēta)",
+    "nb": "rabbahs datter (dvs. by)",
+    "nl": "de dochter (d.w.z. stad) van Rabbah",
+    "pl": "córka (tj. miasto) Rabbah",
+    "pt": "a filha (ou seja, a cidade) de Rabá",
+    "ro": "fiica (i.e. orașul) lui Rabbah",
+    "ru": "дочь (т.е. город) Раввы",
+    "sk": "dcéra (t. j. mesto) Rabby",
+    "sl": "hči (tj. mesto) Rabbe",
+    "sv": "rabbahs dotter (dvs. stad)",
+    "tr": "rabbah'ın kızı (yani şehri)",
+    "uk": "дочка (тобто місто) Рабби",
+    "zh": "拉巴的女儿（即城市"
+  },
+  "hebrew": "בַּת רַבִּים",
+  "verses": [
+    "solomon 7:5:9"
+  ]
+}

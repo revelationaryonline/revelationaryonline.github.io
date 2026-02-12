@@ -1,0 +1,43 @@
+{
+  "number": "H8288",
+  "language": "hebrew",
+  "transliteration": "sᵉrôwk",
+  "pronunciation": "ser-oke'",
+  "definition": "a thong (as laced or tied)",
+  "kjvTranslation": "(shoe-)latchet.",
+  "hebrew": "שְׂרוֹךְ",
+  "translations": {
+    "bg": "ремъци (като дантели или връзки)",
+    "cs": "tanga (šněrovací nebo vázaná)",
+    "da": "en g-streng (som snøres eller bindes)",
+    "de": "ein Tanga (wie geschnürt oder gebunden)",
+    "el": "στρινγκ (με κορδόνι ή δεμένο)",
+    "es": "un tanga (con cordones o atado)",
+    "et": "tangad (paelaga või seotud)",
+    "fi": "stringit (nauhoitettuna tai sidottuna)",
+    "fr": "un string (lacé ou noué)",
+    "hu": "tanga (fűzős vagy kötött)",
+    "id": "tali (seperti bertali atau diikat)",
+    "it": "un perizoma (allacciato o legato)",
+    "ja": "紐パン",
+    "ko": "끈(끈으로 묶거나 묶은 상태)",
+    "lt": "stringai (suvarstomi arba surišami)",
+    "lv": "siksniņas (sasietas vai sasietas)",
+    "nb": "en tanga (som snøres eller bindes)",
+    "nl": "een string (zoals geregen of gebonden)",
+    "pl": "stringi (sznurowane lub wiązane)",
+    "pt": "uma tanga (como atada ou atada)",
+    "ro": "o chingă (legată sau lațată)",
+    "ru": "стринги (зашнурованные или завязанные)",
+    "sk": "tangá (ako šnurovanie alebo viazanie)",
+    "sl": "jermeni (vezani ali zavezani)",
+    "sv": "en stringtrosa (som snörning eller knytning)",
+    "tr": "bir tanga (bağlanmış veya bağlanmış olarak)",
+    "uk": "стрінги (на шнурівці або зав'язані)",
+    "zh": "丁字裤"
+  },
+  "verses": [
+    "genesis 14:23:3",
+    "isaiah 5:27:15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3818",
+  "language": "hebrew",
+  "transliteration": "Lôʼ ʻAmmîy",
+  "pronunciation": "lo am-mee'",
+  "definition": "Lo-Ammi, the symbolic name of a son of Hosea",
+  "kjvTranslation": "Lo-ammi.",
+  "hebrew": "לֹא עַמִּי",
+  "translations": {
+    "bg": "Ло-Ами, символично име на син на Осия",
+    "cs": "Lo-Ammi, symbolické jméno Ozeášova syna",
+    "da": "Lo-Ammi, det symbolske navn på en søn af Hosea",
+    "de": "Lo-Ammi, der symbolische Name eines Sohnes von Hosea",
+    "el": "Lo-Ammi, το συμβολικό όνομα ενός γιου του Ωσηέ",
+    "es": "Lo-Ammi, nombre simbólico de un hijo de Oseas",
+    "et": "Lo-Ammi, Hosea poja sümboolne nimi",
+    "fi": "Lo-Ammi, Hoosean pojan symbolinen nimi",
+    "fr": "Lo-Ammi, nom symbolique d'un fils d'Osée",
+    "hu": "Lo-Ammi, Hóseás egyik fiának jelképes neve",
+    "id": "Lo-Ammi, nama simbolis seorang putra Hosea",
+    "it": "Lo-Ammi, nome simbolico di un figlio di Osea",
+    "ja": "ロ・アンミ、ホセアの息子の象徴的な名前",
+    "ko": "호세아 아들의 상징적인 이름, 로아미",
+    "lt": "Lo-Ammi, simbolinis Ozėjo sūnaus vardas",
+    "lv": "Lo-Ammi, Oziasa dēla simboliskais vārds",
+    "nb": "Lo-Ammi, det symbolske navnet på en sønn av Hosea",
+    "nl": "Lo-Ammi, de symbolische naam van een zoon van Hosea",
+    "pl": "Lo-Ammi, symboliczne imię syna Ozeasza",
+    "pt": "Lo-Ammi, nome simbólico de um filho de Oseias",
+    "ro": "Lo-Ammi, numele simbolic al unui fiu al lui Osea",
+    "ru": "Ло-Амми, символическое имя сына Осии",
+    "sk": "Lo-Ammi, symbolické meno Ozeášovho syna",
+    "sl": "Lo-Ammi, simbolično ime Ozejevega sina",
+    "sv": "Lo-Ammi, det symboliska namnet på en son till Hosea",
+    "tr": "Lo-Ammi, Hoşea'nın bir oğlunun sembolik adı",
+    "uk": "Ло-Аммі, символічне ім'я сина Осії",
+    "zh": "罗安米，何西阿儿子的象征性名字"
+  },
+  "verses": [
+    "hosea 1:9:4"
+  ]
+}

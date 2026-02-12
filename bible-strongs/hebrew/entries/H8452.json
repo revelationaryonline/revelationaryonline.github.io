@@ -1,0 +1,42 @@
+{
+  "number": "H8452",
+  "language": "hebrew",
+  "transliteration": "tôwrâh",
+  "pronunciation": "to-raw'",
+  "definition": "a custom",
+  "kjvTranslation": "manner.",
+  "hebrew": "תּוֹרָה",
+  "translations": {
+    "bg": "обичай",
+    "cs": "vlastní",
+    "da": "en brugerdefineret",
+    "de": "ein Brauch",
+    "el": "ένα έθιμο",
+    "es": "una costumbre",
+    "et": "kohandatud",
+    "fi": "mukautettu",
+    "fr": "une coutume",
+    "hu": "egy szokás",
+    "id": "sebuah kebiasaan",
+    "it": "un'abitudine",
+    "ja": "習慣",
+    "ko": "사용자 지정",
+    "lt": "pagal užsakymą",
+    "lv": "pasūtījuma",
+    "nb": "en tilpasset",
+    "nl": "een gewoonte",
+    "pl": "niestandardowy",
+    "pt": "um costume",
+    "ro": "un obicei",
+    "ru": "обычай",
+    "sk": "vlastný",
+    "sl": "po meri",
+    "sv": "en anpassad",
+    "tr": "bir özel",
+    "uk": "звичай",
+    "zh": "风俗"
+  },
+  "verses": [
+    "secondSamuel 7:19:13"
+  ]
+}

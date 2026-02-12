@@ -1,0 +1,42 @@
+{
+  "number": "H1903",
+  "language": "hebrew",
+  "transliteration": "hâgîyn",
+  "pronunciation": "haw-gheen'",
+  "definition": "perhaps suitable or turning",
+  "kjvTranslation": "directly.",
+  "translations": {
+    "bg": "може би подходящ или обръщащ се",
+    "cs": "možná vhodné nebo otáčející se",
+    "da": "måske passende eller drejende",
+    "de": "vielleicht geeignet oder drehend",
+    "el": "ίσως κατάλληλο ή στροφή",
+    "es": "tal vez adecuado o girando",
+    "et": "võib-olla sobivad või keerates",
+    "fi": "ehkä sopiva tai kääntämällä",
+    "fr": "peut-être appropriée ou tournante",
+    "hu": "talán alkalmas vagy forduló",
+    "id": "mungkin cocok atau berputar",
+    "it": "forse adatto o di svolta",
+    "ja": "おそらく適している、または回す",
+    "ko": "아마도 적합하거나",
+    "lt": "galbūt tinka arba pasukti",
+    "lv": "varbūt piemērots vai pagrieziena",
+    "nb": "kanskje egnet eller snu",
+    "nl": "misschien geschikt of draaiend",
+    "pl": "być może odpowiednie lub obracające się",
+    "pt": "talvez adequado ou giratório",
+    "ro": "poate potrivite sau de cotitură",
+    "ru": "возможно, подходящий или поворотный",
+    "sk": "možno vhodné alebo otáčanie",
+    "sl": "morda primerno ali obračanje",
+    "sv": "kanske lämplig eller vända",
+    "tr": "belki uygun veya dönüyor",
+    "uk": "можливо, придатний або поворотний",
+    "zh": "正合适"
+  },
+  "hebrew": "הָגִין",
+  "verses": [
+    "ezekiel 42:12:11"
+  ]
+}

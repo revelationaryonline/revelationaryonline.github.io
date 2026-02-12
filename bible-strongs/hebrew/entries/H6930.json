@@ -1,0 +1,42 @@
+{
+  "number": "H6930",
+  "language": "hebrew",
+  "transliteration": "qadmôwn",
+  "pronunciation": "kad-mone'",
+  "definition": "eastern",
+  "kjvTranslation": "east.",
+  "hebrew": "קַדְמוֹן",
+  "translations": {
+    "bg": "източен",
+    "cs": "východní",
+    "da": "østlige",
+    "de": "ost",
+    "el": "ανατολική",
+    "es": "este",
+    "et": "ida",
+    "fi": "itäinen",
+    "fr": "de l'Est",
+    "hu": "keleti",
+    "id": "timur",
+    "it": "orientale",
+    "ja": "イースタン",
+    "ko": "동부",
+    "lt": "rytų",
+    "lv": "austrumu",
+    "nb": "østlige",
+    "nl": "oostelijk",
+    "pl": "wschodni",
+    "pt": "oriental",
+    "ro": "est",
+    "ru": "восточная",
+    "sk": "východná",
+    "sl": "vzhodni",
+    "sv": "österut",
+    "tr": "dOĞU",
+    "uk": "східний",
+    "zh": "东部"
+  },
+  "verses": [
+    "ezekiel 47:8:7"
+  ]
+}

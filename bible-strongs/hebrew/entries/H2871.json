@@ -1,0 +1,42 @@
+{
+  "number": "H2871",
+  "language": "hebrew",
+  "transliteration": "ṭâbûwl",
+  "pronunciation": "taw-bool'",
+  "definition": "properly, dyed, i.e. a turban (probably as of colored stuff)",
+  "kjvTranslation": "dyed attire.",
+  "translations": {
+    "bg": "правилно, боядисан, т.е. тюрбан (вероятно от цветни материали)",
+    "cs": "správně, obarvený, tj. turban (pravděpodobně z barevných látek)",
+    "da": "ordentligt, farvet, f.eks. en turban (sandsynligvis af farvet stof)",
+    "de": "richtig, gefärbt, d.h. ein Turban (wahrscheinlich aus farbigem Stoff)",
+    "el": "κατάλληλα, βαμμένο, δηλαδή ένα τουρμπάνι (πιθανώς από χρωματιστό υλικό)",
+    "es": "propiamente, teñido, es decir, un turbante (probablemente como de material coloreado)",
+    "et": "korralikult, värvitud, st turban (ilmselt värvilisest materjalist)",
+    "fi": "kunnolla, värjätty, eli turbaani (luultavasti värillisestä aineesta)",
+    "fr": "proprement, teint, c'est-à-dire un turban (probablement en tant que matière colorée)",
+    "hu": "rendesen, festett, azaz turbán (valószínűleg színes anyagból)",
+    "id": "dengan benar, dicelup, yaitu sorban (mungkin dari bahan berwarna)",
+    "it": "propriamente detto, tinto, ad esempio un turbante (probabilmente di roba colorata)",
+    "ja": "染めターバン",
+    "ko": "제대로 염색된, 즉 터번(아마도 색깔이 있는 것)",
+    "lt": "tinkamai, dažytas, t. y. turbanas (tikriausiai iš spalvotos medžiagos)",
+    "lv": "pareizi, krāsots, t.i., turbāns (iespējams, no krāsainas vielas)",
+    "nb": "riktig, farget, dvs. en turban (sannsynligvis som av farget stoff)",
+    "nl": "goed, geverfd, d.w.z. een tulband (waarschijnlijk als van gekleurd spul)",
+    "pl": "odpowiednio farbowany, tj. turban (prawdopodobnie z kolorowego materiału)",
+    "pt": "propriamente dito, tingido, ou seja, um turbante (provavelmente de material colorido)",
+    "ro": "în mod corespunzător, vopsit, de exemplu, un turban (probabil ca din material colorat)",
+    "ru": "надлежащим образом, окрашенный, т.е. тюрбан (вероятно, из цветного материала)",
+    "sk": "správne, farbený, t. j. turban (pravdepodobne z farebného materiálu)",
+    "sl": "pravilno, obarvan, tj. turban (verjetno iz obarvanega materiala)",
+    "sv": "ordentligt, färgat, t.ex. en turban (förmodligen som av färgat material)",
+    "tr": "düzgün, boyanmış, yani türban (muhtemelen renkli şeylerden)",
+    "uk": "правильно, пофарбований, тобто тюрбан (ймовірно, з кольорового матеріалу)",
+    "zh": "幞头"
+  },
+  "hebrew": "טָבוּל",
+  "verses": [
+    "ezekiel 23:15:4"
+  ]
+}

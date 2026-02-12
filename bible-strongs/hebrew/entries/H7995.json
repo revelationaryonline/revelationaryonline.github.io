@@ -1,0 +1,42 @@
+{
+  "number": "H7995",
+  "language": "hebrew",
+  "transliteration": "shalleketh",
+  "pronunciation": "shal-leh'-keth",
+  "definition": "a felling (of trees)",
+  "kjvTranslation": "when cast.",
+  "hebrew": "שַׁלֶּכֶת",
+  "translations": {
+    "bg": "изсичане на дървета",
+    "cs": "kácení (stromů)",
+    "da": "en fældning (af træer)",
+    "de": "eine Fällung (von Bäumen)",
+    "el": "κοπή (δέντρων)",
+    "es": "una tala (de árboles)",
+    "et": "(puude) raie",
+    "fi": "(puiden) kaataminen",
+    "fr": "un abattage (d'arbres)",
+    "hu": "(fák) kivágása",
+    "id": "penebangan (pohon)",
+    "it": "abbattimento (di alberi)",
+    "ja": "伐採",
+    "ko": "(나무의) 벌목",
+    "lt": "(medžių) kirtimas",
+    "lv": "(koku) ciršana",
+    "nb": "en felling (av trær)",
+    "nl": "een kap (van bomen)",
+    "pl": "wycinka (drzew)",
+    "pt": "um abate (de árvores)",
+    "ro": "o tăiere (de copaci)",
+    "ru": "вырубка (деревьев)",
+    "sk": "výrub (stromov)",
+    "sl": "sečnja (dreves)",
+    "sv": "en fällning (av träd)",
+    "tr": "(ağaçların) kesilmesi",
+    "uk": "вирубка (дерев)",
+    "zh": "伐木"
+  },
+  "verses": [
+    "isaiah 6:13:9"
+  ]
+}

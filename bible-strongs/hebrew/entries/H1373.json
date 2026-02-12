@@ -1,0 +1,42 @@
+{
+  "number": "H1373",
+  "language": "hebrew",
+  "transliteration": "Gabbay",
+  "pronunciation": "gab-bah'ee",
+  "definition": "Gabbai, an Israelite",
+  "kjvTranslation": "Gabbai.",
+  "translations": {
+    "bg": "Габай, израилтянин",
+    "cs": "Gabaj, Izraelita",
+    "da": "Gabbai, en israelit",
+    "de": "Gabbai, ein Israelit",
+    "el": "Gabbai, ένας Ισραηλίτης",
+    "es": "Gabbai, israelita",
+    "et": "Gabbai, iisraellane",
+    "fi": "Gabbai, israelilainen",
+    "fr": "Gabbai, Israélite",
+    "hu": "Gabbai, egy izraelita",
+    "id": "Gabbai, seorang Israel",
+    "it": "Gabbai, un israelita",
+    "ja": "イスラエル人ガバイ",
+    "ko": "이스라엘인, 가바이",
+    "lt": "Gabbai, izraelitas",
+    "lv": "Gabbai, izraēlietis",
+    "nb": "Gabbai, en israelitt",
+    "nl": "Gabbai, een Israëliet",
+    "pl": "Gabbai, Izraelita",
+    "pt": "Gabbai, israelita",
+    "ro": "Gabbai, un israelit",
+    "ru": "Габбай, израильтянин",
+    "sk": "Gabbai, Izraelita",
+    "sl": "Gabaj, Izraelec",
+    "sv": "Gabbai, en israelit",
+    "tr": "Gabbai, bir İsrailli",
+    "uk": "Габбай, ізраїльтянин",
+    "zh": "以色列人加拜"
+  },
+  "hebrew": "גַּבַּי",
+  "verses": [
+    "nehemiah 11:8:1"
+  ]
+}

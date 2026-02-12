@@ -1,0 +1,43 @@
+{
+  "number": "H2784",
+  "language": "hebrew",
+  "transliteration": "chartsubbâh",
+  "pronunciation": "khar-tsoob-baw'",
+  "definition": "a fetter; figuratively, a pain",
+  "kjvTranslation": "band.",
+  "translations": {
+    "bg": "окови; в преносен смисъл - болка",
+    "cs": "pouto; přeneseně bolest",
+    "da": "en lænke; i overført betydning en smerte",
+    "de": "eine Fessel; im übertragenen Sinne ein Schmerz",
+    "el": "ένα δέσιμο- μεταφορικά, ένας πόνος",
+    "es": "un grillete; en sentido figurado, un dolor",
+    "et": "ahel; piltlikult öeldes, valu",
+    "fi": "kahle; kuvaannollisesti, kipu",
+    "fr": "une entrave ; au sens figuré, une douleur",
+    "hu": "béklyó; átvitt értelemben: fájdalom",
+    "id": "belenggu; secara kiasan, rasa sakit",
+    "it": "una pastoia; in senso figurato, un dolore",
+    "ja": "枷；比喩的には痛み",
+    "ko": "족쇄; 비유적으로, 고통",
+    "lt": "pančiai; perkeltine prasme - skausmas",
+    "lv": "važas; pārnestā nozīmē - sāpes",
+    "nb": "en lenke; i overført betydning, en smerte",
+    "nl": "een boeien; figuurlijk, een pijn",
+    "pl": "skrępowanie; w przenośni ból",
+    "pt": "um grilhão; figurativamente, uma dor",
+    "ro": "o cătușă; la figurat, o durere",
+    "ru": "путы; образно говоря, боль",
+    "sk": "okovy; v prenesenom význame bolesť",
+    "sl": "okov; v prenesenem pomenu bolečina",
+    "sv": "en boja; bildligt talat, en smärta",
+    "tr": "bir pranga; mecazi olarak, bir acı",
+    "uk": "пута; образно - біль",
+    "zh": "桎梏；比喻痛苦"
+  },
+  "hebrew": "חַרְצֻבָּה",
+  "verses": [
+    "psalms 73:4:2",
+    "isaiah 58:6:5"
+  ]
+}

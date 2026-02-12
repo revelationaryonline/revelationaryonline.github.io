@@ -1,0 +1,42 @@
+{
+  "number": "H4981",
+  "language": "hebrew",
+  "transliteration": "Mithnîy",
+  "pronunciation": "mith-nee'",
+  "definition": "a Mithnite, or inhabitant of Methen",
+  "kjvTranslation": "Mithnite.",
+  "hebrew": "מִתְנִי",
+  "translations": {
+    "bg": "митханец или жител на Метен",
+    "cs": "mithnita neboli obyvatele Methenu",
+    "da": "en mithnit eller indbygger i Methen",
+    "de": "ein Mithnit oder Einwohner von Methen",
+    "el": "ένας Μιθνίτης, ή κάτοικος της Μεθώνης",
+    "es": "un mitnita, o habitante de Methen",
+    "et": "mithniit ehk Metheni elanik",
+    "fi": "mithniläinen tai Methenin asukas",
+    "fr": "mithnite ou habitant de Methen",
+    "hu": "mithnita, vagy Methen lakója",
+    "id": "seorang Mithnite, atau penduduk Meten",
+    "it": "un mitnita, o abitante di Methen",
+    "ja": "ミトナイト（メセンの住民",
+    "ko": "미트나이트 또는 메텐의 거주자",
+    "lt": "mitnietis arba Meteno gyventojas",
+    "lv": "mītnietis jeb Metenas iedzīvotājs",
+    "nb": "en mithnit, eller innbygger av Methen",
+    "nl": "een Mithniet, of inwoner van Methen",
+    "pl": "mithnite lub mieszkaniec Methen",
+    "pt": "um mitnita, ou habitante de Methen",
+    "ro": "un Mithnite, sau locuitor al Methen",
+    "ru": "митниец, или житель Метена",
+    "sk": "mithnita alebo obyvateľa Methen",
+    "sl": "mitnita ali prebivalec Metena",
+    "sv": "en Mithnite, eller invånare i Methen",
+    "tr": "bir Mithnite ya da Methen sakini",
+    "uk": "мітнійцем, або мешканцем Метена",
+    "zh": "梅特涅人，或梅特涅居民"
+  },
+  "verses": [
+    "firstChronicles 11:43:4"
+  ]
+}

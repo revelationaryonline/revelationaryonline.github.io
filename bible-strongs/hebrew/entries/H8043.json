@@ -1,0 +1,42 @@
+{
+  "number": "H8043",
+  "language": "hebrew",
+  "transliteration": "Shimʼâm",
+  "pronunciation": "shim-awm'",
+  "definition": "Shimam, an Israelite",
+  "kjvTranslation": "Shimeam.",
+  "hebrew": "שִׁמְאָם",
+  "translations": {
+    "bg": "Шимам, израилтянин",
+    "cs": "Šimam, Izraelita",
+    "da": "Shimam, en israelit",
+    "de": "Shimam, ein Israelit",
+    "el": "Σιμάμ, Ισραηλίτης",
+    "es": "Shimam, israelita",
+    "et": "Iisraellane Šimam",
+    "fi": "Simam, israelilainen",
+    "fr": "Shimam, Israélite",
+    "hu": "Simám, izraelita",
+    "id": "Shimam, seorang Israel",
+    "it": "Shimam, un israelita",
+    "ja": "イスラエル人シマム",
+    "ko": "이스라엘인, 시맘",
+    "lt": "Šimamas, izraelitas",
+    "lv": "Šimams, izraēlietis",
+    "nb": "Shimam, en israelitt",
+    "nl": "Sjimam, een Israëliet",
+    "pl": "Szimam, Izraelita",
+    "pt": "Shimam, um israelita",
+    "ro": "Shimam, un israelit",
+    "ru": "Шимам, израильтянин",
+    "sk": "Šimam, Izraelita",
+    "sl": "Šimam, Izraelec",
+    "sv": "Shimam, en israelit",
+    "tr": "Şimam, bir İsrailli",
+    "uk": "Шимам, ізраїльтянин",
+    "zh": "以色列人希玛姆"
+  },
+  "verses": [
+    "firstChronicles 9:38:3"
+  ]
+}

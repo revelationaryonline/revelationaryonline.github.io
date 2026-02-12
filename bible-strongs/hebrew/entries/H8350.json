@@ -1,0 +1,43 @@
+{
+  "number": "H8350",
+  "language": "hebrew",
+  "transliteration": "shâshar",
+  "pronunciation": "shaw-shar'",
+  "definition": "red ochre (from its piercing color)",
+  "kjvTranslation": "vermillion.",
+  "hebrew": "שָׁשַׁר",
+  "translations": {
+    "bg": "червена охра (заради пронизващия ѝ цвят)",
+    "cs": "červený okr (podle pronikavé barvy)",
+    "da": "rød okker (fra dens gennemtrængende farve)",
+    "de": "roter Ocker (wegen seiner durchdringenden Farbe)",
+    "el": "κόκκινη ώχρα (από το διαπεραστικό της χρώμα)",
+    "es": "ocre rojo (por su color penetrante)",
+    "et": "punane ooker (selle läbitungiv värvus)",
+    "fi": "punainen okra (sen lävistävästä väristä)",
+    "fr": "ocre rouge (à cause de sa couleur perçante)",
+    "hu": "vörös okkersárga (szúrós színe miatt)",
+    "id": "oker merah (dari warnanya yang tajam)",
+    "it": "ocra rossa (dal suo colore penetrante)",
+    "ja": "赤土",
+    "ko": "붉은 황토색(피어싱 색상에서 유래)",
+    "lt": "raudonoji ochra (dėl jos skvarbios spalvos)",
+    "lv": "sarkanā okra (no tā caururbjošās krāsas)",
+    "nb": "rød oker (fra den gjennomtrengende fargen)",
+    "nl": "rode oker (van de doordringende kleur)",
+    "pl": "czerwona ochra (od jej przebijającego koloru)",
+    "pt": "ocre vermelho (pela sua cor penetrante)",
+    "ro": "ocru roșu (de la culoarea sa pătrunzătoare)",
+    "ru": "красная охра (из-за своего пронзительного цвета)",
+    "sk": "červený oker (podľa jeho prenikavej farby)",
+    "sl": "rdeča okra (zaradi prodorne barve)",
+    "sv": "röd ockra (från dess genomträngande färg)",
+    "tr": "kırmızı aşı boyası (delici renginden)",
+    "uk": "червона охра (від її пронизливого кольору)",
+    "zh": "赭红"
+  },
+  "verses": [
+    "jeremiah 22:14:13",
+    "ezekiel 23:14:12"
+  ]
+}

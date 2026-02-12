@@ -1,0 +1,42 @@
+{
+  "number": "H6528",
+  "language": "hebrew",
+  "transliteration": "pereṭ",
+  "pronunciation": "peh'-ret",
+  "definition": "a stray or single berry",
+  "kjvTranslation": "grape.",
+  "hebrew": "פֶּרֶט",
+  "translations": {
+    "bg": "заблуден или единичен плод",
+    "cs": "zbloudilé nebo jednotlivé bobule",
+    "da": "et forvildet eller et enkelt bær",
+    "de": "eine verirrte oder einzelne Beere",
+    "el": "ένα αδέσποτο ή μεμονωμένο μούρο",
+    "es": "una baya perdida o suelta",
+    "et": "eksinud või üksik marja",
+    "fi": "harhaileva tai yksittäinen marja",
+    "fr": "une baie égarée ou isolée",
+    "hu": "egy kóbor vagy egyetlen bogyó",
+    "id": "buah beri yang tersesat atau tunggal",
+    "it": "una bacca singola o vagante",
+    "ja": "一粒の実",
+    "ko": "길 잃은 베리 또는 싱글 베리",
+    "lt": "paklydusi arba pavienė uoga",
+    "lv": "apmaldījusies vai viena oga",
+    "nb": "et herreløst eller enkelt bær",
+    "nl": "een verdwaalde of enkele bes",
+    "pl": "zabłąkana lub pojedyncza jagoda",
+    "pt": "uma baga perdida ou isolada",
+    "ro": "o boabă rătăcită sau singură",
+    "ru": "бродячая или одиночная ягода",
+    "sk": "zatúlané alebo jednotlivé bobule",
+    "sl": "zbegano ali posamezno jagodo",
+    "sv": "ett herrelöst eller enstaka bär",
+    "tr": "başıboş ya da tek bir dut",
+    "uk": "бродяча або одиночна ягода",
+    "zh": "野果"
+  },
+  "verses": [
+    "leviticus 19:10:3"
+  ]
+}

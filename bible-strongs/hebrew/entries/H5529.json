@@ -1,0 +1,42 @@
+{
+  "number": "H5529",
+  "language": "hebrew",
+  "transliteration": "çekel",
+  "pronunciation": "seh'-kal",
+  "definition": "silliness; concretely and collectively, dolts",
+  "kjvTranslation": "folly.",
+  "hebrew": "סֶכֶל",
+  "translations": {
+    "bg": "глупост; конкретно и колективно - глупаци",
+    "cs": "hlouposti; konkrétně a kolektivně, loutky",
+    "da": "fjollethed; konkret og kollektivt, fjolser",
+    "de": "dummheit; konkret und kollektiv: Tölpel",
+    "el": "ανόητος- συγκεκριμένα και συλλογικά, βλάκες",
+    "es": "tontería; concreta y colectivamente, tontos",
+    "et": "lollus; konkreetselt ja kollektiivselt, lollid",
+    "fi": "hölmöily; konkreettisesti ja kollektiivisesti, dolts",
+    "fr": "sottise ; concrètement et collectivement, dolts",
+    "hu": "ostobaság; konkrétan és kollektíven, dolts",
+    "id": "kekonyolan; secara konkret dan kolektif, dungu",
+    "it": "stupidità; concretamente e collettivamente, idioti",
+    "ja": "愚かさ；具体的に、集団的に、お馬鹿さん",
+    "ko": "어리석음; 구체적으로 그리고 집합적으로, 바보들",
+    "lt": "kvailystė; konkrečiai ir kolektyviai - lėliukai",
+    "lv": "muļķība; konkrēti un kolektīvi - muļķi",
+    "nb": "tåpeligheter; konkret og kollektivt, tomsinger",
+    "nl": "dwaasheid; concreet en collectief, sukkels",
+    "pl": "głupota; konkretnie i zbiorowo, lalusie",
+    "pt": "tolices; concreta e coletivamente, antas",
+    "ro": "prostie; în mod concret și colectiv, tăntălăi",
+    "ru": "глупость; конкретно и коллективно - болваны",
+    "sk": "hlúposť; konkrétne a kolektívne, bábky",
+    "sl": "neumnost; konkretno in kolektivno, lutke",
+    "sv": "dumhet; konkret och kollektivt, dumbommar",
+    "tr": "aptallık; somut ve toplu olarak, ahmaklar",
+    "uk": "дурість; конкретно і збірно - дурні",
+    "zh": "傻气；具体地说，集体地说是呆子"
+  },
+  "verses": [
+    "ecclesiastes 10:6:1"
+  ]
+}

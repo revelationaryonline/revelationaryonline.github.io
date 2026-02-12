@@ -1,0 +1,42 @@
+{
+  "number": "H5537",
+  "language": "hebrew",
+  "transliteration": "çâlâʼ",
+  "pronunciation": "saw-law'",
+  "definition": "to suspend in a balance, i.e. weigh",
+  "kjvTranslation": "compare.",
+  "hebrew": "סָלָא",
+  "translations": {
+    "bg": "да се постави на везна, т.е. да се претегли",
+    "cs": "zavěsit na váhu, tj. zvážit",
+    "da": "at hænge i en balance, dvs. veje",
+    "de": "in eine Waage hängen, d.h. wiegen",
+    "el": "να κρεμάσετε σε μια ζυγαριά, δηλαδή να ζυγίσετε",
+    "es": "suspender en una balanza, es decir, pesar",
+    "et": "riputada kaalule, st kaaluda",
+    "fi": "ripustaa vaa'alle eli punnita",
+    "fr": "suspendre dans une balance, c'est-à-dire peser",
+    "hu": "mérlegre függeszteni, azaz mérlegelni",
+    "id": "untuk menangguhkan dalam sebuah timbangan, yaitu menimbang",
+    "it": "sospendere in una bilancia, cioè pesare",
+    "ja": "天秤にかける。",
+    "ko": "저울에 매달리는 것, 즉 무게를 달기 위해",
+    "lt": "laikyti ant svarstyklių, t. y. sverti",
+    "lv": "likt uz svariem, t.i., nosvērt",
+    "nb": "å henge i en vekt, dvs. veie",
+    "nl": "in een balans hangen, d.w.z. wegen",
+    "pl": "zawiesić na wadze, tj. zważyć",
+    "pt": "suspender numa balança, ou seja, pesar",
+    "ro": "a suspenda într-o balanță, adică a cântări",
+    "ru": "взвешивать на весах, т.е. взвешивать",
+    "sk": "zavesiť na váhy, t. j. odvážiť",
+    "sl": "postaviti na tehtnico, tj. stehtati",
+    "sv": "att hänga upp i en våg, dvs. väga",
+    "tr": "bir terazide askıya almak, yani tartmak",
+    "uk": "підвісити на терезах, тобто зважити",
+    "zh": "悬于天平，即称量"
+  },
+  "verses": [
+    "lamentations 4:2:3"
+  ]
+}

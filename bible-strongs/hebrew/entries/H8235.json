@@ -1,0 +1,42 @@
+{
+  "number": "H8235",
+  "language": "hebrew",
+  "transliteration": "shiphrâh",
+  "pronunciation": "shif-raw'",
+  "definition": "brightness",
+  "kjvTranslation": "garnish.",
+  "hebrew": "שִׁפְרָה",
+  "translations": {
+    "bg": "яркост",
+    "cs": "jas",
+    "da": "lysstyrke",
+    "de": "helligkeit",
+    "el": "φωτεινότητα",
+    "es": "brillo",
+    "et": "heledus",
+    "fi": "kirkkaus",
+    "fr": "luminosité",
+    "hu": "fényerő",
+    "id": "kecerahan",
+    "it": "luminosità",
+    "ja": "明るさ",
+    "ko": "밝기",
+    "lt": "ryškumas",
+    "lv": "spilgtums",
+    "nb": "lysstyrke",
+    "nl": "helderheid",
+    "pl": "jasność",
+    "pt": "luminosidade",
+    "ro": "luminozitate",
+    "ru": "яркость",
+    "sk": "jas",
+    "sl": "svetlost",
+    "sv": "ljusstyrka",
+    "tr": "parlaklık",
+    "uk": "яскравість",
+    "zh": "亮度"
+  },
+  "verses": [
+    "job 26:13:2"
+  ]
+}

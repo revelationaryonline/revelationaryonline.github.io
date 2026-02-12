@@ -1,0 +1,42 @@
+{
+  "number": "H7595",
+  "language": "hebrew",
+  "transliteration": "shᵉʼêlâʼ",
+  "pronunciation": "sheh-ay-law'",
+  "definition": "properly, a question (at law), i.e. judicial decision or mandate",
+  "kjvTranslation": "demand.",
+  "hebrew": "שְׁאֵלָא",
+  "translations": {
+    "bg": "правилно, въпрос (по право), т.е. съдебно решение или мандат",
+    "cs": "správně právní otázka, tj. soudní rozhodnutí nebo mandát",
+    "da": "korrekt, et spørgsmål (ved lov), dvs. en retslig afgørelse eller et mandat",
+    "de": "eigentlich eine (Rechts-)Frage, d.h. eine gerichtliche Entscheidung oder ein Mandat",
+    "el": "σωστά, ένα ζήτημα (νομικό), δηλαδή δικαστική απόφαση ή εντολή",
+    "es": "propiamente, una cuestión (de derecho), es decir, una decisión o mandato judicial",
+    "et": "õigesti, küsimus (õiguses), st kohtulahend või volitus",
+    "fi": "oikeastaan (oikeudellinen) kysymys eli tuomioistuimen päätös tai toimeksianto",
+    "fr": "à proprement parler, une question (de droit), c'est-à-dire une décision ou un mandat judiciaire",
+    "hu": "megfelelően, (jogi) kérdés, azaz bírósági határozat vagy megbízás",
+    "id": "benar, sebuah pertanyaan (dalam hukum), yaitu keputusan atau mandat yudisial",
+    "it": "propriamente, una questione (di diritto), cioè una decisione o un mandato giudiziario",
+    "ja": "ほうもん",
+    "ko": "(법률상) 질문, 즉 사법적 결정이나 명령에 대한 질문입니다",
+    "lt": "tinkamai, klausimas (teisinis), t. y. teismo sprendimas arba įgaliojimas",
+    "lv": "pareizi, jautājums (tiesību jomā), t.i., tiesas lēmums vai pilnvarojums",
+    "nb": "egentlig, et (retts)spørsmål, dvs. en rettslig avgjørelse eller et mandat",
+    "nl": "naar behoren, een (rechts)vraag, d.w.z. een rechterlijke beslissing of mandaat",
+    "pl": "właściwie, pytanie (prawne), tj. orzeczenie sądowe lub mandat",
+    "pt": "propriamente, uma questão (de direito), ou seja, uma decisão ou um mandato judicial",
+    "ro": "în mod corespunzător, o chestiune (de drept), adică o decizie sau un mandat judiciar",
+    "ru": "правильно, вопрос (в праве), т.е. судебное решение или мандат",
+    "sk": "správne, otázka (právna), t. j. súdne rozhodnutie alebo mandát",
+    "sl": "pravilno, pravno vprašanje, tj. sodna odločba ali pooblastilo",
+    "sv": "i egentlig mening, en (rättslig) fråga, d.v.s. ett rättsligt beslut eller mandat",
+    "tr": "uygun bir şekilde, bir soru (hukukta), yani yargı kararı veya emri",
+    "uk": "власне, питання (в праві), тобто судове рішення або мандат",
+    "zh": "适当地，一个问题（在法律上），即司法决定或授权"
+  },
+  "verses": [
+    "daniel 4:14:5"
+  ]
+}

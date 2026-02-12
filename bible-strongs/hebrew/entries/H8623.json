@@ -1,0 +1,42 @@
+{
+  "number": "H8623",
+  "language": "hebrew",
+  "transliteration": "taqqîyph",
+  "pronunciation": "tak-keef'",
+  "definition": "powerful",
+  "kjvTranslation": "mightier.",
+  "hebrew": "תַּקִּיף",
+  "translations": {
+    "bg": "мощен",
+    "cs": "výkonný",
+    "da": "kraftfuld",
+    "de": "leistungsstarke",
+    "el": "ισχυρό",
+    "es": "potente",
+    "et": "võimas",
+    "fi": "tehokas",
+    "fr": "puissant",
+    "hu": "erős",
+    "id": "kuat",
+    "it": "potente",
+    "ja": "パワフル",
+    "ko": "강력한",
+    "lt": "galingas",
+    "lv": "jaudīgs",
+    "nb": "kraftig",
+    "nl": "krachtig",
+    "pl": "potężny",
+    "pt": "poderoso",
+    "ro": "puternic",
+    "ru": "мощный",
+    "sk": "výkonný",
+    "sl": "zmogljiv",
+    "sv": "kraftfull",
+    "tr": "güçlü",
+    "uk": "потужний",
+    "zh": "强大"
+  },
+  "verses": [
+    "ecclesiastes 6:10:14"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4331",
+  "language": "hebrew",
+  "transliteration": "Mêyshâʼ",
+  "pronunciation": "may-shaw'",
+  "definition": "Mesha, a place in Arabia; also an Israelite",
+  "kjvTranslation": "Mesha.",
+  "hebrew": "מֵישָׁא",
+  "translations": {
+    "bg": "Меша, място в Арабия; също израилтянин",
+    "cs": "Mesha, místo v Arábii; také Izraelita",
+    "da": "Mesha, et sted i Arabien; også en israelit",
+    "de": "Mescha, ein Ort in Arabien; auch ein Israelit",
+    "el": "Μέσα, τόπος στην Αραβία- επίσης Ισραηλίτης",
+    "es": "Mesha, lugar de Arabia; también israelita",
+    "et": "Mesha, koht Araabias; ka iisraellane",
+    "fi": "Mesha, paikka Arabiassa; myös israelilainen",
+    "fr": "Mesha, un lieu en Arabie ; aussi un Israélite",
+    "hu": "Mesha, egy hely Arábiában; egy izraelita is",
+    "id": "Mesha, sebuah tempat di Arab; juga orang Israel",
+    "it": "Mesha, una località dell'Arabia; anche un israelita",
+    "ja": "メシャ、アラビアの地名。",
+    "ko": "메샤, 아라비아의 한 지역; 또한 이스라엘인",
+    "lt": "Meša, vietovė Arabijoje; taip pat izraelitas",
+    "lv": "Mesha, vieta Arābijā; arī izraēliešu",
+    "nb": "Mesha, et sted i Arabia; også en israelitt",
+    "nl": "Mesha, een plaats in Arabië; ook een Israëliet",
+    "pl": "Mesha, miejsce w Arabii; także Izraelita",
+    "pt": "Mesha, um lugar na Arábia; também um israelita",
+    "ro": "Mesha, un loc în Arabia; de asemenea, un israelit",
+    "ru": "Меша, место в Аравии; также израильтянин",
+    "sk": "Mesha, miesto v Arábii; tiež Izraelita",
+    "sl": "Mesha, kraj v Arabiji; tudi Izraelci",
+    "sv": "Mesha, en plats i Arabien; även en israelit",
+    "tr": "Mesha, Arabistan'da bir yer; ayrıca bir İsrailli",
+    "uk": "Меша, місцевість в Аравії; також ізраїльтянин",
+    "zh": "梅萨，阿拉伯的一个地方；也是一个以色列人"
+  },
+  "verses": [
+    "firstChronicles 8:9:9"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2281",
+  "language": "hebrew",
+  "transliteration": "châbêth",
+  "pronunciation": "khaw-bayth'",
+  "definition": "something fried, probably a griddle-cake",
+  "kjvTranslation": "pan.",
+  "translations": {
+    "bg": "нещо пържено, вероятно питка на скара",
+    "cs": "něco smaženého, nejspíš dortík na roštu",
+    "da": "noget stegt, sandsynligvis en bradepandekage",
+    "de": "etwas Gebratenes, wahrscheinlich ein Griddle-Kuchen",
+    "el": "κάτι τηγανητό, πιθανότατα ένα κέικ σχάρας",
+    "es": "algo frito, probablemente un pastel de plancha",
+    "et": "midagi praetud, tõenäoliselt praekook",
+    "fi": "jotain paistettua, luultavasti paistokakku",
+    "fr": "quelque chose de frit, probablement un gâteau à la plancha",
+    "hu": "valami sültet, valószínűleg rostélyos süteményt",
+    "id": "sesuatu yang digoreng, mungkin kue wajan",
+    "it": "qualcosa di fritto, probabilmente una torta alla piastra",
+    "ja": "揚げ物、たぶんグリドルケーキ",
+    "ko": "튀긴 것, 아마도 철판 케이크일 것입니다",
+    "lt": "kažkas kepto, tikriausiai keptuvė",
+    "lv": "kaut kas cepts, iespējams, grillēta kūka",
+    "nb": "noe stekt, sannsynligvis en grillkake",
+    "nl": "iets gefrituurd, waarschijnlijk een griddle-cake",
+    "pl": "coś smażonego, prawdopodobnie ciasto z rusztu",
+    "pt": "algo frito, provavelmente um bolo de grelha",
+    "ro": "ceva prăjit, probabil o prăjitură la grătar",
+    "ru": "что-то жареное, возможно, пирог на гриле",
+    "sk": "niečo vyprážané, pravdepodobne koláč na grile",
+    "sl": "nekaj ocvrtega, verjetno pečenka",
+    "sv": "något stekt, förmodligen en grillkaka",
+    "tr": "kızarmış bir şey, muhtemelen ızgara kek",
+    "uk": "щось смажене, можливо, пиріг на сковорідці",
+    "zh": "油炸的东西，可能是烙饼"
+  },
+  "hebrew": "חָבֵת",
+  "verses": [
+    "firstChronicles 9:31:10"
+  ]
+}

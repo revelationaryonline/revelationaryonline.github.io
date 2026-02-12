@@ -1,0 +1,43 @@
+{
+  "number": "H1766",
+  "language": "hebrew",
+  "transliteration": "dâchaq",
+  "pronunciation": "daw-khak'",
+  "definition": "to press, i.e. oppress",
+  "kjvTranslation": "thrust, vex.",
+  "translations": {
+    "bg": "да притиска, т.е. да потиска",
+    "cs": "tlačit, tj. utlačovat",
+    "da": "at presse, dvs. undertrykke",
+    "de": "bedrängen, d.h. unterdrücken",
+    "el": "να πιέζετε, δηλαδή να καταπιέζετε",
+    "es": "presionar, es decir, oprimir",
+    "et": "survestada, st rõhuda",
+    "fi": "painostaa, eli sortaa",
+    "fr": "presser, c'est-à-dire opprimer",
+    "hu": "nyomást gyakorolni, azaz elnyomni",
+    "id": "untuk menekan, yaitu menindas",
+    "it": "premere, cioè opprimere",
+    "ja": "圧迫する",
+    "ko": "누르다, 즉 억압하다",
+    "lt": "spausti, t. y. engti",
+    "lv": "spiest, t.i., apspiest",
+    "nb": "å presse, dvs. undertrykke",
+    "nl": "drukken, d.w.z. onderdrukken",
+    "pl": "naciskać, tj. uciskać",
+    "pt": "pressionar, ou seja, oprimir",
+    "ro": "a apăsa, adică a oprima",
+    "ru": "давить, т.е. угнетать",
+    "sk": "tlačiť, t. j. utláčať",
+    "sl": "pritiskati, tj. zatirati",
+    "sv": "att pressa, dvs. förtrycka",
+    "tr": "baskı yapmak, yani ezmek",
+    "uk": "пресувати, тобто гнобити",
+    "zh": "压迫"
+  },
+  "hebrew": "דָּחַק",
+  "verses": [
+    "judges 2:18:21",
+    "joel 2:8:3"
+  ]
+}

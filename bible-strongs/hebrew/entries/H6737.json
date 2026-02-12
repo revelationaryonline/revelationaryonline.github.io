@@ -1,0 +1,42 @@
+{
+  "number": "H6737",
+  "language": "hebrew",
+  "transliteration": "tsâyar",
+  "pronunciation": "tsaw-yar'",
+  "definition": "to make an errand, i.e. betake oneself",
+  "kjvTranslation": "make as if...had been ambassador.",
+  "hebrew": "צָיַר",
+  "translations": {
+    "bg": "да се отправиш на път, т.е. да се запътиш",
+    "cs": "vykonat pochůzku, tj. vydat se na cestu",
+    "da": "at gøre et ærinde, dvs. begive sig af sted",
+    "de": "einen Botengang machen, d.h. sich auf den Weg machen",
+    "el": "να κάνω ένα θέλημα, δηλ. να παραδώσω τον εαυτό μου",
+    "es": "hacer un recado, es decir, acudir uno mismo",
+    "et": "teha ekskursioon, st panustada endasse",
+    "fi": "lähteä asioille, ts. ottaa asialleen..",
+    "fr": "faire une course, c'est-à-dire se mettre en route",
+    "hu": "elutazni, azaz elszegődni, azaz elszegődni",
+    "id": "untuk melakukan suatu tugas, yaitu mengambil diri sendiri",
+    "it": "fare una commissione, cioè mettersi in viaggio",
+    "ja": "用を足す。",
+    "ko": "심부름을 시키다, 즉 자신을 맡기다",
+    "lt": "atlikti pavedimą, t. y. išvykti į kelionę",
+    "lv": "doties ceļā, t.i., doties ceļā, t.i., doties ceļā",
+    "nb": "å gjøre et ærend, dvs. begi seg ut",
+    "nl": "een boodschap doen, d.w.z. zich overgeven",
+    "pl": "wyruszyć w drogę, tj. udać się w podróż",
+    "pt": "fazer um recado, ou seja, entregar-se a uma missão",
+    "ro": "a face o cursă, adică a se îndrepta către sine",
+    "ru": "отправиться с поручением, т.е. взять себя в руки",
+    "sk": "vydať sa na cestu, t. j. vydať sa na cestu",
+    "sl": "odpraviti se na pot, tj. pobrati se",
+    "sv": "att göra ett ärende, dvs. ge sig iväg",
+    "tr": "bir ayak işi yapmak, yani kendini tehlikeye atmak",
+    "uk": "виконати доручення, тобто взяти на себе зобов'язання",
+    "zh": "办差"
+  },
+  "verses": [
+    "joshua 9:4:5"
+  ]
+}

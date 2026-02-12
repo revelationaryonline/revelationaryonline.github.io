@@ -1,0 +1,43 @@
+{
+  "number": "H5212",
+  "language": "hebrew",
+  "transliteration": "Nîyçân",
+  "pronunciation": "nee-sawn'",
+  "definition": "Nisan, the first month of the Jewish sacred year",
+  "kjvTranslation": "Nisan.",
+  "hebrew": "נִיסָן",
+  "translations": {
+    "bg": "Нисан, първият месец от еврейската свещена година",
+    "cs": "Nisan, první měsíc židovského posvátného roku",
+    "da": "Nisan, den første måned i det jødiske hellige år",
+    "de": "Nisan, der erste Monat des jüdischen heiligen Jahres",
+    "el": "Νισάν, ο πρώτος μήνας του εβραϊκού ιερού έτους",
+    "es": "Nisán, primer mes del año sagrado judío",
+    "et": "Nisan, juudi püha aasta esimene kuu",
+    "fi": "Nisan, juutalaisen pyhän vuoden ensimmäinen kuukausi",
+    "fr": "Nisan, premier mois de l'année sacrée juive",
+    "hu": "Niszán, a zsidó szent év első hónapja",
+    "id": "Nisan, bulan pertama dari tahun suci Yahudi",
+    "it": "Nisan, il primo mese dell'anno sacro ebraico",
+    "ja": "ニサン、ユダヤ聖年の最初の月",
+    "ko": "유대인의 성스러운 해의 첫 달, 니산",
+    "lt": "Nisanas, pirmasis žydų šventųjų metų mėnuo",
+    "lv": "Nisāns, ebreju svētā gada pirmais mēnesis",
+    "nb": "Nisan, den første måneden i det jødiske hellige året",
+    "nl": "Nisan, de eerste maand van het Joodse heilige jaar",
+    "pl": "Nisan, pierwszy miesiąc żydowskiego roku świętego",
+    "pt": "Nisan, o primeiro mês do ano sagrado judaico",
+    "ro": "Nisan, prima lună a anului sacru evreiesc",
+    "ru": "Нисан, первый месяц священного еврейского года",
+    "sk": "Nisan, prvý mesiac židovského posvätného roka",
+    "sl": "Nisan, prvi mesec judovskega svetega leta",
+    "sv": "Nisan, den första månaden i det judiska heliga året",
+    "tr": "Nisan, Yahudi kutsal yılının ilk ayı",
+    "uk": "Нісан, перший місяць єврейського священного року",
+    "zh": "尼散月"
+  },
+  "verses": [
+    "nehemiah 2:1:2",
+    "esther 3:7:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7539",
+  "language": "hebrew",
+  "transliteration": "riqqâbôwn",
+  "pronunciation": "rik-kaw-bone'",
+  "definition": "decay (by caries)",
+  "kjvTranslation": "rotten.",
+  "hebrew": "רִקָּבוֹן",
+  "translations": {
+    "bg": "кариес (от кариес)",
+    "cs": "kazivost (zubním kazem)",
+    "da": "henfald (af karies)",
+    "de": "verfall (durch Karies)",
+    "el": "τερηδόνα (από τερηδόνα)",
+    "es": "caries (por caries)",
+    "et": "lagunemine (kaaries)",
+    "fi": "reikiintyminen (karies)",
+    "fr": "carie (par les caries)",
+    "hu": "szuvasodás (szuvasodás által)",
+    "id": "pembusukan (oleh karies)",
+    "it": "carie (da carie)",
+    "ja": "齲蝕",
+    "ko": "부패(충치에 의한)",
+    "lt": "irimas (dėl ėduonies)",
+    "lv": "bojāšanās (ar kariesu)",
+    "nb": "forråtnelse (av karies)",
+    "nl": "bederf (door cariës)",
+    "pl": "próchnica (przez próchnicę)",
+    "pt": "cárie (por cárie)",
+    "ro": "degradare (prin carii)",
+    "ru": "распад (кариес)",
+    "sk": "kaz (zubným kazom)",
+    "sl": "propadanje (s kariesom)",
+    "sv": "sönderfall (av karies)",
+    "tr": "çürüme (çürükler tarafından)",
+    "uk": "руйнування (при карієсі)",
+    "zh": "龋齿"
+  },
+  "verses": [
+    "job 41:19:4"
+  ]
+}

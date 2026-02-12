@@ -1,0 +1,42 @@
+{
+  "number": "H1313",
+  "language": "hebrew",
+  "transliteration": "bâsâm",
+  "pronunciation": "baw-sawm'",
+  "definition": "the balsam plant",
+  "kjvTranslation": "spice.",
+  "translations": {
+    "bg": "растението балсам",
+    "cs": "balzámová rostlina",
+    "da": "balsamplanten",
+    "de": "die Balsampflanze",
+    "el": "το φυτό βάλσαμο",
+    "es": "la planta balsámica",
+    "et": "palsamitaim",
+    "fi": "balsamikasvi",
+    "fr": "la plante de baume",
+    "hu": "a balzsamnövény",
+    "id": "tanaman balsam",
+    "it": "la pianta di balsamo",
+    "ja": "バルサム草",
+    "ko": "봉선화 식물",
+    "lt": "balzaminis augalas",
+    "lv": "balzama augs",
+    "nb": "balsamplanten",
+    "nl": "de balsemplant",
+    "pl": "roślina balsamiczna",
+    "pt": "a planta do bálsamo",
+    "ro": "planta de balsam",
+    "ru": "бальзамовое растение",
+    "sk": "balzamová rastlina",
+    "sl": "rastlina balzam",
+    "sv": "balsamplantan",
+    "tr": "balsam bitkisi",
+    "uk": "бальзамічна рослина",
+    "zh": "凤仙花"
+  },
+  "hebrew": "בָּשָׂם",
+  "verses": [
+    "solomon 5:1:7"
+  ]
+}

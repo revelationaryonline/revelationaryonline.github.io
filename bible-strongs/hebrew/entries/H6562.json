@@ -1,0 +1,42 @@
+{
+  "number": "H6562",
+  "language": "hebrew",
+  "transliteration": "pᵉraq",
+  "pronunciation": "per-ak'",
+  "definition": "to discontinue",
+  "kjvTranslation": "break off.",
+  "hebrew": "פְּרַק",
+  "translations": {
+    "bg": "да прекратиш",
+    "cs": "přerušit",
+    "da": "at afbryde",
+    "de": "zu unterbrechen",
+    "el": "να διακόψει",
+    "es": "interrumpir",
+    "et": "lõpetada",
+    "fi": "lopettaa",
+    "fr": "d'interrompre",
+    "hu": "megszüntetni",
+    "id": "untuk menghentikan",
+    "it": "interrompere",
+    "ja": "中止する",
+    "ko": "중단하려면",
+    "lt": "nutraukti",
+    "lv": "pārtraukt",
+    "nb": "å avvikle",
+    "nl": "om te stoppen",
+    "pl": "zaprzestać",
+    "pt": "interromper",
+    "ro": "să întrerupă",
+    "ru": "прекратить",
+    "sk": "ukončiť",
+    "sl": "prenehati",
+    "sv": "att avbryta",
+    "tr": "durdurmak için",
+    "uk": "припинити",
+    "zh": "终止"
+  },
+  "verses": [
+    "daniel 4:24:9"
+  ]
+}

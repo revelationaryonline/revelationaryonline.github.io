@@ -1,0 +1,42 @@
+{
+  "number": "H7730",
+  "language": "hebrew",
+  "transliteration": "sôwbek",
+  "pronunciation": "so'-bek",
+  "definition": "a thicket, i.e. interlaced branches",
+  "kjvTranslation": "thick boughs.",
+  "hebrew": "שׂוֹבֶךְ",
+  "translations": {
+    "bg": "гъсталак, т.е. преплетени клони",
+    "cs": "houští, tj. propletené větve",
+    "da": "et krat, dvs. sammenflettede grene",
+    "de": "ein Dickicht, d.h. verflochtene Äste",
+    "el": "πυκνή βλάστηση, δηλαδή διαπλεκόμενα κλαδιά",
+    "es": "un matorral, es decir, ramas entrelazadas",
+    "et": "põimik, st põimunud oksad",
+    "fi": "tiheikkö, ts. toisiinsa lomittuneet oksat",
+    "fr": "un fourré, c'est-à-dire des branches entrelacées",
+    "hu": "sűrű, azaz egymásba fonódó ágakkal",
+    "id": "semak belukar, yaitu cabang-cabang yang saling bertautan",
+    "it": "un boschetto, cioè rami intrecciati",
+    "ja": "雑木林",
+    "ko": "덤불, 즉 인터레이스 된 가지",
+    "lt": "giraitė, t. y. susipynusios šakos",
+    "lv": "biezoknis, t. i., sazaroti zari",
+    "nb": "et kratt, dvs. sammenflettede grener",
+    "nl": "een struikgewas, d.w.z. verstrengelde takken",
+    "pl": "gąszcz, tj. przeplatające się gałęzie",
+    "pt": "um matagal, ou seja, ramos entrelaçados",
+    "ro": "un desiș, adică ramuri împletite",
+    "ru": "чаща, т.е. переплетенные ветви",
+    "sk": "húština, t. j. prepletené konáre",
+    "sl": "grmičevje, tj. prepletene veje",
+    "sv": "en snårskog, dvs. sammanflätade grenar",
+    "tr": "bir çalılık, yani iç içe geçmiş dallar",
+    "uk": "зарості, тобто переплетені гілки",
+    "zh": "丛，即交错的树枝"
+  },
+  "verses": [
+    "secondSamuel 18:9:12"
+  ]
+}

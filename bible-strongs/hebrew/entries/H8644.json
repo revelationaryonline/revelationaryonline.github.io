@@ -1,0 +1,42 @@
+{
+  "number": "H8644",
+  "language": "hebrew",
+  "transliteration": "tᵉrûwphâh",
+  "pronunciation": "ter-oo-faw'",
+  "definition": "a remedy",
+  "kjvTranslation": "medicine.",
+  "hebrew": "תְּרוּפָה",
+  "translations": {
+    "bg": "средство за защита",
+    "cs": "opravný prostředek",
+    "da": "et middel",
+    "de": "ein Rechtsmittel",
+    "el": "μια θεραπεία",
+    "es": "un remedio",
+    "et": "abinõu",
+    "fi": "apu",
+    "fr": "un recours",
+    "hu": "a jogorvoslat",
+    "id": "obat",
+    "it": "un rimedio",
+    "ja": "治療薬",
+    "ko": "치료법",
+    "lt": "teisių gynimo priemonė",
+    "lv": "tiesiskās aizsardzības līdzeklis",
+    "nb": "et middel",
+    "nl": "een remedie",
+    "pl": "środek zaradczy",
+    "pt": "uma solução",
+    "ro": "un remediu",
+    "ru": "средство",
+    "sk": "prostriedok nápravy",
+    "sl": "pravno sredstvo",
+    "sv": "ett botemedel",
+    "tr": "bir çare",
+    "uk": "ліки",
+    "zh": "补救"
+  },
+  "verses": [
+    "ezekiel 47:12:29"
+  ]
+}

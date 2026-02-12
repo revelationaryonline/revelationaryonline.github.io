@@ -1,0 +1,42 @@
+{
+  "number": "H2737",
+  "language": "hebrew",
+  "transliteration": "chârûwz",
+  "pronunciation": "khaw-rooz'",
+  "definition": "properly, pierced, i.e. a bead of pearl, gems or jewels (as strung)",
+  "kjvTranslation": "chain.",
+  "translations": {
+    "bg": "правилно, пробит, т.е. перла, скъпоценни камъни или бижута (като нанизани)",
+    "cs": "správně propíchnutý, tj. korálek z perel, drahokamů nebo šperků (navlečený)",
+    "da": "korrekt, gennemboret, dvs. en perle af perler, ædelstene eller juveler (som ophængt)",
+    "de": "richtig, durchbohrt, d.h. eine Perle aus Perlen, Edelsteinen oder Juwelen (wie aufgereiht)",
+    "el": "σωστά, τρυπημένο, δηλαδή μια χάντρα από μαργαριτάρι, πολύτιμους λίθους ή κοσμήματα (όπως είναι σε σειρά)",
+    "es": "propiamente, perforado, es decir, una cuenta de perlas, gemas o joyas (como ensartadas)",
+    "et": "korralikult, augustatud, s.t. pärl, kalliskivid või juveelid (nagu ülesköetud)",
+    "fi": "oikein, lävistetty, ts. helmihelmi, jalokiviä tai jalokiviä (jousitettuna)",
+    "fr": "proprement, percé, c'est-à-dire une perle, des pierres précieuses ou des bijoux (comme enfilés)",
+    "hu": "megfelelően, átlyuggatott, azaz gyöngy, drágakő vagy ékszer (mint felfűzött gyöngy)",
+    "id": "benar, ditindik, yaitu manik-manik mutiara, permata atau permata (seperti dirangkai)",
+    "it": "propriamente, forato, cioè una perla, una gemma o un gioiello (infilato)",
+    "ja": "真珠",
+    "ko": "제대로, 피어싱, 즉 진주 구슬, 보석 또는 보석 (끈으로 묶은 상태)",
+    "lt": "tinkamai, pradurtas, t. y. perlų, brangakmenių ar brangakmenių karoliukas (kaip pakabintas)",
+    "lv": "pareizi, caurdurts, t.i., pērļu, dārgakmeņu vai dārgakmeņu krelles (kā virtenē)",
+    "nb": "egentlig, gjennomboret, dvs. en perle av perle, edelstener eller juveler (som opphengt)",
+    "nl": "doorboord, d.w.z. een parelkraal, edelsteen of juweel (zoals geregen)",
+    "pl": "odpowiednio, przebity, tj. koralik z pereł, klejnotów lub klejnotów (jako nawleczony)",
+    "pt": "propriamente dita, perfurada, ou seja, uma conta de pérola, de gemas ou de jóias (tal como enfiadas)",
+    "ro": "în mod corespunzător, străpuns, adică un mărgăritar de perle, pietre prețioase sau bijuterii (înșirate)",
+    "ru": "правильно, проколотый, т.е. бусина из жемчуга, драгоценных камней или драгоценностей (нанизанная)",
+    "sk": "správne, prepichnutý, t. j. korálik z perál, drahokamov alebo šperkov (ako navlečený)",
+    "sl": "pravilno, preluknjan, tj. biser, dragulj ali dragulj (kot nanizan)",
+    "sv": "korrekt, genomborrad, dvs. en pärla av pärla, ädelstenar eller juveler (som uppträdda)",
+    "tr": "uygun şekilde, delinmiş, yani inci, değerli taşlar veya mücevherlerden oluşan bir boncuk (dizilmiş olarak)",
+    "uk": "власне, пронизана, тобто намистина з перлів, дорогоцінних каменів або коштовного каміння (у нанизаному вигляді)",
+    "zh": "穿，即珍珠、宝石或珠宝串成的珠子"
+  },
+  "hebrew": "חָרוּז",
+  "verses": [
+    "solomon 1:10:4"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2956",
+  "language": "hebrew",
+  "transliteration": "ṭârad",
+  "pronunciation": "taw-rad'",
+  "definition": "to drive on; figuratively, to follow close",
+  "kjvTranslation": "continual.",
+  "translations": {
+    "bg": "да се движа; в преносен смисъл, да следвам отблизо",
+    "cs": "jet dál; přeneseně, následovat těsně za sebou",
+    "da": "at køre videre; i overført betydning at følge tæt efter",
+    "de": "weiterfahren; im übertragenen Sinne: dicht folgen",
+    "el": "μεταφορικά, να ακολουθήσετε από κοντά",
+    "es": "conducir; en sentido figurado, seguir de cerca",
+    "et": "edasi sõita; piltlikult öeldes, lähedalt järgida",
+    "fi": "ajaa eteenpäin; kuvaannollisesti, seurata läheltä",
+    "fr": "rouler ; au sens figuré, suivre de près",
+    "hu": "továbbhajtani; átvitt értelemben, szorosan követni",
+    "id": "untuk terus melaju; secara kiasan, mengikuti dari dekat",
+    "it": "andare avanti; in senso figurato, seguire da vicino",
+    "ja": "比喩的に、近くを追いかける。",
+    "ko": "운전하다; 비유적으로, 가까이 따라가다",
+    "lt": "važiuoti; perkeltine prasme - sekti iš paskos",
+    "lv": "braukt; pārnestā nozīmē - cieši sekot līdzi",
+    "nb": "å kjøre på; i overført betydning, å følge tett",
+    "nl": "doorrijden; figuurlijk, op de voet volgen",
+    "pl": "jechać dalej; w przenośni, podążać blisko",
+    "pt": "conduzir; figurativamente, seguir de perto",
+    "ro": "a merge mai departe; la figurat, a urmări îndeaproape",
+    "ru": "ехать дальше; образно говоря, следовать вплотную",
+    "sk": "jazdiť ďalej; v prenesenom význame nasledovať v tesnej blízkosti",
+    "sl": "voziti naprej; v prenesenem pomenu, tesno slediti",
+    "sv": "att köra vidare; bildligt talat, att följa tätt efter",
+    "tr": "devam etmek; mecazi olarak, yakından takip etmek",
+    "uk": "їхати далі; образно, слідувати впритул",
+    "zh": "驱赶；比喻紧紧跟随"
+  },
+  "hebrew": "טָרַד",
+  "verses": [
+    "proverbs 19:13:5",
+    "proverbs 27:15:1"
+  ]
+}

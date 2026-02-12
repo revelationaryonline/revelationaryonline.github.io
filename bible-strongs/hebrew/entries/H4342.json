@@ -1,0 +1,42 @@
+{
+  "number": "H4342",
+  "language": "hebrew",
+  "transliteration": "makbîyr",
+  "pronunciation": "mak-beer'",
+  "definition": "plenty",
+  "kjvTranslation": "abundance.",
+  "hebrew": "מַכְבִּיר",
+  "translations": {
+    "bg": "много",
+    "cs": "spousta",
+    "da": "masser",
+    "de": "viel",
+    "el": "αφθονία",
+    "es": "abundante",
+    "et": "palju",
+    "fi": "runsaasti",
+    "fr": "abondance",
+    "hu": "rengeteg",
+    "id": "banyak",
+    "it": "abbondanza",
+    "ja": "たくさん",
+    "ko": "plenty",
+    "lt": "daug",
+    "lv": "daudz",
+    "nb": "mye",
+    "nl": "veel",
+    "pl": "dużo",
+    "pt": "muito",
+    "ro": "abundență",
+    "ru": "много",
+    "sk": "veľa",
+    "sl": "veliko",
+    "sv": "många",
+    "tr": "bol miktarda",
+    "uk": "багато",
+    "zh": "宽裕"
+  },
+  "verses": [
+    "job 36:31:6"
+  ]
+}

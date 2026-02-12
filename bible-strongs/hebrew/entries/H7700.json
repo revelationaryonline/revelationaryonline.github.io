@@ -1,0 +1,43 @@
+{
+  "number": "H7700",
+  "language": "hebrew",
+  "transliteration": "shêd",
+  "pronunciation": "shade",
+  "definition": "a doemon (as malignant)",
+  "kjvTranslation": "devil.",
+  "hebrew": "שֵׁד",
+  "translations": {
+    "bg": "doemon (като злокачествен)",
+    "cs": "a doemon (jako maligní)",
+    "da": "en doemon (som ondartet)",
+    "de": "ein Dämon (als bösartig)",
+    "el": "ένα δαιμόνιο (ως κακοήθης)",
+    "es": "un doemón (como maligno)",
+    "et": "doemon (kui pahaloomuline)",
+    "fi": "doemon (kuten pahanlaatuinen)",
+    "fr": "un doemon (comme malin)",
+    "hu": "egy doemon (mint rosszindulatú)",
+    "id": "seekor doemon (sama ganasnya)",
+    "it": "un doemone (come maligno)",
+    "ja": "悪鬼",
+    "ko": "도깨비(악성)",
+    "lt": "doemon (kaip piktybinis)",
+    "lv": "doemon (kā ļaundabīgs)",
+    "nb": "en doemon (som ondartet)",
+    "nl": "een doemon (als kwaadaardig)",
+    "pl": "doemon (jako złośliwy)",
+    "pt": "um doemon (como maligno)",
+    "ro": "a doemon (ca malign)",
+    "ru": "доемон (как злокачественный)",
+    "sk": "doemon (ako malígny)",
+    "sl": "doemon (kot maligni)",
+    "sv": "en doemon (som elakartad)",
+    "tr": "bir doemon (kötü huylu olarak)",
+    "uk": "доемон (як злоякісний)",
+    "zh": "恶魔"
+  },
+  "verses": [
+    "deuteronomy 32:17:1",
+    "psalms 106:37:5"
+  ]
+}

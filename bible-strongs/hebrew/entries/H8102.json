@@ -1,0 +1,43 @@
+{
+  "number": "H8102",
+  "language": "hebrew",
+  "transliteration": "shemets",
+  "pronunciation": "sheh'-mets",
+  "definition": "an inkling",
+  "kjvTranslation": "a little.",
+  "hebrew": "שֶׁמֶץ",
+  "translations": {
+    "bg": "предчувствие",
+    "cs": "náznak",
+    "da": "en anelse",
+    "de": "eine Ahnung",
+    "el": "μια υποψία",
+    "es": "un indicio",
+    "et": "aimdus",
+    "fi": "aavistus",
+    "fr": "un soupçon",
+    "hu": "egy sejtés",
+    "id": "firasat",
+    "it": "un sentore",
+    "ja": "仄か",
+    "ko": "힌트",
+    "lt": "įtarimas",
+    "lv": "priekšstats",
+    "nb": "en anelse",
+    "nl": "een flauw vermoeden",
+    "pl": "przeczucie",
+    "pt": "um indício",
+    "ro": "o bănuială",
+    "ru": "намёк",
+    "sk": "náznak",
+    "sl": "slutnja",
+    "sv": "en aning",
+    "tr": "bir ipucu",
+    "uk": "здогад",
+    "zh": "端倪"
+  },
+  "verses": [
+    "job 4:12:5",
+    "job 26:14:6"
+  ]
+}

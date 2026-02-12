@@ -1,0 +1,43 @@
+{
+  "number": "H3846",
+  "language": "hebrew",
+  "transliteration": "Libnîy",
+  "pronunciation": "lib-nee'",
+  "definition": "a Libnite or descendants of Libni (collectively)",
+  "kjvTranslation": "Libnites.",
+  "hebrew": "לִבְנִי",
+  "translations": {
+    "bg": "libnite или потомци на Libni (колективно)",
+    "cs": "libnité nebo potomci Libnitů (společně)",
+    "da": "en libnit eller efterkommere af libni (kollektivt)",
+    "de": "ein Libnit oder die Nachkommenschaft der Libni (kollektiv)",
+    "el": "λιβνίτης ή απόγονοι των Λιβνίων (συλλογικά)",
+    "es": "un Libnita o descendientes de Libni (colectivamente)",
+    "et": "libniit või Libni järeltulijad (kollektiivselt)",
+    "fi": "libniläinen tai Libnin jälkeläiset (kollektiivisesti)",
+    "fr": "un Libnite ou des descendants de Libni (collectivement)",
+    "hu": "libniták vagy Libni leszármazottai (együttesen)",
+    "id": "seorang Libnite atau keturunan Libni (secara kolektif)",
+    "it": "un Libnite o discendenti di Libni (collettivamente)",
+    "ja": "リブニ人またはリブニの子孫（総称）",
+    "ko": "리브나이트 또는 리브니의 후손(총칭)",
+    "lt": "libnitas arba Libni palikuonys (bendrai)",
+    "lv": "libnīti vai Libnītu pēcteči (kopā)",
+    "nb": "en libnit eller etterkommere av libni (kollektivt)",
+    "nl": "een Libniet of afstammelingen van Libni (gezamenlijk)",
+    "pl": "libnita lub potomkowie Libni (łącznie)",
+    "pt": "um Libnita ou descendentes de Libni (coletivamente)",
+    "ro": "un Libnite sau descendenți ai Libni (colectiv)",
+    "ru": "либнит или потомки Либни (все вместе)",
+    "sk": "libnit alebo potomkovia Libnitov (spoločne)",
+    "sl": "libniti ali potomci Libnijcev (skupaj)",
+    "sv": "en Libnit eller ättlingar till Libni (kollektivt)",
+    "tr": "bir Libnite veya Libni'nin soyundan gelenler (topluca)",
+    "uk": "лівійцем або нащадком лівійців (разом)",
+    "zh": "利比尼人或利比尼人的后裔（统称）"
+  },
+  "verses": [
+    "numbers 3:21:2",
+    "numbers 26:58:4"
+  ]
+}

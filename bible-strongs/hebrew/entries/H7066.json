@@ -1,0 +1,42 @@
+{
+  "number": "H7066",
+  "language": "hebrew",
+  "transliteration": "qᵉnâʼ",
+  "pronunciation": "ken-aw'",
+  "definition": "to purchase",
+  "kjvTranslation": "buy.",
+  "hebrew": "קְנָא",
+  "translations": {
+    "bg": "да закупите",
+    "cs": "k nákupu",
+    "da": "at købe",
+    "de": "zu kaufen",
+    "el": "για την αγορά",
+    "es": "comprar",
+    "et": "osta",
+    "fi": "ostaa",
+    "fr": "pour acheter",
+    "hu": "vásárlásra",
+    "id": "untuk membeli",
+    "it": "per l'acquisto",
+    "ja": "購入する",
+    "ko": "구매하기",
+    "lt": "įsigyti",
+    "lv": "iegādāties",
+    "nb": "for å kjøpe",
+    "nl": "om te kopen",
+    "pl": "zakup",
+    "pt": "para comprar",
+    "ro": "pentru a achiziționa",
+    "ru": "приобрести",
+    "sk": "na nákup",
+    "sl": "za nakup",
+    "sv": "att köpa",
+    "tr": "satın almak için",
+    "uk": "придбати",
+    "zh": "购买"
+  },
+  "verses": [
+    "ezra 7:17:4"
+  ]
+}

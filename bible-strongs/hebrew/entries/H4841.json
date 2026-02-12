@@ -1,0 +1,43 @@
+{
+  "number": "H4841",
+  "language": "hebrew",
+  "transliteration": "merqâchâh",
+  "pronunciation": "mer-kaw-khaw'",
+  "definition": "abstractly, a seasoning (with spicery); concretely, an unguentkettle (for preparing spiced oil)",
+  "kjvTranslation": "pot of ointment, [idiom] well.",
+  "hebrew": "מֶרְקָחָה",
+  "translations": {
+    "bg": "абстрактно - подправка (с подправки); конкретно - унгвент (за приготвяне на олио с подправки)",
+    "cs": "abstraktně, koření (s kořením); konkrétně, kořenka (na přípravu kořeněného oleje)",
+    "da": "abstrakt, et krydderi (med krydderier); konkret, en salvekedel (til fremstilling af krydret olie)",
+    "de": "abstrakt, eine Würzung (mit Gewürzen); konkret, ein Salbenkessel (zur Zubereitung von Gewürzöl)",
+    "el": "αφηρημένα, ένα καρύκευμα (με μπαχαρικά)- συγκεκριμένα, ένας χύτρα για αλοιφές (για την παρασκευή λαδιού με μπαχαρικά)",
+    "es": "en abstracto, un condimento (con especias); en concreto, un ungüentario (para preparar aceite especiado)",
+    "et": "abstraktselt maitseaine (vürtsidega); konkreetselt unguentkett (vürtsitud õli valmistamiseks)",
+    "fi": "abstraktisti, maustaminen (mausteilla); konkreettisesti, unguentkettle (maustetun öljyn valmistukseen)",
+    "fr": "abstraitement, un assaisonnement (avec des épices) ; concrètement, une bouilloire à onguents (pour préparer de l'huile épicée)",
+    "hu": "elvontan, fűszerezés (fűszerezéssel); konkrétan, unguentkettle (fűszeres olaj készítésére)",
+    "id": "secara abstrak, bumbu (dengan rempah-rempah); secara konkret, unguentkettle (untuk menyiapkan minyak berbumbu)",
+    "it": "astrattamente, un condimento (con spezie); concretamente, un unguentkettle (per preparare olio speziato)",
+    "ja": "抽象的には（香辛料を使った）調味料、具体的には（香味油を調製するための）アングエントケトル",
+    "ko": "추상적으로는 조미료 (매운맛 포함); 구체적으로는 언 겐트 케틀 (향신료 기름 준비 용)",
+    "lt": "abstrakčiai - prieskonis (su prieskoniais); konkrečiai - unguentkettle (prieskoniniam aliejui ruošti)",
+    "lv": "abstrakti - garšviela (ar garšvielām); konkrēti - degvīna katls (garšvielu eļļas pagatavošanai)",
+    "nb": "abstrakt, et krydder (med krydderier); konkret, en salvekjele (for tilberedning av krydret olje)",
+    "nl": "abstract: een kruiderij (met specerijen); concreet: een zalfketel (voor het bereiden van gekruide olie)",
+    "pl": "abstrakcyjnie, przyprawa (z przyprawami); konkretnie, unguentkettle (do przygotowywania przyprawionego oleju)",
+    "pt": "abstratamente, um tempero (com especiarias); concretamente, um unguentário (para preparar óleo condimentado)",
+    "ro": "abstract, un condiment (cu mirodenii); concret, un unguentkettle (pentru prepararea uleiului condimentat)",
+    "ru": "абстрактно - приправа (с пряностями); конкретно - унженткотёл (для приготовления масла с пряностями)",
+    "sk": "abstraktne, korenie (s korením); konkrétne, unguentkettle (na prípravu koreneného oleja)",
+    "sl": "abstraktno, začimba (z začimbami); konkretno, kotel za pripravo olja z začimbami (za pripravo olja z začimbami)",
+    "sv": "abstrakt, en krydda (med kryddor); konkret, en unguentkittel (för beredning av kryddad olja)",
+    "tr": "soyut olarak, bir baharat (baharatlı); somut olarak, bir unguentkettle (baharatlı yağ hazırlamak için)",
+    "uk": "абстрактно - приправа (до прянощів); конкретно - унгуртниця (для приготування пряної олії)",
+    "zh": "抽象地说，是一种调味料（用香料）；具体地说，是一种unguentkettle（用于调制香油）。"
+  },
+  "verses": [
+    "job 41:23:5",
+    "ezekiel 24:10:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7672",
+  "language": "hebrew",
+  "transliteration": "shᵉbash",
+  "pronunciation": "sheb-ash'",
+  "definition": "to entangle, i.e. perplex",
+  "kjvTranslation": "be astonished.",
+  "hebrew": "שְׁבַשׁ",
+  "translations": {
+    "bg": "да се заплита, т.е. да обърква",
+    "cs": "zamotat, tj. zmást",
+    "da": "at vikle sig ind i hinanden, dvs. forvirre",
+    "de": "verwirren, d.h. verwirren lassen",
+    "el": "να μπερδεύει, δηλαδή να μπερδεύει",
+    "es": "enredar, es decir, dejar perplejo",
+    "et": "segadusse ajada, s.t. segadusse ajada",
+    "fi": "sotkea eli hämmentää",
+    "fr": "s'emmêler, c'est-à-dire être perplexe",
+    "hu": "összezavarodni, azaz összezavarodni",
+    "id": "untuk menjerat, yaitu membingungkan",
+    "it": "ingarbugliare, cioè lasciare perplessi",
+    "ja": "もつれさせる",
+    "ko": "얽히다, 즉 난처하게 하다",
+    "lt": "supainioti, t. y. supainioti",
+    "lv": "apgrūtināt, t.i., mulsināt",
+    "nb": "å vikle seg inn i, dvs. forvirre",
+    "nl": "verstrikken, d.w.z. verwarren",
+    "pl": "zaplątać się, tj. zakłopotać",
+    "pt": "emaranhar, ou seja, deixar perplexo",
+    "ro": "a încurca, adică a lăsa perplex",
+    "ru": "запутывать, т.е. приводить в замешательство",
+    "sk": "zamotať, t. j. zmiasť",
+    "sl": "zapletati, tj. motiti",
+    "sv": "att trassla in sig, dvs. förvirra",
+    "tr": "dolaştırmak, yani şaşırtmak",
+    "uk": "заплутувати, тобто спантеличувати",
+    "zh": "纠缠，即迷惑"
+  },
+  "verses": [
+    "daniel 5:9:9"
+  ]
+}

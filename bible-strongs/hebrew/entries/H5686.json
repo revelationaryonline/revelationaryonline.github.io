@@ -1,0 +1,42 @@
+{
+  "number": "H5686",
+  "language": "hebrew",
+  "transliteration": "ʻâbath",
+  "pronunciation": "aw-bath'",
+  "definition": "to interlace, i.e. (figuratively) to pervert",
+  "kjvTranslation": "wrap up.",
+  "hebrew": "עָבַת",
+  "translations": {
+    "bg": "да се преплита, т.е. (в преносен смисъл) да се изкривява",
+    "cs": "proplétat, tj. (obrazně) zvrhnout",
+    "da": "at sammenflette, dvs. (i overført betydning) at pervertere",
+    "de": "verschachteln, d.h. (im übertragenen Sinne) pervertieren",
+    "el": "να διαπλέκω, δηλαδή (μεταφορικά) να διαστρεβλώνω",
+    "es": "entrelazar, es decir (figuradamente) pervertir",
+    "et": "põimida, s.t. (piltlikult) perverteerida",
+    "fi": "sekoittaa, eli (kuvaannollisesti) vääristää",
+    "fr": "entrelacer, c'est-à-dire (au sens figuré) pervertir",
+    "hu": "összekapcsolni, azaz (átvitt értelemben) elferdíteni",
+    "id": "untuk menjalin, yaitu (secara kiasan) untuk memutarbalikkan",
+    "it": "intrecciare, ossia (in senso figurato) pervertire",
+    "ja": "交錯させる、すなわち（比喩的に）曲解する",
+    "ko": "인터레이스하다, 즉 (비유적으로) 변태하다",
+    "lt": "persipinti, t. y. (perkeltine prasme) iškreipti",
+    "lv": "pārklāt, t.i., (pārnestā nozīmē) izkropļot",
+    "nb": "å flette sammen, dvs. (i overført betydning) å pervertere",
+    "nl": "vervlechten, d.w.z. (figuurlijk) perverteren",
+    "pl": "przeplatać, tj. (w przenośni) wypaczać",
+    "pt": "entrelaçar, isto é, (figurativamente) perverter",
+    "ro": "a împleti, adică (la figurat) a perverti",
+    "ru": "переплетаться, т.е. (фигурально) извращаться",
+    "sk": "prelínať, t. j. (obrazne) prekrúcať",
+    "sl": "prepletati, tj. (v prenesenem pomenu) sprevračati",
+    "sv": "att sammanflätas, dvs. (bildligt talat) att förvanska",
+    "tr": "birbirine geçirmek, yani (mecazi olarak) saptırmak",
+    "uk": "переплітати, тобто (образно) збочувати",
+    "zh": "穿插，即（比喻）颠倒是非"
+  },
+  "verses": [
+    "micah 7:3:13"
+  ]
+}

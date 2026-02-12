@@ -1,0 +1,42 @@
+{
+  "number": "H6261",
+  "language": "hebrew",
+  "transliteration": "ʻittîy",
+  "pronunciation": "it-tee'",
+  "definition": "timely",
+  "kjvTranslation": "fit.",
+  "hebrew": "עִתִּי",
+  "translations": {
+    "bg": "своевременно",
+    "cs": "včas",
+    "da": "rettidigt",
+    "de": "rechtzeitige",
+    "el": "έγκαιρη",
+    "es": "a tiempo",
+    "et": "õigeaegne",
+    "fi": "ajoissa",
+    "fr": "en temps utile",
+    "hu": "időben",
+    "id": "tepat waktu",
+    "it": "tempestivamente",
+    "ja": "タイムリー",
+    "ko": "시기적절",
+    "lt": "laiku",
+    "lv": "savlaicīgi",
+    "nb": "betimelig",
+    "nl": "tijdig",
+    "pl": "na czas",
+    "pt": "oportuno",
+    "ro": "în timp util",
+    "ru": "своевременно",
+    "sk": "včas",
+    "sl": "pravočasno",
+    "sv": "i rätt tid",
+    "tr": "zamanında",
+    "uk": "своєчасний",
+    "zh": "及时"
+  },
+  "verses": [
+    "leviticus 16:21:30"
+  ]
+}

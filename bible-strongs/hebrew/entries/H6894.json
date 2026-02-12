@@ -1,0 +1,42 @@
+{
+  "number": "H6894",
+  "language": "hebrew",
+  "transliteration": "qab",
+  "pronunciation": "kab",
+  "definition": "a hollow, i.e. vessel used as a (dry) measure",
+  "kjvTranslation": "cab.",
+  "hebrew": "קַב",
+  "translations": {
+    "bg": "кух, т.е. съд, използван като (суха) мярка",
+    "cs": "dutá, tj. nádoba používaná jako (suchá) míra",
+    "da": "et hult, dvs. et kar, der bruges som (tørt) mål",
+    "de": "ein hohles, d.h. als (trockenes) Maß verwendetes Gefäß",
+    "el": "ένα κοίλο, δηλ. δοχείο που χρησιμοποιείται ως (ξηρό) μέτρο",
+    "es": "un recipiente hueco, es decir, utilizado como medida (seca)",
+    "et": "õõnes, st (kuiva) mõõdupuuna kasutatav anum",
+    "fi": "ontto eli (kuivana) mittana käytettävä astia",
+    "fr": "un récipient creux, c'est-à-dire utilisé comme mesure (sèche)",
+    "hu": "üreges, azaz (száraz) mérőeszközként használt edény",
+    "id": "berongga, yaitu bejana yang digunakan sebagai pengukur (kering)",
+    "it": "un recipiente cavo, cioè utilizzato come misura (a secco)",
+    "ja": "枡",
+    "ko": "속이 빈, 즉 (건조한) 척도로 사용되는 용기",
+    "lt": "tuščiaviduris, t. y. indas, naudojamas kaip (sausa) priemonė",
+    "lv": "dobu, t. i., trauku, ko izmanto kā (sausu) mērvienību",
+    "nb": "et hult, dvs. et kar som brukes som (tørt) mål",
+    "nl": "een hol, d.w.z. vat dat als (droge) maat wordt gebruikt",
+    "pl": "puste, tj. naczynie używane jako (sucha) miara",
+    "pt": "um recipiente oco, isto é, utilizado como medida (seca)",
+    "ro": "un vas gol, adică folosit ca măsură (uscată)",
+    "ru": "полый, т.е. используемый в качестве (сухой) меры сосуд",
+    "sk": "dutá, t. j. nádoba používaná ako (suchá) miera",
+    "sl": "votla, tj. posoda, ki se uporablja kot (suha) mera",
+    "sv": "ett ihåligt, dvs. kärl som används som (torrt) mått",
+    "tr": "içi boş, yani (kuru) ölçü olarak kullanılan bir kap",
+    "uk": "порожнину, тобто посудину, що використовується як (суха) міра",
+    "zh": "膛"
+  },
+  "verses": [
+    "secondKings 6:25:14"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6576",
+  "language": "hebrew",
+  "transliteration": "parshêz",
+  "pronunciation": "par-shaze'",
+  "definition": "to expand",
+  "kjvTranslation": "spread.",
+  "hebrew": "פַּרְשֵׁז",
+  "translations": {
+    "bg": "да се разшири",
+    "cs": "rozšířit",
+    "da": "for at udvide",
+    "de": "zu erweitern",
+    "el": "να επεκταθεί",
+    "es": "ampliar",
+    "et": "laiendada",
+    "fi": "laajentaa",
+    "fr": "d'élargir",
+    "hu": "bővíteni",
+    "id": "untuk memperluas",
+    "it": "per espandersi",
+    "ja": "拡大する",
+    "ko": "확장하려면",
+    "lt": "išplėsti",
+    "lv": "paplašināt",
+    "nb": "for å utvide",
+    "nl": "uitbreiden",
+    "pl": "rozwijać się",
+    "pt": "para expandir",
+    "ro": "să se extindă",
+    "ru": "расширяться",
+    "sk": "rozšíriť",
+    "sl": "za razširitev",
+    "sv": "för att expandera",
+    "tr": "genişletmek için",
+    "uk": "розширити",
+    "zh": "扩大"
+  },
+  "verses": [
+    "job 26:9:3"
+  ]
+}

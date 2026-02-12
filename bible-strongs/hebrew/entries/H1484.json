@@ -1,0 +1,43 @@
+{
+  "number": "H1484",
+  "language": "hebrew",
+  "transliteration": "gôwr",
+  "pronunciation": "gore",
+  "definition": "{a cub (as still abiding in the lair), especially of the lion}",
+  "kjvTranslation": "whelp.",
+  "translations": {
+    "bg": "{младо (като все още оставащо в леговището), особено на лъва}",
+    "cs": "{mládě (jako stále v doupěti), zejména lva}",
+    "da": "{en unge (som stadig opholder sig i hulen), især af løven}",
+    "de": "{ein Jungtier (das sich noch in der Höhle aufhält), insbesondere des Löwen}",
+    "el": "{ένα μικρό (που παραμένει ακόμα στη φωλιά του), ιδίως του λιονταριού}",
+    "es": "{un cachorro (que aún permanece en la guarida), especialmente del león}",
+    "et": "{poeg (nagu ikka veel pesas viibiv), eriti lõvi)",
+    "fi": "{pentu (koska se on vielä pesässä), erityisesti leijonan pentu}",
+    "fr": "{un lionceau (comme demeurant encore dans sa tanière), en particulier du lion}",
+    "hu": "{kölyök (mint aki még mindig a barlangban tartózkodik), különösen az oroszláné}",
+    "id": "{anak singa (yang masih tinggal di sarang), terutama singa}",
+    "it": "{un cucciolo (come se fosse ancora nella tana), specialmente di leone.}",
+    "ja": "{特にライオンの）子グマ}。",
+    "ko": "(아직 은신처에 머물고 있는) 새끼 사자, 특히 사자의 새끼}",
+    "lt": "{Liūto jauniklis (tebesantis glėbyje), ypač liūto}",
+    "lv": "{bērns (kā vēl mīt mītnē), īpaši lauva}",
+    "nb": "{en unge (som fortsatt oppholder seg i hiet), spesielt av løven}",
+    "nl": "{een welp (die nog in het hol verblijft), vooral van de leeuw}",
+    "pl": "(młode (wciąż przebywające w legowisku), zwłaszcza lwa)",
+    "pt": "{uma cria (como se ainda estivesse no covil), especialmente do leão}",
+    "ro": "{un pui (care stă încă în vizuină), în special de leu}",
+    "ru": "{детеныш (как еще находящийся в логове), особенно у льва}",
+    "sk": "{mláďa (ako stále v brlohu), najmä leva}",
+    "sl": "{mladič (ki je še vedno v brlogu), zlasti levov}",
+    "sv": "{en unge (som fortfarande uppehåller sig i lyan), särskilt av lejonet}",
+    "tr": "{özellikle aslan yavrusu (hala ininde yaşıyormuş gibi)}",
+    "uk": "{дитинча (яке все ще перебуває в лігві), особливо лев'яче}",
+    "zh": "{幼崽（仍在巢穴中），尤其是狮子的幼崽｝"
+  },
+  "hebrew": "גּוֹר",
+  "verses": [
+    "jeremiah 51:38:4",
+    "nahum 2:13:3"
+  ]
+}

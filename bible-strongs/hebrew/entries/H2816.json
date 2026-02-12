@@ -1,0 +1,42 @@
+{
+  "number": "H2816",
+  "language": "hebrew",
+  "transliteration": "chăshôwk",
+  "pronunciation": "khash-oke'",
+  "definition": "the dark",
+  "kjvTranslation": "darkness.",
+  "translations": {
+    "bg": "тъмнината",
+    "cs": "tma",
+    "da": "det mørke",
+    "de": "die Dunkelheit",
+    "el": "το σκοτάδι",
+    "es": "la oscuridad",
+    "et": "pimedus",
+    "fi": "pimeys",
+    "fr": "l'obscurité",
+    "hu": "a sötétség",
+    "id": "gelap",
+    "it": "il buio",
+    "ja": "暗闇",
+    "ko": "어둠",
+    "lt": "tamsoje",
+    "lv": "tumsā",
+    "nb": "mørket",
+    "nl": "het donker",
+    "pl": "ciemność",
+    "pt": "o escuro",
+    "ro": "întunericul",
+    "ru": "тёмный",
+    "sk": "tma",
+    "sl": "tema",
+    "sv": "mörkret",
+    "tr": "karanlık",
+    "uk": "темрява",
+    "zh": "月黑"
+  },
+  "hebrew": "חֲשׁוֹךְ",
+  "verses": [
+    "daniel 2:22:6"
+  ]
+}

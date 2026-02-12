@@ -1,0 +1,42 @@
+{
+  "number": "H1103",
+  "language": "hebrew",
+  "transliteration": "bâlaç",
+  "pronunciation": "baw-las'",
+  "definition": "to pinch sycamore figs (a process necessary to ripen them)",
+  "kjvTranslation": "gatherer.",
+  "translations": {
+    "bg": "за притискане на смокини от явор (процес, необходим за узряването им)",
+    "cs": "štípání fíků (proces nutný k jejich dozrání)",
+    "da": "til at knibe platanfigner (en proces, der er nødvendig for at modne dem)",
+    "de": "zum Einstechen von Maulbeerfeigen (ein Vorgang, der zur Reifung der Feigen notwendig ist)",
+    "el": "για να τσιμπήσουν τα σύκα πλατάνου (διαδικασία απαραίτητη για την ωρίμανσή τους)",
+    "es": "pellizcar los higos sicomoros (proceso necesario para madurarlos)",
+    "et": "viigimarjade pigistamine (protsess, mis on vajalik nende valmimiseks)",
+    "fi": "sycamore-viikunoiden nipistäminen (niiden kypsyttämiseksi tarvittava prosessi)",
+    "fr": "pour pincer les figues de sycomore (opération nécessaire pour les faire mûrir)",
+    "hu": "a platánfüge csipegetése (az érleléshez szükséges folyamat)",
+    "id": "untuk mencubit buah ara sycamore (proses yang diperlukan untuk mematangkannya)",
+    "it": "pizzicare i fichi di platano (processo necessario per la loro maturazione)",
+    "ja": "スズカケノキのイチジクをつまむ（完熟させるために必要な作業）",
+    "ko": "플라타너스 무화과를 꼬집는 방법(무화과를 익히는 데 필요한 과정)",
+    "lt": "suspausti platano figas (procesas, būtinas joms sunokinti)",
+    "lv": "šķipsnīt plūškoka vīģes (process, kas nepieciešams, lai tās nogatavinātos)",
+    "nb": "å klype platanfiken (en prosess som er nødvendig for å modne den)",
+    "nl": "vijgen knijpen (een proces dat nodig is om ze te laten rijpen)",
+    "pl": "szczypanie fig jaworowych (proces niezbędny do ich dojrzewania)",
+    "pt": "para beliscar os figos da índia (processo necessário para os amadurecer)",
+    "ro": "pentru a ciupi smochinele sycamore (un proces necesar pentru a le coace)",
+    "ru": "пощипать фиги с платана (это необходимо для их созревания)",
+    "sk": "na štípanie fíg (proces potrebný na ich dozrievanie)",
+    "sl": "za ščipanje fig (postopek, ki je potreben za njihovo zorenje)",
+    "sv": "för att nypa sycamorefikon (en process som är nödvändig för att mogna dem)",
+    "tr": "çınar incirlerini çimdiklemek için (olgunlaştırmak için gerekli bir işlem)",
+    "uk": "прищипувати платан (процес, необхідний для його дозрівання)",
+    "zh": "掐无花果"
+  },
+  "hebrew": "בָּלַס",
+  "verses": [
+    "amos 7:14:15"
+  ]
+}

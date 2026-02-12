@@ -1,0 +1,43 @@
+{
+  "number": "H5384",
+  "language": "hebrew",
+  "transliteration": "nâsheh",
+  "pronunciation": "naw-sheh'",
+  "definition": "rheumatic or crippled (from the incident to Jacob)",
+  "kjvTranslation": "which shrank.",
+  "hebrew": "נָשֶׁה",
+  "translations": {
+    "bg": "ревматичен или осакатен (от инцидента с Яков)",
+    "cs": "revmatický nebo zmrzačený (od incidentu s Jákobem)",
+    "da": "reumatisk eller forkrøblet (fra hændelsen med Jakob)",
+    "de": "rheumatisch oder verkrüppelt (durch den Vorfall mit Jakob)",
+    "el": "ρευματικός ή ανάπηρος (από το περιστατικό με τον Ιακώβ)",
+    "es": "reumático o tullido (por el incidente con Jacob)",
+    "et": "reuma või invaliidistunud (Jaakobiga juhtunust)",
+    "fi": "reumaattinen tai raajarikkoinen (Jaakobille sattuneesta tapauksesta)",
+    "fr": "rhumatismal ou infirme (à partir de l'incident survenu à Jacob)",
+    "hu": "reumás vagy nyomorék (a Jákóbot ért incidens miatt)",
+    "id": "rematik atau lumpuh (sejak kejadian pada Yakub)",
+    "it": "reumatico o storpio (a causa dell'incidente a Giacobbe)",
+    "ja": "リューマチまたは不具（ヤコブの事件から）",
+    "ko": "류머티즘 또는 불구(야곱에게 일어난 사건부터)",
+    "lt": "reumato arba invalidumo (dėl įvykio su Jokūbu)",
+    "lv": "reimatisks vai sakropļots (pēc negadījuma ar Jēkabu)",
+    "nb": "revmatisk eller forkrøplet (fra hendelsen med Jakob)",
+    "nl": "reumatisch of kreupel (door het incident met Jacob)",
+    "pl": "reumatyczny lub kaleki (od incydentu z Jakubem)",
+    "pt": "reumático ou aleijado (do incidente com Jacob)",
+    "ro": "reumatic sau schilodit (din incidentul cu Iacov)",
+    "ru": "ревматик или калека (из случая с Иаковом)",
+    "sk": "reumatický alebo zmrzačený (po incidente s Jakubom)",
+    "sl": "revmatični ali pohabljeni (zaradi dogodka z Jakobom)",
+    "sv": "reumatisk eller förlamad (från händelsen till Jacob)",
+    "tr": "romatizmal ya da sakat (Yakup'a olan olaydan)",
+    "uk": "ревматик або каліка (від інциденту до Якова)",
+    "zh": "风湿或瘸子（从雅各的事件）"
+  },
+  "verses": [
+    "genesis 32:33:8",
+    "genesis 32:33:22"
+  ]
+}

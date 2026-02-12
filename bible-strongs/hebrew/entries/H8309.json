@@ -1,0 +1,42 @@
+{
+  "number": "H8309",
+  "language": "hebrew",
+  "transliteration": "shᵉrêmâh",
+  "pronunciation": "sher-ay-maw'",
+  "definition": "a common",
+  "kjvTranslation": "field.",
+  "hebrew": "שְׁרֵמָה",
+  "translations": {
+    "bg": "общ",
+    "cs": "společný",
+    "da": "en fælles",
+    "de": "eine gemeinsame",
+    "el": "ένα κοινό",
+    "es": "un común",
+    "et": "ühine",
+    "fi": "yhteinen",
+    "fr": "un commun",
+    "hu": "egy közös",
+    "id": "yang umum",
+    "it": "un comune",
+    "ja": "ありふれた",
+    "ko": "공통",
+    "lt": "bendras",
+    "lv": "kopīgs",
+    "nb": "en vanlig",
+    "nl": "een gewone",
+    "pl": "wspólny",
+    "pt": "a comum",
+    "ro": "o comună",
+    "ru": "обычный",
+    "sk": "spoločný",
+    "sl": "skupna",
+    "sv": "en gemensam",
+    "tr": "ortak bir",
+    "uk": "спільний",
+    "zh": "常见"
+  },
+  "verses": [
+    "jeremiah 31:40:5"
+  ]
+}

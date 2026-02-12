@@ -1,0 +1,42 @@
+{
+  "number": "H3973",
+  "language": "hebrew",
+  "transliteration": "mâʼôwç",
+  "pronunciation": "maw-oce'",
+  "definition": "refuse",
+  "kjvTranslation": "refuse.",
+  "hebrew": "מָאוֹס",
+  "translations": {
+    "bg": "отказ",
+    "cs": "odmítnout",
+    "da": "afvise",
+    "de": "abfall",
+    "el": "απορρίψτε",
+    "es": "basura",
+    "et": "prügi",
+    "fi": "jätteet",
+    "fr": "refus",
+    "hu": "hulladék",
+    "id": "menolak",
+    "it": "rifiuto",
+    "ja": "断る",
+    "ko": "거부",
+    "lt": "atsisakyti",
+    "lv": "atkritumi",
+    "nb": "nekte",
+    "nl": "afval",
+    "pl": "odmowa",
+    "pt": "recusar",
+    "ro": "refuz",
+    "ru": "отказ",
+    "sk": "odpad",
+    "sl": "zavrnitev",
+    "sv": "vägra",
+    "tr": "reddetmek",
+    "uk": "відмовитися",
+    "zh": "垃圾"
+  },
+  "verses": [
+    "lamentations 3:45:1"
+  ]
+}

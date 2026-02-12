@@ -1,0 +1,42 @@
+{
+  "number": "H5247",
+  "language": "hebrew",
+  "transliteration": "Nimrâh",
+  "pronunciation": "nim-raw'",
+  "definition": "Nimrah, a place East of the Jordan",
+  "kjvTranslation": "Nimrah. See also H1039 (בֵּית נִמְרָה), H5249 (נִמְרִים).",
+  "hebrew": "נִמְרָה",
+  "translations": {
+    "bg": "Нимра, място на изток от Йордан",
+    "cs": "Nimra, místo na východ od Jordánu",
+    "da": "Nimrah, et sted øst for Jordan",
+    "de": "Nimrah, ein Ort östlich des Jordans",
+    "el": "Νίμρα, τόπος ανατολικά του Ιορδάνη",
+    "es": "Nimrah, lugar al este del Jordán",
+    "et": "Nimrah, koht Jordani jõest ida pool",
+    "fi": "Nimrah, paikka Jordanin itäpuolella",
+    "fr": "Nimrah, lieu situé à l'est du Jourdain",
+    "hu": "Nimrah, egy hely a Jordántól keletre",
+    "id": "Nimrah, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Nimrah, un luogo a est del Giordano",
+    "ja": "ヨルダンの東の地ニムラ",
+    "ko": "님라, 요르단 동쪽의 장소",
+    "lt": "Nimra, vietovė į rytus nuo Jordano",
+    "lv": "Nimrah, vieta uz austrumiem no Jordānas",
+    "nb": "Nimrah, et sted øst for Jordan",
+    "nl": "Nimrah, een plaats ten oosten van de Jordaan",
+    "pl": "Nimrah, miejsce na wschód od Jordanu",
+    "pt": "Nimrah, um lugar a leste do Jordão",
+    "ro": "Nimrah, un loc la est de Iordan",
+    "ru": "Нимра, место к востоку от Иордана",
+    "sk": "Nimra, miesto na východ od Jordánu",
+    "sl": "Nimrah, kraj vzhodno od Jordana",
+    "sv": "Nimrah, en plats öster om Jordanfloden",
+    "tr": "Nimrah, Ürdün'ün doğusunda bir yer",
+    "uk": "Німра, місце на схід від Йордану",
+    "zh": "尼姆拉，约旦河东的一个地方"
+  },
+  "verses": [
+    "numbers 32:3:3"
+  ]
+}

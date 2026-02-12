@@ -1,0 +1,42 @@
+{
+  "number": "H5932",
+  "language": "hebrew",
+  "transliteration": "ʻalvâh",
+  "pronunciation": "al-vaw'",
+  "definition": "moral perverseness",
+  "kjvTranslation": "iniquity.",
+  "hebrew": "עַלְוָה",
+  "translations": {
+    "bg": "морална извратеност",
+    "cs": "morální zvrácenost",
+    "da": "moralsk perversitet",
+    "de": "moralische Pervertierung",
+    "el": "ηθική διαστροφή",
+    "es": "perversidad moral",
+    "et": "moraalne perverssus",
+    "fi": "moraalinen kieroutuneisuus",
+    "fr": "perversité morale",
+    "hu": "erkölcsi perverzitás",
+    "id": "penyimpangan moral",
+    "it": "perversione morale",
+    "ja": "どうとくへき",
+    "ko": "도덕적 비뚤어짐",
+    "lt": "moralinis iškrypimas",
+    "lv": "morālā izvirtība",
+    "nb": "moralsk perversitet",
+    "nl": "morele perversiteit",
+    "pl": "moralna przewrotność",
+    "pt": "perversidade moral",
+    "ro": "perversitate morală",
+    "ru": "нравственная испорченность",
+    "sk": "morálna zvrátenosť",
+    "sl": "moralna sprevrženost",
+    "sv": "moralisk perversitet",
+    "tr": "ahlaki sapkınlık",
+    "uk": "моральна збоченість",
+    "zh": "道德失范"
+  },
+  "verses": [
+    "hosea 10:9:12"
+  ]
+}

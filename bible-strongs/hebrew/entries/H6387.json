@@ -1,0 +1,42 @@
+{
+  "number": "H6387",
+  "language": "hebrew",
+  "transliteration": "pᵉlag",
+  "pronunciation": "pel-ag'",
+  "definition": "a half",
+  "kjvTranslation": "dividing.",
+  "hebrew": "פְּלַג",
+  "translations": {
+    "bg": "половин",
+    "cs": "polovina",
+    "da": "en halv",
+    "de": "eine Hälfte",
+    "el": "μισό",
+    "es": "medio",
+    "et": "pool",
+    "fi": "puolet",
+    "fr": "une moitié",
+    "hu": "egy fél",
+    "id": "setengah",
+    "it": "mezzo",
+    "ja": "二分の一",
+    "ko": "반",
+    "lt": "pusė",
+    "lv": "puse",
+    "nb": "en halv",
+    "nl": "een half",
+    "pl": "pół",
+    "pt": "meio",
+    "ro": "o jumătate",
+    "ru": "половина",
+    "sk": "polovica",
+    "sl": "pol",
+    "sv": "en halv",
+    "tr": "bir buçuk",
+    "uk": "з половиною",
+    "zh": "半"
+  },
+  "verses": [
+    "daniel 7:25:17"
+  ]
+}

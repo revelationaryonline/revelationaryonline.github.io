@@ -1,0 +1,42 @@
+{
+  "number": "H4297",
+  "language": "hebrew",
+  "transliteration": "muṭṭeh",
+  "pronunciation": "moot-teh'",
+  "definition": "a stretching, i.e. distortion (figuratively, iniquity)",
+  "kjvTranslation": "perverseness.",
+  "hebrew": "מֻטֶּה",
+  "translations": {
+    "bg": "разтягане, т.е. изкривяване (преносно, беззаконие)",
+    "cs": "natahování, tj. překrucování (přeneseně nepravost)",
+    "da": "en udstrækning, dvs. forvrængning (i overført betydning, uretfærdighed)",
+    "de": "eine Ausdehnung, d.h. eine Verzerrung (im übertragenen Sinne, Ungerechtigkeit)",
+    "el": "τέντωμα, δηλαδή παραμόρφωση (μεταφορικά, ανομία)",
+    "es": "un estiramiento, es decir, distorsión (en sentido figurado, iniquidad)",
+    "et": "venitamine, st moonutamine (piltlikult öeldes, ülekohus)",
+    "fi": "venytys eli vääristymä (kuvaannollisesti vääryys)",
+    "fr": "un étirement, c'est-à-dire une déformation (au sens figuré, une iniquité)",
+    "hu": "nyújtás, azaz torzítás (átvitt értelemben: gonoszság)",
+    "id": "peregangan, yaitu distorsi (secara kiasan, kesalahan)",
+    "it": "uno stiramento, cioè una distorsione (in senso figurato, l'iniquità)",
+    "ja": "歪曲",
+    "ko": "스트레칭, 즉 왜곡(비유적으로 죄악)",
+    "lt": "ištempimas, t. y. iškraipymas (perkeltine prasme - neteisybė)",
+    "lv": "izstiepums, t.i., izkropļojums (pārnestā nozīmē - netaisnība)",
+    "nb": "en strekking, dvs. forvrengning (i overført betydning, urettferdighet)",
+    "nl": "een uitrekking, d.w.z. vervorming (figuurlijk, onrechtvaardigheid)",
+    "pl": "rozciągnięcie, tj. zniekształcenie (w przenośni nieprawość)",
+    "pt": "um estiramento, ou seja, uma distorção (figurativamente, iniquidade)",
+    "ro": "o întindere, adică denaturare (la figurat, nelegiuire)",
+    "ru": "растяжение, т.е. искажение (образно, беззаконие)",
+    "sk": "naťahovanie, t. j. deformácia (obrazne, neprávosť)",
+    "sl": "raztezanje, tj. izkrivljanje (v prenesenem pomenu, krivica)",
+    "sv": "en sträckning, dvs. förvrängning (bildligt talat, orättfärdighet)",
+    "tr": "bir germe, yani çarpıtma (mecazi olarak, haksızlık)",
+    "uk": "розтягування, тобто спотворення (образно кажучи, беззаконня)",
+    "zh": "伸，即扭曲（比喻不义）"
+  },
+  "verses": [
+    "ezekiel 9:9:14"
+  ]
+}

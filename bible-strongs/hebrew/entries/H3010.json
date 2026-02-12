@@ -1,0 +1,42 @@
+{
+  "number": "H3010",
+  "language": "hebrew",
+  "transliteration": "yâgêb",
+  "pronunciation": "yaw-gabe'",
+  "definition": "a plowed field",
+  "kjvTranslation": "field.",
+  "translations": {
+    "bg": "разорана нива",
+    "cs": "zorané pole",
+    "da": "en pløjet mark",
+    "de": "ein gepflügtes Feld",
+    "el": "ένα οργωμένο χωράφι",
+    "es": "un campo arado",
+    "et": "küntud põld",
+    "fi": "kynnetty pelto",
+    "fr": "un champ labouré",
+    "hu": "egy felszántott mező",
+    "id": "ladang yang dibajak",
+    "it": "un campo arato",
+    "ja": "耕作地",
+    "ko": "쟁기질한 밭",
+    "lt": "suartas laukas",
+    "lv": "uzarts lauks",
+    "nb": "en pløyd åker",
+    "nl": "een geploegd veld",
+    "pl": "zaorane pole",
+    "pt": "um campo arado",
+    "ro": "un câmp arat",
+    "ru": "вспаханное поле",
+    "sk": "zorané pole",
+    "sl": "zorano polje",
+    "sv": "ett plöjt fält",
+    "tr": "sürülmüş bir tarla",
+    "uk": "зоране поле",
+    "zh": "耕地"
+  },
+  "hebrew": "יָגֵב",
+  "verses": [
+    "jeremiah 39:10:16"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H695",
+  "language": "hebrew",
+  "transliteration": "ʼereb",
+  "pronunciation": "eh'-reb",
+  "definition": "ambuscade",
+  "kjvTranslation": "den, lie in wait.",
+  "translations": {
+    "bg": "засада",
+    "cs": "ambuscade",
+    "da": "baghold",
+    "de": "hinterhalt",
+    "el": "ενέδρα",
+    "es": "emboscada",
+    "et": "varitsus",
+    "fi": "väijytys",
+    "fr": "embuscade",
+    "hu": "tőrbe csalás",
+    "id": "ambuscade",
+    "it": "imboscata",
+    "ja": "伏兵",
+    "ko": "앰부스케이드",
+    "lt": "užuovėja",
+    "lv": "ambuscade",
+    "nb": "bakholdsangrep",
+    "nl": "ambuscade",
+    "pl": "zasadzka",
+    "pt": "emboscada",
+    "ro": "ambuscadă",
+    "ru": "засада",
+    "sk": "ambuscade",
+    "sl": "ambasada",
+    "sv": "ambuscad",
+    "tr": "ambuscade",
+    "uk": "амбасада",
+    "zh": "伏兵"
+  },
+  "hebrew": "אֶרֶב",
+  "verses": [
+    "job 37:8:3",
+    "job 38:40:6"
+  ]
+}

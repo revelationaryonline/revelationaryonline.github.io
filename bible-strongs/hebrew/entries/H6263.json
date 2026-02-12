@@ -1,0 +1,42 @@
+{
+  "number": "H6263",
+  "language": "hebrew",
+  "transliteration": "ʻăthîyd",
+  "pronunciation": "ath-eed'",
+  "definition": "prepared",
+  "kjvTranslation": "ready.",
+  "hebrew": "עֲתִיד",
+  "translations": {
+    "bg": "подготвени",
+    "cs": "připraveno",
+    "da": "forberedt",
+    "de": "vorbereitet",
+    "el": "έτοιμο",
+    "es": "preparado",
+    "et": "valmis",
+    "fi": "valmis",
+    "fr": "préparé",
+    "hu": "elkészítve",
+    "id": "disiapkan",
+    "it": "preparato",
+    "ja": "良い",
+    "ko": "준비",
+    "lt": "paruoštas",
+    "lv": "sagatavots",
+    "nb": "forberedt",
+    "nl": "voorbereid",
+    "pl": "przygotowany",
+    "pt": "preparado",
+    "ro": "pregătit",
+    "ru": "подготовлено",
+    "sk": "pripravené",
+    "sl": "pripravljeno",
+    "sv": "förberedd",
+    "tr": "hazırlandı",
+    "uk": "підготовлений",
+    "zh": "事先准备好的"
+  },
+  "verses": [
+    "daniel 3:15:3"
+  ]
+}

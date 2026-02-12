@@ -1,0 +1,42 @@
+{
+  "number": "H4361",
+  "language": "hebrew",
+  "transliteration": "makkôleth",
+  "pronunciation": "mak-ko'-leth",
+  "definition": "nourishment",
+  "kjvTranslation": "food.",
+  "hebrew": "מַכֹּלֶת",
+  "translations": {
+    "bg": "подхранване",
+    "cs": "výživa",
+    "da": "næring",
+    "de": "nahrung",
+    "el": "θρέψη",
+    "es": "alimentación",
+    "et": "toitumine",
+    "fi": "ravintoa",
+    "fr": "alimentation",
+    "hu": "táplálék",
+    "id": "makanan",
+    "it": "nutrimento",
+    "ja": "栄養",
+    "ko": "영양",
+    "lt": "maitinimas",
+    "lv": "barošana",
+    "nb": "næring",
+    "nl": "voeding",
+    "pl": "odżywianie",
+    "pt": "alimentação",
+    "ro": "hrană",
+    "ru": "питание",
+    "sk": "výživa",
+    "sl": "prehrana",
+    "sv": "näring",
+    "tr": "bESLENME",
+    "uk": "харчування",
+    "zh": "营养"
+  },
+  "verses": [
+    "firstKings 5:25:7"
+  ]
+}

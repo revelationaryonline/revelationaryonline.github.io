@@ -1,0 +1,42 @@
+{
+  "number": "H7268",
+  "language": "hebrew",
+  "transliteration": "raggâz",
+  "pronunciation": "rag-gawz'",
+  "definition": "timid",
+  "kjvTranslation": "trembling.",
+  "hebrew": "רַגָּז",
+  "translations": {
+    "bg": "плах",
+    "cs": "nesmělý",
+    "da": "frygtsom",
+    "de": "ängstlich",
+    "el": "δειλή",
+    "es": "tímido",
+    "et": "arglik",
+    "fi": "arka",
+    "fr": "timide",
+    "hu": "félénk",
+    "id": "pemalu",
+    "it": "timido",
+    "ja": "気弱",
+    "ko": "소심한",
+    "lt": "nedrąsus",
+    "lv": "kautrīgs",
+    "nb": "engstelig",
+    "nl": "verlegen",
+    "pl": "nieśmiały",
+    "pt": "tímido",
+    "ro": "timid",
+    "ru": "робкий",
+    "sk": "plachý",
+    "sl": "plaha",
+    "sv": "blyg",
+    "tr": "çekingen",
+    "uk": "боязкий",
+    "zh": "胆怯"
+  },
+  "verses": [
+    "deuteronomy 28:65:14"
+  ]
+}

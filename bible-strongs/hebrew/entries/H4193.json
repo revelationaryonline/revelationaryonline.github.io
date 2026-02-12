@@ -1,0 +1,42 @@
+{
+  "number": "H4193",
+  "language": "hebrew",
+  "transliteration": "môwth",
+  "pronunciation": "mohth",
+  "definition": "death",
+  "kjvTranslation": "death.",
+  "hebrew": "מוֹת",
+  "translations": {
+    "bg": "смърт",
+    "cs": "smrt",
+    "da": "død",
+    "de": "tod",
+    "el": "θάνατος",
+    "es": "muerte",
+    "et": "surm",
+    "fi": "kuolema",
+    "fr": "la mort",
+    "hu": "halál",
+    "id": "kematian",
+    "it": "morte",
+    "ja": "死去",
+    "ko": "죽음",
+    "lt": "mirtis",
+    "lv": "nāve",
+    "nb": "død",
+    "nl": "dood",
+    "pl": "śmierć",
+    "pt": "morte",
+    "ro": "moarte",
+    "ru": "смерть",
+    "sk": "smrť",
+    "sl": "smrt",
+    "sv": "död",
+    "tr": "öLÜM",
+    "uk": "смерть",
+    "zh": "死亡"
+  },
+  "verses": [
+    "ezra 7:26:17"
+  ]
+}

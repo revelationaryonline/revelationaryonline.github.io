@@ -1,0 +1,42 @@
+{
+  "number": "H4579",
+  "language": "hebrew",
+  "transliteration": "mêʻâh",
+  "pronunciation": "may-aw'",
+  "definition": "the belly, i.e. (figuratively) interior",
+  "kjvTranslation": "gravel.",
+  "hebrew": "מֵעָה",
+  "verses": [
+    "isaiah 48:19:5"
+  ],
+  "translations": {
+    "bg": "корема, т.е. (образно) вътрешността",
+    "cs": "břicho, tj. (obrazně řečeno) vnitřek",
+    "da": "maven, dvs. (i overført betydning) det indre",
+    "de": "der Bauch, d.h. (im übertragenen Sinne) das Innere",
+    "el": "η κοιλιά, δηλαδή (μεταφορικά) το εσωτερικό",
+    "es": "el vientre, es decir (en sentido figurado) el interior",
+    "et": "kõht, st (piltlikult öeldes) sisemus",
+    "fi": "vatsa, eli (kuvaannollisesti) sisätilat",
+    "fr": "le ventre, c'est-à-dire (au sens figuré) l'intérieur",
+    "hu": "a has, azaz (átvitt értelemben) a belső tér",
+    "id": "perut, yaitu (secara kiasan) bagian dalam",
+    "it": "il ventre, cioè (in senso figurato) l'interno",
+    "ja": "腹の中",
+    "ko": "배, 즉 (비 유적으로) 내부",
+    "lt": "pilvas, t. y. (perkeltine prasme) vidus",
+    "lv": "vēders, t.i., (pārnestā nozīmē) iekšpuse",
+    "nb": "magen, dvs. (i overført betydning) det indre",
+    "nl": "de buik, d.w.z. (figuurlijk) het interieur",
+    "pl": "brzuch, tj. (w przenośni) wnętrze",
+    "pt": "o ventre, ou seja, (figurativamente) o interior",
+    "ro": "burta, adică (la figurat) interiorul",
+    "ru": "живот, т.е. (образно) внутренняя часть",
+    "sk": "brucho, t. j. (obrazne) vnútro",
+    "sl": "trebuh, tj. (v prenesenem pomenu) notranjost",
+    "sv": "magen, d.v.s. (bildligt talat) insidan",
+    "tr": "göbek, yani (mecazi olarak) iç kısım",
+    "uk": "черево, тобто (образно) нутро",
+    "zh": "腹内"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2408",
+  "language": "hebrew",
+  "transliteration": "chăṭîy",
+  "pronunciation": "khat-ee'",
+  "definition": "an offence",
+  "kjvTranslation": "sin.",
+  "translations": {
+    "bg": "престъпление",
+    "cs": "trestný čin",
+    "da": "en lovovertrædelse",
+    "de": "ein Vergehen",
+    "el": "ένα αδίκημα",
+    "es": "un delito",
+    "et": "rikkumine",
+    "fi": "rikos",
+    "fr": "une infraction",
+    "hu": "bűncselekmény",
+    "id": "sebuah pelanggaran",
+    "it": "un reato",
+    "ja": "違犯",
+    "ko": "위반",
+    "lt": "nusikaltimas",
+    "lv": "nodarījums",
+    "nb": "et lovbrudd",
+    "nl": "een overtreding",
+    "pl": "przestępstwo",
+    "pt": "uma infração",
+    "ro": "o infracțiune",
+    "ru": "преступление",
+    "sk": "trestný čin",
+    "sl": "kaznivo dejanje",
+    "sv": "ett brott",
+    "tr": "bir suç",
+    "uk": "злочином",
+    "zh": "罪行"
+  },
+  "hebrew": "חֲטִי",
+  "verses": [
+    "daniel 4:24:6",
+    "daniel 4:24:7"
+  ]
+}

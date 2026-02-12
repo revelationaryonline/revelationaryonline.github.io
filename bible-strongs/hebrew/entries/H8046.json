@@ -1,0 +1,42 @@
+{
+  "number": "H8046",
+  "language": "hebrew",
+  "transliteration": "shᵉmad",
+  "pronunciation": "shem-ad'",
+  "definition": "{to desolate}",
+  "kjvTranslation": "consume.",
+  "hebrew": "שְׁמַד",
+  "translations": {
+    "bg": "{да опустоши}",
+    "cs": "{pouštět}",
+    "da": "{at lægge øde}",
+    "de": "{zu veröden}",
+    "el": "{να ερημώσει}",
+    "es": "{a desolarse}",
+    "et": "{tühja}",
+    "fi": "{tyhjentämään}",
+    "fr": "{pour désoler}",
+    "hu": "{azt, hogy elnéptelenedjen}",
+    "id": "[untuk menyendiri]",
+    "it": "{desolare}",
+    "ja": "{荒れ果てる｝",
+    "ko": "{황폐하게}",
+    "lt": "{ištuštinti}",
+    "lv": "{to desolate}",
+    "nb": "{å legge øde}",
+    "nl": "{om te verlaten}",
+    "pl": "{spustoszyć}",
+    "pt": "{para desolar}",
+    "ro": "{pentru a pustii}",
+    "ru": "{опустошить}",
+    "sk": "{púšťať}",
+    "sl": "{prazniti}",
+    "sv": "{att ödelägga}",
+    "tr": "{terk etmek}",
+    "uk": "[занедбати]",
+    "zh": "[荒凉]"
+  },
+  "verses": [
+    "daniel 7:26:4"
+  ]
+}

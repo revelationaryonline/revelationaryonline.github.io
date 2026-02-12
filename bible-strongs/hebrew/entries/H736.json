@@ -1,0 +1,43 @@
+{
+  "number": "H736",
+  "language": "hebrew",
+  "transliteration": "ʼôrᵉchâh",
+  "pronunciation": "o-rekh-aw'",
+  "definition": "a caravan",
+  "kjvTranslation": "(travelling) company.",
+  "translations": {
+    "bg": "каравана",
+    "cs": "karavan",
+    "da": "en campingvogn",
+    "de": "ein Wohnwagen",
+    "el": "ένα τροχόσπιτο",
+    "es": "una caravana",
+    "et": "haagissuvila",
+    "fi": "asuntovaunu",
+    "fr": "une caravane",
+    "hu": "lakókocsi",
+    "id": "kafilah",
+    "it": "una roulotte",
+    "ja": "キャラバン",
+    "ko": "캐러밴",
+    "lt": "karavanas",
+    "lv": "treileris",
+    "nb": "en campingvogn",
+    "nl": "een caravan",
+    "pl": "przyczepa kempingowa",
+    "pt": "uma caravana",
+    "ro": "o rulotă",
+    "ru": "караван",
+    "sk": "karavan",
+    "sl": "prikolica",
+    "sv": "en husvagn",
+    "tr": "bir karavan",
+    "uk": "караван",
+    "zh": "篷车"
+  },
+  "hebrew": "אֹרְחָה",
+  "verses": [
+    "genesis 37:25:7",
+    "isaiah 21:13:5"
+  ]
+}

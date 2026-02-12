@@ -1,0 +1,42 @@
+{
+  "number": "H6129",
+  "language": "hebrew",
+  "transliteration": "ʻăqallâthôwn",
+  "pronunciation": "ak-al-law-thone'",
+  "definition": "tortuous",
+  "kjvTranslation": "crooked.",
+  "hebrew": "עֲקַלָּתוֹן",
+  "translations": {
+    "bg": "криволичещ",
+    "cs": "klikatá",
+    "da": "snoet",
+    "de": "verschlungen",
+    "el": "δαιδαλώδες",
+    "es": "tortuoso",
+    "et": "piinarikas",
+    "fi": "mutkitteleva",
+    "fr": "tortueux",
+    "hu": "kanyargós",
+    "id": "berliku-liku",
+    "it": "tortuoso",
+    "ja": "小難しい",
+    "ko": "tortuous",
+    "lt": "kankinantis",
+    "lv": "līkumains",
+    "nb": "kronglete",
+    "nl": "kronkelig",
+    "pl": "kręty",
+    "pt": "tortuoso",
+    "ro": "tortuos",
+    "ru": "извилистый",
+    "sk": "kľukatý",
+    "sl": "ovinkasti",
+    "sv": "slingrande",
+    "tr": "dolambaçlı",
+    "uk": "звивистий",
+    "zh": "迤逦"
+  },
+  "verses": [
+    "isaiah 27:1:15"
+  ]
+}

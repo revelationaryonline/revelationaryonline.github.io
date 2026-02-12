@@ -1,0 +1,42 @@
+{
+  "number": "H5819",
+  "language": "hebrew",
+  "transliteration": "ʻĂzîyzâʼ",
+  "pronunciation": "az-ee-zaw'",
+  "definition": "Aziza, an Israelite",
+  "kjvTranslation": "Aziza.",
+  "hebrew": "עֲזִיזָא",
+  "translations": {
+    "bg": "Азиза, израилтянка",
+    "cs": "Aziza, Izraelita",
+    "da": "Aziza, en israelit",
+    "de": "Aziza, eine Israelitin",
+    "el": "Αζίζα, Ισραηλίτισσα",
+    "es": "Aziza, israelita",
+    "et": "Aziza, iisraellane",
+    "fi": "Aziza, israelilainen",
+    "fr": "Aziza, Israélite",
+    "hu": "Aziza, izraelita",
+    "id": "Aziza, seorang warga Israel",
+    "it": "Aziza, un israelita",
+    "ja": "イスラエル人アジザ",
+    "ko": "아지자, 이스라엘인",
+    "lt": "Aziza, izraelitas",
+    "lv": "Aziza, izraēlietis",
+    "nb": "Aziza, en israelitt",
+    "nl": "Aziza, een Israëliet",
+    "pl": "Aziza, Izraelitka",
+    "pt": "Aziza, israelita",
+    "ro": "Aziza, o israelită",
+    "ru": "Азиза, израильтянка",
+    "sk": "Aziza, Izraelita",
+    "sl": "Aziza, Izraelka",
+    "sv": "Aziza, en israelit",
+    "tr": "Azize, bir İsrailli",
+    "uk": "Азіза, ізраїльтянка",
+    "zh": "以色列人阿兹扎"
+  },
+  "verses": [
+    "ezra 10:27:7"
+  ]
+}

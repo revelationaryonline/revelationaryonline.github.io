@@ -1,0 +1,43 @@
+{
+  "number": "H7166",
+  "language": "hebrew",
+  "transliteration": "qarçôl",
+  "pronunciation": "kar-sole'",
+  "definition": "an ankle (as a protuberance or joint)",
+  "kjvTranslation": "foot.",
+  "hebrew": "קַרְסֹל",
+  "translations": {
+    "bg": "глезен (като изпъкналост или става)",
+    "cs": "kotník (jako výčnělek nebo kloub)",
+    "da": "en ankel (som fremspring eller led)",
+    "de": "ein Knöchel (als Ausstülpung oder Gelenk)",
+    "el": "αστράγαλος (ως προεξοχή ή άρθρωση)",
+    "es": "un tobillo (como protuberancia o articulación)",
+    "et": "hüppeliigese (kui väljaulatuv osa või liiges)",
+    "fi": "nilkka (ulokkeena tai nivelenä)",
+    "fr": "une cheville (en tant que protubérance ou articulation)",
+    "hu": "boka (mint kiemelkedés vagy ízület)",
+    "id": "pergelangan kaki (sebagai tonjolan atau sendi)",
+    "it": "caviglia (come protuberanza o articolazione)",
+    "ja": "足関節",
+    "ko": "발목(돌기 또는 관절)",
+    "lt": "kulkšnis (kaip iškilimas arba sąnarys)",
+    "lv": "potīte (kā izcilnis vai locītava)",
+    "nb": "en ankel (som et fremspring eller ledd)",
+    "nl": "een enkel (als uitsteeksel of gewricht)",
+    "pl": "kostka (jako wypukłość lub staw)",
+    "pt": "um tornozelo (como uma protuberância ou articulação)",
+    "ro": "o gleznă (ca protuberanță sau articulație)",
+    "ru": "лодыжка (как выступ или сустав)",
+    "sk": "členok (ako výbežok alebo kĺb)",
+    "sl": "gleženj (kot izboklina ali sklep)",
+    "sv": "en fotled (som en utskjutande del eller led)",
+    "tr": "ayak bileği (bir çıkıntı veya eklem olarak)",
+    "uk": "гомілковостопний суглоб (як виступ або суглоб)",
+    "zh": "脚踝"
+  },
+  "verses": [
+    "secondSamuel 22:37:5",
+    "psalms 18:37:5"
+  ]
+}

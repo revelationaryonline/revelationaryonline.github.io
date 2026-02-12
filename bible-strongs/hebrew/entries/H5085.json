@@ -1,0 +1,42 @@
+{
+  "number": "H5085",
+  "language": "hebrew",
+  "transliteration": "nidneh",
+  "pronunciation": "nid-neh'",
+  "definition": "a sheath; figuratively, the body (as the receptacle of the soul)",
+  "kjvTranslation": "body.",
+  "hebrew": "נִדְנֶה",
+  "translations": {
+    "bg": "обвивка; в преносен смисъл - тялото (като вместилище на душата)",
+    "cs": "plášť; přeneseně tělo (jako schránka duše)",
+    "da": "en kappe; i overført betydning kroppen (som sjælens beholder)",
+    "de": "eine Hülle; im übertragenen Sinne der Körper (als Behältnis für die Seele)",
+    "el": "μια θήκη- μεταφορικά, το σώμα (ως υποδοχέας της ψυχής)",
+    "es": "una envoltura; en sentido figurado, el cuerpo (como receptáculo del alma)",
+    "et": "tupp; piltlikult öeldes keha (kui hinge säilitusruum)",
+    "fi": "tuppi; kuvaannollisesti ruumis (sielun säilytyspaikkana)",
+    "fr": "une enveloppe ; au sens figuré, le corps (en tant que réceptacle de l'âme)",
+    "hu": "hüvely; átvitt értelemben a test (mint a lélek befogadója)",
+    "id": "selubung; secara kiasan, tubuh (sebagai wadah jiwa)",
+    "it": "una guaina; in senso figurato, il corpo (come ricettacolo dell'anima)",
+    "ja": "鞘；比喩的には（魂の容器としての）身体",
+    "ko": "칼집; 비유적으로 몸(영혼을 담는 그릇으로서의 몸)",
+    "lt": "apvalkalas; perkeltine prasme - kūnas (kaip sielos talpykla)",
+    "lv": "apvalks; pārnestā nozīmē - ķermenis (kā dvēseles glabātava)",
+    "nb": "en kappe; i overført betydning kroppen (som sjelens beholder)",
+    "nl": "een omhulsel; figuurlijk, het lichaam (als de vergaarbak van de ziel)",
+    "pl": "pochwa; w przenośni ciało (jako pojemnik duszy)",
+    "pt": "uma bainha; figurativamente, o corpo (como recetáculo da alma)",
+    "ro": "un înveliș; la figurat, corpul (ca recipient al sufletului)",
+    "ru": "оболочка; образно, тело (как вместилище души)",
+    "sk": "plášť; v prenesenom význame telo (ako schránka duše)",
+    "sl": "ovoj; v prenesenem pomenu telo (kot posoda za dušo)",
+    "sv": "ett hölje; bildligt talat, kroppen (som behållare för själen)",
+    "tr": "bir kılıf; mecazi anlamda beden (ruhun kabı olarak)",
+    "uk": "оболонка; образно - тіло (як вмістилище душі)",
+    "zh": "鞘；比喻躯体（作为灵魂的容器）"
+  },
+  "verses": [
+    "daniel 7:15:5"
+  ]
+}

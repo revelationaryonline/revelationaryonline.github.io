@@ -1,0 +1,43 @@
+{
+  "number": "H8595",
+  "language": "hebrew",
+  "transliteration": "taʻtuaʻ",
+  "pronunciation": "tah-too'-ah",
+  "definition": "a fraud",
+  "kjvTranslation": "error.",
+  "hebrew": "תַּעְתֻּעַ",
+  "translations": {
+    "bg": "измама",
+    "cs": "podvod",
+    "da": "et bedrageri",
+    "de": "ein Betrug",
+    "el": "μια απάτη",
+    "es": "un fraude",
+    "et": "pettus",
+    "fi": "petos",
+    "fr": "une fraude",
+    "hu": "csalás",
+    "id": "penipuan",
+    "it": "una frode",
+    "ja": "詐欺師",
+    "ko": "사기",
+    "lt": "sukčiavimas",
+    "lv": "krāpšana",
+    "nb": "svindel",
+    "nl": "fraude",
+    "pl": "oszustwo",
+    "pt": "uma fraude",
+    "ro": "o fraudă",
+    "ru": "мошенничество",
+    "sk": "podvod",
+    "sl": "goljufija",
+    "sv": "ett bedrägeri",
+    "tr": "bir sahtekarlık",
+    "uk": "шахрайство",
+    "zh": "骗局"
+  },
+  "verses": [
+    "jeremiah 10:15:3",
+    "jeremiah 51:18:3"
+  ]
+}

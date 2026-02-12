@@ -1,0 +1,42 @@
+{
+  "number": "H5913",
+  "language": "hebrew",
+  "transliteration": "ʻâkaç",
+  "pronunciation": "aw-kas'",
+  "definition": "to put on anklets",
+  "kjvTranslation": "make a tinkling ornament.",
+  "hebrew": "עָכַס",
+  "translations": {
+    "bg": "да си сложиш глезен",
+    "cs": "nasadit si náramky",
+    "da": "at tage fodlænker på",
+    "de": "zum Anlegen von Fußkettchen",
+    "el": "να βάλω αστράγαλο",
+    "es": "ponerse tobilleras",
+    "et": "panna jalarihmad jalga",
+    "fi": "laittaa nilkkurit",
+    "fr": "mettre des bracelets de cheville",
+    "hu": "bokaláncot húzni",
+    "id": "untuk mengenakan gelang kaki",
+    "it": "indossare cavigliere",
+    "ja": "アンクレットをつける",
+    "ko": "발찌를 착용하려면",
+    "lt": "užsidėti antkaklius",
+    "lv": "uzvilkt potītes",
+    "nb": "å ta på seg fotlenker",
+    "nl": "enkelbanden aantrekken",
+    "pl": "do zakładania kostek",
+    "pt": "colocar tornozeleiras",
+    "ro": "a pune brățări la gleznă",
+    "ru": "надевать браслеты",
+    "sk": "nasadiť si náramky",
+    "sl": "natakniti gležnjarje",
+    "sv": "att sätta på fotbojor",
+    "tr": "halhal takmak için",
+    "uk": "надягати браслети",
+    "zh": "穿脚链"
+  },
+  "verses": [
+    "isaiah 3:16:17"
+  ]
+}

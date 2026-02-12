@@ -1,0 +1,42 @@
+{
+  "number": "H4434",
+  "language": "hebrew",
+  "transliteration": "malkôdeth",
+  "pronunciation": "mal-ko'-deth",
+  "definition": "a snare",
+  "kjvTranslation": "trap.",
+  "hebrew": "מַלְכֹּדֶת",
+  "translations": {
+    "bg": "примка",
+    "cs": "nástraha",
+    "da": "en snare",
+    "de": "eine Schlinge",
+    "el": "μια παγίδα",
+    "es": "una trampa",
+    "et": "lõksu",
+    "fi": "ansa",
+    "fr": "un piège",
+    "hu": "egy csapda",
+    "id": "jerat",
+    "it": "una trappola",
+    "ja": "罠",
+    "ko": "올무",
+    "lt": "spąstai",
+    "lv": "lamatas",
+    "nb": "en snare",
+    "nl": "een strik",
+    "pl": "sidła",
+    "pt": "um laço",
+    "ro": "o capcană",
+    "ru": "ловушка",
+    "sk": "nástraha",
+    "sl": "past",
+    "sv": "en snara",
+    "tr": "bir tuzak",
+    "uk": "пастка",
+    "zh": "陷阱"
+  },
+  "verses": [
+    "job 18:10:3"
+  ]
+}

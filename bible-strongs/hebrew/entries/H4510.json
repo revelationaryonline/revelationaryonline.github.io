@@ -1,0 +1,42 @@
+{
+  "number": "H4510",
+  "language": "hebrew",
+  "transliteration": "minyân",
+  "pronunciation": "min-yawn'",
+  "definition": "enumeration",
+  "kjvTranslation": "number.",
+  "hebrew": "מִנְיָן",
+  "verses": [
+    "ezra 6:17:21"
+  ],
+  "translations": {
+    "bg": "изброяване",
+    "cs": "výčet",
+    "da": "opremsning",
+    "de": "aufzählung",
+    "el": "απαρίθμηση",
+    "es": "enumeración",
+    "et": "loendust",
+    "fi": "luettelo",
+    "fr": "énumération",
+    "hu": "felsorolás",
+    "id": "pencacahan",
+    "it": "enumerazione",
+    "ja": "列挙",
+    "ko": "열거형",
+    "lt": "išvardijimas",
+    "lv": "uzskaitījums",
+    "nb": "oppregning",
+    "nl": "opsomming",
+    "pl": "wyliczenie",
+    "pt": "enumeração",
+    "ro": "enumerare",
+    "ru": "перечисление",
+    "sk": "enumerácia",
+    "sl": "naštevanje",
+    "sv": "uppräkning",
+    "tr": "numaralandırma",
+    "uk": "перерахування",
+    "zh": "枚举"
+  }
+}

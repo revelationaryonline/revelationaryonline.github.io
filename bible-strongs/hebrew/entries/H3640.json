@@ -1,0 +1,42 @@
+{
+  "number": "H3640",
+  "language": "hebrew",
+  "transliteration": "kᵉlimmûwth",
+  "pronunciation": "kel-im-mooth'",
+  "definition": "disgrace",
+  "kjvTranslation": "shame.",
+  "translations": {
+    "bg": "позор",
+    "cs": "hanba",
+    "da": "skændsel",
+    "de": "blamage",
+    "el": "ντροπή",
+    "es": "desgracia",
+    "et": "häbi",
+    "fi": "häpeä",
+    "fr": "disgrâce",
+    "hu": "szégyen",
+    "id": "aib",
+    "it": "disgrazia",
+    "ja": "恥",
+    "ko": "불명예",
+    "lt": "gėda",
+    "lv": "kauns",
+    "nb": "skam",
+    "nl": "schande",
+    "pl": "hańba",
+    "pt": "desgraça",
+    "ro": "rușine",
+    "ru": "позор",
+    "sk": "hanba",
+    "sl": "sramota",
+    "sv": "skamfläck",
+    "tr": "rezalet",
+    "uk": "ганьба",
+    "zh": "蒙羞"
+  },
+  "hebrew": "כְּלִמּוּת",
+  "verses": [
+    "jeremiah 23:40:4"
+  ]
+}

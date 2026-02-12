@@ -1,0 +1,42 @@
+{
+  "number": "H4041",
+  "language": "hebrew",
+  "transliteration": "mᵉgammâh",
+  "pronunciation": "meg-am-maw'",
+  "definition": "properly, accumulation, i.e. impulse or direction",
+  "kjvTranslation": "sup up.",
+  "hebrew": "מְגַמָּה",
+  "translations": {
+    "bg": "правилно, натрупване, т.е. импулс или посока",
+    "cs": "správně, akumulace, tj. impuls nebo směr",
+    "da": "korrekt, akkumulering, dvs. impuls eller retning",
+    "de": "richtig, Akkumulation, d.h. Impuls oder Richtung",
+    "el": "σωστά, συσσώρευση, δηλαδή ώθηση ή κατεύθυνση",
+    "es": "propiamente, acumulación, es decir, impulso o dirección",
+    "et": "korralikult, akumulatsioon, st impulss või suund",
+    "fi": "oikein, kasautuminen, eli impulssi tai suuntaus",
+    "fr": "correctement, accumulation, c'est-à-dire impulsion ou direction",
+    "hu": "megfelelően, felhalmozás, azaz impulzus vagy irány",
+    "id": "benar, akumulasi, yaitu dorongan atau arah",
+    "it": "propriamente, accumulo, cioè impulso o direzione",
+    "ja": "正しくは、蓄積、つまり衝動や方向性",
+    "ko": "적절하게, 축적, 즉 충동이나 방향성",
+    "lt": "tinkamai, kaupimas, t. y. impulsas arba kryptis",
+    "lv": "pareizi, uzkrāšanās, t.i., impulss vai virziens",
+    "nb": "riktig, akkumulering, dvs. impuls eller retning",
+    "nl": "goed, accumulatie, d.w.z. impuls of richting",
+    "pl": "prawidłowo, akumulacja, tj. impuls lub kierunek",
+    "pt": "propriamente, acumulação, ou seja, impulso ou direção",
+    "ro": "în mod corespunzător, acumulare, adică impuls sau direcție",
+    "ru": "правильно, накопление, т.е. импульс или направление",
+    "sk": "správne, akumulácia, t. j. impulz alebo smer",
+    "sl": "pravilno, akumulacija, tj. impulz ali smer",
+    "sv": "korrekt, ackumulering, dvs. impuls eller riktning",
+    "tr": "uygun şekilde, birikim, yani dürtü veya yön",
+    "uk": "власне, накопичення, тобто імпульс або напрямок",
+    "zh": "适当，积累，即冲动或方向"
+  },
+  "verses": [
+    "habakkuk 1:9:3"
+  ]
+}

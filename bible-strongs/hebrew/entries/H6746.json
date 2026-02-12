@@ -1,0 +1,42 @@
+{
+  "number": "H6746",
+  "language": "hebrew",
+  "transliteration": "tsᵉlôchîyth",
+  "pronunciation": "tsel-o-kheeth'",
+  "definition": "something prolonged or tall, i.e. a vial or salt-cellar",
+  "kjvTranslation": "cruse.",
+  "hebrew": "צְלֹחִית",
+  "translations": {
+    "bg": "нещо продължително или високо, напр. флакон или солница",
+    "cs": "něco prodlouženého nebo vysokého, např. lahvička nebo nádoba na sůl",
+    "da": "noget langstrakt eller højt, f.eks. et hætteglas eller et saltkar",
+    "de": "etwas Langgestrecktes oder Hochgewachsenes, z. B. ein Fläschchen oder ein Salzfässchen",
+    "el": "κάτι παρατεταμένο ή ψηλό, π.χ. φιαλίδιο ή αλατιέρα",
+    "es": "algo prolongado o alto, por ejemplo, un frasco o un salero",
+    "et": "midagi piklikku või kõrget, nt viaali või soolakambrit",
+    "fi": "jotain pitkää tai korkeaa, esim. pullo tai suola-astia",
+    "fr": "quelque chose de long ou de haut, par exemple une fiole ou une salière",
+    "hu": "valami hosszúkás vagy magas, pl. egy fiola vagy egy sótartály",
+    "id": "sesuatu yang panjang atau tinggi, misalnya botol atau gudang garam",
+    "it": "qualcosa di prolungato o alto, ad esempio una fiala o una saliera",
+    "ja": "細長いもの、背の高いもの。",
+    "ko": "길거나 키가 큰 것, 예를 들어 병이나 소금 저장고",
+    "lt": "kažkas pailgo arba aukšto, t. y. buteliukas arba druskos ąsotis",
+    "lv": "kaut kas pagarināts vai augsts, piemēram, flakons vai sāls trauks",
+    "nb": "noe langstrakt eller høyt, f.eks. et hetteglass eller saltkar",
+    "nl": "iets langwerpigs of hoogs, bijvoorbeeld een flesje of zoutvat",
+    "pl": "coś długiego lub wysokiego, np. fiolka lub pojemnik na sól",
+    "pt": "algo prolongado ou alto, por exemplo, um frasco ou um recipiente de sal",
+    "ro": "ceva prelungit sau înalt, de exemplu o fiolă sau o carafă de sare",
+    "ru": "что-то вытянутое или высокое, например, флакон или солонка",
+    "sk": "niečo predĺžené alebo vysoké, napr. fľaša alebo nádoba na soľ",
+    "sl": "nekaj podolgovatega ali visokega, npr. steklenička ali posoda za sol",
+    "sv": "något utdraget eller högt, t.ex. en flaska eller ett saltkar",
+    "tr": "uzun veya yüksek bir şey, örneğin bir şişe veya tuzluk",
+    "uk": "щось видовжене або високе, наприклад, флакон або сільничка",
+    "zh": "长或高的东西，如小瓶或盐樽"
+  },
+  "verses": [
+    "secondKings 2:20:3"
+  ]
+}

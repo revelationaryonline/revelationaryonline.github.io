@@ -1,0 +1,42 @@
+{
+  "number": "H2169",
+  "language": "hebrew",
+  "transliteration": "zemer",
+  "pronunciation": "zeh'-mer",
+  "definition": "a gazelle (from its lightly touching the ground)",
+  "kjvTranslation": "chamois.",
+  "translations": {
+    "bg": "газела (от лекото й докосване на земята)",
+    "cs": "gazela (podle toho, jak se lehce dotýká země)",
+    "da": "en gazelle (fra dens lette berøring af jorden)",
+    "de": "eine Gazelle (wenn sie den Boden leicht berührt)",
+    "el": "μια γαζέλα (από την ελαφριά επαφή της με το έδαφος)",
+    "es": "una gacela (por su ligero contacto con el suelo)",
+    "et": "gasell (selle kergelt maapinda puudutava)",
+    "fi": "gaselli (koska se koskettaa kevyesti maata)",
+    "fr": "une gazelle (du fait qu'elle touche légèrement le sol)",
+    "hu": "gazella (a földet enyhén érintő gazellától)",
+    "id": "kijang (karena menyentuh tanah dengan ringan)",
+    "it": "una gazzella (dal suo toccare leggermente il suolo)",
+    "ja": "ガゼル",
+    "ko": "가젤(가볍게 땅에 닿는 모습에서)",
+    "lt": "gazelė (nuo jos lengvo prisilietimo prie žemės)",
+    "lv": "gazele (no tās vieglā pieskāriena zemei)",
+    "nb": "en gaselle (fra den lett berører bakken)",
+    "nl": "een gazelle (doordat hij de grond licht raakt)",
+    "pl": "gazela (lekko dotykająca ziemi)",
+    "pt": "uma gazela (pelo facto de tocar levemente no chão)",
+    "ro": "o gazelă (de la atingerea ușoară a solului)",
+    "ru": "газель (по ее легкому касанию земли)",
+    "sk": "gazela (od jej ľahkého dotyku so zemou)",
+    "sl": "gazela (ker se rahlo dotika tal)",
+    "sv": "en gasell (genom att den lätt rör vid marken)",
+    "tr": "bir ceylan (hafifçe yere dokunmasından)",
+    "uk": "газель (від її легкого торкання землі)",
+    "zh": "羚羊"
+  },
+  "hebrew": "זֶמֶר",
+  "verses": [
+    "deuteronomy 14:5:6"
+  ]
+}

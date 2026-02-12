@@ -1,0 +1,42 @@
+{
+  "number": "H3750",
+  "language": "hebrew",
+  "transliteration": "karkôm",
+  "pronunciation": "kar-kome'",
+  "definition": "the crocus",
+  "kjvTranslation": "saffron.",
+  "translations": {
+    "bg": "крокусът",
+    "cs": "krokus",
+    "da": "krokus",
+    "de": "der Krokus",
+    "el": "ο κρόκος",
+    "es": "el azafrán",
+    "et": "krookus",
+    "fi": "krookus",
+    "fr": "le crocus",
+    "hu": "a krókusz",
+    "id": "crocus",
+    "it": "il croco",
+    "ja": "クロッカス",
+    "ko": "크로커스",
+    "lt": "krokusas",
+    "lv": "krokuss",
+    "nb": "krokusen",
+    "nl": "de krokus",
+    "pl": "krokus",
+    "pt": "o açafrão",
+    "ro": "crocusul",
+    "ru": "крокус",
+    "sk": "krokus",
+    "sl": "krokus",
+    "sv": "krokusen",
+    "tr": "çİĞDEM",
+    "uk": "крокус",
+    "zh": "鳄鱼花"
+  },
+  "hebrew": "כַּרְכֹּם",
+  "verses": [
+    "solomon 4:14:1"
+  ]
+}

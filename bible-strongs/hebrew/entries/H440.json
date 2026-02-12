@@ -1,0 +1,42 @@
+{
+  "number": "H440",
+  "language": "hebrew",
+  "transliteration": "ʼÊlôwnîy",
+  "pronunciation": "ay-lo-nee'",
+  "definition": "an Elonite or descendant (collectively) of Elon",
+  "kjvTranslation": "Elonites.",
+  "translations": {
+    "bg": "елонит или потомък (колективно) на Елон",
+    "cs": "elonita nebo potomek (společně) Elona",
+    "da": "en elonit eller efterkommer (kollektivt) af Elon",
+    "de": "ein Elonit oder Nachkomme (kollektiv) von Elon",
+    "el": "ένας Ελονίτης ή απόγονος (συλλογικά) του Έλον",
+    "es": "un elonita o descendiente (colectivamente) de Elon",
+    "et": "eloniit või Eloni järeltulija (kollektiivselt)",
+    "fi": "elonilainen tai Elonin jälkeläinen (kollektiivisesti)",
+    "fr": "un Elonite ou un descendant (collectif) d'Elon",
+    "hu": "elonita vagy Elon leszármazottja (kollektíven)",
+    "id": "seorang Elonite atau keturunan (secara kolektif) dari Elon",
+    "it": "un Elonita o un discendente (collettivamente) di Elon",
+    "ja": "エロン人またはエロンの子孫（総称",
+    "ko": "엘론 또는 엘론의 후손 (총칭)",
+    "lt": "elonietis arba Elono palikuonis (bendrai)",
+    "lv": "elonietis vai Elonas pēcnācējs (kopā)",
+    "nb": "en elonitt eller etterkommer (kollektivt) av Elon",
+    "nl": "een Eloniet of afstammeling (collectief) van Elon",
+    "pl": "elonitą lub potomkiem (łącznie) Elona",
+    "pt": "um elonita ou descendente (coletivamente) de Elon",
+    "ro": "un elonit sau descendent (colectiv) al lui Elon",
+    "ru": "элонит или потомок (в совокупности) Элона",
+    "sk": "elonita alebo potomok (spoločne) Elona",
+    "sl": "elonec ali potomec (kolektivno) Elona",
+    "sv": "en elonit eller ättling (kollektivt) till Elon",
+    "tr": "bir Elonlu veya Elon'un soyundan gelen (topluca)",
+    "uk": "елонітом або нащадком (у сукупності) Ілона",
+    "zh": "伊隆人或伊隆后裔（统称伊隆人"
+  },
+  "hebrew": "אֵלוֹנִי",
+  "verses": [
+    "numbers 26:26:8"
+  ]
+}

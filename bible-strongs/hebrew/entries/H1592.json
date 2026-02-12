@@ -1,0 +1,43 @@
+{
+  "number": "H1592",
+  "language": "hebrew",
+  "transliteration": "Gᵉnubath",
+  "pronunciation": "ghen-oo-bath'",
+  "definition": "Genubath, an Edomitish prince",
+  "kjvTranslation": "Genubath.",
+  "translations": {
+    "bg": "Генубат, едомитски княз",
+    "cs": "Genubat, edomitský kníže",
+    "da": "Genubath, en edomitisk prins",
+    "de": "Genubath, ein edomitischer Fürst",
+    "el": "Genubath, ένας Εδωμίτης πρίγκιπας",
+    "es": "Genubath, un príncipe edomita",
+    "et": "Genubath, Edomiidi vürst",
+    "fi": "Genubath, edomilainen ruhtinas, -",
+    "fr": "Genubath, prince édomite",
+    "hu": "Genubath, egy edomita herceg",
+    "id": "Genubath, seorang pangeran Edom",
+    "it": "Genubath, un principe edomita",
+    "ja": "エドミトの王子ジェヌバト",
+    "ko": "에돔의 왕자, 제누바스",
+    "lt": "Genubatas, edomitų kunigaikštis",
+    "lv": "Genubats, edomītu kņazs",
+    "nb": "Genubath, en edomittisk fyrste",
+    "nl": "Genubath, een Edomitische prins",
+    "pl": "Genubath, edomicki książę",
+    "pt": "Genubate, príncipe edomita",
+    "ro": "Genubath, un prinț edomit",
+    "ru": "Генубат, эдомитский князь",
+    "sk": "Genubat, edomitské knieža",
+    "sl": "Genubat, edomitski knez",
+    "sv": "Genubath, en prins från Edomitish",
+    "tr": "Genubath, bir Edomit prensi",
+    "uk": "Ґенубат, едомітський князь",
+    "zh": "以东王子吉努巴特"
+  },
+  "hebrew": "גְּנֻבַת",
+  "verses": [
+    "firstKings 11:20:5",
+    "firstKings 11:20:13"
+  ]
+}

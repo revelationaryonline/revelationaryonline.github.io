@@ -1,0 +1,43 @@
+{
+  "number": "H37",
+  "language": "hebrew",
+  "transliteration": "ʼĂbîyṭâl",
+  "pronunciation": "ab-ee-tal'",
+  "definition": "Abital, a wife of King David",
+  "kjvTranslation": "Abital.",
+  "translations": {
+    "bg": "Авитал, съпруга на цар Давид",
+    "cs": "Abital, manželka krále Davida",
+    "da": "Abital, en hustru til kong David",
+    "de": "Abital, eine Frau von König David",
+    "el": "Abital, σύζυγος του βασιλιά Δαβίδ",
+    "es": "Abital, esposa del rey David",
+    "et": "Abital, kuningas Taaveti abikaasa",
+    "fi": "Abital, kuningas Daavidin vaimo",
+    "fr": "Abital, épouse du roi David",
+    "hu": "Abital, Dávid király felesége",
+    "id": "Abital, seorang istri Raja Daud",
+    "it": "Abital, moglie di re Davide",
+    "ja": "ダビデ王の妻アビタル",
+    "ko": "다윗 왕의 아내 아비탈",
+    "lt": "Abital, karaliaus Dovydo žmona",
+    "lv": "Abital, ķēniņa Dāvida sieva",
+    "nb": "Abital, en av kong Davids hustruer",
+    "nl": "Abital, een vrouw van koning David",
+    "pl": "Abital, żona króla Dawida",
+    "pt": "Abital, mulher do rei David",
+    "ro": "Abital, o soție a regelui David",
+    "ru": "Абиталь, жена царя Давида",
+    "sk": "Abital, manželka kráľa Dávida",
+    "sl": "Abital, žena kralja Davida",
+    "sv": "Abital, hustru till kung David",
+    "tr": "Abital, Kral Davut'un karısı",
+    "uk": "Авітал, дружина царя Давида",
+    "zh": "阿比塔尔，大卫王的妻子"
+  },
+  "hebrew": "אֲבִיטָל",
+  "verses": [
+    "secondSamuel 3:4:7",
+    "firstChronicles 3:3:2"
+  ]
+}

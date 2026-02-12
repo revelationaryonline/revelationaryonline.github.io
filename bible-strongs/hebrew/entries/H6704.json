@@ -1,0 +1,42 @@
+{
+  "number": "H6704",
+  "language": "hebrew",
+  "transliteration": "tsicheh",
+  "pronunciation": "tsee-kheh'",
+  "definition": "parched",
+  "kjvTranslation": "dried up.",
+  "hebrew": "צִחֶה",
+  "translations": {
+    "bg": "изсушен",
+    "cs": "vyprahlý",
+    "da": "udtørret",
+    "de": "ausgedörrte",
+    "el": "ξεραμένο",
+    "es": "reseca",
+    "et": "kuivanud",
+    "fi": "kuivunut",
+    "fr": "desséché",
+    "hu": "kiszáradt",
+    "id": "kering",
+    "it": "inaridito",
+    "ja": "からから",
+    "ko": "parched",
+    "lt": "išdžiūvęs",
+    "lv": "izžuvuši",
+    "nb": "uttørket",
+    "nl": "uitgedroogd",
+    "pl": "spieczony",
+    "pt": "ressequido",
+    "ro": "secat",
+    "ru": "пересохший",
+    "sk": "vyprahnutá",
+    "sl": "izsušena",
+    "sv": "torkad",
+    "tr": "kavrulmuş",
+    "uk": "пересохлий",
+    "zh": "干巴巴"
+  },
+  "verses": [
+    "isaiah 5:13:9"
+  ]
+}

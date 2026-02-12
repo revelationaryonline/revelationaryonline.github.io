@@ -1,0 +1,43 @@
+{
+  "number": "H158",
+  "language": "hebrew",
+  "transliteration": "ʼahab",
+  "pronunciation": "ah'-hab",
+  "definition": "affection (in a good or a bad sense)",
+  "kjvTranslation": "love(-r).",
+  "translations": {
+    "bg": "привързаност (в добър или лош смисъл)",
+    "cs": "náklonnost (v dobrém i špatném smyslu)",
+    "da": "hengivenhed (i god eller dårlig forstand)",
+    "de": "zuneigung (im guten oder schlechten Sinne)",
+    "el": "στοργή (με την καλή ή την κακή έννοια)",
+    "es": "afecto (en el buen o mal sentido)",
+    "et": "kiindumus (heas või halvas mõttes)",
+    "fi": "kiintymys (hyvässä tai pahassa mielessä)",
+    "fr": "l'affection (dans le bon ou le mauvais sens du terme)",
+    "hu": "ragaszkodás (jó vagy rossz értelemben)",
+    "id": "kasih sayang (dalam arti yang baik atau buruk)",
+    "it": "affetto (in senso buono o cattivo)",
+    "ja": "あいじょう",
+    "ko": "애정(좋은 의미 또는 나쁜 의미)",
+    "lt": "prieraišumas (gerąja ar blogąja prasme)",
+    "lv": "simpātijas (labā vai sliktā nozīmē)",
+    "nb": "hengivenhet (i god eller dårlig forstand)",
+    "nl": "genegenheid (in goede of slechte zin)",
+    "pl": "uczucie (w dobrym lub złym znaczeniu)",
+    "pt": "afeto (no bom e no mau sentido)",
+    "ro": "afecțiune (într-un sens bun sau rău)",
+    "ru": "привязанность (в хорошем или плохом смысле)",
+    "sk": "náklonnosť (v dobrom alebo zlom zmysle)",
+    "sl": "naklonjenost (v dobrem ali slabem smislu)",
+    "sv": "tillgivenhet (i god eller dålig bemärkelse)",
+    "tr": "sevgi (iyi ya da kötü anlamda)",
+    "uk": "прихильність (у хорошому чи поганому сенсі)",
+    "zh": "感情"
+  },
+  "hebrew": "אַהַב",
+  "verses": [
+    "proverbs 5:19:1",
+    "hosea 8:9:9"
+  ]
+}

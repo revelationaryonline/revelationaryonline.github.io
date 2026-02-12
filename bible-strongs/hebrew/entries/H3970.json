@@ -1,0 +1,42 @@
+{
+  "number": "H3970",
+  "language": "hebrew",
+  "transliteration": "maʼăvay",
+  "pronunciation": "mah-av-ah'ee",
+  "definition": "a desire",
+  "kjvTranslation": "desire.",
+  "hebrew": "מַאֲוַי",
+  "translations": {
+    "bg": "желание",
+    "cs": "touha",
+    "da": "et ønske",
+    "de": "einen Wunsch",
+    "el": "μια επιθυμία",
+    "es": "un deseo",
+    "et": "soov",
+    "fi": "halu",
+    "fr": "un désir",
+    "hu": "egy vágy",
+    "id": "keinginan",
+    "it": "un desiderio",
+    "ja": "欲望",
+    "ko": "욕망",
+    "lt": "noras",
+    "lv": "vēlme",
+    "nb": "et ønske",
+    "nl": "een verlangen",
+    "pl": "pragnienie",
+    "pt": "um desejo",
+    "ro": "o dorință",
+    "ru": "желание",
+    "sk": "túžba",
+    "sl": "želja",
+    "sv": "en önskan",
+    "tr": "bir arzu",
+    "uk": "бажання",
+    "zh": "渴望"
+  },
+  "verses": [
+    "psalms 140:9:3"
+  ]
+}

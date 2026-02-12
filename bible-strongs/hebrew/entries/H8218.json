@@ -1,0 +1,42 @@
+{
+  "number": "H8218",
+  "language": "hebrew",
+  "transliteration": "shiphlâh",
+  "pronunciation": "shif-law'",
+  "definition": "depression",
+  "kjvTranslation": "low place.",
+  "hebrew": "שִׁפְלָה",
+  "translations": {
+    "bg": "депресия",
+    "cs": "deprese",
+    "da": "depression",
+    "de": "depression",
+    "el": "κατάθλιψη",
+    "es": "depresión",
+    "et": "depressioon",
+    "fi": "masennus",
+    "fr": "dépression",
+    "hu": "depresszió",
+    "id": "depresi",
+    "it": "depressione",
+    "ja": "うつ病",
+    "ko": "우울증",
+    "lt": "depresija",
+    "lv": "depresija",
+    "nb": "depresjon",
+    "nl": "depressie",
+    "pl": "depresja",
+    "pt": "depressão",
+    "ro": "depresie",
+    "ru": "депрессия",
+    "sk": "depresia",
+    "sl": "depresija",
+    "sv": "depression",
+    "tr": "depresyon",
+    "uk": "депресія",
+    "zh": "洼地"
+  },
+  "verses": [
+    "isaiah 32:19:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H150",
+  "language": "hebrew",
+  "transliteration": "ʼădarkôn",
+  "pronunciation": "ad-ar-kone'",
+  "definition": "a daric or Persian coin",
+  "kjvTranslation": "dram.",
+  "translations": {
+    "bg": "монета от дарик или персийска монета",
+    "cs": "dárská nebo perská mince",
+    "da": "en darisk eller persisk mønt",
+    "de": "eine darische oder persische Münze",
+    "el": "δαρικό ή περσικό νόμισμα",
+    "es": "una moneda dárica o persa",
+    "et": "daric või Pärsia münt",
+    "fi": "daric- tai persialainen kolikko",
+    "fr": "une pièce de monnaie daric ou perse",
+    "hu": "daric vagy perzsa érme",
+    "id": "koin daric atau Persia",
+    "it": "una moneta darica o persiana",
+    "ja": "ダリック貨",
+    "ko": "다릭 또는 페르시아 동전",
+    "lt": "daric arba Persijos moneta",
+    "lv": "darika vai persiešu monēta",
+    "nb": "en darisk eller persisk mynt",
+    "nl": "een daric of Perzische munt",
+    "pl": "moneta daric lub perska",
+    "pt": "uma moeda dérica ou persa",
+    "ro": "o monedă darică sau persană",
+    "ru": "дарикская или персидская монета",
+    "sk": "darika alebo perzská minca",
+    "sl": "darski ali perzijski kovanec",
+    "sv": "ett dariskt eller persiskt mynt",
+    "tr": "bir Daric veya Pers sikkesi",
+    "uk": "дарійська або перська монета",
+    "zh": "达拉钱币"
+  },
+  "hebrew": "אֲדַרְכֹּן",
+  "verses": [
+    "firstChronicles 29:7:8",
+    "ezra 8:27:3"
+  ]
+}

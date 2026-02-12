@@ -1,0 +1,42 @@
+{
+  "number": "H6804",
+  "language": "hebrew",
+  "transliteration": "tsantârâh",
+  "pronunciation": "tsan-taw-raw'",
+  "definition": "a tube",
+  "kjvTranslation": "pipe.",
+  "hebrew": "צַנְתָּרָה",
+  "translations": {
+    "bg": "тръба",
+    "cs": "trubice",
+    "da": "et rør",
+    "de": "ein Rohr",
+    "el": "ένα σωλήνα",
+    "es": "un tubo",
+    "et": "toru",
+    "fi": "putki",
+    "fr": "un tube",
+    "hu": "egy cső",
+    "id": "sebuah tabung",
+    "it": "un tubo",
+    "ja": "管",
+    "ko": "튜브",
+    "lt": "vamzdis",
+    "lv": "caurule",
+    "nb": "et rør",
+    "nl": "een buis",
+    "pl": "tuba",
+    "pt": "um tubo",
+    "ro": "un tub",
+    "ru": "трубка",
+    "sk": "rúrka",
+    "sl": "cev",
+    "sv": "ett rör",
+    "tr": "bir tüp",
+    "uk": "трубка",
+    "zh": "钢管"
+  },
+  "verses": [
+    "zechariah 4:12:11"
+  ]
+}

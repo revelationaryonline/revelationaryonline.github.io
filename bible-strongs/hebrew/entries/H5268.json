@@ -1,0 +1,43 @@
+{
+  "number": "H5268",
+  "language": "hebrew",
+  "transliteration": "Niçrôk",
+  "pronunciation": "nis-roke'",
+  "definition": "Nisrok, a Babylonian idol",
+  "kjvTranslation": "Nisroch.",
+  "hebrew": "נִסְרֹךְ",
+  "translations": {
+    "bg": "Нисрок, вавилонски идол",
+    "cs": "Nisrok, babylonská modla",
+    "da": "Nisrok, et babylonisk idol",
+    "de": "Nisrok, ein babylonisches Götzenbild",
+    "el": "Nisrok, ένα Βαβυλωνιακό είδωλο",
+    "es": "Nisrok, un ídolo babilónico",
+    "et": "Nisrok, Babüloonia iidol",
+    "fi": "Nisrok, babylonialainen epäjumala",
+    "fr": "Nisrok, idole babylonienne",
+    "hu": "Nisrok, egy babilóniai bálvány",
+    "id": "Nisrok, berhala Babilonia",
+    "it": "Nisrok, idolo babilonese",
+    "ja": "ニスロク、バビロニアの偶像",
+    "ko": "바빌로니아의 우상, 니스록",
+    "lt": "Nisrokas, babiloniečių stabas",
+    "lv": "Nisrok, babiloniešu elks",
+    "nb": "Nisrok, et babylonsk idol",
+    "nl": "Nisrok, een Babylonische afgod",
+    "pl": "Nisrok, babiloński bożek",
+    "pt": "Nisrok, um ídolo babilónico",
+    "ro": "Nisrok, un idol babilonian",
+    "ru": "Нисрок, вавилонский идол",
+    "sk": "Nisrok, babylonská modla",
+    "sl": "Nisrok, babilonski idol",
+    "sv": "Nisrok, en babylonisk avgud",
+    "tr": "Nisrok, bir Babil idolü",
+    "uk": "Нісрок, вавилонський ідол",
+    "zh": "尼索克"
+  },
+  "verses": [
+    "secondKings 19:37:4",
+    "isaiah 37:38:4"
+  ]
+}

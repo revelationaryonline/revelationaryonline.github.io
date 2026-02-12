@@ -1,0 +1,43 @@
+{
+  "number": "H5073",
+  "language": "hebrew",
+  "transliteration": "nidbâk",
+  "pronunciation": "nid-bawk'",
+  "definition": "a layer (of building materials)",
+  "kjvTranslation": "row.",
+  "hebrew": "נִדְבָּךְ",
+  "translations": {
+    "bg": "слой (строителни материали)",
+    "cs": "vrstva (stavebních materiálů)",
+    "da": "et lag (af byggematerialer)",
+    "de": "eine Schicht (von Baumaterialien)",
+    "el": "ένα στρώμα (οικοδομικών υλικών)",
+    "es": "una capa (de materiales de construcción)",
+    "et": "(ehitusmaterjalide) kiht",
+    "fi": "kerros (rakennusmateriaaleja)",
+    "fr": "une couche (de matériaux de construction)",
+    "hu": "egy réteg (építőanyag)",
+    "id": "lapisan (bahan bangunan)",
+    "it": "uno strato (di materiali da costruzione)",
+    "ja": "一層",
+    "ko": "(건축 자재의) 레이어",
+    "lt": "sluoksnis (statybinių medžiagų)",
+    "lv": "slānis (celtniecības materiālu)",
+    "nb": "et lag (av byggematerialer)",
+    "nl": "een laag (bouwmaterialen)",
+    "pl": "warstwa (materiałów budowlanych)",
+    "pt": "uma camada (de materiais de construção)",
+    "ro": "un strat (de materiale de construcție)",
+    "ru": "слой (строительных материалов)",
+    "sk": "vrstva (stavebných materiálov)",
+    "sl": "plast (gradbenega materiala)",
+    "sv": "ett lager (av byggnadsmaterial)",
+    "tr": "bir katman (yapı malzemeleri)",
+    "uk": "шар (будівельних матеріалів)",
+    "zh": "层"
+  },
+  "verses": [
+    "ezra 6:4:0",
+    "ezra 6:4:5"
+  ]
+}

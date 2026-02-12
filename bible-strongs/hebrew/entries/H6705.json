@@ -1,0 +1,42 @@
+{
+  "number": "H6705",
+  "language": "hebrew",
+  "transliteration": "tsâchach",
+  "pronunciation": "tsaw-khakh'",
+  "definition": "to glare, i.e. be dazzling white",
+  "kjvTranslation": "be whiter.",
+  "hebrew": "צָחַח",
+  "translations": {
+    "bg": "да блести, т.е. да е ослепително бял",
+    "cs": "zářit, tj. být oslnivě bílý",
+    "da": "at blænde, dvs. være blændende hvid",
+    "de": "zu blenden, d.h. blendend weiß zu sein",
+    "el": "να λάμπει, δηλαδή να είναι εκτυφλωτικά λευκό",
+    "es": "resplandecer, es decir, ser de un blanco deslumbrante",
+    "et": "pimestada, st olla pimestavalt valge",
+    "fi": "häikäistä, eli olla häikäisevän valkoinen",
+    "fr": "éblouir, c'est-à-dire être d'une blancheur éblouissante",
+    "hu": "ragyogni, azaz vakítóan fehérnek lenni",
+    "id": "untuk menyilaukan, yaitu menjadi putih menyilaukan",
+    "it": "abbagliare, cioè essere di un bianco abbagliante",
+    "ja": "白くまぶしい",
+    "ko": "눈부시다, 즉 눈부시게 하얗다",
+    "lt": "spindėti, t. y. būti akinamai baltos spalvos",
+    "lv": "spīdēt, t.i., būt žilbinoši balts",
+    "nb": "å blinke, dvs. være blendende hvit",
+    "nl": "schitteren, d.w.z. verblindend wit zijn",
+    "pl": "błyszczeć, tj. być oślepiająco białym",
+    "pt": "brilhar, ou seja, ser branco deslumbrante",
+    "ro": "să strălucească, adică să fie de un alb orbitor",
+    "ru": "сверкать, т.е. быть ослепительно белым",
+    "sk": "žiariť, t. j. byť oslnivo biely",
+    "sl": "blesteti, tj. biti bleščeče bele barve",
+    "sv": "att blänka, dvs. vara bländande vit",
+    "tr": "parlamak, yani göz kamaştırıcı beyaz olmak",
+    "uk": "відблискувати, тобто бути сліпучо-білим",
+    "zh": "眩光，即耀眼的白色"
+  },
+  "verses": [
+    "lamentations 4:7:3"
+  ]
+}

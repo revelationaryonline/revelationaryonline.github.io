@@ -1,0 +1,42 @@
+{
+  "number": "H1574",
+  "language": "hebrew",
+  "transliteration": "gômed",
+  "pronunciation": "go'-med",
+  "definition": "properly, a span",
+  "kjvTranslation": "cubit.",
+  "translations": {
+    "bg": "правилно, обхват",
+    "cs": "správně, rozpětí",
+    "da": "korrekt, et spænd",
+    "de": "richtig, eine Spanne",
+    "el": "σωστά, ένα άνοιγμα",
+    "es": "correctamente, un tramo",
+    "et": "korralikult, vahemik",
+    "fi": "kunnolla, jänneväli",
+    "fr": "correctement, une travée",
+    "hu": "megfelelően, a span",
+    "id": "dengan benar, rentang",
+    "it": "correttamente, una campata",
+    "ja": "スパン",
+    "ko": "제대로, 스팬",
+    "lt": "tinkamai, tarpas",
+    "lv": "pareizi, span",
+    "nb": "riktig, et spenn",
+    "nl": "op de juiste manier, een spanwijdte",
+    "pl": "prawidłowo, rozpiętość",
+    "pt": "corretamente, um vão",
+    "ro": "în mod corespunzător, un interval",
+    "ru": "правильно, пролет",
+    "sk": "správne, rozpätie",
+    "sl": "pravilno, razpon",
+    "sv": "korrekt, ett spann",
+    "tr": "düzgün bir şekilde, bir açıklık",
+    "uk": "правильно, проміжок часу",
+    "zh": "跨度"
+  },
+  "hebrew": "גֹּמֶד",
+  "verses": [
+    "judges 3:16:7"
+  ]
+}

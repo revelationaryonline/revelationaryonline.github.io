@@ -1,0 +1,43 @@
+{
+  "number": "H6037",
+  "language": "hebrew",
+  "transliteration": "ʻanvâh",
+  "pronunciation": "an-vaw'",
+  "definition": "mildness (royal); also (concretely) oppressed",
+  "kjvTranslation": "gentleness, meekness.",
+  "hebrew": "עַנְוָה",
+  "translations": {
+    "bg": "мекота (кралска); също (конкретно) потиснат",
+    "cs": "mírnost (královská); také (konkrétně) utlačovaný",
+    "da": "mildhed (kongelig); også (konkret) undertrykt",
+    "de": "milde (königlich); auch (konkret) unterdrückt",
+    "el": "ηπιότητα (βασιλική), επίσης (συγκεκριμένα) καταπιεσμένος",
+    "es": "suavidad (real); también (concretamente) oprimido",
+    "et": "leebus (kuninglik); ka (konkreetselt) rõhutud",
+    "fi": "lempeys (kuninkaallinen); myös (konkreettisesti) sorrettu",
+    "fr": "douceur (royale) ; également (concrètement) opprimé",
+    "hu": "szelídség (királyi); valamint (konkrétan) elnyomott",
+    "id": "kelembutan (kerajaan); juga (secara konkret) tertindas",
+    "it": "mitezza (reale); anche (concretamente) oppresso",
+    "ja": "柔和（ロイヤル）；また（具体的には）虐げられた",
+    "ko": "온화함 (왕실); 또한 (구체적으로) 억압됨",
+    "lt": "švelnumas (karališkasis); taip pat (konkrečiai) engiamasis",
+    "lv": "maigums (karalisks); arī (konkrēti) apspiests",
+    "nb": "mildhet (kongelig); også (konkret) undertrykt",
+    "nl": "mildheid (koninklijk); ook (concreet) onderdrukt",
+    "pl": "łagodność (królewska); również (konkretnie) uciskany",
+    "pt": "brandura (real); também (concretamente) oprimido",
+    "ro": "blândețe (regală); de asemenea (concret) oprimat",
+    "ru": "мягкость (королевская); также (конкретно) угнетенный",
+    "sk": "miernosť (kráľovská); tiež (konkrétne) utláčaný",
+    "sl": "blagost (kraljevska); tudi (konkretno) zatirani",
+    "sv": "mildhet (kunglig); även (konkret) förtryckt",
+    "tr": "yumuşak başlılık (kraliyet); ayrıca (somut olarak) ezilmişlik",
+    "uk": "лагідність (королівська); також (конкретно) пригноблений",
+    "zh": "温和（王室）；也（具体）受压迫"
+  },
+  "verses": [
+    "psalms 18:36:6",
+    "psalms 45:5:6"
+  ]
+}

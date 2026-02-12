@@ -1,0 +1,42 @@
+{
+  "number": "H5113",
+  "language": "hebrew",
+  "transliteration": "Nôwd",
+  "pronunciation": "node",
+  "definition": "Nod, the land of Cain",
+  "kjvTranslation": "Nod.",
+  "hebrew": "נוֹד",
+  "translations": {
+    "bg": "Нод, земята на Каин",
+    "cs": "Nod, země Kainova",
+    "da": "Nod, Kains land",
+    "de": "Nod, das Land von Kain",
+    "el": "Nod, η γη του Κάιν",
+    "es": "Nod, la tierra de Caín",
+    "et": "Nod, Kaini maa",
+    "fi": "Nod, Kainin maa",
+    "fr": "Nod, le pays de Caïn",
+    "hu": "Nod, Káin földje",
+    "id": "Mengangguk, tanah Kain",
+    "it": "Nod, la terra di Caino",
+    "ja": "ノド、カインの地",
+    "ko": "끄덕임, 카인의 땅",
+    "lt": "Nodas, Kaino žemė",
+    "lv": "Nod, Kaina zeme",
+    "nb": "Nod, Kains land",
+    "nl": "Nod, het land van Kaïn",
+    "pl": "Nod, kraina Kaina",
+    "pt": "Nod, a terra de Caim",
+    "ro": "Nod, țara lui Cain",
+    "ru": "Нод, земля Каина",
+    "sk": "Nod, Kainova krajina",
+    "sl": "Nod, Kajnova dežela",
+    "sv": "Nod, Kains land",
+    "tr": "Nod, Kabil'in ülkesi",
+    "uk": "Нод, земля Каїна",
+    "zh": "诺德，该隐的国度"
+  },
+  "verses": [
+    "genesis 4:16:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H542",
+  "language": "hebrew",
+  "transliteration": "ʼâmân",
+  "pronunciation": "aw-mawn'",
+  "definition": "an expert",
+  "kjvTranslation": "cunning workman.",
+  "translations": {
+    "bg": "експерт",
+    "cs": "odborník",
+    "da": "en ekspert",
+    "de": "ein Experte",
+    "el": "ένας εμπειρογνώμονας",
+    "es": "un experto",
+    "et": "ekspert",
+    "fi": "asiantuntija",
+    "fr": "un expert",
+    "hu": "szakértő",
+    "id": "seorang ahli",
+    "it": "un esperto",
+    "ja": "専門家",
+    "ko": "전문가",
+    "lt": "ekspertas",
+    "lv": "eksperts",
+    "nb": "en ekspert",
+    "nl": "een expert",
+    "pl": "ekspert",
+    "pt": "um perito",
+    "ro": "un expert",
+    "ru": "эксперт",
+    "sk": "odborník",
+    "sl": "strokovnjak",
+    "sv": "en expert",
+    "tr": "bir uzman",
+    "uk": "експерта",
+    "zh": "专家"
+  },
+  "hebrew": "אָמָן",
+  "verses": [
+    "solomon 7:2:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3125",
+  "language": "hebrew",
+  "transliteration": "Yᵉvânîy",
+  "pronunciation": "yev-aw-nee'",
+  "definition": "a Jevanite, or descendant of Javan",
+  "kjvTranslation": "Grecian.",
+  "translations": {
+    "bg": "йеванит или потомък на Яван",
+    "cs": "jevanita neboli potomek Javana",
+    "da": "en jevanit eller efterkommer af Javan",
+    "de": "ein Jevaniter oder Nachkomme von Javan",
+    "el": "ιβανίτης, ή απόγονος του Ιβάν",
+    "es": "un jevanita, o descendiente de Javan",
+    "et": "jevaniit ehk Javani järeltulija",
+    "fi": "jevanilainen eli Javanin jälkeläinen",
+    "fr": "un Jevanite, ou descendant de Javan",
+    "hu": "jevanita, vagy Jáván leszármazottja",
+    "id": "orang Jevan, atau keturunan Jawa",
+    "it": "un Jevanita, o discendente di Javan",
+    "ja": "ジェバン人（ジャワの子孫",
+    "ko": "제바나이트 또는 자바의 후손",
+    "lt": "jevanitas arba Javano palikuonis",
+    "lv": "jevanīts jeb Javana pēcnācējs",
+    "nb": "en jevanitt, eller etterkommer av Javan",
+    "nl": "een Jevaniet, of afstammeling van Javaan",
+    "pl": "jevanita, czyli potomek Javana",
+    "pt": "um jevanita, ou descendente de Javan",
+    "ro": "un jevanit sau descendent al lui Javan",
+    "ru": "джеванит, или потомок Явана",
+    "sk": "jevanita alebo potomok Javana",
+    "sl": "jevanec ali potomec Javana",
+    "sv": "en jevanit, eller ättling till Javan",
+    "tr": "bir Jevanite, ya da Javan'ın soyundan",
+    "uk": "єванець або нащадок Явану",
+    "zh": "耶凡人"
+  },
+  "hebrew": "יְוָנִי",
+  "verses": [
+    "joel 4:6:6"
+  ]
+}

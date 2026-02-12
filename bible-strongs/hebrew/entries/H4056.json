@@ -1,0 +1,42 @@
+{
+  "number": "H4056",
+  "language": "hebrew",
+  "transliteration": "madbach",
+  "pronunciation": "mad-bakh'",
+  "definition": "a sacrificial altar",
+  "kjvTranslation": "altar.",
+  "hebrew": "מַדְבַּח",
+  "translations": {
+    "bg": "жертвен олтар",
+    "cs": "obětní oltář",
+    "da": "et offeralter",
+    "de": "einen Opferaltar",
+    "el": "θυσιαστήριο",
+    "es": "un altar de sacrificios",
+    "et": "ohvrialtar",
+    "fi": "uhrialttari",
+    "fr": "un autel sacrificiel",
+    "hu": "áldozati oltár",
+    "id": "altar pengorbanan",
+    "it": "un altare sacrificale",
+    "ja": "犠牲祭壇",
+    "ko": "희생 제단",
+    "lt": "aukojimo aukuras",
+    "lv": "upurēšanas altāris",
+    "nb": "et offeralter",
+    "nl": "een offeraltaar",
+    "pl": "ołtarz ofiarny",
+    "pt": "um altar de sacrifício",
+    "ro": "un altar de sacrificiu",
+    "ru": "жертвенный алтарь",
+    "sk": "obetný oltár",
+    "sl": "žrtveni oltar",
+    "sv": "ett offeraltare",
+    "tr": "bir kurban sunağı",
+    "uk": "жертовний вівтар",
+    "zh": "坛"
+  },
+  "verses": [
+    "ezra 7:17:15"
+  ]
+}

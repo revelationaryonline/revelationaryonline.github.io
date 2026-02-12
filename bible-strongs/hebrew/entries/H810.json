@@ -1,0 +1,42 @@
+{
+  "number": "H810",
+  "language": "hebrew",
+  "transliteration": "ʼeshek",
+  "pronunciation": "eh'-shek",
+  "definition": "a testicle (as a lump)",
+  "kjvTranslation": "stone.",
+  "translations": {
+    "bg": "тестис (като бучка)",
+    "cs": "varle (jako bulka)",
+    "da": "en testikel (som en klump)",
+    "de": "ein Hoden (als Klumpen)",
+    "el": "ένας όρχις (ως όγκος)",
+    "es": "un testículo (en forma de bulto)",
+    "et": "munand (kui tükk)",
+    "fi": "kives (kyhmynä)",
+    "fr": "un testicule (comme une masse)",
+    "hu": "egy here (mint egy csomó)",
+    "id": "testis (sebagai benjolan)",
+    "it": "un testicolo (come nodulo)",
+    "ja": "睾丸",
+    "ko": "고환(덩어리 형태)",
+    "lt": "sėklidė (kaip gumbas)",
+    "lv": "sēklinieks (kā vienreizējs veidojums)",
+    "nb": "en testikkel (som en klump)",
+    "nl": "een testikel (als knobbeltje)",
+    "pl": "jądro (jako guzek)",
+    "pt": "um testículo (como um caroço)",
+    "ro": "un testicul (ca o umflătură)",
+    "ru": "яичко (в виде шишки)",
+    "sk": "semenník (ako hrča)",
+    "sl": "semenčica (kot bulica)",
+    "sv": "en testikel (som en klump)",
+    "tr": "bir testis (bir yumru olarak)",
+    "uk": "яєчко (у вигляді грудочки)",
+    "zh": "睾丸"
+  },
+  "hebrew": "אֶשֶׁךְ",
+  "verses": [
+    "leviticus 21:20:13"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7893",
+  "language": "hebrew",
+  "transliteration": "shayish",
+  "pronunciation": "shah'-yish",
+  "definition": "white, i.e. marble.",
+  "kjvTranslation": "",
+  "hebrew": "שַׁיִשׁ",
+  "translations": {
+    "bg": "бял, т.е. мраморен.",
+    "cs": "bílé, tj. mramorové.",
+    "da": "hvid, dvs. marmor.",
+    "de": "weiß, d.h. Marmor.",
+    "el": "λευκό, δηλαδή μάρμαρο.",
+    "es": "blanco, es decir, mármol.",
+    "et": "valge, st marmor.",
+    "fi": "valkoinen eli marmori.",
+    "fr": "blanc, c'est-à-dire marbre.",
+    "hu": "fehér, azaz márvány.",
+    "id": "putih, yaitu marmer.",
+    "it": "bianco, cioè marmo.",
+    "ja": "白い、つまり大理石だ。",
+    "ko": "흰색, 즉 대리석.",
+    "lt": "baltas, t. y. marmurinis.",
+    "lv": "balta, t. i., marmora.",
+    "nb": "hvit, dvs. marmor.",
+    "nl": "wit, d.w.z. marmer.",
+    "pl": "biały, tj. marmur.",
+    "pt": "branco, ou seja, mármore.",
+    "ro": "alb, adică marmură.",
+    "ru": "белый, то есть мраморный.",
+    "sk": "biely, t. j. mramorový.",
+    "sl": "bela, tj. marmorna.",
+    "sv": "vit, d.v.s. marmor.",
+    "tr": "beyaz, yani mermer.",
+    "uk": "білий, тобто мармур.",
+    "zh": "白色，即大理石。"
+  },
+  "verses": [
+    "firstChronicles 29:2:25"
+  ]
+}

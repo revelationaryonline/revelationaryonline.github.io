@@ -1,0 +1,42 @@
+{
+  "number": "H7478",
+  "language": "hebrew",
+  "transliteration": "raʻal",
+  "pronunciation": "rah'-al",
+  "definition": "a reeling (from intoxication)",
+  "kjvTranslation": "trembling.",
+  "hebrew": "רַעַל",
+  "translations": {
+    "bg": "замайване (от опиянение)",
+    "cs": "navíjení (z opilosti)",
+    "da": "en omvæltning (af beruselse)",
+    "de": "ein Taumeln (vom Rausch)",
+    "el": "μια περιδίνηση (από μέθη)",
+    "es": "un tambaleo (por intoxicación)",
+    "et": "reeling (mürgistusest)",
+    "fi": "kelaaminen (päihtymyksestä)",
+    "fr": "un recul (sous l'effet de l'ivresse)",
+    "hu": "a (részegségből eredő) tántorgás",
+    "id": "terguncang (karena keracunan)",
+    "it": "un'ansimazione (da intossicazione)",
+    "ja": "酔眼朦朧",
+    "ko": "(중독으로 인한) 릴링",
+    "lt": "apsvaigimas (nuo apsvaigimo)",
+    "lv": "apreibums (no reibuma)",
+    "nb": "en reeling (fra beruselse)",
+    "nl": "een wankeling (van dronkenschap)",
+    "pl": "zwijanie się (z odurzenia)",
+    "pt": "um cambalear (por intoxicação)",
+    "ro": "o învârtire (din cauza intoxicației)",
+    "ru": "отходняк (от опьянения)",
+    "sk": "navíjanie (z opitosti)",
+    "sl": "opotekanje (zaradi zastrupitve)",
+    "sv": "en omkastning (från berusning)",
+    "tr": "bir sersemleme (sarhoşluktan)",
+    "uk": "розгойдування (від сп'яніння)",
+    "zh": "酩酊大醉"
+  },
+  "verses": [
+    "zechariah 12:2:6"
+  ]
+}

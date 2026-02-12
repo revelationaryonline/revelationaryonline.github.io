@@ -1,0 +1,42 @@
+{
+  "number": "H320",
+  "language": "hebrew",
+  "transliteration": "ʼachărîyth",
+  "pronunciation": "akh-ar-eeth'",
+  "definition": "later",
+  "kjvTranslation": "latter.",
+  "translations": {
+    "bg": "по-късно",
+    "cs": "později",
+    "da": "senere",
+    "de": "später",
+    "el": "αργότερα",
+    "es": "más tarde",
+    "et": "hiljem",
+    "fi": "myöhemmin",
+    "fr": "plus tard",
+    "hu": "később",
+    "id": "nanti",
+    "it": "più tardi",
+    "ja": "後日",
+    "ko": "나중에",
+    "lt": "vėliau",
+    "lv": "vēlāk",
+    "nb": "senere",
+    "nl": "later",
+    "pl": "później",
+    "pt": "mais tarde",
+    "ro": "mai târziu",
+    "ru": "позже",
+    "sk": "neskôr",
+    "sl": "pozneje",
+    "sv": "senare",
+    "tr": "daha sonra",
+    "uk": "пізніше",
+    "zh": "之后"
+  },
+  "hebrew": "אַחֲרִית",
+  "verses": [
+    "daniel 2:28:12"
+  ]
+}

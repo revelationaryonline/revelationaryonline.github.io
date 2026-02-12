@@ -1,0 +1,43 @@
+{
+  "number": "H4862",
+  "language": "hebrew",
+  "transliteration": "mishʼâlâh",
+  "pronunciation": "mish-aw-law'",
+  "definition": "a request",
+  "kjvTranslation": "desire, petition.",
+  "hebrew": "מִשְׁאָלָה",
+  "translations": {
+    "bg": "искане",
+    "cs": "žádost",
+    "da": "en anmodning",
+    "de": "eine Anfrage",
+    "el": "ένα αίτημα",
+    "es": "una solicitud",
+    "et": "taotlus",
+    "fi": "pyyntö",
+    "fr": "une demande",
+    "hu": "egy kérés",
+    "id": "permintaan",
+    "it": "una richiesta",
+    "ja": "依頼",
+    "ko": "요청",
+    "lt": "prašymas",
+    "lv": "pieprasījums",
+    "nb": "en forespørsel",
+    "nl": "een verzoek",
+    "pl": "żądanie",
+    "pt": "um pedido",
+    "ro": "o cerere",
+    "ru": "запрос",
+    "sk": "žiadosť",
+    "sl": "prošnja",
+    "sv": "en begäran",
+    "tr": "bir istek",
+    "uk": "прохання",
+    "zh": "请求"
+  },
+  "verses": [
+    "psalms 20:6:8",
+    "psalms 37:4:5"
+  ]
+}

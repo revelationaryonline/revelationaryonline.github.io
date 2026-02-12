@@ -1,0 +1,42 @@
+{
+  "number": "H8291",
+  "language": "hebrew",
+  "transliteration": "sârûwq",
+  "pronunciation": "sar-ook'",
+  "definition": "a grapevine",
+  "kjvTranslation": "principal plant. See H8320 (שָׂרֻק), H8321 (שֹׂרֵק).",
+  "hebrew": "שָׂרוּק",
+  "translations": {
+    "bg": "лоза",
+    "cs": "vinná réva",
+    "da": "en vinranke",
+    "de": "eine Weinrebe",
+    "el": "ένα αμπέλι",
+    "es": "una vid",
+    "et": "viinapuu",
+    "fi": "viiniköynnös",
+    "fr": "une vigne",
+    "hu": "egy szőlőtő",
+    "id": "selentingan",
+    "it": "una vite",
+    "ja": "葡萄の木",
+    "ko": "포도나무",
+    "lt": "vynmedis",
+    "lv": "vīnogulāju",
+    "nb": "en vinranke",
+    "nl": "een wijnstok",
+    "pl": "winorośl",
+    "pt": "uma videira",
+    "ro": "o viță de vie",
+    "ru": "виноградная лоза",
+    "sk": "vinič",
+    "sl": "vinska trta",
+    "sv": "en vinranka",
+    "tr": "bir asma",
+    "uk": "виноградна лоза",
+    "zh": "葡萄藤"
+  },
+  "verses": [
+    "isaiah 16:8:9"
+  ]
+}

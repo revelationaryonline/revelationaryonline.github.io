@@ -1,0 +1,42 @@
+{
+  "number": "H8326",
+  "language": "hebrew",
+  "transliteration": "shôrer",
+  "pronunciation": "sho'-rer",
+  "definition": "the umbilical cord, i.e. (by extension) a bodice",
+  "kjvTranslation": "navel.",
+  "hebrew": "שֹׁרֶר",
+  "translations": {
+    "bg": "пъпната връв, т.е. (чрез разширение) корсаж",
+    "cs": "pupeční šňůra, tj. (prodloužený) živůtek",
+    "da": "navlestrengen, dvs. (i forlængelse heraf) en overdel",
+    "de": "die Nabelschnur, d. h. (im weiteren Sinne) ein Mieder",
+    "el": "τον ομφάλιο λώρο, δηλαδή (κατ' επέκταση) ένα μπούστο",
+    "es": "el cordón umbilical, es decir (por extensión) un corpiño",
+    "et": "nabanöör, st (laiendamise teel) mantlipärija",
+    "fi": "napanuora, eli (laajennettuna) bodie",
+    "fr": "le cordon ombilical, c'est-à-dire (par extension) un corsage",
+    "hu": "a köldökzsinór, azaz (kiterjesztve) egy bodicska",
+    "id": "tali pusat, yaitu (dengan perluasan) korset",
+    "it": "il cordone ombelicale, cioè (per estensione) un corpetto",
+    "ja": "へその緒、すなわち（その延長線上にある）ボディス",
+    "ko": "탯줄, 즉 (확장하면) 몸통입니다",
+    "lt": "bambagyslė, t. y. (pratęsimas) liemuo",
+    "lv": "nabassaite, t. i., (pagarinot) bodijs",
+    "nb": "navlestrengen, dvs. (i forlengelsen av) en bodice",
+    "nl": "de navelstreng, d.w.z. (bij uitbreiding) een lijfje",
+    "pl": "pępowina, tj. (przez przedłużenie) gorset",
+    "pt": "o cordão umbilical, ou seja, (por extensão) um corpete",
+    "ro": "cordonul ombilical, adică (prin extensie) un corset",
+    "ru": "пуповина, т.е. (в продолжении) лиф",
+    "sk": "pupočnú šnúru, t. j. (v nadväznosti na ňu) živôtik",
+    "sl": "popkovina, tj. (s podaljškom) bodice",
+    "sv": "navelsträngen, d.v.s. (i förlängningen) en bodice",
+    "tr": "göbek bağı, yani (uzantı olarak) bir korse",
+    "uk": "пуповину, тобто (за розширенням) ліф",
+    "zh": "脐带，即（引申为）衣襟"
+  },
+  "verses": [
+    "solomon 7:3:0"
+  ]
+}

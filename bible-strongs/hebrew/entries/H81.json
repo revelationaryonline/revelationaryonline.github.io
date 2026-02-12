@@ -1,0 +1,42 @@
+{
+  "number": "H81",
+  "language": "hebrew",
+  "transliteration": "ʼăbâqâh",
+  "pronunciation": "ab-aw-kaw'",
+  "definition": "{light particles (as volatile)}",
+  "kjvTranslation": "powder.",
+  "translations": {
+    "bg": "{леки частици (като летливи)}",
+    "cs": "{lehké částice (jako těkavé)}",
+    "da": "{lette partikler (som flygtige)}",
+    "de": "{leichte Partikel (wie flüchtig)}",
+    "el": "{ελαφρά σωματίδια (ως πτητικά)}",
+    "es": "{partículas ligeras (como volátiles)}",
+    "et": "(kerged osakesed (kui lenduvad))",
+    "fi": "{kevyet hiukkaset (haihtuvina)}",
+    "fr": "{particules légères (comme volatiles)}",
+    "hu": "{fényrészecskék (mint illékonyak)}",
+    "id": "{partikel ringan (mudah menguap)}",
+    "it": "{particelle leggere (come volatili)",
+    "ja": "{軽粒子（揮発性）｝。",
+    "ko": "{빛 입자(휘발성)}",
+    "lt": "{šviesos dalelės (kaip lakiosios)}",
+    "lv": "{vieglās daļiņas (kā gaistošas)}",
+    "nb": "{lette partikler (som flyktige)}",
+    "nl": "{lichte deeltjes (als vluchtig)}",
+    "pl": "{lekkie cząsteczki (jako lotne)}",
+    "pt": "{partículas leves (como voláteis)}",
+    "ro": "{particule ușoare (ca volatile)}",
+    "ru": "{легкие частицы (как летучие)}",
+    "sk": "{ľahké častice (ako prchavé)}",
+    "sl": "{lahki delci (kot hlapni)}",
+    "sv": "{lätta partiklar (som flyktiga)}",
+    "tr": "{hafif parçacıklar (uçucu olarak)}",
+    "uk": "{легкі частинки (як леткі)}",
+    "zh": "{轻粒子（易挥发）}"
+  },
+  "hebrew": "אֲבָקָה",
+  "verses": [
+    "solomon 3:6:11"
+  ]
+}

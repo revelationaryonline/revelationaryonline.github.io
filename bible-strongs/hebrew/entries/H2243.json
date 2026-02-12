@@ -1,0 +1,42 @@
+{
+  "number": "H2243",
+  "language": "hebrew",
+  "transliteration": "chôb",
+  "pronunciation": "khobe",
+  "definition": "properly, a cherisher, i.e. the bosom",
+  "kjvTranslation": "bosom.",
+  "translations": {
+    "bg": "правилно, леличка, т.е. гърдите",
+    "cs": "správně, cherisher, tj. hruď",
+    "da": "korrekt, en værner, dvs. brystet",
+    "de": "richtig, ein Schmeichler, d.h. der Schoß",
+    "el": "σωστά, ένα cherisher, δηλ. ο κόρφος",
+    "es": "propiamente, un acariciador, es decir, el seno",
+    "et": "õigesti, cherisher, s.t. bosom'ile",
+    "fi": "oikein, cherisher, ts. poven",
+    "fr": "à proprement parler, une personne qui chérit, c'est-à-dire la poitrine",
+    "hu": "helyesen, egy dédelgető, azaz a kebel",
+    "id": "dengan benar, yaitu dada, yaitu dada",
+    "it": "propriamente, un custode, cioè il seno",
+    "ja": "正しくは、\"cherisher\"、つまり懐に抱く人だ。",
+    "ko": "제대로 말하면, 소중히 여기는 사람, 즉 가슴입니다",
+    "lt": "teisingai, a cherisher, t. y. krūtinę",
+    "lv": "pareizi, cherisher, t.i., krūts",
+    "nb": "egentlig en koser, dvs. et bryst",
+    "nl": "goed, een koesteraar, d.w.z. de boezem",
+    "pl": "właściwie, cherisher, tj. łono",
+    "pt": "propriamente dito, um acarinhador, ou seja, o seio",
+    "ro": "în mod corespunzător, un prețuitor, adică sânul",
+    "ru": "правильно, лелеющий, т.е. лоно",
+    "sk": "správne, a cherisher, t. j. prsia",
+    "sl": "pravilno, cherisher, tj. prsi",
+    "sv": "korrekt, en vårdare, dvs. bröstet",
+    "tr": "doğru bir şekilde, bir besleyici, yani bağrına basan",
+    "uk": "власне, берегиня, тобто лоно",
+    "zh": "襟怀"
+  },
+  "hebrew": "חֹב",
+  "verses": [
+    "job 31:33:5"
+  ]
+}

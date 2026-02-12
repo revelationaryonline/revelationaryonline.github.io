@@ -1,0 +1,43 @@
+{
+  "number": "H2551",
+  "language": "hebrew",
+  "transliteration": "chemlâh",
+  "pronunciation": "khem-law'",
+  "definition": "commiseration",
+  "kjvTranslation": "merciful, pity.",
+  "translations": {
+    "bg": "състрадание",
+    "cs": "soucit",
+    "da": "medlidenhed",
+    "de": "beileid",
+    "el": "συμπόνια",
+    "es": "conmiseración",
+    "et": "kaastunne",
+    "fi": "myötätunto",
+    "fr": "commisération",
+    "hu": "részvétnyilvánítás",
+    "id": "belasungkawa",
+    "it": "commiserazione",
+    "ja": "慰謝料",
+    "ko": "위로",
+    "lt": "užuojauta",
+    "lv": "līdzjūtība",
+    "nb": "medlidenhet",
+    "nl": "medelijden",
+    "pl": "współczucie",
+    "pt": "comiseração",
+    "ro": "compasiune",
+    "ru": "общение",
+    "sk": "súcit",
+    "sl": "sočutje",
+    "sv": "förringande",
+    "tr": "komiserlik",
+    "uk": "співчуття",
+    "zh": "恻隐之心"
+  },
+  "hebrew": "חֶמְלָה",
+  "verses": [
+    "genesis 19:16:9",
+    "isaiah 63:9:9"
+  ]
+}

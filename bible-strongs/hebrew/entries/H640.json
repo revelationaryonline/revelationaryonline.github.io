@@ -1,0 +1,43 @@
+{
+  "number": "H640",
+  "language": "hebrew",
+  "transliteration": "ʼâphad",
+  "pronunciation": "aw-fad'",
+  "definition": "to gird on (the ephod)",
+  "kjvTranslation": "bind, gird.",
+  "translations": {
+    "bg": "да препаше (ефода)",
+    "cs": "přepásat (efod)",
+    "da": "til at omslutte (efoden)",
+    "de": "umgürten (das Ephod)",
+    "el": "να περιβάλλεται (το εἰδωλο)",
+    "es": "ceñirse (el efod)",
+    "et": "(ephod) ümber vööle panna",
+    "fi": "vyöttää (ephodin) päälle",
+    "fr": "pour ceindre (l'éphod)",
+    "hu": "felövezni (az efódot)",
+    "id": "untuk mengenakan (baju zirah)",
+    "it": "cingere (l'efod)",
+    "ja": "帯びる",
+    "ko": "(에포드) 띠를 매다(에포드)",
+    "lt": "apsijuosti (efodu)",
+    "lv": "piesiet (efodu)",
+    "nb": "å ikle seg (efoden)",
+    "nl": "omgorden (de efod)",
+    "pl": "przepasać się (efodem)",
+    "pt": "para cingir (o éfode)",
+    "ro": "să încingă (efodul)",
+    "ru": "опоясаться (эфодом)",
+    "sk": "opásať (efód)",
+    "sl": "prepasati (efod)",
+    "sv": "att bälta på (efoden)",
+    "tr": "(efod) kuşanmak için",
+    "uk": "підперезатися (ефодом)",
+    "zh": "束上（以弗得）腰带"
+  },
+  "hebrew": "אָפַד",
+  "verses": [
+    "exodus 29:5:15",
+    "leviticus 8:7:19"
+  ]
+}

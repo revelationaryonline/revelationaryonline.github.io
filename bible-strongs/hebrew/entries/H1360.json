@@ -1,0 +1,43 @@
+{
+  "number": "H1360",
+  "language": "hebrew",
+  "transliteration": "gebeʼ",
+  "pronunciation": "geh'-beh",
+  "definition": "a reservoir; by analogy, a marsh",
+  "kjvTranslation": "marish, pit.",
+  "translations": {
+    "bg": "резервоар; по аналогия - блато",
+    "cs": "vodní nádrž; analogicky bažina",
+    "da": "et reservoir; tilsvarende en mose",
+    "de": "ein Stausee; analog dazu ein Sumpfgebiet",
+    "el": "μια δεξαμενή- κατ' αναλογία, ένα έλος",
+    "es": "un embalse; por analogía, un pantano",
+    "et": "veehoidla; analoogia alusel soo",
+    "fi": "tekojärvi; vastaavasti suo",
+    "fr": "un réservoir ; par analogie, un marais",
+    "hu": "víztározó; analógia útján mocsár",
+    "id": "waduk; dengan analogi, rawa",
+    "it": "un bacino idrico; per analogia, una palude",
+    "ja": "貯水池、例えるなら湿地帯",
+    "ko": "저수지; 비유하자면 습지",
+    "lt": "rezervuaras; pagal analogiją - pelkė",
+    "lv": "ūdenskrātuve; pēc analoģijas - purvs",
+    "nb": "et reservoar; analogt sett en myr",
+    "nl": "een reservoir; naar analogie, een moeras",
+    "pl": "zbiornik wodny; analogicznie bagno",
+    "pt": "um reservatório; por analogia, um pântano",
+    "ro": "un rezervor; prin analogie, o mlaștină",
+    "ru": "водоем; по аналогии - болото",
+    "sk": "nádrž; analogicky močiar",
+    "sl": "rezervoar; po analogiji močvirje",
+    "sv": "en reservoar; analogt ett kärr",
+    "tr": "bir rezervuar; benzer şekilde, bir bataklık",
+    "uk": "водосховище; за аналогією - болото",
+    "zh": "水库"
+  },
+  "hebrew": "גֶּבֶא",
+  "verses": [
+    "isaiah 30:14:16",
+    "ezekiel 47:11:2"
+  ]
+}

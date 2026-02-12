@@ -1,0 +1,42 @@
+{
+  "number": "H522",
+  "language": "hebrew",
+  "transliteration": "ʼAmmâh",
+  "pronunciation": "am-maw'",
+  "definition": "Ammah, a hill in Palestine",
+  "kjvTranslation": "Ammah.",
+  "translations": {
+    "bg": "Ammah, хълм в Палестина",
+    "cs": "Ammah, kopec v Palestině",
+    "da": "Ammah, en bakke i Palæstina",
+    "de": "Ammah, ein Hügel in Palästina",
+    "el": "Ammah, ένας λόφος στην Παλαιστίνη",
+    "es": "Ammah, una colina de Palestina",
+    "et": "Ammah, küngas Palestiinas",
+    "fi": "Ammah, kukkula Palestiinassa",
+    "fr": "Ammah, colline en Palestine",
+    "hu": "Ammah, egy hegy Palesztinában",
+    "id": "Ammah, sebuah bukit di Palestina",
+    "it": "Ammah, una collina in Palestina",
+    "ja": "パレスチナの丘、アンマ",
+    "ko": "팔레스타인의 언덕, 암마",
+    "lt": "Ammah, kalva Palestinoje",
+    "lv": "Ammah, kalns Palestīnā",
+    "nb": "Ammah, en høyde i Palestina",
+    "nl": "Ammah, een heuvel in Palestina",
+    "pl": "Ammah, wzgórze w Palestynie",
+    "pt": "Ammah, uma colina na Palestina",
+    "ro": "Ammah, un deal în Palestina",
+    "ru": "Амма, холм в Палестине",
+    "sk": "Ammah, kopec v Palestíne",
+    "sl": "Ammah, hrib v Palestini",
+    "sv": "Ammah, en kulle i Palestina",
+    "tr": "Ammah, Filistin'de bir tepe",
+    "uk": "Амма, пагорб у Палестині",
+    "zh": "阿玛"
+  },
+  "hebrew": "אַמָּה",
+  "verses": [
+    "secondSamuel 2:24:11"
+  ]
+}

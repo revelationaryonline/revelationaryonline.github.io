@@ -1,0 +1,42 @@
+{
+  "number": "H1483",
+  "language": "hebrew",
+  "transliteration": "Gûwr",
+  "pronunciation": "goor",
+  "definition": "Gur, a place in Palestine",
+  "kjvTranslation": "Gur.",
+  "translations": {
+    "bg": "Гур, място в Палестина",
+    "cs": "Gur, místo v Palestině",
+    "da": "Gur, et sted i Palæstina",
+    "de": "Gur, ein Ort in Palästina",
+    "el": "Gur, ένας τόπος στην Παλαιστίνη",
+    "es": "Gur, un lugar de Palestina",
+    "et": "Gur, koht Palestiinas",
+    "fi": "Gur, paikka Palestiinassa",
+    "fr": "Gur, localité de Palestine",
+    "hu": "Gur, egy hely Palesztinában",
+    "id": "Gur, sebuah tempat di Palestina",
+    "it": "Gur, una località della Palestina",
+    "ja": "パレスチナ",
+    "ko": "구르, 팔레스타인의 한 장소",
+    "lt": "Gur, vietovė Palestinoje",
+    "lv": "Gur, vieta Palestīnā",
+    "nb": "Gur, et sted i Palestina",
+    "nl": "Gur, een plaats in Palestina",
+    "pl": "Gur, miejsce w Palestynie",
+    "pt": "Gur, um lugar na Palestina",
+    "ro": "Gur, un loc în Palestina",
+    "ru": "Гур, место в Палестине",
+    "sk": "Gur, miesto v Palestíne",
+    "sl": "Gur, kraj v Palestini",
+    "sv": "Gur, en plats i Palestina",
+    "tr": "Gur, Filistin'de bir yer",
+    "uk": "Гур, місце в Палестині",
+    "zh": "古尔"
+  },
+  "hebrew": "גּוּר",
+  "verses": [
+    "secondKings 9:27:18"
+  ]
+}

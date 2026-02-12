@@ -1,0 +1,42 @@
+{
+  "number": "H1786",
+  "language": "hebrew",
+  "transliteration": "dayish",
+  "pronunciation": "dah-yish'",
+  "definition": "threshing-time",
+  "kjvTranslation": "threshing.",
+  "translations": {
+    "bg": "време за изпичане",
+    "cs": "doba mlácení",
+    "da": "tærsketid",
+    "de": "dreschzeit",
+    "el": "χρόνος αλωνίσματος",
+    "es": "tiempo de trilla",
+    "et": "peksuaeg",
+    "fi": "puintiaika",
+    "fr": "temps de battage",
+    "hu": "cséplési idő",
+    "id": "waktu pengirikan",
+    "it": "tempo di trebbiatura",
+    "ja": "脱穀時間",
+    "ko": "탈곡 시간",
+    "lt": "kūlimo laikas",
+    "lv": "kulšanas laiks",
+    "nb": "tresketid",
+    "nl": "dorstijd",
+    "pl": "czas omłotu",
+    "pt": "tempo de debulha",
+    "ro": "timpul de treierat",
+    "ru": "время обмолота",
+    "sk": "čas mlátenia",
+    "sl": "čas mlatenja",
+    "sv": "tröskningstid",
+    "tr": "harman zamanı",
+    "uk": "час обмолоту",
+    "zh": "打谷时间"
+  },
+  "hebrew": "דַּיִשׁ",
+  "verses": [
+    "leviticus 26:5:2"
+  ]
+}

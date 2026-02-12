@@ -1,0 +1,43 @@
+{
+  "number": "H8442",
+  "language": "hebrew",
+  "transliteration": "tôwʻâh",
+  "pronunciation": "to-aw'",
+  "definition": "mistake, i.e. (morally) impiety, or (political) injury",
+  "kjvTranslation": "error, hinder.",
+  "hebrew": "תּוֹעָה",
+  "translations": {
+    "bg": "грешка, т.е. (морално) безбожие или (политическа) вреда",
+    "cs": "omyl, tj. (morální) bezbožnost nebo (politická) újma",
+    "da": "fejltagelse, dvs. (moralsk) ugudelighed eller (politisk) skade",
+    "de": "fehler, d.h. (moralische) Pietätlosigkeit, oder (politische) Verletzung",
+    "el": "λάθος, δηλαδή (ηθικά) ασέβεια, ή (πολιτική) ζημία",
+    "es": "error, es decir, impiedad (moral) o injuria (política)",
+    "et": "viga, s.t (moraalselt) ebaviisakus või (poliitiline) kahju",
+    "fi": "erehdys eli (moraalisesti) hurskastelemattomuus tai (poliittinen) vahinko",
+    "fr": "l'erreur, c'est-à-dire l'impiété (morale) ou la blessure (politique)",
+    "hu": "tévedés, azaz (erkölcsileg) istentelenség, vagy (politikai) károkozás",
+    "id": "kesalahan, yaitu ketidaksalehan (secara moral), atau cedera (politik)",
+    "it": "errore, cioè empietà (morale), o danno (politico)",
+    "ja": "過ち",
+    "ko": "실수, 즉 (도덕적으로) 불순한 행위 또는 (정치적) 상해",
+    "lt": "klaida, t. y. (moralinė) bedievystė arba (politinė) žala",
+    "lv": "kļūda, t.i., (morāli) bezdievība vai (politisks) kaitējums",
+    "nb": "feil, dvs. (moralsk) ugudelighet, eller (politisk) skade",
+    "nl": "vergissing, d.w.z. (morele) verdorvenheid, of (politieke) schade",
+    "pl": "błąd, tj. (moralna) bezbożność lub (polityczna) krzywda",
+    "pt": "erro, ou seja, impiedade (moral), ou injúria (política)",
+    "ro": "greșeală, adică impietate (morală) sau prejudiciu (politic)",
+    "ru": "ошибка, т.е. (моральная) нечистоплотность или (политическая) травма",
+    "sk": "omyl, t. j. (morálne) bezbožnosť alebo (politická) ujma",
+    "sl": "napaka, tj. (moralno) brezboštvo ali (politična) škoda",
+    "sv": "misstag, dvs. (moraliskt) orättfärdighet eller (politisk) skada",
+    "tr": "hata, yani (ahlaki açıdan) dinsizlik veya (siyasi açıdan) zarar",
+    "uk": "помилка, тобто (моральна) нечестивість, або (політична) шкода",
+    "zh": "错误，即（道德上的）不孝，或（政治上的）伤害"
+  },
+  "verses": [
+    "nehemiah 4:2:8",
+    "isaiah 32:6:12"
+  ]
+}

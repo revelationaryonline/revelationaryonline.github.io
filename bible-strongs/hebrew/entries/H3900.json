@@ -1,0 +1,42 @@
+{
+  "number": "H3900",
+  "language": "hebrew",
+  "transliteration": "lᵉchem",
+  "pronunciation": "lekh-em'",
+  "definition": "{(for man or beast), especially bread, or grain (for making it)}",
+  "kjvTranslation": "feast.",
+  "hebrew": "לְחֶם",
+  "translations": {
+    "bg": "{(за човек или животно), особено хляб или зърно (за приготвянето му)",
+    "cs": "{(pro člověka nebo zvíře), zejména chléb nebo obilí (k jeho výrobě)}",
+    "da": "{(til mennesker eller dyr), især brød eller korn (til at lave det)}",
+    "de": "{(für Mensch oder Tier), insbesondere Brot oder Getreide (zu dessen Herstellung)}",
+    "el": "{(για τον άνθρωπο ή το ζώο), ιδίως το ψωμί, ή το σιτάρι (για την παρασκευή του)}",
+    "es": "{(para el hombre o la bestia), especialmente pan, o grano (para hacerlo)}",
+    "et": "{(inimesele või loomale), eriti leib või teravili (selle valmistamiseks)}",
+    "fi": "{(ihmiselle tai eläimelle), erityisesti leipä tai vilja (sen valmistukseen) }",
+    "fr": "(pour l'homme ou la bête), en particulier le pain ou les céréales (pour le fabriquer)}",
+    "hu": "{(embernek vagy állatnak), különösen kenyér, vagy gabona (annak készítéséhez)}",
+    "id": "{(untuk manusia atau binatang), terutama roti, atau biji-bijian (untuk membuatnya)}",
+    "it": "(per l'uomo o per gli animali), in particolare il pane o il grano (per produrlo)",
+    "ja": "{特にパンや穀物（を作るための）。",
+    "ko": "{(사람이나 짐승), 특히 빵 또는 곡물(만들기 위한)}",
+    "lt": "{(žmogui ar gyvuliui), ypač duona arba grūdai (jai gaminti)",
+    "lv": "{(cilvēkam vai dzīvniekam), īpaši maizei vai graudiem (tās gatavošanai)}",
+    "nb": "{(for mennesker eller dyr), spesielt brød eller korn (til å lage det)}",
+    "nl": "{(voor mens of dier), in het bijzonder brood, of graan (om het te maken)}",
+    "pl": "{(dla ludzi lub zwierząt), zwłaszcza chleb lub ziarno (do jego produkcji)}",
+    "pt": "(para homem ou animal), especialmente pão ou grão (para o fazer)}",
+    "ro": "{(pentru om sau animal), în special pâine sau cereale (pentru fabricarea ei)}",
+    "ru": "{(для человека или зверя), особенно хлеб или зерно (для его приготовления)}",
+    "sk": "{(pre človeka alebo zviera), najmä chlieb alebo obilie (na jeho výrobu)}",
+    "sl": "{(za človeka ali žival), zlasti kruh ali žito (za njegovo izdelavo)",
+    "sv": "{(för människa eller djur), särskilt bröd eller spannmål (för att tillverka det)}",
+    "tr": "{(insan veya hayvan için), özellikle ekmek veya tahıl (yapmak için)}",
+    "uk": "{(для людини або тварини), особливо хліб, або зерно (для його приготування)}",
+    "zh": "{（供人或牲畜食用），尤其是面包，或谷物（用于制作面包）}。"
+  },
+  "verses": [
+    "daniel 5:1:3"
+  ]
+}

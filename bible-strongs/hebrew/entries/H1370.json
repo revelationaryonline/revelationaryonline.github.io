@@ -1,0 +1,43 @@
+{
+  "number": "H1370",
+  "language": "hebrew",
+  "transliteration": "gᵉbûwrâh",
+  "pronunciation": "gheb-oo-raw'",
+  "definition": "power",
+  "kjvTranslation": "might.",
+  "translations": {
+    "bg": "мощност",
+    "cs": "napájení",
+    "da": "magt",
+    "de": "macht",
+    "el": "ισχύς",
+    "es": "potencia",
+    "et": "võimsus",
+    "fi": "teho",
+    "fr": "pouvoir",
+    "hu": "hatalom",
+    "id": "kekuatan",
+    "it": "potenza",
+    "ja": "パワー",
+    "ko": "power",
+    "lt": "galia",
+    "lv": "jauda",
+    "nb": "kraft",
+    "nl": "stroom",
+    "pl": "moc",
+    "pt": "potência",
+    "ro": "putere",
+    "ru": "мощность",
+    "sk": "napájanie",
+    "sl": "moč",
+    "sv": "kraft",
+    "tr": "güç",
+    "uk": "сила",
+    "zh": "权力"
+  },
+  "hebrew": "גְּבוּרָה",
+  "verses": [
+    "daniel 2:20:14",
+    "daniel 2:23:8"
+  ]
+}

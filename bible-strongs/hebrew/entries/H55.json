@@ -1,0 +1,42 @@
+{
+  "number": "H55",
+  "language": "hebrew",
+  "transliteration": "ʼâbak",
+  "pronunciation": "aw-bak'",
+  "definition": "probably to coil upward",
+  "kjvTranslation": "mount up.",
+  "translations": {
+    "bg": "вероятно да се навива нагоре",
+    "cs": "pravděpodobně se stočí nahoru",
+    "da": "sandsynligvis til at rulle opad",
+    "de": "wahrscheinlich nach oben zu wickeln",
+    "el": "πιθανώς να συσπειρωθεί προς τα πάνω",
+    "es": "probablemente se enrolle hacia arriba",
+    "et": "tõenäoliselt ülespoole kerimine",
+    "fi": "luultavasti kelautuu ylöspäin",
+    "fr": "probablement pour s'enrouler vers le haut",
+    "hu": "valószínűleg felfelé tekeredik",
+    "id": "mungkin untuk melingkar ke atas",
+    "it": "probabilmente per arrotolarsi verso l'alto",
+    "ja": "おそらく上向きに巻き上がる",
+    "ko": "아마도 위쪽으로 감겨있을 것입니다",
+    "lt": "tikriausiai į viršų",
+    "lv": "visticamāk, lai vītos uz augšu",
+    "nb": "sannsynligvis å kveile seg oppover",
+    "nl": "waarschijnlijk naar boven oprollen",
+    "pl": "prawdopodobnie zwinąć się w górę",
+    "pt": "provavelmente para se enrolar para cima",
+    "ro": "probabil să se înfășoare în sus",
+    "ru": "возможно, намотается вверх",
+    "sk": "pravdepodobne sa navíja smerom nahor",
+    "sl": "najverjetneje navijanje navzgor",
+    "sv": "förmodligen för att rulla uppåt",
+    "tr": "muhtemelen yukarı doğru sarmal",
+    "uk": "ймовірно, щоб згорнутися догори",
+    "zh": "可能会盘旋上升"
+  },
+  "hebrew": "אָבַךְ",
+  "verses": [
+    "isaiah 9:17:10"
+  ]
+}

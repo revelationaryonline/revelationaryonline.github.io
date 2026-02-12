@@ -1,0 +1,42 @@
+{
+  "number": "H3527",
+  "language": "hebrew",
+  "transliteration": "kâbar",
+  "pronunciation": "kaw-bar'",
+  "definition": "properly, to plait together, i.e. (figuratively) to augment (especially in number or quantity, to accumulate)",
+  "kjvTranslation": "in abundance, multiply.",
+  "translations": {
+    "bg": "правилно, да се сплита, т.е. (в преносен смисъл) да се увеличава (особено по брой или количество, да се натрупва)",
+    "cs": "správně, splétat dohromady, tj. (přeneseně) zvětšovat (zejména počet nebo množství, hromadit)",
+    "da": "korrekt, at flette sammen, dvs. (i overført betydning) at forøge (især i antal eller mængde, at akkumulere)",
+    "de": "richtig: zusammenflechten, d.h. (im übertragenen Sinne) vermehren (besonders in Anzahl oder Menge, anhäufen)",
+    "el": "κατάλληλα, να πλέκω μαζί, δηλαδή (μεταφορικά) να αυξάνω (ειδικά σε αριθμό ή ποσότητα, να συσσωρεύω)",
+    "es": "propiamente, trenzar, es decir (en sentido figurado) aumentar (especialmente en número o cantidad, acumular)",
+    "et": "õigesti, kokku punuda, st (piltlikult) suurendada (eriti arvu või koguse poolest, koguneda)",
+    "fi": "oikein, punoa yhteen, eli (kuvaannollisesti) lisätä (erityisesti lukumäärää tai määrää, kerryttää)",
+    "fr": "au sens propre, tresser ensemble, c'est-à-dire (au sens figuré) augmenter (surtout en nombre ou en quantité, accumuler)",
+    "hu": "helyesen, összefonni, azaz (átvitt értelemben) gyarapítani (különösen számban vagy mennyiségben, felhalmozni)",
+    "id": "benar, untuk menganyam bersama, yaitu (secara kiasan) untuk menambah (terutama dalam jumlah atau kuantitas, untuk menumpuk)",
+    "it": "propriamente, intrecciare insieme, cioè (in senso figurato) aumentare (soprattutto in numero o quantità, accumulare)",
+    "ja": "重ねる",
+    "ko": "적절하게, 함께 엮다, 즉 (비유적으로) 늘리다(특히 숫자나 양으로, 축적하다)",
+    "lt": "tinkamai - pinti, t. y. (perkeltine prasme) didinti (ypač skaičių ar kiekį, kaupti)",
+    "lv": "pareizi - pīt kopā, t.i., (pārnestā nozīmē) palielināt (īpaši skaitu vai daudzumu, uzkrāt)",
+    "nb": "egentlig, å flette sammen, dvs. (i overført betydning) å øke (særlig i antall eller mengde, å akkumulere)",
+    "nl": "goed, aan elkaar vlechten, d.w.z. (figuurlijk) vermeerderen (vooral in aantal of hoeveelheid, zich ophopen)",
+    "pl": "właściwie, splatać razem, tj. (w przenośni) powiększać (zwłaszcza pod względem liczby lub ilości, gromadzić)",
+    "pt": "propriamente dito, entrançar, isto é, (figurativamente) aumentar (especialmente em número ou quantidade, acumular)",
+    "ro": "propriu-zis, a împleti împreună, adică (la figurat) a crește (în special în număr sau cantitate, a acumula)",
+    "ru": "правильно, соединять в косичку, т.е. (образно) увеличивать (особенно в количестве, накапливать)",
+    "sk": "správne, splietať, t. j. (obrazne) zväčšovať (najmä počet alebo množstvo, hromadiť)",
+    "sl": "pravilno, splesti skupaj, tj. (v prenesenem pomenu) povečati (zlasti v številu ali količini, kopičiti)",
+    "sv": "korrekt, att fläta samman, dvs (bildligt) att öka (särskilt i antal eller kvantitet, att ackumulera)",
+    "tr": "uygun şekilde, birlikte örmek, yani (mecazi olarak) çoğaltmak (özellikle sayı veya miktar olarak, biriktirmek)",
+    "uk": "правильно, сплітати докупи, тобто (образно) збільшувати (особливо за кількістю чи числом, накопичувати)",
+    "zh": "适当地，辫在一起，即（比喻）增加（特别是在数量或数量上，积累）"
+  },
+  "hebrew": "כָּבַר",
+  "verses": [
+    "job 35:16:7"
+  ]
+}

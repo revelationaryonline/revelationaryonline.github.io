@@ -1,0 +1,42 @@
+{
+  "number": "H8375",
+  "language": "hebrew",
+  "transliteration": "taʼăbâh",
+  "pronunciation": "tah-ab-aw'",
+  "definition": "desire",
+  "kjvTranslation": "longing.",
+  "hebrew": "תַּאֲבָה",
+  "translations": {
+    "bg": "желание",
+    "cs": "touha",
+    "da": "ønske",
+    "de": "wunsch",
+    "el": "επιθυμία",
+    "es": "deseo",
+    "et": "soov",
+    "fi": "halu",
+    "fr": "désir",
+    "hu": "vágy",
+    "id": "keinginan",
+    "it": "desiderio",
+    "ja": "欲望",
+    "ko": "욕망",
+    "lt": "noras",
+    "lv": "vēlme",
+    "nb": "ønske",
+    "nl": "verlangen",
+    "pl": "pragnienie",
+    "pt": "desejo",
+    "ro": "dorință",
+    "ru": "желание",
+    "sk": "túžba",
+    "sl": "želja",
+    "sv": "önskan",
+    "tr": "arzu",
+    "uk": "бажання",
+    "zh": "希望"
+  },
+  "verses": [
+    "psalms 119:20:2"
+  ]
+}

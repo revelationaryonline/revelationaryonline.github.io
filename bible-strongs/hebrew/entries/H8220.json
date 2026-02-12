@@ -1,0 +1,42 @@
+{
+  "number": "H8220",
+  "language": "hebrew",
+  "transliteration": "shiphlûwth",
+  "pronunciation": "shif-looth'",
+  "definition": "remissness",
+  "kjvTranslation": "idleness.",
+  "hebrew": "שִׁפְלוּת",
+  "translations": {
+    "bg": "небрежност",
+    "cs": "nevšímavost",
+    "da": "efterladenhed",
+    "de": "lässigkeit",
+    "el": "αμετροέπεια",
+    "es": "negligencia",
+    "et": "remissness",
+    "fi": "muistamattomuus",
+    "fr": "remaniement",
+    "hu": "bocsánatkérés",
+    "id": "kelalaian",
+    "it": "remissione",
+    "ja": "反省",
+    "ko": "실종",
+    "lt": "neapdairumas",
+    "lv": "remissness",
+    "nb": "ettergivenhet",
+    "nl": "nalatigheid",
+    "pl": "opieszałość",
+    "pt": "negligência",
+    "ro": "remușcare",
+    "ru": "раскаяние",
+    "sk": "nevšímavosť",
+    "sl": "previdnost",
+    "sv": "försummelse",
+    "tr": "remissness",
+    "uk": "недбалість",
+    "zh": "懈怠"
+  },
+  "verses": [
+    "ecclesiastes 10:18:3"
+  ]
+}

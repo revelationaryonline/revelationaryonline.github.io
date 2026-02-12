@@ -1,0 +1,43 @@
+{
+  "number": "H2901",
+  "language": "hebrew",
+  "transliteration": "ṭâvâh",
+  "pronunciation": "taw-vaw'",
+  "definition": "to spin",
+  "kjvTranslation": "spin.",
+  "translations": {
+    "bg": "да се върти",
+    "cs": "roztočit",
+    "da": "til at spinde",
+    "de": "zu spinnen",
+    "el": "να περιστρέφεται",
+    "es": "girar",
+    "et": "keerata",
+    "fi": "pyörimään",
+    "fr": "pour faire tourner",
+    "hu": "pörögni",
+    "id": "untuk berputar",
+    "it": "per girare",
+    "ja": "スピン",
+    "ko": "회전하려면",
+    "lt": "suktis",
+    "lv": "griezties",
+    "nb": "til å spinne",
+    "nl": "spinnen",
+    "pl": "kręcić",
+    "pt": "para girar",
+    "ro": "să se învârtă",
+    "ru": "вращаться",
+    "sk": "na otáčanie",
+    "sl": "za vrtenje",
+    "sv": "att snurra",
+    "tr": "dönmek için",
+    "uk": "крутитися",
+    "zh": "旋转"
+  },
+  "hebrew": "טָוָה",
+  "verses": [
+    "exodus 35:25:5",
+    "exodus 35:26:7"
+  ]
+}

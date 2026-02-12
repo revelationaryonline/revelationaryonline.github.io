@@ -1,0 +1,42 @@
+{
+  "number": "H3007",
+  "language": "hebrew",
+  "transliteration": "yabbesheth",
+  "pronunciation": "yab-beh'-sheth",
+  "definition": "dry land",
+  "kjvTranslation": "earth.",
+  "translations": {
+    "bg": "суша",
+    "cs": "suchá země",
+    "da": "tørt land",
+    "de": "trockener Boden",
+    "el": "ξηρά",
+    "es": "tierra seca",
+    "et": "kuiv maa",
+    "fi": "kuiva maa",
+    "fr": "terre ferme",
+    "hu": "szárazföld",
+    "id": "lahan kering",
+    "it": "terraferma",
+    "ja": "乾燥地",
+    "ko": "마른 땅",
+    "lt": "sausuma",
+    "lv": "sauszeme",
+    "nb": "tørt land",
+    "nl": "droog land",
+    "pl": "suchy ląd",
+    "pt": "terra firme",
+    "ro": "uscat",
+    "ru": "суша",
+    "sk": "suchá zem",
+    "sl": "suha zemlja",
+    "sv": "torr mark",
+    "tr": "kuru toprak",
+    "uk": "суша",
+    "zh": "旱地"
+  },
+  "hebrew": "יַבֶּשֶׁת",
+  "verses": [
+    "daniel 2:10:10"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8180",
+  "language": "hebrew",
+  "transliteration": "shaʻar",
+  "pronunciation": "shah'-ar",
+  "definition": "a measure (as a section)",
+  "kjvTranslation": "(hundred-) fold.",
+  "hebrew": "שַׁעַר",
+  "translations": {
+    "bg": "мярка (като раздел)",
+    "cs": "opatření (jako úsek)",
+    "da": "et mål (som et afsnit)",
+    "de": "eine Maßnahme (als Abschnitt)",
+    "el": "ένα μέτρο (ως τμήμα)",
+    "es": "una medida (como una sección)",
+    "et": "meede (sektsioonina)",
+    "fi": "toimenpide (jaksona)",
+    "fr": "une mesure (en tant que section)",
+    "hu": "intézkedés (szakaszként)",
+    "id": "ukuran (sebagai bagian)",
+    "it": "una misura (come sezione)",
+    "ja": "小節",
+    "ko": "측정값(섹션)",
+    "lt": "priemonė (kaip sekcija)",
+    "lv": "pasākums (kā sadaļa)",
+    "nb": "et mål (som en seksjon)",
+    "nl": "een maatregel (als sectie)",
+    "pl": "środek (jako sekcja)",
+    "pt": "uma medida (como uma secção)",
+    "ro": "o măsură (ca secțiune)",
+    "ru": "мера (как раздел)",
+    "sk": "opatrenie (ako úsek)",
+    "sl": "ukrep (kot odsek)",
+    "sv": "en åtgärd (som en sektion)",
+    "tr": "bir ölçü (bir bölüm olarak)",
+    "uk": "міра (як розділ)",
+    "zh": "节"
+  },
+  "verses": [
+    "genesis 26:12:8"
+  ]
+}

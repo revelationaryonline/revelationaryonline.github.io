@@ -1,0 +1,43 @@
+{
+  "number": "H4747",
+  "language": "hebrew",
+  "transliteration": "mᵉqêrâh",
+  "pronunciation": "mek-ay-raw'",
+  "definition": "a cooling off",
+  "kjvTranslation": "[idiom] summer.",
+  "hebrew": "מְקֵרָה",
+  "translations": {
+    "bg": "охлаждане",
+    "cs": "ochlazení",
+    "da": "en afkøling",
+    "de": "eine Abkühlung",
+    "el": "μια ανάπαυλα",
+    "es": "un enfriamiento",
+    "et": "jahutus",
+    "fi": "jäähdyttely",
+    "fr": "un refroidissement",
+    "hu": "lehűlés",
+    "id": "pendinginan",
+    "it": "un raffreddamento",
+    "ja": "クーリングオフ",
+    "ko": "냉각",
+    "lt": "atvėsimas",
+    "lv": "atvēsināšanās",
+    "nb": "en avkjøling",
+    "nl": "een afkoeling",
+    "pl": "ochłodzenie",
+    "pt": "um arrefecimento",
+    "ro": "o răcire",
+    "ru": "охлаждение",
+    "sk": "ochladenie",
+    "sl": "ohladitev",
+    "sv": "en avkylning",
+    "tr": "bir serinleme",
+    "uk": "охолодження",
+    "zh": "降温"
+  },
+  "verses": [
+    "judges 3:20:6",
+    "judges 3:24:16"
+  ]
+}

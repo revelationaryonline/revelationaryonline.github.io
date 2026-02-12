@@ -1,0 +1,43 @@
+{
+  "number": "H6980",
+  "language": "hebrew",
+  "transliteration": "qûwr",
+  "pronunciation": "koor",
+  "definition": "(only plural) trenches, i.e. a web (as if so formed)",
+  "kjvTranslation": "web.",
+  "hebrew": "קוּר",
+  "translations": {
+    "bg": "(само в мн. ч.) окопи, т.е. мрежа (като че ли образувана по този начин)",
+    "cs": "(pouze v množném čísle) příkopy, tj. síť (jakoby takto vytvořená)",
+    "da": "(kun flertal) grøfter, dvs. et net (som om det var dannet)",
+    "de": "(nur Plural) Gräben, d.h. ein Netz (als ob es so geformt wäre)",
+    "el": "(μόνο στον πληθυντικό) τάφροι, δηλαδή ένας ιστός (σαν να σχηματίζεται έτσι)",
+    "es": "(sólo plural) zanjas, es decir, una red (como si estuviera formada así)",
+    "et": "(ainult mitmuses) kraavid, s.t. võrk (justkui nii moodustatud)",
+    "fi": "(vain monikossa) juoksuhaudat, eli verkko (ikään kuin näin muodostettu)",
+    "fr": "(seulement au pluriel) des tranchées, c'est-à-dire un réseau (comme s'il était ainsi formé)",
+    "hu": "(csak többes számban) árkok, azaz háló (mintha így alakult volna)",
+    "id": "parit (hanya jamak), yaitu jaring (seolah-olah terbentuk)",
+    "it": "(solo plurale) trincee, cioè una rete (come se fosse così formata)",
+    "ja": "(あみめ",
+    "ko": "(복수형만 해당) 참호, 즉 웹(그렇게 형성된 것처럼)",
+    "lt": "(tik daugiskaita) grioviai, t. y. tinklas (tarsi taip suformuotas)",
+    "lv": "(tikai daudzskaitlī) tranšejas, t.i., tīmeklis (it kā šādi veidots)",
+    "nb": "(bare flertall) grøfter, dvs. et nett (som om det er dannet slik)",
+    "nl": "(alleen meervoud) greppels, d.w.z. een web (alsof het zo gevormd is)",
+    "pl": "(tylko liczba mnoga) rowy, tj. sieć (jakby tak uformowana)",
+    "pt": "(só no plural) trincheiras, ou seja, uma teia (como se fosse assim formada)",
+    "ro": "(numai plural) șanțuri, adică o pânză (ca și cum ar fi astfel formată)",
+    "ru": "(только во множественном числе) траншеи, т.е. паутина (как бы образованная таким образом)",
+    "sk": "(len v množnom čísle) priekopy, t. j. sieť (akoby takto vytvorená)",
+    "sl": "(samo v množini) jarki, tj. mreža (kot da je tako oblikovana)",
+    "sv": "(endast plural) diken, dvs. ett nät (som om det vore bildat på detta sätt)",
+    "tr": "(sadece çoğul) hendekler, yani bir ağ (sanki öyle oluşturulmuş gibi)",
+    "uk": "(лише у множині) траншеї, тобто павутиння (ніби утворене таким чином)",
+    "zh": "壕沟"
+  },
+  "verses": [
+    "isaiah 59:5:3",
+    "isaiah 59:6:0"
+  ]
+}

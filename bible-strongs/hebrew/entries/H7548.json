@@ -1,0 +1,42 @@
+{
+  "number": "H7548",
+  "language": "hebrew",
+  "transliteration": "raqqâchâh",
+  "pronunciation": "rak-kaw-khaw'",
+  "definition": "a female perfumer",
+  "kjvTranslation": "confectioner.",
+  "hebrew": "רַקָּחָה",
+  "translations": {
+    "bg": "парфюмеристка",
+    "cs": "parfumérka",
+    "da": "en kvindelig parfumeur",
+    "de": "eine Parfümeurin",
+    "el": "γυναίκα αρωματοποιός",
+    "es": "una perfumista",
+    "et": "naissoost parfümeer",
+    "fi": "naispuolinen hajuvesimies",
+    "fr": "une femme parfumeur",
+    "hu": "női parfümkészítő",
+    "id": "parfum wanita",
+    "it": "un profumiere donna",
+    "ja": "女流調香師",
+    "ko": "여성 조향사",
+    "lt": "parfumerė",
+    "lv": "parfimērija sieviete",
+    "nb": "en kvinnelig parfymør",
+    "nl": "een vrouwelijke parfumeur",
+    "pl": "kobieta perfumiarz",
+    "pt": "uma perfumista",
+    "ro": "o parfumieră",
+    "ru": "женщина-парфюмер",
+    "sk": "parfumérka",
+    "sl": "parfumerka",
+    "sv": "en kvinnlig parfymör",
+    "tr": "bir kadın parfümcü",
+    "uk": "жінка-парфумер",
+    "zh": "女香水师"
+  },
+  "verses": [
+    "firstSamuel 8:13:3"
+  ]
+}

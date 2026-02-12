@@ -1,0 +1,43 @@
+{
+  "number": "H8209",
+  "language": "hebrew",
+  "transliteration": "shappîyr",
+  "pronunciation": "shap-peer'",
+  "definition": "beautiful",
+  "kjvTranslation": "fair.",
+  "hebrew": "שַׁפִּיר",
+  "translations": {
+    "bg": "красив",
+    "cs": "krásné",
+    "da": "smuk",
+    "de": "schön",
+    "el": "όμορφο",
+    "es": "hermoso",
+    "et": "ilus",
+    "fi": "kaunis",
+    "fr": "belle",
+    "hu": "gyönyörű",
+    "id": "indah",
+    "it": "bella",
+    "ja": "美しい",
+    "ko": "아름다운",
+    "lt": "gražus",
+    "lv": "skaists",
+    "nb": "vakker",
+    "nl": "prachtig",
+    "pl": "piękny",
+    "pt": "bonito",
+    "ro": "frumos",
+    "ru": "красивый",
+    "sk": "krásne",
+    "sl": "čudovita",
+    "sv": "vacker",
+    "tr": "güzel",
+    "uk": "прекрасний",
+    "zh": "美丽"
+  },
+  "verses": [
+    "daniel 4:9:1",
+    "daniel 4:18:1"
+  ]
+}

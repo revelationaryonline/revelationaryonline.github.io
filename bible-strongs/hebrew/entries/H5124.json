@@ -1,0 +1,42 @@
+{
+  "number": "H5124",
+  "language": "hebrew",
+  "transliteration": "nûwmâh",
+  "pronunciation": "noo-maw'",
+  "definition": "sleepiness",
+  "kjvTranslation": "drowsiness.",
+  "hebrew": "נוּמָה",
+  "translations": {
+    "bg": "сънливост",
+    "cs": "ospalost",
+    "da": "søvnighed",
+    "de": "schläfrigkeit",
+    "el": "υπνηλία",
+    "es": "somnolencia",
+    "et": "unisus",
+    "fi": "uneliaisuus",
+    "fr": "somnolence",
+    "hu": "álmosság",
+    "id": "kantuk",
+    "it": "sonnolenza",
+    "ja": "眠気",
+    "ko": "졸음",
+    "lt": "mieguistumas",
+    "lv": "miegainība",
+    "nb": "søvnighet",
+    "nl": "slaperigheid",
+    "pl": "senność",
+    "pt": "sonolência",
+    "ro": "somnolență",
+    "ru": "сонливость",
+    "sk": "ospalosť",
+    "sl": "zaspanost",
+    "sv": "sömnighet",
+    "tr": "uyku hali",
+    "uk": "сонливість",
+    "zh": "嗜睡"
+  },
+  "verses": [
+    "proverbs 23:21:6"
+  ]
+}

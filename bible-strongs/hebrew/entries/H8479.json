@@ -1,0 +1,42 @@
+{
+  "number": "H8479",
+  "language": "hebrew",
+  "transliteration": "tachath",
+  "pronunciation": "takh'-ath",
+  "definition": "{the bottom (as depressed); only adverbially, below (often with prepositional prefix underneath), in lieu of, etc.}",
+  "kjvTranslation": "under.",
+  "hebrew": "תַּחַת",
+  "translations": {
+    "bg": "{на дъното (като понижено); само в наречие, под (често с предложна наставка под), вместо и т.н.}",
+    "cs": "{dole (jako v depresi); pouze adverbiálně, pod (často s předložkovou předponou pod), místo apod.}",
+    "da": "{bunden (som nedtrykt); kun adverbialt, under (ofte med præpositionspræfiks under), i stedet for osv.}",
+    "de": "{der Boden (wie niedergedrückt); nur adverbial, unter (oft mit Präpositionalpräfix unter), anstelle von, usw.}",
+    "el": "{τον πυθμένα (ως καταθλιπτικό), μόνο επιρρηματικά, κάτω (συχνά με προθετικό πρόθεμα κάτω από), αντί, κ.λπ.}",
+    "es": "{el fondo (como deprimido); sólo adverbialmente, debajo (a menudo con el prefijo preposicional debajo de), en lugar de, etc.}",
+    "et": "{põhi (nagu vajunud); ainult adverbiaalselt, allpool (sageli eesliitega all), asemel jne.}",
+    "fi": "{alhaalla (alas painuneena); vain adverbiaalisesti, alla (usein prepositioesimerkillä alla), sen sijaan jne.}",
+    "fr": "{le fond (comme déprimé) ; seulement adverbialement, en dessous (souvent avec le préfixe prépositionnel en dessous), à la place de, etc.}",
+    "hu": "{az alján (mint lecsúszott); csak határozószóval, alatta (gyakran alatta elöljárószóval), helyette stb.}",
+    "id": "{bagian bawah (seperti tertekan); hanya secara adverbial, di bawah (sering kali dengan awalan kata depan di bawahnya), sebagai pengganti, dsb.}",
+    "it": "{il fondo (come depresso); solo avverbialmente, sotto (spesso con prefisso preposizionale underneath), al posto di, ecc.}",
+    "ja": "下（窪んでいるように）；副詞的にのみ、以下（多くの場合、前置詞の接頭辞underneathを伴う）、in lieu ofなど｝。",
+    "ko": "{하단(눌린 상태), 부사적으로만, 아래(종종 아래에 전치사 접두사 포함), 대신에 등}",
+    "lt": "{dugnas (kaip įdubimas); tik prieveiksmine reikšme, žemiau (dažnai su priešdėliu apačioje), vietoj ir t. t.}",
+    "lv": "{ apakšā (kā padziļinājumā); tikai apstākļa vārds, zem (bieži ar prievārda priedēkli zem), vietā utt.}",
+    "nb": "{bunnen (som nedtrykt); bare adverbialt, under (ofte med preposisjonsprefiks under), i stedet for osv.}",
+    "nl": "{de bodem (als depressief); alleen bijwoordelijk, onder (vaak met voorzetselvoorvoegsel onder), in plaats van, etc.}",
+    "pl": "{na dole (jako przygnębiony); tylko przysłówkowo, poniżej (często z przedimkiem pod), zamiast, itp.}",
+    "pt": "{o fundo (como deprimido); apenas adverbialmente, abaixo (frequentemente com o prefixo preposicional abaixo), em vez de, etc.}",
+    "ro": "{la fund (ca deprimat); numai adverbial, sub (adesea cu prefixul prepozițional sub), în loc de, etc.}",
+    "ru": "{внизу (как впадина); только наречие, ниже (часто с предложным префиксом underneath), вместо и т.д.}",
+    "sk": "{dole (ako v depresii); len príslovkovo, pod (často s predložkovou predložkou pod), namiesto atď.}",
+    "sl": "{na dnu (kot vdolbina); le prislovno, pod (pogosto s predložnim prilastkom pod), namesto itd.}",
+    "sv": "{botten (som nedtryckt); endast adverbiellt, nedanför (ofta med prepositionsprefixet under), i stället för etc.}",
+    "tr": "{altta (depresif olarak); sadece zarf olarak, aşağıda (genellikle altında edat önekiyle), yerine, vb.}",
+    "uk": "{внизу (як пригнічений); тільки прислівниково, нижче (часто з прийменниковим префіксом під), замість тощо}",
+    "zh": "{底部（如凹陷处）；只有副词，下面（通常带介词前缀underneath），代替等}。"
+  },
+  "verses": [
+    "daniel 4:11:15"
+  ]
+}

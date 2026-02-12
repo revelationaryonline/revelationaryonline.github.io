@@ -1,0 +1,42 @@
+{
+  "number": "H7359",
+  "language": "hebrew",
+  "transliteration": "rᵉchêm",
+  "pronunciation": "rekh-ame'",
+  "definition": "(plural) pity",
+  "kjvTranslation": "mercy.",
+  "hebrew": "רְחֵם",
+  "translations": {
+    "bg": "(множествено число) жалост",
+    "cs": "(množné číslo) lítost",
+    "da": "(flertal) medlidenhed",
+    "de": "(Plural) Mitleid",
+    "el": "(πληθυντικός) οίκτος",
+    "es": "(plural) piedad",
+    "et": "(mitmuses) haletsus",
+    "fi": "(monikko) sääli",
+    "fr": "(pluriel) pitié",
+    "hu": "(többes szám) szánalom",
+    "id": "(jamak) kasihan",
+    "it": "(plurale) pietà",
+    "ja": "(気の毒",
+    "ko": "(복수형) 동정",
+    "lt": "(daugiskaita) gailestis",
+    "lv": "(daudzskaitlī) žēl",
+    "nb": "(flertall) medlidenhet",
+    "nl": "(meervoud) medelijden",
+    "pl": "(liczba mnoga) litość",
+    "pt": "(plural) pena",
+    "ro": "(plural) milă",
+    "ru": "(множественное число) жалость",
+    "sk": "(množné číslo) ľútosť",
+    "sl": "(množina) škoda",
+    "sv": "(plural) medlidande",
+    "tr": "(çoğul) acıma",
+    "uk": "(множина) жаль",
+    "zh": "怜悯"
+  },
+  "verses": [
+    "daniel 2:18:0"
+  ]
+}

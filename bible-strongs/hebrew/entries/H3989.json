@@ -1,0 +1,42 @@
+{
+  "number": "H3989",
+  "language": "hebrew",
+  "transliteration": "maʼăpheh",
+  "pronunciation": "mah-af-eh'",
+  "definition": "something baked, i.e. a batch",
+  "kjvTranslation": "baken.",
+  "hebrew": "מַאֲפֶה",
+  "translations": {
+    "bg": "нещо изпечено, т.е. партида",
+    "cs": "něco upečeného, tj. dávku",
+    "da": "noget bagt, f.eks. en portion",
+    "de": "etwas Gebackenes, d.h. eine Charge",
+    "el": "κάτι ψημένο, δηλαδή μια παρτίδα",
+    "es": "algo horneado, es decir, un lote",
+    "et": "midagi küpsetatud, st partii",
+    "fi": "jotain leivottua, eli erän",
+    "fr": "quelque chose de cuit, c'est-à-dire un lot",
+    "hu": "valamit sütöttek, azaz egy adagot",
+    "id": "sesuatu yang dipanggang, yaitu satu batch",
+    "it": "qualcosa di cotto, ad esempio una partita",
+    "ja": "焼きもの",
+    "ko": "구운 것, 즉 배치",
+    "lt": "ką nors iškepti, t. y. partiją",
+    "lv": "kaut ko ceptu, t. i., partiju",
+    "nb": "noe som er bakt, dvs. en batch",
+    "nl": "iets gebakken, d.w.z. een partij",
+    "pl": "coś upieczonego, tj. partia",
+    "pt": "algo cozinhado, ou seja, um lote",
+    "ro": "ceva copt, de exemplu, un lot",
+    "ru": "что-то испеченное, т.е. партия",
+    "sk": "niečo upečené, t. j. dávka",
+    "sl": "nekaj pečenega, tj. serija",
+    "sv": "något som bakats, t.ex. en sats",
+    "tr": "pişmiş bir şey, yani bir parti",
+    "uk": "щось випечене, тобто партія",
+    "zh": "烘烤的东西，即一批"
+  },
+  "verses": [
+    "leviticus 2:4:4"
+  ]
+}

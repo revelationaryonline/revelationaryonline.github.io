@@ -1,0 +1,42 @@
+{
+  "number": "H7547",
+  "language": "hebrew",
+  "transliteration": "raqquach",
+  "pronunciation": "rak-koo'-akh",
+  "definition": "a scented substance",
+  "kjvTranslation": "perfume.",
+  "hebrew": "רַקֻּחַ",
+  "translations": {
+    "bg": "ароматизирано вещество",
+    "cs": "vonná látka",
+    "da": "en velduftende substans",
+    "de": "eine duftende Substanz",
+    "el": "αρωματική ουσία",
+    "es": "una sustancia perfumada",
+    "et": "lõhnastatud aine",
+    "fi": "tuoksuva aine",
+    "fr": "une substance parfumée",
+    "hu": "illatos anyag",
+    "id": "zat beraroma",
+    "it": "una sostanza profumata",
+    "ja": "匂い物質",
+    "ko": "향기로운 물질",
+    "lt": "kvapioji medžiaga",
+    "lv": "smaržīga viela",
+    "nb": "en duftende substans",
+    "nl": "een geurende stof",
+    "pl": "substancja zapachowa",
+    "pt": "uma substância perfumada",
+    "ro": "o substanță parfumată",
+    "ru": "ароматическое вещество",
+    "sk": "voňavá látka",
+    "sl": "dišeča snov",
+    "sv": "ett doftande ämne",
+    "tr": "kokulu bir madde",
+    "uk": "ароматична речовина",
+    "zh": "香料"
+  },
+  "verses": [
+    "isaiah 57:9:4"
+  ]
+}

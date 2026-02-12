@@ -1,0 +1,42 @@
+{
+  "number": "H3647",
+  "language": "hebrew",
+  "transliteration": "kâmaç",
+  "pronunciation": "kaw-mas'",
+  "definition": "to store away, i.e. (figuratively) in the memory",
+  "kjvTranslation": "lay up in store.",
+  "translations": {
+    "bg": "да съхранявам, т.е. (образно) в паметта",
+    "cs": "uložit, tj. (obrazně) do paměti",
+    "da": "at gemme væk, dvs. (i overført betydning) i hukommelsen",
+    "de": "aufbewahren, d.h. (bildlich) im Gedächtnis behalten",
+    "el": "να αποθηκεύσετε, δηλαδή (μεταφορικά) στη μνήμη",
+    "es": "guardar, es decir (figuradamente) en la memoria",
+    "et": "ära hoida, st (piltlikult öeldes) mällu talletada",
+    "fi": "tallettaa, eli (kuvaannollisesti) muistiin",
+    "fr": "conserver, c'est-à-dire (au sens figuré) dans la mémoire",
+    "hu": "elraktározni, azaz (átvitt értelemben) a memóriában tárolni",
+    "id": "untuk menyimpan, yaitu (secara kiasan) di dalam memori",
+    "it": "conservare, cioè (in senso figurato) in memoria",
+    "ja": "記憶の中にしまっておく",
+    "ko": "를 사용하여 (비유적으로) 메모리에 저장합니다",
+    "lt": "saugoti, t. y. (perkeltine prasme) laikyti atmintyje",
+    "lv": "glabāt, t.i., (pārnestā nozīmē) atmiņā",
+    "nb": "å lagre, dvs. (i overført betydning) i minnet",
+    "nl": "opbergen, d.w.z. (figuurlijk) in het geheugen",
+    "pl": "przechowywać, tj. (w przenośni) w pamięci",
+    "pt": "guardar, isto é, (figurativamente) na memória",
+    "ro": "a depozita, adică (la figurat) în memorie",
+    "ru": "хранить, т.е. (фигурально) в памяти",
+    "sk": "uložiť, t. j. (obrazne) do pamäte",
+    "sl": "shraniti, tj. (v prenesenem pomenu) v spomin",
+    "sv": "att förvara, d.v.s. (bildligt) i minnet",
+    "tr": "saklamak, yani (mecazi olarak) hafızada tutmak",
+    "uk": "зберігати подалі, тобто (образно) в пам'яті",
+    "zh": "贮存，即（比喻）在记忆中"
+  },
+  "hebrew": "כָּמַס",
+  "verses": [
+    "deuteronomy 32:34:2"
+  ]
+}

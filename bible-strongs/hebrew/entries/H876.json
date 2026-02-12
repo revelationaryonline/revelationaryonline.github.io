@@ -1,0 +1,43 @@
+{
+  "number": "H876",
+  "language": "hebrew",
+  "transliteration": "Bᵉʼêr",
+  "pronunciation": "be-ayr'",
+  "definition": "Beer, a place in the Desert, also one in Palestine",
+  "kjvTranslation": "Beer.",
+  "translations": {
+    "bg": "Беер, място в пустинята, също и в Палестина",
+    "cs": "Beer, místo v poušti, také v Palestině",
+    "da": "Beer, et sted i ørkenen, også et i Palæstina",
+    "de": "Beer, ein Ort in der Wüste, auch einer in Palästina",
+    "el": "Beer, ένας τόπος στην έρημο, επίσης ένας στην Παλαιστίνη",
+    "es": "Beer, un lugar en el Desierto, también uno en Palestina",
+    "et": "Beer, koht kõrbes, ka üks Palestiinas",
+    "fi": "Beer, paikka autiomaassa, myös yksi Palestiinassa",
+    "fr": "Beer, un lieu dans le désert, également en Palestine",
+    "hu": "Beer, egy hely a sivatagban, szintén egy Palesztinában",
+    "id": "Bir, sebuah tempat di Gurun, juga di Palestina",
+    "it": "Beer, un luogo nel deserto, anche in Palestina",
+    "ja": "砂漠の地ビール、パレスチナにもある",
+    "ko": "사막에 있는 맥주, 팔레스타인에도 있는 맥주",
+    "lt": "Beer, vieta dykumoje, taip pat Palestinoje",
+    "lv": "Alus, vieta tuksnesī, arī viens Palestīnā",
+    "nb": "Beer, et sted i ørkenen, også et i Palestina",
+    "nl": "Beer, een plaats in de woestijn, ook een in Palestina",
+    "pl": "Beer, miejsce na pustyni, również w Palestynie",
+    "pt": "Beer, um lugar no Deserto, também um na Palestina",
+    "ro": "Beer, un loc în deșert, de asemenea un loc în Palestina",
+    "ru": "Пива, место в пустыне, также в Палестине",
+    "sk": "Beer, miesto v púšti, tiež v Palestíne",
+    "sl": "Beer, kraj v puščavi, tudi v Palestini",
+    "sv": "Beer, en plats i öknen, även en i Palestina",
+    "tr": "Beer, Çölde bir yer, ayrıca Filistin'de de bir yer",
+    "uk": "Пиво, місце в пустелі, також є в Палестині",
+    "zh": "比尔，沙漠中的一个地方，也是巴勒斯坦的一个地方"
+  },
+  "hebrew": "בְּאֵר",
+  "verses": [
+    "numbers 21:16:1",
+    "judges 9:21:4"
+  ]
+}

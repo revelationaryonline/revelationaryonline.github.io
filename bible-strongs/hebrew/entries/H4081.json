@@ -1,0 +1,42 @@
+{
+  "number": "H4081",
+  "language": "hebrew",
+  "transliteration": "Middîyn",
+  "pronunciation": "mid-deen'",
+  "definition": "{Midjan, a son of Abraham; also his country and (collectively) his descendants}",
+  "kjvTranslation": "Middin.",
+  "hebrew": "מִדִּין",
+  "translations": {
+    "bg": "{Миджан, син на Авраам; също и страната му и (колективно) потомците му}",
+    "cs": "{Midžan, syn Abrahamův; také jeho země a (společně) jeho potomci}",
+    "da": "{Midjan, en søn af Abraham; også hans land og (kollektivt) hans efterkommere}",
+    "de": "{Midjan, ein Sohn Abrahams; auch sein Land und (insgesamt) seine Nachkommenschaft}",
+    "el": "{Μιδιανός, γιος του Αβραάμ- επίσης η χώρα του και (συλλογικά) οι απόγονοί του}",
+    "es": "{Midján, hijo de Abraham; también su país y (colectivamente) su descendencia}",
+    "et": "{Midjan, Aabrahami poeg; samuti tema maa ja (kollektiivselt) tema järeltulijad}",
+    "fi": "{Midjan, Aabrahamin poika; myös hänen maansa ja (kollektiivisesti) hänen jälkeläisensä}",
+    "fr": "{Midjan, fils d'Abraham, ainsi que son pays et (collectivement) ses descendants}",
+    "hu": "{Midján, Ábrahám fia; továbbá az ő országa és (együttesen) leszármazottai}",
+    "id": "{Midjan, seorang anak Abraham; juga negerinya dan (secara kolektif) keturunannya}",
+    "it": "{Midjan, figlio di Abramo; anche il suo paese e (collettivamente) la sua discendenza}",
+    "ja": "{アブラハムの子ミジャン、またその国と（総称して）その子孫}。",
+    "ko": "{아브라함의 아들 미디안, 그의 나라와 (총칭하여) 그의 후손}",
+    "lt": "{Midžanas, Abraomo sūnus; taip pat jo šalis ir (bendrai) jo palikuonys}",
+    "lv": "{Midžans, Ābrahāma dēls; arī viņa zeme un (kopā) viņa pēcnācēji}",
+    "nb": "{Midjan, en sønn av Abraham; også hans land og (kollektivt) hans etterkommere}",
+    "nl": "{Midjan, een zoon van Abraham; ook zijn land en (gezamenlijk) zijn nakomelingen}",
+    "pl": "{Midjan, syn Abrahama; także jego kraj i (zbiorowo) jego potomkowie}",
+    "pt": "{Midjan, um filho de Abraão; também o seu país e (coletivamente) os seus descendentes}",
+    "ro": "{Midjan, un fiu al lui Avraam; de asemenea țara lui și (colectiv) descendenții lui}",
+    "ru": "{Мидьян, сын Авраама; также его страна и (совместно) его потомки}",
+    "sk": "{Midžan, syn Abrahámov; tiež jeho krajina a (spoločne) jeho potomkovia}",
+    "sl": "{Midjan, Abrahamov sin; tudi njegova dežela in (skupaj) njegovi potomci}",
+    "sv": "{Midjan, en son till Abraham; även hans land och (kollektivt) hans ättlingar}",
+    "tr": "{İbrahim'in oğlu Midyan; ayrıca onun ülkesi ve (toplu olarak) soyundan gelenler}",
+    "uk": "{Мідян, син Авраама; також його країна і (спільно) його нащадки.}",
+    "zh": "{米德扬，亚伯拉罕的儿子；也是他的国家和（统称）他的后裔}。"
+  },
+  "verses": [
+    "joshua 15:61:3"
+  ]
+}

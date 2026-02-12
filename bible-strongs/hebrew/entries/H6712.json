@@ -1,0 +1,43 @@
+{
+  "number": "H6712",
+  "language": "hebrew",
+  "transliteration": "tsᵉchôq",
+  "pronunciation": "tsekh-oke'",
+  "definition": "laughter (in pleasure or derision)",
+  "kjvTranslation": "laugh(-ed to scorn).",
+  "hebrew": "צְחֹק",
+  "translations": {
+    "bg": "смях (с удоволствие или насмешка)",
+    "cs": "smích (potěšení nebo výsměch)",
+    "da": "latter (af glæde eller hån)",
+    "de": "lachen (aus Freude oder Spott)",
+    "el": "γέλιο (με ευχαρίστηση ή χλευασμό)",
+    "es": "risa (de placer o de burla)",
+    "et": "naer (naerda või naerda)",
+    "fi": "nauru (iloisesti tai pilkallisesti)",
+    "fr": "le rire (de plaisir ou de dérision)",
+    "hu": "nevetés (öröm vagy gúny)",
+    "id": "tawa (dalam kesenangan atau cemoohan)",
+    "it": "risate (di piacere o di scherno)",
+    "ja": "譏笑",
+    "ko": "웃음(즐거움 또는 조롱)",
+    "lt": "juokas (iš malonumo ar pašaipos)",
+    "lv": "smiekli (ar prieku vai izsmieklu)",
+    "nb": "latter (av glede eller hån)",
+    "nl": "lachen (van plezier of spot)",
+    "pl": "śmiech (z przyjemności lub drwiny)",
+    "pt": "riso (de prazer ou de escárnio)",
+    "ro": "râs (de plăcere sau batjocură)",
+    "ru": "смех (в удовольствие или в насмешку)",
+    "sk": "smiech (z radosti alebo posmechu)",
+    "sl": "smeh (v veselje ali posmeh)",
+    "sv": "skratt (av glädje eller hån)",
+    "tr": "kahkaha (zevkle veya alay ederek)",
+    "uk": "сміх (від задоволення або глузування)",
+    "zh": "笑声"
+  },
+  "verses": [
+    "genesis 21:6:2",
+    "ezekiel 23:32:10"
+  ]
+}

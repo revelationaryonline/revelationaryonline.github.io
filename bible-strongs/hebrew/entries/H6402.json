@@ -1,0 +1,42 @@
+{
+  "number": "H6402",
+  "language": "hebrew",
+  "transliteration": "polchân",
+  "pronunciation": "pol-khawn'",
+  "definition": "worship",
+  "kjvTranslation": "service.",
+  "hebrew": "פׇּלְחָן",
+  "translations": {
+    "bg": "поклонение",
+    "cs": "uctívání",
+    "da": "tilbedelse",
+    "de": "anbetung",
+    "el": "λατρεία",
+    "es": "culto",
+    "et": "jumalateenistus",
+    "fi": "palvonta",
+    "fr": "culte",
+    "hu": "imádat",
+    "id": "ibadah",
+    "it": "culto",
+    "ja": "崇拝",
+    "ko": "예배",
+    "lt": "garbinimas",
+    "lv": "pielūgsme",
+    "nb": "tilbedelse",
+    "nl": "aanbidding",
+    "pl": "kult",
+    "pt": "adoração",
+    "ro": "închinare",
+    "ru": "поклонение",
+    "sk": "uctievanie",
+    "sl": "čaščenje",
+    "sv": "tillbedjan",
+    "tr": "ibadet",
+    "uk": "поклоніння",
+    "zh": "崇拜"
+  },
+  "verses": [
+    "ezra 7:19:4"
+  ]
+}

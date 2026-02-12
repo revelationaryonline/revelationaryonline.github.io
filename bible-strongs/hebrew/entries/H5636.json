@@ -1,0 +1,42 @@
+{
+  "number": "H5636",
+  "language": "hebrew",
+  "transliteration": "çarpâd",
+  "pronunciation": "sar-pawd'",
+  "definition": "a nettle (as stinging like a burn)",
+  "kjvTranslation": "brier.",
+  "hebrew": "סַרְפָּד",
+  "translations": {
+    "bg": "коприва (като ужилване като изгаряне)",
+    "cs": "kopřiva (jako pálení)",
+    "da": "en brændenælde (som stikker som et brændemærke)",
+    "de": "eine Brennnessel (brennend wie eine Verbrennung)",
+    "el": "μια τσουκνίδα (σαν τσίμπημα σαν έγκαυμα)",
+    "es": "una ortiga (como picadura de quemadura)",
+    "et": "nõges (nagu põletushaav)",
+    "fi": "nokkonen (kirvelevänä kuin palovamma)",
+    "fr": "une ortie (qui pique comme une brûlure)",
+    "hu": "csalán (csípés, mint az égés)",
+    "id": "jelatang (menyengat seperti luka bakar)",
+    "it": "un'ortica (che punge come un'ustione)",
+    "ja": "イラクサ",
+    "ko": "쐐기풀(화상처럼 따끔한 느낌)",
+    "lt": "dilgėlė (kaip dilgčiojimas, kaip nudegimas)",
+    "lv": "nātre (kā dzeloņaina kā apdegums)",
+    "nb": "en brennesle (som svir som et brannsår)",
+    "nl": "een brandnetel (als brandend)",
+    "pl": "pokrzywa (kłująca jak oparzenie)",
+    "pt": "uma urtiga (como uma picada como uma queimadura)",
+    "ro": "o urzică (ca înțepătură ca o arsură)",
+    "ru": "крапива (жгучая, как ожог)",
+    "sk": "žihľava (ako žihadlo)",
+    "sl": "kopriva (kot žulj, kot da bi se opekla)",
+    "sv": "en nässla (som svider som en brännskada)",
+    "tr": "ısırgan otu (yanık gibi batan)",
+    "uk": "кропива (пекуча, як опік)",
+    "zh": "荨麻"
+  },
+  "verses": [
+    "isaiah 55:13:6"
+  ]
+}

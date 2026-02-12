@@ -1,0 +1,43 @@
+{
+  "number": "H7830",
+  "language": "hebrew",
+  "transliteration": "shachats",
+  "pronunciation": "shakh'-ats",
+  "definition": "haughtiness (as evinced by the attitude)",
+  "kjvTranslation": "[idiom] lion, pride.",
+  "hebrew": "שַׁחַץ",
+  "translations": {
+    "bg": "надменност (изразена чрез отношението)",
+    "cs": "povýšenost (projevující se postojem)",
+    "da": "hovmod (som kommer til udtryk i holdningen)",
+    "de": "hochmut (wie er sich in der Haltung zeigt)",
+    "el": "υπεροψία (όπως φαίνεται από τη στάση)",
+    "es": "altanería (manifestada por la actitud)",
+    "et": "ülbus (mida näitab suhtumine)",
+    "fi": "ylimielisyys (asenteesta ilmenevä)",
+    "fr": "l'arrogance (telle qu'elle se manifeste dans l'attitude)",
+    "hu": "gőg (a magatartás által kifejezett)",
+    "id": "keangkuhan (seperti yang ditunjukkan oleh sikap)",
+    "it": "superbia (come si evince dall'atteggiamento)",
+    "ja": "傲岸不遜",
+    "ko": "거만함 (태도에서 알 수 있듯이)",
+    "lt": "išdidumas (pasireiškiantis elgesiu)",
+    "lv": "augstprātība (ko apliecina attieksme)",
+    "nb": "hovmod (som kommer til uttrykk i holdningen)",
+    "nl": "hoogmoed (zoals blijkt uit de houding)",
+    "pl": "wyniosłość (przejawiająca się w postawie)",
+    "pt": "altivez (manifestada pela atitude)",
+    "ro": "aroganță (evidențiată prin atitudine)",
+    "ru": "надменность (проявляющаяся в отношении)",
+    "sk": "povýšenosť (vyjadrená postojom)",
+    "sl": "vzvišenost (ki se kaže v odnosu)",
+    "sv": "högmod (som framgår av attityden)",
+    "tr": "kibirlilik (tavırdan anlaşıldığı üzere)",
+    "uk": "зарозумілість (про що свідчить ставлення)",
+    "zh": "傲气"
+  },
+  "verses": [
+    "job 28:8:3",
+    "job 41:26:9"
+  ]
+}

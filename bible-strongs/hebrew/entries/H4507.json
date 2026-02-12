@@ -1,0 +1,42 @@
+{
+  "number": "H4507",
+  "language": "hebrew",
+  "transliteration": "Mᵉnîy",
+  "pronunciation": "men-ee'",
+  "definition": "the Apportioner, i.e. Fate (as an idol)",
+  "kjvTranslation": "number.",
+  "hebrew": "מְנִי",
+  "verses": [
+    "isaiah 65:11:11"
+  ],
+  "translations": {
+    "bg": "разпределителят, т.е. Съдбата (като идол)",
+    "cs": "rozdělovatel, tj. Osud (jako modla)",
+    "da": "fordeleren, dvs. skæbnen (som et idol)",
+    "de": "der Zuteiler, d.h. das Schicksal (als Idol)",
+    "el": "ο καταμεριστής, δηλαδή η μοίρα (ως είδωλο)",
+    "es": "el Repartidor, es decir, el Destino (como un ídolo)",
+    "et": "jaotaja, s.t. saatus (kui iidol)",
+    "fi": "jakaja, eli kohtalo (epäjumalana)",
+    "fr": "le répartiteur, c'est-à-dire le destin (comme une idole)",
+    "hu": "az Osztó, azaz a Sors (mint bálvány)",
+    "id": "sang Pemberi, yaitu Takdir (sebagai idola)",
+    "it": "l'Apportatore, ossia il Fato (come idolo)",
+    "ja": "さだめびと",
+    "ko": "배분자, 즉 운명(아이돌로서의 운명)",
+    "lt": "skirstytojas, t. y. likimas (kaip stabas)",
+    "lv": "sadalītājs, t.i., liktenis (kā elks)",
+    "nb": "fordeleren, dvs. skjebnen (som et avgudsbilde)",
+    "nl": "de Verdeler, d.w.z. het Noodlot (als een afgod)",
+    "pl": "rozdzielający, tj. Los (jako bożek)",
+    "pt": "o Repartidor, ou seja, o Destino (como um ídolo)",
+    "ro": "împărțitorul, adică soarta (ca un idol)",
+    "ru": "распределитель, то есть судьба (как идол)",
+    "sk": "rozdeľovník, t. j. Osud (ako modla)",
+    "sl": "razdeljevalec, tj. Usoda (kot idol)",
+    "sv": "fördelaren, dvs. ödet (som en avgud)",
+    "tr": "paylaştırıcı, yani Kader (bir put olarak)",
+    "uk": "прихильник, тобто Доля (як ідол)",
+    "zh": "分配者，即命运（作为偶像）"
+  }
+}

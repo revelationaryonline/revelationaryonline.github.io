@@ -1,0 +1,43 @@
+{
+  "number": "H253",
+  "language": "hebrew",
+  "transliteration": "ʼâch",
+  "pronunciation": "awkh",
+  "definition": "Oh! (expressive of grief or surprise)",
+  "kjvTranslation": "ah, alas.",
+  "translations": {
+    "bg": "О! (израз на скръб или изненада)",
+    "cs": "Oh! (vyjádření smutku nebo překvapení)",
+    "da": "Oh! (udtryk for sorg eller overraskelse)",
+    "de": "Oh! (Ausdruck von Trauer oder Überraschung)",
+    "el": "Ω! (εκφράζοντας θλίψη ή έκπληξη)",
+    "es": "¡Oh! (expresando pena o sorpresa)",
+    "et": "Oh! (väljendades kurbust või üllatust)",
+    "fi": "Oh! (surun tai yllätyksen ilmaiseminen)",
+    "fr": "Oh ! (expression de chagrin ou de surprise)",
+    "hu": "Oh! (a bánat vagy a meglepetés kifejezése)",
+    "id": "Oh! (mengekspresikan kesedihan atau keterkejutan)",
+    "it": "Oh! (espressione di dolore o sorpresa)",
+    "ja": "おお",
+    "ko": "오! (슬픔이나 놀라움의 표현)",
+    "lt": "O! (išreiškia sielvartą ar nuostabą)",
+    "lv": "Ak! (izsakot skumjas vai pārsteigumu)",
+    "nb": "Oh! (uttrykk for sorg eller overraskelse)",
+    "nl": "Oh! (uiting van verdriet of verrassing)",
+    "pl": "Oh! (wyrażający smutek lub zaskoczenie)",
+    "pt": "Oh! (expressão de dor ou surpresa)",
+    "ro": "Oh! (expresie a durerii sau a surprizei)",
+    "ru": "О! (выражает скорбь или удивление)",
+    "sk": "Oh! (vyjadruje smútok alebo prekvapenie)",
+    "sl": "Oh! (izraz žalosti ali presenečenja)",
+    "sv": "Oh! (uttryck för sorg eller förvåning)",
+    "tr": "Oh! (keder veya şaşkınlık ifadesi)",
+    "uk": "Ох! (вираз скорботи або здивування)",
+    "zh": "啊"
+  },
+  "hebrew": "אָח",
+  "verses": [
+    "ezekiel 6:11:9",
+    "ezekiel 21:20:11"
+  ]
+}

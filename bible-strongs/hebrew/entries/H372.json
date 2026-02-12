@@ -1,0 +1,42 @@
+{
+  "number": "H372",
+  "language": "hebrew",
+  "transliteration": "ʼÎyʻezêr",
+  "pronunciation": "ee-eh'-zer",
+  "definition": "Iezer, an Israelite",
+  "kjvTranslation": "Jeezer.",
+  "translations": {
+    "bg": "Иезър, израилтянин",
+    "cs": "Iezer, Izraelita",
+    "da": "Iezer, en israelit",
+    "de": "Iezer, ein Israelit",
+    "el": "Iezer, ένας Ισραηλίτης",
+    "es": "Iezer, israelita",
+    "et": "Iisraellane Iezer",
+    "fi": "Iiser, israelilainen",
+    "fr": "Iezer, Israélite",
+    "hu": "Iezer, egy izraelita",
+    "id": "Iezer, seorang Israel",
+    "it": "Iezer, un israelita",
+    "ja": "イスラエル人イエゼル",
+    "ko": "이스라엘인 이에제르",
+    "lt": "Iezeras, izraelitas",
+    "lv": "Iezers, izraēlietis",
+    "nb": "Iezer, en israelitt",
+    "nl": "Iezer, een Israëliet",
+    "pl": "Iezer, Izraelita",
+    "pt": "Iezer, israelita",
+    "ro": "Iezer, un israelit",
+    "ru": "Иезер, израильтянин",
+    "sk": "Iezer, Izraelita",
+    "sl": "Iezer, Izraelec",
+    "sv": "Iezer, en israelit",
+    "tr": "Iezer, bir İsrailli",
+    "uk": "Ієзер, ізраїльтянин",
+    "zh": "以色列人伊泽尔"
+  },
+  "hebrew": "אִיעֶזֵר",
+  "verses": [
+    "numbers 26:30:3"
+  ]
+}

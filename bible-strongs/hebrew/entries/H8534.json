@@ -1,0 +1,42 @@
+{
+  "number": "H8534",
+  "language": "hebrew",
+  "transliteration": "taltal",
+  "pronunciation": "tal-tal'",
+  "definition": "a trailing bough (as pendulous)",
+  "kjvTranslation": "bushy.",
+  "hebrew": "תַּלְתַּל",
+  "translations": {
+    "bg": "висяща клонка (като висяща)",
+    "cs": "převislá větev (jako převislá)",
+    "da": "en efterladt gren (som hænger)",
+    "de": "ein hängender Zweig (wie ein Hängezweig)",
+    "el": "ένα κλαδί που κρέμεται (ως κρεμαστό)",
+    "es": "una rama que se arrastra (como colgante)",
+    "et": "pendeldav okas (kui rippuv)",
+    "fi": "riippuva oksa (riippuvaisena)",
+    "fr": "une branche traînante (comme pendante)",
+    "hu": "csüngő ág (mint függő)",
+    "id": "dahan yang tertinggal (seperti pendulous)",
+    "it": "un ramo strascicato (come pendulo)",
+    "ja": "末枝",
+    "ko": "후행 나뭇가지(매달린 상태)",
+    "lt": "pasvirusi šakelė (kaip švytuoklė)",
+    "lv": "pieziedošs zars (kā svārsts)",
+    "nb": "en etterfølgende gren (som hengende)",
+    "nl": "een slepende tak (als hangend)",
+    "pl": "zwisający konar (jako zwisający)",
+    "pt": "um ramo que se arrasta (como pendente)",
+    "ro": "o creangă (ca pendul)",
+    "ru": "ветка (как маятник)",
+    "sk": "závesný konár (ako previsnutý)",
+    "sl": "viseča vejica (kot viseča vejica)",
+    "sv": "en efterhängsen kvist (som hängande)",
+    "tr": "sarkan bir dal (sarkık olarak)",
+    "uk": "відстала гілка (як маятникова)",
+    "zh": "桠"
+  },
+  "verses": [
+    "solomon 5:11:4"
+  ]
+}

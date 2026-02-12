@@ -1,0 +1,43 @@
+{
+  "number": "H2431",
+  "language": "hebrew",
+  "transliteration": "Chêylâm",
+  "pronunciation": "khay-lawm'",
+  "definition": "Chelam, a place East of Palestine",
+  "kjvTranslation": "Helam.",
+  "translations": {
+    "bg": "Хелам, място на изток от Палестина",
+    "cs": "Chelam, místo na východ od Palestiny",
+    "da": "Chelam, et sted øst for Palæstina",
+    "de": "Chelam, ein Ort östlich von Palästina",
+    "el": "Chelam, ένας τόπος ανατολικά της Παλαιστίνης",
+    "es": "Chelam, un lugar al este de Palestina",
+    "et": "Chelam, koht Palestiinast ida pool",
+    "fi": "Chelam, paikka Palestiinan itäpuolella",
+    "fr": "Chelam, lieu situé à l'est de la Palestine",
+    "hu": "Chelam, egy hely Palesztinától keletre",
+    "id": "Chelam, sebuah tempat di sebelah timur Palestina",
+    "it": "Chelam, un luogo a est della Palestina",
+    "ja": "チェラム（パレスチナの東の地名",
+    "ko": "팔레스타인의 동쪽, 첼람",
+    "lt": "Chelamas, vietovė į rytus nuo Palestinos",
+    "lv": "Chelam, vieta uz austrumiem no Palestīnas",
+    "nb": "Chelam, et sted øst for Palestina",
+    "nl": "Chelam, een plaats ten oosten van Palestina",
+    "pl": "Chelam, miejsce na wschód od Palestyny",
+    "pt": "Chelam, um lugar a leste da Palestina",
+    "ro": "Chelam, un loc la est de Palestina",
+    "ru": "Хелам, место к востоку от Палестины",
+    "sk": "Chelam, miesto na východ od Palestíny",
+    "sl": "Chelam, kraj vzhodno od Palestine",
+    "sv": "Chelam, en plats öster om Palestina",
+    "tr": "Chelam, Filistin'in doğusunda bir yer",
+    "uk": "Хелам, місце на схід від Палестини",
+    "zh": "仄拉姆"
+  },
+  "hebrew": "חֵילָם",
+  "verses": [
+    "secondSamuel 10:16:9",
+    "secondSamuel 10:17:10"
+  ]
+}

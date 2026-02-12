@@ -1,0 +1,43 @@
+{
+  "number": "H6916",
+  "language": "hebrew",
+  "transliteration": "qiddâh",
+  "pronunciation": "kid-daw'",
+  "definition": "cassia bark (as in shrivelled rolls)",
+  "kjvTranslation": "cassia.",
+  "hebrew": "קִדָּה",
+  "translations": {
+    "bg": "кора от касия (като в изсъхнали рула)",
+    "cs": "kůra kasie (jako ve scvrklých rohlících)",
+    "da": "kassiabark (som i indskrumpede ruller)",
+    "de": "kassiarinde (wie in Schrumpelbrötchen)",
+    "el": "φλοιός κασσίας (όπως στα συρρικνωμένα ρολά)",
+    "es": "corteza de casia (como en los panecillos marchitos)",
+    "et": "kassiakoor (nagu kokkutõmbunud rullides)",
+    "fi": "kassiankuori (kuten kutistuneissa sämpylöissä)",
+    "fr": "écorce de casse (comme dans les rouleaux ratatinés)",
+    "hu": "kassziakéreg (mint a zsugorított tekercsekben)",
+    "id": "kulit kayu cassia (seperti dalam gulungan layu)",
+    "it": "corteccia di cassia (come nei rotoli striminziti)",
+    "ja": "桂皮",
+    "ko": "계수나무 껍질(쭈글쭈글한 롤과 같은)",
+    "lt": "kasijos žievė (kaip susiraukšlėjusiuose ritinėliuose)",
+    "lv": "kasijas miza (kā saraustītos ruļļos)",
+    "nb": "kassiabark (som i skrumpne rundstykker)",
+    "nl": "cassiabast (zoals in verschrompelde broodjes)",
+    "pl": "kora kasji (jak w pomarszczonych bułkach)",
+    "pt": "casca de cássia (como nos pãezinhos murchos)",
+    "ro": "scoarță de cassia (ca în rulourile zdrobite)",
+    "ru": "кора кассии (как в булочках)",
+    "sk": "kôra kasie (ako v scvrknutých rožkoch)",
+    "sl": "kasijevo lubje (kot v krhkih zvitkih)",
+    "sv": "kassiabark (som i skrumpna rullar)",
+    "tr": "cassia kabuğu (buruşuk rulolarda olduğu gibi)",
+    "uk": "кора касії (як у зморщених ролах)",
+    "zh": "桂皮"
+  },
+  "verses": [
+    "exodus 30:24:0",
+    "ezekiel 27:19:7"
+  ]
+}

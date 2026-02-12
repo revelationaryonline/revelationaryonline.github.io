@@ -1,0 +1,42 @@
+{
+  "number": "H2589",
+  "language": "hebrew",
+  "transliteration": "channôwth",
+  "pronunciation": "klan-noth'",
+  "definition": "supplication",
+  "kjvTranslation": "be gracious, intreated.",
+  "translations": {
+    "bg": "молба",
+    "cs": "prosba",
+    "da": "bøn",
+    "de": "bittgebet",
+    "el": "ικεσία",
+    "es": "súplica",
+    "et": "palve",
+    "fi": "rukous",
+    "fr": "supplication",
+    "hu": "könyörgés",
+    "id": "permohonan",
+    "it": "supplica",
+    "ja": "祈り",
+    "ko": "간구",
+    "lt": "maldavimas",
+    "lv": "lūgšana",
+    "nb": "bønn",
+    "nl": "smeekbede",
+    "pl": "błaganie",
+    "pt": "súplica",
+    "ro": "implorare",
+    "ru": "прошение",
+    "sk": "prosba",
+    "sl": "prošnja",
+    "sv": "bön",
+    "tr": "dUA",
+    "uk": "благання",
+    "zh": "祈求"
+  },
+  "hebrew": "חַנּוֹת",
+  "verses": [
+    "psalms 77:10:1"
+  ]
+}

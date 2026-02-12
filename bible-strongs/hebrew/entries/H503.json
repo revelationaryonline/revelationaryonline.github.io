@@ -1,0 +1,42 @@
+{
+  "number": "H503",
+  "language": "hebrew",
+  "transliteration": "ʼâlaph",
+  "pronunciation": "aw-laf'",
+  "definition": "causative, to make athousandfold",
+  "kjvTranslation": "bring forth thousands.",
+  "translations": {
+    "bg": "каузативен, да се умножи многократно",
+    "cs": "kauzativ, aby se zněkolikanásobil",
+    "da": "kausativ, at gøre tusindfold",
+    "de": "ursächlich, um das Tausendfache erhöhen",
+    "el": "αιτιατική, για να κάνει αθουσανταπλάσια",
+    "es": "causativo, hacer athousandfold",
+    "et": "causative, teha athousandfold",
+    "fi": "kausatiivi, tehdä tuhatkertaiseksi, tehdä tuhatkertaiseksi",
+    "fr": "causatif, pour multiplier à l'infini",
+    "hu": "kauzatívusz, athousandfold, hogy athousandfold",
+    "id": "penyebab, untuk membuat seribu kali lipat",
+    "it": "causativo, per rendere più volte",
+    "ja": "因果関係のある",
+    "ko": "원인, 수천 배로 만들기 위해",
+    "lt": "priežastinis, padauginti ir padauginti",
+    "lv": "cēloņsakarība, lai padarītu divkāršu",
+    "nb": "kausativ, å gjøre tusenfoldig",
+    "nl": "oorzakelijk, athousandfold maken",
+    "pl": "przyczynowo, aby uczynić tysiąckrotnym",
+    "pt": "causativo, para fazer mil vezes",
+    "ro": "cauzal, a face athousandfold",
+    "ru": "каузатив, сделать в несколько раз больше",
+    "sk": "kauzatívny, aby bol dvojnásobný",
+    "sl": "vzročno, da bi se povečal in povečal",
+    "sv": "kausativ, att göra tusenfalt",
+    "tr": "nedensel, bin kat yapmak",
+    "uk": "причинний, зробити в тисячу разів",
+    "zh": "使成倍增长"
+  },
+  "hebrew": "אָלַף",
+  "verses": [
+    "psalms 144:13:7"
+  ]
+}

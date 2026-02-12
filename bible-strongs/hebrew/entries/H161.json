@@ -1,0 +1,43 @@
+{
+  "number": "H161",
+  "language": "hebrew",
+  "transliteration": "ʼÔhad",
+  "pronunciation": "o'-had",
+  "definition": "Ohad, an Israelite",
+  "kjvTranslation": "Ohad.",
+  "translations": {
+    "bg": "Охад, израилтянин",
+    "cs": "Ohad, Izraelita",
+    "da": "Ohad, en israelit",
+    "de": "Ohad, ein Israelit",
+    "el": "Ohad, ένας Ισραηλίτης",
+    "es": "Ohad, israelita",
+    "et": "Ohad, iisraellane",
+    "fi": "Ohad, israelilainen",
+    "fr": "Ohad, Israélite",
+    "hu": "Ohad, izraelita",
+    "id": "Ohad, seorang Israel",
+    "it": "Ohad, un israelita",
+    "ja": "イスラエル人オハド",
+    "ko": "오하드, 이스라엘인",
+    "lt": "Ohadas, izraelitas",
+    "lv": "Ohads, izraēlietis",
+    "nb": "Ohad, en israelitt",
+    "nl": "Ohad, een Israëliet",
+    "pl": "Ohad, Izraelita",
+    "pt": "Ohad, israelita",
+    "ro": "Ohad, un israelit",
+    "ru": "Охад, израильтянин",
+    "sk": "Ohad, Izraelita",
+    "sl": "Ohad, Izraelec",
+    "sv": "Ohad, en israelit",
+    "tr": "Ohad, bir İsrailli",
+    "uk": "Охад, ізраїльтянин",
+    "zh": "以色列人奥哈德"
+  },
+  "hebrew": "אֹהַד",
+  "verses": [
+    "genesis 46:10:4",
+    "exodus 6:15:4"
+  ]
+}

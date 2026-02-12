@@ -1,0 +1,42 @@
+{
+  "number": "H8645",
+  "language": "hebrew",
+  "transliteration": "tirzâh",
+  "pronunciation": "teer-zaw'",
+  "definition": "a species of tree (apparently from its slenderness), perhaps the cypress",
+  "kjvTranslation": "cypress.",
+  "hebrew": "תִּרְזָה",
+  "translations": {
+    "bg": "вид дърво (очевидно според стройността му), вероятно кипарис",
+    "cs": "druh stromu (zřejmě podle štíhlosti), snad cypřiš",
+    "da": "en træart (tilsyneladende ud fra dens slankhed), måske cypres",
+    "de": "eine Baumart (offenbar aufgrund ihrer Schlankheit), vielleicht die Zypresse",
+    "el": "ένα είδος δέντρου (προφανώς από τη λεπτότητά του), ίσως το κυπαρίσσι",
+    "es": "una especie de árbol (aparentemente por su esbeltez), tal vez el ciprés",
+    "et": "mingi puuliik (ilmselt selle sihukuse järgi), võib-olla küpressid",
+    "fi": "puulaji (ilmeisesti sen hoikkuudesta päätellen), ehkä sypressi",
+    "fr": "une espèce d'arbre (apparemment en raison de sa minceur), peut-être le cyprès",
+    "hu": "egy fafajta (látszólag a karcsúságából ítélve), talán a ciprus",
+    "id": "spesies pohon (tampaknya dari kelangsingannya), mungkin pohon cemara",
+    "it": "una specie di albero (a quanto pare dalla sua snellezza), forse il cipresso",
+    "ja": "木の一種（細長いことから）、おそらくヒノキだろう",
+    "ko": "나무의 한 종 (날씬함에서 분명히), 아마도 편백 나무 일 것입니다",
+    "lt": "medžių rūšis (matyt, dėl savo lieknumo), galbūt kiparisas",
+    "lv": "koku suga (acīmredzot pēc tās slaiduma), iespējams, ciprese",
+    "nb": "en tresort (tilsynelatende på grunn av sin slankhet), kanskje sypress",
+    "nl": "een boomsoort (blijkbaar door zijn slankheid), misschien de cipres",
+    "pl": "gatunek drzewa (najwyraźniej ze względu na jego smukłość), być może cyprys",
+    "pt": "uma espécie de árvore (aparentemente pela sua magreza), talvez o cipreste",
+    "ro": "o specie de copac (aparent din cauza subțirimea sa), poate chirpici",
+    "ru": "вид дерева (очевидно, из-за его стройности), возможно, кипарис",
+    "sk": "druh stromu (zrejme podľa jeho štíhlosti), možno cyprus",
+    "sl": "vrsta drevesa (po vitkosti sodeč), morda cipresa",
+    "sv": "en trädart (tydligen på grund av sin slankhet), kanske cypress",
+    "tr": "bir ağaç türü (görünüşe göre narinliğinden), belki de selvi",
+    "uk": "порода дерева (мабуть, через його стрункість), можливо, кипарис",
+    "zh": "一种树（显然从其细长程度来看），也许是柏树"
+  },
+  "verses": [
+    "isaiah 44:14:4"
+  ]
+}

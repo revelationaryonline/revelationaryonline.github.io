@@ -1,0 +1,42 @@
+{
+  "number": "H404",
+  "language": "hebrew",
+  "transliteration": "ʼâkaph",
+  "pronunciation": "aw-kaf'",
+  "definition": "to urge",
+  "kjvTranslation": "crave.",
+  "translations": {
+    "bg": "да призовава",
+    "cs": "naléhat na",
+    "da": "for at opfordre",
+    "de": "zu drängen",
+    "el": "να παροτρύνει",
+    "es": "instar",
+    "et": "kutsuda üles",
+    "fi": "kehottaa",
+    "fr": "d'exhorter",
+    "hu": "arra ösztönözni",
+    "id": "untuk mendesak",
+    "it": "sollecitare",
+    "ja": "促す",
+    "ko": "촉구하기 위해",
+    "lt": "raginti",
+    "lv": "mudināt",
+    "nb": "for å oppfordre",
+    "nl": "aan te sporen",
+    "pl": "wzywać",
+    "pt": "para insistir",
+    "ro": "să îndemne",
+    "ru": "призывать",
+    "sk": "naliehať na",
+    "sl": "pozivati",
+    "sv": "att uppmana",
+    "tr": "teşvik etmek için",
+    "uk": "закликати",
+    "zh": "敦促"
+  },
+  "hebrew": "אָכַף",
+  "verses": [
+    "proverbs 16:26:5"
+  ]
+}

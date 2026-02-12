@@ -1,0 +1,42 @@
+{
+  "number": "H2839",
+  "language": "hebrew",
+  "transliteration": "chishshuq",
+  "pronunciation": "khish-shook'",
+  "definition": "conjoined, i.e. a wheel-spoke or rod connecting the hub with the rim",
+  "kjvTranslation": "felloe.",
+  "translations": {
+    "bg": "съединени, т.е. спица или прът, свързващ главината с джантата",
+    "cs": "spojený, tj. paprsek kola nebo tyč spojující náboj s ráfkem",
+    "da": "sammenføjet, dvs. en hjul-eger eller stang, der forbinder navet med fælgen",
+    "de": "verbunden, d. h. eine Speiche oder Stange, die die Nabe mit der Felge verbindet",
+    "el": "συνδεδεμένο, δηλ. μια ακτίνα τροχού ή μια ράβδος που συνδέει την πλήμνη με τη ζάντα",
+    "es": "unido, es decir, un radio o varilla que une el buje con la llanta",
+    "et": "ühendatud, st rattaspiraal või varras, mis ühendab rummu ja velgi",
+    "fi": "liitetty eli pyöränkehä tai tanko, joka yhdistää navan ja vanteen toisiinsa",
+    "fr": "jointes, c'est-à-dire un rayon de roue ou une tige reliant le moyeu à la jante",
+    "hu": "összeillesztett, azaz a keréktárcsát a felnivel összekötő keréktárcsa vagy rúd",
+    "id": "disambung, yaitu jari-jari roda atau batang yang menghubungkan hub dengan pelek",
+    "it": "congiunto, cioè un raggio di ruota o un'asta che collega il mozzo al cerchio",
+    "ja": "結合された、すなわちハブとリムをつなぐホイール・スポークまたはロッド",
+    "ko": "결합형, 즉 허브와 림을 연결하는 휠 스포크 또는 로드입니다",
+    "lt": "sujungtas, t. y. rato stipinas arba strypas, jungiantis stebulę su ratlankiu",
+    "lv": "savienots, t. i., riteņa riteņa spieķis vai stienis, kas savieno riteņa rumbu ar riteņa loka rāmi",
+    "nb": "sammenføyd, dvs. en hjul eike eller stang som forbinder navet med felgen",
+    "nl": "verbonden, d.w.z. een wielspaak of stang die de naaf met de velg verbindt",
+    "pl": "połączony, tj. szprycha koła lub pręt łączący piastę z obręczą",
+    "pt": "unido, ou seja, um raio ou uma haste que liga o cubo à jante",
+    "ro": "îmbinat, adică o spiță de roată sau o tijă care leagă butucul de jantă",
+    "ru": "сросшийся, т.е. колесная спица или стержень, соединяющий ступицу с ободом",
+    "sk": "spojený, t. j. spojenie nábojov kolies s ráfikmi",
+    "sl": "spojen, tj. kolesna kraka ali palica, ki povezuje pesto s platiščem",
+    "sv": "sammanfogad, dvs. en hjuleka eller stång som förbinder navet med fälgen",
+    "tr": "birleşik, yani göbeği janta bağlayan bir tekerlek kolu veya çubuk",
+    "uk": "з'єднані, тобто колесо-спиця або стрижень, що з'єднує маточину з ободом",
+    "zh": "连杆，即连接轮毂和轮辋的轮辐或杆"
+  },
+  "hebrew": "חִשֻּׁק",
+  "verses": [
+    "firstKings 7:33:7"
+  ]
+}

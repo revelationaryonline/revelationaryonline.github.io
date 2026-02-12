@@ -1,0 +1,42 @@
+{
+  "number": "H5340",
+  "language": "hebrew",
+  "transliteration": "nâtsats",
+  "pronunciation": "naw-tsats'",
+  "definition": "to glare, i.e. be bright-colored",
+  "kjvTranslation": "sparkle.",
+  "hebrew": "נָצַץ",
+  "translations": {
+    "bg": "да блести, т.е. да е с ярък цвят",
+    "cs": "oslňovat, tj. být jasně zbarvený",
+    "da": "at blænde, dvs. være farvestrålende",
+    "de": "blenden, d.h. grellfarbig sein",
+    "el": "να λάμπει, δηλαδή να είναι έντονα χρωματισμένο",
+    "es": "deslumbrar, es decir, ser de colores brillantes",
+    "et": "pimestada, st olla erksavärviline",
+    "fi": "häikäistä, eli olla kirkkaan värinen",
+    "fr": "éblouir, c'est-à-dire être de couleur vive",
+    "hu": "vakító, azaz élénk színű legyen",
+    "id": "menyilaukan, yaitu berwarna cerah",
+    "it": "abbagliare, cioè essere di colore brillante",
+    "ja": "まぶしい、つまり明るい色である",
+    "ko": "눈부심, 즉 밝은 색을 띠게 하려면",
+    "lt": "blizgėti, t. y. būti ryškios spalvos",
+    "lv": "spīdēt, t.i., būt spilgtā krāsā",
+    "nb": "å blende, dvs. ha sterke farger",
+    "nl": "schitteren, d.w.z. felgekleurd zijn",
+    "pl": "świecić, tj. mieć jasny kolor",
+    "pt": "brilhar, ou seja, ser de cor viva",
+    "ro": "să strălucească, adică să fie viu colorat",
+    "ru": "бликовать, т.е. быть ярко окрашенным",
+    "sk": "oslňovať, t. j. mať jasnú farbu",
+    "sl": "bleščati, tj. biti svetleče barve",
+    "sv": "att blända, d.v.s. vara starkt färgad",
+    "tr": "parlamak, yani parlak renkli olmak",
+    "uk": "відблискувати, тобто бути яскравим",
+    "zh": "眩目，即颜色鲜艳"
+  },
+  "verses": [
+    "ezekiel 1:7:8"
+  ]
+}

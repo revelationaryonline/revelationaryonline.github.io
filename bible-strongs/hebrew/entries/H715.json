@@ -1,0 +1,42 @@
+{
+  "number": "H715",
+  "language": "hebrew",
+  "transliteration": "ʼArdôwn",
+  "pronunciation": "ar-dohn'",
+  "definition": "Ardon, an Israelite",
+  "kjvTranslation": "Ardon.",
+  "translations": {
+    "bg": "Ардон, израилтянин",
+    "cs": "Ardon, Izraelita",
+    "da": "Ardon, en israelit",
+    "de": "Ardon, ein Israelit",
+    "el": "Ardon, ένας Ισραηλίτης",
+    "es": "Ardón, israelita",
+    "et": "Ardon, iisraellane",
+    "fi": "Ardon, israelilainen",
+    "fr": "Ardon, Israélite",
+    "hu": "Ardon, egy izraelita",
+    "id": "Ardon, seorang Israel",
+    "it": "Ardon, un israelita",
+    "ja": "イスラエル人アルドン",
+    "ko": "이스라엘인 아돈",
+    "lt": "Ardonas, izraelitas",
+    "lv": "Ardons, izraēlietis",
+    "nb": "Ardon, en israelitt",
+    "nl": "Ardon, een Israëliet",
+    "pl": "Ardon, Izraelita",
+    "pt": "Ardon, israelita",
+    "ro": "Ardon, un israelit",
+    "ru": "Ардон, израильтянин",
+    "sk": "Ardon, Izraelita",
+    "sl": "Ardon, Izraelec",
+    "sv": "Ardon, en israelit",
+    "tr": "Ardon, bir İsrailli",
+    "uk": "Ардон, ізраїльтянин",
+    "zh": "以色列人亚东"
+  },
+  "hebrew": "אַרְדּוֹן",
+  "verses": [
+    "firstChronicles 2:18:13"
+  ]
+}

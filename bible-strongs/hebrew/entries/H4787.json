@@ -1,0 +1,42 @@
+{
+  "number": "H4787",
+  "language": "hebrew",
+  "transliteration": "morrâh",
+  "pronunciation": "mor-raw'",
+  "definition": "trouble",
+  "kjvTranslation": "bitterness.",
+  "hebrew": "מׇרָּה",
+  "translations": {
+    "bg": "проблеми",
+    "cs": "potíže",
+    "da": "problemer",
+    "de": "probleme",
+    "el": "πρόβλημα",
+    "es": "problema",
+    "et": "häda",
+    "fi": "ongelmia",
+    "fr": "problème",
+    "hu": "baj",
+    "id": "masalah",
+    "it": "problemi",
+    "ja": "トラブル",
+    "ko": "문제",
+    "lt": "problemos",
+    "lv": "problēmas",
+    "nb": "problemer",
+    "nl": "probleem",
+    "pl": "kłopoty",
+    "pt": "problemas",
+    "ro": "probleme",
+    "ru": "проблемы",
+    "sk": "problémy",
+    "sl": "težave",
+    "sv": "problem",
+    "tr": "sorun",
+    "uk": "неприємність",
+    "zh": "麻烦"
+  },
+  "verses": [
+    "proverbs 14:10:2"
+  ]
+}

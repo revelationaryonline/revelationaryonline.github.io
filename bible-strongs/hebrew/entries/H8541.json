@@ -1,0 +1,43 @@
+{
+  "number": "H8541",
+  "language": "hebrew",
+  "transliteration": "timmâhôwn",
+  "pronunciation": "tim-maw-hone'",
+  "definition": "consternation",
+  "kjvTranslation": "astonishment.",
+  "hebrew": "תִּמָּהוֹן",
+  "translations": {
+    "bg": "недоумение",
+    "cs": "zděšení",
+    "da": "bestyrtelse",
+    "de": "fassungslosigkeit",
+    "el": "αμηχανία",
+    "es": "consternación",
+    "et": "jahmatus",
+    "fi": "tyrmistys",
+    "fr": "consternation",
+    "hu": "megdöbbenés",
+    "id": "kekhawatiran",
+    "it": "sgomento",
+    "ja": "しゅうしょうろうばい",
+    "ko": "경악",
+    "lt": "sąmyšis",
+    "lv": "pārsteigums",
+    "nb": "bestyrtelse",
+    "nl": "consternatie",
+    "pl": "konsternacja",
+    "pt": "consternação",
+    "ro": "consternare",
+    "ru": "оцепенение",
+    "sk": "zdesenie",
+    "sl": "osuplost",
+    "sv": "bestörtning",
+    "tr": "şaşkınlık",
+    "uk": "переляк",
+    "zh": "惊愕"
+  },
+  "verses": [
+    "deuteronomy 28:28:4",
+    "zechariah 12:4:7"
+  ]
+}

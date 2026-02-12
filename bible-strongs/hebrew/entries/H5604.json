@@ -1,0 +1,42 @@
+{
+  "number": "H5604",
+  "language": "hebrew",
+  "transliteration": "çippun",
+  "pronunciation": "sip-poon'",
+  "definition": "a wainscot",
+  "kjvTranslation": "cieling.",
+  "hebrew": "סִפֻּן",
+  "translations": {
+    "bg": "облицовка",
+    "cs": "obklad",
+    "da": "en vægbeklædning",
+    "de": "eine Vertäfelung",
+    "el": "μια επένδυση",
+    "es": "un arrimadero",
+    "et": "seinakate",
+    "fi": "seinäpaneeli",
+    "fr": "un lambris",
+    "hu": "egy lambéria",
+    "id": "sebuah tempat cuci piring",
+    "it": "un paravento",
+    "ja": "羽目板",
+    "ko": "웨인스코트",
+    "lt": "dailylentės",
+    "lv": "apšuvums",
+    "nb": "en panelvegg",
+    "nl": "een lambrisering",
+    "pl": "boazeria",
+    "pt": "um lambril",
+    "ro": "un lambriu",
+    "ru": "перегородка",
+    "sk": "obklad",
+    "sl": "obloga",
+    "sv": "en väggbeklädnad",
+    "tr": "bir lambri",
+    "uk": "настінне покриття",
+    "zh": "墙裙"
+  },
+  "verses": [
+    "firstKings 6:15:11"
+  ]
+}

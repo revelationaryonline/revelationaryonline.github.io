@@ -1,0 +1,42 @@
+{
+  "number": "H5364",
+  "language": "hebrew",
+  "transliteration": "niqpâh",
+  "pronunciation": "nik-paw'",
+  "definition": "probably a rope (as encircling)",
+  "kjvTranslation": "rent.",
+  "hebrew": "נִקְפָּה",
+  "translations": {
+    "bg": "вероятно въже (като обгръщащо)",
+    "cs": "pravděpodobně provaz (jako obepínající)",
+    "da": "sandsynligvis et reb (som omkranser)",
+    "de": "wahrscheinlich ein Seil (als Umschlingung)",
+    "el": "πιθανώς ένα σχοινί (που περιβάλλει)",
+    "es": "probablemente una cuerda (como rodeando)",
+    "et": "tõenäoliselt köis (nagu ümberringi)",
+    "fi": "luultavasti köysi (kuten ympärillä oleva)",
+    "fr": "probablement une corde (comme encerclant)",
+    "hu": "valószínűleg egy kötél (mint körbeölelő)",
+    "id": "mungkin tali (seperti melingkari)",
+    "it": "probabilmente una corda (che avvolge)",
+    "ja": "縄",
+    "ko": "아마도 밧줄(둘러싸고 있는 것처럼)",
+    "lt": "tikriausiai virvė (kaip apjuosianti)",
+    "lv": "iespējams, virve (kā apvijums)",
+    "nb": "sannsynligvis et tau (som omkranser)",
+    "nl": "waarschijnlijk een touw (als omcirkeling)",
+    "pl": "prawdopodobnie lina (jako otaczająca)",
+    "pt": "provavelmente uma corda (como se estivesse a rodear)",
+    "ro": "probabil o frânghie (ca înconjurând)",
+    "ru": "вероятно, веревка (как бы обхватывающая)",
+    "sk": "pravdepodobne lano (ako obopínajúce)",
+    "sl": "verjetno vrv (kot obdaja)",
+    "sv": "troligen ett rep (som omsluter)",
+    "tr": "muhtemelen bir ip (çevreleyen olarak)",
+    "uk": "ймовірно, мотузка (як оточення)",
+    "zh": "大抵为绳"
+  },
+  "verses": [
+    "isaiah 3:24:7"
+  ]
+}

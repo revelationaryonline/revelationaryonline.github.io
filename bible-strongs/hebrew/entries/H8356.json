@@ -1,0 +1,43 @@
+{
+  "number": "H8356",
+  "language": "hebrew",
+  "transliteration": "shâthâh",
+  "pronunciation": "shaw-thaw'",
+  "definition": "a basis, i.e. (figuratively) political or moral support",
+  "kjvTranslation": "foundation, purpose.",
+  "hebrew": "שָׁתָה",
+  "translations": {
+    "bg": "основа, т.е. (в преносен смисъл) политическа или морална подкрепа",
+    "cs": "základ, tj. (obrazně) politickou nebo morální podporu",
+    "da": "et grundlag, dvs. (i overført betydning) politisk eller moralsk støtte",
+    "de": "eine Basis, d.h. (im übertragenen Sinne) politische oder moralische Unterstützung",
+    "el": "μια βάση, δηλαδή (μεταφορικά) πολιτική ή ηθική υποστήριξη",
+    "es": "una base, es decir (en sentido figurado) un apoyo político o moral",
+    "et": "alus, st (piltlikult öeldes) poliitiline või moraalne toetus",
+    "fi": "perusta eli (kuvaannollisesti) poliittinen tai moraalinen tuki",
+    "fr": "une base, c'est-à-dire (au sens figuré) un soutien politique ou moral",
+    "hu": "alap, azaz (átvitt értelemben) politikai vagy erkölcsi támogatás",
+    "id": "suatu dasar, yaitu (secara kiasan) dukungan politik atau moral",
+    "it": "una base, cioè (in senso figurato) il sostegno politico o morale",
+    "ja": "拠り所、すなわち（比喩的に）政治的または道徳的支援",
+    "ko": "근거, 즉 (비유적으로) 정치적 또는 도덕적 지지",
+    "lt": "pagrindas, t. y. (perkeltine prasme) politinė ar moralinė parama",
+    "lv": "pamats, t.i., (pārnestā nozīmē) politisks vai morāls atbalsts",
+    "nb": "et grunnlag, dvs. (i overført betydning) politisk eller moralsk støtte",
+    "nl": "een basis, d.w.z. (figuurlijk) politieke of morele steun",
+    "pl": "podstawa, tj. (w przenośni) wsparcie polityczne lub moralne",
+    "pt": "uma base, ou seja, (em sentido figurado) um apoio político ou moral",
+    "ro": "o bază, adică (la figurat) sprijin politic sau moral",
+    "ru": "основа, т.е. (фигурально) политическая или моральная поддержка",
+    "sk": "základ, t. j. (obrazne) politickú alebo morálnu podporu",
+    "sl": "podlaga, tj. (v prenesenem pomenu) politična ali moralna podpora",
+    "sv": "en grund, dvs. (bildligt talat) politiskt eller moraliskt stöd",
+    "tr": "bir dayanak, yani (mecazi anlamda) siyasi veya ahlaki destek",
+    "uk": "основу, тобто (образно) політичну або моральну підтримку",
+    "zh": "根据，即（比喻）政治或道义上的支持"
+  },
+  "verses": [
+    "psalms 11:3:1",
+    "isaiah 19:10:1"
+  ]
+}

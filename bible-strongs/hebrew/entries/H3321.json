@@ -1,0 +1,42 @@
+{
+  "number": "H3321",
+  "language": "hebrew",
+  "transliteration": "yᵉtsab",
+  "pronunciation": "yets-abe'",
+  "definition": "to be firm; hence, to speak surely",
+  "kjvTranslation": "truth.",
+  "translations": {
+    "bg": "да бъда твърд; оттам - да говоря уверено",
+    "cs": "být pevný, tedy mluvit s jistotou",
+    "da": "at være fast; derfor at tale sikkert",
+    "de": "fest sein; daher sicher sprechen",
+    "el": "να είσαι σταθερός, άρα, να μιλάς με σιγουριά",
+    "es": "ser firme; por lo tanto, hablar con seguridad",
+    "et": "olla kindel; seega, rääkida kindlalt",
+    "fi": "olla luja; siis puhua varmasti",
+    "fr": "être ferme ; donc, parler avec assurance",
+    "hu": "határozottnak lenni; tehát biztosan beszélni",
+    "id": "untuk bersikap tegas; oleh karena itu, untuk berbicara dengan pasti",
+    "it": "essere fermo; quindi, parlare con sicurezza",
+    "ja": "確固としていること、したがって、確実に話すこと。",
+    "ko": "확고하다; 따라서 확실하게 말하다",
+    "lt": "būti tvirtam; taigi, kalbėti tvirtai",
+    "lv": "būt stingram, tātad - runāt droši",
+    "nb": "å være fast; derav å snakke sikkert",
+    "nl": "om standvastig te zijn; vandaar, om zeker te spreken",
+    "pl": "być stanowczym; stąd, mówić pewnie",
+    "pt": "ser firme; portanto, falar com segurança",
+    "ro": "a fi ferm; prin urmare, a vorbi cu siguranță",
+    "ru": "быть твердым; следовательно, говорить уверенно",
+    "sk": "byť pevný; teda hovoriť s istotou",
+    "sl": "biti trden; torej govoriti z gotovostjo",
+    "sv": "att vara bestämd; följaktligen att tala säkert",
+    "tr": "sağlam olmak; dolayısıyla, kesin konuşmak",
+    "uk": "бути твердим; отже, говорити впевнено",
+    "zh": "坚定；因此，肯定地说"
+  },
+  "hebrew": "יְצַב",
+  "verses": [
+    "daniel 7:19:2"
+  ]
+}

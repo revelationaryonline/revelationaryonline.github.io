@@ -1,0 +1,43 @@
+{
+  "number": "H3681",
+  "language": "hebrew",
+  "transliteration": "kâçûwy",
+  "pronunciation": "kaw-soo'-ee",
+  "definition": "properly, covered, i.e. (as noun) a covering",
+  "kjvTranslation": "covering.",
+  "translations": {
+    "bg": "правилно, покрито, т.е. (като съществително) покритие",
+    "cs": "správně, přikrytý, tj. (jako podstatné jméno) přikrytí",
+    "da": "korrekt, dækket, dvs. (som substantiv) en tildækning",
+    "de": "richtig, bedeckt, d.h. (als Substantiv) eine Abdeckung",
+    "el": "κατάλληλα, καλυμμένο, δηλαδή (ως ουσιαστικό) ένα κάλυμμα",
+    "es": "propiamente, cubierto, es decir (como sustantivo) una cubierta",
+    "et": "korralikult, kaetud, s.t. (kui nimisõna) kattev katte",
+    "fi": "oikein, peitetty, eli (substantiivina) peittävä, peittävä",
+    "fr": "proprement, couvert, c'est-à-dire (en tant que substantif) une couverture",
+    "hu": "megfelelően, fedett, azaz (főnévként) egy fedő",
+    "id": "benar, tertutup, yaitu (sebagai kata benda) penutup",
+    "it": "propriamente, coperto, cioè (come sostantivo) una copertura",
+    "ja": "覆われた",
+    "ko": "적절하게, 덮다, 즉 (명사로) 덮다",
+    "lt": "tinkamai, padengtas, t. y. (kaip daiktavardis) danga",
+    "lv": "pareizi, pārklāts, t.i., (kā lietvārds) pārklājums",
+    "nb": "riktig, tildekket, dvs. (som substantiv) et dekke",
+    "nl": "goed, bedekt, d.w.z. (als zelfstandig naamwoord) een bedekking",
+    "pl": "właściwie, pokryty, tj. (jako rzeczownik) pokrycie",
+    "pt": "propriamente dito, coberto, ou seja, (como substantivo) uma cobertura",
+    "ro": "în mod corespunzător, acoperit, adică (ca substantiv) o acoperire",
+    "ru": "надлежащим образом, покрытый, т.е. (как существительное) покров",
+    "sk": "správne, zakrytý, t. j. (ako podstatné meno) kryt",
+    "sl": "pravilno, pokrito, tj. (kot samostalnik) pokrivalo",
+    "sv": "ordentligt, täckt, d.v.s. (som substantiv) en täckning",
+    "tr": "düzgün, örtülü, yani (isim olarak) bir örtü",
+    "uk": "власне, покритий, тобто (як іменник) покриття",
+    "zh": "妥，覆盖，即（作为名词）覆盖物"
+  },
+  "hebrew": "כָּסוּי",
+  "verses": [
+    "numbers 4:6:2",
+    "numbers 4:14:22"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2969",
+  "language": "hebrew",
+  "transliteration": "yâʼâh",
+  "pronunciation": "yaw-aw'",
+  "definition": "to be suitable",
+  "kjvTranslation": "appertain.",
+  "translations": {
+    "bg": "да бъдат подходящи",
+    "cs": "aby byly vhodné",
+    "da": "for at være egnet",
+    "de": "geeignet zu sein",
+    "el": "να είναι κατάλληλο",
+    "es": "ser adecuado",
+    "et": "olla sobiv",
+    "fi": "sopivaksi",
+    "fr": "être adapté",
+    "hu": "hogy megfelelő legyen",
+    "id": "agar sesuai",
+    "it": "essere adatto",
+    "ja": "ふさわしい",
+    "ko": "적합한",
+    "lt": "būti tinkama",
+    "lv": "lai būtu piemēroti",
+    "nb": "for å være egnet",
+    "nl": "geschikt te zijn",
+    "pl": "być odpowiedni",
+    "pt": "para ser adequado",
+    "ro": "să fie adecvată",
+    "ru": "быть подходящим",
+    "sk": "aby boli vhodné",
+    "sl": "da so primerni",
+    "sv": "för att vara lämplig",
+    "tr": "uygun olması için",
+    "uk": "бути придатним",
+    "zh": "适宜"
+  },
+  "hebrew": "יָאָה",
+  "verses": [
+    "jeremiah 10:7:7"
+  ]
+}

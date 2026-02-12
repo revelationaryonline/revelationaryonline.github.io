@@ -1,0 +1,43 @@
+{
+  "number": "H5487",
+  "language": "hebrew",
+  "transliteration": "çûwph",
+  "pronunciation": "soof",
+  "definition": "to come to an end",
+  "kjvTranslation": "consume, fulfill.",
+  "hebrew": "סוּף",
+  "translations": {
+    "bg": "да се прекрати",
+    "cs": "skončit",
+    "da": "at komme til en ende",
+    "de": "zu Ende gehen",
+    "el": "να τελειώσει",
+    "es": "llegar a su fin",
+    "et": "lõpetada",
+    "fi": "päättymään",
+    "fr": "de s'achever",
+    "hu": "hogy véget érjen",
+    "id": "akan segera berakhir",
+    "it": "giungere alla fine",
+    "ja": "終わりを告げる",
+    "ko": "끝내기 위해",
+    "lt": "baigti",
+    "lv": "beigties",
+    "nb": "å komme til en slutt",
+    "nl": "tot een einde komen",
+    "pl": "dobiegać końca",
+    "pt": "chegar ao fim",
+    "ro": "să ajungă la un sfârșit",
+    "ru": "заканчиваться",
+    "sk": "skončiť",
+    "sl": "končati se",
+    "sv": "att komma till ett slut",
+    "tr": "sona ermek",
+    "uk": "добігає кінця",
+    "zh": "期满"
+  },
+  "verses": [
+    "daniel 2:44:18",
+    "daniel 4:30:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6092",
+  "language": "hebrew",
+  "transliteration": "ʻâtsêb",
+  "pronunciation": "aw-tsabe'",
+  "definition": "a (hired) workman",
+  "kjvTranslation": "labour.",
+  "hebrew": "עָצֵב",
+  "translations": {
+    "bg": "(нает) работник",
+    "cs": "(najatý) dělník",
+    "da": "en (hyret) håndværker",
+    "de": "ein (angestellter) Handwerker",
+    "el": "(μισθωμένος) εργάτης",
+    "es": "un obrero (contratado)",
+    "et": "(palgaline) tööline",
+    "fi": "(palkattu) työntekijä",
+    "fr": "un ouvrier (embauché)",
+    "hu": "(bér)munkás",
+    "id": "seorang pekerja (sewaan)",
+    "it": "un operaio (assunto)",
+    "ja": "お雇い労働者",
+    "ko": "(고용된) 작업자",
+    "lt": "(samdomas) darbininkas",
+    "lv": "(algots) strādnieks",
+    "nb": "en (innleid) håndverker",
+    "nl": "een (ingehuurde) werkman",
+    "pl": "(wynajęty) robotnik",
+    "pt": "um trabalhador (contratado)",
+    "ro": "un muncitor (angajat)",
+    "ru": "(наемный) работник",
+    "sk": "(nájomný) pracovník",
+    "sl": "(najeti) delavec",
+    "sv": "en (inhyrd) arbetare",
+    "tr": "(işe alınmış) bir işçi",
+    "uk": "(найманий) працівник",
+    "zh": "工人"
+  },
+  "verses": [
+    "isaiah 58:3:14"
+  ]
+}

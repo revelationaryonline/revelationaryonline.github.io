@@ -1,0 +1,42 @@
+{
+  "number": "H3255",
+  "language": "hebrew",
+  "transliteration": "yᵉçaph",
+  "pronunciation": "yes-af'",
+  "definition": "{to add or augment (often adverbial, to continue to do a thing)}",
+  "kjvTranslation": "add.",
+  "translations": {
+    "bg": "{да се добави или да се увеличи (често като наречие, за да се продължи да се прави нещо)}",
+    "cs": "{přidat nebo rozšířit (často příslovečné určení, pokračovat v nějaké činnosti)}",
+    "da": "{at tilføje eller forøge (ofte adverbial, at fortsætte med at gøre en ting)}",
+    "de": "(oft adverbial, um eine Sache fortzusetzen)",
+    "el": "{προσθέτω ή επαυξάνω (συχνά επιρρηματικό, συνεχίζω να κάνω κάτι)}",
+    "es": "{añadir o aumentar (a menudo adverbial, seguir haciendo una cosa)}",
+    "et": "{täiendama või suurendama (sageli adverbiaalne, jätkama mingi asja tegemist)}",
+    "fi": "{lisätä tai lisätä (usein adverbiaali, jatkaa jonkin asian tekemistä)}",
+    "fr": "{pour ajouter ou augmenter (souvent adverbial, pour continuer à faire une chose)}",
+    "hu": "{hozzáadni vagy növelni (gyakran határozószó, folytatni egy dolgot)}",
+    "id": "{menambahkan atau menambah (sering kali berupa kata keterangan, untuk terus melakukan suatu hal)}",
+    "it": "{aggiungere o aumentare (spesso in senso avverbiale, per continuare a fare una cosa)}",
+    "ja": "{追加する、または増強する（多くの場合、副詞的に、あることを続ける）｝。",
+    "ko": "{추가 또는 증강하다(종종 부사, 어떤 일을 계속하다)}",
+    "lt": "{papildyti arba padidinti (dažnai su prieveiksmine reikšme, tęsti tam tikrą veiksmą)}",
+    "lv": "{papildināt vai papildināt (bieži vien ar apstākļa vārdu, lai turpinātu kaut ko darīt)}",
+    "nb": "{å legge til eller øke (ofte adverbial, å fortsette å gjøre en ting)}",
+    "nl": "{toevoegen of vergroten (vaak bijwoordelijk, iets blijven doen)}",
+    "pl": "{dodać lub rozszerzyć (często przysłówkowe, aby kontynuować robienie czegoś)}",
+    "pt": "{adicionar ou aumentar (frequentemente adverbial, para continuar a fazer uma coisa)}",
+    "ro": "{to add or augment (often adverbial, to continue to do a thing)}",
+    "ru": "{добавлять или увеличивать (часто наречие, продолжать делать что-либо)}",
+    "sk": "{dodať alebo rozšíriť (často príslovkové, pokračovať v činnosti)}",
+    "sl": "{dodati ali povečati (pogosto prislovno, nadaljevati z delom)}",
+    "sv": "{att lägga till eller öka (ofta adverbial, att fortsätta att göra en sak)}",
+    "tr": "{eklemek veya artırmak (genellikle zarf, bir şeyi yapmaya devam etmek)}",
+    "uk": "{додавати або збільшувати (часто прислівник, продовжувати робити щось)}",
+    "zh": "{增加或增强（通常是副词，继续做某事）}"
+  },
+  "hebrew": "יְסַף",
+  "verses": [
+    "daniel 4:33:20"
+  ]
+}

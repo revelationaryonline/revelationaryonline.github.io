@@ -1,0 +1,42 @@
+{
+  "number": "H93",
+  "language": "hebrew",
+  "transliteration": "ʼĕgôwz",
+  "pronunciation": "eg-oze'",
+  "definition": "a nut",
+  "kjvTranslation": "nut.",
+  "translations": {
+    "bg": "ядка",
+    "cs": "ořech",
+    "da": "en nød",
+    "de": "eine Nuss",
+    "el": "ένα παξιμάδι",
+    "es": "una nuez",
+    "et": "pähkel",
+    "fi": "mutteri",
+    "fr": "un écrou",
+    "hu": "egy dió",
+    "id": "kacang",
+    "it": "un dado",
+    "ja": "ナット",
+    "ko": "너트",
+    "lt": "riešutas",
+    "lv": "rieksts",
+    "nb": "en nøtt",
+    "nl": "een noot",
+    "pl": "orzech",
+    "pt": "uma noz",
+    "ro": "o nucă",
+    "ru": "орех",
+    "sk": "orech",
+    "sl": "matica",
+    "sv": "en nöt",
+    "tr": "bir ceviz",
+    "uk": "горіх",
+    "zh": "螺母"
+  },
+  "hebrew": "אֱגוֹז",
+  "verses": [
+    "solomon 6:11:2"
+  ]
+}

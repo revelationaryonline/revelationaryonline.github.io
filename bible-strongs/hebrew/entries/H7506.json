@@ -1,0 +1,42 @@
+{
+  "number": "H7506",
+  "language": "hebrew",
+  "transliteration": "Rephach",
+  "pronunciation": "reh'-fakh",
+  "definition": "Rephach, an Israelite",
+  "kjvTranslation": "Rephah.",
+  "hebrew": "רֶפַח",
+  "translations": {
+    "bg": "Рефах, израилтянин",
+    "cs": "Refach, Izraelita",
+    "da": "Rephach, en israelit",
+    "de": "Rephach, ein Israelit",
+    "el": "Ρεφάχ, Ισραηλίτης",
+    "es": "Rephach, israelita",
+    "et": "Rephach, iisraellane",
+    "fi": "Rephaak, israelilainen",
+    "fr": "Rephach, Israélite",
+    "hu": "Rephách, egy izraelita",
+    "id": "Rephach, seorang Israel",
+    "it": "Rephach, un israelita",
+    "ja": "イスラエル人レファク",
+    "ko": "레파흐, 이스라엘인",
+    "lt": "Refachas, izraelitas",
+    "lv": "Refahs, izraēlietis",
+    "nb": "Rephach, en israelitt",
+    "nl": "Rephach, een Israëliet",
+    "pl": "Rephach, Izraelita",
+    "pt": "Refaque, israelita",
+    "ro": "Rephach, un israelit",
+    "ru": "Рефах, израильтянин",
+    "sk": "Refach, Izraelita",
+    "sl": "Refaš, Izraelec",
+    "sv": "Rephach, en israelit",
+    "tr": "Rephach, bir İsrailli",
+    "uk": "Рефах, ізраїльтянин",
+    "zh": "以色列人利法"
+  },
+  "verses": [
+    "firstChronicles 7:25:0"
+  ]
+}

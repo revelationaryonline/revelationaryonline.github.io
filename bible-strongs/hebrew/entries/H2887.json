@@ -1,0 +1,42 @@
+{
+  "number": "H2887",
+  "language": "hebrew",
+  "transliteration": "Ṭêbeth",
+  "pronunciation": "tay'-beth",
+  "definition": "Tebeth, the tenth Hebrew month",
+  "kjvTranslation": "Tebeth.",
+  "translations": {
+    "bg": "Тебет, десетият еврейски месец",
+    "cs": "Tebet, desátý hebrejský měsíc",
+    "da": "Tebeth, den tiende hebraiske måned",
+    "de": "Tebeth, der zehnte hebräische Monat",
+    "el": "Tebeth, ο δέκατος εβραϊκός μήνας",
+    "es": "Tebeth, el décimo mes hebreo",
+    "et": "Tebeth, kümnes heebrea kuu",
+    "fi": "Tebeth, kymmenes hepreankielinen kuukausi",
+    "fr": "Tebeth, le dixième mois hébraïque",
+    "hu": "Tebeth, a tizedik héber hónap",
+    "id": "Tebet, bulan kesepuluh dalam bahasa Ibrani",
+    "it": "Tebeth, il decimo mese ebraico",
+    "ja": "テベス、ヘブライ語の10番目の月",
+    "ko": "히브리어 열 번째 달, 테베스",
+    "lt": "Tebetas, dešimtasis hebrajų mėnuo",
+    "lv": "Tebets, ebreju desmitais mēnesis",
+    "nb": "Tebeth, den tiende hebraiske måneden",
+    "nl": "Tebeth, de tiende Hebreeuwse maand",
+    "pl": "Tebeth, dziesiąty hebrajski miesiąc",
+    "pt": "Tebeth, o décimo mês hebraico",
+    "ro": "Tebeth, a zecea lună ebraică",
+    "ru": "Тебет, десятый еврейский месяц",
+    "sk": "Tebet, desiaty hebrejský mesiac",
+    "sl": "Tebet, deseti hebrejski mesec",
+    "sv": "Tebeth, den tionde hebreiska månaden",
+    "tr": "Tebeth, onuncu İbrani ayı",
+    "uk": "Тебет, десятий єврейський місяць",
+    "zh": "特比特，希伯来第十个月"
+  },
+  "hebrew": "טֵבֶת",
+  "verses": [
+    "esther 2:16:12"
+  ]
+}

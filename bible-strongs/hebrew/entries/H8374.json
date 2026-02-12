@@ -1,0 +1,42 @@
+{
+  "number": "H8374",
+  "language": "hebrew",
+  "transliteration": "tâʼab",
+  "pronunciation": "taw-ab'",
+  "definition": "to loathe (morally)",
+  "kjvTranslation": "abhor.",
+  "hebrew": "תָּאַב",
+  "translations": {
+    "bg": "да се отвращавам (морално)",
+    "cs": "nenávidět (morálně)",
+    "da": "at afsky (moralsk)",
+    "de": "(moralisch) zu verabscheuen",
+    "el": "να απεχθάνομαι (ηθικά)",
+    "es": "detestar (moralmente)",
+    "et": "vihkama (moraalselt)",
+    "fi": "inhota (moraalisesti)",
+    "fr": "détester (moralement)",
+    "hu": "gyűlölni (erkölcsileg)",
+    "id": "membenci (secara moral)",
+    "it": "detestare (moralmente)",
+    "ja": "忌み嫌う",
+    "ko": "(도덕적으로) 혐오하다",
+    "lt": "neapkęsti (moraliai)",
+    "lv": "ienīst (morāli)",
+    "nb": "å avsky (moralsk)",
+    "nl": "(moreel) verafschuwen",
+    "pl": "nienawidzić (moralnie)",
+    "pt": "odiar (moralmente)",
+    "ro": "a detesta (moral)",
+    "ru": "ненавидеть (морально)",
+    "sk": "nenávidieť (morálne)",
+    "sl": "sovražiti (moralno)",
+    "sv": "att avsky (moraliskt)",
+    "tr": "(ahlaki olarak) nefret etmek",
+    "uk": "ненавидіти (морально)",
+    "zh": "憎恶"
+  },
+  "verses": [
+    "amos 6:8:8"
+  ]
+}

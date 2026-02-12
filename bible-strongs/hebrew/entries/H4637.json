@@ -1,0 +1,42 @@
+{
+  "number": "H4637",
+  "language": "hebrew",
+  "transliteration": "maʻărâtsâh",
+  "pronunciation": "mah-ar-aw-tsaw'",
+  "definition": "violence",
+  "kjvTranslation": "terror.",
+  "hebrew": "מַעֲרָצָה",
+  "verses": [
+    "isaiah 10:33:6"
+  ],
+  "translations": {
+    "bg": "насилие",
+    "cs": "násilí",
+    "da": "vold",
+    "de": "gewalt",
+    "el": "βία",
+    "es": "violencia",
+    "et": "vägivald",
+    "fi": "väkivalta",
+    "fr": "la violence",
+    "hu": "erőszak",
+    "id": "kekerasan",
+    "it": "violenza",
+    "ja": "暴力",
+    "ko": "폭력",
+    "lt": "smurtas",
+    "lv": "vardarbība",
+    "nb": "vold",
+    "nl": "geweld",
+    "pl": "przemoc",
+    "pt": "violência",
+    "ro": "violență",
+    "ru": "насилие",
+    "sk": "násilie",
+    "sl": "nasilje",
+    "sv": "våld",
+    "tr": "şİDDET",
+    "uk": "насильство",
+    "zh": "暴力"
+  }
+}

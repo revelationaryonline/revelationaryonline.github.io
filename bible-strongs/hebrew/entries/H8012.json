@@ -1,0 +1,42 @@
+{
+  "number": "H8012",
+  "language": "hebrew",
+  "transliteration": "Salmôwn",
+  "pronunciation": "sal-mone'",
+  "definition": "Salmon, an Israelite",
+  "kjvTranslation": "Salmon. Compare H8009 (שַׂלְמָה).",
+  "hebrew": "שַׂלְמוֹן",
+  "translations": {
+    "bg": "Салмон, израилтянин",
+    "cs": "Losos, Izraelita",
+    "da": "Laks, en israelit",
+    "de": "Lachs, ein Israelit",
+    "el": "Σολωμός, Ισραηλίτης",
+    "es": "Salmón, un israelita",
+    "et": "Iisraellane Salmon",
+    "fi": "Lohi, israelilainen",
+    "fr": "Salmon, un Israélite",
+    "hu": "Salmon, izraelita",
+    "id": "Salmon, seorang Israel",
+    "it": "Salmone, un israelita",
+    "ja": "イスラエル人サーモン",
+    "ko": "연어, 이스라엘 사람",
+    "lt": "Lašiša, izraelitas",
+    "lv": "Lašs, izraēlietis",
+    "nb": "Salmon, en israelitt",
+    "nl": "Zalm, een Israëliet",
+    "pl": "Łosoś, Izraelita",
+    "pt": "Salmão, um israelita",
+    "ro": "Salmon, un israelit",
+    "ru": "Салмон, израильтянин",
+    "sk": "Losos, Izraelita",
+    "sl": "Salmon, Izraelec",
+    "sv": "Salmon, en israelit",
+    "tr": "Somon, bir İsrailli",
+    "uk": "Лосось, ізраїльтянин",
+    "zh": "以色列人三文鱼"
+  },
+  "verses": [
+    "ruth 4:21:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H262",
+  "language": "hebrew",
+  "transliteration": "ʼachvâh",
+  "pronunciation": "akh-vaw'",
+  "definition": "an utterance",
+  "kjvTranslation": "declaration.",
+  "translations": {
+    "bg": "изказване",
+    "cs": "výrok",
+    "da": "en ytring",
+    "de": "eine Äußerung",
+    "el": "μια έκφραση",
+    "es": "una expresión",
+    "et": "sõnavõtt",
+    "fi": "lausahdus",
+    "fr": "une déclaration",
+    "hu": "egy kijelentés",
+    "id": "sebuah ucapan",
+    "it": "un'affermazione",
+    "ja": "一語",
+    "ko": "발화",
+    "lt": "pasisakymas",
+    "lv": "izteikums",
+    "nb": "en ytring",
+    "nl": "een uiting",
+    "pl": "wypowiedź",
+    "pt": "uma expressão",
+    "ro": "o exprimare",
+    "ru": "высказывание",
+    "sk": "výrok",
+    "sl": "izrek",
+    "sv": "ett yttrande",
+    "tr": "bir ifade",
+    "uk": "вислів",
+    "zh": "话语"
+  },
+  "hebrew": "אַחְוָה",
+  "verses": [
+    "job 13:17:3"
+  ]
+}

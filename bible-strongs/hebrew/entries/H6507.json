@@ -1,0 +1,42 @@
+{
+  "number": "H6507",
+  "language": "hebrew",
+  "transliteration": "pᵉrudâh",
+  "pronunciation": "per-oo-daw'",
+  "definition": "something separated, i.e. a kernel",
+  "kjvTranslation": "seed.",
+  "hebrew": "פְּרֻדָה",
+  "translations": {
+    "bg": "нещо отделено, т.е. ядро",
+    "cs": "něco odděleného, tj. jádro",
+    "da": "noget adskilt, f.eks. en kerne",
+    "de": "etwas Getrenntes, d.h. einen Kern",
+    "el": "κάτι που διαχωρίζεται, δηλαδή ένας πυρήνας",
+    "es": "algo separado, es decir, un núcleo",
+    "et": "midagi eraldatud, s.t. tuuma",
+    "fi": "jotakin erotettua, eli ydintä",
+    "fr": "quelque chose de séparé, c'est-à-dire un noyau",
+    "hu": "valami elválasztott, azaz egy magot",
+    "id": "sesuatu yang terpisah, yaitu kernel",
+    "it": "qualcosa di separato, cioè un kernel",
+    "ja": "分離された何か、つまりカーネル",
+    "ko": "분리된 무언가, 예: 커널",
+    "lt": "kažkas atskirta, t. y. branduolys",
+    "lv": "kaut kas atdalīts, t. i., kodols",
+    "nb": "noe adskilt, dvs. en kjerne",
+    "nl": "iets afgescheiden, d.w.z. een kernel",
+    "pl": "coś oddzielonego, tj. jądro",
+    "pt": "algo separado, ou seja, um núcleo",
+    "ro": "ceva separat, adică un nucleu",
+    "ru": "нечто разделенное, т.е. ядро",
+    "sk": "niečo oddelené, t. j. jadro",
+    "sl": "nekaj ločenega, tj. jedro",
+    "sv": "något som är avskilt, t.ex. en kärna",
+    "tr": "ayrılmış bir şey, yani bir çekirdek",
+    "uk": "щось відокремлене, тобто ядро",
+    "zh": "分离的东西，即内核"
+  },
+  "verses": [
+    "joel 1:17:1"
+  ]
+}

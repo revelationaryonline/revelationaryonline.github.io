@@ -1,0 +1,42 @@
+{
+  "number": "H7362",
+  "language": "hebrew",
+  "transliteration": "rachmânîy",
+  "pronunciation": "rakh-maw-nee'",
+  "definition": "compassionate",
+  "kjvTranslation": "pitiful.",
+  "hebrew": "רַחְמָנִי",
+  "translations": {
+    "bg": "състрадателен",
+    "cs": "soucitný",
+    "da": "medfølende",
+    "de": "mitfühlend",
+    "el": "συμπονετική",
+    "es": "compasivo",
+    "et": "kaastundlik",
+    "fi": "myötätuntoinen",
+    "fr": "compatissant",
+    "hu": "együttérző",
+    "id": "welas asih",
+    "it": "compassionevole",
+    "ja": "情け深い",
+    "ko": "동정심",
+    "lt": "užuojauta",
+    "lv": "līdzjūtīgs",
+    "nb": "medfølende",
+    "nl": "medelevend",
+    "pl": "współczucie",
+    "pt": "compassivo",
+    "ro": "plin de compasiune",
+    "ru": "сострадание",
+    "sk": "súcitný",
+    "sl": "sočutno",
+    "sv": "medmänsklig",
+    "tr": "şefkatli",
+    "uk": "співчутливий",
+    "zh": "怜悯"
+  },
+  "verses": [
+    "lamentations 4:10:2"
+  ]
+}

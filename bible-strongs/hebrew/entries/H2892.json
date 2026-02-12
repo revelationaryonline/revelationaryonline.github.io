@@ -1,0 +1,43 @@
+{
+  "number": "H2892",
+  "language": "hebrew",
+  "transliteration": "ṭôhar",
+  "pronunciation": "to'-har",
+  "definition": "literally brightness; ceremonially purification",
+  "kjvTranslation": "clearness, glory, purifying.",
+  "translations": {
+    "bg": "буквално яркост; церемониално пречистване",
+    "cs": "doslova jas; obřadně očištění",
+    "da": "bogstaveligt talt lysstyrke; ceremonielt renselse",
+    "de": "wörtlich Helligkeit; zeremoniell Reinigung",
+    "el": "κυριολεκτικά φωτεινότητα- τελετουργικά εξαγνισμός",
+    "es": "literalmente resplandor; ceremonialmente purificación",
+    "et": "sõna otseses mõttes heledus; tseremoniaalne puhastamine",
+    "fi": "kirjaimellisesti kirkkaus; seremoniallisesti puhdistus",
+    "fr": "littéralement éclat ; purification cérémonielle",
+    "hu": "szó szerint fényesség; szertartásilag megtisztulás",
+    "id": "secara harfiah kecerahan; pemurnian secara seremonial",
+    "it": "letteralmente luminosità; cerimonialmente purificazione",
+    "ja": "文字通りの明るさ；儀式的な清め",
+    "ko": "말 그대로 밝음; 의식적으로 정화됨",
+    "lt": "tiesiogine prasme šviesumas; apeiginis apsivalymas",
+    "lv": "burtiski gaišums; ceremoniāli attīrīšana",
+    "nb": "bokstavelig talt lysstyrke; seremoniell renselse",
+    "nl": "letterlijk helderheid; ceremonieel reiniging",
+    "pl": "dosłownie jasność; ceremonialne oczyszczenie",
+    "pt": "literalmente brilho; cerimonialmente purificação",
+    "ro": "literalmente strălucire; ceremonial purificare",
+    "ru": "буквально - яркость; церемониально - очищение",
+    "sk": "doslova jas; obradné očistenie",
+    "sl": "dobesedno svetlost; obredno očiščenje",
+    "sv": "bokstavligen ljusstyrka; ceremoniellt rening",
+    "tr": "kelime anlamıyla parlaklık; törensel olarak arınma",
+    "uk": "буквально яскравість; обрядово очищення",
+    "zh": "祓禊"
+  },
+  "hebrew": "טֹהַר",
+  "verses": [
+    "exodus 24:10:11",
+    "psalms 89:45:1"
+  ]
+}

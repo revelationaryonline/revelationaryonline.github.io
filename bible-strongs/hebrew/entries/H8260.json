@@ -1,0 +1,42 @@
+{
+  "number": "H8260",
+  "language": "hebrew",
+  "transliteration": "sheqeph",
+  "pronunciation": "sheh'-kef",
+  "definition": "a loophole (for looking out), to admit light and air",
+  "kjvTranslation": "window.",
+  "hebrew": "שֶׁקֶף",
+  "translations": {
+    "bg": "вратичка (за гледане навън), за да се пропуска светлина и въздух",
+    "cs": "otvor (pro výhled ven), který propouští světlo a vzduch",
+    "da": "et smuthul (til at kigge ud), til at lukke lys og luft ind",
+    "de": "ein Schlupfloch (zum Herausschauen), um Licht und Luft einzulassen",
+    "el": "ένα παραθυράκι (για να βλέπεις έξω), για να επιτρέπει το φως και τον αέρα",
+    "es": "una aspillera (para asomarse), para admitir la luz y el aire",
+    "et": "avaus (väljapoole vaatamiseks), valguse ja õhu sisselaskmiseks",
+    "fi": "aukko (ulos katsomista varten), joka päästää valoa ja ilmaa sisälle",
+    "fr": "une ouverture (pour regarder dehors), pour laisser passer la lumière et l'air",
+    "hu": "egy kiskapu (a kilátáshoz), hogy fényt és levegőt engedjen be",
+    "id": "celah (untuk melihat keluar), untuk memasukkan cahaya dan udara",
+    "it": "una feritoia (per guardare fuori), per ammettere luce e aria",
+    "ja": "光と風を通すための（外を見るための）抜け穴",
+    "ko": "(밖을 내다보기 위한) 허점, 빛과 공기가 들어오는 구멍",
+    "lt": "angą, pro kurią patenka šviesa ir oras",
+    "lv": "sprauga (lai skatītos ārā), lai ielaistu gaismu un gaisu",
+    "nb": "et smutthull (for å se ut), for å slippe inn lys og luft",
+    "nl": "een schietgat (om naar buiten te kijken), om licht en lucht binnen te laten",
+    "pl": "otwór (do patrzenia na zewnątrz), aby wpuścić światło i powietrze",
+    "pt": "uma abertura (para olhar para fora), para deixar entrar a luz e o ar",
+    "ro": "o gaură (pentru a privi afară), pentru a admite lumina și aerul",
+    "ru": "лазейка (для выглядывания), чтобы пропускать свет и воздух",
+    "sk": "otvor (na vyhliadku), aby sa doň dostalo svetlo a vzduch",
+    "sl": "odprtina (za pogled ven), ki omogoča dostop svetlobe in zraka",
+    "sv": "ett kryphål (för att titta ut), för att släppa in ljus och luft",
+    "tr": "ışığı ve havayı içeri almak için (dışarı bakmak için) bir boşluk",
+    "uk": "вікно (для виглядання), щоб пропускати світло і повітря",
+    "zh": "孔隙（用于向外眺望），采光透气"
+  },
+  "verses": [
+    "firstKings 7:5:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4362",
+  "language": "hebrew",
+  "transliteration": "mikman",
+  "pronunciation": "mik-man'",
+  "definition": "treasure (as hidden)",
+  "kjvTranslation": "treasure.",
+  "hebrew": "מִכְמַן",
+  "translations": {
+    "bg": "съкровище (като скрито)",
+    "cs": "poklad (jako skrytý)",
+    "da": "skat (som skjult)",
+    "de": "schatz (wie versteckt)",
+    "el": "θησαυρός (ως κρυμμένος)",
+    "es": "tesoro (como oculto)",
+    "et": "aare (nagu peidetud)",
+    "fi": "aarre (kätkettynä)",
+    "fr": "trésor (comme caché)",
+    "hu": "kincs (mint rejtett)",
+    "id": "harta karun (seperti yang disembunyikan)",
+    "it": "tesoro (come nascosto)",
+    "ja": "秘宝",
+    "ko": "보물(숨겨진 상태)",
+    "lt": "lobis (kaip paslėptas)",
+    "lv": "dārgumi (kā apslēpts)",
+    "nb": "skatt (som skjult)",
+    "nl": "schat (als verborgen)",
+    "pl": "skarb (jako ukryty)",
+    "pt": "tesouro (como escondido)",
+    "ro": "comoară (ca ascunsă)",
+    "ru": "сокровище (как спрятанное)",
+    "sk": "poklad (ako skrytý)",
+    "sl": "zaklad (kot skriti)",
+    "sv": "skatt (som gömd)",
+    "tr": "hazine (saklı olarak)",
+    "uk": "скарб (приховано)",
+    "zh": "宝藏"
+  },
+  "verses": [
+    "daniel 11:43:1"
+  ]
+}

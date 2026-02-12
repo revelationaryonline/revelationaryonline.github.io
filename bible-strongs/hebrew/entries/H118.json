@@ -1,0 +1,42 @@
+{
+  "number": "H118",
+  "language": "hebrew",
+  "transliteration": "ʼĂdalyâʼ",
+  "pronunciation": "ad-al-yaw'",
+  "definition": "Adalja, a son of Haman",
+  "kjvTranslation": "Adalia.",
+  "translations": {
+    "bg": "Адаля, син на Аман",
+    "cs": "Adalja, syn Hamanův",
+    "da": "Adalja, en søn af Haman",
+    "de": "Adalja, ein Sohn von Haman",
+    "el": "Adalja, γιος του Αμάν",
+    "es": "Adalja, hijo de Amán",
+    "et": "Adalja, Haamani poeg",
+    "fi": "Adalja, Hamanin poika",
+    "fr": "Adalja, fils de Haman",
+    "hu": "Adalja, Hámán fia",
+    "id": "Adalja, seorang putra Haman",
+    "it": "Adalja, figlio di Haman",
+    "ja": "アダルジャ、ハマーンの息子",
+    "ko": "하만의 아들, 아달자",
+    "lt": "Adalja, Hamano sūnus",
+    "lv": "Adalja, Hamana dēls",
+    "nb": "Adalja, en sønn av Haman",
+    "nl": "Adalja, een zoon van Haman",
+    "pl": "Adalja, syn Hamana",
+    "pt": "Adalja, um filho de Hamã",
+    "ro": "Adalja, un fiu al lui Haman",
+    "ru": "Адалья, сын Хамана",
+    "sk": "Adalja, Hamanov syn",
+    "sl": "Adalja, Hamanov sin",
+    "sv": "Adalja, en son till Haman",
+    "tr": "Adalja, Haman'ın oğlu",
+    "uk": "Адаля, син Амана",
+    "zh": "哈曼的儿子阿达尔加"
+  },
+  "hebrew": "אֲדַלְיָא",
+  "verses": [
+    "esther 9:8:3"
+  ]
+}

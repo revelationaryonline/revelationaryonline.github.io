@@ -1,0 +1,42 @@
+{
+  "number": "H4840",
+  "language": "hebrew",
+  "transliteration": "merqâch",
+  "pronunciation": "mer-kawkh'",
+  "definition": "a spicy herb",
+  "kjvTranslation": "[idiom] sweet.",
+  "hebrew": "מֶרְקָח",
+  "translations": {
+    "bg": "пикантна билка",
+    "cs": "kořeněná bylina",
+    "da": "en krydret urt",
+    "de": "ein würziges Kraut",
+    "el": "ένα πικάντικο βότανο",
+    "es": "una hierba picante",
+    "et": "vürtsikas ürt",
+    "fi": "mausteinen yrtti",
+    "fr": "une herbe piquante",
+    "hu": "fűszeres gyógynövény",
+    "id": "ramuan pedas",
+    "it": "un'erba piccante",
+    "ja": "スパイシーハーブ",
+    "ko": "매운 허브",
+    "lt": "aštrus prieskoninis augalas",
+    "lv": "pikants garšaugs",
+    "nb": "en krydret urt",
+    "nl": "een pittig kruid",
+    "pl": "pikantne zioło",
+    "pt": "uma erva picante",
+    "ro": "o plantă picantă",
+    "ru": "пряная трава",
+    "sk": "korenistá bylina",
+    "sl": "začinjeno zelišče",
+    "sv": "en kryddig ört",
+    "tr": "baharatlı bir bitki",
+    "uk": "пряна трава",
+    "zh": "芕"
+  },
+  "verses": [
+    "solomon 5:13:4"
+  ]
+}

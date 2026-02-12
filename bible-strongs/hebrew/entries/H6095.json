@@ -1,0 +1,42 @@
+{
+  "number": "H6095",
+  "language": "hebrew",
+  "transliteration": "ʻâtsâh",
+  "pronunciation": "aw-tsaw'",
+  "definition": "properly, to fasten (or make firm), i.e. to close (the eyes)",
+  "kjvTranslation": "shut.",
+  "hebrew": "עָצָה",
+  "translations": {
+    "bg": "правилно, да се закрепи (или да се затвори), т.е. да се затворят (очите)",
+    "cs": "správně, upevnit (nebo zpevnit), tj. zavřít (oči)",
+    "da": "korrekt, at fastgøre (eller gøre fast), dvs. at lukke (øjnene)",
+    "de": "richtig, befestigen (oder festmachen), d.h. (die Augen) schließen",
+    "el": "σωστά, να στερεώνω (ή να κάνω σταθερό), δηλαδή να κλείνω (τα μάτια)",
+    "es": "propiamente, sujetar (o hacer firme), es decir, cerrar (los ojos)",
+    "et": "korralikult, kinnitada (või kinnitada), st sulgeda (silmad)",
+    "fi": "oikein, kiinnittää (tai tehdä kiinteäksi), eli sulkea (silmät)",
+    "fr": "proprement, attacher (ou rendre ferme), c'est-à-dire fermer (les yeux)",
+    "hu": "helyesen, rögzíteni (vagy szilárddá tenni), azaz becsukni (a szemet)",
+    "id": "dengan benar, untuk mengencangkan (atau membuat kokoh), yaitu menutup (mata)",
+    "it": "propriamente, per fissare (o rendere saldi), cioè per chiudere (gli occhi)",
+    "ja": "目を閉じる",
+    "ko": "제대로, 고정하다(또는 단단하게), 즉 (눈을) 감다",
+    "lt": "tinkamai - pritvirtinti (arba sutvirtinti), t. y. užmerkti (akis)",
+    "lv": "pareizi - piestiprināt (vai nostiprināt), t.i., aizvērt (acis)",
+    "nb": "riktig, å feste (eller gjøre fast), dvs. å lukke (øynene)",
+    "nl": "goed, vastmaken (of stevig maken), d.w.z. sluiten (de ogen)",
+    "pl": "prawidłowo, aby przymocować (lub wzmocnić), tj. zamknąć (oczy)",
+    "pt": "propriamente, prender (ou tornar firme), ou seja, fechar (os olhos)",
+    "ro": "corect, a fixa (sau a face ferm), adică a închide (ochii)",
+    "ru": "правильно, закрепить (или сделать твердым), т.е. закрыть (глаза)",
+    "sk": "správne, upevniť (alebo spevniť), t. j. zavrieť (oči)",
+    "sl": "pravilno, pritrditi (ali utrditi), tj. zapreti (oči)",
+    "sv": "korrekt, att fästa (eller göra fast), dvs. att blunda (ögonen)",
+    "tr": "uygun şekilde, sabitlemek (veya sağlamlaştırmak), yani (gözleri) kapatmak",
+    "uk": "правильно, заплющити (або зробити твердим), тобто закрити (очі)",
+    "zh": "正确地说，是紧固（或使牢固），即闭上眼睛"
+  },
+  "verses": [
+    "proverbs 16:30:0"
+  ]
+}

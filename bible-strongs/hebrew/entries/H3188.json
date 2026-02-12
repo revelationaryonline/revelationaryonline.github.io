@@ -1,0 +1,42 @@
+{
+  "number": "H3188",
+  "language": "hebrew",
+  "transliteration": "yachas",
+  "pronunciation": "yakh'-as",
+  "definition": "a pedigree or family list (as growing spontaneously)",
+  "kjvTranslation": "genealogy.",
+  "translations": {
+    "bg": "родословие или семеен списък (като спонтанно нарастващ)",
+    "cs": "rodokmen nebo rodinný seznam (spontánně rostoucí)",
+    "da": "en stamtavle eller familieliste (som vokser frem spontant)",
+    "de": "eine Ahnentafel oder eine Familienliste (da spontan entstanden)",
+    "el": "ένα γενεαλογικό δέντρο ή έναν οικογενειακό κατάλογο (που αναπτύσσεται αυθόρμητα)",
+    "es": "un pedigrí o una lista de familia (a medida que crece espontáneamente)",
+    "et": "sugupuu või perekonna nimekiri (nagu kasvab spontaanselt)",
+    "fi": "sukutaulu tai sukuluettelo (joka kasvaa spontaanisti)",
+    "fr": "un pedigree ou une liste de famille (comme s'il s'agissait d'une liste spontanée)",
+    "hu": "törzskönyvet vagy családi listát (spontán növekvő)",
+    "id": "silsilah atau daftar keluarga (yang tumbuh secara spontan)",
+    "it": "un pedigree o un elenco di famiglie (che cresce spontaneamente)",
+    "ja": "家系図",
+    "ko": "혈통 또는 가족 목록(자발적으로 늘어나는 경우)",
+    "lt": "genealoginis arba giminės sąrašas (kaip spontaniškai išaugęs)",
+    "lv": "ciltsgrāmata vai dzimtas saraksts (kā spontāni augošs)",
+    "nb": "en stamtavle eller familieliste (som vokser frem spontant)",
+    "nl": "een stamboom of familielijst (als spontaan gegroeid)",
+    "pl": "rodowód lub lista rodzinna (rozwijająca się spontanicznie)",
+    "pt": "um pedigree ou uma lista de família (que cresce espontaneamente)",
+    "ro": "un pedigree sau o listă de familie (în creștere spontană)",
+    "ru": "родословная или семейный список (вырастает спонтанно)",
+    "sk": "rodokmeň alebo rodinný zoznam (ako spontánne rastúci)",
+    "sl": "rodovnik ali družinski seznam (kot spontano rastoč)",
+    "sv": "en stamtavla eller släktlista (som växer fram spontant)",
+    "tr": "bir soyağacı veya aile listesi (kendiliğinden büyüyen)",
+    "uk": "родовід або список сім'ї (у міру спонтанного зростання)",
+    "zh": "族谱"
+  },
+  "hebrew": "יַחַשׂ",
+  "verses": [
+    "nehemiah 7:5:14"
+  ]
+}

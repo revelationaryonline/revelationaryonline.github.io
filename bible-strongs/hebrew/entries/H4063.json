@@ -1,0 +1,43 @@
+{
+  "number": "H4063",
+  "language": "hebrew",
+  "transliteration": "medev",
+  "pronunciation": "meh'-dev",
+  "definition": "properly, extent, i.e. measure; by implication, a dress (as measured)",
+  "kjvTranslation": "garment.",
+  "hebrew": "מֶדֶו",
+  "translations": {
+    "bg": "правилно, обхват, т.е. мярка; по подразбиране, рокля (като мярка)",
+    "cs": "správně, rozsah, tj. míra; implicitně, šaty (jak se měří)",
+    "da": "korrekt, udstrækning, dvs. mål; underforstået, en kjole (som målt)",
+    "de": "richtig, Ausmaß, d.h. Maß; implizit, ein Kleid (wie gemessen)",
+    "el": "κατάλληλα, έκταση, δηλαδή μέτρο- κατ' επέκταση, φόρεμα (όπως μετριέται)",
+    "es": "propiamente, extensión, es decir, medida; por implicación, un vestido (como se mide)",
+    "et": "korralikult, ulatus, st mõõt; kaudselt ka kleit (mõõdetuna)",
+    "fi": "oikein, laajuus, eli mitta; implisiittisesti, mekko (mitattuna)",
+    "fr": "proprement, l'étendue, c'est-à-dire la mesure ; par implication, une robe (telle que mesurée)",
+    "hu": "megfelelően, kiterjedés, azaz mérték; értelemszerűen egy ruha (mérve)",
+    "id": "benar, luas, yaitu ukuran; dengan implikasi, gaun (seperti yang diukur)",
+    "it": "propriamente, estensione, cioè misura; per implicazione, un vestito (come misurato)",
+    "ja": "正確には、範囲、すなわち尺度；暗に、（測ったような）服装",
+    "ko": "적절하게, 범위, 즉 측정; 암시적으로, 드레스(측정된 대로)",
+    "lt": "tinkamai, apimtis, t. y. matas; netiesiogiai - suknelė (matuojama)",
+    "lv": "pareizi, apjoms, t. i., mērs; netieši - kleita (kā izmērīts)",
+    "nb": "egentlig, utstrekning, dvs. mål; underforstått, en kjole (som målt)",
+    "nl": "goed, omvang, d.w.z. maat; bij implicatie, een jurk (zoals gemeten)",
+    "pl": "właściwie, zakres, tj. miara; przez implikację, ubranie (mierzone)",
+    "pt": "propriamente, extensão, ou seja, medida; implicitamente, um vestido (como medida)",
+    "ro": "în mod corespunzător, întindere, adică măsură; implicit, o rochie (măsurată)",
+    "ru": "должным образом, степень, т.е. мера; по косвенным признакам, платье (по мерке)",
+    "sk": "správne, rozsah, t. j. miera; implicitne, šaty (ako meranie)",
+    "sl": "pravilno, obseg, tj. mera; implicitno, obleka (kot merilo)",
+    "sv": "korrekt, omfattning, dvs. mått; underförstått, en klänning (enligt mått)",
+    "tr": "uygun şekilde, kapsam, yani ölçü; ima yoluyla, bir elbise (ölçüldüğü gibi)",
+    "uk": "власне, міра, тобто міра; за змістом - сукня (як виміряно)",
+    "zh": "适当的，范围，即测量；暗示，一件衣服（如测量）"
+  },
+  "verses": [
+    "secondSamuel 10:4:11",
+    "firstChronicles 19:4:8"
+  ]
+}

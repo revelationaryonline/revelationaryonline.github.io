@@ -1,0 +1,42 @@
+{
+  "number": "H8176",
+  "language": "hebrew",
+  "transliteration": "shâʻar",
+  "pronunciation": "shaw-ar'",
+  "definition": "to act as gatekeeper; (figuratively) to estimate",
+  "kjvTranslation": "think.",
+  "hebrew": "שָׁעַר",
+  "translations": {
+    "bg": "да действа като пазач; (в преносен смисъл) да оценява",
+    "cs": "působit jako strážce; (přeneseně) odhadovat",
+    "da": "at fungere som portvagt; (i overført betydning) at vurdere",
+    "de": "als Torwächter fungieren; (im übertragenen Sinne) schätzen",
+    "el": "να ενεργείτε ως φύλακας- (μεταφορικά) να εκτιμάτε",
+    "es": "actuar como portero; (en sentido figurado) estimar",
+    "et": "tegutseda väravavalvurina; (piltlikult) hinnata",
+    "fi": "toimia portinvartijana; (kuvaannollisesti) arvioida",
+    "fr": "agir en tant que gardien ; (au sens figuré) estimer",
+    "hu": "kapuőrként működni; (átvitt értelemben) megbecsülni",
+    "id": "bertindak sebagai penjaga gerbang; (secara kiasan) untuk memperkirakan",
+    "it": "fungere da guardiano; (in senso figurato) valutare",
+    "ja": "門番をする；（比喩的に）推定する",
+    "ko": "문지기 역할을 하다; (비유적으로) 추정하다",
+    "lt": "veikti kaip sargas; (perkeltine prasme) vertinti",
+    "lv": "darboties kā vārtsargs; (pārnestā nozīmē) novērtēt",
+    "nb": "å fungere som portvokter; (i overført betydning) å estimere",
+    "nl": "optreden als poortwachter; (figuurlijk) inschatten",
+    "pl": "działać jako strażnik; (w przenośni) szacować",
+    "pt": "atuar como guardião; (figurativamente) estimar",
+    "ro": "a acționa ca portar; (la figurat) a estima",
+    "ru": "действовать в качестве привратника; (фигурально) оценивать",
+    "sk": "pôsobiť ako strážca; (v prenesenom význame) odhadovať",
+    "sl": "delovati kot vratar; (v prenesenem pomenu) ocenjevati",
+    "sv": "att fungera som grindvakt; (bildligt talat) att uppskatta",
+    "tr": "bekçi olarak hareket etmek; (mecazi olarak) tahmin etmek",
+    "uk": "виконувати роль воротаря; (образно) оцінювати",
+    "zh": "把关；（比喻）估计"
+  },
+  "verses": [
+    "proverbs 23:7:2"
+  ]
+}

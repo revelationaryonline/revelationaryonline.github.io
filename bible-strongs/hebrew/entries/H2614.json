@@ -1,0 +1,43 @@
+{
+  "number": "H2614",
+  "language": "hebrew",
+  "transliteration": "chânaq",
+  "pronunciation": "khaw-nak'",
+  "definition": "to be narrow; by implication, to throttle, or (reflex.) to choke oneself to death (by a rope)",
+  "kjvTranslation": "hang self, strangle.",
+  "translations": {
+    "bg": "да бъде тесен; по подразбиране, да се задуши или (рефлекторно) да се задуши (с въже)",
+    "cs": "být úzký; implicitně škrtit nebo (reflex.) dusit se (provazem)",
+    "da": "at være snæver; underforstået at kvæle, eller (refleks.) at kvæle sig selv til døde (i et reb)",
+    "de": "eng zu sein; implizit zu erdrosseln oder (reflexartig) sich zu Tode zu würgen (durch einen Strick)",
+    "el": "να είναι στενός- κατ' επέκταση, να στραγγαλίζει, ή (αντανακλαστικά) να πνίγεται κανείς μέχρι θανάτου (από ένα σχοινί)",
+    "es": "ser estrecho; por implicación, estrangular, o (reflejo.) ahogarse hasta morir (por una cuerda)",
+    "et": "olla kitsas; kaudselt kuristama või (refleks.) end (köiega) surnuks lämmatada",
+    "fi": "olla ahdas; implisiittisesti kuristaa tai (refleksiivisesti) kuristaa itsensä kuoliaaksi (köyden avulla)",
+    "fr": "être étroit ; par implication, étrangler, ou (réflexe.) s'étrangler à mort (par une corde)",
+    "hu": "szűknek lenni; értelemszerűen fojtogatni, vagy (reflexszerűen) megfojtani magunkat (egy kötéllel)",
+    "id": "menjadi sempit; dengan implikasi, mencekik, atau (refleks.) mencekik diri sendiri sampai mati (dengan tali)",
+    "it": "essere stretto; per implicazione, strozzarsi, o (di riflesso) soffocarsi a morte (con una corda)",
+    "ja": "を狭くする；暗に、スロットルする、または（反射的に）（ロープで）自分の首を絞めて殺す",
+    "ko": "좁다; 암시적으로, 목을 조르다, 또는 (반사적으로) (밧줄로) 목을 졸라 죽이다",
+    "lt": "būti siauram; netiesiogiai - užspringti arba (refleksiškai) užspringti (virve)",
+    "lv": "būt šauram; netieši - slāpēt vai (refleksīvi) aizdusināt sevi (ar virvi)",
+    "nb": "å være trang; underforstått, å strupe, eller (refleks.) å kvele seg selv til døde (av et tau)",
+    "nl": "smal zijn; impliciet, wurgen, of (reflex.) zichzelf verstikken (door een touw)",
+    "pl": "być wąskim; w domyśle dławić się lub (odruchowo) dusić się na śmierć (liną)",
+    "pt": "ser estreito; por implicação, estrangular, ou (reflexo) asfixiar-se até à morte (por uma corda)",
+    "ro": "a fi îngust; implicit, a sugruma sau (reflex.) a se sugruma până la moarte (cu o funie)",
+    "ru": "быть узким; подразумевая, дросселировать, или (рефлекс.) задушить себя до смерти (веревкой)",
+    "sk": "byť úzky; implicitne škrtiť alebo (reflex.) dusiť sa (lanom)",
+    "sl": "biti ozek; implicitno: dušiti ali (refleksno) zadušiti se (z vrvjo)",
+    "sv": "att vara smal; underförstått, att strypa, eller (reflex.) att strypa sig själv till döds (av ett rep)",
+    "tr": "dar olmak; ima yoluyla, gaz vermek veya (refleks.) kendini boğarak öldürmek (bir iple)",
+    "uk": "бути вузьким; непрямим натяком - душити, або (рефлекс.) душити себе до смерті (мотузкою)",
+    "zh": "窄；暗指窒息，或（条件反射）用绳子勒死自己"
+  },
+  "hebrew": "חָנַק",
+  "verses": [
+    "secondSamuel 17:23:18",
+    "nahum 2:13:4"
+  ]
+}

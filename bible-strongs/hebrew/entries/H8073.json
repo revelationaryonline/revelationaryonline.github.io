@@ -1,0 +1,42 @@
+{
+  "number": "H8073",
+  "language": "hebrew",
+  "transliteration": "Shamlay",
+  "pronunciation": "sham-lah'-ee",
+  "definition": "Shamlai, one of the Nethinim",
+  "kjvTranslation": "Shalmai (from the margin).",
+  "hebrew": "שַׁמְלַי",
+  "translations": {
+    "bg": "Шамлай, един от нетините",
+    "cs": "Šamlaj, jeden z Nethinim",
+    "da": "Shamlai, en af nethinimerne",
+    "de": "Schamlai, einer der Nethinim",
+    "el": "Σαμλαί, ένας από τους Νεθινίμ",
+    "es": "Shamlai, uno de los Nethinim",
+    "et": "Šamlai, üks nethinimidest",
+    "fi": "Shamlai, yksi nethiniläisistä",
+    "fr": "Shamlaï, l'un des Néthiniens",
+    "hu": "Sámlai, a nethinimek egyike",
+    "id": "Shamlai, salah satu anggota Nethinim",
+    "it": "Shamlai, uno dei Nethinim",
+    "ja": "ネティニムの一人、シャムライ",
+    "ko": "네티님 중 한 명, 샴라이",
+    "lt": "Šamlajus, vienas iš netinų",
+    "lv": "Šamlajs, viens no nethiniem",
+    "nb": "Shamlai, en av nethinimene",
+    "nl": "Sjamlai, een van de Nethinim",
+    "pl": "Szamlaj, jeden z Netynejczyków",
+    "pt": "Shamlai, um dos netinim",
+    "ro": "Shamlai, unul dintre Nethinim",
+    "ru": "Шамлай, один из нефиним",
+    "sk": "Šamlai, jeden z Nethinim",
+    "sl": "Šamlaj, eden od nethinimov",
+    "sv": "Shamlai, en av Nethinim",
+    "tr": "Shamlai, Nethinim'den biri",
+    "uk": "Шамлай, один з нетінімів",
+    "zh": "沙姆莱，奈提宁人之一"
+  },
+  "verses": [
+    "ezra 2:46:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6568",
+  "language": "hebrew",
+  "transliteration": "pᵉrash",
+  "pronunciation": "per-ash'",
+  "definition": "to specify",
+  "kjvTranslation": "distinctly.",
+  "hebrew": "פְּרַשׁ",
+  "translations": {
+    "bg": "за да посочите",
+    "cs": "zadat",
+    "da": "for at specificere",
+    "de": "zu spezifizieren",
+    "el": "για να καθορίσετε",
+    "es": "para especificar",
+    "et": "täpsustada",
+    "fi": "määrittää",
+    "fr": "pour spécifier",
+    "hu": "meghatározni",
+    "id": "untuk menentukan",
+    "it": "per specificare",
+    "ja": "を指定します。",
+    "ko": "를 지정하려면",
+    "lt": "nurodyti",
+    "lv": "lai norādītu",
+    "nb": "for å spesifisere",
+    "nl": "om te specificeren",
+    "pl": "określić",
+    "pt": "para especificar",
+    "ro": "pentru a specifica",
+    "ru": "указать",
+    "sk": "na zadanie",
+    "sl": "da določite",
+    "sv": "för att ange",
+    "tr": "belirtmek için",
+    "uk": "вказати",
+    "zh": "以指定"
+  },
+  "verses": [
+    "ezra 4:18:4"
+  ]
+}

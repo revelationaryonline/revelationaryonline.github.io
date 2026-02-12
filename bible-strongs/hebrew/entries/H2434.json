@@ -1,0 +1,42 @@
+{
+  "number": "H2434",
+  "language": "hebrew",
+  "transliteration": "chayits",
+  "pronunciation": "khah'-yits",
+  "definition": "a wall",
+  "kjvTranslation": "wall.",
+  "translations": {
+    "bg": "стена",
+    "cs": "zeď",
+    "da": "en mur",
+    "de": "eine Mauer",
+    "el": "έναν τοίχο",
+    "es": "un muro",
+    "et": "seina",
+    "fi": "seinä",
+    "fr": "un mur",
+    "hu": "egy fal",
+    "id": "dinding",
+    "it": "un muro",
+    "ja": "壁",
+    "ko": "벽",
+    "lt": "siena",
+    "lv": "siena",
+    "nb": "en vegg",
+    "nl": "een muur",
+    "pl": "ściana",
+    "pt": "uma parede",
+    "ro": "un zid",
+    "ru": "стена",
+    "sk": "stena",
+    "sl": "steno",
+    "sv": "en vägg",
+    "tr": "bir duvar",
+    "uk": "стіна",
+    "zh": "一堵墙"
+  },
+  "hebrew": "חַיִץ",
+  "verses": [
+    "ezekiel 13:10:11"
+  ]
+}

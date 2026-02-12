@@ -1,0 +1,42 @@
+{
+  "number": "H1200",
+  "language": "hebrew",
+  "transliteration": "bᵉʻêrâh",
+  "pronunciation": "be-ay-raw'",
+  "definition": "a burning",
+  "kjvTranslation": "fire.",
+  "translations": {
+    "bg": "изгаряне",
+    "cs": "hořící",
+    "da": "en brændende",
+    "de": "eine Verbrennung",
+    "el": "ένα κάψιμο",
+    "es": "una quema",
+    "et": "põletamine",
+    "fi": "palava",
+    "fr": "une brûlure",
+    "hu": "egy égő",
+    "id": "pembakaran",
+    "it": "una bruciatura",
+    "ja": "燃焼",
+    "ko": "불타는",
+    "lt": "degantis",
+    "lv": "dedzināšana",
+    "nb": "en brennende",
+    "nl": "een brandend",
+    "pl": "spalanie",
+    "pt": "uma combustão",
+    "ro": "o ardere",
+    "ru": "ожог",
+    "sk": "pálenie",
+    "sl": "pekoč",
+    "sv": "en brinnande",
+    "tr": "bir yanma",
+    "uk": "палаючий",
+    "zh": "燃烧"
+  },
+  "hebrew": "בְּעֵרָה",
+  "verses": [
+    "exodus 22:5:15"
+  ]
+}

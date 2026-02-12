@@ -1,0 +1,42 @@
+{
+  "number": "H1831",
+  "language": "hebrew",
+  "transliteration": "demaʻ",
+  "pronunciation": "dah'-mah",
+  "definition": "a tear; figuratively, juice",
+  "kjvTranslation": "liquor.",
+  "translations": {
+    "bg": "сълза; в преносен смисъл - сок",
+    "cs": "slza; přeneseně šťáva",
+    "da": "en tåre; i overført betydning, saft",
+    "de": "eine Träne; bildlich gesprochen, Saft",
+    "el": "ένα δάκρυ- μεταφορικά, χυμός",
+    "es": "una lágrima; en sentido figurado, zumo",
+    "et": "pisar; piltlikult öeldes mahl",
+    "fi": "kyynel; kuvaannollisesti mehu",
+    "fr": "une larme ; au sens figuré, un jus",
+    "hu": "könny; átvitt értelemben: lé",
+    "id": "air mata; secara kiasan, jus",
+    "it": "una lacrima; in senso figurato, un succo",
+    "ja": "比喩的にはジュース",
+    "ko": "눈물; 비유적으로 주스",
+    "lt": "ašaros; perkeltine prasme - sultys",
+    "lv": "asara; pārnestā nozīmē - sula",
+    "nb": "en tåre; i overført betydning, saft",
+    "nl": "een traan; figuurlijk, sap",
+    "pl": "łza; w przenośni sok",
+    "pt": "uma lágrima; figurativamente, sumo",
+    "ro": "o lacrimă; la figurat, suc",
+    "ru": "слеза; в переносном смысле - сок",
+    "sk": "slza; v prenesenom význame šťava",
+    "sl": "solza; v prenesenem pomenu sok",
+    "sv": "en tår; bildligt talat, juice",
+    "tr": "bir gözyaşı; mecazi olarak, meyve suyu",
+    "uk": "сльоза; образно - сік",
+    "zh": "一滴眼泪"
+  },
+  "hebrew": "דֶּמַע",
+  "verses": [
+    "exodus 22:28:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5426",
+  "language": "hebrew",
+  "transliteration": "nᵉthar",
+  "pronunciation": "neth-ar'",
+  "definition": "{to jump, i.e. be violently agitated; causatively, to terrify, shake off, untie}",
+  "kjvTranslation": "shake off.",
+  "hebrew": "נְתַר",
+  "translations": {
+    "bg": "{да скочи, т.е. да бъде силно развълнуван; в каузативност - да се уплаши, да се разтърси, да се развърже}",
+    "cs": "{skočit, tj. být prudce rozrušen; kauzativně vyděsit, setřást, rozvázat}",
+    "da": "{at springe, dvs. blive voldsomt ophidset; kausativt, at skræmme, ryste af, løsne}",
+    "de": "{Springen, d.h. heftig erregt sein; ursächlich: erschrecken, abschütteln, losbinden}",
+    "el": "{να πηδήξω, δηλαδή να ταραχθώ βίαια- αιτιωδώς, να τρομάξω, να τινάξω, να λύσω}",
+    "es": "{saltar, es decir, agitarse violentamente; causativamente, aterrorizar, sacudir, desatar}",
+    "et": "{hüpata, s.t. olla ägedalt ärritatud; põhjuslikult, hirmutada, maha raputada, lahti siduda}",
+    "fi": "{hyppäämään, ts. kiihtymään rajusti; kausatiivisesti kauhistumaan, ravistelemaan, irrottamaan}",
+    "fr": "{sauter, c'est-à-dire être violemment agité ; causativement, terrifier, secouer, délier}",
+    "hu": "{ugrani, azaz hevesen izgatottá válni; ok-okozati viszonyban: megrémülni, lerázni, eloldozni}",
+    "id": "{melompat, yaitu menjadi gelisah dengan hebat; secara kausal, menakut-nakuti, mengguncang, melepaskan ikatan}",
+    "it": "{saltare, cioè essere violentemente agitato; causalmente, terrorizzare, scuotere, slegare}",
+    "ja": "{跳ねる、つまり激しく動揺させる；因果的には、恐怖させる、振り払う、解く}。",
+    "ko": "{뛰다, 즉 격렬하게 동요하다; 원인적으로, 겁을 먹다, 떨쳐내다, 풀다}",
+    "lt": "{iššokti, t. y. smarkiai susijaudinti; priežastingai - išgąsdinti, nusikratyti, atrišti}",
+    "lv": "{uzlēkt, t.i., spēcīgi satraukties; cēloņsakarīgi - nobiedēt, satricināt, atraisīt}",
+    "nb": "{å hoppe, dvs. bli voldsomt opprørt; kausativt, å skremme, riste av seg, løsne}",
+    "nl": "{springen, d.w.z. heftig geagiteerd zijn; causaal, verschrikken, afschudden, losmaken}",
+    "pl": "{skakać, tj. być gwałtownie poruszonym; przyczynowo, przerażać, strząsać, rozwiązywać}",
+    "pt": "{pular, ou seja, ficar violentamente agitado; causativamente, aterrorizar, sacudir, desatar}",
+    "ro": "{să sară, adică să fie violent agitat; cauzal, să îngrozească, să scuture, să dezlege}",
+    "ru": "{прыгнуть, т.е. сильно взволноваться; каузально - испугаться, отшатнуться, развязаться}",
+    "sk": "{skočiť, t. j. byť prudko rozrušený; kauzatívne vystrašiť, striasť, rozviazať}",
+    "sl": "{skočiti, tj. biti močno vznemirjen; vzročno, prestrašiti se, otresti se, razvezati se}",
+    "sv": "{att hoppa, d.v.s. bli våldsamt upprörd; kausativt, att skrämma, skaka av, lossa}",
+    "tr": "{zıplamak, yani şiddetle çalkalanmak; nedensel olarak, korkutmak, sarsmak, çözmek}",
+    "uk": "{стрибати, тобто сильно хвилюватися; каузативно, жахати, струшувати, розв'язувати}",
+    "zh": "{跳，即剧烈激动；因果关系上，使人惊恐，甩掉，解开}。"
+  },
+  "verses": [
+    "daniel 4:11:8"
+  ]
+}

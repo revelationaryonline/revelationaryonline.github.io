@@ -1,0 +1,42 @@
+{
+  "number": "H1890",
+  "language": "hebrew",
+  "transliteration": "habhâb",
+  "pronunciation": "hab-hawb'",
+  "definition": "gift (in sacrifice), i.e. holocaust",
+  "kjvTranslation": "offering.",
+  "translations": {
+    "bg": "дар (при жертвоприношение), т.е. холокост",
+    "cs": "dar (v oběti), tj. zápalná oběť",
+    "da": "gave (i offer), dvs. holocaust",
+    "de": "gabe (im Opfer), d.h. Holocaust",
+    "el": "δώρο (στη θυσία), δηλαδή ολοκαύτωμα",
+    "es": "regalo (en sacrificio), es decir, holocausto",
+    "et": "kingitus (ohvris), s.t. holokaust",
+    "fi": "lahja (uhrissa), eli holokausti",
+    "fr": "don (dans sacrifice), c'est-à-dire holocauste",
+    "hu": "ajándék (az áldozatban), azaz holokauszt",
+    "id": "hadiah (dalam pengorbanan), yaitu holocaust",
+    "it": "dono (nel sacrificio), cioè olocausto",
+    "ja": "捧げ物",
+    "ko": "선물(희생), 즉 홀로코스트",
+    "lt": "dovana (aukos), t. y. holokaustas",
+    "lv": "dāvana (upurējot), t.i., holokausts",
+    "nb": "gave (i offer), dvs. holocaust",
+    "nl": "gift (in offer), d.w.z. holocaust",
+    "pl": "dar (w ofierze), tj. holokaust",
+    "pt": "dádiva (em sacrifício), ou seja, holocausto",
+    "ro": "dar (în sacrificiu), adică holocaust",
+    "ru": "дар (в жертвоприношении), т.е. холокост",
+    "sk": "dar (pri obetovaní), t. j. zápalná obeť",
+    "sl": "dar (v žrtvovanju), tj. holokavst",
+    "sv": "gåva (i offer), d.v.s. holocaust",
+    "tr": "hediye (kurbanda), yani holokost",
+    "uk": "дар (у жертву), тобто голокост",
+    "zh": "馈赠"
+  },
+  "hebrew": "הַבְהָב",
+  "verses": [
+    "hosea 8:13:1"
+  ]
+}

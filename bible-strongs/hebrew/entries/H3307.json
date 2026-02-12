@@ -1,0 +1,42 @@
+{
+  "number": "H3307",
+  "language": "hebrew",
+  "transliteration": "yâphêach",
+  "pronunciation": "yaw-fay'-akh",
+  "definition": "properly, puffing, i.e. (figuratively) meditating",
+  "kjvTranslation": "such as breathe out.",
+  "translations": {
+    "bg": "правилно, надъхано, т.е. (образно) размишляващо",
+    "cs": "správně, dmoucí se, tj. (obrazně) meditující",
+    "da": "korrekt, pustende, dvs. (i overført betydning) mediterende",
+    "de": "richtig, schnaufend, d.h. (im übertragenen Sinne) meditierend",
+    "el": "σωστά, ξεφυσώντας, δηλαδή (μεταφορικά) διαλογιζόμενος",
+    "es": "propiamente, resoplando, es decir (figuradamente) meditando",
+    "et": "korralikult, paisutades, st (piltlikult) mediteerides",
+    "fi": "kunnolla, puuskuttaen, eli (kuvaannollisesti) mietiskellen",
+    "fr": "proprement, en soufflant, c'est-à-dire en méditant (au sens figuré)",
+    "hu": "rendesen, pöffeszkedve, azaz (átvitt értelemben) meditálva",
+    "id": "dengan benar, mengembuskan napas, yaitu (secara kiasan) bermeditasi",
+    "it": "propriamente, sbuffando, cioè (in senso figurato) meditando",
+    "ja": "瞑想する",
+    "ko": "제대로, 퍼핑, 즉 (비유적으로) 명상하기",
+    "lt": "tinkamai, pučiantis, t. y. (perkeltine prasme) medituojantis",
+    "lv": "pareizi, dūšīgi, t.i., (pārnestā nozīmē) meditējot",
+    "nb": "riktig, pustende, dvs. (i overført betydning) mediterende",
+    "nl": "goed, puffend, d.w.z. (figuurlijk) mediterend",
+    "pl": "prawidłowo, nadymając się, tj. (w przenośni) medytując",
+    "pt": "propriamente dito, soprar, ou seja, (figurativamente) meditar",
+    "ro": "în mod corespunzător, umflând, adică (la figurat) meditând",
+    "ru": "правильно, пыхтя, т.е. (образно) размышляя",
+    "sk": "správne, nadýchaný, t. j. (obrazne) meditujúci",
+    "sl": "pravilno, napihnjeno, tj. (v prenesenem pomenu) meditativno",
+    "sv": "ordentligt, puffande, dvs (bildligt talat) mediterande",
+    "tr": "düzgün bir şekilde, şişinerek, yani (mecazi olarak) meditasyon yaparak",
+    "uk": "правильно, пихкаючи, тобто (образно) медитуючи",
+    "zh": "噗嗤，即（比喻）冥想"
+  },
+  "hebrew": "יָפֵחַ",
+  "verses": [
+    "psalms 27:12:9"
+  ]
+}

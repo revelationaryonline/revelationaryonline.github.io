@@ -1,0 +1,42 @@
+{
+  "number": "H6840",
+  "language": "hebrew",
+  "transliteration": "tsâphîyn",
+  "pronunciation": "tsaw-feen'",
+  "definition": "a treasure (as hidden)",
+  "kjvTranslation": "hid.",
+  "hebrew": "צָפִין",
+  "translations": {
+    "bg": "съкровище (като скрито)",
+    "cs": "poklad (jako skrytý)",
+    "da": "en skat (som er skjult)",
+    "de": "ein Schatz (wie versteckt)",
+    "el": "ένας θησαυρός (ως κρυμμένος)",
+    "es": "un tesoro (como escondido)",
+    "et": "aare (nagu peidetud)",
+    "fi": "aarre (kätkettynä)",
+    "fr": "un trésor (comme caché)",
+    "hu": "kincs (elrejtve)",
+    "id": "harta karun (yang disembunyikan)",
+    "it": "un tesoro (come nascosto)",
+    "ja": "ふくざい",
+    "ko": "보물(숨겨진 상태)",
+    "lt": "lobis (kaip paslėptas)",
+    "lv": "dārgums (kā apslēpts)",
+    "nb": "en skatt (som skjult)",
+    "nl": "een schat (zoals verborgen)",
+    "pl": "skarb (jako ukryty)",
+    "pt": "um tesouro (como escondido)",
+    "ro": "o comoară (ca ascunsă)",
+    "ru": "сокровище (как спрятанное)",
+    "sk": "poklad (ako skrytý)",
+    "sl": "zaklad (skrit)",
+    "sv": "en skatt (som är gömd)",
+    "tr": "bir hazine (saklı olarak)",
+    "uk": "скарб (приховано)",
+    "zh": "宝藏"
+  },
+  "verses": [
+    "psalms 17:14:7"
+  ]
+}

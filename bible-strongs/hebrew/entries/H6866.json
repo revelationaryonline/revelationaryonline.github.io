@@ -1,0 +1,42 @@
+{
+  "number": "H6866",
+  "language": "hebrew",
+  "transliteration": "tsârab",
+  "pronunciation": "tsaw-rab'",
+  "definition": "to burn",
+  "kjvTranslation": "burn.",
+  "hebrew": "צָרַב",
+  "translations": {
+    "bg": "да изгори",
+    "cs": "spálit",
+    "da": "at brænde",
+    "de": "zu verbrennen",
+    "el": "να καεί",
+    "es": "quemar",
+    "et": "põletada",
+    "fi": "polttaa",
+    "fr": "brûler",
+    "hu": "elégetni",
+    "id": "untuk membakar",
+    "it": "bruciare",
+    "ja": "燃やす",
+    "ko": "태우다",
+    "lt": "sudeginti",
+    "lv": "sadedzināt",
+    "nb": "å brenne",
+    "nl": "verbranden",
+    "pl": "palić się",
+    "pt": "para queimar",
+    "ro": "să ardă",
+    "ru": "гореть",
+    "sk": "spaľovať",
+    "sl": "za gorenje",
+    "sv": "att bränna",
+    "tr": "yakmak için",
+    "uk": "згоріти",
+    "zh": "烧掉"
+  },
+  "verses": [
+    "ezekiel 21:3:26"
+  ]
+}

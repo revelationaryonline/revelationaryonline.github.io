@@ -1,0 +1,42 @@
+{
+  "number": "H2728",
+  "language": "hebrew",
+  "transliteration": "chârᵉgôl",
+  "pronunciation": "khar-gole'",
+  "definition": "the leaping insect, i.e. a locust",
+  "kjvTranslation": "beetle.",
+  "translations": {
+    "bg": "скачащо насекомо, т.е. скакалец",
+    "cs": "skákající hmyz, tj. kobylka",
+    "da": "det springende insekt, dvs. en græshoppe",
+    "de": "das springende Insekt, d.h. eine Heuschrecke",
+    "el": "το έντομο που πηδάει, δηλαδή μια ακρίδα",
+    "es": "el insecto saltarín, es decir, una langosta",
+    "et": "hüppav putukas, s.t. suss, mis on rähniline",
+    "fi": "hyppivä hyönteinen eli heinäsirkka",
+    "fr": "l'insecte bondissant, c'est-à-dire la sauterelle",
+    "hu": "az ugró rovar, azaz a sáska",
+    "id": "serangga yang bisa melompat, yaitu belalang",
+    "it": "l'insetto che salta, cioè una cavalletta",
+    "ja": "跳び虫",
+    "ko": "도약하는 곤충, 즉 메뚜기",
+    "lt": "šuoliuojantis vabzdys, t. y. skėrys",
+    "lv": "lēkājošs kukaiņš, t. i., siseja",
+    "nb": "det hoppende insektet, dvs. en gresshoppe",
+    "nl": "het springende insect, d.w.z. een sprinkhaan",
+    "pl": "skaczący owad, tj. szarańcza",
+    "pt": "o inseto que salta, ou seja, um gafanhoto",
+    "ro": "insecta săltăreață, adică o lăcustă",
+    "ru": "прыгающее насекомое, т.е. саранча",
+    "sk": "skákajúci hmyz, t. j. kobylka",
+    "sl": "skakajoča žuželka, tj. kobilica",
+    "sv": "den hoppande insekten, d.v.s. en gräshoppa",
+    "tr": "sıçrayan böcek, yani çekirge",
+    "uk": "стрибуча комаха, тобто сарана",
+    "zh": "跃虫"
+  },
+  "hebrew": "חָרְגֹּל",
+  "verses": [
+    "leviticus 11:22:11"
+  ]
+}

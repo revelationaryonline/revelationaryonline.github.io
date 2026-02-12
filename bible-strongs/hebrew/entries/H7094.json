@@ -1,0 +1,43 @@
+{
+  "number": "H7094",
+  "language": "hebrew",
+  "transliteration": "qâtsab",
+  "pronunciation": "kaw-tsab'",
+  "definition": "to clip, or (generally) chop",
+  "kjvTranslation": "cut down, shorn.",
+  "hebrew": "קָצַב",
+  "translations": {
+    "bg": "да се отреже или (обикновено) да се нареже",
+    "cs": "stříhat nebo (obecně) sekat",
+    "da": "at klippe eller (generelt) hugge",
+    "de": "schneiden, oder (im Allgemeinen) hacken",
+    "el": "να κόβω, ή (γενικά) να ψιλοκόβω",
+    "es": "recortar, o (generalmente) picar",
+    "et": "kärpida või (üldiselt) tükeldada",
+    "fi": "leikata, tai (yleensä) pilkkoa",
+    "fr": "couper, ou (généralement) hacher",
+    "hu": "vágni, vagy (általában) aprítani",
+    "id": "untuk memotong, atau (umumnya) memotong",
+    "it": "tagliare, o (generalmente) sminuzzare",
+    "ja": "切り刻む",
+    "ko": "를 눌러 자르거나 (일반적으로) 자릅니다",
+    "lt": "nukirpti arba (paprastai) susmulkinti",
+    "lv": "nogriezt vai (parasti) sasmalcināt",
+    "nb": "å klippe, eller (generelt) hugge",
+    "nl": "knippen, of (meestal) hakken",
+    "pl": "przyciąć lub (ogólnie) posiekać",
+    "pt": "cortar, ou (geralmente) picar",
+    "ro": "a tăia, sau (în general) a toci",
+    "ru": "обрезать или (как правило) рубить",
+    "sk": "na strihanie alebo (všeobecne) na sekanie",
+    "sl": "odrezati ali (na splošno) sesekljati",
+    "sv": "att klippa eller (i allmänhet) hugga",
+    "tr": "kırpmak veya (genellikle) doğramak",
+    "uk": "обрізати, або (зазвичай) рубати",
+    "zh": "砍"
+  },
+  "verses": [
+    "secondKings 6:6:8",
+    "solomon 4:2:2"
+  ]
+}

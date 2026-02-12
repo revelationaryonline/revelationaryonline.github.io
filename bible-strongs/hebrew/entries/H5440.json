@@ -1,0 +1,43 @@
+{
+  "number": "H5440",
+  "language": "hebrew",
+  "transliteration": "çâbak",
+  "pronunciation": "saw-bak'",
+  "definition": "to entwine",
+  "kjvTranslation": "fold together, wrap.",
+  "hebrew": "סָבַךְ",
+  "translations": {
+    "bg": "да се преплете",
+    "cs": "proplétat",
+    "da": "at flette sammen",
+    "de": "umschlingen",
+    "el": "να περιπλέκεται",
+    "es": "entrelazar",
+    "et": "põimida",
+    "fi": "kietoutua yhteen",
+    "fr": "d'enchevêtrer",
+    "hu": "összefonódni",
+    "id": "untuk menjalin",
+    "it": "intrecciare",
+    "ja": "絡める",
+    "ko": "얽히다",
+    "lt": "susipinti",
+    "lv": "savīt",
+    "nb": "å flette sammen",
+    "nl": "verstrengelen",
+    "pl": "oplatać",
+    "pt": "entrelaçar",
+    "ro": "a împleti",
+    "ru": "переплетаться",
+    "sk": "prepliesť",
+    "sl": "prepletanje",
+    "sv": "att flätas samman",
+    "tr": "dolanmak için",
+    "uk": "щоб сплестися",
+    "zh": "交缠"
+  },
+  "verses": [
+    "job 8:17:3",
+    "nahum 1:10:3"
+  ]
+}

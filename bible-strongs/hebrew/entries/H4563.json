@@ -1,0 +1,42 @@
+{
+  "number": "H4563",
+  "language": "hebrew",
+  "transliteration": "miçtôwr",
+  "pronunciation": "mis-tore'",
+  "definition": "a refuge",
+  "kjvTranslation": "covert.",
+  "hebrew": "מִסְתּוֹר",
+  "verses": [
+    "isaiah 4:6:6"
+  ],
+  "translations": {
+    "bg": "убежище",
+    "cs": "útočiště",
+    "da": "et tilflugtssted",
+    "de": "eine Zuflucht",
+    "el": "ένα καταφύγιο",
+    "es": "un refugio",
+    "et": "varjupaik",
+    "fi": "turvapaikka",
+    "fr": "un refuge",
+    "hu": "menedékhely",
+    "id": "tempat perlindungan",
+    "it": "un rifugio",
+    "ja": "避難所",
+    "ko": "피난처",
+    "lt": "prieglobstis",
+    "lv": "patvērums",
+    "nb": "et tilfluktssted",
+    "nl": "een schuilplaats",
+    "pl": "schronienie",
+    "pt": "um refúgio",
+    "ro": "un refugiu",
+    "ru": "убежище",
+    "sk": "útočisko",
+    "sl": "zatočišče",
+    "sv": "en tillflyktsort",
+    "tr": "bir sığınak",
+    "uk": "притулок",
+    "zh": "避难所"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H129",
+  "language": "hebrew",
+  "transliteration": "ʼĂdâmîy",
+  "pronunciation": "ad-aw-mee'",
+  "definition": "Adami, a place in Palestine",
+  "kjvTranslation": "Adami.",
+  "translations": {
+    "bg": "Adami, място в Палестина",
+    "cs": "Adami, místo v Palestině",
+    "da": "Adami, et sted i Palæstina",
+    "de": "Adami, ein Ort in Palästina",
+    "el": "Adami, ένας τόπος στην Παλαιστίνη",
+    "es": "Adami, un lugar en Palestina",
+    "et": "Adami, koht Palestiinas",
+    "fi": "Adami, paikka Palestiinassa",
+    "fr": "Adami, localité de Palestine",
+    "hu": "Adami, egy hely Palesztinában",
+    "id": "Adami, sebuah tempat di Palestina",
+    "it": "Adami, un luogo in Palestina",
+    "ja": "パレスチナの地名、アダミ",
+    "ko": "아다미, 팔레스타인의 한 장소",
+    "lt": "Adami, vietovė Palestinoje",
+    "lv": "Adami, vieta Palestīnā",
+    "nb": "Adami, et sted i Palestina",
+    "nl": "Adami, een plaats in Palestina",
+    "pl": "Adami, miejscowość w Palestynie",
+    "pt": "Adami, um lugar na Palestina",
+    "ro": "Adami, un loc în Palestina",
+    "ru": "Адами, местечко в Палестине",
+    "sk": "Adami, miesto v Palestíne",
+    "sl": "Adami, kraj v Palestini",
+    "sv": "Adami, en plats i Palestina",
+    "tr": "Adami, Filistin'de bir yer",
+    "uk": "Адамі, місце в Палестині",
+    "zh": "阿达米"
+  },
+  "hebrew": "אֲדָמִי",
+  "verses": [
+    "joshua 19:33:5"
+  ]
+}

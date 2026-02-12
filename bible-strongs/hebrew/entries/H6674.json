@@ -1,0 +1,43 @@
+{
+  "number": "H6674",
+  "language": "hebrew",
+  "transliteration": "tsôwʼ",
+  "pronunciation": "tso",
+  "definition": "soiled (as if excrementitious)",
+  "kjvTranslation": "filthy.",
+  "hebrew": "צוֹא",
+  "translations": {
+    "bg": "замърсен (като екскрементален)",
+    "cs": "špinavý (jakoby exkrementální)",
+    "da": "tilsmudset (som om det er ekskrementer)",
+    "de": "verschmutzt (wie mit Exkrementen)",
+    "el": "λερωμένο (σαν να είναι περιττωματικό)",
+    "es": "sucio (como excrementicio)",
+    "et": "määrdunud (justkui roojane)",
+    "fi": "likainen (ikään kuin ulosteperäinen)",
+    "fr": "souillé (comme excrémentiel)",
+    "hu": "szennyezett (mintha ürülékkel lenne szennyezve)",
+    "id": "kotor (seolah-olah kotor)",
+    "it": "sporco (come se fosse escrementizio)",
+    "ja": "ぐしょぐしょ",
+    "ko": "더럽혀짐(배설물처럼)",
+    "lt": "suteptas (tarsi ekskrementais)",
+    "lv": "netīrs (kā ekskrementu)",
+    "nb": "tilsmusset (som om det er ekskrementer)",
+    "nl": "bevuild (alsof het uitwerpselen zijn)",
+    "pl": "zabrudzony (jakby ekskrementami)",
+    "pt": "sujo (como se fosse excrementicioso)",
+    "ro": "murdar (ca și în cazul excrementelor)",
+    "ru": "испачканный (как будто экскрементами)",
+    "sk": "znečistený (akoby exkrementami)",
+    "sl": "umazan (kot izloček)",
+    "sv": "nedsmutsad (som om den vore utsöndrad)",
+    "tr": "kirli (dışkılayıcı gibi)",
+    "uk": "забруднені (ніби екскрементами)",
+    "zh": "弄脏"
+  },
+  "verses": [
+    "zechariah 3:3:4",
+    "zechariah 3:4:8"
+  ]
+}

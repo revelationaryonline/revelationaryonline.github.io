@@ -1,0 +1,43 @@
+{
+  "number": "H2528",
+  "language": "hebrew",
+  "transliteration": "chĕmâʼ",
+  "pronunciation": "khem-aw'",
+  "definition": "anger",
+  "kjvTranslation": "fury.",
+  "translations": {
+    "bg": "гняв",
+    "cs": "hněv",
+    "da": "vrede",
+    "de": "wut",
+    "el": "θυμός",
+    "es": "ira",
+    "et": "viha",
+    "fi": "viha",
+    "fr": "colère",
+    "hu": "düh",
+    "id": "kemarahan",
+    "it": "rabbia",
+    "ja": "怒り",
+    "ko": "분노",
+    "lt": "pyktis",
+    "lv": "dusmas",
+    "nb": "sinne",
+    "nl": "boosheid",
+    "pl": "złość",
+    "pt": "raiva",
+    "ro": "furie",
+    "ru": "гнев",
+    "sk": "hnev",
+    "sl": "jeza",
+    "sv": "ilska",
+    "tr": "öfke",
+    "uk": "гнів",
+    "zh": "怒气"
+  },
+  "hebrew": "חֱמָא",
+  "verses": [
+    "daniel 3:13:3",
+    "daniel 3:19:3"
+  ]
+}

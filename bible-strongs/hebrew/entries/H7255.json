@@ -1,0 +1,43 @@
+{
+  "number": "H7255",
+  "language": "hebrew",
+  "transliteration": "rôbaʻ",
+  "pronunciation": "ro'-bah",
+  "definition": "a quarter",
+  "kjvTranslation": "fourth participle",
+  "hebrew": "רֹבַע",
+  "translations": {
+    "bg": "една четвърт",
+    "cs": "čtvrtina",
+    "da": "en fjerdedel",
+    "de": "ein Viertel",
+    "el": "ένα τέταρτο",
+    "es": "un cuarto",
+    "et": "veerand",
+    "fi": "neljännes",
+    "fr": "un quart",
+    "hu": "egy negyed",
+    "id": "seperempat",
+    "it": "un quarto",
+    "ja": "四分の一",
+    "ko": "분기",
+    "lt": "ketvirtadalis",
+    "lv": "ceturtdaļa",
+    "nb": "en fjerdedel",
+    "nl": "een kwart",
+    "pl": "kwartał",
+    "pt": "um quarto",
+    "ro": "un sfert",
+    "ru": "четверть",
+    "sk": "štvrtinu",
+    "sl": "četrtina",
+    "sv": "en fjärdedel",
+    "tr": "bir çeyrek",
+    "uk": "чверть",
+    "zh": "一个季度"
+  },
+  "verses": [
+    "numbers 23:10:6",
+    "secondKings 6:25:13"
+  ]
+}

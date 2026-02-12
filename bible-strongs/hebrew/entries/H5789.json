@@ -1,0 +1,42 @@
+{
+  "number": "H5789",
+  "language": "hebrew",
+  "transliteration": "ʻûwsh",
+  "pronunciation": "oosh",
+  "definition": "to hasten",
+  "kjvTranslation": "assemble self.",
+  "hebrew": "עוּשׁ",
+  "translations": {
+    "bg": "да се ускори",
+    "cs": "urychlit",
+    "da": "at skynde sig",
+    "de": "zu beeilen",
+    "el": "να επισπεύσω",
+    "es": "acelerar",
+    "et": "kiirendada",
+    "fi": "kiirehtiä",
+    "fr": "se hâter",
+    "hu": "siettetni",
+    "id": "untuk mempercepat",
+    "it": "affrettare",
+    "ja": "急ぐ",
+    "ko": "서두르다",
+    "lt": "paskubinti",
+    "lv": "paātrināt",
+    "nb": "for å fremskynde",
+    "nl": "versnellen",
+    "pl": "przyspieszyć",
+    "pt": "para apressar",
+    "ro": "să se grăbească",
+    "ru": "торопиться",
+    "sk": "urýchliť",
+    "sl": "pohiteti",
+    "sv": "för att skynda på",
+    "tr": "acele etmek",
+    "uk": "щоб прискорити",
+    "zh": "赶忙"
+  },
+  "verses": [
+    "joel 4:11:0"
+  ]
+}

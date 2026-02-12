@@ -1,0 +1,42 @@
+{
+  "number": "H5938",
+  "language": "hebrew",
+  "transliteration": "ʻâlêz",
+  "pronunciation": "aw-laze'",
+  "definition": "exultant",
+  "kjvTranslation": "that rejoiceth.",
+  "hebrew": "עָלֵז",
+  "translations": {
+    "bg": "ликуващ",
+    "cs": "jásající",
+    "da": "jublende",
+    "de": "jubelnd",
+    "el": "θριαμβευτικό",
+    "es": "exultante",
+    "et": "rõõmustav",
+    "fi": "riemukas",
+    "fr": "exultant",
+    "hu": "ujjongó",
+    "id": "gembira",
+    "it": "esultante",
+    "ja": "意気揚々",
+    "ko": "환희",
+    "lt": "džiūgaujantis",
+    "lv": "līksms",
+    "nb": "jublende",
+    "nl": "uitgelaten",
+    "pl": "uradowany",
+    "pt": "exultante",
+    "ro": "exultant",
+    "ru": "ликующий",
+    "sk": "radostné",
+    "sl": "navdušenje",
+    "sv": "jublande",
+    "tr": "coşkulu",
+    "uk": "радісний",
+    "zh": "欢呼雀跃"
+  },
+  "verses": [
+    "isaiah 5:14:12"
+  ]
+}

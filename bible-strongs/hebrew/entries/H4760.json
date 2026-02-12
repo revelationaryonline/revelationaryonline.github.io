@@ -1,0 +1,42 @@
+{
+  "number": "H4760",
+  "language": "hebrew",
+  "transliteration": "murʼâh",
+  "pronunciation": "moor-aw'",
+  "definition": "something conspicuous, i.e. the craw of abird (from its prominence)",
+  "kjvTranslation": "crop.",
+  "hebrew": "מֻרְאָה",
+  "translations": {
+    "bg": "нещо забележимо, напр. пълзящата птица (от нейната видимост)",
+    "cs": "něco nápadného, např. plíživý pták (od jeho nápadnosti)",
+    "da": "noget iøjnefaldende, f.eks. en fugls kryb (på grund af dens fremtrædende plads)",
+    "de": "etwas Auffälliges, z. B. das Krokodil von abird (wegen seiner Prominenz)",
+    "el": "κάτι εμφανές, π.χ. το καβούκι του abird (από την εξέχουσα θέση του)",
+    "es": "algo conspicuo, por ejemplo, el buche de un ave (por su prominencia)",
+    "et": "midagi silmatorkavat, nt abird'i roomik (selle silmatorkavusest)",
+    "fi": "jotakin silmiinpistävää, esim. abirdin ryömintä (sen näkyvyydestä)",
+    "fr": "quelque chose de visible, par exemple la chenille d'un oiseau (en raison de sa proéminence)",
+    "hu": "valami feltűnő, pl. az abird craw (a kiemelkedésből)",
+    "id": "sesuatu yang mencolok, yaitu cakar burung (karena menonjol)",
+    "it": "qualcosa di appariscente, ad esempio il craw di abird (dalla sua prominenza)",
+    "ja": "ひときわ目立つもの",
+    "ko": "눈에 띄는 것, 즉 새의 크롤링 (그 눈에 띄는 것에서)",
+    "lt": "kažkas, kas krinta į akis, pvz., paukščio vėžys (nuo jo iškilimo)",
+    "lv": "kaut kas uzkrītošs, t.i., putna vēzis (no tā izcelšanās)",
+    "nb": "noe iøynefallende, f.eks. krabben til en fugl (på grunn av sin fremtredende plass)",
+    "nl": "iets opvallends, d.w.z. de craw of abird (van zijn prominentie)",
+    "pl": "coś rzucającego się w oczy, np. rak ptaka (od jego widoczności)",
+    "pt": "algo que se destaca, ou seja, a rata de uma ave (pela sua proeminência)",
+    "ro": "ceva vizibil, de exemplu craw of abird (de la proeminența sa)",
+    "ru": "что-то заметное, т.е. кроль абирда (по его заметности)",
+    "sk": "niečo nápadné, napr. plazivá časť vtáka (od jeho nápadnosti)",
+    "sl": "nekaj vidnega, npr. polž ptice (zaradi njene vidnosti)",
+    "sv": "något iögonfallande, t.ex. abirds krypa (på grund av dess framträdande position)",
+    "tr": "göze çarpan bir şey, örneğin abird'in sürünmesi (belirginliğinden)",
+    "uk": "щось помітне, наприклад, крик птаха (від його помітності)",
+    "zh": "跂"
+  },
+  "verses": [
+    "leviticus 1:16:2"
+  ]
+}

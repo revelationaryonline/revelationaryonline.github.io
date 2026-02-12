@@ -1,0 +1,42 @@
+{
+  "number": "H7691",
+  "language": "hebrew",
+  "transliteration": "shᵉgîyʼâh",
+  "pronunciation": "sheg-ee-aw'",
+  "definition": "a moral mistake",
+  "kjvTranslation": "error.",
+  "hebrew": "שְׁגִיאָה",
+  "translations": {
+    "bg": "морална грешка",
+    "cs": "morální chyba",
+    "da": "en moralsk fejltagelse",
+    "de": "ein moralischer Fehler",
+    "el": "ένα ηθικό λάθος",
+    "es": "un error moral",
+    "et": "moraalne viga",
+    "fi": "moraalinen virhe",
+    "fr": "une faute morale",
+    "hu": "erkölcsi hiba",
+    "id": "kesalahan moral",
+    "it": "un errore morale",
+    "ja": "道義上の過ち",
+    "ko": "도덕적 실수",
+    "lt": "moralinė klaida",
+    "lv": "morāla kļūda",
+    "nb": "en moralsk feil",
+    "nl": "een morele fout",
+    "pl": "moralny błąd",
+    "pt": "um erro moral",
+    "ro": "o greșeală morală",
+    "ru": "моральная ошибка",
+    "sk": "morálna chyba",
+    "sl": "moralna napaka",
+    "sv": "ett moraliskt misstag",
+    "tr": "ahlaki bir hata",
+    "uk": "моральна помилка",
+    "zh": "道德失范"
+  },
+  "verses": [
+    "psalms 19:13:0"
+  ]
+}

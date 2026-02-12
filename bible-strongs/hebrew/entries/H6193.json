@@ -1,0 +1,42 @@
+{
+  "number": "H6193",
+  "language": "hebrew",
+  "transliteration": "ʻôrem",
+  "pronunciation": "o'-rem",
+  "definition": "a stratagem",
+  "kjvTranslation": "craftiness.",
+  "hebrew": "עֹרֶם",
+  "translations": {
+    "bg": "хитрост",
+    "cs": "lest",
+    "da": "en strategi",
+    "de": "eine List",
+    "el": "ένα στρατήγημα",
+    "es": "una estratagema",
+    "et": "strateegia",
+    "fi": "juoni",
+    "fr": "un stratagème",
+    "hu": "stratégia",
+    "id": "siasat",
+    "it": "uno stratagemma",
+    "ja": "策略",
+    "ko": "전략",
+    "lt": "gudrybė",
+    "lv": "stratēģija",
+    "nb": "en strategi",
+    "nl": "een list",
+    "pl": "strategia",
+    "pt": "um estratagema",
+    "ro": "o stratagemă",
+    "ru": "хитрость",
+    "sk": "stratégia",
+    "sl": "zvijača",
+    "sv": "en krigslist",
+    "tr": "bir stratagem",
+    "uk": "хитрість",
+    "zh": "计谋"
+  },
+  "verses": [
+    "job 5:13:2"
+  ]
+}

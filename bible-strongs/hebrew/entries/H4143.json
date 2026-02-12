@@ -1,0 +1,43 @@
+{
+  "number": "H4143",
+  "language": "hebrew",
+  "transliteration": "mûwçâd",
+  "pronunciation": "moo-sawd'",
+  "definition": "a foundation",
+  "kjvTranslation": "foundation.",
+  "hebrew": "מוּסָד",
+  "translations": {
+    "bg": "основа",
+    "cs": "nadace",
+    "da": "et fundament",
+    "de": "eine Stiftung",
+    "el": "ένα ίδρυμα",
+    "es": "una fundación",
+    "et": "sihtasutus",
+    "fi": "perusta",
+    "fr": "une fondation",
+    "hu": "egy alapítvány",
+    "id": "sebuah yayasan",
+    "it": "una fondazione",
+    "ja": "財団",
+    "ko": "기초",
+    "lt": "pamatas",
+    "lv": "pamats",
+    "nb": "en stiftelse",
+    "nl": "een stichting",
+    "pl": "fundacja",
+    "pt": "uma fundação",
+    "ro": "o fundație",
+    "ru": "фундамент",
+    "sk": "základ",
+    "sl": "temelj",
+    "sv": "en stiftelse",
+    "tr": "bir vakıf",
+    "uk": "фундамент",
+    "zh": "奠基石"
+  },
+  "verses": [
+    "secondChronicles 8:16:6",
+    "isaiah 28:16:13"
+  ]
+}

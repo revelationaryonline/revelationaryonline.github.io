@@ -1,0 +1,42 @@
+{
+  "number": "H4190",
+  "language": "hebrew",
+  "transliteration": "môwshâʻâh",
+  "pronunciation": "mo-shaw-aw'",
+  "definition": "deliverance",
+  "kjvTranslation": "salvation.",
+  "hebrew": "מוֹשָׁעָה",
+  "translations": {
+    "bg": "избавление",
+    "cs": "vysvobození",
+    "da": "udfrielse",
+    "de": "erlösung",
+    "el": "απελευθέρωση",
+    "es": "liberación",
+    "et": "vabastamine",
+    "fi": "vapautus",
+    "fr": "délivrance",
+    "hu": "szabadulás",
+    "id": "pembebasan",
+    "it": "liberazione",
+    "ja": "救出",
+    "ko": "전달",
+    "lt": "išlaisvinimas",
+    "lv": "atbrīvošana",
+    "nb": "befrielse",
+    "nl": "bevrijding",
+    "pl": "wybawienie",
+    "pt": "libertação",
+    "ro": "eliberare",
+    "ru": "избавление",
+    "sk": "oslobodenie",
+    "sl": "osvoboditev",
+    "sv": "befrielse",
+    "tr": "kurtuluş",
+    "uk": "визволення",
+    "zh": "拯救"
+  },
+  "verses": [
+    "psalms 68:21:3"
+  ]
+}

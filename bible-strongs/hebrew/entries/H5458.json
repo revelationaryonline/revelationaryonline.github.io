@@ -1,0 +1,43 @@
+{
+  "number": "H5458",
+  "language": "hebrew",
+  "transliteration": "çᵉgôwr",
+  "pronunciation": "seg-ore'",
+  "definition": "properly, shut up, i.e. the breast (as enclosing the heart); also gold (as generally shut up safely)",
+  "kjvTranslation": "caul, gold.",
+  "hebrew": "סְגוֹר",
+  "translations": {
+    "bg": "правилно, затворен, т.е. гърдите (като затварящи сърцето); също и злато (като обикновено затворено на сигурно място)",
+    "cs": "správně, zavřený, tj. hruď (jako obal srdce); také zlato (jako obecně bezpečně zavřené)",
+    "da": "korrekt, lukket, dvs. brystet (som omslutter hjertet); også guld (som generelt er lukket sikkert inde)",
+    "de": "richtig, verschlossen, d.h. die Brust (als Umschließung des Herzens); auch Gold (als allgemein sicher verschlossen)",
+    "el": "σωστά, κλεισμένος, δηλαδή το στήθος (όπως περικλείει την καρδιά)- επίσης ο χρυσός (όπως γενικά κλείνεται με ασφάλεια)",
+    "es": "propiamente, encerrado, es decir, el pecho (como encerrando el corazón); también el oro (como generalmente encerrado con seguridad)",
+    "et": "õigesti, sulgeda, s.t. rind (kui südant ümbritsev); ka kuld (kui üldiselt turvaliselt suletud)",
+    "fi": "oikein, suljettu, ts. rinta (sydämen ympäröimänä); myös kulta (yleensä suljettuna turvallisesti)",
+    "fr": "proprement, enfermé, c'est-à-dire la poitrine (comme renfermant le cœur) ; aussi l'or (comme généralement enfermé en toute sécurité)",
+    "hu": "helyesen, bezárva, azaz a mell (mint a szívet magába záró); az arany is (mint általában biztonságosan bezárt)",
+    "id": "benar, menutup, yaitu dada (seperti menutup hati); juga emas (seperti umumnya menutup dengan aman)",
+    "it": "propriamente, chiudere, cioè il petto (come se racchiudesse il cuore); anche l'oro (come se fosse generalmente chiuso in modo sicuro)",
+    "ja": "きん",
+    "ko": "적절하게, 닥쳐, 즉 유방 (심장을 둘러싸는 것처럼); 또한 금 (일반적으로 안전하게 닥치는 것처럼)",
+    "lt": "taisyklingai - uždaryti, t. y. krūtinę (kaip širdies apvalkalą); taip pat auksą (paprastai saugiai uždarytą)",
+    "lv": "pareizi - aizvērts, t.i., krūts (kā sirds apvalks); arī zelts (parasti droši aizvērts)",
+    "nb": "egentlig, innelukket, dvs. brystet (som omslutter hjertet); også gull (som vanligvis er trygt innelukket)",
+    "nl": "goed, opgesloten, d.w.z. de borst (als omsluiting van het hart); ook goud (als algemeen veilig opgesloten)",
+    "pl": "prawidłowo, zamknięty, tj. pierś (jako zamknięcie serca); także złoto (jako ogólnie bezpiecznie zamknięte)",
+    "pt": "propriamente dito, fechado, isto é, o peito (como encerrando o coração); também ouro (como geralmente fechado com segurança)",
+    "ro": "propriu-zis, închis, adică pieptul (ca închizând inima); de asemenea, aur (ca în general închis în siguranță)",
+    "ru": "правильно, закрытый, т.е. грудь (как закрывающая сердце); также золото (как обычно надежно закрытое)",
+    "sk": "správne zatvoriť, t. j. hruď (ako obal srdca); tiež zlato (ako všeobecne bezpečne zatvorené)",
+    "sl": "pravilno, zaprt, tj. prsi (kot obdajajoče srce); tudi zlato (na splošno varno zaprto)",
+    "sv": "korrekt, stängd, dvs. bröstet (som omsluter hjärtat); även guld (som i allmänhet stängs in säkert)",
+    "tr": "uygun olarak, kapatılmış, yani göğüs (kalbi çevreleyen); ayrıca altın (genellikle güvenli bir şekilde kapatılmış olarak)",
+    "uk": "власне, закрити, тобто груди (як такі, що закривають серце); також золото (як таке, що загалом надійно закрите)",
+    "zh": "閉，即胸膛（包圍著心臟）；也指金子（一般指安全地閉起來）。"
+  },
+  "verses": [
+    "job 28:15:2",
+    "hosea 13:8:4"
+  ]
+}

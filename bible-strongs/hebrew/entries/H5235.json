@@ -1,0 +1,43 @@
+{
+  "number": "H5235",
+  "language": "hebrew",
+  "transliteration": "neker",
+  "pronunciation": "neh'-ker",
+  "definition": "something strange, i.e. unexpected calamity",
+  "kjvTranslation": "strange.",
+  "hebrew": "נֶכֶר",
+  "translations": {
+    "bg": "нещо странно, т.е. неочаквано бедствие",
+    "cs": "něco zvláštního, tj. neočekávaná pohroma",
+    "da": "noget mærkeligt, dvs. en uventet ulykke",
+    "de": "etwas Merkwürdiges, d.h. ein unerwartetes Unglück",
+    "el": "κάτι παράξενο, δηλαδή μια απροσδόκητη συμφορά",
+    "es": "algo extraño, es decir, una calamidad inesperada",
+    "et": "midagi kummalist, st ootamatu õnnetus",
+    "fi": "jotain outoa, eli odottamaton onnettomuus",
+    "fr": "quelque chose d'étrange, c'est-à-dire une calamité inattendue",
+    "hu": "valami furcsa, azaz váratlan csapás",
+    "id": "sesuatu yang aneh, yaitu bencana yang tak terduga",
+    "it": "qualcosa di strano, cioè una calamità inaspettata",
+    "ja": "異変",
+    "ko": "이상한 일, 즉 예기치 않은 재난",
+    "lt": "kažkas keisto, t. y. netikėta nelaimė",
+    "lv": "kaut kas dīvains, t.i., negaidīta nelaime",
+    "nb": "noe merkelig, dvs. en uventet ulykke",
+    "nl": "iets vreemds, d.w.z. onverwachte rampspoed",
+    "pl": "coś dziwnego, np. niespodziewane nieszczęście",
+    "pt": "algo estranho, ou seja, uma calamidade inesperada",
+    "ro": "ceva ciudat, adică o calamitate neașteptată",
+    "ru": "нечто странное, т.е. неожиданное бедствие",
+    "sk": "niečo zvláštne, t. j. neočakávaná katastrofa",
+    "sl": "nekaj nenavadnega, tj. nepričakovana nesreča",
+    "sv": "något konstigt, dvs. oväntad olycka",
+    "tr": "garip bir şey, yani beklenmedik felaket",
+    "uk": "щось дивне, тобто несподіване лихо",
+    "zh": "怪事"
+  },
+  "verses": [
+    "job 31:3:3",
+    "obadiah 1:12:5"
+  ]
+}

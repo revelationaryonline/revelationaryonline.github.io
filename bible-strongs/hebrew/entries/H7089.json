@@ -1,0 +1,42 @@
+{
+  "number": "H7089",
+  "language": "hebrew",
+  "transliteration": "qᵉphâdâh",
+  "pronunciation": "kef-aw-daw'",
+  "definition": "shrinking, i.e., terror",
+  "kjvTranslation": "destruction.",
+  "hebrew": "קְפָדָה",
+  "translations": {
+    "bg": "свиване, т.е. терор",
+    "cs": "zmenšování, tj. teror",
+    "da": "skrumpende, dvs. terror",
+    "de": "schrumpfung, d.h. Terror",
+    "el": "συρρίκνωση, δηλαδή τρόμος",
+    "es": "encogimiento, es decir, terror",
+    "et": "kahanemine, s.t. terror",
+    "fi": "kutistuminen, eli kauhu",
+    "fr": "le rétrécissement, c'est-à-dire la terreur",
+    "hu": "zsugorodás, azaz terror",
+    "id": "menyusut, yaitu teror",
+    "it": "riduzione, cioè terrore",
+    "ja": "縮小、すなわち恐怖",
+    "ko": "위축, 즉 공포",
+    "lt": "mažėja, t. y., siaubas",
+    "lv": "sarūk, t.i., terors",
+    "nb": "krymping, dvs. terror",
+    "nl": "krimpen, d.w.z. terreur",
+    "pl": "kurczenie się, tj. terror",
+    "pt": "retração, ou seja, terror",
+    "ro": "micșorare, adică teroare",
+    "ru": "сокращение, т.е. террор",
+    "sk": "zmenšovanie, t. j. teror",
+    "sl": "krčenje, tj. teror",
+    "sv": "krympande, d.v.s. terror",
+    "tr": "küçülme, yani terör",
+    "uk": "скорочення, тобто терор",
+    "zh": "缩小，即恐怖"
+  },
+  "verses": [
+    "ezekiel 7:25:0"
+  ]
+}

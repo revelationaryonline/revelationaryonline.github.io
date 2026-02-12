@@ -1,0 +1,42 @@
+{
+  "number": "H5136",
+  "language": "hebrew",
+  "transliteration": "nûwsh",
+  "pronunciation": "noosh",
+  "definition": "to be sick, i.e. (figuratively) distressed",
+  "kjvTranslation": "be full of heaviness.",
+  "hebrew": "נוּשׁ",
+  "translations": {
+    "bg": "да бъде болен, т.е. (в преносен смисъл) потиснат",
+    "cs": "být nemocný, tj. (přeneseně) v nouzi",
+    "da": "at være syg, dvs. (i overført betydning) bedrøvet",
+    "de": "krank sein, d.h. (im übertragenen Sinne) verzweifelt",
+    "el": "να είναι άρρωστος, δηλαδή (μεταφορικά) στενοχωρημένος",
+    "es": "estar enfermo, es decir (en sentido figurado) angustiado",
+    "et": "olla haige, st (piltlikult öeldes) hädas",
+    "fi": "olla sairas, eli (kuvaannollisesti) ahdistunut",
+    "fr": "être malade, c'est-à-dire (au sens figuré) en détresse",
+    "hu": "betegnek lenni, azaz (átvitt értelemben) szorongani",
+    "id": "menjadi sakit, yaitu (secara kiasan) tertekan",
+    "it": "essere malato, cioè (in senso figurato) angosciato",
+    "ja": "病気になる、つまり（比喩的に）苦悩する",
+    "ko": "아프다, 즉 (비유적으로) 괴롭다",
+    "lt": "sirgti, t. y. (perkeltine prasme) būti prislėgtam",
+    "lv": "būt slimam, t.i., (pārnestā nozīmē) nomāktam",
+    "nb": "å være syk, dvs. (i overført betydning) ulykkelig",
+    "nl": "ziek zijn, d.w.z. (figuurlijk) van streek zijn",
+    "pl": "być chorym, tj. (w przenośni) przygnębionym",
+    "pt": "estar doente, ou seja, (figurativamente) angustiado",
+    "ro": "a fi bolnav, adică (la figurat) întristat",
+    "ru": "быть больным, т.е. (фигурально) расстроенным",
+    "sk": "byť chorý, t. j. (obrazne) v núdzi",
+    "sl": "biti bolan, tj. (v prenesenem pomenu) v stiski",
+    "sv": "att vara sjuk, dvs. (bildligt talat) bedrövad",
+    "tr": "hasta olmak, yani (mecazi olarak) sıkıntılı olmak",
+    "uk": "бути хворим, тобто (образно) страждати",
+    "zh": "生病，即（比喻）苦恼"
+  },
+  "verses": [
+    "psalms 69:21:3"
+  ]
+}

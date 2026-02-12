@@ -1,0 +1,43 @@
+{
+  "number": "H7159",
+  "language": "hebrew",
+  "transliteration": "qâram",
+  "pronunciation": "kaw-ram'",
+  "definition": "to cover",
+  "kjvTranslation": "cover.",
+  "hebrew": "קָרַם",
+  "translations": {
+    "bg": "да покрива",
+    "cs": "na pokrytí",
+    "da": "til at dække",
+    "de": "zur Abdeckung",
+    "el": "για να καλύψει",
+    "es": "para cubrir",
+    "et": "katta",
+    "fi": "kattamaan",
+    "fr": "pour couvrir",
+    "hu": "hogy fedezze",
+    "id": "untuk menutupi",
+    "it": "per coprire",
+    "ja": "カバーする",
+    "ko": "커버",
+    "lt": "uždengti",
+    "lv": "lai segtu",
+    "nb": "for å dekke",
+    "nl": "bedekken",
+    "pl": "do pokrycia",
+    "pt": "para cobrir",
+    "ro": "pentru a acoperi",
+    "ru": "покрывать",
+    "sk": "na zakrytie",
+    "sl": "za pokrivanje",
+    "sv": "för att täcka",
+    "tr": "örtmek için",
+    "uk": "щоб покрити",
+    "zh": "覆盖"
+  },
+  "verses": [
+    "ezekiel 37:6:6",
+    "ezekiel 37:8:6"
+  ]
+}

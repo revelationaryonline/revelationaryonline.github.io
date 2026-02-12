@@ -1,0 +1,43 @@
+{
+  "number": "H6303",
+  "language": "hebrew",
+  "transliteration": "Pâdôwn",
+  "pronunciation": "paw-done'",
+  "definition": "Padon, one of the Nethinim.",
+  "kjvTranslation": "Padon.",
+  "hebrew": "פָּדוֹן",
+  "translations": {
+    "bg": "Падон, един от нетините.",
+    "cs": "Padon, jeden z Nethinimů.",
+    "da": "Padon, en af Nethinim.",
+    "de": "Padon, einer der Nethinim.",
+    "el": "Padon, ένας από τους Nethinim.",
+    "es": "Padon, uno de los Nethinim.",
+    "et": "Padon, üks nethinidest.",
+    "fi": "Padon, yksi nethinimeistä.",
+    "fr": "Padon, l'un des Nethinim.",
+    "hu": "Padon, az egyik Nethinim.",
+    "id": "Padon, salah satu anggota Nethinim.",
+    "it": "Padon, uno dei Nethinim.",
+    "ja": "ネティニムの一人、パドン。",
+    "ko": "네티님 중 한 명인 파돈.",
+    "lt": "Padonas, vienas iš Nethinimų.",
+    "lv": "Padons, viens no Nethinim.",
+    "nb": "Padon, en av nethinimene.",
+    "nl": "Padon, een van de Nethinim.",
+    "pl": "Padon, jeden z Nethinimów.",
+    "pt": "Padon, um dos Nethinim.",
+    "ro": "Padon, unul dintre Nethinim.",
+    "ru": "Падон, один из нефинимов.",
+    "sk": "Padon, jeden z Nethinim.",
+    "sl": "Padon, eden od Nethinimov.",
+    "sv": "Padon, en av Nethinim.",
+    "tr": "Padon, Nethinim'lerden biri.",
+    "uk": "Падон, один з нетінімів.",
+    "zh": "帕东，奈西尼姆人之一。"
+  },
+  "verses": [
+    "ezra 2:44:5",
+    "nehemiah 7:47:5"
+  ]
+}

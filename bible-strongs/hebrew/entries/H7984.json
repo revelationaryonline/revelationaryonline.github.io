@@ -1,0 +1,43 @@
+{
+  "number": "H7984",
+  "language": "hebrew",
+  "transliteration": "shilṭôwn",
+  "pronunciation": "shil-tone'",
+  "definition": "{a potentate}",
+  "kjvTranslation": "ruler.",
+  "hebrew": "שִׁלְטוֹן",
+  "translations": {
+    "bg": "{потент}",
+    "cs": "{potentát}",
+    "da": "{en potentat}",
+    "de": "{ein Potentat}",
+    "el": "{ένας ισχυρός άνδρας}",
+    "es": "{un potentado}",
+    "et": "{Potentaat}",
+    "fi": "(Potentaatti)",
+    "fr": "{un potentat}",
+    "hu": "{a potentátus}",
+    "id": "[sebuah potentate]",
+    "it": "{un potentato}",
+    "ja": "{有力者}である。",
+    "ko": "{권력자}",
+    "lt": "{didvyris}",
+    "lv": "{pocentāts}",
+    "nb": "{En potentat}",
+    "nl": "{een potentaat}",
+    "pl": "{potentat}",
+    "pt": "{um potentado}",
+    "ro": "{un potentat}",
+    "ru": "{потенциал}",
+    "sk": "{potentát}",
+    "sl": "{potentat}",
+    "sv": "{en potentat}",
+    "tr": "{bir kudretli}",
+    "uk": "{Потенціал.}",
+    "zh": "{一个权贵}"
+  },
+  "verses": [
+    "daniel 3:2:12",
+    "daniel 3:3:10"
+  ]
+}

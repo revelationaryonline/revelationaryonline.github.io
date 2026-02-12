@@ -1,0 +1,42 @@
+{
+  "number": "H4934",
+  "language": "hebrew",
+  "transliteration": "mishʻôwl",
+  "pronunciation": "mish-ole'",
+  "definition": "a hollow, i.e. a narrow passage",
+  "kjvTranslation": "path.",
+  "hebrew": "מִשְׁעוֹל",
+  "translations": {
+    "bg": "кухина, т.е. тесен проход",
+    "cs": "dutina, tj. úzký průchod",
+    "da": "et hulrum, dvs. en smal passage",
+    "de": "ein Hohlraum, d.h. ein enger Durchgang",
+    "el": "ένα κοίλωμα, δηλαδή ένα στενό πέρασμα",
+    "es": "un hueco, es decir, un paso estrecho",
+    "et": "õõnsus, st kitsas läbipääs",
+    "fi": "ontto eli kapea käytävä",
+    "fr": "un creux, c'est-à-dire un passage étroit",
+    "hu": "üreg, azaz szűk járat",
+    "id": "sebuah lorong, yaitu lorong yang sempit",
+    "it": "una cavità, cioè un passaggio stretto",
+    "ja": "くぼ地",
+    "ko": "속이 빈, 즉 좁은 통로",
+    "lt": "tuštuma, t. y. siauras praėjimas",
+    "lv": "ieplaka, t. i., šaurs fragments",
+    "nb": "et hulrom, dvs. en trang passasje",
+    "nl": "een holte, d.w.z. een nauwe doorgang",
+    "pl": "zagłębienie, tj. wąskie przejście",
+    "pt": "uma cavidade, ou seja, uma passagem estreita",
+    "ro": "o cavitate, adică un pasaj îngust",
+    "ru": "дупло, т.е. узкий проход",
+    "sk": "dutina, t. j. úzky priechod",
+    "sl": "votlina, tj. ozek prehod",
+    "sv": "ett hålrum, dvs. en trång passage",
+    "tr": "bir oyuk, yani dar bir geçit",
+    "uk": "дупло, тобто вузький прохід",
+    "zh": "谽谺"
+  },
+  "verses": [
+    "numbers 22:24:3"
+  ]
+}

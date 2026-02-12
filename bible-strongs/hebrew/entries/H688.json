@@ -1,0 +1,42 @@
+{
+  "number": "H688",
+  "language": "hebrew",
+  "transliteration": "ʼeqdâch",
+  "pronunciation": "ek-dawkh'",
+  "definition": "burning, i.e. a carbuncle or other fiery gem",
+  "kjvTranslation": "carbuncle.",
+  "translations": {
+    "bg": "горящ, т.е. карбункул или друг огнен скъпоценен камък",
+    "cs": "hořící, tj. karbunkl nebo jiný ohnivý drahokam",
+    "da": "brændende, dvs. en karfunkel eller en anden brændende ædelsten",
+    "de": "brennend, d.h. ein Karfunkelstein oder ein anderer feuriger Edelstein",
+    "el": "καύση, δηλαδή καρβουνάκι ή άλλος πύρινος πολύτιμος λίθος",
+    "es": "ardiente, es decir, un carbunclo u otra gema ardiente",
+    "et": "põletamine, st karbunkel või muu tuline kalliskivi",
+    "fi": "palava, ts. karbunkeli tai muu tulinen jalokivi",
+    "fr": "brûlante, c'est-à-dire une escarboucle ou une autre pierre précieuse enflammée",
+    "hu": "égő, azaz egy karbunkulus vagy más tüzes drágakő",
+    "id": "terbakar, yaitu bisul atau permata berapi-api lainnya",
+    "it": "bruciante, cioè un carbuncolo o un'altra gemma infuocata",
+    "ja": "バーニング、すなわちカーバンクルやその他の燃える宝石",
+    "ko": "불타는, 즉 옹종 또는 기타 불타는 보석",
+    "lt": "degantis, t. y. karbunkulas ar kitas ugninis brangakmenis",
+    "lv": "degošs, t. i., karbunkuls vai cits ugunīgs dārgakmens",
+    "nb": "brennende, dvs. en karbunkel eller en annen brennende edelsten",
+    "nl": "brandend, d.w.z. een karbonkel of andere vurige edelsteen",
+    "pl": "płonący, tj. karbunkuł lub inny ognisty klejnot",
+    "pt": "ardente, ou seja, um carbúnculo ou outra pedra de fogo",
+    "ro": "arzătoare, de exemplu un carbuncul sau altă piatră prețioasă de foc",
+    "ru": "горящий, т.е. карбункул или другой огненный драгоценный камень",
+    "sk": "horiaci, t. j. karbunkul alebo iný ohnivý drahokam",
+    "sl": "goreč, tj. karbunkul ali drug ognjeni dragulj",
+    "sv": "brinnande, d.v.s. en karbunkel eller annan brinnande ädelsten",
+    "tr": "yanan, yani bir karbonkül veya başka bir ateşli mücevher",
+    "uk": "опік, тобто карбункул або інша вогняна прикраса",
+    "zh": "灼热，即痈或其他炽热的宝石"
+  },
+  "hebrew": "אֶקְדָּח",
+  "verses": [
+    "isaiah 54:12:5"
+  ]
+}

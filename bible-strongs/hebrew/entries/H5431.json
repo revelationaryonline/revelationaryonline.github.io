@@ -1,0 +1,42 @@
+{
+  "number": "H5431",
+  "language": "hebrew",
+  "transliteration": "çâʼan",
+  "pronunciation": "saw-an'",
+  "definition": "to shoe, i.e. (active participle) a soldier shod",
+  "kjvTranslation": "warrior.",
+  "hebrew": "סָאַן",
+  "translations": {
+    "bg": "обувам, т.е. (деятелно причастие) войник обут",
+    "cs": "obout, tj. (činné příčestí) voják obutý",
+    "da": "at sko, dvs. (aktiv participium) en soldat, der er skoddet",
+    "de": "beschlagen, d.h. (aktives Partizip) ein Soldat beschlagen",
+    "el": "to shoe, δηλ. (ενεργητική μετοχή) ένας στρατιώτης που παπουτσώνει",
+    "es": "herrar, es decir (participio activo) calzar a un soldado",
+    "et": "to shoe, s.t. (aktiivne partitsiip) a soldat shoded, s.t. (aktiivne partitsiip) sõdur shod",
+    "fi": "kengittää, eli (aktiivinen partisiippi) sotilas kengittää",
+    "fr": "chausser, c'est-à-dire (participe actif) un soldat chaussé",
+    "hu": "megpatkolni, azaz (aktív részleges) egy katona megpatkoltatott",
+    "id": "untuk sepatu, yaitu (partikel aktif) seorang tentara bersepatu",
+    "it": "ferrare, cioè (participio attivo) un soldato ferrato",
+    "ja": "靴を履かせる、すなわち（能動分詞）兵士の靴を履かせる",
+    "ko": "신다, 즉 (능동 분사) 군인이 신다",
+    "lt": "apauti, t. y. (veikiamoji rūšis) kareivis apauti",
+    "lv": "apavēt, t.i., (aktīvā divdabja formā) kareivis apavās kurpes",
+    "nb": "å sko, dvs. (aktiv partisipp) en soldat skodd",
+    "nl": "beslaan, d.w.z. (actief deelwoord) een soldaat beslaan",
+    "pl": "podkuwać, tj. (imiesłów czynny) żołnierz podkuwany",
+    "pt": "calçar, ou seja, (particípio ativo) um soldado calçado",
+    "ro": "a încălța, i.e. (participiu activ) un soldat încălțat",
+    "ru": "обувать, т.е. (активное причастие) обувать солдата",
+    "sk": "obúvať, t. j. (činné príčastie) vojak obutý",
+    "sl": "obuti, tj. (aktivni deležnik) vojak je obut",
+    "sv": "att sko, t.ex. (aktivt particip) en soldat skodde sig",
+    "tr": "nallamak, yani (aktif katılımcı) nallanmış bir asker",
+    "uk": "взути, тобто (активний стан) взутий солдат",
+    "zh": "穿鞋，即（主动分词）士兵穿鞋"
+  },
+  "verses": [
+    "isaiah 9:4:3"
+  ]
+}

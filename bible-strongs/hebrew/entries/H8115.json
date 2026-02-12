@@ -1,0 +1,43 @@
+{
+  "number": "H8115",
+  "language": "hebrew",
+  "transliteration": "Shomrayin",
+  "pronunciation": "shom-rah'-yin",
+  "definition": "Shomrain, a place in Palestine",
+  "kjvTranslation": "Samaria.",
+  "hebrew": "שׇׁמְרַיִן",
+  "translations": {
+    "bg": "Shomrain, място в Палестина",
+    "cs": "Shomrain, místo v Palestině",
+    "da": "Shomrain, et sted i Palæstina",
+    "de": "Shomrain, ein Ort in Palästina",
+    "el": "Shomrain, τόπος στην Παλαιστίνη",
+    "es": "Shomrain, un lugar en Palestina",
+    "et": "Shomrain, koht Palestiinas",
+    "fi": "Shomrain, paikka Palestiinassa",
+    "fr": "Shomrain, localité de Palestine",
+    "hu": "Shomrain, egy hely Palesztinában",
+    "id": "Shomrain, sebuah tempat di Palestina",
+    "it": "Shomrain, località della Palestina",
+    "ja": "ショムレイン、パレスチナの地名",
+    "ko": "팔레스타인의 쇼메인, 팔레스타인의 한 장소",
+    "lt": "Shomrain, vietovė Palestinoje",
+    "lv": "Shomrain, vieta Palestīnā",
+    "nb": "Shomrain, et sted i Palestina",
+    "nl": "Shomrain, een plaats in Palestina",
+    "pl": "Shomrain, miejscowość w Palestynie",
+    "pt": "Shomrain, um lugar na Palestina",
+    "ro": "Shomrain, un loc în Palestina",
+    "ru": "Шомрейн, место в Палестине",
+    "sk": "Shomrain, miesto v Palestíne",
+    "sl": "Shomrain, kraj v Palestini",
+    "sv": "Shomrain, en plats i Palestina",
+    "tr": "Shomrain, Filistin'de bir yer",
+    "uk": "Шомрайн, місце в Палестині",
+    "zh": "肖姆林"
+  },
+  "verses": [
+    "ezra 4:10:11",
+    "ezra 4:17:13"
+  ]
+}

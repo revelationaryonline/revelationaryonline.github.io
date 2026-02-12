@@ -1,0 +1,42 @@
+{
+  "number": "H2523",
+  "language": "hebrew",
+  "transliteration": "challâsh",
+  "pronunciation": "khal-lawsh'",
+  "definition": "frail",
+  "kjvTranslation": "weak.",
+  "translations": {
+    "bg": "слаб",
+    "cs": "křehké",
+    "da": "skrøbelig",
+    "de": "schwach",
+    "el": "εύθραυστο",
+    "es": "frágil",
+    "et": "habras",
+    "fi": "hauras",
+    "fr": "fragile",
+    "hu": "törékeny",
+    "id": "lemah",
+    "it": "fragile",
+    "ja": "ひょろひょろ",
+    "ko": "취약",
+    "lt": "silpnas",
+    "lv": "trausls",
+    "nb": "skrøpelig",
+    "nl": "frêle",
+    "pl": "wątły",
+    "pt": "frágil",
+    "ro": "fragilă",
+    "ru": "хрупкий",
+    "sk": "krehké",
+    "sl": "šibka",
+    "sv": "bräcklig",
+    "tr": "kırılgan",
+    "uk": "кволий",
+    "zh": "单薄"
+  },
+  "hebrew": "חַלָּשׁ",
+  "verses": [
+    "joel 4:10:5"
+  ]
+}

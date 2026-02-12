@@ -1,0 +1,43 @@
+{
+  "number": "H8616",
+  "language": "hebrew",
+  "transliteration": "Tiqvâh",
+  "pronunciation": "tik-vaw'",
+  "definition": "Tikvah, the name of two Israelites",
+  "kjvTranslation": "Tikvah.",
+  "hebrew": "תִּקְוָה",
+  "translations": {
+    "bg": "Тиква, името на двама израилтяни",
+    "cs": "Tikva, jméno dvou Izraelců",
+    "da": "Tikvah, navnet på to israelitter",
+    "de": "Tikvah, der Name von zwei Israeliten",
+    "el": "Tikvah, το όνομα δύο Ισραηλιτών",
+    "es": "Tikvah, el nombre de dos israelitas",
+    "et": "Tikvah, kahe iisraellase nimi",
+    "fi": "Tikvah, kahden israelilaisen nimi",
+    "fr": "Tikvah, le nom de deux Israélites",
+    "hu": "Tikvah, két izraelita neve",
+    "id": "Tikvah, nama dua orang Israel",
+    "it": "Tikvah, il nome di due israeliti",
+    "ja": "ティクヴァ、2人のイスラエル人の名前",
+    "ko": "틱바, 두 이스라엘인의 이름",
+    "lt": "Tikva, dviejų izraelitų vardas",
+    "lv": "Tikva, divu izraēliešu vārds",
+    "nb": "Tikva, navnet på to israelitter",
+    "nl": "Tikvah, de naam van twee Israëlieten",
+    "pl": "Tikvah, imię dwóch Izraelitów",
+    "pt": "Tikvah, o nome de dois israelitas",
+    "ro": "Tikvah, numele a doi israeliți",
+    "ru": "Тиква, имя двух израильтян",
+    "sk": "Tikva, meno dvoch Izraelitov",
+    "sl": "Tikva, ime dveh Izraelcev",
+    "sv": "Tikvah, namnet på två israeliter",
+    "tr": "Tikvah, iki İsraillinin adı",
+    "uk": "Тіква, ім'я двох ізраїльтян",
+    "zh": "提克瓦，两个以色列人的名字"
+  },
+  "verses": [
+    "secondKings 22:14:13",
+    "ezra 10:15:6"
+  ]
+}

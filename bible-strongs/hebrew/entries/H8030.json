@@ -1,0 +1,42 @@
+{
+  "number": "H8030",
+  "language": "hebrew",
+  "transliteration": "Shilshâh",
+  "pronunciation": "shil-shaw'",
+  "definition": "Shilshah, an Israelite",
+  "kjvTranslation": "Shilshah.",
+  "hebrew": "שִׁלְשָׁה",
+  "translations": {
+    "bg": "Шилшах, израилтянин",
+    "cs": "Šilša, Izraelita",
+    "da": "Shilshah, en israelit",
+    "de": "Shilshah, ein Israelit",
+    "el": "Shilshah, ένας Ισραηλίτης",
+    "es": "Shilshah, israelita",
+    "et": "Siilsa, iisraellane",
+    "fi": "Silsa, israelilainen",
+    "fr": "Shilshah, Israélite",
+    "hu": "Silsa, egy izraelita",
+    "id": "Shilshah, seorang Israel",
+    "it": "Shilshah, un israelita",
+    "ja": "イスラエル人シルシャ",
+    "ko": "이스라엘인 실샤",
+    "lt": "Šilšas, izraelitas",
+    "lv": "Šilša, izraēlietis",
+    "nb": "Shilshah, en israelitt",
+    "nl": "Shilshah, een Israëliet",
+    "pl": "Szilsza, Izraelita",
+    "pt": "Shilshah, israelita",
+    "ro": "Shilshah, un israelit",
+    "ru": "Шильшах, израильтянин",
+    "sk": "Šilša, Izraelita",
+    "sl": "Šilšah, Izraelec",
+    "sv": "Shilshah, en israelit",
+    "tr": "Şilşah, bir İsrailli",
+    "uk": "Шильшах, ізраїльтянин",
+    "zh": "以色列人希尔沙"
+  },
+  "verses": [
+    "firstChronicles 7:37:3"
+  ]
+}

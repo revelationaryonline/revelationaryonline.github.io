@@ -1,0 +1,43 @@
+{
+  "number": "H3886",
+  "language": "hebrew",
+  "transliteration": "lûwaʻ",
+  "pronunciation": "loo'-ah",
+  "definition": "to gulp; figuratively, to be rash",
+  "kjvTranslation": "swallow down (up).",
+  "hebrew": "לוּעַ",
+  "translations": {
+    "bg": "да преглъщам; в преносен смисъл - да се прибързва",
+    "cs": "hltat; přeneseně, být zbrklý",
+    "da": "at sluge; i overført betydning at være forhastet",
+    "de": "schlucken; im übertragenen Sinne: unbesonnen sein",
+    "el": "καταβροχθίζω- μεταφορικά, βιάζομαι",
+    "es": "engullir; en sentido figurado, precipitarse",
+    "et": "ahmida; piltlikult öeldes, olla rutakas",
+    "fi": "ahmia; kuvaannollisesti, olla hätäinen",
+    "fr": "se goinfrer ; au sens figuré, être imprudent",
+    "hu": "nyelni; átvitt értelemben: meggondolatlanul cselekedni",
+    "id": "meneguk; secara kiasan, menjadi gegabah",
+    "it": "sbocconcellare; in senso figurato, essere avventati",
+    "ja": "がぶ飲みする；比喩的に、軽率になる",
+    "ko": "침을 삼키다; 비유적으로, 성급하다",
+    "lt": "gurkšnoti; perkeltine prasme - būti neapdairiam",
+    "lv": "gremdēt; pārnestā nozīmē - būt neapdomīgam",
+    "nb": "å sluke; i overført betydning, å være forhastet",
+    "nl": "slokken; figuurlijk, onbesuisd zijn",
+    "pl": "łykać; w przenośni, być pochopnym",
+    "pt": "engolir; figurativamente, ser precipitado",
+    "ro": "a înghiți; la figurat, a fi nesăbuit",
+    "ru": "глотать; образно говоря, быть опрометчивым",
+    "sk": "prehĺtať; v prenesenom význame byť unáhlený",
+    "sl": "požirati; v prenesenem pomenu, biti nepremišljen",
+    "sv": "att sluka; bildligt talat, att vara förhastad",
+    "tr": "yutkunmak; mecazi olarak, aceleci olmak",
+    "uk": "ковтати; образно, бути необачним",
+    "zh": "囫囵吞枣；比喻轻率"
+  },
+  "verses": [
+    "job 6:3:8",
+    "obadiah 1:16:11"
+  ]
+}

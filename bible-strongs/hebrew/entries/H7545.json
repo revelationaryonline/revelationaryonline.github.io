@@ -1,0 +1,43 @@
+{
+  "number": "H7545",
+  "language": "hebrew",
+  "transliteration": "rôqach",
+  "pronunciation": "ro'-kakh",
+  "definition": "an aromatic",
+  "kjvTranslation": "confection, ointment.",
+  "hebrew": "רֹקַח",
+  "translations": {
+    "bg": "ароматно вещество",
+    "cs": "aromatický",
+    "da": "en aromatisk",
+    "de": "eine aromatische",
+    "el": "ένα αρωματικό",
+    "es": "un aromático",
+    "et": "aromaatne",
+    "fi": "aromaattinen",
+    "fr": "un aromatique",
+    "hu": "aromás",
+    "id": "aromatik",
+    "it": "un aromatico",
+    "ja": "芳香族",
+    "ko": "향기로운",
+    "lt": "aromatinis",
+    "lv": "aromātiskais",
+    "nb": "en aromatisk",
+    "nl": "een aromatische",
+    "pl": "aromatyczny",
+    "pt": "um aromático",
+    "ro": "un aromat",
+    "ru": "ароматический",
+    "sk": "aromatický",
+    "sl": "aromatična",
+    "sv": "en aromatisk",
+    "tr": "aromatik",
+    "uk": "ароматичний",
+    "zh": "一种芳香"
+  },
+  "verses": [
+    "exodus 30:25:5",
+    "exodus 30:35:3"
+  ]
+}

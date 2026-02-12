@@ -1,0 +1,42 @@
+{
+  "number": "H4777",
+  "language": "hebrew",
+  "transliteration": "mered",
+  "pronunciation": "meh'-red",
+  "definition": "rebellion",
+  "kjvTranslation": "rebellion.",
+  "hebrew": "מֶרֶד",
+  "translations": {
+    "bg": "бунт",
+    "cs": "vzpoura",
+    "da": "oprør",
+    "de": "rebellion",
+    "el": "εξέγερση",
+    "es": "rebelión",
+    "et": "mässu",
+    "fi": "kapina",
+    "fr": "rébellion",
+    "hu": "lázadás",
+    "id": "pemberontakan",
+    "it": "ribellione",
+    "ja": "反乱",
+    "ko": "반란",
+    "lt": "sukilimas",
+    "lv": "sacelšanās",
+    "nb": "opprør",
+    "nl": "opstand",
+    "pl": "bunt",
+    "pt": "rebelião",
+    "ro": "rebeliune",
+    "ru": "восстание",
+    "sk": "vzbura",
+    "sl": "upor",
+    "sv": "uppror",
+    "tr": "i̇SYAN",
+    "uk": "бунт",
+    "zh": "暴动"
+  },
+  "verses": [
+    "joshua 22:22:12"
+  ]
+}

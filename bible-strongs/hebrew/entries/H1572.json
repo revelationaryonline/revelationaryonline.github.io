@@ -1,0 +1,43 @@
+{
+  "number": "H1572",
+  "language": "hebrew",
+  "transliteration": "gâmâʼ",
+  "pronunciation": "gaw-maw'",
+  "definition": "to absorb",
+  "kjvTranslation": "swallow, drink.",
+  "translations": {
+    "bg": "да абсорбира",
+    "cs": "absorbovat",
+    "da": "til at absorbere",
+    "de": "zu absorbieren",
+    "el": "να απορροφήσει",
+    "es": "para absorber",
+    "et": "absorbeerida",
+    "fi": "imeä",
+    "fr": "absorber",
+    "hu": "elnyelni",
+    "id": "untuk menyerap",
+    "it": "assorbire",
+    "ja": "吸収する",
+    "ko": "흡수",
+    "lt": "įsisavinti",
+    "lv": "absorbēt",
+    "nb": "for å absorbere",
+    "nl": "absorberen",
+    "pl": "absorbować",
+    "pt": "para absorver",
+    "ro": "să absoarbă",
+    "ru": "поглощать",
+    "sk": "absorbovať",
+    "sl": "da absorbira",
+    "sv": "för att absorbera",
+    "tr": "emmek için",
+    "uk": "щоб поглинути",
+    "zh": "吸收"
+  },
+  "hebrew": "גָּמָא",
+  "verses": [
+    "genesis 24:17:4",
+    "job 39:24:2"
+  ]
+}

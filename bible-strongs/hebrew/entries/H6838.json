@@ -1,0 +1,42 @@
+{
+  "number": "H6838",
+  "language": "hebrew",
+  "transliteration": "tsappîychith",
+  "pronunciation": "tsap-pee-kheeth'",
+  "definition": "a flat thin cake",
+  "kjvTranslation": "wafer.",
+  "hebrew": "צַפִּיחִת",
+  "translations": {
+    "bg": "плосък тънък сладкиш",
+    "cs": "plochý tenký koláč",
+    "da": "en flad, tynd kage",
+    "de": "ein flacher, dünner Kuchen",
+    "el": "ένα επίπεδο λεπτό κέικ",
+    "es": "un pastel plano y fino",
+    "et": "lame õhuke kook",
+    "fi": "litteä ohut kakku",
+    "fr": "un gâteau plat et mince",
+    "hu": "lapos, vékony sütemény",
+    "id": "kue tipis yang rata",
+    "it": "una torta piatta e sottile",
+    "ja": "平たい薄いケーキ",
+    "ko": "평평하고 얇은 케이크",
+    "lt": "plokščias plonas pyragas",
+    "lv": "plakana plāna kūka",
+    "nb": "en flat, tynn kake",
+    "nl": "een platte dunne cake",
+    "pl": "płaskie, cienkie ciasto",
+    "pt": "um bolo achatado e fino",
+    "ro": "un tort plat și subțire",
+    "ru": "плоская тонкая лепешка",
+    "sk": "plochý tenký koláč",
+    "sl": "ploščato tanko pecivo",
+    "sv": "en platt tunn kaka",
+    "tr": "düz ince bir kek",
+    "uk": "плоский тонкий корж",
+    "zh": "薄饼"
+  },
+  "verses": [
+    "exodus 16:31:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1422",
+  "language": "hebrew",
+  "transliteration": "gᵉdûwphâh",
+  "pronunciation": "ghed-oo-faw'",
+  "definition": "a revilement",
+  "kjvTranslation": "taunt.",
+  "translations": {
+    "bg": "преразглеждане",
+    "cs": "recenze",
+    "da": "en revurdering",
+    "de": "eine Verunglimpfung",
+    "el": "μια κριτική",
+    "es": "a revilement",
+    "et": "revideerimine",
+    "fi": "arvostelu",
+    "fr": "une révision",
+    "hu": "egy felülvizsgálat",
+    "id": "cercaan",
+    "it": "un rivilimento",
+    "ja": "論評",
+    "ko": "욕설",
+    "lt": "revilement",
+    "lv": "pārskatīšana",
+    "nb": "en revilement",
+    "nl": "een recensie",
+    "pl": "rewizja",
+    "pt": "uma revisão",
+    "ro": "o reexaminare",
+    "ru": "отзыв",
+    "sk": "revilement",
+    "sl": "pregled",
+    "sv": "en revilement",
+    "tr": "bir revilement",
+    "uk": "приниження",
+    "zh": "重审"
+  },
+  "hebrew": "גְּדוּפָה",
+  "verses": [
+    "ezekiel 5:15:2"
+  ]
+}

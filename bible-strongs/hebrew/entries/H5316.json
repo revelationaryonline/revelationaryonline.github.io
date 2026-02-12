@@ -1,0 +1,42 @@
+{
+  "number": "H5316",
+  "language": "hebrew",
+  "transliteration": "nepheth",
+  "pronunciation": "neh'-feth",
+  "definition": "a height",
+  "kjvTranslation": "country.",
+  "hebrew": "נֶפֶת",
+  "translations": {
+    "bg": "височина",
+    "cs": "výška",
+    "da": "en højde",
+    "de": "eine Höhe",
+    "el": "ένα ύψος",
+    "es": "una altura",
+    "et": "kõrgus",
+    "fi": "korkeus",
+    "fr": "une hauteur",
+    "hu": "a magasság",
+    "id": "ketinggian",
+    "it": "un'altezza",
+    "ja": "高さ",
+    "ko": "높이",
+    "lt": "aukštis",
+    "lv": "augstums",
+    "nb": "en høyde",
+    "nl": "een hoogte",
+    "pl": "wysokość",
+    "pt": "uma altura",
+    "ro": "o înălțime",
+    "ru": "высота",
+    "sk": "výška",
+    "sl": "višina",
+    "sv": "en höjd",
+    "tr": "bir yükseklik",
+    "uk": "висота",
+    "zh": "高度"
+  },
+  "verses": [
+    "joshua 17:11:24"
+  ]
+}

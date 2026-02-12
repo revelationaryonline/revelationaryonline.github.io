@@ -1,0 +1,42 @@
+{
+  "number": "H291",
+  "language": "hebrew",
+  "transliteration": "ʼAchyân",
+  "pronunciation": "akh-yawn'",
+  "definition": "Achjan, an Israelite",
+  "kjvTranslation": "Ahian.",
+  "translations": {
+    "bg": "Ахджан, израилтянин",
+    "cs": "Achjan, Izraelita",
+    "da": "Achjan, en israelit",
+    "de": "Achjan, ein Israelit",
+    "el": "Achjan, ένας Ισραηλίτης",
+    "es": "Achjan, israelita",
+    "et": "Achjan, iisraellane",
+    "fi": "Akjan, israelilainen",
+    "fr": "Achjan, Israélite",
+    "hu": "Achjan, izraelita",
+    "id": "Achjan, seorang Israel",
+    "it": "Achjan, un israelita",
+    "ja": "イスラエル人アジャン",
+    "ko": "이스라엘인 아크잔",
+    "lt": "Achjanas, izraelitas",
+    "lv": "Ahjans, izraēlietis",
+    "nb": "Achjan, en israelitt",
+    "nl": "Achjan, een Israëliet",
+    "pl": "Achjan, Izraelita",
+    "pt": "Achjan, israelita",
+    "ro": "Achjan, un israelit",
+    "ru": "Ахиан, израильтянин",
+    "sk": "Achjan, Izraelita",
+    "sl": "Ahjan, Izraelec",
+    "sv": "Achjan, en israelit",
+    "tr": "Achjan, bir İsrailli",
+    "uk": "Ахіян, ізраїльтянин",
+    "zh": "亚简，以色列人"
+  },
+  "hebrew": "אַחְיָן",
+  "verses": [
+    "firstChronicles 7:19:3"
+  ]
+}

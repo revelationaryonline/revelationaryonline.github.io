@@ -1,0 +1,43 @@
+{
+  "number": "H4035",
+  "language": "hebrew",
+  "transliteration": "mᵉgûwrâh",
+  "pronunciation": "meg-oo-raw'",
+  "definition": "a fright; also a granary",
+  "kjvTranslation": "barn, fear.",
+  "hebrew": "מְגוּרָה",
+  "translations": {
+    "bg": "страшилище; също и зърнохранилище",
+    "cs": "strašák; také sýpka",
+    "da": "en forskrækkelse; også et kornkammer",
+    "de": "ein Schreck; auch ein Getreidespeicher",
+    "el": "τρόμος, επίσης σιταποθήκη",
+    "es": "un susto; también un granero",
+    "et": "ehmatus; ka viljahoidla",
+    "fi": "säikähdys; myös viljavarasto",
+    "fr": "une frayeur ; également un grenier",
+    "hu": "ijedtség; magtár is",
+    "id": "ketakutan; juga lumbung",
+    "it": "uno spavento; anche un granaio",
+    "ja": "穀物倉",
+    "ko": "공포; 또한 곡물 창고",
+    "lt": "išgąstis; taip pat grūdų sandėlis",
+    "lv": "bail; arī klēts",
+    "nb": "en skrekk; også et kornmagasin",
+    "nl": "een schrik; ook een graanschuur",
+    "pl": "strach; również spichlerz",
+    "pt": "um susto; também um celeiro",
+    "ro": "o spaimă; de asemenea, un hambar",
+    "ru": "испуг; также зернохранилище",
+    "sk": "strach; tiež sýpka",
+    "sl": "strah; tudi kašča",
+    "sv": "en skräck; även ett spannmålsmagasin",
+    "tr": "bir korku; ayrıca bir tahıl ambarı",
+    "uk": "переляк; також комора",
+    "zh": "瓮牖"
+  },
+  "verses": [
+    "isaiah 66:4:4",
+    "haggai 2:19:2"
+  ]
+}

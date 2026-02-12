@@ -1,0 +1,42 @@
+{
+  "number": "H4016",
+  "language": "hebrew",
+  "transliteration": "mâbush",
+  "pronunciation": "maw-boosh'",
+  "definition": "(plural) the (male) pudenda",
+  "kjvTranslation": "secrets.",
+  "hebrew": "מָבֻשׁ",
+  "translations": {
+    "bg": "(множествено число) (мъжки) пуденда",
+    "cs": "(množné číslo) pudenda (mužské)",
+    "da": "(flertal) den (mandlige) pudenda",
+    "de": "(Plural) die (männliche) Pudenda",
+    "el": "(πληθυντικός) το (ανδρικό) αιδοίο",
+    "es": "(plural) la pudenda (masculina)",
+    "et": "(mitmuses) (mehe) häbemekanalid",
+    "fi": "(monikossa) (miehen) häpyhuulet",
+    "fr": "(pluriel) le pudenda (masculin)",
+    "hu": "(többes számban) a (férfi) szeméremtest",
+    "id": "(jamak) pudenda (laki-laki)",
+    "it": "(plurale) le pudenda (maschili)",
+    "ja": "陰部",
+    "ko": "(복수형) (남성) 푸덴다",
+    "lt": "(daugiskaita) vyriškosios lyties organai",
+    "lv": "(daudzskaitlī) (vīriešu) dzimumloceklis",
+    "nb": "(flertall) pudenda (mannlig)",
+    "nl": "(meervoud) de (mannelijke) pudenda",
+    "pl": "(liczba mnoga) pudenda (męskie)",
+    "pt": "(plural) a pudenda (masculina)",
+    "ro": "(plural) pudenda (masculină)",
+    "ru": "(множественное число) (мужская) пуденда",
+    "sk": "(množné číslo) (mužský) pudendum",
+    "sl": "(množina) (moški) pudendum",
+    "sv": "(plural) den (manliga) pudenda",
+    "tr": "(çoğul) (erkek) pudenda",
+    "uk": "(множина) пуденди (чоловічої статі)",
+    "zh": "阴门"
+  },
+  "verses": [
+    "deuteronomy 25:11:17"
+  ]
+}

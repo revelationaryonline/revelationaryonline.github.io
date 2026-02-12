@@ -1,0 +1,42 @@
+{
+  "number": "H8338",
+  "language": "hebrew",
+  "transliteration": "shâshâʼ",
+  "pronunciation": "shaw-shaw'",
+  "definition": "to annihilate",
+  "kjvTranslation": "leave by the sixth part (by confusion with H8341 (שָׁשָׁה)).",
+  "hebrew": "שָׁשָׁא",
+  "translations": {
+    "bg": "да унищожи",
+    "cs": "zničit",
+    "da": "at udslette",
+    "de": "zu vernichten",
+    "el": "να εξολοθρεύσει",
+    "es": "aniquilar",
+    "et": "hävitada",
+    "fi": "tuhota",
+    "fr": "anéantir",
+    "hu": "megsemmisíteni",
+    "id": "untuk memusnahkan",
+    "it": "annientare",
+    "ja": "全滅させる",
+    "ko": "전멸시키다",
+    "lt": "sunaikinti",
+    "lv": "iznīcināt",
+    "nb": "å utslette",
+    "nl": "vernietigen",
+    "pl": "unicestwić",
+    "pt": "aniquilar",
+    "ro": "să anihileze",
+    "ru": "уничтожить",
+    "sk": "zničiť",
+    "sl": "uničiti",
+    "sv": "att utplåna",
+    "tr": "yok etmek",
+    "uk": "знищити",
+    "zh": "歼灭"
+  },
+  "verses": [
+    "ezekiel 39:2:1"
+  ]
+}

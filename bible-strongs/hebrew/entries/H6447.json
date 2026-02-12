@@ -1,0 +1,43 @@
+{
+  "number": "H6447",
+  "language": "hebrew",
+  "transliteration": "paç",
+  "pronunciation": "pas",
+  "definition": "the palm (of the hand, as being spread out)",
+  "kjvTranslation": "participle",
+  "hebrew": "פַּס",
+  "translations": {
+    "bg": "дланта (на ръката, като разтворена)",
+    "cs": "dlaň (roztažená ruka)",
+    "da": "håndfladen (af hånden, som om den er spredt ud)",
+    "de": "die Handfläche (als ausgebreitete Hand)",
+    "el": "η παλάμη (του χεριού, όπως απλώνεται)",
+    "es": "la palma (de la mano, como extendida)",
+    "et": "peopesa (nagu oleks laiali laotatud)",
+    "fi": "kämmen (kämmenen kämmen, joka on levitetty)",
+    "fr": "la paume (de la main, comme étalée)",
+    "hu": "a tenyér (a tenyér, mintha szétterítve lenne)",
+    "id": "telapak tangan (tangan, seperti direntangkan)",
+    "it": "il palmo (della mano, come se fosse disteso)",
+    "ja": "手のひら",
+    "ko": "손바닥(손바닥이 펼쳐진 상태)",
+    "lt": "delnas (kaip išskleista ranka)",
+    "lv": "plaukstas (kā izstieptas)",
+    "nb": "håndflaten (av hånden, som om den er spredt ut)",
+    "nl": "de palm (van de hand, als zijnde uitgespreid)",
+    "pl": "dłoń (jako rozłożona)",
+    "pt": "a palma (da mão, como se estivesse estendida)",
+    "ro": "palma (a mâinii, ca fiind întinsă)",
+    "ru": "ладонь (руки, как бы раздвинутая)",
+    "sk": "dlaň (ruky, akoby rozprestretá)",
+    "sl": "na dlani (kot razprta roka)",
+    "sv": "handflatan (av handen, som att den är utbredd)",
+    "tr": "avuç içi (elin yayılmış hali)",
+    "uk": "долоню (долоню, як розпростерту)",
+    "zh": "手掌"
+  },
+  "verses": [
+    "daniel 5:5:20",
+    "daniel 5:24:4"
+  ]
+}

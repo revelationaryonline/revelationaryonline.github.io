@@ -1,0 +1,43 @@
+{
+  "number": "H1866",
+  "language": "hebrew",
+  "transliteration": "dᵉrôwr",
+  "pronunciation": "der-ore'",
+  "definition": "the swift, a kind of swallow",
+  "kjvTranslation": "swallow.",
+  "translations": {
+    "bg": "бързолет, вид лястовица",
+    "cs": "rychlík, druh vlaštovky",
+    "da": "den hurtige, en slags svale",
+    "de": "der Mauersegler, eine Schwalbenart",
+    "el": "το γλαρόνι, ένα είδος χελιδονιού",
+    "es": "el vencejo, una especie de golondrina",
+    "et": "pääsukesed, mingi neeliku liik",
+    "fi": "joutsen, eräänlainen pääskynen",
+    "fr": "le martinet, une sorte d'hirondelle",
+    "hu": "a fecske, egy fecskefajta",
+    "id": "burung walet, sejenis burung layang-layang",
+    "it": "il rondone, una specie di rondine",
+    "ja": "ツバメの一種",
+    "ko": "스위프트, 제비의 일종",
+    "lt": "greitakojė, kuri yra savotiška lakštingala",
+    "lv": "straujtecis, lakstīgalas suga",
+    "nb": "tornskate, en slags svale",
+    "nl": "de gierzwaluw, een soort zwaluw",
+    "pl": "jerzyk, rodzaj jaskółki",
+    "pt": "o andorinhão, uma espécie de andorinha",
+    "ro": "lebăda, un fel de rândunică",
+    "ru": "стремительный, разновидность ласточки",
+    "sk": "rýchlokrídlovka, druh lastovičky",
+    "sl": "hitra lastovka, vrsta lastovke",
+    "sv": "tornseglare, ett slags svala",
+    "tr": "ebabil, bir tür kırlangıç",
+    "uk": "швидкий, різновид ластівки",
+    "zh": "鳦"
+  },
+  "hebrew": "דְּרוֹר",
+  "verses": [
+    "psalms 84:4:4",
+    "proverbs 26:2:2"
+  ]
+}

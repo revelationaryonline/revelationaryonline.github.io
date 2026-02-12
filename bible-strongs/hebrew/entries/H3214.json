@@ -1,0 +1,42 @@
+{
+  "number": "H3214",
+  "language": "hebrew",
+  "transliteration": "yᵉlêl",
+  "pronunciation": "yel-ale'",
+  "definition": "a howl",
+  "kjvTranslation": "howling.",
+  "translations": {
+    "bg": "вой",
+    "cs": "vytí",
+    "da": "et hyl",
+    "de": "ein Heulen",
+    "el": "ένα ουρλιαχτό",
+    "es": "un aullido",
+    "et": "ulgumine",
+    "fi": "ulvonta",
+    "fr": "un hurlement",
+    "hu": "egy üvöltés",
+    "id": "lolongan",
+    "it": "un ululato",
+    "ja": "遠吠え",
+    "ko": "울부짖음",
+    "lt": "ūžesys",
+    "lv": "kliedziens",
+    "nb": "et hyl",
+    "nl": "een brul",
+    "pl": "wycie",
+    "pt": "um uivo",
+    "ro": "un urlet",
+    "ru": "вой",
+    "sk": "zavýjanie",
+    "sl": "zavijanje",
+    "sv": "ett ylande",
+    "tr": "bir uluma",
+    "uk": "виття",
+    "zh": "一声嗥叫"
+  },
+  "hebrew": "יְלֵל",
+  "verses": [
+    "deuteronomy 32:10:4"
+  ]
+}

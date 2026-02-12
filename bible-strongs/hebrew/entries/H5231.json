@@ -1,0 +1,42 @@
+{
+  "number": "H5231",
+  "language": "hebrew",
+  "transliteration": "nêkel",
+  "pronunciation": "nay'-kel",
+  "definition": "deceit",
+  "kjvTranslation": "wile.",
+  "hebrew": "נֵכֶל",
+  "translations": {
+    "bg": "измама",
+    "cs": "podvod",
+    "da": "bedrageri",
+    "de": "betrug",
+    "el": "εξαπάτηση",
+    "es": "engaño",
+    "et": "pettus",
+    "fi": "petos",
+    "fr": "tromperie",
+    "hu": "csalás",
+    "id": "penipuan",
+    "it": "inganno",
+    "ja": "ぎへん",
+    "ko": "속임수",
+    "lt": "apgaulė",
+    "lv": "maldināšana",
+    "nb": "bedrageri",
+    "nl": "bedrog",
+    "pl": "oszustwo",
+    "pt": "engano",
+    "ro": "înșelăciune",
+    "ru": "обман",
+    "sk": "klamstvo",
+    "sl": "prevara",
+    "sv": "bedrägeri",
+    "tr": "aldatma",
+    "uk": "обман",
+    "zh": "诡诈"
+  },
+  "verses": [
+    "numbers 25:18:4"
+  ]
+}

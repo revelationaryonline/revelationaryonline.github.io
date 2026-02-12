@@ -1,0 +1,43 @@
+{
+  "number": "H1999",
+  "language": "hebrew",
+  "transliteration": "hămullâh",
+  "pronunciation": "ham-ool-law'",
+  "definition": "a sound",
+  "kjvTranslation": "speech, tumult.",
+  "translations": {
+    "bg": "звук",
+    "cs": "zvuk",
+    "da": "en lyd",
+    "de": "ein Ton",
+    "el": "έναν ήχο",
+    "es": "un sonido",
+    "et": "heli",
+    "fi": "ääni",
+    "fr": "un son",
+    "hu": "egy hang",
+    "id": "suara",
+    "it": "un suono",
+    "ja": "音",
+    "ko": "소리",
+    "lt": "garsas",
+    "lv": "skaņa",
+    "nb": "en lyd",
+    "nl": "een geluid",
+    "pl": "dźwięk",
+    "pt": "um som",
+    "ro": "un sunet",
+    "ru": "звук",
+    "sk": "zvuk",
+    "sl": "zvok",
+    "sv": "ett ljud",
+    "tr": "bir ses",
+    "uk": "звук",
+    "zh": "唅"
+  },
+  "hebrew": "הֲמֻלָּה",
+  "verses": [
+    "jeremiah 11:16:9",
+    "ezekiel 1:24:11"
+  ]
+}

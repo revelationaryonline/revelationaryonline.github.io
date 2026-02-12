@@ -1,0 +1,42 @@
+{
+  "number": "H8243",
+  "language": "hebrew",
+  "transliteration": "shâq",
+  "pronunciation": "shawk",
+  "definition": "the leg",
+  "kjvTranslation": "leg.",
+  "hebrew": "שָׁק",
+  "translations": {
+    "bg": "кракът",
+    "cs": "noha",
+    "da": "benet",
+    "de": "das Bein",
+    "el": "το πόδι",
+    "es": "la pierna",
+    "et": "jalg",
+    "fi": "jalka",
+    "fr": "la jambe",
+    "hu": "a láb",
+    "id": "kaki",
+    "it": "la gamba",
+    "ja": "足",
+    "ko": "다리",
+    "lt": "koja",
+    "lv": "kāja",
+    "nb": "beinet",
+    "nl": "het been",
+    "pl": "noga",
+    "pt": "a perna",
+    "ro": "piciorul",
+    "ru": "нога",
+    "sk": "noha",
+    "sl": "noga",
+    "sv": "benet",
+    "tr": "bacak",
+    "uk": "нога",
+    "zh": "脚"
+  },
+  "verses": [
+    "daniel 2:33:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5948",
+  "language": "hebrew",
+  "transliteration": "ʻălîyl",
+  "pronunciation": "al-eel'",
+  "definition": "probably a crucible (as working over the metal)",
+  "kjvTranslation": "furnace.",
+  "hebrew": "עֲלִיל",
+  "translations": {
+    "bg": "вероятно тигел (при работа над метала)",
+    "cs": "pravděpodobně tyglík (jako při práci nad kovem)",
+    "da": "sandsynligvis en smeltedigel (som arbejder over metallet)",
+    "de": "wahrscheinlich ein Schmelztiegel (wie bei der Bearbeitung des Metalls)",
+    "el": "πιθανότατα ένα χωνευτήρι (καθώς εργάζεται πάνω στο μέταλλο)",
+    "es": "probablemente un crisol (como trabajar sobre el metal)",
+    "et": "tõenäoliselt tiigel (nagu töötlemine üle metalli)",
+    "fi": "luultavasti upokas (koska metallin työstäminen)",
+    "fr": "probablement un creuset (car on travaille sur le métal)",
+    "hu": "valószínűleg egy tégely (mint a fém fölött dolgozó)",
+    "id": "mungkin sebuah wadah (karena bekerja di atas logam)",
+    "it": "probabilmente un crogiolo (come la lavorazione del metallo)",
+    "ja": "おそらくるつぼ（金属の上で作業するため）",
+    "ko": "아마도 도가니(금속 위에 작업할 때)",
+    "lt": "tikriausiai tiglis (kaip dirbant virš metalo)",
+    "lv": "iespējams, tīģelis (kā darbs virs metāla)",
+    "nb": "sannsynligvis en smeltedigel (som arbeider over metallet)",
+    "nl": "waarschijnlijk een smeltkroes (als werken boven het metaal)",
+    "pl": "prawdopodobnie tygiel (jako praca nad metalem)",
+    "pt": "provavelmente um cadinho (porque trabalha sobre o metal)",
+    "ro": "probabil un creuzet (deoarece se lucrează peste metal)",
+    "ru": "возможно, тигель (при работе над металлом)",
+    "sk": "pravdepodobne téglik (ako pri práci nad kovom)",
+    "sl": "verjetno lonček (kot obdelava nad kovino)",
+    "sv": "troligen en degel (när man arbetar över metallen)",
+    "tr": "muhtemelen bir pota (metal üzerinde çalışırken)",
+    "uk": "ймовірно, тигель (для обробки металу)",
+    "zh": "可能是坩埚"
+  },
+  "verses": [
+    "psalms 12:7:6"
+  ]
+}

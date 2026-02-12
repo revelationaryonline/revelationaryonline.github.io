@@ -1,0 +1,42 @@
+{
+  "number": "H3590",
+  "language": "hebrew",
+  "transliteration": "kîydôwd",
+  "pronunciation": "kee-dode'",
+  "definition": "properly, something struck off, i.e. a spark (as struck)",
+  "kjvTranslation": "spark.",
+  "translations": {
+    "bg": "правилно, нещо ударено, т.е. искра (като ударена)",
+    "cs": "správně, něco odražené, tj. jiskra (jako odražená)",
+    "da": "korrekt, noget, der er slået af, dvs. en gnist (som slået)",
+    "de": "richtig, etwas abgeschlagenes, d.h. ein Funke (wie abgeschlagen)",
+    "el": "σωστά, κάτι που χτυπήθηκε, δηλαδή μια σπίθα (όπως χτυπήθηκε)",
+    "es": "propiamente, algo golpeado, es decir, una chispa (como golpeado)",
+    "et": "korralikult, midagi maha löödud, st. säde (nagu löödud)",
+    "fi": "kunnolla, jotain, joka on lyöty irti, eli kipinä (lyötyinä)",
+    "fr": "proprement, quelque chose qui a été frappé, c'est-à-dire une étincelle (comme frappée)",
+    "hu": "megfelelően, valami lecsapott, azaz egy szikra (mint lecsapott)",
+    "id": "dengan benar, sesuatu yang dipukul, yaitu percikan api (seperti dipukul)",
+    "it": "propriamente, qualcosa di fulminato, cioè una scintilla (come scoccata)",
+    "ja": "ばちっと",
+    "ko": "올바르게는, 무언가가 튕겨져 나간 것, 즉 스파크(타격된 것)",
+    "lt": "tinkamai, kažkas išmuštas, t. y. kibirkštis (kaip išmušta)",
+    "lv": "pareizi, kaut kas izšauts, t.i., dzirkstele (kā izšauta)",
+    "nb": "egentlig, noe som er slått av, dvs. en gnist (som slått)",
+    "nl": "op de juiste manier, iets afgeslagen, d.w.z. een vonk (als geslagen)",
+    "pl": "prawidłowo, coś uderzonego, tj. iskra (jako uderzenie)",
+    "pt": "propriamente dito, uma coisa arrancada, ou seja, uma faísca (como arrancada)",
+    "ro": "propriu-zis, ceva izbit, adică o scânteie (ca lovit)",
+    "ru": "правильно, что-то отбитое, т.е. искра (как отбитая)",
+    "sk": "správne, niečo vyrazené, t. j. iskra (ako vyrazená)",
+    "sl": "pravilno, nekaj, kar se odbije, tj. iskra (kot odbitek)",
+    "sv": "i egentlig mening, något som slagits av, dvs. en gnista (som slagit)",
+    "tr": "düzgün bir şekilde, bir şey çarptı, yani bir kıvılcım (çarpmış gibi)",
+    "uk": "власне, щось викреслене, тобто іскра (як викреслена)",
+    "zh": "火花"
+  },
+  "hebrew": "כִידוֹד",
+  "verses": [
+    "job 41:11:3"
+  ]
+}

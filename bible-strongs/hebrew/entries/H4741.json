@@ -1,0 +1,42 @@
+{
+  "number": "H4741",
+  "language": "hebrew",
+  "transliteration": "maqtsuʻâh",
+  "pronunciation": "mak-tsoo-aw'",
+  "definition": "a scraper, i.e. a carving chisel",
+  "kjvTranslation": "plane.",
+  "hebrew": "מַקְצֻעָה",
+  "translations": {
+    "bg": "стъргалка, т.е. дърворезбарско длето",
+    "cs": "škrabku, tj. řezbářské dláto",
+    "da": "en skraber, dvs. en mejsel til at skære med",
+    "de": "eine Ziehklinge, d. h. ein Schnitzmeißel",
+    "el": "μια ξύστρα, δηλαδή ένα καλέμι για σκάλισμα",
+    "es": "un raspador, es decir, un cincel de tallar",
+    "et": "kaabits, st nikerdusmeisli",
+    "fi": "kaavin eli kaiverrustaltta",
+    "fr": "un grattoir, c'est-à-dire un ciseau à sculpter",
+    "hu": "egy kaparó, azaz faragóvéső",
+    "id": "pengikis, yaitu pahat ukir",
+    "it": "un raschietto, cioè uno scalpello da intaglio",
+    "ja": "スクレーパー、すなわち彫刻刀",
+    "ko": "스크레이퍼, 즉 조각 끌",
+    "lt": "grandiklį, t. y. drožimo kaltą",
+    "lv": "skrāpis, t. i., griezējkalts",
+    "nb": "en skrape, dvs. en meisel for utskjæring",
+    "nl": "een schraper, d.w.z. een snijbeitel",
+    "pl": "skrobak, tj. dłuto rzeźbiarskie",
+    "pt": "um raspador, ou seja, um cinzel de talhar",
+    "ro": "un răzuitor, adică o daltă de cioplit",
+    "ru": "скребок, т.е. резная стамеска",
+    "sk": "škrabku, t. j. rezbárske dláto",
+    "sl": "strgalo, tj. rezbarsko dleto",
+    "sv": "en skrapa, t.ex. en täljmejsel",
+    "tr": "bir kazıyıcı, yani bir oyma keskisi",
+    "uk": "скребок, тобто долото для різьблення",
+    "zh": "刮刀，即雕凿"
+  },
+  "verses": [
+    "isaiah 44:13:7"
+  ]
+}

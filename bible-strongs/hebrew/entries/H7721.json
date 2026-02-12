@@ -1,0 +1,42 @@
+{
+  "number": "H7721",
+  "language": "hebrew",
+  "transliteration": "sôwʼ",
+  "pronunciation": "so",
+  "definition": "a rising",
+  "kjvTranslation": "arise.",
+  "hebrew": "שׂוֹא",
+  "translations": {
+    "bg": "възходящ",
+    "cs": "stoupající",
+    "da": "en stigende",
+    "de": "eine steigende",
+    "el": "ένα ανερχόμενο",
+    "es": "un aumento",
+    "et": "tõusev",
+    "fi": "nouseva",
+    "fr": "une hausse",
+    "hu": "egy emelkedő",
+    "id": "meningkat",
+    "it": "una lievitazione",
+    "ja": "上昇",
+    "ko": "상승",
+    "lt": "kylantis",
+    "lv": "pieaugošs",
+    "nb": "en stigende",
+    "nl": "een stijgende",
+    "pl": "wzrost",
+    "pt": "uma subida",
+    "ro": "o creștere",
+    "ru": "восход",
+    "sk": "stúpajúca",
+    "sl": "naraščajoče",
+    "sv": "en stigande",
+    "tr": "yükselen",
+    "uk": "зростання",
+    "zh": "崛起"
+  },
+  "verses": [
+    "psalms 89:10:4"
+  ]
+}

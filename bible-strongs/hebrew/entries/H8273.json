@@ -1,0 +1,43 @@
+{
+  "number": "H8273",
+  "language": "hebrew",
+  "transliteration": "shârâb",
+  "pronunciation": "shaw-rawb'",
+  "definition": "quivering glow (of the air), expectation. the mirage",
+  "kjvTranslation": "heat, parched ground.",
+  "hebrew": "שָׁרָב",
+  "translations": {
+    "bg": "трептящо сияние (на въздуха), очакване. мираж",
+    "cs": "třesoucí se záře (vzduchu), očekávání. přelud",
+    "da": "sitrende glød (i luften), forventning. luftspejlingen",
+    "de": "zitterndes Glühen (der Luft), Erwartung. die Fata Morgana",
+    "el": "τρεμάμενη λάμψη (του αέρα), προσδοκία. η οφθαλμαπάτη",
+    "es": "resplandor tembloroso (del aire), expectación. el espejismo",
+    "et": "värisev kuma (õhus), ootus. miraaž",
+    "fi": "vapiseva hehku (ilmassa), odotus. mirage",
+    "fr": "lueur tremblante (de l'air), attente. le mirage",
+    "hu": "reszkető ragyogás (a levegőben), várakozás. a délibáb",
+    "id": "cahaya yang bergetar (dari udara), harapan. fatamorgana",
+    "it": "bagliore tremolante (dell'aria), aspettativa. il miraggio",
+    "ja": "戦慄の輝き、期待 蜃気楼",
+    "ko": "(공기의) 떨리는 빛, 기대. 신기루",
+    "lt": "mirguliuojantis švytėjimas (ore), lūkesčiai. miražas",
+    "lv": "mirdzošs mirdzums (gaisā), sagaidot. mirāža",
+    "nb": "dirrende glød (av luften), forventning. luftspeilingen",
+    "nl": "trillende gloed (van de lucht), verwachting. de luchtspiegeling",
+    "pl": "drżący blask (powietrza), oczekiwanie. miraż",
+    "pt": "brilho trémulo (do ar), expetativa. a miragem",
+    "ro": "strălucire tremurătoare (a aerului), așteptare. mirajul",
+    "ru": "зыбкое сияние (воздуха), ожидание. мираж",
+    "sk": "chvejúca sa žiara (vzduchu), očakávanie. mirage",
+    "sl": "trepetajoči sij (zraka), pričakovanje. mirage",
+    "sv": "skakande glöd (av luften), förväntan. hägring",
+    "tr": "(havanın) titreyen parıltısı, beklenti. serap",
+    "uk": "тремтливе сяйво (повітря), очікування. міраж",
+    "zh": "蜃景"
+  },
+  "verses": [
+    "isaiah 35:7:1",
+    "isaiah 49:10:6"
+  ]
+}

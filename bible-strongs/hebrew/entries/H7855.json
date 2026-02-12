@@ -1,0 +1,42 @@
+{
+  "number": "H7855",
+  "language": "hebrew",
+  "transliteration": "siṭnâh",
+  "pronunciation": "sit-naw'",
+  "definition": "opposition (by letter)",
+  "kjvTranslation": "accusation.",
+  "hebrew": "שִׂטְנָה",
+  "translations": {
+    "bg": "възражение (с писмо)",
+    "cs": "námitka (dopisem)",
+    "da": "indsigelse (pr. brev)",
+    "de": "widerspruch (per Brief)",
+    "el": "αντιπολίτευση (με επιστολή)",
+    "es": "oposición (por carta)",
+    "et": "vastulause (kirja teel)",
+    "fi": "vastustus (kirjeitse)",
+    "fr": "opposition (par lettre)",
+    "hu": "ellenvetés (levélben)",
+    "id": "oposisi (melalui surat)",
+    "it": "opposizione (per lettera)",
+    "ja": "はんたい",
+    "ko": "반대(편지)",
+    "lt": "prieštaravimas (laišku)",
+    "lv": "iebildumi (vēstulē)",
+    "nb": "innsigelse (per brev)",
+    "nl": "oppositie (per brief)",
+    "pl": "sprzeciw (listownie)",
+    "pt": "oposição (por carta)",
+    "ro": "opoziție (prin scrisoare)",
+    "ru": "оппозиция (письмом)",
+    "sk": "námietka (listom)",
+    "sl": "ugovor (v obliki pisma)",
+    "sv": "invändning (genom brev)",
+    "tr": "muhalefet (mektupla)",
+    "uk": "опозиція (письмово)",
+    "zh": "反对"
+  },
+  "verses": [
+    "ezra 4:6:5"
+  ]
+}

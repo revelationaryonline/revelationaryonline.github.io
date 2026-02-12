@@ -1,0 +1,43 @@
+{
+  "number": "H4412",
+  "language": "hebrew",
+  "transliteration": "mᵉlûwnâh",
+  "pronunciation": "mel-oo-naw'",
+  "definition": "a hut, a hammock",
+  "kjvTranslation": "cottage, lodge.",
+  "hebrew": "מְלוּנָה",
+  "translations": {
+    "bg": "колиба, хамак",
+    "cs": "chata, houpací síť",
+    "da": "en hytte, en hængekøje",
+    "de": "eine Hütte, eine Hängematte",
+    "el": "μια καλύβα, μια αιώρα",
+    "es": "una cabaña, una hamaca",
+    "et": "hütt, võrkkiik",
+    "fi": "mökki, riippumatto",
+    "fr": "une cabane, un hamac",
+    "hu": "egy kunyhó, egy függőágy",
+    "id": "gubuk, tempat tidur gantung",
+    "it": "una capanna, un'amaca",
+    "ja": "小屋、ハンモック",
+    "ko": "오두막, 해먹",
+    "lt": "namelis, hamakas",
+    "lv": "mājiņa, šūpuļtīkls",
+    "nb": "en hytte, en hengekøye",
+    "nl": "een hut, een hangmat",
+    "pl": "szałas, hamak",
+    "pt": "uma cabana, uma rede",
+    "ro": "o colibă, un hamac",
+    "ru": "хижина, гамак",
+    "sk": "chata, hojdacia sieť",
+    "sl": "koča, viseča mreža",
+    "sv": "en hydda, en hängmatta",
+    "tr": "bir kulübe, bir hamak",
+    "uk": "курінь, гамак",
+    "zh": "一间小屋，一张吊床"
+  },
+  "verses": [
+    "isaiah 1:8:5",
+    "isaiah 24:20:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5441",
+  "language": "hebrew",
+  "transliteration": "çôbek",
+  "pronunciation": "so'-bek",
+  "definition": "a copse",
+  "kjvTranslation": "thicket.",
+  "hebrew": "סֹבֶךְ",
+  "translations": {
+    "bg": "горичка",
+    "cs": "háj",
+    "da": "en skov",
+    "de": "ein Wäldchen",
+    "el": "ένα δάσος",
+    "es": "un bosquecillo",
+    "et": "põõsastik",
+    "fi": "metsikkö",
+    "fr": "un bosquet",
+    "hu": "egy erdő",
+    "id": "sebuah kopor",
+    "it": "un boschetto",
+    "ja": "雑木林",
+    "ko": "복사",
+    "lt": "miškelis",
+    "lv": "mežaudze",
+    "nb": "et skogholt",
+    "nl": "een bosje",
+    "pl": "zagajnik",
+    "pt": "um bosque",
+    "ro": "o pădure",
+    "ru": "роща",
+    "sk": "hájik",
+    "sl": "gozdiček",
+    "sv": "en skogsdunge",
+    "tr": "bir çalılık",
+    "uk": "гай",
+    "zh": "灌丛"
+  },
+  "verses": [
+    "jeremiah 4:7:2"
+  ]
+}

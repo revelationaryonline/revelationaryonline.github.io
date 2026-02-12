@@ -1,0 +1,42 @@
+{
+  "number": "H4085",
+  "language": "hebrew",
+  "transliteration": "mᵉdôkâh",
+  "pronunciation": "med-o-kaw'",
+  "definition": "a mortar",
+  "kjvTranslation": "mortar.",
+  "hebrew": "מְדֹכָה",
+  "translations": {
+    "bg": "хоросан",
+    "cs": "malta",
+    "da": "en morter",
+    "de": "ein Mörser",
+    "el": "ένα γουδί",
+    "es": "un mortero",
+    "et": "mördi",
+    "fi": "laasti",
+    "fr": "un mortier",
+    "hu": "habarcs",
+    "id": "mortir",
+    "it": "un mortaio",
+    "ja": "すり鉢",
+    "ko": "절구",
+    "lt": "skiedinys",
+    "lv": "java",
+    "nb": "en mørtel",
+    "nl": "een mortier",
+    "pl": "moździerz",
+    "pt": "uma argamassa",
+    "ro": "un mortar",
+    "ru": "миномёт",
+    "sk": "malta",
+    "sl": "malta",
+    "sv": "en murbruk",
+    "tr": "bir harç",
+    "uk": "міномет",
+    "zh": "迫击炮"
+  },
+  "verses": [
+    "numbers 11:8:7"
+  ]
+}

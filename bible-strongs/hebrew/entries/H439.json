@@ -1,0 +1,42 @@
+{
+  "number": "H439",
+  "language": "hebrew",
+  "transliteration": "ʼAllôwn Bâkûwth",
+  "pronunciation": "al-lone' baw-kooth'",
+  "definition": "Allon-Bakuth, a monumental tree",
+  "kjvTranslation": "Allon-bachuth.",
+  "translations": {
+    "bg": "Allon-Bakuth, монументално дърво",
+    "cs": "Allon-Bakuth, památný strom",
+    "da": "Allon-Bakuth, et monumentalt træ",
+    "de": "Allon-Bakuth, ein monumentaler Baum",
+    "el": "Allon-Bakuth, ένα μνημειώδες δέντρο",
+    "es": "Allon-Bakuth, un árbol monumental",
+    "et": "Allon-Bakuth, monumentaalne puu",
+    "fi": "Allon-Bakuth, monumentaalinen puu",
+    "fr": "Allon-Bakuth, un arbre monumental",
+    "hu": "Allon-Bakuth, egy monumentális fa",
+    "id": "Allon-Bakuth, sebuah pohon yang monumental",
+    "it": "Allon-Bakuth, un albero monumentale",
+    "ja": "アロン＝バクース、記念樹",
+    "ko": "기념비적인 나무, 알론 바쿠트",
+    "lt": "Allon-Bakuth, paminklinis medis",
+    "lv": "Allon-Bakuth, monumentāls koks",
+    "nb": "Allon-Bakuth, et monumentalt tre",
+    "nl": "Allon-Bakuth, een monumentale boom",
+    "pl": "Allon-Bakuth, pomnikowe drzewo",
+    "pt": "Allon-Bakuth, uma árvore monumental",
+    "ro": "Allon-Bakuth, un copac monumental",
+    "ru": "Аллон-Бакут, монументальное дерево",
+    "sk": "Allon-Bakuth, pamätný strom",
+    "sl": "Allon-Bakuth, monumentalno drevo",
+    "sv": "Allon-Bakuth, ett monumentalt träd",
+    "tr": "Allon-Bakuth, anıtsal bir ağaç",
+    "uk": "Аллон-Бакут, монументальне дерево",
+    "zh": "阿隆-巴库斯，一棵不朽的树"
+  },
+  "hebrew": "אַלּוֹן בָּכוּת",
+  "verses": [
+    "genesis 35:8:13"
+  ]
+}

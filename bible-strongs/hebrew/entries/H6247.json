@@ -1,0 +1,42 @@
+{
+  "number": "H6247",
+  "language": "hebrew",
+  "transliteration": "ʻesheth",
+  "pronunciation": "eh'-sheth",
+  "definition": "a fabric",
+  "kjvTranslation": "bright.",
+  "hebrew": "עֶשֶׁת",
+  "translations": {
+    "bg": "плат",
+    "cs": "tkanina",
+    "da": "et stof",
+    "de": "ein Gewebe",
+    "el": "ένα ύφασμα",
+    "es": "una tela",
+    "et": "kangas",
+    "fi": "kangas",
+    "fr": "un tissu",
+    "hu": "szövet",
+    "id": "sebuah kain",
+    "it": "un tessuto",
+    "ja": "織物",
+    "ko": "패브릭",
+    "lt": "audinys",
+    "lv": "audums",
+    "nb": "et stoff",
+    "nl": "een stof",
+    "pl": "tkanina",
+    "pt": "um tecido",
+    "ro": "o țesătură",
+    "ru": "ткань",
+    "sk": "tkanina",
+    "sl": "tkanina",
+    "sv": "ett tyg",
+    "tr": "bir kumaş",
+    "uk": "тканина",
+    "zh": "织物"
+  },
+  "verses": [
+    "solomon 5:14:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7443",
+  "language": "hebrew",
+  "transliteration": "renen",
+  "pronunciation": "reh'-nen",
+  "definition": "an ostrich (from its wail)",
+  "kjvTranslation": "[idiom] goodly.",
+  "hebrew": "רֶנֶן",
+  "translations": {
+    "bg": "щраус (от стенанието му)",
+    "cs": "pštros (podle jeho kvílení)",
+    "da": "en struds (fra dens skrig)",
+    "de": "ein Strauß (durch sein Heulen)",
+    "el": "μια στρουθοκάμηλος (από το ουρλιαχτό της)",
+    "es": "un avestruz (por su aullido)",
+    "et": "strauš (selle ulgumisest)",
+    "fi": "strutsi (sen ulvonnasta)",
+    "fr": "une autruche (de son cri)",
+    "hu": "egy strucc (az üvöltéséből)",
+    "id": "burung unta (dari rintihannya)",
+    "it": "uno struzzo (dal suo lamento)",
+    "ja": "ダチョウ",
+    "ko": "타조(울음소리에서)",
+    "lt": "strutis (nuo jo klyksmo)",
+    "lv": "strauss (no tā vaimanas)",
+    "nb": "en struts (fra dens skrik)",
+    "nl": "een struisvogel (van zijn gejammer)",
+    "pl": "struś (od jego zawodzenia)",
+    "pt": "uma avestruz (pelo seu gemido)",
+    "ro": "un struț (din țipătul său)",
+    "ru": "страус (по его крику)",
+    "sk": "pštros (z jeho kvílenia)",
+    "sl": "pštrosa (zaradi njegovega joka)",
+    "sv": "en struts (från dess klagan)",
+    "tr": "bir devekuşu (feryadından)",
+    "uk": "страус (від його крику)",
+    "zh": "鸵鸟"
+  },
+  "verses": [
+    "job 39:13:1"
+  ]
+}

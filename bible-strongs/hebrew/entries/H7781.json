@@ -1,0 +1,42 @@
+{
+  "number": "H7781",
+  "language": "hebrew",
+  "transliteration": "Shûwphâmîy",
+  "pronunciation": "shoo-faw-mee'",
+  "definition": "a Shuphamite (collectively) or descendants of Shephupham",
+  "kjvTranslation": "Shuphamite.",
+  "hebrew": "שׁוּפָמִי",
+  "translations": {
+    "bg": "шуфамити (колективно) или потомци на Шефуфам",
+    "cs": "šuphamovci (souhrnně) nebo potomci Šephamovců",
+    "da": "en shuphamit (kollektivt) eller efterkommere af Shephupham",
+    "de": "ein Schuphamit (kollektiv) oder Nachkommenschaft von Schupham",
+    "el": "ένας Σουφαμίτης (συλλογικά) ή απόγονοι του Σεφουφάμ",
+    "es": "un shuphamita (colectivamente) o descendientes de Shephupham",
+    "et": "šuphamite (kollektiivselt) või Šuphami järeltulijad",
+    "fi": "shuphamilaiset (kollektiivisesti) tai Shephuphamin jälkeläiset",
+    "fr": "un Shuphamite (collectivement) ou des descendants de Shephupham",
+    "hu": "sufamita (kollektíven) vagy Sufam leszármazottai",
+    "id": "orang Shupham (secara kolektif) atau keturunan Shephupham",
+    "it": "uno Shuphamita (collettivamente) o discendenti di Shephupham",
+    "ja": "シュパム人（総称）またはシェフパムの子孫",
+    "ko": "슈팜인(총칭) 또는 셰푸팜의 후손",
+    "lt": "šufamitai (bendrai) arba Šeufamo palikuonys",
+    "lv": "šuphamīti (kopā) vai Šefuphama pēcteči",
+    "nb": "en shuphamitt (kollektivt) eller etterkommere av Shephupham",
+    "nl": "een Shuphamiet (collectief) of afstammelingen van Shephupham",
+    "pl": "shuphamite (łącznie) lub potomkowie Shephupham",
+    "pt": "um shufamita (coletivamente) ou descendentes de Sefufão",
+    "ro": "un shuphamit (colectiv) sau descendenți ai lui Shephupham",
+    "ru": "шуфамиты (собирательно) или потомки Шефуфама",
+    "sk": "šuphamovci (spoločne) alebo potomkovia Šephamovcov",
+    "sl": "šuphamiti (skupaj) ali potomci Šephama",
+    "sv": "en Shuphamite (kollektivt) eller ättlingar till Shephupham",
+    "tr": "bir Şuphamlı (topluca) veya Şupham'ın soyundan gelenler",
+    "uk": "шуфамітом (спільно) або нащадками Шуфама",
+    "zh": "舒法姆人（统称）或舒法姆的后裔"
+  },
+  "verses": [
+    "numbers 26:39:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7897",
+  "language": "hebrew",
+  "transliteration": "shîyth",
+  "pronunciation": "sheeth",
+  "definition": "a dress (as put on)",
+  "kjvTranslation": "attire.",
+  "hebrew": "שִׁית",
+  "translations": {
+    "bg": "рокля (облечена)",
+    "cs": "šaty (jak se oblékají)",
+    "da": "en kjole (som man tager på)",
+    "de": "ein Kleid (wie angezogen)",
+    "el": "ένα φόρεμα (όπως φοριέται)",
+    "es": "un vestido (como se pone)",
+    "et": "kleit (kui see on selga pandud)",
+    "fi": "mekko (pukuna)",
+    "fr": "une robe (telle qu'elle est mise)",
+    "hu": "ruha (ahogyan felveszik)",
+    "id": "gaun (seperti yang dikenakan)",
+    "it": "un vestito (come indossato)",
+    "ja": "着付け",
+    "ko": "드레스(착용한 상태)",
+    "lt": "suknelė (vilkima)",
+    "lv": "kleita (kā tērps)",
+    "nb": "en kjole (som man tar på seg)",
+    "nl": "een jurk (zoals aangetrokken)",
+    "pl": "sukienka (założona)",
+    "pt": "um vestido (como se veste)",
+    "ro": "o rochie (îmbrăcată)",
+    "ru": "платье (как надеть)",
+    "sk": "šaty (ako sa obliekajú)",
+    "sl": "obleka (oblečena)",
+    "sv": "en klänning (som man tar på sig)",
+    "tr": "bir elbise (giyildiği gibi)",
+    "uk": "сукня (як одягається)",
+    "zh": "连衣裙"
+  },
+  "verses": [
+    "psalms 73:6:4",
+    "proverbs 7:10:3"
+  ]
+}

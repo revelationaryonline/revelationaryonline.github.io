@@ -1,0 +1,42 @@
+{
+  "number": "H4963",
+  "language": "hebrew",
+  "transliteration": "mathbên",
+  "pronunciation": "math-bane'",
+  "definition": "straw in the heap",
+  "kjvTranslation": "straw.",
+  "hebrew": "מַתְבֵּן",
+  "translations": {
+    "bg": "слама в купчината",
+    "cs": "sláma na hromadě",
+    "da": "halm i dyngen",
+    "de": "stroh auf dem Haufen",
+    "el": "άχυρα στο σωρό",
+    "es": "paja en el montón",
+    "et": "õled hunnikus",
+    "fi": "oljet kasassa",
+    "fr": "paille en tas",
+    "hu": "szalma a kupacban",
+    "id": "jerami di tumpukan",
+    "it": "paglia nel mucchio",
+    "ja": "藁の山",
+    "ko": "더미에 빨대",
+    "lt": "šiaudų krūva",
+    "lv": "salmu kaudzē",
+    "nb": "halm i haugen",
+    "nl": "stro op de hoop",
+    "pl": "słoma w stogu",
+    "pt": "palha no monte",
+    "ro": "paie în grămadă",
+    "ru": "солома в куче",
+    "sk": "slama v kope",
+    "sl": "slama na kupu",
+    "sv": "halm i högen",
+    "tr": "saman yığınında",
+    "uk": "солома в купі",
+    "zh": "草堆"
+  },
+  "verses": [
+    "isaiah 25:10:10"
+  ]
+}

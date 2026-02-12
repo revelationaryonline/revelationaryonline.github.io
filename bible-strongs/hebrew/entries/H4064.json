@@ -1,0 +1,43 @@
+{
+  "number": "H4064",
+  "language": "hebrew",
+  "transliteration": "madveh",
+  "pronunciation": "mad-veh'",
+  "definition": "sickness",
+  "kjvTranslation": "disease.",
+  "hebrew": "מַדְוֶה",
+  "translations": {
+    "bg": "болест",
+    "cs": "nemoc",
+    "da": "sygdom",
+    "de": "krankheit",
+    "el": "ασθένεια",
+    "es": "enfermedad",
+    "et": "haigus",
+    "fi": "sairaus",
+    "fr": "maladie",
+    "hu": "betegség",
+    "id": "penyakit",
+    "it": "malattia",
+    "ja": "病気",
+    "ko": "질병",
+    "lt": "liga",
+    "lv": "slimība",
+    "nb": "sykdom",
+    "nl": "ziekte",
+    "pl": "choroba",
+    "pt": "doença",
+    "ro": "boală",
+    "ru": "болезнь",
+    "sk": "choroba",
+    "sl": "bolezen",
+    "sv": "sjukdom",
+    "tr": "hastalık",
+    "uk": "хвороба",
+    "zh": "疾病"
+  },
+  "verses": [
+    "deuteronomy 7:15:6",
+    "deuteronomy 28:60:4"
+  ]
+}

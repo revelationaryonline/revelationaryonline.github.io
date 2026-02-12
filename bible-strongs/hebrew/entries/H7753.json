@@ -1,0 +1,43 @@
+{
+  "number": "H7753",
+  "language": "hebrew",
+  "transliteration": "sûwk",
+  "pronunciation": "sook",
+  "definition": "to entwine, i.e. shut in (for formation, protection or restraint)",
+  "kjvTranslation": "fence, (make an) hedge (up).",
+  "hebrew": "שׂוּךְ",
+  "translations": {
+    "bg": "да се преплете, т.е. да се затвори (за образуване, защита или задържане)",
+    "cs": "proplétat, tj. uzavírat (pro vytvoření, ochranu nebo omezení)",
+    "da": "at sammenflette, dvs. lukke inde (for at danne, beskytte eller fastholde)",
+    "de": "umschlingen, d.h. einschließen (zur Bildung, zum Schutz oder zur Zurückhaltung)",
+    "el": "περιπλέκω, δηλαδή κλείνω μέσα (για σχηματισμό, προστασία ή συγκράτηση)",
+    "es": "entrelazar, es decir, encerrar (para formación, protección o contención)",
+    "et": "põimida, st sulgeda (moodustamiseks, kaitseks või kinnipidamiseks)",
+    "fi": "kietoutua eli sulkea sisään (muodostumista, suojaa tai hillitsemistä varten)",
+    "fr": "s'entrelacer, c'est-à-dire s'enfermer (pour se former, se protéger ou se retenir)",
+    "hu": "behálózni, azaz bezárni (alakítás, védelem vagy visszatartás céljából)",
+    "id": "untuk membelit, yaitu menutup (untuk pembentukan, perlindungan, atau pengekangan)",
+    "it": "intrecciare, cioè chiudere (per formare, proteggere o trattenere)",
+    "ja": "絡める、つまり閉じ込める（形成、保護、拘束のために）",
+    "ko": "얽히다, 즉 폐쇄하다(형성, 보호 또는 구속을 위해)",
+    "lt": "apipinti, t. y. uždaryti (siekiant suformuoti, apsaugoti ar apriboti)",
+    "lv": "apvīt, t.i., noslēgt (veidošanai, aizsardzībai vai ierobežošanai)",
+    "nb": "å flette sammen, dvs. stenge inne (for å danne, beskytte eller holde tilbake)",
+    "nl": "verstrengelen, d.w.z. insluiten (voor vorming, bescherming of terughoudendheid)",
+    "pl": "oplatać, tj. zamykać (w celu uformowania, ochrony lub ograniczenia)",
+    "pt": "entrelaçar, ou seja, fechar (para formação, proteção ou contenção)",
+    "ro": "a împleti, adică a închide (pentru formare, protecție sau reținere)",
+    "ru": "переплетаться, т.е. замыкаться в себе (для формирования, защиты или сдерживания)",
+    "sk": "prepliesť, t. j. uzavrieť (na vytvorenie, ochranu alebo obmedzenie)",
+    "sl": "prepletati, tj. zapirati (za oblikovanje, zaščito ali omejitev)",
+    "sv": "att snärja, dvs. stänga in (för bildning, skydd eller fasthållande)",
+    "tr": "sarmalamak, yani kapatmak (oluşum, koruma veya kısıtlama için)",
+    "uk": "обплітати, тобто замикати (для формування, захисту або стримування)",
+    "zh": "缠绕，即闭合（形成、保护或约束）"
+  },
+  "verses": [
+    "job 1:10:3",
+    "hosea 2:8:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7942",
+  "language": "hebrew",
+  "transliteration": "Shikkᵉrôwn",
+  "pronunciation": "shik-ker-one'",
+  "definition": "drunkenness, Shikkeron, a place in Palestine",
+  "kjvTranslation": "Shicron.",
+  "hebrew": "שִׁכְּרוֹן",
+  "translations": {
+    "bg": "пиянство, Shikkeron, място в Палестина",
+    "cs": "opilost, Šikkeron, místo v Palestině",
+    "da": "beruselse, Shikkeron, et sted i Palæstina",
+    "de": "trunkenheit, Shikkeron, ein Ort in Palästina",
+    "el": "μέθη, Shikkeron, ένας τόπος στην Παλαιστίνη",
+    "es": "borrachera, Shikkeron, un lugar en Palestina",
+    "et": "purjusolek, Shikkeron, koht Palestiinas",
+    "fi": "juoppous, Shikkeron, paikka Palestiinassa",
+    "fr": "ivresse, Shikkeron, lieu en Palestine",
+    "hu": "részegség, Shikkeron, egy hely Palesztinában",
+    "id": "kemabukan, Shikkeron, sebuah tempat di Palestina",
+    "it": "ubriachezza, Shikkeron, località della Palestina",
+    "ja": "酔っぱらい、シッケロン（パレスチナの地名",
+    "ko": "술 취함, 시크케론, 팔레스타인의 한 장소",
+    "lt": "girtuoklystė, Šikkeronas, vieta Palestinoje",
+    "lv": "dzeršana, Shikkeron, vieta Palestīnā",
+    "nb": "drukkenskap, Shikkeron, et sted i Palestina",
+    "nl": "dronkenschap, Shikkeron, een plaats in Palestina",
+    "pl": "pijaństwo, Shikkeron, miejsce w Palestynie",
+    "pt": "embriaguez, Shikkeron, um lugar na Palestina",
+    "ro": "beție, Shikkeron, un loc în Palestina",
+    "ru": "пьянство, Шиккерон, место в Палестине",
+    "sk": "opilstvo, Šikkeron, miesto v Palestíne",
+    "sl": "pijanost, Shikkeron, kraj v Palestini",
+    "sv": "fylleri, Shikkeron, en plats i Palestina",
+    "tr": "sarhoşluk, Shikkeron, Filistin'de bir yer",
+    "uk": "пияцтво, Шиккерон, місце в Палестині",
+    "zh": "醉酒，Shikkeron，巴勒斯坦的一个地方"
+  },
+  "verses": [
+    "joshua 15:11:8"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2309",
+  "language": "hebrew",
+  "transliteration": "chedel",
+  "pronunciation": "kheh'-del",
+  "definition": "rest, i.e. the state of the dead",
+  "kjvTranslation": "world.",
+  "translations": {
+    "bg": "почивка, т.е. състоянието на мъртвите",
+    "cs": "odpočinek, tj. stav mrtvých",
+    "da": "hvile, dvs. de dødes tilstand",
+    "de": "ruhe, d.h. der Zustand der Toten",
+    "el": "ανάπαυση, δηλαδή η κατάσταση των νεκρών",
+    "es": "el descanso, es decir, el estado de los muertos",
+    "et": "puhkamine, st surnute seisund",
+    "fi": "lepo eli kuolleiden tila",
+    "fr": "le repos, c'est-à-dire l'état des morts",
+    "hu": "nyugalom, azaz a halottak állapota",
+    "id": "istirahat, yaitu keadaan orang mati",
+    "it": "il riposo, cioè lo stato dei morti",
+    "ja": "休息、すなわち死者の状態",
+    "ko": "휴식, 즉 죽은 자의 상태",
+    "lt": "poilsis, t. y. mirusiųjų būklė",
+    "lv": "atpūta, t. i., mirušo stāvoklis",
+    "nb": "hvile, dvs. de dødes tilstand",
+    "nl": "rust, d.w.z. de staat van de doden",
+    "pl": "odpoczynek, tj. stan zmarłych",
+    "pt": "o repouso, ou seja, o estado dos mortos",
+    "ro": "odihnă, adică starea morților",
+    "ru": "покой, т.е. состояние мертвых",
+    "sk": "odpočinok, t. j. stav mŕtvych",
+    "sl": "počitek, tj. stanje mrtvih",
+    "sv": "vila, d.v.s. de dödas tillstånd",
+    "tr": "dinlenme, yani ölülerin durumu",
+    "uk": "відпочинок, тобто стан мертвих",
+    "zh": "安息，即死者的状态"
+  },
+  "hebrew": "חֶדֶל",
+  "verses": [
+    "isaiah 38:11:13"
+  ]
+}

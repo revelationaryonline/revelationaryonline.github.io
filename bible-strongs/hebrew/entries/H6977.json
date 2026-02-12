@@ -1,0 +1,43 @@
+{
+  "number": "H6977",
+  "language": "hebrew",
+  "transliteration": "qᵉvutstsâh",
+  "pronunciation": "kev-oots-tsaw'",
+  "definition": "a forelock (as shorn)",
+  "kjvTranslation": "lock.",
+  "hebrew": "קְוֻצָּה",
+  "translations": {
+    "bg": "кичур (подстриган)",
+    "cs": "předkožka (ostříhaná)",
+    "da": "en pandelok (som klippet)",
+    "de": "eine Stirnlocke (wie geschoren)",
+    "el": "μια περούκα (όπως κουρεύεται)",
+    "es": "una trenza (trasquilada)",
+    "et": "eesnahk (nagu lõigatud)",
+    "fi": "otsatukka (ajettuna)",
+    "fr": "un front (tondu)",
+    "hu": "egy fürt (mint nyírt)",
+    "id": "jambul (seperti yang dicukur)",
+    "it": "un ciuffo (come tosato)",
+    "ja": "前髪",
+    "ko": "앞머리(삭발한 상태)",
+    "lt": "kaktą (nukirptą)",
+    "lv": "priekškāja (kā cirpta)",
+    "nb": "en hårlokk (som klippet)",
+    "nl": "een kuif (zoals geschoren)",
+    "pl": "grzywka (jak strzyżona)",
+    "pt": "um topete (como tosquiado)",
+    "ro": "o șuviță (ca tunsă)",
+    "ru": "лоб (как сбритый)",
+    "sk": "predlaktie (ostrihané)",
+    "sl": "čelo (postriženo)",
+    "sv": "en hårlock (som klippt)",
+    "tr": "bir ön ayak (kırpılmış olarak)",
+    "uk": "чуб (як підстрижений)",
+    "zh": "鬙"
+  },
+  "verses": [
+    "solomon 5:2:16",
+    "solomon 5:11:3"
+  ]
+}

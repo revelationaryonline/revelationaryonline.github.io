@@ -1,0 +1,43 @@
+{
+  "number": "H6321",
+  "language": "hebrew",
+  "transliteration": "pôwl",
+  "pronunciation": "pole",
+  "definition": "a bean (as plump)",
+  "kjvTranslation": "beans.",
+  "hebrew": "פּוֹל",
+  "translations": {
+    "bg": "боб (като пухкав)",
+    "cs": "fazole (jako baculatá)",
+    "da": "en bønne (som plump)",
+    "de": "eine Bohne (wie plump)",
+    "el": "ένα φασόλι (ως παχουλό)",
+    "es": "a bean (as plump)",
+    "et": "uba (kui punnis)",
+    "fi": "papu (pulleana)",
+    "fr": "un haricot (comme dodu)",
+    "hu": "bab (mint plump)",
+    "id": "sebuah kacang (seperti kacang yang montok)",
+    "it": "un fagiolo (come grassoccio)",
+    "ja": "豆",
+    "ko": "콩 1개(통통한 상태)",
+    "lt": "pupelė (kaip pūslė)",
+    "lv": "pupiņas (kā plūksnainas)",
+    "nb": "en bønne (som plump)",
+    "nl": "een boon (als mollig)",
+    "pl": "fasola (jako pulchna)",
+    "pt": "um feijão (como um feijão gordo)",
+    "ro": "a bean (as plump)",
+    "ru": "фасоль (как пухлая)",
+    "sk": "fazuľa (ako bacuľatá)",
+    "sl": "fižol (kot debel)",
+    "sv": "en böna (som fyllig)",
+    "tr": "bir fasulye (dolgun olarak)",
+    "uk": "квасоля (така ж пухка)",
+    "zh": "蚕豆"
+  },
+  "verses": [
+    "secondSamuel 17:28:8",
+    "ezekiel 4:9:5"
+  ]
+}

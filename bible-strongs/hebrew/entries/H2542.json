@@ -1,0 +1,42 @@
+{
+  "number": "H2542",
+  "language": "hebrew",
+  "transliteration": "chammûwq",
+  "pronunciation": "kham-mook'",
+  "definition": "a wrapping, i.e. drawers",
+  "kjvTranslation": "joints.",
+  "translations": {
+    "bg": "опаковка, т.е. чекмеджета",
+    "cs": "obal, tj. zásuvky",
+    "da": "en indpakning, dvs. skuffer",
+    "de": "eine Umhüllung, d.h. Schubladen",
+    "el": "ένα περιτύλιγμα, δηλαδή συρτάρια",
+    "es": "un envoltorio, es decir, cajones",
+    "et": "pakend, st sahtlid, s.t. sahtlid",
+    "fi": "kääreet, eli laatikot",
+    "fr": "un emballage, c'est-à-dire des tiroirs",
+    "hu": "csomagolás, azaz fiókok",
+    "id": "pembungkus, yaitu laci",
+    "it": "un involucro, cioè dei cassetti",
+    "ja": "包み、すなわち引き出し",
+    "ko": "포장, 즉 서랍",
+    "lt": "įvyniojimas, t. y. stalčiai",
+    "lv": "iesaiņojums, t. i., atvilktnes",
+    "nb": "en innpakning, dvs. skuffer",
+    "nl": "een verpakking, d.w.z. laden",
+    "pl": "opakowanie, tj. szuflady",
+    "pt": "um invólucro, ou seja, gavetas",
+    "ro": "o împachetare, adică sertare",
+    "ru": "упаковка, т.е. ящики",
+    "sk": "balenie, t. j. zásuvky",
+    "sl": "ovoj, tj. predali",
+    "sv": "en förpackning, dvs. lådor",
+    "tr": "bir sargı, yani çekmeceler",
+    "uk": "обгортку, тобто шухляди",
+    "zh": "包装，即抽屉"
+  },
+  "hebrew": "חַמּוּק",
+  "verses": [
+    "solomon 7:2:6"
+  ]
+}

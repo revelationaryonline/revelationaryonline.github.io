@@ -1,0 +1,42 @@
+{
+  "number": "H975",
+  "language": "hebrew",
+  "transliteration": "bachan",
+  "pronunciation": "bakh'-an",
+  "definition": "a watch-tower",
+  "kjvTranslation": "tower.",
+  "translations": {
+    "bg": "наблюдателна кула",
+    "cs": "strážní věž",
+    "da": "et vagttårn",
+    "de": "einen Wachturm",
+    "el": "ένα παρατηρητήριο",
+    "es": "una torre de vigilancia",
+    "et": "vaatetorn",
+    "fi": "vartiotorni",
+    "fr": "une tour de guet",
+    "hu": "egy őrtorony",
+    "id": "menara pengawas",
+    "it": "una torre di guardia",
+    "ja": "望楼",
+    "ko": "시계탑",
+    "lt": "sargybos bokštas",
+    "lv": "sardzes tornis",
+    "nb": "et vakttårn",
+    "nl": "een uitkijktoren",
+    "pl": "wieża strażnicza",
+    "pt": "uma torre de vigia",
+    "ro": "un turn de veghe",
+    "ru": "сторожевая башня",
+    "sk": "strážna veža",
+    "sl": "stražni stolp",
+    "sv": "ett vakttorn",
+    "tr": "bir gözetleme kulesi",
+    "uk": "сторожова вежа",
+    "zh": "岗楼"
+  },
+  "hebrew": "בַּחַן",
+  "verses": [
+    "isaiah 32:14:7"
+  ]
+}

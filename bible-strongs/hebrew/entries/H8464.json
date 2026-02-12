@@ -1,0 +1,43 @@
+{
+  "number": "H8464",
+  "language": "hebrew",
+  "transliteration": "tachmâç",
+  "pronunciation": "takh-mawce'",
+  "definition": "a species of unclean bird (from its violence), perhaps an owl",
+  "kjvTranslation": "night hawk.",
+  "hebrew": "תַּחְמָס",
+  "translations": {
+    "bg": "вид нечиста птица (заради насилието ѝ), може би сова",
+    "cs": "druh nečistého ptáka (podle jeho násilí), snad sova",
+    "da": "en art af uren fugl (på grund af dens voldsomhed), måske en ugle",
+    "de": "eine Art unreiner Vogel (wegen seiner Gewalttätigkeit), vielleicht eine Eule",
+    "el": "ένα είδος ακάθαρτου πουλιού (από τη βία του), ίσως μια κουκουβάγια",
+    "es": "una especie de ave impura (por su violencia), tal vez un búho",
+    "et": "mingi roojane linnuliik (selle vägivallast), võib-olla öökull",
+    "fi": "epäpuhdas lintulaji (sen väkivaltaisuudesta johtuen), ehkä pöllö",
+    "fr": "une espèce d'oiseau impur (à cause de sa violence), peut-être un hibou",
+    "hu": "egy tisztátalan madárfaj (az erőszakossága miatt), talán egy bagoly",
+    "id": "spesies burung yang najis (karena kekerasannya), mungkin burung hantu",
+    "it": "una specie di uccello impuro (per la sua violenza), forse un gufo",
+    "ja": "穢れた鳥の一種（その暴力性から）、おそらくフクロウ",
+    "ko": "부정한 새의 한 종 (폭력성에서), 아마도 올빼미 일 것입니다",
+    "lt": "nešvarus paukštis (dėl smurto), galbūt pelėda",
+    "lv": "nešķīsta putna suga (no tās vardarbības), varbūt pūce",
+    "nb": "en uren fugleart (på grunn av volden), kanskje en ugle",
+    "nl": "een soort onreine vogel (vanwege het geweld), misschien een uil",
+    "pl": "gatunek nieczystego ptaka (ze względu na jego gwałtowność), być może sowa",
+    "pt": "uma espécie de ave impura (pela sua violência), talvez uma coruja",
+    "ro": "o specie de pasăre necurată (din cauza violenței sale), poate o bufniță",
+    "ru": "вид нечистой птицы (из-за ее жестокости), возможно, сова",
+    "sk": "druh nečistého vtáka (z jeho násilia), možno sova",
+    "sl": "vrsta nečiste ptice (zaradi nasilja), morda sova",
+    "sv": "en art av oren fågel (på grund av dess våldsamhet), kanske en uggla",
+    "tr": "kirli bir kuş türü (şiddetinden dolayı), belki bir baykuş",
+    "uk": "вид нечистого птаха (від його насильства), можливо, сова",
+    "zh": "一种不洁的鸟（从它的暴力来看），也许是猫头鹰"
+  },
+  "verses": [
+    "leviticus 11:16:4",
+    "deuteronomy 14:15:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8103",
+  "language": "hebrew",
+  "transliteration": "shimtsâh",
+  "pronunciation": "shim-tsaw'",
+  "definition": "scornful whispering (of hostile spectators)",
+  "kjvTranslation": "shame.",
+  "hebrew": "שִׁמְצָה",
+  "translations": {
+    "bg": "пренебрежителен шепот (на враждебно настроени зрители)",
+    "cs": "pohrdavý šepot (nepřátelských diváků)",
+    "da": "hånlig hvisken (fra fjendtlige tilskuere)",
+    "de": "verächtliches Getuschel (von feindseligen Zuschauern)",
+    "el": "περιφρονητικοί ψίθυροι (εχθρικών θεατών)",
+    "es": "susurro desdeñoso (de espectadores hostiles)",
+    "et": "põlglik sosinatamine (vaenulikest pealtvaatajatest)",
+    "fi": "(vihamielisten katsojien) halveksuva kuiskuttelu",
+    "fr": "chuchotements méprisants (de spectateurs hostiles)",
+    "hu": "gúnyos suttogás (az ellenséges nézők részéről)",
+    "id": "bisikan bernada mengejek (dari penonton yang tidak bersahabat)",
+    "it": "mormorio sprezzante (di spettatori ostili)",
+    "ja": "ひそひそばなし",
+    "ko": "(적대적인 관중들의) 경멸적인 속삭임",
+    "lt": "paniekinantis šnabždesys (priešiškai nusiteikusių žiūrovų)",
+    "lv": "nicinoša čukstēšana (no naidīgi noskaņotiem skatītājiem)",
+    "nb": "hånlig hvisking (fra fiendtlig innstilte tilskuere)",
+    "nl": "minachtend gefluister (van vijandige toeschouwers)",
+    "pl": "pogardliwe szepty (wrogich widzów)",
+    "pt": "murmúrio desdenhoso (de espectadores hostis)",
+    "ro": "șoaptă disprețuitoare (a spectatorilor ostili)",
+    "ru": "презрительный шепот (враждебно настроенных зрителей)",
+    "sk": "pohŕdavý šepot (nepriateľských divákov)",
+    "sl": "prezirljivo šepetanje (sovražnih gledalcev)",
+    "sv": "hånfullt viskande (av fientliga åskådare)",
+    "tr": "(düşman seyircilerin) küçümseyici fısıldaşmaları",
+    "uk": "презирливий шепіт (вороже налаштованих глядачів)",
+    "zh": "冷嘲热讽"
+  },
+  "verses": [
+    "exodus 32:25:10"
+  ]
+}

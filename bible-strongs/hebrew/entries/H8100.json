@@ -1,0 +1,43 @@
+{
+  "number": "H8100",
+  "language": "hebrew",
+  "transliteration": "Shimʻath",
+  "pronunciation": "shim-awth'",
+  "definition": "Shimath, an Ammonitess",
+  "kjvTranslation": "Shimath.",
+  "hebrew": "שִׁמְעַת",
+  "translations": {
+    "bg": "Симат, амонитка",
+    "cs": "Šimat, amonitka",
+    "da": "Shimath, en ammonitinde",
+    "de": "Schimath, eine Ammonitin",
+    "el": "Σιμάθ, μια Αμμωνίτισσα",
+    "es": "Simat, amonita",
+    "et": "Šimath, ammonitarist",
+    "fi": "Simath, ammonitarialainen",
+    "fr": "Shimath, une Ammonitrice",
+    "hu": "Simát, egy ammonitán nő",
+    "id": "Shimath, seorang wanita Amon",
+    "it": "Shimath, una Ammonita",
+    "ja": "アンモナイトのシマト",
+    "ko": "암모니테스 시마스",
+    "lt": "Šimatas, amonitė",
+    "lv": "Šimats, amonīte",
+    "nb": "Shimath, en ammonittisk kvinne",
+    "nl": "Sjimath, een Ammonitaanse",
+    "pl": "Shimath, ammonitka",
+    "pt": "Shimath, uma amonita",
+    "ro": "Șimat, o amonită",
+    "ru": "Шимат, аммонитянка",
+    "sk": "Šimat, Amončanka",
+    "sl": "Šimat, Amonitka",
+    "sv": "Shimath, en Ammonitess",
+    "tr": "Shimath, bir Ammonitess",
+    "uk": "Шимат, амонітка",
+    "zh": "女亚扪人希玛特"
+  },
+  "verses": [
+    "secondKings 12:22:2",
+    "secondChronicles 24:26:5"
+  ]
+}

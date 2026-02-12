@@ -1,0 +1,42 @@
+{
+  "number": "H8226",
+  "language": "hebrew",
+  "transliteration": "sâphan",
+  "pronunciation": "saw-fan'",
+  "definition": "to conceal (as a valuable)",
+  "kjvTranslation": "treasure.",
+  "hebrew": "שָׂפַן",
+  "translations": {
+    "bg": "да се скрие (като ценност)",
+    "cs": "ukrýt (jako cennost)",
+    "da": "at skjule (som en værdi)",
+    "de": "zu verbergen (als Wertgegenstand)",
+    "el": "να αποκρύψετε (ως πολύτιμο)",
+    "es": "ocultar (como algo valioso)",
+    "et": "varjata (kui väärtuslik)",
+    "fi": "kätkeä (arvokkaana)",
+    "fr": "dissimuler (comme une valeur)",
+    "hu": "elrejteni (mint értékeset)",
+    "id": "untuk menyembunyikan (sebagai sesuatu yang berharga)",
+    "it": "nascondere (come un oggetto di valore)",
+    "ja": "隠す",
+    "ko": "숨기다 (귀중한)",
+    "lt": "slėpti (kaip vertingą daiktą)",
+    "lv": "noslēpt (kā vērtīgu)",
+    "nb": "å skjule (som noe verdifullt)",
+    "nl": "verbergen (als waardevol)",
+    "pl": "ukrywać (jako wartość)",
+    "pt": "esconder (como um valor)",
+    "ro": "a ascunde (ca o valoare)",
+    "ru": "скрывать (ценное)",
+    "sk": "ukryť (ako cennosť)",
+    "sl": "skriti (kot dragocenost)",
+    "sv": "att dölja (som ett värde)",
+    "tr": "gizlemek (değerli bir şey olarak)",
+    "uk": "приховувати (як цінність)",
+    "zh": "藏匿"
+  },
+  "verses": [
+    "deuteronomy 33:19:11"
+  ]
+}

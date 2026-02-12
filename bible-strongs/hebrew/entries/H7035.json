@@ -1,0 +1,42 @@
+{
+  "number": "H7035",
+  "language": "hebrew",
+  "transliteration": "qâlahh",
+  "pronunciation": "kaw-lah'",
+  "definition": "to assemble",
+  "kjvTranslation": "gather together.",
+  "hebrew": "קָלַהּ",
+  "translations": {
+    "bg": "за сглобяване",
+    "cs": "sestavit",
+    "da": "til at samle",
+    "de": "zu montieren",
+    "el": "να συναρμολογήσει",
+    "es": "ensamblar",
+    "et": "kokku panna",
+    "fi": "koota",
+    "fr": "à assembler",
+    "hu": "összeszerelni",
+    "id": "untuk merakit",
+    "it": "per assemblare",
+    "ja": "組み立てる",
+    "ko": "조립하려면",
+    "lt": "surinkti",
+    "lv": "montēt",
+    "nb": "for å sette sammen",
+    "nl": "monteren",
+    "pl": "złożyć",
+    "pt": "para montar",
+    "ro": "pentru a asambla",
+    "ru": "собрать",
+    "sk": "zostaviť",
+    "sl": "za sestavljanje",
+    "sv": "för att montera",
+    "tr": "bir araya getirmek için",
+    "uk": "зібрати",
+    "zh": "组装"
+  },
+  "verses": [
+    "secondSamuel 20:14:9"
+  ]
+}

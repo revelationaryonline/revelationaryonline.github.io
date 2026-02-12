@@ -1,0 +1,42 @@
+{
+  "number": "H538",
+  "language": "hebrew",
+  "transliteration": "ʼĂmâm",
+  "pronunciation": "am-awm'",
+  "definition": "Amam, a place in Palestine",
+  "kjvTranslation": "Amam.",
+  "translations": {
+    "bg": "Amam, място в Палестина",
+    "cs": "Amam, místo v Palestině",
+    "da": "Amam, et sted i Palæstina",
+    "de": "Amam, ein Ort in Palästina",
+    "el": "Amam, τόπος στην Παλαιστίνη",
+    "es": "Amam, un lugar en Palestina",
+    "et": "Amam, koht Palestiinas",
+    "fi": "Amam, paikka Palestiinassa",
+    "fr": "Amam, localité de Palestine",
+    "hu": "Amam, egy hely Palesztinában",
+    "id": "Amam, sebuah tempat di Palestina",
+    "it": "Amam, località della Palestina",
+    "ja": "パレスチナの地名、アマム",
+    "ko": "아맘, 팔레스타인의 한 장소",
+    "lt": "Amam, vietovė Palestinoje",
+    "lv": "Amam, vieta Palestīnā",
+    "nb": "Amam, et sted i Palestina",
+    "nl": "Amam, een plaats in Palestina",
+    "pl": "Amam, miejscowość w Palestynie",
+    "pt": "Amam, um lugar na Palestina",
+    "ro": "Amam, un loc în Palestina",
+    "ru": "Амам, местечко в Палестине",
+    "sk": "Amam, miesto v Palestíne",
+    "sl": "Amam, kraj v Palestini",
+    "sv": "Amam, en plats i Palestina",
+    "tr": "Amam, Filistin'de bir yer",
+    "uk": "Амам, місце в Палестині",
+    "zh": "亚目"
+  },
+  "hebrew": "אֲמָם",
+  "verses": [
+    "joshua 15:26:0"
+  ]
+}

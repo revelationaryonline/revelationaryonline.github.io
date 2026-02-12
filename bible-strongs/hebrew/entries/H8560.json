@@ -1,0 +1,43 @@
+{
+  "number": "H8560",
+  "language": "hebrew",
+  "transliteration": "tômer",
+  "pronunciation": "to'-mer",
+  "definition": "a palm trunk",
+  "kjvTranslation": "palm tree.",
+  "hebrew": "תֹּמֶר",
+  "translations": {
+    "bg": "ствол на палма",
+    "cs": "kmen palmy",
+    "da": "en palmestamme",
+    "de": "ein Palmenstamm",
+    "el": "έναν κορμό φοίνικα",
+    "es": "un tronco de palmera",
+    "et": "palmi tüvi",
+    "fi": "palmunrunko",
+    "fr": "un tronc de palmier",
+    "hu": "egy pálma törzs",
+    "id": "batang pohon palem",
+    "it": "un tronco di palma",
+    "ja": "椰子の幹",
+    "ko": "손바닥 트렁크",
+    "lt": "palmės kamienas",
+    "lv": "palmas stumbrs",
+    "nb": "en palmestamme",
+    "nl": "een palmstam",
+    "pl": "pień palmy",
+    "pt": "um tronco de palmeira",
+    "ro": "un trunchi de palmier",
+    "ru": "ствол пальмы",
+    "sk": "kmeň palmy",
+    "sl": "deblo palme",
+    "sv": "en palmstam",
+    "tr": "bir palmiye gövdesi",
+    "uk": "пальмовий стовбур",
+    "zh": "棕榈树干"
+  },
+  "verses": [
+    "judges 4:5:3",
+    "jeremiah 10:5:0"
+  ]
+}

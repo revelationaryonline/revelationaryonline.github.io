@@ -1,0 +1,42 @@
+{
+  "number": "H8522",
+  "language": "hebrew",
+  "transliteration": "tᵉlîy",
+  "pronunciation": "tel-ee'",
+  "definition": "a quiver (as slung)",
+  "kjvTranslation": "quiver.",
+  "hebrew": "תְּלִי",
+  "translations": {
+    "bg": "колчан (за носене)",
+    "cs": "toulec (jako závěs)",
+    "da": "et kogger (som slynget)",
+    "de": "ein Köcher (als Schleuder)",
+    "el": "μια φαρέτρα (όπως την έριξαν)",
+    "es": "un carcaj (como honda)",
+    "et": "värisema (nagu slung)",
+    "fi": "värisevä (kuten slung)",
+    "fr": "un carquois (en bandoulière)",
+    "hu": "egy borzongás (mint dobott)",
+    "id": "quiver (seperti yang diselempangkan)",
+    "it": "una faretra (come una fionda)",
+    "ja": "靫",
+    "ko": "화살통(던진 상태)",
+    "lt": "virvė (kaip pakaba)",
+    "lv": "trīši (kā nojume)",
+    "nb": "et kogger (som slynget)",
+    "nl": "een koker (zoals geslingerd)",
+    "pl": "kołczan (jak zawieszony)",
+    "pt": "uma aljava (como se estivesse pendurada)",
+    "ro": "o tolbă (în formă de praștie)",
+    "ru": "колчан (в виде перевязи)",
+    "sk": "chvost (ako záves)",
+    "sl": "tuljava (kot nosilec)",
+    "sv": "ett koger (som slungat)",
+    "tr": "bir sadak (asılı olarak)",
+    "uk": "сагайдак (у підвішеному стані)",
+    "zh": "鞬"
+  },
+  "verses": [
+    "genesis 27:3:4"
+  ]
+}

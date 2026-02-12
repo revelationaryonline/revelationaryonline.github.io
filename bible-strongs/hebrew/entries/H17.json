@@ -1,0 +1,42 @@
+{
+  "number": "H17",
+  "language": "hebrew",
+  "transliteration": "ʼăbôwy",
+  "pronunciation": "ab-o'ee",
+  "definition": "want",
+  "kjvTranslation": "sorrow.",
+  "translations": {
+    "bg": "искам",
+    "cs": "chtít",
+    "da": "ønsker",
+    "de": "wollen",
+    "el": "θέλουν",
+    "es": "desea",
+    "et": "tahan",
+    "fi": "haluavat",
+    "fr": "vouloir",
+    "hu": "akar",
+    "id": "ingin",
+    "it": "desiderare",
+    "ja": "欲しい",
+    "ko": "want",
+    "lt": "norite",
+    "lv": "vēlas",
+    "nb": "ønsker",
+    "nl": "willen",
+    "pl": "chcieć",
+    "pt": "querer",
+    "ro": "doresc",
+    "ru": "хочу",
+    "sk": "chcete",
+    "sl": "želite",
+    "sv": "vill ha",
+    "tr": "istiyorum",
+    "uk": "хочу",
+    "zh": "想"
+  },
+  "hebrew": "אֲבוֹי",
+  "verses": [
+    "proverbs 23:29:3"
+  ]
+}

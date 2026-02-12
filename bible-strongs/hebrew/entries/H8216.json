@@ -1,0 +1,43 @@
+{
+  "number": "H8216",
+  "language": "hebrew",
+  "transliteration": "shephel",
+  "pronunciation": "shay'-fel",
+  "definition": "an humble rank",
+  "kjvTranslation": "low estate (place).",
+  "hebrew": "שֶׁפֶל",
+  "translations": {
+    "bg": "скромен ранг",
+    "cs": "skromná hodnost",
+    "da": "en ydmyg rang",
+    "de": "einen bescheidenen Rang",
+    "el": "μια ταπεινή θέση",
+    "es": "un rango humilde",
+    "et": "tagasihoidlik auaste",
+    "fi": "vaatimaton asema",
+    "fr": "un rang modeste",
+    "hu": "szerény rang",
+    "id": "pangkat yang rendah hati",
+    "it": "un rango umile",
+    "ja": "微賤",
+    "ko": "겸손한 계급",
+    "lt": "kuklus rangas",
+    "lv": "pazemīgs rangs",
+    "nb": "en ydmyk rang",
+    "nl": "een nederige rang",
+    "pl": "skromna ranga",
+    "pt": "uma posição humilde",
+    "ro": "un rang modest",
+    "ru": "скромное звание",
+    "sk": "pokorná hodnosť",
+    "sl": "skromen rang",
+    "sv": "en ödmjuk rang",
+    "tr": "mütevazı bir rütbe",
+    "uk": "скромне звання",
+    "zh": "卑职"
+  },
+  "verses": [
+    "psalms 136:23:0",
+    "ecclesiastes 10:6:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7391",
+  "language": "hebrew",
+  "transliteration": "rôk",
+  "pronunciation": "roke",
+  "definition": "softness (figuratively)",
+  "kjvTranslation": "tenderness.",
+  "hebrew": "רֹךְ",
+  "translations": {
+    "bg": "мекота (в преносен смисъл)",
+    "cs": "měkkost (obrazně)",
+    "da": "blødhed (i overført betydning)",
+    "de": "weichheit (im übertragenen Sinne)",
+    "el": "απαλότητα (μεταφορικά)",
+    "es": "suavidad (en sentido figurado)",
+    "et": "pehmus (piltlikult)",
+    "fi": "pehmeys (kuvaannollisesti)",
+    "fr": "douceur (au sens figuré)",
+    "hu": "puhaság (átvitt értelemben)",
+    "id": "kelembutan (secara kiasan)",
+    "it": "morbidezza (in senso figurato)",
+    "ja": "柔らかさ",
+    "ko": "부드러움(비유적으로)",
+    "lt": "minkštumas (perkeltine prasme)",
+    "lv": "maigums (pārnestā nozīmē)",
+    "nb": "mykhet (i overført betydning)",
+    "nl": "zachtheid (figuurlijk)",
+    "pl": "miękkość (w przenośni)",
+    "pt": "suavidade (em sentido figurado)",
+    "ro": "moliciune (la figurat)",
+    "ru": "мягкость (фигурально)",
+    "sk": "mäkkosť (v prenesenom význame)",
+    "sl": "mehkoba (v prenesenem pomenu)",
+    "sv": "mjukhet (bildligt talat)",
+    "tr": "yumuşaklık (mecazi olarak)",
+    "uk": "м'якість (образно)",
+    "zh": "柔软"
+  },
+  "verses": [
+    "deuteronomy 28:56:12"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H6161",
+  "language": "hebrew",
+  "transliteration": "ʻărubbâh",
+  "pronunciation": "ar-oob-baw'",
+  "definition": "something given as security, i.e. (literally) a token (of safety) or (metaphorically) a bondsman",
+  "kjvTranslation": "pledge, surety.",
+  "hebrew": "עֲרֻבָּה",
+  "translations": {
+    "bg": "нещо, дадено като гаранция, т.е. (буквално) знак (за сигурност) или (метафорично) поръчител",
+    "cs": "něco, co bylo dáno jako záruka, tj. (doslova) symbol (bezpečí) nebo (přeneseně) ručitel",
+    "da": "noget, der gives som sikkerhed, dvs. (bogstaveligt talt) et tegn (på sikkerhed) eller (metaforisk) en kautionist",
+    "de": "etwas, das als Sicherheit gegeben wird, d. h. (wörtlich) ein Zeichen (der Sicherheit) oder (metaphorisch) ein Leibeigener",
+    "el": "κάτι που δίνεται ως εγγύηση, δηλαδή (κυριολεκτικά) ένα σύμβολο (ασφάλειας) ή (μεταφορικά) ένας εγγυητής",
+    "es": "algo dado como garantía, es decir, (literalmente) una señal (de seguridad) o (metafóricamente) un fiador",
+    "et": "midagi, mis on antud tagatiseks, st (sõna-sõnalt) märgiks (turvalisuse) või (metafooriliselt) võlakirjaks",
+    "fi": "jotain, joka on annettu vakuudeksi, eli (kirjaimellisesti) merkki (turvallisuudesta) tai (metaforisesti) velkakirja",
+    "fr": "quelque chose donné en garantie, c'est-à-dire (littéralement) un gage (de sécurité) ou (métaphoriquement) une caution",
+    "hu": "valami, amit biztosítékként adnak, azaz (szó szerint) egy (biztonságot jelentő) zálogjegy vagy (átvitt értelemben) egy zálogkötelezett",
+    "id": "sesuatu yang diberikan sebagai jaminan, yaitu (secara harfiah) tanda (keamanan) atau (secara metaforis) seorang penjamin",
+    "it": "qualcosa dato in garanzia, cioè (letteralmente) un pegno (di sicurezza) o (metaforicamente) un garante",
+    "ja": "ほしょうにん",
+    "ko": "담보로 제공되는 것, 즉 (문자 그대로) (안전의) 토큰 또는 (은유적으로) 채권자",
+    "lt": "kas nors, kas duodama kaip užstatas, t. y. (tiesiogine prasme) saugumo ženklas arba (metaforiškai) užstatas",
+    "lv": "kaut kas dots kā nodrošinājums, t. i., (burtiski) drošības zīme vai (pārnestā nozīmē) ķīlas ņēmējs",
+    "nb": "noe som gis som sikkerhet, dvs. (bokstavelig talt) et symbol (på sikkerhet) eller (metaforisk) en kausjonist",
+    "nl": "iets dat als onderpand wordt gegeven, d.w.z. (letterlijk) een teken (van veiligheid) of (metaforisch) een borgsteller",
+    "pl": "coś podarowanego jako zabezpieczenie, tj. (dosłownie) token (bezpieczeństwa) lub (metaforycznie) obligator",
+    "pt": "algo dado como garantia, ou seja, (literalmente) um sinal (de segurança) ou (metaforicamente) um fiador",
+    "ro": "ceva dat ca garanție, adică (literal) un semn (de siguranță) sau (metaforic) un garant",
+    "ru": "нечто, данное в качестве залога, т.е. (буквально) знак (безопасности) или (метафорически) поручитель",
+    "sk": "niečo dané ako záruka, t. j. (doslova) symbol (bezpečnosti) alebo (metaforicky) ručiteľ",
+    "sl": "nekaj, kar je dano v zavarovanje, tj. (dobesedno) simbol (varnosti) ali (metaforično) obveznik",
+    "sv": "något som ges som säkerhet, t.ex. (bokstavligen) ett tecken (på säkerhet) eller (metaforiskt) en borgensman",
+    "tr": "güvence olarak verilen bir şey, yani (gerçek anlamda) bir simge (güvenlik) veya (mecazi anlamda) bir kefil",
+    "uk": "щось, що дається під заставу, тобто (буквально) знак (безпеки) або (метафорично) кабальєро",
+    "zh": "作为担保的东西，即（字面意思）（安全的）信物或（比喻）担保人"
+  },
+  "verses": [
+    "firstSamuel 17:18:13",
+    "proverbs 17:18:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4856",
+  "language": "hebrew",
+  "transliteration": "massôʼ",
+  "pronunciation": "mas-so'",
+  "definition": "partiality (as a lifting up)",
+  "kjvTranslation": "respect.",
+  "hebrew": "מַשֹּׂא",
+  "translations": {
+    "bg": "пристрастност (като издигане)",
+    "cs": "zaujatost (jako vyzdvižení)",
+    "da": "partiskhed (som en opløftelse)",
+    "de": "parteilichkeit (als Aufwertung)",
+    "el": "μεροληψία (ως ανύψωση)",
+    "es": "parcialidad (como elevación)",
+    "et": "erapooletus (kui tõstmine)",
+    "fi": "puolueellisuus (nostamisena)",
+    "fr": "partialité (en tant qu'élévation)",
+    "hu": "részrehajlás (mint felemelés)",
+    "id": "keberpihakan (sebagai pengangkatan)",
+    "it": "parzialità (come sollevamento)",
+    "ja": "贔屓",
+    "ko": "부분성(들어 올리기)",
+    "lt": "šališkumas (kaip pakėlimas)",
+    "lv": "neobjektivitāte (kā pacelšana)",
+    "nb": "partiskhet (som et løft opp)",
+    "nl": "partijdigheid (als opheffing)",
+    "pl": "stronniczość (jako podnoszenie)",
+    "pt": "parcialidade (como elevação)",
+    "ro": "părtinire (ca o ridicare)",
+    "ru": "пристрастность (в качестве возвышения)",
+    "sk": "zaujatosť (ako vyzdvihnutie)",
+    "sl": "pristranskost (kot dvigovanje)",
+    "sv": "partiskhet (som en upplyftning)",
+    "tr": "tarafgirlik (yukarı kaldırma olarak)",
+    "uk": "пристрасність (як підйом)",
+    "zh": "偏爱"
+  },
+  "verses": [
+    "secondChronicles 19:7:13"
+  ]
+}

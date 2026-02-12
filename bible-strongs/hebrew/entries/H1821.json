@@ -1,0 +1,43 @@
+{
+  "number": "H1821",
+  "language": "hebrew",
+  "transliteration": "dᵉmâh",
+  "pronunciation": "dem-aw'",
+  "definition": "to resemble",
+  "kjvTranslation": "be like.",
+  "translations": {
+    "bg": "да прилича на",
+    "cs": "aby se podobal",
+    "da": "at ligne",
+    "de": "zu ähneln",
+    "el": "να μοιάζει",
+    "es": "parecerse a",
+    "et": "sarnanema",
+    "fi": "muistuttamaan",
+    "fr": "ressembler",
+    "hu": "hogy hasonlítson",
+    "id": "menyerupai",
+    "it": "assomigliare",
+    "ja": "に似ている",
+    "ko": "닮다",
+    "lt": "būti panašus į",
+    "lv": "līdzināties",
+    "nb": "å ligne",
+    "nl": "lijken op",
+    "pl": "przypominać",
+    "pt": "assemelhar-se",
+    "ro": "să semene",
+    "ru": "походить",
+    "sk": "aby sa podobali",
+    "sl": "biti podoben",
+    "sv": "för att likna",
+    "tr": "benzemek",
+    "uk": "нагадувати",
+    "zh": "像"
+  },
+  "hebrew": "דְּמָה",
+  "verses": [
+    "daniel 3:25:19",
+    "daniel 7:5:4"
+  ]
+}

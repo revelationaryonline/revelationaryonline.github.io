@@ -1,0 +1,42 @@
+{
+  "number": "H7513",
+  "language": "hebrew",
+  "transliteration": "raphçôdâh",
+  "pronunciation": "raf-so-daw'",
+  "definition": "a raft (as flat on the water)",
+  "kjvTranslation": "flote.",
+  "hebrew": "רַפְסֹדָה",
+  "translations": {
+    "bg": "сал (като плоскост във водата)",
+    "cs": "vor (jako plocha na vodě)",
+    "da": "en tømmerflåde (som ligger fladt på vandet)",
+    "de": "ein Floß (wie flach auf dem Wasser)",
+    "el": "μια σχεδία (σαν επίπεδη στο νερό)",
+    "es": "una balsa (como plano sobre el agua)",
+    "et": "parv (nagu tasane vee peal)",
+    "fi": "lautta (tasainen veden päällä)",
+    "fr": "un radeau (à plat sur l'eau)",
+    "hu": "tutaj (mint a vízen lapos)",
+    "id": "rakit (datar di atas air)",
+    "it": "una zattera (come piatto sull'acqua)",
+    "ja": "いかだ",
+    "ko": "뗏목(물 위에 평평하게 놓인 것)",
+    "lt": "plaustas (kaip ant vandens)",
+    "lv": "plosts (kā uz ūdens)",
+    "nb": "en flåte (som ligger flatt på vannet)",
+    "nl": "een vlot (als plat op het water)",
+    "pl": "tratwa (jako płaska na wodzie)",
+    "pt": "uma jangada (como se estivesse na água)",
+    "ro": "o plută (ca pe apă)",
+    "ru": "плот (как плот на воде)",
+    "sk": "plť (ako plochá na vode)",
+    "sl": "splav (kot ploskev na vodi)",
+    "sv": "en flotte (som ligger platt på vattnet)",
+    "tr": "bir sal (su üzerinde düz olarak)",
+    "uk": "пліт (плаский на воді)",
+    "zh": "筏"
+  },
+  "verses": [
+    "secondChronicles 2:15:9"
+  ]
+}

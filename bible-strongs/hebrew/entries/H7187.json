@@ -1,0 +1,43 @@
+{
+  "number": "H7187",
+  "language": "hebrew",
+  "transliteration": "qᵉshôwṭ",
+  "pronunciation": "kesh-ote'",
+  "definition": "fidelity",
+  "kjvTranslation": "truth.",
+  "hebrew": "קְשׁוֹט",
+  "translations": {
+    "bg": "вярност",
+    "cs": "fidelity",
+    "da": "troskab",
+    "de": "treue",
+    "el": "πιστότητα",
+    "es": "fidelidad",
+    "et": "ustavus",
+    "fi": "uskollisuus",
+    "fr": "fidélité",
+    "hu": "hűség",
+    "id": "kesetiaan",
+    "it": "fedeltà",
+    "ja": "貞節",
+    "ko": "충실도",
+    "lt": "ištikimybė",
+    "lv": "uzticamība",
+    "nb": "troskap",
+    "nl": "getrouwheid",
+    "pl": "wierność",
+    "pt": "fidelidade",
+    "ro": "fidelitate",
+    "ru": "верность",
+    "sk": "vernosť",
+    "sl": "zvestoba",
+    "sv": "trohet",
+    "tr": "sADAKAT",
+    "uk": "вірність",
+    "zh": "保真度"
+  },
+  "verses": [
+    "daniel 2:47:5",
+    "daniel 4:34:11"
+  ]
+}

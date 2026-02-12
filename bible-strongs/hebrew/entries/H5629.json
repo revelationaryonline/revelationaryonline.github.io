@@ -1,0 +1,42 @@
+{
+  "number": "H5629",
+  "language": "hebrew",
+  "transliteration": "çerach",
+  "pronunciation": "seh'-rakh",
+  "definition": "a redundancy",
+  "kjvTranslation": "remnant.",
+  "hebrew": "סֶרַח",
+  "translations": {
+    "bg": "излишък",
+    "cs": "nadbytečnost",
+    "da": "en redundans",
+    "de": "eine Redundanz",
+    "el": "πλεονασμός",
+    "es": "una redundancia",
+    "et": "koondamine",
+    "fi": "redundanssi",
+    "fr": "une redondance",
+    "hu": "redundancia",
+    "id": "sebuah redundansi",
+    "it": "una ridondanza",
+    "ja": "冗長性",
+    "ko": "중복성",
+    "lt": "atleidimas iš darbo",
+    "lv": "atlaišana",
+    "nb": "en redundans",
+    "nl": "een overtolligheid",
+    "pl": "redundancja",
+    "pt": "uma redundância",
+    "ro": "o redundanță",
+    "ru": "избыточность",
+    "sk": "nadbytočnosť",
+    "sl": "redundanca",
+    "sv": "en redundans",
+    "tr": "bir fazlalık",
+    "uk": "надлишок",
+    "zh": "冗赘"
+  },
+  "verses": [
+    "exodus 26:12:0"
+  ]
+}

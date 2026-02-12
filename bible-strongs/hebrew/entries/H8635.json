@@ -1,0 +1,42 @@
+{
+  "number": "H8635",
+  "language": "hebrew",
+  "transliteration": "tarbûwth",
+  "pronunciation": "tar-booth'",
+  "definition": "multiplication, i.e. progeny",
+  "kjvTranslation": "increase.",
+  "hebrew": "תַּרְבּוּת",
+  "translations": {
+    "bg": "размножаване, т.е. потомство",
+    "cs": "množení, tj. potomstvo",
+    "da": "formering, dvs. afkom",
+    "de": "vermehrung, d.h. Nachkommenschaft",
+    "el": "πολλαπλασιασμός, δηλαδή απόγονοι",
+    "es": "multiplicación, es decir, progenie",
+    "et": "paljunemine, st järeltulijad",
+    "fi": "lisääntyminen, eli jälkeläiset",
+    "fr": "la multiplication, c'est-à-dire la descendance",
+    "hu": "szaporodás, azaz utódok",
+    "id": "perkalian, yaitu keturunan",
+    "it": "moltiplicazione, cioè progenie",
+    "ja": "増殖、すなわち子孫",
+    "ko": "곱셈, 즉 자손",
+    "lt": "dauginimasis, t. y. palikuonys",
+    "lv": "pavairošana, t. i., pēcnācēji",
+    "nb": "formering, dvs. avkom",
+    "nl": "vermenigvuldiging, d.w.z. nageslacht",
+    "pl": "rozmnażanie, tj. potomstwo",
+    "pt": "multiplicação, ou seja, descendência",
+    "ro": "multiplicare, adică progenitură",
+    "ru": "размножение, т.е. потомство",
+    "sk": "množenie, t. j. potomstvo",
+    "sl": "razmnoževanje, tj. potomstvo",
+    "sv": "multiplikation, dvs. avkomma",
+    "tr": "çoğalma, yani döl",
+    "uk": "розмноження, тобто потомство",
+    "zh": "繁殖，即后代"
+  },
+  "verses": [
+    "numbers 32:14:4"
+  ]
+}

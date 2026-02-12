@@ -1,0 +1,42 @@
+{
+  "number": "H5940",
+  "language": "hebrew",
+  "transliteration": "ʻĕlîy",
+  "pronunciation": "el-ee'",
+  "definition": "a pestle (as lifted)",
+  "kjvTranslation": "pestle.",
+  "hebrew": "עֱלִי",
+  "translations": {
+    "bg": "пестик (като повдигнат)",
+    "cs": "pěchovadlo (jako zvednuté)",
+    "da": "en støder (som løftet)",
+    "de": "ein Stößel (wie angehoben)",
+    "el": "γουδοχέρι (όπως ανυψώνεται)",
+    "es": "un mortero (como levantado)",
+    "et": "pesti (nagu tõstetud)",
+    "fi": "rumpu (nostettuna)",
+    "fr": "un pilon (comme soulevé)",
+    "hu": "pestis (mint felemelt)",
+    "id": "alu (seperti yang diangkat)",
+    "it": "un pestello (come sollevato)",
+    "ja": "杵",
+    "ko": "유봉(들어올린 상태)",
+    "lt": "plaktuvas (kaip pakeltas)",
+    "lv": "āmurs (kā pacelts)",
+    "nb": "en støter (som løftet)",
+    "nl": "een stamper (als opgeheven)",
+    "pl": "tłuczek (jako podniesiony)",
+    "pt": "um pilão (como levantado)",
+    "ro": "un pisălog (ca ridicat)",
+    "ru": "пестик (в поднятом виде)",
+    "sk": "tĺčik (ako zdvihnutý)",
+    "sl": "pestič (kot dvignjen)",
+    "sv": "en mortelstöt (som lyfts)",
+    "tr": "bir havan tokmağı (kaldırılmış olarak)",
+    "uk": "товкачик (у піднятому стані)",
+    "zh": "碓"
+  },
+  "verses": [
+    "proverbs 27:22:7"
+  ]
+}

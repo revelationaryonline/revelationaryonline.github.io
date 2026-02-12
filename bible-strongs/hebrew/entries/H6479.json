@@ -1,0 +1,42 @@
+{
+  "number": "H6479",
+  "language": "hebrew",
+  "transliteration": "pᵉtsâlâh",
+  "pronunciation": "pets-aw-law'",
+  "definition": "a peeling",
+  "kjvTranslation": "strake.",
+  "hebrew": "פְּצָלָה",
+  "translations": {
+    "bg": "излющване",
+    "cs": "odlupování",
+    "da": "en afskalning",
+    "de": "ein Schälen",
+    "el": "ένα ξεφλούδισμα",
+    "es": "un pelado",
+    "et": "koorimine",
+    "fi": "kuorinta",
+    "fr": "un pelage",
+    "hu": "hámlás",
+    "id": "mengupas",
+    "it": "una sbucciatura",
+    "ja": "一皮剥けた",
+    "ko": "필링",
+    "lt": "lupimasis",
+    "lv": "pīlings",
+    "nb": "en peeling",
+    "nl": "een schil",
+    "pl": "peeling",
+    "pt": "uma descamação",
+    "ro": "o decojire",
+    "ru": "шелушение",
+    "sk": "odlupovanie",
+    "sl": "luščenje",
+    "sv": "en avskalning",
+    "tr": "bir soyulma",
+    "uk": "пілінг",
+    "zh": "蜕皮"
+  },
+  "verses": [
+    "genesis 30:37:10"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4384",
+  "language": "hebrew",
+  "transliteration": "makshêlâh",
+  "pronunciation": "mak-shay-law'",
+  "definition": "a stumbling-block, but only figuratively (fall, enticement (idol))",
+  "kjvTranslation": "ruin, stumbling-block.",
+  "hebrew": "מַכְשֵׁלָה",
+  "translations": {
+    "bg": "спънка, но само в преносен смисъл (падане, съблазън (идол))",
+    "cs": "kámen úrazu, ale pouze v přeneseném významu (pád, svádění (modla))",
+    "da": "en anstødssten, men kun i overført betydning (fald, forførelse (afgud))",
+    "de": "ein Stolperstein, aber nur im übertragenen Sinne (Fall, Verlockung (Götze))",
+    "el": "εμπόδιο, αλλά μόνο μεταφορικά (πτώση, δελεασμός (είδωλο))",
+    "es": "un tropiezo, pero sólo en sentido figurado (caída, seducción (ídolo))",
+    "et": "komistuskivi, kuid ainult piltlikult (kukkumine, ahvatlus (ebajumal))",
+    "fi": "kompastuskivi, mutta vain kuvaannollisesti (lankeaminen, houkutus (epäjumala))",
+    "fr": "une pierre d'achoppement, mais seulement au sens figuré (chute, séduction (idole))",
+    "hu": "akadály, de csak átvitt értelemben (bukás, csábítás (bálvány))",
+    "id": "batu sandungan, tetapi hanya secara kiasan (jatuh, godaan (berhala))",
+    "it": "una pietra d'inciampo, ma solo in senso figurato (caduta, allettamento (idolo))",
+    "ja": "躓き（つまずき）、しかしそれは比喩的なものでしかない（堕落、誘惑（偶像）",
+    "ko": "걸림돌이지만 비유적으로만 (넘어짐, 유혹 (우상))",
+    "lt": "kliūtis, bet tik perkeltine prasme (kritimas, viliojimas (stabu))",
+    "lv": "klupšanas akmens, bet tikai pārnestā nozīmē (kritums, vilinājums (elks))",
+    "nb": "en snublestein, men bare i overført betydning (fall, forførelse (avgud))",
+    "nl": "een struikelblok, maar alleen figuurlijk (val, verlokking (afgod))",
+    "pl": "potknięcie, ale tylko w przenośni (upadek, kuszenie (bożka))",
+    "pt": "uma pedra de tropeço, mas apenas em sentido figurado (queda, sedução (ídolo))",
+    "ro": "o piatră de poticnire, dar numai la figurat (cădere, ispitire (idol))",
+    "ru": "камень преткновения, но только в переносном смысле (падение, соблазн (идола))",
+    "sk": "kameň úrazu, ale len v prenesenom význame (pád, nástraha (modla))",
+    "sl": "ovira, vendar le v prenesenem pomenu (padec, zapeljevanje (malik))",
+    "sv": "en stötesten, men bara bildligt (fall, lockelse (avgud))",
+    "tr": "tökezleten bir engel, ancak yalnızca mecazi anlamda (düşüş, ayartma (put))",
+    "uk": "камінь спотикання, але лише в переносному значенні (падіння, спокуса (ідол))",
+    "zh": "绊脚石，但只是比喻（堕落、诱惑（偶像））。"
+  },
+  "verses": [
+    "isaiah 3:6:11",
+    "zephaniah 1:3:8"
+  ]
+}

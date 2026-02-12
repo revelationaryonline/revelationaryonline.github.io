@@ -1,0 +1,42 @@
+{
+  "number": "H1563",
+  "language": "hebrew",
+  "transliteration": "gâlam",
+  "pronunciation": "gaw-lam'",
+  "definition": "to fold",
+  "kjvTranslation": "wrap together.",
+  "translations": {
+    "bg": "да се сгъва",
+    "cs": "skládat",
+    "da": "til at folde",
+    "de": "zum Falten",
+    "el": "να διπλώσετε",
+    "es": "plegar",
+    "et": "kokku voltida",
+    "fi": "taittaa",
+    "fr": "plier",
+    "hu": "összehajtani",
+    "id": "untuk melipat",
+    "it": "piegare",
+    "ja": "折りたたむ",
+    "ko": "접으려면",
+    "lt": "sulankstyti",
+    "lv": "salocīt",
+    "nb": "å brette",
+    "nl": "vouwen",
+    "pl": "składać",
+    "pt": "para dobrar",
+    "ro": "pentru a plia",
+    "ru": "складываться",
+    "sk": "zložiť",
+    "sl": "zložiti",
+    "sv": "att vika",
+    "tr": "katlamak için",
+    "uk": "скласти",
+    "zh": "折叠"
+  },
+  "hebrew": "גָּלַם",
+  "verses": [
+    "secondKings 2:8:4"
+  ]
+}

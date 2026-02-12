@@ -1,0 +1,43 @@
+{
+  "number": "H3358",
+  "language": "hebrew",
+  "transliteration": "yaqqîyr",
+  "pronunciation": "yak-keer'",
+  "definition": "{precious}",
+  "kjvTranslation": "noble, rare.",
+  "translations": {
+    "bg": "{драгоценни}",
+    "cs": "{drahé}",
+    "da": "{Ædelsten}",
+    "de": "{Edelstein}",
+    "el": "{πολύτιμο}",
+    "es": "{preciosas}",
+    "et": "{precious}",
+    "fi": "{precious}",
+    "fr": "{précieux}",
+    "hu": "{drága}",
+    "id": "[berharga]",
+    "it": "{Prezioso}",
+    "ja": "{貴重な}。",
+    "ko": "{소중한}",
+    "lt": "{brangakmenių}",
+    "lv": "{dārgakmeņi}",
+    "nb": "{dyrebare}",
+    "nl": "{Kostbaar.}",
+    "pl": "{cenne}",
+    "pt": "{precioso}",
+    "ro": "{prețioase}",
+    "ru": "{драгоценный}",
+    "sk": "{drahé}",
+    "sl": "{precious}",
+    "sv": "{värdefull}",
+    "tr": "{değerli}",
+    "uk": "{Я знаю, що ти не хочеш, щоб це сталося, але це не так.}",
+    "zh": "{precious}（珍贵的"
+  },
+  "hebrew": "יַקִּיר",
+  "verses": [
+    "ezra 4:10:6",
+    "daniel 2:11:4"
+  ]
+}

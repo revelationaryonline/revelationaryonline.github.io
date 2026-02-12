@@ -1,0 +1,42 @@
+{
+  "number": "H5681",
+  "language": "hebrew",
+  "transliteration": "ʻIbrîy",
+  "pronunciation": "ib-ree'",
+  "definition": "Ibri, an Israelite",
+  "kjvTranslation": "Ibri.",
+  "hebrew": "עִבְרִי",
+  "translations": {
+    "bg": "Ибри, израилтянин",
+    "cs": "Ibri, Izraelita",
+    "da": "Ibri, en israelit",
+    "de": "Ibri, ein Israelit",
+    "el": "Ibri, ένας Ισραηλίτης",
+    "es": "Ibri, israelita",
+    "et": "Ibri, iisraellane",
+    "fi": "Ibri, israelilainen",
+    "fr": "Ibri, Israélite",
+    "hu": "Ibri, izraelita",
+    "id": "Ibri, seorang Israel",
+    "it": "Ibri, un israelita",
+    "ja": "イスラエル人イブリ",
+    "ko": "이스라엘인, 이브리",
+    "lt": "Ibri, izraelitas",
+    "lv": "Ibri, izraēlietis",
+    "nb": "Ibri, en israelitt",
+    "nl": "Ibri, een Israëliet",
+    "pl": "Ibri, Izraelita",
+    "pt": "Ibri, um israelita",
+    "ro": "Ibri, un israelit",
+    "ru": "Ибри, израильтянин",
+    "sk": "Ibri, Izraelita",
+    "sl": "Ibri, Izraelec",
+    "sv": "Ibri, en israelit",
+    "tr": "İbri, bir İsrailli",
+    "uk": "Ібрі, ізраїльтянин",
+    "zh": "伊布利，以色列人"
+  },
+  "verses": [
+    "firstChronicles 24:27:6"
+  ]
+}

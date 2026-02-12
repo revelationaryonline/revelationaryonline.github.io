@@ -1,0 +1,42 @@
+{
+  "number": "H1640",
+  "language": "hebrew",
+  "transliteration": "gâraph",
+  "pronunciation": "gaw-raf'",
+  "definition": "to bear off violently",
+  "kjvTranslation": "sweep away.",
+  "translations": {
+    "bg": "да се откъсне рязко",
+    "cs": "prudce odejít",
+    "da": "at bære sig voldsomt ad",
+    "de": "heftig abzustoßen",
+    "el": "να απομακρύνεσαι βίαια",
+    "es": "arrancar violentamente",
+    "et": "vägivaldselt maha kanda",
+    "fi": "irrottautua väkivaltaisesti",
+    "fr": "se détacher violemment de l'environnement",
+    "hu": "erőszakosan elhúzni",
+    "id": "untuk menanggung dengan keras",
+    "it": "allontanarsi violentemente",
+    "ja": "激しく引き離す",
+    "ko": "격렬하게 견디다",
+    "lt": "smarkiai pasišalinti",
+    "lv": "strauji atvairīt",
+    "nb": "å bære voldsomt av sted",
+    "nl": "gewelddadig afweren",
+    "pl": "odeprzeć gwałtownie",
+    "pt": "arrancar violentamente",
+    "ro": "a se îndepărta violent",
+    "ru": "яростно сопротивляться",
+    "sk": "prudko odísť",
+    "sl": "sunkovito odnesti",
+    "sv": "att bära av våldsamt",
+    "tr": "şiddetle uzaklaşmak",
+    "uk": "жорстоко розлучатися",
+    "zh": "猛击"
+  },
+  "hebrew": "גָּרַף",
+  "verses": [
+    "judges 5:21:2"
+  ]
+}

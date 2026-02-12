@@ -1,0 +1,42 @@
+{
+  "number": "H5180",
+  "language": "hebrew",
+  "transliteration": "Nᵉchushtân",
+  "pronunciation": "nekh-oosh-tawn'",
+  "definition": "something made of copper, i.e. the copper serpent of the Desert",
+  "kjvTranslation": "Nehushtan.",
+  "hebrew": "נְחֻשְׁתָּן",
+  "translations": {
+    "bg": "нещо направено от мед, например медната змия от пустинята",
+    "cs": "něco z mědi, např. měděný had z pouště",
+    "da": "noget, der er lavet af kobber, f.eks. kobberslangen i ørkenen",
+    "de": "etwas aus Kupfer, z. B. die Kupferschlange der Wüste",
+    "el": "κάτι φτιαγμένο από χαλκό, π.χ. το χάλκινο φίδι της ερήμου",
+    "es": "algo hecho de cobre, por ejemplo, la serpiente de cobre del Desierto",
+    "et": "midagi, mis on valmistatud vasest, st. vaskneiu kõrbes",
+    "fi": "jotain kuparista tehtyä, esim. erämaan kuparikäärme",
+    "fr": "quelque chose en cuivre, par exemple le serpent de cuivre du Désert",
+    "hu": "valami, ami rézből készült, pl. a sivatagi rézkígyó",
+    "id": "sesuatu yang terbuat dari tembaga, yaitu ular tembaga Gurun",
+    "it": "qualcosa di rame, ad esempio il serpente di rame del deserto",
+    "ja": "銅でできたもの、すなわち砂漠の銅の蛇",
+    "ko": "구리로 만든 무언가, 즉 사막의 구리 뱀",
+    "lt": "kas nors, kas pagaminta iš vario, t. y. varinė dykumos gyvatė",
+    "lv": "kaut kas izgatavots no vara, piemēram, tuksneša vara čūska",
+    "nb": "noe som er laget av kobber, f.eks. kobberslangen i ørkenen",
+    "nl": "iets gemaakt van koper, bijvoorbeeld de koperen slang van de woestijn",
+    "pl": "coś wykonanego z miedzi, np. miedziany wąż pustyni",
+    "pt": "algo feito de cobre, ou seja, a serpente de cobre do deserto",
+    "ro": "ceva făcut din cupru, de exemplu șarpele de cupru din deșert",
+    "ru": "нечто, сделанное из меди, т.е. медный змей пустыни",
+    "sk": "niečo z medi, napr. medený had z púšte",
+    "sl": "nekaj, kar je narejeno iz bakra, npr. bakrena kača iz puščave",
+    "sv": "något som är gjort av koppar, t.ex. kopparormen i öknen",
+    "tr": "bakırdan yapılmış bir şey, örneğin Çöl'deki bakır yılan",
+    "uk": "щось зроблене з міді, тобто мідний змій пустелі",
+    "zh": "铜制的东西，即沙漠中的铜蛇"
+  },
+  "verses": [
+    "secondKings 18:4:27"
+  ]
+}

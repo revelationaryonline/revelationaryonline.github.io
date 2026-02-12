@@ -1,0 +1,42 @@
+{
+  "number": "H1676",
+  "language": "hebrew",
+  "transliteration": "dâʼâh",
+  "pronunciation": "daw-aw'",
+  "definition": "the kite (from its rapid flight)",
+  "kjvTranslation": "vulture. See H7201 (רָאָה).",
+  "translations": {
+    "bg": "хвърчилото (от бързия му полет)",
+    "cs": "drak (z jeho rychlého letu)",
+    "da": "dragen (fra dens hurtige flugt)",
+    "de": "der Drachen (von seinem schnellen Flug)",
+    "el": "ο χαρταετός (από το γρήγορο πέταγμά του)",
+    "es": "la cometa (por su rápido vuelo)",
+    "et": "tuulelohe (selle kiirest lennust)",
+    "fi": "leija (sen nopeasta lennosta)",
+    "fr": "le cerf-volant (de son vol rapide)",
+    "hu": "a sárkány (a gyors repüléstől)",
+    "id": "layang-layang (karena terbangnya yang cepat)",
+    "it": "l'aquilone (dal suo rapido volo)",
+    "ja": "凧",
+    "ko": "연(빠른 비행으로 인한)",
+    "lt": "aitvaras (nuo greito skrydžio)",
+    "lv": "pūķis (no tā straujā lidojuma)",
+    "nb": "dragen (fra dens raske flukt)",
+    "nl": "de vlieger (van zijn snelle vlucht)",
+    "pl": "latawiec (od jego szybkiego lotu)",
+    "pt": "o papagaio (pelo seu voo rápido)",
+    "ro": "zmeul (de la zborul său rapid)",
+    "ru": "воздушный змей (от его стремительного полета)",
+    "sk": "draka (z jeho rýchleho letu)",
+    "sl": "zmaja (zaradi njegovega hitrega leta)",
+    "sv": "draken (från dess snabba flygning)",
+    "tr": "uçurtma (hızlı uçuşundan)",
+    "uk": "повітряного змія (від його швидкого польоту)",
+    "zh": "风筝"
+  },
+  "hebrew": "דָּאָה",
+  "verses": [
+    "leviticus 11:14:1"
+  ]
+}

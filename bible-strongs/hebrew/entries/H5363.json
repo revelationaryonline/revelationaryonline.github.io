@@ -1,0 +1,43 @@
+{
+  "number": "H5363",
+  "language": "hebrew",
+  "transliteration": "nôqeph",
+  "pronunciation": "no'-kef",
+  "definition": "a threshing (of olives)",
+  "kjvTranslation": "shaking.",
+  "hebrew": "נֹקֶף",
+  "translations": {
+    "bg": "мачкане (на маслини)",
+    "cs": "mlácení (oliv)",
+    "da": "en tærskning (af oliven)",
+    "de": "ein Dreschen (von Oliven)",
+    "el": "αλώνισμα (ελιών)",
+    "es": "una trilla (de aceitunas)",
+    "et": "(oliivide) peksmine",
+    "fi": "(oliivien) puinti",
+    "fr": "un battage (d'olives)",
+    "hu": "cséplés (olajbogyó)",
+    "id": "pengirikan (buah zaitun)",
+    "it": "una trebbiatura (di olive)",
+    "ja": "脱穀",
+    "ko": "(올리브) 탈곡",
+    "lt": "(alyvuogių kūlimas)",
+    "lv": "(olīvu) kulšana",
+    "nb": "en tresking (av oliven)",
+    "nl": "een dorsing (van olijven)",
+    "pl": "młócenie (oliwek)",
+    "pt": "uma debulha (de azeitonas)",
+    "ro": "o treierat (de măsline)",
+    "ru": "молотьба (оливок)",
+    "sk": "mlátenie (olív)",
+    "sl": "mlatenje (oljk)",
+    "sv": "en tröskning (av oliver)",
+    "tr": "bir harman (zeytin)",
+    "uk": "обмолот (оливок)",
+    "zh": "打谷"
+  },
+  "verses": [
+    "isaiah 17:6:3",
+    "isaiah 24:13:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2949",
+  "language": "hebrew",
+  "transliteration": "ṭippuch",
+  "pronunciation": "tip-pookh'",
+  "definition": "nursing",
+  "kjvTranslation": "span long.",
+  "translations": {
+    "bg": "медицински сестри",
+    "cs": "ošetřovatelství",
+    "da": "sygepleje",
+    "de": "pflege",
+    "el": "νοσηλευτική",
+    "es": "enfermería",
+    "et": "õendusabi",
+    "fi": "hoitotyö",
+    "fr": "soins infirmiers",
+    "hu": "ápolás",
+    "id": "keperawatan",
+    "it": "infermieristica",
+    "ja": "看護",
+    "ko": "간호",
+    "lt": "slauga",
+    "lv": "māsu aprūpe",
+    "nb": "sykepleie",
+    "nl": "verpleging",
+    "pl": "pielęgnacja",
+    "pt": "enfermagem",
+    "ro": "asistență medicală",
+    "ru": "уход за больными",
+    "sk": "ošetrovateľstvo",
+    "sl": "zdravstvena nega",
+    "sv": "omvårdnad",
+    "tr": "hemşirelik",
+    "uk": "догляд за хворими",
+    "zh": "护理学"
+  },
+  "hebrew": "טִפֻּח",
+  "verses": [
+    "lamentations 2:20:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4154",
+  "language": "hebrew",
+  "transliteration": "mûwʻedeth",
+  "pronunciation": "moo-ay'-deth",
+  "definition": "properly, made to slip, i.e. dislocated",
+  "kjvTranslation": "out of joint.",
+  "hebrew": "מוּעֶדֶת",
+  "translations": {
+    "bg": "правилно, изплъзва се, т.е. изкълчва се",
+    "cs": "správně vyklouzl, tj. byl vyklouben",
+    "da": "korrekt, gjort til at glide, dvs. forskudt",
+    "de": "richtig, zum Verrutschen gebracht, d.h. ausgekugelt",
+    "el": "σωστά, να γλιστρήσει, δηλαδή να εξαρθρωθεί",
+    "es": "correctamente, hecho resbalar, es decir, dislocado",
+    "et": "korralikult, libisema pandud, s.t. nihestatud",
+    "fi": "kunnolla, liukastunut, eli sijoiltaan mennyt",
+    "fr": "proprement, fait glisser, c'est-à-dire disloqué",
+    "hu": "megfelelően, csúszásra késztetve, azaz kificamítva",
+    "id": "dengan benar, dibuat tergelincir, yaitu terkilir",
+    "it": "correttamente, fatto scivolare, cioè slogato",
+    "ja": "つまり、脱臼している。",
+    "ko": "제대로, 미끄러지도록 만들어짐, 즉 탈구됨",
+    "lt": "tinkamai, paslankus, t. y. išniręs",
+    "lv": "pareizi, izkustināti, t. i., izlocīti",
+    "nb": "riktig, fått til å skli, dvs. gått ut av ledd",
+    "nl": "goed, gemaakt om te glijden, d.w.z. ontwricht",
+    "pl": "prawidłowo, doprowadzony do poślizgu, tj. zwichnięty",
+    "pt": "corretamente, feito deslizar, isto é, deslocado",
+    "ro": "în mod corespunzător, făcut să alunece, adică dislocat",
+    "ru": "правильно, с вывихом, т.е. вывихнутый",
+    "sk": "správne, aby sa skĺzli, t. j. aby sa vykĺbili",
+    "sl": "pravilno, da zdrsne, tj. da je premaknjen",
+    "sv": "korrekt, gjort så att den glider, dvs. ur led",
+    "tr": "düzgün, kaymaya zorlanmış, yani yerinden çıkmış",
+    "uk": "належним чином, зроблені так, щоб ковзати, тобто вивихнуті",
+    "zh": "适当，使其滑动，即脱位"
+  },
+  "verses": [
+    "proverbs 25:19:3"
+  ]
+}

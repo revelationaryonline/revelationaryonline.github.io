@@ -1,0 +1,42 @@
+{
+  "number": "H5452",
+  "language": "hebrew",
+  "transliteration": "çᵉbar",
+  "pronunciation": "seb-ar'",
+  "definition": "to bear in mind, i.e. hope",
+  "kjvTranslation": "think.",
+  "hebrew": "סְבַר",
+  "translations": {
+    "bg": "да имаш предвид, т.е. да се надяваш",
+    "cs": "mít na paměti, tj. doufat",
+    "da": "at huske på, dvs. håbe",
+    "de": "zu bedenken, d.h. zu hoffen",
+    "el": "να έχετε κατά νου, δηλαδή να ελπίζετε",
+    "es": "tener en cuenta, es decir, esperar",
+    "et": "meeles pidada, s.t. loota",
+    "fi": "pitää mielessä, eli toivoa",
+    "fr": "de garder à l'esprit, c'est-à-dire d'espérer",
+    "hu": "szem előtt tartani, azaz remélni",
+    "id": "yang perlu diingat, yaitu harapan",
+    "it": "tenere a mente, cioè sperare",
+    "ja": "念頭において、つまり希望して",
+    "ko": "염두에 두어야 할 것, 즉 희망",
+    "lt": "nepamiršti, t. y. tikėtis",
+    "lv": "paturēt prātā, t.i., cerēt",
+    "nb": "å huske på, dvs. håpe",
+    "nl": "om in gedachten te houden, d.w.z. hopen",
+    "pl": "pamiętać, tj. mieć nadzieję",
+    "pt": "ter em mente, ou seja, esperar",
+    "ro": "a avea în vedere, adică a spera",
+    "ru": "иметь в виду, т.е. надеяться",
+    "sk": "mať na pamäti, t. j. dúfať",
+    "sl": "imeti v mislih, tj. upati",
+    "sv": "att ha i åtanke, dvs. hoppas",
+    "tr": "akılda tutmak, yani umut etmek",
+    "uk": "мати на увазі, тобто сподіватися",
+    "zh": "铭记，即希望"
+  },
+  "verses": [
+    "daniel 7:25:8"
+  ]
+}

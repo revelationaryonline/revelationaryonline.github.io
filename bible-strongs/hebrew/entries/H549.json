@@ -1,0 +1,43 @@
+{
+  "number": "H549",
+  "language": "hebrew",
+  "transliteration": "ʼĂmânâh",
+  "pronunciation": "am-aw-naw'",
+  "definition": "Amanah, a mountain near Damascus",
+  "kjvTranslation": "Amana.",
+  "translations": {
+    "bg": "Amanah, планина близо до Дамаск",
+    "cs": "Amanah, hora poblíž Damašku",
+    "da": "Amanah, et bjerg nær Damaskus",
+    "de": "Amanah, ein Berg in der Nähe von Damaskus",
+    "el": "Amanah, βουνό κοντά στη Δαμασκό",
+    "es": "Amanah, una montaña cerca de Damasco",
+    "et": "Amanah, mägi Damaskuse lähedal",
+    "fi": "Amanah, vuori Damaskoksen lähellä",
+    "fr": "Amanah, montagne près de Damas",
+    "hu": "Amanah, egy hegy Damaszkusz közelében",
+    "id": "Amanah, sebuah gunung di dekat Damaskus",
+    "it": "Amanah, una montagna vicino a Damasco",
+    "ja": "ダマスカス近郊の山、アマナ",
+    "ko": "아마나, 다마스쿠스 근처의 산",
+    "lt": "Amana, kalnas netoli Damasko",
+    "lv": "Amanah, kalns netālu no Damaskas",
+    "nb": "Amanah, et fjell i nærheten av Damaskus",
+    "nl": "Amanah, een berg bij Damascus",
+    "pl": "Amanah, góra w pobliżu Damaszku",
+    "pt": "Amanah, uma montanha perto de Damasco",
+    "ro": "Amanah, un munte de lângă Damasc",
+    "ru": "Амана, гора в окрестностях Дамаска",
+    "sk": "Amanah, hora neďaleko Damasku",
+    "sl": "Amanah, gora v bližini Damaska",
+    "sv": "Amanah, ett berg nära Damaskus",
+    "tr": "Amanah, Şam yakınlarında bir dağ",
+    "uk": "Амана, гора поблизу Дамаска",
+    "zh": "阿玛纳"
+  },
+  "hebrew": "אֲמָנָה",
+  "verses": [
+    "secondKings 5:12:3",
+    "solomon 4:8:8"
+  ]
+}

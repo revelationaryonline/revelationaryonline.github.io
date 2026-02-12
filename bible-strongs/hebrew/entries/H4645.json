@@ -1,0 +1,42 @@
+{
+  "number": "H4645",
+  "language": "hebrew",
+  "transliteration": "miphgâʻ",
+  "pronunciation": "mif-gaw'",
+  "definition": "an object of attack",
+  "kjvTranslation": "mark.",
+  "hebrew": "מִפְגָּע",
+  "verses": [
+    "job 7:20:8"
+  ],
+  "translations": {
+    "bg": "обект на атака",
+    "cs": "objekt útoku",
+    "da": "et objekt for angreb",
+    "de": "ein Angriffsobjekt",
+    "el": "αντικείμενο επίθεσης",
+    "es": "un objeto de ataque",
+    "et": "rünnakuobjekt",
+    "fi": "hyökkäyksen kohde",
+    "fr": "un objet d'attaque",
+    "hu": "támadás tárgya",
+    "id": "objek serangan",
+    "it": "un oggetto di attacco",
+    "ja": "攻撃対象",
+    "ko": "공격 대상",
+    "lt": "puolimo objektas",
+    "lv": "uzbrukuma objekts",
+    "nb": "et objekt for angrep",
+    "nl": "een voorwerp van aanval",
+    "pl": "obiekt ataku",
+    "pt": "um objeto de ataque",
+    "ro": "un obiect de atac",
+    "ru": "объект нападения",
+    "sk": "objekt útoku",
+    "sl": "predmet napada",
+    "sv": "ett föremål för attack",
+    "tr": "bir saldırı nesnesi",
+    "uk": "об'єкт атаки",
+    "zh": "攻击目标"
+  }
+}

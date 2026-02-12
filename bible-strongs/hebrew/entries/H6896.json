@@ -1,0 +1,42 @@
+{
+  "number": "H6896",
+  "language": "hebrew",
+  "transliteration": "qêbâh",
+  "pronunciation": "kay-baw'",
+  "definition": "the paunch (as a cavity) or first stomach of ruminants",
+  "kjvTranslation": "maw.",
+  "hebrew": "קֵבָה",
+  "translations": {
+    "bg": "хълбок (като кухина) или първи стомах на преживни животни",
+    "cs": "bachor (jako dutina) nebo první žaludek přežvýkavců",
+    "da": "bugen (som et hulrum) eller den første mave hos drøvtyggere",
+    "de": "der Bauch (als Hohlraum) oder der erste Magen von Wiederkäuern",
+    "el": "η κοιλιά (ως κοιλότητα) ή το πρώτο στομάχι των μηρυκαστικών",
+    "es": "la panza (como cavidad) o primer estómago de los rumiantes",
+    "et": "mäletsejaliste kõht (kui õõnsus) või esimene kõht",
+    "fi": "märehtijöiden vatsa (ontelona) tai ensimmäinen vatsa",
+    "fr": "la panse (en tant que cavité) ou le premier estomac des ruminants",
+    "hu": "a pocak (mint üreg) vagy a kérődzők első gyomra",
+    "id": "bagian perut (sebagai rongga) atau perut pertama hewan pemamah biak",
+    "it": "la pancia (come cavità) o il primo stomaco dei ruminanti",
+    "ja": "反芻胃",
+    "ko": "반추 동물의 펀치 (공동) 또는 첫 번째 위",
+    "lt": "atrajotojų skrandis (kaip ertmė) arba pirmasis skrandis",
+    "lv": "atgremotāju paunch (kā dobums) vai pirmais kuņģis",
+    "nb": "buken (som et hulrom) eller den første magen hos drøvtyggere",
+    "nl": "de pens (als holte) of eerste maag van herkauwers",
+    "pl": "brzuch (jako jama) lub pierwszy żołądek przeżuwaczy",
+    "pt": "a pança (como cavidade) ou o primeiro estômago dos ruminantes",
+    "ro": "burta (ca o cavitate) sau primul stomac al rumegătoarelor",
+    "ru": "пуп (в виде полости) или первый желудок жвачных животных",
+    "sk": "bruško (ako dutina) alebo prvý žalúdok prežúvavcov",
+    "sl": "trebuh (kot votlina) ali prvi želodec prežvekovalcev",
+    "sv": "buken (som en hålighet) eller den första magen hos idisslare",
+    "tr": "geviş getiren hayvanların göbeği (boşluk olarak) veya ilk midesi",
+    "uk": "передшлунок (у вигляді порожнини) або перший шлунок жуйних тварин",
+    "zh": "贲门"
+  },
+  "verses": [
+    "deuteronomy 18:3:17"
+  ]
+}

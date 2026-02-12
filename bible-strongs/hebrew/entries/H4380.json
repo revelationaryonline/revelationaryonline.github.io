@@ -1,0 +1,42 @@
+{
+  "number": "H4380",
+  "language": "hebrew",
+  "transliteration": "mᵉkêrâh",
+  "pronunciation": "mek-ay-raw'",
+  "definition": "a sword",
+  "kjvTranslation": "habitation.",
+  "hebrew": "מְכֵרָה",
+  "translations": {
+    "bg": "меч",
+    "cs": "meč",
+    "da": "et sværd",
+    "de": "ein Schwert",
+    "el": "ένα σπαθί",
+    "es": "una espada",
+    "et": "mõõk",
+    "fi": "miekka",
+    "fr": "une épée",
+    "hu": "egy kard",
+    "id": "pedang",
+    "it": "una spada",
+    "ja": "剣",
+    "ko": "검",
+    "lt": "kardas",
+    "lv": "zobens",
+    "nb": "et sverd",
+    "nl": "een zwaard",
+    "pl": "miecz",
+    "pt": "uma espada",
+    "ro": "o sabie",
+    "ru": "шпага",
+    "sk": "meč",
+    "sl": "meč",
+    "sv": "ett svärd",
+    "tr": "bir kılıç",
+    "uk": "меч",
+    "zh": "刀剑"
+  },
+  "verses": [
+    "genesis 49:5:5"
+  ]
+}

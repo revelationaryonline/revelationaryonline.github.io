@@ -1,0 +1,43 @@
+{
+  "number": "H916",
+  "language": "hebrew",
+  "transliteration": "bᵉdôlach",
+  "pronunciation": "bed-o'-lakh",
+  "definition": "something in pieces, i.e. bdellium, a (fragrant) gum (perhaps amber); others a pearl",
+  "kjvTranslation": "bdellium.",
+  "translations": {
+    "bg": "нещо на парчета, т.е. бделий, (ароматна) смола (може би кехлибар); други - перла",
+    "cs": "něco na kousky, tj. bdellium, (voňavá) guma (snad jantar); jiní perla",
+    "da": "noget i stykker, f.eks. bdellium, en (duftende) gummi (måske rav); andre en perle",
+    "de": "etwas in Stücken, d.h. bdellium, ein (duftendes) Gummi (vielleicht Bernstein); andere eine Perle",
+    "el": "κάτι σε κομμάτια, π.χ. bdellium, ένα (αρωματικό) κόμμι (ίσως κεχριμπάρι)- άλλοι ένα μαργαριτάρι",
+    "es": "algo en pedazos, es decir, bdellium, una goma (fragante) (tal vez ámbar); otros una perla",
+    "et": "midagi tükeldatud, s.t. bdellium, (lõhnav) kumm (võib-olla merevaik); teised pärl",
+    "fi": "jotakin palasina, esim. bdellium, (tuoksuva) purukumi (ehkä meripihka); toiset helmi",
+    "fr": "quelque chose en morceaux, par exemple bdellium, une gomme (parfumée) (peut-être de l'ambre) ; d'autres une perle",
+    "hu": "valami darabokban, pl. bdellium, (illatos) gumi (talán borostyán); mások gyöngyöt",
+    "id": "sesuatu yang terpotong-potong, yaitu bdellium, permen karet (mungkin ambar); yang lain mutiara",
+    "it": "qualcosa in pezzi, ad esempio bdellium, una gomma (profumata) (forse ambra); altri una perla",
+    "ja": "バラバラの何か、すなわちブデリウム、（香りのよい）ゴム（おそらく琥珀）、他のものは真珠。",
+    "ko": "조각으로 된 것, 즉 bdellium, (향기로운) 껌 (아마도 호박색); 다른 사람들은 진주",
+    "lt": "kažkas gabalėliais, t. y. bdelis, (kvapni) derva (galbūt gintaras); kiti - perlas",
+    "lv": "kaut kas gabaliņos, t. i., bdellijs, (smaržīga) sveķu gumija (varbūt dzintars); citi - pērle",
+    "nb": "noe i stykker, f.eks. bdellium, en (velduftende) gummi (kanskje rav); andre en perle",
+    "nl": "iets in stukken, d.w.z. bdellium, een (geurige) gom (misschien amber); anderen een parel",
+    "pl": "coś w kawałkach, tj. bdellium, (pachnąca) guma (być może bursztyn); inni perła",
+    "pt": "algo em pedaços, ou seja, bdellium, uma goma (perfumada) (talvez âmbar); outros uma pérola",
+    "ro": "ceva în bucăți, de exemplu bdellium, o gumă (parfumată) (poate chihlimbar); alții o perlă",
+    "ru": "нечто раздробленное, т.е. bdellium, (ароматный) камедь (возможно, янтарь); другие - жемчужина",
+    "sk": "niečo na kúsky, t. j. bdellium, (voňavá) guma (možno jantár); iné perla",
+    "sl": "nekaj na koščke, npr. bdellium, (dišeča) guma (morda jantar); drugi biser",
+    "sv": "något i bitar, t.ex. bdellium, ett (doftande) gummi (kanske bärnsten); andra en pärla",
+    "tr": "parçalar halinde bir şey, yani bdellium, (kokulu) bir sakız (belki kehribar); diğerleri inci",
+    "uk": "щось шматками, наприклад, бделій, (запашна) камедь (можливо, бурштин); інші - перлина",
+    "zh": "碎片，即铍，一种（芳香的）树胶（也许是琥珀）；另一些是珍珠"
+  },
+  "hebrew": "בְּדֹלַח",
+  "verses": [
+    "genesis 2:12:5",
+    "numbers 11:7:6"
+  ]
+}

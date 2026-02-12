@@ -1,0 +1,42 @@
+{
+  "number": "H3930",
+  "language": "hebrew",
+  "transliteration": "lôaʻ",
+  "pronunciation": "lo'ah",
+  "definition": "the gullet",
+  "kjvTranslation": "throat.",
+  "hebrew": "לֹעַ",
+  "translations": {
+    "bg": "хранопровода",
+    "cs": "jícen",
+    "da": "spiserøret",
+    "de": "die Speiseröhre",
+    "el": "το φάρυγγα",
+    "es": "el gaznate",
+    "et": "söögitoru",
+    "fi": "ruokatorvi",
+    "fr": "le gosier",
+    "hu": "a nyelőcső",
+    "id": "kerongkongan",
+    "it": "l'esofago",
+    "ja": "噴門",
+    "ko": "식도",
+    "lt": "stemplė",
+    "lv": "barības vads",
+    "nb": "spiserøret",
+    "nl": "de slokdarm",
+    "pl": "przełyk",
+    "pt": "o esófago",
+    "ro": "gât",
+    "ru": "пищевод",
+    "sk": "pažerák",
+    "sl": "požiralnik",
+    "sv": "halsgropen",
+    "tr": "gırtlak",
+    "uk": "стравохід",
+    "zh": "河口"
+  },
+  "verses": [
+    "proverbs 23:2:2"
+  ]
+}

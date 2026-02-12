@@ -1,0 +1,43 @@
+{
+  "number": "H6606",
+  "language": "hebrew",
+  "transliteration": "pᵉthach",
+  "pronunciation": "peth-akh'",
+  "definition": "to open",
+  "kjvTranslation": "open.",
+  "hebrew": "פְּתַח",
+  "translations": {
+    "bg": "да отворите",
+    "cs": "otevřít",
+    "da": "for at åbne",
+    "de": "zu öffnen",
+    "el": "για να ανοίξετε",
+    "es": "para abrir",
+    "et": "avada",
+    "fi": "avata",
+    "fr": "pour ouvrir",
+    "hu": "kinyitni",
+    "id": "untuk membuka",
+    "it": "per aprire",
+    "ja": "開く",
+    "ko": "열려면",
+    "lt": "atidaryti",
+    "lv": "lai atvērtu",
+    "nb": "for å åpne",
+    "nl": "te openen",
+    "pl": "otworzyć",
+    "pt": "para abrir",
+    "ro": "pentru a deschide",
+    "ru": "открыть",
+    "sk": "otvoriť",
+    "sl": "da odprete",
+    "sv": "för att öppna",
+    "tr": "açmak için",
+    "uk": "відкрити",
+    "zh": "打开"
+  },
+  "verses": [
+    "daniel 6:11:9",
+    "daniel 7:10:19"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3283",
+  "language": "hebrew",
+  "transliteration": "yâʻên",
+  "pronunciation": "yaw-ane'",
+  "definition": "the ostrich (probably from its answering cry",
+  "kjvTranslation": "ostrich.",
+  "translations": {
+    "bg": "щраусът (вероятно от неговия отговорен вик)",
+    "cs": "pštrosa (pravděpodobně podle jeho odpovědního výkřiku)",
+    "da": "strudsen (sandsynligvis fra dens svarskrig)",
+    "de": "der Strauß (wahrscheinlich durch seinen Antwortschrei",
+    "el": "η στρουθοκάμηλος (πιθανότατα από την κραυγή που απαντάει",
+    "es": "el avestruz (probablemente por su grito de respuesta",
+    "et": "strauss (ilmselt tema vastuhüüdest)",
+    "fi": "strutsi (luultavasti sen vastaushuudon perusteella)",
+    "fr": "l'autruche (probablement en raison de son cri de réponse)",
+    "hu": "a strucc (valószínűleg a válaszkiáltásából)",
+    "id": "burung unta (mungkin dari teriakannya yang menjawab",
+    "it": "lo struzzo (probabilmente dal suo grido di risposta",
+    "ja": "ダチョウ",
+    "ko": "타조 (아마도 대답하는 울음소리에서 유래한",
+    "lt": "stručio (tikriausiai dėl jo atsakomojo šauksmo)",
+    "lv": "strauss (iespējams, pēc tā atbildes sauciena)",
+    "nb": "strutsen (sannsynligvis fra dens svarskrik",
+    "nl": "de struisvogel (waarschijnlijk van zijn antwoordkreet",
+    "pl": "struś (prawdopodobnie od jego odpowiadającego okrzyku",
+    "pt": "a avestruz (provavelmente pelo seu grito de resposta",
+    "ro": "struțul (probabil de la strigătul său de răspuns",
+    "ru": "страус (вероятно, из-за его ответного крика",
+    "sk": "pštros (pravdepodobne podľa jeho odpovedajúceho výkriku)",
+    "sl": "pštrosa (verjetno zaradi njegovega odgovarjajočega klica)",
+    "sv": "strutsen (troligen från dess svarsrop)",
+    "tr": "devekuşu (muhtemelen cevap veren çığlığından",
+    "uk": "страус (ймовірно, від його крику у відповідь",
+    "zh": "鸵鸟（可能来自它的应答声"
+  },
+  "hebrew": "יָעֵן",
+  "verses": [
+    "lamentations 4:3:11",
+    "lamentations 4:3:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3271",
+  "language": "hebrew",
+  "transliteration": "yâʻaṭ",
+  "pronunciation": "yaw-at'",
+  "definition": "to clothe",
+  "kjvTranslation": "cover.",
+  "translations": {
+    "bg": "да се облича",
+    "cs": "oblékat",
+    "da": "at klæde sig på",
+    "de": "zu kleiden",
+    "el": "να ντύσει",
+    "es": "vestir",
+    "et": "riietada",
+    "fi": "vaatettaa",
+    "fr": "habiller",
+    "hu": "felöltöztetni",
+    "id": "untuk berpakaian",
+    "it": "vestire",
+    "ja": "着せる",
+    "ko": "입다",
+    "lt": "aprengti",
+    "lv": "apģērbt",
+    "nb": "å kle",
+    "nl": "kleden",
+    "pl": "ubrać",
+    "pt": "para vestir",
+    "ro": "să îmbrace",
+    "ru": "одеваться",
+    "sk": "obliecť",
+    "sl": "obleči",
+    "sv": "att klä",
+    "tr": "giydirmek için",
+    "uk": "щоб одягнути",
+    "zh": "穿着"
+  },
+  "hebrew": "יָעַט",
+  "verses": [
+    "isaiah 61:10:12"
+  ]
+}

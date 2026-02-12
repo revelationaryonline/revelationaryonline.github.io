@@ -1,0 +1,42 @@
+{
+  "number": "H3306",
+  "language": "hebrew",
+  "transliteration": "yâphach",
+  "pronunciation": "yaw-fakh'",
+  "definition": "properly, to breathe hard, i.e. (by implication) to sigh",
+  "kjvTranslation": "bewail self.",
+  "translations": {
+    "bg": "правилно, да дишам тежко, т.е. (по подразбиране) да въздишам",
+    "cs": "správně, těžce dýchat, tj. (implicitně) vzdychat",
+    "da": "korrekt, at trække vejret hårdt, dvs. (underforstået) at sukke",
+    "de": "richtig, schwer zu atmen, d.h. (implizit) zu seufzen",
+    "el": "σωστά, να αναπνέω δυνατά, δηλαδή (με συνέπεια) να αναστενάζω",
+    "es": "propiamente dicho, respirar con dificultad, es decir (implícitamente) suspirar",
+    "et": "korralikult, kõvasti hingata, st (kaudselt) ohkama",
+    "fi": "kunnolla, hengittää kovaa, eli (implisiittisesti) huokaista",
+    "fr": "proprement dit, respirer fort, c'est-à-dire (implicitement) soupirer",
+    "hu": "rendesen, erősen lélegezni, azaz (értelemszerűen) sóhajtani",
+    "id": "dengan benar, bernapas dengan keras, yaitu (dengan implikasi) menghela napas",
+    "it": "propriamente, respirare forte, cioè (per implicazione) sospirare",
+    "ja": "つまり、ため息をつくことである。",
+    "ko": "제대로, 심호흡, 즉 (암시 적으로) 한숨을 쉬는 것",
+    "lt": "tinkamai, sunkiai kvėpuoti, t. y. (netiesiogiai) atsikvėpti",
+    "lv": "pareizi, smagi elpot, t.i., (netieši) atvilkt elpu",
+    "nb": "riktig, å puste hardt, dvs. (underforstått) å sukke",
+    "nl": "hard ademen, d.w.z. (impliciet) zuchten",
+    "pl": "prawidłowo, ciężko oddychać, tj. (w domyśle) wzdychać",
+    "pt": "propriamente, respirar com dificuldade, ou seja, (implicitamente) suspirar",
+    "ro": "corect, a respira greu, adică (implicit) a suspina",
+    "ru": "правильно, тяжело дышать, т.е. (по смыслу) вздыхать",
+    "sk": "správne, ťažko dýchať, t. j. (implicitne) vzdychať",
+    "sl": "pravilno, težko dihati, tj. (implicitno) vzdihovati",
+    "sv": "korrekt, att andas hårt, dvs. (underförstått) att sucka",
+    "tr": "uygun şekilde, sert nefes almak, yani (ima yoluyla) iç çekmek",
+    "uk": "правильно, важко дихати, тобто (за підтекстом) зітхати",
+    "zh": "正确地，用力呼吸，即（暗示）叹气"
+  },
+  "hebrew": "יָפַח",
+  "verses": [
+    "jeremiah 4:31:9"
+  ]
+}

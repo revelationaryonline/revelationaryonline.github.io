@@ -1,0 +1,42 @@
+{
+  "number": "H7085",
+  "language": "hebrew",
+  "transliteration": "qaʻăqaʻ",
+  "pronunciation": "kah-ak-ah'",
+  "definition": "an incision or gash",
+  "kjvTranslation": "[phrase] mark.",
+  "hebrew": "קַעֲקַע",
+  "translations": {
+    "bg": "разрез или прорез",
+    "cs": "řez nebo rána",
+    "da": "et snit eller en flænge",
+    "de": "ein Einschnitt oder eine Wunde",
+    "el": "μια τομή ή μια πληγή",
+    "es": "una incisión o corte",
+    "et": "sisselõige või haav",
+    "fi": "viilto tai haava",
+    "fr": "une incision ou une entaille",
+    "hu": "egy bemetszés vagy vágás",
+    "id": "sayatan atau luka",
+    "it": "un'incisione o uno squarcio",
+    "ja": "切り傷",
+    "ko": "절개 또는 상처",
+    "lt": "pjūvis arba įpjovimas",
+    "lv": "griezums vai iegriezums",
+    "nb": "et snitt eller en flenge",
+    "nl": "een incisie of snee",
+    "pl": "nacięcie lub rana",
+    "pt": "uma incisão ou corte",
+    "ro": "o incizie sau o tăietură",
+    "ru": "разрез или рана",
+    "sk": "rez alebo rana",
+    "sl": "rez ali vrez",
+    "sv": "ett snitt eller en flisa",
+    "tr": "bir kesik veya yara",
+    "uk": "розріз або рана",
+    "zh": "伤口"
+  },
+  "verses": [
+    "leviticus 19:28:6"
+  ]
+}

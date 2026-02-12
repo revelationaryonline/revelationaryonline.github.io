@@ -1,0 +1,42 @@
+{
+  "number": "H4075",
+  "language": "hebrew",
+  "transliteration": "Mâday",
+  "pronunciation": "maw-dah'-ee",
+  "definition": "a Madian or native of Madai",
+  "kjvTranslation": "Mede.",
+  "hebrew": "מָדַי",
+  "translations": {
+    "bg": "мадийски гражданин или гражданин на Madai",
+    "cs": "madian nebo rodák z Madai",
+    "da": "en madianer eller indfødt i Madai",
+    "de": "ein Madianer oder Eingeborener von Madai",
+    "el": "madian ή ιθαγενής του Madai",
+    "es": "un Madian o nativo de Madai",
+    "et": "madi või Madai põliselanik",
+    "fi": "madialainen tai Madain kotoisin oleva",
+    "fr": "madian ou originaire de Madai",
+    "hu": "madai vagy madai őslakos",
+    "id": "seorang Madian atau penduduk asli Madai",
+    "it": "un madiano o un nativo di Madai",
+    "ja": "マダイ人またはマダイ出身者",
+    "ko": "마디안 또는 마다이 출신",
+    "lt": "madietis arba kilęs iš Madai",
+    "lv": "madietis vai Madai dzimušais",
+    "nb": "en madianer eller innfødt i Madai",
+    "nl": "een Madiaan of inwoner van Madai",
+    "pl": "madianin lub pochodzący z Madai",
+    "pt": "um madiano ou natural de Madai",
+    "ro": "un Madian sau un nativ din Madai",
+    "ru": "мадиец или уроженец Мадая",
+    "sk": "madian alebo rodák z Madai",
+    "sl": "madijanec ali Madajčan",
+    "sv": "en Madian eller född i Madai",
+    "tr": "bir Madian veya Madai yerlisi",
+    "uk": "мадаїнець або уродженець Мадаю",
+    "zh": "马代人"
+  },
+  "verses": [
+    "daniel 11:1:4"
+  ]
+}

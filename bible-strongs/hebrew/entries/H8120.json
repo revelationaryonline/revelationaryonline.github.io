@@ -1,0 +1,42 @@
+{
+  "number": "H8120",
+  "language": "hebrew",
+  "transliteration": "shᵉmash",
+  "pronunciation": "shem-ash'",
+  "definition": "to serve",
+  "kjvTranslation": "minister.",
+  "hebrew": "שְׁמַשׁ",
+  "translations": {
+    "bg": "да служи",
+    "cs": "sloužit",
+    "da": "for at tjene",
+    "de": "zu dienen",
+    "el": "να εξυπηρετήσει",
+    "es": "para servir",
+    "et": "teenida",
+    "fi": "palvelemaan",
+    "fr": "servir",
+    "hu": "hogy szolgáljon",
+    "id": "untuk melayani",
+    "it": "per servire",
+    "ja": "奉仕する",
+    "ko": "제공",
+    "lt": "tarnauti",
+    "lv": "kalpot",
+    "nb": "for å tjene",
+    "nl": "dienen",
+    "pl": "służyć",
+    "pt": "para servir",
+    "ro": "pentru a servi",
+    "ru": "служить",
+    "sk": "slúžiť",
+    "sl": "služiti",
+    "sv": "att servera",
+    "tr": "hizmet etmek",
+    "uk": "служити",
+    "zh": "服务"
+  },
+  "verses": [
+    "daniel 7:10:10"
+  ]
+}

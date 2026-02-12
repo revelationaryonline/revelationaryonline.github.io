@@ -1,0 +1,43 @@
+{
+  "number": "H8183",
+  "language": "hebrew",
+  "transliteration": "sᵉʻârâh",
+  "pronunciation": "seh-aw-raw'",
+  "definition": "a hurricane",
+  "kjvTranslation": "storm, tempest.",
+  "hebrew": "שְׂעָרָה",
+  "translations": {
+    "bg": "ураган",
+    "cs": "hurikán",
+    "da": "en orkan",
+    "de": "ein Wirbelsturm",
+    "el": "ένας τυφώνας",
+    "es": "un huracán",
+    "et": "orkaan",
+    "fi": "hurrikaani",
+    "fr": "un ouragan",
+    "hu": "hurrikán",
+    "id": "badai",
+    "it": "un uragano",
+    "ja": "ハリケーン",
+    "ko": "허리케인",
+    "lt": "uraganas",
+    "lv": "viesuļvētra",
+    "nb": "en orkan",
+    "nl": "een orkaan",
+    "pl": "huragan",
+    "pt": "um furacão",
+    "ro": "un uragan",
+    "ru": "ураган",
+    "sk": "hurikán",
+    "sl": "orkan",
+    "sv": "en orkan",
+    "tr": "bir kasırga",
+    "uk": "ураган",
+    "zh": "飓风"
+  },
+  "verses": [
+    "job 9:17:1",
+    "nahum 1:3:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5093",
+  "language": "hebrew",
+  "transliteration": "nihyâh",
+  "pronunciation": "nih-yaw'",
+  "definition": "lamentation",
+  "kjvTranslation": "doleful.",
+  "hebrew": "נִהְיָה",
+  "translations": {
+    "bg": "оплакване",
+    "cs": "nářek",
+    "da": "klagesang",
+    "de": "klageschrift",
+    "el": "θρήνος",
+    "es": "lamento",
+    "et": "kaebus",
+    "fi": "valitusvirsi",
+    "fr": "lamentation",
+    "hu": "siralom",
+    "id": "ratapan",
+    "it": "lamentazione",
+    "ja": "嘆き",
+    "ko": "애도",
+    "lt": "lamentacija",
+    "lv": "lamentācija",
+    "nb": "klagesang",
+    "nl": "klaagzang",
+    "pl": "lament",
+    "pt": "lamentação",
+    "ro": "lamentare",
+    "ru": "плач",
+    "sk": "nárek",
+    "sl": "lamentacija",
+    "sv": "klagan",
+    "tr": "aĞIT",
+    "uk": "плач",
+    "zh": "哀叹"
+  },
+  "verses": [
+    "micah 2:4:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2628",
+  "language": "hebrew",
+  "transliteration": "châçal",
+  "pronunciation": "khaw-sal'",
+  "definition": "to eat off",
+  "kjvTranslation": "consume.",
+  "translations": {
+    "bg": "да се храните от",
+    "cs": "jíst z",
+    "da": "at spise af",
+    "de": "zum Verzehr",
+    "el": "για να φάω",
+    "es": "para comer",
+    "et": "süüa ära",
+    "fi": "syödä pois",
+    "fr": "pour manger",
+    "hu": "enni",
+    "id": "untuk makan",
+    "it": "per mangiare",
+    "ja": "食べる",
+    "ko": "먹다",
+    "lt": "valgyti iš",
+    "lv": "ēst no",
+    "nb": "å spise av",
+    "nl": "om van te eten",
+    "pl": "zjeść",
+    "pt": "para comer",
+    "ro": "pentru a mânca",
+    "ru": "питаться",
+    "sk": "jesť z",
+    "sl": "se najesti",
+    "sv": "att äta av",
+    "tr": "yemek için",
+    "uk": "щоб з'їсти",
+    "zh": "吃掉"
+  },
+  "hebrew": "חָסַל",
+  "verses": [
+    "deuteronomy 28:38:7"
+  ]
+}

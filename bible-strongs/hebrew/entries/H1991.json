@@ -1,0 +1,42 @@
+{
+  "number": "H1991",
+  "language": "hebrew",
+  "transliteration": "hêm",
+  "pronunciation": "haym",
+  "definition": "abundance, i.e. wealth",
+  "kjvTranslation": "any of theirs.",
+  "translations": {
+    "bg": "изобилие, т.е. богатство",
+    "cs": "hojnost, tj. bohatství",
+    "da": "overflod, dvs. rigdom",
+    "de": "überfluss, d.h. Reichtum",
+    "el": "αφθονία, δηλαδή πλούτος",
+    "es": "abundancia, es decir, riqueza",
+    "et": "küllus, st rikkus",
+    "fi": "yltäkylläisyys eli vauraus",
+    "fr": "l'abondance, c'est-à-dire la richesse",
+    "hu": "bőség, azaz gazdagság",
+    "id": "kelimpahan, yaitu kekayaan",
+    "it": "abbondanza, cioè ricchezza",
+    "ja": "ふゆう",
+    "ko": "풍요로움, 즉 재물",
+    "lt": "gausa, t. y. turtas",
+    "lv": "pārpilnība, t.i., bagātība",
+    "nb": "overflod, dvs. rikdom",
+    "nl": "overvloed, d.w.z. rijkdom",
+    "pl": "obfitość, tj. bogactwo",
+    "pt": "abundância, ou seja, riqueza",
+    "ro": "abundență, adică bogăție",
+    "ru": "изобилие, т.е. богатство",
+    "sk": "hojnosť, t. j. bohatstvo",
+    "sl": "obilje, tj. bogastvo",
+    "sv": "överflöd, dvs. rikedom",
+    "tr": "bolluk, yani zenginlik",
+    "uk": "достаток, тобто багатство",
+    "zh": "丰，即财富"
+  },
+  "hebrew": "הֵם",
+  "verses": [
+    "ezekiel 7:11:9"
+  ]
+}

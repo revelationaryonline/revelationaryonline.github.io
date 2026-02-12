@@ -1,0 +1,43 @@
+{
+  "number": "H2289",
+  "language": "hebrew",
+  "transliteration": "châgôwr",
+  "pronunciation": "khaw-gore'",
+  "definition": "belted",
+  "kjvTranslation": "girded with.",
+  "translations": {
+    "bg": "с колан",
+    "cs": "opasek",
+    "da": "med bælte",
+    "de": "gürtel",
+    "el": "με ζώνη",
+    "es": "con cinturón",
+    "et": "vööga",
+    "fi": "vyöllä",
+    "fr": "ceinturé",
+    "hu": "övvel",
+    "id": "berikat pinggang",
+    "it": "cinturato",
+    "ja": "ベルト付き",
+    "ko": "벨트",
+    "lt": "diržu",
+    "lv": "ar jostu",
+    "nb": "belte",
+    "nl": "ceintuur",
+    "pl": "z paskiem",
+    "pt": "com cinto",
+    "ro": "cu centură",
+    "ru": "с поясом",
+    "sk": "opasok",
+    "sl": "s pasom",
+    "sv": "bältad",
+    "tr": "kemerli",
+    "uk": "підперезаний",
+    "zh": "有腰带"
+  },
+  "hebrew": "חָגוֹר",
+  "verses": [
+    "proverbs 31:24:3",
+    "ezekiel 23:15:0"
+  ]
+}

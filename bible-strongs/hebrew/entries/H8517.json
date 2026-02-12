@@ -1,0 +1,42 @@
+{
+  "number": "H8517",
+  "language": "hebrew",
+  "transliteration": "tᵉlag",
+  "pronunciation": "tel-ag'",
+  "definition": "snow",
+  "kjvTranslation": "snow.",
+  "hebrew": "תְּלַג",
+  "translations": {
+    "bg": "сняг",
+    "cs": "sníh",
+    "da": "sne",
+    "de": "schnee",
+    "el": "χιόνι",
+    "es": "nieve",
+    "et": "lumi",
+    "fi": "lumi",
+    "fr": "neige",
+    "hu": "hó",
+    "id": "salju",
+    "it": "neve",
+    "ja": "スノー",
+    "ko": "snow",
+    "lt": "sniegas",
+    "lv": "sniegs",
+    "nb": "snø",
+    "nl": "sneeuw",
+    "pl": "śnieg",
+    "pt": "neve",
+    "ro": "zăpadă",
+    "ru": "снег",
+    "sk": "sneh",
+    "sl": "sneg",
+    "sv": "snö",
+    "tr": "kar",
+    "uk": "сніг",
+    "zh": "雪"
+  },
+  "verses": [
+    "daniel 7:9:10"
+  ]
+}

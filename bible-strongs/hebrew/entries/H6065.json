@@ -1,0 +1,42 @@
+{
+  "number": "H6065",
+  "language": "hebrew",
+  "transliteration": "ʻănash",
+  "pronunciation": "an-ash'",
+  "definition": "a mulct",
+  "kjvTranslation": "confiscation.",
+  "hebrew": "עֲנַשׁ",
+  "translations": {
+    "bg": "многобройни",
+    "cs": "a mulct",
+    "da": "en mulkt",
+    "de": "eine Multe",
+    "el": "ένα πολυτιμότερο",
+    "es": "un múltiplo",
+    "et": "a mulct",
+    "fi": "a mulct",
+    "fr": "un mulct",
+    "hu": "a mulct",
+    "id": "sebuah mulct",
+    "it": "un multicottero",
+    "ja": "倍率",
+    "ko": "뮬트",
+    "lt": "daugkartinis",
+    "lv": "mulct",
+    "nb": "en mulct",
+    "nl": "een mulct",
+    "pl": "mulct",
+    "pt": "um múltiplo",
+    "ro": "un mulct",
+    "ru": "мульт",
+    "sk": "a mulct",
+    "sl": "mulct",
+    "sv": "en mulct",
+    "tr": "bir malt",
+    "uk": "мультика",
+    "zh": "杂交"
+  },
+  "verses": [
+    "ezra 7:26:22"
+  ]
+}

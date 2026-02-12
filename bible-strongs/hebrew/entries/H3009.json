@@ -1,0 +1,42 @@
+{
+  "number": "H3009",
+  "language": "hebrew",
+  "transliteration": "yâgab",
+  "pronunciation": "yaw-gab'",
+  "definition": "to dig or plow",
+  "kjvTranslation": "husbandman.",
+  "translations": {
+    "bg": "да копае или оре",
+    "cs": "kopat nebo orat",
+    "da": "at grave eller pløje",
+    "de": "zu graben oder zu pflügen",
+    "el": "να σκάβω ή να οργώνω",
+    "es": "cavar o arar",
+    "et": "kaevata või künda",
+    "fi": "kaivaa tai kyntää",
+    "fr": "creuser ou labourer",
+    "hu": "ásni vagy szántani",
+    "id": "untuk menggali atau membajak",
+    "it": "scavare o arare",
+    "ja": "掘る、耕す",
+    "ko": "파거나 쟁기질하다",
+    "lt": "kasti arba ardyti",
+    "lv": "rakt vai aršana",
+    "nb": "å grave eller pløye",
+    "nl": "graven of ploegen",
+    "pl": "kopać lub orać",
+    "pt": "cavar ou arar",
+    "ro": "a săpa sau a ara",
+    "ru": "копать или пахать",
+    "sk": "kopať alebo orať",
+    "sl": "kopati ali orati",
+    "sv": "att gräva eller plöja",
+    "tr": "kazmak veya sürmek",
+    "uk": "копати або орати",
+    "zh": "犁"
+  },
+  "hebrew": "יָגַב",
+  "verses": [
+    "jeremiah 52:16:7"
+  ]
+}

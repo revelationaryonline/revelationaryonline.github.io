@@ -1,0 +1,43 @@
+{
+  "number": "H7670",
+  "language": "hebrew",
+  "transliteration": "shibrôwn",
+  "pronunciation": "shib-rone'",
+  "definition": "rupture, i.e. a pang; figuratively, ruin",
+  "kjvTranslation": "breaking, destruction.",
+  "hebrew": "שִׁבְרוֹן",
+  "translations": {
+    "bg": "разкъсване, т.е. удар; в преносен смисъл - разрушение",
+    "cs": "prasknutí, tj. rána; přeneseně zkáza",
+    "da": "brud, dvs. et slag; i overført betydning, ruin",
+    "de": "bruch, d.h. ein Schlag; im übertragenen Sinne: Ruin",
+    "el": "ρήξη, δηλ. ένα χτύπημα- μεταφορικά, καταστροφή",
+    "es": "ruptura, es decir, una punzada; en sentido figurado, ruina",
+    "et": "rebenemine, s.t. paanika; piltlikult öeldes häving",
+    "fi": "repeämä, eli pisto; kuvaannollisesti raunio",
+    "fr": "rupture, c'est-à-dire un choc ; au sens figuré, ruine",
+    "hu": "szakadás, azaz fájdalom; átvitt értelemben romlás",
+    "id": "pecah, yaitu kepedihan; secara kiasan, kehancuran",
+    "it": "rottura, cioè uno spasimo; in senso figurato, rovina",
+    "ja": "裂け目、すなわち痛み；比喩的には破滅",
+    "ko": "파열, 즉 통증; 비 유적으로, 파멸",
+    "lt": "plyšimas, t. y. įtrūkimas; perkeltine prasme - sugriovimas",
+    "lv": "plīsums, t. i., plīsums; pārnestā nozīmē - sabrukums",
+    "nb": "brudd, dvs. et smell; i overført betydning, ruin",
+    "nl": "breuk, d.w.z. een pijnscheut; figuurlijk, ruïne",
+    "pl": "pęknięcie, tj. uderzenie; w przenośni ruina",
+    "pt": "rutura, ou seja, uma pontada; figurativamente, ruína",
+    "ro": "ruptură, adică o lovitură; la figurat, ruină",
+    "ru": "разрыв, т.е. удар; образно говоря, разрушение",
+    "sk": "prasknutie, t. j. pang; v prenesenom význame zničenie",
+    "sl": "raztrganina, tj. razdejanje; v prenesenem pomenu ruševina",
+    "sv": "bristning, dvs. en smäll; bildligt talat, förstörelse",
+    "tr": "kopma, yani bir sızı; mecazi olarak, yıkım",
+    "uk": "розрив, тобто біль; образно кажучи, руйнація",
+    "zh": "破裂，即 \"呯 \"的一声；比喻毁坏"
+  },
+  "verses": [
+    "jeremiah 17:18:15",
+    "ezekiel 21:11:4"
+  ]
+}

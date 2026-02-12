@@ -1,0 +1,43 @@
+{
+  "number": "H2229",
+  "language": "hebrew",
+  "transliteration": "zâram",
+  "pronunciation": "zaw-ram'",
+  "definition": "to gush (as water)",
+  "kjvTranslation": "carry away as with a flood, pour out.",
+  "translations": {
+    "bg": "да извира (като вода)",
+    "cs": "tryskat (jako voda)",
+    "da": "at strømme (som vand)",
+    "de": "sprudeln (wie Wasser)",
+    "el": "να αναβλύζει (όπως το νερό)",
+    "es": "brotar (como el agua)",
+    "et": "purskama (nagu vesi)",
+    "fi": "poreilla (kuten vesi)",
+    "fr": "jaillir (comme de l'eau)",
+    "hu": "ömleni (mint a víz)",
+    "id": "menyembur (seperti air)",
+    "it": "zampillare (come l'acqua)",
+    "ja": "涌く",
+    "ko": "분출하다(물처럼)",
+    "lt": "trykšti (kaip vanduo)",
+    "lv": "izplūst (kā ūdens)",
+    "nb": "å strømme (som vann)",
+    "nl": "stromen (als water)",
+    "pl": "tryskać (jak woda)",
+    "pt": "jorrar (como água)",
+    "ro": "a țâșni (ca apa)",
+    "ru": "хлынуть (как вода)",
+    "sk": "tryskať (ako voda)",
+    "sl": "curljati (kot voda)",
+    "sv": "att spruta (som vatten)",
+    "tr": "fışkırmak (su gibi)",
+    "uk": "литися (як вода)",
+    "zh": "潺"
+  },
+  "hebrew": "זָרַם",
+  "verses": [
+    "psalms 77:18:0",
+    "psalms 90:5:0"
+  ]
+}

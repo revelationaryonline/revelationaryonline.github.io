@@ -1,0 +1,42 @@
+{
+  "number": "H5952",
+  "language": "hebrew",
+  "transliteration": "ʻallîyth",
+  "pronunciation": "al-leeth'",
+  "definition": "a second-story room",
+  "kjvTranslation": "chamber. Compare H5944 (עֲלִיָּה).",
+  "hebrew": "עַלִּית",
+  "translations": {
+    "bg": "стая на втория етаж",
+    "cs": "pokoj ve druhém patře",
+    "da": "et værelse på anden sal",
+    "de": "ein Zimmer im zweiten Stockwerk",
+    "el": "ένα δωμάτιο στον δεύτερο όροφο",
+    "es": "una habitación en el segundo piso",
+    "et": "teise korruse tuba",
+    "fi": "toisen kerroksen huone",
+    "fr": "une pièce au deuxième étage",
+    "hu": "egy második emeleti szoba",
+    "id": "kamar di lantai dua",
+    "it": "una stanza al secondo piano",
+    "ja": "二階の部屋",
+    "ko": "2층 방",
+    "lt": "antrame aukšte esančiame kambaryje",
+    "lv": "otrā stāva istaba",
+    "nb": "et rom i andre etasje",
+    "nl": "een kamer op de tweede verdieping",
+    "pl": "pokój na drugim piętrze",
+    "pt": "um quarto no segundo andar",
+    "ro": "o cameră la etajul al doilea",
+    "ru": "комната на втором этаже",
+    "sk": "miestnosť na druhom poschodí",
+    "sl": "soba v drugem nadstropju",
+    "sv": "ett rum på andra våningen",
+    "tr": "ikinci katta bir oda",
+    "uk": "кімната на другому поверсі",
+    "zh": "二楼房间"
+  },
+  "verses": [
+    "daniel 6:11:11"
+  ]
+}

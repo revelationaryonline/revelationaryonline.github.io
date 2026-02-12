@@ -1,0 +1,43 @@
+{
+  "number": "H7786",
+  "language": "hebrew",
+  "transliteration": "sûwr",
+  "pronunciation": "soor",
+  "definition": "properly, to vanquish; by implication, to rule (causatively, crown)",
+  "kjvTranslation": "make princes, have power, reign. See H5493 (סוּר).",
+  "hebrew": "שׂוּר",
+  "translations": {
+    "bg": "правилно, да побеждавам; по подразбиране, да управлявам (каузативно, корона)",
+    "cs": "správně, porazit; implicitně, vládnout (kauzativně, korunovat)",
+    "da": "korrekt, at besejre; underforstået, at herske (kausativt, krone)",
+    "de": "richtig: besiegen; implizit: herrschen (kausal, Krone)",
+    "el": "κατάλληλα, να νικήσει- με την έννοια, να κυβερνήσει (αιτιωδώς, στέμμα)",
+    "es": "propiamente, vencer; implícitamente, gobernar (causativamente, corona)",
+    "et": "õigesti, võita; kaudselt, valitseda (põhjuslikult, kroonida)",
+    "fi": "oikein, kukistaa; implisiittisesti, hallita (kausatiivisesti, kruunu)",
+    "fr": "proprement, vaincre ; par implication, régner (causativement, couronner)",
+    "hu": "helyesen, legyőzni; értelemszerűen uralkodni (kauzatív értelemben, koronázni)",
+    "id": "dengan benar, untuk mengalahkan; dengan implikasi, untuk memerintah (secara kausatif, mahkota)",
+    "it": "propriamente, sconfiggere; per implicazione, governare (causalmente, incoronare)",
+    "ja": "正しくは、打ち負かす；暗に、支配する（使役的に、王冠を）。",
+    "ko": "제대로, 정복하다; 암시적으로, 통치하다(인과적으로, 왕관)",
+    "lt": "tinkamai - nugalėti; netiesiogiai - valdyti (priežastingai, karūna)",
+    "lv": "pareizi - uzvarēt; netieši - valdīt (cēloņsakarīgi, kronēt)",
+    "nb": "egentlig, å beseire; underforstått, å herske (kausativt, krone)",
+    "nl": "naar behoren, overwinnen; impliciet, heersen (causatief, bekronen)",
+    "pl": "właściwie, pokonać; przez implikację, rządzić (przyczynowo, korona)",
+    "pt": "propriamente, vencer; implicitamente, governar (causativamente, coroar)",
+    "ro": "propriu-zis, a învinge; implicit, a domni (cauzativ, coroană)",
+    "ru": "правильно, побеждать; по косвенным признакам, править (каузативно, корона)",
+    "sk": "správne, poraziť; implicitne, vládnuť (kauzatívne, koruna)",
+    "sl": "pravilno, premagati; implicitno, vladati (vzročno, krona)",
+    "sv": "korrekt, att besegra; underförstått, att härska (kausativt, krona)",
+    "tr": "uygun şekilde, yenmek; ima yoluyla, hükmetmek (nedensel olarak, taç)",
+    "uk": "власне, перемагати; за змістом, панувати (каузативно, вінчати)",
+    "zh": "本义为 \"征服\"，暗指 \"统治\"（本义为 \"冠冕\"）。"
+  },
+  "verses": [
+    "judges 9:22:0",
+    "hosea 12:5:0"
+  ]
+}

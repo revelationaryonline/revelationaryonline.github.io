@@ -1,0 +1,42 @@
+{
+  "number": "H2824",
+  "language": "hebrew",
+  "transliteration": "cheshkâh",
+  "pronunciation": "khesh-kaw'",
+  "definition": "darkness",
+  "kjvTranslation": "dark.",
+  "translations": {
+    "bg": "тъмнина",
+    "cs": "temnota",
+    "da": "mørke",
+    "de": "dunkelheit",
+    "el": "σκοτάδι",
+    "es": "oscuridad",
+    "et": "pimedus",
+    "fi": "pimeys",
+    "fr": "obscurité",
+    "hu": "sötétség",
+    "id": "kegelapan",
+    "it": "buio",
+    "ja": "暗闇",
+    "ko": "어둠",
+    "lt": "tamsa",
+    "lv": "tumsa",
+    "nb": "mørke",
+    "nl": "duisternis",
+    "pl": "ciemność",
+    "pt": "escuridão",
+    "ro": "întuneric",
+    "ru": "тьма",
+    "sk": "tma",
+    "sl": "tema",
+    "sv": "mörker",
+    "tr": "karanlık",
+    "uk": "темрява",
+    "zh": "黑影"
+  },
+  "hebrew": "חֶשְׁכָה",
+  "verses": [
+    "psalms 18:12:5"
+  ]
+}

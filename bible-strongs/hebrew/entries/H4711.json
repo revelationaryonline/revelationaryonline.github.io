@@ -1,0 +1,42 @@
+{
+  "number": "H4711",
+  "language": "hebrew",
+  "transliteration": "mâtsats",
+  "pronunciation": "maw-tsats'",
+  "definition": "to suck",
+  "kjvTranslation": "milk.",
+  "hebrew": "מָצַץ",
+  "translations": {
+    "bg": "да смуче",
+    "cs": "sát",
+    "da": "at suge",
+    "de": "zum Saugen",
+    "el": "για να ρουφήξει",
+    "es": "chupar",
+    "et": "imeda",
+    "fi": "imemään",
+    "fr": "pour aspirer",
+    "hu": "szopni",
+    "id": "untuk menghisap",
+    "it": "per succhiare",
+    "ja": "吸う",
+    "ko": "빨다",
+    "lt": "čiulpti",
+    "lv": "sūkāt",
+    "nb": "å suge",
+    "nl": "zuigen",
+    "pl": "ssać",
+    "pt": "para sugar",
+    "ro": "să sugi",
+    "ru": "сосать",
+    "sk": "vysávať",
+    "sl": "sesati",
+    "sv": "att suga",
+    "tr": "emmek için",
+    "uk": "смоктати",
+    "zh": "吸吮"
+  },
+  "verses": [
+    "isaiah 66:11:6"
+  ]
+}

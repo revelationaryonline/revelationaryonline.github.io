@@ -1,0 +1,43 @@
+{
+  "number": "H5004",
+  "language": "hebrew",
+  "transliteration": "niʼuph",
+  "pronunciation": "nee-oof'",
+  "definition": "adultery",
+  "kjvTranslation": "adultery.",
+  "hebrew": "נִאֻף",
+  "translations": {
+    "bg": "изневяра",
+    "cs": "cizoložství",
+    "da": "utroskab",
+    "de": "ehebruch",
+    "el": "μοιχεία",
+    "es": "adulterio",
+    "et": "abielurikkumine",
+    "fi": "aviorikos",
+    "fr": "adultère",
+    "hu": "házasságtörés",
+    "id": "perzinahan",
+    "it": "adulterio",
+    "ja": "不倫",
+    "ko": "간통",
+    "lt": "svetimavimas",
+    "lv": "laulības pārkāpšana",
+    "nb": "utroskap",
+    "nl": "overspel",
+    "pl": "cudzołóstwo",
+    "pt": "adultério",
+    "ro": "adulter",
+    "ru": "прелюбодеяние",
+    "sk": "cudzoložstvo",
+    "sl": "prešuštvo",
+    "sv": "äktenskapsbrott",
+    "tr": "zİNA",
+    "uk": "перелюбство",
+    "zh": "奸情"
+  },
+  "verses": [
+    "jeremiah 13:27:0",
+    "ezekiel 23:43:2"
+  ]
+}

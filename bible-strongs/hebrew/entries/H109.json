@@ -1,0 +1,42 @@
+{
+  "number": "H109",
+  "language": "hebrew",
+  "transliteration": "ʼâdab",
+  "pronunciation": "aw-dab'",
+  "definition": "to languish",
+  "kjvTranslation": "grieve.",
+  "translations": {
+    "bg": "да затъва",
+    "cs": "chřadnout",
+    "da": "at sygne hen",
+    "de": "zu schmachten",
+    "el": "να μαραζώσει",
+    "es": "languidecer",
+    "et": "igatsema",
+    "fi": "kuihtua",
+    "fr": "languir",
+    "hu": "elsorvadni",
+    "id": "untuk merana",
+    "it": "languire",
+    "ja": "なだめる",
+    "ko": "쇠약해지다",
+    "lt": "vargti",
+    "lv": "novārtā",
+    "nb": "å sygne hen",
+    "nl": "wegkwijnen",
+    "pl": "marnieć",
+    "pt": "definhar",
+    "ro": "să lâncezească",
+    "ru": "томиться",
+    "sk": "chradnúť",
+    "sl": "zamujati",
+    "sv": "att försmäkta",
+    "tr": "çürümek",
+    "uk": "знемагати",
+    "zh": "煎熬"
+  },
+  "hebrew": "אָדַב",
+  "verses": [
+    "firstSamuel 2:33:9"
+  ]
+}

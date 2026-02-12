@@ -1,0 +1,42 @@
+{
+  "number": "H8400",
+  "language": "hebrew",
+  "transliteration": "tᵉballul",
+  "pronunciation": "teb-al-lool'",
+  "definition": "a cataract (in the eye)",
+  "kjvTranslation": "blemish.",
+  "hebrew": "תְּבַּלֻּל",
+  "translations": {
+    "bg": "катаракта (на окото)",
+    "cs": "šedý zákal (v oku)",
+    "da": "en grå stær (i øjet)",
+    "de": "ein grauer Star (im Auge)",
+    "el": "καταρράκτη (στο μάτι)",
+    "es": "una catarata (en el ojo)",
+    "et": "katarakt (silmas)",
+    "fi": "kaihi (silmässä)",
+    "fr": "une cataracte (dans l'œil)",
+    "hu": "szürkehályog (a szemben)",
+    "id": "katarak (pada mata)",
+    "it": "una cataratta (nell'occhio)",
+    "ja": "白内障",
+    "ko": "백내장(눈의 백내장)",
+    "lt": "katarakta (akyje)",
+    "lv": "katarakta (acī)",
+    "nb": "grå stær (i øyet)",
+    "nl": "staar (in het oog)",
+    "pl": "zaćma (w oku)",
+    "pt": "uma catarata (no olho)",
+    "ro": "o cataractă (în ochi)",
+    "ru": "катаракта (в глазу)",
+    "sk": "sivý zákal (v oku)",
+    "sl": "sivo mreno (v očesu)",
+    "sv": "katarakt (grå starr) (i ögat)",
+    "tr": "bir katarakt (gözde)",
+    "uk": "катаракта (в оці)",
+    "zh": "白内障"
+  },
+  "verses": [
+    "leviticus 21:20:5"
+  ]
+}

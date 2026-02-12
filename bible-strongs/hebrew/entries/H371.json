@@ -1,0 +1,42 @@
+{
+  "number": "H371",
+  "language": "hebrew",
+  "transliteration": "ʼîyn",
+  "pronunciation": "een",
+  "definition": "is it not?",
+  "kjvTranslation": "not.",
+  "translations": {
+    "bg": "не е ли така?",
+    "cs": "je to tak?",
+    "da": "er det ikke rigtigt?",
+    "de": "nicht wahr?",
+    "el": "έτσι δεν είναι",
+    "es": "¿no es así?",
+    "et": "kas pole?",
+    "fi": "eikö olekin?",
+    "fr": "n'est-ce pas ?",
+    "hu": "ugye?",
+    "id": "bukan?",
+    "it": "non è vero?",
+    "ja": "そうだろう？",
+    "ko": "그렇지 않나요?",
+    "lt": "ar ne?",
+    "lv": "vai ne?",
+    "nb": "ikke sant?",
+    "nl": "is het niet?",
+    "pl": "czyż nie?",
+    "pt": "não é verdade?",
+    "ro": "nu-i așa?",
+    "ru": "не так ли?",
+    "sk": "je to tak?",
+    "sl": "ali ne?",
+    "sv": "är det inte så?",
+    "tr": "öyle değil mi?",
+    "uk": "чи не так?",
+    "zh": "不是吗？"
+  },
+  "hebrew": "אִין",
+  "verses": [
+    "firstSamuel 21:9:3"
+  ]
+}

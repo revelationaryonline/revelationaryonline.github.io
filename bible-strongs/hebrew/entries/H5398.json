@@ -1,0 +1,43 @@
+{
+  "number": "H5398",
+  "language": "hebrew",
+  "transliteration": "nâshaph",
+  "pronunciation": "naw-shaf'",
+  "definition": "to breeze, i.e. blow up fresh (as the wind)",
+  "kjvTranslation": "blow.",
+  "hebrew": "נָשַׁף",
+  "translations": {
+    "bg": "да духа, т.е. да духа свежо (като вятъра)",
+    "cs": "vát, tj. foukat čerstvý vítr (jako vítr)",
+    "da": "at brise, dvs. blæse frisk op (som vinden)",
+    "de": "eine Brise wehen lassen, d.h. frisch (wie der Wind) aufblasen",
+    "el": "να φυσήξει, δηλ. να φυσήξει φρέσκος (όπως ο άνεμος)",
+    "es": "soplar, es decir, soplar fresco (como el viento)",
+    "et": "puhuda, s.t. puhuda värskelt (nagu tuul)",
+    "fi": "puhaltaa tuulta, eli puhaltaa raikkaasti (kuten tuuli)",
+    "fr": "brasser, c'est-à-dire souffler frais (comme le vent)",
+    "hu": "fújni, azaz frissen fújni (mint a szél)",
+    "id": "to breeze, yaitu meniupkan angin segar (seperti angin)",
+    "it": "soffiare, cioè soffiare fresco (come il vento)",
+    "ja": "そよぐ、つまり（風のように）爽やかに吹き上げる",
+    "ko": "산들바람을 일으키다, 즉 (바람처럼) 신선하게 날려버리다",
+    "lt": "pūstis, t. y. pūstis gaiviai (kaip vėjas)",
+    "lv": "pūst, t.i., pūst svaigi (kā vējš)",
+    "nb": "å bris, dvs. blåse opp frisk (som vinden)",
+    "nl": "briesen, d.w.z. fris opblazen (als de wind)",
+    "pl": "wiać, tj. wiać świeżo (jak wiatr)",
+    "pt": "brisar, ou seja, soprar fresco (como o vento)",
+    "ro": "a briza, adică a sufla proaspăt (ca vântul)",
+    "ru": "дуть, т.е. дуть свежим ветром (как ветер)",
+    "sk": "fúkať, t. j. fúkať sviežo (ako vietor)",
+    "sl": "pihati, tj. pihati sveže (kot veter)",
+    "sv": "att brisa, dvs. blåsa upp friskt (som vinden)",
+    "tr": "esmek, yani taze esmek (rüzgar gibi)",
+    "uk": "віяти, тобто здувати свіжим (як вітер)",
+    "zh": "清风"
+  },
+  "verses": [
+    "exodus 15:10:0",
+    "isaiah 40:24:12"
+  ]
+}

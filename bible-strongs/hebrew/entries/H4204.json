@@ -1,0 +1,42 @@
+{
+  "number": "H4204",
+  "language": "hebrew",
+  "transliteration": "mâzôwr",
+  "pronunciation": "maw-zore'",
+  "definition": "treachery, i.e. a plot",
+  "kjvTranslation": "wound.",
+  "hebrew": "מָזוֹר",
+  "translations": {
+    "bg": "предателство, т.е. заговор",
+    "cs": "zrada, tj. spiknutí",
+    "da": "forræderi, dvs. et komplot",
+    "de": "verrat, d.h. ein Komplott",
+    "el": "προδοσία, δηλαδή συνωμοσία",
+    "es": "traición, es decir, un complot",
+    "et": "reetmine, st vandenõu",
+    "fi": "petos eli juoni",
+    "fr": "la trahison, c'est-à-dire un complot",
+    "hu": "árulás, azaz összeesküvés",
+    "id": "pengkhianatan, yaitu sebuah komplotan",
+    "it": "tradimento, cioè un complotto",
+    "ja": "裏切り",
+    "ko": "배신, 즉 음모",
+    "lt": "išdavystė, t. y. sąmokslas",
+    "lv": "nodevība, t.i., sazvērestība",
+    "nb": "forræderi, dvs. et komplott",
+    "nl": "verraad, d.w.z. een complot",
+    "pl": "zdrada, tj. spisek",
+    "pt": "traição, ou seja, uma conspiração",
+    "ro": "trădare, adică un complot",
+    "ru": "вероломство, т.е. заговор",
+    "sk": "zrada, t. j. sprisahanie",
+    "sl": "izdajstvo, tj. zarota",
+    "sv": "förräderi, dvs. en komplott",
+    "tr": "ihanet, yani bir komplo",
+    "uk": "зрада, тобто змова",
+    "zh": "奸计"
+  },
+  "verses": [
+    "obadiah 1:7:13"
+  ]
+}

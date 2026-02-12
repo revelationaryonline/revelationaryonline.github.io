@@ -1,0 +1,43 @@
+{
+  "number": "H2235",
+  "language": "hebrew",
+  "transliteration": "zêrôaʻ",
+  "pronunciation": "zay-ro'-ah",
+  "definition": "something sown (only in the plural), i.e. a vegetable (as food)",
+  "kjvTranslation": "pulse.",
+  "translations": {
+    "bg": "нещо, което се засява (само в множествено число), т.е. зеленчук (като храна)",
+    "cs": "něco zasetého (pouze v množném čísle), tj. zelenina (jako potravina)",
+    "da": "noget sået (kun i flertal), f.eks. en grøntsag (som mad)",
+    "de": "etwas Gesätes (nur im Plural), d.h. ein Gemüse (als Nahrung)",
+    "el": "κάτι που σπέρνεται (μόνο στον πληθυντικό), δηλαδή ένα λαχανικό (ως τροφή)",
+    "es": "algo sembrado (sólo en plural), es decir, un vegetal (como alimento)",
+    "et": "midagi külvatud (ainult mitmuses), s.t. köögivilja (toiduks)",
+    "fi": "jotain kylvettyä (vain monikossa), eli vihannes (ruokana)",
+    "fr": "quelque chose de semé (uniquement au pluriel), c'est-à-dire un légume (en tant qu'aliment)",
+    "hu": "valami elvetett (csak többes számban), azaz zöldség (mint táplálék)",
+    "id": "sesuatu yang ditaburkan (hanya dalam bentuk jamak), yaitu sayuran (sebagai makanan)",
+    "it": "qualcosa di seminato (solo al plurale), cioè un vegetale (come alimento)",
+    "ja": "蒔かれたもの",
+    "ko": "뿌려진 것(복수형으로만), 즉 채소(음식으로)",
+    "lt": "sėjama (tik daugiskaita), t. y. daržovė (kaip maistas)",
+    "lv": "sēts (tikai daudzskaitlī), t. i., dārzenis (kā pārtika)",
+    "nb": "noe sådd (bare i flertall), f.eks. en grønnsak (som mat)",
+    "nl": "iets gezaaid (alleen in het meervoud), d.w.z. een groente (als voedsel)",
+    "pl": "coś zasianego (tylko w liczbie mnogiej), tj. warzywo (jako pożywienie)",
+    "pt": "algo semeado (apenas no plural), ou seja, um vegetal (como alimento)",
+    "ro": "ceva semănat (numai la plural), de exemplu o legumă (ca aliment)",
+    "ru": "что-то посеянное (только во множественном числе), т.е. овощ (в качестве пищи)",
+    "sk": "niečo zasiate (len v množnom čísle), t. j. zelenina (ako potravina)",
+    "sl": "nekaj posejanega (samo v množini), npr. zelenjava (kot hrana)",
+    "sv": "något som sås (endast i plural), t.ex. en grönsak (som livsmedel)",
+    "tr": "ekilen bir şey (sadece çoğul olarak), yani bir sebze (yiyecek olarak)",
+    "uk": "щось посіяне (тільки у множині), тобто овоч (як їжа)",
+    "zh": "播种的东西（只有复数），即蔬菜（作为食物）"
+  },
+  "hebrew": "זֵרֹעַ",
+  "verses": [
+    "daniel 1:12:9",
+    "daniel 1:16:9"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8557",
+  "language": "hebrew",
+  "transliteration": "temeç",
+  "pronunciation": "teh'-mes",
+  "definition": "liquefaction, i.e. disappearance",
+  "kjvTranslation": "melt.",
+  "hebrew": "תֶּמֶס",
+  "translations": {
+    "bg": "втечняване, т.е. изчезване",
+    "cs": "zkapalnění, tj. zánik",
+    "da": "flydendegørelse, dvs. forsvinden",
+    "de": "verflüssigung, d.h. Verschwinden",
+    "el": "ρευστοποίηση, δηλαδή εξαφάνιση",
+    "es": "licuefacción, es decir, desaparición",
+    "et": "vedeldamine, st kadumine",
+    "fi": "nesteytyminen eli katoaminen",
+    "fr": "la liquéfaction, c'est-à-dire la disparition",
+    "hu": "cseppfolyósodás, azaz eltűnés",
+    "id": "likuifaksi, yaitu penghilangan",
+    "it": "liquefazione, cioè scomparsa",
+    "ja": "液状化、すなわち消滅",
+    "ko": "액화, 즉 사라짐",
+    "lt": "suskystėjimas, t. y. išnykimas",
+    "lv": "sašķidrināšanās, t.i., izzušana",
+    "nb": "flytendegjøring, dvs. forsvinning",
+    "nl": "vloeibaar worden, d.w.z. verdwijnen",
+    "pl": "skraplanie, tj. zanikanie",
+    "pt": "liquefação, ou seja, desaparecimento",
+    "ro": "lichefiere, adică dispariție",
+    "ru": "разжижение, т.е. исчезновение",
+    "sk": "skvapalnenie, t. j. zánik",
+    "sl": "utekočinjenje, tj. izginotje",
+    "sv": "likvifiering, dvs. försvinnande",
+    "tr": "sıvılaşma, yani kaybolma",
+    "uk": "зрідження, тобто зникнення",
+    "zh": "液化，即消失"
+  },
+  "verses": [
+    "psalms 58:9:2"
+  ]
+}

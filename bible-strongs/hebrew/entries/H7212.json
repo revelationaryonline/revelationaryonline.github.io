@@ -1,0 +1,42 @@
+{
+  "number": "H7212",
+  "language": "hebrew",
+  "transliteration": "rᵉʼîyth",
+  "pronunciation": "reh-eeth'",
+  "definition": "sight",
+  "kjvTranslation": "beholding.",
+  "hebrew": "רְאִית",
+  "translations": {
+    "bg": "поглед",
+    "cs": "pohled",
+    "da": "syn",
+    "de": "ansicht",
+    "el": "θέαμα",
+    "es": "ver",
+    "et": "vaatepilt",
+    "fi": "näkymä",
+    "fr": "vue",
+    "hu": "látvány",
+    "id": "penglihatan",
+    "it": "vista",
+    "ja": "サイト",
+    "ko": "시력",
+    "lt": "vaizdas",
+    "lv": "skats",
+    "nb": "syn",
+    "nl": "zicht",
+    "pl": "widok",
+    "pt": "visão",
+    "ro": "vedere",
+    "ru": "зрение",
+    "sk": "pohľad",
+    "sl": "pogled",
+    "sv": "sikt",
+    "tr": "görüş",
+    "uk": "видовище",
+    "zh": "景点"
+  },
+  "verses": [
+    "ecclesiastes 5:10:9"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5917",
+  "language": "hebrew",
+  "transliteration": "ʻÂkâr",
+  "pronunciation": "aw-kawr'",
+  "definition": "Akar, an Israelite",
+  "kjvTranslation": "Achar. Compare H5912 (עָכָן).",
+  "hebrew": "עָכָר",
+  "translations": {
+    "bg": "Акар, израилтянин",
+    "cs": "Akar, Izraelita",
+    "da": "Akar, en israelit",
+    "de": "Akar, ein Israelit",
+    "el": "Akar, ένας Ισραηλίτης",
+    "es": "Akar, israelita",
+    "et": "Akar, iisraellane",
+    "fi": "Akar, israelilainen",
+    "fr": "Akar, Israélite",
+    "hu": "Akar, egy izraelita",
+    "id": "Akar, seorang Israel",
+    "it": "Akar, un israelita",
+    "ja": "イスラエル人アカル",
+    "ko": "이스라엘인, 아카르",
+    "lt": "Akaras, izraelitas",
+    "lv": "Akar, izraēlietis",
+    "nb": "Akar, en israelitt",
+    "nl": "Akar, een Israëliet",
+    "pl": "Akar, Izraelita",
+    "pt": "Akar, israelita",
+    "ro": "Akar, un israelit",
+    "ru": "Акар, израильтянин",
+    "sk": "Akar, Izraelita",
+    "sl": "Akar, Izraelec",
+    "sv": "Akar, en israelit",
+    "tr": "Akar, bir İsrailli",
+    "uk": "Акар, ізраїльтянин",
+    "zh": "以色列人阿卡尔"
+  },
+  "verses": [
+    "firstChronicles 2:7:2"
+  ]
+}

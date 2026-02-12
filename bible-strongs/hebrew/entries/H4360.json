@@ -1,0 +1,42 @@
+{
+  "number": "H4360",
+  "language": "hebrew",
+  "transliteration": "miklul",
+  "pronunciation": "mik-lool'",
+  "definition": "something perfect, i.e. a splendid garment",
+  "kjvTranslation": "all sorts.",
+  "hebrew": "מִכְלֻל",
+  "translations": {
+    "bg": "нещо съвършено, т.е. великолепна дреха",
+    "cs": "něco dokonalého, tj. nádherný oděv",
+    "da": "noget perfekt, f.eks. en fantastisk beklædningsgenstand",
+    "de": "etwas Vollkommenes, d.h. ein prächtiges Kleidungsstück",
+    "el": "κάτι τέλειο, π.χ. ένα υπέροχο ένδυμα",
+    "es": "algo perfecto, es decir, una prenda espléndida",
+    "et": "midagi täiuslikku, s.t. suurepärane rõivas",
+    "fi": "jotain täydellistä, eli loistava vaate",
+    "fr": "quelque chose de parfait, c'est-à-dire un vêtement splendide",
+    "hu": "valami tökéletes, azaz egy pompás ruhadarab",
+    "id": "sesuatu yang sempurna, yaitu pakaian yang indah",
+    "it": "qualcosa di perfetto, cioè un abito splendido",
+    "ja": "びれい",
+    "ko": "완벽한 무언가, 즉 화려한 의상",
+    "lt": "kažkas tobulo, t. y. puikus drabužis",
+    "lv": "kaut kas nevainojams, t.i., lielisks apģērbs",
+    "nb": "noe perfekt, f.eks. et praktfullt plagg",
+    "nl": "iets perfects, d.w.z. een prachtig kledingstuk",
+    "pl": "coś doskonałego, np. wspaniałe ubranie",
+    "pt": "algo perfeito, ou seja, uma peça de vestuário esplêndida",
+    "ro": "ceva perfect, adică o haină splendidă",
+    "ru": "нечто совершенное, т.е. великолепное одеяние",
+    "sk": "niečo dokonalé, t. j. nádherný odev",
+    "sl": "nekaj popolnega, npr. čudovito oblačilo",
+    "sv": "något perfekt, t.ex. ett fantastiskt plagg",
+    "tr": "mükemmel bir şey, yani görkemli bir giysi",
+    "uk": "щось досконале, тобто розкішний одяг",
+    "zh": "霞衣"
+  },
+  "verses": [
+    "ezekiel 27:24:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3230",
+  "language": "hebrew",
+  "transliteration": "Yamlêk",
+  "pronunciation": "yam-lake'",
+  "definition": "Jamlek, an Israelite",
+  "kjvTranslation": "Jamlech.",
+  "translations": {
+    "bg": "Джамлек, израилтянин",
+    "cs": "Jamlek, Izraelita",
+    "da": "Jamlek, en israelit",
+    "de": "Jamlek, ein Israelit",
+    "el": "Jamlek, ένας Ισραηλίτης",
+    "es": "Jamlek, israelita",
+    "et": "Jamlek, iisraellane",
+    "fi": "Jamlek, israelilainen",
+    "fr": "Jamlek, Israélite",
+    "hu": "Jamlek, izraelita",
+    "id": "Jamlek, seorang warga Israel",
+    "it": "Jamlek, un israelita",
+    "ja": "イスラエル人ジャムレク",
+    "ko": "이스라엘인, 잠렉",
+    "lt": "Jamlekas, izraelitas",
+    "lv": "Jamleks, izraēlietis",
+    "nb": "Jamlek, en israelitt",
+    "nl": "Jamlek, een Israëliet",
+    "pl": "Jamlek, Izraelita",
+    "pt": "Jamlek, israelita",
+    "ro": "Jamlek, un israelit",
+    "ru": "Джамлек, израильтянин",
+    "sk": "Jamlek, Izraelita",
+    "sl": "Jamlek, Izraelec",
+    "sv": "Jamlek, en israelit",
+    "tr": "Jamlek, bir İsrailli",
+    "uk": "Джамлек, ізраїльтянин",
+    "zh": "以色列人亚姆列克"
+  },
+  "hebrew": "יַמְלֵךְ",
+  "verses": [
+    "firstChronicles 4:34:1"
+  ]
+}

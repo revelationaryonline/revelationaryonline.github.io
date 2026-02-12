@@ -1,0 +1,42 @@
+{
+  "number": "H2162",
+  "language": "hebrew",
+  "transliteration": "zâmâm",
+  "pronunciation": "zaw-mawm'",
+  "definition": "a plot",
+  "kjvTranslation": "wicked device.",
+  "translations": {
+    "bg": "парцел",
+    "cs": "pozemek",
+    "da": "et plot",
+    "de": "eine Handlung",
+    "el": "ένα οικόπεδο",
+    "es": "una parcela",
+    "et": "krunt",
+    "fi": "juoni",
+    "fr": "une parcelle",
+    "hu": "egy telek",
+    "id": "sebuah plot",
+    "it": "una trama",
+    "ja": "プロット",
+    "ko": "플롯",
+    "lt": "sklypas",
+    "lv": "zemes gabals",
+    "nb": "en tomt",
+    "nl": "een samenzwering",
+    "pl": "działka",
+    "pt": "uma parcela",
+    "ro": "un complot",
+    "ru": "сюжет",
+    "sk": "pozemok",
+    "sl": "parcela",
+    "sv": "en tomt",
+    "tr": "bir arsa",
+    "uk": "сюжет",
+    "zh": "情节"
+  },
+  "hebrew": "זָמָם",
+  "verses": [
+    "psalms 140:9:5"
+  ]
+}

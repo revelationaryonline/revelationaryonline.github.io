@@ -1,0 +1,43 @@
+{
+  "number": "H6688",
+  "language": "hebrew",
+  "transliteration": "tsûwph",
+  "pronunciation": "tsoof",
+  "definition": "comb of honey (from dripping)",
+  "kjvTranslation": "honeycomb.",
+  "hebrew": "צוּף",
+  "translations": {
+    "bg": "гребен от мед (от капенето)",
+    "cs": "plásty medu (z kapání)",
+    "da": "honningkam (fra dryp)",
+    "de": "honigwabe (aus dem Tropf)",
+    "el": "κηρήθρα από μέλι (από το στάξιμο)",
+    "es": "panal de miel (de goteo)",
+    "et": "meekamm (tilgutusest)",
+    "fi": "hunajakenno (tippumisesta)",
+    "fr": "peigne de miel (de l'égouttage)",
+    "hu": "mézfésű (csepegtetésből)",
+    "id": "sisir madu (dari tetesan)",
+    "it": "favo di miele (da sgocciolamento)",
+    "ja": "ハチミツのくし（ドリップ用）",
+    "ko": "꿀 빗 (떨어지는 것에서)",
+    "lt": "medaus šukės (nuo lašėjimo)",
+    "lv": "medus slotiņas (no pilināšanas)",
+    "nb": "kam av honning (fra drypping)",
+    "nl": "honingraat (van druppels)",
+    "pl": "plaster miodu (z kapania)",
+    "pt": "favo de mel (do escorrimento)",
+    "ro": "pieptene de miere (din picurare)",
+    "ru": "гребень меда (из капельницы)",
+    "sk": "plásty medu (z kvapkania)",
+    "sl": "čebelji panj medu (od kapljanja)",
+    "sv": "honungskam (från droppande)",
+    "tr": "bal peteği (damlamadan)",
+    "uk": "гребінець меду (від капання)",
+    "zh": "篦子"
+  },
+  "verses": [
+    "psalms 19:11:7",
+    "proverbs 16:24:0"
+  ]
+}

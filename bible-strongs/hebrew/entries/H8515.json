@@ -1,0 +1,43 @@
+{
+  "number": "H8515",
+  "language": "hebrew",
+  "transliteration": "Tᵉlaʼssar",
+  "pronunciation": "tel-as-sar'",
+  "definition": "Telassar, a region of Assyria",
+  "kjvTranslation": "Telassar.",
+  "hebrew": "תְּלַאשַּׂר",
+  "translations": {
+    "bg": "Теласар, област в Асирия",
+    "cs": "Telassar, asyrský region",
+    "da": "Telassar, en region i Assyrien",
+    "de": "Telassar, eine Region in Assyrien",
+    "el": "Telassar, περιοχή της Ασσυρίας",
+    "es": "Telasar, una región de Asiria",
+    "et": "Telassar, Assüüria piirkond",
+    "fi": "Telassar, Assyriassa sijaitseva alue",
+    "fr": "Telassar, région d'Assyrie",
+    "hu": "Telassar, Asszíria egyik régiója",
+    "id": "Telassar, sebuah wilayah di Asiria",
+    "it": "Telassar, una regione dell'Assiria",
+    "ja": "テラッサル、アッシリアの一地方",
+    "ko": "앗수르의 한 지역, 텔라사르",
+    "lt": "Telasaras, Asirijos regionas",
+    "lv": "Telassar, Asīrijas reģions",
+    "nb": "Telassar, en region i Assyria",
+    "nl": "Telassar, een regio in Assyrië",
+    "pl": "Telassar, region w Asyrii",
+    "pt": "Telassar, uma região da Assíria",
+    "ro": "Telassar, o regiune a Asiriei",
+    "ru": "Телассар, область в Ассирии",
+    "sk": "Telassar, región Asýrie",
+    "sl": "Telassar, regija v Asiriji",
+    "sv": "Telassar, en region i Assyrien",
+    "tr": "Telassar, Asur'un bir bölgesi",
+    "uk": "Телассар, регіон Ассирії",
+    "zh": "特拉萨尔"
+  },
+  "verses": [
+    "secondKings 19:12:15",
+    "isaiah 37:12:15"
+  ]
+}

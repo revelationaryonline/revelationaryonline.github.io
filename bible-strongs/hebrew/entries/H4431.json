@@ -1,0 +1,42 @@
+{
+  "number": "H4431",
+  "language": "hebrew",
+  "transliteration": "mᵉlak",
+  "pronunciation": "mel-ak'",
+  "definition": "advice",
+  "kjvTranslation": "counsel.",
+  "hebrew": "מְלַךְ",
+  "translations": {
+    "bg": "съвети",
+    "cs": "rady",
+    "da": "rådgivning",
+    "de": "beratung",
+    "el": "συμβουλές",
+    "es": "consejo",
+    "et": "nõustamine",
+    "fi": "neuvonta",
+    "fr": "conseils",
+    "hu": "tanácsadás",
+    "id": "saran",
+    "it": "consiglio",
+    "ja": "アドバイス",
+    "ko": "조언",
+    "lt": "patarimai",
+    "lv": "konsultācijas",
+    "nb": "råd",
+    "nl": "advies",
+    "pl": "rada",
+    "pt": "aconselhamento",
+    "ro": "consiliere",
+    "ru": "совет",
+    "sk": "poradenstvo",
+    "sl": "nasveti",
+    "sv": "rådgivning",
+    "tr": "tavsiye",
+    "uk": "порада",
+    "zh": "建议"
+  },
+  "verses": [
+    "daniel 4:24:2"
+  ]
+}

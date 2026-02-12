@@ -1,0 +1,42 @@
+{
+  "number": "H3024",
+  "language": "hebrew",
+  "transliteration": "yᵉgiʻâh",
+  "pronunciation": "yeg-ee-aw'",
+  "definition": "fatigue",
+  "kjvTranslation": "weariness.",
+  "translations": {
+    "bg": "умора",
+    "cs": "únava",
+    "da": "træthed",
+    "de": "ermüdung",
+    "el": "κόπωση",
+    "es": "fatiga",
+    "et": "väsimus",
+    "fi": "väsymys",
+    "fr": "fatigue",
+    "hu": "fáradtság",
+    "id": "kelelahan",
+    "it": "fatica",
+    "ja": "疲労",
+    "ko": "피로",
+    "lt": "nuovargis",
+    "lv": "nogurums",
+    "nb": "tretthet",
+    "nl": "vermoeidheid",
+    "pl": "zmęczenie",
+    "pt": "cansaço",
+    "ro": "oboseală",
+    "ru": "усталость",
+    "sk": "únava",
+    "sl": "utrujenost",
+    "sv": "utmattning",
+    "tr": "yorgunluk",
+    "uk": "втома",
+    "zh": "疲劳"
+  },
+  "hebrew": "יְגִעָה",
+  "verses": [
+    "ecclesiastes 12:12:11"
+  ]
+}

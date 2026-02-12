@@ -1,0 +1,42 @@
+{
+  "number": "H4260",
+  "language": "hebrew",
+  "transliteration": "machămâʼâh",
+  "pronunciation": "makh-am-aw-aw'",
+  "definition": "something buttery (i.e. unctuous and pleasant), as (figuratively) flattery",
+  "kjvTranslation": "[idiom] than butter.",
+  "hebrew": "מַחֲמָאָה",
+  "translations": {
+    "bg": "нещо маслено (т.е. безвкусно и приятно), като (в преносен смисъл) ласкателство",
+    "cs": "něco máslového (tj. nevábného a příjemného), jako (přeneseně) lichotky",
+    "da": "noget smøragtigt (dvs. salvelsesfuldt og behageligt), som (i overført betydning) smiger",
+    "de": "etwas Butterartiges (d.h. salbungsvoll und angenehm), wie (im übertragenen Sinne) Schmeichelei",
+    "el": "κάτι βουτυρώδες (δηλ. αλοιφώδες και ευχάριστο), όπως (μεταφορικά) η κολακεία",
+    "es": "algo mantecoso (es decir, untuoso y agradable), como (en sentido figurado) la adulación",
+    "et": "midagi võiga (s.t. õrn ja meeldiv), nagu (piltlikult) meelitus",
+    "fi": "jotakin voidemaista (ts. mehevää ja miellyttävää), kuten (kuvaannollisesti) imartelu",
+    "fr": "quelque chose de beurré (c'est-à-dire d'onctueux et d'agréable), comme (au sens figuré) la flatterie",
+    "hu": "valami vajas (azaz kenőcsös és kellemes), mint (átvitt értelemben) a hízelgés",
+    "id": "sesuatu yang bermentega (yaitu tidak berbahaya dan menyenangkan), sebagai (kiasan) sanjungan",
+    "it": "qualcosa di burroso (cioè untuoso e piacevole), come (in senso figurato) l'adulazione",
+    "ja": "お世辞",
+    "ko": "(비 유적으로) 아첨하는 것처럼 버터 같은 것 (즉, 유쾌하고 유쾌한 것)",
+    "lt": "kažkas sviestinio (t. y. neaitraus ir malonaus), kaip (perkeltine prasme) liaupsinimas",
+    "lv": "kaut kas sviestains (t.i., maigs un patīkams), kā (pārnestā nozīmē) glaimojošs",
+    "nb": "noe smøraktig (dvs. smekkert og behagelig), som (i overført betydning) smiger",
+    "nl": "iets boterachtigs (d.w.z. smeuïg en aangenaam), zoals (figuurlijk) vleierij",
+    "pl": "coś maślanego (tj. aksamitnego i przyjemnego), jak (w przenośni) pochlebstwo",
+    "pt": "algo amanteigado (ou seja, untuoso e agradável), como (figurativamente) a lisonja",
+    "ro": "ceva uns cu unt (adică onctuos și plăcut), ca (la figurat) lingușirea",
+    "ru": "нечто маслянистое (т.е. невязкое и приятное), как (фигурально) лесть",
+    "sk": "niečo maslovité (t. j. mazľavé a príjemné), ako (obrazne) lichôtka",
+    "sl": "nekaj maslenega (tj. neokusnega in prijetnega), kot (v prenesenem pomenu) laskanje",
+    "sv": "något smörigt (dvs. smetigt och behagligt), som (bildligt talat) smicker",
+    "tr": "(mecazi anlamda) dalkavukluk gibi tereyağlı (yani yapışkan olmayan ve hoş) bir şey",
+    "uk": "щось маслянисте (тобто негусте і приємне), як (образно) лестощі",
+    "zh": "马屁"
+  },
+  "verses": [
+    "psalms 55:22:1"
+  ]
+}

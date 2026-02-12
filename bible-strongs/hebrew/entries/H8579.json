@@ -1,0 +1,42 @@
+{
+  "number": "H8579",
+  "language": "hebrew",
+  "transliteration": "tinyânûwth",
+  "pronunciation": "tin-yaw-nooth'",
+  "definition": "a second time",
+  "kjvTranslation": "again.",
+  "hebrew": "תִּנְיָנוּת",
+  "translations": {
+    "bg": "за втори път",
+    "cs": "podruhé",
+    "da": "en anden gang",
+    "de": "ein zweites Mal",
+    "el": "για δεύτερη φορά",
+    "es": "por segunda vez",
+    "et": "teist korda",
+    "fi": "toisen kerran",
+    "fr": "une deuxième fois",
+    "hu": "másodszor is",
+    "id": "untuk kedua kalinya",
+    "it": "una seconda volta",
+    "ja": "ふたたび",
+    "ko": "두 번째",
+    "lt": "antrą kartą",
+    "lv": "otro reizi",
+    "nb": "en gang til",
+    "nl": "een tweede keer",
+    "pl": "po raz drugi",
+    "pt": "uma segunda vez",
+    "ro": "a doua oară",
+    "ru": "во второй раз",
+    "sk": "druhýkrát",
+    "sl": "drugič",
+    "sv": "en andra gång",
+    "tr": "ikinci kez",
+    "uk": "вдруге",
+    "zh": "第二次"
+  },
+  "verses": [
+    "daniel 2:7:1"
+  ]
+}

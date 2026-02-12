@@ -1,0 +1,42 @@
+{
+  "number": "H8589",
+  "language": "hebrew",
+  "transliteration": "taʻănîyth",
+  "pronunciation": "tah-an-eeth'",
+  "definition": "affliction (of self), i.e. fasting",
+  "kjvTranslation": "heaviness.",
+  "hebrew": "תַּעֲנִית",
+  "translations": {
+    "bg": "страдание (за себе си), т.е. пост",
+    "cs": "trápení (sebe sama), tj. půst",
+    "da": "lidelse (af sig selv), dvs. faste",
+    "de": "(Selbst-)Betrübnis, d.h. Fasten",
+    "el": "θλίψη (του εαυτού), δηλαδή νηστεία",
+    "es": "aflicción (de sí mismo), es decir, ayuno",
+    "et": "(enese) vaevamine, s.t. paastumine",
+    "fi": "(itsensä) ahdistaminen eli paastoaminen",
+    "fr": "l'affliction (de soi), c'est-à-dire le jeûne",
+    "hu": "(ön)szenvedés, azaz böjtölés",
+    "id": "penderitaan (pada diri sendiri), yaitu berpuasa",
+    "it": "afflizione (di sé), cioè digiuno",
+    "ja": "苦行",
+    "ko": "(자신의) 고통, 즉 단식",
+    "lt": "kančia (sau), t. y. pasninkas",
+    "lv": "ciešanas (no sevis), t. i., gavēšana",
+    "nb": "lidelse (av seg selv), dvs. faste",
+    "nl": "aandoening (van zichzelf), d.w.z. vasten",
+    "pl": "utrapienie (samego siebie), tj. post",
+    "pt": "aflição (de si mesmo), ou seja, jejum",
+    "ro": "suferință (de sine), adică post",
+    "ru": "страдание (от себя), т.е. пост",
+    "sk": "utrpenie (seba samého), t. j. pôst",
+    "sl": "trpljenje (samega sebe), tj. post",
+    "sv": "plåga (för sig själv), t.ex. fasta",
+    "tr": "(kendine) eziyet, yani oruç tutmak",
+    "uk": "страждання (себе), тобто піст",
+    "zh": "苦行"
+  },
+  "verses": [
+    "ezra 9:5:3"
+  ]
+}

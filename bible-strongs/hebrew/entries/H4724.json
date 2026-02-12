@@ -1,0 +1,42 @@
+{
+  "number": "H4724",
+  "language": "hebrew",
+  "transliteration": "miqvâh",
+  "pronunciation": "mik-vaw'",
+  "definition": "a collection, i.e. (of water) a reservoir",
+  "kjvTranslation": "ditch.",
+  "hebrew": "מִקְוָה",
+  "translations": {
+    "bg": "събиране, т.е. (на вода) резервоар",
+    "cs": "sbírka, tj. (vody) nádrž",
+    "da": "en samling, dvs. (af vand) et reservoir",
+    "de": "eine Sammlung, d.h. (von Wasser) ein Reservoir",
+    "el": "μια συλλογή, δηλαδή (νερού) μια δεξαμενή",
+    "es": "una colección, es decir (de agua) un depósito",
+    "et": "kogum, st (vee) veehoidla",
+    "fi": "keräys, eli (veden) säiliö",
+    "fr": "une collection, c'est-à-dire (d'eau) un réservoir",
+    "hu": "gyűjtőhely, azaz (víz)tározó",
+    "id": "sebuah koleksi, yaitu (air) waduk",
+    "it": "una raccolta, cioè (di acqua) un serbatoio",
+    "ja": "貯水池",
+    "ko": "컬렉션, 즉 (물의) 저수지",
+    "lt": "telkinys, t. y. (vandens) rezervuaras",
+    "lv": "savākšana, t.i., (ūdens) rezervuārs",
+    "nb": "en samling, dvs. (av vann) et reservoar",
+    "nl": "een verzameling, d.w.z. (van water) een reservoir",
+    "pl": "zbiór, tj. (wody) zbiornik wodny",
+    "pt": "uma coleção, ou seja, (de água) um reservatório",
+    "ro": "o colecție, adică (de apă) un rezervor",
+    "ru": "собрание, т.е. (воды) резервуар",
+    "sk": "zberňa, t. j. (vody) nádrž",
+    "sl": "zbiralnik, tj. (vode) rezervoar",
+    "sv": "en samling, d.v.s. (av vatten) en reservoar",
+    "tr": "bir koleksiyon, yani (su) bir rezervuar",
+    "uk": "збірник, тобто (води) резервуар",
+    "zh": "蓄水池"
+  },
+  "verses": [
+    "isaiah 22:11:0"
+  ]
+}

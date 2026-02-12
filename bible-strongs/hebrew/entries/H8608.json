@@ -1,0 +1,43 @@
+{
+  "number": "H8608",
+  "language": "hebrew",
+  "transliteration": "tâphaph",
+  "pronunciation": "taw-faf'",
+  "definition": "to drum, i.e. play (as) on the tambourine",
+  "kjvTranslation": "taber, play with timbrels.",
+  "hebrew": "תָּפַף",
+  "translations": {
+    "bg": "да барабанирам, т.е. да свиря (като) на тамбура",
+    "cs": "bubnovat, tj. hrát (jako) na tamburínu",
+    "da": "at tromme, dvs. spille (som) på tamburin",
+    "de": "trommeln, d.h. (wie) auf dem Tamburin spielen",
+    "el": "to drum, δηλ. παίζω (όπως) στο ντέφι",
+    "es": "tamborilear, es decir, tocar (como) en la pandereta",
+    "et": "trummida, st mängida (nagu) tamburiinil",
+    "fi": "rummuttaa eli soittaa (kuten) tamburiinilla",
+    "fr": "tambouriner, c'est-à-dire jouer (comme) sur le tambourin",
+    "hu": "dobolni, azaz játszani (mint) a tamburinon",
+    "id": "untuk menabuh, yaitu memainkan (sebagai) rebana",
+    "it": "tamburellare, cioè suonare (come) sul tamburello",
+    "ja": "タンバリンを叩く",
+    "ko": "드럼을 치다, 즉 탬버린을 연주하다(로)",
+    "lt": "groti būgnais, t. y. groti (kaip) tamburinu",
+    "lv": "bungot, t.i., spēlēt (kā) uz tamburīna",
+    "nb": "å tromme, dvs. spille (som) på tamburin",
+    "nl": "trommelen, d.w.z. spelen (zoals) op de tamboerijn",
+    "pl": "bębnić, tj. grać (jak) na tamburynie",
+    "pt": "tocar tambor, ou seja, tocar (como) na pandeireta",
+    "ro": "a bate la tobe, adică a cânta (ca) la tamburină",
+    "ru": "барабанить, т.е. играть (как) на бубне",
+    "sk": "bubnovať, t. j. hrať (ako) na tamburíne",
+    "sl": "bobnati, tj. igrati (kot) na tamburin",
+    "sv": "att trumma, dvs. spela (som) på tamburin",
+    "tr": "davul çalmak, yani tefle çalmak (gibi)",
+    "uk": "барабанити, тобто грати (як) на бубні",
+    "zh": "击鼓，即敲打手鼓"
+  },
+  "verses": [
+    "psalms 68:26:6",
+    "nahum 2:8:7"
+  ]
+}

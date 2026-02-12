@@ -1,0 +1,43 @@
+{
+  "number": "H6613",
+  "language": "hebrew",
+  "transliteration": "pᵉthay",
+  "pronunciation": "peth-ah'-ee",
+  "definition": "open, i.e. (as noun) width",
+  "kjvTranslation": "breadth.",
+  "hebrew": "פְּתַי",
+  "translations": {
+    "bg": "отворен, т.е. (като съществително) ширина",
+    "cs": "otevřený, tj. (jako podstatné jméno) šířka",
+    "da": "åben, dvs. (som substantiv) bredde",
+    "de": "offen, d.h. (als Substantiv) Breite",
+    "el": "ανοιχτό, δηλαδή (ως ουσιαστικό) πλάτος",
+    "es": "abierto, es decir (como sustantivo) ancho",
+    "et": "avatud, s.t. (substantiivina) laius",
+    "fi": "avoin, eli (substantiivina) leveys",
+    "fr": "ouvert, c'est-à-dire (en tant que substantif) largeur",
+    "hu": "nyitott, azaz (főnévként) szélesség",
+    "id": "terbuka, yaitu (sebagai kata benda) lebar",
+    "it": "aperta, cioè (come sostantivo) larghezza",
+    "ja": "開かる",
+    "ko": "열기, 즉 (명사형) 너비",
+    "lt": "atviras, t. y. (kaip daiktavardis) plotis",
+    "lv": "atvērts, t.i. (kā lietvārds) platums",
+    "nb": "åpen, dvs. (som substantiv) bredde",
+    "nl": "open, d.w.z. (als zelfstandig naamwoord) breedte",
+    "pl": "otwarty, tj. (jako rzeczownik) szerokość",
+    "pt": "aberto, ou seja, (como substantivo) largura",
+    "ro": "deschis, i.e. (ca substantiv) lățime",
+    "ru": "открытый, т.е. (как существительное) широкий",
+    "sk": "otvorený, t. j. (ako podstatné meno) šírka",
+    "sl": "odprt, tj. (kot samostalnik) širina",
+    "sv": "öppen, d.v.s. (som substantiv) bredd",
+    "tr": "açık, yani (isim olarak) genişlik",
+    "uk": "відкрита, тобто (як іменник) ширина",
+    "zh": "开阔，即（作为名词）宽度"
+  },
+  "verses": [
+    "ezra 6:3:22",
+    "daniel 3:1:9"
+  ]
+}

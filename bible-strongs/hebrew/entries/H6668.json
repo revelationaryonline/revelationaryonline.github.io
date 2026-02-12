@@ -1,0 +1,42 @@
+{
+  "number": "H6668",
+  "language": "hebrew",
+  "transliteration": "tsâhab",
+  "pronunciation": "tsaw-hab'",
+  "definition": "to glitter, i.e. be golden in color",
+  "kjvTranslation": "[idiom] fine.",
+  "hebrew": "צָהַב",
+  "translations": {
+    "bg": "да блести, т.е. да е златист на цвят",
+    "cs": "třpytit se, tj. mít zlatou barvu",
+    "da": "at glitre, dvs. være gylden i farven",
+    "de": "glitzern, d.h. eine goldene Farbe haben",
+    "el": "να λάμπει, δηλαδή να έχει χρυσό χρώμα",
+    "es": "brillar, es decir, ser de color dorado",
+    "et": "sädelema, st olema kuldset värvi",
+    "fi": "kimaltaa, eli olla kullanvärinen",
+    "fr": "de scintiller, c'est-à-dire d'être de couleur dorée",
+    "hu": "csillogni, azaz aranyszínűvé válni",
+    "id": "berkilauan, yaitu berwarna keemasan",
+    "it": "scintillare, cioè essere di colore dorato",
+    "ja": "煌めく、すなわち黄金色に輝く",
+    "ko": "반짝임, 즉 황금색이 되다",
+    "lt": "blizgėti, t. y. būti aukso spalvos",
+    "lv": "spīdēt, t.i., būt zelta krāsā",
+    "nb": "å glitre, dvs. være gyllen i fargen",
+    "nl": "glinsteren, d.w.z. goudkleurig zijn",
+    "pl": "błyszczeć, tj. mieć złoty kolor",
+    "pt": "brilhar, ou seja, ter uma cor dourada",
+    "ro": "să strălucească, adică să fie de culoare aurie",
+    "ru": "сверкать, т.е. быть золотистого цвета",
+    "sk": "trblietať sa, t. j. mať zlatú farbu",
+    "sl": "bleščati se, tj. biti zlate barve",
+    "sv": "att glittra, d.v.s. vara gyllene i färgen",
+    "tr": "parıldamak, yani altın renginde olmak",
+    "uk": "блищати, тобто мати золотистий колір",
+    "zh": "金光闪闪"
+  },
+  "verses": [
+    "ezra 8:27:7"
+  ]
+}

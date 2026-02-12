@@ -1,0 +1,43 @@
+{
+  "number": "H3502",
+  "language": "hebrew",
+  "transliteration": "yithrâh",
+  "pronunciation": "yith-raw'",
+  "definition": "properly, excellence, i.e. (by implication) wealth",
+  "kjvTranslation": "abundance, riches.",
+  "translations": {
+    "bg": "правилно, превъзходство, т.е. (по подразбиране) богатство",
+    "cs": "správně, excelence, tj. (implicitně) bohatství",
+    "da": "korrekt, excellence, dvs. (underforstået) rigdom",
+    "de": "richtig, Exzellenz, d.h. (implizit) Reichtum",
+    "el": "σωστά, αριστεία, δηλαδή (κατ' επέκταση) πλούτος",
+    "es": "propiamente, excelencia, es decir (implícitamente) riqueza",
+    "et": "õigesti, tipptase, st (kaudselt) rikkus",
+    "fi": "kunnolla, erinomaisuus, eli (implisiittisesti) rikkaus",
+    "fr": "correctement, l'excellence, c'est-à-dire (par implication) la richesse",
+    "hu": "megfelelően, kiválóság, azaz (értelemszerűen) gazdagság",
+    "id": "benar, keunggulan, yaitu (dengan implikasi) kekayaan",
+    "it": "propriamente, l'eccellenza, cioè (per implicazione) la ricchezza",
+    "ja": "正に、卓越、すなわち（暗に）富",
+    "ko": "적절하게, 우수성, 즉 (암시적으로) 부를 의미합니다",
+    "lt": "tinkamai, meistriškumas, t. y. (netiesiogiai) turtas",
+    "lv": "pareizi, izcilība, t.i., (netieši) bagātība",
+    "nb": "riktig, fortreffelighet, dvs. (underforstått) rikdom",
+    "nl": "goed, uitmuntendheid, d.w.z. (impliciet) rijkdom",
+    "pl": "właściwie, doskonałość, tj. (w domyśle) bogactwo",
+    "pt": "propriamente, excelência, ou seja, (implicitamente) riqueza",
+    "ro": "corect, excelență, adică (implicit) bogăție",
+    "ru": "должным образом, превосходство, т.е. (по смыслу) богатство",
+    "sk": "správne, dokonalosť, t. j. (implicitne) bohatstvo",
+    "sl": "ustrezno, odličnost, tj. (implicitno) bogastvo",
+    "sv": "rätt, förträfflighet, dvs. (underförstått) rikedom",
+    "tr": "düzgün, mükemmellik, yani (ima yoluyla) zenginlik",
+    "uk": "власне, досконалість, тобто (побічно) багатство",
+    "zh": "臻于至善，即（蕴含）财富"
+  },
+  "hebrew": "יִתְרָה",
+  "verses": [
+    "isaiah 15:7:2",
+    "jeremiah 48:36:15"
+  ]
+}

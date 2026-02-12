@@ -1,0 +1,41 @@
+{
+  "number": "H1671",
+  "language": "hebrew",
+  "transliteration": "dᵉʼâbôwn",
+  "pronunciation": "deh-aw-bone'",
+  "definition": "pining",
+  "kjvTranslation": "sorrow.",
+  "translations": {
+    "bg": "копнеж",
+    "cs": "stýskání",
+    "da": "længes",
+    "el": "pining",
+    "es": "suspirando",
+    "et": "pining",
+    "fi": "kipeä",
+    "fr": "pining",
+    "hu": "sóvárgó",
+    "id": "merindukan",
+    "it": "struggersi",
+    "ja": "杭打ち",
+    "ko": "피닝",
+    "lt": "piningas",
+    "lv": "pining",
+    "nb": "lengsel",
+    "nl": "pining",
+    "pl": "ból",
+    "pt": "lamentação",
+    "ro": "tânjire",
+    "ru": "тоска",
+    "sk": "pining",
+    "sl": "hrepenenje",
+    "sv": "pining",
+    "tr": "özlem",
+    "uk": "туга",
+    "zh": "憔悴"
+  },
+  "hebrew": "דְּאָבוֹן",
+  "verses": [
+    "deuteronomy 28:65:17"
+  ]
+}

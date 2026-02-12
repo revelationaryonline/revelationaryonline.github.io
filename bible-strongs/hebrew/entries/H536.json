@@ -1,0 +1,42 @@
+{
+  "number": "H536",
+  "language": "hebrew",
+  "transliteration": "ʼumlal",
+  "pronunciation": "oom-lal'",
+  "definition": "sick",
+  "kjvTranslation": "weak.",
+  "translations": {
+    "bg": "болен",
+    "cs": "nemocný",
+    "da": "syg",
+    "de": "krank",
+    "el": "άρρωστος",
+    "es": "enfermo",
+    "et": "haige",
+    "fi": "sairas",
+    "fr": "malade",
+    "hu": "beteg",
+    "id": "sakit",
+    "it": "malato",
+    "ja": "シック",
+    "ko": "sick",
+    "lt": "serga",
+    "lv": "slims",
+    "nb": "syk",
+    "nl": "ziek",
+    "pl": "chory",
+    "pt": "doente",
+    "ro": "bolnav",
+    "ru": "больной",
+    "sk": "chorý",
+    "sl": "bolan",
+    "sv": "sjuk",
+    "tr": "hasta",
+    "uk": "хворий",
+    "zh": "有病"
+  },
+  "hebrew": "אֻמְלַל",
+  "verses": [
+    "psalms 6:3:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6122",
+  "language": "hebrew",
+  "transliteration": "ʻoqbâh",
+  "pronunciation": "ok-baw'",
+  "definition": "trickery",
+  "kjvTranslation": "subtilty.",
+  "hebrew": "עׇקְבָה",
+  "translations": {
+    "bg": "измама",
+    "cs": "trik",
+    "da": "snyd",
+    "de": "betrug",
+    "el": "τέχνασμα",
+    "es": "engaño",
+    "et": "trikitamine",
+    "fi": "temppuilu",
+    "fr": "tromperie",
+    "hu": "trükkös",
+    "id": "tipu muslihat",
+    "it": "inganno",
+    "ja": "けんぼうじゅっさく",
+    "ko": "트릭",
+    "lt": "apgaulė",
+    "lv": "viltība",
+    "nb": "lureri",
+    "nl": "bedrog",
+    "pl": "podstęp",
+    "pt": "artimanha",
+    "ro": "înșelătorie",
+    "ru": "обман",
+    "sk": "trik",
+    "sl": "prevara",
+    "sv": "lurendrejeri",
+    "tr": "hİLE",
+    "uk": "обман",
+    "zh": "伎俩"
+  },
+  "verses": [
+    "secondKings 10:19:25"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H79",
+  "language": "hebrew",
+  "transliteration": "ʼâbaq",
+  "pronunciation": "aw-bak'",
+  "definition": "to bedust, i.e. grapple",
+  "kjvTranslation": "wrestle.",
+  "translations": {
+    "bg": "да се измъчва, т.е. да се захваща",
+    "cs": "bedust, tj. uchopit",
+    "da": "at bedøve, dvs. gribe fat",
+    "de": "zu betüddeln, d.h. zu packen",
+    "el": "να βάλω στο κρεβάτι, δηλαδή να αρπάξω",
+    "es": "a bedust, i.e. grapple",
+    "et": "bedust, s.t. haarata",
+    "fi": "bedust, eli tarttua toimeen",
+    "fr": "à la bousculade, c'est-à-dire à l'empoignade",
+    "hu": "hogy ágyba bújjon, azaz megragadja",
+    "id": "untuk tidur, yaitu bergulat",
+    "it": "per coricarsi, cioè per afferrare",
+    "ja": "ベッドにつかまる",
+    "ko": "베더스트, 즉 그래플에",
+    "lt": "bedust, t. y. griebtis",
+    "lv": "gulēt, t.i., satvert",
+    "nb": "å beduste, dvs. gripe",
+    "nl": "naar bedust, d.w.z. grijpen",
+    "pl": "to bedust, tj. chwytać",
+    "pt": "para acampar, ou seja, agarrar",
+    "ro": "să se agațe, adică să se agațe",
+    "ru": "ложиться, т.е. хвататься",
+    "sk": "bedust, t. j. chytať",
+    "sl": "za spopadanje, tj. prijemanje",
+    "sv": "att bedustera, dvs. gripa tag i",
+    "tr": "yatıştırmak, yani boğuşmak",
+    "uk": "to bedust, тобто боротися",
+    "zh": "to bedust, i.e. grapple(抓取)"
+  },
+  "hebrew": "אָבַק",
+  "verses": [
+    "genesis 32:25:3",
+    "genesis 32:26:12"
+  ]
+}

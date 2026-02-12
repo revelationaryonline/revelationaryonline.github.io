@@ -1,0 +1,43 @@
+{
+  "number": "H7938",
+  "language": "hebrew",
+  "transliteration": "seker",
+  "pronunciation": "seh'-ker",
+  "definition": "wages",
+  "kjvTranslation": "reward, sluices.",
+  "hebrew": "שֶׂכֶר",
+  "translations": {
+    "bg": "заплати",
+    "cs": "mzdy",
+    "da": "lønninger",
+    "de": "löhne",
+    "el": "μισθοί",
+    "es": "salarios",
+    "et": "palgad",
+    "fi": "palkat",
+    "fr": "salaires",
+    "hu": "bérek",
+    "id": "upah",
+    "it": "salari",
+    "ja": "賃金",
+    "ko": "임금",
+    "lt": "darbo užmokestis",
+    "lv": "algas",
+    "nb": "lønn",
+    "nl": "lonen",
+    "pl": "wynagrodzenia",
+    "pt": "salários",
+    "ro": "salarii",
+    "ru": "заработная плата",
+    "sk": "mzdy",
+    "sl": "plače",
+    "sv": "löner",
+    "tr": "ücretler",
+    "uk": "заробітна плата",
+    "zh": "工资"
+  },
+  "verses": [
+    "proverbs 11:18:6",
+    "isaiah 19:10:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7627",
+  "language": "hebrew",
+  "transliteration": "Shᵉbâṭ",
+  "pronunciation": "sheb-awt'",
+  "definition": "Shebat, a Jewish month",
+  "kjvTranslation": "Sebat.",
+  "hebrew": "שְׁבָט",
+  "translations": {
+    "bg": "Шебат, еврейски месец",
+    "cs": "Šebat, židovský měsíc",
+    "da": "Shebat, en jødisk måned",
+    "de": "Shebat, ein jüdischer Monat",
+    "el": "Shebat, ένας εβραϊκός μήνας",
+    "es": "Shebat, un mes judío",
+    "et": "Shebat, juudi kuu",
+    "fi": "Shebat, juutalainen kuukausi",
+    "fr": "Shebat, un mois juif",
+    "hu": "Shebat, egy zsidó hónap",
+    "id": "Shebat, bulan dalam kalender Yahudi",
+    "it": "Shebat, un mese ebraico",
+    "ja": "シェバト、ユダヤの月",
+    "ko": "유대인의 달, 셰바트",
+    "lt": "Šebatas, žydų mėnuo",
+    "lv": "Šebats, ebreju mēnesis",
+    "nb": "Shebat, en jødisk måned",
+    "nl": "Shebat, een Joodse maand",
+    "pl": "Szebat, żydowski miesiąc",
+    "pt": "Shebat, um mês judaico",
+    "ro": "Shebat, o lună evreiască",
+    "ru": "Шебат, еврейский месяц",
+    "sk": "Šebat, židovský mesiac",
+    "sl": "Šebat, judovski mesec",
+    "sv": "Shebat, en judisk månad",
+    "tr": "Şebat, bir Yahudi ayı",
+    "uk": "Шебат, єврейський місяць",
+    "zh": "沙巴特"
+  },
+  "verses": [
+    "zechariah 1:7:8"
+  ]
+}

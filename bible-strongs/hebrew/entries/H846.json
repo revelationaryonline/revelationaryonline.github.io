@@ -1,0 +1,43 @@
+{
+  "number": "H846",
+  "language": "hebrew",
+  "transliteration": "ʼushsharnâʼ",
+  "pronunciation": "oosh-ar-naw'",
+  "definition": "a wall (from its uprightness)",
+  "kjvTranslation": "wall.",
+  "translations": {
+    "bg": "стена (от нейната изправеност)",
+    "cs": "zeď (z její vzpřímenosti)",
+    "da": "en mur (fra dens oprejsthed)",
+    "de": "eine Wand (von ihrer Aufrichtigkeit)",
+    "el": "έναν τοίχο (από την ορθοστασία του)",
+    "es": "un muro (por su verticalidad)",
+    "et": "seina (selle püstisusest)",
+    "fi": "seinä (sen pystysuoruudesta)",
+    "fr": "un mur (du fait de sa verticalité)",
+    "hu": "egy fal (a függőleges helyzetéből)",
+    "id": "dinding (dari ketegakkannya)",
+    "it": "un muro (dalla sua verticalità)",
+    "ja": "壁",
+    "ko": "벽(직립 상태에서)",
+    "lt": "siena (nuo jos statumo)",
+    "lv": "siena (no tās vertikalitātes)",
+    "nb": "en vegg (fra dens oppreisthet)",
+    "nl": "een muur (van zijn rechtschapenheid)",
+    "pl": "ściana (od jej pionowości)",
+    "pt": "um muro (pela sua verticalidade)",
+    "ro": "un zid (din cauza verticalității sale)",
+    "ru": "стена (от ее вертикальности)",
+    "sk": "múr (z jeho vzpriamenosti)",
+    "sl": "zid (zaradi njegove pokončnosti)",
+    "sv": "en mur (från dess upprätthet)",
+    "tr": "bir duvar (dikliğinden)",
+    "uk": "стіна (від її вертикальності)",
+    "zh": "墙"
+  },
+  "hebrew": "אֻשַּׁרְנָא",
+  "verses": [
+    "ezra 5:3:21",
+    "ezra 5:9:14"
+  ]
+}

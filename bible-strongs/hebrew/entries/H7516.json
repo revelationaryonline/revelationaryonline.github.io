@@ -1,0 +1,42 @@
+{
+  "number": "H7516",
+  "language": "hebrew",
+  "transliteration": "rephesh",
+  "pronunciation": "reh'-fesh",
+  "definition": "mud (as roiled)",
+  "kjvTranslation": "mire.",
+  "hebrew": "רֶפֶשׁ",
+  "translations": {
+    "bg": "кал (като навита)",
+    "cs": "bláto (jako roiled)",
+    "da": "mudder (som oprullet)",
+    "de": "schlamm (wie aufgewühlt)",
+    "el": "λάσπη (όπως συσσωρεύεται)",
+    "es": "lodo (en forma de espiral)",
+    "et": "muda (nagu roiled)",
+    "fi": "muta (roilattuna)",
+    "fr": "boue (comme enroulée)",
+    "hu": "iszap (mint roiled)",
+    "id": "lumpur (seperti yang direbus)",
+    "it": "fango (come arrosto)",
+    "ja": "どろ",
+    "ko": "진흙(볶은 상태)",
+    "lt": "purvas (kaip suvyniotas)",
+    "lv": "dubļi (kā savārīti)",
+    "nb": "gjørme (som opprullet)",
+    "nl": "modder (zoals gerold)",
+    "pl": "błoto (jak zwijane)",
+    "pt": "lama (como roiled)",
+    "ro": "noroi (ca roiled)",
+    "ru": "грязь (в виде катышков)",
+    "sk": "blato (ako bahno)",
+    "sl": "blato (kot nametano)",
+    "sv": "lera (som roiled)",
+    "tr": "çamur (roiled olarak)",
+    "uk": "грязь (у вигляді рулону)",
+    "zh": "泥状"
+  },
+  "verses": [
+    "isaiah 57:20:9"
+  ]
+}

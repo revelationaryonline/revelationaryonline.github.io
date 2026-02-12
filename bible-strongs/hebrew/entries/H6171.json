@@ -1,0 +1,42 @@
+{
+  "number": "H6171",
+  "language": "hebrew",
+  "transliteration": "ʻârôwd",
+  "pronunciation": "aw-rode'",
+  "definition": "an onager (from his lonesome habits)",
+  "kjvTranslation": "wild ass.",
+  "hebrew": "עָרוֹד",
+  "translations": {
+    "bg": "онгер (от самотните си навици)",
+    "cs": "onager (z jeho osamělých zvyků)",
+    "da": "en onager (fra hans ensomme vaner)",
+    "de": "ein Onager (von seinen einsamen Gewohnheiten)",
+    "el": "ένας onager (από τις μοναχικές του συνήθειες)",
+    "es": "un onagro (de sus hábitos solitarios)",
+    "et": "onager (oma üksildastest harjumustest)",
+    "fi": "onager (yksinäisistä tavoistaan)",
+    "fr": "un onager (de ses habitudes solitaires)",
+    "hu": "egy onager (magányos szokásaitól)",
+    "id": "seorang penyendiri (dari kebiasaannya yang suka menyendiri)",
+    "it": "un onager (dalle sue abitudini solitarie)",
+    "ja": "わらしべ長者",
+    "ko": "(고독한 습관으로 인한) 오나거",
+    "lt": "onager (nuo jo vienišų įpročių)",
+    "lv": "onāger (no viņa vientuļajiem ieradumiem)",
+    "nb": "en onager (fra hans ensomme vaner)",
+    "nl": "een onager (van zijn eenzame gewoonten)",
+    "pl": "onager (z jego samotnych nawyków)",
+    "pt": "um onagro (dos seus hábitos solitários)",
+    "ro": "un onager (din cauza obiceiurilor sale solitare)",
+    "ru": "онгер (из его одиноких привычек)",
+    "sk": "onger (z jeho osamelých zvykov)",
+    "sl": "onager (zaradi svojih samotarskih navad)",
+    "sv": "en onager (från hans ensamma vanor)",
+    "tr": "bir onager (yalnız alışkanlıklarından)",
+    "uk": "онагера (через його самотні звички)",
+    "zh": "孤陋寡闻"
+  },
+  "verses": [
+    "job 39:5:5"
+  ]
+}

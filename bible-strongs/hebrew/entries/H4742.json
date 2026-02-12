@@ -1,0 +1,43 @@
+{
+  "number": "H4742",
+  "language": "hebrew",
+  "transliteration": "mᵉqutsʻâh",
+  "pronunciation": "mek-oots-aw'",
+  "definition": "an angle",
+  "kjvTranslation": "corner.",
+  "hebrew": "מְקֻצְעָה",
+  "translations": {
+    "bg": "ъгъл",
+    "cs": "úhel",
+    "da": "en vinkel",
+    "de": "ein Winkel",
+    "el": "μια γωνία",
+    "es": "un ángulo",
+    "et": "nurk",
+    "fi": "kulma",
+    "fr": "un angle",
+    "hu": "egy szög",
+    "id": "sebuah sudut",
+    "it": "un angolo",
+    "ja": "角度",
+    "ko": "각도",
+    "lt": "kampas",
+    "lv": "leņķis",
+    "nb": "en vinkel",
+    "nl": "een hoek",
+    "pl": "kąt",
+    "pt": "um ângulo",
+    "ro": "un unghi",
+    "ru": "угол",
+    "sk": "uhol",
+    "sl": "kot",
+    "sv": "en vinkel",
+    "tr": "bir açı",
+    "uk": "кут",
+    "zh": "角度"
+  },
+  "verses": [
+    "exodus 26:23:3",
+    "exodus 36:28:3"
+  ]
+}

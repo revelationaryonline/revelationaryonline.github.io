@@ -1,0 +1,43 @@
+{
+  "number": "H1963",
+  "language": "hebrew",
+  "transliteration": "hêyk",
+  "pronunciation": "hake",
+  "definition": "how?",
+  "kjvTranslation": "how.",
+  "translations": {
+    "bg": "как?",
+    "cs": "jak?",
+    "da": "hvordan?",
+    "de": "wie?",
+    "el": "πώς",
+    "es": "¿Cómo?",
+    "et": "kuidas?",
+    "fi": "miten?",
+    "fr": "comment ?",
+    "hu": "hogyan?",
+    "id": "bagaimana?",
+    "it": "come?",
+    "ja": "どうやって？",
+    "ko": "어떻게?",
+    "lt": "kaip?",
+    "lv": "kā?",
+    "nb": "hvordan?",
+    "nl": "hoe?",
+    "pl": "jak?",
+    "pt": "como?",
+    "ro": "cum?",
+    "ru": "как?",
+    "sk": "ako?",
+    "sl": "kako?",
+    "sv": "hur då?",
+    "tr": "nasıl?",
+    "uk": "як?",
+    "zh": "怎么"
+  },
+  "hebrew": "הֵיךְ",
+  "verses": [
+    "firstChronicles 13:12:7",
+    "daniel 10:17:0"
+  ]
+}

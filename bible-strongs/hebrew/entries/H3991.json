@@ -1,0 +1,42 @@
+{
+  "number": "H3991",
+  "language": "hebrew",
+  "transliteration": "maʼphêlᵉyâh",
+  "pronunciation": "mah-af-ay-leh-yaw'",
+  "definition": "opaqueness",
+  "kjvTranslation": "darkness.",
+  "hebrew": "מַאְפֵלְיָה",
+  "translations": {
+    "bg": "непрозрачност",
+    "cs": "neprůhlednost",
+    "da": "uigennemsigtighed",
+    "de": "undurchsichtigkeit",
+    "el": "αδιαφάνεια",
+    "es": "opacidad",
+    "et": "läbipaistmatus",
+    "fi": "läpinäkymättömyys",
+    "fr": "opacité",
+    "hu": "átlátszatlanság",
+    "id": "keburaman",
+    "it": "opacità",
+    "ja": "不透明性",
+    "ko": "불투명도",
+    "lt": "nepermatomumas",
+    "lv": "necaurspīdīgums",
+    "nb": "ugjennomsiktighet",
+    "nl": "ondoorzichtigheid",
+    "pl": "nieprzezroczystość",
+    "pt": "opacidade",
+    "ro": "opacitate",
+    "ru": "непрозрачность",
+    "sk": "nepriehľadnosť",
+    "sl": "motnost",
+    "sv": "ogenomskinlighet",
+    "tr": "opaklık",
+    "uk": "непрозорість",
+    "zh": "不透明"
+  },
+  "verses": [
+    "jeremiah 2:31:10"
+  ]
+}

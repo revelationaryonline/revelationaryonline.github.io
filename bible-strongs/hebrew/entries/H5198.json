@@ -1,0 +1,43 @@
+{
+  "number": "H5198",
+  "language": "hebrew",
+  "transliteration": "nâṭâph",
+  "pronunciation": "naw-tawf'",
+  "definition": "a drop; specifically, an aromatic gum (probably stacte)",
+  "kjvTranslation": "drop, stacte.",
+  "hebrew": "נָטָף",
+  "translations": {
+    "bg": "капка; по-специално ароматна смола (вероятно stacte)",
+    "cs": "kapka; konkrétně aromatická guma (pravděpodobně stacte)",
+    "da": "en dråbe; specifikt en aromatisk tyggegummi (sandsynligvis stacte)",
+    "de": "ein Tropfen; insbesondere ein aromatischer Gummi (wahrscheinlich Stacte)",
+    "el": "μια σταγόνα- συγκεκριμένα, ένα αρωματικό κόμμι (πιθανώς stacte)",
+    "es": "una gota; en concreto, una goma aromática (probablemente estacte)",
+    "et": "tilk; eriti aromaatne kumm (tõenäoliselt stacte)",
+    "fi": "tippa; erityisesti aromaattinen purukumi (luultavasti stacte)",
+    "fr": "une goutte ; en particulier, une gomme aromatique (probablement un stacte)",
+    "hu": "csepp; különösen aromás rágógumi (valószínűleg stacte)",
+    "id": "setetes; khususnya, permen karet aromatik (mungkin stacte)",
+    "it": "una goccia; in particolare, una gomma aromatica (probabilmente stacte)",
+    "ja": "一滴；具体的には、芳香ガム（おそらくスタクテ）",
+    "ko": "한 방울, 특히 아로마 껌(아마도 스탁테)",
+    "lt": "lašas; ypač aromatinė derva (tikriausiai stakta)",
+    "lv": "piliens; īpaši aromātiska sveķu gumija (iespējams, stakte)",
+    "nb": "en dråpe; nærmere bestemt en aromatisk tyggegummi (sannsynligvis stacte)",
+    "nl": "een druppel; specifiek, een aromatische gom (waarschijnlijk stacte)",
+    "pl": "kropla; w szczególności aromatyczna guma (prawdopodobnie stacte)",
+    "pt": "uma gota; especificamente, uma goma aromática (provavelmente stacte)",
+    "ro": "o picătură; în special, o gumă aromatică (probabil stacte)",
+    "ru": "капля; в частности, ароматическая камедь (вероятно, стакте)",
+    "sk": "kvapka; konkrétne aromatická guma (pravdepodobne stacte)",
+    "sl": "kapljica; zlasti aromatični gumi (verjetno stacte)",
+    "sv": "en droppe; särskilt ett aromatiskt tuggummi (troligen stacte)",
+    "tr": "bir damla; özellikle aromatik bir sakız (muhtemelen stacte)",
+    "uk": "крапля; зокрема, ароматична гумка (ймовірно, етанол)",
+    "zh": "一滴；具体地说，是一种芳香的树胶（可能是stacte）。"
+  },
+  "verses": [
+    "exodus 30:34:7",
+    "job 36:27:2"
+  ]
+}

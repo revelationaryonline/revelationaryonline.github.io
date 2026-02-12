@@ -1,0 +1,42 @@
+{
+  "number": "H1815",
+  "language": "hebrew",
+  "transliteration": "dᵉlaq",
+  "pronunciation": "del-ak'",
+  "definition": "{to flame (literally or figuratively)}",
+  "kjvTranslation": "burn.",
+  "translations": {
+    "bg": "{да пламне (буквално или преносно)}",
+    "cs": "{plamen (doslova nebo obrazně)}",
+    "da": "{at brænde (bogstaveligt eller i overført betydning)}",
+    "de": "(wörtlich oder im übertragenen Sinne) zu entflammen",
+    "el": "{να φλέγεται (κυριολεκτικά ή μεταφορικά)}",
+    "es": "{en llamas (literal o figuradamente)}",
+    "et": "(sõna otseses või ülekantud tähenduses)}",
+    "fi": "{liekkeihin (kirjaimellisesti tai kuvaannollisesti)}",
+    "fr": "{à la flamme (au sens propre ou figuré)}",
+    "hu": "(szó szerint vagy átvitt értelemben)}",
+    "id": "{menjadi nyala (secara harfiah atau kiasan)",
+    "it": "{fiamma (in senso letterale o figurato)}",
+    "ja": "{炎を上げる（文字通りの意味でも比喩的な意味でも）}。",
+    "ko": "{불꽃(문자 그대로 또는 비유적으로)}",
+    "lt": "{pavirsti liepsna (tiesiogine ar perkeltine prasme)}",
+    "lv": "{ liesmām (burtiski vai pārnestā nozīmē)}",
+    "nb": "{å flamme (bokstavelig eller i overført betydning)}",
+    "nl": "{om te vlammen (letterlijk of figuurlijk)}",
+    "pl": "{płomień (dosłownie lub w przenośni)}",
+    "pt": "{para arder (literal ou figurativamente)}",
+    "ro": "{la flacără (la propriu sau la figurat)}",
+    "ru": "{пламя (в прямом или переносном смысле)}",
+    "sk": "{na plameň (doslovne alebo obrazne)}",
+    "sl": "(dobesedno ali v prenesenem pomenu)",
+    "sv": "{att flamma upp (bokstavligen eller bildligt)}",
+    "tr": "{aleve (gerçek veya mecazi anlamda)}",
+    "uk": "{полум'яніти (в прямому чи переносному значенні)",
+    "zh": "{熄灭（字面或比喻）}......"
+  },
+  "hebrew": "דְּלַק",
+  "verses": [
+    "daniel 7:9:22"
+  ]
+}

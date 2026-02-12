@@ -1,0 +1,42 @@
+{
+  "number": "H8379",
+  "language": "hebrew",
+  "transliteration": "taʼăvâh",
+  "pronunciation": "tah-av-aw'",
+  "definition": "a limit, i.e. full extent",
+  "kjvTranslation": "utmost bound.",
+  "hebrew": "תַּאֲוָה",
+  "translations": {
+    "bg": "граница, т.е. пълен обхват",
+    "cs": "limit, tj. plný rozsah",
+    "da": "en grænse, dvs. fuld udstrækning",
+    "de": "eine Grenze, d. h. das volle Ausmaß",
+    "el": "ένα όριο, δηλαδή η πλήρης έκταση",
+    "es": "un límite, es decir, la extensión total",
+    "et": "piir, st täielik ulatus",
+    "fi": "raja, eli täysi laajuus",
+    "fr": "une limite, c'est-à-dire une étendue complète",
+    "hu": "egy határérték, azaz teljes terjedelem",
+    "id": "batas, yaitu batas penuh",
+    "it": "un limite, cioè l'estensione completa",
+    "ja": "限界",
+    "ko": "한도, 즉 전체 범위",
+    "lt": "riba, t. y. visiškas mastas",
+    "lv": "robeža, t. i., pilnā apmērā",
+    "nb": "en grense, dvs. full utstrekning",
+    "nl": "een limiet, d.w.z. volledige omvang",
+    "pl": "limit, tj. pełny zakres",
+    "pt": "um limite, ou seja, a extensão total",
+    "ro": "o limită, adică întinderea maximă",
+    "ru": "предел, т.е. полный объем",
+    "sk": "limit, t. j. plný rozsah",
+    "sl": "meja, tj. polni obseg",
+    "sv": "en gräns, d.v.s. full omfattning",
+    "tr": "bir sınır, yani tam kapsam",
+    "uk": "ліміт, тобто повний обсяг",
+    "zh": "限度"
+  },
+  "verses": [
+    "genesis 49:26:7"
+  ]
+}

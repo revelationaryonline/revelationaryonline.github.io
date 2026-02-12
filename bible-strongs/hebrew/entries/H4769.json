@@ -1,0 +1,43 @@
+{
+  "number": "H4769",
+  "language": "hebrew",
+  "transliteration": "marbêts",
+  "pronunciation": "mar-bates'",
+  "definition": "a reclining place, i.e. fold (for flocks)",
+  "kjvTranslation": "couching place, place to lie down.",
+  "hebrew": "מַרְבֵּץ",
+  "translations": {
+    "bg": "място за лежане, т.е. място за сгъване (за стада)",
+    "cs": "místo k ležení, tj. záhyb (pro stáda)",
+    "da": "et hvilested, dvs. en fold (til flokke)",
+    "de": "einen Liegeplatz, d.h. einen Schlafplatz (für Herden)",
+    "el": "μια θέση ανάπαυσης, δηλ. μια αναπαυτική θέση (για τα κοπάδια)",
+    "es": "un reclinatorio, es decir, un redil (para rebaños)",
+    "et": "lamamiskoht, s.t. voldi (karja jaoks)",
+    "fi": "makuupaikka, ts. taukopaikka (laumoille)",
+    "fr": "un lieu de repos, c'est-à-dire un berceau (pour les troupeaux)",
+    "hu": "fekvőhely, azaz hajtás (a nyájak számára)",
+    "id": "tempat berbaring, yaitu lipatan (untuk kawanan domba)",
+    "it": "un luogo di riposo, cioè un ovile (per le greggi)",
+    "ja": "臥所",
+    "ko": "기대는 장소, 즉 접을 수 있는 장소(양떼용)",
+    "lt": "gulėjimo vieta, t. y. klojimas (bandoms)",
+    "lv": "guļvieta, t.i., guļvieta (ganāmpulkiem)",
+    "nb": "et hvilested, dvs. en fold (for flokker)",
+    "nl": "een ligplaats, d.w.z. vouw (voor kuddes)",
+    "pl": "miejsce do leżenia, tj. owczarnia (dla stad)",
+    "pt": "um lugar de repouso, ou seja, uma dobra (para rebanhos)",
+    "ro": "un loc de întindere, adică un culcuș (pentru turme)",
+    "ru": "место для отдыха, т.е. складка (для стада)",
+    "sk": "miesto na ležanie, t. j. záhyb (pre stáda)",
+    "sl": "počivališče, tj. gnezdo (za črede)",
+    "sv": "en liggplats, d.v.s. en fålla (för flockar)",
+    "tr": "bir yatma yeri, yani (sürüler için) ağıl",
+    "uk": "місце для лежання, тобто складку (для отар)",
+    "zh": "卧榻，即羊圈"
+  },
+  "verses": [
+    "ezekiel 25:5:8",
+    "zephaniah 2:15:13"
+  ]
+}

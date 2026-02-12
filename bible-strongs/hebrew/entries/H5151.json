@@ -1,0 +1,42 @@
+{
+  "number": "H5151",
+  "language": "hebrew",
+  "transliteration": "Nachûwm",
+  "pronunciation": "nakh-oom'",
+  "definition": "Nachum, an Israelite prophet",
+  "kjvTranslation": "Nahum.",
+  "hebrew": "נַחוּם",
+  "translations": {
+    "bg": "Нахум, израелски пророк",
+    "cs": "Nachum, izraelský prorok",
+    "da": "Nachum, en israelitisk profet",
+    "de": "Nachum, ein israelitischer Prophet",
+    "el": "Nachum, ένας Ισραηλινός προφήτης",
+    "es": "Najum, profeta israelita",
+    "et": "Nachum, Iisraeli prohvet",
+    "fi": "Nachum, israelilainen profeetta",
+    "fr": "Nachum, prophète israélite",
+    "hu": "Nachum, izraelita próféta",
+    "id": "Nachum, seorang nabi Israel",
+    "it": "Nachum, profeta israelita",
+    "ja": "イスラエルの預言者ナチュム",
+    "ko": "이스라엘의 선지자 나훔",
+    "lt": "Nachumas, izraelitų pranašas",
+    "lv": "Nachums, izraēliešu pravietis",
+    "nb": "Nachum, en israelittisk profet",
+    "nl": "Nachum, een Israëlitische profeet",
+    "pl": "Nachum, izraelski prorok",
+    "pt": "Nachum, um profeta israelita",
+    "ro": "Nachum, un profet israelit",
+    "ru": "Нахум, израильский пророк",
+    "sk": "Nachum, izraelský prorok",
+    "sl": "Nachum, izraelski prerok",
+    "sv": "Nachum, en israelitisk profet",
+    "tr": "Nachum, İsrailli bir peygamber",
+    "uk": "Наум, ізраїльський пророк",
+    "zh": "以色列先知纳库姆"
+  },
+  "verses": [
+    "nahum 1:1:4"
+  ]
+}

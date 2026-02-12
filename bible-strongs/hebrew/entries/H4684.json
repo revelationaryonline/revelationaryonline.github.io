@@ -1,0 +1,43 @@
+{
+  "number": "H4684",
+  "language": "hebrew",
+  "transliteration": "matshâlâh",
+  "pronunciation": "mats-haw-law'",
+  "definition": "a whinnying (through impatience for battle or lust)",
+  "kjvTranslation": "neighing.",
+  "hebrew": "מַצְהָלָה",
+  "translations": {
+    "bg": "хленчене (поради нетърпение за битка или похот)",
+    "cs": "kňučení (z netrpělivosti na boj nebo chtíč)",
+    "da": "en vrinskende (på grund af utålmodighed efter kamp eller lyst)",
+    "de": "ein Wiehern (durch Ungeduld für den Kampf oder Lust)",
+    "el": "κλαψούρισμα (από ανυπομονησία για μάχη ή πόθο)",
+    "es": "un relincho (por impaciencia de batalla o lujuria)",
+    "et": "vingumine (läbi kannatamatuse lahingu või himu)",
+    "fi": "vinkuminen (kärsimättömyydestä taistelua tai himoa kohtaan)",
+    "fr": "un hennissement (par impatience de la bataille ou de la convoitise)",
+    "hu": "nyüszítés (a harcra való türelmetlenség vagy kéjvágy miatt)",
+    "id": "meringkik (karena ketidaksabaran untuk bertempur atau nafsu)",
+    "it": "un mugolio (per l'impazienza della battaglia o per la lussuria)",
+    "ja": "鳴き声",
+    "ko": "우는 소리(전투 또는 욕망에 대한 조급함으로 인한)",
+    "lt": "verkšlenimas (dėl nekantrumo kovoti ar geismo)",
+    "lv": "ņirgāšana (nepacietības dēļ cīņā vai iekāres dēļ)",
+    "nb": "en vrinskende (på grunn av utålmodighet etter kamp eller begjær)",
+    "nl": "een hinnik (door ongeduld voor strijd of lust)",
+    "pl": "skomlenie (z powodu niecierpliwości do walki lub pożądania)",
+    "pt": "um relinchar (por impaciência de batalha ou luxúria)",
+    "ro": "un vuiet (din nerăbdare pentru luptă sau poftă)",
+    "ru": "хныканье (из-за нетерпения к битве или вожделения)",
+    "sk": "kňučanie (z nedočkavosti na boj alebo túžbu)",
+    "sl": "stokanje (zaradi nestrpnosti za bitko ali poželenje)",
+    "sv": "ett gnäggande (av otålighet inför strid eller lust)",
+    "tr": "bir kişneme (savaş veya şehvet için sabırsızlık nedeniyle)",
+    "uk": "скиглення (через нетерпіння битви або хтивість)",
+    "zh": "嗷嗷叫"
+  },
+  "verses": [
+    "jeremiah 8:16:5",
+    "jeremiah 13:27:1"
+  ]
+}

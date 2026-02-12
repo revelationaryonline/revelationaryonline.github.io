@@ -1,0 +1,42 @@
+{
+  "number": "H1822",
+  "language": "hebrew",
+  "transliteration": "dummâh",
+  "pronunciation": "doom-maw'",
+  "definition": "desolation; concretely, desolate",
+  "kjvTranslation": "destroy.",
+  "translations": {
+    "bg": "опустошение; конкретно, опустошен",
+    "cs": "opuštěnost; konkrétně, zpustošený",
+    "da": "øde; konkret, øde",
+    "de": "verwüstung; konkret: Verwüstung",
+    "el": "ερήμωση, συγκεκριμένα, ερημωμένη",
+    "es": "desolación; concretamente, desolado",
+    "et": "laostumine; konkreetselt, laostumine",
+    "fi": "autioituminen; konkreettisesti, autioitunut",
+    "fr": "désolation ; concrètement, désolation",
+    "hu": "pusztulás; konkrétan, kietlen, elhagyatott",
+    "id": "kehancuran; secara konkret, sepi",
+    "it": "desolazione; concretamente, desolata",
+    "ja": "荒涼とした；具体的には、荒涼とした",
+    "ko": "황폐; 구체적으로, 황폐한",
+    "lt": "dykuma; konkrečiai - apleistas",
+    "lv": "tuksnesis; konkrēti, tuksnešains",
+    "nb": "øde; konkret, øde",
+    "nl": "verlatenheid; concreet, desolaat",
+    "pl": "spustoszenie; konkretnie, spustoszenie",
+    "pt": "desolação; concretamente, desolação",
+    "ro": "pustiire; concret, pustiire",
+    "ru": "запустение; конкретно - безлюдный",
+    "sk": "opustenosť; konkrétne, opustený",
+    "sl": "opustošenje; konkretno, opustošen",
+    "sv": "ödeläggelse; konkret, ödeläggelse",
+    "tr": "ıssızlık; somut olarak, ıssız",
+    "uk": "спустошення; конкретно, безлюдний",
+    "zh": "荒凉"
+  },
+  "hebrew": "דֻּמָּה",
+  "verses": [
+    "ezekiel 27:32:8"
+  ]
+}

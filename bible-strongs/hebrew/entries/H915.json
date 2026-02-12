@@ -1,0 +1,42 @@
+{
+  "number": "H915",
+  "language": "hebrew",
+  "transliteration": "bâdâl",
+  "pronunciation": "baw-dawl'",
+  "definition": "a part",
+  "kjvTranslation": "piece.",
+  "translations": {
+    "bg": "част",
+    "cs": "a část",
+    "da": "en del",
+    "de": "ein Teil",
+    "el": "ένα μέρος",
+    "es": "a parte",
+    "et": "osa",
+    "fi": "osa",
+    "fr": "une partie",
+    "hu": "egy rész",
+    "id": "bagian",
+    "it": "una parte",
+    "ja": "一部",
+    "ko": "부품",
+    "lt": "a dalis",
+    "lv": "a daļa",
+    "nb": "en del",
+    "nl": "een onderdeel",
+    "pl": "część",
+    "pt": "uma parte",
+    "ro": "o parte",
+    "ru": "часть",
+    "sk": "časť",
+    "sl": "del",
+    "sv": "a del",
+    "tr": "bir parçası",
+    "uk": "частина",
+    "zh": "一部分"
+  },
+  "hebrew": "בָּדָל",
+  "verses": [
+    "amos 3:12:11"
+  ]
+}

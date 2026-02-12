@@ -1,0 +1,42 @@
+{
+  "number": "H3445",
+  "language": "hebrew",
+  "transliteration": "yeshach",
+  "pronunciation": "yeh'-shakh",
+  "definition": "hunger",
+  "kjvTranslation": "casting down.",
+  "translations": {
+    "bg": "глад",
+    "cs": "hlad",
+    "da": "sult",
+    "de": "hunger",
+    "el": "πείνα",
+    "es": "hambre",
+    "et": "nälg",
+    "fi": "nälkä",
+    "fr": "la faim",
+    "hu": "éhség",
+    "id": "kelaparan",
+    "it": "fame",
+    "ja": "空腹",
+    "ko": "굶주림",
+    "lt": "badas",
+    "lv": "izsalkums",
+    "nb": "sult",
+    "nl": "honger",
+    "pl": "głód",
+    "pt": "fome",
+    "ro": "foame",
+    "ru": "голод",
+    "sk": "hlad",
+    "sl": "lakota",
+    "sv": "hunger",
+    "tr": "aÇLIK",
+    "uk": "голод",
+    "zh": "饥饿"
+  },
+  "hebrew": "יֶשַׁח",
+  "verses": [
+    "micah 6:14:4"
+  ]
+}

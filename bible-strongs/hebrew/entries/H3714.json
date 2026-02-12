@@ -1,0 +1,42 @@
+{
+  "number": "H3714",
+  "language": "hebrew",
+  "transliteration": "kâphîyç",
+  "pronunciation": "kaw-fece'",
+  "definition": "a girder",
+  "kjvTranslation": "beam.",
+  "translations": {
+    "bg": "греда",
+    "cs": "nosník",
+    "da": "en bjælke",
+    "de": "ein Träger",
+    "el": "μια δοκό",
+    "es": "una viga",
+    "et": "kanderaam",
+    "fi": "palkki",
+    "fr": "une poutre",
+    "hu": "egy gerenda",
+    "id": "gelagar",
+    "it": "una trave",
+    "ja": "桁",
+    "ko": "대들보",
+    "lt": "sijos",
+    "lv": "siju",
+    "nb": "en bjelke",
+    "nl": "een ligger",
+    "pl": "dźwigar",
+    "pt": "uma viga",
+    "ro": "o grindă",
+    "ru": "балка",
+    "sk": "nosník",
+    "sl": "nosilec",
+    "sv": "en balk",
+    "tr": "bir kiriş",
+    "uk": "балка",
+    "zh": "大梁"
+  },
+  "hebrew": "כָּפִיס",
+  "verses": [
+    "habakkuk 2:11:4"
+  ]
+}

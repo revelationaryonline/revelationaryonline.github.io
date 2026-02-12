@@ -1,0 +1,42 @@
+{
+  "number": "H6707",
+  "language": "hebrew",
+  "transliteration": "tsᵉchîychâh",
+  "pronunciation": "tsekh-ee-khaw'",
+  "definition": "a parched region, i.e. the desert",
+  "kjvTranslation": "dry land.",
+  "hebrew": "צְחִיחָה",
+  "translations": {
+    "bg": "изсушена област, т.е. пустинята",
+    "cs": "vyprahlá oblast, tj. poušť",
+    "da": "en udtørret region, dvs. ørkenen",
+    "de": "eine ausgedörrte Region, d. h. die Wüste",
+    "el": "μια ξερή περιοχή, δηλαδή η έρημος",
+    "es": "una región reseca, es decir, el desierto",
+    "et": "kuivanud piirkond, s.t. kõrb",
+    "fi": "kuivunut alue, eli aavikko",
+    "fr": "une région desséchée, c'est-à-dire le désert",
+    "hu": "kiszáradt terület, azaz a sivatag",
+    "id": "daerah yang kering, yaitu gurun pasir",
+    "it": "una regione arida, cioè il deserto",
+    "ja": "砂漠",
+    "ko": "메마른 지역(예: 사막)",
+    "lt": "išdžiūvęs regionas, t. y. dykuma",
+    "lv": "izžuvis reģions, t. i., tuksnesis",
+    "nb": "et uttørket område, dvs. ørkenen",
+    "nl": "een uitgedroogd gebied, d.w.z. de woestijn",
+    "pl": "spieczony region, tj. pustynia",
+    "pt": "uma região ressequida, ou seja, o deserto",
+    "ro": "o regiune aridă, adică deșertul",
+    "ru": "иссохший край, т.е. пустыня",
+    "sk": "vyprahnutá oblasť, t. j. púšť",
+    "sl": "izsušeno območje, tj. puščava",
+    "sv": "en uttorkad region, dvs. öknen",
+    "tr": "kurak bir bölge, yani çöl",
+    "uk": "пересохлий регіон, тобто пустеля",
+    "zh": "沙漠"
+  },
+  "verses": [
+    "psalms 68:7:10"
+  ]
+}

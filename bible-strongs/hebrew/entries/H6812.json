@@ -1,0 +1,42 @@
+{
+  "number": "H6812",
+  "language": "hebrew",
+  "transliteration": "tsᵉʻîyrâh",
+  "pronunciation": "tseh-ee-raw'",
+  "definition": "smallness (of age), i.e. juvenility",
+  "kjvTranslation": "youth.",
+  "hebrew": "צְעִירָה",
+  "translations": {
+    "bg": "малолетие (на възраст), т.е. младост",
+    "cs": "malost (věku), tj. mladistvost",
+    "da": "lillehed (i alder), dvs. ungdommelighed",
+    "de": "kleinheit (des Alters), d.h. Jugendlichkeit",
+    "el": "μικρότητα (της ηλικίας), δηλαδή νεανικότητα",
+    "es": "pequeñez (de edad), es decir, juventud",
+    "et": "väiksus (vanus), st nooruslikkus",
+    "fi": "(iän) pienuus eli nuoruus",
+    "fr": "la petitesse (de l'âge), c'est-à-dire la juvénilité",
+    "hu": "(életkori) kicsinység, azaz fiatalság",
+    "id": "kecilnya (usia), yaitu masa remaja",
+    "it": "piccolezza (d'età), cioè giovinezza",
+    "ja": "小年",
+    "ko": "(나이의) 작음, 즉 젊음",
+    "lt": "mažumas (amžiaus), t. y. jaunystė",
+    "lv": "(vecuma) mazums, t.i., jaunība",
+    "nb": "litenhet (i alder), dvs. ungdommelighet",
+    "nl": "kleinheid (van leeftijd), d.w.z. jeugdigheid",
+    "pl": "małość (wieku), tj. młodość",
+    "pt": "pequenez (de idade), ou seja, juvenilidade",
+    "ro": "micime (de vârstă), adică tinerețe",
+    "ru": "малость (возраста), т.е. юность",
+    "sk": "malosť (veku), t. j. mladosť",
+    "sl": "majhnost (starosti), tj. mladost",
+    "sv": "litenhet (i ålder), dvs. ungdomlighet",
+    "tr": "küçüklük (yaş), yani çocukluk",
+    "uk": "малість (віку), тобто неповноліття",
+    "zh": "幼小"
+  },
+  "verses": [
+    "genesis 43:33:5"
+  ]
+}

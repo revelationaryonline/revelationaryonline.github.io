@@ -1,0 +1,42 @@
+{
+  "number": "H3531",
+  "language": "hebrew",
+  "transliteration": "kᵉbârâh",
+  "pronunciation": "keb-aw-raw'",
+  "definition": "a sieve (as netted)",
+  "kjvTranslation": "sieve.",
+  "translations": {
+    "bg": "сито (като мрежа)",
+    "cs": "síto (jako síťované)",
+    "da": "en sigte (som net)",
+    "de": "ein Sieb (als Netz)",
+    "el": "ένα κόσκινο (με δίχτυ)",
+    "es": "un tamiz (como red)",
+    "et": "sõel (nagu võrguga)",
+    "fi": "seula (verkko)",
+    "fr": "un tamis (en tant que filet)",
+    "hu": "szita (mint háló)",
+    "id": "saringan (seperti yang terjaring)",
+    "it": "un setaccio (come rete)",
+    "ja": "篩",
+    "ko": "체(그물망)",
+    "lt": "sietas (tinklinis)",
+    "lv": "siets (kā siets)",
+    "nb": "en sil (som netting)",
+    "nl": "een zeef (als net)",
+    "pl": "sito (z siatką)",
+    "pt": "uma peneira (como uma rede)",
+    "ro": "o sită (ca plasă)",
+    "ru": "сито (как сетка)",
+    "sk": "sito (ako sieťovina)",
+    "sl": "sito (kot mreža)",
+    "sv": "ett såll (som nätat)",
+    "tr": "bir elek (ağ gibi)",
+    "uk": "сито (у вигляді сітки)",
+    "zh": "筛网"
+  },
+  "hebrew": "כְּבָרָה",
+  "verses": [
+    "amos 9:9:12"
+  ]
+}

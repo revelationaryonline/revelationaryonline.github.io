@@ -1,0 +1,42 @@
+{
+  "number": "H2801",
+  "language": "hebrew",
+  "transliteration": "chârath",
+  "pronunciation": "khaw-rath'",
+  "definition": "to engrave",
+  "kjvTranslation": "graven.",
+  "translations": {
+    "bg": "да гравира",
+    "cs": "vyrýt",
+    "da": "at indgravere",
+    "de": "zu gravieren",
+    "el": "να χαράξει",
+    "es": "grabar",
+    "et": "graveerida",
+    "fi": "kaivertaa",
+    "fr": "graver",
+    "hu": "vésni",
+    "id": "untuk mengukir",
+    "it": "incidere",
+    "ja": "彫刻する",
+    "ko": "새기다",
+    "lt": "graviruoti",
+    "lv": "gravēt",
+    "nb": "å gravere",
+    "nl": "graveren",
+    "pl": "grawerować",
+    "pt": "para gravar",
+    "ro": "să graveze",
+    "ru": "гравировать",
+    "sk": "gravírovať",
+    "sl": "gravirati",
+    "sv": "att gravera",
+    "tr": "kazımak için",
+    "uk": "щоб вигравіювати",
+    "zh": "镌刻"
+  },
+  "hebrew": "חָרַת",
+  "verses": [
+    "exodus 32:16:8"
+  ]
+}

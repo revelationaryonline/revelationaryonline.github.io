@@ -1,0 +1,43 @@
+{
+  "number": "H1591",
+  "language": "hebrew",
+  "transliteration": "gᵉnêbâh",
+  "pronunciation": "ghen-ay-baw'",
+  "definition": "stealing, i.e. (concretely) something stolen",
+  "kjvTranslation": "theft.",
+  "translations": {
+    "bg": "кражба, т.е. (конкретно) нещо откраднато",
+    "cs": "krádež, tj. (konkrétně) něco ukradeného",
+    "da": "stjæle, dvs. (konkret) noget, der er stjålet",
+    "de": "stehlen, d.h. (konkret) etwas Gestohlenes",
+    "el": "κλοπή, δηλαδή (συγκεκριμένα) κάτι που έχει κλαπεί",
+    "es": "robar, es decir (concretamente) algo robado",
+    "et": "varastamine, st (konkreetselt) midagi varastatud",
+    "fi": "varastaminen, eli (konkreettisesti) jotain varastettua",
+    "fr": "le vol, c'est-à-dire (concrètement) quelque chose de volé",
+    "hu": "lopás, azaz (konkrétan) valami ellopott dolog",
+    "id": "mencuri, yaitu (secara konkret) sesuatu yang dicuri",
+    "it": "rubare, cioè (concretamente) qualcosa di rubato",
+    "ja": "ぬすみ",
+    "ko": "도둑질, 즉 (구체적으로) 훔친 것",
+    "lt": "vogti, t. y. (konkrečiai) ką nors pavogti",
+    "lv": "zādzība, t.i., (konkrēti) kaut kas nozagts",
+    "nb": "stjele, dvs. (konkret) noe som er stjålet",
+    "nl": "stelen, d.w.z. (concreet) iets stelen",
+    "pl": "kradzież, tj. (konkretnie) coś skradzionego",
+    "pt": "roubar, ou seja, (concretamente) algo roubado",
+    "ro": "furt, adică (concret) ceva furat",
+    "ru": "кража, т.е. (конкретно) что-то украденное",
+    "sk": "krádež, t. j. (konkrétne) niečo ukradnuté",
+    "sl": "kraja, tj. (konkretno) nekaj ukradenega",
+    "sv": "stöld, d.v.s. (konkret) något som stulits",
+    "tr": "çalmak, yani (somut olarak) çalınan bir şey",
+    "uk": "крадіжка, тобто (конкретно) щось вкрадене",
+    "zh": "偷，即（具体地说）被偷的东西"
+  },
+  "hebrew": "גְּנֵבָה",
+  "verses": [
+    "exodus 22:2:12",
+    "exodus 22:3:4"
+  ]
+}

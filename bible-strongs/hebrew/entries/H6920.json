@@ -1,0 +1,43 @@
+{
+  "number": "H6920",
+  "language": "hebrew",
+  "transliteration": "qaddachath",
+  "pronunciation": "kad-dakh'-ath",
+  "definition": "inflammation, i.e. febrile disease",
+  "kjvTranslation": "burning ague, fever.",
+  "hebrew": "קַדַּחַת",
+  "translations": {
+    "bg": "възпаление, т.е. фебрилно заболяване",
+    "cs": "zánět, tj. horečnaté onemocnění",
+    "da": "betændelse, dvs. febersygdom",
+    "de": "entzündung, d.h. fiebrige Erkrankung",
+    "el": "φλεγμονή, δηλαδή εμπύρετη νόσος",
+    "es": "inflamación, es decir, enfermedad febril",
+    "et": "põletik, st palavikuhaigus",
+    "fi": "tulehdus eli kuumeinen sairaus",
+    "fr": "inflammation, c'est-à-dire maladie fébrile",
+    "hu": "gyulladás, azaz lázas megbetegedés",
+    "id": "peradangan, yaitu penyakit demam",
+    "it": "infiammazione, cioè malattia febbrile",
+    "ja": "炎症、すなわち発熱性疾患",
+    "ko": "염증, 즉 열성 질환",
+    "lt": "uždegimas, t. y. karščiuojanti liga",
+    "lv": "iekaisums, t. i., drudžaina slimība",
+    "nb": "betennelse, dvs. febersykdom",
+    "nl": "ontsteking, d.w.z. koortsende ziekte",
+    "pl": "zapalenie, tj. choroba gorączkowa",
+    "pt": "inflamação, ou seja, doença febril",
+    "ro": "inflamație, adică boală febrilă",
+    "ru": "воспаление, т.е. лихорадочное заболевание",
+    "sk": "zápal, t. j. horúčkovité ochorenie",
+    "sl": "vnetje, tj. vročinska bolezen",
+    "sv": "inflammation, dvs. febersjukdom",
+    "tr": "iltihaplanma, yani ateşli hastalık",
+    "uk": "запалення, тобто гарячкове захворювання",
+    "zh": "炎症，即发热性疾病"
+  },
+  "verses": [
+    "leviticus 26:16:11",
+    "deuteronomy 28:22:3"
+  ]
+}

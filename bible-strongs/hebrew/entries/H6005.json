@@ -1,0 +1,43 @@
+{
+  "number": "H6005",
+  "language": "hebrew",
+  "transliteration": "ʻImmânûwʼêl",
+  "pronunciation": "im-maw-noo-ale'",
+  "definition": "Immanuel, a type name of Isaiah's son",
+  "kjvTranslation": "Immanuel.",
+  "hebrew": "עִמָּנוּאֵל",
+  "translations": {
+    "bg": "Емануил, име на сина на Исая",
+    "cs": "Immanuel, typické jméno Izaiášova syna",
+    "da": "Immanuel, et typenavn på Esajas' søn",
+    "de": "Immanuel, ein Typusname des Sohnes Jesajas",
+    "el": "Εμμανουήλ, ένα τυπικό όνομα του γιου του Ησαΐα",
+    "es": "Emanuel, nombre tipo del hijo de Isaías",
+    "et": "Immaanuel, Jesaja poja tüübinimi",
+    "fi": "Immanuel, Jesajan pojan tyyppinimi",
+    "fr": "Emmanuel, nom de famille du fils d'Isaïe",
+    "hu": "Immanuel, Ézsaiás fiának típusneve",
+    "id": "Immanuel, nama jenis anak laki-laki Yesaya",
+    "it": "Immanuel, un nome tipo del figlio di Isaia",
+    "ja": "インマヌエル、イザヤの息子の型名",
+    "ko": "임마누엘, 이사야의 아들의 유형 이름",
+    "lt": "Emanuelis, Izaijo sūnaus vardas",
+    "lv": "Immanuēls, Jesajas dēla vārds",
+    "nb": "Immanuel, et typenavn på Jesajas sønn",
+    "nl": "Immanuel, een typenaam van Jesaja's zoon",
+    "pl": "Immanuel, typ imienia syna Izajasza",
+    "pt": "Emanuel, nome-tipo do filho de Isaías",
+    "ro": "Emanuel, un nume de tip al fiului lui Isaia",
+    "ru": "Иммануил, имя сына Исаии",
+    "sk": "Immanuel, typické meno Izaiášovho syna",
+    "sl": "Immanuel, ime Izaijevega sina",
+    "sv": "Immanuel, ett typnamn på Jesajas son",
+    "tr": "Immanuel, Yeşaya'nın oğlunun bir tür adı",
+    "uk": "Іммануїл, типове ім'я сина Ісаї",
+    "zh": "以马内利"
+  },
+  "verses": [
+    "isaiah 7:14:14",
+    "isaiah 8:8:14"
+  ]
+}

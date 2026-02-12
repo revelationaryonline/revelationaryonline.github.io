@@ -1,0 +1,43 @@
+{
+  "number": "H1982",
+  "language": "hebrew",
+  "transliteration": "hêlek",
+  "pronunciation": "hay'-lek",
+  "definition": "properly, a journey, i.e. (by implication) a wayfarer; also a flowing",
+  "kjvTranslation": "[idiom] dropped, traveller.",
+  "translations": {
+    "bg": "правилно, пътуване, т.е. (по подразбиране) пътешественик; също така течащ",
+    "cs": "správně cesta, tj. (implicitně) poutník; také plynoucí",
+    "da": "egentlig en rejse, dvs. (underforstået) en vejfarende; også en flydende",
+    "de": "eigentlich eine Reise, d.h. (implizit) ein Wanderer; auch ein fließender",
+    "el": "κατάλληλα, ένα ταξίδι, δηλαδή (κατ' επέκταση) ένας περιπλανώμενος- επίσης, ένα ρέον",
+    "es": "propiamente, un viaje, es decir (implícitamente) un caminante; también un fluir",
+    "et": "õigesti, teekond, st (kaudselt) rändaja; ka voolav",
+    "fi": "oikein, matka, eli (implisiittisesti) kulkija; myös virtaava",
+    "fr": "proprement dit, un voyage, c'est-à-dire (implicitement) un voyageur ; également un flux",
+    "hu": "helyesen: utazás, azaz (értelemszerűen) vándor; továbbá egy áramló",
+    "id": "benar, sebuah perjalanan, yaitu (dengan implikasi) seorang pelancong; juga mengalir",
+    "it": "propriamente, un viaggio, cioè (per implicazione) un viandante; anche uno scorrere",
+    "ja": "正しくは、旅、すなわち（暗に）旅人。",
+    "ko": "적절하게는 여행, 즉 (암시 적으로) 나그네; 또한 흐르는 흐름",
+    "lt": "tinkamai, kelionė, t. y. (netiesiogiai) keliautojas; taip pat tekantis",
+    "lv": "pareizi, ceļojums, t.i., (netieši) ceļinieks; arī plūstošs",
+    "nb": "egentlig en reise, dvs. (underforstått) en reisende; også en flytende",
+    "nl": "goed, een reis, d.w.z. (impliciet) een reiziger; ook een vloeiende",
+    "pl": "właściwie podróż, tj. (w domyśle) wędrowiec; także płynący",
+    "pt": "propriamente dito, uma viagem, ou seja, (implicitamente) um viajante; também um fluxo",
+    "ro": "corect, o călătorie, adică (implicit) un călător; de asemenea, o curgere",
+    "ru": "правильно, путешествие, т.е. (по косвенным признакам) путник; также текущий",
+    "sk": "správne, cesta, t. j. (implicitne) pocestný; tiež plynúci",
+    "sl": "pravilno, potovanje, tj. (implicitno) popotnik; tudi tekoč",
+    "sv": "i egentlig mening en resa, dvs. (underförstått) en vägfarare; även en flödande",
+    "tr": "uygun bir şekilde, bir yolculuk, yani (ima yoluyla) bir yolcu; ayrıca akan",
+    "uk": "власне, подорож, тобто (за змістом) мандрівник; також течія",
+    "zh": "旅行，即（暗指）路人；也指流动的"
+  },
+  "hebrew": "הֵלֶךְ",
+  "verses": [
+    "firstSamuel 14:26:5",
+    "secondSamuel 12:4:1"
+  ]
+}

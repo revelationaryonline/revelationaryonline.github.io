@@ -1,0 +1,42 @@
+{
+  "number": "H6422",
+  "language": "hebrew",
+  "transliteration": "palmôwnîy",
+  "pronunciation": "pal-mo-nee'",
+  "definition": "a certain one, i.e. so-and-so",
+  "kjvTranslation": "certain.",
+  "hebrew": "פַּלְמוֹנִי",
+  "translations": {
+    "bg": "определен човек, т.е. така и така",
+    "cs": "určitý, tj. takový a takový",
+    "da": "en bestemt, f.eks. den og den",
+    "de": "eine bestimmte Person, z.B. so-und-so",
+    "el": "ένας συγκεκριμένος, δηλαδή ο τάδε και ο δείνα",
+    "es": "uno determinado, es decir, fulano de tal",
+    "et": "teatud, s.t. nii ja naa..",
+    "fi": "tietty, eli niin ja niin..",
+    "fr": "une certaine personne, c'est-à-dire untel ou untel",
+    "hu": "egy bizonyos, azaz így és így..",
+    "id": "yang tertentu, yaitu si fulan dan si fulan",
+    "it": "un certo, cioè così e così",
+    "ja": "あるもの",
+    "ko": "어떤 것, 예를 들어",
+    "lt": "tam tikrą, t. y. tokį ir tokį",
+    "lv": "kādu konkrētu, t.i., tādu un tādu",
+    "nb": "en bestemt, f.eks. den og den",
+    "nl": "een bepaalde, d.w.z. zo-en-zo",
+    "pl": "określony, tj. taki a taki",
+    "pt": "um determinado, ou seja, fulano de tal",
+    "ro": "o anumită persoană, adică așa și așa",
+    "ru": "определенный, т.е. такой-то и такой-то",
+    "sk": "určitý, t. j. ten a ten",
+    "sl": "nekdo drug, tj. tak in tak",
+    "sv": "en viss person, t.ex. den och den",
+    "tr": "belirli bir kişi, yani falanca",
+    "uk": "певний, тобто такий-то і такий-то",
+    "zh": "某某"
+  },
+  "verses": [
+    "daniel 8:13:7"
+  ]
+}

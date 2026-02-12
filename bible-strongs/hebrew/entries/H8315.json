@@ -1,0 +1,42 @@
+{
+  "number": "H8315",
+  "language": "hebrew",
+  "transliteration": "Sârâph",
+  "pronunciation": "saw-raf'",
+  "definition": "Saraph, an Israelite",
+  "kjvTranslation": "Saraph.",
+  "hebrew": "שָׂרָף",
+  "translations": {
+    "bg": "Сараф, израилтянин",
+    "cs": "Saraf, Izraelita",
+    "da": "Saraf, en israelit",
+    "de": "Saraph, ein Israelit",
+    "el": "Saraph, ένας Ισραηλίτης",
+    "es": "Saraf, israelita",
+    "et": "Saraph, iisraellane",
+    "fi": "Saraf, israelilainen",
+    "fr": "Saraph, Israélite",
+    "hu": "Saraph, izraelita",
+    "id": "Saraph, seorang Israel",
+    "it": "Saraph, un israelita",
+    "ja": "イスラエル人サラフ",
+    "ko": "이스라엘인 사라프",
+    "lt": "Sarafas, izraelitas",
+    "lv": "Sarafs, izraēlietis",
+    "nb": "Saraf, en israelitt",
+    "nl": "Saraf, een Israëliet",
+    "pl": "Saraph, Izraelita",
+    "pt": "Saraph, um israelita",
+    "ro": "Saraph, un israelit",
+    "ru": "Сараф, израильтянин",
+    "sk": "Saraf, Izraelita",
+    "sl": "Saraf, Izraelec",
+    "sv": "Saraf, en israelit",
+    "tr": "Saraph, bir İsrailli",
+    "uk": "Сараф, ізраїльтянин",
+    "zh": "撒拉弗，以色列人"
+  },
+  "verses": [
+    "firstChronicles 4:22:4"
+  ]
+}

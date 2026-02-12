@@ -1,0 +1,42 @@
+{
+  "number": "H5252",
+  "language": "hebrew",
+  "transliteration": "nᵉçibbâh",
+  "pronunciation": "nes-ib-baw'",
+  "definition": "properly, an environment, i.e. circumstance or turn of affairs",
+  "kjvTranslation": "cause.",
+  "hebrew": "נְסִבָּה",
+  "translations": {
+    "bg": "правилно, среда, т.е. обстоятелство или развой на събитията",
+    "cs": "správně prostředí, tj. okolnosti nebo vývoj událostí",
+    "da": "korrekt, et miljø, dvs. en omstændighed eller et forhold",
+    "de": "richtig, ein Umfeld, d.h. ein Umstand oder eine Wendung der Dinge",
+    "el": "κατάλληλα, ένα περιβάλλον, δηλαδή μια περίσταση ή μια εξέλιξη των πραγμάτων",
+    "es": "propiamente, un entorno, es decir, una circunstancia o giro de los acontecimientos",
+    "et": "õigesti, keskkond, st asjaolu või asjade käik",
+    "fi": "oikeastaan ympäristö eli olosuhde tai asiaintila",
+    "fr": "proprement dit, un environnement, c'est-à-dire une circonstance ou une tournure des affaires",
+    "hu": "megfelelően, egy környezet, azaz egy körülmény vagy ügyek fordulata",
+    "id": "benar, lingkungan, yaitu keadaan atau pergantian keadaan",
+    "it": "propriamente, un ambiente, cioè una circostanza o una situazione di fatto",
+    "ja": "正しくは、環境、つまり状況や成り行き",
+    "ko": "적절하게는 환경, 즉 상황이나 상황의 전환을 의미합니다",
+    "lt": "tinkamai, aplinka, t. y. aplinkybės ar aplinkybių eiga",
+    "lv": "pareizi - vide, t.i., apstākļi vai notikumu pavērsiens",
+    "nb": "egentlig et miljø, dvs. en omstendighet eller et saksforhold",
+    "nl": "goed, een omgeving, d.w.z. omstandigheid of wending van zaken",
+    "pl": "właściwie, środowisko, tj. okoliczność lub obrót spraw",
+    "pt": "propriamente dito, um ambiente, ou seja, uma circunstância ou uma situação",
+    "ro": "în mod corespunzător, un mediu, adică o circumstanță sau o schimbare de situație",
+    "ru": "правильно, среда, т.е. обстоятельства или положение дел",
+    "sk": "správne, prostredie, t. j. okolnosti alebo priebeh udalostí",
+    "sl": "pravilno, okolje, tj. okoliščine ali okoliščine, v katerih se stvari odvijajo",
+    "sv": "korrekt, en miljö, dvs. omständighet eller händelseförlopp",
+    "tr": "uygun bir şekilde, bir ortam, yani koşullar veya işler",
+    "uk": "власне, середовище, тобто обставини або перебіг подій",
+    "zh": "环境"
+  },
+  "verses": [
+    "secondChronicles 10:15:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7636",
+  "language": "hebrew",
+  "transliteration": "shâbîyç",
+  "pronunciation": "shaw-beece'",
+  "definition": "a netting for the hair",
+  "kjvTranslation": "caul.",
+  "hebrew": "שָׁבִיס",
+  "translations": {
+    "bg": "мрежа за косата",
+    "cs": "síťka na vlasy",
+    "da": "et net til håret",
+    "de": "ein Geflecht für die Haare",
+    "el": "ένα δίχτυ για τα μαλλιά",
+    "es": "una red para el pelo",
+    "et": "võrk juuste jaoks",
+    "fi": "hiusverkko",
+    "fr": "un filet pour les cheveux",
+    "hu": "egy háló a hajhoz",
+    "id": "jaring untuk rambut",
+    "it": "una rete per i capelli",
+    "ja": "ヘアネット",
+    "ko": "머리카락을 위한 그물망",
+    "lt": "tinklelis plaukams",
+    "lv": "tīkliņš matiem",
+    "nb": "et nett for håret",
+    "nl": "een net voor het haar",
+    "pl": "siatka na włosy",
+    "pt": "uma rede para o cabelo",
+    "ro": "o plasă pentru păr",
+    "ru": "сетка для волос",
+    "sk": "sieťka na vlasy",
+    "sl": "mreža za lase",
+    "sv": "ett nät för håret",
+    "tr": "saç için bir ağ",
+    "uk": "сітка для волосся",
+    "zh": "发网"
+  },
+  "verses": [
+    "isaiah 3:18:7"
+  ]
+}

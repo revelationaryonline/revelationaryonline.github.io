@@ -1,0 +1,42 @@
+{
+  "number": "H2858",
+  "language": "hebrew",
+  "transliteration": "chôthemeth",
+  "pronunciation": "kho-the-meth",
+  "definition": "a seal",
+  "kjvTranslation": "signet.",
+  "translations": {
+    "bg": "печат",
+    "cs": "pečeť",
+    "da": "et segl",
+    "de": "ein Siegel",
+    "el": "μια σφραγίδα",
+    "es": "un sello",
+    "et": "pitsat",
+    "fi": "sinetti",
+    "fr": "un sceau",
+    "hu": "pecsét",
+    "id": "segel",
+    "it": "un sigillo",
+    "ja": "印鑑",
+    "ko": "인장",
+    "lt": "antspaudas",
+    "lv": "zīmogs",
+    "nb": "et segl",
+    "nl": "een zegel",
+    "pl": "pieczęć",
+    "pt": "um selo",
+    "ro": "un sigiliu",
+    "ru": "печать",
+    "sk": "pečať",
+    "sl": "pečat",
+    "sv": "en försegling",
+    "tr": "bir mühür",
+    "uk": "печатка",
+    "zh": "印章"
+  },
+  "hebrew": "חֹתֶמֶת",
+  "verses": [
+    "genesis 38:25:17"
+  ]
+}

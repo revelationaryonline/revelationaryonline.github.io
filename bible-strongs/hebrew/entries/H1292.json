@@ -1,0 +1,43 @@
+{
+  "number": "H1292",
+  "language": "hebrew",
+  "transliteration": "Bârakʼêl",
+  "pronunciation": "baw-rak-ale'",
+  "definition": "Barakel, the father of one of Job's friends",
+  "kjvTranslation": "Barachel.",
+  "translations": {
+    "bg": "Варакел, баща на един от приятелите на Йов",
+    "cs": "Barakel, otec jednoho z Jobových přátel",
+    "da": "Barakel, far til en af Jobs venner",
+    "de": "Barakel, der Vater eines von Hiobs Freunden",
+    "el": "Barakel, ο πατέρας ενός από τους φίλους του Ιώβ",
+    "es": "Barakel, el padre de uno de los amigos de Job",
+    "et": "Barakel, ühe Iiobi sõbra isa",
+    "fi": "Barakel, erään Jobin ystävän isä",
+    "fr": "Barakel, le père d'un des amis de Job",
+    "hu": "Barakel, Jób egyik barátjának apja",
+    "id": "Barakel, ayah dari salah satu teman Ayub",
+    "it": "Barakel, il padre di uno degli amici di Giobbe",
+    "ja": "ヨブの友人の一人の父親、バラケル",
+    "ko": "욥의 친구 중 한 명의 아버지, 바라켈",
+    "lt": "Barakelis, vieno iš Jobo draugų tėvas",
+    "lv": "Barakels, viena Ījaba drauga tēvs",
+    "nb": "Barakel, faren til en av Jobs venner",
+    "nl": "Barakel, de vader van een van Jobs vrienden",
+    "pl": "Barakel, ojciec jednego z przyjaciół Hioba",
+    "pt": "Barakel, pai de um dos amigos de Job",
+    "ro": "Barakel, tatăl unuia dintre prietenii lui Iov",
+    "ru": "Варакел, отец одного из друзей Иова",
+    "sk": "Barakel, otec jedného z Jóbových priateľov",
+    "sl": "Barakel, oče enega od Jobovih prijateljev",
+    "sv": "Barakel, far till en av Jobs vänner",
+    "tr": "Barakel, Eyüp'ün arkadaşlarından birinin babası",
+    "uk": "Баракель, батько одного з друзів Йова",
+    "zh": "巴拉凯尔，约伯一个朋友的父亲"
+  },
+  "hebrew": "בָּרַכְאֵל",
+  "verses": [
+    "job 32:2:4",
+    "job 32:6:3"
+  ]
+}

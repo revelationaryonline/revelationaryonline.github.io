@@ -1,0 +1,43 @@
+{
+  "number": "H2810",
+  "language": "hebrew",
+  "transliteration": "chishshâbôwn",
+  "pronunciation": "khish-shaw-bone'",
+  "definition": "a contrivance, i.e. actual (a warlike machine) or mental (a machination)",
+  "kjvTranslation": "engine, invention.",
+  "translations": {
+    "bg": "измишльотина, т.е. действителна (военна машина) или умствена (машинация)",
+    "cs": "výmysl, tj. skutečný (válečný stroj) nebo mentální (machinace)",
+    "da": "en opfindelse, dvs. faktisk (en krigsmaskine) eller mental (en machination)",
+    "de": "eine Erfindung, d.h. eine tatsächliche (eine Kriegsmaschine) oder geistige (eine Intrige)",
+    "el": "μια επινόηση, δηλαδή πραγματική (μια πολεμική μηχανή) ή διανοητική (μια μηχανορραφία)",
+    "es": "un artificio, es decir, real (una máquina bélica) o mental (una maquinación)",
+    "et": "masinavärk, st tegelik (sõjamasin) või vaimne (masinavärk)",
+    "fi": "keksintö, eli todellinen (sotakone) tai henkinen (juoni)",
+    "fr": "un artifice, c'est-à-dire réel (une machine de guerre) ou mental (une machination)",
+    "hu": "mesterséges, azaz tényleges (hadigépezet) vagy szellemi (gépezet) szerkezet",
+    "id": "sebuah rekayasa, yaitu aktual (mesin yang suka berperang) atau mental (mesin)",
+    "it": "un espediente, cioè reale (una macchina da guerra) o mentale (una macchinazione)",
+    "ja": "しかけ",
+    "ko": "인위적인 것, 즉 실제(호전적인 기계) 또는 정신적인 것(기계)",
+    "lt": "išmonė, t. y. faktinė (karo mašina) arba protinė (machinacija)",
+    "lv": "izdomājums, t.i., faktisks (kara mašīna) vai garīgs (mehānisms)",
+    "nb": "en konstruksjon, dvs. faktisk (en krigsmaskin) eller mental (en machination)",
+    "nl": "een vernuft, d.w.z. feitelijk (een oorlogsmachine) of geestelijk (een machinatie)",
+    "pl": "wynalazek, tj. rzeczywisty (machina wojenna) lub mentalny (machinacja)",
+    "pt": "um artifício, isto é, real (uma máquina de guerra) ou mental (uma maquinação)",
+    "ro": "un artificiu, adică real (o mașină de război) sau mental (o mașinărie)",
+    "ru": "приспособление, т.е. фактическое (военная машина) или умственное (махинация)",
+    "sk": "výmysel, t. j. skutočný (vojnový stroj) alebo duševný (machinácia)",
+    "sl": "iznajdba, tj. dejanska (bojni stroj) ali miselna (stroj)",
+    "sv": "en anordning, dvs. faktisk (en krigsmaskin) eller mental (en machination)",
+    "tr": "bir kurgu, yani gerçek (savaş makinesi) veya zihinsel (bir entrika)",
+    "uk": "вигадка, тобто фактична (бойова машина) або ментальна (махінація)",
+    "zh": "一种手段，即实际的（战争机器）或心理的（阴谋）手段"
+  },
+  "hebrew": "חִשָּׁבוֹן",
+  "verses": [
+    "secondChronicles 26:15:2",
+    "ecclesiastes 7:29:12"
+  ]
+}

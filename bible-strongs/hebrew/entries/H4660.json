@@ -1,0 +1,42 @@
+{
+  "number": "H4660",
+  "language": "hebrew",
+  "transliteration": "mappâts",
+  "pronunciation": "map-pawts'",
+  "definition": "a smiting to pieces",
+  "kjvTranslation": "slaughter.",
+  "hebrew": "מַפָּץ",
+  "verses": [
+    "ezekiel 9:2:12"
+  ],
+  "translations": {
+    "bg": "разбиване на парчета",
+    "cs": "rozbití na kusy",
+    "da": "et slag i stykker",
+    "de": "eine Zertrümmerung",
+    "el": "ένα χτύπημα σε κομμάτια",
+    "es": "un golpe en pedazos",
+    "et": "tükkideks löömine",
+    "fi": "palasiksi lyöminen",
+    "fr": "une mise en pièces",
+    "hu": "a darabokra verés",
+    "id": "sebuah pukulan yang menghancurkan berkeping-keping",
+    "it": "un'azione che fa a pezzi",
+    "ja": "木っ端みじん",
+    "ko": "산산조각 내기",
+    "lt": "sudaužymas į gabalus",
+    "lv": "saduršana gabalos",
+    "nb": "et slag i stykker",
+    "nl": "een aan stukken slaan",
+    "pl": "rozbicie na kawałki",
+    "pt": "um golpe em pedaços",
+    "ro": "o zdrobire în bucăți",
+    "ru": "разбивание на куски",
+    "sk": "rozbitie na kúsky",
+    "sl": "razbitje na koščke",
+    "sv": "ett sönderslagande",
+    "tr": "paramparça etmek",
+    "uk": "розбиття на шматки",
+    "zh": "粉身碎骨"
+  }
+}

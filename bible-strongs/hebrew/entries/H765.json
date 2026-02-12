@@ -1,0 +1,43 @@
+{
+  "number": "H765",
+  "language": "hebrew",
+  "transliteration": "ʼĂrân",
+  "pronunciation": "ar-awn'",
+  "definition": "Aran, an Edomite",
+  "kjvTranslation": "Aran.",
+  "translations": {
+    "bg": "Аран, едомит",
+    "cs": "Aran, Edomita",
+    "da": "Aran, en edomit",
+    "de": "Aran, ein Edomiter",
+    "el": "Aran, ένας Εδομίτης",
+    "es": "Aran, un edomita",
+    "et": "Aran, edomitlane",
+    "fi": "Aran, edomilainen",
+    "fr": "Aran, un Edomite",
+    "hu": "Aran, egy edomita",
+    "id": "Aran, seorang Edom",
+    "it": "Aran, un Edomita",
+    "ja": "江戸っ子アラン",
+    "ko": "아란, 에돔인",
+    "lt": "Aranas, edomitas",
+    "lv": "Aran, edomietis",
+    "nb": "Aran, en edomitt",
+    "nl": "Aran, een Edomiet",
+    "pl": "Aran, Edomita",
+    "pt": "Aran, um edomita",
+    "ro": "Aran, un edomit",
+    "ru": "Аран, эдомитянин",
+    "sk": "Aran, Edomita",
+    "sl": "Aran, Edomec",
+    "sv": "Aran, en Edomit",
+    "tr": "Aran, bir Edomlu",
+    "uk": "Аран, едоміт",
+    "zh": "以东人阿兰"
+  },
+  "hebrew": "אֲרָן",
+  "verses": [
+    "genesis 36:28:4",
+    "firstChronicles 1:42:8"
+  ]
+}

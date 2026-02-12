@@ -1,0 +1,42 @@
+{
+  "number": "H4037",
+  "language": "hebrew",
+  "transliteration": "magzêrâh",
+  "pronunciation": "mag-zay-raw'",
+  "definition": "a cutting implement, i.e. a blade",
+  "kjvTranslation": "axe.",
+  "hebrew": "מַגְזֵרָה",
+  "translations": {
+    "bg": "режещ инструмент, т.е. острие",
+    "cs": "řezný nástroj, tj. čepel",
+    "da": "et skærende redskab, dvs. en klinge",
+    "de": "ein Schneidwerkzeug, d.h. eine Klinge",
+    "el": "ένα εργαλείο κοπής, δηλαδή μια λεπίδα",
+    "es": "un instrumento de corte, es decir, una cuchilla",
+    "et": "lõikevahend, st tera",
+    "fi": "leikkuutyökalu, eli terä",
+    "fr": "un outil de coupe, c'est-à-dire une lame",
+    "hu": "vágóeszköz, azaz penge",
+    "id": "alat pemotong, yaitu pisau",
+    "it": "un attrezzo da taglio, cioè una lama",
+    "ja": "刃物",
+    "ko": "절단 도구, 즉 칼날",
+    "lt": "pjovimo įrankis, t. y. ašmenys",
+    "lv": "griešanas instruments, t. i., asmens",
+    "nb": "et skjæreredskap, dvs. et blad",
+    "nl": "een snijwerktuig, d.w.z. een mes",
+    "pl": "narzędzie tnące, tj. ostrze",
+    "pt": "um instrumento de corte, ou seja, uma lâmina",
+    "ro": "un instrument de tăiere, și anume o lamă",
+    "ru": "режущий инструмент, т.е. лезвие",
+    "sk": "rezný nástroj, t. j. nôž",
+    "sl": "rezalno orodje, tj. rezilo",
+    "sv": "ett skärande verktyg, t.ex. ett blad",
+    "tr": "bir kesme aleti, yani bir bıçak",
+    "uk": "ріжучий інструмент, тобто лезо",
+    "zh": "刃具"
+  },
+  "verses": [
+    "secondSamuel 12:31:9"
+  ]
+}

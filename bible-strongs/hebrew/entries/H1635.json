@@ -1,0 +1,42 @@
+{
+  "number": "H1635",
+  "language": "hebrew",
+  "transliteration": "gerem",
+  "pronunciation": "gheh'-rem",
+  "definition": "a bone",
+  "kjvTranslation": "bone.",
+  "translations": {
+    "bg": "кост",
+    "cs": "kost",
+    "da": "en knogle",
+    "de": "ein Knochen",
+    "el": "ένα κόκαλο",
+    "es": "un hueso",
+    "et": "luu",
+    "fi": "luu",
+    "fr": "un os",
+    "hu": "egy csont",
+    "id": "tulang",
+    "it": "un osso",
+    "ja": "骨",
+    "ko": "뼈",
+    "lt": "kaulas",
+    "lv": "kauls",
+    "nb": "et bein",
+    "nl": "een bot",
+    "pl": "kość",
+    "pt": "um osso",
+    "ro": "un os",
+    "ru": "кость",
+    "sk": "kosť",
+    "sl": "kost",
+    "sv": "ett ben",
+    "tr": "bir kemik",
+    "uk": "кістка",
+    "zh": "骨"
+  },
+  "hebrew": "גֶּרֶם",
+  "verses": [
+    "daniel 6:25:26"
+  ]
+}

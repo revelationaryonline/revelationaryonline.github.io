@@ -1,0 +1,42 @@
+{
+  "number": "H4950",
+  "language": "hebrew",
+  "transliteration": "mishqâʻ",
+  "pronunciation": "mish-kaw'",
+  "definition": "a settling place (of water), i.e. a pond",
+  "kjvTranslation": "deep.",
+  "hebrew": "מִשְׁקָע",
+  "translations": {
+    "bg": "място за утаяване (на вода), напр. езеро",
+    "cs": "usazovací místo (vody), tj. rybník",
+    "da": "et sted, hvor vand sætter sig, f.eks. en dam",
+    "de": "eine Absetzstelle (von Wasser), d.h. ein Teich",
+    "el": "ένας τόπος καθίζησης (νερού), π.χ. μια λίμνη",
+    "es": "un lugar de asentamiento (de agua), es decir, un estanque",
+    "et": "(vee) settekoht, st tiik",
+    "fi": "(veden) laskeutumispaikka eli lampi",
+    "fr": "un lieu de décantation (de l'eau), c'est-à-dire un étang",
+    "hu": "egy (víz)telep, azaz egy tó",
+    "id": "tempat pengendapan (air), misalnya kolam",
+    "it": "un luogo di decantazione (dell'acqua), cioè uno stagno",
+    "ja": "池",
+    "ko": "(물의) 침전 장소, 즉 연못",
+    "lt": "nusistovėjusi (vandens) vieta, t. y. tvenkinys",
+    "lv": "(ūdens) nostādināšanas vieta, t. i., dīķis",
+    "nb": "et sted (med vann), f.eks. en dam",
+    "nl": "een bezinkplaats (van water), d.w.z. een vijver",
+    "pl": "miejsce osadzania się (wody), np. staw",
+    "pt": "um local de repouso (de água), ou seja, uma lagoa",
+    "ro": "un loc de decantare (a apei), de exemplu un iaz",
+    "ru": "место отстоя (воды), т.е. пруд",
+    "sk": "miesto na usadzovanie (vody), t. j. rybník",
+    "sl": "mesto, kjer se usede voda, npr. ribnik",
+    "sv": "en sedimenteringsplats (för vatten), t.ex. en damm",
+    "tr": "(su) çökeltme yeri, yani bir gölet",
+    "uk": "місце відстою (води), тобто ставок",
+    "zh": "沉淀池"
+  },
+  "verses": [
+    "ezekiel 34:18:9"
+  ]
+}

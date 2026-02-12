@@ -1,0 +1,42 @@
+{
+  "number": "H3942",
+  "language": "hebrew",
+  "transliteration": "liphnay",
+  "pronunciation": "lif-nah'ee",
+  "definition": "anterior",
+  "kjvTranslation": "before.",
+  "hebrew": "לִפְנַי",
+  "translations": {
+    "bg": "предна част",
+    "cs": "přední",
+    "da": "forreste",
+    "de": "anterior",
+    "el": "anterior",
+    "es": "anterior",
+    "et": "anterior",
+    "fi": "anterior",
+    "fr": "antérieur",
+    "hu": "anterior",
+    "id": "anterior",
+    "it": "anteriore",
+    "ja": "前側",
+    "ko": "앞쪽",
+    "lt": "priekinis",
+    "lv": "priekšējais",
+    "nb": "fremre",
+    "nl": "voorste",
+    "pl": "przedni",
+    "pt": "anterior",
+    "ro": "anterior",
+    "ru": "передняя часть",
+    "sk": "predná časť",
+    "sl": "anteriorni",
+    "sv": "främre",
+    "tr": "öN",
+    "uk": "передній",
+    "zh": "前部"
+  },
+  "verses": [
+    "firstKings 6:17:6"
+  ]
+}

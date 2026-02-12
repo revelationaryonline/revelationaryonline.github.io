@@ -1,0 +1,42 @@
+{
+  "number": "H2439",
+  "language": "hebrew",
+  "transliteration": "chîysh",
+  "pronunciation": "kheesh",
+  "definition": "to hurry",
+  "kjvTranslation": "make haste.",
+  "translations": {
+    "bg": "да бързате",
+    "cs": "spěchat",
+    "da": "at skynde sig",
+    "de": "zur Eile",
+    "el": "να βιαστώ",
+    "es": "darse prisa",
+    "et": "kiirustada",
+    "fi": "kiirehtiä",
+    "fr": "se dépêcher",
+    "hu": "sietni",
+    "id": "untuk bergegas",
+    "it": "affrettarsi",
+    "ja": "急ぐ",
+    "ko": "서둘러",
+    "lt": "skubėti",
+    "lv": "steigties",
+    "nb": "for å skynde seg",
+    "nl": "om te haasten",
+    "pl": "spieszyć się",
+    "pt": "apressar-se",
+    "ro": "să se grăbească",
+    "ru": "торопиться",
+    "sk": "ponáhľať sa",
+    "sl": "pohiteti",
+    "sv": "att skynda",
+    "tr": "acele etmek",
+    "uk": "поспішати",
+    "zh": "赶"
+  },
+  "hebrew": "חִישׁ",
+  "verses": [
+    "psalms 71:12:6"
+  ]
+}

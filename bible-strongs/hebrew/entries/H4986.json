@@ -1,0 +1,43 @@
+{
+  "number": "H4986",
+  "language": "hebrew",
+  "transliteration": "metheq",
+  "pronunciation": "meh'-thek",
+  "definition": "figuratively, pleasantness (of discourse)",
+  "kjvTranslation": "sweetness.",
+  "hebrew": "מֶתֶק",
+  "translations": {
+    "bg": "в преносен смисъл, приятност (на говорене)",
+    "cs": "v přeneseném významu příjemnost (řeči)",
+    "da": "i overført betydning, behagelighed (i en samtale)",
+    "de": "im übertragenen Sinne, Annehmlichkeit (des Gesprächs)",
+    "el": "μεταφορικά, η ευχάριστη διάθεση (του λόγου)",
+    "es": "en sentido figurado, amabilidad (del discurso)",
+    "et": "piltlikult öeldes, meeldivus (diskursus)",
+    "fi": "kuvaannollisesti, miellyttävyys (keskustelussa)",
+    "fr": "au sens figuré, l'agrément (du discours)",
+    "hu": "átvitt értelemben: (a beszéd) kellemessége",
+    "id": "secara kiasan, kesenangan (wacana)",
+    "it": "in senso figurato, piacevolezza (del discorso)",
+    "ja": "喩え",
+    "ko": "비유적으로, (담화의) 즐거움",
+    "lt": "perkeltine prasme - malonumas (kalbant)",
+    "lv": "pārnestā nozīmē, patīkamība (runas)",
+    "nb": "i overført betydning, behagelighet (i en samtale)",
+    "nl": "figuurlijk, aangenaamheid (van conversatie)",
+    "pl": "w przenośni, przyjemność (dyskursu)",
+    "pt": "figurativamente, agradabilidade (do discurso)",
+    "ro": "la figurat, plăcere (a discursului)",
+    "ru": "образно, приятность (речи)",
+    "sk": "v prenesenom význame príjemnosť (reči)",
+    "sl": "v prenesenem pomenu, prijetnost (govora)",
+    "sv": "bildligt talat, behaglighet (i samtal)",
+    "tr": "mecazi olarak, hoşluk (söylemin)",
+    "uk": "образно кажучи, приємність (дискурсу)",
+    "zh": "其乐融融"
+  },
+  "verses": [
+    "proverbs 16:21:4",
+    "proverbs 27:9:4"
+  ]
+}

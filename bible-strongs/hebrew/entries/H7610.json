@@ -1,0 +1,42 @@
+{
+  "number": "H7610",
+  "language": "hebrew",
+  "transliteration": "Shᵉʼâr Yâshûwb",
+  "pronunciation": "sheh-awr'yaw-shoob'",
+  "definition": "Shear-Jashub, the symbolic name of one of Isaiah's sons",
+  "kjvTranslation": "Shear-jashub.",
+  "hebrew": "שְׁאָר יָשׁוּב",
+  "translations": {
+    "bg": "Шеар-Яшуб, символично име на един от синовете на Исая",
+    "cs": "Šear-Jašub, symbolické jméno jednoho z Izajášových synů",
+    "da": "Shear-Jashub, det symbolske navn på en af Esajas' sønner",
+    "de": "Shear-Jashub, der symbolische Name eines der Söhne Jesajas",
+    "el": "Shear-Jashub, το συμβολικό όνομα ενός από τους γιους του Ησαΐα",
+    "es": "Shear-Jashub, nombre simbólico de uno de los hijos de Isaías",
+    "et": "Shear-Jašub, ühe Jesaja poja sümboolne nimi",
+    "fi": "Shear-Jašub, yhden Jesajan pojan symbolinen nimi",
+    "fr": "Shear-Jashub, le nom symbolique d'un des fils d'Isaïe",
+    "hu": "Shear-Jasub, Ézsaiás egyik fiának szimbolikus neve",
+    "id": "Geser-Yasyub, nama simbolis dari salah satu putra Yesaya",
+    "it": "Shear-Jashub, nome simbolico di uno dei figli di Isaia",
+    "ja": "シア＝ヤシュブ、イザヤの息子の一人の象徴的な名前",
+    "ko": "이사야의 아들 중 한 명의 상징적인 이름, 시어-자숩",
+    "lt": "Šear-Jašubas - simbolinis vieno iš Izaijo sūnų vardas",
+    "lv": "Šear-Jašubs, viena no Jesajas dēlu simboliskajiem vārdiem",
+    "nb": "Shear-Jashub, det symbolske navnet på en av Jesajas sønner",
+    "nl": "Shear-Jashub, de symbolische naam van een van Jesaja's zonen",
+    "pl": "Shear-Jashub, symboliczne imię jednego z synów Izajasza",
+    "pt": "Shear-Jashub, nome simbólico de um dos filhos de Isaías",
+    "ro": "Shear-Jashub, numele simbolic al unuia dintre fiii lui Isaia",
+    "ru": "Шеар-Иашуб, символическое имя одного из сыновей Исайи",
+    "sk": "Šear-Jašub, symbolické meno jedného z Izaiášových synov",
+    "sl": "Shear-Jasub, simbolno ime enega od Izaijevih sinov",
+    "sv": "Shear-Jashub, det symboliska namnet på en av Jesajas söner",
+    "tr": "Shear-Jashub, Yeşaya'nın oğullarından birinin sembolik adı",
+    "uk": "Шир-Яшуб, символічне ім'я одного з синів Ісаї",
+    "zh": "谢尔-雅书布，以赛亚一个儿子的象征性名字"
+  },
+  "verses": [
+    "isaiah 7:3:10"
+  ]
+}

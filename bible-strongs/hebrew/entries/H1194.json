@@ -1,0 +1,42 @@
+{
+  "number": "H1194",
+  "language": "hebrew",
+  "transliteration": "Bᵉʻôn",
+  "pronunciation": "beh-ohn'",
+  "definition": "Beon, a place East of the Jordan",
+  "kjvTranslation": "Beon.",
+  "translations": {
+    "bg": "Беон, място на изток от Йордан",
+    "cs": "Beon, místo na východ od Jordánu",
+    "da": "Beon, et sted øst for Jordan",
+    "de": "Beon, ein Ort östlich des Jordans",
+    "el": "Beon, ένας τόπος ανατολικά του Ιορδάνη",
+    "es": "Beon, lugar al este del Jordán",
+    "et": "Beon, koht Jordani jõest ida pool",
+    "fi": "Beon, paikka Jordanin itäpuolella",
+    "fr": "Beon, lieu situé à l'est du Jourdain",
+    "hu": "Beon, a Jordántól keletre fekvő hely",
+    "id": "Beon, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Beon, un luogo a est del Giordano",
+    "ja": "ベオン、ヨルダンの東の地",
+    "ko": "요르단 동쪽, 베온",
+    "lt": "Beonas, vietovė į rytus nuo Jordano",
+    "lv": "Beon, vieta uz austrumiem no Jordānas",
+    "nb": "Beon, et sted øst for Jordan",
+    "nl": "Beon, een plaats ten oosten van de Jordaan",
+    "pl": "Beon, miejsce na wschód od Jordanu",
+    "pt": "Beom, um lugar a leste do Jordão",
+    "ro": "Beon, un loc la est de Iordan",
+    "ru": "Беон, место к востоку от Иордана",
+    "sk": "Beon, miesto na východ od Jordánu",
+    "sl": "Beon, kraj vzhodno od Jordana",
+    "sv": "Beon, en plats öster om Jordanfloden",
+    "tr": "Beon, Ürdün'ün doğusunda bir yer",
+    "uk": "Беон, місце на схід від Йордану",
+    "zh": "比昂"
+  },
+  "hebrew": "בְּעֹן",
+  "verses": [
+    "numbers 32:3:8"
+  ]
+}

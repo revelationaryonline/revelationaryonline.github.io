@@ -1,0 +1,42 @@
+{
+  "number": "H2937",
+  "language": "hebrew",
+  "transliteration": "ṭâʻâh",
+  "pronunciation": "taw-aw'",
+  "definition": "to wander; causatively to lead astray",
+  "kjvTranslation": "seduce.",
+  "translations": {
+    "bg": "да се скитам; в причинно-следствено значение да се заблуждавам",
+    "cs": "bloudit; kauzativně svést na scestí",
+    "da": "at vandre; kausativt at føre på afveje",
+    "de": "umherwandern; ursächlich in die Irre führen",
+    "el": "να περιπλανιέμαι- αιτιωδώς να παρασύρω",
+    "es": "errar; causativa de extravío",
+    "et": "hulkuma; põhjuslikult eksima ajada",
+    "fi": "vaeltaa; kausatiivisesti johtaa harhaan",
+    "fr": "errer ; causalement, égarer",
+    "hu": "tévelyegni; ok-okozati úton tévútra vezetni",
+    "id": "mengembara; secara kausal menyebabkan tersesat",
+    "it": "vagare; causalmente condurre fuori strada",
+    "ja": "迷わせる；因果的に迷わせる",
+    "ko": "방황하다, 원인이 되어 길을 잃다",
+    "lt": "klaidžioti; priežastingai klaidžioti",
+    "lv": "klaiņot; cēloņsakarīgi maldīties",
+    "nb": "å vandre; kausativt å føre på avveier",
+    "nl": "afdwalen; causaal op een dwaalspoor brengen",
+    "pl": "błądzić; przyczynowo prowadzić na manowce",
+    "pt": "vaguear; causativamente, desviar",
+    "ro": "a rătăci; cauzativ a rătăci",
+    "ru": "блуждать; каузально - сбивать с пути",
+    "sk": "blúdiť; kauzatívne zblúdiť",
+    "sl": "bloditi; vzročno zabloditi",
+    "sv": "att vandra; orsakssamband att leda vilse",
+    "tr": "dolaşmak; nedensel olarak yoldan çıkarmak",
+    "uk": "блукати; причинно збивати зі шляху",
+    "zh": "徘徊；因果关系上是指误入歧途"
+  },
+  "hebrew": "טָעָה",
+  "verses": [
+    "ezekiel 13:10:2"
+  ]
+}

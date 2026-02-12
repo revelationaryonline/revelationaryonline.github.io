@@ -1,0 +1,42 @@
+{
+  "number": "H7601",
+  "language": "hebrew",
+  "transliteration": "shâʼaç",
+  "pronunciation": "shaw-as'",
+  "definition": "to plunder",
+  "kjvTranslation": "spoil.",
+  "hebrew": "שָׁאַס",
+  "translations": {
+    "bg": "да граби",
+    "cs": "drancovat",
+    "da": "at plyndre",
+    "de": "zu plündern",
+    "el": "να λεηλατήσει",
+    "es": "saquear",
+    "et": "rüüstama",
+    "fi": "ryöstää",
+    "fr": "piller",
+    "hu": "fosztogatni",
+    "id": "untuk menjarah",
+    "it": "saccheggiare",
+    "ja": "略奪する",
+    "ko": "약탈하다",
+    "lt": "plėšti",
+    "lv": "laupīt",
+    "nb": "å plyndre",
+    "nl": "plunderen",
+    "pl": "plądrować",
+    "pt": "saquear",
+    "ro": "să jefuiască",
+    "ru": "грабить",
+    "sk": "plieniť",
+    "sl": "pleniti",
+    "sv": "att plundra",
+    "tr": "yağmalamak için",
+    "uk": "грабувати",
+    "zh": "掠夺"
+  },
+  "verses": [
+    "jeremiah 30:16:10"
+  ]
+}

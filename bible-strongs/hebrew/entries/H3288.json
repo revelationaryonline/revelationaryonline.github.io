@@ -1,0 +1,42 @@
+{
+  "number": "H3288",
+  "language": "hebrew",
+  "transliteration": "yᵉʻâph",
+  "pronunciation": "yeh-awf'",
+  "definition": "fatigue (adverb, utterly exhausted)",
+  "kjvTranslation": "swiftly.e",
+  "translations": {
+    "bg": "fatigue (наречие, напълно изтощен)",
+    "cs": "fatigue (příslovce, zcela vyčerpaný)",
+    "da": "træthed (adverbium, fuldstændig udmattet)",
+    "de": "ermüdung (Adverb, völlig erschöpft)",
+    "el": "fatigue (επίρρημα, εντελώς εξαντλημένος)",
+    "es": "fatiga (adverbio, totalmente agotado)",
+    "et": "väsimus (omadussõna, täiesti kurnatud)",
+    "fi": "fatigue (adverbi, täysin uupunut)",
+    "fr": "fatigue (adverbe, complètement épuisé)",
+    "hu": "fatigue (határozószó, teljesen kimerült)",
+    "id": "kelelahan (kata keterangan, benar-benar kelelahan)",
+    "it": "fatica (avverbio, completamente esaurito)",
+    "ja": "疲労",
+    "ko": "피로(부사, 완전히 지치다)",
+    "lt": "fatigue (prieveiksmis, visiškai išsekęs)",
+    "lv": "fatigue (apstākļa vārds, pilnīgi noguris)",
+    "nb": "utmattelse (adverb, helt utslitt)",
+    "nl": "vermoeidheid (bijwoord, volkomen uitgeput)",
+    "pl": "zmęczenie (przysłówek, całkowicie wyczerpany)",
+    "pt": "fadiga (advérbio, totalmente exausto)",
+    "ro": "oboseală (adverb, complet epuizat)",
+    "ru": "усталость (наречие, полное изнеможение)",
+    "sk": "fatigue (príslovka, úplne vyčerpaný)",
+    "sl": "fatigue (prislov, popolnoma izčrpan)",
+    "sv": "utmattning (adverb, helt utmattad)",
+    "tr": "yorgunluk (zarf, tamamen bitkin)",
+    "uk": "втома (прислівник, повністю виснажений)",
+    "zh": "疲惫"
+  },
+  "hebrew": "יְעָף",
+  "verses": [
+    "daniel 9:21:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2769",
+  "language": "hebrew",
+  "transliteration": "Chermôwnîym",
+  "pronunciation": "kher-mo-neem'",
+  "definition": "Hermons, i.e. its peaks",
+  "kjvTranslation": "the Hermonites.",
+  "translations": {
+    "bg": "Хермон, т.е. върховете му",
+    "cs": "Hermony, tj. jeho vrcholy",
+    "da": "Hermons, dvs. dens toppe",
+    "de": "Hermons, d.h. seine Gipfel",
+    "el": "Hermons, δηλαδή οι κορυφές του",
+    "es": "Hermons, es decir, sus picos",
+    "et": "Hermonid, st selle tipud",
+    "fi": "Hermons, eli sen huiput",
+    "fr": "Hermons, c'est-à-dire ses sommets",
+    "hu": "Hermons, azaz a csúcsok",
+    "id": "Hermon, yaitu puncak-puncaknya",
+    "it": "Hermons, cioè le sue cime",
+    "ja": "ヘルモンズ、すなわちその峰々",
+    "ko": "헤르몬, 즉 그 봉우리",
+    "lt": "Hermonai, t. y. jo viršūnės",
+    "lv": "Hermons, t. i., tā virsotnes",
+    "nb": "Hermons, dvs. dens topper",
+    "nl": "Hermons, d.w.z. de pieken",
+    "pl": "Hermony, tj. jego szczyty",
+    "pt": "Hermons, ou seja, os seus picos",
+    "ro": "Hermons, și anume vârfurile sale",
+    "ru": "Гермоны, т.е. его вершины",
+    "sk": "Hermonov, t. j. jeho vrcholov",
+    "sl": "Hermons, tj. njegovi vrhovi",
+    "sv": "Hermons, dvs. dess toppar",
+    "tr": "Hermons, yani zirveleri",
+    "uk": "Гермони, тобто його вершини",
+    "zh": "赫尔蒙斯，即它的山峰"
+  },
+  "hebrew": "חֶרְמוֹנִים",
+  "verses": [
+    "psalms 42:7:9"
+  ]
+}

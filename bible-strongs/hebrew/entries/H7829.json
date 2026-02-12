@@ -1,0 +1,43 @@
+{
+  "number": "H7829",
+  "language": "hebrew",
+  "transliteration": "shachepheth",
+  "pronunciation": "shakh-eh'-feth",
+  "definition": "emaciation",
+  "kjvTranslation": "consumption.",
+  "hebrew": "שַׁחֶפֶת",
+  "translations": {
+    "bg": "измършавяване",
+    "cs": "vyhublost",
+    "da": "afmagring",
+    "de": "auszehrung",
+    "el": "εξάντληση",
+    "es": "emaciación",
+    "et": "väljasuremine",
+    "fi": "laihtuminen",
+    "fr": "émaciation",
+    "hu": "fogyás",
+    "id": "kekurusan",
+    "it": "cachessia",
+    "ja": "やつれ",
+    "ko": "emaciation",
+    "lt": "išsekimas",
+    "lv": "iztukšošana",
+    "nb": "avmagring",
+    "nl": "vermagering",
+    "pl": "wychudzenie",
+    "pt": "emaciação",
+    "ro": "emaciere",
+    "ru": "истощение",
+    "sk": "vychudnutie",
+    "sl": "izčrpanost",
+    "sv": "avmagring",
+    "tr": "zayıflama",
+    "uk": "виснаження",
+    "zh": "消瘦"
+  },
+  "verses": [
+    "leviticus 26:16:9",
+    "deuteronomy 28:22:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2515",
+  "language": "hebrew",
+  "transliteration": "chăluqqâh",
+  "pronunciation": "khal-ook-kaw'",
+  "definition": "a distribution",
+  "kjvTranslation": "division.",
+  "translations": {
+    "bg": "разпределение",
+    "cs": "rozdělení",
+    "da": "en fordeling",
+    "de": "eine Verteilung",
+    "el": "μια κατανομή",
+    "es": "una distribución",
+    "et": "jaotus",
+    "fi": "jakelu",
+    "fr": "une répartition",
+    "hu": "a megoszlás",
+    "id": "distribusi",
+    "it": "a distribuzione",
+    "ja": "分配",
+    "ko": "배포",
+    "lt": "a paskirstymas",
+    "lv": "a sadale",
+    "nb": "en utdeling",
+    "nl": "een verdeling",
+    "pl": "dystrybucja",
+    "pt": "a distribuição",
+    "ro": "o distribuție",
+    "ru": "распределение",
+    "sk": "rozdelenie",
+    "sl": "razdelitev",
+    "sv": "en utdelning",
+    "tr": "bir dağıtım",
+    "uk": "розподіл",
+    "zh": "分配"
+  },
+  "hebrew": "חֲלֻקָּה",
+  "verses": [
+    "secondChronicles 35:5:8"
+  ]
+}

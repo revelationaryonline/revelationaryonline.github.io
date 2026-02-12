@@ -1,0 +1,43 @@
+{
+  "number": "H7769",
+  "language": "hebrew",
+  "transliteration": "shûwaʻ",
+  "pronunciation": "shoo'-ah",
+  "definition": "a halloo",
+  "kjvTranslation": "cry, riches.",
+  "hebrew": "שׁוּעַ",
+  "translations": {
+    "bg": "халоу",
+    "cs": "haló",
+    "da": "et halloo",
+    "de": "ein Warnsignal",
+    "el": "ένα halloo",
+    "es": "un halloo",
+    "et": "halloo",
+    "fi": "halloo",
+    "fr": "un halo",
+    "hu": "egy halloo",
+    "id": "a halloo",
+    "it": "un halloo",
+    "ja": "ホールー",
+    "ko": "할루",
+    "lt": "halloo",
+    "lv": "halloo",
+    "nb": "et halloo",
+    "nl": "een halloo",
+    "pl": "halloo",
+    "pt": "um alvoroço",
+    "ro": "un halloo",
+    "ru": "приветствие",
+    "sk": "haló",
+    "sl": "haloo",
+    "sv": "en hallå",
+    "tr": "bir halloo",
+    "uk": "привітання",
+    "zh": "呼"
+  },
+  "verses": [
+    "job 30:24:8",
+    "job 36:19:1"
+  ]
+}

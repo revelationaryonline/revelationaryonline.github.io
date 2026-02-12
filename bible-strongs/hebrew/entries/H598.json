@@ -1,0 +1,42 @@
+{
+  "number": "H598",
+  "language": "hebrew",
+  "transliteration": "ʼănaç",
+  "pronunciation": "an-as'",
+  "definition": "figuratively, to distress",
+  "kjvTranslation": "trouble.",
+  "translations": {
+    "bg": "в преносен смисъл, да се притеснява",
+    "cs": "v přeneseném významu, trápit",
+    "da": "i overført betydning, at gøre ondt",
+    "de": "im übertragenen Sinne, zu verzweifeln",
+    "el": "μεταφορικά, να στενοχωριέμαι",
+    "es": "en sentido figurado, angustiar",
+    "et": "piltlikult öeldes, häda",
+    "fi": "kuvaannollisesti, ahdistaa",
+    "fr": "au sens figuré, de la détresse",
+    "hu": "átvitt értelemben, szorongatni",
+    "id": "secara kiasan, untuk menyusahkan",
+    "it": "in senso figurato, affliggere",
+    "ja": "比喩的に",
+    "ko": "비유적으로, 괴롭히다",
+    "lt": "perkeltine prasme - varginti",
+    "lv": "pārnestā nozīmē - apgrūtināt",
+    "nb": "i overført betydning, å plage",
+    "nl": "figuurlijk, leed veroorzaken",
+    "pl": "w przenośni, niepokoić",
+    "pt": "em sentido figurado, angustiar",
+    "ro": "la figurat, a suferi",
+    "ru": "фигурально выражаясь, бедствовать",
+    "sk": "v prenesenom význame, trápiť",
+    "sl": "v prenesenem pomenu, v stiski",
+    "sv": "bildligt talat, att bedröva",
+    "tr": "mecazi olarak, sıkıntı vermek",
+    "uk": "образно кажучи, до лиха",
+    "zh": "讨扰"
+  },
+  "hebrew": "אֲנַס",
+  "verses": [
+    "daniel 4:6:14"
+  ]
+}

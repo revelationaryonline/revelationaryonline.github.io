@@ -1,0 +1,42 @@
+{
+  "number": "H6392",
+  "language": "hebrew",
+  "transliteration": "pᵉluggâh",
+  "pronunciation": "pel-oog-gaw'",
+  "definition": "{a section}",
+  "kjvTranslation": "division.",
+  "hebrew": "פְּלֻגָּה",
+  "translations": {
+    "bg": "{секция}",
+    "cs": "{oddíl}",
+    "da": "{Et afsnit}",
+    "de": "{ein Abschnitt}",
+    "el": "{ένα τμήμα}",
+    "es": "{una sección}",
+    "et": "{lõikamine}",
+    "fi": "{a section}",
+    "fr": "{une section}",
+    "hu": "{a section}",
+    "id": "[bagian]",
+    "it": "{una sezione}",
+    "ja": "{セクション｝",
+    "ko": "{섹션}",
+    "lt": "{skyrius}",
+    "lv": "{daļa}",
+    "nb": "{en seksjon}",
+    "nl": "{een gedeelte}",
+    "pl": "{sekcja}",
+    "pt": "{Uma secção}",
+    "ro": "{o secțiune}",
+    "ru": "{раздел}",
+    "sk": "{sekcia}",
+    "sl": "{razdelek}",
+    "sv": "{En del}",
+    "tr": "{bir bölüm}",
+    "uk": "{розділ}",
+    "zh": "{一节｝"
+  },
+  "verses": [
+    "ezra 6:18:2"
+  ]
+}

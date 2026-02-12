@@ -1,0 +1,42 @@
+{
+  "number": "H6375",
+  "language": "hebrew",
+  "transliteration": "pîyq",
+  "pronunciation": "peek",
+  "definition": "a tottering",
+  "kjvTranslation": "smite together.",
+  "hebrew": "פִּיק",
+  "translations": {
+    "bg": "колеблив",
+    "cs": "kolísavý",
+    "da": "en vaklende",
+    "de": "ein Wackelkandidat",
+    "el": "ένα παραπαίον",
+    "es": "un tambaleante",
+    "et": "kõhklev",
+    "fi": "horjuva",
+    "fr": "un titubant",
+    "hu": "egy tántorgó",
+    "id": "sebuah goyangan",
+    "it": "un barcollante",
+    "ja": "よろよろ",
+    "ko": "흔들리는",
+    "lt": "svyruojanti",
+    "lv": "un klibošana",
+    "nb": "en vaklende",
+    "nl": "een wankelende",
+    "pl": "chwiejny",
+    "pt": "um cambaleante",
+    "ro": "o clătinare",
+    "ru": "шатающийся",
+    "sk": "chvejúci sa",
+    "sl": "omahovanje",
+    "sv": "en vacklande",
+    "tr": "bir yalpalama",
+    "uk": "хитається",
+    "zh": "摇摇欲坠"
+  },
+  "verses": [
+    "nahum 2:11:5"
+  ]
+}

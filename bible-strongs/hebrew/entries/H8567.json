@@ -1,0 +1,43 @@
+{
+  "number": "H8567",
+  "language": "hebrew",
+  "transliteration": "tânâh",
+  "pronunciation": "taw-naw'",
+  "definition": "to ascribe (praise), i.e. celebrate, commemorate",
+  "kjvTranslation": "lament, rehearse.",
+  "hebrew": "תָּנָה",
+  "translations": {
+    "bg": "да приписвам (възхвала), т.е. да празнувам, да отбелязвам",
+    "cs": "připisovat (chválu), tj. oslavovat, připomínat",
+    "da": "at tilskrive (lovprise), dvs. fejre, mindes",
+    "de": "zuschreiben (loben), d.h. feiern, gedenken",
+    "el": "αποδίδω (εγκωμιάζω), δηλαδή γιορτάζω, μνημονεύω",
+    "es": "atribuir (alabar), es decir, celebrar, conmemorar",
+    "et": "omistada (kiita), s.t. tähistada, mälestada",
+    "fi": "omistaa (ylistää), eli juhlia, muistella",
+    "fr": "attribuer (louer), c'est-à-dire célébrer, commémorer",
+    "hu": "dicsérni (dicsérni), azaz ünnepelni, megemlékezni",
+    "id": "to ascribe (memuji), yaitu merayakan, memperingati",
+    "it": "attribuire (lodare), cioè celebrare, commemorare",
+    "ja": "称える、すなわち祝う、記念する",
+    "ko": "귀속(칭찬), 즉 축하, 기념하다",
+    "lt": "priskirti (šlovinti), t. y. švęsti, minėti",
+    "lv": "slavēt (slavēt), t.i., svinēt, pieminēt",
+    "nb": "å tillegge (lovprise), dvs. feire, minnes",
+    "nl": "toeschrijven (loven), d.w.z. vieren, herdenken",
+    "pl": "przypisywać (chwalić), tj. świętować, upamiętniać",
+    "pt": "atribuir (louvar), ou seja, celebrar, comemorar",
+    "ro": "a atribui (lăuda), adică a sărbători, a comemora",
+    "ru": "приписывать (восхвалять), т.е. праздновать, отмечать",
+    "sk": "pripísať (chválu), t. j. oslavovať, pripomínať",
+    "sl": "pripisati (pohvaliti), tj. praznovati, obeležiti",
+    "sv": "att tillskriva (berömma), dvs. fira, minnas",
+    "tr": "atfetmek (övmek), yani kutlamak, anmak",
+    "uk": "приписувати (прославляти), тобто святкувати, вшановувати",
+    "zh": "归功，即庆祝、纪念"
+  },
+  "verses": [
+    "judges 5:11:5",
+    "judges 11:40:5"
+  ]
+}

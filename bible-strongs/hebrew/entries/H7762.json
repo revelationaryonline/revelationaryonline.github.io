@@ -1,0 +1,42 @@
+{
+  "number": "H7762",
+  "language": "hebrew",
+  "transliteration": "shûwm",
+  "pronunciation": "shoom",
+  "definition": "garlic (from its rank odor)",
+  "kjvTranslation": "garlic.",
+  "hebrew": "שׁוּם",
+  "translations": {
+    "bg": "чесън (заради неприятната му миризма)",
+    "cs": "česnek (kvůli jeho zápachu)",
+    "da": "hvidløg (på grund af den grimme lugt)",
+    "de": "knoblauch (wegen seines strengen Geruchs)",
+    "el": "σκόρδο (από την άσχημη οσμή του)",
+    "es": "ajo (por su olor rancio)",
+    "et": "küüslauk (selle haisu tõttu)",
+    "fi": "valkosipuli (sen voimakkaan hajun vuoksi)",
+    "fr": "l'ail (en raison de son odeur nauséabonde)",
+    "hu": "fokhagyma (a büdös szagától)",
+    "id": "bawang putih (dari baunya yang khas)",
+    "it": "aglio (per il suo odore sgradevole)",
+    "ja": "葫",
+    "ko": "마늘 (계급 냄새에서)",
+    "lt": "česnakai (nuo jų sklinda stiprus kvapas)",
+    "lv": "ķiploki (pēc to smaržas)",
+    "nb": "hvitløk (på grunn av den sterke lukten)",
+    "nl": "knoflook (vanwege de onaangename geur)",
+    "pl": "czosnek (od jego ostrego zapachu)",
+    "pt": "alho (pelo seu odor desagradável)",
+    "ro": "usturoi (de la mirosul său puternic)",
+    "ru": "чеснок (из-за его резкого запаха)",
+    "sk": "cesnak (podľa zápachu)",
+    "sl": "česen (zaradi njegovega vonja)",
+    "sv": "vitlök (från dess starka lukt)",
+    "tr": "sarımsak (kötü kokusundan)",
+    "uk": "часник (через його запах)",
+    "zh": "大蒜"
+  },
+  "verses": [
+    "numbers 11:5:16"
+  ]
+}

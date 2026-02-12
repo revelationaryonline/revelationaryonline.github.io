@@ -1,0 +1,43 @@
+{
+  "number": "H2265",
+  "language": "hebrew",
+  "transliteration": "Chăbaqqûwq",
+  "pronunciation": "khab-ak-kook'",
+  "definition": "Chabakkuk, the prophet",
+  "kjvTranslation": "Habakkuk.",
+  "translations": {
+    "bg": "Пророк Хавакум",
+    "cs": "Chabakuk, prorok",
+    "da": "Profeten Chabakkuk",
+    "de": "Chabakkuk, der Prophet",
+    "el": "Χαβακούκ, ο προφήτης",
+    "es": "Chabakkuk, el profeta",
+    "et": "Prohvet Chabakuk",
+    "fi": "Profeetta Habakuk",
+    "fr": "Chabakkuk, le prophète",
+    "hu": "Chabakkuk, a próféta",
+    "id": "Chabakkuk, sang nabi",
+    "it": "Chabakkuk, il profeta",
+    "ja": "預言者チャバクク",
+    "ko": "예언자 차박국",
+    "lt": "Pranašas Chabakukas",
+    "lv": "Pravietis Habakuks",
+    "nb": "Profeten Chabakkuk",
+    "nl": "Chabakkuk, de profeet",
+    "pl": "Chabakkuk, prorok",
+    "pt": "Chabakkuk, o profeta",
+    "ro": "Chabakkuk, profetul",
+    "ru": "Хабаккук, пророк",
+    "sk": "Chabakuk, prorok",
+    "sl": "Chabakuk, prerok",
+    "sv": "Profeten Chabakkuk",
+    "tr": "Peygamber Chabakkuk",
+    "uk": "Хабаккук, пророк",
+    "zh": "先知查巴古克"
+  },
+  "hebrew": "חֲבַקּוּק",
+  "verses": [
+    "habakkuk 1:1:3",
+    "habakkuk 3:1:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8619",
+  "language": "hebrew",
+  "transliteration": "tâqôwaʻ",
+  "pronunciation": "taw-ko'-ah",
+  "definition": "a trumpet",
+  "kjvTranslation": "trumpet.",
+  "hebrew": "תָּקוֹעַ",
+  "translations": {
+    "bg": "тромпет",
+    "cs": "trubku",
+    "da": "en trompet",
+    "de": "eine Trompete",
+    "el": "μια τρομπέτα",
+    "es": "una trompeta",
+    "et": "trompet",
+    "fi": "trumpetti",
+    "fr": "une trompette",
+    "hu": "egy trombita",
+    "id": "terompet",
+    "it": "una tromba",
+    "ja": "トランペット",
+    "ko": "트럼펫",
+    "lt": "trimitas",
+    "lv": "trompete",
+    "nb": "en trompet",
+    "nl": "een trompet",
+    "pl": "trąbka",
+    "pt": "um trompete",
+    "ro": "o trompetă",
+    "ru": "труба",
+    "sk": "trúbka",
+    "sl": "trobenta",
+    "sv": "en trumpet",
+    "tr": "bir trompet",
+    "uk": "труба",
+    "zh": "喇叭"
+  },
+  "verses": [
+    "ezekiel 7:14:1"
+  ]
+}

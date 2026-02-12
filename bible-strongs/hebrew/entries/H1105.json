@@ -1,0 +1,43 @@
+{
+  "number": "H1105",
+  "language": "hebrew",
+  "transliteration": "belaʻ",
+  "pronunciation": "beh'-lah",
+  "definition": "a gulp; figuratively, destruction",
+  "kjvTranslation": "devouring, that which he hath swallowed up.",
+  "translations": {
+    "bg": "глътка; в преносен смисъл - унищожение",
+    "cs": "hlt; přeneseně zničení",
+    "da": "en slurk; i overført betydning, ødelæggelse",
+    "de": "ein Schluck; im übertragenen Sinne: Zerstörung",
+    "el": "μια γουλιά- μεταφορικά, καταστροφή",
+    "es": "un trago; en sentido figurado, destrucción",
+    "et": "gulp; piltlikult öeldes, hävitamine",
+    "fi": "gulp; kuvaannollisesti tuhoaminen",
+    "fr": "une bouchée ; au sens figuré, la destruction",
+    "hu": "egy korty; átvitt értelemben a pusztítás",
+    "id": "tegukan; secara kiasan, kehancuran",
+    "it": "un sorso; in senso figurato, la distruzione",
+    "ja": "一気飲み；比喩的には破壊",
+    "ko": "꿀꺽 삼키다; 비유적으로, 파괴",
+    "lt": "gurkšnis; perkeltine prasme - sunaikinimas",
+    "lv": "gremdēšana; pārnestā nozīmē - iznīcināšana",
+    "nb": "en slurk; i overført betydning, ødeleggelse",
+    "nl": "een slok; figuurlijk, vernietiging",
+    "pl": "łyk; w przenośni zniszczenie",
+    "pt": "um gole; figurativamente, destruição",
+    "ro": "o înghițitură; la figurat, distrugere",
+    "ru": "глоток; фигурально выражаясь, разрушение",
+    "sk": "hlt; v prenesenom význame zničenie",
+    "sl": "požirek; v prenesenem pomenu uničenje",
+    "sv": "en slurk; bildligt talat, förstörelse",
+    "tr": "bir yudum; mecazi olarak, yıkım",
+    "uk": "ковток; образно - знищення",
+    "zh": "大破大立"
+  },
+  "hebrew": "בֶּלַע",
+  "verses": [
+    "psalms 52:6:3",
+    "jeremiah 51:44:6"
+  ]
+}

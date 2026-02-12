@@ -1,0 +1,42 @@
+{
+  "number": "H1465",
+  "language": "hebrew",
+  "transliteration": "gêvâh",
+  "pronunciation": "gay-vaw'",
+  "definition": "the back, i.e. (by extensive) the person",
+  "kjvTranslation": "body.",
+  "translations": {
+    "bg": "на гърба, т.е. (по обширен начин) на лицето",
+    "cs": "záda, tj. (extenzivně) osoba",
+    "da": "ryggen, dvs. (i udstrakt grad) personen",
+    "de": "den Rücken, d.h. (weitgehend) die Person",
+    "el": "την πλάτη, δηλαδή (εκτενώς) το πρόσωπο",
+    "es": "la espalda, es decir (por extenso) la persona",
+    "et": "selja, st (ulatusliku) isiku poolt",
+    "fi": "selkä, eli (laaja-alaisesti) henkilö",
+    "fr": "le dos, c'est-à-dire (par extension) la personne",
+    "hu": "a hátsó, azaz (kiterjedt) a személyt",
+    "id": "bagian belakang, yaitu (secara luas) orang tersebut",
+    "it": "la schiena, cioè (per esteso) la persona",
+    "ja": "背中、つまり（広範に）人",
+    "ko": "등, 즉 (광범위하게) 그 사람",
+    "lt": "nugaros, t. y. (plačiu mastu) asmens",
+    "lv": "muguras, t. i., (ar plašu) personu",
+    "nb": "ryggen, dvs. (i utstrakt grad) personen",
+    "nl": "de rug, d.w.z. (uitgebreid) de persoon",
+    "pl": "plecy, tj. (poprzez rozległość) osoba",
+    "pt": "as costas, ou seja, (por extenso) a pessoa",
+    "ro": "spatele, adică (prin extensie) persoana",
+    "ru": "спина, т.е. (по обширности) человек",
+    "sk": "chrbát, t. j. (extenzívne) osoba",
+    "sl": "na hrbtu, tj. (ekstenzivno) na osebi",
+    "sv": "baksidan, dvs. (av omfattande) personen",
+    "tr": "sırt, yani (kapsamlı olarak) kişi",
+    "uk": "спину, тобто (екстенсивно) людину",
+    "zh": "背面，即（广泛地）该人"
+  },
+  "hebrew": "גֵּוָה",
+  "verses": [
+    "job 20:25:2"
+  ]
+}

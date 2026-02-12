@@ -1,0 +1,43 @@
+{
+  "number": "H7106",
+  "language": "hebrew",
+  "transliteration": "qâtsaʻ",
+  "pronunciation": "kaw-tsah'",
+  "definition": "to strip off, i.e. (partially) scrape; by implication, to segregate (as an angle)",
+  "kjvTranslation": "cause to scrape, corner.",
+  "hebrew": "קָצַע",
+  "translations": {
+    "bg": "да се отстрани, т.е. (частично) да се остърже; по подразбиране да се отдели (като ъгъл)",
+    "cs": "oddělit, tj. (částečně) seškrábat; implicitně oddělit (jako úhel)",
+    "da": "at afklæde, dvs. (delvist) skrabe; underforstået at adskille (som en vinkel)",
+    "de": "abstreifen, d.h. (teilweise) abkratzen; implizit: abtrennen (als Winkel)",
+    "el": "απογυμνώνω, δηλ. (μερικώς) ξύνω- με συνέπεια, διαχωρίζω (ως γωνία)",
+    "es": "despojar, es decir, raspar (parcialmente); implícitamente, segregar (como un ángulo)",
+    "et": "eemaldama, st (osaliselt) maha kraapima; kaudselt eraldama (kui nurk)",
+    "fi": "irrottaa, eli (osittain) raaputtaa; implisiittisesti erottaa (kulmana)",
+    "fr": "décaper, c'est-à-dire gratter (partiellement) ; par implication, séparer (en tant qu'angle)",
+    "hu": "lecsupaszítani, azaz (részben) lekaparni; értelemszerűen elkülöníteni (mint szöget)",
+    "id": "to strip off, yaitu mengikis (sebagian); dengan implikasi, memisahkan (sebagai sudut)",
+    "it": "togliere, cioè (parzialmente) raschiare; per implicazione, segregare (come un angolo)",
+    "ja": "を剥がす、つまり（部分的に）削る；暗に、（角度として）分離する",
+    "ko": "벗겨내다, 즉 (부분적으로) 긁어내다; 암시적으로 (각도로) 분리하다",
+    "lt": "nuimti, t. y. (iš dalies) nusklembti; netiesiogiai - atskirti (kaip kampą)",
+    "lv": "atdalīt, t.i., (daļēji) noskrāpēt; netieši - atdalīt (kā leņķi)",
+    "nb": "å stripe av, dvs. (delvis) skrape; underforstått, å skille ut (som en vinkel)",
+    "nl": "strippen, d.w.z. (gedeeltelijk) afschrapen; impliciet, scheiden (als een hoek)",
+    "pl": "zdjąć, tj. (częściowo) zeskrobać; w domyśle, posegregować (jako kąt)",
+    "pt": "desnudar, ou seja, raspar (parcialmente); implicitamente, segregar (como um ângulo)",
+    "ro": "a desprinde, adică a răzui (parțial); implicit, a separa (ca un unghi)",
+    "ru": "снять, т.е. (частично) соскоблить; по косвенным признакам, отделить (как угол)",
+    "sk": "oddeliť, t. j. (čiastočne) zoškrabať; implicitne oddeliť (ako uhol)",
+    "sl": "odstraniti, tj. (delno) strgati; implicitno ločiti (kot kot)",
+    "sv": "att skala av, dvs. (delvis) skrapa; underförstått, att segregera (som en vinkel)",
+    "tr": "soymak, yani (kısmen) kazımak; ima yoluyla, ayırmak (bir açı olarak)",
+    "uk": "зачищати, тобто (частково) вишкрібати; за змістом, відокремлювати (як кут)",
+    "zh": "剥离，即（部分）刮除；暗指分离（作为角度）"
+  },
+  "verses": [
+    "leviticus 14:41:2",
+    "ezekiel 46:22:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4879",
+  "language": "hebrew",
+  "transliteration": "mᵉshûwgâh",
+  "pronunciation": "mesh-oo-gaw'",
+  "definition": "mistake",
+  "kjvTranslation": "error.",
+  "hebrew": "מְשׁוּגָה",
+  "translations": {
+    "bg": "грешка",
+    "cs": "chyba",
+    "da": "fejltagelse",
+    "de": "fehler",
+    "el": "λάθος",
+    "es": "error",
+    "et": "viga",
+    "fi": "virhe",
+    "fr": "erreur",
+    "hu": "hiba",
+    "id": "kesalahan",
+    "it": "errore",
+    "ja": "間違い",
+    "ko": "실수",
+    "lt": "klaida",
+    "lv": "kļūda",
+    "nb": "feil",
+    "nl": "fout",
+    "pl": "błąd",
+    "pt": "erro",
+    "ro": "greșeală",
+    "ru": "ошибка",
+    "sk": "chyba",
+    "sl": "napaka",
+    "sv": "misstag",
+    "tr": "hata",
+    "uk": "помилка",
+    "zh": "出错"
+  },
+  "verses": [
+    "job 19:4:5"
+  ]
+}

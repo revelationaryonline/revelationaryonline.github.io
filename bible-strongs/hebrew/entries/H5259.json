@@ -1,0 +1,42 @@
+{
+  "number": "H5259",
+  "language": "hebrew",
+  "transliteration": "nâçak",
+  "pronunciation": "naw-sak'",
+  "definition": "to interweave, i.e. (figuratively) to overspread",
+  "kjvTranslation": "that is spread.",
+  "hebrew": "נָסַךְ",
+  "translations": {
+    "bg": "да се преплита, т.е. (в преносен смисъл) да се разпространява",
+    "cs": "proplétat, tj. (přeneseně) překrývat",
+    "da": "at væve sig ind i hinanden, dvs. (i overført betydning) at sprede sig",
+    "de": "verweben, d.h. (bildlich) ausbreiten",
+    "el": "συνυφαίνω, δηλαδή (μεταφορικά) διαδίδω",
+    "es": "entrelazar, es decir (en sentido figurado) extender",
+    "et": "põimida, s.t. (piltlikult öeldes) laialipillutada",
+    "fi": "kietoutua toisiinsa, eli (kuvaannollisesti) levitä yli",
+    "fr": "s'entrecroiser, c'est-à-dire (au sens figuré) se répandre",
+    "hu": "összefonódni, azaz (átvitt értelemben) szétterülni",
+    "id": "untuk menjalin, yaitu (secara kiasan) untuk menyebar secara berlebihan",
+    "it": "intrecciare, cioè (in senso figurato) spalmare",
+    "ja": "織り込む、つまり（比喩的に）広げる",
+    "ko": "얽히다, 즉 (비유적으로) 퍼지다를 뜻합니다",
+    "lt": "persipinti, t. y. (perkeltine prasme) persidengti",
+    "lv": "pārplūst, t.i., pārklāt, pārklāt (pārnestā nozīmē)",
+    "nb": "å flette seg inn i hverandre, dvs. (i overført betydning) å spre seg utover",
+    "nl": "verweven, d.w.z. (figuurlijk) overspreiden",
+    "pl": "przeplatać się, tj. (w przenośni) rozprzestrzeniać się",
+    "pt": "entrelaçar, isto é, (figurativamente) espalhar",
+    "ro": "a se împleti, adică (la figurat) a se răspândi",
+    "ru": "переплетаться, т.е. (фигурально) распространяться",
+    "sk": "prelínať, t. j. (obrazne) prekrývať",
+    "sl": "prepletati, tj. (v prenesenem pomenu) razširiti",
+    "sv": "att väva samman, dvs. (bildligt talat) att breda ut sig",
+    "tr": "iç içe geçmek, yani (mecazi olarak) aşırı yayılmak",
+    "uk": "переплітатися, тобто (образно) поширюватися",
+    "zh": "交织，即（比喻）纵横交错"
+  },
+  "verses": [
+    "isaiah 25:7:10"
+  ]
+}

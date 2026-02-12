@@ -1,0 +1,42 @@
+{
+  "number": "H63",
+  "language": "hebrew",
+  "transliteration": "ʼÂbêl hash-Shiṭṭîym",
+  "pronunciation": "aw-bale' hash-shit-teem'",
+  "definition": "Abel hash-Shittim, a place in Palestine",
+  "kjvTranslation": "Abelshittim.",
+  "translations": {
+    "bg": "Авел Хаш-Шитим, място в Палестина",
+    "cs": "Abel haš-Šittim, místo v Palestině",
+    "da": "Abel hash-Shittim, et sted i Palæstina",
+    "de": "Abel hash-Shittim, ein Ort in Palästina",
+    "el": "Άβελ Χασ-Σιττίμ, τόπος στην Παλαιστίνη",
+    "es": "Abel hash-Shittim, un lugar en Palestina",
+    "et": "Abel hash-Shittim, koht Palestiinas",
+    "fi": "Abel hash-Shittim, paikka Palestiinassa",
+    "fr": "Abel hash-Shittim, lieu en Palestine",
+    "hu": "Ábel Hás-Szittim, egy hely Palesztinában",
+    "id": "Abel hash-Shittim, sebuah tempat di Palestina",
+    "it": "Abel hash-Shittim, località della Palestina",
+    "ja": "アベル・ハッシュ・シッティム（パレスチナの地名",
+    "ko": "팔레스타인의 아벨 해시-시팀, 팔레스타인의 한 장소",
+    "lt": "Abelis Haš-Šitimas, vietovė Palestinoje",
+    "lv": "Abel hash-Shittim, vieta Palestīnā",
+    "nb": "Abel hasj-Shittim, et sted i Palestina",
+    "nl": "Abel hasj-Sjittim, een plaats in Palestina",
+    "pl": "Abel Hasz-Szittim, miejsce w Palestynie",
+    "pt": "Abel hash-Shittim, um lugar na Palestina",
+    "ro": "Abel hash-Shittim, un loc în Palestina",
+    "ru": "Авель ха-Шиттим, место в Палестине",
+    "sk": "Abel Haš-Šittim, miesto v Palestíne",
+    "sl": "Abel hash-Shittim, kraj v Palestini",
+    "sv": "Abel hash-Shittim, en plats i Palestina",
+    "tr": "Abel Haş-Şittim, Filistin'de bir yer",
+    "uk": "Абель Хаш-Шіттім, місце в Палестині",
+    "zh": "亚伯示剑"
+  },
+  "hebrew": "אָבֵל הַשִּׁטִּים",
+  "verses": [
+    "numbers 33:49:7"
+  ]
+}

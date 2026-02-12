@@ -1,0 +1,42 @@
+{
+  "number": "H4704",
+  "language": "hebrew",
+  "transliteration": "mitstsᵉʻîyrâh",
+  "pronunciation": "mits-tseh-ee-raw'",
+  "definition": "properly, littleness; concretely, diminutive",
+  "kjvTranslation": "little.",
+  "hebrew": "מִצְּעִירָה",
+  "translations": {
+    "bg": "правилно - дребнавост; конкретно - умалително",
+    "cs": "správně, malost; konkrétně, zdrobnělina",
+    "da": "korrekt, lillehed; konkret, diminutiv",
+    "de": "richtig, Kleinheit; konkret, Verkleinerung",
+    "el": "σωστά, μικρότητα- συγκεκριμένα, μειωτικό",
+    "es": "propiamente, pequeñez; concretamente, diminutivo",
+    "et": "õigesti, väiksus; konkreetselt, diminutiivne",
+    "fi": "oikein, pienuus; konkreettisesti, diminutiivinen",
+    "fr": "proprement dit, la petitesse ; concrètement, la diminution",
+    "hu": "megfelelően, kicsinység; konkrétan, kicsinyítés",
+    "id": "benar, kecil; secara konkret, kecil",
+    "it": "propriamente, piccolezza; concretamente, diminutivo",
+    "ja": "具体的には、小さい。",
+    "ko": "적절하게, 작음; 구체적으로, 작음",
+    "lt": "tinkamai - mažumas; konkrečiai - mažybinis",
+    "lv": "pareizi, mazs; konkrēti, maznozīmīgs",
+    "nb": "egentlig, litenhet; konkret, diminutiv",
+    "nl": "naar behoren, kleinheid; concreet, verkleinwoord",
+    "pl": "właściwie, małość; konkretnie, zdrobnienie",
+    "pt": "propriamente, pequenez; concretamente, diminutivo",
+    "ro": "propriu-zis, micime; concret, diminutiv",
+    "ru": "правильно, малость; конкретно, уменьшительно-ласкательно",
+    "sk": "správne, maličkosť; konkrétne, zdrobnenina",
+    "sl": "pravilno, majhnost; konkretno, pomanjševalnica",
+    "sv": "korrekt, litenhet; konkret, diminutiv",
+    "tr": "uygun olarak, küçüklük; somut olarak, küçültme",
+    "uk": "власне, малість; конкретно, зменшувально-пестливий",
+    "zh": "本义：小；具体指渺小"
+  },
+  "verses": [
+    "daniel 8:9:6"
+  ]
+}

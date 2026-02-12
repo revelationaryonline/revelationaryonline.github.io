@@ -1,0 +1,42 @@
+{
+  "number": "H1072",
+  "language": "hebrew",
+  "transliteration": "bikrâh",
+  "pronunciation": "bik-raw'",
+  "definition": "a young she-camel",
+  "kjvTranslation": "dromedary.",
+  "translations": {
+    "bg": "млада камила",
+    "cs": "mladá velbloudice",
+    "da": "en ung hun-kamel",
+    "de": "eine junge Kameliendame",
+    "el": "μια νεαρή καμήλα",
+    "es": "una joven camella",
+    "et": "noor emane-kamell",
+    "fi": "nuori naaraspuolinen kameli",
+    "fr": "une jeune chamelle",
+    "hu": "egy fiatal nőstény teve",
+    "id": "seekor unta betina muda",
+    "it": "una giovane cammella",
+    "ja": "若い雌ラクダ",
+    "ko": "어린 암낙타",
+    "lt": "jauna kumelė",
+    "lv": "jauna kamiele",
+    "nb": "en ung hun-kamel",
+    "nl": "een jonge kameel",
+    "pl": "młoda wielbłądzica",
+    "pt": "uma jovem camela",
+    "ro": "o tânără cămilă",
+    "ru": "молодая верблюдица",
+    "sk": "mladá ťava",
+    "sl": "mlada kamela",
+    "sv": "en ung honkamel",
+    "tr": "genç bir dişi deve",
+    "uk": "молода верблюдиця",
+    "zh": "小牝牛"
+  },
+  "hebrew": "בִּכְרָה",
+  "verses": [
+    "jeremiah 2:23:14"
+  ]
+}

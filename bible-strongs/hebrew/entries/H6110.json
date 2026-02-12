@@ -1,0 +1,42 @@
+{
+  "number": "H6110",
+  "language": "hebrew",
+  "transliteration": "ʻatstsumâh",
+  "pronunciation": "ats-tsoo-maw'",
+  "definition": "a bulwark, i.e. (figuratively) argument",
+  "kjvTranslation": "strong.",
+  "hebrew": "עַצֻּמָה",
+  "translations": {
+    "bg": "опора, т.е. (образно) аргумент",
+    "cs": "opěrný bod, tj. (obrazně) argument",
+    "da": "et bolværk, dvs. (i overført betydning) et argument",
+    "de": "ein Bollwerk, d.h. (im übertragenen Sinne) ein Argument",
+    "el": "ένα προπύργιο, δηλαδή (μεταφορικά) ένα επιχείρημα",
+    "es": "un baluarte, es decir (en sentido figurado) un argumento",
+    "et": "buldoos, st (piltlikult öeldes) argumendiks",
+    "fi": "bulevardi eli (kuvaannollisesti) argumentti",
+    "fr": "un rempart, c'est-à-dire un argument (au sens figuré)",
+    "hu": "bástya, azaz (képletesen) érv",
+    "id": "benteng pertahanan, yaitu argumen (secara kiasan)",
+    "it": "un baluardo, cioè (in senso figurato) un'argomentazione",
+    "ja": "防波堤",
+    "ko": "보루, 즉 (비유적으로) 인자",
+    "lt": "atrama, t. y. (perkeltine prasme) argumentas",
+    "lv": "balsts, t.i., (pārnestā nozīmē) arguments",
+    "nb": "et bolverk, dvs. (i overført betydning) et argument",
+    "nl": "een bolwerk, d.w.z. (figuurlijk) argument",
+    "pl": "bastion, tj. (w przenośni) argument",
+    "pt": "um baluarte, ou seja, (figurativamente) um argumento",
+    "ro": "un bastion, adică (la figurat) un argument",
+    "ru": "оплот, т.е. (фигурально) аргумент",
+    "sk": "opora, t. j. (obrazne) argument",
+    "sl": "oporišče, tj. (v prenesenem pomenu) argument",
+    "sv": "ett bålverk, d.v.s. (bildligt talat) ett argument",
+    "tr": "bir siper, yani (mecazi anlamda) argüman",
+    "uk": "оплот, тобто (образно) аргумент",
+    "zh": "壁垒"
+  },
+  "verses": [
+    "isaiah 41:21:5"
+  ]
+}

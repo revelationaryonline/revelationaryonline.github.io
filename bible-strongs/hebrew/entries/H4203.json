@@ -1,0 +1,43 @@
+{
+  "number": "H4203",
+  "language": "hebrew",
+  "transliteration": "mâzôwn",
+  "pronunciation": "maw-zone'",
+  "definition": "{food}",
+  "kjvTranslation": "meat.",
+  "hebrew": "מָזוֹן",
+  "translations": {
+    "bg": "{храна}",
+    "cs": "{jídlo}",
+    "da": "{mad}",
+    "de": "{Lebensmittel}",
+    "el": "{food}",
+    "es": "{comida}",
+    "et": "{toit}",
+    "fi": "{ruoka}",
+    "fr": "{alimentation}",
+    "hu": "{food}",
+    "id": "[makanan]",
+    "it": "{Cibo.}",
+    "ja": "{食べ物｝",
+    "ko": "{음식}",
+    "lt": "{maistas}",
+    "lv": "{pārtika}",
+    "nb": "{mat}",
+    "nl": "{voedsel}",
+    "pl": "{jedzenie}",
+    "pt": "{comida}",
+    "ro": "{alimente}",
+    "ru": "{пища}",
+    "sk": "{potraviny}",
+    "sl": "{hrana}",
+    "sv": "{mat}",
+    "tr": "{yiyecek}",
+    "uk": "{Я не знаю, що робити далі.}",
+    "zh": "{食物｝"
+  },
+  "verses": [
+    "daniel 4:9:4",
+    "daniel 4:18:4"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5285",
+  "language": "hebrew",
+  "transliteration": "naʻătsûwts",
+  "pronunciation": "nah-ats-oots'",
+  "definition": "probably a brier; by implication, a thicket of thorny bushes",
+  "kjvTranslation": "thorn.",
+  "hebrew": "נַעֲצוּץ",
+  "translations": {
+    "bg": "вероятно храст; по подразбиране - гъсталак от бодливи храсти",
+    "cs": "pravděpodobně trnka; implicitně houští trnitých keřů",
+    "da": "sandsynligvis en busk; underforstået, et krat af tornede buske",
+    "de": "wahrscheinlich ein Dornbusch; damit ist ein Dickicht aus dornigen Sträuchern gemeint",
+    "el": "πιθανότατα ένα θάμνο- κατ' επέκταση, ένα σύμπλεγμα από αγκαθωτούς θάμνους",
+    "es": "probablemente una zarza; por implicación, un matorral de arbustos espinosos",
+    "et": "tõenäoliselt põõsas; kaudselt okkaliste põõsaste pungilõiked",
+    "fi": "luultavasti pensasruusu; implisiittisesti piikkisten pensaiden tiheikkö",
+    "fr": "probablement une ronce ; par implication, un bosquet de buissons épineux",
+    "hu": "valószínűleg bokor; értelemszerűen tüskés bokrok sűrűje",
+    "id": "mungkin sebuah penghalang; dengan implikasi, rumpun semak berduri",
+    "it": "probabilmente un rovo; per implicazione, una macchia di cespugli spinosi",
+    "ja": "とげのある茂みのこと。",
+    "ko": "아마도 가시덤불; 암시 적으로 가시덤불 덤불을 의미합니다",
+    "lt": "tikriausiai erškėtrožė; netiesiogiai - dygliuotų krūmų gūžta",
+    "lv": "iespējams, krūmāji; netieši - ērkšķainu krūmu biezoknis",
+    "nb": "sannsynligvis en busk; underforstått, et kratt av tornete busker",
+    "nl": "waarschijnlijk een braam; impliciet een struik van doornstruiken",
+    "pl": "prawdopodobnie jarzębina; w domyśle gąszcz ciernistych krzewów",
+    "pt": "provavelmente uma sarça; por implicação, uma moita de arbustos espinhosos",
+    "ro": "probabil un brăduț; implicit, un desiș de tufișuri spinoase",
+    "ru": "вероятно, кустарник; по смыслу - заросли колючего кустарника",
+    "sk": "pravdepodobne briezovec; implicitne húština tŕnistých kríkov",
+    "sl": "verjetno grmovje; implicitno grmovje trnatih grmov",
+    "sv": "förmodligen en bärbuske; underförstått, en snårskog av taggiga buskar",
+    "tr": "muhtemelen bir saz; ima yoluyla, dikenli çalılardan oluşan bir çalılık",
+    "uk": "ймовірно, колючий чагарник; імпліцитно - зарості колючих кущів",
+    "zh": "可能是 \"蒺藜\"，意思是 \"荆棘丛生的灌木\"。"
+  },
+  "verses": [
+    "isaiah 7:19:8",
+    "isaiah 55:13:1"
+  ]
+}

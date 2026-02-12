@@ -1,0 +1,42 @@
+{
+  "number": "H7171",
+  "language": "hebrew",
+  "transliteration": "qerets",
+  "pronunciation": "keh'-rets",
+  "definition": "extirpation (as if by constriction)",
+  "kjvTranslation": "destruction.",
+  "hebrew": "קֶרֶץ",
+  "translations": {
+    "bg": "екстирпация (като че ли чрез свиване)",
+    "cs": "exstirpace (jakoby zúžením)",
+    "da": "udryddelse (som ved indsnævring)",
+    "de": "exstirpation (wie durch Einschnürung)",
+    "el": "εξόντωση (σαν από στένωση)",
+    "es": "extirpación (como por constricción)",
+    "et": "väljasuremine (justkui ahenemine)",
+    "fi": "poistaminen (ikään kuin supistamalla)",
+    "fr": "extirpation (comme par constriction)",
+    "hu": "kiirtás (mintha megszorítással történne)",
+    "id": "pemusnahan (seolah-olah dengan penyempitan)",
+    "it": "estirpazione (come per costrizione)",
+    "ja": "剔出",
+    "ko": "탈모(수축에 의한 것처럼)",
+    "lt": "ekstirpacija (tarsi susiaurėjimas)",
+    "lv": "eksstirpācija (it kā sašaurinot)",
+    "nb": "utryddelse (som ved innsnevring)",
+    "nl": "uitdrijving (als door vernauwing)",
+    "pl": "wytępienie (jakby przez zwężenie)",
+    "pt": "extirpação (como que por constrição)",
+    "ro": "extirpare (ca prin constricție)",
+    "ru": "экстирпация (как при сдавливании)",
+    "sk": "exstirpácia (akoby zúžením)",
+    "sl": "iztrebljanje (kot da bi ga povzročila zožitev)",
+    "sv": "extirpation (som genom sammandragning)",
+    "tr": "tükenme (sanki daralma ile)",
+    "uk": "екстирпація (ніби стисканням)",
+    "zh": "掐死"
+  },
+  "verses": [
+    "jeremiah 46:20:4"
+  ]
+}

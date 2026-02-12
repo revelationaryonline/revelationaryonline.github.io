@@ -1,0 +1,43 @@
+{
+  "number": "H1512",
+  "language": "hebrew",
+  "transliteration": "gâchôwn",
+  "pronunciation": "gaw-khone'",
+  "definition": "the external abdomen, belly (as the source of the faetus )",
+  "kjvTranslation": "belly.",
+  "translations": {
+    "bg": "външната част на корема, коремът (като източник на плода)",
+    "cs": "vnější břicho, břicho (jako zdroj plodu)",
+    "da": "det ydre underliv, maven (som kilde til faetus )",
+    "de": "der äußere Unterleib, der Bauch (als Quelle des Fötus)",
+    "el": "η εξωτερική κοιλιά, η κοιλιά (ως πηγή του εμβρύου)",
+    "es": "el abdomen externo, vientre (como origen del feto )",
+    "et": "väline kõht, kõht (kui looteallikas )",
+    "fi": "ulkoinen vatsa, vatsa (sikiön lähteenä)",
+    "fr": "l'abdomen externe, le ventre (en tant que source du faetus)",
+    "hu": "a külső has, a has (mint a magzat forrása)",
+    "id": "perut bagian luar, perut (sebagai sumber janin)",
+    "it": "l'addome esterno, la pancia (come fonte del feto)",
+    "ja": "外腹部、腹部（フェイタスの源として）",
+    "ko": "외부 복부, 배 (태아의 근원 )",
+    "lt": "išorinė pilvo dalis, pilvas (kaip vaisiaus šaltinis)",
+    "lv": "ārējā vēdera daļa, vēders (kā augļa avots)",
+    "nb": "den ytre buken, magen (som kilde til faetus )",
+    "nl": "de uitwendige buik, buik (als bron van de faetus )",
+    "pl": "zewnętrzny brzuch, brzuch (jako źródło faetus)",
+    "pt": "o abdómen externo, o ventre (como fonte do faetus )",
+    "ro": "abdomenul extern, burta (ca sursă a faetusului)",
+    "ru": "наружная часть брюшной полости, живот (как источник фаэтона)",
+    "sk": "vonkajšie brucho, brucho (ako zdroj plodu)",
+    "sl": "zunanji del trebuha, trebuh (kot izvor ploda)",
+    "sv": "den yttre buken, magen (som källa till faetus )",
+    "tr": "dış karın, göbek (faetusun kaynağı olarak)",
+    "uk": "зовнішня частина живота, живіт (як джерело плоду)",
+    "zh": "外腹（作为粪便的来源）"
+  },
+  "hebrew": "גָּחוֹן",
+  "verses": [
+    "genesis 3:14:16",
+    "leviticus 11:42:3"
+  ]
+}

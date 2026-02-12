@@ -1,0 +1,42 @@
+{
+  "number": "H5368",
+  "language": "hebrew",
+  "transliteration": "nᵉqash",
+  "pronunciation": "nek-ash'",
+  "definition": "to knock",
+  "kjvTranslation": "smote.",
+  "hebrew": "נְקַשׁ",
+  "translations": {
+    "bg": "да почукате",
+    "cs": "zaklepat",
+    "da": "at banke på",
+    "de": "anklopfen",
+    "el": "να χτυπήσω",
+    "es": "para golpear",
+    "et": "koputada",
+    "fi": "koputtaa",
+    "fr": "frapper",
+    "hu": "kopogni",
+    "id": "untuk mengetuk",
+    "it": "bussare",
+    "ja": "ノックする",
+    "ko": "노크하다",
+    "lt": "daužyti",
+    "lv": "klauvēt",
+    "nb": "å banke",
+    "nl": "kloppen",
+    "pl": "pukać",
+    "pt": "para bater",
+    "ro": "să bată",
+    "ru": "стучать",
+    "sk": "zaklopať",
+    "sl": "potrkati",
+    "sv": "att knacka",
+    "tr": "vurmak için",
+    "uk": "стукати",
+    "zh": "敲门"
+  },
+  "verses": [
+    "daniel 5:6:12"
+  ]
+}

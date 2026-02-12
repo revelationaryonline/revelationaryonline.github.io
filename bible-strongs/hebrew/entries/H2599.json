@@ -1,0 +1,42 @@
+{
+  "number": "H2599",
+  "language": "hebrew",
+  "transliteration": "Chănôkîy",
+  "pronunciation": "khan-o-kee'",
+  "definition": "a Chanokite (collectively) or descendants of Chanok",
+  "kjvTranslation": "Hanochites.",
+  "translations": {
+    "bg": "chanokite (колективно) или потомци на Chanok",
+    "cs": "chanokite (souhrnně) nebo potomci Chanoka",
+    "da": "en chanokit (kollektivt) eller efterkommere af Chanok",
+    "de": "ein Chanokite (kollektiv) oder Nachkommen von Chanok",
+    "el": "chanokite (συλλογικά) ή απόγονοι του Chanok",
+    "es": "un chanokita (colectivamente) o descendientes de Chanok",
+    "et": "chanokite (kollektiivselt) või Chanoki järeltulijad",
+    "fi": "chanokit (kollektiivisesti) tai Chanokin jälkeläiset",
+    "fr": "un Chanokite (collectivement) ou des descendants de Chanok",
+    "hu": "egy chanokita (kollektíven) vagy Chanok leszármazottai",
+    "id": "seorang Chanokite (secara kolektif) atau keturunan Chanok",
+    "it": "un Chanokita (collettivamente) o discendenti di Chanok",
+    "ja": "チャノク人（総称）またはチャノクの子孫",
+    "ko": "차녹인(총칭) 또는 차녹의 후손",
+    "lt": "chanokite (bendrai) arba Chanok palikuonys",
+    "lv": "chanokite (kopā) vai Chanok pēcteči",
+    "nb": "en chanokitt (kollektivt) eller etterkommere av Chanok",
+    "nl": "een Chanokiet (collectief) of afstammelingen van Chanok",
+    "pl": "chanokici (łącznie) lub potomkowie Chanoka",
+    "pt": "um Chanokita (coletivamente) ou descendentes de Chanok",
+    "ro": "un Chanokite (colectiv) sau descendenți ai lui Chanok",
+    "ru": "чанокит (совместно) или потомки Чанока",
+    "sk": "chanokite (spoločne) alebo potomkovia Chanoka",
+    "sl": "chanokite (skupaj) ali Chanokovi potomci",
+    "sv": "en Chanokite (kollektivt) eller ättlingar till Chanok",
+    "tr": "bir Chanokite (topluca) veya Chanok'un soyundan gelenler",
+    "uk": "чанокіт (спільно) або нащадки чаноків",
+    "zh": "查诺克人（集体）或查诺克的后裔"
+  },
+  "hebrew": "חֲנֹכִי",
+  "verses": [
+    "numbers 26:5:7"
+  ]
+}

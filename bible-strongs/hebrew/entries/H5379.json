@@ -1,0 +1,42 @@
+{
+  "number": "H5379",
+  "language": "hebrew",
+  "transliteration": "nissêʼth",
+  "pronunciation": "nis-sayth'",
+  "definition": "something taken, i.e. a present",
+  "kjvTranslation": "gift.",
+  "hebrew": "נִשֵּׂאת",
+  "translations": {
+    "bg": "нещо взето, т.е. подарък",
+    "cs": "něco převzatého, tj. dárek",
+    "da": "noget taget, f.eks. en gave",
+    "de": "etwas genommen, d.h. ein Geschenk",
+    "el": "κάτι που έχει ληφθεί, δηλ. ένα δώρο",
+    "es": "algo tomado, es decir, un regalo",
+    "et": "midagi võetud, s.t. kingitus",
+    "fi": "jotakin otettua eli lahja",
+    "fr": "une chose prise, c'est-à-dire un cadeau",
+    "hu": "valami elvett dolog, azaz ajándék",
+    "id": "sesuatu yang diambil, misalnya hadiah",
+    "it": "qualcosa di preso, cioè un regalo",
+    "ja": "貰い物",
+    "ko": "찍은 것, 즉 선물",
+    "lt": "ką nors paimtą, t. y. dovaną",
+    "lv": "kaut kas paņemts, t.i., dāvana",
+    "nb": "noe som er tatt, f.eks. en gave",
+    "nl": "iets genomen, d.w.z. een geschenk",
+    "pl": "coś wziętego, tj. prezent",
+    "pt": "algo recebido, ou seja, um presente",
+    "ro": "ceva luat, adică un cadou",
+    "ru": "что-то взятое, т.е. подарок",
+    "sk": "niečo prijaté, t. j. darček",
+    "sl": "nekaj vzetega, tj. darilo",
+    "sv": "något som tas emot, t.ex. en present",
+    "tr": "alınan bir şey, yani bir hediye",
+    "uk": "щось взяте, тобто подарунок",
+    "zh": "赍"
+  },
+  "verses": [
+    "secondSamuel 19:43:23"
+  ]
+}

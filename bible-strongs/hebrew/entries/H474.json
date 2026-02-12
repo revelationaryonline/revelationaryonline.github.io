@@ -1,0 +1,43 @@
+{
+  "number": "H474",
+  "language": "hebrew",
+  "transliteration": "ʼĔlîyshûwaʻ",
+  "pronunciation": "el-ee-shoo'-ah",
+  "definition": "Elishua, the son of King David",
+  "kjvTranslation": "Elishua.",
+  "translations": {
+    "bg": "Елишуа, син на цар Давид",
+    "cs": "Elíšua, syn krále Davida",
+    "da": "Elishua, kong Davids søn",
+    "de": "Elischua, der Sohn von König David",
+    "el": "Ελισσούα, ο γιος του βασιλιά Δαβίδ",
+    "es": "Elishua, hijo del rey David",
+    "et": "Elišua, kuningas Taaveti poeg",
+    "fi": "Elisua, kuningas Daavidin poika",
+    "fr": "Elishua, fils du roi David",
+    "hu": "Elisua, Dávid király fia",
+    "id": "Elisua, putra Raja Daud",
+    "it": "Elishua, figlio del re Davide",
+    "ja": "ダビデ王の息子エリシュア",
+    "ko": "다윗 왕의 아들 엘리수아",
+    "lt": "Karaliaus Dovydo sūnus Eliziejus",
+    "lv": "Elīšua, ķēniņa Dāvida dēls",
+    "nb": "Elishua, sønn av kong David",
+    "nl": "Elisa, de zoon van koning David",
+    "pl": "Eliszua, syn króla Dawida",
+    "pt": "Elisua, filho do rei David",
+    "ro": "Elishua, fiul regelui David",
+    "ru": "Элишуа, сын царя Давида",
+    "sk": "Elizeus, syn kráľa Dávida",
+    "sl": "Elišua, sin kralja Davida",
+    "sv": "Elishua, son till kung David",
+    "tr": "Elishua, Kral Davut'un oğlu",
+    "uk": "Єлисей, син царя Давида",
+    "zh": "大卫王的儿子以利沙"
+  },
+  "hebrew": "אֱלִישׁוּעַ",
+  "verses": [
+    "secondSamuel 5:15:1",
+    "firstChronicles 14:5:1"
+  ]
+}

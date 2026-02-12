@@ -1,0 +1,42 @@
+{
+  "number": "H5047",
+  "language": "hebrew",
+  "transliteration": "nᵉgad",
+  "pronunciation": "neg-ad'",
+  "definition": "to flow (through the idea of clearing the way)",
+  "kjvTranslation": "issue.",
+  "hebrew": "נְגַד",
+  "translations": {
+    "bg": "да тече (чрез идеята за разчистване на пътя)",
+    "cs": "plynout (skrze myšlenku uvolnění cesty)",
+    "da": "at flyde (gennem ideen om at rydde vejen)",
+    "de": "zu fließen (durch die Idee, den Weg frei zu machen)",
+    "el": "να ρέει (μέσω της ιδέας του ανοίγματος του δρόμου)",
+    "es": "fluir (a través de la idea de despejar el camino)",
+    "et": "voolata (tee vabastamise idee kaudu)",
+    "fi": "virrata (ajatuksen kautta, että tie on raivattu)",
+    "fr": "couler (par l'idée de dégager le chemin)",
+    "hu": "áramlás (az út megtisztításának gondolatán keresztül)",
+    "id": "mengalir (melalui gagasan untuk membuka jalan)",
+    "it": "fluire (attraverso l'idea di liberare la strada)",
+    "ja": "流す",
+    "ko": "(길을 비운다는 생각을 통해) 흐르게 합니다",
+    "lt": "tekėti (per mintį, kad kelias yra laisvas)",
+    "lv": "plūst (ar ideju par ceļa atbrīvošanu)",
+    "nb": "å flyte (gjennom ideen om å rydde vei)",
+    "nl": "om te stromen (door het idee van de weg vrijmaken)",
+    "pl": "płynąć (poprzez ideę oczyszczania drogi)",
+    "pt": "fluir (através da ideia de abrir caminho)",
+    "ro": "a curge (prin ideea de a deschide calea)",
+    "ru": "течь (через идею расчистки пути)",
+    "sk": "plynúť (prostredníctvom myšlienky uvoľnenia cesty)",
+    "sl": "teči (z idejo o utiranju poti)",
+    "sv": "att flyta (genom idén om att rensa vägen)",
+    "tr": "akmak (yolu açma fikri aracılığıyla)",
+    "uk": "текти (через ідею розчищення шляху)",
+    "zh": "通畅"
+  },
+  "verses": [
+    "daniel 7:10:3"
+  ]
+}

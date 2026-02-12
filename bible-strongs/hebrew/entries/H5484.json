@@ -1,0 +1,42 @@
+{
+  "number": "H5484",
+  "language": "hebrew",
+  "transliteration": "çûwçâh",
+  "pronunciation": "soo-saw'",
+  "definition": "a mare",
+  "kjvTranslation": "company of horses.",
+  "hebrew": "סוּסָה",
+  "translations": {
+    "bg": "кобила",
+    "cs": "klisna",
+    "da": "en hoppe",
+    "de": "eine Stute",
+    "el": "μια φοράδα",
+    "es": "una yegua",
+    "et": "tamba",
+    "fi": "tamma",
+    "fr": "une jument",
+    "hu": "egy kanca",
+    "id": "kuda betina",
+    "it": "una cavalla",
+    "ja": "牝馬",
+    "ko": "암말",
+    "lt": "kumelaitė",
+    "lv": "ķēve",
+    "nb": "en hoppe",
+    "nl": "een merrie",
+    "pl": "klacz",
+    "pt": "uma égua",
+    "ro": "o iapă",
+    "ru": "кобыла",
+    "sk": "kobyla",
+    "sl": "kobilica",
+    "sv": "ett sto",
+    "tr": "bir kısrak",
+    "uk": "кобила",
+    "zh": "骒马"
+  },
+  "verses": [
+    "solomon 1:9:0"
+  ]
+}

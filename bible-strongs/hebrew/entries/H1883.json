@@ -1,0 +1,43 @@
+{
+  "number": "H1883",
+  "language": "hebrew",
+  "transliteration": "detheʼ",
+  "pronunciation": "deh'-thay",
+  "definition": "{a sprout; by analogy, grass}",
+  "kjvTranslation": "tender grass.",
+  "translations": {
+    "bg": "{кълнове; по аналогия - трева}",
+    "cs": "{klíček; analogicky tráva}",
+    "da": "{en spire; analogt med græs}",
+    "de": "{ein Spross; analog dazu, Gras}",
+    "el": "{ένα βλαστάρι, κατ' αναλογία, χορτάρι}",
+    "es": "{un brote; por analogía, hierba}",
+    "et": "{tõug; analoogia alusel rohi}",
+    "fi": "{verso; analogisesti ruoho}",
+    "fr": "{un germe ; par analogie, l'herbe}",
+    "hu": "{csíra; analógia szerint fű}",
+    "id": "{tunas; dengan analogi, rumput}",
+    "it": "{un germoglio; per analogia, l'erba}",
+    "ja": "{新芽、例えるなら草}。",
+    "ko": "{새싹; 비유하자면 풀}",
+    "lt": "{daigas; pagal analogiją - žolė}",
+    "lv": "{dīglis; pēc analoģijas - zāle}",
+    "nb": "{en spire; analogt med gress}",
+    "nl": "{een scheut; naar analogie, gras}",
+    "pl": "{kiełek; przez analogię trawa}",
+    "pt": "{um rebento; por analogia, erva}",
+    "ro": "{un lăstar; prin analogie, iarbă}",
+    "ru": "{росток; по аналогии - трава}",
+    "sk": "{klíček; analogicky tráva}",
+    "sl": "{klil; po analogiji trava}",
+    "sv": "{en grodd; analogt med detta, gräs}",
+    "tr": "{bir filiz; benzetme yoluyla, çimen}",
+    "uk": "{паросток; за аналогією, трава}",
+    "zh": "{萌芽；比喻草}。"
+  },
+  "hebrew": "דֶּתֶא",
+  "verses": [
+    "daniel 4:12:9",
+    "daniel 4:20:21"
+  ]
+}

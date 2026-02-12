@@ -1,0 +1,42 @@
+{
+  "number": "H5924",
+  "language": "hebrew",
+  "transliteration": "ʻêllâʼ",
+  "pronunciation": "ale-law'",
+  "definition": "above",
+  "kjvTranslation": "over.",
+  "hebrew": "עֵלָּא",
+  "translations": {
+    "bg": "над",
+    "cs": "nad",
+    "da": "over",
+    "de": "über",
+    "el": "πάνω από το",
+    "es": "sobre",
+    "et": "eespool",
+    "fi": "edellä",
+    "fr": "ci-dessus",
+    "hu": "fentebb",
+    "id": "di atas",
+    "it": "sopra",
+    "ja": "上記",
+    "ko": "위",
+    "lt": "aukščiau",
+    "lv": "virs",
+    "nb": "over",
+    "nl": "boven",
+    "pl": "powyżej",
+    "pt": "acima",
+    "ro": "mai sus",
+    "ru": "выше",
+    "sk": "nad",
+    "sl": "nad",
+    "sv": "ovan",
+    "tr": "yukarıda",
+    "uk": "вище",
+    "zh": "以上"
+  },
+  "verses": [
+    "daniel 6:3:0"
+  ]
+}

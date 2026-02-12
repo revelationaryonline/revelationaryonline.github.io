@@ -1,0 +1,42 @@
+{
+  "number": "H5078",
+  "language": "hebrew",
+  "transliteration": "nêdeh",
+  "pronunciation": "nay'-deh",
+  "definition": "a bounty (for prostitution)",
+  "kjvTranslation": "gifts.",
+  "hebrew": "נֵדֶה",
+  "translations": {
+    "bg": "възнаграждение (за проституция)",
+    "cs": "odměna (za prostituci)",
+    "da": "en dusør (for prostitution)",
+    "de": "ein Kopfgeld (für Prostitution)",
+    "el": "αμοιβή (για πορνεία)",
+    "es": "una recompensa (por prostitución)",
+    "et": "pearaha (prostitutsiooni eest)",
+    "fi": "palkkio (prostituutiosta)",
+    "fr": "une prime (pour la prostitution)",
+    "hu": "vérdíj (prostitúcióért)",
+    "id": "hadiah (untuk prostitusi)",
+    "it": "una taglia (per la prostituzione)",
+    "ja": "報奨金",
+    "ko": "현상금(매춘에 대한)",
+    "lt": "atlygis (už prostituciją)",
+    "lv": "atlīdzība (par prostitūciju)",
+    "nb": "en dusør (for prostitusjon)",
+    "nl": "een premie (voor prostitutie)",
+    "pl": "nagroda (za prostytucję)",
+    "pt": "uma recompensa (pela prostituição)",
+    "ro": "o recompensă (pentru prostituție)",
+    "ru": "вознаграждение (за проституцию)",
+    "sk": "odmena (za prostitúciu)",
+    "sl": "nagrada (za prostitucijo)",
+    "sv": "en belöning (för prostitution)",
+    "tr": "bir ödül (fuhuş için)",
+    "uk": "винагорода (за проституцію)",
+    "zh": "赏金"
+  },
+  "verses": [
+    "ezekiel 16:33:3"
+  ]
+}

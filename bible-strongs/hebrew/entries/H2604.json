@@ -1,0 +1,43 @@
+{
+  "number": "H2604",
+  "language": "hebrew",
+  "transliteration": "chănan",
+  "pronunciation": "khan-an'",
+  "definition": "to favor or (causatively) to entreat",
+  "kjvTranslation": "shew mercy, make supplication.",
+  "translations": {
+    "bg": "да оказвам благосклонност или (в причинна връзка) да се моля",
+    "cs": "přát nebo (v příčinném významu) prosit",
+    "da": "at favorisere eller (kausalt) at bede om",
+    "de": "zu begünstigen oder (ursächlich) zu erflehen",
+    "el": "να ευνοείτε ή (αιτιωδώς) να ικετεύετε",
+    "es": "favorecer o (causativamente) rogar",
+    "et": "soosida või (põhjuslikult) paluda",
+    "fi": "suosia tai (kausatiivisesti) anoa",
+    "fr": "favoriser ou (de manière causale) implorer",
+    "hu": "kedvezni vagy (kauzatív módon) könyörögni",
+    "id": "untuk mendukung atau (secara kausal) memohon",
+    "it": "favorire o (causalmente) supplicare",
+    "ja": "好意を寄せる、または（因果的に）懇願する",
+    "ko": "호의적으로 또는 (인과적으로) 간청하다",
+    "lt": "palankiai vertinti arba (priežastiniu ryšiu) maldauti",
+    "lv": "labvēlīgi vai (cēloņsakarīgi) aizlūgt",
+    "nb": "å favorisere eller (kausativt) å be om",
+    "nl": "begunstigen of (causatief) verzoeken",
+    "pl": "faworyzować lub (przyczynowo) błagać",
+    "pt": "favorecer ou (causativamente) suplicar",
+    "ro": "a favoriza sau (cauzativ) a implora",
+    "ru": "благоволить или (каузально) уговаривать",
+    "sk": "priať alebo (v príčinnom zmysle) prosiť",
+    "sl": "nakloniti ali (vzročno) prositi",
+    "sv": "att gynna eller (kausativt) att be",
+    "tr": "iyilik etmek veya (nedensel olarak) yalvarmak",
+    "uk": "сприяти або (каузативно) благати",
+    "zh": "恳求"
+  },
+  "hebrew": "חֲנַן",
+  "verses": [
+    "daniel 4:24:11",
+    "daniel 6:12:7"
+  ]
+}

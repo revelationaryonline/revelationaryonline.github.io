@@ -1,0 +1,42 @@
+{
+  "number": "H5746",
+  "language": "hebrew",
+  "transliteration": "ʻûwg",
+  "pronunciation": "oog",
+  "definition": "to bake (round cakes on the hearth)",
+  "kjvTranslation": "bake.",
+  "hebrew": "עוּג",
+  "translations": {
+    "bg": "да пече (кръгли питки на огнището)",
+    "cs": "péct (kulaté koláče na ohništi)",
+    "da": "at bage (runde kager på ildstedet)",
+    "de": "backen (runde Kuchen auf dem Herd)",
+    "el": "να ψήσετε (στρογγυλά κέικ στην εστία)",
+    "es": "hornear (pasteles redondos en el hogar)",
+    "et": "küpsetada (ümmargused koogid kamina peal)",
+    "fi": "leipoa (pyöreitä kakkuja uunissa)",
+    "fr": "cuire (gâteaux ronds sur le foyer)",
+    "hu": "sütni (kerek süteményeket a tűzhelyen)",
+    "id": "untuk memanggang (kue bundar di atas perapian)",
+    "it": "cuocere (torte rotonde sul focolare)",
+    "ja": "を焼く（囲炉裏で丸いケーキを焼く）",
+    "ko": "굽기(난로 위의 둥근 케이크)",
+    "lt": "kepti (apvalius pyragus ant židinio)",
+    "lv": "cept (apaļas kūkas uz ugunskura)",
+    "nb": "å bake (runde kaker på ildstedet)",
+    "nl": "bakken (ronde taarten op de haard)",
+    "pl": "piec (okrągłe ciasta na palenisku)",
+    "pt": "cozer (bolos redondos na lareira)",
+    "ro": "a coace (prăjituri rotunde pe vatră)",
+    "ru": "печь (круглые лепешки на очаге)",
+    "sk": "piecť (okrúhle koláče na ohnisku)",
+    "sl": "peči (okroglo pecivo na ognjišču)",
+    "sv": "att baka (runda kakor på härden)",
+    "tr": "pişirmek (ocakta yuvarlak kekler)",
+    "uk": "випікати (круглі коржі на вогнищі)",
+    "zh": "烙饼"
+  },
+  "verses": [
+    "ezekiel 4:12:7"
+  ]
+}

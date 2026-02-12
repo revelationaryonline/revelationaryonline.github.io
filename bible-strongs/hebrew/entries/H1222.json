@@ -1,0 +1,42 @@
+{
+  "number": "H1222",
+  "language": "hebrew",
+  "transliteration": "bᵉtsar",
+  "pronunciation": "bets-ar'",
+  "definition": "gold",
+  "kjvTranslation": "gold.",
+  "translations": {
+    "bg": "злато",
+    "cs": "zlato",
+    "da": "guld",
+    "de": "gold",
+    "el": "χρυσός",
+    "es": "oro",
+    "et": "kuld",
+    "fi": "kulta",
+    "fr": "l'or",
+    "hu": "arany",
+    "id": "emas",
+    "it": "oro",
+    "ja": "ゴールド",
+    "ko": "gold",
+    "lt": "auksas",
+    "lv": "zelts",
+    "nb": "gull",
+    "nl": "goud",
+    "pl": "złoto",
+    "pt": "ouro",
+    "ro": "aur",
+    "ru": "золото",
+    "sk": "zlato",
+    "sl": "zlato",
+    "sv": "guld",
+    "tr": "altın",
+    "uk": "золото",
+    "zh": "金子"
+  },
+  "hebrew": "בְּצַר",
+  "verses": [
+    "job 36:19:3"
+  ]
+}

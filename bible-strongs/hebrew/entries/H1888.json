@@ -1,0 +1,43 @@
+{
+  "number": "H1888",
+  "language": "hebrew",
+  "transliteration": "hêʼ",
+  "pronunciation": "hay",
+  "definition": "{lo!}",
+  "kjvTranslation": "even, lo.",
+  "translations": {
+    "bg": "{lo!}",
+    "cs": "{lo!}",
+    "da": "{Jeg kan ikke.}",
+    "de": "(lo!)",
+    "el": "{lo!}",
+    "es": "{lo!}",
+    "et": "{lo!}",
+    "fi": "{lo!}",
+    "fr": "{lo!}",
+    "hu": "{lo!}",
+    "id": "(Lo!)",
+    "it": "{lo!}",
+    "ja": "ロ",
+    "ko": "{lo!}",
+    "lt": "{lo!}",
+    "lv": "{lo!}",
+    "nb": "{...}",
+    "nl": "{lo!}",
+    "pl": "{lo!}",
+    "pt": "{Não!}",
+    "ro": "{lo!}",
+    "ru": "{lo!}",
+    "sk": "{lo!}",
+    "sl": "{lo!}",
+    "sv": "{lo!}",
+    "tr": "{lo!}",
+    "uk": "{Ло!}",
+    "zh": "{lo!｝"
+  },
+  "hebrew": "הֵא",
+  "verses": [
+    "daniel 2:43:17",
+    "daniel 3:25:2"
+  ]
+}

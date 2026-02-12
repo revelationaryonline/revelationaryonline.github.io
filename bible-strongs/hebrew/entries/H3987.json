@@ -1,0 +1,42 @@
+{
+  "number": "H3987",
+  "language": "hebrew",
+  "transliteration": "mêʼên",
+  "pronunciation": "may-ane'",
+  "definition": "refractory",
+  "kjvTranslation": "refuse.",
+  "hebrew": "מֵאֵן",
+  "translations": {
+    "bg": "огнеупорни",
+    "cs": "žáruvzdorné",
+    "da": "ildfast",
+    "de": "feuerfest",
+    "el": "πυρίμαχο",
+    "es": "refractario",
+    "et": "tulekindel",
+    "fi": "tulenkestävä",
+    "fr": "réfractaire",
+    "hu": "tűzálló",
+    "id": "tahan api",
+    "it": "refrattario",
+    "ja": "耐火物",
+    "ko": "내화성",
+    "lt": "ugniai atsparus",
+    "lv": "ugunsizturīgs",
+    "nb": "ildfast",
+    "nl": "vuurvast",
+    "pl": "ogniotrwały",
+    "pt": "refratário",
+    "ro": "refractar",
+    "ru": "огнеупорный",
+    "sk": "žiaruvzdorné",
+    "sl": "ognjevzdržni",
+    "sv": "eldfast",
+    "tr": "refrakter",
+    "uk": "вогнетривкий",
+    "zh": "难熔"
+  },
+  "verses": [
+    "jeremiah 13:10:3"
+  ]
+}

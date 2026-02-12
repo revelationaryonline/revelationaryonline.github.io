@@ -1,0 +1,43 @@
+{
+  "number": "H463",
+  "language": "hebrew",
+  "transliteration": "ʼĔlîyʻâm",
+  "pronunciation": "el-ee-awm'",
+  "definition": "Eliam, an Israelite",
+  "kjvTranslation": "Eliam.",
+  "translations": {
+    "bg": "Елиам, израилтянин",
+    "cs": "Eliam, Izraelita",
+    "da": "Eliam, en israelit",
+    "de": "Eliam, ein Israelit",
+    "el": "Ελιάμ, Ισραηλίτης",
+    "es": "Eliam, israelita",
+    "et": "Eliam, iisraellane",
+    "fi": "Eliam, israelilainen",
+    "fr": "Eliam, Israélite",
+    "hu": "Eliám, izraelita",
+    "id": "Eliam, seorang Israel",
+    "it": "Eliam, un israelita",
+    "ja": "イスラエル人エリアム",
+    "ko": "이스라엘인 엘리암",
+    "lt": "Eljamas, izraelitas",
+    "lv": "Eliams, izraēlietis",
+    "nb": "Eliam, en israelitt",
+    "nl": "Eliam, een Israëliet",
+    "pl": "Eliam, Izraelita",
+    "pt": "Eliã, um israelita",
+    "ro": "Eliam, un israelit",
+    "ru": "Елиам, израильтянин",
+    "sk": "Eliam, Izraelita",
+    "sl": "Eliam, Izraelec",
+    "sv": "Eliam, en israelit",
+    "tr": "Eliam, bir İsrailli",
+    "uk": "Еліам, ізраїльтянин",
+    "zh": "以利亚姆，以色列人"
+  },
+  "hebrew": "אֱלִיעָם",
+  "verses": [
+    "secondSamuel 11:3:10",
+    "secondSamuel 23:34:5"
+  ]
+}

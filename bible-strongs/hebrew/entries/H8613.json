@@ -1,0 +1,42 @@
+{
+  "number": "H8613",
+  "language": "hebrew",
+  "transliteration": "Tophteh",
+  "pronunciation": "tof-teh'",
+  "definition": "Tophteh, a place of cremation",
+  "kjvTranslation": "Tophet.",
+  "hebrew": "תׇּפְתֶּה",
+  "translations": {
+    "bg": "Tophteh, място за кремация",
+    "cs": "Tophteh, místo kremace",
+    "da": "Tophteh, et sted for kremering",
+    "de": "Tophteh, ein Ort der Einäscherung",
+    "el": "Tophteh, ένας τόπος αποτέφρωσης",
+    "es": "Tophteh, lugar de cremación",
+    "et": "Tophteh, tuhastamise koht",
+    "fi": "Tophteh, polttohautauspaikka",
+    "fr": "Tophteh, lieu de crémation",
+    "hu": "Tophteh, a hamvasztás helye",
+    "id": "Tophteh, tempat kremasi",
+    "it": "Tophteh, un luogo di cremazione",
+    "ja": "火葬場「トフテ",
+    "ko": "토프테, 화장 장소",
+    "lt": "Tophteh, kremavimo vieta",
+    "lv": "Tophteh, kremācijas vieta",
+    "nb": "Tophteh, et kremasjonssted",
+    "nl": "Tophteh, een plaats van crematie",
+    "pl": "Tophteh, miejsce kremacji",
+    "pt": "Tophteh, um local de cremação",
+    "ro": "Tophteh, un loc de incinerare",
+    "ru": "Тофтех, место кремации",
+    "sk": "Tophteh, miesto kremácie",
+    "sl": "Tophteh, kraj upepelitve",
+    "sv": "Tophteh, en plats för kremering",
+    "tr": "Tophteh, bir ölü yakma yeri",
+    "uk": "Тофтех, місце кремації",
+    "zh": "火葬场"
+  },
+  "verses": [
+    "isaiah 30:33:3"
+  ]
+}

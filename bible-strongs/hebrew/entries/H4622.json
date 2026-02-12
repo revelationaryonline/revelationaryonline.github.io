@@ -1,0 +1,42 @@
+{
+  "number": "H4622",
+  "language": "hebrew",
+  "transliteration": "maʻtsôwr",
+  "pronunciation": "mah-tsore'",
+  "definition": "objectively, a hindrance",
+  "kjvTranslation": "restraint.",
+  "hebrew": "מַעְצוֹר",
+  "verses": [
+    "firstSamuel 14:6:19"
+  ],
+  "translations": {
+    "bg": "обективно, пречка",
+    "cs": "objektivně překážka",
+    "da": "objektivt set en hindring",
+    "de": "objektiv gesehen, ein Hindernis",
+    "el": "αντικειμενικά, ένα εμπόδιο",
+    "es": "objetivamente, un obstáculo",
+    "et": "objektiivselt öeldes takistuseks",
+    "fi": "objektiivisesti katsottuna este",
+    "fr": "objectivement, un obstacle",
+    "hu": "objektíven, akadály",
+    "id": "secara obyektif, sebuah halangan",
+    "it": "oggettivamente, un ostacolo",
+    "ja": "客観的には邪魔者",
+    "ko": "객관적으로 방해",
+    "lt": "objektyviai - kliūtis",
+    "lv": "objektīvi - šķērslis",
+    "nb": "objektivt sett en hindring",
+    "nl": "objectief gezien, een belemmering",
+    "pl": "obiektywnie, przeszkoda",
+    "pt": "objetivamente, um obstáculo",
+    "ro": "obiectiv, un obstacol",
+    "ru": "объективно, помеха",
+    "sk": "objektívne, prekážka",
+    "sl": "objektivno, ovira",
+    "sv": "objektivt sett ett hinder",
+    "tr": "nesnel olarak, bir engel",
+    "uk": "об'єктивно, перешкода",
+    "zh": "绊脚石"
+  }
+}

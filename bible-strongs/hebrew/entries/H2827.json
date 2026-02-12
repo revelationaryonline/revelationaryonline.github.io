@@ -1,0 +1,42 @@
+{
+  "number": "H2827",
+  "language": "hebrew",
+  "transliteration": "chăshal",
+  "pronunciation": "khash-al'",
+  "definition": "to weaken, i.e. crush",
+  "kjvTranslation": "subdue.",
+  "translations": {
+    "bg": "да отслабва, т.е. да се смалява",
+    "cs": "oslabit, tj. rozdrtit",
+    "da": "at svække, dvs. knuse",
+    "de": "zu schwächen, d.h. zu zerquetschen",
+    "el": "να αποδυναμώσει, δηλαδή να συντρίψει",
+    "es": "debilitar, es decir, aplastar",
+    "et": "nõrgestada, st purustada",
+    "fi": "heikentää, eli murskata",
+    "fr": "affaiblir, c'est-à-dire écraser",
+    "hu": "gyengíteni, azaz összetörni",
+    "id": "untuk melemahkan, yaitu menghancurkan",
+    "it": "indebolire, cioè schiacciare",
+    "ja": "を弱める、つまりつぶす",
+    "ko": "약화하다, 즉 부수다",
+    "lt": "susilpninti, t. y. sutraiškyti",
+    "lv": "vājināt, t.i., sasmalcināt",
+    "nb": "å svekke, dvs. knuse",
+    "nl": "verzwakken, d.w.z. verpletteren",
+    "pl": "osłabić, tj. zmiażdżyć",
+    "pt": "enfraquecer, ou seja, esmagar",
+    "ro": "a slăbi, adică a zdrobi",
+    "ru": "ослабить, т.е. раздавить",
+    "sk": "oslabiť, t. j. rozdrviť",
+    "sl": "oslabiti, tj. zdrobiti",
+    "sv": "försvaga, d.v.s. krossa",
+    "tr": "zayıflatmak, yani ezmek",
+    "uk": "послабити, тобто розчавити",
+    "zh": "削弱，即粉碎"
+  },
+  "hebrew": "חֲשַׁל",
+  "verses": [
+    "daniel 2:40:11"
+  ]
+}

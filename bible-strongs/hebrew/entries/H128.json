@@ -1,0 +1,42 @@
+{
+  "number": "H128",
+  "language": "hebrew",
+  "transliteration": "ʼĂdâmâh",
+  "pronunciation": "ad-aw-maw'",
+  "definition": "Adamah, a place in Palestine",
+  "kjvTranslation": "Adamah.",
+  "translations": {
+    "bg": "Adamah, място в Палестина",
+    "cs": "Adamah, místo v Palestině",
+    "da": "Adamah, et sted i Palæstina",
+    "de": "Adamah, ein Ort in Palästina",
+    "el": "Adamah, ένας τόπος στην Παλαιστίνη",
+    "es": "Adamah, un lugar en Palestina",
+    "et": "Adamah, koht Palestiinas",
+    "fi": "Adamah, paikka Palestiinassa",
+    "fr": "Adamah, localité de Palestine",
+    "hu": "Adamah, egy hely Palesztinában",
+    "id": "Adamah, sebuah tempat di Palestina",
+    "it": "Adamah, un luogo in Palestina",
+    "ja": "アダマ、パレスチナの地名",
+    "ko": "아다마, 팔레스타인의 한 장소",
+    "lt": "Adamah, vietovė Palestinoje",
+    "lv": "Adamah, vieta Palestīnā",
+    "nb": "Adamah, et sted i Palestina",
+    "nl": "Adamah, een plaats in Palestina",
+    "pl": "Adamah, miejsce w Palestynie",
+    "pt": "Adamah, um lugar na Palestina",
+    "ro": "Adamah, un loc în Palestina",
+    "ru": "Адама, место в Палестине",
+    "sk": "Adamah, miesto v Palestíne",
+    "sl": "Adamah, kraj v Palestini",
+    "sv": "Adamah, en plats i Palestina",
+    "tr": "Adamah, Filistin'de bir yer",
+    "uk": "Адама, місце в Палестині",
+    "zh": "亚当"
+  },
+  "hebrew": "אֲדָמָה",
+  "verses": [
+    "joshua 19:36:0"
+  ]
+}

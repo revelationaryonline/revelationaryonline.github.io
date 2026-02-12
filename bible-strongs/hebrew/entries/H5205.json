@@ -1,0 +1,42 @@
+{
+  "number": "H5205",
+  "language": "hebrew",
+  "transliteration": "nîyd",
+  "pronunciation": "need",
+  "definition": "motion (of the lips in speech)",
+  "kjvTranslation": "moving.",
+  "hebrew": "נִיד",
+  "translations": {
+    "bg": "движение (на устните при говорене)",
+    "cs": "pohyb (rtů při řeči)",
+    "da": "bevægelse (af læberne i tale)",
+    "de": "bewegung (der Lippen beim Sprechen)",
+    "el": "κίνηση (των χειλιών στην ομιλία)",
+    "es": "movimiento (de los labios al hablar)",
+    "et": "liikumine (huulte liikumine kõnes)",
+    "fi": "liike (huulten liike puheessa)",
+    "fr": "mouvement (des lèvres lors de la parole)",
+    "hu": "mozgás (az ajkak mozgása beszéd közben)",
+    "id": "gerakan (bibir dalam berbicara)",
+    "it": "movimento (delle labbra nel parlare)",
+    "ja": "うんどう",
+    "ko": "모션(말 할 때 입술의 움직임)",
+    "lt": "judesys (lūpų judesys kalbant)",
+    "lv": "kustība (lūpu kustība runas laikā)",
+    "nb": "bevegelse (av leppene i tale)",
+    "nl": "beweging (van de lippen bij het spreken)",
+    "pl": "ruch (warg w mowie)",
+    "pt": "movimento (dos lábios na fala)",
+    "ro": "mișcare (a buzelor în vorbire)",
+    "ru": "движение (губ в речи)",
+    "sk": "pohyb (pier pri reči)",
+    "sl": "gibanje (ustnic pri govoru)",
+    "sv": "rörelse (av läpparna vid tal)",
+    "tr": "hareket (konuşmada dudakların)",
+    "uk": "рух (губ у мовленні)",
+    "zh": "动作"
+  },
+  "verses": [
+    "job 16:5:3"
+  ]
+}

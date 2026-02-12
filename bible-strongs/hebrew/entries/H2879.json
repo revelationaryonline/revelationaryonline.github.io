@@ -1,0 +1,42 @@
+{
+  "number": "H2879",
+  "language": "hebrew",
+  "transliteration": "ṭabbâchâh",
+  "pronunciation": "tab-baw-khaw'",
+  "definition": "a female cook",
+  "kjvTranslation": "cook.",
+  "translations": {
+    "bg": "готвач от женски пол",
+    "cs": "kuchařka",
+    "da": "en kvindelig kok",
+    "de": "eine Köchin",
+    "el": "μια μαγείρισσα",
+    "es": "una cocinera",
+    "et": "naiskokk",
+    "fi": "naispuolinen kokki",
+    "fr": "une femme cuisinière",
+    "hu": "egy női szakácsnő",
+    "id": "seorang juru masak perempuan",
+    "it": "una cuoca donna",
+    "ja": "女料理人",
+    "ko": "여성 요리사",
+    "lt": "virėja moteris",
+    "lv": "sieviete pavāre",
+    "nb": "en kvinnelig kokk",
+    "nl": "een vrouwelijke kok",
+    "pl": "kucharka",
+    "pt": "uma cozinheira",
+    "ro": "o bucătăreasă",
+    "ru": "женщина-повар",
+    "sk": "kuchárka",
+    "sl": "kuharica",
+    "sv": "en kvinnlig kock",
+    "tr": "bir kadın aşçı",
+    "uk": "кухарка",
+    "zh": "女厨师"
+  },
+  "hebrew": "טַבָּחָה",
+  "verses": [
+    "firstSamuel 8:13:4"
+  ]
+}

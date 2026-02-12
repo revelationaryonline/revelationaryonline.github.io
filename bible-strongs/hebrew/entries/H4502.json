@@ -1,0 +1,42 @@
+{
+  "number": "H4502",
+  "language": "hebrew",
+  "transliteration": "minnᵉzâr",
+  "pronunciation": "min-ez-awr'",
+  "definition": "a prince",
+  "kjvTranslation": "crowned.",
+  "hebrew": "מִנְּזָר",
+  "verses": [
+    "nahum 3:17:0"
+  ],
+  "translations": {
+    "bg": "принц",
+    "cs": "princ",
+    "da": "en prins",
+    "de": "ein Fürst",
+    "el": "ένας πρίγκιπας",
+    "es": "un príncipe",
+    "et": "prints",
+    "fi": "prinssi",
+    "fr": "un prince",
+    "hu": "egy herceg",
+    "id": "seorang pangeran",
+    "it": "un principe",
+    "ja": "王子",
+    "ko": "왕자",
+    "lt": "princas",
+    "lv": "princis",
+    "nb": "en prins",
+    "nl": "een prins",
+    "pl": "książę",
+    "pt": "um príncipe",
+    "ro": "un prinț",
+    "ru": "принц",
+    "sk": "princ",
+    "sl": "princ",
+    "sv": "en prins",
+    "tr": "bir prens",
+    "uk": "принц",
+    "zh": "王子"
+  }
+}

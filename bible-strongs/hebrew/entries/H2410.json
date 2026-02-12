@@ -1,0 +1,43 @@
+{
+  "number": "H2410",
+  "language": "hebrew",
+  "transliteration": "Chăṭîyṭâʼ",
+  "pronunciation": "khat-ee-taw'",
+  "definition": "Chatita, a temple porter",
+  "kjvTranslation": "Hatita.",
+  "translations": {
+    "bg": "Чатита, портиер на храма",
+    "cs": "Chatita, chrámový vrátný",
+    "da": "Chatita, en tempelportør",
+    "de": "Chatita, eine Tempelträgerin",
+    "el": "Chatita, ένας αχθοφόρος του ναού",
+    "es": "Chatita, portera del templo",
+    "et": "Chatita, templiportjee",
+    "fi": "Chatita, temppelin kantaja",
+    "fr": "Chatita, portier du temple",
+    "hu": "Chatita, egy templomi hordár",
+    "id": "Chatita, seorang kuli angkut candi",
+    "it": "Chatita, portinaio del tempio",
+    "ja": "チャティータ、寺院のポーター",
+    "ko": "사원 짐꾼 차티타",
+    "lt": "Chatita, šventyklos nešikas",
+    "lv": "Čatita, tempļa nesējs",
+    "nb": "Chatita, en tempelportør",
+    "nl": "Chatita, een tempelportier",
+    "pl": "Chatita, świątynny tragarz",
+    "pt": "Chatita, um porteiro do templo",
+    "ro": "Chatita, un portar de templu",
+    "ru": "Чатита, храмовый носильщик",
+    "sk": "Chatita, chrámový vrátnik",
+    "sl": "Chatita, tempeljski nosač",
+    "sv": "Chatita, en tempelbärare",
+    "tr": "Chatita, bir tapınak hamalı",
+    "uk": "Чатіта, служниця храму",
+    "zh": "寺庙搬运工 Chatita"
+  },
+  "hebrew": "חֲטִיטָא",
+  "verses": [
+    "ezra 2:42:11",
+    "nehemiah 7:45:10"
+  ]
+}

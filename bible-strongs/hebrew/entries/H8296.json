@@ -1,0 +1,43 @@
+{
+  "number": "H8296",
+  "language": "hebrew",
+  "transliteration": "sereṭ",
+  "pronunciation": "seh'-ret",
+  "definition": "an incision",
+  "kjvTranslation": "cutting.",
+  "hebrew": "שֶׂרֶט",
+  "translations": {
+    "bg": "разрез",
+    "cs": "řez",
+    "da": "et snit",
+    "de": "ein Einschnitt",
+    "el": "μια τομή",
+    "es": "una incisión",
+    "et": "sisselõige",
+    "fi": "viilto",
+    "fr": "une incision",
+    "hu": "egy bemetszés",
+    "id": "sayatan",
+    "it": "un'incisione",
+    "ja": "切開",
+    "ko": "절개",
+    "lt": "pjūvis",
+    "lv": "griezums",
+    "nb": "et snitt",
+    "nl": "een incisie",
+    "pl": "nacięcie",
+    "pt": "uma incisão",
+    "ro": "o incizie",
+    "ru": "разрез",
+    "sk": "rez",
+    "sl": "rez",
+    "sv": "ett snitt",
+    "tr": "bir kesik",
+    "uk": "надріз",
+    "zh": "切口"
+  },
+  "verses": [
+    "leviticus 19:28:0",
+    "leviticus 21:5:12"
+  ]
+}

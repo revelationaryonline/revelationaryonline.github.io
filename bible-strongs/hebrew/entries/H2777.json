@@ -1,0 +1,43 @@
+{
+  "number": "H2777",
+  "language": "hebrew",
+  "transliteration": "charçûwth",
+  "pronunciation": "khar-sooth'",
+  "definition": "a potsherd, i.e. (by implication) a pottery; the name of a gate at Jerusalem",
+  "kjvTranslation": "east.",
+  "translations": {
+    "bg": "грънчарница, т.е. (по подразбиране) грънчарска работилница; име на порта в Йерусалим",
+    "cs": "hrnčírna, tj. (implicitně) hrnčířská dílna; název brány v Jeruzalémě",
+    "da": "en potteskår, dvs. (underforstået) et pottemageri; navnet på en port i Jerusalem",
+    "de": "ein Scherbenhaufen, d.h. (implizit) eine Töpferei; der Name eines Tors in Jerusalem",
+    "el": "αγγείο, δηλαδή (κατ' επέκταση) αγγειοπλαστική- το όνομα μιας πύλης στην Ιερουσαλήμ",
+    "es": "un tiesto, es decir (implícitamente) una alfarería; el nombre de una puerta en Jerusalén",
+    "et": "pottsepa, st (kaudselt) pottsepa; Jeruusalemma värava nimi",
+    "fi": "ruukkukivi, eli (epäsuorasti) ruukkukivi; Jerusalemissa sijaitsevan portin nimi",
+    "fr": "un pot, c'est-à-dire (implicitement) une poterie ; nom d'une porte à Jérusalem",
+    "hu": "cserépedény, azaz (értelemszerűen) fazekasműhely; egy jeruzsálemi kapu neve",
+    "id": "seorang tukang periuk, yaitu (secara implisit) tembikar; nama sebuah gerbang di Yerusalem",
+    "it": "un vaso, cioè (implicitamente) una ceramica; il nome di una porta di Gerusalemme",
+    "ja": "エルサレムの門の名前。",
+    "ko": "토기장이, 즉 (암시 적으로) 도자기; 예루살렘의 문 이름",
+    "lt": "puodynė, t. y. (netiesiogiai) keramikos dirbtuvė; Jeruzalės vartų pavadinimas",
+    "lv": "potsherd, t.i., (netieši) podnieka darbnīca; vārtu nosaukums Jeruzalemē",
+    "nb": "en potteskur, dvs. (underforstått) et pottemakeri; navnet på en port i Jerusalem",
+    "nl": "een potscherf, d.w.z. (impliciet) een pottenbakkerij; de naam van een poort in Jeruzalem",
+    "pl": "potsherd, tj. (w domyśle) garncarnia; nazwa bramy w Jerozolimie",
+    "pt": "um caco, isto é, (implicitamente) uma olaria; nome de uma porta em Jerusalém",
+    "ro": "a potsherd, adică (implicit) o olărie; numele unei porți la Ierusalim",
+    "ru": "горшечник, т.е. (по смыслу) гончарная мастерская; название ворот в Иерусалиме",
+    "sk": "hrnčiareň, t. j. (implicitne) hrnčiarska dielňa; názov brány v Jeruzaleme",
+    "sl": "lončnica, tj. (implicitno) lončarstvo; ime vrat v Jeruzalemu",
+    "sv": "en krukskärva, dvs. (underförstått) ett krukmakeri; namnet på en port i Jerusalem",
+    "tr": "bir çömlekçi, yani (ima yoluyla) bir çömlekçi; Yeruşalim'de bir kapının adı",
+    "uk": "гончар, тобто (імпліцитно) гончар; назва брами в Єрусалимі",
+    "zh": "a potsherd，即（暗指）陶器；耶路撒冷一个城门的名字"
+  },
+  "hebrew": "חַרְסוּת",
+  "verses": [
+    "jeremiah 19:2:8",
+    "jeremiah 19:2:9"
+  ]
+}

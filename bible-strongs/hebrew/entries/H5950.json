@@ -1,0 +1,42 @@
+{
+  "number": "H5950",
+  "language": "hebrew",
+  "transliteration": "ʻălîylîyâh",
+  "pronunciation": "al-ee-lee-yaw'",
+  "definition": "(miraculous) execution",
+  "kjvTranslation": "work.",
+  "hebrew": "עֲלִילִיָּה",
+  "translations": {
+    "bg": "(чудотворна) екзекуция",
+    "cs": "(zázračná) poprava",
+    "da": "(mirakuløs) henrettelse",
+    "de": "(wundersame) Hinrichtung",
+    "el": "(θαυματουργή) εκτέλεση",
+    "es": "ejecución (milagrosa)",
+    "et": "(imeline) hukkamine",
+    "fi": "(ihmeellinen) teloitus",
+    "fr": "exécution (miraculeuse)",
+    "hu": "(csodálatos) kivégzés",
+    "id": "eksekusi (ajaib)",
+    "it": "esecuzione (miracolosa)",
+    "ja": "霊刑",
+    "ko": "(기적적인) 실행",
+    "lt": "(stebuklinga) egzekucija",
+    "lv": "(brīnumaina) izpilde",
+    "nb": "(mirakuløs) henrettelse",
+    "nl": "(wonderbaarlijke) executie",
+    "pl": "(cudowna) egzekucja",
+    "pt": "execução (milagrosa)",
+    "ro": "execuție (miraculoasă)",
+    "ru": "(чудесное) исполнение",
+    "sk": "(zázračná) poprava",
+    "sl": "(čudežna) usmrtitev",
+    "sv": "(mirakulös) avrättning",
+    "tr": "(mucizevi) infaz",
+    "uk": "(чудесне) виконання",
+    "zh": "处决"
+  },
+  "verses": [
+    "jeremiah 32:19:3"
+  ]
+}

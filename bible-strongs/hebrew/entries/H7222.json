@@ -1,0 +1,42 @@
+{
+  "number": "H7222",
+  "language": "hebrew",
+  "transliteration": "rôʼshâh",
+  "pronunciation": "ro-shaw'",
+  "definition": "the head",
+  "kjvTranslation": "head(-stone).",
+  "hebrew": "רֹאשָׁה",
+  "translations": {
+    "bg": "главата",
+    "cs": "hlava",
+    "da": "hovedet",
+    "de": "der Kopf",
+    "el": "το κεφάλι",
+    "es": "la cabeza",
+    "et": "pea",
+    "fi": "pää",
+    "fr": "la tête",
+    "hu": "a fej",
+    "id": "kepala",
+    "it": "la testa",
+    "ja": "頭",
+    "ko": "머리",
+    "lt": "galva",
+    "lv": "galva",
+    "nb": "hodet",
+    "nl": "het hoofd",
+    "pl": "głowa",
+    "pt": "a cabeça",
+    "ro": "capul",
+    "ru": "голова",
+    "sk": "hlava",
+    "sl": "glava",
+    "sv": "huvudet",
+    "tr": "kafa",
+    "uk": "голова",
+    "zh": "头"
+  },
+  "verses": [
+    "zechariah 4:7:10"
+  ]
+}

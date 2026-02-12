@@ -1,0 +1,42 @@
+{
+  "number": "H2980",
+  "language": "hebrew",
+  "transliteration": "yâbab",
+  "pronunciation": "yaw-bab",
+  "definition": "to bawl",
+  "kjvTranslation": "cry out.",
+  "translations": {
+    "bg": "да вика",
+    "cs": "křičet",
+    "da": "at brøle",
+    "de": "zu grölen",
+    "el": "να φωνάξω",
+    "es": "berrear",
+    "et": "karjuda",
+    "fi": "ulvoa",
+    "fr": "brailler",
+    "hu": "bömbölni",
+    "id": "untuk menangis",
+    "it": "piangere",
+    "ja": "泣く",
+    "ko": "울다",
+    "lt": "verkti",
+    "lv": "kliegt",
+    "nb": "å skrike",
+    "nl": "schreeuwen",
+    "pl": "beczeć",
+    "pt": "berrar",
+    "ro": "să urle",
+    "ru": "кричать",
+    "sk": "kričať",
+    "sl": "jokati",
+    "sv": "att bräka",
+    "tr": "bağırmak",
+    "uk": "плакати",
+    "zh": "嚎啕大哭"
+  },
+  "hebrew": "יָבַב",
+  "verses": [
+    "judges 5:28:3"
+  ]
+}

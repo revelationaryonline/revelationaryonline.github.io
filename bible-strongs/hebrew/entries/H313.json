@@ -1,0 +1,42 @@
+{
+  "number": "H313",
+  "language": "hebrew",
+  "transliteration": "ʼAchêr",
+  "pronunciation": "akh-air'",
+  "definition": "Acher, an Israelite",
+  "kjvTranslation": "Aher.",
+  "translations": {
+    "bg": "Ахер, израилтянин",
+    "cs": "Acher, Izraelita",
+    "da": "Acher, en israelit",
+    "de": "Acher, ein Israelit",
+    "el": "Acher, ένας Ισραηλίτης",
+    "es": "Acher, israelita",
+    "et": "Acher, iisraellane",
+    "fi": "Acher, israelilainen",
+    "fr": "Acher, Israélite",
+    "hu": "Acher, egy izraelita",
+    "id": "Acher, seorang Israel",
+    "it": "Acher, un israelita",
+    "ja": "イスラエル人アチェル",
+    "ko": "이스라엘인 아케르",
+    "lt": "Acheras, izraelitas",
+    "lv": "Ačers, izraēlietis",
+    "nb": "Acher, en israelitt",
+    "nl": "Acher, een Israëliet",
+    "pl": "Acher, Izraelita",
+    "pt": "Acher, israelita",
+    "ro": "Acher, un israelit",
+    "ru": "Ачер, израильтянин",
+    "sk": "Acher, Izraelita",
+    "sl": "Acher, Izraelec",
+    "sv": "Acher, en israelit",
+    "tr": "Acher, bir İsrailli",
+    "uk": "Ахер, ізраїльтянин",
+    "zh": "以色列人亚切"
+  },
+  "hebrew": "אַחֵר",
+  "verses": [
+    "firstChronicles 7:12:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6488",
+  "language": "hebrew",
+  "transliteration": "pᵉqiduth",
+  "pronunciation": "pek-ee-dooth'",
+  "definition": "supervision",
+  "kjvTranslation": "ward.",
+  "hebrew": "פְּקִדֻת",
+  "translations": {
+    "bg": "надзор",
+    "cs": "dohled",
+    "da": "overvågning",
+    "de": "überwachung",
+    "el": "εποπτεία",
+    "es": "supervisión",
+    "et": "järelevalve",
+    "fi": "valvonta",
+    "fr": "surveillance",
+    "hu": "felügyelet",
+    "id": "pengawasan",
+    "it": "supervisione",
+    "ja": "監督",
+    "ko": "감독",
+    "lt": "priežiūra",
+    "lv": "uzraudzība",
+    "nb": "tilsyn",
+    "nl": "toezicht",
+    "pl": "nadzór",
+    "pt": "controlo",
+    "ro": "supraveghere",
+    "ru": "надзор",
+    "sk": "dohľad",
+    "sl": "nadzor",
+    "sv": "övervakning",
+    "tr": "dENETİM",
+    "uk": "нагляд",
+    "zh": "监督"
+  },
+  "verses": [
+    "jeremiah 37:13:6"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4275",
+  "language": "hebrew",
+  "transliteration": "mechĕtsâh",
+  "pronunciation": "mekh-ets-aw'",
+  "definition": "a halving",
+  "kjvTranslation": "half.",
+  "hebrew": "מֶחֱצָה",
+  "translations": {
+    "bg": "намаляване наполовина",
+    "cs": "snížení na polovinu",
+    "da": "en halvering",
+    "de": "eine Halbierung",
+    "el": "μείωση κατά το ήμισυ",
+    "es": "a la mitad",
+    "et": "poolitamine",
+    "fi": "puolittaminen",
+    "fr": "une réduction de moitié",
+    "hu": "felezés",
+    "id": "separuh",
+    "it": "un dimezzamento",
+    "ja": "二分の一",
+    "ko": "절반",
+    "lt": "sumažinimas per pusę",
+    "lv": "samazinājums uz pusi",
+    "nb": "en halvering",
+    "nl": "een halvering",
+    "pl": "zmniejszenie o połowę",
+    "pt": "uma redução para metade",
+    "ro": "o înjumătățire",
+    "ru": "уменьшение вдвое",
+    "sk": "zníženie na polovicu",
+    "sl": "razpolovitev",
+    "sv": "en halvering",
+    "tr": "bir yarılanma",
+    "uk": "наполовину",
+    "zh": "减半"
+  },
+  "verses": [
+    "numbers 31:36:1",
+    "numbers 31:43:1"
+  ]
+}

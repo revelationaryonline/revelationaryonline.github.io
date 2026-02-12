@@ -1,0 +1,43 @@
+{
+  "number": "H601",
+  "language": "hebrew",
+  "transliteration": "ʼănâphâh",
+  "pronunciation": "an-aw-faw'",
+  "definition": "an unclean bird, perhaps the parrot (from its irascibility)",
+  "kjvTranslation": "heron.",
+  "translations": {
+    "bg": "нечиста птица, може би папагал (поради неговата раздразнителност)",
+    "cs": "nečistý pták, snad papoušek (kvůli své dráždivosti)",
+    "da": "en uren fugl, måske papegøjen (på grund af dens irritabilitet)",
+    "de": "ein unreiner Vogel, vielleicht der Papagei (wegen seiner Jähzornigkeit)",
+    "el": "ένα ακάθαρτο πουλί, ίσως ο παπαγάλος (από την ευερεθιστότητά του)",
+    "es": "un ave impura, tal vez el loro (por su irascibilidad)",
+    "et": "ebapuhas lind, võib-olla papagoi (tema ärrituvus)",
+    "fi": "epäpuhdas lintu, ehkä papukaija (sen kiukkuisuudesta johtuen)",
+    "fr": "un oiseau impur, peut-être le perroquet (en raison de son irascibilité)",
+    "hu": "egy tisztátalan madár, talán a papagáj (az ingerlékenységéből adódóan)",
+    "id": "burung yang najis, mungkin burung beo (karena mudah marah)",
+    "it": "un uccello impuro, forse il pappagallo (per la sua irascibilità)",
+    "ja": "不浄の鳥",
+    "ko": "부정한 새, 아마도 앵무새(그 난폭함 때문에)",
+    "lt": "nešvarus paukštis, galbūt papūga (dėl jos irzlumo)",
+    "lv": "nešķīsts putns, iespējams, papagailis (no tā uzbudināmības)",
+    "nb": "en uren fugl, kanskje papegøyen (på grunn av dens hissighet)",
+    "nl": "een onreine vogel, misschien de papegaai (vanwege zijn lichtgeraaktheid)",
+    "pl": "nieczysty ptak, być może papuga (ze względu na jej drażliwość)",
+    "pt": "uma ave impura, talvez o papagaio (devido à sua irascibilidade)",
+    "ro": "o pasăre necurată, probabil papagalul (din cauza irascibilității sale)",
+    "ru": "нечистая птица, возможно, попугай (из-за его вспыльчивости)",
+    "sk": "nečistý vták, možno papagáj (pre jeho dráždivosť)",
+    "sl": "nečista ptica, morda papiga (zaradi njene razdražljivosti)",
+    "sv": "en oren fågel, kanske papegojan (på grund av att den är lättretlig)",
+    "tr": "kirli bir kuş, belki de papağan (sinirliliğinden dolayı)",
+    "uk": "нечистий птах, можливо, папуга (через свою запальність)",
+    "zh": "不洁之鸟，也许是鹦鹉（因其易怒）"
+  },
+  "hebrew": "אֲנָפָה",
+  "verses": [
+    "leviticus 11:19:2",
+    "deuteronomy 14:18:1"
+  ]
+}

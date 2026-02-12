@@ -1,0 +1,42 @@
+{
+  "number": "H390",
+  "language": "hebrew",
+  "transliteration": "ʼAkkad",
+  "pronunciation": "ak-kad'",
+  "definition": "Accad, a place in Babylon",
+  "kjvTranslation": "Accad.",
+  "translations": {
+    "bg": "Акад, място във Вавилон",
+    "cs": "Accad, místo v Babylonu",
+    "da": "Accad, et sted i Babylon",
+    "de": "Accad, ein Ort in Babylon",
+    "el": "Accad, ένας τόπος στη Βαβυλώνα",
+    "es": "Accad, un lugar en Babilonia",
+    "et": "Accad, koht Babüloonias",
+    "fi": "Accad, paikka Babyloniassa",
+    "fr": "Accad, localité de Babylone",
+    "hu": "Accad, egy hely Babilonban",
+    "id": "Accad, sebuah tempat di Babel",
+    "it": "Accad, una località di Babilonia",
+    "ja": "バビロンの地名",
+    "ko": "아카드, 바빌론의 한 장소",
+    "lt": "Accad, vieta Babilone",
+    "lv": "Accad, vieta Babilonā",
+    "nb": "Akkad, et sted i Babylon",
+    "nl": "Accad, een plaats in Babylon",
+    "pl": "Akad, miejsce w Babilonie",
+    "pt": "Accad, um lugar em Babilónia",
+    "ro": "Accad, un loc în Babilon",
+    "ru": "Аккад, место в Вавилоне",
+    "sk": "Accad, miesto v Babylone",
+    "sl": "Accad, kraj v Babilonu",
+    "sv": "Accad, en plats i Babylon",
+    "tr": "Accad, Babil'de bir yer",
+    "uk": "Аккад, місце у Вавилоні",
+    "zh": "阿卡德"
+  },
+  "hebrew": "אַכַּד",
+  "verses": [
+    "genesis 10:10:5"
+  ]
+}

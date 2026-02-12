@@ -1,0 +1,42 @@
+{
+  "number": "H1711",
+  "language": "hebrew",
+  "transliteration": "dâgâh",
+  "pronunciation": "daw-gaw'",
+  "definition": "to spawn, i.e. become numerous",
+  "kjvTranslation": "grow.",
+  "translations": {
+    "bg": "да се размножават, т.е. да стават многобройни",
+    "cs": "rozmnožovat se, tj. stát se početným",
+    "da": "at gyde, dvs. blive talrige",
+    "de": "zu laichen, d.h. zahlreich zu werden",
+    "el": "να αναπαραχθούν, δηλαδή να γίνουν πολυάριθμοι",
+    "es": "desovar, es decir, volverse numerosos",
+    "et": "kudema, s.t. muutuma arvukaks",
+    "fi": "kutemaan, toisin sanoen lisääntymään",
+    "fr": "de frayer, c'est-à-dire de devenir nombreux",
+    "hu": "hogy szaporodjanak, azaz megsokasodjanak",
+    "id": "untuk bertelur, yaitu menjadi banyak",
+    "it": "per riprodursi, cioè diventare numerosi",
+    "ja": "産卵する、つまり数が増える",
+    "ko": "를 생성하는 것, 즉 수많은",
+    "lt": "neršti, t. y. daugintis",
+    "lv": "vairoties, t. i., kļūt daudzskaitlīgiem",
+    "nb": "å gyte, dvs. bli mange",
+    "nl": "om te paaien, d.w.z. talrijk te worden",
+    "pl": "odrodzić się, tj. stać się licznym",
+    "pt": "desovar, ou seja, tornar-se numeroso",
+    "ro": "să se reproducă, adică să devină numeroase",
+    "ru": "размножаться, то есть становиться многочисленными",
+    "sk": "rozmnožovať sa, t. j. stať sa početným",
+    "sl": "se razmnožujejo, tj. postanejo številni",
+    "sv": "för att leka, dvs. bli många",
+    "tr": "yumurtlamak, yani sayıca çoğalmak",
+    "uk": "розмножуватися, тобто ставати численними",
+    "zh": "产卵，即数量增多"
+  },
+  "hebrew": "דָּגָה",
+  "verses": [
+    "genesis 48:16:15"
+  ]
+}

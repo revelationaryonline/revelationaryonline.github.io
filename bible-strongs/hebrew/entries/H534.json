@@ -1,0 +1,43 @@
+{
+  "number": "H534",
+  "language": "hebrew",
+  "transliteration": "ʼâmîyr",
+  "pronunciation": "aw-meer'",
+  "definition": "a summit (of a tree or mountain",
+  "kjvTranslation": "bough, branch.",
+  "translations": {
+    "bg": "връх (на дърво или планина)",
+    "cs": "vrchol (stromu nebo hory)",
+    "da": "en top (af et træ eller et bjerg)",
+    "de": "ein Gipfel (eines Baumes oder Berges)",
+    "el": "κορυφή (ενός δέντρου ή ενός βουνού)",
+    "es": "la cima (de un árbol o de una montaña)",
+    "et": "tipp (puu või mäe)",
+    "fi": "(puun tai vuoren) huippu",
+    "fr": "un sommet (d'un arbre ou d'une montagne)",
+    "hu": "csúcs (egy fa vagy hegy)",
+    "id": "puncak (pohon atau gunung)",
+    "it": "una cima (di un albero o di una montagna)",
+    "ja": "峰",
+    "ko": "정상(나무나 산의",
+    "lt": "viršūnė (medžio ar kalno)",
+    "lv": "virsotne (koka vai kalna)",
+    "nb": "en topp (av et tre eller et fjell)",
+    "nl": "een top (van een boom of berg",
+    "pl": "szczyt (drzewa lub góry)",
+    "pt": "um cume (de uma árvore ou montanha)",
+    "ro": "un vârf (al unui copac sau al unui munte",
+    "ru": "вершина (дерева или горы)",
+    "sk": "vrchol (stromu alebo hory)",
+    "sl": "vrh (drevesa ali gore)",
+    "sv": "en topp (på ett träd eller ett berg)",
+    "tr": "bir zirve (bir ağacın veya dağın",
+    "uk": "вершина (дерева або гори)",
+    "zh": "树顶"
+  },
+  "hebrew": "אָמִיר",
+  "verses": [
+    "isaiah 17:6:9",
+    "isaiah 17:9:7"
+  ]
+}

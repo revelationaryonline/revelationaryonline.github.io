@@ -1,0 +1,43 @@
+{
+  "number": "H7383",
+  "language": "hebrew",
+  "transliteration": "rîyphâh",
+  "pronunciation": "ree-faw'",
+  "definition": "(only plural), grits (as pounded)",
+  "kjvTranslation": "ground corn, wheat.",
+  "hebrew": "רִיפָה",
+  "translations": {
+    "bg": "(само в множествено число), grits (като натрошени)",
+    "cs": "(pouze v množném čísle), grits (jako drcený)",
+    "da": "(kun flertal), gryn (som stødt)",
+    "de": "(nur Plural), Grütze (wie gestampft)",
+    "el": "(μόνο στον πληθυντικό), grits (όπως χτυπημένο)",
+    "es": "(sólo en plural), grits (as pounded)",
+    "et": "(ainult mitmuses), grits (nagu purustatud)",
+    "fi": "(vain monikossa), grits (jauhettuna)",
+    "fr": "(uniquement au pluriel), grits (comme pilé)",
+    "hu": "(csak többes számban), gríz (mint pörkölt)",
+    "id": "(hanya jamak), bubur jagung (seperti ditumbuk)",
+    "it": "(solo al plurale), graniglia (come pestato)",
+    "ja": "(複数形のみ）、グリッツ（叩いたもの）",
+    "ko": "(복수형만 해당), 가루(빻은 것)",
+    "lt": "(tik daugiskaita), kruopos (kaip maltos)",
+    "lv": "(tikai daudzskaitlī), putraimi (kā putraimi)",
+    "nb": "(bare flertall), gryn (som stampet)",
+    "nl": "(alleen meervoud), grutten (als gestampt)",
+    "pl": "(tylko liczba mnoga), grys (jako tłuczony)",
+    "pt": "(só no plural), grits (como esmagados)",
+    "ro": "(numai la plural), grits (ca pisat)",
+    "ru": "(только во множественном числе), крупа (как толченая)",
+    "sk": "(len v množnom čísle), grits (ako mleté)",
+    "sl": "(samo v množini), grisini (v obliki drobljenca)",
+    "sv": "(endast plural), grits (som stampad)",
+    "tr": "(sadece çoğul), irmik (dövülmüş olarak)",
+    "uk": "(тільки у множині), крупа (як розтерта)",
+    "zh": "糁"
+  },
+  "verses": [
+    "secondSamuel 17:19:10",
+    "proverbs 27:22:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4197",
+  "language": "hebrew",
+  "transliteration": "mezeg",
+  "pronunciation": "meh'-zeg",
+  "definition": "tempered wine",
+  "kjvTranslation": "liquor.",
+  "hebrew": "מֶזֶג",
+  "translations": {
+    "bg": "темперирано вино",
+    "cs": "temperované víno",
+    "da": "tempereret vin",
+    "de": "temperierter Wein",
+    "el": "μετριασμένο κρασί",
+    "es": "vino templado",
+    "et": "karastatud vein",
+    "fi": "karkaistu viini",
+    "fr": "vin tempéré",
+    "hu": "temperált bor",
+    "id": "anggur temper",
+    "it": "vino temperato",
+    "ja": "テンパードワイン",
+    "ko": "강화 와인",
+    "lt": "temperuotas vynas",
+    "lv": "rūdīts vīns",
+    "nb": "temperert vin",
+    "nl": "getemperde wijn",
+    "pl": "wino hartowane",
+    "pt": "vinho temperado",
+    "ro": "vin temperat",
+    "ru": "закалённое вино",
+    "sk": "temperované víno",
+    "sl": "kaljeno vino",
+    "sv": "tempererat vin",
+    "tr": "sertleştirilmiş şarap",
+    "uk": "витримане вино",
+    "zh": "调和酒"
+  },
+  "verses": [
+    "solomon 7:3:5"
+  ]
+}

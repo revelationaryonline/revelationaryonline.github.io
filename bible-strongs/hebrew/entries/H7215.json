@@ -1,0 +1,43 @@
+{
+  "number": "H7215",
+  "language": "hebrew",
+  "transliteration": "râʼmâh",
+  "pronunciation": "raw-maw'",
+  "definition": "something high in value, i.e. perhaps coral",
+  "kjvTranslation": "coral.",
+  "hebrew": "רָאמָה",
+  "translations": {
+    "bg": "нещо с висока стойност, например корали",
+    "cs": "něco hodnotného, např. korály",
+    "da": "noget af høj værdi, dvs. måske koraller",
+    "de": "etwas von hohem Wert, z. B. eine Koralle",
+    "el": "κάτι υψηλής αξίας, π.χ. ίσως κοράλλια",
+    "es": "algo de alto valor, es decir, quizás coral",
+    "et": "midagi kõrge väärtusega, st võib-olla korallid",
+    "fi": "jotakin arvokasta, esimerkiksi korallia",
+    "fr": "quelque chose de grande valeur, par exemple du corail",
+    "hu": "valami nagy értékű dolog, pl. talán korall",
+    "id": "sesuatu yang bernilai tinggi, yaitu mungkin karang",
+    "it": "qualcosa di alto valore, ad esempio forse corallo",
+    "ja": "価値の高いもの、つまりサンゴだろう",
+    "ko": "산호처럼 가치가 높은 것, 예를 들어",
+    "lt": "ką nors vertingo, t. y. galbūt koralus",
+    "lv": "kaut ko vērtīgu, piemēram, koraļļus",
+    "nb": "noe av høy verdi, f.eks. kanskje koraller",
+    "nl": "iets met een hoge waarde, bijvoorbeeld koraal",
+    "pl": "coś o wysokiej wartości, np. koralowiec",
+    "pt": "algo de elevado valor, ou seja, talvez um coral",
+    "ro": "ceva de mare valoare, de exemplu, poate corali",
+    "ru": "что-то ценное, например, кораллы",
+    "sk": "niečo hodnotné, napr. koraly",
+    "sl": "nekaj, kar ima veliko vrednost, npr. korale",
+    "sv": "något med högt värde, t.ex. kanske koraller",
+    "tr": "değeri yüksek bir şey, örneğin belki mercan",
+    "uk": "щось, що має високу вартість, наприклад, корал",
+    "zh": "高价值的东西，比如珊瑚"
+  },
+  "verses": [
+    "job 28:18:0",
+    "ezekiel 27:16:8"
+  ]
+}

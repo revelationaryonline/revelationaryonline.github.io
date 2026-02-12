@@ -1,0 +1,42 @@
+{
+  "number": "H2911",
+  "language": "hebrew",
+  "transliteration": "ṭᵉchôwn",
+  "pronunciation": "tekh-one'",
+  "definition": "a hand mill; hence, a millstone",
+  "kjvTranslation": "to grind.",
+  "translations": {
+    "bg": "ръчна мелница; оттук и воденичен камък",
+    "cs": "ruční mlýn; odtud mlýnský kámen",
+    "da": "en håndmølle; derfor en møllesten",
+    "de": "eine Handmühle; daher ein Mühlstein",
+    "el": "ένας χειρόμυλος- ως εκ τούτου, μια μυλόπετρα",
+    "es": "un molino de mano; de ahí, una piedra de molino",
+    "et": "käsiveski; seega veskikivi",
+    "fi": "käsimylly; siis myllynkivi",
+    "fr": "un moulin à main ; d'où une meule",
+    "hu": "kézi malom; ebből következően malomkő",
+    "id": "gilingan tangan; oleh karena itu, batu giling",
+    "it": "un mulino a mano; quindi, una macina da mulino",
+    "ja": "手挽き臼、つまり石臼",
+    "ko": "맷돌; 따라서 맷돌을 의미합니다",
+    "lt": "rankinis malūnas, taigi, girnų akmuo",
+    "lv": "rokas dzirnavas, tātad dzirnakmens",
+    "nb": "en håndkvern; derav en kvernstein",
+    "nl": "een handmolen; vandaar, een molensteen",
+    "pl": "młyn ręczny; stąd kamień młyński",
+    "pt": "um moinho manual; portanto, uma mó",
+    "ro": "o moară manuală; prin urmare, o piatră de moară",
+    "ru": "ручная мельница; отсюда жернов",
+    "sk": "ručný mlyn, teda mlynský kameň",
+    "sl": "ročni mlin; od tod mlinski kamen",
+    "sv": "en handkvarn, därav en kvarnsten",
+    "tr": "bir el değirmeni; dolayısıyla bir değirmen taşı",
+    "uk": "ручний млин, звідси і жорна",
+    "zh": "手磨；因此，磨石"
+  },
+  "hebrew": "טְחוֹן",
+  "verses": [
+    "lamentations 5:13:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1080",
+  "language": "hebrew",
+  "transliteration": "bᵉlâʼ",
+  "pronunciation": "bel-aw'",
+  "definition": "to afflict",
+  "kjvTranslation": "wear out.",
+  "translations": {
+    "bg": "да страда",
+    "cs": "postihnout",
+    "da": "at plage",
+    "de": "zu plagen",
+    "el": "να ταλαιπωρήσει",
+    "es": "afligir",
+    "et": "vaevata",
+    "fi": "ahdistamaan",
+    "fr": "d'affliger",
+    "hu": "megrontani",
+    "id": "untuk menyengsarakan",
+    "it": "affliggere",
+    "ja": "苦しめる",
+    "ko": "괴롭히다",
+    "lt": "varginti",
+    "lv": "apgrūtināt",
+    "nb": "å plage",
+    "nl": "teisteren",
+    "pl": "dotknąć",
+    "pt": "afligir",
+    "ro": "să afecteze",
+    "ru": "страдать",
+    "sk": "trápiť",
+    "sl": "prizadeti",
+    "sv": "att plåga",
+    "tr": "etkilemek",
+    "uk": "щоб зачепити",
+    "zh": "受苦"
+  },
+  "hebrew": "בְּלָא",
+  "verses": [
+    "daniel 7:25:7"
+  ]
+}

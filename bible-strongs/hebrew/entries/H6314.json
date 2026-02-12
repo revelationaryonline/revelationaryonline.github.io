@@ -1,0 +1,42 @@
+{
+  "number": "H6314",
+  "language": "hebrew",
+  "transliteration": "pûwgâh",
+  "pronunciation": "poo-gaw'",
+  "definition": "intermission",
+  "kjvTranslation": "rest.",
+  "hebrew": "פּוּגָה",
+  "translations": {
+    "bg": "антракт",
+    "cs": "přestávka",
+    "da": "pause",
+    "de": "unterbrechung",
+    "el": "διάλειμμα",
+    "es": "intermedio",
+    "et": "vaheaeg",
+    "fi": "tauko",
+    "fr": "entracte",
+    "hu": "szünet",
+    "id": "istirahat",
+    "it": "intervallo",
+    "ja": "休憩",
+    "ko": "인터미션",
+    "lt": "pertrauka",
+    "lv": "pārtraukums",
+    "nb": "pause",
+    "nl": "pauze",
+    "pl": "przerwa",
+    "pt": "intervalo",
+    "ro": "pauză",
+    "ru": "антракт",
+    "sk": "prestávka",
+    "sl": "odmor",
+    "sv": "paus",
+    "tr": "aRA",
+    "uk": "антракт",
+    "zh": "中场休息"
+  },
+  "verses": [
+    "lamentations 2:18:14"
+  ]
+}

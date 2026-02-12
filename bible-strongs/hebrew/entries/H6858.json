@@ -1,0 +1,42 @@
+{
+  "number": "H6858",
+  "language": "hebrew",
+  "transliteration": "tsepheth",
+  "pronunciation": "tseh'-feth",
+  "definition": "a capital of a column",
+  "kjvTranslation": "chapiter.",
+  "hebrew": "צֶפֶת",
+  "translations": {
+    "bg": "столица на колона",
+    "cs": "hlavní písmeno sloupce",
+    "da": "en hovedstad i en søjle",
+    "de": "das Kapital einer Säule",
+    "el": "ένα κεφάλαιο μιας στήλης",
+    "es": "el capitel de una columna",
+    "et": "veeru pealinn",
+    "fi": "pylvään pääoma",
+    "fr": "un chapiteau d'une colonne",
+    "hu": "egy oszlop tőkéje",
+    "id": "modal dari sebuah kolom",
+    "it": "un capitello di una colonna",
+    "ja": "柱頭",
+    "ko": "열의 대문자",
+    "lt": "stulpelio kapitalas",
+    "lv": "kolonnas galvaspilsēta",
+    "nb": "en hovedstad i en kolonne",
+    "nl": "een hoofdletter van een kolom",
+    "pl": "kapitał kolumny",
+    "pt": "um capitel de uma coluna",
+    "ro": "un capitel de coloană",
+    "ru": "столица колонны",
+    "sk": "hlavné mesto stĺpca",
+    "sl": "glavno mesto stolpca",
+    "sv": "ett kapital av en kolumn",
+    "tr": "bir sütunun başkenti",
+    "uk": "заголовок колонки",
+    "zh": "栌"
+  },
+  "verses": [
+    "secondChronicles 3:15:9"
+  ]
+}

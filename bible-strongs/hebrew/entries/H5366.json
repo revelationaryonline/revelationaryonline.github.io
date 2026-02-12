@@ -1,0 +1,43 @@
+{
+  "number": "H5366",
+  "language": "hebrew",
+  "transliteration": "nᵉqârâh",
+  "pronunciation": "nek-aw-raw'",
+  "definition": "{to bore (penetrate, quarry)}",
+  "kjvTranslation": "cleft, clift.",
+  "hebrew": "נְקָרָה",
+  "translations": {
+    "bg": "{да пробива (прониква, добива)}",
+    "cs": "{vrtat (pronikat, dobývat)}",
+    "da": "{at bore (gennemtrænge, fange)}",
+    "de": "{bohren (eindringen, erbeuten)}",
+    "el": "{to bore (διεισδύω, λατομείο)}",
+    "es": "{perforar (penetrar, cantera)}",
+    "et": "{puurida (tungida, kaevandada)}",
+    "fi": "{porata (tunkeutua, louhia)}",
+    "fr": "{pour percer (pénétrer, exploiter) }",
+    "hu": "{fúrni (behatolni, bányászni)}",
+    "id": "{mengebor (menembus, menggali)}",
+    "it": "{puntare (penetrare, cavare)}",
+    "ja": "{貫通させる。",
+    "ko": "{구멍을 뚫다(관통하다, 채석하다)}",
+    "lt": "{gręžti (įsiskverbti, išgauti)}",
+    "lv": "{izdurt (iekļūt, iekarot)}",
+    "nb": "{å bore (trenge gjennom, bryte) }",
+    "nl": "{to bore (penetrate, quarry)}",
+    "pl": "{przebijać (penetrować, łowić)}",
+    "pt": "{para furar (penetrar, extrair)",
+    "ro": "{pentru a străpunge (a pătrunde, a face carieră)}",
+    "ru": "{бурить (проникать, добывать)}",
+    "sk": "{vŕtať (preniknúť, lomiť)}",
+    "sl": "{izvrtati (prodreti, izkopati)}",
+    "sv": "{att borra (tränga igenom, beröva)}",
+    "tr": "{delmek (nüfuz etmek, taş ocağı)}",
+    "uk": "{пробурювати (проникати, видобувати)}",
+    "zh": "{钻孔（穿透、采石）}"
+  },
+  "verses": [
+    "exodus 33:22:4",
+    "isaiah 2:21:1"
+  ]
+}

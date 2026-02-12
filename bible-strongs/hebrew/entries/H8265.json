@@ -1,0 +1,42 @@
+{
+  "number": "H8265",
+  "language": "hebrew",
+  "transliteration": "sâqar",
+  "pronunciation": "saw-kar'",
+  "definition": "to ogle, i.e. blink coquettishly",
+  "kjvTranslation": "wanton.",
+  "hebrew": "שָׂקַר",
+  "translations": {
+    "bg": "да поглеждам, т.е. да мигам кокетно",
+    "cs": "okukovat, tj. koketně mrkat",
+    "da": "at glo, dvs. blinke koket",
+    "de": "liebäugeln, d.h. kokett blinzeln",
+    "el": "να χαζεύω, δηλαδή να ανοιγοκλείνω τα μάτια κοκέτα",
+    "es": "ojear, es decir, parpadear coquetamente",
+    "et": "vaatama, s.t. koketselt silmi pilgutama",
+    "fi": "tuijottaa, eli räpytellä silmiään viehättävästi",
+    "fr": "lorgner, c'est-à-dire cligner des yeux avec coquetterie",
+    "hu": "bámulni, azaz kacéran pislogni",
+    "id": "untuk melirik, yaitu mengedipkan mata dengan genit",
+    "it": "guardare, cioè ammiccare in modo civettuolo",
+    "ja": "色っぽくまばたきをする",
+    "ko": "응시하다, 즉 유혹적으로 눈을 깜박이다",
+    "lt": "žvilgčioti, t. y. koketiškai mirksėti",
+    "lv": "aplūkot, t. i., koķetīgi mirkšķināt",
+    "nb": "å glane, dvs. blunke kokett",
+    "nl": "lonken, d.w.z. koket knipperen",
+    "pl": "gapić się, tj. mrugać kokieteryjnie",
+    "pt": "olhar, ou seja, piscar os olhos de forma coquete",
+    "ro": "a se holba, adică a clipi cochet",
+    "ru": "глазеть, т.е. кокетливо моргать",
+    "sk": "obzerať sa, t. j. koketne žmurkať",
+    "sl": "spogledovati, tj. koketno mežikati",
+    "sv": "att snegla, dvs. blinka kokett",
+    "tr": "göz süzmek, yani cilveli bir şekilde göz kırpmak",
+    "uk": "витріщатися, тобто кокетливо моргати",
+    "zh": "抛媚眼"
+  },
+  "verses": [
+    "isaiah 3:16:11"
+  ]
+}

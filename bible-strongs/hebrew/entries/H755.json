@@ -1,0 +1,42 @@
+{
+  "number": "H755",
+  "language": "hebrew",
+  "transliteration": "ʼarkubâh",
+  "pronunciation": "ar-koo-baw'",
+  "definition": "the knee",
+  "kjvTranslation": "knee.",
+  "translations": {
+    "bg": "коляното",
+    "cs": "koleno",
+    "da": "knæet",
+    "de": "das Knie",
+    "el": "το γόνατο",
+    "es": "la rodilla",
+    "et": "põlve",
+    "fi": "polvi",
+    "fr": "le genou",
+    "hu": "a térd",
+    "id": "lutut",
+    "it": "il ginocchio",
+    "ja": "膝",
+    "ko": "무릎",
+    "lt": "kelio sąnarys",
+    "lv": "ceļgala",
+    "nb": "kneet",
+    "nl": "de knie",
+    "pl": "kolano",
+    "pt": "o joelho",
+    "ro": "genunchiul",
+    "ru": "колено",
+    "sk": "koleno",
+    "sl": "koleno",
+    "sv": "knäet",
+    "tr": "dİZ",
+    "uk": "коліно",
+    "zh": "膝部"
+  },
+  "hebrew": "אַרְכֻבָה",
+  "verses": [
+    "daniel 5:6:9"
+  ]
+}

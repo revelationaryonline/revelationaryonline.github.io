@@ -1,0 +1,43 @@
+{
+  "number": "H4499",
+  "language": "hebrew",
+  "transliteration": "mᵉnûwçâh",
+  "pronunciation": "men-oo-saw'",
+  "definition": "retreat",
+  "kjvTranslation": "fleeing, flight.",
+  "hebrew": "מְנוּסָה",
+  "verses": [
+    "leviticus 26:36:13",
+    "isaiah 52:12:4"
+  ],
+  "translations": {
+    "bg": "отстъпление",
+    "cs": "ústup",
+    "da": "tilbagetrækning",
+    "de": "rückzug",
+    "el": "υποχώρηση",
+    "es": "retiro",
+    "et": "taganemine",
+    "fi": "vetäytyminen",
+    "fr": "retraite",
+    "hu": "visszavonulás",
+    "id": "mundur",
+    "it": "ritiro",
+    "ja": "撤退",
+    "ko": "후퇴",
+    "lt": "atsitraukimas",
+    "lv": "atkāpšanās",
+    "nb": "retrett",
+    "nl": "retraite",
+    "pl": "odwrót",
+    "pt": "retiro",
+    "ro": "retragere",
+    "ru": "отступление",
+    "sk": "ústup",
+    "sl": "umik",
+    "sv": "reträtt",
+    "tr": "geri çekilme",
+    "uk": "притулок",
+    "zh": "退却"
+  }
+}

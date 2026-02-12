@@ -1,0 +1,42 @@
+{
+  "number": "H4123",
+  "language": "hebrew",
+  "transliteration": "mahăthallâh",
+  "pronunciation": "mah-hath-al-law'",
+  "definition": "a delusion",
+  "kjvTranslation": "deceit.",
+  "hebrew": "מַהֲתַלָּה",
+  "translations": {
+    "bg": "заблуда",
+    "cs": "klam",
+    "da": "en vildfarelse",
+    "de": "eine Täuschung",
+    "el": "μια αυταπάτη",
+    "es": "una ilusión",
+    "et": "eksitus",
+    "fi": "harhaluulo",
+    "fr": "une illusion",
+    "hu": "téveszme",
+    "id": "sebuah khayalan",
+    "it": "un'illusione",
+    "ja": "妄想",
+    "ko": "망상",
+    "lt": "iliuzija",
+    "lv": "maldi",
+    "nb": "en vrangforestilling",
+    "nl": "een waanidee",
+    "pl": "złudzenie",
+    "pt": "uma ilusão",
+    "ro": "o iluzie",
+    "ru": "заблуждение",
+    "sk": "klam",
+    "sl": "zabloda",
+    "sv": "en vanföreställning",
+    "tr": "bir hayal",
+    "uk": "омана",
+    "zh": "错觉"
+  },
+  "verses": [
+    "isaiah 30:10:14"
+  ]
+}

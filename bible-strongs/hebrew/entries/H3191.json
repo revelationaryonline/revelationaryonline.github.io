@@ -1,0 +1,42 @@
+{
+  "number": "H3191",
+  "language": "hebrew",
+  "transliteration": "yᵉṭab",
+  "pronunciation": "yet-ab'",
+  "definition": "{to be (causative) make well, literally (sound, beautiful) or figuratively (happy, successful, right)}",
+  "kjvTranslation": "seem good.",
+  "translations": {
+    "bg": "{да бъдеш (каузатив) добре, буквално (здрав, красив) или преносно (щастлив, успешен, правилен)}",
+    "cs": "{být (kauzativ) dobře, doslova (zdravý, krásný) nebo přeneseně (šťastný, úspěšný, správný)}",
+    "da": "{at være (kausativ) gøre godt, bogstaveligt (sund, smuk) eller i overført betydning (glad, succesfuld, rigtig)}",
+    "de": "{gut sein (Kausativ) machen, wörtlich (gesund, schön) oder bildlich (glücklich, erfolgreich, richtig)}",
+    "el": "{να είσαι (αιτιατική) να κάνεις καλά, κυριολεκτικά (υγιής, όμορφος) ή μεταφορικά (ευτυχισμένος, επιτυχημένος, σωστός)}",
+    "es": "{ser (causativo) hacer bien, literalmente (sano, bello) o figuradamente (feliz, exitoso, correcto)}",
+    "et": "{(põhjuslik) teha hästi, sõna otseses mõttes (hea, ilus) või ülekantud tähenduses (õnnelik, edukas, õige)}",
+    "fi": "{olla (kausatiivi) tehdä hyvin, kirjaimellisesti (terveenä, kauniina) tai kuvaannollisesti (onnellisena, menestyneenä, oikeana)}",
+    "fr": "{être (causatif) faire bien, au sens propre (sain, beau) ou au sens figuré (heureux, réussi, juste)}",
+    "hu": "{(kauzatívusz) jól csinálni, szó szerint (hangos, szép) vagy átvitt értelemben (boldog, sikeres, helyes)}",
+    "id": "{menjadi (penyebab) membuat baik, secara harfiah (sehat, indah) atau kiasan (bahagia, sukses, benar)}",
+    "it": "{essere (causativo) fare bene, letteralmente (sano, bello) o figurativamente (felice, di successo, giusto)}",
+    "ja": "{文字どおり（健全な、美しい）、あるいは比喩的に（幸福な、成功した、正しい）、うまく（因果的に）なるように｝。",
+    "ko": "{(원인이 되다) 잘 되다, 문자 그대로(건전하다, 아름답다) 또는 비유적으로(행복하다, 성공하다, 옳다)}",
+    "lt": "{būti (kauzatyvas) gerai, tiesiogine prasme (skambus, gražus) arba perkeltine prasme (laimingas, sėkmingas, teisingas)}",
+    "lv": "{būt (cēloņsakarīgi) labi, burtiski (skaisti, skaisti) vai pārnestā nozīmē (laimīgi, veiksmīgi, pareizi)}",
+    "nb": "{å være (kausativ) gjøre godt, bokstavelig (sunn, vakker) eller i overført betydning (lykkelig, vellykket, riktig)}",
+    "nl": "{goed zijn (causatief) maken, letterlijk (gezond, mooi) of figuurlijk (gelukkig, succesvol, juist)}",
+    "pl": "{być (przyczynowym) czynić dobrze, dosłownie (zdrowym, pięknym) lub w przenośni (szczęśliwym, odnoszącym sukcesy, właściwym)}",
+    "pt": "{ser (causativo) fazer bem, literalmente (sadio, belo) ou figurativamente (feliz, bem sucedido, correto)}",
+    "ro": "{to be (causative) make well, la propriu (sunet, frumos) sau la figurat (fericit, de succes, corect)}",
+    "ru": "{быть (каузатив) хорошим, буквально (звучным, красивым) или фигурально (счастливым, успешным, правильным)}",
+    "sk": "{byť (kauzatív) dobre, doslovne (zdravý, krásny) alebo obrazne (šťastný, úspešný, správny)}",
+    "sl": "{biti (vzročno) dobro, dobesedno (zdravo, lepo) ali v prenesenem pomenu (srečno, uspešno, pravilno)}",
+    "sv": "{att vara (kausativ) göra bra, bokstavligen (sund, vacker) eller bildligt (lycklig, framgångsrik, rätt)}",
+    "tr": "{(ettirgen) iyi olmak, gerçek anlamda (sağlam, güzel) veya mecazi anlamda (mutlu, başarılı, doğru)}",
+    "uk": "{бути (каузатив) робити добре, буквально (здоровим, красивим) або у переносному значенні (щасливим, успішним, правильним)}",
+    "zh": "{做（因果）使好，字面意思（健全、美丽）或比喻（快乐、成功、正确）}。"
+  },
+  "hebrew": "יְטַב",
+  "verses": [
+    "ezra 7:18:7"
+  ]
+}

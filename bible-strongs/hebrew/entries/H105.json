@@ -1,0 +1,43 @@
+{
+  "number": "H105",
+  "language": "hebrew",
+  "transliteration": "ʼăgarṭâl",
+  "pronunciation": "ag-ar-tawl'",
+  "definition": "a basin",
+  "kjvTranslation": "charger.",
+  "translations": {
+    "bg": "басейн",
+    "cs": "umyvadlo",
+    "da": "et bassin",
+    "de": "ein Becken",
+    "el": "μια λεκάνη",
+    "es": "una cuenca",
+    "et": "bassein",
+    "fi": "allas",
+    "fr": "un bassin",
+    "hu": "egy medence",
+    "id": "sebuah baskom",
+    "it": "un bacino",
+    "ja": "盆地",
+    "ko": "대야",
+    "lt": "baseinas",
+    "lv": "baseins",
+    "nb": "et basseng",
+    "nl": "een bassin",
+    "pl": "umywalka",
+    "pt": "uma bacia",
+    "ro": "un bazin",
+    "ru": "бассейн",
+    "sk": "umývadlo",
+    "sl": "bazen",
+    "sv": "en bassäng",
+    "tr": "bir leğen",
+    "uk": "тазик",
+    "zh": "盆"
+  },
+  "hebrew": "אֲגַרְטָל",
+  "verses": [
+    "ezra 1:9:2",
+    "ezra 1:9:5"
+  ]
+}

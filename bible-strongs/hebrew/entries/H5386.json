@@ -1,0 +1,43 @@
+{
+  "number": "H5386",
+  "language": "hebrew",
+  "transliteration": "nᵉshîy",
+  "pronunciation": "nesh-ee'",
+  "definition": "a debt",
+  "kjvTranslation": "debt.",
+  "hebrew": "נְשִׁי",
+  "translations": {
+    "bg": "дълг",
+    "cs": "dluh",
+    "da": "en gæld",
+    "de": "eine Schuld",
+    "el": "ένα χρέος",
+    "es": "una deuda",
+    "et": "võlg",
+    "fi": "velka",
+    "fr": "une dette",
+    "hu": "egy adósság",
+    "id": "hutang",
+    "it": "un debito",
+    "ja": "借金",
+    "ko": "부채",
+    "lt": "skola",
+    "lv": "parāds",
+    "nb": "en gjeld",
+    "nl": "een schuld",
+    "pl": "dług",
+    "pt": "uma dívida",
+    "ro": "o datorie",
+    "ru": "долг",
+    "sk": "dlh",
+    "sl": "dolg",
+    "sv": "en skuld",
+    "tr": "bir borç",
+    "uk": "борг",
+    "zh": "债务"
+  },
+  "verses": [
+    "secondKings 4:7:11",
+    "secondKings 4:7:12"
+  ]
+}

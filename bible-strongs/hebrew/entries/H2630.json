@@ -1,0 +1,42 @@
+{
+  "number": "H2630",
+  "language": "hebrew",
+  "transliteration": "châçan",
+  "pronunciation": "khaw-san'",
+  "definition": "properly, to (be) compact; by implication, to hoard",
+  "kjvTranslation": "lay up.",
+  "translations": {
+    "bg": "правилно, да бъде (да бъде) компактен; по подразбиране, да се трупа",
+    "cs": "správně, (být) kompaktní; implicitně, hromadit",
+    "da": "korrekt, at (være) kompakt; underforstået, at hamstre",
+    "de": "richtig: kompakt (sein); implizit: horten",
+    "el": "σωστά, να (είναι) συμπαγής- με την έννοια, να συσσωρεύω",
+    "es": "propiamente, (ser) compacto; implícitamente, acaparar",
+    "et": "õigesti, (olla) kompaktselt; kaudselt, varuda",
+    "fi": "oikein, (olla) tiivis; implisiittisesti, hamstrata",
+    "fr": "proprement, (être) compact ; par implication, amasser",
+    "hu": "megfelelően, tömörnek lenni; értelemszerűen, felhalmozni",
+    "id": "dengan benar, menjadi (menjadi) padat; dengan implikasi, menimbun",
+    "it": "propriamente, (essere) compatto; per implicazione, accumulare",
+    "ja": "正しくは、コンパクトにする。",
+    "ko": "적절하게, 콤팩트하다; 암시적으로, 쌓아두다",
+    "lt": "tinkamai, (būti) kompaktiškas; netiesiogiai - kaupti",
+    "lv": "pareizi - (būt) kompakts; netieši - uzkrāt",
+    "nb": "egentlig, å (være) kompakt; underforstått, å hamstre",
+    "nl": "naar behoren, compact zijn; impliciet, oppotten",
+    "pl": "właściwie, aby (być) zwartym; w domyśle, gromadzić",
+    "pt": "propriamente, (ser) compacto; implicitamente, acumular",
+    "ro": "propriu-zis, a (fi) compact; implicit, a tezauriza",
+    "ru": "правильно, быть компактным; по косвенным признакам, накапливать",
+    "sk": "správne, (byť) kompaktný; implicitne, hromadiť",
+    "sl": "pravilno, (biti) kompakten; implicitno, kopičiti",
+    "sv": "korrekt, att (vara) kompakt; underförstått, att hamstra",
+    "tr": "düzgün bir şekilde, kompakt (olmak); ima yoluyla, istiflemek",
+    "uk": "правильно, бути (бути) компактним; за змістом, накопичувати",
+    "zh": "正确地说，是 \"紧凑\"；言下之意，是 \"囤积\"。"
+  },
+  "hebrew": "חָסַן",
+  "verses": [
+    "isaiah 23:18:8"
+  ]
+}

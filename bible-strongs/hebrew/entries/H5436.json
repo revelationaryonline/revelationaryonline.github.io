@@ -1,0 +1,42 @@
+{
+  "number": "H5436",
+  "language": "hebrew",
+  "transliteration": "Çᵉbâʼîy",
+  "pronunciation": "seb-aw-ee'",
+  "definition": "a Sebaite, or inhabitant of Seba",
+  "kjvTranslation": "Sabean.",
+  "hebrew": "סְבָאִי",
+  "translations": {
+    "bg": "себаит или жител на Себа",
+    "cs": "sebaita neboli obyvatel Séby",
+    "da": "en Sebaite, eller indbygger i Seba",
+    "de": "ein Sebaiter oder Einwohner von Seba",
+    "el": "σεβαίτης, ή κάτοικος της Σεβά",
+    "es": "un sebaíta, o habitante de Seba",
+    "et": "sebaite ehk Seba elanik",
+    "fi": "sebalainen tai Seban asukas",
+    "fr": "sébaïte ou habitant de Séba",
+    "hu": "szebeni, vagy szebeni lakos",
+    "id": "seorang Sebaite, atau penduduk Seba",
+    "it": "un sebano, o un abitante di Seba",
+    "ja": "セバ人（セバの住民",
+    "ko": "세바이트, 또는 세바의 거주자",
+    "lt": "sebaitas arba Seba gyventojas",
+    "lv": "sebaīts jeb Sēbas iedzīvotājs",
+    "nb": "en Sebaite, eller innbygger av Seba",
+    "nl": "een Sebaiet, of inwoner van Seba",
+    "pl": "sebaita lub mieszkaniec Seby",
+    "pt": "sebaite, ou habitante de Seba",
+    "ro": "sebait sau locuitor din Seba",
+    "ru": "себаец, или житель Себы",
+    "sk": "sebaita alebo obyvateľ Seba",
+    "sl": "sebait ali prebivalec Sebe",
+    "sv": "en Sebaite, eller invånare i Seba",
+    "tr": "seba'lı ya da Seba'da yaşayan biri",
+    "uk": "себаїт, або мешканець Себи",
+    "zh": "塞巴人，即塞巴的居民"
+  },
+  "verses": [
+    "isaiah 45:14:7"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1716",
+  "language": "hebrew",
+  "transliteration": "dâgar",
+  "pronunciation": "daw-gar'",
+  "definition": "to brood over eggs or young",
+  "kjvTranslation": "gather, sit.",
+  "translations": {
+    "bg": "да отглежда яйца или малки",
+    "cs": "k hlídání vajec nebo mláďat",
+    "da": "at ruge på æg eller unger",
+    "de": "das Ausbrüten von Eiern oder Jungen",
+    "el": "να επωάζει αυγά ή νεαρά άτομα",
+    "es": "empollar huevos o crías",
+    "et": "munade või poegade kurnamiseks",
+    "fi": "munien tai poikasten hautominen",
+    "fr": "couver des œufs ou des jeunes",
+    "hu": "a tojások vagy a fiatalok felett való költés",
+    "id": "untuk merenung di atas telur atau anak",
+    "it": "covare le uova o i piccoli",
+    "ja": "卵や子供をあやす",
+    "ko": "알이나 새끼를 키우다",
+    "lt": "prižiūrėti kiaušinius ar jauniklius",
+    "lv": "pārraudzīt olas vai mazuļus",
+    "nb": "å ruge på egg eller unger",
+    "nl": "om op eieren of jongen te broeden",
+    "pl": "do wylęgu nad jajami lub młodymi",
+    "pt": "chocar ovos ou crias",
+    "ro": "a crește ouă sau pui",
+    "ru": "высиживать яйца или молодняк",
+    "sk": "vysedieť vajíčka alebo mláďatá",
+    "sl": "za valjenje jajc ali mladičev",
+    "sv": "att ruva över ägg eller ungar",
+    "tr": "yumurtaların veya yavruların üzerinde kuluçkaya yatmak",
+    "uk": "висиджувати яйця або молодняк",
+    "zh": "哺育"
+  },
+  "hebrew": "דָּגַר",
+  "verses": [
+    "isaiah 34:15:5",
+    "jeremiah 17:11:1"
+  ]
+}

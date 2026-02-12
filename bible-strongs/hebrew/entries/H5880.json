@@ -1,0 +1,42 @@
+{
+  "number": "H5880",
+  "language": "hebrew",
+  "transliteration": "ʻÊyn Mishpâṭ",
+  "pronunciation": "ane mish-pawt'",
+  "definition": "En-Mishpat, a place near Palestine",
+  "kjvTranslation": "En-mishpat.",
+  "hebrew": "עֵין מִשְׁפָּט",
+  "translations": {
+    "bg": "Ен-Мишпат, място близо до Палестина",
+    "cs": "En-Mishpat, místo poblíž Palestiny",
+    "da": "En-Mishpat, et sted nær Palæstina",
+    "de": "En-Mishpat, ein Ort in der Nähe von Palästina",
+    "el": "En-Mishpat, ένας τόπος κοντά στην Παλαιστίνη",
+    "es": "En-Mishpat, un lugar cerca de Palestina",
+    "et": "En-Mishpat, koht Palestiina lähedal",
+    "fi": "En-Mishpat, paikka Palestiinan lähellä",
+    "fr": "En-Mishpat, un lieu près de la Palestine",
+    "hu": "En-Mishpat, egy hely Palesztina közelében",
+    "id": "En-Mishpat, sebuah tempat di dekat Palestina",
+    "it": "En-Mishpat, un luogo vicino alla Palestina",
+    "ja": "パレスチナ近郊の地、エン＝ミシュパット",
+    "ko": "엔미쉬팟, 팔레스타인 인근 지역",
+    "lt": "En-Mišpatas, vietovė netoli Palestinos",
+    "lv": "En-Mishpat, vieta netālu no Palestīnas",
+    "nb": "En-Mishpat, et sted i nærheten av Palestina",
+    "nl": "En-Mishpat, een plaats bij Palestina",
+    "pl": "En-Mishpat, miejsce w pobliżu Palestyny",
+    "pt": "En-Mishpat, um lugar perto da Palestina",
+    "ro": "En-Mishpat, un loc lângă Palestina",
+    "ru": "Эн-Мишпат, место вблизи Палестины",
+    "sk": "En-Mishpat, miesto v blízkosti Palestíny",
+    "sl": "En-Mishpat, kraj blizu Palestine",
+    "sv": "En-Mishpat, en plats i närheten av Palestina",
+    "tr": "En-Mişpat, Filistin yakınlarında bir yer",
+    "uk": "Ен-Мішпат, місцевість поблизу Палестини",
+    "zh": "恩米什帕"
+  },
+  "verses": [
+    "genesis 14:7:4"
+  ]
+}

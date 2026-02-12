@@ -1,0 +1,43 @@
+{
+  "number": "H7886",
+  "language": "hebrew",
+  "transliteration": "Shîylôh",
+  "pronunciation": "shee-lo'",
+  "definition": "Shiloh, an epithet of the Messiah",
+  "kjvTranslation": "Shiloh.",
+  "hebrew": "שִׁילֹה",
+  "translations": {
+    "bg": "Силох, епитет на Месията",
+    "cs": "Šílo, epiteton Mesiáše",
+    "da": "Shiloh, en betegnelse for Messias",
+    "de": "Shiloh, ein Beiname des Messias",
+    "el": "Shiloh, επίθετο του Μεσσία",
+    "es": "Silo, epíteto del Mesías",
+    "et": "Siiloh, Messia epiteet",
+    "fi": "Siilo, Messiaan nimitys",
+    "fr": "Shiloh, épithète du Messie",
+    "hu": "Siló, a Messiás egyik mellékneve",
+    "id": "Shiloh, sebuah julukan untuk Mesias",
+    "it": "Shiloh, un epiteto del Messia",
+    "ja": "シロー、メシアの蔑称",
+    "ko": "메시아의 별명, 실로",
+    "lt": "Šilas - Mesijo epitetas",
+    "lv": "Shiloh, Mesijas epitets",
+    "nb": "Shilo, en betegnelse på Messias",
+    "nl": "Shiloh, een bijnaam van de Messias",
+    "pl": "Szilo, przydomek Mesjasza",
+    "pt": "Shiloh, um epíteto do Messias",
+    "ro": "Shiloh, un epitet al lui Mesia",
+    "ru": "Шилох, эпитет Мессии",
+    "sk": "Šilo, epiteton Mesiáša",
+    "sl": "Shiloh, epitet Mesije",
+    "sv": "Shiloh, en benämning på Messias",
+    "tr": "Shiloh, Mesih'in bir sıfatı",
+    "uk": "Шило, епітет Месії",
+    "zh": "示罗"
+  },
+  "verses": [
+    "genesis 49:10:10",
+    "genesis 49:10:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7283",
+  "language": "hebrew",
+  "transliteration": "râgash",
+  "pronunciation": "raw-gash'",
+  "definition": "to be tumultuous",
+  "kjvTranslation": "rage.",
+  "hebrew": "רָגַשׁ",
+  "translations": {
+    "bg": "да бъде бурен",
+    "cs": "být bouřlivý",
+    "da": "at være tumultarisk",
+    "de": "stürmisch zu sein",
+    "el": "να είναι ταραχώδης",
+    "es": "ser tumultuoso",
+    "et": "olla tormiline",
+    "fi": "olla myrskyisä",
+    "fr": "être tumultueux",
+    "hu": "viharosnak lenni",
+    "id": "menjadi kacau",
+    "it": "essere tumultuoso",
+    "ja": "波乱万丈",
+    "ko": "소란스럽다",
+    "lt": "būti audringas",
+    "lv": "būt nemierīgam",
+    "nb": "å være tumultarisk",
+    "nl": "tumultueus zijn",
+    "pl": "być burzliwym",
+    "pt": "ser tumultuoso",
+    "ro": "a fi tumultuos",
+    "ru": "быть бурным",
+    "sk": "byť búrlivý",
+    "sl": "biti buren",
+    "sv": "att vara tumultartad",
+    "tr": "çalkantılı olmak",
+    "uk": "бути бурхливим",
+    "zh": "汹涌"
+  },
+  "verses": [
+    "psalms 2:1:1"
+  ]
+}

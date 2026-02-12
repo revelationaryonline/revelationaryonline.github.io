@@ -1,0 +1,43 @@
+{
+  "number": "H6758",
+  "language": "hebrew",
+  "transliteration": "Tsalmônâh",
+  "pronunciation": "tsal-mo-naw'",
+  "definition": "Tsalmonah, a place in the Desert",
+  "kjvTranslation": "Zalmonah.",
+  "hebrew": "צַלְמֹנָה",
+  "translations": {
+    "bg": "Цалмона, място в пустинята",
+    "cs": "Tsalmonah, místo v poušti",
+    "da": "Tsalmonah, et sted i ørkenen",
+    "de": "Tsalmonah, ein Ort in der Wüste",
+    "el": "Τσαλμόνα, ένα μέρος στην έρημο",
+    "es": "Tsalmonah, un lugar en el desierto",
+    "et": "Tsalmona, koht kõrbes",
+    "fi": "Tsalmonah, paikka autiomaassa",
+    "fr": "Tsalmonah, un lieu dans le désert",
+    "hu": "Tsalmonah, egy hely a sivatagban",
+    "id": "Tsalmonah, sebuah tempat di Gurun Pasir",
+    "it": "Tsalmonah, un luogo nel deserto",
+    "ja": "砂漠の地、ツァルモナ",
+    "ko": "사막의 장소, 살모나",
+    "lt": "Tsalmonah, vieta dykumoje",
+    "lv": "Tsalmonah, vieta tuksnesī",
+    "nb": "Tsalmonah, et sted i ørkenen",
+    "nl": "Tsalmonah, een plaats in de woestijn",
+    "pl": "Tsalmonah, miejsce na pustyni",
+    "pt": "Tsalmonah, um lugar no deserto",
+    "ro": "Tsalmonah, un loc în deșert",
+    "ru": "Цальмона, место в пустыне",
+    "sk": "Tsalmonah, miesto v púšti",
+    "sl": "Tsalmonah, kraj v puščavi",
+    "sv": "Tsalmonah, en plats i öknen",
+    "tr": "Tsalmonah, Çölde bir yer",
+    "uk": "Цалмона, місце в пустелі",
+    "zh": "沙漠中的撒勒莫纳"
+  },
+  "verses": [
+    "numbers 33:41:4",
+    "numbers 33:42:1"
+  ]
+}

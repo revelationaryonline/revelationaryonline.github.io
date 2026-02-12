@@ -1,0 +1,42 @@
+{
+  "number": "H2409",
+  "language": "hebrew",
+  "transliteration": "chăṭṭâyâʼ",
+  "pronunciation": "khat-taw-yaw'",
+  "definition": "an expiation",
+  "kjvTranslation": "sin offering.",
+  "translations": {
+    "bg": "изкупление",
+    "cs": "vykoupení",
+    "da": "en soning",
+    "de": "eine Sühne",
+    "el": "μια εξιλέωση",
+    "es": "una expiación",
+    "et": "heastamine",
+    "fi": "sovitus",
+    "fr": "une expiation",
+    "hu": "engesztelés",
+    "id": "penebusan dosa",
+    "it": "un'espiazione",
+    "ja": "罪滅ぼし",
+    "ko": "만료",
+    "lt": "išrišimas",
+    "lv": "izpirkšana",
+    "nb": "en soning",
+    "nl": "een boetedoening",
+    "pl": "ekspiacja",
+    "pt": "uma expiação",
+    "ro": "o ispășire",
+    "ru": "искупление",
+    "sk": "odpustenie",
+    "sl": "razbremenitev",
+    "sv": "en försoning",
+    "tr": "bir kefaret",
+    "uk": "спокута",
+    "zh": "免罪"
+  },
+  "hebrew": "חֲטָּיָא",
+  "verses": [
+    "ezra 6:17:14"
+  ]
+}

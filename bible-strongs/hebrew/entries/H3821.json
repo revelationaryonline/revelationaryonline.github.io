@@ -1,0 +1,42 @@
+{
+  "number": "H3821",
+  "language": "hebrew",
+  "transliteration": "lêb",
+  "pronunciation": "labe",
+  "definition": "{the heart; also used (figuratively) very widely for the feelings, the will and even the intellect; likewise for the centre of anything}",
+  "kjvTranslation": "heart.",
+  "hebrew": "לֵב",
+  "translations": {
+    "bg": "{сърцето; използва се (в преносен смисъл) и за чувствата, волята и дори интелекта; също и за центъра на всичко}",
+    "cs": "{srdce; používá se také (přeneseně) velmi široce pro city, vůli a dokonce i pro intelekt; také pro střed čehokoli}",
+    "da": "{Hjertet; bruges også (i overført betydning) meget bredt om følelserne, viljen og endda intellektet; ligeledes om centrum af noget}",
+    "de": "{das Herz; wird auch (bildlich) sehr breit für die Gefühle, den Willen und sogar den Intellekt verwendet; ebenso für das Zentrum von etwas}",
+    "el": "{η καρδιά- χρησιμοποιείται επίσης (μεταφορικά) πολύ ευρέως για τα συναισθήματα, τη θέληση και ακόμη και τη διάνοια- ομοίως για το κέντρο οποιουδήποτε πράγματος}",
+    "es": "{el corazón; también se utiliza (en sentido figurado) muy ampliamente para los sentimientos, la voluntad e incluso el intelecto; asimismo para el centro de cualquier cosa}",
+    "et": "{süda; kasutatakse (piltlikult) väga laialdaselt ka tunnete, tahte ja isegi intellekti kohta; samuti millegi keskuse kohta}",
+    "fi": "{sydän; käytetään myös (kuvaannollisesti) hyvin laajasti tunteista, tahdosta ja jopa älystä; samoin jonkin asian keskipisteestä}",
+    "fr": "{le cœur ; également utilisé (au sens figuré) très largement pour les sentiments, la volonté et même l'intellect ; de même pour le centre de toute chose}",
+    "hu": "{a szív; (átvitt értelemben) nagyon széles körben használják az érzésekre, az akaratra, sőt az értelemre is; hasonlóképpen bárminek a központjára is}",
+    "id": "(hati); juga digunakan (secara kiasan) secara luas untuk perasaan, kehendak, dan bahkan intelek; juga untuk pusat dari segala sesuatu)",
+    "it": "{il cuore; usato anche (in senso figurato) in modo molto ampio per i sentimenti, la volontà e persino l'intelletto; anche per il centro di qualsiasi cosa}",
+    "ja": "{心臓。（比喩的に）感情、意志、知性にも広く使われる。｝",
+    "ko": "{심장; 또한 감정, 의지, 심지어 지성에도 (비유적으로) 매우 널리 사용되며, 어떤 것의 중심에도 마찬가지로 사용됩니다}",
+    "lt": "{širdis; taip pat labai plačiai vartojama (perkeltine prasme) jausmams, valiai ir net intelektui; taip pat bet kokio daikto centrui}",
+    "lv": "{sirds; ļoti plaši (pārnestā nozīmē) tiek lietots arī attiecībā uz jūtām, gribu un pat intelektu; tāpat arī attiecībā uz jebkādu lietu centru}",
+    "nb": "{hjertet; også brukt (i overført betydning) om følelsene, viljen og til og med intellektet; likeledes om sentrum av noe}",
+    "nl": "{Het hart; ook veel gebruikt (figuurlijk) voor de gevoelens, de wil en zelfs het intellect; ook voor het centrum van iets}",
+    "pl": "{serce; używane również (w przenośni) bardzo szeroko w odniesieniu do uczuć, woli, a nawet intelektu; podobnie jak centrum czegokolwiek}",
+    "pt": "{o coração; também usado (figurativamente) de forma muito ampla para os sentimentos, a vontade e até mesmo o intelecto; da mesma forma para o centro de qualquer coisa}",
+    "ro": "{inima; de asemenea, folosit (la figurat) foarte larg pentru sentimente, voință și chiar intelect; de asemenea, pentru centrul a orice}",
+    "ru": "{Сердце; также широко используется (образно) для обозначения чувств, воли и даже интеллекта; также для обозначения центра чего-либо}",
+    "sk": "{srdce; používa sa (v prenesenom význame) aj pre city, vôľu a dokonca aj pre intelekt; podobne aj pre centrum čohokoľvek}",
+    "sl": "{srce; v prenesenem pomenu se zelo pogosto uporablja tudi za čustva, voljo in celo razum; prav tako za središče česar koli}",
+    "sv": "{hjärtat; används också (bildligt) mycket allmänt för känslorna, viljan och till och med intellektet; likaså för centrum av någonting}",
+    "tr": "{kalp; aynı zamanda (mecazi olarak) duygular, irade ve hatta akıl için de çok yaygın olarak kullanılır; aynı şekilde herhangi bir şeyin merkezi için de}",
+    "uk": "{серце; також використовується (переносно) дуже широко для позначення почуттів, волі і навіть інтелекту; так само для позначення центру чого-небудь}",
+    "zh": "{心；（比喻）也广泛用于感情、意志，甚至智力；同样也用于任何事物的中心}。"
+  },
+  "verses": [
+    "daniel 7:28:14"
+  ]
+}

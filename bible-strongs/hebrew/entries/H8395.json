@@ -1,0 +1,42 @@
+{
+  "number": "H8395",
+  "language": "hebrew",
+  "transliteration": "tᵉbûwçâh",
+  "pronunciation": "teb-oo-saw'",
+  "definition": "a treading down, i.e. ruin",
+  "kjvTranslation": "destruction.",
+  "hebrew": "תְּבוּסָה",
+  "translations": {
+    "bg": "потъпкване, т.е. разруха",
+    "cs": "sešlapání, tj. zkáza",
+    "da": "en nedtrampning, dvs. ødelæggelse",
+    "de": "ein Niedertreten, d.h. Verderben",
+    "el": "ένα πάτημα κάτω, δηλαδή καταστροφή",
+    "es": "un pisoteo, es decir, ruina",
+    "et": "tallamine, s.t. häving",
+    "fi": "taltuttaminen, ts. tuhoaminen",
+    "fr": "un piétinement, c'est-à-dire une ruine",
+    "hu": "a letaposás, azaz romlás",
+    "id": "menginjak-injak, yaitu kehancuran",
+    "it": "una calpestata, cioè una rovina",
+    "ja": "踏み倒す、つまり破滅させる",
+    "ko": "짓밟음, 즉 파멸",
+    "lt": "sutrypti, t. y. sugriauti",
+    "lv": "piezemēšanās, t.i., sabrukums",
+    "nb": "en nedtramping, dvs. ødeleggelse",
+    "nl": "neerstrijken, d.w.z. ruïneren",
+    "pl": "stąpanie w dół, tj. ruina",
+    "pt": "um pisar, ou seja, uma ruína",
+    "ro": "o călcare în picioare, adică ruină",
+    "ru": "попирание, т.е. разорение",
+    "sk": "pošliapanie, t. j. zničenie",
+    "sl": "stopanje po tleh, tj. uničenje",
+    "sv": "en nedtrampning, dvs. förstörelse",
+    "tr": "bir çöküş, yani yıkım",
+    "uk": "витоптування, тобто руйнація",
+    "zh": "践踏，即毁坏"
+  },
+  "verses": [
+    "secondChronicles 22:7:2"
+  ]
+}

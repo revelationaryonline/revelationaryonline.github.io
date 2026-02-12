@@ -1,0 +1,42 @@
+{
+  "number": "H2888",
+  "language": "hebrew",
+  "transliteration": "Ṭabbath",
+  "pronunciation": "tab-bath'",
+  "definition": "Tabbath, a place East of the Jordan",
+  "kjvTranslation": "Tabbath.",
+  "translations": {
+    "bg": "Табат, място на изток от Йордан",
+    "cs": "Tabbath, místo na východ od Jordánu",
+    "da": "Tabbath, et sted øst for Jordan",
+    "de": "Tabbath, ein Ort östlich des Jordans",
+    "el": "Τάμπαθ, τόπος ανατολικά του Ιορδάνη",
+    "es": "Tabbath, un lugar al este del Jordán",
+    "et": "Tabbat, koht Jordani jõest ida pool",
+    "fi": "Tabbat, paikka Jordanin itäpuolella",
+    "fr": "Tabbath, lieu situé à l'est du Jourdain",
+    "hu": "Tabbat, egy hely a Jordántól keletre",
+    "id": "Tabbath, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Tabbath, un luogo a est del Giordano",
+    "ja": "ヨルダンの東の地、タバト",
+    "ko": "타바스, 요단강 동쪽의 장소",
+    "lt": "Tabatas, vietovė į rytus nuo Jordano",
+    "lv": "Tabbath, vieta uz austrumiem no Jordānas",
+    "nb": "Tabbath, et sted øst for Jordan",
+    "nl": "Tabbath, een plaats ten oosten van de Jordaan",
+    "pl": "Tabbath, miejsce na wschód od Jordanu",
+    "pt": "Tabbath, um lugar a leste do Jordão",
+    "ro": "Tabbath, un loc la est de Iordan",
+    "ru": "Таббат, место к востоку от Иордана",
+    "sk": "Tabbath, miesto na východ od Jordánu",
+    "sl": "Tabbath, kraj vzhodno od Jordana",
+    "sv": "Tabbath, en plats öster om Jordanfloden",
+    "tr": "Tabbath, Ürdün'ün doğusunda bir yer",
+    "uk": "Таббат, місце на схід від Йордану",
+    "zh": "他巴他，约旦河东的一个地方"
+  },
+  "hebrew": "טַבַּת",
+  "verses": [
+    "judges 7:22:23"
+  ]
+}

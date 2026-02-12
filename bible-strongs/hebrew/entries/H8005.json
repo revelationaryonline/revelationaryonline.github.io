@@ -1,0 +1,41 @@
+{
+  "number": "H8005",
+  "language": "hebrew",
+  "transliteration": "shillêm",
+  "pronunciation": "shil-lame'",
+  "definition": "requital",
+  "kjvTranslation": "recompense.",
+  "hebrew": "שִׁלֵּם",
+  "translations": {
+    "bg": "requital",
+    "cs": "requital",
+    "da": "gengældelse",
+    "el": "requital",
+    "es": "requital",
+    "et": "rekvisiit",
+    "fi": "anteeksianto",
+    "fr": "demande",
+    "hu": "requital",
+    "id": "requital",
+    "it": "requital",
+    "ja": "返報",
+    "ko": "요구",
+    "lt": "requital",
+    "lv": "rekvizīts",
+    "nb": "gjengjeldelse",
+    "nl": "requital",
+    "pl": "rekwizyt",
+    "pt": "requalificação",
+    "ro": "rechital",
+    "ru": "requital",
+    "sk": "rekvalifikácia",
+    "sl": "requital",
+    "sv": "requital",
+    "tr": "requital",
+    "uk": "реквієм",
+    "zh": "要价"
+  },
+  "verses": [
+    "deuteronomy 32:35:2"
+  ]
+}

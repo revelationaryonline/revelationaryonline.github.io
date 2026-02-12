@@ -1,0 +1,42 @@
+{
+  "number": "H4239",
+  "language": "hebrew",
+  "transliteration": "mᵉchîy",
+  "pronunciation": "mekh-ee'",
+  "definition": "a stroke, i.e. battering-ram",
+  "kjvTranslation": "engines.",
+  "hebrew": "מְחִי",
+  "translations": {
+    "bg": "удар, т.е. таран",
+    "cs": "úder, tj. beranidlo",
+    "da": "et slag, dvs. en rambuk",
+    "de": "ein Schlag, d.h. ein Rammbock",
+    "el": "ένα χτύπημα, δηλαδή ένα κτύπημα-ραβδόνι",
+    "es": "un golpe, es decir, un ariete",
+    "et": "löök, st löögiramm, s.t. löögiramm",
+    "fi": "lyönti, eli lyöntipalkki",
+    "fr": "un coup, c'est-à-dire un coup de bélier",
+    "hu": "ütés, azaz faltörő ráma",
+    "id": "pukulan, yaitu pukulan yang keras",
+    "it": "un colpo, cioè una mazza da guerra",
+    "ja": "一撃",
+    "ko": "스트로크, 즉 타격-람",
+    "lt": "smūgis, t. y. smogiamasis sviedinys",
+    "lv": "trieciens, t. i., sitiens ar bānīti",
+    "nb": "et slag, dvs. en rambukk",
+    "nl": "een slag, d.w.z. stormram",
+    "pl": "uderzenie, tj. taranowanie",
+    "pt": "um golpe, ou seja, um aríete",
+    "ro": "o lovitură, adică un berbec",
+    "ru": "удар, т.е. таранный удар",
+    "sk": "úder, t. j. baranidlo",
+    "sl": "udarec, tj. udarno kladivo",
+    "sv": "ett slag, t.ex. en murbräcka",
+    "tr": "bir vuruş, yani koçbaşı",
+    "uk": "удар, тобто таран",
+    "zh": "擂"
+  },
+  "verses": [
+    "ezekiel 26:9:0"
+  ]
+}

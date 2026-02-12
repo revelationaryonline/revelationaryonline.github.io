@@ -1,0 +1,42 @@
+{
+  "number": "H4357",
+  "language": "hebrew",
+  "transliteration": "miklâh",
+  "pronunciation": "mik-law'",
+  "definition": "completion (in plural concrete adverbial, wholly)",
+  "kjvTranslation": "perfect. Compare H4356 (מִכְלָאָה).",
+  "hebrew": "מִכְלָה",
+  "translations": {
+    "bg": "завършване (в множествено число, конкретно наречие, изцяло)",
+    "cs": "dokončení (v množném čísle konkrétní příslovce, zcela)",
+    "da": "færdiggørelse (i flertal konkret adverbial, helt)",
+    "de": "vervollständigung (im Plural konkretes Adverbial, ganz)",
+    "el": "completion (στον πληθυντικό αριθμό concrete adverbial, wholly)",
+    "es": "terminación (en plural adverbial concreta, totalmente)",
+    "et": "lõpetamine (mitmuses konkreetne adverbiaal, täielikult)",
+    "fi": "completion (monikossa konkreettinen adverbiaali, kokonaan)",
+    "fr": "achèvement (dans l'adverbe concret pluriel, entièrement)",
+    "hu": "befejezés (többes számban konkrét határozószó, teljesen)",
+    "id": "penyelesaian (dalam bentuk kata keterangan konkret jamak, seluruhnya)",
+    "it": "completamento (in plurale avverbiale concreto, interamente)",
+    "ja": "かんりょう",
+    "ko": "완료(복수형 부사, 전체적으로)",
+    "lt": "užbaigimas (daugiskaitos konkrečiosios formos prieveiksmis, visiškai)",
+    "lv": "pabeigšana (daudzskaitlī ar konkrēto apstākļa vārdu, pilnībā)",
+    "nb": "fullføring (i flertall konkret adverbial, helt)",
+    "nl": "voltooiing (in meervoud concreet bijwoordelijk, geheel)",
+    "pl": "dopełnienie (w liczbie mnogiej przysłówek konkretny, całkowicie)",
+    "pt": "conclusão (no plural adverbial concreto, totalmente)",
+    "ro": "completare (la plural adverbial concret, în întregime)",
+    "ru": "завершение (во множественном числе конкретное наречие, целиком)",
+    "sk": "dokončenie (v množnom čísle konkrétne príslovkové určenie, úplne)",
+    "sl": "dokončanje (v množini konkretni prislov, v celoti)",
+    "sv": "fullbordande (i plural konkret adverbial, helt och hållet)",
+    "tr": "tamamlama (çoğul somut zarf olarak, tamamen)",
+    "uk": "завершення (у множині конкретний прислівник, повністю)",
+    "zh": "完成"
+  },
+  "verses": [
+    "secondChronicles 4:21:5"
+  ]
+}

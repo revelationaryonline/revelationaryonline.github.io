@@ -1,0 +1,42 @@
+{
+  "number": "H1243",
+  "language": "hebrew",
+  "transliteration": "baqqârâh",
+  "pronunciation": "bak-kaw-raw'",
+  "definition": "a looking after",
+  "kjvTranslation": "seek out.",
+  "translations": {
+    "bg": "a грижа за",
+    "cs": "a péče o",
+    "da": "en, der passer på",
+    "de": "eine Betreuung",
+    "el": "a φροντίζοντας",
+    "es": "a cuidar de",
+    "et": "hoolitsemine",
+    "fi": "a huolehtiminen",
+    "fr": "a s'occuper de",
+    "hu": "a gondozás",
+    "id": "menjaga",
+    "it": "un prendersi cura",
+    "ja": "世話",
+    "ko": "돌봄",
+    "lt": "a rūpintis",
+    "lv": "a rūpējas par",
+    "nb": "en ivaretakelse",
+    "nl": "een verzorgende",
+    "pl": "opieka",
+    "pt": "um cuidado",
+    "ro": "a avea grijă de",
+    "ru": "присматривающий",
+    "sk": "a stará sa o",
+    "sl": "a skrb za",
+    "sv": "a ser efter",
+    "tr": "bir bakıcı",
+    "uk": "наглядати за",
+    "zh": "照顾"
+  },
+  "hebrew": "בַּקָּרָה",
+  "verses": [
+    "ezekiel 34:12:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7616",
+  "language": "hebrew",
+  "transliteration": "shâbâb",
+  "pronunciation": "shaw-bawb'",
+  "definition": "a fragment, i.e. ruin",
+  "kjvTranslation": "broken in pieces.",
+  "hebrew": "שָׁבָב",
+  "translations": {
+    "bg": "фрагмент, т.е. руина",
+    "cs": "fragment, tj. ruina",
+    "da": "et fragment, dvs. en ruin",
+    "de": "ein Fragment, d.h. eine Ruine",
+    "el": "ένα θραύσμα, δηλαδή ερείπιο",
+    "es": "un fragmento, es decir, una ruina",
+    "et": "killustik, st varemed",
+    "fi": "fragmentti eli raunio",
+    "fr": "un fragment, c'est-à-dire une ruine",
+    "hu": "egy töredék, azaz egy rom",
+    "id": "sebuah fragmen, yaitu kehancuran",
+    "it": "un frammento, cioè una rovina",
+    "ja": "断片",
+    "ko": "파편, 즉 폐허",
+    "lt": "fragmentas, t. y. griuvėsiai",
+    "lv": "fragments, t.i., drupas",
+    "nb": "et fragment, dvs. en ruin",
+    "nl": "een fragment, d.w.z. ruïne",
+    "pl": "fragment, tj. ruina",
+    "pt": "um fragmento, ou seja, uma ruína",
+    "ro": "un fragment, adică o ruină",
+    "ru": "фрагмент, т.е. руина",
+    "sk": "fragment, t. j. ruina",
+    "sl": "fragment, tj. ruševina",
+    "sv": "ett fragment, d.v.s. en ruin",
+    "tr": "bir parça, yani harabe",
+    "uk": "фрагмент, тобто руїна",
+    "zh": "齑粉"
+  },
+  "verses": [
+    "hosea 8:6:9"
+  ]
+}

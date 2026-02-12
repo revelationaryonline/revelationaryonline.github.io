@@ -1,0 +1,43 @@
+{
+  "number": "H3016",
+  "language": "hebrew",
+  "transliteration": "yâgôwr",
+  "pronunciation": "yaw-gore'",
+  "definition": "fearful",
+  "kjvTranslation": "afraid, fearest.",
+  "translations": {
+    "bg": "страшен",
+    "cs": "obávaný",
+    "da": "frygtsom",
+    "de": "ängstlich",
+    "el": "φοβισμένος",
+    "es": "temeroso",
+    "et": "hirmunud",
+    "fi": "pelokas",
+    "fr": "craintif",
+    "hu": "félelmetes",
+    "id": "takut",
+    "it": "timoroso",
+    "ja": "恐い",
+    "ko": "두려운",
+    "lt": "bauginantis",
+    "lv": "bailīgs",
+    "nb": "redd",
+    "nl": "angstig",
+    "pl": "bojaźliwy",
+    "pt": "temeroso",
+    "ro": "înspăimântătoare",
+    "ru": "боязливый",
+    "sk": "obávaný",
+    "sl": "strah",
+    "sv": "räddhågsna",
+    "tr": "korkulu",
+    "uk": "наляканий",
+    "zh": "怵然"
+  },
+  "hebrew": "יָגוֹר",
+  "verses": [
+    "jeremiah 22:25:7",
+    "jeremiah 39:17:11"
+  ]
+}

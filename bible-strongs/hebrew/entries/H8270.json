@@ -1,0 +1,43 @@
+{
+  "number": "H8270",
+  "language": "hebrew",
+  "transliteration": "shôr",
+  "pronunciation": "shore",
+  "definition": "a string (as twisted ), i.e. (specifically) the umbilical cord (also figuratively, as the centre of strength)",
+  "kjvTranslation": "navel.",
+  "hebrew": "שֹׁר",
+  "translations": {
+    "bg": "връв (усукана), т.е. (конкретно) пъпна връв (също и в преносен смисъл, като център на силата)",
+    "cs": "provázek (jako zkroucený ), tj. (konkrétně) pupeční šňůra (také v přeneseném významu, jako střed síly)",
+    "da": "en snor (som snoet), dvs. (specifikt) navlestrengen (også i overført betydning, som centrum for styrke)",
+    "de": "eine Schnur (wie gedreht), d.h. (speziell) die Nabelschnur (auch im übertragenen Sinne, als Zentrum der Kraft)",
+    "el": "ένας σπάγκος (όπως συστρέφεται), δηλαδή (συγκεκριμένα) ο ομφάλιος λώρος (επίσης μεταφορικά, ως το κέντρο της δύναμης)",
+    "es": "una cuerda (como retorcida ), es decir (específicamente) el cordón umbilical (también figuradamente, como el centro de fuerza)",
+    "et": "nöör (nagu keeratud ), st (konkreetselt) nabanöör (ka piltlikult, kui jõukeskus)",
+    "fi": "naru (kierrettynä), eli (erityisesti) napanuora (myös kuvaannollisesti, voimakeskuksena)",
+    "fr": "une corde (comme torsadée), c'est-à-dire (spécifiquement) le cordon ombilical (également au sens figuré, comme le centre de la force)",
+    "hu": "zsinór (mint csavart ), azaz (konkrétan) a köldökzsinór (átvitt értelemben is, mint az erőközpont)",
+    "id": "tali (seperti dipelintir), yaitu (secara khusus) tali pusat (juga secara kiasan, sebagai pusat kekuatan)",
+    "it": "una corda (come attorcigliata), cioè (nello specifico) il cordone ombelicale (anche in senso figurato, come centro di forza)",
+    "ja": "臍の緒",
+    "ko": "끈 (꼬인 것처럼 ), 즉 (특히) 탯줄 (비 유적으로 힘의 중심으로서)",
+    "lt": "virvė (susukta ), t. y. (konkrečiai) bambagyslė (taip pat perkeltine prasme, kaip jėgos centras)",
+    "lv": "aukla (kā savīta ), t.i., (īpaši) nabassaite (arī pārnestā nozīmē, kā spēka centrs)",
+    "nb": "en snor (som tvunnet ), dvs. (spesifikt) navlestrengen (også i overført betydning, som kraftsentrum)",
+    "nl": "een koord (zoals gedraaid), d.w.z. (specifiek) de navelstreng (ook figuurlijk, als het centrum van kracht)",
+    "pl": "sznur (jako skręcony), tj. (konkretnie) pępowina (również w przenośni, jako ośrodek siły)",
+    "pt": "um fio (como torcido), ou seja (especificamente) o cordão umbilical (também figurativamente, como o centro de força)",
+    "ro": "o coardă (ca răsucită), adică (în mod specific) cordonul ombilical (de asemenea, la figurat, ca centru de forță)",
+    "ru": "струна (скрученная), т.е. (конкретно) пуповина (также фигурально, как центр силы)",
+    "sk": "reťaz (ako skrútená ), t. j. (konkrétne) pupočná šnúra (aj v prenesenom význame, ako centrum sily)",
+    "sl": "vrvica (kot zavita ), tj. (zlasti) popkovina (tudi v prenesenem pomenu, kot središče moči)",
+    "sv": "en sträng (som tvinnad ), dvs. (specifikt) navelsträngen (även bildligt, som kraftcentrum)",
+    "tr": "bir ip (bükülmüş olarak), yani (özellikle) göbek bağı (mecazi olarak, güç merkezi olarak da)",
+    "uk": "струна (як скручена), тобто (конкретно) пуповина (також образно, як центр сили)",
+    "zh": "弦，即（特指）脐带（也比喻力量的中心）"
+  },
+  "verses": [
+    "proverbs 3:8:2",
+    "ezekiel 16:4:6"
+  ]
+}

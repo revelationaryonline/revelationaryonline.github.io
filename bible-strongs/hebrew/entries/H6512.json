@@ -1,0 +1,42 @@
+{
+  "number": "H6512",
+  "language": "hebrew",
+  "transliteration": "pêrâh",
+  "pronunciation": "pay-raw'",
+  "definition": "a hole (as broken, i.e. dug)",
+  "kjvTranslation": "[phrase] mole. Compare H2661 (חֲפֹר).",
+  "hebrew": "פֵּרָה",
+  "translations": {
+    "bg": "дупка (като пробита, т.е. изкопана)",
+    "cs": "díra (jako rozbitá, tj. vykopaná)",
+    "da": "et hul (som brudt, dvs. gravet)",
+    "de": "ein Loch (wie gebrochen, d.h. gegraben)",
+    "el": "μια τρύπα (όπως έχει σπάσει, δηλ. έχει σκαφτεί)",
+    "es": "un agujero (como roto, es decir, cavado)",
+    "et": "auk (nagu purustatud, s.t. kaevatud)",
+    "fi": "kuoppa (rikottuna eli kaivettuna)",
+    "fr": "un trou (comme brisé, c'est-à-dire creusé)",
+    "hu": "egy lyuk (mint kitörve, azaz kiásva)",
+    "id": "lubang (seperti rusak, yaitu digali)",
+    "it": "un buco (come rotto, cioè scavato)",
+    "ja": "割れ穴",
+    "ko": "구멍(깨진 상태, 즉 파진 상태)",
+    "lt": "duobė (išmušta, t. y. iškasta)",
+    "lv": "bedre (kā izrakta, t.i., izrakta)",
+    "nb": "et hull (som ødelagt, dvs. gravd)",
+    "nl": "een gat (als gebroken, d.w.z. gegraven)",
+    "pl": "dziura (jako wybita, tj. wykopana)",
+    "pt": "um buraco (como quebrado, ou seja, cavado)",
+    "ro": "o gaură (ca spartă, adică săpată)",
+    "ru": "яма (как разбитая, т.е. вырытая)",
+    "sk": "diera (ako rozbitá, t. j. vykopaná)",
+    "sl": "luknja (kot razbita, tj. izkopana)",
+    "sv": "ett hål (som brutet, d.v.s. grävt)",
+    "tr": "bir delik (kırılmış, yani kazılmış olarak)",
+    "uk": "яма (як розбита, тобто викопана)",
+    "zh": "窟窿"
+  },
+  "verses": [
+    "isaiah 2:20:15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7742",
+  "language": "hebrew",
+  "transliteration": "sûwach",
+  "pronunciation": "soo'-akh",
+  "definition": "to muse pensively",
+  "kjvTranslation": "meditate.",
+  "hebrew": "שׂוּחַ",
+  "translations": {
+    "bg": "да размишлява замислено",
+    "cs": "zamyšleně přemýšlet",
+    "da": "at gruble eftertænksomt",
+    "de": "nachdenklich zu sein",
+    "el": "να συλλογίζομαι στοχαστικά",
+    "es": "meditar pensativamente",
+    "et": "mõtiskleda mõtlikult",
+    "fi": "miettiä mietteliäästi",
+    "fr": "réfléchir de manière pensive",
+    "hu": "elgondolkodva mélázni",
+    "id": "untuk merenung dengan termenung",
+    "it": "riflettere in modo pensieroso",
+    "ja": "物思いにふける",
+    "ko": "집중적으로 뮤즈하기",
+    "lt": "susimąstyti",
+    "lv": "pārdomāti domāt",
+    "nb": "å gruble ettertenksomt",
+    "nl": "peinzend mijmeren",
+    "pl": "rozmyślać w zadumie",
+    "pt": "refletir pensativamente",
+    "ro": "să mediteze gânditor",
+    "ru": "задумчиво размышлять",
+    "sk": "zamyslene rozjímať",
+    "sl": "premišljeno razmišljati",
+    "sv": "att fundera eftertänksamt",
+    "tr": "dalgın dalgın düşünmek",
+    "uk": "задумливо мудрувати",
+    "zh": "沉思"
+  },
+  "verses": [
+    "genesis 24:63:2"
+  ]
+}

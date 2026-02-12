@@ -1,0 +1,42 @@
+{
+  "number": "H807",
+  "language": "hebrew",
+  "transliteration": "ʼAshîymâʼ",
+  "pronunciation": "ash-ee-maw'",
+  "definition": "Ashima, a deity of Hamath",
+  "kjvTranslation": "Ashima.",
+  "translations": {
+    "bg": "Ашима, божество на Хамат",
+    "cs": "Ašima, božstvo z Hamatu",
+    "da": "Ashima, en guddom i Hamath",
+    "de": "Ashima, eine Gottheit von Hamath",
+    "el": "Ashima, θεότητα της Χαμάθ",
+    "es": "Ashima, deidad de Hamath",
+    "et": "Ashima, Hamathi jumalus",
+    "fi": "Ashima, Hamathin jumaluus",
+    "fr": "Ashima, divinité de Hamath",
+    "hu": "Ashima, Hamath egyik istensége",
+    "id": "Ashima, dewa dari Hamat",
+    "it": "Ashima, divinità di Hamath",
+    "ja": "ハマスの神、アシマ",
+    "ko": "하마스의 신 아시마",
+    "lt": "Ašima, Hamato dievybė",
+    "lv": "Ašima, Hamatas dievība",
+    "nb": "Ashima, en guddom i Hamath",
+    "nl": "Ashima, een godheid van Hamath",
+    "pl": "Ashima, bóstwo Hamath",
+    "pt": "Ashima, uma divindade de Hamath",
+    "ro": "Ashima, o zeitate din Hamath",
+    "ru": "Ашима, божество Хамата",
+    "sk": "Ašima, božstvo z Hamatu",
+    "sl": "Ašima, božanstvo iz Hamata",
+    "sv": "Ashima, en gudom i Hamath",
+    "tr": "Ashima, Hamath'ın bir tanrısı",
+    "uk": "Ашіма, божество Хамату",
+    "zh": "阿诗玛"
+  },
+  "hebrew": "אַשִׁימָא",
+  "verses": [
+    "secondKings 17:30:15"
+  ]
+}

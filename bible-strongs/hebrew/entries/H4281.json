@@ -1,0 +1,43 @@
+{
+  "number": "H4281",
+  "language": "hebrew",
+  "transliteration": "machărêshâh",
+  "pronunciation": "makh-ar-ay-shaw'",
+  "definition": "probably a pick-axe",
+  "kjvTranslation": "mattock.",
+  "hebrew": "מַחֲרֵשָׁה",
+  "translations": {
+    "bg": "вероятно кирка",
+    "cs": "pravděpodobně krumpáč",
+    "da": "sandsynligvis en hakke",
+    "de": "wahrscheinlich eine Spitzhacke",
+    "el": "πιθανώς ένα τσεκούρι",
+    "es": "probablemente un pico",
+    "et": "tõenäoliselt kirves",
+    "fi": "luultavasti hakkuukirves",
+    "fr": "probablement une pioche",
+    "hu": "valószínűleg egy csákány",
+    "id": "mungkin kapak",
+    "it": "probabilmente un piccone",
+    "ja": "おそらくつるはし",
+    "ko": "아마도 곡괭이",
+    "lt": "tikriausiai kirtiklis",
+    "lv": "iespējams, ar cirvja cirvīti",
+    "nb": "sannsynligvis en hakke",
+    "nl": "waarschijnlijk een pikhouweel",
+    "pl": "prawdopodobnie kilof",
+    "pt": "provavelmente uma picareta",
+    "ro": "probabil un târnăcop",
+    "ru": "вероятно, кирка",
+    "sk": "pravdepodobne krompáč",
+    "sl": "najverjetneje sekiro za nabijanje",
+    "sv": "förmodligen en hacka",
+    "tr": "muhtemelen bir kazma",
+    "uk": "ймовірно, сокира",
+    "zh": "可能是锄头"
+  },
+  "verses": [
+    "firstSamuel 13:20:13",
+    "firstSamuel 13:21:3"
+  ]
+}

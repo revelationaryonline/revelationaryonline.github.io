@@ -1,0 +1,42 @@
+{
+  "number": "H5614",
+  "language": "hebrew",
+  "transliteration": "Çᵉphârâd",
+  "pronunciation": "sef-aw-rawd'",
+  "definition": "Sepharad, a region of Assyria",
+  "kjvTranslation": "Sepharad.",
+  "hebrew": "סְפָרָד",
+  "translations": {
+    "bg": "Сефарад, област в Асирия",
+    "cs": "Sefarad, asyrský region",
+    "da": "Sepharad, en region i Assyrien",
+    "de": "Sepharad, eine Region in Assyrien",
+    "el": "Sepharad, περιοχή της Ασσυρίας",
+    "es": "Sefarad, una región de Asiria",
+    "et": "Sepharad, Assüüria piirkond",
+    "fi": "Sepharad, Assyriassa sijaitseva alue",
+    "fr": "Sepharad, une région d'Assyrie",
+    "hu": "Szefarád, Asszíria egyik régiója",
+    "id": "Sepharad, sebuah wilayah di Asyur",
+    "it": "Sepharad, una regione dell'Assiria",
+    "ja": "アッシリアのセファラド地方",
+    "ko": "앗수르의 한 지역, 세파라드",
+    "lt": "Sefaradas, Asirijos regionas",
+    "lv": "Sefarada, Asīrijas reģions",
+    "nb": "Sefarad, en region i Assyria",
+    "nl": "Sefarad, een regio in Assyrië",
+    "pl": "Sefarad, region w Asyrii",
+    "pt": "Sefarad, uma região da Assíria",
+    "ro": "Sepharad, o regiune din Asiria",
+    "ru": "Сефарад, область в Ассирии",
+    "sk": "Sefarad, región Asýrie",
+    "sl": "Sefarad, regija v Asiriji",
+    "sv": "Sepharad, en region i Assyrien",
+    "tr": "Sefarad, Asur'un bir bölgesi",
+    "uk": "Сефарад, регіон Ассирії",
+    "zh": "塞法拉德"
+  },
+  "verses": [
+    "obadiah 1:20:12"
+  ]
+}

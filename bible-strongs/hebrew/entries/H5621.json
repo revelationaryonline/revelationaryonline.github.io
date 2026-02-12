@@ -1,0 +1,42 @@
+{
+  "number": "H5621",
+  "language": "hebrew",
+  "transliteration": "çârâb",
+  "pronunciation": "saw-rawb'",
+  "definition": "a thistle",
+  "kjvTranslation": "brier.",
+  "hebrew": "סָרָב",
+  "translations": {
+    "bg": "магарешки бодил",
+    "cs": "bodlák",
+    "da": "en tidsel",
+    "de": "eine Distel",
+    "el": "ένα γαϊδουράγκαθο",
+    "es": "un cardo",
+    "et": "ohakas",
+    "fi": "ohdake",
+    "fr": "un chardon",
+    "hu": "egy gyűszűvirág",
+    "id": "thistle",
+    "it": "un cardo",
+    "ja": "あざみ",
+    "ko": "엉겅퀴",
+    "lt": "erškėtrožė",
+    "lv": "dadzis",
+    "nb": "en tistel",
+    "nl": "een distel",
+    "pl": "oset",
+    "pt": "um cardo",
+    "ro": "un ciulin",
+    "ru": "чертополох",
+    "sk": "bodliak",
+    "sl": "osat",
+    "sv": "en tistel",
+    "tr": "bir devedikeni",
+    "uk": "будяк",
+    "zh": "蓟"
+  },
+  "verses": [
+    "ezekiel 2:6:10"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H306",
+  "language": "hebrew",
+  "transliteration": "ʼachlâmâh",
+  "pronunciation": "akh-law'-maw",
+  "definition": "a gem, probably the amethyst",
+  "kjvTranslation": "amethyst.",
+  "translations": {
+    "bg": "скъпоценен камък, вероятно аметист",
+    "cs": "drahokam, pravděpodobně ametyst",
+    "da": "en ædelsten, sandsynligvis ametyst",
+    "de": "ein Edelstein, wahrscheinlich der Amethyst",
+    "el": "έναν πολύτιμο λίθο, πιθανότατα τον αμέθυστο",
+    "es": "una gema, probablemente la amatista",
+    "et": "kalliskivi, tõenäoliselt ametüst",
+    "fi": "jalokivi, luultavasti ametisti",
+    "fr": "une pierre précieuse, probablement l'améthyste",
+    "hu": "egy drágakő, valószínűleg az ametiszt",
+    "id": "permata, mungkin batu kecubung",
+    "it": "una gemma, probabilmente l'ametista",
+    "ja": "宝石、おそらくアメジスト",
+    "ko": "보석, 아마도 자수정",
+    "lt": "brangakmenis, tikriausiai ametistas",
+    "lv": "dārgakmens, iespējams, ametists",
+    "nb": "en edelsten, sannsynligvis en ametyst",
+    "nl": "een edelsteen, waarschijnlijk de amethist",
+    "pl": "klejnot, prawdopodobnie ametyst",
+    "pt": "uma pedra preciosa, provavelmente a ametista",
+    "ro": "o piatră prețioasă, probabil ametistul",
+    "ru": "драгоценный камень, возможно, аметист",
+    "sk": "drahokam, pravdepodobne ametyst",
+    "sl": "dragulj, verjetno ametist",
+    "sv": "en ädelsten, troligen ametist",
+    "tr": "bir mücevher, muhtemelen ametist",
+    "uk": "дорогоцінний камінь, ймовірно, аметист",
+    "zh": "可能是紫水晶"
+  },
+  "hebrew": "אַחְלָמָה",
+  "verses": [
+    "exodus 28:19:4",
+    "exodus 39:12:4"
+  ]
+}

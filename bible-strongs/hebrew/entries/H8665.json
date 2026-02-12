@@ -1,0 +1,42 @@
+{
+  "number": "H8665",
+  "language": "hebrew",
+  "transliteration": "tashbêts",
+  "pronunciation": "tash-bates'",
+  "definition": "checkered stuff (as reticulated)",
+  "kjvTranslation": "broidered.",
+  "hebrew": "תַּשְׁבֵּץ",
+  "translations": {
+    "bg": "карирани неща (като ретикулирани)",
+    "cs": "kostkovaný materiál (jako síťovaný)",
+    "da": "ternet stof (som retikuleret)",
+    "de": "kariertes Material (wie netzartig)",
+    "el": "καρό πράγματα (όπως δικτυωτά)",
+    "es": "a cuadros (como reticulado)",
+    "et": "ruuduline kraam (nagu võrkkiudne)",
+    "fi": "ruudullinen (kuten verkkomainen)",
+    "fr": "le damier (en tant que réticulé)",
+    "hu": "kockás cucc (mint a hálós)",
+    "id": "barang-barang kotak-kotak (seperti yang telah diuraikan)",
+    "it": "a scacchi (come reticolato)",
+    "ja": "市松模様",
+    "ko": "체크무늬 물건(망상형)",
+    "lt": "languotas daiktas (kaip tinklinis)",
+    "lv": "rūtains materiāls (kā tīklveida)",
+    "nb": "rutete ting (som netting)",
+    "nl": "geruit spul (als geruit)",
+    "pl": "rzeczy w kratkę (jak siateczka)",
+    "pt": "material axadrezado (como reticulado)",
+    "ro": "chestii în carouri (ca reticulat)",
+    "ru": "клетчатый материал (как сетчатый)",
+    "sk": "károvaný materiál (ako sieťovaný)",
+    "sl": "kockaste stvari (kot mrežaste)",
+    "sv": "rutiga saker (som retikulerade)",
+    "tr": "damalı şeyler (retiküle olarak)",
+    "uk": "картаті речі (як у сітці)",
+    "zh": "网状物"
+  },
+  "verses": [
+    "exodus 28:4:8"
+  ]
+}

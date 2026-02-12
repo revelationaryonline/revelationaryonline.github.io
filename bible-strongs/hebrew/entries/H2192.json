@@ -1,0 +1,42 @@
+{
+  "number": "H2192",
+  "language": "hebrew",
+  "transliteration": "zᵉʻêyr",
+  "pronunciation": "zeh-ayr'",
+  "definition": "{small}",
+  "kjvTranslation": "little.",
+  "translations": {
+    "bg": "{small}",
+    "cs": "{small}",
+    "da": "{lille}",
+    "de": "{klein}",
+    "el": "{small}",
+    "es": "{pequeño}",
+    "et": "{small}",
+    "fi": "{small}",
+    "fr": "{small}",
+    "hu": "{small}",
+    "id": "[kecil]",
+    "it": "{small}",
+    "ja": "小",
+    "ko": "{small}",
+    "lt": "{small}",
+    "lv": "{small}",
+    "nb": "{...liten...}",
+    "nl": "{small}",
+    "pl": "{small}",
+    "pt": "{pequeno}",
+    "ro": "{small}",
+    "ru": "{small}",
+    "sk": "{small}",
+    "sl": "{small}",
+    "sv": "{...liten...}",
+    "tr": "{küçük}",
+    "uk": "{Я знаю, що це не так.}",
+    "zh": "{小}{小}"
+  },
+  "hebrew": "זְעֵיר",
+  "verses": [
+    "daniel 7:8:6"
+  ]
+}

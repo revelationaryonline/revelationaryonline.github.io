@@ -1,0 +1,42 @@
+{
+  "number": "H2959",
+  "language": "hebrew",
+  "transliteration": "ṭârach",
+  "pronunciation": "taw-rakh'",
+  "definition": "to overburden",
+  "kjvTranslation": "weary.",
+  "translations": {
+    "bg": "да претоварва",
+    "cs": "přetížení",
+    "da": "at overbelaste",
+    "de": "zu überlasten",
+    "el": "να επιβαρύνει",
+    "es": "sobrecargar",
+    "et": "koormata",
+    "fi": "kuormittaa",
+    "fr": "surcharger",
+    "hu": "megterhelni",
+    "id": "untuk menimbun tanah",
+    "it": "sovraccaricare",
+    "ja": "負担をかける",
+    "ko": "과부하",
+    "lt": "perkrauti",
+    "lv": "pārslogot",
+    "nb": "å overbelaste",
+    "nl": "overbelasten",
+    "pl": "przeciążać",
+    "pt": "sobrecarregar",
+    "ro": "a supraîncărca",
+    "ru": "перегружать",
+    "sk": "preťažovať",
+    "sl": "preobremeniti",
+    "sv": "att överbelasta",
+    "tr": "aşırı yüklenmek",
+    "uk": "щоб перевантажити",
+    "zh": "压载"
+  },
+  "hebrew": "טָרַח",
+  "verses": [
+    "job 37:11:2"
+  ]
+}

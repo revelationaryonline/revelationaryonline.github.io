@@ -1,0 +1,42 @@
+{
+  "number": "H3346",
+  "language": "hebrew",
+  "transliteration": "yᵉqêdâʼ",
+  "pronunciation": "yek-ay-daw'",
+  "definition": "a conflagration",
+  "kjvTranslation": "burning.",
+  "translations": {
+    "bg": "пожар",
+    "cs": "požár",
+    "da": "en storbrand",
+    "de": "ein Feuersturm",
+    "el": "μια πυρκαγιά",
+    "es": "una conflagración",
+    "et": "tulekahju",
+    "fi": "tulipalo",
+    "fr": "une conflagration",
+    "hu": "tűzvész",
+    "id": "sebuah kebakaran",
+    "it": "una conflagrazione",
+    "ja": "火事",
+    "ko": "폭발",
+    "lt": "gaisras",
+    "lv": "ugunsgrēks",
+    "nb": "en storbrann",
+    "nl": "een vuurzee",
+    "pl": "pożoga",
+    "pt": "uma conflagração",
+    "ro": "o conflagrație",
+    "ru": "пожар",
+    "sk": "požiar",
+    "sl": "požar",
+    "sv": "en eldsvåda",
+    "tr": "bir yangın",
+    "uk": "пожежа",
+    "zh": "燹"
+  },
+  "hebrew": "יְקֵדָא",
+  "verses": [
+    "daniel 7:11:19"
+  ]
+}

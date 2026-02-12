@@ -1,0 +1,42 @@
+{
+  "number": "H5153",
+  "language": "hebrew",
+  "transliteration": "nâchûwsh",
+  "pronunciation": "naw-khoosh'",
+  "definition": "coppery, i.e. (figuratively) hard",
+  "kjvTranslation": "of brass.",
+  "hebrew": "נָחוּשׁ",
+  "translations": {
+    "bg": "меден, т.е. (в преносен смисъл) твърд",
+    "cs": "měděný, tj. (přeneseně) tvrdý",
+    "da": "kobberfarvet, dvs. (i overført betydning) hård",
+    "de": "kupferfarben, d.h. (im übertragenen Sinne) hart",
+    "el": "χάλκινο, δηλαδή (μεταφορικά) σκληρό",
+    "es": "cobrizo, es decir (figuradamente) duro",
+    "et": "vaskne, st (piltlikult öeldes) kõva",
+    "fi": "kuparinvärinen, eli (kuvaannollisesti) kova",
+    "fr": "cuivré, c'est-à-dire (au sens figuré) dur",
+    "hu": "rézszínű, azaz (átvitt értelemben) kemény",
+    "id": "tembaga, yaitu (secara kiasan) keras",
+    "it": "ramato, cioè (in senso figurato) duro",
+    "ja": "かたい",
+    "ko": "구리빛, 즉 (비유적으로) 딱딱함",
+    "lt": "vario spalvos, t. y. (perkeltine prasme) kietas",
+    "lv": "varains, t. i., (pārnestā nozīmē) ciets",
+    "nb": "kobberfarget, dvs. (i overført betydning) hard",
+    "nl": "koperachtig, d.w.z. (figuurlijk) hard",
+    "pl": "miedziany, tj. (w przenośni) twardy",
+    "pt": "acobreado, ou seja, (figurativamente) duro",
+    "ro": "cupru, adică (la figurat) tare",
+    "ru": "медный, т.е. (фигурально) твердый",
+    "sk": "medený, t. j. (obrazne) tvrdý",
+    "sl": "bakrene barve, tj. (v prenesenem pomenu) trd",
+    "sv": "kopparfärgad, d.v.s. (bildligt) hård",
+    "tr": "bakırımsı, yani (mecazi olarak) sert",
+    "uk": "мідний, тобто (образно) твердий",
+    "zh": "铜质"
+  },
+  "verses": [
+    "job 6:12:6"
+  ]
+}

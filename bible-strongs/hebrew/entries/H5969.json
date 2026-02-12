@@ -1,0 +1,42 @@
+{
+  "number": "H5969",
+  "language": "hebrew",
+  "transliteration": "ʻulpeh",
+  "pronunciation": "ool-peh'",
+  "definition": "an envelope, i.e. (figuratively) mourning",
+  "kjvTranslation": "fainted.",
+  "hebrew": "עֻלְפֶּה",
+  "translations": {
+    "bg": "плик, т.е. (в преносен смисъл) траур",
+    "cs": "obálka, tj. (obrazně) smutek",
+    "da": "en kuvert, dvs. (i overført betydning) sorg",
+    "de": "ein Umschlag, d.h. (im übertragenen Sinne) Trauerarbeit",
+    "el": "ένα φάκελο, δηλαδή (μεταφορικά) πένθος",
+    "es": "un sobre, es decir (figuradamente) luto",
+    "et": "ümbrik, st (piltlikult öeldes) leinamine",
+    "fi": "kirjekuori, eli (kuvaannollisesti) suru",
+    "fr": "une enveloppe, c'est-à-dire (au sens figuré) un deuil",
+    "hu": "boríték, azaz (képletesen) gyász",
+    "id": "sebuah amplop, yaitu (secara kiasan) berkabung",
+    "it": "una busta, cioè (in senso figurato) un lutto",
+    "ja": "喪中",
+    "ko": "봉투, 즉 (비유적으로) 애도하는 것",
+    "lt": "vokas, t. y. (perkeltine prasme) gedulas",
+    "lv": "aploksne, t.i., (pārnestā nozīmē) sēru",
+    "nb": "en konvolutt, dvs. (i overført betydning) sorg",
+    "nl": "een envelop, d.w.z. (figuurlijk) rouwend",
+    "pl": "koperta, czyli (w przenośni) żałoba",
+    "pt": "um envelope, ou seja, (figurativamente) um luto",
+    "ro": "un plic, adică (la figurat) doliu",
+    "ru": "конверт, т.е. (образно) траур",
+    "sk": "obálka, t. j. (obrazne) smútok",
+    "sl": "ovojnica, tj. (v prenesenem pomenu) žalovanje",
+    "sv": "ett kuvert, dvs. (bildligt talat) sörjande",
+    "tr": "bir zarf, yani (mecazi olarak) yas",
+    "uk": "конверт, тобто (образно) траур",
+    "zh": "信封"
+  },
+  "verses": [
+    "ezekiel 31:15:24"
+  ]
+}

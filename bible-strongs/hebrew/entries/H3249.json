@@ -1,0 +1,42 @@
+{
+  "number": "H3249",
+  "language": "hebrew",
+  "transliteration": "yâçûwr",
+  "pronunciation": "yaw-soor'",
+  "definition": "departing",
+  "kjvTranslation": "they that depart",
+  "translations": {
+    "bg": "отпътуване",
+    "cs": "odlet",
+    "da": "afgang",
+    "de": "abreise",
+    "el": "αναχωρώντας",
+    "es": "saliendo de",
+    "et": "lahkuv",
+    "fi": "lähtevät",
+    "fr": "départ",
+    "hu": "induló",
+    "id": "berangkat",
+    "it": "in partenza",
+    "ja": "ヒマ",
+    "ko": "출발",
+    "lt": "išvykstantis",
+    "lv": "izbraukšana no",
+    "nb": "avreise",
+    "nl": "vertrekkend van",
+    "pl": "odchodzący",
+    "pt": "partida",
+    "ro": "plecarea",
+    "ru": "отъезд",
+    "sk": "odchod",
+    "sl": "odhod",
+    "sv": "avgår",
+    "tr": "ayrılıyor",
+    "uk": "від'їжджає",
+    "zh": "往外"
+  },
+  "hebrew": "יָסוּר",
+  "verses": [
+    "jeremiah 17:13:6"
+  ]
+}

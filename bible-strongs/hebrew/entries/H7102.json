@@ -1,0 +1,42 @@
+{
+  "number": "H7102",
+  "language": "hebrew",
+  "transliteration": "qᵉtsîyʻâh",
+  "pronunciation": "kets-ee-aw'",
+  "definition": "cassia (as peeled; plural the bark)",
+  "kjvTranslation": "cassia.",
+  "hebrew": "קְצִיעָה",
+  "translations": {
+    "bg": "касия (обелена; множествено число на кората)",
+    "cs": "kasie (loupaná; množné číslo kůra)",
+    "da": "kassia (som skrællet; bark i flertal)",
+    "de": "cassia (wie geschält; Plural: Rinde)",
+    "el": "cassia (ως αποφλοιωμένη- πληθυντικός ο φλοιός)",
+    "es": "casia (como pelada; plural la corteza)",
+    "et": "cassia (kooritud; mitmuses koor)",
+    "fi": "cassia (kuorittuina; monikossa kuori)",
+    "fr": "casse (pelée ; au pluriel l'écorce)",
+    "hu": "cassia (hámozva; többes számban a kéreg)",
+    "id": "cassia (seperti yang dikupas; jamak kulit kayu)",
+    "it": "cassia (come buccia; plurale la corteccia)",
+    "ja": "カシア",
+    "ko": "계수나무(껍질을 벗긴 상태, 복수형)",
+    "lt": "kasija (nulupta; daugiskaita - žievė)",
+    "lv": "kasija (mizota; daudzskaitlī miza)",
+    "nb": "kassia (som skrellet; flertall barken)",
+    "nl": "kassie (als geschild; meervoud de schors)",
+    "pl": "cassia (jak obrana; liczba mnoga kora)",
+    "pt": "cássia (tal como descascada; plural: a casca)",
+    "ro": "casia (în formă decojită; plural scoarță)",
+    "ru": "кассия (в кожуре; во множественном числе - кора)",
+    "sk": "kasia (ako lúpaná; množné číslo kôra)",
+    "sl": "kasija (kot olupljena; množina skorja)",
+    "sv": "kassia (som skalad; plural barken)",
+    "tr": "cassia (soyulmuş olarak; çoğul kabuk)",
+    "uk": "касія (в очищеному вигляді; множина кора)",
+    "zh": "桂皮"
+  },
+  "verses": [
+    "psalms 45:9:2"
+  ]
+}

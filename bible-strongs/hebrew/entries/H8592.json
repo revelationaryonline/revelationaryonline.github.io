@@ -1,0 +1,42 @@
+{
+  "number": "H8592",
+  "language": "hebrew",
+  "transliteration": "taʻătsumâh",
+  "pronunciation": "tah-ats-oo-maw'",
+  "definition": "might (plural collective)",
+  "kjvTranslation": "power.",
+  "hebrew": "תַּעֲצֻמָה",
+  "translations": {
+    "bg": "might (множествено число)",
+    "cs": "might (množné číslo hromadné)",
+    "da": "måske (flertal kollektiv)",
+    "de": "könnte (Plural kollektiv)",
+    "el": "might (πληθυντικός συλλογικός αριθμός)",
+    "es": "podría (plural colectivo)",
+    "et": "võib (mitmuses kollektiivne)",
+    "fi": "saattaa (monikko kollektiivinen)",
+    "fr": "pourrait (collectif pluriel)",
+    "hu": "might (többes számban gyűjtőnéven)",
+    "id": "mungkin (jamak kolektif)",
+    "it": "potrebbe (plurale collettivo)",
+    "ja": "かもしれない",
+    "ko": "might(복수 집합)",
+    "lt": "might (daugiskaita)",
+    "lv": "varētu (daudzskaitlī kopā)",
+    "nb": "kan (flertall kollektiv)",
+    "nl": "might (meervoud collectief)",
+    "pl": "może (liczba mnoga zbiorowa)",
+    "pt": "poderiam (plural coletivo)",
+    "ro": "ar putea (plural colectiv)",
+    "ru": "может (множественное число собирательное)",
+    "sk": "might (množné číslo kolektívne)",
+    "sl": "lahko (množina)",
+    "sv": "kanske (plural kollektiv)",
+    "tr": "might (çoğul kolektif)",
+    "uk": "могутність (множина збірне)",
+    "zh": "可能"
+  },
+  "verses": [
+    "psalms 68:36:8"
+  ]
+}

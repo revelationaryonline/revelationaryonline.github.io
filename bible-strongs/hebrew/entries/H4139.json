@@ -1,0 +1,42 @@
+{
+  "number": "H4139",
+  "language": "hebrew",
+  "transliteration": "mûwlâh",
+  "pronunciation": "moo-law'",
+  "definition": "circumcision",
+  "kjvTranslation": "circumcision.",
+  "hebrew": "מוּלָה",
+  "translations": {
+    "bg": "обрязване",
+    "cs": "obřízka",
+    "da": "omskæring",
+    "de": "beschneidung",
+    "el": "περιτομή",
+    "es": "circuncisión",
+    "et": "ümberlõikamine",
+    "fi": "ympärileikkaus",
+    "fr": "circoncision",
+    "hu": "körülmetélés",
+    "id": "sunat",
+    "it": "circoncisione",
+    "ja": "ほうひせつだん",
+    "ko": "포경 수술",
+    "lt": "apipjaustymas",
+    "lv": "apgraizīšana",
+    "nb": "omskjæring",
+    "nl": "besnijdenis",
+    "pl": "obrzezanie",
+    "pt": "circuncisão",
+    "ro": "circumcizie",
+    "ru": "обрезание",
+    "sk": "obriezka",
+    "sl": "obrezovanje",
+    "sv": "omskärelse",
+    "tr": "sünnet",
+    "uk": "обрізання",
+    "zh": "包皮环切术"
+  },
+  "verses": [
+    "exodus 4:26:6"
+  ]
+}

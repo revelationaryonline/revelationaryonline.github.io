@@ -1,0 +1,42 @@
+{
+  "number": "H6665",
+  "language": "hebrew",
+  "transliteration": "tsidqâh",
+  "pronunciation": "tsid-kaw'",
+  "definition": "beneficence",
+  "kjvTranslation": "righteousness.",
+  "hebrew": "צִדְקָה",
+  "translations": {
+    "bg": "благодеяние",
+    "cs": "dobrodiní",
+    "da": "velgørenhed",
+    "de": "wohltätigkeit",
+    "el": "ευεργεσία",
+    "es": "beneficencia",
+    "et": "heategevus",
+    "fi": "hyväntekeväisyys",
+    "fr": "bienfaisance",
+    "hu": "jótékonyság",
+    "id": "kedermawanan",
+    "it": "beneficenza",
+    "ja": "恩恵",
+    "ko": "혜택",
+    "lt": "geranoriškumas",
+    "lv": "labdarība",
+    "nb": "velgjørenhet",
+    "nl": "weldadigheid",
+    "pl": "dobroczynność",
+    "pt": "beneficência",
+    "ro": "binefacere",
+    "ru": "благодеяние",
+    "sk": "dobročinnosť",
+    "sl": "dobrodelnost",
+    "sv": "välgörenhet",
+    "tr": "hayırseverlik",
+    "uk": "благодійність",
+    "zh": "恩惠"
+  },
+  "verses": [
+    "daniel 4:24:8"
+  ]
+}

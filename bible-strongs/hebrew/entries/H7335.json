@@ -1,0 +1,42 @@
+{
+  "number": "H7335",
+  "language": "hebrew",
+  "transliteration": "râzam",
+  "pronunciation": "raw-zam'",
+  "definition": "to twinkle the eye (in mockery)",
+  "kjvTranslation": "wink.",
+  "hebrew": "רָזַם",
+  "translations": {
+    "bg": "да мига с очи (подигравателно)",
+    "cs": "mrknout okem (posměšně)",
+    "da": "at blinke med øjnene (i hån)",
+    "de": "mit den Augen zwinkern (zum Spott)",
+    "el": "να ανοιγοκλείνει το μάτι (σε κοροϊδία)",
+    "es": "guiñar el ojo (en burla)",
+    "et": "silmi pilgutada (pilkavalt)",
+    "fi": "tuikkia silmää (pilkaten)",
+    "fr": "faire un clin d'œil (par dérision)",
+    "hu": "a szemmel kacsintani (gúnyosan)",
+    "id": "untuk mengedipkan mata (sebagai ejekan)",
+    "it": "scintillare l'occhio (in segno di scherno)",
+    "ja": "目をキラキラさせる",
+    "ko": "눈을 반짝이다(조롱으로)",
+    "lt": "mirktelėti akimi (tyčiojantis)",
+    "lv": "mirkšķināt acis (izsmejot)",
+    "nb": "å blunke med øynene (i spott)",
+    "nl": "met de ogen knipperen (om te spotten)",
+    "pl": "mrugać okiem (w kpinie)",
+    "pt": "fazer piscar o olho (em tom de troça)",
+    "ro": "a clipi din ochi (în batjocură)",
+    "ru": "сверкать глазами (в насмешку)",
+    "sk": "žmurknúť okom (na posmech)",
+    "sl": "utripati z očmi (v posmeh)",
+    "sv": "att tindra med ögat (i hån)",
+    "tr": "göz kırpmak (alay etmek için)",
+    "uk": "блиснути оком (в насмішку)",
+    "zh": "媚眼如丝"
+  },
+  "verses": [
+    "job 15:12:4"
+  ]
+}

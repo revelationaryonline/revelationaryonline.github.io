@@ -1,0 +1,43 @@
+{
+  "number": "H3424",
+  "language": "hebrew",
+  "transliteration": "yᵉrêshâh",
+  "pronunciation": "yer-ay-shaw'",
+  "definition": "occupancy",
+  "kjvTranslation": "possession.",
+  "translations": {
+    "bg": "заетост",
+    "cs": "obsazenost",
+    "da": "besættelse",
+    "de": "belegung",
+    "el": "πληρότητα",
+    "es": "ocupación",
+    "et": "täituvus",
+    "fi": "käyttöaste",
+    "fr": "occupation",
+    "hu": "foglaltság",
+    "id": "hunian",
+    "it": "occupazione",
+    "ja": "オキュパシー",
+    "ko": "점유",
+    "lt": "užimtumas",
+    "lv": "aizņemtība",
+    "nb": "belegg",
+    "nl": "bezetting",
+    "pl": "obłożenie",
+    "pt": "ocupação",
+    "ro": "ocupație",
+    "ru": "заполняемость",
+    "sk": "obsadenosť",
+    "sl": "zasedenost",
+    "sv": "beläggning",
+    "tr": "doluluk",
+    "uk": "заповнюваність",
+    "zh": "占用"
+  },
+  "hebrew": "יְרֵשָׁה",
+  "verses": [
+    "numbers 24:18:2",
+    "numbers 24:18:4"
+  ]
+}

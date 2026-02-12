@@ -1,0 +1,43 @@
+{
+  "number": "H2869",
+  "language": "hebrew",
+  "transliteration": "ṭâb",
+  "pronunciation": "teh-abe'",
+  "definition": "good",
+  "kjvTranslation": "fine, good.",
+  "translations": {
+    "bg": "добър",
+    "cs": "dobré",
+    "da": "godt",
+    "de": "gut",
+    "el": "καλή",
+    "es": "bien",
+    "et": "hea",
+    "fi": "hyvä",
+    "fr": "bon",
+    "hu": "jó",
+    "id": "baik",
+    "it": "buono",
+    "ja": "良い",
+    "ko": "좋은",
+    "lt": "geras",
+    "lv": "labi",
+    "nb": "bra",
+    "nl": "goed",
+    "pl": "dobry",
+    "pt": "bom",
+    "ro": "bun",
+    "ru": "хорошо",
+    "sk": "dobré",
+    "sl": "dobro",
+    "sv": "bra",
+    "tr": "iyi",
+    "uk": "добре",
+    "zh": "好"
+  },
+  "hebrew": "טָב",
+  "verses": [
+    "ezra 5:17:4",
+    "daniel 2:32:5"
+  ]
+}

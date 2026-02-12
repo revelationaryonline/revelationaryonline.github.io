@@ -1,0 +1,43 @@
+{
+  "number": "H3523",
+  "language": "hebrew",
+  "transliteration": "kᵉbîyr",
+  "pronunciation": "keb-eer",
+  "definition": "a matrass (of intertwined materials)",
+  "kjvTranslation": "pillow.",
+  "translations": {
+    "bg": "килим (от преплетени материали)",
+    "cs": "rohož (z propletených materiálů)",
+    "da": "en matras (af sammenflettede materialer)",
+    "de": "eine Matte (aus miteinander verflochtenen Materialien)",
+    "el": "ένα χαλί (από υλικά που διαπλέκονται μεταξύ τους)",
+    "es": "una estera (de materiales entrelazados)",
+    "et": "(põimitud materjalidest) matrass",
+    "fi": "(toisiinsa kietoutuneista materiaaleista koostuva) matonaru",
+    "fr": "un matelas (de matériaux entrelacés)",
+    "hu": "(egymásba fonódó anyagokból álló) matraccsomó",
+    "id": "matras (dari bahan yang saling terkait)",
+    "it": "una stuoia (di materiali intrecciati)",
+    "ja": "マトラス",
+    "ko": "(서로 얽힌 재료로 된) 매트",
+    "lt": "matrasas (iš susipynusių medžiagų)",
+    "lv": "matraci (no savstarpēji savītiem materiāliem)",
+    "nb": "en matrass (av sammenflettede materialer)",
+    "nl": "een matras (van verstrengelde materialen)",
+    "pl": "matras (ze splecionych materiałów)",
+    "pt": "um tapete (de materiais entrelaçados)",
+    "ro": "o rogojină (din materiale împletite)",
+    "ru": "матрас (из переплетенных материалов)",
+    "sk": "trávnik (z prepletených materiálov)",
+    "sl": "trava (iz prepletenih materialov)",
+    "sv": "en matrass (av sammanflätade material)",
+    "tr": "bir matrass (iç içe geçmiş malzemelerden)",
+    "uk": "матрац (з переплетених матеріалів)",
+    "zh": "席草"
+  },
+  "hebrew": "כְּבִיר",
+  "verses": [
+    "firstSamuel 19:13:8",
+    "firstSamuel 19:16:6"
+  ]
+}

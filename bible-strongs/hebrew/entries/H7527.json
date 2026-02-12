@@ -1,0 +1,42 @@
+{
+  "number": "H7527",
+  "language": "hebrew",
+  "transliteration": "râtsaʻ",
+  "pronunciation": "raw-tsah'",
+  "definition": "to pierce",
+  "kjvTranslation": "bore.",
+  "hebrew": "רָצַע",
+  "translations": {
+    "bg": "да пробива",
+    "cs": "prorazit",
+    "da": "at gennembore",
+    "de": "zu durchbohren",
+    "el": "να τρυπήσω",
+    "es": "perforar",
+    "et": "läbi lüüa",
+    "fi": "lävistää",
+    "fr": "percer",
+    "hu": "hogy átszúrja",
+    "id": "untuk menembus",
+    "it": "per trafiggere",
+    "ja": "突き刺す",
+    "ko": "뚫다",
+    "lt": "pradurti",
+    "lv": "caurdurt",
+    "nb": "å stikke hull på",
+    "nl": "te doorboren",
+    "pl": "przebić",
+    "pt": "perfurar",
+    "ro": "să străpungă",
+    "ru": "проколоть",
+    "sk": "preraziť",
+    "sl": "preluknjati",
+    "sv": "att genomborra",
+    "tr": "delmek için",
+    "uk": "пронизати",
+    "zh": "刺"
+  },
+  "verses": [
+    "exodus 21:6:10"
+  ]
+}

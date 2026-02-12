@@ -1,0 +1,42 @@
+{
+  "number": "H8383",
+  "language": "hebrew",
+  "transliteration": "tᵉʼun",
+  "pronunciation": "teh-oon'",
+  "definition": "naughtiness, i.e. toil",
+  "kjvTranslation": "lie.",
+  "hebrew": "תְּאֻן",
+  "translations": {
+    "bg": "палавост, т.е. труд",
+    "cs": "nemravnost, tj. dřina",
+    "da": "uanstændighed, dvs. arbejde",
+    "de": "ungezogenheit, d.h. Schufterei",
+    "el": "αταξία, δηλ. μόχθος",
+    "es": "picardía, es decir, trabajo",
+    "et": "ulakus, s.t. vaevlemine",
+    "fi": "tuhmuus, ts. raataminen",
+    "fr": "la méchanceté, c'est-à-dire le labeur",
+    "hu": "pajzánság, azaz fáradozás",
+    "id": "kenakalan, yaitu kerja keras",
+    "it": "cattiveria, ovvero fatica",
+    "ja": "いたずら",
+    "ko": "못된 짓, 즉 고생",
+    "lt": "neklaužada, t. y. triūsas",
+    "lv": "nerātnība, t.i., darbs",
+    "nb": "uanstendighet, dvs. slit",
+    "nl": "ondeugendheid, d.w.z. zwoegen",
+    "pl": "niegrzeczność, czyli trud",
+    "pt": "malandragem, ou seja, trabalho",
+    "ro": "obrăznicie, adică trudă",
+    "ru": "озорство, т.е. труд",
+    "sk": "nezbednosť, t. j. námaha",
+    "sl": "nerodnost, tj. trud",
+    "sv": "oförskämdhet, dvs. slit",
+    "tr": "yaramazlık, yani zahmet",
+    "uk": "неслухняність, тобто праця",
+    "zh": "淘气，即劳作"
+  },
+  "verses": [
+    "ezekiel 24:12:0"
+  ]
+}

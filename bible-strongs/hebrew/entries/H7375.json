@@ -1,0 +1,42 @@
+{
+  "number": "H7375",
+  "language": "hebrew",
+  "transliteration": "ruṭăphash",
+  "pronunciation": "roo-taf-ash'",
+  "definition": "to be rejuvenated",
+  "kjvTranslation": "be fresh.",
+  "hebrew": "רֻטֲפַשׁ",
+  "translations": {
+    "bg": "да се подмладява",
+    "cs": "omladit se",
+    "da": "at blive forynget",
+    "de": "verjüngt zu werden",
+    "el": "να αναζωογονηθεί",
+    "es": "rejuvenecer",
+    "et": "noorendada",
+    "fi": "nuorentua",
+    "fr": "rajeunir",
+    "hu": "megfiatalodni",
+    "id": "untuk diremajakan",
+    "it": "ringiovanire",
+    "ja": "若返る",
+    "ko": "활력을 되찾기 위해",
+    "lt": "atjaunėti",
+    "lv": "atjaunoties",
+    "nb": "å bli forynget",
+    "nl": "om te verjongen",
+    "pl": "być odmłodzonym",
+    "pt": "ser rejuvenescido",
+    "ro": "să fie întinerit",
+    "ru": "омолаживаться",
+    "sk": "byť omladený",
+    "sl": "da se pomladite",
+    "sv": "att bli föryngrad",
+    "tr": "gençleşmek için",
+    "uk": "омолодитися",
+    "zh": "恢复活力"
+  },
+  "verses": [
+    "job 33:25:0"
+  ]
+}

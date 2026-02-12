@@ -1,0 +1,42 @@
+{
+  "number": "H2751",
+  "language": "hebrew",
+  "transliteration": "chôrîy",
+  "pronunciation": "kho-ree'",
+  "definition": "white bread",
+  "kjvTranslation": "white.",
+  "translations": {
+    "bg": "бял хляб",
+    "cs": "bílý chléb",
+    "da": "hvidt brød",
+    "de": "weißbrot",
+    "el": "λευκό ψωμί",
+    "es": "pan blanco",
+    "et": "valge leib",
+    "fi": "valkoinen leipä",
+    "fr": "pain blanc",
+    "hu": "fehér kenyér",
+    "id": "roti putih",
+    "it": "pane bianco",
+    "ja": "白パン",
+    "ko": "흰 빵",
+    "lt": "balta duona",
+    "lv": "baltmaize",
+    "nb": "hvitt brød",
+    "nl": "wit brood",
+    "pl": "biały chleb",
+    "pt": "pão branco",
+    "ro": "pâine albă",
+    "ru": "белый хлеб",
+    "sk": "biely chlieb",
+    "sl": "beli kruh",
+    "sv": "vitt bröd",
+    "tr": "beyaz ekmek",
+    "uk": "білий хліб",
+    "zh": "白面包"
+  },
+  "hebrew": "חֹרִי",
+  "verses": [
+    "genesis 40:16:15"
+  ]
+}

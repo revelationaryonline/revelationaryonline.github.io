@@ -1,0 +1,42 @@
+{
+  "number": "H782",
+  "language": "hebrew",
+  "transliteration": "ʼăresheth",
+  "pronunciation": "ar-eh'-sheth",
+  "definition": "a longing for",
+  "kjvTranslation": "request.",
+  "translations": {
+    "bg": "копнеж за",
+    "cs": "touha po",
+    "da": "en længsel efter",
+    "de": "eine Sehnsucht nach",
+    "el": "μια λαχτάρα για",
+    "es": "un anhelo de",
+    "et": "igatsus",
+    "fi": "kaipuu",
+    "fr": "un désir de",
+    "hu": "vágyakozás",
+    "id": "kerinduan untuk",
+    "it": "un desiderio di",
+    "ja": "への憧れ",
+    "ko": "에 대한 갈망",
+    "lt": "ilgesys",
+    "lv": "ilgas pēc",
+    "nb": "en lengsel etter",
+    "nl": "een verlangen naar",
+    "pl": "tęsknota za",
+    "pt": "um desejo de",
+    "ro": "o dorință de",
+    "ru": "стремление к",
+    "sk": "túžba po",
+    "sl": "hrepenenje po",
+    "sv": "en längtan efter",
+    "tr": "için bir özlem",
+    "uk": "туга за",
+    "zh": "渴望"
+  },
+  "hebrew": "אֲרֶשֶׁת",
+  "verses": [
+    "psalms 21:3:4"
+  ]
+}

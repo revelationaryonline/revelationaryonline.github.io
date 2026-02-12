@@ -1,0 +1,42 @@
+{
+  "number": "H8277",
+  "language": "hebrew",
+  "transliteration": "sârad",
+  "pronunciation": "saw-rad'",
+  "definition": "properly, to puncture, i.e. (figuratively through the idea of slipping out) to escape or survive",
+  "kjvTranslation": "remain.",
+  "hebrew": "שָׂרַד",
+  "translations": {
+    "bg": "правилно, да се пробие, т.е. (преносно чрез идеята за изплъзване) да се измъкне или да оцелее",
+    "cs": "správně prorazit, tj. (přeneseně skrze myšlenku vyklouznutí) uniknout nebo přežít",
+    "da": "korrekt, at punktere, dvs. (i overført betydning gennem ideen om at glide ud) at undslippe eller overleve",
+    "de": "richtig: durchstechen, d.h. (im übertragenen Sinne durch die Idee des Herausschlüpfens) entkommen oder überleben",
+    "el": "σωστά, να τρυπήσω, δηλαδή (μεταφορικά μέσω της ιδέας του γλιστρήματος) να ξεφύγω ή να επιβιώσω",
+    "es": "propiamente, pinchar, es decir (figuradamente a través de la idea de escurrirse) escapar o sobrevivir",
+    "et": "õigesti, läbi lüüa, st (piltlikult öeldes välja libisemise mõtte kaudu) põgeneda või ellu jääda",
+    "fi": "oikein, puhkaista, eli (kuvaannollisesti ajatuksen kautta liukastua ulos) paeta tai selviytyä",
+    "fr": "proprement dit, percer, c'est-à-dire (au sens figuré par l'idée de glisser) s'échapper ou survivre",
+    "hu": "helyesen, átszúrni, azaz (átvitt értelemben a kicsúszás gondolatán keresztül) megmenekülni vagy túlélni",
+    "id": "benar, untuk menusuk, yaitu (secara kiasan melalui gagasan menyelinap keluar) untuk melarikan diri atau bertahan hidup",
+    "it": "propriamente, forare, cioè (in senso figurato con l'idea di scivolare fuori) sfuggire o sopravvivere",
+    "ja": "正しくは、穴を開ける、つまり（抜け出るという比喩的な意味で）脱出する、あるいは生き残る",
+    "ko": "적절하게, 구멍을 뚫다, 즉 (비유적으로 빠져나간다는 생각을 통해) 탈출하거나 생존하기 위해",
+    "lt": "tinkamai - pradurti, t. y. (perkeltine prasme - ištrūkti) ištrūkti arba išgyventi",
+    "lv": "pareizi - caurdurt, t.i., (pārnestā nozīmē - izslīdēt), lai izbēgtu vai izdzīvotu",
+    "nb": "egentlig, å punktere, dvs. (i overført betydning gjennom ideen om å gli ut) å unnslippe eller overleve",
+    "nl": "goed, doorboren, d.w.z. (figuurlijk door het idee van eruit glijden) ontsnappen of overleven",
+    "pl": "prawidłowo, przebić, tj. (w przenośni poprzez wymknięcie się) uciec lub przetrwać",
+    "pt": "propriamente dito, perfurar, ou seja, (em sentido figurado através da ideia de escapar) escapar ou sobreviver",
+    "ro": "corect, a perfora, adică (la figurat prin ideea de a aluneca afară) a scăpa sau a supraviețui",
+    "ru": "правильно, проколоть, т.е. (фигурально, через идею выскальзывания) спастись или выжить",
+    "sk": "správne, prepichnúť, t. j. (obrazne cez myšlienku vyklznutia) uniknúť alebo prežiť",
+    "sl": "pravilno, preluknjati, tj. (v prenesenem pomenu z mislijo na izmikanje) pobegniti ali preživeti",
+    "sv": "korrekt, att punktera, dvs (bildligt genom tanken på att glida ut) att fly eller överleva",
+    "tr": "uygun şekilde, delmek, yani (mecazi olarak dışarı kayma fikri yoluyla) kaçmak veya hayatta kalmak",
+    "uk": "власне, проколотися, тобто (образно через ідею вислизнути) втекти або вижити",
+    "zh": "正确地说，是刺穿，即（通过 \"滑出 \"这一概念来比喻）逃脱或生存"
+  },
+  "verses": [
+    "joshua 10:20:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1971",
+  "language": "hebrew",
+  "transliteration": "hakkârâh",
+  "pronunciation": "hak-kaw-raw'",
+  "definition": "respect, i.e. partiality",
+  "kjvTranslation": "shew.",
+  "translations": {
+    "bg": "уважение, т.е. пристрастност",
+    "cs": "respekt, tj. zaujatost",
+    "da": "respekt, dvs. partiskhed",
+    "de": "achtung, d.h. Parteilichkeit",
+    "el": "σεβασμός, δηλαδή μεροληψία",
+    "es": "respeto, es decir, parcialidad",
+    "et": "austus, st erapooletus",
+    "fi": "kunnioitus eli puolueellisuus",
+    "fr": "le respect, c'est-à-dire la partialité",
+    "hu": "tisztelet, azaz részrehajlás",
+    "id": "rasa hormat, yaitu keberpihakan",
+    "it": "rispetto, cioè parzialità",
+    "ja": "リスペクト",
+    "ko": "존중, 즉 편파성",
+    "lt": "pagarba, t. y. šališkumas",
+    "lv": "cieņa, t.i., neobjektivitāte",
+    "nb": "respekt, dvs. partiskhet",
+    "nl": "respect, d.w.z. partijdigheid",
+    "pl": "szacunek, tj. stronniczość",
+    "pt": "respeito, ou seja, parcialidade",
+    "ro": "respect, adică părtinire",
+    "ru": "уважение, т.е. пристрастность",
+    "sk": "rešpekt, t. j. zaujatosť",
+    "sl": "spoštovanje, tj. pristranskost",
+    "sv": "respekt, d.v.s. partiskhet",
+    "tr": "saygı, yani tarafgirlik",
+    "uk": "повага, тобто упередженість",
+    "zh": "尊重，即偏袒"
+  },
+  "hebrew": "הַכָּרָה",
+  "verses": [
+    "isaiah 3:9:0"
+  ]
+}

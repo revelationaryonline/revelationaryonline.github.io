@@ -1,0 +1,43 @@
+{
+  "number": "H2978",
+  "language": "hebrew",
+  "transliteration": "yᵉʼithôwn",
+  "pronunciation": "yeh-ee-thone'",
+  "definition": "an entry",
+  "kjvTranslation": "entrance.",
+  "translations": {
+    "bg": "вписване",
+    "cs": "záznam",
+    "da": "en indgang",
+    "de": "ein Eintrag",
+    "el": "μια καταχώρηση",
+    "es": "una entrada",
+    "et": "kanne",
+    "fi": "merkintä",
+    "fr": "une entrée",
+    "hu": "egy bejegyzés",
+    "id": "sebuah entri",
+    "it": "una voce",
+    "ja": "エントリー",
+    "ko": "항목",
+    "lt": "įrašas",
+    "lv": "ieraksts",
+    "nb": "en oppføring",
+    "nl": "een item",
+    "pl": "wpis",
+    "pt": "uma entrada",
+    "ro": "o intrare",
+    "ru": "вход",
+    "sk": "záznam",
+    "sl": "vnos",
+    "sv": "en post",
+    "tr": "bir giriş",
+    "uk": "запис",
+    "zh": "账目"
+  },
+  "hebrew": "יְאִתוֹן",
+  "verses": [
+    "ezekiel 40:15:3",
+    "ezekiel 40:15:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4987",
+  "language": "hebrew",
+  "transliteration": "môtheq",
+  "pronunciation": "mo'-thek",
+  "definition": "sweetness",
+  "kjvTranslation": "sweetness.",
+  "hebrew": "מֹתֶק",
+  "translations": {
+    "bg": "сладост",
+    "cs": "sladkost",
+    "da": "sødme",
+    "de": "süße",
+    "el": "γλυκύτητα",
+    "es": "dulzura",
+    "et": "magusus",
+    "fi": "makeus",
+    "fr": "douceur",
+    "hu": "édesség",
+    "id": "rasa manis",
+    "it": "dolcezza",
+    "ja": "甘み",
+    "ko": "단맛",
+    "lt": "saldumas",
+    "lv": "saldums",
+    "nb": "sødme",
+    "nl": "zoetheid",
+    "pl": "słodycz",
+    "pt": "doçura",
+    "ro": "dulceață",
+    "ru": "сладость",
+    "sk": "sladkosť",
+    "sl": "sladkost",
+    "sv": "sötma",
+    "tr": "tatlılık",
+    "uk": "солодкість",
+    "zh": "甜味"
+  },
+  "verses": [
+    "judges 9:11:5"
+  ]
+}

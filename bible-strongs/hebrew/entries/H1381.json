@@ -1,0 +1,42 @@
+{
+  "number": "H1381",
+  "language": "hebrew",
+  "transliteration": "Gᵉbâl",
+  "pronunciation": "gheb-awl'",
+  "definition": "Gebal, a region in Idumaea",
+  "kjvTranslation": "Gebal.",
+  "translations": {
+    "bg": "Гебал, област в Идумея",
+    "cs": "Gebal, region v Idumeji",
+    "da": "Gebal, en region i Idumæa",
+    "de": "Gebal, eine Region in Idumäa",
+    "el": "Gebal, μια περιοχή στην Ιδουμαία",
+    "es": "Gebal, una región de Idumea",
+    "et": "Gebal, piirkond Idumaal",
+    "fi": "Gebal, alue Idumaassa",
+    "fr": "Gebal, région d'Idumée",
+    "hu": "Gebal, Idumaiában található régió",
+    "id": "Gebal, sebuah wilayah di Idumaea",
+    "it": "Gebal, una regione dell'Idumea",
+    "ja": "ゲバル、イドゥメアの地方",
+    "ko": "이두마에아 지역, 게발",
+    "lt": "Gebalas, regionas Idumėjoje",
+    "lv": "Gebal, reģions Idumejā",
+    "nb": "Gebal, en region i Idumaea",
+    "nl": "Gebal, een streek in Idumaea",
+    "pl": "Gebal, region w Idumei",
+    "pt": "Gebal, uma região da Iduméia",
+    "ro": "Gebal, o regiune în Idumaea",
+    "ru": "Гебал, область в Идумее",
+    "sk": "Gebal, región v Idumei",
+    "sl": "Gebal, regija v Idumeji",
+    "sv": "Gebal, en region i Idumaea",
+    "tr": "Gebal, Idumaea'da bir bölge",
+    "uk": "Гебал, регіон в Ідумеї",
+    "zh": "吉巴勒"
+  },
+  "hebrew": "גְּבָל",
+  "verses": [
+    "psalms 83:8:0"
+  ]
+}

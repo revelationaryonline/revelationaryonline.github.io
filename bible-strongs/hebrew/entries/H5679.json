@@ -1,0 +1,43 @@
+{
+  "number": "H5679",
+  "language": "hebrew",
+  "transliteration": "ʻăbârâh",
+  "pronunciation": "ab-aw-raw'",
+  "definition": "a crossing-place",
+  "kjvTranslation": "ferry, plain (from the margin).",
+  "hebrew": "עֲבָרָה",
+  "translations": {
+    "bg": "място за пресичане",
+    "cs": "místo pro přecházení",
+    "da": "et sted at krydse",
+    "de": "eine Kreuzungsstelle",
+    "el": "ένα σημείο διέλευσης",
+    "es": "un lugar de paso",
+    "et": "ristumiskoht",
+    "fi": "risteyspaikka",
+    "fr": "un lieu de passage",
+    "hu": "átkelőhely",
+    "id": "tempat penyeberangan",
+    "it": "un luogo di attraversamento",
+    "ja": "渡り廊下",
+    "ko": "교차로 장소",
+    "lt": "sankryžos vieta",
+    "lv": "robežšķērsošanas vieta",
+    "nb": "et kryssingssted",
+    "nl": "een doorgangsplaats",
+    "pl": "przejście graniczne",
+    "pt": "um local de passagem",
+    "ro": "un loc de trecere",
+    "ru": "место пересечения",
+    "sk": "miesto prechodu",
+    "sl": "križišče",
+    "sv": "en korsningsplats",
+    "tr": "bir geçiş yeri",
+    "uk": "місце перетину",
+    "zh": "过境点"
+  },
+  "verses": [
+    "secondSamuel 15:28:3",
+    "secondSamuel 19:19:1"
+  ]
+}

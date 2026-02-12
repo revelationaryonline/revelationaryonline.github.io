@@ -1,0 +1,42 @@
+{
+  "number": "H6338",
+  "language": "hebrew",
+  "transliteration": "pâzaz",
+  "pronunciation": "paw-zaz'",
+  "definition": "to refine (gold)",
+  "kjvTranslation": "best (gold).",
+  "hebrew": "פָּזַז",
+  "translations": {
+    "bg": "да рафинира (злато)",
+    "cs": "zušlechťovat (zlato)",
+    "da": "at forfine (guld)",
+    "de": "zu verfeinern (Gold)",
+    "el": "να διυλίσουν (χρυσό)",
+    "es": "refinar (oro)",
+    "et": "rafineerida (kulda)",
+    "fi": "jalostaa (kultaa)",
+    "fr": "affiner (l'or)",
+    "hu": "finomítani (arany)",
+    "id": "untuk memurnikan (emas)",
+    "it": "raffinare (l'oro)",
+    "ja": "精製する",
+    "ko": "정제하다 (금)",
+    "lt": "išgryninti (auksą)",
+    "lv": "attīrīt (zeltu)",
+    "nb": "å foredle (gull)",
+    "nl": "(goud) raffineren",
+    "pl": "do rafinacji (złota)",
+    "pt": "para refinar (ouro)",
+    "ro": "a rafina (aurul)",
+    "ru": "аффинировать (золото)",
+    "sk": "zušľachťovať (zlato)",
+    "sl": "rafinirati (zlato)",
+    "sv": "att raffinera (guld)",
+    "tr": "rafine etmek (altın)",
+    "uk": "афінувати (золото)",
+    "zh": "提炼"
+  },
+  "verses": [
+    "firstKings 10:18:7"
+  ]
+}

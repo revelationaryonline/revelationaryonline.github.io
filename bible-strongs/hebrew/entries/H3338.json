@@ -1,0 +1,42 @@
+{
+  "number": "H3338",
+  "language": "hebrew",
+  "transliteration": "yâtsur",
+  "pronunciation": "yaw-tsoor'",
+  "definition": "structure, i.e. limb or part",
+  "kjvTranslation": "member.ql",
+  "translations": {
+    "bg": "структура, т.е. крайник или част",
+    "cs": "struktura, tj. končetina nebo část",
+    "da": "struktur, dvs. lem eller del",
+    "de": "struktur, d.h. Glied oder Teil",
+    "el": "δομή, δηλ. άκρο ή μέρος",
+    "es": "estructura, es decir, miembro o parte",
+    "et": "struktuur, st jäseme või osa",
+    "fi": "rakenne, eli raaja tai osa",
+    "fr": "la structure, c'est-à-dire le membre ou la partie",
+    "hu": "szerkezet, azaz végtag vagy rész",
+    "id": "struktur, yaitu anggota badan atau bagian",
+    "it": "struttura, cioè un arto o una parte",
+    "ja": "構造、すなわち四肢または部分",
+    "ko": "구조, 즉 사지 또는 부분",
+    "lt": "struktūra, t. y. galūnė arba dalis",
+    "lv": "struktūra, t. i., ekstremitāte vai daļa",
+    "nb": "struktur, dvs. lem eller del",
+    "nl": "structuur, d.w.z. ledemaat of deel",
+    "pl": "struktura, tj. kończyna lub część",
+    "pt": "estrutura, ou seja, membro ou parte",
+    "ro": "structură, adică membru sau parte",
+    "ru": "структура, т.е. конечность или часть",
+    "sk": "štruktúra, t. j. končatina alebo časť",
+    "sl": "struktura, tj. okončina ali del",
+    "sv": "struktur, d.v.s. lem eller del",
+    "tr": "yapı, yani uzuv veya parça",
+    "uk": "структура, тобто кінцівка або частина",
+    "zh": "结构，即肢体或部分"
+  },
+  "hebrew": "יָצֻר",
+  "verses": [
+    "job 17:7:3"
+  ]
+}

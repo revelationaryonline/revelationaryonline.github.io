@@ -1,0 +1,42 @@
+{
+  "number": "H5580",
+  "language": "hebrew",
+  "transliteration": "çâç",
+  "pronunciation": "sawce",
+  "definition": "a moth (from the agility of the fly)",
+  "kjvTranslation": "moth.",
+  "hebrew": "סָס",
+  "translations": {
+    "bg": "молец (от пъргавината на мухата)",
+    "cs": "můra (od hbitosti mouchy)",
+    "da": "et møl (fra fluens smidighed)",
+    "de": "eine Motte (von der Beweglichkeit der Fliege)",
+    "el": "σκώρος (από την ευκινησία της μύγας)",
+    "es": "una polilla (por la agilidad de la mosca)",
+    "et": "koi (kärbse agiilsusest)",
+    "fi": "koi (kärpäsen ketteryydestä)",
+    "fr": "un papillon de nuit (de l'agilité de la mouche)",
+    "hu": "molylepke (a légy fürgeségéből)",
+    "id": "seekor ngengat (dari kelincahan lalat)",
+    "it": "una falena (dall'agilità della mosca)",
+    "ja": "蛾",
+    "ko": "나방(파리의 민첩성에서 유래)",
+    "lt": "kandys (nuo musės judrumo)",
+    "lv": "ērce (no mušas veiklības)",
+    "nb": "en møll (fra fluens smidighet)",
+    "nl": "een mot (van de beweeglijkheid van de vlieg)",
+    "pl": "ćma (od zwinności muchy)",
+    "pt": "uma traça (pela agilidade da mosca)",
+    "ro": "o molie (de la agilitatea muștelor)",
+    "ru": "мотылек (от проворства мухи)",
+    "sk": "motýľ (z obratnosti muchy)",
+    "sl": "mol (zaradi gibčnosti muhe)",
+    "sv": "en mal (från flugans smidighet)",
+    "tr": "bir güve (sineğin çevikliğinden)",
+    "uk": "метелик (від спритності мухи)",
+    "zh": "飞蛾"
+  },
+  "verses": [
+    "isaiah 51:8:6"
+  ]
+}

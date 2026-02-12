@@ -1,0 +1,43 @@
+{
+  "number": "H8261",
+  "language": "hebrew",
+  "transliteration": "shâquph",
+  "pronunciation": "shaw-koof'",
+  "definition": "an embrasure or opening  with bevelled jam",
+  "kjvTranslation": "light, window.",
+  "hebrew": "שָׁקֻף",
+  "translations": {
+    "bg": "отвор със скосен ръб",
+    "cs": "otvor se zkoseným zářezem",
+    "da": "en sprække eller åbning med skråtstillet syltetøj",
+    "de": "eine Schießscharte oder eine Öffnung mit abgeschrägter Kante",
+    "el": "ένα άνοιγμα με λοξότμητη μαρμελάδα",
+    "es": "una aspillera o abertura con jamba biselada",
+    "et": "sisselõige või avaus, millel on koonerdatud moosid",
+    "fi": "aukko, jossa on viistetty hattu",
+    "fr": "une embrasure ou une ouverture avec un jambage biseauté",
+    "hu": "egy rés vagy nyílás ferde dzsámival",
+    "id": "lubang atau bukaan dengan selai yang miring",
+    "it": "una feritoia o un'apertura con incavo smussato",
+    "ja": "刳り貫き",
+    "ko": "비스듬한 잼이있는 엠보싱 또는 개구부",
+    "lt": "įdubimas arba anga su nuožulniu įdubimu",
+    "lv": "iegrime vai atvērums ar slīpētu iecirkni",
+    "nb": "en utsparing eller åpning med skråstilt syltetøy",
+    "nl": "een schietgat of opening met afgeschuinde jam",
+    "pl": "wycięcie lub otwór ze ściętym ościeżem",
+    "pt": "uma abertura com um entalhe chanfrado",
+    "ro": "o deschizătură sau o deschizătură cu blocaj bizotat",
+    "ru": "амбразура или отверстие со скошенным дном",
+    "sk": "otvor so skoseným zárezom",
+    "sl": "vdolbina ali odprtina s poševnim robom",
+    "sv": "ett hål eller en öppning med avfasad sylt",
+    "tr": "eğimli reçelli bir mazgal veya açıklık",
+    "uk": "амбразура або отвір зі скошеним косяком",
+    "zh": "坡口"
+  },
+  "verses": [
+    "firstKings 6:4:3",
+    "firstKings 7:4:0"
+  ]
+}

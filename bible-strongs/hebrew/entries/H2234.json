@@ -1,0 +1,42 @@
+{
+  "number": "H2234",
+  "language": "hebrew",
+  "transliteration": "zᵉraʻ",
+  "pronunciation": "zer-ah'",
+  "definition": "posterity",
+  "kjvTranslation": "seed.",
+  "translations": {
+    "bg": "потомство",
+    "cs": "potomstvo",
+    "da": "eftertiden",
+    "de": "nachwelt",
+    "el": "υστεροφημία",
+    "es": "posteridad",
+    "et": "järeltulija",
+    "fi": "jälkipolville",
+    "fr": "postérité",
+    "hu": "utókor",
+    "id": "anak cucu",
+    "it": "posterità",
+    "ja": "後世",
+    "ko": "후손",
+    "lt": "palikimas",
+    "lv": "pēcnākums",
+    "nb": "ettertiden",
+    "nl": "nageslacht",
+    "pl": "potomność",
+    "pt": "posteridade",
+    "ro": "posteritate",
+    "ru": "потомство",
+    "sk": "potomstvo",
+    "sl": "potomstvo",
+    "sv": "eftermäle",
+    "tr": "gelecek kuşaklar",
+    "uk": "нащадки",
+    "zh": "后代"
+  },
+  "hebrew": "זְרַע",
+  "verses": [
+    "daniel 2:43:9"
+  ]
+}

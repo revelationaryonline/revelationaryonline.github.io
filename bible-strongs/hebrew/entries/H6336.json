@@ -1,0 +1,42 @@
+{
+  "number": "H6336",
+  "language": "hebrew",
+  "transliteration": "Pûwthîy",
+  "pronunciation": "poo-thee'",
+  "definition": "a Puthite (collectively) or descendants of an unknown Puth",
+  "kjvTranslation": "Puhites (as if from H6312 (פּוּאָה)).",
+  "hebrew": "פּוּתִי",
+  "translations": {
+    "bg": "пут (колективно) или потомци на неизвестен пут",
+    "cs": "puthité (společně) nebo potomci neznámého Puthita",
+    "da": "en Puthite (kollektivt) eller efterkommere af en ukendt Puth",
+    "de": "ein Puthit (kollektiv) oder Nachkommen eines unbekannten Puth",
+    "el": "ένας Puthite (συλλογικά) ή απόγονοι ενός άγνωστου Puth",
+    "es": "un puthita (colectivamente) o descendientes de un puthita desconocido",
+    "et": "puthiit (kollektiivselt) või tundmatu puthiidi järeltulijad",
+    "fi": "puthilainen (kollektiivisesti) tai tuntemattoman puthilaisen jälkeläiset",
+    "fr": "un Puthite (collectivement) ou des descendants d'un Puth inconnu",
+    "hu": "egy puthita (kollektíven) vagy egy ismeretlen puth leszármazottai",
+    "id": "seorang Puthite (secara kolektif) atau keturunan dari Puth yang tidak dikenal",
+    "it": "un Puthite (collettivamente) o discendenti di un Puth sconosciuto",
+    "ja": "プータイト（総称）、またはプータイトの不明な子孫",
+    "ko": "푸트족(총칭) 또는 알려지지 않은 푸트족의 후손",
+    "lt": "puthitas (bendrai) arba nežinomo puthito palikuonys",
+    "lv": "pūtietis (kopā) vai nezināma pūtieša pēcnācēji",
+    "nb": "en Puthite (kollektivt) eller etterkommere av en ukjent Puth",
+    "nl": "een Puthiet (gezamenlijk) of afstammelingen van een onbekende Puth",
+    "pl": "puthite (łącznie) lub potomkowie nieznanego Puth",
+    "pt": "um Puthite (coletivamente) ou descendentes de um Puth desconhecido",
+    "ro": "un Puthite (colectiv) sau descendenți ai unui Puth necunoscut",
+    "ru": "путиты (все вместе) или потомки неизвестного путита",
+    "sk": "puthita (spoločne) alebo potomkovia neznámeho Puthitu",
+    "sl": "puthitov (skupaj) ali potomcev neznanega Puthita",
+    "sv": "en Puthite (kollektivt) eller ättlingar till en okänd Puth",
+    "tr": "bir Puthite (topluca) veya bilinmeyen bir Puth'un soyundan gelenler",
+    "uk": "путинець (спільно) або нащадки невідомого пута",
+    "zh": "普斯人（集体）或未知普斯人的后裔"
+  },
+  "verses": [
+    "firstChronicles 2:53:4"
+  ]
+}

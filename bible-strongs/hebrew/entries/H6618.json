@@ -1,0 +1,42 @@
+{
+  "number": "H6618",
+  "language": "hebrew",
+  "transliteration": "pᵉthaltôl",
+  "pronunciation": "peth-al-tole'",
+  "definition": "tortuous (i.e. crafty)",
+  "kjvTranslation": "crooked.",
+  "hebrew": "פְּתַלְתֹּל",
+  "translations": {
+    "bg": "криволичещ (т.е. хитър)",
+    "cs": "klikatý (tj. lstivý)",
+    "da": "snørklet (dvs. listig)",
+    "de": "gewunden (d.h. verschlagen)",
+    "el": "δαιδαλώδης (δηλ. πονηρός)",
+    "es": "tortuoso (es decir, astuto)",
+    "et": "käänuline (st. kaval)",
+    "fi": "mutkitteleva (ts. ovela)",
+    "fr": "tortueux (c'est-à-dire rusé)",
+    "hu": "kanyargós (azaz ravasz)",
+    "id": "berliku-liku (yaitu licik)",
+    "it": "tortuoso (cioè astuto)",
+    "ja": "紆余曲折",
+    "ko": "교묘한(즉, 교활한)",
+    "lt": "klastingas (t. y. gudrus)",
+    "lv": "viltīgs (t.i., viltīgs)",
+    "nb": "kronglete (dvs. utspekulert)",
+    "nl": "kronkelig (d.w.z. listig)",
+    "pl": "kręty (tj. przebiegły)",
+    "pt": "tortuoso (ou seja, astuto)",
+    "ro": "tortuos (adică viclean)",
+    "ru": "извилистый (т.е. хитрый)",
+    "sk": "kľukatý (t. j. ľstivý)",
+    "sl": "ovinkasti (tj. premeteni)",
+    "sv": "slingrande (dvs. listig)",
+    "tr": "dolambaçlı (yani kurnazca)",
+    "uk": "вигадливий (тобто хитрий)",
+    "zh": "迂回"
+  },
+  "verses": [
+    "deuteronomy 32:5:7"
+  ]
+}

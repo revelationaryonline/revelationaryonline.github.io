@@ -1,0 +1,43 @@
+{
+  "number": "H2525",
+  "language": "hebrew",
+  "transliteration": "châm",
+  "pronunciation": "khawm",
+  "definition": "hot",
+  "kjvTranslation": "hot, warm.",
+  "translations": {
+    "bg": "горещо",
+    "cs": "hot",
+    "da": "varm",
+    "de": "heiß",
+    "el": "hot",
+    "es": "caliente",
+    "et": "kuum",
+    "fi": "kuuma",
+    "fr": "chaud",
+    "hu": "hot",
+    "id": "panas",
+    "it": "caldo",
+    "ja": "ホット",
+    "ko": "hot",
+    "lt": "karštas",
+    "lv": "hot",
+    "nb": "varm",
+    "nl": "heet",
+    "pl": "gorący",
+    "pt": "quente",
+    "ro": "fierbinte",
+    "ru": "горячая",
+    "sk": "horúce",
+    "sl": "vroče",
+    "sv": "het",
+    "tr": "sıcak",
+    "uk": "гарячий",
+    "zh": "热的"
+  },
+  "hebrew": "חָם",
+  "verses": [
+    "joshua 9:12:2",
+    "job 37:17:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4214",
+  "language": "hebrew",
+  "transliteration": "mizreh",
+  "pronunciation": "miz-reh'",
+  "definition": "a winnowing shovel (as scattering the chaff)",
+  "kjvTranslation": "fan.",
+  "hebrew": "מִזְרֶה",
+  "translations": {
+    "bg": "лопата за пресяване (за разпръскване на плявата)",
+    "cs": "lopatka (jako rozmetání plev)",
+    "da": "en vingeskovl (som spreder avnerne)",
+    "de": "eine Schaufel, die die Spreu vom Weizen trennt (wie die Spreu vom Weizen)",
+    "el": "ένα φτυάρι για το ξεσκαρτάρισμα (για το σκόρπισμα της ήρας)",
+    "es": "una pala de aventar (como esparcir la paja)",
+    "et": "sõelalabidas (kui hajutada õled laiali)",
+    "fi": "siivilöintilapio (akan hajottamiseen)",
+    "fr": "une pelle à vanner (pour disperser l'ivraie)",
+    "hu": "egy szűrőlapát (mint a pelyva szétszórása)",
+    "id": "sekop penampi (untuk menaburkan sekam)",
+    "it": "una pala per vagliare (per spargere la pula)",
+    "ja": "箕",
+    "ko": "탈곡 삽(왕겨를 뿌릴 때)",
+    "lt": "vėdinimo kastuvas (kaip išsklaidyti pelus)",
+    "lv": "vētīšanas lāpstu (kā izkliedēt pelavas)",
+    "nb": "en vingeskovl (som å spre agnene)",
+    "nl": "een lierschep (om het kaf te strooien)",
+    "pl": "łopata do przesiewania (jako rozrzucanie plew)",
+    "pt": "uma pá de peneirar (para espalhar o joio)",
+    "ro": "o lopată de vânturat (pentru împrăștierea neghinei)",
+    "ru": "лопата для просеивания (для разбрасывания мякины)",
+    "sk": "lopatka (ako rozptyľovanie pliev)",
+    "sl": "lopatko (za raztresanje plevela)",
+    "sv": "en vinnande spade (som sprider agnarna)",
+    "tr": "bir hasat küreği (samanı dağıtırken)",
+    "uk": "лопата для згрібання (для розкидання полови)",
+    "zh": "簸箕"
+  },
+  "verses": [
+    "isaiah 30:24:10",
+    "jeremiah 15:7:1"
+  ]
+}

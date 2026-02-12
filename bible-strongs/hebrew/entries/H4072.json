@@ -1,0 +1,42 @@
+{
+  "number": "H4072",
+  "language": "hebrew",
+  "transliteration": "midcheh",
+  "pronunciation": "mid-kheh'",
+  "definition": "overthrow",
+  "kjvTranslation": "ruin.",
+  "hebrew": "מִדְחֶה",
+  "translations": {
+    "bg": "сваляне от власт",
+    "cs": "svržení",
+    "da": "vælte",
+    "de": "umsturz",
+    "el": "ανατροπή",
+    "es": "derrocar",
+    "et": "kukutada",
+    "fi": "kaataa",
+    "fr": "renverser",
+    "hu": "megdönteni",
+    "id": "menggulingkan",
+    "it": "rovesciare",
+    "ja": "打倒",
+    "ko": "전복",
+    "lt": "nuversti",
+    "lv": "gāzt",
+    "nb": "styrte",
+    "nl": "omverwerping",
+    "pl": "obalenie",
+    "pt": "derrubar",
+    "ro": "răsturnare",
+    "ru": "свергнуть",
+    "sk": "zvrhnutie",
+    "sl": "strmoglavljenje",
+    "sv": "omkullkasta",
+    "tr": "devirmek",
+    "uk": "повалення",
+    "zh": "推翻"
+  },
+  "verses": [
+    "proverbs 26:28:7"
+  ]
+}

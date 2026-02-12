@@ -1,0 +1,42 @@
+{
+  "number": "H4151",
+  "language": "hebrew",
+  "transliteration": "môwʻâd",
+  "pronunciation": "mo-awd'",
+  "definition": "properly, an assembly  figuratively, a troop",
+  "kjvTranslation": "appointed time.",
+  "hebrew": "מוֹעָד",
+  "translations": {
+    "bg": "в преносен смисъл - събрание, в преносен смисъл - отряд",
+    "cs": "správně shromáždění, přeneseně oddíl",
+    "da": "korrekt, en forsamling i overført betydning, en troppe",
+    "de": "richtig, eine Versammlung im übertragenen Sinne, eine Truppe",
+    "el": "σωστά, μια συνέλευση μεταφορικά, ένα στράτευμα",
+    "es": "propiamente, una asamblea figuradamente, una tropa",
+    "et": "õigesti, kogunemine piltlikult öeldes, väeosa",
+    "fi": "oikein, kokous kuvaannollisesti, joukko-osasto",
+    "fr": "au sens propre, une assemblée au sens figuré, une troupe",
+    "hu": "helyesen, egy gyülekezet, átvitt értelemben, egy csapat",
+    "id": "secara tepat, sebuah majelis secara kiasan, sebuah pasukan",
+    "it": "propriamente, un'assemblea in senso figurato, una truppa",
+    "ja": "正しくは、集合体 比喩的には、軍隊",
+    "ko": "제대로 말하면, 비유적으로 군대, 군대",
+    "lt": "tinkamai - susirinkimas perkeltine prasme - būrys",
+    "lv": "pareizi - sapulce, pārnestā nozīmē - karaspēks",
+    "nb": "egentlig, en forsamling i overført betydning, en tropp",
+    "nl": "goed, een vergadering figuurlijk, een troep",
+    "pl": "właściwie zgromadzenie, w przenośni oddział",
+    "pt": "propriamente dito, uma assembleia figurativamente, uma tropa",
+    "ro": "la propriu, o adunare la figurat, o trupă",
+    "ru": "правильно, собрание образно, отряд",
+    "sk": "správne, zhromaždenie obrazne, oddiel",
+    "sl": "pravilno, zbor v prenesenem pomenu, četa",
+    "sv": "i egentlig mening, en församling i överförd bemärkelse, en trupp",
+    "tr": "uygun olarak, bir topluluk mecazi olarak, bir birlik",
+    "uk": "власне, збори, образно кажучи, військо",
+    "zh": "大队人马"
+  },
+  "verses": [
+    "isaiah 14:31:13"
+  ]
+}

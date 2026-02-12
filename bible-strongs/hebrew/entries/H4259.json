@@ -1,0 +1,43 @@
+{
+  "number": "H4259",
+  "language": "hebrew",
+  "transliteration": "Mᵉchôlâthîy",
+  "pronunciation": "mekh-o-law-thee'",
+  "definition": "a Mecholathite or inhabitant of Abel-Mecholah",
+  "kjvTranslation": "Mecholathite.",
+  "hebrew": "מְחֹלָתִי",
+  "translations": {
+    "bg": "мехолат или жител на Авел-Мехола",
+    "cs": "mecholáťan nebo obyvatel Abel-Mecholy",
+    "da": "en mecholathit eller indbygger i Abel-Mecholah",
+    "de": "ein Mecholathit oder Einwohner von Abel-Mecholah",
+    "el": "μεχολαθίτης ή κάτοικος του Άβελ-Μεχόλα",
+    "es": "un mecolatino o habitante de Abel-Mecolá",
+    "et": "mehholiit või Abel-Mehholi elanik",
+    "fi": "mecholathilainen tai Abel-Mecholan asukas",
+    "fr": "mecholathite ou habitant d'Abel-Mecholah",
+    "hu": "mecholáti vagy Ábel-Mecholah lakója",
+    "id": "seorang Mecholata atau penduduk Abel-Mecholah",
+    "it": "un mecolatese o un abitante di Abel-Mecholah",
+    "ja": "メコラ人またはアベル・メコラの住民",
+    "ko": "메콜라이트 또는 아벨-메콜라의 거주자",
+    "lt": "mecholietis arba Abelio-Mecholos gyventojas",
+    "lv": "meholāts vai Ābel-Meholahas iedzīvotājs",
+    "nb": "en mekolat eller innbygger i Abel-Mekola",
+    "nl": "een Mecholathiet of inwoner van Abel-Mecholah",
+    "pl": "mecholatyta lub mieszkaniec Abel-Mecholah",
+    "pt": "um mecolatita ou habitante de Abel-Mecolá",
+    "ro": "mecholathit sau locuitor din Abel-Mecholah",
+    "ru": "мехолатец или житель Абель-Мехолы",
+    "sk": "mecholáťan alebo obyvateľ Abel-Mecholy",
+    "sl": "mecholata ali prebivalca Abel-Mechole",
+    "sv": "en mecholathit eller invånare i Abel-Mecholah",
+    "tr": "bir Mecholathite ya da Abel-Mecholah sakini",
+    "uk": "мехолат або мешканець Авель-Мехоли",
+    "zh": "一个米哥拉特人或亚伯米哥拉居民"
+  },
+  "verses": [
+    "firstSamuel 18:19:11",
+    "secondSamuel 21:8:26"
+  ]
+}

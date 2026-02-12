@@ -1,0 +1,43 @@
+{
+  "number": "H8280",
+  "language": "hebrew",
+  "transliteration": "sârâh",
+  "pronunciation": "saw-raw'",
+  "definition": "to prevail",
+  "kjvTranslation": "have power (as a prince).",
+  "hebrew": "שָׂרָה",
+  "translations": {
+    "bg": "да надделее",
+    "cs": "zvítězit",
+    "da": "at sejre",
+    "de": "zu herrschen",
+    "el": "να επικρατήσει",
+    "es": "prevalecer",
+    "et": "valitseda",
+    "fi": "voittaa",
+    "fr": "l'emporter",
+    "hu": "hogy érvényesüljön",
+    "id": "untuk menang",
+    "it": "prevalere",
+    "ja": "勝つために",
+    "ko": "승리하기 위해",
+    "lt": "nugalėti",
+    "lv": "gūt pārsvaru",
+    "nb": "å seire",
+    "nl": "zegevieren",
+    "pl": "zwyciężyć",
+    "pt": "para prevalecer",
+    "ro": "să prevaleze",
+    "ru": "преобладать",
+    "sk": "zvíťaziť",
+    "sl": "prevladati",
+    "sv": "att segra",
+    "tr": "galip gelmek için",
+    "uk": "щоб перемогти",
+    "zh": "取得胜利"
+  },
+  "verses": [
+    "genesis 32:29:10",
+    "hosea 12:4:5"
+  ]
+}

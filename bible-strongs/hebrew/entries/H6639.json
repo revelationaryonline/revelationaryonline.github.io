@@ -1,0 +1,42 @@
+{
+  "number": "H6639",
+  "language": "hebrew",
+  "transliteration": "tsâbeh",
+  "pronunciation": "tsaw-beh'",
+  "definition": "turgid",
+  "kjvTranslation": "swell.",
+  "hebrew": "צָבֶה",
+  "translations": {
+    "bg": "закърнял",
+    "cs": "turgidní",
+    "da": "svulmende",
+    "de": "schwülstig",
+    "el": "σπαρταριστό",
+    "es": "turgente",
+    "et": "turgid",
+    "fi": "turvonnut",
+    "fr": "turgescent",
+    "hu": "turgid",
+    "id": "turgid",
+    "it": "turgido",
+    "ja": "ひょろひょろ",
+    "ko": "turgid",
+    "lt": "turgidinis",
+    "lv": "turgid",
+    "nb": "svulmende",
+    "nl": "gezwollen",
+    "pl": "jędrny",
+    "pt": "túrgido",
+    "ro": "turgid",
+    "ru": "тургид",
+    "sk": "turgidný",
+    "sl": "turgidni",
+    "sv": "uppsvälld",
+    "tr": "turgid",
+    "uk": "пружний",
+    "zh": "干瘪"
+  },
+  "verses": [
+    "numbers 5:21:23"
+  ]
+}

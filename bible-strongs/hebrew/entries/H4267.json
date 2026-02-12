@@ -1,0 +1,42 @@
+{
+  "number": "H4267",
+  "language": "hebrew",
+  "transliteration": "machănaq",
+  "pronunciation": "makh-an-ak'",
+  "definition": "choking",
+  "kjvTranslation": "strangling.",
+  "hebrew": "מַחֲנַק",
+  "translations": {
+    "bg": "задушаване",
+    "cs": "dusící se",
+    "da": "kvælning",
+    "de": "würgen",
+    "el": "πνιγμός",
+    "es": "asfixia",
+    "et": "lämbumine",
+    "fi": "tukehtuminen",
+    "fr": "étouffement",
+    "hu": "fojtogató",
+    "id": "tersedak",
+    "it": "soffocamento",
+    "ja": "窒息",
+    "ko": "질식",
+    "lt": "dusinimas",
+    "lv": "aizrīšanās",
+    "nb": "kvelning",
+    "nl": "verstikkend",
+    "pl": "zadławienie",
+    "pt": "asfixia",
+    "ro": "sufocare",
+    "ru": "удушье",
+    "sk": "dusenie",
+    "sl": "dušenje",
+    "sv": "kvävning",
+    "tr": "boğulma",
+    "uk": "задуха",
+    "zh": "窒息"
+  },
+  "verses": [
+    "job 7:15:1"
+  ]
+}

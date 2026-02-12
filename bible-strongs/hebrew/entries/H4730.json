@@ -1,0 +1,43 @@
+{
+  "number": "H4730",
+  "language": "hebrew",
+  "transliteration": "miqṭereth",
+  "pronunciation": "mik-teh'-reth",
+  "definition": "something to fume (incense) in, i.e. a coal-pan",
+  "kjvTranslation": "censer.",
+  "hebrew": "מִקְטֶרֶת",
+  "translations": {
+    "bg": "нещо, в което да се опушва (тамян), т.е. тенджера с въглища",
+    "cs": "něco, z čeho se kouří (kadidlo), tj. pánvička na uhlí",
+    "da": "noget at ryge (røgelse) i, dvs. en kulpande",
+    "de": "etwas zum Räuchern (Weihrauch), z. B. eine Kohlenpfanne",
+    "el": "κάτι για να καπνίζετε (λιβάνι), π.χ. ένα καζάνι με κάρβουνο",
+    "es": "algo para humear (incienso), es decir, una carbonera",
+    "et": "midagi, milles suitsutada (suitsutada), st söepannu",
+    "fi": "jotain, jossa voi savustaa (suitsuketta), esim. hiilipannu",
+    "fr": "quelque chose pour fumer (encens), c'est-à-dire une poêle à charbon",
+    "hu": "valami, amiben füstölni (füstölni) lehet, pl. egy szenesedény",
+    "id": "sesuatu yang digunakan untuk mengasapi (dupa), misalnya, panci batu bara",
+    "it": "qualcosa in cui fumare (incenso), ad esempio una pentola di carbone",
+    "ja": "薫物",
+    "ko": "연기를 (향을) 피울 수 있는 것, 즉 석탄 냄비",
+    "lt": "daiktas, kuriame galima rūkyti (smilkalus), t. y. anglių keptuvė",
+    "lv": "kaut kas, kas paredzēts vīraku kūpināšanai, t. i., akmeņogļu panna",
+    "nb": "noe å røyke (røkelse) i, f.eks. en kullpanne",
+    "nl": "iets om in te dampen (wierook), d.w.z. een kolenpan",
+    "pl": "coś do palenia (kadzidła), np. węglarka",
+    "pt": "algo em que se possa deitar fumo (incenso), ou seja, um tacho de carvão",
+    "ro": "ceva în care se fumează (tămâie), de exemplu o căldare de cărbuni",
+    "ru": "что-то для окуривания (благовоний), т.е. кастрюля для угля",
+    "sk": "niečo na dymenie (kadidlo), t. j. panvica na uhlie",
+    "sl": "nekaj, v čemer se kadi, tj. posoda za oglje",
+    "sv": "något att röka (rökelse) i, t.ex. en kolpanna",
+    "tr": "içinde tütsü yapılacak bir şey, yani bir kömür tavası",
+    "uk": "щось, у чому можна диміти (пахощі), наприклад, вугільниця",
+    "zh": "香炉"
+  },
+  "verses": [
+    "secondChronicles 26:19:3",
+    "ezekiel 8:11:13"
+  ]
+}

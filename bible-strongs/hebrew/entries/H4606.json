@@ -1,0 +1,42 @@
+{
+  "number": "H4606",
+  "language": "hebrew",
+  "transliteration": "mêʻâl",
+  "pronunciation": "may-awl'",
+  "definition": "(only in plural as singular) the setting (of the sun)",
+  "kjvTranslation": "going down.",
+  "hebrew": "מֵעָל",
+  "verses": [
+    "daniel 6:15:14"
+  ],
+  "translations": {
+    "bg": "(само в множествено число като единствено число) залезът (на слънцето)",
+    "cs": "(pouze v množném čísle jako jednotném čísle) západ (slunce)",
+    "da": "(kun i flertal som ental) solnedgangen (af solen)",
+    "de": "(nur im Plural als Singular) der Untergang (der Sonne)",
+    "el": "(μόνο στον πληθυντικό ως ενικό) η δύση (του ήλιου)",
+    "es": "(sólo en plural como singular) la puesta (del sol)",
+    "et": "(ainult mitmuses kui ainsuses) (päikese) loojumine",
+    "fi": "(vain monikossa kuten yksikössä) (auringon) lasku",
+    "fr": "(seulement au pluriel comme au singulier) le coucher (du soleil)",
+    "hu": "(csak többes számban, mint egyes számban) a (naplemente)",
+    "id": "(hanya dalam bentuk jamak, bukan tunggal) terbenamnya (matahari)",
+    "it": "(solo al plurale come al singolare) il tramonto (del sole)",
+    "ja": "沈む",
+    "ko": "(단수로만 복수형) (태양의) 석양",
+    "lt": "(tik daugiskaita kaip vienaskaita) saulėlydis (saulės)",
+    "lv": "(tikai daudzskaitlī kā vienskaitlī) saulriets (saules rieta)",
+    "nb": "(bare i flertall som entall) solnedgangen (av solen)",
+    "nl": "(alleen in meervoud als enkelvoud) de ondergang (van de zon)",
+    "pl": "(tylko w liczbie mnogiej i pojedynczej) zachód (słońca)",
+    "pt": "(apenas no plural como singular) o pôr do sol (do sol)",
+    "ro": "(numai la plural ca singular) apusul (soarelui)",
+    "ru": "(только во множественном числе, как и в единственном) заход (солнца)",
+    "sk": "(len v množnom čísle ako v jednotnom čísle) západ (slnka)",
+    "sl": "(samo v množini kot ednini) zahod (sonca)",
+    "sv": "(endast i plural som singular) solnedgången (av solen)",
+    "tr": "(tekil olarak sadece çoğulda) (güneşin) batışı",
+    "uk": "(тільки у множині як однина) захід (сонця)",
+    "zh": "日落"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8358",
+  "language": "hebrew",
+  "transliteration": "shᵉthîy",
+  "pronunciation": "sheth-ee'",
+  "definition": "intoxicaion",
+  "kjvTranslation": "drunkenness.",
+  "hebrew": "שְׁתִי",
+  "translations": {
+    "bg": "интоксикация",
+    "cs": "intoxikace",
+    "da": "forgiftning",
+    "de": "rauschmittel",
+    "el": "δηλητηρίαση",
+    "es": "intoxicación",
+    "et": "intoxicaion",
+    "fi": "päihteet",
+    "fr": "intoxication",
+    "hu": "intoxicaion",
+    "id": "keracunan",
+    "it": "intossicazione",
+    "ja": "酩酊",
+    "ko": "인시사이언",
+    "lt": "intoksikacija",
+    "lv": "intoksikācija",
+    "nb": "beruselse",
+    "nl": "intoxicatie",
+    "pl": "odurzenie",
+    "pt": "intoxicação",
+    "ro": "intoxicație",
+    "ru": "интоксикация",
+    "sk": "intoxikácia",
+    "sl": "intoksikacija",
+    "sv": "berusning",
+    "tr": "sarhoşluk",
+    "uk": "інтоксикація",
+    "zh": "醉酒"
+  },
+  "verses": [
+    "ecclesiastes 10:17:10"
+  ]
+}

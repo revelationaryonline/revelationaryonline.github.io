@@ -1,0 +1,42 @@
+{
+  "number": "H4010",
+  "language": "hebrew",
+  "transliteration": "mablîygîyth",
+  "pronunciation": "mab-leeg-eeth'",
+  "definition": "desistance (or rather desolation)",
+  "kjvTranslation": "comfort self.",
+  "hebrew": "מַבְלִיגִית",
+  "translations": {
+    "bg": "отчаяние (или по-скоро опустошение)",
+    "cs": "desistence (nebo spíše opuštěnost)",
+    "da": "desistance (eller snarere desolation)",
+    "de": "desistance (oder eher Desolation)",
+    "el": "αποστασιοποίηση (ή μάλλον ερημιά)",
+    "es": "desistencia (o más bien desolación)",
+    "et": "desistance (või pigem desolatsioon)",
+    "fi": "desistance (tai pikemminkin desolation)",
+    "fr": "la désistance (ou plutôt la désolation)",
+    "hu": "az ellenállás (vagy inkább a pusztulás)",
+    "id": "desistance (atau lebih tepatnya kehancuran)",
+    "it": "desistenza (o piuttosto desolazione)",
+    "ja": "寂寞",
+    "ko": "탈진(또는 오히려 황폐화)",
+    "lt": "desistencija (ar veikiau apleistumas)",
+    "lv": "atteikšanās (vai drīzāk atkrišana)",
+    "nb": "desistance (eller snarere desolation)",
+    "nl": "desistance (of liever desolation)",
+    "pl": "desistance (lub raczej desolation)",
+    "pt": "desistência (ou melhor, desolação)",
+    "ro": "desistance (sau mai degrabă desolation)",
+    "ru": "отчаяние (или, скорее, опустошение)",
+    "sk": "desistencia (alebo skôr opustenosť)",
+    "sl": "opustitev (ali bolje opustošenje)",
+    "sv": "avståndstagande (eller snarare ödeläggelse)",
+    "tr": "desistance (ya da daha ziyade desolation)",
+    "uk": "відстороненість (чи то пак спустошеність)",
+    "zh": "怅望"
+  },
+  "verses": [
+    "jeremiah 8:18:0"
+  ]
+}

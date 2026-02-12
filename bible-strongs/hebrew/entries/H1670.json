@@ -1,0 +1,42 @@
+{
+  "number": "H1670",
+  "language": "hebrew",
+  "transliteration": "dᵉʼâbâh",
+  "pronunciation": "deh-aw-baw'",
+  "definition": "properly, pining; by analogy, fear",
+  "kjvTranslation": "sorrow.",
+  "translations": {
+    "bg": "по аналогия - страх",
+    "cs": "správně, stesk; analogicky, strach",
+    "da": "korrekt, at længes; analogt, at frygte",
+    "de": "richtig, sehnsüchtig; analog dazu, Angst",
+    "el": "κατάλληλα, μαράζωμα- κατ' αναλογία, φόβος",
+    "es": "propiamente, suspirar; por analogía, miedo",
+    "et": "korralikult, igatsus; analoogia järgi, hirmu",
+    "fi": "oikein, pining; analogisesti, pelkoa",
+    "fr": "proprement, la nostalgie ; par analogie, la peur",
+    "hu": "megfelelően, sóvárgás; analógia útján, félelem",
+    "id": "benar, merindukan; dengan analogi, ketakutan",
+    "it": "propriamente, struggersi; per analogia, temere",
+    "ja": "例えるなら、恐れ",
+    "ko": "적절하게, 핀; 비유하자면, 두려움",
+    "lt": "tinkamai, piningas; analogiškai, baimė",
+    "lv": "pareizi, pining; pēc analoģijas, bailes",
+    "nb": "egentlig, lengsel; analogt, frykt",
+    "nl": "op de juiste manier, treuren; naar analogie, angst",
+    "pl": "właściwie, tęsknota; przez analogię, strach",
+    "pt": "propriamente dito, lamentação; por analogia, medo",
+    "ro": "în mod corespunzător, tânjire; prin analogie, frică",
+    "ru": "правильно, тоска; по аналогии, страх",
+    "sk": "správne, stýskanie; analogicky, strach",
+    "sl": "pravilno, hrepenenje; po analogiji, strah",
+    "sv": "på rätt sätt, längtan; analogt, rädsla",
+    "tr": "uygun şekilde, özlem; benzetme yoluyla, korku",
+    "uk": "власне, туга; за аналогією, страх",
+    "zh": "憔悴；比喻恐惧"
+  },
+  "hebrew": "דְּאָבָה",
+  "verses": [
+    "job 41:14:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7111",
+  "language": "hebrew",
+  "transliteration": "qᵉtsâphâh",
+  "pronunciation": "kets-aw-faw'",
+  "definition": "a fragment",
+  "kjvTranslation": "bark(-ed).",
+  "hebrew": "קְצָפָה",
+  "translations": {
+    "bg": "фрагмент",
+    "cs": "fragment",
+    "da": "et fragment",
+    "de": "ein Fragment",
+    "el": "ένα θραύσμα",
+    "es": "un fragmento",
+    "et": "fragment",
+    "fi": "katkelma",
+    "fr": "un fragment",
+    "hu": "egy töredék",
+    "id": "sebuah fragmen",
+    "it": "un frammento",
+    "ja": "断片",
+    "ko": "조각",
+    "lt": "fragmentas",
+    "lv": "fragments",
+    "nb": "et fragment",
+    "nl": "een fragment",
+    "pl": "fragment",
+    "pt": "um fragmento",
+    "ro": "un fragment",
+    "ru": "фрагмент",
+    "sk": "fragment",
+    "sl": "delček",
+    "sv": "ett fragment",
+    "tr": "bir parça",
+    "uk": "фрагмент",
+    "zh": "片段"
+  },
+  "verses": [
+    "joel 1:7:4"
+  ]
+}

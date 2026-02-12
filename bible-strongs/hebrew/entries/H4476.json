@@ -1,0 +1,42 @@
+{
+  "number": "H4476",
+  "language": "hebrew",
+  "transliteration": "mimshâq",
+  "pronunciation": "mim-shawk'",
+  "definition": "a possession",
+  "kjvTranslation": "breeding.",
+  "hebrew": "מִמְשָׁק",
+  "verses": [
+    "zephaniah 2:9:15"
+  ],
+  "translations": {
+    "bg": "притежание",
+    "cs": "vlastnictví",
+    "da": "en besiddelse",
+    "de": "ein Besitz",
+    "el": "κατοχή",
+    "es": "una posesión",
+    "et": "valdus",
+    "fi": "hallussapito",
+    "fr": "une possession",
+    "hu": "birtoklás",
+    "id": "sebuah kepemilikan",
+    "it": "un possesso",
+    "ja": "所有物",
+    "ko": "소유물",
+    "lt": "nuosavybė",
+    "lv": "īpašums",
+    "nb": "en besittelse",
+    "nl": "een bezit",
+    "pl": "posiadanie",
+    "pt": "a posse",
+    "ro": "o posesie",
+    "ru": "владение",
+    "sk": "vlastníctvo",
+    "sl": "posest",
+    "sv": "en besittning",
+    "tr": "bir mülkiyet",
+    "uk": "володіння",
+    "zh": "拥有"
+  }
+}

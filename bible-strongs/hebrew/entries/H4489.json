@@ -1,0 +1,43 @@
+{
+  "number": "H4489",
+  "language": "hebrew",
+  "transliteration": "môneh",
+  "pronunciation": "mo-neh'",
+  "definition": "properly, something weighed out, i.e. (figuratively) a portion of time, i.e. an instance",
+  "kjvTranslation": "time.",
+  "hebrew": "מֹנֶה",
+  "verses": [
+    "genesis 31:7:7",
+    "genesis 31:41:18"
+  ],
+  "translations": {
+    "bg": "правилно, нещо претеглено, т.е. (в преносен смисъл) част от времето, т.е. случай",
+    "cs": "správně něco odvážného, tj. (přeneseně) část času, tj. instance",
+    "da": "korrekt, noget afvejet, dvs. (i overført betydning) en del af tiden, dvs. et tilfælde",
+    "de": "richtig, etwas Abgewogenes, d.h. (bildlich) ein Teil der Zeit, d.h. eine Instanz",
+    "el": "σωστά, κάτι που ζυγίζεται, δηλαδή (μεταφορικά) ένα μέρος του χρόνου, δηλαδή μια περίπτωση",
+    "es": "propiamente, algo pesado, es decir (figuradamente) una porción de tiempo, es decir, una instancia",
+    "et": "õigesti, midagi kaalutud, s.t. (piltlikult) ajaosa, s.t. instantsi",
+    "fi": "oikein, jotakin punnittua, eli (kuvaannollisesti) osa ajasta, ts. tapaus",
+    "fr": "proprement dit, quelque chose de pesé, c'est-à-dire (au sens figuré) une portion de temps, c'est-à-dire une instance",
+    "hu": "helyesen, valami mérlegelt dolog, azaz (átvitt értelemben) egy időrészlet, azaz egy eset",
+    "id": "benar, sesuatu yang ditimbang, yaitu (secara kiasan) sebagian dari waktu, yaitu sebuah contoh",
+    "it": "propriamente, qualcosa di pesato, cioè (in senso figurato) una porzione di tempo, cioè un'istanza",
+    "ja": "正確には、計量されたもの、つまり（比喩的に）時間の一部、つまり一例である。",
+    "ko": "적절하게는 (비유적으로) 시간의 일부, 즉 인스턴스처럼 무게가 나가는 무언가를 의미합니다",
+    "lt": "tinkamai, kažkas pasvertas, t. y. (perkeltine prasme) laiko dalis, t. y. atvejis",
+    "lv": "pareizi, kaut kas nosvērts, t.i., (pārnestā nozīmē) laika daļa, t.i., gadījums",
+    "nb": "egentlig, noe som er veid ut, dvs. (i overført betydning) en del av tiden, dvs. et tilfelle",
+    "nl": "goed, iets afgewogen, d.w.z. (figuurlijk) een deel van de tijd, d.w.z. een instantie",
+    "pl": "właściwie, coś ważonego, tj. (w przenośni) część czasu, tj. instancja",
+    "pt": "propriamente dito, algo pesado, ou seja (figurativamente) uma porção de tempo, ou seja, um exemplo",
+    "ro": "propriu-zis, ceva cântărit, adică (la figurat) o porțiune de timp, adică o instanță",
+    "ru": "правильно, что-то взвешенное, т.е. (фигурально) часть времени, т.е. экземпляр",
+    "sk": "správne, niečo odvážené, t. j. (obrazne) časť času, t. j. prípad",
+    "sl": "pravilno, nekaj pretehtanega, tj. (v prenesenem pomenu) del časa, tj. primer",
+    "sv": "i egentlig mening något som vägts upp, dvs. (bildligt) en del av tiden, dvs. en instans",
+    "tr": "uygun şekilde, tartılan bir şey, yani (mecazi olarak) zamanın bir kısmı, yani bir örnek",
+    "uk": "власне, щось зважене, тобто (образно) відрізок часу, тобто екземпляр",
+    "zh": "秤出来的东西，即（比喻）一部分时间，即一个实例"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5770",
+  "language": "hebrew",
+  "transliteration": "ʻâvan",
+  "pronunciation": "aw-van'",
+  "definition": "to watch (with jealosy)",
+  "kjvTranslation": "eye.",
+  "hebrew": "עָוַן",
+  "translations": {
+    "bg": "да наблюдавам (с ревност)",
+    "cs": "sledovat (se žárlivostí)",
+    "da": "at se på (med jalousi)",
+    "de": "(eifersüchtig) zu beobachten",
+    "el": "να παρακολουθώ (με ζήλια)",
+    "es": "mirar (con envidia)",
+    "et": "vaadata (kadedusega)",
+    "fi": "katsella (kateellisena)",
+    "fr": "regarder (avec jalousie)",
+    "hu": "nézni (féltékenyen)",
+    "id": "untuk ditonton (dengan rasa cemburu)",
+    "it": "guardare (con gelosia)",
+    "ja": "見る",
+    "ko": "(질투심을 가지고) 보기",
+    "lt": "stebėti (su pavydu)",
+    "lv": "skatīties (ar greizsirdību)",
+    "nb": "å se på (med sjalusi)",
+    "nl": "kijken (met jaloezie)",
+    "pl": "obserwować (z zazdrością)",
+    "pt": "observar (com inveja)",
+    "ro": "a privi (cu invidie)",
+    "ru": "наблюдать (с завистью)",
+    "sk": "sledovať (so žiarlivosťou)",
+    "sl": "gledati (z ljubosumjem)",
+    "sv": "att titta på (med avundsjuka)",
+    "tr": "(kıskançlıkla) izlemek",
+    "uk": "спостерігати (із заздрістю)",
+    "zh": "觑"
+  },
+  "verses": [
+    "firstSamuel 18:9:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4943",
+  "language": "hebrew",
+  "transliteration": "mesheq",
+  "pronunciation": "meh'-shek",
+  "definition": "possession",
+  "kjvTranslation": "[phrase] steward.",
+  "hebrew": "מֶשֶׁק",
+  "translations": {
+    "bg": "притежание",
+    "cs": "vlastnictví",
+    "da": "besiddelse",
+    "de": "besitz",
+    "el": "κατοχή",
+    "es": "posesión",
+    "et": "valdus",
+    "fi": "hallussapito",
+    "fr": "possession",
+    "hu": "birtoklás",
+    "id": "kepemilikan",
+    "it": "possesso",
+    "ja": "所有",
+    "ko": "소유",
+    "lt": "turėjimas",
+    "lv": "īpašums",
+    "nb": "besittelse",
+    "nl": "bezit",
+    "pl": "posiadanie",
+    "pt": "posse",
+    "ro": "posesie",
+    "ru": "владение",
+    "sk": "vlastníctvo",
+    "sl": "posest",
+    "sv": "besittning",
+    "tr": "sahip olma",
+    "uk": "володіння",
+    "zh": "所有权"
+  },
+  "verses": [
+    "genesis 15:2:11"
+  ]
+}

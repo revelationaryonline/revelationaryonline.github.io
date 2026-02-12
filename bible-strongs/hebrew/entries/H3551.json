@@ -1,0 +1,42 @@
+{
+  "number": "H3551",
+  "language": "hebrew",
+  "transliteration": "kav",
+  "pronunciation": "kav",
+  "definition": "a window (as a perforation)",
+  "kjvTranslation": "window.",
+  "translations": {
+    "bg": "прозорец (като перфорация)",
+    "cs": "okno (jako perforace)",
+    "da": "et vindue (som en perforering)",
+    "de": "ein Fenster (als Perforation)",
+    "el": "ένα παράθυρο (ως διάτρηση)",
+    "es": "una ventana (como perforación)",
+    "et": "aken (kui perforatsioon)",
+    "fi": "ikkuna (rei'ityksenä)",
+    "fr": "une fenêtre (comme une perforation)",
+    "hu": "ablak (mint perforáció)",
+    "id": "jendela (sebagai perforasi)",
+    "it": "una finestra (come una perforazione)",
+    "ja": "窓",
+    "ko": "창(천공)",
+    "lt": "langas (kaip perforacija)",
+    "lv": "logs (kā perforācija)",
+    "nb": "et vindu (som en perforering)",
+    "nl": "een venster (als perforatie)",
+    "pl": "okno (jako perforacja)",
+    "pt": "uma janela (como uma perfuração)",
+    "ro": "o fereastră (ca o perforație)",
+    "ru": "окно (в виде перфорации)",
+    "sk": "okno (ako perforácia)",
+    "sl": "okno (kot perforacija)",
+    "sv": "ett fönster (som en perforering)",
+    "tr": "bir pencere (perforasyon olarak)",
+    "uk": "вікно (у вигляді перфорації)",
+    "zh": "窗"
+  },
+  "hebrew": "כַּו",
+  "verses": [
+    "daniel 6:11:8"
+  ]
+}

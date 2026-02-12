@@ -1,0 +1,43 @@
+{
+  "number": "H192",
+  "language": "hebrew",
+  "transliteration": "ʼĔvîyl Mᵉrôdak",
+  "pronunciation": "ev-eel' mer-o-dak'",
+  "definition": "Evil-Merodak, a Babylonian king",
+  "kjvTranslation": "Evil-merodach.",
+  "translations": {
+    "bg": "Зло - Меродак, вавилонски цар",
+    "cs": "Zlo-Merodak, babylonský král",
+    "da": "Evil-Merodak, en babylonisk konge",
+    "de": "Böse-Merodak, ein babylonischer König",
+    "el": "Κακός-Μεροδάκ, βασιλιάς της Βαβυλώνας",
+    "es": "Malvado-Merodak, un rey babilónico",
+    "et": "Evil-Merodak, Babüloonia kuningas",
+    "fi": "Paha-Merodak, Babylonian kuningas",
+    "fr": "Mérodak, roi de Babylone",
+    "hu": "Gonosz-Merodak, babiloni király",
+    "id": "Jahat-Merodak, seorang raja Babilonia",
+    "it": "Male-Merodak, un re babilonese",
+    "ja": "悪-メロダク、バビロニアの王",
+    "ko": "바빌로니아의 왕, 악마 메로닥",
+    "lt": "Blogis - Merodakas, Babilono karalius",
+    "lv": "Ļaunais Merodaks, babiloniešu ķēniņš",
+    "nb": "Ondskapens Merodak, en babylonsk konge",
+    "nl": "Kwaad-Merodak, een Babylonische koning",
+    "pl": "Zło - Merodak, król babiloński",
+    "pt": "Evil-Merodak, um rei da Babilónia",
+    "ro": "Evil-Merodak, un rege babilonian",
+    "ru": "Зло - Меродак, вавилонский царь",
+    "sk": "Zlo-Merodak, babylonský kráľ",
+    "sl": "Zlo-Merodak, babilonski kralj",
+    "sv": "Evil-Merodak, en babylonisk kung",
+    "tr": "Kötü-Merodak, bir Babil kralı",
+    "uk": "Злий Меродак, вавилонський цар",
+    "zh": "邪恶--巴比伦国王梅罗达克"
+  },
+  "hebrew": "אֱוִיל מְרֹדַךְ",
+  "verses": [
+    "secondKings 25:27:16",
+    "jeremiah 52:31:16"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8285",
+  "language": "hebrew",
+  "transliteration": "shêrâh",
+  "pronunciation": "shay-raw'",
+  "definition": "a wrist-band (as compact or clasping)",
+  "kjvTranslation": "bracelet.",
+  "hebrew": "שֵׁרָה",
+  "translations": {
+    "bg": "лента за китката (като компактна или закопчаваща се)",
+    "cs": "náramek na zápěstí (jako kompaktní nebo zapínací)",
+    "da": "et håndledsbånd (som kompakt eller fastspændt)",
+    "de": "ein Handgelenkband (als Kompakt- oder Spangenband)",
+    "el": "ζώνη καρπού (ως συμπαγής ή κούμπωμα)",
+    "es": "una muñequera (como compacta o de cierre)",
+    "et": "randmepael (kompaktselt või klambriga)",
+    "fi": "rannerengas (tiivis tai lukittava)",
+    "fr": "un bracelet (comme compact ou fermant)",
+    "hu": "csuklópánt (mint tömör vagy csattogó)",
+    "id": "gelang pergelangan tangan (seperti gelang ringkas atau genggam)",
+    "it": "un cinturino da polso (compatto o a forma di fibbia)",
+    "ja": "手纏い",
+    "ko": "손목 밴드(컴팩트형 또는 깍지형)",
+    "lt": "apyrankė ant riešo (kompaktiška arba užsegama)",
+    "lv": "aproce uz rokas (kā kompakta vai aizdare)",
+    "nb": "et armbånd (som kompakt eller fastspennende)",
+    "nl": "een polsband (als compact of klem)",
+    "pl": "opaska na nadgarstek (jako kompaktowa lub zapinana)",
+    "pt": "uma pulseira (como compacta ou de fecho)",
+    "ro": "o brățară pentru încheietura mâinii (compactă sau de prindere)",
+    "ru": "наручный браслет (как компактный или застегивающийся)",
+    "sk": "náramok na zápästie (ako kompaktný alebo zapínací)",
+    "sl": "zapestni trak (za zapestje ali zapenjanje)",
+    "sv": "ett handledsband (som kompakt eller fastspännande)",
+    "tr": "bir bilek bandı (kompakt veya sıkma olarak)",
+    "uk": "браслет на зап'ястя (компактний або застібається)",
+    "zh": "腕带"
+  },
+  "verses": [
+    "isaiah 3:19:1"
+  ]
+}

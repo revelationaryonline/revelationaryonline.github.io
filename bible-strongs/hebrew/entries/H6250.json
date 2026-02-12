@@ -1,0 +1,42 @@
+{
+  "number": "H6250",
+  "language": "hebrew",
+  "transliteration": "ʻeshtônâh",
+  "pronunciation": "esh-to-naw'",
+  "definition": "thinking",
+  "kjvTranslation": "thought.",
+  "hebrew": "עֶשְׁתֹּנָה",
+  "translations": {
+    "bg": "мислене",
+    "cs": "myšlení",
+    "da": "tænkning",
+    "de": "denken",
+    "el": "σκέψη",
+    "es": "pensando",
+    "et": "mõtlemine",
+    "fi": "ajattelu",
+    "fr": "réflexion",
+    "hu": "gondolkodás",
+    "id": "berpikir",
+    "it": "pensiero",
+    "ja": "思考",
+    "ko": "생각",
+    "lt": "mąstymas",
+    "lv": "domāšana",
+    "nb": "tenkning",
+    "nl": "denkend",
+    "pl": "myślenie",
+    "pt": "pensamento",
+    "ro": "gândire",
+    "ru": "думать",
+    "sk": "myslenie",
+    "sl": "razmišljanje",
+    "sv": "tänkande",
+    "tr": "düşünmek",
+    "uk": "думаючи",
+    "zh": "思想"
+  },
+  "verses": [
+    "psalms 146:4:7"
+  ]
+}

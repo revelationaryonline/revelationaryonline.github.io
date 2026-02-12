@@ -1,0 +1,42 @@
+{
+  "number": "H4538",
+  "language": "hebrew",
+  "transliteration": "meçek",
+  "pronunciation": "meh'-sek",
+  "definition": "a mixture, i.e. of wine with spices",
+  "kjvTranslation": "mixture.",
+  "hebrew": "מֶסֶךְ",
+  "verses": [
+    "psalms 75:9:7"
+  ],
+  "translations": {
+    "bg": "смес, т.е. вино с подправки",
+    "cs": "směs, tj. vína s kořením",
+    "da": "en blanding, f.eks. af vin med krydderier",
+    "de": "eine Mischung, z. B. aus Wein und Gewürzen",
+    "el": "ένα μείγμα, δηλαδή κρασί με μπαχαρικά",
+    "es": "una mezcla, es decir, de vino con especias",
+    "et": "segu, st veini ja vürtside segu",
+    "fi": "viinin ja mausteiden seos",
+    "fr": "un mélange, c'est-à-dire de vin et d'épices",
+    "hu": "keverék, azaz bor és fűszerek keveréke",
+    "id": "campuran, yaitu anggur dengan rempah-rempah",
+    "it": "una miscela, cioè di vino e spezie",
+    "ja": "混ぜ物",
+    "ko": "혼합물, 즉 와인과 향신료의 혼합물",
+    "lt": "mišinys, t. y. vyno su prieskoniais",
+    "lv": "maisījums, t. i., vīns ar garšvielām",
+    "nb": "en blanding, f.eks. av vin med krydder",
+    "nl": "een mengsel, d.w.z. van wijn met kruiden",
+    "pl": "mieszanka, tj. wino z przyprawami",
+    "pt": "uma mistura, isto é, de vinho com especiarias",
+    "ro": "un amestec, de exemplu de vin cu mirodenii",
+    "ru": "смесь, т.е. вино со специями",
+    "sk": "zmes, t. j. víno s korením",
+    "sl": "mešanica, tj. vina z začimbami",
+    "sv": "en blandning, t.ex. av vin med kryddor",
+    "tr": "bir karışım, yani baharatlı şarap",
+    "uk": "суміш, тобто вина зі спеціями",
+    "zh": "拌酒"
+  }
+}

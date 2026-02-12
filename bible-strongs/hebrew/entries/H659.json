@@ -1,0 +1,42 @@
+{
+  "number": "H659",
+  "language": "hebrew",
+  "transliteration": "ʼêphaʻ",
+  "pronunciation": "eh'-fah",
+  "definition": "properly, a breath, i.e. nothing",
+  "kjvTranslation": "of nought.",
+  "translations": {
+    "bg": "правилно, дъх, т.е. нищо",
+    "cs": "správně, dech, tj. nic",
+    "da": "korrekt, et åndedrag, dvs. intet",
+    "de": "richtig, ein Hauch, d.h. nichts",
+    "el": "σωστά, μια ανάσα, δηλαδή τίποτα",
+    "es": "propiamente, un soplo, es decir, nada",
+    "et": "korralikult, hingeõhk, st mitte midagi",
+    "fi": "kunnolla, henkäys, eli ei mitään",
+    "fr": "proprement dit, un souffle, c'est-à-dire rien",
+    "hu": "rendesen, egy lélegzetvétel, azaz semmi",
+    "id": "dengan benar, sebuah nafas, yaitu tidak ada",
+    "it": "propriamente, un soffio, cioè niente",
+    "ja": "正しくは、一息、つまり何もしない",
+    "ko": "제대로 말하면, 숨을 쉬는 것, 즉 아무것도",
+    "lt": "tinkamai, kvėpavimas, t. y. nieko",
+    "lv": "pareizi, elpa, t.i., nekas",
+    "nb": "riktig, et pust, dvs. ingenting",
+    "nl": "goed, een ademhaling, d.w.z. niets",
+    "pl": "właściwie oddech, czyli nic",
+    "pt": "propriamente, um sopro, ou seja, nada",
+    "ro": "corect, o respirație, adică nimic",
+    "ru": "правильно, дыхание, т.е. ничего",
+    "sk": "správne, dych, t. j. nič",
+    "sl": "pravilno, dih, tj. nič",
+    "sv": "korrekt, ett andetag, dvs. ingenting",
+    "tr": "düzgün bir şekilde, bir nefes, yani hiçbir şey",
+    "uk": "власне, подих, тобто нічого",
+    "zh": "正确地说，是一口气，即什么都没有"
+  },
+  "hebrew": "אֵפַע",
+  "verses": [
+    "isaiah 41:24:4"
+  ]
+}

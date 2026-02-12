@@ -1,0 +1,42 @@
+{
+  "number": "H2877",
+  "language": "hebrew",
+  "transliteration": "ṭabbâch",
+  "pronunciation": "tab-bawkh'",
+  "definition": "a lifeguardsman",
+  "kjvTranslation": "guard.",
+  "translations": {
+    "bg": "спасител",
+    "cs": "plavčík",
+    "da": "en livredder",
+    "de": "ein Rettungsschwimmer",
+    "el": "ναυαγοσώστης",
+    "es": "un socorrista",
+    "et": "merepäästja",
+    "fi": "hengenpelastaja",
+    "fr": "un sauveteur",
+    "hu": "egy vízimentő",
+    "id": "seorang penjaga pantai",
+    "it": "un bagnino",
+    "ja": "ライフガード",
+    "ko": "안전 요원",
+    "lt": "gelbėtojas",
+    "lv": "glābējs",
+    "nb": "en livredder",
+    "nl": "een badmeester",
+    "pl": "ratownik",
+    "pt": "um nadador-salvador",
+    "ro": "un salvamar",
+    "ru": "спасатель",
+    "sk": "plavčík",
+    "sl": "reševalec iz vode",
+    "sv": "en livräddare",
+    "tr": "bir cankurtaran",
+    "uk": "рятувальник",
+    "zh": "救生员"
+  },
+  "hebrew": "טַבָּח",
+  "verses": [
+    "daniel 2:14:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H897",
+  "language": "hebrew",
+  "transliteration": "bag",
+  "pronunciation": "bag",
+  "definition": "food",
+  "kjvTranslation": "spoil (from the margin for H957 (בַּז).)",
+  "translations": {
+    "bg": "храна",
+    "cs": "potraviny",
+    "da": "mad",
+    "de": "lebensmittel",
+    "el": "τρόφιμα",
+    "es": "alimentos",
+    "et": "toit",
+    "fi": "ruoka",
+    "fr": "nourriture",
+    "hu": "élelmiszer",
+    "id": "makanan",
+    "it": "cibo",
+    "ja": "食品",
+    "ko": "음식",
+    "lt": "maistas",
+    "lv": "pārtika",
+    "nb": "mat",
+    "nl": "voedsel",
+    "pl": "jedzenie",
+    "pt": "alimentos",
+    "ro": "alimente",
+    "ru": "еда",
+    "sk": "potraviny",
+    "sl": "hrana",
+    "sv": "mat",
+    "tr": "yemek",
+    "uk": "їжа",
+    "zh": "食物"
+  },
+  "hebrew": "בַּג",
+  "verses": [
+    "ezekiel 25:7:7"
+  ]
+}

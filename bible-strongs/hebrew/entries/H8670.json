@@ -1,0 +1,42 @@
+{
+  "number": "H8670",
+  "language": "hebrew",
+  "transliteration": "tᵉshûwrâh",
+  "pronunciation": "tesh-oo-raw'",
+  "definition": "a gift",
+  "kjvTranslation": "present.",
+  "hebrew": "תְּשׁוּרָה",
+  "translations": {
+    "bg": "подарък",
+    "cs": "dárek",
+    "da": "en gave",
+    "de": "ein Geschenk",
+    "el": "ένα δώρο",
+    "es": "un regalo",
+    "et": "kingitus",
+    "fi": "lahja",
+    "fr": "un cadeau",
+    "hu": "ajándék",
+    "id": "hadiah",
+    "it": "un regalo",
+    "ja": "贈り物",
+    "ko": "선물",
+    "lt": "dovana",
+    "lv": "dāvana",
+    "nb": "en gave",
+    "nl": "een geschenk",
+    "pl": "prezent",
+    "pt": "um presente",
+    "ro": "un cadou",
+    "ru": "подарок",
+    "sk": "darček",
+    "sl": "darilo",
+    "sv": "en gåva",
+    "tr": "bir hediye",
+    "uk": "подарунок",
+    "zh": "赍"
+  },
+  "verses": [
+    "firstSamuel 9:7:12"
+  ]
+}

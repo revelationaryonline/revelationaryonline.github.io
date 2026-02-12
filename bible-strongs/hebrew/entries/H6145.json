@@ -1,0 +1,43 @@
+{
+  "number": "H6145",
+  "language": "hebrew",
+  "transliteration": "ʻâr",
+  "pronunciation": "awr",
+  "definition": "a foe (as watchful for mischief)",
+  "kjvTranslation": "enemy.",
+  "hebrew": "עָר",
+  "translations": {
+    "bg": "враг (като бдящ за пакости)",
+    "cs": "nepřítel (jako ostražitý, aby neprovedl nějakou lumpárnu)",
+    "da": "en fjende (som er på vagt over for ondskab)",
+    "de": "ein Feind (als wachsam für Unheil)",
+    "el": "εχθρός (ως άγρυπνος για κακό)",
+    "es": "un enemigo (como vigilante de las travesuras)",
+    "et": "vaenlane (nagu valvsad pahanduste eest)",
+    "fi": "vihollinen (pahaa varten valppaana)",
+    "fr": "un ennemi (comme attentif à un méfait)",
+    "hu": "ellenség (mint aki vigyáz a rosszra)",
+    "id": "musuh (sebagai waspada terhadap kerusakan)",
+    "it": "un nemico (come un guardiano di malaffare)",
+    "ja": "てきにん",
+    "ko": "적(장난을 경계하는 존재)",
+    "lt": "priešas (budrus, kad nepadarytų piktadarybių)",
+    "lv": "ienaidnieks (kā uzmanīgs ļaundaris)",
+    "nb": "en fiende (som er på vakt for ugagn)",
+    "nl": "een vijand (als waakzaam voor onheil)",
+    "pl": "wróg (jako czujny na psoty)",
+    "pt": "um inimigo (como um vigilante para o mal)",
+    "ro": "un dușman (ca fiind atent la răutăți)",
+    "ru": "недоброжелатель (следящий за бедой)",
+    "sk": "nepriateľ (ako strážca zlého)",
+    "sl": "sovražnik (ki pazi na zlobo)",
+    "sv": "en fiende (som vaksam på ondska)",
+    "tr": "bir düşman (yaramazlık için tetikte olarak)",
+    "uk": "ворог (як пильний, щоб не нашкодити)",
+    "zh": "寇"
+  },
+  "verses": [
+    "firstSamuel 28:16:8",
+    "psalms 139:20:5"
+  ]
+}

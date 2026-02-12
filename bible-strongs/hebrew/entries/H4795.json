@@ -1,0 +1,42 @@
+{
+  "number": "H4795",
+  "language": "hebrew",
+  "transliteration": "mârûwq",
+  "pronunciation": "maw-rook'",
+  "definition": "properly, rubbed; but used abstractly, a rubbing (with perfumery)",
+  "kjvTranslation": "purification.",
+  "hebrew": "מָרוּק",
+  "translations": {
+    "bg": "правилно, втрит; но се използва абстрактно, втриване (с парфюмерия)",
+    "cs": "správně, potíraný; ale používá se abstraktně, potírání (s parfumerií)",
+    "da": "korrekt, gnides; men bruges abstrakt, en gnidning (med parfume)",
+    "de": "richtig, gerieben; aber abstrakt verwendet, ein Reiben (mit Parfüm)",
+    "el": "σωστά, τρίβεται, αλλά χρησιμοποιείται αφηρημένα, ένα τρίψιμο (με αρωματοποιία)",
+    "es": "propiamente, frotado; pero usado abstractamente, un frotamiento (con perfumería)",
+    "et": "õigesti, hõõrutud; kuid abstraktselt kasutatud, hõõrumine (koos parfümeeriaga)",
+    "fi": "oikein, hierotaan; mutta käytetään abstraktisti, hankaus (hajusteiden kanssa)",
+    "fr": "proprement, frotté ; mais utilisé abstraitement, un frottement (avec la parfumerie)",
+    "hu": "helyesen, dörzsölni; de elvontan használva, dörzsölés (parfümériával)",
+    "id": "benar, digosok; tetapi digunakan secara abstrak, gosokan (dengan wewangian)",
+    "it": "propriamente, strofinato; ma usato astrattamente, uno sfregamento (con la profumeria)",
+    "ja": "擦る",
+    "ko": "적절하게, 문지르다; 그러나 추상적으로 사용, 문지르다(향수와 함께)",
+    "lt": "tinkamai, įtrintas; bet vartojamas abstrakčiai, įtrintas (su kvepalais)",
+    "lv": "pareizi, berzēt; bet lietots abstrakti, berzēt (ar smaržvielām)",
+    "nb": "egentlig, gnidd; men brukes abstrakt, en gnidning (med parfyme)",
+    "nl": "goed, gewreven; maar abstract gebruikt, een wrijven (met parfumerie)",
+    "pl": "właściwie, wcierać; ale używane abstrakcyjnie, wcieranie (z perfumami)",
+    "pt": "propriamente dito, esfregado; mas usado de forma abstrata, uma fricção (com perfumaria)",
+    "ro": "corect, frecat; dar folosit abstract, o frecare (cu parfumerie)",
+    "ru": "правильно, натирать; но используется абстрактно, натирание (с парфюмерией)",
+    "sk": "správne, trieť; ale používa sa abstraktne, trenie (s parfumériou)",
+    "sl": "pravilno, drgnjen; uporablja pa se abstraktno, drgnjenje (s parfumom)",
+    "sv": "egentligen, gnuggas; men används abstrakt, en gnuggning (med parfymeri)",
+    "tr": "uygun şekilde, ovuşturulmuş; ancak soyut olarak kullanıldığında, bir ovma (parfümeri ile)",
+    "uk": "власне, натертий; але вживається абстрактно, натертий (з парфумерією)",
+    "zh": "搓，但抽象地说，擦（与香水一起）"
+  },
+  "verses": [
+    "esther 2:12:20"
+  ]
+}

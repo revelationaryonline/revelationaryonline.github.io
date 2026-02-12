@@ -1,0 +1,42 @@
+{
+  "number": "H377",
+  "language": "hebrew",
+  "transliteration": "ʼîysh",
+  "pronunciation": "eesh",
+  "definition": "to be a man, i.e. act in amanly way",
+  "kjvTranslation": "show (one) self a man.",
+  "translations": {
+    "bg": "да бъдеш мъж, т.е. да се държиш приятелски",
+    "cs": "být mužem, tj. chovat se přátelsky",
+    "da": "at være en mand, dvs. handle på en mandig måde",
+    "de": "ein Mann zu sein, d.h. sich amoralisch zu verhalten",
+    "el": "να είσαι άντρας, δηλαδή να ενεργείς με ανδροπρεπή τρόπο",
+    "es": "ser un hombre, es decir, actuar de manera amanerada",
+    "et": "olla mees, s.t. käituda amanly viisil",
+    "fi": "olla mies, eli toimia miehekkäästi",
+    "fr": "être un homme, c'est-à-dire agir de manière amicale",
+    "hu": "férfinak lenni, azaz férfiasan cselekedni",
+    "id": "menjadi seorang pria, yaitu bertindak dengan cara yang aman",
+    "it": "essere un uomo, cioè agire in modo amanuense",
+    "ja": "男らしくあること、すなわち男らしく振る舞うこと",
+    "ko": "남자가 되다, 즉 남자답게 행동하다",
+    "lt": "būti vyru, t. y. elgtis draugiškai",
+    "lv": "būt vīrietis, t.i., izturēties amanliski",
+    "nb": "å være en mann, dvs. opptre på en amanly måte",
+    "nl": "een man zijn, d.w.z. op een mannelijke manier handelen",
+    "pl": "być mężczyzną, tj. działać po męsku",
+    "pt": "ser um homem, ou seja, agir de forma amaneirada",
+    "ro": "a fi bărbat, adică a acționa în mod bărbătesc",
+    "ru": "быть мужчиной, т.е. вести себя по-мужски",
+    "sk": "byť mužom, t. j. správať sa priateľsky",
+    "sl": "biti moški, tj. ravnati amansko",
+    "sv": "att vara en man, dvs. agera på ett manligt sätt",
+    "tr": "erkek olmak, yani erkekçe davranmak",
+    "uk": "бути чоловіком, тобто діяти по-чоловічому",
+    "zh": "男子汉大丈夫"
+  },
+  "hebrew": "אִישׁ",
+  "verses": [
+    "isaiah 46:8:2"
+  ]
+}

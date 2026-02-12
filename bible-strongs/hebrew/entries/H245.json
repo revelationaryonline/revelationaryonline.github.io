@@ -1,0 +1,42 @@
+{
+  "number": "H245",
+  "language": "hebrew",
+  "transliteration": "ʼĂzanyâh",
+  "pronunciation": "az-an-yaw'",
+  "definition": "Azanjah, an Israelite",
+  "kjvTranslation": "Azaniah.",
+  "translations": {
+    "bg": "Азанджа, израилтянин",
+    "cs": "Azanjah, Izraelita",
+    "da": "Azanjah, en israelit",
+    "de": "Asanja, ein Israelit",
+    "el": "Αζάνια, Ισραηλίτης",
+    "es": "Azanjah, israelita",
+    "et": "Azanjah, iisraellane",
+    "fi": "Azanjah, israelilainen",
+    "fr": "Azanjah, Israélite",
+    "hu": "Azanjah, egy izraelita",
+    "id": "Azanjah, seorang Israel",
+    "it": "Azanjah, un israelita",
+    "ja": "イスラエル人アザンヤ",
+    "ko": "이스라엘인 아잔자",
+    "lt": "Azandža, izraelitas",
+    "lv": "Azanjah, izraēlietis",
+    "nb": "Azanjah, en israelitt",
+    "nl": "Azanjah, een Israëliet",
+    "pl": "Azanjah, Izraelita",
+    "pt": "Azanjah, um israelita",
+    "ro": "Azanjah, un israelit",
+    "ru": "Азания, израильтянин",
+    "sk": "Azanjah, Izraelita",
+    "sl": "Azanjah, Izraelec",
+    "sv": "Azanjah, en israelit",
+    "tr": "Azanjah, bir İsrailli",
+    "uk": "Азанія, ізраїльтянин",
+    "zh": "以色列人阿赞雅"
+  },
+  "hebrew": "אֲזַנְיָה",
+  "verses": [
+    "nehemiah 10:10:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H555",
+  "language": "hebrew",
+  "transliteration": "ʼômets",
+  "pronunciation": "o'-mets",
+  "definition": "strength",
+  "kjvTranslation": "stronger.",
+  "translations": {
+    "bg": "сила",
+    "cs": "síla",
+    "da": "styrke",
+    "de": "stärke",
+    "el": "αντοχή",
+    "es": "fuerza",
+    "et": "tugevus",
+    "fi": "vahvuus",
+    "fr": "la force",
+    "hu": "erő",
+    "id": "kekuatan",
+    "it": "forza",
+    "ja": "強さ",
+    "ko": "힘",
+    "lt": "stiprumas",
+    "lv": "izturība",
+    "nb": "styrke",
+    "nl": "sterkte",
+    "pl": "siła",
+    "pt": "força",
+    "ro": "rezistență",
+    "ru": "прочность",
+    "sk": "sila",
+    "sl": "moč",
+    "sv": "styrka",
+    "tr": "güç",
+    "uk": "сила",
+    "zh": "力量"
+  },
+  "hebrew": "אֹמֶץ",
+  "verses": [
+    "job 17:9:6"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H6425",
+  "language": "hebrew",
+  "transliteration": "peleç",
+  "pronunciation": "peh'-les",
+  "definition": "a balance",
+  "kjvTranslation": "scales, weight.",
+  "hebrew": "פֶּלֶס",
+  "translations": {
+    "bg": "баланс",
+    "cs": "rovnováha",
+    "da": "en balance",
+    "de": "ein Gleichgewicht",
+    "el": "ένα ισοζύγιο",
+    "es": "un balance",
+    "et": "tasakaal",
+    "fi": "tasapaino",
+    "fr": "un solde",
+    "hu": "egy mérleg",
+    "id": "keseimbangan",
+    "it": "un bilancio",
+    "ja": "バランス",
+    "ko": "균형",
+    "lt": "balansas",
+    "lv": "līdzsvars",
+    "nb": "en balanse",
+    "nl": "een balans",
+    "pl": "saldo",
+    "pt": "um balanço",
+    "ro": "un echilibru",
+    "ru": "баланс",
+    "sk": "rovnováha",
+    "sl": "ravnovesje",
+    "sv": "en balans",
+    "tr": "bir denge",
+    "uk": "рівновагу",
+    "zh": "余额"
+  },
+  "verses": [
+    "proverbs 16:11:0",
+    "isaiah 40:12:12"
+  ]
+}

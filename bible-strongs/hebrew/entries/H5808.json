@@ -1,0 +1,43 @@
+{
+  "number": "H5808",
+  "language": "hebrew",
+  "transliteration": "ʻizzûwz",
+  "pronunciation": "iz-zooz'",
+  "definition": "forcible; collectively and concretely, an army",
+  "kjvTranslation": "power, strong.",
+  "hebrew": "עִזּוּז",
+  "translations": {
+    "bg": "насилствен; колективно и конкретно - армия",
+    "cs": "násilný; kolektivně a konkrétně armáda",
+    "da": "magtfuld; kollektivt og konkret, en hær",
+    "de": "gewaltsam; kollektiv und konkret, eine Armee",
+    "el": "βίαια- συλλογικά και συγκεκριμένα, ένας στρατός",
+    "es": "forzoso; colectiva y concretamente, un ejército",
+    "et": "vägivaldne; kollektiivselt ja konkreetselt, armee",
+    "fi": "väkisin; kollektiivisesti ja konkreettisesti armeija",
+    "fr": "par la force ; collectivement et concrètement, une armée",
+    "hu": "erőszakos; kollektíven és konkrétan, egy hadsereg",
+    "id": "secara paksa; secara kolektif dan konkret, tentara",
+    "it": "forzato; collettivamente e concretamente, un esercito",
+    "ja": "集団的かつ具体的には、軍隊である。",
+    "ko": "강제; 집단적으로 그리고 구체적으로 군대",
+    "lt": "prievartinis; kolektyviai ir konkrečiai - kariuomenė",
+    "lv": "piespiedu; kolektīvi un konkrēti - armija",
+    "nb": "med makt; kollektivt og konkret, en hær",
+    "nl": "gewelddadig; collectief en concreet, een leger",
+    "pl": "siłowy; zbiorowo i konkretnie, armia",
+    "pt": "forçado; colectiva e concretamente, um exército",
+    "ro": "forțat; colectiv și concret, o armată",
+    "ru": "насильственный; коллективный и конкретный, армия",
+    "sk": "násilný; kolektívne a konkrétne, armáda",
+    "sl": "nasilno; kolektivno in konkretno: vojska",
+    "sv": "tvingande; kollektivt och konkret, en armé",
+    "tr": "zorla; toplu ve somut olarak, bir ordu",
+    "uk": "примусовий; колективно і конкретно - армія",
+    "zh": "集体和具体地说，是一支军队"
+  },
+  "verses": [
+    "psalms 24:8:5",
+    "isaiah 43:17:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5473",
+  "language": "hebrew",
+  "transliteration": "çûwg",
+  "pronunciation": "soog",
+  "definition": "to hem in, i.e. bind",
+  "kjvTranslation": "set about.",
+  "hebrew": "סוּג",
+  "translations": {
+    "bg": "да обгръща, т.е. да обвързва",
+    "cs": "obepínat, tj. svazovat",
+    "da": "at omslutte, dvs. binde",
+    "de": "einzuschließen, d.h. zu binden",
+    "el": "να περιβάλλει, δηλ. να δεσμεύει",
+    "es": "cercar, es decir, atar",
+    "et": "kinnipidamiseks, st sidumiseks",
+    "fi": "sitoa, toisin sanoen sitoa",
+    "fr": "pour entourer, c'est-à-dire lier",
+    "hu": "bekeríteni, azaz megkötni",
+    "id": "untuk mengelim, yaitu mengikat",
+    "it": "circondare, cioè legare",
+    "ja": "裾を縛る",
+    "ko": "묶다, 즉 묶다",
+    "lt": "apjuosti, t. y. surišti",
+    "lv": "apvilkt, t. i., sasiet, t. i., sasaistīt",
+    "nb": "å omslutte, dvs. binde",
+    "nl": "omheinen, d.w.z. binden",
+    "pl": "objąć, tj. związać",
+    "pt": "cercar, ou seja, amarrar",
+    "ro": "a înconjura, adică a lega",
+    "ru": "прижимать, т.е. связывать",
+    "sk": "ohraničiť, t. j. zviazať",
+    "sl": "obkrožiti, tj. zavezati",
+    "sv": "omsluta, d.v.s. binda",
+    "tr": "çevrelemek, yani bağlamak",
+    "uk": "підшивати, тобто зв'язувати",
+    "zh": "束缚"
+  },
+  "verses": [
+    "solomon 7:3:9"
+  ]
+}

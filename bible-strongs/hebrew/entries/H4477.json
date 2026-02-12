@@ -1,0 +1,43 @@
+{
+  "number": "H4477",
+  "language": "hebrew",
+  "transliteration": "mamtaq",
+  "pronunciation": "mam-tak'",
+  "definition": "something sweet (literally or figuratively)",
+  "kjvTranslation": "(most) sweet.",
+  "hebrew": "מַמְתַּק",
+  "verses": [
+    "nehemiah 8:10:6",
+    "solomon 5:16:1"
+  ],
+  "translations": {
+    "bg": "нещо сладко (в буквален или преносен смисъл)",
+    "cs": "něco sladkého (doslova nebo obrazně)",
+    "da": "noget sødt (bogstaveligt eller i overført betydning)",
+    "de": "etwas Süßes (wörtlich oder im übertragenen Sinne)",
+    "el": "κάτι γλυκό (κυριολεκτικά ή μεταφορικά)",
+    "es": "algo dulce (literal o figuradamente)",
+    "et": "midagi magusat (sõna otseses või ülekantud tähenduses)",
+    "fi": "jotain makeaa (kirjaimellisesti tai kuvainnollisesti)",
+    "fr": "quelque chose de sucré (au sens propre comme au sens figuré)",
+    "hu": "valami édes (szó szerint vagy átvitt értelemben)",
+    "id": "sesuatu yang manis (secara harfiah atau kiasan)",
+    "it": "qualcosa di dolce (in senso letterale o figurato)",
+    "ja": "甘いもの",
+    "ko": "달콤한 것(문자 그대로 또는 비유적으로)",
+    "lt": "ką nors saldaus (tiesiogine ar perkeltine prasme)",
+    "lv": "kaut kas salds (tiešā vai pārnestā nozīmē)",
+    "nb": "noe søtt (bokstavelig eller billedlig talt)",
+    "nl": "iets zoets (letterlijk of figuurlijk)",
+    "pl": "coś słodkiego (dosłownie lub w przenośni)",
+    "pt": "algo doce (literalmente ou figurativamente)",
+    "ro": "ceva dulce (la propriu sau la figurat)",
+    "ru": "что-то сладкое (в прямом или переносном смысле)",
+    "sk": "niečo sladké (doslova alebo obrazne)",
+    "sl": "nekaj sladkega (dobesedno ali v prenesenem pomenu)",
+    "sv": "något sött (bokstavligen eller bildligt talat)",
+    "tr": "tatlı bir şey (gerçek veya mecazi anlamda)",
+    "uk": "щось солодке (в прямому чи переносному сенсі)",
+    "zh": "甜头"
+  }
+}

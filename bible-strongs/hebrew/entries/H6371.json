@@ -1,0 +1,42 @@
+{
+  "number": "H6371",
+  "language": "hebrew",
+  "transliteration": "pîymâh",
+  "pronunciation": "pee-maw'",
+  "definition": "obesity",
+  "kjvTranslation": "collops.",
+  "hebrew": "פִּימָה",
+  "translations": {
+    "bg": "затлъстяване",
+    "cs": "obezita",
+    "da": "fedme",
+    "de": "fettleibigkeit",
+    "el": "παχυσαρκία",
+    "es": "obesidad",
+    "et": "rasvumine",
+    "fi": "lihavuus",
+    "fr": "l'obésité",
+    "hu": "elhízás",
+    "id": "obesitas",
+    "it": "obesità",
+    "ja": "肥満",
+    "ko": "비만",
+    "lt": "nutukimas",
+    "lv": "aptaukošanās",
+    "nb": "fedme",
+    "nl": "obesitas",
+    "pl": "otyłość",
+    "pt": "obesidade",
+    "ro": "obezitate",
+    "ru": "ожирение",
+    "sk": "obezita",
+    "sl": "debelost",
+    "sv": "fetma",
+    "tr": "obezite",
+    "uk": "ожиріння",
+    "zh": "肥胖症"
+  },
+  "verses": [
+    "job 15:27:5"
+  ]
+}

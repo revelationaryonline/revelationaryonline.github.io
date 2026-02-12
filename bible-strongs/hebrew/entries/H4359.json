@@ -1,0 +1,42 @@
+{
+  "number": "H4359",
+  "language": "hebrew",
+  "transliteration": "miklâl",
+  "pronunciation": "mik-lawl'",
+  "definition": "perfection (of beauty)",
+  "kjvTranslation": "perfection.",
+  "hebrew": "מִכְלָל",
+  "translations": {
+    "bg": "съвършенство (на красотата)",
+    "cs": "dokonalost (krásy)",
+    "da": "perfektion (af skønhed)",
+    "de": "vollkommenheit (der Schönheit)",
+    "el": "τελειότητα (της ομορφιάς)",
+    "es": "perfección (de la belleza)",
+    "et": "täiuslikkus (ilu)",
+    "fi": "(kauneuden) täydellisyys",
+    "fr": "perfection (de la beauté)",
+    "hu": "tökéletesség (a szépség)",
+    "id": "kesempurnaan (keindahan)",
+    "it": "perfezione (della bellezza)",
+    "ja": "たび",
+    "ko": "(아름다움의) 완벽함",
+    "lt": "tobulumas (grožio)",
+    "lv": "pilnība (skaistuma)",
+    "nb": "perfeksjon (av skjønnhet)",
+    "nl": "perfectie (van schoonheid)",
+    "pl": "doskonałość (piękna)",
+    "pt": "perfeição (de beleza)",
+    "ro": "perfecțiune (a frumuseții)",
+    "ru": "совершенство (красоты)",
+    "sk": "dokonalosť (krásy)",
+    "sl": "popolnost (lepote)",
+    "sv": "perfektion (av skönhet)",
+    "tr": "mükemmellik (güzelliğin)",
+    "uk": "досконалість (краси)",
+    "zh": "绝美"
+  },
+  "verses": [
+    "psalms 50:2:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6011",
+  "language": "hebrew",
+  "transliteration": "ʻômeq",
+  "pronunciation": "o'-mek",
+  "definition": "depth",
+  "kjvTranslation": "depth.",
+  "hebrew": "עֹמֶק",
+  "translations": {
+    "bg": "дълбочина",
+    "cs": "hloubka",
+    "da": "dybde",
+    "de": "tiefe",
+    "el": "βάθος",
+    "es": "profundidad",
+    "et": "sügavus",
+    "fi": "syvyys",
+    "fr": "profondeur",
+    "hu": "mélység",
+    "id": "kedalaman",
+    "it": "profondità",
+    "ja": "深さ",
+    "ko": "깊이",
+    "lt": "gylis",
+    "lv": "dziļums",
+    "nb": "dybde",
+    "nl": "diepte",
+    "pl": "głębokość",
+    "pt": "profundidade",
+    "ro": "adâncime",
+    "ru": "глубина",
+    "sk": "hĺbka",
+    "sl": "globina",
+    "sv": "djup",
+    "tr": "derinlik",
+    "uk": "глибина",
+    "zh": "深度"
+  },
+  "verses": [
+    "proverbs 25:3:3"
+  ]
+}

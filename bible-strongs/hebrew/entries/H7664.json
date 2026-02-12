@@ -1,0 +1,43 @@
+{
+  "number": "H7664",
+  "language": "hebrew",
+  "transliteration": "sêber",
+  "pronunciation": "say'-ber",
+  "definition": "expectation",
+  "kjvTranslation": "hope.",
+  "hebrew": "שֵׂבֶר",
+  "translations": {
+    "bg": "очакване",
+    "cs": "očekávání",
+    "da": "forventning",
+    "de": "erwartung",
+    "el": "προσδοκία",
+    "es": "expectativa",
+    "et": "ootus",
+    "fi": "odotus",
+    "fr": "attente",
+    "hu": "várakozás",
+    "id": "harapan",
+    "it": "aspettativa",
+    "ja": "期待",
+    "ko": "기대치",
+    "lt": "lūkesčiai",
+    "lv": "gaidas",
+    "nb": "forventning",
+    "nl": "verwachting",
+    "pl": "oczekiwanie",
+    "pt": "expetativa",
+    "ro": "așteptare",
+    "ru": "ожидание",
+    "sk": "očakávania",
+    "sl": "pričakovanja",
+    "sv": "förväntan",
+    "tr": "bEKLENTİ",
+    "uk": "очікування",
+    "zh": "预料之中"
+  },
+  "verses": [
+    "psalms 119:116:5",
+    "psalms 146:5:4"
+  ]
+}

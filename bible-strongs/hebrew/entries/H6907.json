@@ -1,0 +1,43 @@
+{
+  "number": "H6907",
+  "language": "hebrew",
+  "transliteration": "qubbaʻath",
+  "pronunciation": "koob-bah'-ath",
+  "definition": "a goblet (as deep like a cover)",
+  "kjvTranslation": "dregs.",
+  "hebrew": "קֻבַּעַת",
+  "translations": {
+    "bg": "чаша (дълбока като капак)",
+    "cs": "pohár (hluboký jako víko)",
+    "da": "et bæger (så dybt som et låg)",
+    "de": "ein Kelch (so tief wie ein Deckel)",
+    "el": "ένα κύπελλο (τόσο βαθύ όσο ένα κάλυμμα)",
+    "es": "una copa (tan profunda como una tapa)",
+    "et": "pokaal (nii sügav kui kaane)",
+    "fi": "pikari (yhtä syvä kuin kansi)",
+    "fr": "un gobelet (aussi profond qu'un couvercle)",
+    "hu": "egy serleg (olyan mély, mint egy fedő)",
+    "id": "piala (sedalam seperti penutup)",
+    "it": "un calice (profondo come un coperchio)",
+    "ja": "ゴブレット",
+    "ko": "잔(덮개처럼 깊은 것)",
+    "lt": "taurė (gili kaip dangtis)",
+    "lv": "kauss (dziļš kā vāks)",
+    "nb": "et beger (så dypt som et lokk)",
+    "nl": "een bokaal (zo diep als een deksel)",
+    "pl": "puchar (głęboki jak pokrywa)",
+    "pt": "uma taça (tão profunda como uma tampa)",
+    "ro": "o cupă (adâncă ca un capac)",
+    "ru": "кубок (глубокий, как крышка)",
+    "sk": "pohár (hlboký ako kryt)",
+    "sl": "čaša (globoka kot pokrov)",
+    "sv": "en bägare (lika djup som ett lock)",
+    "tr": "bir kadeh (kapak gibi derin)",
+    "uk": "келих (глибиною як обкладинка)",
+    "zh": "卮"
+  },
+  "verses": [
+    "isaiah 51:17:12",
+    "isaiah 51:22:14"
+  ]
+}

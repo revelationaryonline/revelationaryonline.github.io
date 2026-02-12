@@ -1,0 +1,42 @@
+{
+  "number": "H7009",
+  "language": "hebrew",
+  "transliteration": "qîym",
+  "pronunciation": "keem",
+  "definition": "an opponent (as rising against one), i.e. (collectively) enemies",
+  "kjvTranslation": "substance.",
+  "hebrew": "קִים",
+  "translations": {
+    "bg": "противник (като издигане срещу един), т.е. (колективно) врагове",
+    "cs": "protivník (jako povstání proti jednomu), tj. (kolektivně) nepřátelé",
+    "da": "en modstander (som rejser sig mod en), dvs. (kollektivt) fjender",
+    "de": "ein Gegner (der sich gegen einen erhebt), d. h. (kollektive) Feinde",
+    "el": "ένας αντίπαλος (όπως ανέρχεται εναντίον ενός), δηλαδή (συλλογικά) εχθροί",
+    "es": "un oponente (como levantarse contra uno), es decir (colectivamente) enemigos",
+    "et": "vastane (nagu tõuseb ühe vastu), st (kollektiivselt) vaenlased",
+    "fi": "vastustaja (nouseva yhtä vastaan), eli (kollektiivisesti) viholliset",
+    "fr": "un adversaire (comme s'élevant contre un), c'est-à-dire (collectivement) des ennemis",
+    "hu": "ellenfél (mint egy ellen felemelkedő), azaz (kollektíven) ellenségek",
+    "id": "lawan (seperti bangkit melawan satu), yaitu musuh (secara kolektif)",
+    "it": "un avversario (come se fosse in aumento contro uno), cioè (collettivamente) i nemici",
+    "ja": "あいて",
+    "ko": "상대, 즉 (총체적으로) 적을 의미합니다",
+    "lt": "priešininkas (kaip kylantis prieš vieną), t. y. (kolektyviai) priešai",
+    "lv": "pretinieks (kā sacelšanās pret pretinieku), t.i., (kolektīvi) ienaidnieki",
+    "nb": "en motstander (som reiser seg mot en), dvs. (kollektivt) fiender",
+    "nl": "een tegenstander (als opstaan tegen één), d.w.z. (collectief) vijanden",
+    "pl": "przeciwnik (jako powstający przeciwko jednemu), tj. (zbiorowo) wrogowie",
+    "pt": "um adversário (que se levanta contra um), ou seja, (coletivamente) inimigos",
+    "ro": "un adversar (care se ridică împotriva unuia), adică (colectiv) dușmani",
+    "ru": "противник (как восстающий против одного), т.е. (коллективно) враги",
+    "sk": "protivník (ako povstanie proti jednému), t. j. (kolektívne) nepriatelia",
+    "sl": "nasprotnik (kot dvig proti enemu), tj. (kolektivno) sovražniki",
+    "sv": "en motståndare (som reser sig mot en), d.v.s. (kollektivt) fiender",
+    "tr": "bir rakip (birine karşı yükselirken), yani (toplu olarak) düşmanlar",
+    "uk": "опонента (як такого, що повстає проти одного), тобто (колективно) ворогів",
+    "zh": "对头，即（集体）敌人"
+  },
+  "verses": [
+    "job 22:20:3"
+  ]
+}

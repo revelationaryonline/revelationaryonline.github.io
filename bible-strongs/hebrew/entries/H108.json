@@ -1,0 +1,43 @@
+{
+  "number": "H108",
+  "language": "hebrew",
+  "transliteration": "ʼêd",
+  "pronunciation": "ade",
+  "definition": "a fog",
+  "kjvTranslation": "mist, vapor.",
+  "translations": {
+    "bg": "мъгла",
+    "cs": "mlha",
+    "da": "en tåge",
+    "de": "nebel",
+    "el": "ομίχλη",
+    "es": "una niebla",
+    "et": "udu",
+    "fi": "sumu",
+    "fr": "un brouillard",
+    "hu": "köd",
+    "id": "kabut",
+    "it": "una nebbia",
+    "ja": "霧",
+    "ko": "안개",
+    "lt": "rūkas",
+    "lv": "migla",
+    "nb": "en tåke",
+    "nl": "een mist",
+    "pl": "mgła",
+    "pt": "um nevoeiro",
+    "ro": "o ceață",
+    "ru": "туман",
+    "sk": "hmla",
+    "sl": "megla",
+    "sv": "en dimma",
+    "tr": "bir sis",
+    "uk": "туман",
+    "zh": "大雾"
+  },
+  "hebrew": "אֵד",
+  "verses": [
+    "genesis 2:6:0",
+    "job 36:27:6"
+  ]
+}

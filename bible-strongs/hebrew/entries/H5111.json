@@ -1,0 +1,42 @@
+{
+  "number": "H5111",
+  "language": "hebrew",
+  "transliteration": "nûwd",
+  "pronunciation": "nood",
+  "definition": "to flee",
+  "kjvTranslation": "get away.",
+  "hebrew": "נוּד",
+  "translations": {
+    "bg": "да бяга",
+    "cs": "utéct",
+    "da": "at flygte",
+    "de": "zu fliehen",
+    "el": "να φύγετε",
+    "es": "huir",
+    "et": "põgeneda",
+    "fi": "pakenemaan",
+    "fr": "fuir",
+    "hu": "menekülni",
+    "id": "untuk melarikan diri",
+    "it": "fuggire",
+    "ja": "逃げる",
+    "ko": "도망치다",
+    "lt": "bėgti",
+    "lv": "bēgt",
+    "nb": "å flykte",
+    "nl": "vluchten",
+    "pl": "uciekać",
+    "pt": "fugir",
+    "ro": "să fugă",
+    "ru": "бежать",
+    "sk": "utiecť",
+    "sl": "pobegniti",
+    "sv": "att fly",
+    "tr": "kaçmak için",
+    "uk": "щоб втекти",
+    "zh": "逃离"
+  },
+  "verses": [
+    "daniel 4:11:12"
+  ]
+}

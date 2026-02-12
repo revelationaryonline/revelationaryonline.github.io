@@ -1,0 +1,43 @@
+{
+  "number": "H6736",
+  "language": "hebrew",
+  "transliteration": "tsîyr",
+  "pronunciation": "tseer",
+  "definition": "a form (of beauty; as if pressed out, i.e. carved); hence, an (idolatrous) image",
+  "kjvTranslation": "beauty, idol.",
+  "hebrew": "צִיר",
+  "translations": {
+    "bg": "форма (на красота; като че ли е издълбана, т.е. изваяна); оттук - (идолопоклоннически) образ",
+    "cs": "forma (krásy; jakoby vytlačená, tj. vyřezaná); tedy (modlářský) obraz",
+    "da": "en form (af skønhed; som om den var presset ud, dvs. udskåret); derfor et (afgudsdyrkende) billede",
+    "de": "eine Form (von Schönheit; wie herausgepresst, d. h. geschnitzt); daher ein (Götzen-)Bild",
+    "el": "μια μορφή (ομορφιάς- σαν να είναι πατημένη, δηλαδή σκαλισμένη)- ως εκ τούτου, μια (ειδωλολατρική) εικόνα",
+    "es": "una forma (de belleza; como prensada, es decir, tallada); de ahí, una imagen (idolátrica)",
+    "et": "kuju (ilu; nagu välja pressitud, st nikerdatud); seega (ebajumalateenistus) kujutis",
+    "fi": "muoto (kauneuden muoto; ikään kuin puristettu, eli veistetty); siis (epäjumalanpalveluksen) kuva",
+    "fr": "une forme (de beauté ; comme si elle était pressée, c'est-à-dire sculptée) ; d'où une image (idolâtre)",
+    "hu": "egy (szépséget ábrázoló; mintha kinyomták volna, azaz faragták volna); ezért (bálványkép)",
+    "id": "suatu bentuk (keindahan; seolah-olah ditekan, yaitu diukir); karenanya, sebuah gambar (berhala)",
+    "it": "una forma (di bellezza; come se fosse stampata, cioè scolpita); quindi, un'immagine (idolatrica)",
+    "ja": "ぞうけい",
+    "ko": "(아름다움의) 형태; 눌려진 것처럼, 즉 새겨진 것처럼; 따라서 (우상 숭배적인) 이미지",
+    "lt": "forma (grožio; tarsi iškalta, t. y. išraižyta); taigi (stabmeldiškas) atvaizdas",
+    "lv": "forma (skaistuma, it kā izspiesta, t.i., izgriezta); tātad (elku kalpu) tēls",
+    "nb": "en form (av skjønnhet; som om den er presset ut, dvs. utskåret); derav et (avgudsdyrkende) bilde",
+    "nl": "een vorm (van schoonheid; als uitgeperst, d.w.z. gesneden); vandaar, een (afgodisch) beeld",
+    "pl": "forma (piękna; jakby wyciśnięta, tj. wyrzeźbiona); stąd (bałwochwalczy) obraz",
+    "pt": "uma forma (de beleza; como se tivesse sido esculpida); portanto, uma imagem (idolátrica)",
+    "ro": "o formă (de frumusețe; ca și cum ar fi presată, adică sculptată); prin urmare, o imagine (idolatră)",
+    "ru": "форма (красоты; как бы выдавленная, т.е. вырезанная); отсюда: (идолопоклонническое) изображение",
+    "sk": "forma (krásy; akoby vytlačená, t. j. vyrezaná); teda (modlársky) obraz",
+    "sl": "oblika (lepote; kot iztisnjena, izrezljana); torej (malikovalska) podoba",
+    "sv": "en form (av skönhet; som om den pressats ut, dvs. ristats); därav en (avgudadyrkande) bild",
+    "tr": "bir biçim (güzellik; sanki bastırılmış, yani oyulmuş gibi); dolayısıyla, (putperest) bir görüntü",
+    "uk": "форма (красива; ніби витиснута, тобто вирізьблена); отже, (ідолопоклонницький) образ",
+    "zh": "一种形式（美；仿佛是压出来的，即雕刻出来的）；因此，一种（偶像崇拜的）形象"
+  },
+  "verses": [
+    "psalms 49:15:9",
+    "isaiah 45:16:8"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4786",
+  "language": "hebrew",
+  "transliteration": "môrâh",
+  "pronunciation": "mo-raw'",
+  "definition": "bitterness, i.e. (figuratively) trouble",
+  "kjvTranslation": "grief.",
+  "hebrew": "מֹרָה",
+  "translations": {
+    "bg": "горчивина, т.е. (в преносен смисъл) неприятности",
+    "cs": "hořkost, tj. (přeneseně) potíže",
+    "da": "bitterhed, dvs. (i overført betydning) problemer",
+    "de": "bitterkeit, d.h. (im übertragenen Sinne) Ärger",
+    "el": "πικρία, δηλαδή (μεταφορικά) πρόβλημα",
+    "es": "amargura, es decir (en sentido figurado) problemas",
+    "et": "kibedus, st (piltlikult öeldes) häda",
+    "fi": "katkeruus, eli (kuvaannollisesti) vaikeudet",
+    "fr": "l'amertume, c'est-à-dire (au sens figuré) le trouble",
+    "hu": "keserűség, azaz (átvitt értelemben) baj",
+    "id": "kepahitan, yaitu (secara kiasan) masalah",
+    "it": "amarezza, cioè (in senso figurato) difficoltà",
+    "ja": "苦汁",
+    "ko": "괴로움, 즉 (비유적으로) 문제",
+    "lt": "kartumas, t. y. (perkeltine prasme) bėda",
+    "lv": "rūgtums, t.i., (pārnestā nozīmē) nepatikšanas",
+    "nb": "bitterhet, dvs. (i overført betydning) problemer",
+    "nl": "bitterheid, d.w.z. (figuurlijk) problemen",
+    "pl": "gorycz, tj. (w przenośni) kłopoty",
+    "pt": "amargura, ou seja (em sentido figurado), problemas",
+    "ro": "amărăciune, adică (la figurat) necaz",
+    "ru": "горечь, т.е. (образно) неприятности",
+    "sk": "horkosť, t. j. (obrazne) ťažkosti",
+    "sl": "grenkoba, tj. (v prenesenem pomenu) težave",
+    "sv": "bitterhet, dvs. (bildligt talat) problem",
+    "tr": "acı, yani (mecazi anlamda) sıkıntı",
+    "uk": "гіркота, тобто (образно) неприємності",
+    "zh": "苦，即（比喻）烦恼"
+  },
+  "verses": [
+    "genesis 26:35:1"
+  ]
+}

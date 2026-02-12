@@ -1,0 +1,42 @@
+{
+  "number": "H1816",
+  "language": "hebrew",
+  "transliteration": "dalleqeth",
+  "pronunciation": "dal-lek'-keth",
+  "definition": "a burning fever",
+  "kjvTranslation": "inflammation.",
+  "translations": {
+    "bg": "изгаряща треска",
+    "cs": "spalující horečka",
+    "da": "en brændende feber",
+    "de": "ein brennendes Fieber",
+    "el": "πυρετός που καίει",
+    "es": "una fiebre ardiente",
+    "et": "põletav palavik",
+    "fi": "polttava kuume",
+    "fr": "une fièvre brûlante",
+    "hu": "égő láz",
+    "id": "demam yang membakar",
+    "it": "una febbre ardente",
+    "ja": "焼けるような熱",
+    "ko": "타는 듯한 발열",
+    "lt": "deginantis karštis",
+    "lv": "dedzinošs drudzis",
+    "nb": "en brennende feber",
+    "nl": "een brandende koorts",
+    "pl": "paląca gorączka",
+    "pt": "uma febre ardente",
+    "ro": "o febră arzătoare",
+    "ru": "жгучий жар",
+    "sk": "pálivá horúčka",
+    "sl": "pekoča vročina",
+    "sv": "en brännande feber",
+    "tr": "yakıcı bir ateş",
+    "uk": "пекучий жар",
+    "zh": "灼热"
+  },
+  "hebrew": "דַּלֶּקֶת",
+  "verses": [
+    "deuteronomy 28:22:4"
+  ]
+}

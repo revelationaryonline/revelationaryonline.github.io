@@ -1,0 +1,42 @@
+{
+  "number": "H2746",
+  "language": "hebrew",
+  "transliteration": "charchur",
+  "pronunciation": "khar-khoor'",
+  "definition": "fever (as hot)",
+  "kjvTranslation": "extreme burning.",
+  "translations": {
+    "bg": "треска (като гореща)",
+    "cs": "horečka (jako horká)",
+    "da": "feber (som varm)",
+    "de": "fieber (wie heiß)",
+    "el": "πυρετός (ως θερμός)",
+    "es": "fiebre (en caliente)",
+    "et": "palavik (kui kuum)",
+    "fi": "kuume (kuumana)",
+    "fr": "fièvre (comme chaud)",
+    "hu": "láz (mint forró)",
+    "id": "demam (panas)",
+    "it": "febbre (come caldo)",
+    "ja": "熱す",
+    "ko": "발열(뜨거운 경우)",
+    "lt": "karščiavimas (karštas)",
+    "lv": "drudzis (kā karsts)",
+    "nb": "feber (som varm)",
+    "nl": "koorts (als heet)",
+    "pl": "gorączka (jak gorąco)",
+    "pt": "febre (como calor)",
+    "ro": "febră (ca fierbinte)",
+    "ru": "жар (как при горячке)",
+    "sk": "horúčka (ako horúca)",
+    "sl": "vročina (kot vročina)",
+    "sv": "feber (som het)",
+    "tr": "ateş (sıcak olarak)",
+    "uk": "лихоманка (як гаряче)",
+    "zh": "发热"
+  },
+  "hebrew": "חַרְחֻר",
+  "verses": [
+    "deuteronomy 28:22:5"
+  ]
+}

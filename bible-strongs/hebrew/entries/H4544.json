@@ -1,0 +1,42 @@
+{
+  "number": "H4544",
+  "language": "hebrew",
+  "transliteration": "miçkênuth",
+  "pronunciation": "mis-kay-nooth'",
+  "definition": "indigence",
+  "kjvTranslation": "scarceness.",
+  "hebrew": "מִסְכֵּנֻת",
+  "verses": [
+    "deuteronomy 8:9:3"
+  ],
+  "translations": {
+    "bg": "недоимък",
+    "cs": "chudoba",
+    "da": "fattigdom",
+    "de": "bedürftigkeit",
+    "el": "ένδεια",
+    "es": "indigencia",
+    "et": "vaesus",
+    "fi": "puute",
+    "fr": "indigence",
+    "hu": "rászorultság",
+    "id": "ketidakmampuan",
+    "it": "indigenza",
+    "ja": "窮乏",
+    "ko": "빈곤",
+    "lt": "nepriteklius",
+    "lv": "nabadzība",
+    "nb": "fattigdom",
+    "nl": "behoeftigheid",
+    "pl": "niezamożność",
+    "pt": "indigência",
+    "ro": "indigență",
+    "ru": "нехватка",
+    "sk": "chudoba",
+    "sl": "revščina",
+    "sv": "indigence",
+    "tr": "yoksulluk",
+    "uk": "бідність",
+    "zh": "贫穷"
+  }
+}

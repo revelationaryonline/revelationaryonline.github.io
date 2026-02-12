@@ -1,0 +1,42 @@
+{
+  "number": "H5507",
+  "language": "hebrew",
+  "transliteration": "çôchêrâh",
+  "pronunciation": "so-khay-raw'",
+  "definition": "something surrounding the person, i.e. a shield",
+  "kjvTranslation": "buckler.",
+  "hebrew": "סֹחֵרָה",
+  "translations": {
+    "bg": "нещо, което заобикаля лицето, например щит",
+    "cs": "něco, co obklopuje osobu, tj. štít",
+    "da": "noget, der omgiver personen, f.eks. et skjold",
+    "de": "etwas, das die Person umgibt, z. B. ein Schild",
+    "el": "κάτι που περιβάλλει το άτομο, π.χ. μια ασπίδα",
+    "es": "algo que rodea a la persona, es decir, un escudo",
+    "et": "midagi, mis ümbritseb isikut, st kilp",
+    "fi": "jotain, joka ympäröi henkilöä, eli kilpi",
+    "fr": "quelque chose qui entoure la personne, par exemple un bouclier",
+    "hu": "valami, ami körülveszi a személyt, pl. egy pajzs",
+    "id": "sesuatu yang mengelilingi orang tersebut, misalnya perisai",
+    "it": "qualcosa che circonda la persona, cioè uno scudo",
+    "ja": "盾",
+    "ko": "사람을 둘러싼 무언가, 예: 방패",
+    "lt": "kažkas, kas supa asmenį, t. y. skydas",
+    "lv": "kaut kas ap personu, t. i., vairogs",
+    "nb": "noe som omgir personen, f.eks. et skjold",
+    "nl": "iets dat de persoon omringt, d.w.z. een schild",
+    "pl": "coś otaczającego osobę, np. tarcza",
+    "pt": "algo que rodeia a pessoa, ou seja, um escudo",
+    "ro": "ceva care înconjoară persoana, de exemplu un scut",
+    "ru": "нечто, окружающее человека, т.е. щит",
+    "sk": "niečo, čo obklopuje osobu, t. j. štít",
+    "sl": "nekaj, kar obdaja osebo, npr. ščit",
+    "sv": "något som omger personen, t.ex. en sköld",
+    "tr": "kişiyi çevreleyen bir şey, örneğin bir kalkan",
+    "uk": "щось, що оточує людину, тобто щит",
+    "zh": "人的周围的东西，即盾牌"
+  },
+  "verses": [
+    "psalms 91:4:7"
+  ]
+}

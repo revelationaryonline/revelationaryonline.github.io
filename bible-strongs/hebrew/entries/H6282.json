@@ -1,0 +1,43 @@
+{
+  "number": "H6282",
+  "language": "hebrew",
+  "transliteration": "ʻâthâr",
+  "pronunciation": "aw-thawr'",
+  "definition": "incense (as increasing to a volume of smoke); hence  a worshipper",
+  "kjvTranslation": "suppliant, thick.",
+  "hebrew": "עָתָר",
+  "translations": {
+    "bg": "тамян (като увеличаване на количеството дим); оттук и поклонник",
+    "cs": "kadidlo (jako zvětšující se objem kouře); proto uctívač",
+    "da": "røgelse (som forøges til en mængde røg); derfor en tilbeder",
+    "de": "weihrauch (als Zunahme der Rauchmenge); daher ein Anbeter",
+    "el": "θυμίαμα (ως αύξηση σε όγκο καπνού), άρα ένας πιστός",
+    "es": "incienso (como aumento a un volumen de humo); de ahí un adorador",
+    "et": "suitsutus (nagu suureneb suitsu maht); seega kummardaja",
+    "fi": "suitsukkeet (savun määrän kasvattaminen); siis palvoja",
+    "fr": "encens (comme augmentant le volume de fumée) ; donc un adorateur",
+    "hu": "füstölő (mint a füst mennyiségének növekedése); ezért egy imádó",
+    "id": "dupa (seperti meningkat menjadi volume asap); karenanya seorang penyembah",
+    "it": "incenso (come aumento di un volume di fumo); quindi un adoratore",
+    "ja": "香（煙の量が増えることから）、つまり礼拝者",
+    "ko": "향 (연기의 양이 늘어남에 따라); 따라서 숭배자",
+    "lt": "smilkalai (kaip dūmų kiekio padidinimas); taigi garbintojas",
+    "lv": "vīraks (kā dūmu apjoma palielināšana); tātad pielūdzējs",
+    "nb": "røkelse (som øker til et volum av røyk); derav en tilbedende",
+    "nl": "wierook (als toenemend tot een hoeveelheid rook); vandaar een aanbidder",
+    "pl": "kadzidło (jako zwiększające objętość dymu); stąd czciciel",
+    "pt": "incenso (como aumento de um volume de fumo); portanto, um adorador",
+    "ro": "tămâie (ca crescând la un volum de fum); deci un închinător",
+    "ru": "благовоние (как увеличивающийся в объеме дым); отсюда - поклоняющийся",
+    "sk": "kadidlo (ako zväčšenie objemu dymu); teda uctievač",
+    "sl": "kadilo (kot povečanje količine dima); torej častilca",
+    "sv": "rökelse (som ökar till en volym av rök); därmed en tillbedjare",
+    "tr": "tütsü (bir duman hacmine yükselmek gibi); dolayısıyla bir ibadet eden",
+    "uk": "фіміам (як збільшення до об'єму диму); звідси - той, хто поклоняється",
+    "zh": "香（增加到烟量）；因此是一个崇拜者"
+  },
+  "verses": [
+    "ezekiel 8:11:15",
+    "zephaniah 3:10:3"
+  ]
+}

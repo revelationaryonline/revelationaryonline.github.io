@@ -1,0 +1,42 @@
+{
+  "number": "H2237",
+  "language": "hebrew",
+  "transliteration": "zârar",
+  "pronunciation": "zaw-rar'",
+  "definition": "perhaps to diffuse, i.e. (specifically) to sneeze",
+  "kjvTranslation": "sneeze.",
+  "translations": {
+    "bg": "може би да се разпръсне, т.е. (конкретно) да кихне",
+    "cs": "snad rozptýlit, tj. (konkrétně) kýchnout",
+    "da": "måske at sprede, dvs. (specifikt) at nyse",
+    "de": "vielleicht zu verbreiten, d.h. (speziell) zu niesen",
+    "el": "ίσως να διαχέω, δηλαδή (συγκεκριμένα) να φτερνίζομαι",
+    "es": "tal vez difundir, es decir (específicamente) estornudar",
+    "et": "ehk hajutada, s.t. (konkreetselt) aevastama",
+    "fi": "ehkä levittää, eli (nimenomaan) aivastella",
+    "fr": "peut-être pour diffuser, c'est-à-dire (spécifiquement) pour éternuer",
+    "hu": "talán szórni, azaz (konkrétan) tüsszenteni",
+    "id": "mungkin untuk menyebar, yaitu (secara khusus) untuk bersin",
+    "it": "forse per diffondere, cioè (nello specifico) per starnutire",
+    "ja": "おそらく拡散する、つまり（具体的には）くしゃみをする",
+    "ko": "아마도 확산, 즉 (특히) 재채기를 위해",
+    "lt": "galbūt išsklaidyti, t. y. (konkrečiai) čiaudėti",
+    "lv": "varbūt izkliedēt, t.i., (īpaši) šķaudīt",
+    "nb": "kanskje å diffundere, dvs. (spesifikt) å nyse",
+    "nl": "misschien verspreiden, d.w.z. (specifiek) niezen",
+    "pl": "może rozpraszać, tj. (konkretnie) kichać",
+    "pt": "talvez para difundir, ou seja (especificamente) para espirrar",
+    "ro": "poate să difuzeze, adică (în special) să strănute",
+    "ru": "возможно, рассеиваться, т.е. (конкретно) чихать",
+    "sk": "možno rozptýliť, t. j. (konkrétne) kýchnuť",
+    "sl": "morda razpršiti, tj. (posebej) kihniti",
+    "sv": "kanske att sprida, dvs. (specifikt) att nysa",
+    "tr": "belki yaymak, yani (özellikle) hapşırmak",
+    "uk": "можливо, дифундувати, тобто (конкретно) чхати",
+    "zh": "也许是扩散，即（具体地说）打喷嚏"
+  },
+  "hebrew": "זָרַר",
+  "verses": [
+    "secondKings 4:35:10"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H626",
+  "language": "hebrew",
+  "transliteration": "ʼăçêphâh",
+  "pronunciation": "as-ay-faw'",
+  "definition": "a collection of people (only adverbial)",
+  "kjvTranslation": "[idiom] together.",
+  "translations": {
+    "bg": "сбор от хора (само наречие)",
+    "cs": "soubor lidí (pouze příslovečné určení)",
+    "da": "en samling mennesker (kun adverbial)",
+    "de": "eine Ansammlung von Menschen (nur adverbial)",
+    "el": "μια συλλογή ανθρώπων (μόνο επιρρηματικό)",
+    "es": "un conjunto de personas (sólo adverbial)",
+    "et": "inimeste kogum (ainult adverbiaal)",
+    "fi": "kokoelma ihmisiä (vain adverbiaali)",
+    "fr": "un ensemble de personnes (uniquement adverbial)",
+    "hu": "emberek gyűjteménye (csak határozószó)",
+    "id": "kumpulan orang (hanya kata keterangan)",
+    "it": "un insieme di persone (solo avverbiale)",
+    "ja": "人の集まり（副詞のみ）",
+    "ko": "사람들의 집합(부사만 해당)",
+    "lt": "žmonių grupė (tik su prieveiksmiais)",
+    "lv": "cilvēku kopums (tikai apstākļa vārds)",
+    "nb": "en samling mennesker (kun adverbial)",
+    "nl": "een verzameling mensen (alleen bijwoordelijk)",
+    "pl": "zbiór ludzi (tylko przysłówek)",
+    "pt": "um conjunto de pessoas (apenas adverbial)",
+    "ro": "o colecție de oameni (numai adverbial)",
+    "ru": "собрание людей (только наречие)",
+    "sk": "súbor ľudí (len príslovkové určenie)",
+    "sl": "zbirka ljudi (samo prislovno določilo)",
+    "sv": "en samling människor (endast adverbial)",
+    "tr": "bir insan topluluğu (sadece zarf)",
+    "uk": "сукупність людей (тільки прислівник)",
+    "zh": "云集"
+  },
+  "hebrew": "אֲסֵפָה",
+  "verses": [
+    "isaiah 24:22:1"
+  ]
+}

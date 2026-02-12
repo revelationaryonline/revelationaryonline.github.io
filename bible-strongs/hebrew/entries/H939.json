@@ -1,0 +1,42 @@
+{
+  "number": "H939",
+  "language": "hebrew",
+  "transliteration": "bûwzâh",
+  "pronunciation": "boo-zaw'",
+  "definition": "something scorned; an object of contempt",
+  "kjvTranslation": "despised.",
+  "translations": {
+    "bg": "нещо презряно; обект на презрение",
+    "cs": "něco opovrhovaného; předmět opovržení",
+    "da": "noget foragtet; et objekt for foragt",
+    "de": "etwas Verachtetes; ein Objekt der Verachtung",
+    "el": "κάτι περιφρονημένο- αντικείμενο περιφρόνησης",
+    "es": "algo despreciado; un objeto de desprecio",
+    "et": "midagi põlatud; põlguse objekt",
+    "fi": "jotain halveksittua; halveksunnan kohde",
+    "fr": "quelque chose de méprisé ; un objet de mépris",
+    "hu": "valami megvetett; a megvetés tárgya",
+    "id": "sesuatu yang dicemooh; objek penghinaan",
+    "it": "qualcosa di disprezzato; un oggetto di disprezzo",
+    "ja": "軽蔑の対象",
+    "ko": "경멸하는 것; 경멸의 대상",
+    "lt": "kažkas paniekintas; paniekos objektas",
+    "lv": "kaut kas nicināts; nicinājuma objekts",
+    "nb": "noe foraktet; et objekt for forakt",
+    "nl": "iets geminachts; een voorwerp van minachting",
+    "pl": "coś wzgardzonego; obiekt pogardy",
+    "pt": "algo desprezado; um objeto de desprezo",
+    "ro": "ceva disprețuit; un obiect de dispreț",
+    "ru": "нечто презираемое; объект презрения",
+    "sk": "niečo opovrhované; predmet opovrhnutia",
+    "sl": "nekaj zaničevanja; predmet prezira",
+    "sv": "något hånat; ett föremål för förakt",
+    "tr": "küçümsenen bir şey; aşağılama nesnesi",
+    "uk": "щось зневажуване; об'єкт презирства",
+    "zh": "被鄙视的对象"
+  },
+  "hebrew": "בּוּזָה",
+  "verses": [
+    "nehemiah 3:36:4"
+  ]
+}

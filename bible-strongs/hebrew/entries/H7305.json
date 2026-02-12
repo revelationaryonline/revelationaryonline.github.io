@@ -1,0 +1,43 @@
+{
+  "number": "H7305",
+  "language": "hebrew",
+  "transliteration": "revach",
+  "pronunciation": "reh'-vakh",
+  "definition": "room, literally (an interval) or figuratively (deliverance)",
+  "kjvTranslation": "enlargement, space.",
+  "hebrew": "רֶוַח",
+  "translations": {
+    "bg": "стая, буквално (интервал) или преносно (освобождение)",
+    "cs": "místnost, doslova (přestávka) nebo obrazně (vysvobození)",
+    "da": "rum, bogstaveligt (et interval) eller i overført betydning (udfrielse)",
+    "de": "raum, wörtlich (eine Pause) oder im übertragenen Sinne (Befreiung)",
+    "el": "δωμάτιο, κυριολεκτικά (ένα διάστημα) ή μεταφορικά (απελευθέρωση)",
+    "es": "habitación, literalmente (un intervalo) o en sentido figurado (liberación)",
+    "et": "tuba, sõna otseses mõttes (vaheaeg) või ülekantud tähenduses (vabanemine)",
+    "fi": "huone, kirjaimellisesti (väli) tai kuvaannollisesti (vapautus)",
+    "fr": "chambre, au sens propre (intervalle) ou au sens figuré (délivrance)",
+    "hu": "szoba, szó szerint (szünet) vagy átvitt értelemben (szabadulás)",
+    "id": "ruang, secara harfiah (interval) atau kiasan (pembebasan)",
+    "it": "stanza, letteralmente (un intervallo) o in senso figurato (liberazione)",
+    "ja": "部屋、文字通り（間隔）または比喩的（解放）",
+    "ko": "방, 문자 그대로(간격) 또는 비유적으로(구출)",
+    "lt": "kambarys, tiesiogine prasme (pertrauka) arba perkeltine prasme (išlaisvinimas)",
+    "lv": "telpa, burtiski (intervāls) vai pārnestā nozīmē (atbrīvošana)",
+    "nb": "rom, bokstavelig talt (et intervall) eller i overført betydning (befrielse)",
+    "nl": "kamer, letterlijk (een pauze) of figuurlijk (bevrijding)",
+    "pl": "pokój, dosłownie (przerwa) lub w przenośni (wyzwolenie)",
+    "pt": "quarto, literalmente (um intervalo) ou figurativamente (libertação)",
+    "ro": "cameră, la propriu (un interval) sau la figurat (eliberare)",
+    "ru": "комната, буквально (промежуток) или фигурально (избавление)",
+    "sk": "izba, doslovne (prestávka) alebo obrazne (vyslobodenie)",
+    "sl": "soba, dobesedno (presledek) ali v prenesenem pomenu (osvoboditev)",
+    "sv": "rum, bokstavligen (ett intervall) eller bildligt (befrielse)",
+    "tr": "oda, gerçek anlamda (bir aralık) veya mecazi anlamda (kurtuluş)",
+    "uk": "кімната, буквально (проміжок) або в переносному значенні (визволення)",
+    "zh": "室，字面意思（间隔）或比喻（解脱）"
+  },
+  "verses": [
+    "genesis 32:17:11",
+    "esther 4:14:6"
+  ]
+}

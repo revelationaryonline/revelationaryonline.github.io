@@ -1,0 +1,43 @@
+{
+  "number": "H6478",
+  "language": "hebrew",
+  "transliteration": "pâtsal",
+  "pronunciation": "paw-tsal'",
+  "definition": "to peel",
+  "kjvTranslation": "pill.",
+  "hebrew": "פָּצַל",
+  "translations": {
+    "bg": "да се обели",
+    "cs": "loupat",
+    "da": "at skrælle",
+    "de": "zu schälen",
+    "el": "να ξεφλουδίσω",
+    "es": "pelar",
+    "et": "koorida",
+    "fi": "kuoria",
+    "fr": "éplucher",
+    "hu": "hámozni",
+    "id": "untuk mengupas",
+    "it": "sbucciare",
+    "ja": "皮をむく",
+    "ko": "껍질을 벗기려면",
+    "lt": "nulupti",
+    "lv": "nomizot",
+    "nb": "å skrelle",
+    "nl": "schillen",
+    "pl": "obierać",
+    "pt": "para descascar",
+    "ro": "a decoji",
+    "ru": "очищать",
+    "sk": "olúpať",
+    "sl": "olupiti",
+    "sv": "för att skala",
+    "tr": "soymak için",
+    "uk": "щоб почистити",
+    "zh": "去皮"
+  },
+  "verses": [
+    "genesis 30:37:8",
+    "genesis 30:38:4"
+  ]
+}

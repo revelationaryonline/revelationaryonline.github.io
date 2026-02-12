@@ -1,0 +1,42 @@
+{
+  "number": "H8249",
+  "language": "hebrew",
+  "transliteration": "shiqquv",
+  "pronunciation": "shif-koov'",
+  "definition": "(plural collective) a draught",
+  "kjvTranslation": "drink.",
+  "hebrew": "שִׁקֻּו",
+  "translations": {
+    "bg": "(в множествено число колективно) draught",
+    "cs": "(množné číslo hromadné) a draught",
+    "da": "(flertal kollektiv) et træk",
+    "de": "(Plural kollektiv) ein Tiefgang",
+    "el": "(πληθυντικός αριθμός συλλογικών) ένα βαρέλι",
+    "es": "(plural colectivo) una calada",
+    "et": "(mitmuses kollektiivne) tõmbe",
+    "fi": "(monikko kollektiivinen) veto",
+    "fr": "(collectif pluriel) un courant d'air",
+    "hu": "(többes számban gyűjtőnéven) huzat",
+    "id": "(jamak kolektif) sebuah konsep",
+    "it": "(plurale collettivo) una corrente d'aria",
+    "ja": "一口",
+    "ko": "(복수 집합) 초안",
+    "lt": "(daugiskaita kolektyvinė) a draught",
+    "lv": "(daudzskaitlī kopā) draiveris",
+    "nb": "(flertall kollektiv) et trekk",
+    "nl": "(meervoud collectief) een tocht",
+    "pl": "(liczba mnoga zbiorowa) zanurzenie",
+    "pt": "(plural coletivo) um calado",
+    "ro": "(plural colectiv) o ciorbă",
+    "ru": "(множественное число) сквозняк",
+    "sk": "(množné číslo kolektívne) prievan",
+    "sl": "(množina kolektivnih imen) a draught",
+    "sv": "(plural kollektiv) ett drag",
+    "tr": "(çoğul kolektif) bir taslak",
+    "uk": "(множина збірний) тяга",
+    "zh": "吃水"
+  },
+  "verses": [
+    "psalms 102:10:4"
+  ]
+}

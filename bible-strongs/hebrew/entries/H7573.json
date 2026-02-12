@@ -1,0 +1,42 @@
+{
+  "number": "H7573",
+  "language": "hebrew",
+  "transliteration": "râtham",
+  "pronunciation": "raw-tham'",
+  "definition": "to yoke up (to the pole of a vehicle)",
+  "kjvTranslation": "bind.",
+  "hebrew": "רָתַם",
+  "translations": {
+    "bg": "да се прикачи (към стълба на превозно средство)",
+    "cs": "připojit (ke sloupu vozidla)",
+    "da": "at koble sig på (til stangen på et køretøj)",
+    "de": "ankoppeln (an die Stange eines Fahrzeugs)",
+    "el": "να συνδέσετε (με τον στύλο ενός οχήματος)",
+    "es": "enganchar (al poste de un vehículo)",
+    "et": "(sõiduki poldi külge) juppida",
+    "fi": "kytkeä (ajoneuvon pylvääseen)",
+    "fr": "atteler (au mât d'un véhicule)",
+    "hu": "felkötni (egy jármű rúdjára)",
+    "id": "untuk mengikat (ke tiang kendaraan)",
+    "it": "aggiogare (al palo di un veicolo)",
+    "ja": "ヨークアップする",
+    "ko": "(차량의 기둥에) 멍에를 매다",
+    "lt": "prikabinti (prie transporto priemonės stulpo)",
+    "lv": "pieslēgt (pie transportlīdzekļa staba)",
+    "nb": "å koble seg til (til stangen på et kjøretøy)",
+    "nl": "aankoppelen (aan de paal van een voertuig)",
+    "pl": "podłączyć (do bieguna pojazdu)",
+    "pt": "atrelagem (ao poste de um veículo)",
+    "ro": "a înhăma (la stâlpul unui vehicul)",
+    "ru": "прицеплять (к стойке транспортного средства)",
+    "sk": "pripojiť (k tyči vozidla)",
+    "sl": "priklopiti (na drog vozila)",
+    "sv": "att koppla (till stolpen på ett fordon)",
+    "tr": "boyunduruklamak (bir aracın direğine)",
+    "uk": "прив'язувати (до стовпа транспортного засобу)",
+    "zh": "挂车杆"
+  },
+  "verses": [
+    "micah 1:13:0"
+  ]
+}

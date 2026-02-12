@@ -1,0 +1,42 @@
+{
+  "number": "H5583",
+  "language": "hebrew",
+  "transliteration": "çᵉʻad",
+  "pronunciation": "seh-ad'",
+  "definition": "to aid",
+  "kjvTranslation": "helping.",
+  "hebrew": "סְעַד",
+  "translations": {
+    "bg": "да помага",
+    "cs": "na pomoc",
+    "da": "for at hjælpe",
+    "de": "zu unterstützen",
+    "el": "να βοηθήσει",
+    "es": "para ayudar",
+    "et": "abi andmiseks",
+    "fi": "auttamaan",
+    "fr": "pour aider",
+    "hu": "a segítségnyújtás érdekében",
+    "id": "untuk membantu",
+    "it": "per aiutare",
+    "ja": "援助",
+    "ko": "지원",
+    "lt": "padėti",
+    "lv": "palīdzēt",
+    "nb": "for å hjelpe",
+    "nl": "om te helpen",
+    "pl": "pomoc",
+    "pt": "para ajudar",
+    "ro": "pentru a ajuta",
+    "ru": "помогать",
+    "sk": "na pomoc",
+    "sl": "za pomoč",
+    "sv": "till hjälp",
+    "tr": "yardım etmek için",
+    "uk": "щоб допомогти",
+    "zh": "帮助"
+  },
+  "verses": [
+    "ezra 5:2:19"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7407",
+  "language": "hebrew",
+  "transliteration": "rôkeç",
+  "pronunciation": "ro'-kes",
+  "definition": "a snare (as of tied meshes)",
+  "kjvTranslation": "pride.",
+  "hebrew": "רֹכֶס",
+  "translations": {
+    "bg": "примка (за вързани мрежи)",
+    "cs": "nástraha (jako svázaná oka)",
+    "da": "en snare (som af bundne masker)",
+    "de": "eine Schlinge (wie bei gebundenen Maschen)",
+    "el": "μια παγίδα (όπως των δεμένων ματιών)",
+    "es": "un lazo (como de mallas atadas)",
+    "et": "lõksu (nagu seotud võrgusilmad)",
+    "fi": "paula (kuten sidotut silmät)",
+    "fr": "un collet (comme des mailles nouées)",
+    "hu": "csapda (mint a kötött hálószemek)",
+    "id": "jerat (seperti jerat yang diikat)",
+    "it": "una trappola (come per le maglie legate)",
+    "ja": "羂",
+    "ko": "올가미(묶인 메시 기준)",
+    "lt": "spąstai (iš surištų akių)",
+    "lv": "cilpa (kā no sasietām acīm)",
+    "nb": "en snare (som av bundne masker)",
+    "nl": "een strik (als van gebonden mazen)",
+    "pl": "sidła (z wiązanych oczek)",
+    "pt": "um laço (de malhas atadas)",
+    "ro": "un laț (ca de ochiuri legate)",
+    "ru": "силки (в виде связанных сеток)",
+    "sk": "nástraha (ako zviazané oká)",
+    "sl": "zanka (kot vezane mreže)",
+    "sv": "en snara (som av bundna maskor)",
+    "tr": "bir tuzak (bağlı ağlar gibi)",
+    "uk": "пастка (у вигляді зв'язаних сіток)",
+    "zh": "牢笼"
+  },
+  "verses": [
+    "psalms 31:21:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8207",
+  "language": "hebrew",
+  "transliteration": "shᵉphîyphôn",
+  "pronunciation": "shef-ee-fone'",
+  "definition": "a kind of serpent (as snapping), probably the cerastes or horned adder",
+  "kjvTranslation": "adder.",
+  "hebrew": "שְׁפִיפֹן",
+  "translations": {
+    "bg": "вид змия (като щракаща), вероятно церастес или рогата змия",
+    "cs": "druh hada (jako užovka), pravděpodobně zmije rohatá (cerastes)",
+    "da": "en slags slange (som snapper), sandsynligvis cerastes eller hornorm",
+    "de": "eine Schlangenart (als Schnapper), wahrscheinlich die Cerastes oder Hornotter",
+    "el": "ένα είδος φιδιού (όπως το αρπαχτικό), πιθανώς το cerastes ή η κεράτινη οχιά",
+    "es": "una especie de serpiente (como la serpiente chasqueadora), probablemente la cerastes o víbora cornuda",
+    "et": "mingi madu (nagu nakatav), tõenäoliselt cerastes või sarvedega adder",
+    "fi": "eräänlainen käärme (kuten naksahtava), luultavasti cerastes tai sarvikäärme",
+    "fr": "une sorte de serpent (comme le serpent à sonnettes), probablement le cerastes ou la vipère cornue",
+    "hu": "egy kígyófajta (mint a csattogó), valószínűleg a cerastes vagy a szarvasbika",
+    "id": "sejenis ular (seperti gertakan), mungkin cerastes atau penambah bertanduk",
+    "it": "un tipo di serpente (come schioppettante), probabilmente il ceraste o la vipera cornuta",
+    "ja": "角蛇",
+    "ko": "뱀의 일종 (스냅으로), 아마도 세라 스트 또는 뿔이있는 가산기",
+    "lt": "gyvatė (kaip spragsinti), tikriausiai cerastes arba raguotoji smauglė",
+    "lv": "čūsku suga (kā plīstoša čūska), iespējams, cerastes jeb ragainais plēsoņzirgs",
+    "nb": "en slags slange (som snapping), sannsynligvis cerastes eller hornorm",
+    "nl": "een soort slang, waarschijnlijk de cerastes of gehoornde adder",
+    "pl": "rodzaj węża (jak kłapouchy), prawdopodobnie cerastes lub żmija rogata",
+    "pt": "uma espécie de serpente (como a que estala), provavelmente o cerastes ou víbora chifruda",
+    "ro": "un fel de șarpe (ca șarpele care pocnește), probabil cerastes sau vipera cu coarne",
+    "ru": "разновидность змеи (как щелкающая), вероятно, cerastes или рогатая гадюка",
+    "sk": "druh hada (ako chňapavý), pravdepodobne zmija rohatá (cerastes)",
+    "sl": "vrsta kače (kot prasketajoča), verjetno cerastes ali rogata kača",
+    "sv": "ett slags orm (som snappar), troligen cerastes eller hornorm",
+    "tr": "bir tür yılan (çıtırdayan), muhtemelen cerastes veya boynuzlu yılan",
+    "uk": "різновид змії (як клацання), ймовірно, церастес або рогата гадюка",
+    "zh": "一种蛇（如鳄鱼），可能是角蝰或蝰蛇"
+  },
+  "verses": [
+    "genesis 49:17:5"
+  ]
+}

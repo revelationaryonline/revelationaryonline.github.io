@@ -1,0 +1,42 @@
+{
+  "number": "H6749",
+  "language": "hebrew",
+  "transliteration": "tsâlal",
+  "pronunciation": "tsaw-lal'",
+  "definition": "properly, to tumble down, i.e. settle by awaving motion",
+  "kjvTranslation": "sink. Compare H6750 (צָלַל), H6751 (צָלַל).",
+  "hebrew": "צָלַל",
+  "translations": {
+    "bg": "правилно, да падне, т.е. да се утаи чрез махащо движение",
+    "cs": "správně padat dolů, tj. usazovat se vlnivým pohybem",
+    "da": "korrekt, at tumle ned, dvs. sætte sig ved bølgende bevægelse",
+    "de": "richtig: umfallen, d.h. sich durch eine wogende Bewegung absetzen",
+    "el": "σωστά, να πέσει κάτω, δηλαδή να κατακαθίσει με κίνηση κύματος",
+    "es": "propiamente, caer, es decir, asentarse con un movimiento ondulante",
+    "et": "õigesti, kukkuda, st settida lainetava liikumise abil",
+    "fi": "oikein, kaatua alas eli asettua aaltoilevalla liikkeellä",
+    "fr": "à proprement parler, tomber, c'est-à-dire se déposer par un mouvement d'ondulation",
+    "hu": "helyesen, lezuhanni, azaz hullámzó mozgással leülepedni",
+    "id": "dengan benar, untuk jatuh ke bawah, yaitu menetap dengan gerakan melambai",
+    "it": "propriamente, cadere, cioè depositarsi per effetto del movimento ondulatorio",
+    "ja": "正しくは、転がり落ちる、つまり波打つような動きで落ち着く",
+    "ko": "제대로, 넘어지다, 즉 손을 흔들어 안정시키다",
+    "lt": "tinkamai, nukristi žemyn, t. y. nusėsti banguojančiu judesiu",
+    "lv": "pareizi - krist, t.i., nosēsties, veicot viļņveidīgu kustību",
+    "nb": "riktig, å falle ned, dvs. sette seg ved bølgende bevegelse",
+    "nl": "naar behoren, naar beneden tuimelen, d.w.z. zich vestigen door een golvende beweging",
+    "pl": "prawidłowo, spadać, tj. osiadać przez ruch falujący",
+    "pt": "propriamente, tombar, ou seja, assentar por movimento ondulatório",
+    "ro": "în mod corespunzător, să se prăbușească, adică să se așeze prin mișcare de ridicare",
+    "ru": "правильно, опускаться, т.е. оседать при колебательном движении",
+    "sk": "správne, spadnúť, t. j. usadiť sa vlnivým pohybom",
+    "sl": "pravilno, padati navzdol, tj. usedati se z valovitim gibanjem",
+    "sv": "korrekt, att tumla ner, dvs. sätta sig genom svävande rörelse",
+    "tr": "düzgün bir şekilde, aşağı yuvarlanmak, yani sallanma hareketiyle yerleşmek",
+    "uk": "правильно, падати вниз, тобто осідати розмашистим рухом",
+    "zh": "正确地说，是滚落，即通过摆动而沉降"
+  },
+  "verses": [
+    "exodus 15:10:4"
+  ]
+}

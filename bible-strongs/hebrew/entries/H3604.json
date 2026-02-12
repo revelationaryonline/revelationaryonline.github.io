@@ -1,0 +1,42 @@
+{
+  "number": "H3604",
+  "language": "hebrew",
+  "transliteration": "kikkêr",
+  "pronunciation": "kik-kare'",
+  "definition": "a talent",
+  "kjvTranslation": "talent.",
+  "translations": {
+    "bg": "талант",
+    "cs": "talent",
+    "da": "et talent",
+    "de": "ein Talent",
+    "el": "ένα ταλέντο",
+    "es": "un talento",
+    "et": "talent",
+    "fi": "lahjakkuus",
+    "fr": "un talent",
+    "hu": "egy tehetség",
+    "id": "bakat",
+    "it": "un talento",
+    "ja": "才能",
+    "ko": "재능",
+    "lt": "talentas",
+    "lv": "talants",
+    "nb": "et talent",
+    "nl": "een talent",
+    "pl": "talent",
+    "pt": "um talento",
+    "ro": "un talent",
+    "ru": "талант",
+    "sk": "talent",
+    "sl": "talent",
+    "sv": "en talang",
+    "tr": "bir yetenek",
+    "uk": "талант",
+    "zh": "人才"
+  },
+  "hebrew": "כִּכֵּר",
+  "verses": [
+    "ezra 7:22:2"
+  ]
+}

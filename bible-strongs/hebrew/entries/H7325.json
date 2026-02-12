@@ -1,0 +1,42 @@
+{
+  "number": "H7325",
+  "language": "hebrew",
+  "transliteration": "rûwr",
+  "pronunciation": "roor",
+  "definition": "to slaver (with spittle), i.e. (by analogy) to emit afluid (ulcerous or natural)",
+  "kjvTranslation": "run.",
+  "hebrew": "רוּר",
+  "translations": {
+    "bg": "да изхвърля (слюнка), т.е. (по аналогия) да отделя течност (язвена или естествена)",
+    "cs": "otročit (slinami), tj. (analogicky) vypouštět tekutinu (vředovou nebo přirozenou)",
+    "da": "at slave (med spyt), dvs. (analogt) at udsende væske (ulcerøs eller naturlig)",
+    "de": "sabbern (mit Spucke), d.h. (sinngemäß) eine Flüssigkeit (geschwürig oder natürlich) ausstoßen",
+    "el": "να δουλέψω (με σάλιο), δηλαδή (κατ' αναλογία) να εκπέμψω ένα υγρό (ελκώδες ή φυσικό)",
+    "es": "escupir (con saliva), es decir (por analogía) emitir afluente (ulceroso o natural)",
+    "et": "slaveerida (süljega), st (analoogiliselt) eritada vedelikku (haavandilist või loomulikku)",
+    "fi": "sylkeä (syljellä), eli (analogisesti) erittää nestettä (haavaista tai luonnollista)",
+    "fr": "de cracher (avec la salive), c'est-à-dire (par analogie) d'émettre un fluide (ulcéreux ou naturel)",
+    "hu": "szlávozni (nyállal), azaz (analógia szerint) folyékony (fekélyes vagy természetes) anyagot üríteni",
+    "id": "untuk memperbudak (dengan ludah), yaitu (dengan analogi) mengeluarkan cairan (maag atau alami)",
+    "it": "schiavizzare (con la saliva), cioè (per analogia) emettere un fluido (ulceroso o naturale)",
+    "ja": "唾液で）どろどろにする、すなわち（類推して）（潰瘍性または天然の）液体を出す",
+    "ko": "노예 (침으로), 즉 (비유적으로) 액체 (궤양 또는 자연적)를 방출하는 것",
+    "lt": "vergauti (su seilėmis), t. y. (pagal analogiją) išskirti skysčius (opinius ar natūralius)",
+    "lv": "slaistīties (ar siekalām), t.i. (pēc analoģijas) izdalīt šķidrumu (čūlainu vai dabisku)",
+    "nb": "å slaver (med spytt), dvs. (analogt) å avgi væske (ulcerøs eller naturlig)",
+    "nl": "om (met speeksel) te zwoegen, d.w.z. (naar analogie) om (zwerende of natuurlijke) vloeistof af te geven",
+    "pl": "do slaver (with spittle), tj. (przez analogię) do wydzielania płynu (wrzodowego lub naturalnego)",
+    "pt": "escravisar (com saliva), ou seja (por analogia) emitir um fluido (ulceroso ou natural)",
+    "ro": "a scuipa (cu scuipat), adică (prin analogie) a emite afluent (ulceros sau natural)",
+    "ru": "рабствовать (с плевком), т.е. (по аналогии) выделять жидкость (язвенную или естественную)",
+    "sk": "slziť (slinami), t. j. (analogicky) vylučovať tekutinu (vredovú alebo prirodzenú)",
+    "sl": "slačiti (s slino), tj. (po analogiji) izločati tekočino (razjedo ali naravno)",
+    "sv": "att slavera (med spott), dvs. (analogt) att avge vätska (ulcerös eller naturlig)",
+    "tr": "(tükürük ile) köleleştirmek, yani (benzetme yoluyla) sıvı (ülserli veya doğal) yaymak",
+    "uk": "відхаркувати (з плювком), тобто (за аналогією) виділяти рідину (виразкову або природну)",
+    "zh": "分泌（溃疡性或自然的）液体"
+  },
+  "verses": [
+    "leviticus 15:3:4"
+  ]
+}

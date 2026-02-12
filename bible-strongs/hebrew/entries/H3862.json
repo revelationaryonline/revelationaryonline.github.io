@@ -1,0 +1,42 @@
+{
+  "number": "H3862",
+  "language": "hebrew",
+  "transliteration": "lahăqâh",
+  "pronunciation": "lah-hak-aw'",
+  "definition": "an assembly",
+  "kjvTranslation": "company.",
+  "hebrew": "לַהֲקָה",
+  "translations": {
+    "bg": "сглобяване",
+    "cs": "sestava",
+    "da": "en forsamling",
+    "de": "eine Baugruppe",
+    "el": "μια συναρμολόγηση",
+    "es": "una asamblea",
+    "et": "kokkupanek",
+    "fi": "kokoonpano",
+    "fr": "une assemblée",
+    "hu": "egy gyülekezet",
+    "id": "perakitan",
+    "it": "un'assemblea",
+    "ja": "アセンブリー",
+    "ko": "어셈블리",
+    "lt": "surinkimas",
+    "lv": "montāža",
+    "nb": "en forsamling",
+    "nl": "een assemblage",
+    "pl": "montaż",
+    "pt": "um conjunto",
+    "ro": "un ansamblu",
+    "ru": "сборка",
+    "sk": "montáž",
+    "sl": "sestava",
+    "sv": "en församling",
+    "tr": "bir montaj",
+    "uk": "збори",
+    "zh": "一个大会"
+  },
+  "verses": [
+    "firstSamuel 19:20:8"
+  ]
+}

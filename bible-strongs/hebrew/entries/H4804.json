@@ -1,0 +1,42 @@
+{
+  "number": "H4804",
+  "language": "hebrew",
+  "transliteration": "mᵉraṭ",
+  "pronunciation": "mer-at'",
+  "definition": "to pull off",
+  "kjvTranslation": "be plucked.",
+  "hebrew": "מְרַט",
+  "translations": {
+    "bg": "да се справи",
+    "cs": "vyřadit z provozu",
+    "da": "at trække sig ud",
+    "de": "zu schaffen",
+    "el": "για να τα καταφέρει",
+    "es": "para llevar a cabo",
+    "et": "ära tõmmata",
+    "fi": "onnistua",
+    "fr": "à retirer",
+    "hu": "...hogy véghezvigyük..",
+    "id": "untuk melakukan",
+    "it": "di tirare fuori",
+    "ja": "引き出す",
+    "ko": "를 사용하여",
+    "lt": "ištraukti",
+    "lv": "izvilkt",
+    "nb": "for å få til",
+    "nl": "om af te trekken",
+    "pl": "ściągnąć",
+    "pt": "para fazer",
+    "ro": "pentru a scoate",
+    "ru": "вырваться",
+    "sk": "vyradiť",
+    "sl": "da bi se izmuznil",
+    "sv": "att dra av",
+    "tr": "çekip çıkarmak için",
+    "uk": "щоб витягнути",
+    "zh": "得以实现"
+  },
+  "verses": [
+    "daniel 7:4:10"
+  ]
+}

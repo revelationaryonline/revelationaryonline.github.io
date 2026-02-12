@@ -1,0 +1,42 @@
+{
+  "number": "H2826",
+  "language": "hebrew",
+  "transliteration": "châshal",
+  "pronunciation": "khaw-shal'",
+  "definition": "to make (intrans. be) unsteady, i.e. weak",
+  "kjvTranslation": "feeble.",
+  "translations": {
+    "bg": "да направи (да бъде) нестабилен, т.е. слаб",
+    "cs": "učinit (intrans. být) nestabilním, tj. slabým",
+    "da": "at gøre (intrans. være) ustabil, dvs. svag",
+    "de": "unbeständig, d.h. schwach machen (intrans. sein)",
+    "el": "να κάνω (intrans. να είμαι) ασταθές, δηλαδή αδύναμο",
+    "es": "hacer (intrans. ser) inestable, es decir, débil",
+    "et": "muuta (intrans. olla) ebastabiilseks, st nõrgaks",
+    "fi": "tehdä (intrans. olla) epävakaaksi, ts. heikoksi",
+    "fr": "rendre (intrans. être) instable, c'est-à-dire faible",
+    "hu": "bizonytalanná, azaz gyengévé tenni (intransz. lenni)",
+    "id": "membuat (intrans. menjadi) goyah, yaitu lemah",
+    "it": "rendere (intrans. essere) instabile, cioè debole",
+    "ja": "不安定にする、つまり弱くする",
+    "ko": "불안정하게 만들다, 즉 약하게 만들다",
+    "lt": "padaryti (intrans. būti) nestabilų, t. y. silpną",
+    "lv": "padarīt (intrans. būt) nestabilu, t.i., vāju",
+    "nb": "å gjøre (intrans. være) ustø, dvs. svak",
+    "nl": "onvast maken (intrans. zijn), d.w.z. zwak maken",
+    "pl": "sprawić (intrans. być) niestabilnym, tj. słabym",
+    "pt": "tornar (intrans. ser) instável, ou seja, fraco",
+    "ro": "a face (intrans. a fi) instabil, adică slab",
+    "ru": "делать неустойчивым, т.е. слабым",
+    "sk": "urobiť (intrans. byť) nestabilným, t. j. slabým",
+    "sl": "narediti (intrans. biti) nestabilen, tj. šibek",
+    "sv": "att göra (intrans. vara) ostadig, dvs. svag",
+    "tr": "kararsız, yani zayıf hale getirmek (intrans. be)",
+    "uk": "робити (інтр. бути) нестійким, тобто слабким",
+    "zh": "使(intrans. be)不稳定，即虚弱"
+  },
+  "hebrew": "חָשַׁל",
+  "verses": [
+    "deuteronomy 25:18:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2422",
+  "language": "hebrew",
+  "transliteration": "châyeh",
+  "pronunciation": "khaw-yeh'",
+  "definition": "vigorous",
+  "kjvTranslation": "lively.",
+  "translations": {
+    "bg": "енергичен",
+    "cs": "energický",
+    "da": "kraftig",
+    "de": "starke",
+    "el": "σθεναρή",
+    "es": "vigoroso",
+    "et": "jõuline",
+    "fi": "voimakas",
+    "fr": "vigoureux",
+    "hu": "erőteljes",
+    "id": "kuat",
+    "it": "vigoroso",
+    "ja": "精力的",
+    "ko": "활발한",
+    "lt": "energingas",
+    "lv": "enerģisks",
+    "nb": "kraftig",
+    "nl": "krachtige",
+    "pl": "energiczny",
+    "pt": "vigoroso",
+    "ro": "viguros",
+    "ru": "энергичный",
+    "sk": "energický",
+    "sl": "živahno",
+    "sv": "kraftfull",
+    "tr": "kuvvetli",
+    "uk": "енергійний",
+    "zh": "茁壮"
+  },
+  "hebrew": "חָיֶה",
+  "verses": [
+    "exodus 1:19:10"
+  ]
+}

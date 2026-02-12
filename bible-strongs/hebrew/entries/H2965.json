@@ -1,0 +1,42 @@
+{
+  "number": "H2965",
+  "language": "hebrew",
+  "transliteration": "ṭârâph",
+  "pronunciation": "taw-rawf'",
+  "definition": "recently torn off, i.e. fresh",
+  "kjvTranslation": "pluckt off.",
+  "translations": {
+    "bg": "наскоро откъснати, т.е. пресни",
+    "cs": "nedávno utržený, tj. čerstvý",
+    "da": "nyligt revet af, dvs. frisk",
+    "de": "kürzlich abgerissen, d.h. frisch",
+    "el": "πρόσφατα αποκολλημένα, δηλ. φρέσκα",
+    "es": "recién arrancado, es decir, fresco",
+    "et": "hiljuti maha rebitud, st värske",
+    "fi": "hiljattain irti revitty, toisin sanoen tuore",
+    "fr": "récemment arraché, c'est-à-dire frais",
+    "hu": "nemrégiben letépett, azaz friss",
+    "id": "baru saja dirobek, yaitu segar",
+    "it": "strappato di recente, cioè fresco",
+    "ja": "引き裂かれたばかり、つまり新鮮な",
+    "ko": "최근에 찢어진, 즉 신선한",
+    "lt": "neseniai nuplėštas, t. y. šviežias",
+    "lv": "nesen noplēsts, t. i., svaigs",
+    "nb": "nylig revet av, dvs. fersk",
+    "nl": "onlangs afgescheurd, d.w.z. vers",
+    "pl": "niedawno oderwane, tj. świeże",
+    "pt": "recentemente arrancado, ou seja, fresco",
+    "ro": "recent smulsă, adică proaspătă",
+    "ru": "недавно оторванный, т.е. свежий",
+    "sk": "nedávno odtrhnuté, t. j. čerstvé",
+    "sl": "pred kratkim odtrgana, tj. sveža",
+    "sv": "nyligen avriven, d.v.s. färsk",
+    "tr": "yakın zamanda koparılmış, yani taze",
+    "uk": "нещодавно зірвані, тобто свіжі",
+    "zh": "新近撕下的，即新鲜的"
+  },
+  "hebrew": "טָרָף",
+  "verses": [
+    "genesis 8:11:8"
+  ]
+}

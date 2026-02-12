@@ -1,0 +1,42 @@
+{
+  "number": "H1164",
+  "language": "hebrew",
+  "transliteration": "bᵉʻîy",
+  "pronunciation": "beh-ee'",
+  "definition": "a prayer",
+  "kjvTranslation": "grave.",
+  "translations": {
+    "bg": "молитва",
+    "cs": "modlitba",
+    "da": "en bøn",
+    "de": "ein Gebet",
+    "el": "μια προσευχή",
+    "es": "una oración",
+    "et": "palve",
+    "fi": "rukous",
+    "fr": "une prière",
+    "hu": "egy ima",
+    "id": "sebuah doa",
+    "it": "una preghiera",
+    "ja": "祈り",
+    "ko": "기도",
+    "lt": "malda",
+    "lv": "lūgšana",
+    "nb": "en bønn",
+    "nl": "een gebed",
+    "pl": "modlitwa",
+    "pt": "uma oração",
+    "ro": "o rugăciune",
+    "ru": "молитва",
+    "sk": "modlitba",
+    "sl": "molitev",
+    "sv": "en bön",
+    "tr": "bir dua",
+    "uk": "молитву",
+    "zh": "祈祷"
+  },
+  "hebrew": "בְּעִי",
+  "verses": [
+    "job 30:24:2"
+  ]
+}

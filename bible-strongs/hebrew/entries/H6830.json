@@ -1,0 +1,42 @@
+{
+  "number": "H6830",
+  "language": "hebrew",
+  "transliteration": "tsᵉphôwnîy",
+  "pronunciation": "tsef-o-nee'",
+  "definition": "northern",
+  "kjvTranslation": "northern.",
+  "hebrew": "צְפוֹנִי",
+  "translations": {
+    "bg": "северен",
+    "cs": "severní",
+    "da": "nordlige",
+    "de": "norden",
+    "el": "βόρεια",
+    "es": "norte",
+    "et": "põhja",
+    "fi": "pohjoinen",
+    "fr": "nordique",
+    "hu": "északi",
+    "id": "utara",
+    "it": "nord",
+    "ja": "ノーザン",
+    "ko": "북부",
+    "lt": "šiaurinė",
+    "lv": "ziemeļu",
+    "nb": "nordlige",
+    "nl": "noordelijk",
+    "pl": "północny",
+    "pt": "setentrional",
+    "ro": "nordice",
+    "ru": "север",
+    "sk": "severná",
+    "sl": "severni",
+    "sv": "norra",
+    "tr": "kuzey",
+    "uk": "північний",
+    "zh": "北部"
+  },
+  "verses": [
+    "joel 2:20:1"
+  ]
+}

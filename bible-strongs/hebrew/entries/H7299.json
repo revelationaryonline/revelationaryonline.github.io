@@ -1,0 +1,43 @@
+{
+  "number": "H7299",
+  "language": "hebrew",
+  "transliteration": "rêv",
+  "pronunciation": "rave",
+  "definition": "aspect",
+  "kjvTranslation": "form.",
+  "hebrew": "רֵו",
+  "translations": {
+    "bg": "аспект",
+    "cs": "aspekt",
+    "da": "aspekt",
+    "de": "aspekt",
+    "el": "πτυχή",
+    "es": "aspecto",
+    "et": "aspekt",
+    "fi": "näkökohta",
+    "fr": "aspect",
+    "hu": "aspect",
+    "id": "aspek",
+    "it": "aspetto",
+    "ja": "側面",
+    "ko": "측면",
+    "lt": "aspektas",
+    "lv": "aspekts",
+    "nb": "aspekt",
+    "nl": "aspect",
+    "pl": "aspekt",
+    "pt": "aspeto",
+    "ro": "aspect",
+    "ru": "аспект",
+    "sk": "aspekt",
+    "sl": "vidik",
+    "sv": "aspekt",
+    "tr": "yön",
+    "uk": "аспект",
+    "zh": "侧面"
+  },
+  "verses": [
+    "daniel 2:31:15",
+    "daniel 3:25:15"
+  ]
+}

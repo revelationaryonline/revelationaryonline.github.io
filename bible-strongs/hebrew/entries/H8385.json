@@ -1,0 +1,43 @@
+{
+  "number": "H8385",
+  "language": "hebrew",
+  "transliteration": "taʼănâh",
+  "pronunciation": "tah-an-aw'",
+  "definition": "an opportunity or (subjectively) purpose",
+  "kjvTranslation": "occasion.",
+  "hebrew": "תַּאֲנָה",
+  "translations": {
+    "bg": "възможност или (субективно) цел",
+    "cs": "příležitost nebo (subjektivně) účel",
+    "da": "en mulighed eller et (subjektivt) formål",
+    "de": "eine Gelegenheit oder ein (subjektives) Ziel",
+    "el": "μια ευκαιρία ή (υποκειμενικά) ένας σκοπός",
+    "es": "una oportunidad o un propósito (subjetivo)",
+    "et": "võimalus või (subjektiivne) eesmärk",
+    "fi": "mahdollisuus tai (subjektiivinen) tarkoitus",
+    "fr": "une opportunité ou un objectif (subjectif)",
+    "hu": "lehetőség vagy (szubjektív) cél",
+    "id": "kesempatan atau tujuan (secara subyektif)",
+    "it": "un'opportunità o uno scopo (soggettivo)",
+    "ja": "機会または（主観的な）目的",
+    "ko": "기회 또는 (주관적) 목적",
+    "lt": "galimybė arba (subjektyvus) tikslas",
+    "lv": "iespēja vai (subjektīvi) mērķis",
+    "nb": "en mulighet eller et (subjektivt) formål",
+    "nl": "een kans of (subjectief) doel",
+    "pl": "możliwość lub (subiektywnie) cel",
+    "pt": "uma oportunidade ou um objetivo (subjetivo)",
+    "ro": "o oportunitate sau un scop (subiectiv)",
+    "ru": "возможность или (субъективно) цель",
+    "sk": "príležitosť alebo (subjektívne) účel",
+    "sl": "priložnost ali (subjektivni) namen",
+    "sv": "en möjlighet eller ett (subjektivt) syfte",
+    "tr": "bir fırsat veya (öznel olarak) amaç",
+    "uk": "можливість або (суб'єктивно) мета",
+    "zh": "一个机会或（主观）目的"
+  },
+  "verses": [
+    "judges 14:4:8",
+    "jeremiah 2:24:8"
+  ]
+}

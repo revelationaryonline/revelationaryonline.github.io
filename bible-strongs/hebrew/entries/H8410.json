@@ -1,0 +1,43 @@
+{
+  "number": "H8410",
+  "language": "hebrew",
+  "transliteration": "tidhâr",
+  "pronunciation": "tid-hawr'",
+  "definition": "enduring; a species of hard-wood or lasting tree (perhaps oak)",
+  "kjvTranslation": "pine (tree).",
+  "hebrew": "תִּדְהָר",
+  "translations": {
+    "bg": "дълготраен; вид дърво с твърда дървесина или дълготрайно дърво (например дъб)",
+    "cs": "trvalý; druh tvrdého dřeva nebo trvalého stromu (např. dubu)",
+    "da": "varig; en art af hårdt træ eller et varigt træ (måske eg)",
+    "de": "beständig; eine Hartholzart oder ein beständiger Baum (vielleicht Eiche)",
+    "el": "ανθεκτικό, είδος σκληρού ξύλου ή δέντρου που διαρκεί (ίσως δρυς)",
+    "es": "perdurable; especie de madera dura o árbol perdurable (quizás roble)",
+    "et": "kestev; kõva puidu või kestva puu liik (võib-olla tamm)",
+    "fi": "kestävä; kovapuulaji tai kestävä puu (ehkä tammi)",
+    "fr": "durable ; une espèce de bois dur ou d'arbre durable (peut-être le chêne)",
+    "hu": "tartós; keményfa vagy tartós fa (esetleg tölgy)",
+    "id": "abadi; spesies kayu keras atau pohon yang tahan lama (mungkin pohon ek)",
+    "it": "duraturo; una specie di albero dal legno duro o duraturo (forse una quercia)",
+    "ja": "耐久性のある；堅木または耐久性のある木の種（おそらくオーク）",
+    "ko": "지속적; 단단한 나무 또는 오래가는 나무의 종(아마도 참나무)",
+    "lt": "ilgaamžis; kietmedžio arba ilgaamžio medžio (galbūt ąžuolo) rūšis",
+    "lv": "izturīgs; cietkoksnes vai ilgmūžīga koka (iespējams, ozola) suga",
+    "nb": "varig; en art av hardt tre eller et varig tre (kanskje eik)",
+    "nl": "blijvend; een soort van hardhout of blijvende boom (misschien eik)",
+    "pl": "trwały; gatunek twardego drewna lub trwałego drzewa (być może dębu)",
+    "pt": "duradouro; uma espécie de árvore de madeira dura ou duradoura (talvez carvalho)",
+    "ro": "durabil; specie de copac cu lemn tare sau durabil (poate stejar)",
+    "ru": "долговечный; вид твердого дерева или долговечного дерева (возможно, дуба)",
+    "sk": "trvalý; druh tvrdého dreva alebo trvalého stromu (napr. dub)",
+    "sl": "trajen; vrsta trdega lesa ali trajnega drevesa (morda hrast)",
+    "sv": "beständig; en art av lövträ eller beständigt träd (kanske ek)",
+    "tr": "kalıcı; bir tür sert ağaç veya kalıcı ağaç (belki meşe)",
+    "uk": "міцний; вид твердолистяного або довговічного дерева (можливо, дуб)",
+    "zh": "耐久性；一种硬木或耐久性树种（可能是橡木）"
+  },
+  "verses": [
+    "isaiah 41:19:10",
+    "isaiah 60:13:5"
+  ]
+}

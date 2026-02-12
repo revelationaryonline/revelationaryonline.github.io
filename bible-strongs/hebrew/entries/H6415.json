@@ -1,0 +1,42 @@
+{
+  "number": "H6415",
+  "language": "hebrew",
+  "transliteration": "pᵉlîylâh",
+  "pronunciation": "pel-ee-law'",
+  "definition": "justice",
+  "kjvTranslation": "judgment.",
+  "hebrew": "פְּלִילָה",
+  "translations": {
+    "bg": "правосъдие",
+    "cs": "spravedlnost",
+    "da": "retfærdighed",
+    "de": "justiz",
+    "el": "δικαιοσύνη",
+    "es": "justicia",
+    "et": "õiglus",
+    "fi": "oikeus",
+    "fr": "justice",
+    "hu": "igazságszolgáltatás",
+    "id": "keadilan",
+    "it": "giustizia",
+    "ja": "正義",
+    "ko": "정의",
+    "lt": "teisingumas",
+    "lv": "tiesiskums",
+    "nb": "rettferdighet",
+    "nl": "justitie",
+    "pl": "sprawiedliwość",
+    "pt": "justiça",
+    "ro": "justiție",
+    "ru": "правосудие",
+    "sk": "spravodlivosť",
+    "sl": "pravosodje",
+    "sv": "rättvisa",
+    "tr": "adalet",
+    "uk": "справедливість",
+    "zh": "司法"
+  },
+  "verses": [
+    "isaiah 16:3:4"
+  ]
+}

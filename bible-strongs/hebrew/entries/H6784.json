@@ -1,0 +1,42 @@
+{
+  "number": "H6784",
+  "language": "hebrew",
+  "transliteration": "tsâmaq",
+  "pronunciation": "tsaw-mak'",
+  "definition": "to dry up",
+  "kjvTranslation": "dry.",
+  "hebrew": "צָמַק",
+  "translations": {
+    "bg": "да изсъхне",
+    "cs": "vyschnout",
+    "da": "at tørre ud",
+    "de": "zu vertrocknen",
+    "el": "να στεγνώσει",
+    "es": "secarse",
+    "et": "kuivama",
+    "fi": "kuivumaan",
+    "fr": "se dessécher",
+    "hu": "kiszáradni",
+    "id": "untuk mengeringkan",
+    "it": "asciugarsi",
+    "ja": "乾く",
+    "ko": "말리다",
+    "lt": "išdžiūti",
+    "lv": "izžūt",
+    "nb": "å tørke inn",
+    "nl": "opdrogen",
+    "pl": "wyschnąć",
+    "pt": "secar",
+    "ro": "să se usuce",
+    "ru": "высыхать",
+    "sk": "vyschnúť",
+    "sl": "izsušiti",
+    "sv": "att torka upp",
+    "tr": "kurumak için",
+    "uk": "щоб висохнути",
+    "zh": "干涸"
+  },
+  "verses": [
+    "hosea 9:14:10"
+  ]
+}

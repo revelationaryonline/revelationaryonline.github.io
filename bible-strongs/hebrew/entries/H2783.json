@@ -1,0 +1,42 @@
+{
+  "number": "H2783",
+  "language": "hebrew",
+  "transliteration": "chărats",
+  "pronunciation": "khar-ats'",
+  "definition": "the loin (as the seat of strength)",
+  "kjvTranslation": "loin.",
+  "translations": {
+    "bg": "кръста (като място на силата)",
+    "cs": "bedra (jako sídlo síly)",
+    "da": "lænden (som sæde for styrke)",
+    "de": "die Lende (als Sitz der Kraft)",
+    "el": "η οσφύς (ως έδρα της δύναμης)",
+    "es": "el lomo (como asiento de la fuerza)",
+    "et": "konditoorium (kui tugevuse asukoht)",
+    "fi": "lantio (voiman sijaintipaikkana)",
+    "fr": "les reins (en tant que siège de la force)",
+    "hu": "az ágyék (mint az erő székhelye)",
+    "id": "pinggang (sebagai pusat kekuatan)",
+    "it": "i lombi (come sede della forza)",
+    "ja": "腰",
+    "ko": "허리(힘의 자리)",
+    "lt": "juosmens (kaip jėgos vietos)",
+    "lv": "jostasvieta (kā spēka vieta)",
+    "nb": "lenden (som sete for styrke)",
+    "nl": "de lendenen (als de zetel van kracht)",
+    "pl": "lędźwie (jako siedziba siły)",
+    "pt": "o lombo (como sede da força)",
+    "ro": "regiunea lombară (ca loc al forței)",
+    "ru": "поясница (как место силы)",
+    "sk": "bedrá (ako sídlo sily)",
+    "sl": "ledja (kot sedeža moči)",
+    "sv": "ländryggen (som säte för styrka)",
+    "tr": "bel (güç merkezi olarak)",
+    "uk": "поперек (як місце сили)",
+    "zh": "腰"
+  },
+  "hebrew": "חֲרַץ",
+  "verses": [
+    "daniel 5:6:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7827",
+  "language": "hebrew",
+  "transliteration": "shᵉchêleth",
+  "pronunciation": "shekh-ay'-leth",
+  "definition": "a scale or shell, i.e. the aromatic mussel.",
+  "kjvTranslation": "onycha.",
+  "hebrew": "שְׁחֵלֶת",
+  "translations": {
+    "bg": "люспа или черупка, например ароматната мида.",
+    "cs": "šupina nebo ulita, tj. slávka aromatická.",
+    "da": "et skæl eller en skal, f.eks. den aromatiske musling.",
+    "de": "eine Schale oder Muschel, z. B. die aromatische Muschel.",
+    "el": "μια κλίμακα ή ένα κέλυφος, π.χ. το αρωματικό μύδι.",
+    "es": "una escama o concha, es decir, el mejillón aromático.",
+    "et": "skaala või kest, st aromaatne rannakarp.",
+    "fi": "suomu tai kuori, esim. aromisimpukka.",
+    "fr": "une écaille ou une coquille, par exemple la moule aromatique.",
+    "hu": "pikkely vagy héj, azaz az aromás kagyló.",
+    "id": "sisik atau cangkang, yaitu kerang aromatik.",
+    "it": "una squama o una conchiglia, ad esempio la cozza aromatica.",
+    "ja": "アロマティック・ムール貝。",
+    "ko": "비늘이나 껍질, 즉 향기로운 홍합.",
+    "lt": "žvynelinė arba kriauklė, t. y. aromatinė midija.",
+    "lv": "zvīņa vai čaulas, t. i., aromātiskā gliemene.",
+    "nb": "et skjell, f.eks. det aromatiske blåskjellet.",
+    "nl": "een schaal of schelp, d.w.z. de aromatische mossel.",
+    "pl": "łuskę lub muszlę, np. małża aromatycznego.",
+    "pt": "uma escama ou concha, ou seja, o mexilhão aromático.",
+    "ro": "o solziță sau o cochilie, de exemplu midia aromată.",
+    "ru": "чешуя или раковина, например, ароматическая мидия.",
+    "sk": "šupina alebo lastúra, t. j. aromatická mušľa.",
+    "sl": "lupina ali školjka, npr. aromatična školjka.",
+    "sv": "ett fjäll eller skal, t.ex. den aromatiska musslan.",
+    "tr": "bir pul veya kabuk, yani aromatik midye.",
+    "uk": "луску або мушлю, тобто ароматну мідію.",
+    "zh": "鳞片或贝壳，即芳香贻贝。"
+  },
+  "verses": [
+    "exodus 30:34:8"
+  ]
+}

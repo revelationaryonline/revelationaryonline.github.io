@@ -1,0 +1,42 @@
+{
+  "number": "H3019",
+  "language": "hebrew",
+  "transliteration": "yâgîyaʻ",
+  "pronunciation": "yaw-ghee'-ah",
+  "definition": "tired",
+  "kjvTranslation": "weary.",
+  "translations": {
+    "bg": "уморен",
+    "cs": "unavený",
+    "da": "træt",
+    "de": "müde",
+    "el": "κουρασμένος",
+    "es": "cansado",
+    "et": "väsinud",
+    "fi": "väsynyt",
+    "fr": "fatigué",
+    "hu": "fáradt",
+    "id": "lelah",
+    "it": "stanco",
+    "ja": "疲れた",
+    "ko": "피곤함",
+    "lt": "pavargęs",
+    "lv": "noguris",
+    "nb": "sliten",
+    "nl": "moe",
+    "pl": "zmęczony",
+    "pt": "cansado",
+    "ro": "obosit",
+    "ru": "усталый",
+    "sk": "unavený",
+    "sl": "utrujen",
+    "sv": "trött",
+    "tr": "yorgun",
+    "uk": "втомлений",
+    "zh": "累了"
+  },
+  "hebrew": "יָגִיעַ",
+  "verses": [
+    "job 3:17:6"
+  ]
+}

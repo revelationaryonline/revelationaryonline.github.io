@@ -1,0 +1,43 @@
+{
+  "number": "H5890",
+  "language": "hebrew",
+  "transliteration": "ʻêyphâh",
+  "pronunciation": "ay-faw'",
+  "definition": "obscurity (as if from covering)",
+  "kjvTranslation": "darkness.",
+  "hebrew": "עֵיפָה",
+  "translations": {
+    "bg": "затъмнение (като от покритие)",
+    "cs": "nejasnost (jakoby ze zakrytí)",
+    "da": "uklarhed (som fra tildækning)",
+    "de": "unklarheit (wie bei einer Abdeckung)",
+    "el": "αδιαφάνεια (σαν να καλύπτεται)",
+    "es": "oscuridad (como si se cubriera)",
+    "et": "hämarus (justkui kattest)",
+    "fi": "hämäryys (ikään kuin peittäminen)",
+    "fr": "obscurité (comme s'il s'agissait d'une couverture)",
+    "hu": "homály (mintha takarásból lenne)",
+    "id": "ketidakjelasan (seolah-olah dari penutup)",
+    "it": "oscurità (come se si trattasse di una copertura)",
+    "ja": "物陰",
+    "ko": "모호함(가리는 것처럼)",
+    "lt": "neaiškumas (tarsi dėl uždengimo)",
+    "lv": "neskaidrība (it kā no aizsega)",
+    "nb": "uklarhet (som fra tildekking)",
+    "nl": "duisternis (als van bedekking)",
+    "pl": "zaciemnienie (jakby od przykrycia)",
+    "pt": "obscuridade (como se fosse uma cobertura)",
+    "ro": "obscuritate (ca de la acoperire)",
+    "ru": "неясность (как будто от покрова)",
+    "sk": "nejasnosť (akoby z obalu)",
+    "sl": "nejasnost (kot da bi bila posledica pokrivanja)",
+    "sv": "dunkelhet (som från täckning)",
+    "tr": "belirsizlik (sanki örtüden)",
+    "uk": "невідомість (ніби від прикриття)",
+    "zh": "朦胧"
+  },
+  "verses": [
+    "job 10:22:1",
+    "amos 4:13:12"
+  ]
+}

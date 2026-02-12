@@ -1,0 +1,43 @@
+{
+  "number": "H5056",
+  "language": "hebrew",
+  "transliteration": "naggâch",
+  "pronunciation": "nag-gawkh'",
+  "definition": "butting, i.e. vicious",
+  "kjvTranslation": "used (wont) to push.",
+  "hebrew": "נַגָּח",
+  "translations": {
+    "bg": "блъскане, т.е. порочно",
+    "cs": "butting, tj. zákeřný",
+    "da": "stødende, dvs. ondskabsfuld",
+    "de": "stoßen, d.h. bösartig",
+    "el": "προσκρούσεις, δηλαδή φαύλο",
+    "es": "a tope, es decir, vicioso",
+    "et": "tagumik, st. tigedad",
+    "fi": "butting, eli ilkeä",
+    "fr": "l'accolement, c'est-à-dire l'accolement vicieux",
+    "hu": "ütlegelés, azaz rosszindulatú",
+    "id": "menabrak, yaitu ganas",
+    "it": "mazzette, cioè feroci",
+    "ja": "バッティング",
+    "ko": "버팅, 즉 악의적인",
+    "lt": "užgaulus, t. y. piktybinis",
+    "lv": "butting, t.i., ļaunprātīgs",
+    "nb": "støtende, dvs. ondskapsfull",
+    "nl": "botsen, d.w.z. gemeen",
+    "pl": "butting, tj. złośliwy",
+    "pt": "de contacto, ou seja, vicioso",
+    "ro": "ciocnire, adică vicios",
+    "ru": "сбивание, т.е. порочный",
+    "sk": "butting, t. j. zlomyseľné",
+    "sl": "zlobni, tj. zlobni",
+    "sv": "stötande, d.v.s. elakartad",
+    "tr": "çarpışma, yani kısır",
+    "uk": "баттинг, тобто жорстокий",
+    "zh": "对撞，即恶性"
+  },
+  "verses": [
+    "exodus 21:29:2",
+    "exodus 21:36:4"
+  ]
+}

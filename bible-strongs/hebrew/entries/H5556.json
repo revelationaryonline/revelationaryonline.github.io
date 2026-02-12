@@ -1,0 +1,42 @@
+{
+  "number": "H5556",
+  "language": "hebrew",
+  "transliteration": "çolʻâm",
+  "pronunciation": "sol-awm'",
+  "definition": "a kind of locust (from its destructiveness)",
+  "kjvTranslation": "bald locust.",
+  "hebrew": "סׇלְעָם",
+  "translations": {
+    "bg": "вид скакалец (заради разрушителността му)",
+    "cs": "druh kobylky (podle její ničivosti)",
+    "da": "en slags græshoppe (fra dens destruktivitet)",
+    "de": "eine Art Heuschrecke (wegen ihrer Zerstörungskraft)",
+    "el": "ένα είδος ακρίδας (από την καταστροφικότητά της)",
+    "es": "una especie de langosta (por su destructividad)",
+    "et": "mingi jaanitsa liik (oma hävitavusest)",
+    "fi": "eräänlainen heinäsirkka (sen tuhovoimasta)",
+    "fr": "une sorte de sauterelle (en raison de son pouvoir destructeur)",
+    "hu": "egyfajta sáska (pusztító ereje miatt)",
+    "id": "sejenis belalang (karena sifatnya yang merusak)",
+    "it": "una specie di locusta (dalla sua distruttività)",
+    "ja": "蝗虫",
+    "ko": "메뚜기의 일종 (파괴성에서 유래)",
+    "lt": "skėrių rūšis (dėl jų destruktyvumo)",
+    "lv": "siseņu suga (no tās postošuma)",
+    "nb": "en slags gresshoppe (fra dens ødeleggelsesevne)",
+    "nl": "een soort sprinkhaan (van zijn vernielzucht)",
+    "pl": "rodzaj szarańczy (od jej niszczycielskości)",
+    "pt": "uma espécie de gafanhoto (pela sua capacidade de destruição)",
+    "ro": "un fel de lăcustă (de la distrugerea ei)",
+    "ru": "вид саранчи (от ее разрушительности)",
+    "sk": "druh kobylky (od jej ničivosti)",
+    "sl": "vrsta kobilice (zaradi njene uničevalnosti)",
+    "sv": "ett slags gräshoppa (från dess destruktivitet)",
+    "tr": "bir tür çekirge (yıkıcılığından)",
+    "uk": "різновид сарани (за своєю руйнівною силою)",
+    "zh": "蝝"
+  },
+  "verses": [
+    "leviticus 11:22:8"
+  ]
+}

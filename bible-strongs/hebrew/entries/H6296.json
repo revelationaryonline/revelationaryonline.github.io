@@ -1,0 +1,43 @@
+{
+  "number": "H6296",
+  "language": "hebrew",
+  "transliteration": "pâgar",
+  "pronunciation": "paw-gar'",
+  "definition": "to relax, i.e. become exhausted",
+  "kjvTranslation": "be faint.",
+  "hebrew": "פָּגַר",
+  "translations": {
+    "bg": "да се отпуснете, т.е. да се изтощите",
+    "cs": "uvolnit se, tj. vyčerpat se",
+    "da": "at slappe af, dvs. blive udmattet",
+    "de": "sich entspannen, d.h. erschöpft sein",
+    "el": "να χαλαρώσετε, δηλαδή να εξαντληθείτε",
+    "es": "relajarse, es decir, quedar exhausto",
+    "et": "lõõgastuda, st kurnatud olla",
+    "fi": "rentoutua, eli uupua",
+    "fr": "se détendre, c'est-à-dire s'épuiser",
+    "hu": "pihenni, azaz kimerülni",
+    "id": "untuk bersantai, yaitu menjadi lelah",
+    "it": "rilassarsi, cioè esaurirsi",
+    "ja": "疲れを癒す",
+    "ko": "긴장을 풀다, 즉 지치다",
+    "lt": "atsipalaiduoti, t. y. išsekti",
+    "lv": "atpūsties, t.i., izsmelties",
+    "nb": "å slappe av, dvs. bli utslitt",
+    "nl": "ontspannen, d.w.z. uitgeput raken",
+    "pl": "zrelaksować się, tj. stać się wyczerpanym",
+    "pt": "relaxar, ou seja, ficar exausto",
+    "ro": "să se relaxeze, adică să devină epuizat",
+    "ru": "расслабиться, т.е. устать",
+    "sk": "uvoľniť sa, t. j. vyčerpať sa",
+    "sl": "se sprostiti, tj. izčrpati",
+    "sv": "att slappna av, d.v.s. bli utmattad",
+    "tr": "rahatlamak, yani bitkin düşmek",
+    "uk": "розслабитися, тобто виснажитися",
+    "zh": "放松"
+  },
+  "verses": [
+    "firstSamuel 30:10:10",
+    "firstSamuel 30:21:6"
+  ]
+}

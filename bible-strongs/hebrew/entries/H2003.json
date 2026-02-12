@@ -1,0 +1,42 @@
+{
+  "number": "H2003",
+  "language": "hebrew",
+  "transliteration": "hâmâç",
+  "pronunciation": "haw-mawce'",
+  "definition": "a dry twig or brushwood",
+  "kjvTranslation": "melting.",
+  "translations": {
+    "bg": "суха клонка или четка",
+    "cs": "suchou větvičku nebo dřívko",
+    "da": "en tør kvist eller et stykke kvas",
+    "de": "einen trockenen Zweig oder Reisig",
+    "el": "ένα ξηρό κλαδί ή ξύλο βούρτσας",
+    "es": "una ramita seca o broza",
+    "et": "kuiv okas või võsa",
+    "fi": "kuivaa oksaa tai puuta",
+    "fr": "une brindille sèche ou des broussailles",
+    "hu": "egy száraz gally vagy ecsetfa",
+    "id": "ranting kering atau semak belukar",
+    "it": "un ramoscello secco o una sterpaglia",
+    "ja": "乾いた小枝またはブラシウッド",
+    "ko": "마른 나뭇가지나 덤불",
+    "lt": "sausa šakelė arba krūmapjovė",
+    "lv": "sausu zariņu vai krūmu malku",
+    "nb": "en tørr kvist eller kvast",
+    "nl": "een droog takje of kreupelhout",
+    "pl": "sucha gałązka lub chrust",
+    "pt": "um galho seco ou um pincel",
+    "ro": "o creangă uscată sau un lemn de perie",
+    "ru": "сухая веточка или хворост",
+    "sk": "suchá vetvička alebo drevo z krovia",
+    "sl": "suho vejico ali čopič",
+    "sv": "en torr kvist eller ett ris",
+    "tr": "kuru bir dal veya çalı çırpı",
+    "uk": "суха гілочка або хмиз",
+    "zh": "一根枯枝"
+  },
+  "hebrew": "הָמָס",
+  "verses": [
+    "isaiah 64:1:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4669",
+  "language": "hebrew",
+  "transliteration": "miphtâch",
+  "pronunciation": "mif-tawkh'",
+  "definition": "an aperture, i.e. (figuratively) utterance",
+  "kjvTranslation": "opening.",
+  "hebrew": "מִפְתָּח",
+  "translations": {
+    "bg": "отвор, т.е. (в преносен смисъл) изказване",
+    "cs": "otvor, tj. (přeneseně) výrok",
+    "da": "en åbning, dvs. (i overført betydning) en ytring",
+    "de": "eine Öffnung, d.h. (im übertragenen Sinne) eine Äußerung",
+    "el": "ένα άνοιγμα, δηλαδή (μεταφορικά) μια έκφραση",
+    "es": "una abertura, es decir (en sentido figurado) un enunciado",
+    "et": "avaus, st (piltlikult) ütlemine",
+    "fi": "aukko, eli (kuvaannollisesti) lausahdus",
+    "fr": "une ouverture, c'est-à-dire (au sens figuré) une parole",
+    "hu": "egy nyílás, azaz (átvitt értelemben) kijelentés",
+    "id": "sebuah bukaan, yaitu ucapan (kiasan)",
+    "it": "un'apertura, cioè (in senso figurato) un'affermazione",
+    "ja": "開口部",
+    "ko": "조리개, 즉 (비유적으로) 발화",
+    "lt": "angą, t. y. (perkeltine prasme) pasisakymą",
+    "lv": "atvērums, t.i., (pārnestā nozīmē) izteikums",
+    "nb": "en åpning, dvs. (i overført betydning) en ytring",
+    "nl": "een opening, d.w.z. (figuurlijk) uiting",
+    "pl": "otwór, tj. (w przenośni) wypowiedź",
+    "pt": "uma abertura, ou seja (em sentido figurado) uma expressão",
+    "ro": "o deschizătură, adică (la figurat) o exprimare",
+    "ru": "отверстие, т.е. (фигурально) высказывание",
+    "sk": "otvor, t. j. (obrazne) výrok",
+    "sl": "odprtina, tj. (v prenesenem pomenu) izrek",
+    "sv": "en öppning, dvs. (bildligt talat) ett yttrande",
+    "tr": "bir açıklık, yani (mecazi olarak) ifade",
+    "uk": "апертура, тобто (образно) висловлювання",
+    "zh": "谽谺"
+  },
+  "verses": [
+    "firstChronicles 9:27:9",
+    "proverbs 8:6:4"
+  ]
+}

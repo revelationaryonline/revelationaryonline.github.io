@@ -1,0 +1,43 @@
+{
+  "number": "H2577",
+  "language": "hebrew",
+  "transliteration": "Chămâthîy",
+  "pronunciation": "kham-aw-thee'",
+  "definition": "a Chamathite or native of Chamath",
+  "kjvTranslation": "Hamathite.",
+  "translations": {
+    "bg": "чаматски гражданин или родом от Чамат",
+    "cs": "čamathita nebo rodák z Čamáthu",
+    "da": "en chamathit eller indfødt i Chamath",
+    "de": "ein Chamathit oder Eingeborener von Chamath",
+    "el": "ένας Chamathite ή ιθαγενής του Chamath",
+    "es": "un chamathita o nativo de Chamath",
+    "et": "chamathiit või Chamathi põliselanik",
+    "fi": "chamathilainen tai Chamathista kotoisin oleva henkilö",
+    "fr": "un Chamathite ou un natif de Chamath",
+    "hu": "chamathita vagy Chamath szülötte",
+    "id": "orang Chamath atau penduduk asli Chamath",
+    "it": "un Chamathite o un nativo di Chamath",
+    "ja": "チャマス人またはチャマス出身者",
+    "ko": "차마스인 또는 차마스 출신",
+    "lt": "čamatas arba vietinis čamatas",
+    "lv": "čamatsietis jeb dzimis Čamatā",
+    "nb": "en chamathitt eller innfødt av Chamath",
+    "nl": "een Chamathiet of inwoner van Chamath",
+    "pl": "chamathita lub pochodzący z Chamath",
+    "pt": "um chamatita ou natural de Chamath",
+    "ro": "un Chamathite sau originar din Chamath",
+    "ru": "чаматиец или уроженец Чаматха",
+    "sk": "chamathita alebo rodák z Chamath",
+    "sl": "chamathit ali domačin iz Chamatha",
+    "sv": "en chamathit eller infödd i Chamath",
+    "tr": "bir Chamathite ya da Chamath yerlisi",
+    "uk": "шаматієць або уродженець Шамату",
+    "zh": "摩揭陀人"
+  },
+  "hebrew": "חֲמָתִי",
+  "verses": [
+    "genesis 10:18:5",
+    "firstChronicles 1:16:5"
+  ]
+}

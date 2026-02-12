@@ -1,0 +1,42 @@
+{
+  "number": "H1041",
+  "language": "hebrew",
+  "transliteration": "Bêyth ʻAzmâveth",
+  "pronunciation": "bayth az-maw'-veth",
+  "definition": "house of Azmaveth, a place in Palestine",
+  "kjvTranslation": "Bethaz-maveth. Compare H5820 (עַזְמָוֶת).",
+  "translations": {
+    "bg": "къща на Азмавет, място в Палестина",
+    "cs": "dům Azmaveth, místo v Palestině",
+    "da": "azmaveths hus, et sted i Palæstina",
+    "de": "haus von Azmaveth, ein Ort in Palästina",
+    "el": "σπίτι του Αζμαβέθ, ένας τόπος στην Παλαιστίνη",
+    "es": "casa de Azmaveth, un lugar en Palestina",
+    "et": "azmavethi maja, koht Palestiinas",
+    "fi": "azmavethin talo, paikka Palestiinassa",
+    "fr": "maison d'Azmaveth, lieu en Palestine",
+    "hu": "azmaveth háza, egy hely Palesztinában",
+    "id": "rumah Azmaveth, sebuah tempat di Palestina",
+    "it": "casa di Azmaveth, località della Palestina",
+    "ja": "アズマベスの家、パレスチナの地名",
+    "ko": "팔레스타인의 아즈마베스의 집, 팔레스타인의 장소",
+    "lt": "azmaveto namai, vietovė Palestinoje",
+    "lv": "azmaveta nams, vieta Palestīnā",
+    "nb": "azmavetts hus, et sted i Palestina",
+    "nl": "huis van Azmaveth, een plaats in Palestina",
+    "pl": "dom Azmaveth, miejsce w Palestynie",
+    "pt": "casa de Azmaveth, um lugar na Palestina",
+    "ro": "casa lui Azmaveth, un loc în Palestina",
+    "ru": "дом Азмавета, место в Палестине",
+    "sk": "dom Azmavet, miesto v Palestíne",
+    "sl": "hiša Azmaveth, kraj v Palestini",
+    "sv": "azmaveths hus, en plats i Palestina",
+    "tr": "azmaveth'in evi, Filistin'de bir yer",
+    "uk": "дім Азмавети, місце в Палестині",
+    "zh": "阿兹迈夫家"
+  },
+  "hebrew": "בֵּית עַזְמָוֶת",
+  "verses": [
+    "nehemiah 7:28:2"
+  ]
+}

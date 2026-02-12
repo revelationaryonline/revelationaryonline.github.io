@@ -1,0 +1,42 @@
+{
+  "number": "H4727",
+  "language": "hebrew",
+  "transliteration": "miqqâch",
+  "pronunciation": "mik-kawkh'",
+  "definition": "reception",
+  "kjvTranslation": "taking.",
+  "hebrew": "מִקָּח",
+  "translations": {
+    "bg": "рецепция",
+    "cs": "recepce",
+    "da": "modtagelse",
+    "de": "empfang",
+    "el": "υποδοχή",
+    "es": "recepción",
+    "et": "vastuvõtt",
+    "fi": "vastaanotto",
+    "fr": "réception",
+    "hu": "recepció",
+    "id": "penerimaan",
+    "it": "ricevimento",
+    "ja": "レセプション",
+    "ko": "리셉션",
+    "lt": "priėmimas",
+    "lv": "reģistratūra",
+    "nb": "mottakelse",
+    "nl": "receptie",
+    "pl": "odbiór",
+    "pt": "receção",
+    "ro": "primire",
+    "ru": "прием",
+    "sk": "recepcia",
+    "sl": "sprejem",
+    "sv": "mottagning",
+    "tr": "resepsiyon",
+    "uk": "прийом",
+    "zh": "接待"
+  },
+  "verses": [
+    "secondChronicles 19:7:15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6681",
+  "language": "hebrew",
+  "transliteration": "tsâvach",
+  "pronunciation": "tsaw-vakh'",
+  "definition": "to screech (exultingly)",
+  "kjvTranslation": "shout.",
+  "hebrew": "צָוַח",
+  "translations": {
+    "bg": "да пищи (ликуващо)",
+    "cs": "vřískat (radostně)",
+    "da": "at skrige (jublende)",
+    "de": "(jubelnd) zu kreischen",
+    "el": "να ουρλιάζω (θριαμβολογώντας)",
+    "es": "chillar (exultantemente)",
+    "et": "kriiskama (rõõmsalt)",
+    "fi": "kiljua (riemuiten)",
+    "fr": "hurler (avec exultation)",
+    "hu": "sikítani (ujjongva)",
+    "id": "memekik (dengan gembira)",
+    "it": "strillare (esultando)",
+    "ja": "わめく",
+    "ko": "비명을 지르다 (기뻐서)",
+    "lt": "klykti (džiaugsmingai)",
+    "lv": "pīkstēt (līksmi)",
+    "nb": "å skrike (jublende)",
+    "nl": "schreeuwen (uitbundig)",
+    "pl": "piszczeć (radośnie)",
+    "pt": "gritar (exultantemente)",
+    "ro": "a țipa (exultant)",
+    "ru": "визжать (ликующе)",
+    "sk": "pišťať (radostne)",
+    "sl": "piskati (navdušeno)",
+    "sv": "att skrika (jublande)",
+    "tr": "çığlık atmak (coşkuyla)",
+    "uk": "кричати (радісно)",
+    "zh": "尖叫"
+  },
+  "verses": [
+    "isaiah 42:11:11"
+  ]
+}

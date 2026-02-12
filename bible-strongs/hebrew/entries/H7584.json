@@ -1,0 +1,42 @@
+{
+  "number": "H7584",
+  "language": "hebrew",
+  "transliteration": "shaʼăvâh",
+  "pronunciation": "shah-av-aw'",
+  "definition": "a tempest (as rushing)",
+  "kjvTranslation": "desolation.",
+  "hebrew": "שַׁאֲוָה",
+  "translations": {
+    "bg": "буря (като устрем)",
+    "cs": "bouře (jako spěch)",
+    "da": "en storm (som suser)",
+    "de": "ein Sturm (als Rauschen)",
+    "el": "μια καταιγίδα (ως ορμητική)",
+    "es": "una tempestad (como precipitarse)",
+    "et": "tormi (nagu tormamine)",
+    "fi": "myrsky (ryntäyksenä)",
+    "fr": "une tempête (comme se précipiter)",
+    "hu": "vihar (mint rohanás)",
+    "id": "badai (seperti deras)",
+    "it": "una tempesta (come un impeto)",
+    "ja": "大急ぎ",
+    "ko": "폭풍우(돌진하는 것처럼)",
+    "lt": "audra (kaip veržimasis)",
+    "lv": "vētra (kā strauja)",
+    "nb": "en storm (som suser)",
+    "nl": "een storm (als razen)",
+    "pl": "burza (jak pędzi)",
+    "pt": "uma tempestade (como uma correria)",
+    "ro": "o furtună (ca graba)",
+    "ru": "буря (как порыв)",
+    "sk": "búrka (ako nápor)",
+    "sl": "vihar (kot hitenje)",
+    "sv": "en storm (som rusar)",
+    "tr": "bir fırtına (acele olarak)",
+    "uk": "буря (як стрімкий потік)",
+    "zh": "汹涌"
+  },
+  "verses": [
+    "proverbs 1:27:1"
+  ]
+}

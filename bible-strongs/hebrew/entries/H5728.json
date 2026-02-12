@@ -1,0 +1,43 @@
+{
+  "number": "H5728",
+  "language": "hebrew",
+  "transliteration": "ʻăden",
+  "pronunciation": "ad-en'",
+  "definition": "till now",
+  "kjvTranslation": "yet.",
+  "hebrew": "עֲדֶן",
+  "translations": {
+    "bg": "досега",
+    "cs": "až dosud",
+    "da": "indtil nu",
+    "de": "bis jetzt",
+    "el": "μέχρι τώρα",
+    "es": "hasta ahora",
+    "et": "siiani",
+    "fi": "tähän asti",
+    "fr": "jusqu'à présent",
+    "hu": "mostanáig",
+    "id": "sampai sekarang",
+    "it": "fino ad oggi",
+    "ja": "今まで",
+    "ko": "지금까지",
+    "lt": "iki šiol",
+    "lv": "līdz šim",
+    "nb": "til nå",
+    "nl": "tot nu toe",
+    "pl": "do teraz",
+    "pt": "até agora",
+    "ro": "până în prezent",
+    "ru": "до сих пор",
+    "sk": "až doteraz",
+    "sl": "do zdaj",
+    "sv": "fram till nu",
+    "tr": "şimdiye kadar",
+    "uk": "до цього часу",
+    "zh": "直到现在"
+  },
+  "verses": [
+    "ecclesiastes 4:2:11",
+    "ecclesiastes 4:3:4"
+  ]
+}

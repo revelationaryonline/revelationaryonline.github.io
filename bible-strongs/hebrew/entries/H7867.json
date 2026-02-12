@@ -1,0 +1,43 @@
+{
+  "number": "H7867",
+  "language": "hebrew",
+  "transliteration": "sîyb",
+  "pronunciation": "seeb",
+  "definition": "properly, to become aged, i.e. (by implication) to grow gray",
+  "kjvTranslation": "(be) grayheaded.",
+  "hebrew": "שִׂיב",
+  "translations": {
+    "bg": "правилно, да остарява, т.е. (по подразбиране) да посивява",
+    "cs": "správně, stárnout, tj. (implicitně) šedivět",
+    "da": "korrekt, at blive ældre, dvs. (underforstået) at blive gråhåret",
+    "de": "richtig, alt werden, d.h. (implizit) grau werden",
+    "el": "σωστά, γερνάω, δηλαδή (κατ' επέκταση) γκριζάρω",
+    "es": "propiamente, envejecer, es decir (implícitamente) encanecer",
+    "et": "õigesti, vananema, st (kaudselt) halliks muutuma",
+    "fi": "oikein, vanhentua, eli (implisiittisesti) harmaantua",
+    "fr": "proprement, devenir vieux, c'est-à-dire (implicitement) devenir gris",
+    "hu": "helyesen, megöregedni, azaz (értelemszerűen) megőszülni",
+    "id": "benar, menjadi tua, yaitu (dengan implikasi) menjadi beruban",
+    "it": "propriamente, invecchiare, cioè (per implicazione) ingrigirsi",
+    "ja": "白髪になる",
+    "ko": "적절하게, 노화, 즉 (암시적으로) 회색으로 변하는 것을 의미합니다",
+    "lt": "tinkamai, pasenti, t. y. (netiesiogiai) pilkėti",
+    "lv": "pareizi - novecot, t.i., (netieši) kļūt sirmam",
+    "nb": "riktig, å bli eldre, dvs. (underforstått) å bli grå",
+    "nl": "op de juiste manier, verouderen, d.w.z. (impliciet) grijs worden",
+    "pl": "prawidłowo, starzeć się, tj. (w domyśle) siwieć",
+    "pt": "propriamente dito, envelhecer, ou seja, (implicitamente) ficar grisalho",
+    "ro": "corect, a îmbătrâni, adică (implicit) a încărunți",
+    "ru": "правильно, состариться, т.е. (по смыслу) поседеть",
+    "sk": "správne, zostarnúť, t. j. (implicitne) zošedivieť",
+    "sl": "pravilno, starati se, tj. (implicitno) siviti",
+    "sv": "korrekt, att åldras, dvs. (underförstått) att bli gråhårig",
+    "tr": "uygun şekilde, yaşlanmak, yani (ima yoluyla) grileşmek",
+    "uk": "власне, старіти, тобто (за підтекстом) сивіти",
+    "zh": "适当地，变得衰老，即（暗示）变得灰暗"
+  },
+  "verses": [
+    "firstSamuel 12:2:7",
+    "job 15:10:1"
+  ]
+}

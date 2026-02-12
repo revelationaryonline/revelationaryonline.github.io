@@ -1,0 +1,42 @@
+{
+  "number": "H1258",
+  "language": "hebrew",
+  "transliteration": "bârad",
+  "pronunciation": "baw-rad'",
+  "definition": "to hail",
+  "kjvTranslation": "hail.",
+  "translations": {
+    "bg": "да викате",
+    "cs": "na krupobití",
+    "da": "til hagl",
+    "de": "zu hageln",
+    "el": "για να χαιρετίσω",
+    "es": "granizar",
+    "et": "tervitada",
+    "fi": "huudella",
+    "fr": "de grêler",
+    "hu": "a jégesőre",
+    "id": "untuk hujan es",
+    "it": "per grandinare",
+    "ja": "万歳",
+    "ko": "우박에",
+    "lt": "kruša",
+    "lv": "krusa",
+    "nb": "til hagl",
+    "nl": "naar hagel",
+    "pl": "grad",
+    "pt": "para saudar",
+    "ro": "a grindina",
+    "ru": "град",
+    "sk": "na krupobitie",
+    "sl": "za točo",
+    "sv": "att hagla",
+    "tr": "selamlamak için",
+    "uk": "щоб привітати град",
+    "zh": "下冰雹"
+  },
+  "hebrew": "בָּרַד",
+  "verses": [
+    "isaiah 32:19:0"
+  ]
+}

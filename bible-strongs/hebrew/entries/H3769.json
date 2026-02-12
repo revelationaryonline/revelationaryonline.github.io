@@ -1,0 +1,43 @@
+{
+  "number": "H3769",
+  "language": "hebrew",
+  "transliteration": "kârar",
+  "pronunciation": "kaw-rar'",
+  "definition": "to dance (i.e. whirl)",
+  "kjvTranslation": "dance(-ing).",
+  "hebrew": "כָּרַר",
+  "translations": {
+    "bg": "да танцува (т.е. да се върти)",
+    "cs": "tančit (tj. vířit)",
+    "da": "at danse (dvs. hvirvle)",
+    "de": "tanzen (d.h. wirbeln)",
+    "el": "να χορεύω (δηλ. να στροβιλίζομαι)",
+    "es": "bailar (es decir, girar)",
+    "et": "tantsida (st keerutada)",
+    "fi": "tanssimaan (eli pyörimään)",
+    "fr": "danser (c.-à-d. tourbillonner)",
+    "hu": "táncolni (azaz örvényleni)",
+    "id": "untuk menari (yaitu berputar)",
+    "it": "danzare (cioè vorticare)",
+    "ja": "踊る",
+    "ko": "춤추다(예: 소용돌이)",
+    "lt": "šokti (t. y. suktis)",
+    "lv": "dejot (t.i., virpuļot)",
+    "nb": "å danse (dvs. virvle)",
+    "nl": "dansen (d.w.z. wervelen)",
+    "pl": "tańczyć (tj. wirować)",
+    "pt": "dançar (ou seja, rodopiar)",
+    "ro": "a dansa (i.e. a se învârti)",
+    "ru": "танцевать (т.е. кружиться)",
+    "sk": "tancovať (t. j. víriť)",
+    "sl": "plesati (tj. vrteti se)",
+    "sv": "att dansa (dvs. virvla)",
+    "tr": "dans etmek (yani dönmek)",
+    "uk": "танцювати (тобто кружляти)",
+    "zh": "旋舞"
+  },
+  "verses": [
+    "secondSamuel 6:14:1",
+    "secondSamuel 6:16:17"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1208",
+  "language": "hebrew",
+  "transliteration": "bâtsôwr",
+  "pronunciation": "baw-tsore'",
+  "definition": "inaccessible, i.e. lofty",
+  "kjvTranslation": "vintage (by confusion with H1210 (בָּצִיר)).",
+  "translations": {
+    "bg": "недостъпен, т.е. възвишен",
+    "cs": "nepřístupný, tj. vznešený",
+    "da": "utilgængelig, dvs. ophøjet",
+    "de": "unzugänglich, d.h. hochgelegen",
+    "el": "απρόσιτος, δηλαδή υψηλός",
+    "es": "inaccesible, es decir, elevado",
+    "et": "kättesaamatu, st kõrgelennuline",
+    "fi": "saavuttamattomissa, ts. korkealla",
+    "fr": "inaccessible, c'est-à-dire élevé",
+    "hu": "megközelíthetetlen, azaz magasan fekvő",
+    "id": "tidak dapat diakses, yaitu tinggi",
+    "it": "inaccessibile, vale a dire elevata",
+    "ja": "手が届かない、すなわち高い",
+    "ko": "접근 불가, 즉 고상한",
+    "lt": "neprieinamas, t. y. didingas",
+    "lv": "nepieejams, t.i., augsts",
+    "nb": "utilgjengelig, dvs. høyt oppe",
+    "nl": "ontoegankelijk, d.w.z. verheven",
+    "pl": "niedostępny, tj. wyniosły",
+    "pt": "inacessível, ou seja, elevado",
+    "ro": "inaccesibil, adică înalt",
+    "ru": "недоступный, т.е. возвышенный",
+    "sk": "neprístupný, t. j. vznešený",
+    "sl": "nedostopen, tj. vzvišen",
+    "sv": "otillgänglig, d.v.s. hög",
+    "tr": "erişilemez, yani yüce",
+    "uk": "недоступні, тобто високі",
+    "zh": "高不可攀"
+  },
+  "hebrew": "בָּצוֹר",
+  "verses": [
+    "zechariah 11:2:14"
+  ]
+}

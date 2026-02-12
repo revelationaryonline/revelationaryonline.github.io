@@ -1,0 +1,43 @@
+{
+  "number": "H4226",
+  "language": "hebrew",
+  "transliteration": "mᵉchabbᵉrâh",
+  "pronunciation": "mekh-ab-ber-aw'",
+  "definition": "a joiner, i.e. brace or cramp",
+  "kjvTranslation": "coupling, joining.",
+  "hebrew": "מְחַבְּרָה",
+  "translations": {
+    "bg": "съединител, т.е. скоба или скоба",
+    "cs": "spojovací prvek, tj. výztuha nebo křeč",
+    "da": "en sammenføjning, dvs. en afstiver eller en krampe",
+    "de": "ein Verbindungselement, d.h. eine Klammer oder ein Bügel",
+    "el": "σύνδεσμος, δηλ. στήριγμα ή σύσφιξη",
+    "es": "un ensamblador, es decir, un tirante o un calambre",
+    "et": "ühendaja, s.t. tugi või krampi",
+    "fi": "liittäjä, eli tukija tai kramppi",
+    "fr": "un élément de jonction, c'est-à-dire un support ou une pince",
+    "hu": "asztalos, vagyis merevítő vagy görcsös",
+    "id": "penyambung, yaitu penjepit atau penyangga",
+    "it": "un'articolazione, cioè un sostegno o un vincolo",
+    "ja": "鎹（かすがい",
+    "ko": "조임쇠(예: 버팀대 또는 경련)",
+    "lt": "jungiamoji detalė, t. y. petnešos arba spaustukas",
+    "lv": "savienotājs, t. i., skava vai kronšteins",
+    "nb": "en snekker, dvs. en avstiver eller krampe",
+    "nl": "een verbindingsstuk, d.w.z. een schoor of klem",
+    "pl": "łącznik, tj. usztywnienie lub skurcz",
+    "pt": "uma junção, ou seja, um suporte ou grampo",
+    "ro": "un element de îmbinare, adică un suport sau o cramponare",
+    "ru": "соединитель, т.е. скоба или скоба",
+    "sk": "spojovací prvok, t. j. výstuha alebo spona",
+    "sl": "spojnik, tj. opornik ali sponka",
+    "sv": "en skarv, dvs. ett stag eller en krampa",
+    "tr": "bir birleştirici, yani destek veya kramp",
+    "uk": "з'єднувач, тобто скоба або бандаж",
+    "zh": "桁"
+  },
+  "verses": [
+    "firstChronicles 22:3:5",
+    "secondChronicles 34:11:7"
+  ]
+}

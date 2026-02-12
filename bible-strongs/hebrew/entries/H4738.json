@@ -1,0 +1,43 @@
+{
+  "number": "H4738",
+  "language": "hebrew",
+  "transliteration": "miqçâm",
+  "pronunciation": "mik-sawn'",
+  "definition": "an augury",
+  "kjvTranslation": "divination.",
+  "hebrew": "מִקְסָם",
+  "translations": {
+    "bg": "предсказание",
+    "cs": "věštba",
+    "da": "et varsel",
+    "de": "eine Vorhersage",
+    "el": "μια προφητεία",
+    "es": "un augurio",
+    "et": "ennustus",
+    "fi": "ennustus",
+    "fr": "un présage",
+    "hu": "egy jóslat",
+    "id": "sebuah augury",
+    "it": "un augurio",
+    "ja": "お告げ",
+    "ko": "어거지",
+    "lt": "pranašystė",
+    "lv": "pareģojums",
+    "nb": "et varsel",
+    "nl": "een voorteken",
+    "pl": "wróżba",
+    "pt": "um augúrio",
+    "ro": "un augur",
+    "ru": "предзнаменование",
+    "sk": "veštba",
+    "sl": "napoved",
+    "sv": "en augurie",
+    "tr": "bir kehanet",
+    "uk": "передвістя",
+    "zh": "预兆"
+  },
+  "verses": [
+    "ezekiel 12:24:7",
+    "ezekiel 13:7:4"
+  ]
+}

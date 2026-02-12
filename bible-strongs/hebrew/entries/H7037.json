@@ -1,0 +1,43 @@
+{
+  "number": "H7037",
+  "language": "hebrew",
+  "transliteration": "qallachath",
+  "pronunciation": "kal-lakh'-ath",
+  "definition": "a kettle",
+  "kjvTranslation": "caldron.",
+  "hebrew": "קַלַּחַת",
+  "translations": {
+    "bg": "чайник",
+    "cs": "konvice",
+    "da": "en kedel",
+    "de": "einen Wasserkocher",
+    "el": "ένα βραστήρα",
+    "es": "una tetera",
+    "et": "veekeetja",
+    "fi": "vedenkeitin",
+    "fr": "une bouilloire",
+    "hu": "egy vízforraló",
+    "id": "ketel",
+    "it": "un bollitore",
+    "ja": "やかん",
+    "ko": "주전자",
+    "lt": "virdulys",
+    "lv": "tējkanna",
+    "nb": "en vannkoker",
+    "nl": "een waterkoker",
+    "pl": "czajnik",
+    "pt": "uma chaleira",
+    "ro": "un ceainic",
+    "ru": "чайник",
+    "sk": "rýchlovarná kanvica",
+    "sl": "čajnik",
+    "sv": "en vattenkokare",
+    "tr": "bir su ısıtıcısı",
+    "uk": "чайник",
+    "zh": "烧水壶"
+  },
+  "verses": [
+    "firstSamuel 2:14:5",
+    "micah 3:3:15"
+  ]
+}

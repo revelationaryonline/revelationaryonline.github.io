@@ -1,0 +1,42 @@
+{
+  "number": "H4299",
+  "language": "hebrew",
+  "transliteration": "maṭveh",
+  "pronunciation": "mat-veh'",
+  "definition": "something spun",
+  "kjvTranslation": "spun.",
+  "hebrew": "מַטְוֶה",
+  "translations": {
+    "bg": "нещо се завъртя",
+    "cs": "něco se roztočilo",
+    "da": "noget spundet",
+    "de": "etwas gesponnen",
+    "el": "κάτι περιστρέφεται",
+    "es": "algo giró",
+    "et": "midagi keerutatud",
+    "fi": "jotain pyörähti",
+    "fr": "quelque chose de filé",
+    "hu": "valami pörgött",
+    "id": "sesuatu yang berputar",
+    "it": "qualcosa di filato",
+    "ja": "スピン",
+    "ko": "무언가 회전",
+    "lt": "kažkas sukasi",
+    "lv": "kaut kas savērpts",
+    "nb": "noe spunnet",
+    "nl": "iets gesponnen",
+    "pl": "coś wiruje",
+    "pt": "algo girado",
+    "ro": "ceva filat",
+    "ru": "что-то закрутилось",
+    "sk": "niečo sa roztočilo",
+    "sl": "nekaj se je zavrtelo",
+    "sv": "något snurrat",
+    "tr": "bir şey döndü",
+    "uk": "щось закрутилося",
+    "zh": "旋转的东西"
+  },
+  "verses": [
+    "exodus 35:25:7"
+  ]
+}

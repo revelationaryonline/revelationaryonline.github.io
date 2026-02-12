@@ -1,0 +1,42 @@
+{
+  "number": "H4799",
+  "language": "hebrew",
+  "transliteration": "mârach",
+  "pronunciation": "maw-rakh'",
+  "definition": "properly, to soften by rubbing or pressure; hence (medicinally) to apply as an emollient",
+  "kjvTranslation": "lay for a plaister.",
+  "hebrew": "מָרַח",
+  "translations": {
+    "bg": "правилно, да се омекоти чрез търкане или натиск; следователно (в медицината) да се прилага като омекотител",
+    "cs": "správně, změkčovat třením nebo tlakem; tedy (v lékařství) aplikovat jako změkčovadlo",
+    "da": "korrekt, at blødgøre ved gnidning eller tryk; derfor (medicinsk) at anvende som et blødgørende middel",
+    "de": "richtig: durch Reiben oder Druck erweichen; daher (medizinisch) als Erweichungsmittel anwenden",
+    "el": "κατάλληλα, να μαλακώνει με τρίψιμο ή πίεση, άρα (ιατρικά) να εφαρμόζεται ως μαλακτικό",
+    "es": "propiamente dicho, ablandar frotando o presionando; de ahí (medicinalmente) aplicar como emoliente",
+    "et": "õigesti, pehmendada hõõrumise või surve abil; seega (meditsiiniliselt) kasutada pehmendavana",
+    "fi": "oikein, pehmentää hankaamalla tai painamalla; siis (lääketieteellisesti) käyttää pehmentävänä aineena",
+    "fr": "proprement, adoucir par frottement ou pression ; donc (médicalement) appliquer comme émollient",
+    "hu": "megfelelően, dörzsöléssel vagy nyomással lágyítani; ezért (gyógyászatilag) lágyítószerként alkalmazni",
+    "id": "benar, untuk melembutkan dengan menggosok atau menekan; karenanya (secara medis) untuk digunakan sebagai emolien",
+    "it": "propriamente, ammorbidire mediante sfregamento o pressione; quindi (in medicina) applicare come emolliente",
+    "ja": "正しくは、揉んだり押したりして柔らかくする。",
+    "ko": "적절하게, 문지르거나 압력을 가하여 부드러워지다; 따라서 (의학적으로) 완화제로 바르다",
+    "lt": "tinkamai, minkštinti trinant ar spaudžiant; taigi (medicinoje) naudoti kaip minkštiklį",
+    "lv": "pareizi - mīkstināt, berzējot vai spiežot; tātad (medicīnā) lietot kā mīkstinošu līdzekli",
+    "nb": "egentlig, å mykgjøre ved å gni eller trykke; derav (medisinsk) å bruke som mykgjørende middel",
+    "nl": "op de juiste manier verzachten door wrijven of drukken; vandaar (medicinaal) aanbrengen als verzachtend middel",
+    "pl": "właściwie, zmiękczać przez pocieranie lub nacisk; stąd (medycznie) stosować jako emolient",
+    "pt": "amolecer por fricção ou pressão; portanto (medicinalmente) aplicar como emoliente",
+    "ro": "în mod corespunzător, a înmuia prin frecare sau presiune; prin urmare (în medicină) a aplica ca emolient",
+    "ru": "правильно, смягчать путем растирания или давления; следовательно (в медицине) применять в качестве смягчающего средства",
+    "sk": "správne, zmäkčiť trením alebo tlakom; preto (v medicíne) použiť ako zmäkčovadlo",
+    "sl": "pravilno, mehčati z drgnjenjem ali pritiskom; torej (v medicini) uporabljati kot mehčalec",
+    "sv": "på rätt sätt, att mjuka upp genom gnuggning eller tryck; därav (medicinskt) att applicera som mjukgörare",
+    "tr": "uygun şekilde, sürtünme veya baskı yoluyla yumuşatmak; dolayısıyla (tıbbi olarak) yumuşatıcı olarak uygulamak",
+    "uk": "правильно, розм'якшувати розтиранням або тиском; отже (у медицині) застосовувати як пом'якшувальний засіб",
+    "zh": "通过揉搓或按压来软化；因此（药用）用作润肤剂"
+  },
+  "verses": [
+    "isaiah 38:21:5"
+  ]
+}

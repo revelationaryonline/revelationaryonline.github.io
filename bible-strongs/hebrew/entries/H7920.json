@@ -1,0 +1,42 @@
+{
+  "number": "H7920",
+  "language": "hebrew",
+  "transliteration": "sᵉkal",
+  "pronunciation": "sek-al'",
+  "definition": "{to be (causatively, make or act) circumspect and hence, intelligent}",
+  "kjvTranslation": "consider.",
+  "hebrew": "שְׂכַל",
+  "translations": {
+    "bg": "{да бъдеш (в каузатив, да действаш или да бъдеш) предпазлив и следователно интелигентен}",
+    "cs": "{být (v kauzativním významu, činit nebo jednat) obezřetný, a tedy inteligentní}",
+    "da": "{at være (kausativt, gøre eller handle) forsigtig og dermed intelligent}",
+    "de": "{umsichtig (ursächlich, machen oder handeln) und somit intelligent sein}",
+    "el": "{να είσαι (αιτιωδώς, να κάνεις ή να ενεργείς) προσεκτικός και ως εκ τούτου, ευφυής}",
+    "es": "{ser (causativamente, hacer o actuar) circunspecto y, por tanto, inteligente}",
+    "et": "{(põhjuslikult, teha või tegutseda) ettevaatlik ja seega intelligentne}",
+    "fi": "{olla (kausatiivisesti, tehdä tai toimia) varovainen ja siten älykäs}",
+    "fr": "{être (causativement, faire ou agir) circonspect et donc intelligent}",
+    "hu": "{(ok-okozati viszonyban lenni, körültekintőnek lenni, tehát intelligensnek lenni}",
+    "id": "(menjadi (secara kausal, membuat atau bertindak) berhati-hati dan karenanya, cerdas)",
+    "it": "{essere (causalmente, fare o agire) cauto e quindi intelligente.}",
+    "ja": "{用心深く、したがって知的である。",
+    "ko": "{(원인적으로, 만들거나 행동하는) 신중한, 따라서 지적인}",
+    "lt": "{būti (priežastingai, būti arba veikti) apdairiam, taigi, protingam}",
+    "lv": "{būt (cēloņsakarīgi, būt vai rīkoties) apdomīgam un līdz ar to saprātīgam}",
+    "nb": "{å være (kausativt, gjøre eller handle) omtenksom og dermed intelligent}",
+    "nl": "{om voorzichtig en dus intelligent te zijn}",
+    "pl": "{być (przyczynowo, czynić lub działać) ostrożnym, a więc inteligentnym}",
+    "pt": "{ser (causativamente, fazer ou agir) circunspeto e, portanto, inteligente}",
+    "ro": "{a fi (cauzativ, a face sau a acționa) circumspect și, prin urmare, inteligent}",
+    "ru": "{быть (каузативно, делать или действовать) осмотрительным и, следовательно, умным}",
+    "sk": "{byť (kauzatívne, robiť alebo konať) obozretný, a teda inteligentný}",
+    "sl": "{biti (vzročno, biti ali delovati) previden in s tem inteligenten}",
+    "sv": "{att vara (kausativt, göra eller agera) försiktig och därmed intelligent}",
+    "tr": "(nedensel olarak, ihtiyatlı olmak ya da davranmak) ve dolayısıyla akıllı olmak}",
+    "uk": "{бути (причинно, робити або діяти) обачним і, отже, розумним}",
+    "zh": "{是（因果关系，使或行为）谨慎，因此，聪明}。"
+  },
+  "verses": [
+    "daniel 7:8:0"
+  ]
+}

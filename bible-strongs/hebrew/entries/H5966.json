@@ -1,0 +1,42 @@
+{
+  "number": "H5966",
+  "language": "hebrew",
+  "transliteration": "ʻâlaʻ",
+  "pronunciation": "aw-lah'",
+  "definition": "to sip up",
+  "kjvTranslation": "suck up.",
+  "hebrew": "עָלַע",
+  "translations": {
+    "bg": "да отпивате",
+    "cs": "usrkávat",
+    "da": "at nippe til",
+    "de": "zu schlürfen",
+    "el": "για να ρουφήξει",
+    "es": "a sorbos",
+    "et": "lonksu tõmmata",
+    "fi": "siemailla",
+    "fr": "de boire à petites gorgées",
+    "hu": "hogy felszippantsam",
+    "id": "untuk menyesap",
+    "it": "per sorseggiare",
+    "ja": "飲み干す",
+    "ko": "한 모금 마시기",
+    "lt": "atsigerti",
+    "lv": "uzsūkt",
+    "nb": "å nippe til",
+    "nl": "om op te slurpen",
+    "pl": "do popijania",
+    "pt": "para saborear",
+    "ro": "pentru a sorbi",
+    "ru": "пить",
+    "sk": "popíjať",
+    "sl": "za požirek",
+    "sv": "att sippa upp",
+    "tr": "yudumlamak için",
+    "uk": "щоб випити",
+    "zh": "啜饮"
+  },
+  "verses": [
+    "job 39:30:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4815",
+  "language": "hebrew",
+  "transliteration": "mᵉrîyrîy",
+  "pronunciation": "mer-ee-ree'",
+  "definition": "bitter, i.e. poisonous",
+  "kjvTranslation": "bitter.",
+  "hebrew": "מְרִירִי",
+  "translations": {
+    "bg": "горчив, т.е. отровен",
+    "cs": "hořký, tj. jedovatý",
+    "da": "bitter, dvs. giftig",
+    "de": "bitter, d.h. giftig",
+    "el": "πικρό, δηλ. δηλητηριώδες",
+    "es": "amargo, es decir, venenoso",
+    "et": "kibe, st mürgine",
+    "fi": "katkera eli myrkyllinen",
+    "fr": "amer, c'est-à-dire vénéneux",
+    "hu": "keserű, azaz mérgező",
+    "id": "pahit, yaitu beracun",
+    "it": "amaro, cioè velenoso",
+    "ja": "毒",
+    "ko": "쓴맛, 즉 유독성",
+    "lt": "kartūs, t. y. nuodingi",
+    "lv": "rūgts, t. i., indīgs",
+    "nb": "bitter, dvs. giftig",
+    "nl": "bitter, d.w.z. giftig",
+    "pl": "gorzki, tj. trujący",
+    "pt": "amargo, ou seja, venenoso",
+    "ro": "amar, adică otrăvitor",
+    "ru": "горький, т.е. ядовитый",
+    "sk": "horký, t. j. jedovatý",
+    "sl": "grenak, tj. strupen",
+    "sv": "bitter, d.v.s. giftig",
+    "tr": "acı, yani zehirli",
+    "uk": "гіркий, тобто отруйний",
+    "zh": "苦"
+  },
+  "verses": [
+    "deuteronomy 32:24:5"
+  ]
+}

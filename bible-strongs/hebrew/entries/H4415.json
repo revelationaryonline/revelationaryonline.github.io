@@ -1,0 +1,42 @@
+{
+  "number": "H4415",
+  "language": "hebrew",
+  "transliteration": "mᵉlach",
+  "pronunciation": "mel-akh'",
+  "definition": "to eat salt, i.e. (generally) subsist",
+  "kjvTranslation": "[phrase] have maintenance.",
+  "hebrew": "מְלַח",
+  "translations": {
+    "bg": "да се храним със сол, т.е. (обикновено) да се прехранваме",
+    "cs": "jíst sůl, tj. (obecně) se živit",
+    "da": "at spise salt, dvs. (generelt) ernære sig",
+    "de": "salz zu essen, d.h. sich (im Allgemeinen) zu ernähren",
+    "el": "να τρώτε αλάτι, δηλαδή (γενικά) να συντηρείστε",
+    "es": "comer sal, es decir (en general) subsistir",
+    "et": "süüa soola, s.t. (üldiselt) elada",
+    "fi": "syödä suolaa, eli (yleensä) elää",
+    "fr": "manger du sel, c'est-à-dire (généralement) subsister",
+    "hu": "sót enni, azaz (általában) megélni",
+    "id": "untuk makan garam, yaitu (umumnya) bertahan hidup",
+    "it": "mangiare il sale, cioè (in generale) sussistere",
+    "ja": "塩を食べる。",
+    "ko": "소금을 먹기 위해, 즉 (일반적으로) 생존하기 위해",
+    "lt": "valgyti druską, t. y. (paprastai) pragyventi",
+    "lv": "ēst sāli, t.i., (parasti) iztikt",
+    "nb": "å spise salt, dvs. (generelt) livnære seg",
+    "nl": "zout eten, d.w.z. (in het algemeen) overleven",
+    "pl": "jeść sól, tj. (ogólnie) egzystować",
+    "pt": "comer sal, ou seja, (geralmente) subsistir",
+    "ro": "a mânca sare, adică (în general) a subzista",
+    "ru": "есть соль, т.е. (вообще) жить",
+    "sk": "jesť soľ, t. j. (všeobecne) prežívať",
+    "sl": "jesti sol, tj. (na splošno) preživeti",
+    "sv": "att äta salt, dvs. (i allmänhet) livnära sig",
+    "tr": "tuz yemek, yani (genellikle) geçinmek",
+    "uk": "їсти сіль, тобто (загалом) виживати",
+    "zh": "吃盐，即（一般）维生"
+  },
+  "verses": [
+    "ezra 4:14:6"
+  ]
+}

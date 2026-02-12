@@ -1,0 +1,43 @@
+{
+  "number": "H2910",
+  "language": "hebrew",
+  "transliteration": "ṭuchâh",
+  "pronunciation": "too-khaw'",
+  "definition": "(in the plural only) the kidneys (as being covered); hence (figuratively) the inmost thought",
+  "kjvTranslation": "inward parts.",
+  "translations": {
+    "bg": "(само в множествено число) бъбреците (като покрити); оттук (в преносен смисъл) най-вътрешната мисъл",
+    "cs": "(pouze v množném čísle) ledviny (jako zakryté); odtud (přeneseně) nejvnitřnější myšlenka",
+    "da": "(kun i flertal) nyrerne (som værende dækket); derfor (i overført betydning) den inderste tanke",
+    "de": "(nur im Plural) die Nieren (als bedeckt); daher (bildlich) der innerste Gedanke",
+    "el": "(στον πληθυντικό μόνο) τα νεφρά (ως καλυμμένα)- άρα (μεταφορικά) η ενδόμυχη σκέψη",
+    "es": "(sólo en plural) los riñones (como cubiertos); de ahí (en sentido figurado) el pensamiento íntimo",
+    "et": "(ainult mitmuses) neerud (kui kaetud); seega (ülekantud tähenduses) sisemine mõte",
+    "fi": "(vain monikossa) munuaiset (peitettyinä); siis (kuvaannollisesti) sisin ajatus",
+    "fr": "(au pluriel seulement) les reins (comme étant couverts) ; d'où (au figuré) la pensée profonde",
+    "hu": "(csak többes számban) a vesék (mint fedett); tehát (átvitt értelemben) a legbelső gondolat",
+    "id": "(dalam bentuk jamak saja) ginjal (karena tertutup); oleh karena itu (secara kiasan) pikiran yang paling dalam",
+    "it": "(solo al plurale) i reni (in quanto coperti); quindi (in senso figurato) l'intimo pensiero",
+    "ja": "(複数形で)腎臓が(覆われているように); したがって(比喩的に)内側の思考",
+    "ko": "(복수형으로만) 신장 (덮여있는 것으로); 따라서 (비 유적으로) 가장 깊은 생각",
+    "lt": "(tik daugiskaita) inkstai (kaip uždengti); taigi (perkeltine prasme) vidinė mintis",
+    "lv": "(tikai daudzskaitlī) nieres (kā apsegtas); tātad (pārnestā nozīmē) iekšējās domas",
+    "nb": "(kun i flertall) nyrene (som tildekket); derav (i overført betydning) den innerste tanken",
+    "nl": "(alleen in het meervoud) de nieren (als zijnde bedekt); vandaar (figuurlijk) de diepste gedachte",
+    "pl": "(tylko w liczbie mnogiej) nerki (jako pokryte); stąd (w przenośni) najgłębsza myśl",
+    "pt": "(apenas no plural) os rins (como estando cobertos); portanto (figurativamente) o pensamento íntimo",
+    "ro": "(numai la plural) rinichii (ca fiind acoperiți); prin urmare (la figurat) gândul lăuntric",
+    "ru": "(только во множественном числе) почки (как покрытые); отсюда (образно) внутренняя мысль",
+    "sk": "(len v množnom čísle) obličky (ako zakryté); teda (obrazne) najvnútornejšie myšlienky",
+    "sl": "(samo v množini) ledvice (kot pokrite); zato (v prenesenem pomenu) notranja misel",
+    "sv": "(endast i plural) njurarna (som täckta); därav (bildligt) den innersta tanken",
+    "tr": "(sadece çoğul olarak) böbrekler (örtülü olarak); dolayısıyla (mecazi olarak) en içteki düşünce",
+    "uk": "(тільки у множині) нирки (як покриті); звідси (образно) найпотаємніша думка",
+    "zh": "(复数）肾脏（被覆盖）；因此（比喻）最深处的思想"
+  },
+  "hebrew": "טֻחָה",
+  "verses": [
+    "job 38:36:2",
+    "psalms 51:8:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4883",
+  "language": "hebrew",
+  "transliteration": "massôwr",
+  "pronunciation": "mas-sore'",
+  "definition": "a saw",
+  "kjvTranslation": "saw.",
+  "hebrew": "מַשּׂוֹר",
+  "translations": {
+    "bg": "трион",
+    "cs": "pila",
+    "da": "en sav",
+    "de": "eine Säge",
+    "el": "ένα πριόνι",
+    "es": "una sierra",
+    "et": "saag",
+    "fi": "saha",
+    "fr": "une scie",
+    "hu": "egy fűrész",
+    "id": "gergaji",
+    "it": "una sega",
+    "ja": "のこぎり",
+    "ko": "톱",
+    "lt": "pjūklas",
+    "lv": "zāģis",
+    "nb": "en sag",
+    "nl": "een zaag",
+    "pl": "piła",
+    "pt": "uma serra",
+    "ro": "un ferăstrău",
+    "ru": "пила",
+    "sk": "píla",
+    "sl": "žaga",
+    "sv": "en såg",
+    "tr": "bir testere",
+    "uk": "пила",
+    "zh": "锯"
+  },
+  "verses": [
+    "isaiah 10:15:7"
+  ]
+}

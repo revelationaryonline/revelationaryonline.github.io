@@ -1,0 +1,42 @@
+{
+  "number": "H1291",
+  "language": "hebrew",
+  "transliteration": "berek",
+  "pronunciation": "beh'-rek",
+  "definition": "{a knee}",
+  "kjvTranslation": "knee.",
+  "translations": {
+    "bg": "{коляно}",
+    "cs": "{koleno}",
+    "da": "{et knæ}",
+    "de": "(ein Knie)",
+    "el": "{ένα γόνατο}",
+    "es": "{una rodilla}",
+    "et": "{põlve}",
+    "fi": "(polvi)",
+    "fr": "{un genou}",
+    "hu": "{a térd}",
+    "id": "[lutut]",
+    "it": "{Un ginocchio.}",
+    "ja": "膝",
+    "ko": "{무릎}",
+    "lt": "{kelias}",
+    "lv": "{ceļš}",
+    "nb": "{Et kne}",
+    "nl": "{Een knie.}",
+    "pl": "{kolano}",
+    "pt": "{Um joelho}",
+    "ro": "{un genunchi}",
+    "ru": "{Колено.}",
+    "sk": "{koleno}",
+    "sl": "{koleno}",
+    "sv": "{ett knä}",
+    "tr": "{bir diz}",
+    "uk": "{Коліно.}",
+    "zh": "{一个膝盖}"
+  },
+  "hebrew": "בֶּרֶךְ",
+  "verses": [
+    "daniel 6:11:20"
+  ]
+}

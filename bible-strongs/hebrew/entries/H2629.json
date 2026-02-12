@@ -1,0 +1,43 @@
+{
+  "number": "H2629",
+  "language": "hebrew",
+  "transliteration": "châçam",
+  "pronunciation": "khaw-sam'",
+  "definition": "to muzzle; by analogy, to stop the nose",
+  "kjvTranslation": "muzzle, stop.",
+  "translations": {
+    "bg": "намордник; по аналогия - запушване на носа",
+    "cs": "nasadit náhubek; analogicky ucpat nos",
+    "da": "at lukke munden; analogt at stoppe næsen",
+    "de": "einen Maulkorb anlegen; in Analogie dazu die Nase zuhalten",
+    "el": "να βάλω φίμωτρο- κατ' αναλογία, να σταματήσω τη μύτη",
+    "es": "amordazar; por analogía, tapar la nariz",
+    "et": "suukorvi; analoogia järgi, nina kinni panemine",
+    "fi": "kuonon tukkiminen; analogisesti, nenän tukkiminen",
+    "fr": "museler ; par analogie, boucher le nez",
+    "hu": "szájkosár; analóg módon, az orr elzárása",
+    "id": "untuk menyumbat; dengan analogi, untuk menghentikan hidung",
+    "it": "mettere la museruola; per analogia, fermare il naso",
+    "ja": "鼻に口輪をする；例えるなら、鼻を止める",
+    "ko": "주둥이를 막다; 비유하자면 코를 막다",
+    "lt": "užčiaupti snukį; pagal analogiją - užspausti nosį",
+    "lv": "uzpurnis; pēc analoģijas - aizspiest degunu",
+    "nb": "å snute; analogt, å stoppe nesen",
+    "nl": "snuiten; naar analogie, de neus stoppen",
+    "pl": "do kagańca; przez analogię, do zatrzymania nosa",
+    "pt": "amordaçar; por analogia, tapar o nariz",
+    "ro": "a astupa botul; prin analogie, a astupa nasul",
+    "ru": "намордник; по аналогии - затыкать нос",
+    "sk": "nasadiť náhubok; analogicky zastaviť nos",
+    "sl": "za nagobčnik; po analogiji, za zamašitev nosu",
+    "sv": "att munstycka; analogt, att stoppa näsan",
+    "tr": "ağzını kapatmak; benzetme yoluyla, burnu durdurmak",
+    "uk": "намордувати; за аналогією, затикати ніс",
+    "zh": "口塞；类比，塞住鼻子"
+  },
+  "hebrew": "חָסַם",
+  "verses": [
+    "deuteronomy 25:4:1",
+    "ezekiel 39:11:13"
+  ]
+}

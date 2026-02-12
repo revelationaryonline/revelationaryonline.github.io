@@ -1,0 +1,43 @@
+{
+  "number": "H3723",
+  "language": "hebrew",
+  "transliteration": "kâphâr",
+  "pronunciation": "kaw-fawr'",
+  "definition": "a village (as protected by walls)",
+  "kjvTranslation": "village. Compare H3715 (כְּפִיר).",
+  "translations": {
+    "bg": "село (защитено със стени)",
+    "cs": "vesnice (chráněná hradbami)",
+    "da": "en landsby (som er beskyttet af mure)",
+    "de": "ein Dorf (wie durch Mauern geschützt)",
+    "el": "ένα χωριό (όπως προστατεύεται από τείχη)",
+    "es": "un pueblo (protegido por murallas)",
+    "et": "küla (müüridega kaitstud)",
+    "fi": "kylä (muurein suojattuna)",
+    "fr": "un village (protégé par des murs)",
+    "hu": "egy falu (falakkal védve)",
+    "id": "sebuah desa (seperti yang dilindungi oleh tembok)",
+    "it": "un villaggio (protetto da mura)",
+    "ja": "堡塁",
+    "ko": "마을(성벽으로 보호되는)",
+    "lt": "kaimas (apsaugotas sienomis)",
+    "lv": "ciemats (aizsargāts ar mūriem)",
+    "nb": "en landsby (som beskyttet av murer)",
+    "nl": "een dorp (zoals beschermd door muren)",
+    "pl": "wioska (chroniona przez mury)",
+    "pt": "uma aldeia (protegida por muros)",
+    "ro": "un sat (protejat de ziduri)",
+    "ru": "деревня (защищенная стенами)",
+    "sk": "dedina (chránená hradbami)",
+    "sl": "vas (zaščitena z obzidjem)",
+    "sv": "en by (som skyddas av murar)",
+    "tr": "bir köy (duvarlarla korunan)",
+    "uk": "село (захищене стінами)",
+    "zh": "城郭"
+  },
+  "hebrew": "כָּפָר",
+  "verses": [
+    "firstChronicles 27:25:10",
+    "solomon 7:12:5"
+  ]
+}

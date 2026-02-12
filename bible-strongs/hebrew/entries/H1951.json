@@ -1,0 +1,42 @@
+{
+  "number": "H1951",
+  "language": "hebrew",
+  "transliteration": "hûwn",
+  "pronunciation": "hoon",
+  "definition": "properly, to be naught, i.e. (figuratively) to be (causatively, act) light",
+  "kjvTranslation": "be ready.",
+  "translations": {
+    "bg": "правилно, да бъдеш нищожен, т.е. (образно) да бъдеш (причинно-следствено, действие) лек",
+    "cs": "správně být nic, tj. (přeneseně) být (kauzálně, působit) lehký",
+    "da": "korrekt, at være intet, dvs. (i overført betydning) at være (kausalt, handle) let",
+    "de": "richtig: nichtig sein, d.h. (bildlich) leicht sein (kausal, handeln)",
+    "el": "σωστά, να είναι άχρηστος, δηλαδή (μεταφορικά) να είναι (αιτιωδώς, να ενεργεί) φως",
+    "es": "propiamente, ser nada, es decir (figuradamente) ser (causalmente, actuar) ligero",
+    "et": "õigesti, olla olematu, s.t. (ülekantud tähenduses) olla (põhjuslikult, toimida) kerge",
+    "fi": "oikein, olla mitään, eli (kuvaannollisesti) olla (kausatiivisesti, toimia) kevyt",
+    "fr": "proprement, n'être rien, c'est-à-dire (au sens figuré) être (causalement, agir) léger",
+    "hu": "helyesen, semmivé lenni, azaz (átvitt értelemben) könnyűnek lenni (ok-okozati értelemben, cselekedni)",
+    "id": "benar, menjadi sia-sia, yaitu (secara kiasan) menjadi (secara kausatif, bertindak) ringan",
+    "it": "propriamente, essere nullo, cioè (in senso figurato) essere (causalmente, agire) leggero",
+    "ja": "無きに等しい",
+    "ko": "적절하게, 아무것도 아닌 것, 즉 (비 유적으로) (원인 적으로, 행동) 가볍다",
+    "lt": "tinkamai, būti niekuo, t. y. (perkeltine prasme) būti (priežastingai, veikti) šviesa",
+    "lv": "pareizi, būt nekam, t.i., (pārnestā nozīmē) būt (cēloņsakarīgi, darboties) vieglam",
+    "nb": "egentlig, å være intet, dvs. (i overført betydning) å være (kausalt, handle) lett",
+    "nl": "goed, niets zijn, d.w.z. (figuurlijk) licht zijn (causatief, handelen)",
+    "pl": "właściwie, być niczym, tj. (w przenośni) być (przyczynowo, działać) lekkim",
+    "pt": "propriamente, não ser nada, ou seja, (figurativamente) ser (causativamente, agir) leve",
+    "ro": "propriu-zis, a nu fi nimic, adică (la figurat) a fi (cauzativ, acțiune) lumină",
+    "ru": "правильно, быть ничтожным, т.е. (образно) быть (причинно, действовать) легким",
+    "sk": "správne, byť ničím, t. j. (obrazne) byť (príčinne, pôsobiť) svetlom",
+    "sl": "pravilno, biti nič, tj. (v prenesenem pomenu) biti (vzročno, delovati) lahka",
+    "sv": "korrekt, att vara intet, d.v.s. (bildligt) att vara (kausativt, agera) lätt",
+    "tr": "uygun şekilde, hiç olmak, yani (mecazi olarak) hafif olmak (nedensel olarak, hareket etmek)",
+    "uk": "власне, бути нічим, тобто (образно) бути (причинно, діяти) світлом",
+    "zh": "无，即（比喻）轻飘飘的（因果、行为"
+  },
+  "hebrew": "הוּן",
+  "verses": [
+    "deuteronomy 1:41:18"
+  ]
+}

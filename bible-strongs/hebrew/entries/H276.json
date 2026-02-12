@@ -1,0 +1,42 @@
+{
+  "number": "H276",
+  "language": "hebrew",
+  "transliteration": "ʼĂchuzzath",
+  "pronunciation": "akh-ooz-zath'",
+  "definition": "Achuzzath, a Philistine",
+  "kjvTranslation": "Ahuzzath.",
+  "translations": {
+    "bg": "Ахузат, филистимец",
+    "cs": "Achuzzat, Filištín",
+    "da": "Achuzzath, en filister",
+    "de": "Achuzath, ein Philister",
+    "el": "Achuzzath, ένας Φιλισταίος",
+    "es": "Achuzzath, un filisteo",
+    "et": "Achuzzath, vilistlane",
+    "fi": "Akuuszat, filistealainen",
+    "fr": "Achuzzath, un Philistin",
+    "hu": "Achuzzath, egy filiszteus",
+    "id": "Akhuzat, seorang Filistin",
+    "it": "Achuzzath, un filisteo",
+    "ja": "ペリシテ人アチュザト",
+    "ko": "블레셋인 아추잣",
+    "lt": "Achuzatas, filistinietis",
+    "lv": "Achuzzats, filistietis",
+    "nb": "Achuzzath, en filister",
+    "nl": "Achuzzath, een Filistijn",
+    "pl": "Achuzzath, Filistyn",
+    "pt": "Achuzzath, um filisteu",
+    "ro": "Achuzzath, un filistean",
+    "ru": "Ахуззат, филистимлянин",
+    "sk": "Achuzzat, Filištín",
+    "sl": "Achuzzath, Filistejec",
+    "sv": "Achuzzath, en filisté",
+    "tr": "Achuzzath, bir Filistli",
+    "uk": "Ахузат, филистимлянин",
+    "zh": "非利士人 Achuzzath"
+  },
+  "hebrew": "אֲחֻזַּת",
+  "verses": [
+    "genesis 26:26:4"
+  ]
+}

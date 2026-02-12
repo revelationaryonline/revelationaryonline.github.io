@@ -1,0 +1,43 @@
+{
+  "number": "H391",
+  "language": "hebrew",
+  "transliteration": "ʼakzâb",
+  "pronunciation": "ak-zawb'",
+  "definition": "falsehood; by implication treachery",
+  "kjvTranslation": "liar, lie.",
+  "translations": {
+    "bg": "лъжа; по подразбиране предателство",
+    "cs": "faleš; implicitně zrada",
+    "da": "løgn; underforstået forræderi",
+    "de": "falschheit; implizit Verrat",
+    "el": "ψέμα- με υπαινιγμό προδοσία",
+    "es": "falsedad; por implicación traición",
+    "et": "valetamine; kaudselt reetmine",
+    "fi": "valheellisuus; epäsuorasti petos",
+    "fr": "mensonge ; par implication, trahison",
+    "hu": "hazugság; értelemszerűen árulás",
+    "id": "kepalsuan; dengan implikasi pengkhianatan",
+    "it": "falsità; implicitamente tradimento",
+    "ja": "偽り、暗に裏切り",
+    "ko": "허위 사실; 암시적으로 배신",
+    "lt": "melas; netiesiogiai - išdavystė",
+    "lv": "meli; netieši nodevība",
+    "nb": "løgn; underforstått forræderi",
+    "nl": "leugen; impliciet verraad",
+    "pl": "fałsz; w domyśle zdrada",
+    "pt": "falsidade; implicitamente, traição",
+    "ro": "minciună; implicit trădare",
+    "ru": "ложь; косвенное предательство",
+    "sk": "klamstvo; implicitne zrada",
+    "sl": "laž; implicitno izdajstvo",
+    "sv": "falskhet; underförstått förräderi",
+    "tr": "sahtekarlık; ima yoluyla ihanet",
+    "uk": "неправда; підтекстом - зрада",
+    "zh": "谗言"
+  },
+  "hebrew": "אַכְזָב",
+  "verses": [
+    "jeremiah 15:18:12",
+    "micah 1:14:8"
+  ]
+}

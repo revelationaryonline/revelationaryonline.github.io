@@ -1,0 +1,42 @@
+{
+  "number": "H6080",
+  "language": "hebrew",
+  "transliteration": "ʻâphar",
+  "pronunciation": "aw-far'",
+  "definition": "to be dust",
+  "kjvTranslation": "cast (dust).",
+  "hebrew": "עָפַר",
+  "translations": {
+    "bg": "да бъдеш прах",
+    "cs": "být prachem",
+    "da": "at være støv",
+    "de": "staub zu sein",
+    "el": "να γίνει σκόνη",
+    "es": "ser polvo",
+    "et": "olla tolm",
+    "fi": "olla pölyä",
+    "fr": "être de la poussière",
+    "hu": "hogy por legyen",
+    "id": "menjadi debu",
+    "it": "essere polvere",
+    "ja": "塵になる",
+    "ko": "먼지가 되다",
+    "lt": "būti dulkėmis",
+    "lv": "būt putekļi",
+    "nb": "å være støv",
+    "nl": "om stof te zijn",
+    "pl": "być pyłem",
+    "pt": "para ser pó",
+    "ro": "să fie praf",
+    "ru": "быть пылью",
+    "sk": "byť prach",
+    "sl": "biti prah",
+    "sv": "att vara damm",
+    "tr": "toz olmak",
+    "uk": "щоб стати пилом",
+    "zh": "尘埃"
+  },
+  "verses": [
+    "secondSamuel 16:13:14"
+  ]
+}

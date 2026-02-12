@@ -1,0 +1,43 @@
+{
+  "number": "H829",
+  "language": "hebrew",
+  "transliteration": "ʼeshpâr",
+  "pronunciation": "esh-pawr'",
+  "definition": "a measured portion",
+  "kjvTranslation": "good piece (of flesh).",
+  "translations": {
+    "bg": "измерена част",
+    "cs": "odměřená část",
+    "da": "en afmålt portion",
+    "de": "eine abgemessene Portion",
+    "el": "ένα μετρούμενο τμήμα",
+    "es": "una porción medida",
+    "et": "mõõdetud osa",
+    "fi": "mitattu osuus",
+    "fr": "une partie mesurée",
+    "hu": "egy kimért rész",
+    "id": "porsi yang terukur",
+    "it": "una parte misurata",
+    "ja": "測定部分",
+    "ko": "측정된 부분",
+    "lt": "išmatuota dalis",
+    "lv": "izmērīta daļa",
+    "nb": "en avmålt porsjon",
+    "nl": "een gemeten gedeelte",
+    "pl": "zmierzona porcja",
+    "pt": "uma parte medida",
+    "ro": "o porțiune măsurată",
+    "ru": "измеряемая часть",
+    "sk": "odmeraná časť",
+    "sl": "izmerjeni del",
+    "sv": "en uppmätt del",
+    "tr": "ölçülen bir kısım",
+    "uk": "відміряна порція",
+    "zh": "测量部分"
+  },
+  "hebrew": "אֶשְׁפָּר",
+  "verses": [
+    "secondSamuel 6:19:13",
+    "firstChronicles 16:3:10"
+  ]
+}

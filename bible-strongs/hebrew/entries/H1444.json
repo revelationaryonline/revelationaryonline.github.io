@@ -1,0 +1,43 @@
+{
+  "number": "H1444",
+  "language": "hebrew",
+  "transliteration": "geder",
+  "pronunciation": "gheh'-der",
+  "definition": "a circumvallation",
+  "kjvTranslation": "wall.",
+  "translations": {
+    "bg": "обкръжение",
+    "cs": "obkružování",
+    "da": "en omkreds",
+    "de": "eine Umzingelung",
+    "el": "μια περίμετρος",
+    "es": "una circunvalación",
+    "et": "ümbermõõtmine",
+    "fi": "ympärysmitta",
+    "fr": "une circonvallation",
+    "hu": "a körüljárás",
+    "id": "sebuah sirkumvallasi",
+    "it": "una circonvallazione",
+    "ja": "円周",
+    "ko": "우회",
+    "lt": "apvadas",
+    "lv": "apļveida apvārsnis",
+    "nb": "en omkrets",
+    "nl": "een circumvallatie",
+    "pl": "obwód",
+    "pt": "uma circunvalação",
+    "ro": "o circumvalație",
+    "ru": "обводка",
+    "sk": "obkľúčenie",
+    "sl": "obkrožitev",
+    "sv": "en omringning",
+    "tr": "bir çevreleme",
+    "uk": "обхідний шлях",
+    "zh": "圆周率"
+  },
+  "hebrew": "גֶּדֶר",
+  "verses": [
+    "proverbs 24:31:7",
+    "ezekiel 42:10:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H843",
+  "language": "hebrew",
+  "transliteration": "ʼÂshêrîy",
+  "pronunciation": "aw-shay-ree'",
+  "definition": "an Asherite (collectively) or descendant of Asher",
+  "kjvTranslation": "Asherites.",
+  "translations": {
+    "bg": "ашерит (колективно) или потомък на Ашер",
+    "cs": "ašerita (souhrnně) nebo potomek Ašerův",
+    "da": "en asherit (kollektivt) eller efterkommer af Asher",
+    "de": "ein Ascherit (kollektiv) oder Nachkomme von Ascher",
+    "el": "ασερίτης (συλλογικά) ή απόγονος του Ασήρ",
+    "es": "un asherita (colectivamente) o descendiente de Asher",
+    "et": "ašeriit (kollektiivselt) või Ašeri järeltulija",
+    "fi": "asheriitti (kollektiivisesti) tai Asherin jälkeläinen",
+    "fr": "un Asherite (collectivement) ou un descendant d'Asher",
+    "hu": "asherita (kollektíven) vagy Asher leszármazottja",
+    "id": "seorang Asyer (secara kolektif) atau keturunan Asyer",
+    "it": "un Asherita (collettivamente) o discendente di Asher",
+    "ja": "アッシャー人（総称）またはアッシャーの子孫",
+    "ko": "애셔라이트(총칭) 또는 애셔의 후손",
+    "lt": "ašeritas (kolektyviai) arba Ašero palikuonis",
+    "lv": "ašerietis (kopā) vai Ašera pēcnācējs",
+    "nb": "en asheritt (kollektivt) eller etterkommer av Asher",
+    "nl": "een Asjeriet (collectief) of afstammeling van Aser",
+    "pl": "aszeryt (łącznie) lub potomek Aszera",
+    "pt": "um Asherita (coletivamente) ou descendente de Asher",
+    "ro": "un asherit (colectiv) sau descendent al lui Asher",
+    "ru": "ашерит (собирательно) или потомок Ашера",
+    "sk": "ašerita (spoločne) alebo potomok Ašera",
+    "sl": "ašerit (kolektivno) ali Ašerov potomec",
+    "sv": "en asherit (kollektivt) eller ättling till Asher",
+    "tr": "bir Aşerit (topluca) veya Aşer'in soyundan gelen",
+    "uk": "ашерит (спільно) або нащадок Ашера",
+    "zh": "亚设人"
+  },
+  "hebrew": "אָשֵׁרִי",
+  "verses": [
+    "judges 1:32:1"
+  ]
+}

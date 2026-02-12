@@ -1,0 +1,43 @@
+{
+  "number": "H5824",
+  "language": "hebrew",
+  "transliteration": "ʻizqâʼ",
+  "pronunciation": "iz-kaw'",
+  "definition": "a signet-ring (as engraved)",
+  "kjvTranslation": "signet.",
+  "hebrew": "עִזְקָא",
+  "translations": {
+    "bg": "синджир (гравиран)",
+    "cs": "pečetní prsten (vyrytý)",
+    "da": "en signetring (som indgraveret)",
+    "de": "ein Siegelring (wie eingraviert)",
+    "el": "ένα δαχτυλίδι σφραγίδας (όπως είναι χαραγμένο)",
+    "es": "un anillo de sello (como grabado)",
+    "et": "sildiga sõrmus (graveeritud kujul)",
+    "fi": "sinettisormus (kaiverrettuna)",
+    "fr": "une chevalière (telle que gravée)",
+    "hu": "pecsétgyűrű (gravírozva)",
+    "id": "cincin meterai (seperti yang terukir)",
+    "it": "un anello con sigillo (come inciso)",
+    "ja": "印環",
+    "ko": "시그넷 링(각인된 상태)",
+    "lt": "signetinis žiedas (graviruotas)",
+    "lv": "gredzens (kā iegravēts)",
+    "nb": "en signetring (som inngravert)",
+    "nl": "een zegelring (zoals gegraveerd)",
+    "pl": "sygnet (jako wygrawerowany)",
+    "pt": "um anel de sinete (como gravado)",
+    "ro": "un inel cu sigiliu (ca gravat)",
+    "ru": "перстень (с гравировкой)",
+    "sk": "pečatný prsteň (ako vyrytý)",
+    "sl": "signetni prstan (graviran)",
+    "sv": "en signetring (som graverad)",
+    "tr": "bir mühür yüzüğü (kazınmış olarak)",
+    "uk": "перстень-печатка (з гравіюванням)",
+    "zh": "钻戒"
+  },
+  "verses": [
+    "daniel 6:18:9",
+    "daniel 6:18:10"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8565",
+  "language": "hebrew",
+  "transliteration": "tan",
+  "pronunciation": "tan",
+  "definition": "a monster (as preternaturally formed), i.e. a sea-serpent (or other huge marine animal); also a jackal (or other hideous land animal)",
+  "kjvTranslation": "dragon, whale. Compare H8577 (תַּנִּין).",
+  "hebrew": "תַּן",
+  "translations": {
+    "bg": "чудовище (с необикновена форма), т.е. морски змей (или друго огромно морско животно); също чакал (или друго отвратително сухоземно животно)",
+    "cs": "nestvůra (jako předpotopní tvor), tj. mořský had (nebo jiný obrovský mořský živočich); také šakal (nebo jiný odporný suchozemský živočich)",
+    "da": "et monster (som overnaturligt dannet), dvs. en søslange (eller et andet stort havdyr); også en sjakal (eller et andet hæsligt landdyr)",
+    "de": "ein (übernatürlich geformtes) Ungeheuer, d. h. eine Seeschlange (oder ein anderes riesiges Meerestier); auch ein Schakal (oder ein anderes abscheuliches Landtier)",
+    "el": "ένα τέρας (ως υπερφυσικά διαμορφωμένο), δηλ. ένα θαλάσσιο φίδι (ή άλλο τεράστιο θαλάσσιο ζώο)- επίσης ένα τσακάλι (ή άλλο φρικτό ζώο της ξηράς)",
+    "es": "un monstruo (de forma sobrenatural), es decir, una serpiente marina (u otro animal marino enorme); también un chacal (u otro animal terrestre espantoso)",
+    "et": "koletis (kui ebaloomulikult moodustatud), s.t. meremadu (või muu hiiglaslik mereloom); ka šaakal (või muu koleda maismaaloom)",
+    "fi": "hirviö (yliluonnollisesti muodostunut), eli merikäärme (tai muu valtava merieläin); myös sakaali (tai muu kammottava maaeläin)",
+    "fr": "un monstre (comme formé de façon préternaturelle), c'est-à-dire un serpent de mer (ou un autre animal marin énorme) ; également un chacal (ou un autre animal terrestre hideux)",
+    "hu": "szörnyeteg (mint természetfeletti módon kialakult), azaz tengeri kígyó (vagy más hatalmas tengeri állat); sakál (vagy más szörnyű szárazföldi állat)",
+    "id": "monster (yang terbentuk secara alami), yaitu ular laut (atau hewan laut besar lainnya); juga serigala (atau hewan darat mengerikan lainnya)",
+    "it": "un mostro (di forma preternaturale), cioè un serpente marino (o altro animale marino enorme); anche uno sciacallo (o altro animale terrestre orrendo)",
+    "ja": "かいへび",
+    "ko": "(자연적으로 형성된) 괴물, 즉 바다뱀(또는 기타 거대한 해양 동물) 또는 자칼(또는 기타 흉측한 육지 동물)",
+    "lt": "pabaisa (kaip priešmirtinės formos), t. y. jūrų gyvatė (ar kitas didžiulis jūrų gyvūnas); taip pat šakalas (ar kitas baisus sausumos gyvūnas)",
+    "lv": "briesmonis (kā pārdabisks veidojums), t. i., jūras čūska (vai cits milzīgs jūras dzīvnieks); arī šakālis (vai cits briesmīgs sauszemes dzīvnieks)",
+    "nb": "et monster (som overnaturlig formet), dvs. en sjøorm (eller et annet enormt havdyr); også en sjakal (eller et annet heslig landdyr)",
+    "nl": "een monster (zoals bovennatuurlijk gevormd), d.w.z. een zeeslang (of ander enorm zeedier); ook een jakhals (of ander afzichtelijk landdier)",
+    "pl": "potwór (w nadnaturalnym kształcie), tj. wąż morski (lub inne ogromne zwierzę morskie); także szakal (lub inne ohydne zwierzę lądowe)",
+    "pt": "um monstro (de forma preternatural), ou seja, uma serpente marinha (ou outro animal marinho enorme); também um chacal (ou outro animal terrestre hediondo)",
+    "ro": "un monstru (ca formă preternaturală), adică un șarpe de mare (sau alt animal marin uriaș); de asemenea, un șacal (sau alt animal terestru hidos)",
+    "ru": "чудовище (сверхъестественной формы), т.е. морской змей (или другое огромное морское животное); также шакал (или другое отвратительное сухопутное животное)",
+    "sk": "netvor (ako predurčený), t. j. morský had (alebo iné obrovské morské zviera); tiež šakal (alebo iné ohavné suchozemské zviera)",
+    "sl": "pošast (kot predznanstveno oblikovana), tj. morska kača (ali druga velika morska žival); tudi šakal (ali druga ogabna kopenska žival)",
+    "sv": "ett monster (som övernaturligt format), t.ex. en sjöorm (eller annat enormt marint djur); även en schakal (eller annat ohyggligt landdjur)",
+    "tr": "bir canavar (doğaüstü bir şekilde oluşmuş olarak), yani bir deniz yılanı (veya diğer büyük deniz hayvanı); ayrıca bir çakal (veya diğer korkunç kara hayvanı)",
+    "uk": "чудовисько (у природному вигляді), тобто морський змій (або інша величезна морська тварина); також шакал (або інша огидна сухопутна тварина)",
+    "zh": "怪兽，即海蛇（或其他巨大的海洋动物）；也指豺狼（或其他狰狞的陆地动物）。"
+  },
+  "verses": [
+    "ezekiel 32:2:14"
+  ]
+}

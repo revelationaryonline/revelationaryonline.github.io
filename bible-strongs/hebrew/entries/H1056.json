@@ -1,0 +1,42 @@
+{
+  "number": "H1056",
+  "language": "hebrew",
+  "transliteration": "Bâkâʼ",
+  "pronunciation": "baw-kaw'",
+  "definition": "Baca, a valley in Palestine",
+  "kjvTranslation": "Baca.",
+  "translations": {
+    "bg": "Baca, долина в Палестина",
+    "cs": "Baca, údolí v Palestině",
+    "da": "Baca, en dal i Palæstina",
+    "de": "Baca, ein Tal in Palästina",
+    "el": "Baca, μια κοιλάδα στην Παλαιστίνη",
+    "es": "Baca, un valle en Palestina",
+    "et": "Baca, org Palestiinas",
+    "fi": "Baca, laakso Palestiinassa",
+    "fr": "Baca, vallée en Palestine",
+    "hu": "Baca, egy völgy Palesztinában",
+    "id": "Baca, sebuah lembah di Palestina",
+    "it": "Baca, una valle in Palestina",
+    "ja": "パレスチナの谷、バッカ",
+    "ko": "팔레스타인의 계곡, 바카",
+    "lt": "Baca, slėnis Palestinoje",
+    "lv": "Baca, ieleja Palestīnā",
+    "nb": "Baca, en dal i Palestina",
+    "nl": "Baca, een vallei in Palestina",
+    "pl": "Baca, dolina w Palestynie",
+    "pt": "Baca, um vale na Palestina",
+    "ro": "Baca, o vale în Palestina",
+    "ru": "Бака, долина в Палестине",
+    "sk": "Baca, údolie v Palestíne",
+    "sl": "Baca, dolina v Palestini",
+    "sv": "Baca, en dalgång i Palestina",
+    "tr": "Baca, Filistin'de bir vadi",
+    "uk": "Бака, долина в Палестині",
+    "zh": "巴卡"
+  },
+  "hebrew": "בָּכָא",
+  "verses": [
+    "psalms 84:7:2"
+  ]
+}

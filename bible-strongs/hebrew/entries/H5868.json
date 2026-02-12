@@ -1,0 +1,43 @@
+{
+  "number": "H5868",
+  "language": "hebrew",
+  "transliteration": "ʻăyâm",
+  "pronunciation": "ah-yawm'",
+  "definition": "probably meaning strength",
+  "kjvTranslation": "mighty.",
+  "hebrew": "עֲיָם",
+  "translations": {
+    "bg": "вероятно означава сила",
+    "cs": "pravděpodobně znamená sílu",
+    "da": "betyder sandsynligvis styrke",
+    "de": "bedeutet wahrscheinlich Stärke",
+    "el": "πιθανώς σημαίνει δύναμη",
+    "es": "probablemente significa fuerza",
+    "et": "tõenäoliselt tähendab see tugevust",
+    "fi": "luultavasti tarkoittaa voimaa",
+    "fr": "signifie probablement force",
+    "hu": "valószínűleg erősséget jelent",
+    "id": "mungkin berarti kekuatan",
+    "it": "probabilmente significa forza",
+    "ja": "おそらく強さを意味する",
+    "ko": "아마도 힘을 의미할 것입니다",
+    "lt": "tikriausiai reiškia jėgą",
+    "lv": "iespējams, nozīmē spēku",
+    "nb": "betyr sannsynligvis styrke",
+    "nl": "wat waarschijnlijk kracht betekent",
+    "pl": "prawdopodobnie oznacza siłę",
+    "pt": "provavelmente significa força",
+    "ro": "probabil însemnând putere",
+    "ru": "возможно, означает силу",
+    "sk": "pravdepodobne znamená silu",
+    "sl": "verjetno pomeni moč",
+    "sv": "betyder förmodligen styrka",
+    "tr": "muhtemelen güç anlamına geliyor",
+    "uk": "мабуть, означає силу",
+    "zh": "大概意思是力量"
+  },
+  "verses": [
+    "isaiah 11:15:10",
+    "hosea 10:10:8"
+  ]
+}

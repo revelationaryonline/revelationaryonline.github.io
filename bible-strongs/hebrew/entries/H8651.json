@@ -1,0 +1,43 @@
+{
+  "number": "H8651",
+  "language": "hebrew",
+  "transliteration": "tᵉraʻ",
+  "pronunciation": "ter-ah'",
+  "definition": "a door; by implication, a palace",
+  "kjvTranslation": "gate mouth.",
+  "hebrew": "תְּרַע",
+  "translations": {
+    "bg": "врата; по подразбиране - дворец",
+    "cs": "dveře; implicitně palác",
+    "da": "en dør; underforstået, et palads",
+    "de": "eine Tür; implizit auch ein Palast",
+    "el": "μια πόρτα- κατ' επέκταση, ένα παλάτι",
+    "es": "una puerta; implícitamente, un palacio",
+    "et": "uks; kaudselt ka palee",
+    "fi": "ovi, ja siten myös palatsi",
+    "fr": "une porte ; par voie de conséquence, un palais",
+    "hu": "egy ajtó; értelemszerűen egy palota",
+    "id": "sebuah pintu; dengan implikasi, sebuah istana",
+    "it": "una porta; per implicazione, un palazzo",
+    "ja": "扉；暗に宮殿",
+    "ko": "문; 암시적으로, 궁전",
+    "lt": "durys; netiesiogiai - rūmai",
+    "lv": "durvis; netieši - pils",
+    "nb": "en dør; underforstått, et palass",
+    "nl": "een deur; impliciet, een paleis",
+    "pl": "drzwi; w domyśle pałac",
+    "pt": "uma porta; implicitamente, um palácio",
+    "ro": "o ușă; implicit, un palat",
+    "ru": "дверь; по смыслу - дворец",
+    "sk": "dvere; implicitne palác",
+    "sl": "vrata; implicitno tudi palača",
+    "sv": "en dörr; underförstått, ett palats",
+    "tr": "bir kapı; ima yoluyla, bir saray",
+    "uk": "двері; за підтекстом - палац",
+    "zh": "宫门"
+  },
+  "verses": [
+    "daniel 2:49:15",
+    "daniel 3:26:3"
+  ]
+}

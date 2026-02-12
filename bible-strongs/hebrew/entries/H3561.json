@@ -1,0 +1,43 @@
+{
+  "number": "H3561",
+  "language": "hebrew",
+  "transliteration": "kavvân",
+  "pronunciation": "kav-vawn'",
+  "definition": "something prepared, i.e. a sacrificial wafer",
+  "kjvTranslation": "cake.",
+  "translations": {
+    "bg": "нещо приготвено, например жертвена вафла",
+    "cs": "něco připraveného, tj. obětní oplatek",
+    "da": "noget forberedt, f.eks. en offerskive",
+    "de": "etwas Präpariertes, z. B. eine Opfergabe",
+    "el": "κάτι προετοιμασμένο, π.χ. ένα θυσιαστικό δίσκο",
+    "es": "algo preparado, es decir, una oblea de sacrificio",
+    "et": "midagi ettevalmistatud, s.t. ohvrileib",
+    "fi": "jotain valmistettua, esim. uhrikiekko",
+    "fr": "quelque chose de préparé, c'est-à-dire une galette de sacrifice",
+    "hu": "valami előkészített, azaz áldozati ostya",
+    "id": "sesuatu yang telah disiapkan, misalnya wafer kurban",
+    "it": "qualcosa di preparato, per esempio un'ostia sacrificale",
+    "ja": "生贄ウエハース",
+    "ko": "준비된 무언가, 즉 희생 웨이퍼",
+    "lt": "ką nors paruošti, t. y. aukojamąją plokštelę",
+    "lv": "kaut kas sagatavots, t. i., upura vafele",
+    "nb": "noe tilberedt, f.eks. en offeroblat",
+    "nl": "iets bereid, d.w.z. een offerwafel",
+    "pl": "coś przygotowanego, np. opłatek ofiarny",
+    "pt": "algo preparado, ou seja, uma hóstia de sacrifício",
+    "ro": "ceva pregătit, de exemplu o vafă de sacrificiu",
+    "ru": "нечто подготовленное, т.е. жертвенная облатка",
+    "sk": "niečo pripravené, t. j. obetný lístok",
+    "sl": "nekaj pripravljenega, npr. žrtveni oblat",
+    "sv": "något förberett, t.ex. en oblat som offras",
+    "tr": "hazırlanmış bir şey, örneğin kurbanlık gofret",
+    "uk": "щось заздалегідь приготоване, наприклад, жертовну вафлю",
+    "zh": "准备好的东西，即祭品"
+  },
+  "hebrew": "כַּוָּן",
+  "verses": [
+    "jeremiah 7:18:11",
+    "jeremiah 44:19:12"
+  ]
+}

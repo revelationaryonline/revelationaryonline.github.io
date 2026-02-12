@@ -1,0 +1,43 @@
+{
+  "number": "H5544",
+  "language": "hebrew",
+  "transliteration": "çillôwn",
+  "pronunciation": "sil-lone'",
+  "definition": "a prickle (as if pendulous)",
+  "kjvTranslation": "brier, thorn.",
+  "hebrew": "סִלּוֹן",
+  "translations": {
+    "bg": "бодване (като махало)",
+    "cs": "pichlavý (jakoby převislý)",
+    "da": "en prikken (som om den hænger)",
+    "de": "ein Kribbeln (wie bei einem Pendel)",
+    "el": "ένα τσίμπημα (σαν να είναι κρεμαστό)",
+    "es": "un pinchazo (como pendular)",
+    "et": "torkiv (nagu rippuv)",
+    "fi": "pistely (ikään kuin riippuvainen)",
+    "fr": "un picotement (comme s'il s'agissait d'un pendentif)",
+    "hu": "szúrás (mintha lógna)",
+    "id": "tusukan (seolah-olah berduri)",
+    "it": "un pungiglione (come se fosse un pendolo)",
+    "ja": "ちくちく",
+    "ko": "가시(마치 매달린 것처럼)",
+    "lt": "dyglys (tarsi svyrantis)",
+    "lv": "dūriens (it kā svārstošs)",
+    "nb": "en stikkende (som om den henger)",
+    "nl": "een prikkeling (alsof het hangend is)",
+    "pl": "ukłucie (jak gdyby zwisające)",
+    "pt": "uma picada (como se fosse pendente)",
+    "ro": "o înțepătură (ca și cum ar fi pendulă)",
+    "ru": "колючка (как будто маятник)",
+    "sk": "pichnutie (akoby závesné)",
+    "sl": "pičenje (kot da je viseče)",
+    "sv": "en stickning (som om den är hängande)",
+    "tr": "bir diken (sarkık gibi)",
+    "uk": "колючий (ніби маятниковий)",
+    "zh": "刺"
+  },
+  "verses": [
+    "ezekiel 2:6:11",
+    "ezekiel 28:24:5"
+  ]
+}

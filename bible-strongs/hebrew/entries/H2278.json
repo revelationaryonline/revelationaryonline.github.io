@@ -1,0 +1,42 @@
+{
+  "number": "H2278",
+  "language": "hebrew",
+  "transliteration": "chăbereth",
+  "pronunciation": "khab-eh'-reth",
+  "definition": "a consort",
+  "kjvTranslation": "companion.",
+  "translations": {
+    "bg": "съпруга",
+    "cs": "chotě",
+    "da": "en ægtefælle",
+    "de": "einen Gefährten",
+    "el": "μια σύζυγος",
+    "es": "un consorte",
+    "et": "kaaslane",
+    "fi": "puoliso",
+    "fr": "un consort",
+    "hu": "egy társ",
+    "id": "seorang permaisuri",
+    "it": "un consorte",
+    "ja": "コンソート",
+    "ko": "배우자",
+    "lt": "sutuoktinis",
+    "lv": "konsorts",
+    "nb": "en gemalinne",
+    "nl": "een metgezel",
+    "pl": "małżonka",
+    "pt": "um consorte",
+    "ro": "un consort",
+    "ru": "консорт",
+    "sk": "manželský pár",
+    "sl": "soproga",
+    "sv": "ett sällskap",
+    "tr": "bir eş",
+    "uk": "консорт",
+    "zh": "陪嫁"
+  },
+  "hebrew": "חֲבֶרֶת",
+  "verses": [
+    "malachi 2:14:16"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2337",
+  "language": "hebrew",
+  "transliteration": "châvâch",
+  "pronunciation": "khaw-vawkh'",
+  "definition": "a dell or crevice (as if pierced in the earth)",
+  "kjvTranslation": "thicket.",
+  "translations": {
+    "bg": "вдлъбнатина или пукнатина (сякаш пробита в земята)",
+    "cs": "prohlubeň nebo štěrbina (jakoby proražená v zemi)",
+    "da": "en lavning eller sprække (som om der var hul i jorden)",
+    "de": "eine Vertiefung oder ein Spalt (wie in die Erde gebohrt)",
+    "el": "μια κοιλάδα ή μια σχισμή (σαν να είναι τρυπημένη στη γη)",
+    "es": "una hondonada o grieta (como horadada en la tierra)",
+    "et": "süvend või lõhe (justkui maa sisse torgatud)",
+    "fi": "syvennys tai rako (kuin maan sisään lävistetty)",
+    "fr": "un creux ou une crevasse (comme si elle était percée dans la terre)",
+    "hu": "mélyedés vagy hasadék (mintha a földbe fúródott volna)",
+    "id": "lubang atau celah (seolah-olah ditusuk di dalam tanah)",
+    "it": "una fossa o un crepaccio (come se fosse bucato nella terra)",
+    "ja": "土穴",
+    "ko": "움푹 패인 곳이나 틈새(마치 땅을 뚫은 것처럼)",
+    "lt": "įduba arba plyšys (tarsi pradurtas žemėje)",
+    "lv": "ieplaka vai plaisa (it kā caururbta zemē)",
+    "nb": "en fordypning eller sprekk (som om den er gjennomboret i jorden)",
+    "nl": "een dal of spleet (als doorboord in de aarde)",
+    "pl": "zagłębienie lub szczelina (jakby przebita w ziemi)",
+    "pt": "uma cova ou fenda (como se fosse perfurada na terra)",
+    "ro": "o adâncitură sau o crăpătură (ca și cum ar fi străpunsă în pământ)",
+    "ru": "углубление или расщелина (как будто пробитая в земле)",
+    "sk": "priehlbina alebo štrbina (akoby prerazená v zemi)",
+    "sl": "vdolbina ali razpoka (kot da bi bila prebodena v zemlji)",
+    "sv": "en sänka eller skreva (som om den vore genomborrad i jorden)",
+    "tr": "bir çukur veya yarık (sanki toprakta delinmiş gibi)",
+    "uk": "заглиблення або щілина (ніби пробита в землі)",
+    "zh": "谽谺"
+  },
+  "hebrew": "חָוָח",
+  "verses": [
+    "firstSamuel 13:6:12"
+  ]
+}

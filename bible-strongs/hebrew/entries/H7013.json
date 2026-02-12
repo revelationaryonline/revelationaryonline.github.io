@@ -1,0 +1,42 @@
+{
+  "number": "H7013",
+  "language": "hebrew",
+  "transliteration": "qayin",
+  "pronunciation": "kah'-yin",
+  "definition": "a lance (as striking fast)",
+  "kjvTranslation": "spear.",
+  "hebrew": "קַיִן",
+  "translations": {
+    "bg": "копие (за бързо поразяване)",
+    "cs": "kopí (jako rychlý úder)",
+    "da": "en lanse (som slår hurtigt)",
+    "de": "eine Lanze (als schneller Schlag)",
+    "el": "μια λόγχη (που χτυπάει γρήγορα)",
+    "es": "una lanza (como golpear rápido)",
+    "et": "oda (kui kiire löömine)",
+    "fi": "keihäs (nopeana iskuna)",
+    "fr": "une lance (comme frappe rapide)",
+    "hu": "egy lándzsa (mint gyors ütés)",
+    "id": "tombak (sebagai serangan cepat)",
+    "it": "una lancia (per colpire velocemente)",
+    "ja": "槍衾",
+    "ko": "창(빠른 공격력)",
+    "lt": "ietis (kaip greitas smūgis)",
+    "lv": "šķēps (kā ātrs trieciens)",
+    "nb": "en lanse (som slår raskt)",
+    "nl": "een lans (als snel slaan)",
+    "pl": "lanca (jako szybkie uderzenie)",
+    "pt": "uma lança (para golpear rapidamente)",
+    "ro": "o lance (ca lovitură rapidă)",
+    "ru": "копье (для нанесения быстрых ударов)",
+    "sk": "kopija (ako rýchly úder)",
+    "sl": "kopje (kot hiter udarec)",
+    "sv": "en lans (som slår snabbt)",
+    "tr": "bir mızrak (hızlı vuran olarak)",
+    "uk": "спис (як швидкий удар)",
+    "zh": "槊"
+  },
+  "verses": [
+    "secondSamuel 21:16:7"
+  ]
+}

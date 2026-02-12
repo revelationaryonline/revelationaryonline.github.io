@@ -1,0 +1,42 @@
+{
+  "number": "H7528",
+  "language": "hebrew",
+  "transliteration": "râtsaph",
+  "pronunciation": "raw-tsaf'",
+  "definition": "to tessellate, i.e. embroider (as if with bright stones)",
+  "kjvTranslation": "pave.",
+  "hebrew": "רָצַף",
+  "translations": {
+    "bg": "да се украсява, т.е. да се бродира (като с ярки камъни)",
+    "cs": "vyšívat, tj. vyšívat (jakoby světlými kameny)",
+    "da": "at tessellere, dvs. brodere (som med lyse sten)",
+    "de": "mosaikieren, d.h. sticken (wie mit hellen Steinen)",
+    "el": "να κεντώ, δηλαδή να κεντώ (σαν με φωτεινές πέτρες)",
+    "es": "teselar, es decir, bordar (como con piedras brillantes)",
+    "et": "tesseleerida, st tikkida (justkui heledate kividega)",
+    "fi": "tesselloida eli kirjailla (ikään kuin kirkkailla kivillä)",
+    "fr": "tesseler, c'est-à-dire broder (comme avec des pierres brillantes)",
+    "hu": "tesszellálni, azaz hímezni (mintha fényes kövekkel hímeznék)",
+    "id": "untuk tessellate, yaitu menyulam (seolah-olah dengan batu-batu yang cerah)",
+    "it": "tassellare, cioè ricamare (come con pietre luminose)",
+    "ja": "テッセレーションする、つまり（輝石で）刺繍する",
+    "ko": "테셀레이션, 즉 자수(밝은 돌로 자수하는 것처럼)",
+    "lt": "siuvinėti, t. y. siuvinėti (tarsi ryškiais akmenimis)",
+    "lv": "izrotāt, t.i., izšūt (it kā ar košiem akmeņiem)",
+    "nb": "å tessellere, dvs. brodere (som med lyse steiner)",
+    "nl": "vlakvulling, d.w.z. borduren (als met heldere stenen)",
+    "pl": "teselować, tj. haftować (jakby jasnymi kamieniami)",
+    "pt": "tesselar, ou seja, bordar (como se fosse com pedras brilhantes)",
+    "ro": "a tessellate, adică a broda (ca și cum ar fi cu pietre strălucitoare)",
+    "ru": "тесселировать, т.е. вышивать (как будто яркими камнями)",
+    "sk": "tessellate, t.j. vyšívať (akoby svetlými kameňmi)",
+    "sl": "izvezati, tj. vezati (kot s svetlimi kamni)",
+    "sv": "att tessellera, dvs. brodera (som med ljusa stenar)",
+    "tr": "mozaiklemek, yani nakışlamak (sanki parlak taşlarla)",
+    "uk": "теселювати, тобто вишивати (ніби яскравим камінням)",
+    "zh": "镶嵌，即刺绣（如用明亮的宝石）"
+  },
+  "verses": [
+    "solomon 3:10:8"
+  ]
+}

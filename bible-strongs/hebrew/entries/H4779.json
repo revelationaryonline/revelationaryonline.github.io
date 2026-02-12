@@ -1,0 +1,43 @@
+{
+  "number": "H4779",
+  "language": "hebrew",
+  "transliteration": "mârâd",
+  "pronunciation": "maw-rawd'",
+  "definition": "rebellious",
+  "kjvTranslation": "rebellious.",
+  "hebrew": "מָרָד",
+  "translations": {
+    "bg": "бунтовнически",
+    "cs": "vzpurný",
+    "da": "oprørsk",
+    "de": "rebellisch",
+    "el": "επαναστατικό",
+    "es": "rebelde",
+    "et": "mässumeelne",
+    "fi": "kapinallinen",
+    "fr": "rebelle",
+    "hu": "lázadó",
+    "id": "pemberontak",
+    "it": "ribelle",
+    "ja": "反抗的",
+    "ko": "반항적",
+    "lt": "maištingas",
+    "lv": "dumpīgs",
+    "nb": "opprørsk",
+    "nl": "opstandig",
+    "pl": "zbuntowany",
+    "pt": "rebelde",
+    "ro": "rebel",
+    "ru": "бунтарь",
+    "sk": "vzdorovitý",
+    "sl": "uporniški",
+    "sv": "upprorisk",
+    "tr": "asi",
+    "uk": "бунтівний",
+    "zh": "悖逆"
+  },
+  "verses": [
+    "ezra 4:12:13",
+    "ezra 4:15:14"
+  ]
+}

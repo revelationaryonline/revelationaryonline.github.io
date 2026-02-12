@@ -1,0 +1,42 @@
+{
+  "number": "H5611",
+  "language": "hebrew",
+  "transliteration": "Çᵉphâr",
+  "pronunciation": "sef-awr'",
+  "definition": "Sephar, a place in Arabia",
+  "kjvTranslation": "Sephar.",
+  "hebrew": "סְפָר",
+  "translations": {
+    "bg": "Сефар, място в Арабия",
+    "cs": "Sefar, místo v Arábii",
+    "da": "Sephar, et sted i Arabien",
+    "de": "Sephar, ein Ort in Arabien",
+    "el": "Sephar, τόπος στην Αραβία",
+    "es": "Sefar, un lugar en Arabia",
+    "et": "Sephar, koht Araabias",
+    "fi": "Sephar, paikka Arabiassa",
+    "fr": "Sephar, lieu en Arabie",
+    "hu": "Sephar, egy hely Arábiában",
+    "id": "Sephar, sebuah tempat di Arab",
+    "it": "Sephar, località dell'Arabia",
+    "ja": "セファール（アラビアの地名",
+    "ko": "아라비아의 한 장소, 세파르",
+    "lt": "Sefaras, vietovė Arabijoje",
+    "lv": "Sephar, vieta Arābijā",
+    "nb": "Sephar, et sted i Arabia",
+    "nl": "Sephar, een plaats in Arabië",
+    "pl": "Sephar, miejsce w Arabii",
+    "pt": "Sefar, um lugar na Arábia",
+    "ro": "Sephar, un loc în Arabia",
+    "ru": "Сефар, место в Аравии",
+    "sk": "Sefar, miesto v Arábii",
+    "sl": "Sefar, kraj v Arabiji",
+    "sv": "Sephar, en plats i Arabien",
+    "tr": "Sephar, Arabistan'da bir yer",
+    "uk": "Сефар, місце в Аравії",
+    "zh": "塞法尔"
+  },
+  "verses": [
+    "genesis 10:30:4"
+  ]
+}

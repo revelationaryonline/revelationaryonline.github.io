@@ -1,0 +1,42 @@
+{
+  "number": "H7419",
+  "language": "hebrew",
+  "transliteration": "râmûwth",
+  "pronunciation": "raw-mooth'",
+  "definition": "a heap (of carcases)",
+  "kjvTranslation": "height.",
+  "hebrew": "רָמוּת",
+  "translations": {
+    "bg": "купчина (трупове)",
+    "cs": "hromada (mrtvol)",
+    "da": "en bunke (af kadavere)",
+    "de": "ein Haufen (von Kadavern)",
+    "el": "ένας σωρός (από πτώματα)",
+    "es": "un montón (de cadáveres)",
+    "et": "hunnik (rümpasid)",
+    "fi": "kasa (ruhoja)",
+    "fr": "un tas (de carcasses)",
+    "hu": "egy halom (tetem)",
+    "id": "tumpukan (bangkai)",
+    "it": "un mucchio (di carcasse)",
+    "ja": "山盛り",
+    "ko": "(카케이스의) 힙",
+    "lt": "krūva (skerdenų)",
+    "lv": "kaudzes (liemeņu)",
+    "nb": "en haug (av kadaver)",
+    "nl": "een hoop (karkassen)",
+    "pl": "sterta (zwłok)",
+    "pt": "um monte (de carcaças)",
+    "ro": "o grămadă (de carcase)",
+    "ru": "куча (туш)",
+    "sk": "hromada (mŕtvol)",
+    "sl": "kup (trupel)",
+    "sv": "en hög (av kadaver)",
+    "tr": "bir yığın (leş)",
+    "uk": "купа (туш)",
+    "zh": "骴"
+  },
+  "verses": [
+    "ezekiel 32:5:7"
+  ]
+}

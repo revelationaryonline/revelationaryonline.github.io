@@ -1,0 +1,42 @@
+{
+  "number": "H5551",
+  "language": "hebrew",
+  "transliteration": "çullâm",
+  "pronunciation": "sool-lawm'",
+  "definition": "a stair-case",
+  "kjvTranslation": "ladder.",
+  "hebrew": "סֻלָּם",
+  "translations": {
+    "bg": "стълбище",
+    "cs": "schodiště",
+    "da": "en trappe",
+    "de": "eine Treppe",
+    "el": "μια σκάλα",
+    "es": "una escalera",
+    "et": "trepikoda",
+    "fi": "portaikko",
+    "fr": "un escalier",
+    "hu": "lépcsőház",
+    "id": "kotak tangga",
+    "it": "una scala",
+    "ja": "階段",
+    "ko": "계단 케이스",
+    "lt": "laiptai",
+    "lv": "kāpnes",
+    "nb": "en trappeoppgang",
+    "nl": "een trap",
+    "pl": "klatka schodowa",
+    "pt": "uma escada",
+    "ro": "o scară",
+    "ru": "лестница",
+    "sk": "schodisko",
+    "sl": "stopnišče",
+    "sv": "en trappa",
+    "tr": "bir merdiven basamağı",
+    "uk": "сходи",
+    "zh": "楼梯"
+  },
+  "verses": [
+    "genesis 28:12:2"
+  ]
+}

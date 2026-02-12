@@ -1,0 +1,42 @@
+{
+  "number": "H6353",
+  "language": "hebrew",
+  "transliteration": "pechâr",
+  "pronunciation": "peh-khawr'",
+  "definition": "a potter",
+  "kjvTranslation": "potter.",
+  "hebrew": "פֶּחָר",
+  "translations": {
+    "bg": "грънчар",
+    "cs": "hrnčíř",
+    "da": "en pottemager",
+    "de": "ein Töpfer",
+    "el": "ένας αγγειοπλάστης",
+    "es": "un alfarero",
+    "et": "pottsepp",
+    "fi": "savenvalaja",
+    "fr": "un potier",
+    "hu": "fazekas",
+    "id": "seorang pengrajin tembikar",
+    "it": "un vasaio",
+    "ja": "陶芸家",
+    "ko": "도예가",
+    "lt": "puodžius",
+    "lv": "podnieks",
+    "nb": "en pottemaker",
+    "nl": "een pottenbakker",
+    "pl": "garncarz",
+    "pt": "um oleiro",
+    "ro": "un olar",
+    "ru": "гончар",
+    "sk": "hrnčiar",
+    "sl": "lončar",
+    "sv": "en krukmakare",
+    "tr": "bir çömlekçi",
+    "uk": "гончар",
+    "zh": "陶工"
+  },
+  "verses": [
+    "daniel 2:41:8"
+  ]
+}

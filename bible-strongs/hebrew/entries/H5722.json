@@ -1,0 +1,42 @@
+{
+  "number": "H5722",
+  "language": "hebrew",
+  "transliteration": "ʻădîynôw",
+  "pronunciation": "ad-ee-no'",
+  "definition": "his spear",
+  "kjvTranslation": "Adino.",
+  "hebrew": "עֲדִינוֹ",
+  "translations": {
+    "bg": "копието му",
+    "cs": "jeho kopí",
+    "da": "hans spyd",
+    "de": "sein Speer",
+    "el": "το δόρυ του",
+    "es": "su lanza",
+    "et": "tema oda",
+    "fi": "hänen keihäänsä",
+    "fr": "sa lance",
+    "hu": "a lándzsája",
+    "id": "tombaknya",
+    "it": "la sua lancia",
+    "ja": "彼の槍",
+    "ko": "그의 창",
+    "lt": "jo ietis",
+    "lv": "viņa šķēps",
+    "nb": "spydet hans",
+    "nl": "zijn speer",
+    "pl": "jego włócznia",
+    "pt": "a sua lança",
+    "ro": "sulița sa",
+    "ru": "его копьё",
+    "sk": "jeho oštep",
+    "sl": "njegovo kopje",
+    "sv": "hans spjut",
+    "tr": "onun mızrağı",
+    "uk": "його спис",
+    "zh": "他的矛"
+  },
+  "verses": [
+    "secondSamuel 23:8:11"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1570",
+  "language": "hebrew",
+  "transliteration": "gâlash",
+  "pronunciation": "gaw-lash'",
+  "definition": "probably to caper (as a goat)",
+  "kjvTranslation": "appear.",
+  "translations": {
+    "bg": "вероятно да капризничи (като коза)",
+    "cs": "pravděpodobně kaprovat (jako koza)",
+    "da": "sandsynligvis til at kapre (som en ged)",
+    "de": "wahrscheinlich zu kapern (wie eine Ziege)",
+    "el": "πιθανόν να καπελώσει (ως κατσίκα)",
+    "es": "probablemente hacer cabriolas (como una cabra)",
+    "et": "ilmselt kapselduma (nagu kits)",
+    "fi": "luultavasti kapustella (kuten vuohi)",
+    "fr": "probablement pour cabrioler (comme une chèvre)",
+    "hu": "valószínűleg kapirgálni (mint egy kecske)",
+    "id": "mungkin untuk caper (seperti kambing)",
+    "it": "probabilmente per capriolare (come una capra)",
+    "ja": "おそらく山羊",
+    "ko": "아마도 (염소처럼) 케이퍼를 위해",
+    "lt": "tikriausiai kaprizuoti (kaip ožka)",
+    "lv": "iespējams, ka kaprēt (kā kaza)",
+    "nb": "sannsynligvis til å kapre (som en geit)",
+    "nl": "waarschijnlijk om te scharrelen (als een geit)",
+    "pl": "prawdopodobnie caper (jako koza)",
+    "pt": "provavelmente para caper (como uma cabra)",
+    "ro": "probabil, să se capere (ca o capră)",
+    "ru": "вероятно, каперсы (как у козы)",
+    "sk": "pravdepodobne kaprovať (ako koza)",
+    "sl": "najverjetneje se spreletavati (kot koza)",
+    "sv": "förmodligen till kapris (som en get)",
+    "tr": "muhtemelen kapari yapmak (keçi olarak)",
+    "uk": "ймовірно, на каперство (як коза)",
+    "zh": "羯羊"
+  },
+  "hebrew": "גָּלַשׁ",
+  "verses": [
+    "solomon 4:1:12",
+    "solomon 6:5:8"
+  ]
+}

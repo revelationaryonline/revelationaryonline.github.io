@@ -1,0 +1,43 @@
+{
+  "number": "H4464",
+  "language": "hebrew",
+  "transliteration": "mamzêr",
+  "pronunciation": "mam-zare'",
+  "definition": "a mongrel, i.e. born of aJewish father and aheathen mother",
+  "kjvTranslation": "bastard.",
+  "hebrew": "מַמְזֵר",
+  "verses": [
+    "deuteronomy 23:3:2",
+    "zechariah 9:6:1"
+  ],
+  "translations": {
+    "bg": "кръвосмешение, т.е. роден от баща евреин и майка езичница",
+    "cs": "míšenec, tj. narozený zžidovského otce apohanské matky",
+    "da": "en bastard, dvs. født af en jødisk far og en hedensk mor",
+    "de": "ein Mischling, d.h. geboren von einem jüdischen Vater und einer heidnischen Mutter",
+    "el": "ένα συνονθύλευμα, δηλαδή γεννημένο από Εβραίο πατέρα και μητέρα ειδωλολάτρισσα",
+    "es": "mestizo, es decir, nacido de padre judío y madre pagana",
+    "et": "segavereline, st sündinud juudi isast ja paganlikust emast",
+    "fi": "sekasikiö, eli juutalaisesta isästä ja pakanaäidistä syntynyt",
+    "fr": "un bâtard, c'est-à-dire né d'un père juif et d'une mère païenne",
+    "hu": "korcs, azaz zsidó apától és pogány anyától született",
+    "id": "seorang anak anjing, yaitu lahir dari seorang ayah Yahudi dan ibu kafir",
+    "it": "un meticcio, cioè nato da un padre ebreo e da una madre pagana",
+    "ja": "雑種、つまりユダヤ人の父と異教徒の母の間に生まれた者",
+    "ko": "잡종, 즉 유대인 아버지와 히브리인 어머니 사이에서 태어난 사람",
+    "lt": "mišrūnas, t. y. gimęs iš žydo tėvo ir pagonės motinos",
+    "lv": "jaunkundze, t. i., dzimis no jūdaiņa tēva un pagānes mātes",
+    "nb": "en bastard, dvs. født av en jødisk far og en hedensk mor",
+    "nl": "een bastaard, d.w.z. geboren uit een joodse vader en een heidense moeder",
+    "pl": "kundel, tj. urodzony z ojca Żyda i matki poganki",
+    "pt": "um mestiço, ou seja, nascido de um pai judeu e de uma mãe pagã",
+    "ro": "o corcitură, adică născută dintr-un tată evreu și o mamă păgână",
+    "ru": "дворняга, то есть рожденный от отца-иудея и матери-язычницы",
+    "sk": "miešanec, t. j. narodený zo židovského otca a pohanskej matky",
+    "sl": "mešanec, tj. rojen iz judovskega očeta in poganske matere",
+    "sv": "en blandrasist, dvs. född av en judisk far och en hednisk mor",
+    "tr": "melez, yani Yahudi bir baba ve putperest bir anneden doğmuş",
+    "uk": "дворнягою, тобто народженим від батька-єврея та матері-неєврейки",
+    "zh": "杂种，即父亲是犹太人，母亲是异教徒"
+  }
+}

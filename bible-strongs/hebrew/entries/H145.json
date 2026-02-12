@@ -1,0 +1,43 @@
+{
+  "number": "H145",
+  "language": "hebrew",
+  "transliteration": "ʼeder",
+  "pronunciation": "eh'-der",
+  "definition": "amplitude, i.e. (concrete) a mantle; also (figuratively) splendor",
+  "kjvTranslation": "goodly, robe.",
+  "translations": {
+    "bg": "амплитуда, т.е. (конкретно) мантия; също (преносно) великолепие",
+    "cs": "amplituda, tj. (konkrétně) plášť; také (přeneseně) nádhera",
+    "da": "amplitude, dvs. (konkret) en kappe; også (i overført betydning) pragt",
+    "de": "fülle, d.h. (konkret) ein Mantel; auch (bildlich) Pracht",
+    "el": "πλάτος, δηλαδή (συγκεκριμένα) μανδύας, επίσης (μεταφορικά) λαμπρότητα",
+    "es": "amplitud, es decir (en concreto) un manto; también (en sentido figurado) esplendor",
+    "et": "amplituud, s.t. (konkreetselt) mantel; ka (ülekantud tähenduses) hiilgus",
+    "fi": "amplitudi eli (konkreettinen) vaippa; myös (kuvaannollisesti) loisto",
+    "fr": "amplitude, c'est-à-dire (concrètement) un manteau ; également (au sens figuré) splendeur",
+    "hu": "amplitúdó, azaz (konkrétan) köpeny; továbbá (átvitt értelemben) pompa",
+    "id": "amplitudo, yaitu (konkret) mantel; juga (kiasan) kemegahan",
+    "it": "ampiezza, cioè (in concreto) un manto; anche (in senso figurato) splendore",
+    "ja": "ふくよかさ、すなわち（具体的には）外套；また（比喩的に）華麗さ",
+    "ko": "진폭, 즉 (구체적인) 맨틀; 또한 (비 유적으로) 화려함",
+    "lt": "amplitudė, t. y. (konkrečiai) apsiaustas; taip pat (perkeltine prasme) spindesys",
+    "lv": "amplitūda, t.i. (konkrēti) apmetnis; arī (pārnestā nozīmē) krāšņums",
+    "nb": "amplitude, dvs. (konkret) en kappe; også (i overført betydning) prakt",
+    "nl": "amplitude, d.w.z. (concreet) een mantel; ook (figuurlijk) pracht en praal",
+    "pl": "amplituda, tj. (konkretnie) płaszcz; także (w przenośni) splendor",
+    "pt": "amplitude, isto é, (concretamente) um manto; também (figurativamente) esplendor",
+    "ro": "amplitudine, adică (concret) o mantie; de asemenea (figurat) splendoare",
+    "ru": "амплитуда, т.е. (конкретно) мантия; также (фигурально) великолепие",
+    "sk": "amplitúda, t. j. (konkrétne) plášť; tiež (obrazne) nádhera",
+    "sl": "amplituda, tj. (konkretno) plašč; tudi (v prenesenem pomenu) sijaj",
+    "sv": "amplitud, d.v.s. (konkret) en mantel; även (bildligt) prakt",
+    "tr": "genlik, yani (somut olarak) bir örtü; ayrıca (mecazi olarak) ihtişam",
+    "uk": "амплітуда, тобто (конкретно) мантія; також (образно) пишність",
+    "zh": "幅，即（具体的）衣钵；也（比喻）辉煌"
+  },
+  "hebrew": "אֶדֶר",
+  "verses": [
+    "micah 2:8:6",
+    "zechariah 11:13:6"
+  ]
+}

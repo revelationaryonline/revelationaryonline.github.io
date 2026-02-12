@@ -1,0 +1,42 @@
+{
+  "number": "H7201",
+  "language": "hebrew",
+  "transliteration": "râʼâh",
+  "pronunciation": "raw-aw'",
+  "definition": "a bird of prey (probably the vulture, from its sharp sight)",
+  "kjvTranslation": "glede. Compare H1676 (דָּאָה).",
+  "hebrew": "רָאָה",
+  "translations": {
+    "bg": "хищна птица (вероятно лешояд, заради острия му поглед)",
+    "cs": "dravý pták (pravděpodobně sup, podle jeho ostrého zraku)",
+    "da": "en rovfugl (sandsynligvis en grib på grund af dens skarpe syn)",
+    "de": "ein Raubvogel (wahrscheinlich der Geier, wegen seines scharfen Blicks)",
+    "el": "ένα αρπακτικό πουλί (πιθανώς ο γύπας, λόγω της οξείας όρασής του)",
+    "es": "un ave rapaz (probablemente el buitre, por su aguda vista)",
+    "et": "röövlind (tõenäoliselt haudelind, selle terava nägemise järgi)",
+    "fi": "petolintu (luultavasti haaskalintu, koska sen näkö on terävä)",
+    "fr": "un oiseau de proie (probablement le vautour, en raison de sa vue perçante)",
+    "hu": "ragadozó madár (valószínűleg keselyű, éles látása miatt)",
+    "id": "seekor burung pemangsa (mungkin burung nasar, dari pandangannya yang tajam)",
+    "it": "un uccello rapace (probabilmente l'avvoltoio, per la sua vista acuta)",
+    "ja": "猛禽",
+    "ko": "맹금류(날카로운 시력으로 보아 독수리일 가능성이 높음)",
+    "lt": "plėšrus paukštis (tikriausiai grifas, nes turi aštrų žvilgsnį)",
+    "lv": "plēsīgs putns (visticamāk, grifs, ņemot vērā tā aso redzi)",
+    "nb": "en rovfugl (sannsynligvis en gribb, på grunn av dens skarpe syn)",
+    "nl": "een roofvogel (waarschijnlijk de gier, vanwege zijn scherpe blik)",
+    "pl": "drapieżny ptak (prawdopodobnie sęp, ze względu na swój ostry wzrok)",
+    "pt": "uma ave de rapina (provavelmente o abutre, pela sua visão aguçada)",
+    "ro": "o pasăre de pradă (probabil vulturul, după vederea sa ascuțită)",
+    "ru": "хищная птица (вероятно, гриф, судя по его острому зрению)",
+    "sk": "dravý vták (pravdepodobne sup, podľa jeho ostrého zraku)",
+    "sl": "plenilska ptica (verjetno sup, zaradi ostrega vida)",
+    "sv": "en rovfågel (troligen en gam, eftersom den har en skarp syn)",
+    "tr": "bir yırtıcı kuş (keskin görüşünden dolayı muhtemelen akbaba)",
+    "uk": "хижий птах (ймовірно, стерв'ятник, судячи з його гострого зору)",
+    "zh": "秃鹫"
+  },
+  "verses": [
+    "deuteronomy 14:13:0"
+  ]
+}

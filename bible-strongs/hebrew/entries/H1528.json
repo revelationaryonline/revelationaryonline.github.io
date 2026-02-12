@@ -1,0 +1,42 @@
+{
+  "number": "H1528",
+  "language": "hebrew",
+  "transliteration": "gîyr",
+  "pronunciation": "gheer",
+  "definition": "lime",
+  "kjvTranslation": "plaster.",
+  "translations": {
+    "bg": "вар",
+    "cs": "limetka",
+    "da": "kalk",
+    "de": "kalk",
+    "el": "ασβέστης",
+    "es": "cal",
+    "et": "lubi",
+    "fi": "kalkki",
+    "fr": "chaux",
+    "hu": "lime",
+    "id": "jeruk nipis",
+    "it": "calce",
+    "ja": "ライム",
+    "ko": "라임",
+    "lt": "kalkės",
+    "lv": "kaļķis",
+    "nb": "kalk",
+    "nl": "kalk",
+    "pl": "wapno",
+    "pt": "cal",
+    "ro": "var",
+    "ru": "известь",
+    "sk": "vápno",
+    "sl": "apno",
+    "sv": "kalk",
+    "tr": "kireç",
+    "uk": "вапно",
+    "zh": "石灰"
+  },
+  "hebrew": "גִּיר",
+  "verses": [
+    "daniel 5:5:12"
+  ]
+}

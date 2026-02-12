@@ -1,0 +1,43 @@
+{
+  "number": "H5244",
+  "language": "hebrew",
+  "transliteration": "nᵉmâlâh",
+  "pronunciation": "nem-aw-law'",
+  "definition": "an ant (probably from its almost bisected form)",
+  "kjvTranslation": "ant.",
+  "hebrew": "נְמָלָה",
+  "translations": {
+    "bg": "мравка (вероятно заради почти разсечената ѝ форма)",
+    "cs": "mravenec (pravděpodobně podle jeho téměř rozpolcené podoby)",
+    "da": "en myre (sandsynligvis på grund af dens næsten halverede form)",
+    "de": "eine Ameise (wahrscheinlich aufgrund ihrer fast halbierten Form)",
+    "el": "μυρμήγκι (πιθανώς από τη σχεδόν διχοτομημένη μορφή του)",
+    "es": "una hormiga (probablemente por su forma casi bisecada)",
+    "et": "sipelgas (tõenäoliselt selle peaaegu poolitatud kujul)",
+    "fi": "muurahainen (luultavasti sen lähes puolitetun muodon perusteella)",
+    "fr": "une fourmi (probablement à cause de sa forme presque coupée en deux)",
+    "hu": "hangya (valószínűleg a majdnem kettéosztott alakjából adódóan)",
+    "id": "seekor semut (mungkin dari bentuknya yang hampir terbelah dua)",
+    "it": "una formica (probabilmente dalla sua forma quasi bipartita)",
+    "ja": "あり",
+    "ko": "개미(아마도 거의 양분된 형태일 것입니다)",
+    "lt": "skruzdėlė (tikriausiai dėl jos beveik dvilypės formos)",
+    "lv": "skudra (iespējams, pēc tās gandrīz divšķautņainās formas)",
+    "nb": "en maur (sannsynligvis fra dens nesten halverte form)",
+    "nl": "een mier (waarschijnlijk van zijn bijna gehalveerde vorm)",
+    "pl": "mrówka (prawdopodobnie od jej prawie dwunożnej formy)",
+    "pt": "uma formiga (provavelmente pela sua forma quase bifurcada)",
+    "ro": "o furnică (probabil de la forma sa aproape bisecată)",
+    "ru": "муравей (вероятно, из-за его почти раздвоенной формы)",
+    "sk": "mravec (pravdepodobne podľa jeho takmer rozdvojenej podoby)",
+    "sl": "mravlja (verjetno zaradi njene skoraj razcepljene oblike)",
+    "sv": "en myra (förmodligen från dess nästan halverade form)",
+    "tr": "bir karınca (muhtemelen neredeyse ikiye ayrılmış formundan)",
+    "uk": "мураха (ймовірно, від її майже розсіченої форми)",
+    "zh": "蚂蚁"
+  },
+  "verses": [
+    "proverbs 6:6:2",
+    "proverbs 30:25:0"
+  ]
+}

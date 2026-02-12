@@ -1,0 +1,42 @@
+{
+  "number": "H4492",
+  "language": "hebrew",
+  "transliteration": "minhârâh",
+  "pronunciation": "min-haw-raw'",
+  "definition": "properly, a channel or fissure, i.e. (by implication) a cavern",
+  "kjvTranslation": "den.",
+  "hebrew": "מִנְהָרָה",
+  "verses": [
+    "judges 6:2:12"
+  ],
+  "translations": {
+    "bg": "правилно, канал или пукнатина, т.е. (по подразбиране) пещера",
+    "cs": "správně kanál nebo puklina, tj. (implicitně) jeskyně",
+    "da": "korrekt, en kanal eller sprække, dvs. (underforstået) en hule",
+    "de": "richtig: ein Kanal oder eine Spalte, d. h. (implizit) eine Höhle",
+    "el": "κατάλληλα, ένα κανάλι ή μια σχισμή, δηλαδή (κατ' επέκταση) μια σπηλιά",
+    "es": "propiamente, un canal o fisura, es decir (implícitamente) una caverna",
+    "et": "õigesti, kanal või lõhe, st (kaudselt) koobas",
+    "fi": "oikeastaan kanava tai halkeama, eli (epäsuorasti) luola",
+    "fr": "proprement, un canal ou une fissure, c'est-à-dire (implicitement) une caverne",
+    "hu": "helyesen: csatorna vagy hasadék, azaz (értelemszerűen) barlang",
+    "id": "benar, saluran atau celah, yaitu (dengan implikasi) sebuah gua",
+    "it": "propriamente, un canale o una fessura, cioè (per implicazione) una caverna",
+    "ja": "正しくは、水路や亀裂、つまり（暗に）洞窟",
+    "ko": "정확하게는 수로 또는 균열, 즉 (암시적으로) 동굴을 의미합니다",
+    "lt": "tinkamai - kanalas arba plyšys, t. y. (netiesiogiai) urvas",
+    "lv": "pareizi - kanāls vai sprauga, t. i., (netieši) alu",
+    "nb": "egentlig, en kanal eller sprekk, dvs. (underforstått) en hule",
+    "nl": "goed, een kanaal of spleet, d.w.z. (impliciet) een grot",
+    "pl": "właściwie kanał lub szczelina, tj. (w domyśle) jaskinia",
+    "pt": "propriamente dito, um canal ou fissura, ou seja, (implicitamente) uma caverna",
+    "ro": "corect, un canal sau o fisură, adică (implicit) o cavernă",
+    "ru": "правильно, канал или расщелина, т.е. (по косвенным признакам) пещера",
+    "sk": "správne, kanál alebo puklina, t. j. (implicitne) jaskyňa",
+    "sl": "pravilno, kanal ali razpoka, tj. (implicitno) votlina",
+    "sv": "en kanal eller spricka, dvs. (underförstått) en grotta",
+    "tr": "uygun şekilde, bir kanal veya yarık, yani (ima yoluyla) bir mağara",
+    "uk": "власне, канал або тріщина, тобто (побічно) печера",
+    "zh": "正确地说，是一个通道或裂缝，即（暗示）一个洞穴"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5624",
+  "language": "hebrew",
+  "transliteration": "Çered",
+  "pronunciation": "seh'-red",
+  "definition": "Sered, an Israelite",
+  "kjvTranslation": "Sered.",
+  "hebrew": "סֶרֶד",
+  "translations": {
+    "bg": "Серед, израилтянин",
+    "cs": "Sered, Izraelita",
+    "da": "Sered, en israelit",
+    "de": "Sered, ein Israelit",
+    "el": "Sered, ένας Ισραηλίτης",
+    "es": "Sered, israelita",
+    "et": "Sered, iisraellane",
+    "fi": "Sered, israelilainen",
+    "fr": "Sered, Israélite",
+    "hu": "Sered, izraelita",
+    "id": "Sered, seorang Israel",
+    "it": "Sered, un israelita",
+    "ja": "イスラエル人セレッド",
+    "ko": "세레드, 이스라엘인",
+    "lt": "Seredas, izraelitas",
+    "lv": "Sereds, izraēlietis",
+    "nb": "Sered, en israelitt",
+    "nl": "Sered, een Israëliet",
+    "pl": "Sered, Izraelita",
+    "pt": "Sered, israelita",
+    "ro": "Sered, un israelit",
+    "ru": "Серед, израильтянин",
+    "sk": "Sered, Izraelita",
+    "sl": "Sered, Izraelec",
+    "sv": "Sered, en israelit",
+    "tr": "Sered, bir İsrailli",
+    "uk": "Середа, ізраїльтянин",
+    "zh": "赛瑞德，以色列人"
+  },
+  "verses": [
+    "genesis 46:14:2",
+    "numbers 26:26:3"
+  ]
+}

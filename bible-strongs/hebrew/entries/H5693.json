@@ -1,0 +1,43 @@
+{
+  "number": "H5693",
+  "language": "hebrew",
+  "transliteration": "ʻâgûwr",
+  "pronunciation": "aw-goor'",
+  "definition": "probably the swallow",
+  "kjvTranslation": "swallow.",
+  "hebrew": "עָגוּר",
+  "translations": {
+    "bg": "вероятно лястовицата",
+    "cs": "pravděpodobně vlaštovka",
+    "da": "sandsynligvis svalen",
+    "de": "wahrscheinlich die Schwalbe",
+    "el": "πιθανώς το χελιδόνι",
+    "es": "probablemente la golondrina",
+    "et": "tõenäoliselt neelik",
+    "fi": "luultavasti pääskynen",
+    "fr": "probablement l'hirondelle",
+    "hu": "valószínűleg a fecske",
+    "id": "mungkin burung layang-layang",
+    "it": "probabilmente la rondine",
+    "ja": "おそらくツバメ",
+    "ko": "아마도 제비",
+    "lt": "tikriausiai - lastutė",
+    "lv": "iespējams, ka lauce",
+    "nb": "sannsynligvis svalen",
+    "nl": "waarschijnlijk de zwaluw",
+    "pl": "prawdopodobnie jaskółka",
+    "pt": "provavelmente a andorinha",
+    "ro": "probabil rândunica",
+    "ru": "вероятно, ласточка",
+    "sk": "pravdepodobne lastovička",
+    "sl": "najverjetneje lastovka",
+    "sv": "förmodligen svalan",
+    "tr": "muhtemelen kırlangıç",
+    "uk": "напевно, ластівка",
+    "zh": "可能是燕子"
+  },
+  "verses": [
+    "isaiah 38:14:1",
+    "jeremiah 8:7:8"
+  ]
+}

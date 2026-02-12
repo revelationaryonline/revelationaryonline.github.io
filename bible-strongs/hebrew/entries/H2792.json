@@ -1,0 +1,42 @@
+{
+  "number": "H2792",
+  "language": "hebrew",
+  "transliteration": "Cheresh",
+  "pronunciation": "kheh'-resh",
+  "definition": "Cheresh, a Levite",
+  "kjvTranslation": "Heresh.",
+  "translations": {
+    "bg": "Херес, левит",
+    "cs": "Chereš, levita",
+    "da": "Cheresh, en levit",
+    "de": "Cheresch, ein Levit",
+    "el": "Cheresh, Λευίτης",
+    "es": "Cheresh, un levita",
+    "et": "Cheresh, leviit",
+    "fi": "Keresh, leeviläinen",
+    "fr": "Cheresh, Lévite",
+    "hu": "Cheresh, egy levita",
+    "id": "Cheresh, seorang Lewi",
+    "it": "Cheresh, un levita",
+    "ja": "レビ人チェレシュ",
+    "ko": "레위인 체레쉬",
+    "lt": "Cheresas, levitas",
+    "lv": "Herešs, levīts",
+    "nb": "Cheresh, en levitt",
+    "nl": "Cheresh, een Leviet",
+    "pl": "Cheresh, lewita",
+    "pt": "Cheresh, um levita",
+    "ro": "Cheresh, un levit",
+    "ru": "Хереш, левит",
+    "sk": "Chereš, levita",
+    "sl": "Kereš, levit",
+    "sv": "Cheresh, en levit",
+    "tr": "Cheresh, bir Levili",
+    "uk": "Череш, левит",
+    "zh": "克里希，利未人"
+  },
+  "hebrew": "חֶרֶשׁ",
+  "verses": [
+    "firstChronicles 9:15:1"
+  ]
+}

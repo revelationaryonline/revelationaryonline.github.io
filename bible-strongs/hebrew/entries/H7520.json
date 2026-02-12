@@ -1,0 +1,42 @@
+{
+  "number": "H7520",
+  "language": "hebrew",
+  "transliteration": "râtsad",
+  "pronunciation": "raw-tsad'",
+  "definition": "probably to look askant, i.e. (figuratively) be jealous",
+  "kjvTranslation": "leap.",
+  "hebrew": "רָצַד",
+  "translations": {
+    "bg": "вероятно да гледате с питащ поглед, т.е. да ревнувате (в преносен смисъл)",
+    "cs": "pravděpodobně se tvářit tázavě, tj. (obrazně) žárlit",
+    "da": "sandsynligvis at se spørgende ud, dvs. (i overført betydning) være jaloux",
+    "de": "wahrscheinlich fragend schauen, d.h. (im übertragenen Sinne) eifersüchtig sein",
+    "el": "πιθανόν να κοιτάζει με ζηλόφθονο βλέμμα, δηλαδή (μεταφορικά) να ζηλεύει",
+    "es": "probablemente mirar con recelo, es decir, (en sentido figurado) estar celoso",
+    "et": "ilmselt vaadata küsivalt, st (piltlikult öeldes) olla armukade",
+    "fi": "luultavasti katsoa kysyvästi, eli (kuvaannollisesti) olla mustasukkainen",
+    "fr": "probablement prendre un air interrogateur, c'est-à-dire (au sens figuré) être jaloux",
+    "hu": "valószínűleg kérdőn nézni, azaz (átvitt értelemben) féltékeny lenni",
+    "id": "mungkin untuk terlihat seperti orang yang cemburu, yaitu (secara kiasan) cemburu",
+    "it": "probabilmente guardare con aria interrogativa, cioè (in senso figurato) essere gelosi",
+    "ja": "おそらく訝しげな顔をする、つまり（比喩的に）嫉妬する",
+    "ko": "아마도 묻는 것처럼 보이기 위해, 즉 (비 유적으로) 질투하기 위해",
+    "lt": "tikriausiai žvelgti klausiamai, t. y. (perkeltine prasme) pavydėti",
+    "lv": "iespējams, izskatīties jūtīgi, t.i., (pārnestā nozīmē) būt greizsirdīgam",
+    "nb": "sannsynligvis å se spørrende ut, dvs. (i overført betydning) være sjalu",
+    "nl": "waarschijnlijk vragend kijken, d.w.z. (figuurlijk) jaloers zijn",
+    "pl": "prawdopodobnie patrzeć pytająco, tj. (w przenośni) być zazdrosnym",
+    "pt": "provavelmente com um ar interrogativo, ou seja, (figurativamente) com ciúmes",
+    "ro": "probabil să privească întrebător, adică (la figurat) să fie gelos",
+    "ru": "вероятно, смотреть вопросительно, т.е. (фигурально) ревновать",
+    "sk": "pravdepodobne vyzerať žiadostivo, t. j. (obrazne) žiarliť",
+    "sl": "verjetno pogledati vprašujoče, tj. (v prenesenem pomenu) biti ljubosumen",
+    "sv": "förmodligen att se frågande ut, dvs. (bildligt talat) vara svartsjuk",
+    "tr": "muhtemelen soran gözlerle bakmak, yani (mecazi anlamda) kıskanç olmak",
+    "uk": "ймовірно, щоб виглядати запитально, тобто (образно) ревнувати",
+    "zh": "大概是望眼欲穿，即（比喻）妒火中烧"
+  },
+  "verses": [
+    "psalms 68:17:1"
+  ]
+}

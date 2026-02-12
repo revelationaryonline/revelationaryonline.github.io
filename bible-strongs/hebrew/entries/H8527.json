@@ -1,0 +1,42 @@
+{
+  "number": "H8527",
+  "language": "hebrew",
+  "transliteration": "talmîyd",
+  "pronunciation": "tal-meed'",
+  "definition": "a pupil",
+  "kjvTranslation": "scholar.",
+  "hebrew": "תַּלְמִיד",
+  "translations": {
+    "bg": "ученик",
+    "cs": "žák",
+    "da": "en elev",
+    "de": "eine Schülerin",
+    "el": "ένας μαθητής",
+    "es": "un alumno",
+    "et": "õpilane",
+    "fi": "oppilas",
+    "fr": "un élève",
+    "hu": "egy tanuló",
+    "id": "seorang murid",
+    "it": "un allievo",
+    "ja": "弟子",
+    "ko": "학생",
+    "lt": "mokinys",
+    "lv": "skolēns",
+    "nb": "en elev",
+    "nl": "een leerling",
+    "pl": "uczeń",
+    "pt": "um aluno",
+    "ro": "un elev",
+    "ru": "ученик",
+    "sk": "žiak",
+    "sl": "učenec",
+    "sv": "en elev",
+    "tr": "bir öğrenci",
+    "uk": "учень",
+    "zh": "一名学生"
+  },
+  "verses": [
+    "firstChronicles 25:8:8"
+  ]
+}

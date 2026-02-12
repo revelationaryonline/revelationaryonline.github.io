@@ -1,0 +1,43 @@
+{
+  "number": "H1643",
+  "language": "hebrew",
+  "transliteration": "geres",
+  "pronunciation": "gheh'-res",
+  "definition": "a kernel (collectively), i.e. grain",
+  "kjvTranslation": "beaten corn.",
+  "translations": {
+    "bg": "ядро (колективно), т.е. зърно",
+    "cs": "jádro (souhrnně), tj. zrno",
+    "da": "en kerne (kollektivt), dvs. korn",
+    "de": "einen Kern (kollektiv), d. h. ein Korn",
+    "el": "έναν πυρήνα (συλλογικά), δηλαδή έναν κόκκο",
+    "es": "un núcleo (colectivamente), es decir, grano",
+    "et": "tuum (kollektiivselt), st tera",
+    "fi": "ydin (kollektiivisesti), eli vilja",
+    "fr": "un noyau (collectivement), c'est-à-dire un grain",
+    "hu": "egy mag (együttesen), azaz gabona",
+    "id": "kernel (secara kolektif), yaitu biji-bijian",
+    "it": "un nocciolo (collettivamente), cioè un grano",
+    "ja": "カーネル（総称）、すなわち穀物",
+    "ko": "커널(총칭), 즉 곡물",
+    "lt": "branduolys (bendrai), t. y. grūdas",
+    "lv": "kodols (kopā), t. i., graudi",
+    "nb": "en kjerne (kollektivt), dvs. korn",
+    "nl": "een kern (gezamenlijk), d.w.z. graan",
+    "pl": "jądro (zbiorczo), tj. ziarno",
+    "pt": "uma amêndoa (coletivamente), ou seja, um grão",
+    "ro": "un sâmbure (colectiv), adică o boabă",
+    "ru": "ядро (коллективное), т.е. зерно",
+    "sk": "jadro (spoločne), t. j. zrno",
+    "sl": "jedro (skupaj), tj. zrnje",
+    "sv": "en kärna (kollektivt), d.v.s. korn",
+    "tr": "bir çekirdek (topluca), yani tahıl",
+    "uk": "ядро (у сукупності), тобто зерно",
+    "zh": "颗（集体），即谷物"
+  },
+  "hebrew": "גֶּרֶשׂ",
+  "verses": [
+    "leviticus 2:14:8",
+    "leviticus 2:16:4"
+  ]
+}

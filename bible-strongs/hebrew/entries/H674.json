@@ -1,0 +1,42 @@
+{
+  "number": "H674",
+  "language": "hebrew",
+  "transliteration": "ʼappᵉthôm",
+  "pronunciation": "ap-pe-thome'",
+  "definition": "revenue; others at the last",
+  "kjvTranslation": "revenue.",
+  "translations": {
+    "bg": "приходи; други в последния",
+    "cs": "příjmy; ostatní na poslední",
+    "da": "indtægter; andre ved den sidste",
+    "de": "einnahmen; andere bei der letzten",
+    "el": "έσοδα- άλλοι στην τελευταία",
+    "es": "ingresos; otros en el último",
+    "et": "tulud; teised viimasel ajal",
+    "fi": "tulot; toiset viimeisessä",
+    "fr": "recettes ; d'autres à la dernière",
+    "hu": "bevételek; mások az utolsó",
+    "id": "pendapatan; yang lainnya pada akhirnya",
+    "it": "entrate; altri all'ultimo",
+    "ja": "収入を得る。",
+    "ko": "수익, 기타",
+    "lt": "pajamos; kiti paskutinį",
+    "lv": "ieņēmumi; citi pēdējā",
+    "nb": "inntekter; andre på den siste",
+    "nl": "inkomsten; anderen bij de laatste",
+    "pl": "przychód; inni na końcu",
+    "pt": "receitas; outros no último",
+    "ro": "venituri; alții la ultimul",
+    "ru": "доходы; другие - на последнем",
+    "sk": "príjmy; iní na poslednej",
+    "sl": "prihodki; drugi na zadnji",
+    "sv": "intäkter; andra vid den sista",
+    "tr": "gelir; diğerleri son",
+    "uk": "доходу; інші - в останню чергу",
+    "zh": "收入；其他人在最后"
+  },
+  "hebrew": "אַפְּתֹם",
+  "verses": [
+    "ezra 4:13:16"
+  ]
+}

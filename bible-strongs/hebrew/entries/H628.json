@@ -1,0 +1,42 @@
+{
+  "number": "H628",
+  "language": "hebrew",
+  "transliteration": "ʼăçpᵉçuph",
+  "pronunciation": "as-pes-oof'",
+  "definition": "gathered up together, i.e. a promiscuous assemblage (of people)",
+  "kjvTranslation": "mixt multitude.",
+  "translations": {
+    "bg": "събрани на едно място, т.е. безразборно събиране (на хора)",
+    "cs": "shromážděné, tj. promiskuitní shromáždění (lidí)",
+    "da": "samlet sammen, dvs. en promiskuøs forsamling (af mennesker)",
+    "de": "versammelt, d.h. eine bunt gemischte Ansammlung (von Menschen)",
+    "el": "συγκεντρωμένοι μαζί, δηλαδή μια άτακτη συνάθροιση (ανθρώπων)",
+    "es": "reunidos, es decir, una asamblea promiscua (de personas)",
+    "et": "kokku kogutud, st. paljuski kogunenud (inimeste) kooslus",
+    "fi": "koottu yhteen, ts. (ihmisten) sekalainen kokoontuminen",
+    "fr": "rassemblés, c'est-à-dire une assemblée hétéroclite (de personnes)",
+    "hu": "egybegyűltek, azaz egy összejövetel (emberekből álló) összefogás",
+    "id": "berkumpul bersama, yaitu kumpulan (orang) yang tidak teratur",
+    "it": "riuniti insieme, cioè un assembramento promiscuo (di persone)",
+    "ja": "寄り合い所帯",
+    "ko": "함께 모인, 즉 난잡한 (사람들의) 모임",
+    "lt": "susirinkę kartu, t. y. besibūriuojantys (žmonės)",
+    "lv": "sapulcējušies kopā, t. i., sapulcējušies kopā (cilvēki)",
+    "nb": "samlet sammen, dvs. en promiskuøs forsamling (av mennesker)",
+    "nl": "bijeengebracht, d.w.z. een bonte verzameling (van mensen)",
+    "pl": "zebrane razem, tj. różne zgromadzenia (ludzi)",
+    "pt": "reunidos, ou seja, um ajuntamento promíscuo (de pessoas)",
+    "ro": "adunat laolaltă, adică o adunare promiscuă (de oameni)",
+    "ru": "собранный вместе, т.е. беспорядочное сборище (людей)",
+    "sk": "zhromaždené, t. j. promiskuitné zhromaždenie (ľudí)",
+    "sl": "zbrani skupaj, tj. razposajeno zbrani (ljudje)",
+    "sv": "samlad tillsammans, dvs. en promiskuös samling (av människor)",
+    "tr": "bir araya toplanmış, yani (insanlardan oluşan) karışık bir topluluk",
+    "uk": "зібрані разом, тобто безладне зібрання (людей)",
+    "zh": "聚在一起，即杂乱无章的集会"
+  },
+  "hebrew": "אֲסְפְּסֻף",
+  "verses": [
+    "numbers 11:4:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4728",
+  "language": "hebrew",
+  "transliteration": "maqqâchâh",
+  "pronunciation": "mak-kaw-khaw'",
+  "definition": "something received, i.e. merchandise (purchased)",
+  "kjvTranslation": "ware.",
+  "hebrew": "מַקָּחָה",
+  "translations": {
+    "bg": "нещо получено, напр. стока (закупена)",
+    "cs": "něco přijatého, tj. zboží (zakoupené)",
+    "da": "noget modtaget, f.eks. merchandise (købt)",
+    "de": "etwas Erhaltenes, z. B. eine (gekaufte) Ware",
+    "el": "κάτι που παραλήφθηκε, π.χ. εμπόρευμα (αγορασμένο)",
+    "es": "algo recibido, es decir, mercancía (comprada)",
+    "et": "midagi saadud, s.t. kaup (ostetud)",
+    "fi": "jotakin vastaanotettua, esim. kauppatavaraa (ostettua)",
+    "fr": "quelque chose de reçu, c'est-à-dire une marchandise (achetée)",
+    "hu": "valami kapott, azaz áru (vásárolt)",
+    "id": "sesuatu yang diterima, yaitu barang dagangan (yang dibeli)",
+    "it": "qualcosa di ricevuto, ad esempio merce (acquistata)",
+    "ja": "もらいもの",
+    "ko": "받은 것, 즉 상품(구매)",
+    "lt": "ką nors gautą, t. y. prekę (nupirktą)",
+    "lv": "kaut kas saņemts, t.i., prece (iegādāta)",
+    "nb": "noe mottatt, f.eks. en vare (kjøpt)",
+    "nl": "iets ontvangen, d.w.z. koopwaar (gekocht)",
+    "pl": "coś otrzymanego, np. towar (zakupiony)",
+    "pt": "algo recebido, ou seja, uma mercadoria (comprada)",
+    "ro": "ceva primit, de exemplu marfă (cumpărată)",
+    "ru": "что-то полученное, т.е. товар (купленный)",
+    "sk": "niečo prijaté, t. j. tovar (zakúpený)",
+    "sl": "nekaj prejetega, npr. blago (kupljeno)",
+    "sv": "något mottaget, t.ex. en vara (köpt)",
+    "tr": "alınan bir şey, örneğin ticari mal (satın alınan)",
+    "uk": "щось отримане, тобто товар (куплений)",
+    "zh": "收到的东西，即（购买的）商品"
+  },
+  "verses": [
+    "nehemiah 10:32:4"
+  ]
+}

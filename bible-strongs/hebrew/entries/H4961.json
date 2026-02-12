@@ -1,0 +1,42 @@
+{
+  "number": "H4961",
+  "language": "hebrew",
+  "transliteration": "mishteh",
+  "pronunciation": "mish-teh'",
+  "definition": "a banquet",
+  "kjvTranslation": "banquet.",
+  "hebrew": "מִשְׁתֶּה",
+  "translations": {
+    "bg": "банкет",
+    "cs": "banket",
+    "da": "en banket",
+    "de": "ein Bankett",
+    "el": "ένα συμπόσιο",
+    "es": "un banquete",
+    "et": "bankett",
+    "fi": "juhlaillallinen",
+    "fr": "un banquet",
+    "hu": "bankett",
+    "id": "perjamuan",
+    "it": "un banchetto",
+    "ja": "宴会",
+    "ko": "연회",
+    "lt": "banketas",
+    "lv": "bankets",
+    "nb": "en bankett",
+    "nl": "een banket",
+    "pl": "bankiet",
+    "pt": "um banquete",
+    "ro": "un banchet",
+    "ru": "банкет",
+    "sk": "banket",
+    "sl": "pogostitev",
+    "sv": "en bankett",
+    "tr": "bir ziyafet",
+    "uk": "банкет",
+    "zh": "宴饮"
+  },
+  "verses": [
+    "daniel 5:10:6"
+  ]
+}

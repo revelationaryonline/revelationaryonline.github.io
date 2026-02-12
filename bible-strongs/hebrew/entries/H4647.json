@@ -1,0 +1,42 @@
+{
+  "number": "H4647",
+  "language": "hebrew",
+  "transliteration": "mappuach",
+  "pronunciation": "map-poo'-akh",
+  "definition": "the bellows (i.e. blower) of aforge",
+  "kjvTranslation": "bellows.",
+  "hebrew": "מַפֻּחַ",
+  "verses": [
+    "jeremiah 6:29:1"
+  ],
+  "translations": {
+    "bg": "мехът (т.е. вентилаторът) на ковачницата",
+    "cs": "měch (tj. dmychadlo) kovárny",
+    "da": "blæsebælgen (dvs. blæseren) på en smedje",
+    "de": "der Blasebalg (d.h. das Gebläse) einer Schmiede",
+    "el": "η φυσούνα (δηλ. ο φυσητήρας) του σιδηρουργείου",
+    "es": "el fuelle (es decir, el soplador) de aforge",
+    "et": "sepa puhur (st. puhur)",
+    "fi": "takomon palkeet (eli puhallin)",
+    "fr": "le soufflet d'une forge",
+    "hu": "a kovácsműhely fújtatója (azaz fúvója)",
+    "id": "bellow (yaitu blower) dari forge",
+    "it": "il soffietto (cioè la soffiatura) di una forgia",
+    "ja": "フォージのベローズ（送風機",
+    "ko": "단조의 벨로우즈(즉, 송풍기)",
+    "lt": "kaldinimo staklių sifonas (t. y. pūstuvas)",
+    "lv": "kalves silfons (t. i., pūtējs)",
+    "nb": "belgen (dvs. blåseren) til en smie",
+    "nl": "de blaasbalg van de afsmederij",
+    "pl": "miech (tj. dmuchawa) kuźni",
+    "pt": "o fole (ou seja, o soprador) de uma forja",
+    "ro": "burduful (adică suflanta) unei forje",
+    "ru": "сильфон (т.е. воздуходувка) кузницы",
+    "sk": "mech (t. j. dúchadlo) kovárne",
+    "sl": "meh (tj. puhalo) kovačije",
+    "sv": "bälgen (dvs. fläkten) på en smältugn",
+    "tr": "bir demirhanenin körüğü (yani üfleyici)",
+    "uk": "сильфон (тобто повітродувка) ковадла",
+    "zh": "风箱"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2818",
+  "language": "hebrew",
+  "transliteration": "chăshach",
+  "pronunciation": "khash-akh'",
+  "definition": "to be necessary (from the idea of convenience) or (transitively) to need",
+  "kjvTranslation": "careful, have need of.",
+  "translations": {
+    "bg": "да бъде необходим (от идеята за удобство) или (преходно) да се нуждае",
+    "cs": "být nutný (z myšlenky pohodlí) nebo (přechodně) potřebovat",
+    "da": "at være nødvendig (ud fra tanken om bekvemmelighed) eller (transitivt) at have brug for",
+    "de": "notwendig zu sein (von der Idee der Bequemlichkeit) oder (vorübergehend) zu brauchen",
+    "el": "να είναι απαραίτητο (από την ιδέα της ευκολίας) ή (μεταβατικά) να χρειάζεται",
+    "es": "ser necesario (de la idea de conveniencia) o (transitivamente) necesitar",
+    "et": "vajalikuks (mugavuse ideest) või (üleminekuliselt) vajalikuks",
+    "fi": "olla tarpeellinen (mukavuuden ajatuksesta) tai (siirtymävaiheessa) tarvita",
+    "fr": "être nécessaire (à partir de l'idée de commodité) ou (transitivement) avoir besoin",
+    "hu": "szükségesnek lenni (a kényelem eszméjéből) vagy (átmenetileg) szükség van rá",
+    "id": "menjadi perlu (dari ide kenyamanan) atau (secara sementara) menjadi kebutuhan",
+    "it": "essere necessario (dall'idea di convenienza) o (transitivamente) avere bisogno di",
+    "ja": "必要である（利便性から）、または（推移的に）必要である",
+    "ko": "(편리함의 개념에서) 필요하거나 (일시적으로) 필요하게 됩니다",
+    "lt": "būti būtinam (iš patogumo idėjos) arba (pereinamuoju būdu) būti reikalingam",
+    "lv": "būt nepieciešamam (no ērtības jēdziena) vai (pārejoši) būt vajadzīgam",
+    "nb": "å være nødvendig (ut fra tanken om bekvemmelighet) eller (transitivt) å trenge",
+    "nl": "noodzakelijk zijn (vanuit het idee van gemak) of (tijdelijk) nodig hebben",
+    "pl": "być koniecznym (od idei wygody) lub (przejściowo) potrzebować",
+    "pt": "ser necessário (a partir da ideia de conveniência) ou (transitivamente) precisar",
+    "ro": "a fi necesar (din ideea de comoditate) sau (tranzitiv) a avea nevoie",
+    "ru": "быть необходимым (от идеи удобства) или (транзитивно) нуждаться",
+    "sk": "byť potrebný (z myšlienky pohodlia) alebo (prechodne) potrebovať",
+    "sl": "biti potreben (iz ideje udobja) ali (prehodno) potrebovati",
+    "sv": "att vara nödvändig (från idén om bekvämlighet) eller (transitivt) att behöva",
+    "tr": "gerekli olmak (kolaylık fikrinden) veya (geçişli olarak) ihtiyaç duymak",
+    "uk": "бути необхідним (від ідеї зручності) або (транзитивно) потребувати",
+    "zh": "需要（从 \"方便 \"这一概念出发）或（过渡性地）需要"
+  },
+  "hebrew": "חֲשַׁח",
+  "verses": [
+    "ezra 6:9:1",
+    "daniel 3:16:9"
+  ]
+}

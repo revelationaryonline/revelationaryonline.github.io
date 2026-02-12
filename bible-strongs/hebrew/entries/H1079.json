@@ -1,0 +1,42 @@
+{
+  "number": "H1079",
+  "language": "hebrew",
+  "transliteration": "bâl",
+  "pronunciation": "bawl",
+  "definition": "properly, anxiety, i.e. (by implication) the heart (as its seat)",
+  "kjvTranslation": "heart.",
+  "translations": {
+    "bg": "правилно, тревога, т.е. (по подразбиране) сърцето (като негово седалище)",
+    "cs": "správně úzkost, tj. (implicitně) srdce (jako jeho sídlo)",
+    "da": "korrekt, angst, dvs. (underforstået) hjertet (som dets sæde)",
+    "de": "richtig, Angst, d.h. (implizit) das Herz (als sein Sitz)",
+    "el": "σωστά, το άγχος, δηλαδή (κατ' επέκταση) η καρδιά (ως έδρα της)",
+    "es": "propiamente, ansiedad, es decir (por implicación) el corazón (como su sede)",
+    "et": "õigesti, ärevus, s.t. (kaudselt) süda (kui selle asukoht)",
+    "fi": "oikeastaan ahdistus, eli (implisiittisesti) sydän (sen kotipaikkana)",
+    "fr": "proprement, l'anxiété, c'est-à-dire (par implication) le cœur (en tant que son siège)",
+    "hu": "helyesen, a szorongás, azaz (értelemszerűen) a szív (mint székhelye)",
+    "id": "dengan benar, kecemasan, yaitu (dengan implikasi) hati (sebagai tempat duduknya)",
+    "it": "propriamente, l'ansia, cioè (per implicazione) il cuore (come sua sede)",
+    "ja": "憂い",
+    "ko": "적절하게, 불안, 즉 (암시 적으로) 심장 (그 자리로서)",
+    "lt": "tinkamai, nerimas, t. y. (netiesiogiai) širdis (kaip jos buveinė)",
+    "lv": "pareizi, trauksme, t.i., (netieši) sirds (kā tās sēdeklis)",
+    "nb": "egentlig, angst, dvs. (underforstått) hjertet (som sitt sete)",
+    "nl": "goed, angst, d.w.z. (impliciet) het hart (als zijn zetel)",
+    "pl": "właściwie niepokój, tj. (w domyśle) serce (jako jego siedziba)",
+    "pt": "propriamente, ansiedade, ou seja, (por implicação) o coração (como sua sede)",
+    "ro": "corect, anxietate, adică (implicit) inima (ca sediu al acesteia)",
+    "ru": "правильно, беспокойство, т.е. (по смыслу) сердце (как его местонахождение)",
+    "sk": "správne, úzkosť, t. j. (v dôsledku) srdce (ako jeho sídlo)",
+    "sl": "pravilno, tesnoba, tj. (implicitno) srce (kot njegov sedež)",
+    "sv": "korrekt, ångest, dvs (underförstått) hjärtat (som dess säte)",
+    "tr": "uygun şekilde, kaygı, yani (ima yoluyla) kalp (onun yeri olarak)",
+    "uk": "власне, тривога, тобто (побічно) серце (як його місце)",
+    "zh": "虑，即（暗示）心（作为其座位）"
+  },
+  "hebrew": "בָּל",
+  "verses": [
+    "daniel 6:15:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6671",
+  "language": "hebrew",
+  "transliteration": "tsâhar",
+  "pronunciation": "tsaw-har'",
+  "definition": "to press out oil",
+  "kjvTranslation": "make oil.",
+  "hebrew": "צָהַר",
+  "translations": {
+    "bg": "за изстискване на масло",
+    "cs": "k lisování oleje",
+    "da": "til at presse olie ud",
+    "de": "zum Auspressen von Öl",
+    "el": "για να πιέσετε το λάδι",
+    "es": "exprimir el aceite",
+    "et": "õli väljapressimiseks",
+    "fi": "puristaa öljyä ulos",
+    "fr": "pour presser l'huile",
+    "hu": "az olaj kipréselése",
+    "id": "untuk menekan minyak",
+    "it": "per spremere l'olio",
+    "ja": "油を搾り出す",
+    "ko": "를 눌러 기름을 빼냅니다",
+    "lt": "išspausti aliejų",
+    "lv": "lai izspiestu eļļu",
+    "nb": "for å presse ut olje",
+    "nl": "om olie uit te persen",
+    "pl": "do wyciskania oleju",
+    "pt": "para extrair óleo",
+    "ro": "pentru a stoarce uleiul",
+    "ru": "для отжима масла",
+    "sk": "na lisovanie oleja",
+    "sl": "iztisniti olje",
+    "sv": "för att pressa ut olja",
+    "tr": "yağ çıkarmak için",
+    "uk": "щоб вичавити нафту",
+    "zh": "榨油"
+  },
+  "verses": [
+    "job 24:11:2"
+  ]
+}

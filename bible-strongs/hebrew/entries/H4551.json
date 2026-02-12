@@ -1,0 +1,43 @@
+{
+  "number": "H4551",
+  "language": "hebrew",
+  "transliteration": "maççâʻ",
+  "pronunciation": "mas-saw'",
+  "definition": "a missile (spear or arrow); also a quarry (whence stones are, as it were, ejected)",
+  "kjvTranslation": "before it was brought, dart.",
+  "hebrew": "מַסָּע",
+  "verses": [
+    "firstKings 6:7:4",
+    "job 41:18:5"
+  ],
+  "translations": {
+    "bg": "снаряд (копие или стрела); също и каменоломна (откъдето се изхвърлят камъни)",
+    "cs": "střela (oštěp nebo šíp); také lom (z něhož jsou kameny vyhazovány)",
+    "da": "et missil (spyd eller pil); også et stenbrud (hvorfra der så at sige kastes sten ud)",
+    "de": "ein Geschoss (Speer oder Pfeil); auch ein Steinbruch (aus dem gleichsam Steine herausgeschleudert werden)",
+    "el": "ένα βλήμα (δόρυ ή βέλος)- επίσης ένα λατομείο (απ' όπου εκτοξεύονται πέτρες)",
+    "es": "un proyectil (lanza o flecha); también una cantera (de donde se expulsan, por así decirlo, piedras)",
+    "et": "mürsk (oda või nool); ka karjäär (kust justkui paisatakse kive välja)",
+    "fi": "ohjus (keihäs tai nuoli); myös louhos (josta kivet ikään kuin heitetään ulos)",
+    "fr": "un projectile (lance ou flèche) ; également une carrière (d'où les pierres sont en quelque sorte éjectées)",
+    "hu": "rakéta (lándzsa vagy nyílvessző); továbbá kőbánya (ahonnan a köveket mintegy kidobják)",
+    "id": "rudal (tombak atau panah); juga tambang (tempat batu-batu dilontarkan)",
+    "it": "un missile (lancia o freccia); anche una cava (da cui vengono, per così dire, espulse le pietre)",
+    "ja": "矢玉",
+    "ko": "미사일(창 또는 화살); 채석장(돌을 토출하는 곳) 역시 마찬가지입니다",
+    "lt": "sviedinys (ietis arba strėlė); taip pat karjeras (iš kurio išmetami akmenys)",
+    "lv": "šāviņš (šķēps vai bulta); arī karjers (no kura tiek izmesti akmeņi)",
+    "nb": "et missil (spyd eller pil); også et steinbrudd (hvorfra steiner så å si slynges ut)",
+    "nl": "een projectiel (speer of pijl); ook een steengroeve (waar stenen als het ware worden uitgeworpen)",
+    "pl": "pocisk (włócznia lub strzała); także kamieniołom (z którego niejako wyrzucane są kamienie)",
+    "pt": "um míssil (lança ou flecha); também uma pedreira (de onde as pedras são, por assim dizer, ejectadas)",
+    "ro": "o rachetă (suliță sau săgeată); de asemenea, o carieră (de unde pietrele sunt, ca și cum ar fi, ejectate)",
+    "ru": "снаряд (копье или стрела); также каменоломня (откуда выбрасываются камни)",
+    "sk": "strela (oštep alebo šíp); tiež kameňolom (odkiaľ sa vyhadzujú kamene)",
+    "sl": "izstrelek (kopje ali puščica); tudi kamnolom (od koder se izstreljujejo kamni)",
+    "sv": "en missil (spjut eller pil); även ett stenbrott (varifrån stenar så att säga kastas ut)",
+    "tr": "bir füze (mızrak veya ok); ayrıca bir taş ocağı (taşların fırlatıldığı yer)",
+    "uk": "снаряд (спис або стріла); також каменоломня (звідки каміння так би мовити викидається)",
+    "zh": "镖（矛或箭）；也指采石场（石块从这里被弹射出去）。"
+  }
+}

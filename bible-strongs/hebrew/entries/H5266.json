@@ -1,0 +1,42 @@
+{
+  "number": "H5266",
+  "language": "hebrew",
+  "transliteration": "nâçaq",
+  "pronunciation": "naw-sak'",
+  "definition": "to go up",
+  "kjvTranslation": "ascend.",
+  "hebrew": "נָסַק",
+  "translations": {
+    "bg": "да се издига",
+    "cs": "nahoru",
+    "da": "at gå op",
+    "de": "nach oben zu gehen",
+    "el": "να ανέβει",
+    "es": "subir",
+    "et": "ülespoole minekuks",
+    "fi": "nousta ylöspäin",
+    "fr": "monter",
+    "hu": "hogy feljebb menjünk",
+    "id": "untuk naik",
+    "it": "salire",
+    "ja": "上がる",
+    "ko": "올라가려면",
+    "lt": "kilti aukštyn",
+    "lv": "pacelties uz augšu",
+    "nb": "å gå opp",
+    "nl": "om omhoog te gaan",
+    "pl": "iść w górę",
+    "pt": "para subir",
+    "ro": "să urce",
+    "ru": "подниматься",
+    "sk": "stúpať",
+    "sl": "se povzpeti",
+    "sv": "att gå upp",
+    "tr": "yukarı çıkmak için",
+    "uk": "щоб піднятися",
+    "zh": "上升"
+  },
+  "verses": [
+    "psalms 139:8:1"
+  ]
+}

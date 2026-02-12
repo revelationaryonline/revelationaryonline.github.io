@@ -1,0 +1,42 @@
+{
+  "number": "H6841",
+  "language": "hebrew",
+  "transliteration": "tsᵉphîyr",
+  "pronunciation": "tsef-eer'",
+  "definition": "a he-goat",
+  "kjvTranslation": "he (goat).",
+  "hebrew": "צְפִיר",
+  "translations": {
+    "bg": "козел",
+    "cs": "koza",
+    "da": "en ged",
+    "de": "ein Ziegenbock",
+    "el": "ένα κατσικάκι",
+    "es": "una cabra",
+    "et": "kitsepoeg",
+    "fi": "vuohi",
+    "fr": "un bouc",
+    "hu": "kecskebak",
+    "id": "seekor kambing jantan",
+    "it": "un caprone",
+    "ja": "ヤギ",
+    "ko": "염소",
+    "lt": "ožka",
+    "lv": "kaza",
+    "nb": "en geitebukk",
+    "nl": "een bok",
+    "pl": "koza",
+    "pt": "um bode",
+    "ro": "o capră",
+    "ru": "козёл",
+    "sk": "koza",
+    "sl": "koza",
+    "sv": "en bock",
+    "tr": "bir he-goat",
+    "uk": "козел",
+    "zh": "咩"
+  },
+  "verses": [
+    "ezra 6:17:12"
+  ]
+}

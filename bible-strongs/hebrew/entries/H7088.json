@@ -1,0 +1,42 @@
+{
+  "number": "H7088",
+  "language": "hebrew",
+  "transliteration": "qâphad",
+  "pronunciation": "kaw-fad'",
+  "definition": "to contract, i.e. roll together",
+  "kjvTranslation": "cut off.",
+  "hebrew": "קָפַד",
+  "translations": {
+    "bg": "да се свива, т.е. да се свлича",
+    "cs": "smršťovat, tj. srolovat k sobě",
+    "da": "at trække sig sammen, dvs. rulle sammen",
+    "de": "sich zusammenziehen, d.h. zusammenrollen",
+    "el": "να συρρικνωθεί, δηλαδή να κυλήσει μαζί",
+    "es": "contraerse, es decir, enrollarse",
+    "et": "kokku tõmbuda, st kokku rulluda",
+    "fi": "supistua eli rullata yhteen",
+    "fr": "se contracter, c'est-à-dire s'enrouler",
+    "hu": "összehúzódni, azaz összetekeredni",
+    "id": "untuk berkontraksi, yaitu menggulung bersama",
+    "it": "contrarsi, cioè arrotolarsi",
+    "ja": "を収縮させる。",
+    "ko": "계약, 즉 함께 굴러가다",
+    "lt": "susitraukti, t. y. susisukti",
+    "lv": "sarauties, t. i., savilkties kopā",
+    "nb": "å trekke seg sammen, dvs. rulle sammen",
+    "nl": "samentrekken, d.w.z. samenrollen",
+    "pl": "kurczyć się, tj. zwijać się",
+    "pt": "contrair-se, ou seja, enrolar-se",
+    "ro": "a se contracta, adică a se rula împreună",
+    "ru": "сжиматься, т.е. сворачиваться",
+    "sk": "zmršťovať, t. j. zrolovať sa",
+    "sl": "skrčiti se, tj. zvijemo se skupaj",
+    "sv": "att dra ihop sig, dvs. rulla ihop",
+    "tr": "büzülmek, yani birlikte yuvarlanmak",
+    "uk": "скорочуватися, тобто згортатися разом",
+    "zh": "收缩"
+  },
+  "verses": [
+    "isaiah 38:12:6"
+  ]
+}

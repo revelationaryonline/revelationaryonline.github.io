@@ -1,0 +1,43 @@
+{
+  "number": "H7754",
+  "language": "hebrew",
+  "transliteration": "sôwk",
+  "pronunciation": "soke",
+  "definition": "a branch (as interleaved)",
+  "kjvTranslation": "bough.",
+  "hebrew": "שׂוֹךְ",
+  "translations": {
+    "bg": "разклонение (като преплитане)",
+    "cs": "větev (jako prokládaná)",
+    "da": "en gren (som interleaved)",
+    "de": "einen Zweig (wie verschachtelt)",
+    "el": "ένα υποκατάστημα (ως διαπλεκόμενο)",
+    "es": "una rama (como intercalada)",
+    "et": "haru (nagu interleaved)",
+    "fi": "haara (lomitettuna)",
+    "fr": "une branche (en tant qu'intercalaire)",
+    "hu": "egy ág (mint interleaved)",
+    "id": "cabang (seperti yang disisipkan)",
+    "it": "un ramo (come interleaved)",
+    "ja": "分岐",
+    "ko": "분기(인터리브)",
+    "lt": "atšakos (kaip perskirstytos)",
+    "lv": "filiāle (kā starpsavienojums)",
+    "nb": "en gren (som interleaved)",
+    "nl": "een vertakking (als interleaved)",
+    "pl": "gałąź (jako przeplatana)",
+    "pt": "um ramo (como intercalado)",
+    "ro": "o ramură (ca intercalat)",
+    "ru": "ветвь (как чередование)",
+    "sk": "vetva (ako preložená)",
+    "sl": "veja (kot prepletena)",
+    "sv": "en gren (som interleaved)",
+    "tr": "bir dal (serpiştirilmiş olarak)",
+    "uk": "гілка (як чергуються)",
+    "zh": "分行"
+  },
+  "verses": [
+    "judges 9:48:15",
+    "judges 9:49:5"
+  ]
+}

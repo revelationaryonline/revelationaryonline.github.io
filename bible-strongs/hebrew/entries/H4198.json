@@ -1,0 +1,42 @@
+{
+  "number": "H4198",
+  "language": "hebrew",
+  "transliteration": "mâzeh",
+  "pronunciation": "maw-zeh'",
+  "definition": "exhausted",
+  "kjvTranslation": "burnt.",
+  "hebrew": "מָזֶה",
+  "translations": {
+    "bg": "изтощен",
+    "cs": "vyčerpaný",
+    "da": "udmattet",
+    "de": "erschöpft",
+    "el": "εξαντλημένο",
+    "es": "agotado",
+    "et": "kurnatud",
+    "fi": "uupunut",
+    "fr": "épuisé",
+    "hu": "kimerült",
+    "id": "kelelahan",
+    "it": "esaurito",
+    "ja": "疲労困憊",
+    "ko": "지친",
+    "lt": "išsekęs",
+    "lv": "izsmelts",
+    "nb": "utslitt",
+    "nl": "uitgeput",
+    "pl": "wyczerpany",
+    "pt": "esgotado",
+    "ro": "epuizat",
+    "ru": "измученный",
+    "sk": "vyčerpaný",
+    "sl": "izčrpan",
+    "sv": "utmattad",
+    "tr": "tükenmiş",
+    "uk": "виснажений",
+    "zh": "耗尽"
+  },
+  "verses": [
+    "deuteronomy 32:24:0"
+  ]
+}

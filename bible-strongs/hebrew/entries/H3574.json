@@ -1,0 +1,42 @@
+{
+  "number": "H3574",
+  "language": "hebrew",
+  "transliteration": "kôwshârâh",
+  "pronunciation": "ko-shaw-raw'",
+  "definition": "prosperity; in plural freedom",
+  "kjvTranslation": "[idiom] chain.",
+  "translations": {
+    "bg": "просперитет; в множествено число свобода",
+    "cs": "prosperita; v množném čísle svoboda",
+    "da": "velstand; i flertal frihed",
+    "de": "wohlstand; im Plural Freiheit",
+    "el": "ευημερία- στον πληθυντικό ελευθερία",
+    "es": "prosperidad; en plural libertad",
+    "et": "heaolu; mitmuses vabadus",
+    "fi": "vauraus; monikossa vapaus",
+    "fr": "la prospérité ; au pluriel la liberté",
+    "hu": "jólét; többes számban szabadság",
+    "id": "kemakmuran; dalam kebebasan yang plural",
+    "it": "prosperità; al plurale libertà",
+    "ja": "繁栄；複数形では自由",
+    "ko": "번영; 복수의 자유",
+    "lt": "klestėjimas; daugiskaitoje laisvė",
+    "lv": "labklājība; daudzskaitlī brīvība",
+    "nb": "velstand; i flertall frihet",
+    "nl": "welvaart; in meervoud vrijheid",
+    "pl": "dobrobyt; w liczbie mnogiej wolność",
+    "pt": "prosperidade; no plural, liberdade",
+    "ro": "prosperitate; la plural libertate",
+    "ru": "процветание; во множественном числе свобода",
+    "sk": "prosperita; v množnom čísle sloboda",
+    "sl": "blaginja; v množini svoboda",
+    "sv": "välstånd; i plural frihet",
+    "tr": "refah; çoğul olarak özgürlük",
+    "uk": "процвітання; у множині свобода",
+    "zh": "繁荣；复数为自由"
+  },
+  "hebrew": "כּוֹשָׁרָה",
+  "verses": [
+    "psalms 68:7:6"
+  ]
+}

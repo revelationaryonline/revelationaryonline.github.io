@@ -1,0 +1,42 @@
+{
+  "number": "H7583",
+  "language": "hebrew",
+  "transliteration": "shâʼâh",
+  "pronunciation": "shaw-aw'",
+  "definition": "to stun, i.e. (intransitively) be astonished",
+  "kjvTranslation": "wonder.",
+  "hebrew": "שָׁאָה",
+  "translations": {
+    "bg": "да зашеметява, т.е. (в непреходно наклонение) да поразява",
+    "cs": "ohromit, tj. (nepřenosně) být ohromen",
+    "da": "at bedøve, dvs. (intransitivt) blive forbløffet",
+    "de": "verblüffen, d.h. (intransitiv) erstaunt sein",
+    "el": "να ζαλίζομαι, δηλ. (ενδοιαστικά) να εκπλήσσομαι",
+    "es": "aturdir, es decir, (intransitivamente) asombrarse",
+    "et": "uimastada, s.t. (intransitiivselt) hämmastada",
+    "fi": "tainnuttaa, eli (intransitiivisesti) hämmästyttää",
+    "fr": "de stupéfier, c'est-à-dire (intransitivement) d'être stupéfait",
+    "hu": "megdöbbenteni, azaz (intranzitív módon) meghökkenteni",
+    "id": "untuk mengejutkan, yaitu (secara intransitif) menjadi takjub",
+    "it": "stordire, cioè (intransitivamente) essere stupiti",
+    "ja": "唖然とさせる、すなわち（内在的に）驚愕させる",
+    "ko": "기절하다, 즉 (과도적으로) 놀란다",
+    "lt": "apstulbinti, t. y. (intranzityviai) nustebinti",
+    "lv": "apstulbināt, t.i., (intranzitīvi) pārsteigt",
+    "nb": "å forbløffe, dvs. (intransitivt) bli forbauset",
+    "nl": "bedwelmen, d.w.z. (onovergankelijk) verbijsterd zijn",
+    "pl": "ogłuszyć, tj. (nieprzechodnie) być zdumionym",
+    "pt": "atordoar, ou seja, (intransitivamente) ficar espantado",
+    "ro": "a uimi, adică (intransitiv) a fi uimit",
+    "ru": "ошеломить, т.е. (интранзитивно) поразить",
+    "sk": "ohromiť, t. j. (nepriamo) byť ohromený",
+    "sl": "osupniti, tj. (intranzitivno) biti osupel",
+    "sv": "att bedöva, d.v.s. (intransitivt) bli förvånad",
+    "tr": "sersemletmek, yani (geçişsiz olarak) hayrete düşürmek",
+    "uk": "приголомшувати, тобто (неперехідно) дивуватися",
+    "zh": "瞠目结舌"
+  },
+  "verses": [
+    "genesis 24:21:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6983",
+  "language": "hebrew",
+  "transliteration": "qôwsh",
+  "pronunciation": "koshe",
+  "definition": "to set a trap",
+  "kjvTranslation": "lay a snare.",
+  "hebrew": "קוֹשׁ",
+  "translations": {
+    "bg": "да поставите капан",
+    "cs": "nastražit past",
+    "da": "at sætte en fælde",
+    "de": "eine Falle zu stellen",
+    "el": "να στήσει μια παγίδα",
+    "es": "tender una trampa",
+    "et": "püünise seadmiseks",
+    "fi": "asettaa ansa",
+    "fr": "pour tendre un piège",
+    "hu": "csapdát állítani",
+    "id": "untuk memasang jebakan",
+    "it": "per tendere una trappola",
+    "ja": "罠を仕掛ける",
+    "ko": "함정을 설정하려면",
+    "lt": "paspęsti spąstus",
+    "lv": "uzstādīt lamatas",
+    "nb": "å sette opp en felle",
+    "nl": "een val zetten",
+    "pl": "zastawić pułapkę",
+    "pt": "para montar uma armadilha",
+    "ro": "pentru a întinde o capcană",
+    "ru": "расставить ловушку",
+    "sk": "nastražiť pascu",
+    "sl": "nastaviti past",
+    "sv": "att gillra en fälla",
+    "tr": "tuzak kurmak için",
+    "uk": "розставити пастку",
+    "zh": "设圈套"
+  },
+  "verses": [
+    "isaiah 29:21:5"
+  ]
+}

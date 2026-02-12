@@ -1,0 +1,42 @@
+{
+  "number": "H7371",
+  "language": "hebrew",
+  "transliteration": "rachath",
+  "pronunciation": "rakh'-ath",
+  "definition": "a winnowing-fork (as blowing the chaff away)",
+  "kjvTranslation": "shovel.",
+  "hebrew": "רַחַת",
+  "translations": {
+    "bg": "витло за събиране на плявата (за издухване на плявата)",
+    "cs": "vidle (jako odfoukávání plev)",
+    "da": "en vindegaffel (som blæser avnerne væk)",
+    "de": "eine Wäschegabel (um die Spreu wegzublasen)",
+    "el": "ένα πιρούνι για το ξεκαθάρισμα (για το ξεκαθάρισμα της ήρας)",
+    "es": "una horquilla de aventar (como para soplar la paja)",
+    "et": "võsahark (nagu võsa ära puhumine)",
+    "fi": "siivoushaarukka (akan puhaltaminen pois)",
+    "fr": "une fourche à vanner (pour enlever l'ivraie)",
+    "hu": "egy kaszálóvilla (mint a pelyva elfújása)",
+    "id": "garpu penampi (untuk menampi sekam)",
+    "it": "una forca per la vagliatura (per soffiare via la pula)",
+    "ja": "箕",
+    "ko": "탈곡 포크(왕겨를 날려버리는 용도로 사용)",
+    "lt": "šakė (kaip pūdymas)",
+    "lv": "vējdakša (kā pelavu pūšana)",
+    "nb": "en vingegaffel (som blåser agnene bort)",
+    "nl": "een lier (om het kaf weg te blazen)",
+    "pl": "widły odsiewające (zdmuchujące plewy)",
+    "pt": "uma forquilha de peneirar (para soprar a palha)",
+    "ro": "o furcă de vânturat (pentru a îndepărta paiele)",
+    "ru": "вилы для просеивания (для выметания мякины)",
+    "sk": "vidly (ako odfukovanie plev)",
+    "sl": "vilice (za odmetavanje plev)",
+    "sv": "en vindgaffel (som blåser bort agnarna)",
+    "tr": "bir hasat çatalı (samanı üfleyerek uzaklaştırmak gibi)",
+    "uk": "вила (для здування полови)",
+    "zh": "簸箕"
+  },
+  "verses": [
+    "isaiah 30:24:9"
+  ]
+}

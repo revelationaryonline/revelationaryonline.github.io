@@ -1,0 +1,43 @@
+{
+  "number": "H4192",
+  "language": "hebrew",
+  "transliteration": "Mûwth",
+  "pronunciation": "mooth",
+  "definition": "'To die for the son', probably the title of a popular song",
+  "kjvTranslation": "death, Muthlabben.",
+  "hebrew": "מוּת",
+  "translations": {
+    "bg": "\"Да умреш за сина\", вероятно заглавие на популярна песен",
+    "cs": "\"Zemřít pro syna\", pravděpodobně název populární písně",
+    "da": "'At dø for sønnen', sandsynligvis titlen på en populær sang",
+    "de": "für den Sohn sterben\", wahrscheinlich der Titel eines Volksliedes",
+    "el": "\"Να πεθάνεις για το γιο\", πιθανώς ο τίτλος ενός δημοφιλούς τραγουδιού",
+    "es": "'Morir por el hijo', probablemente el título de una canción popular",
+    "et": "\"Surra poja eest\", ilmselt ühe populaarse laulu pealkiri",
+    "fi": "\"Kuolla pojan puolesta\", luultavasti suositun laulun nimi",
+    "fr": "mourir pour le fils\", probablement le titre d'une chanson populaire",
+    "hu": "\"Meghalni a fiúért\", valószínűleg egy népszerű dal címe",
+    "id": "'Mati demi anak', mungkin itu judul sebuah lagu populer",
+    "it": "morire per il figlio\", probabilmente il titolo di una canzone popolare",
+    "ja": "息子のために死ぬ」、おそらく流行歌のタイトルだろう",
+    "ko": "'아들을 위해 죽는다', 아마도 대중가요의 제목일 겁니다",
+    "lt": "\"Mirti už sūnų\", tikriausiai populiarios dainos pavadinimas",
+    "lv": "\"mirt par dēlu\", iespējams, populāras dziesmas nosaukums",
+    "nb": "\"Å dø for sønnen\", trolig tittelen på en populær sang",
+    "nl": "sterven voor de zoon', waarschijnlijk de titel van een populair liedje",
+    "pl": "\"Umrzeć za syna\", prawdopodobnie tytuł popularnej piosenki",
+    "pt": "\"To die for the son\", provavelmente o título de uma canção popular",
+    "ro": "\"To die for the son\", probabil titlul unui cântec popular",
+    "ru": "\"Умереть за сына\", вероятно, название популярной песни",
+    "sk": "\"Zomrieť za syna\", pravdepodobne názov populárnej piesne",
+    "sl": "\"Umreti za sina\", verjetno naslov priljubljene pesmi",
+    "sv": "\"Att dö för sonen\", troligen titeln på en populär sång",
+    "tr": "'To die for the son', muhtemelen popüler bir şarkının adı",
+    "uk": "\"Вмерти за сина\", ймовірно, назва популярної пісні",
+    "zh": "为子而死\"，可能是一首流行歌曲的歌名"
+  },
+  "verses": [
+    "psalms 9:1:2",
+    "psalms 48:15:9"
+  ]
+}

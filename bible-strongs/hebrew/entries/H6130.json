@@ -1,0 +1,42 @@
+{
+  "number": "H6130",
+  "language": "hebrew",
+  "transliteration": "ʻÂqân",
+  "pronunciation": "aw-kawn'",
+  "definition": "Akan, an Idummaean",
+  "kjvTranslation": "Akan. Compare H3292 (יַעֲקָן).",
+  "hebrew": "עָקָן",
+  "translations": {
+    "bg": "Акански, идумейски",
+    "cs": "Akan, Idumejec",
+    "da": "Akan, en Idummaean",
+    "de": "Akan, ein Idummaeer",
+    "el": "Akan, ένας Idummaean",
+    "es": "Akan, un idumeo",
+    "et": "Akan, idumalane",
+    "fi": "Akan, idummaalainen",
+    "fr": "Akan, un Idummaean",
+    "hu": "Akan, egy idumai",
+    "id": "Akan, seorang Idummaean",
+    "it": "Akan, un idumeo",
+    "ja": "アカン、イドマエ人",
+    "ko": "아칸, 이둠매안",
+    "lt": "Akan, Idumėja",
+    "lv": "Akan, idumiešu",
+    "nb": "Akan, en Idummaean",
+    "nl": "Akan, een Idummaeër",
+    "pl": "Akan, Idumejczyk",
+    "pt": "Akan, um Idummaean",
+    "ro": "Akan, un Idummaean",
+    "ru": "Акан, идумеянин",
+    "sk": "Akan, Idumejčan",
+    "sl": "Akan, idumejski jezik",
+    "sv": "Akan, en Idummaean",
+    "tr": "Akan, bir Idummaean",
+    "uk": "Акан, ідумеєць",
+    "zh": "阿坎语"
+  },
+  "verses": [
+    "genesis 36:27:5"
+  ]
+}

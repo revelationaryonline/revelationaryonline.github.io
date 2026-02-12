@@ -1,0 +1,43 @@
+{
+  "number": "H5558",
+  "language": "hebrew",
+  "transliteration": "çeleph",
+  "pronunciation": "seh'-lef",
+  "definition": "distortion, i.e. (figuratively) viciousness",
+  "kjvTranslation": "perverseness.",
+  "hebrew": "סֶלֶף",
+  "translations": {
+    "bg": "изкривяване, т.е. (в преносен смисъл) порочност",
+    "cs": "zkreslení, tj. (přeneseně) zlomyslnost",
+    "da": "forvrængning, dvs. (i overført betydning) ondskabsfuldhed",
+    "de": "verzerrung, d.h. (im übertragenen Sinne) Bösartigkeit",
+    "el": "διαστρέβλωση, δηλαδή (μεταφορικά) φαυλότητα",
+    "es": "distorsión, es decir (en sentido figurado) vileza",
+    "et": "moonutamine, st (piltlikult öeldes) tigedus",
+    "fi": "vääristymä, eli (kuvaannollisesti) ilkeys",
+    "fr": "déformation, c'est-à-dire (au sens figuré) méchanceté",
+    "hu": "torzítás, azaz (átvitt értelemben) rosszindulatúság",
+    "id": "distorsi, yaitu (secara kiasan) kekejaman",
+    "it": "distorsione, cioè (in senso figurato) cattiveria",
+    "ja": "歪曲、すなわち（比喩的に）悪意",
+    "ko": "왜곡, 즉 (비유적으로) 악의성",
+    "lt": "iškraipymas, t. y. (perkeltine prasme) ydingumas",
+    "lv": "izkropļojums, t.i., (pārnestā nozīmē) ļaunprātība",
+    "nb": "forvrengning, dvs. (i overført betydning) ondskapsfullhet",
+    "nl": "vervorming, d.w.z. (figuurlijk) boosaardigheid",
+    "pl": "zniekształcenie, tj. (w przenośni) zaciekłość",
+    "pt": "distorção, ou seja, (figurativamente) maldade",
+    "ro": "denaturare, adică (la figurat) răutate",
+    "ru": "искажение, т.е. (фигурально) порочность",
+    "sk": "deformácia, t. j. (obrazne) zlomyseľnosť",
+    "sl": "izkrivljanje, tj. (v prenesenem pomenu) zloba",
+    "sv": "förvrängning, dvs. (bildligt talat) elakhet",
+    "tr": "çarpıtma, yani (mecazi olarak) gaddarlık",
+    "uk": "спотворення, тобто (образно) порочність",
+    "zh": "扭曲，即（比喻）恶毒"
+  },
+  "verses": [
+    "proverbs 11:3:3",
+    "proverbs 15:4:4"
+  ]
+}

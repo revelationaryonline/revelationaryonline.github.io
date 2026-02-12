@@ -1,0 +1,43 @@
+{
+  "number": "H5165",
+  "language": "hebrew",
+  "transliteration": "nechâmâh",
+  "pronunciation": "nekh-aw-maw'",
+  "definition": "consolation",
+  "kjvTranslation": "comfort.",
+  "hebrew": "נֶחָמָה",
+  "translations": {
+    "bg": "утеха",
+    "cs": "útěcha",
+    "da": "trøst",
+    "de": "trostpflaster",
+    "el": "παρηγοριά",
+    "es": "consolación",
+    "et": "lohutus",
+    "fi": "lohdutus",
+    "fr": "consolation",
+    "hu": "vigasz",
+    "id": "penghiburan",
+    "it": "consolazione",
+    "ja": "慰め",
+    "ko": "위로",
+    "lt": "paguoda",
+    "lv": "mierinājums",
+    "nb": "trøst",
+    "nl": "troost",
+    "pl": "pocieszenie",
+    "pt": "consolação",
+    "ro": "consolare",
+    "ru": "утешение",
+    "sk": "útecha",
+    "sl": "tolažba",
+    "sv": "tröst",
+    "tr": "teselli",
+    "uk": "розрада",
+    "zh": "安慰"
+  },
+  "verses": [
+    "job 6:10:2",
+    "psalms 119:50:1"
+  ]
+}

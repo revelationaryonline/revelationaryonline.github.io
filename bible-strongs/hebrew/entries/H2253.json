@@ -1,0 +1,42 @@
+{
+  "number": "H2253",
+  "language": "hebrew",
+  "transliteration": "chebyôwn",
+  "pronunciation": "kheb-yone'",
+  "definition": "a concealment",
+  "kjvTranslation": "hiding.",
+  "translations": {
+    "bg": "укриване",
+    "cs": "úkryt",
+    "da": "et skjul",
+    "de": "eine Verbergung",
+    "el": "μια απόκρυψη",
+    "es": "una ocultación",
+    "et": "varjamine",
+    "fi": "kätkeminen",
+    "fr": "une dissimulation",
+    "hu": "egy rejtekhely",
+    "id": "penyembunyian",
+    "it": "un occultamento",
+    "ja": "隠蔽",
+    "ko": "은폐",
+    "lt": "slėptuvė",
+    "lv": "slēptuve",
+    "nb": "et skjul",
+    "nl": "een verhulling",
+    "pl": "ukrycie",
+    "pt": "uma ocultação",
+    "ro": "o ascundere",
+    "ru": "сокрытие",
+    "sk": "úkryt",
+    "sl": "skrivanje",
+    "sv": "en döljning",
+    "tr": "bir gizleme",
+    "uk": "приховування",
+    "zh": "隐匿"
+  },
+  "hebrew": "חֶבְיוֹן",
+  "verses": [
+    "habakkuk 3:4:7"
+  ]
+}

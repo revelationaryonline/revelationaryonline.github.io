@@ -1,0 +1,42 @@
+{
+  "number": "H2642",
+  "language": "hebrew",
+  "transliteration": "cheçrôwn",
+  "pronunciation": "khes-rone'",
+  "definition": "deficiency",
+  "kjvTranslation": "wanting.",
+  "translations": {
+    "bg": "недостиг",
+    "cs": "nedostatek",
+    "da": "mangel",
+    "de": "mangel",
+    "el": "ανεπάρκεια",
+    "es": "deficiencia",
+    "et": "defitsiit",
+    "fi": "puute",
+    "fr": "déficience",
+    "hu": "hiányosság",
+    "id": "kekurangan",
+    "it": "carenza",
+    "ja": "不足",
+    "ko": "결핍",
+    "lt": "trūkumas",
+    "lv": "trūkums",
+    "nb": "mangel",
+    "nl": "tekort",
+    "pl": "niedobór",
+    "pt": "deficiência",
+    "ro": "deficiență",
+    "ru": "недостаток",
+    "sk": "nedostatok",
+    "sl": "pomanjkanje",
+    "sv": "brist",
+    "tr": "eksiklik",
+    "uk": "дефіцит",
+    "zh": "亏欠"
+  },
+  "hebrew": "חֶסְרוֹן",
+  "verses": [
+    "ecclesiastes 1:15:4"
+  ]
+}

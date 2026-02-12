@@ -1,0 +1,42 @@
+{
+  "number": "H5075",
+  "language": "hebrew",
+  "transliteration": "nᵉdad",
+  "pronunciation": "ned-ad'",
+  "definition": "to depart",
+  "kjvTranslation": "go from.",
+  "hebrew": "נְדַד",
+  "translations": {
+    "bg": "да отпътува",
+    "cs": "k odjezdu",
+    "da": "at tage af sted",
+    "de": "zum Abflug",
+    "el": "να αναχωρήσει",
+    "es": "partir",
+    "et": "lahkuda",
+    "fi": "lähteä",
+    "fr": "partir",
+    "hu": "indulni",
+    "id": "untuk berangkat",
+    "it": "partire",
+    "ja": "出発する",
+    "ko": "출발",
+    "lt": "išvykti",
+    "lv": "izbraukt",
+    "nb": "til avreise",
+    "nl": "vertrekken",
+    "pl": "odejść",
+    "pt": "partir",
+    "ro": "să plece",
+    "ru": "уезжать",
+    "sk": "odísť",
+    "sl": "oditi",
+    "sv": "att avgå",
+    "tr": "ayrılmak için",
+    "uk": "від'їжджати",
+    "zh": "启程"
+  },
+  "verses": [
+    "daniel 6:19:11"
+  ]
+}

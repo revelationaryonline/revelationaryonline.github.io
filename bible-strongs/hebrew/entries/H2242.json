@@ -1,0 +1,42 @@
+{
+  "number": "H2242",
+  "language": "hebrew",
+  "transliteration": "Zêthar",
+  "pronunciation": "zay-thar'",
+  "definition": "Zethar, a eunuch of Xerxes",
+  "kjvTranslation": "Zethar. j",
+  "translations": {
+    "bg": "Зетхар, евнух на Ксеркс",
+    "cs": "Zethar, Xerxův eunuch",
+    "da": "Zethar, en af Xerxes' eunukker",
+    "de": "Zethar, ein Eunuch von Xerxes",
+    "el": "Zethar, ευνούχος του Ξέρξη",
+    "es": "Zethar, un eunuco de Jerjes",
+    "et": "Zethar, Xerxese eunuhh",
+    "fi": "Zethar, Kserkseksen eunukki, -",
+    "fr": "Zethar, eunuque de Xerxès",
+    "hu": "Zethar, Xerxész eunuchja",
+    "id": "Zetar, seorang sida-sida Xerxes",
+    "it": "Zethar, un eunuco di Serse",
+    "ja": "クセルクセスの宦官ゼタル",
+    "ko": "크세르크세스의 환관, 제타르",
+    "lt": "Zetaras, Kserkso eunuchas",
+    "lv": "Zetārs, Kserksa eunhs",
+    "nb": "Zethar, en evnukk av Xerxes",
+    "nl": "Zethar, een eunuch van Xerxes",
+    "pl": "Zethar, eunuch Kserksesa",
+    "pt": "Zethar, um eunuco de Xerxes",
+    "ro": "Zethar, un eunuc al lui Xerxes",
+    "ru": "Зетар, евнух Ксеркса",
+    "sk": "Zethar, Xerxov eunuch",
+    "sl": "Zethar, Kserksov evnuh",
+    "sv": "Zethar, en eunuck hos Xerxes",
+    "tr": "Zethar, Xerxes'in haremağası",
+    "uk": "Зетар, євнух Ксеркса",
+    "zh": "薛西斯的宦官泽塔尔"
+  },
+  "hebrew": "זֵתַר",
+  "verses": [
+    "esther 1:10:12"
+  ]
+}

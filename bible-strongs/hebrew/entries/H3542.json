@@ -1,0 +1,42 @@
+{
+  "number": "H3542",
+  "language": "hebrew",
+  "transliteration": "kâh",
+  "pronunciation": "kaw",
+  "definition": "{properly, like this, i.e. by implication, (of manner) thus (or so); also (of place) here (or hither); or (of time) now}",
+  "kjvTranslation": "hitherto.",
+  "translations": {
+    "bg": "{правилно, по този начин, т.е. по подразбиране, (за начина) така (или така); също (за мястото) тук (или тук); или (за времето) сега}",
+    "cs": "{vhodně, takto, tj. implicitně, (o způsobu) tak (nebo tak); také (o místě) zde (nebo zde); nebo (o čase) nyní}",
+    "da": "{korrekt, sådan her, dvs. underforstået, (af måde) således (eller sådan); også (af sted) her (eller her); eller (af tid) nu}",
+    "de": "{richtig, so, d.h. implizit, (von der Art und Weise) so (oder so); auch (vom Ort) hier (oder hier); oder (von der Zeit) jetzt}",
+    "el": "{σωστά, όπως αυτό, δηλαδή με την έννοια, (του τρόπου) έτσι (ή έτσι), επίσης (του τόπου) εδώ (ή εδώ), ή (του χρόνου) τώρα}",
+    "es": "{propiamente, así, es decir, por implicación, (de modo) así (o así); también (de lugar) aquí (o aquí); o (de tiempo) ahora}",
+    "et": "{selliselt, nii, s.t. kaudselt, (viisil) nii (või nii); ka (koha) siin (või siin); või (aja) nüüd}",
+    "fi": "{sopivasti, näin, eli implisiittisesti, (tavasta) näin (tai niin); myös (paikasta) täällä (tai täällä); tai (ajasta) nyt}",
+    "fr": "{correctement, comme ceci, c'est-à-dire par implication, (de la manière) ainsi (ou ainsi) ; aussi (du lieu) ici (ou ici) ; ou (du temps) maintenant}",
+    "hu": "{helyesen, így, azaz értelemszerűen, (a mód) így (vagy úgy); továbbá (a hely) itt (vagy itt); vagy (az idő) most}",
+    "id": "{sebagaimana mestinya, seperti ini, yaitu dengan implikasi, (dengan cara) demikian (atau begitu); juga (tempat) di sini (atau di sini); atau (waktu) sekarang}",
+    "it": "{proprio, così, cioè per implicazione, (di modo) così (o così); anche (di luogo) qui (o qui); o (di tempo) ora}",
+    "ja": "{適切に、このように、つまり暗黙の了解として、（方法の）こう（またはそう）、（場所の）ここ（またはここ）、（時間の）今}。",
+    "ko": "{이렇게, 즉 암시적으로, (방식으로는) 이렇게(또는 이렇게); 또한 (장소로는) 여기(또는 여기); 또는 (시간으로는) 지금}",
+    "lt": "{tinkamai, taip, t. y. netiesiogiai, (būdo) taip (arba taip); taip pat (vietos) čia (arba čia); arba (laiko) dabar}",
+    "lv": "{pareizi, šādi, t.i., netieši, (par veidu) šādi (vai tā); arī (par vietu) šeit (vai šeit); vai (par laiku) tagad}",
+    "nb": "{korrekt, slik, dvs. underforstått, (av måte) slik (eller slik); også (av sted) her (eller her); eller (av tid) nå}",
+    "nl": "{correct, zoals dit, d.w.z. impliciet, (van manier) aldus (of zo); ook (van plaats) hier (of hierheen); of (van tijd) nu}",
+    "pl": "{właściwie, w ten sposób, tj. przez implikację, (sposobu) w ten sposób (lub tak); także (miejsca) tutaj (lub tutaj); lub (czasu) teraz}",
+    "pt": "(de modo) assim (ou assim); também (de lugar) aqui (ou aqui); ou (de tempo) agora",
+    "ro": "{properly, like this, adică implicit, (of manner) thus (or so); also (of place) here (or hither); or (of time) now}",
+    "ru": "{правильно, подобно этому, т.е. подразумевая, (о манере) таким образом (или так); также (о месте) здесь (или здесь); или (о времени) сейчас}",
+    "sk": "{správne, takto, t. j. implicitne, (o spôsobe) takto (alebo tak); tiež (o mieste) tu (alebo tu); alebo (o čase) teraz}",
+    "sl": "{pravilno, tako, tj. implicitno, (o načinu) tako (ali tako); tudi (o kraju) tukaj (ali tu); ali (o času) zdaj}",
+    "sv": "{Perfekt, så här, dvs. underförstått, (av sätt) så (eller så); också (av plats) här (eller hit); eller (av tid) nu}",
+    "tr": "{properly, like this, ie by implication, (of manner) thus (or so); also (of place) here (or hither); or (of time) now}",
+    "uk": "{правильно, подібно до цього, тобто за підтекстом, (про спосіб) таким чином (або так); також (про місце) тут (або сюди); або (про час) зараз}",
+    "zh": "{恰当地，像这样，即暗示（方式）这样（或如此）；也（指地点）这里（或这里）；或（指时间）现在}。"
+  },
+  "hebrew": "כָּה",
+  "verses": [
+    "daniel 7:28:1"
+  ]
+}

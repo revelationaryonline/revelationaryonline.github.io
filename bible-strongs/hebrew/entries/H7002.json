@@ -1,0 +1,42 @@
+{
+  "number": "H7002",
+  "language": "hebrew",
+  "transliteration": "qiṭṭêr",
+  "pronunciation": "kit-tare'",
+  "definition": "perfume",
+  "kjvTranslation": "incense.",
+  "hebrew": "קִטֵּר",
+  "translations": {
+    "bg": "парфюм",
+    "cs": "parfém",
+    "da": "parfume",
+    "de": "parfüm",
+    "el": "άρωμα",
+    "es": "perfume",
+    "et": "parfüüm",
+    "fi": "hajuvesi",
+    "fr": "parfum",
+    "hu": "parfüm",
+    "id": "parfum",
+    "it": "profumo",
+    "ja": "香水",
+    "ko": "향수",
+    "lt": "kvepalai",
+    "lv": "smaržas",
+    "nb": "parfyme",
+    "nl": "parfum",
+    "pl": "perfumy",
+    "pt": "perfume",
+    "ro": "parfum",
+    "ru": "духи",
+    "sk": "parfum",
+    "sl": "parfum",
+    "sv": "parfym",
+    "tr": "pARFÜM",
+    "uk": "парфуми",
+    "zh": "香水"
+  },
+  "verses": [
+    "jeremiah 44:21:2"
+  ]
+}

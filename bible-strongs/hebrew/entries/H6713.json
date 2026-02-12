@@ -1,0 +1,42 @@
+{
+  "number": "H6713",
+  "language": "hebrew",
+  "transliteration": "tsachar",
+  "pronunciation": "tsakh'-ar",
+  "definition": "sheen, i.e. whiteness",
+  "kjvTranslation": "white.",
+  "hebrew": "צַחַר",
+  "translations": {
+    "bg": "блясък, т.е. белота",
+    "cs": "lesk, tj. bělost",
+    "da": "glans, dvs. hvidhed",
+    "de": "glanz, d.h. Weißheit",
+    "el": "λάμψη, δηλαδή λευκότητα",
+    "es": "brillo, es decir, blancura",
+    "et": "läige, st valgeus",
+    "fi": "kiilto eli valkoisuus",
+    "fr": "la brillance, c'est-à-dire la blancheur",
+    "hu": "csillogás, azaz fehérség",
+    "id": "kemilau, yaitu warna putih",
+    "it": "lucentezza, cioè candore",
+    "ja": "白み",
+    "ko": "광택, 즉 백색도",
+    "lt": "blizgesys, t. y. baltumas",
+    "lv": "spīdums, t. i., baltums",
+    "nb": "glans, dvs. hvithet",
+    "nl": "glans, d.w.z. witheid",
+    "pl": "połysk, tj. biel",
+    "pt": "brilho, ou seja, brancura",
+    "ro": "strălucire, adică albeață",
+    "ru": "блеск, т.е. белизна",
+    "sk": "lesk, t. j. belosť",
+    "sl": "sijaj, tj. belina",
+    "sv": "glans, d.v.s. vithet",
+    "tr": "parlaklık, yani beyazlık",
+    "uk": "блиск, тобто білизна",
+    "zh": "白度"
+  },
+  "verses": [
+    "ezekiel 27:18:10"
+  ]
+}

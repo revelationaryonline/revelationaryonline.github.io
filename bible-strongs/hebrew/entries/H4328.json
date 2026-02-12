@@ -1,0 +1,42 @@
+{
+  "number": "H4328",
+  "language": "hebrew",
+  "transliteration": "mᵉyuççâdâh",
+  "pronunciation": "meh-yoos-saw-daw'",
+  "definition": "something founded, i.e. a foundation",
+  "kjvTranslation": "foundation.",
+  "hebrew": "מְיֻסָּדָה",
+  "translations": {
+    "bg": "нещо основано, т.е. фундамент",
+    "cs": "něco založeného, tj. základ",
+    "da": "noget grundlagt, dvs. et fundament",
+    "de": "etwas Gegründetes, d.h. ein Fundament",
+    "el": "κάτι θεμελιωμένο, δηλαδή ένα θεμέλιο",
+    "es": "algo fundado, es decir, un cimiento",
+    "et": "midagi rajatud, s.t. vundament",
+    "fi": "jotain perustettua, eli perusta",
+    "fr": "quelque chose de fondé, c'est-à-dire une fondation",
+    "hu": "valami megalapozott, azaz egy alapítvány",
+    "id": "sesuatu yang didirikan, misalnya yayasan",
+    "it": "qualcosa di fondato, cioè un fondamento",
+    "ja": "土台",
+    "ko": "설립한 무언가, 즉 재단",
+    "lt": "ką nors įkurto, t. y. pamatą",
+    "lv": "kaut kas dibināts, t.i., pamats",
+    "nb": "noe grunnlagt, dvs. et fundament",
+    "nl": "iets gefundeerds, d.w.z. een fundament",
+    "pl": "coś założonego, tj. fundament",
+    "pt": "algo fundado, ou seja, uma fundação",
+    "ro": "ceva întemeiat, adică o fundație",
+    "ru": "нечто основанное, т.е. фундамент",
+    "sk": "niečo založené, t. j. základ",
+    "sl": "nekaj, kar je utemeljeno, tj. temelj",
+    "sv": "något grundlagt, t.ex. en grund",
+    "tr": "kurulmuş bir şey, yani bir temel",
+    "uk": "щось засноване, тобто фундамент",
+    "zh": "基础"
+  },
+  "verses": [
+    "ezekiel 41:8:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H871",
+  "language": "hebrew",
+  "transliteration": "ʼĂthârîym",
+  "pronunciation": "ath-aw-reem'",
+  "definition": "Atharim, a place near Palestine",
+  "kjvTranslation": "spies. b",
+  "translations": {
+    "bg": "Атарим, място близо до Палестина",
+    "cs": "Atharim, místo poblíž Palestiny",
+    "da": "Atharim, et sted nær Palæstina",
+    "de": "Atharim, ein Ort in der Nähe von Palästina",
+    "el": "Atharim, ένας τόπος κοντά στην Παλαιστίνη",
+    "es": "Atharim, un lugar cerca de Palestina",
+    "et": "Atharim, koht Palestiina lähedal",
+    "fi": "Atharim, paikka Palestiinan lähellä",
+    "fr": "Atharim, lieu situé près de la Palestine",
+    "hu": "Atharim, egy hely Palesztina közelében",
+    "id": "Atharim, sebuah tempat di dekat Palestina",
+    "it": "Atharim, un luogo vicino alla Palestina",
+    "ja": "パレスチナ近郊の地、アタリム",
+    "ko": "아타림, 팔레스타인 인근 지역",
+    "lt": "Atharim, vietovė netoli Palestinos",
+    "lv": "Atharim, vieta netālu no Palestīnas",
+    "nb": "Atharim, et sted i nærheten av Palestina",
+    "nl": "Atharim, een plaats bij Palestina",
+    "pl": "Atharim, miejsce w pobliżu Palestyny",
+    "pt": "Atharim, um lugar perto da Palestina",
+    "ro": "Atharim, un loc lângă Palestina",
+    "ru": "Атарим, место вблизи Палестины",
+    "sk": "Atharim, miesto blízko Palestíny",
+    "sl": "Atharim, kraj blizu Palestine",
+    "sv": "Atharim, en plats nära Palestina",
+    "tr": "Atharim, Filistin yakınlarında bir yer",
+    "uk": "Атарім, місце поблизу Палестини",
+    "zh": "亚他林"
+  },
+  "hebrew": "אֲתָרִים",
+  "verses": [
+    "numbers 21:1:10"
+  ]
+}

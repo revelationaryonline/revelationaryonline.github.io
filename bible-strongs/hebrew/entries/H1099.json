@@ -1,0 +1,42 @@
+{
+  "number": "H1099",
+  "language": "hebrew",
+  "transliteration": "bᵉlîymâh",
+  "pronunciation": "bel-ee-mah'",
+  "definition": "(as indefinitely) nothing whatever",
+  "kjvTranslation": "nothing.",
+  "translations": {
+    "bg": "(като безкрайно) нищо",
+    "cs": "(jako neurčitě) nic",
+    "da": "(som på ubestemt tid) intet som helst",
+    "de": "(wie auf unbestimmte Zeit) gar nichts",
+    "el": "(ως επ' αόριστον) τίποτα απολύτως",
+    "es": "(como indefinidamente) nada",
+    "et": "(nagu määramata ajaks) mitte midagi",
+    "fi": "(kuten loputtomasti) ei mitään",
+    "fr": "(comme indéfiniment) rien du tout",
+    "hu": "(mint a végtelenségig) semmit sem",
+    "id": "(tanpa batas waktu) tidak ada apa pun",
+    "it": "(come all'infinito) niente di niente",
+    "ja": "(何にも",
+    "ko": "(무기한으로) 아무 것도",
+    "lt": "(kaip neribotam laikui) nieko",
+    "lv": "(kā uz nenoteiktu laiku) nekas",
+    "nb": "(som på ubestemt tid) ingenting som helst",
+    "nl": "(voor onbepaalde tijd) helemaal niets",
+    "pl": "(jak w nieskończoność) nic, cokolwiek",
+    "pt": "(como indefinidamente) nada",
+    "ro": "(ca indefinit) nimic",
+    "ru": "(как бесконечно) ничего",
+    "sk": "(ako na neurčito) nič",
+    "sl": "(kot za nedoločen čas) ničesar",
+    "sv": "(som obestämd tid) ingenting alls",
+    "tr": "(süresiz olarak) hiçbir şey",
+    "uk": "(як невизначено) нічого не має значення",
+    "zh": "无何"
+  },
+  "hebrew": "בְּלִימָה",
+  "verses": [
+    "job 26:7:8"
+  ]
+}

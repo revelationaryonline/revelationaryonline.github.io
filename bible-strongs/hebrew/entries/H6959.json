@@ -1,0 +1,43 @@
+{
+  "number": "H6959",
+  "language": "hebrew",
+  "transliteration": "qôwbaʻ",
+  "pronunciation": "ko'-bah or ko-bah'",
+  "definition": "a helmet",
+  "kjvTranslation": "helmet.",
+  "hebrew": "קוֹבַע",
+  "translations": {
+    "bg": "каска",
+    "cs": "přilba",
+    "da": "en hjelm",
+    "de": "ein Helm",
+    "el": "ένα κράνος",
+    "es": "un casco",
+    "et": "kiiver",
+    "fi": "kypärä",
+    "fr": "un casque",
+    "hu": "sisak",
+    "id": "helm",
+    "it": "un elmetto",
+    "ja": "ヘルメット",
+    "ko": "헬멧",
+    "lt": "šalmas",
+    "lv": "ķivere",
+    "nb": "en hjelm",
+    "nl": "een helm",
+    "pl": "kask",
+    "pt": "um capacete",
+    "ro": "o cască",
+    "ru": "шлем",
+    "sk": "prilba",
+    "sl": "čelada",
+    "sv": "en hjälm",
+    "tr": "bir kask",
+    "uk": "шолом",
+    "zh": "头盔"
+  },
+  "verses": [
+    "firstSamuel 17:38:6",
+    "ezekiel 23:24:9"
+  ]
+}

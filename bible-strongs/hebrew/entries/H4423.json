@@ -1,0 +1,42 @@
+{
+  "number": "H4423",
+  "language": "hebrew",
+  "transliteration": "meleṭ",
+  "pronunciation": "meh'-let",
+  "definition": "cement (from its plastic smoothness)",
+  "kjvTranslation": "clay.",
+  "hebrew": "מֶלֶט",
+  "translations": {
+    "bg": "цимент (поради неговата пластична гладкост)",
+    "cs": "cement (z jeho plastické hladkosti)",
+    "da": "cement (på grund af dens plastiske glathed)",
+    "de": "zement (wegen seiner plastischen Glätte)",
+    "el": "τσιμέντο (από την πλαστική του απαλότητα)",
+    "es": "cemento (por su suavidad plástica)",
+    "et": "tsement (selle plastilisest siledusest)",
+    "fi": "sementti (sen plastisesta sileydestä)",
+    "fr": "le ciment (en raison de son aspect plastique)",
+    "hu": "cement (műanyag simaságától)",
+    "id": "semen (dari kehalusan plastiknya)",
+    "it": "cemento (per la sua levigatezza plastica)",
+    "ja": "セメント",
+    "ko": "시멘트(플라스틱의 부드러움으로 인한)",
+    "lt": "cemento (dėl jo plastinio glotnumo)",
+    "lv": "cementa (no tā plastmasas gluduma)",
+    "nb": "sement (fra sin plastiske glatthet)",
+    "nl": "cement (vanwege de plastic gladheid)",
+    "pl": "cement (z jego plastycznej gładkości)",
+    "pt": "cimento (pela sua suavidade plástica)",
+    "ro": "ciment (din cauza netezimii sale plastice)",
+    "ru": "цемент (из-за его пластичной гладкости)",
+    "sk": "cement (z jeho plastickej hladkosti)",
+    "sl": "cement (zaradi plastične gladkosti)",
+    "sv": "cement (på grund av dess plastiska släthet)",
+    "tr": "çimento (plastik pürüzsüzlüğünden)",
+    "uk": "цемент (з його пластичної гладкості)",
+    "zh": "水泥"
+  },
+  "verses": [
+    "jeremiah 43:9:5"
+  ]
+}

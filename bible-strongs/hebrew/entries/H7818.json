@@ -1,0 +1,42 @@
+{
+  "number": "H7818",
+  "language": "hebrew",
+  "transliteration": "sâchaṭ",
+  "pronunciation": "saw-khat'",
+  "definition": "to tread out, i.e. squeeze (grapes)",
+  "kjvTranslation": "press.",
+  "hebrew": "שָׂחַט",
+  "translations": {
+    "bg": "да изтръгвам, т.е. да изстисквам (грозде)",
+    "cs": "vydupat, tj. vymačkat (hrozny)",
+    "da": "at træde ud, dvs. presse (druer)",
+    "de": "zertreten, d.h. auspressen (Weintrauben)",
+    "el": "πατάω, δηλ. στύβω (σταφύλια)",
+    "es": "pisar, es decir, exprimir (uvas)",
+    "et": "välja tallata, s.t. välja pigistada (viinamarjad)",
+    "fi": "puristaa, eli puristaa (viinirypäleitä)",
+    "fr": "fouler, c'est-à-dire presser (les raisins)",
+    "hu": "kitaposni, azaz kipréselni (szőlőt)",
+    "id": "untuk menginjak, yaitu memeras (buah anggur)",
+    "it": "spremere, cioè spremere (l'uva)",
+    "ja": "絞る",
+    "ko": "밟다, 즉 짜다(포도)",
+    "lt": "išrauti, t. y. išspausti (vynuoges)",
+    "lv": "izslaucīt, t.i., izspiest (vīnogas)",
+    "nb": "å tråkke ut, dvs. presse (druer)",
+    "nl": "uitdrukken, d.w.z. uitpersen (druiven)",
+    "pl": "wydrążyć, tj. wycisnąć (winogrona)",
+    "pt": "pisar, ou seja, espremer (uvas)",
+    "ro": "a pipăi, adică a stoarce (strugurii)",
+    "ru": "вырывать, т.е. давить (виноград)",
+    "sk": "šliapať, t. j. vytláčať (hrozno)",
+    "sl": "izluščiti, tj. stisniti (grozdje)",
+    "sv": "att trampa ut, dvs. pressa (druvor)",
+    "tr": "ezmek, yani sıkmak (üzüm)",
+    "uk": "вичавлювати, тобто вичавлювати (виноград)",
+    "zh": "踩出，即挤压（葡萄）"
+  },
+  "verses": [
+    "genesis 40:11:6"
+  ]
+}

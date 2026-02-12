@@ -1,0 +1,43 @@
+{
+  "number": "H901",
+  "language": "hebrew",
+  "transliteration": "bâgôwd",
+  "pronunciation": "baw-gode'",
+  "definition": "treacherous",
+  "kjvTranslation": "treacherous.",
+  "translations": {
+    "bg": "коварен",
+    "cs": "zrádné",
+    "da": "forræderisk",
+    "de": "verräterisch",
+    "el": "προδοτικό",
+    "es": "traicionero",
+    "et": "reeturlik",
+    "fi": "petollinen",
+    "fr": "perfide",
+    "hu": "áruló",
+    "id": "berbahaya",
+    "it": "infido",
+    "ja": "悪逆無道",
+    "ko": "배신자",
+    "lt": "klastingas",
+    "lv": "nodevīgs",
+    "nb": "forrædersk",
+    "nl": "verraderlijk",
+    "pl": "zdradziecki",
+    "pt": "traiçoeiro",
+    "ro": "înșelătoare",
+    "ru": "коварный",
+    "sk": "zradné",
+    "sl": "izdajalski",
+    "sv": "förrädisk",
+    "tr": "hain",
+    "uk": "підступний",
+    "zh": "诡谲"
+  },
+  "hebrew": "בָּגוֹד",
+  "verses": [
+    "jeremiah 3:7:12",
+    "jeremiah 3:10:6"
+  ]
+}

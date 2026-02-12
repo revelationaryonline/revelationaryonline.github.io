@@ -1,0 +1,43 @@
+{
+  "number": "H6020",
+  "language": "hebrew",
+  "transliteration": "ʻAmrâmîy",
+  "pronunciation": "am-raw-mee'",
+  "definition": "an Amramite or descendant of Amram",
+  "kjvTranslation": "Amramite.",
+  "hebrew": "עַמְרָמִי",
+  "translations": {
+    "bg": "амаритянин или потомък на Арам",
+    "cs": "amramovec nebo Amramův potomek",
+    "da": "en amramit eller efterkommer af Amram",
+    "de": "ein Amramiter oder Nachkomme von Amram",
+    "el": "ένας Αμραμίτης ή απόγονος του Αμράμ",
+    "es": "amramita o descendiente de Amram",
+    "et": "amramiit või Amrami järeltulija",
+    "fi": "amramilainen tai Amramin jälkeläinen",
+    "fr": "amramite ou descendant d'Amram",
+    "hu": "amramita vagy Amrám leszármazottja",
+    "id": "seorang Amram atau keturunan Amram",
+    "it": "un amramita o un discendente di Amram",
+    "ja": "アムラム人またはアムラムの子孫",
+    "ko": "암람인 또는 암람의 후손",
+    "lt": "amramietis arba Amramo palikuonis",
+    "lv": "amramietis jeb Amrāma pēcnācējs",
+    "nb": "en amramitt eller etterkommer av Amram",
+    "nl": "een Amramiet of afstammeling van Amram",
+    "pl": "amramita lub potomek Amrama",
+    "pt": "um amramita ou descendente de Amrão",
+    "ro": "un amramit sau descendent al lui Amram",
+    "ru": "амрамит или потомок Амрама",
+    "sk": "amramovec alebo Amramov potomok",
+    "sl": "amramovec ali Amramov potomec",
+    "sv": "en amramit eller ättling till Amram",
+    "tr": "bir Amramlı ya da Amram'ın soyundan",
+    "uk": "амраміт або нащадок Амрама",
+    "zh": "亚玛兰人或亚玛兰的后裔"
+  },
+  "verses": [
+    "numbers 3:27:2",
+    "firstChronicles 26:23:0"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4240",
+  "language": "hebrew",
+  "transliteration": "Mᵉchîydâʼ",
+  "pronunciation": "mek-ee-daw'",
+  "definition": "Mechida, one of the Nethinim",
+  "kjvTranslation": "Mehida.",
+  "hebrew": "מְחִידָא",
+  "translations": {
+    "bg": "Мехида, един от Нетините",
+    "cs": "Mechida, jeden z Nethinim",
+    "da": "Mechida, en af nethinimerne",
+    "de": "Mechida, einer der Nethinim",
+    "el": "Mechida, ένας από τους Nethinim",
+    "es": "Mechida, uno de los Nethinim",
+    "et": "Mechida, üks nethinimidest",
+    "fi": "Mechida, yksi Nethinimistä",
+    "fr": "Mechida, l'un des Nethinim",
+    "hu": "Mechida, a Nethinim egyik tagja",
+    "id": "Mechida, salah satu dari Nethinim",
+    "it": "Mechida, uno dei Nethinim",
+    "ja": "ネチニムの一人、メチダ",
+    "ko": "네티님 중 한 명, 메치다",
+    "lt": "Mechida, vienas iš Nethinimų",
+    "lv": "Mechida, viens no Nethinim",
+    "nb": "Mechida, en av nethinimene",
+    "nl": "Mechida, een van de Nethinim",
+    "pl": "Mechida, jeden z Nethinimów",
+    "pt": "Mechida, um dos Nethinim",
+    "ro": "Mechida, unul dintre Nethinim",
+    "ru": "Мехида, один из нефиним",
+    "sk": "Mechida, jeden z Nethinim",
+    "sl": "Mechida, eden od Nethinimov",
+    "sv": "Mechida, en av Nethinim",
+    "tr": "Mechida, Nethinim'den biri",
+    "uk": "Мехіда, одна з нетінімів",
+    "zh": "梅奇达，奈西宁人之一"
+  },
+  "verses": [
+    "ezra 2:52:3",
+    "nehemiah 7:54:3"
+  ]
+}

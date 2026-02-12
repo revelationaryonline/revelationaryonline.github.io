@@ -1,0 +1,42 @@
+{
+  "number": "H3688",
+  "language": "hebrew",
+  "transliteration": "kâçal",
+  "pronunciation": "kaw-sal'",
+  "definition": "properly, to be fat, i.e. (figuratively) silly",
+  "kjvTranslation": "be foolish.",
+  "translations": {
+    "bg": "правилно, да бъда дебел, т.е. (в преносен смисъл) глупав",
+    "cs": "správně, být tlustý, tj. (obrazně) hloupý",
+    "da": "korrekt, at være fed, dvs. (i overført betydning) fjollet",
+    "de": "richtig: dick sein, d.h. (im übertragenen Sinne) dumm sein",
+    "el": "σωστά, να είσαι χοντρός, δηλαδή (μεταφορικά) ανόητος",
+    "es": "propiamente, ser gordo, es decir (figuradamente) tonto",
+    "et": "õigesti, olla paks, st (piltlikult) rumal",
+    "fi": "oikein, olla lihava, eli (kuvaannollisesti) hölmö",
+    "fr": "au sens propre, être gras, c'est-à-dire (au sens figuré) idiot",
+    "hu": "helyesen, kövérnek lenni, azaz (átvitt értelemben) ostobának lenni",
+    "id": "benar, menjadi gemuk, yaitu (secara kiasan) konyol",
+    "it": "propriamente, essere grasso, cioè (in senso figurato) sciocco",
+    "ja": "太る",
+    "ko": "제대로, 뚱뚱해지다, 즉 (비유적으로) 어리석다",
+    "lt": "tinkamai, būti storas, t. y. (perkeltine prasme) kvailas",
+    "lv": "pareizi - būt resnam, t.i., (pārnestā nozīmē) muļķīgam",
+    "nb": "egentlig, å være feit, dvs. (i overført betydning) dum",
+    "nl": "goed, dik zijn, d.w.z. (figuurlijk) dom zijn",
+    "pl": "właściwie, być grubym, tj. (w przenośni) głupim",
+    "pt": "propriamente, ser gordo, ou seja, (figurativamente) tonto",
+    "ro": "propriu-zis, a fi gras, adică (la figurat) prostuț",
+    "ru": "правильно, быть толстым, т.е. (фигурально) глупым",
+    "sk": "správne, byť tučný, t. j. (obrazne) hlúpy",
+    "sl": "pravilno, biti debel, tj. (v prenesenem pomenu) neumen",
+    "sv": "i egentlig mening, att vara fet, dvs. (bildligt talat) dum i huvudet",
+    "tr": "uygun şekilde, şişman olmak, yani (mecazi olarak) aptal olmak",
+    "uk": "правильно, бути товстим, тобто (образно) дурним",
+    "zh": "胖，即（比喻）愚蠢"
+  },
+  "hebrew": "כָּסַל",
+  "verses": [
+    "jeremiah 10:8:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6417",
+  "language": "hebrew",
+  "transliteration": "pᵉlîylîyâh",
+  "pronunciation": "pel-ee-lee-yaw'",
+  "definition": "judicature",
+  "kjvTranslation": "judgment.",
+  "hebrew": "פְּלִילִיָּה",
+  "translations": {
+    "bg": "съдебна практика",
+    "cs": "judikatura",
+    "da": "retsvæsenet",
+    "de": "judikatur",
+    "el": "δικαστική κρίση",
+    "es": "judicatura",
+    "et": "kohtupraktika",
+    "fi": "oikeuslaitos",
+    "fr": "magistrature",
+    "hu": "judicature",
+    "id": "peradilan",
+    "it": "giudiziario",
+    "ja": "司法学",
+    "ko": "사법",
+    "lt": "teismų praktika",
+    "lv": "judikatūra",
+    "nb": "rettsvesen",
+    "nl": "rechtbank",
+    "pl": "orzecznictwo",
+    "pt": "julgamento",
+    "ro": "judecată",
+    "ru": "судебная практика",
+    "sk": "judikatúra",
+    "sl": "sodna praksa",
+    "sv": "domstol",
+    "tr": "yARGI",
+    "uk": "юрисдикція",
+    "zh": "司法"
+  },
+  "verses": [
+    "isaiah 28:7:19"
+  ]
+}

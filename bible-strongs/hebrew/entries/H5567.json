@@ -1,0 +1,42 @@
+{
+  "number": "H5567",
+  "language": "hebrew",
+  "transliteration": "çâman",
+  "pronunciation": "saw-man'",
+  "definition": "to designate",
+  "kjvTranslation": "appointed.",
+  "hebrew": "סָמַן",
+  "translations": {
+    "bg": "да определяте",
+    "cs": "k určení",
+    "da": "til at udpege",
+    "de": "zu bezeichnen",
+    "el": "να ορίσει",
+    "es": "para designar",
+    "et": "määrata",
+    "fi": "nimetä",
+    "fr": "pour désigner",
+    "hu": "kijelölni",
+    "id": "untuk menunjuk",
+    "it": "per designare",
+    "ja": "指定する",
+    "ko": "를 지정하려면",
+    "lt": "paskirti",
+    "lv": "lai norādītu",
+    "nb": "for å utpeke",
+    "nl": "aanwijzen",
+    "pl": "wyznaczyć",
+    "pt": "para designar",
+    "ro": "pentru a desemna",
+    "ru": "назначить",
+    "sk": "na určenie",
+    "sl": "za imenovanje",
+    "sv": "för att utse",
+    "tr": "belirlemek için",
+    "uk": "призначити",
+    "zh": "指定"
+  },
+  "verses": [
+    "isaiah 28:25:12"
+  ]
+}

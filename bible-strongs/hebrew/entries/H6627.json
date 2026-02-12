@@ -1,0 +1,43 @@
+{
+  "number": "H6627",
+  "language": "hebrew",
+  "transliteration": "tsâʼâh",
+  "pronunciation": "tsaw-aw'",
+  "definition": "issue, i.e. (human) excrement",
+  "kjvTranslation": "that (which) cometh from (out).",
+  "hebrew": "צָאָה",
+  "translations": {
+    "bg": "въпрос, т.е. (човешки) екскременти",
+    "cs": "problém, tj. (lidské) exkrementy",
+    "da": "problem, dvs. (menneskelige) ekskrementer",
+    "de": "thema, d.h. (menschliche) Exkremente",
+    "el": "ζήτημα, δηλαδή (ανθρώπινα) περιττώματα",
+    "es": "cuestión, es decir, excrementos (humanos)",
+    "et": "küsimus, st (inim)väljaheited",
+    "fi": "kysymys, eli (ihmisen) ulosteet",
+    "fr": "la question, c'est-à-dire les excréments (humains)",
+    "hu": "kérdés, azaz (emberi) ürülék",
+    "id": "masalah, yaitu kotoran (manusia)",
+    "it": "questione, cioè gli escrementi (umani)",
+    "ja": "屎尿",
+    "ko": "문제, 즉 (인간) 배설물",
+    "lt": "klausimas, t. y. (žmogaus) ekskrementai",
+    "lv": "jautājums, t.i., (cilvēka) ekskrementi",
+    "nb": "problem, dvs. (menneskelig) ekskrementer",
+    "nl": "kwestie, d.w.z. (menselijke) uitwerpselen",
+    "pl": "kwestia, tj. (ludzkie) odchody",
+    "pt": "questão, ou seja, excrementos (humanos)",
+    "ro": "problemă, adică excremente (umane)",
+    "ru": "проблема, т.е. (человеческие) экскременты",
+    "sk": "problém, t. j. (ľudské) výkaly",
+    "sl": "vprašanje, tj. (človeški) iztrebki",
+    "sv": "fråga, dvs. (mänsklig) exkrement",
+    "tr": "sorun, yani (insan) dışkısı",
+    "uk": "проблема, тобто (людські) екскременти",
+    "zh": "粪便"
+  },
+  "verses": [
+    "deuteronomy 23:14:13",
+    "ezekiel 4:12:5"
+  ]
+}

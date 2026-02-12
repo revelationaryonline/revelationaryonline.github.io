@@ -1,0 +1,42 @@
+{
+  "number": "H1727",
+  "language": "hebrew",
+  "transliteration": "dûwb",
+  "pronunciation": "doob",
+  "definition": "to mope, i.e. (figuratively) pine",
+  "kjvTranslation": "sorrow.",
+  "translations": {
+    "bg": "да мърмори, т.е. (в преносен смисъл) да боледува",
+    "cs": "mručet, tj. (přeneseně) bolet",
+    "da": "at surmule, dvs. (i overført betydning) pine",
+    "de": "trübsal blasen, d.h. (im übertragenen Sinne) schmachten",
+    "el": "να κατσουφιάζω, δηλαδή (μεταφορικά) να πεθαίνω",
+    "es": "estar deprimido, es decir, (en sentido figurado) suspirar",
+    "et": "kurvastada, st (piltlikult öeldes) mändida",
+    "fi": "murehtia, eli (kuvaannollisesti) mäntyillä",
+    "fr": "se morfondre, c'est-à-dire (au sens figuré) se languir",
+    "hu": "búslakodni, azaz (átvitt értelemben) búslakodni",
+    "id": "untuk bermuram durja, yaitu (secara kiasan) pinus",
+    "it": "deprimersi, cioè (in senso figurato) struggersi",
+    "ja": "松をくゆらす",
+    "ko": "걸레질하다, 즉 (비유적으로) 소나무",
+    "lt": "liūdėti, t. y. (perkeltine prasme) pikti",
+    "lv": "žēloties, t.i., (pārnestā nozīmē) pīpēt, t.i., (pārnestā nozīmē) pīpēt",
+    "nb": "å surmule, dvs. (i overført betydning) furte",
+    "nl": "mopperen, d.w.z. (figuurlijk) pijnigen",
+    "pl": "to mope, tj. (w przenośni) sosna",
+    "pt": "lamentar-se, ou seja (em sentido figurado), pinar",
+    "ro": "a se smiorcăi, adică (la figurat) a suspina",
+    "ru": "хандрить, т.е. (фигурально) чахнуть",
+    "sk": "mrnčať, t. j. (obrazne) boľovať",
+    "sl": "mrmrati, tj. (v prenesenem pomenu) benti",
+    "sv": "att deppa, dvs. (bildligt talat) gnälla",
+    "tr": "mope etmek, yani (mecazi olarak) çam",
+    "uk": "хандрити, тобто (образно) чахнути",
+    "zh": "唉声叹气"
+  },
+  "hebrew": "דּוּב",
+  "verses": [
+    "leviticus 26:16:14"
+  ]
+}

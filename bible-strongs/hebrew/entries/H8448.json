@@ -1,0 +1,42 @@
+{
+  "number": "H8448",
+  "language": "hebrew",
+  "transliteration": "tôwr",
+  "pronunciation": "tore",
+  "definition": "a manner (as a sort of turn)",
+  "kjvTranslation": "estate.",
+  "hebrew": "תּוֹר",
+  "translations": {
+    "bg": "начин (като вид завой)",
+    "cs": "způsob (jako druh obratu)",
+    "da": "en måde (som en slags drejning)",
+    "de": "eine Art (als eine Art Wendung)",
+    "el": "ένας τρόπος (ως ένα είδος στροφής)",
+    "es": "una manera (como una especie de giro)",
+    "et": "viisil (kui mingi omakorda)",
+    "fi": "tavalla (eräänlaisena käännöksenä)",
+    "fr": "une manière (comme une sorte de tour)",
+    "hu": "egyfajta módon (mint egyfajta fordulat)",
+    "id": "suatu cara (sebagai semacam belokan)",
+    "it": "un modo (come una sorta di svolta)",
+    "ja": "曲がり",
+    "ko": "방식(일종의 차례)",
+    "lt": "būdas (kaip tam tikras posūkis)",
+    "lv": "veids (kā pagrieziena veids)",
+    "nb": "en måte (som en slags sving)",
+    "nl": "een manier (als een soort draai)",
+    "pl": "sposób (jako rodzaj zwrotu)",
+    "pt": "uma maneira (como uma espécie de viragem)",
+    "ro": "o manieră (ca un fel de întoarcere)",
+    "ru": "манера (как бы поворачиваться)",
+    "sk": "spôsob (ako druh obratu)",
+    "sl": "način (kot vrsta obrata)",
+    "sv": "på ett sätt (som en sorts sväng)",
+    "tr": "bir tarz (bir tür dönüş olarak)",
+    "uk": "спосіб (як різновид звороту)",
+    "zh": "一种转向"
+  },
+  "verses": [
+    "firstChronicles 17:17:10"
+  ]
+}

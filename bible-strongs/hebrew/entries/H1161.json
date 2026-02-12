@@ -1,0 +1,43 @@
+{
+  "number": "H1161",
+  "language": "hebrew",
+  "transliteration": "biʻûwthîym",
+  "pronunciation": "be-oo-theme'",
+  "definition": "alarms",
+  "kjvTranslation": "terrors.",
+  "translations": {
+    "bg": "аларми",
+    "cs": "alarmy",
+    "da": "alarmer",
+    "de": "alarme",
+    "el": "συναγερμοί",
+    "es": "alarmas",
+    "et": "häiresignaalid",
+    "fi": "hälytykset",
+    "fr": "alarmes",
+    "hu": "riasztások",
+    "id": "alarm",
+    "it": "allarmi",
+    "ja": "アラーム",
+    "ko": "알람",
+    "lt": "pavojaus signalai",
+    "lv": "trauksmes signāli",
+    "nb": "alarmer",
+    "nl": "alarmen",
+    "pl": "alarmy",
+    "pt": "alarmes",
+    "ro": "alarme",
+    "ru": "сигнализация",
+    "sk": "alarmy",
+    "sl": "alarmi",
+    "sv": "larm",
+    "tr": "alarmlar",
+    "uk": "тривоги",
+    "zh": "报警"
+  },
+  "hebrew": "בִּעוּתִים",
+  "verses": [
+    "job 6:4:8",
+    "psalms 88:17:3"
+  ]
+}

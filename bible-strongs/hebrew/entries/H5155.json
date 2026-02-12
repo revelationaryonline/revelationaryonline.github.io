@@ -1,0 +1,42 @@
+{
+  "number": "H5155",
+  "language": "hebrew",
+  "transliteration": "nᵉchîylâh",
+  "pronunciation": "nekh-ee-law'",
+  "definition": "a flute",
+  "kjvTranslation": "(plural) Nehiloth.",
+  "hebrew": "נְחִילָה",
+  "translations": {
+    "bg": "флейта",
+    "cs": "flétna",
+    "da": "en fløjte",
+    "de": "eine Flöte",
+    "el": "ένα φλάουτο",
+    "es": "una flauta",
+    "et": "flööt",
+    "fi": "huilu",
+    "fr": "une flûte",
+    "hu": "egy fuvola",
+    "id": "seruling",
+    "it": "un flauto",
+    "ja": "笛",
+    "ko": "플루트",
+    "lt": "fleita",
+    "lv": "flauta",
+    "nb": "en fløyte",
+    "nl": "een fluit",
+    "pl": "flet",
+    "pt": "uma flauta",
+    "ro": "un flaut",
+    "ru": "флейта",
+    "sk": "flautu",
+    "sl": "flavta",
+    "sv": "en flöjt",
+    "tr": "bir flüt",
+    "uk": "флейта",
+    "zh": "笛子"
+  },
+  "verses": [
+    "psalms 5:1:2"
+  ]
+}

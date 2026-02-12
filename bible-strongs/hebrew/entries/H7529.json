@@ -1,0 +1,42 @@
+{
+  "number": "H7529",
+  "language": "hebrew",
+  "transliteration": "retseph",
+  "pronunciation": "reh'-tsef",
+  "definition": "a red-hot stone (for baking)",
+  "kjvTranslation": "coal.",
+  "hebrew": "רֶצֶף",
+  "translations": {
+    "bg": "нагорещен камък (за печене)",
+    "cs": "rozpálený kámen (na pečení)",
+    "da": "en rødglødende sten (til bagning)",
+    "de": "ein glühender Stein (zum Backen)",
+    "el": "μια καυτή πέτρα (για το ψήσιμο)",
+    "es": "una piedra al rojo vivo (para hornear)",
+    "et": "kuumutatud kivi (küpsetamiseks)",
+    "fi": "tulikuuma kivi (paistamista varten)",
+    "fr": "une pierre chauffée à blanc (pour la cuisson)",
+    "hu": "egy forró kő (a sütéshez)",
+    "id": "batu panas (untuk memanggang)",
+    "it": "una pietra arroventata (per la cottura)",
+    "ja": "赤熱石（焼成用）",
+    "ko": "뜨거운 돌(베이킹용)",
+    "lt": "įkaitintas akmuo (kepimui)",
+    "lv": "karsts akmens (cepšanai)",
+    "nb": "en glødende stein (til baking)",
+    "nl": "een gloeiend hete steen (om te bakken)",
+    "pl": "rozgrzany do czerwoności kamień (do pieczenia)",
+    "pt": "uma pedra em brasa (para cozer)",
+    "ro": "o piatră încinsă (pentru coacere)",
+    "ru": "раскаленный камень (для выпечки)",
+    "sk": "rozpálený kameň (na pečenie)",
+    "sl": "razžarjen kamen (za peko)",
+    "sv": "en glödhet sten (för bakning)",
+    "tr": "kızgın bir taş (pişirmek için)",
+    "uk": "розпечений камінь (для випікання)",
+    "zh": "烧红的石头（用于烘烤）"
+  },
+  "verses": [
+    "firstKings 19:6:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H280",
+  "language": "hebrew",
+  "transliteration": "ʼăchîydâh",
+  "pronunciation": "akh-ee-daw'",
+  "definition": "an enigma",
+  "kjvTranslation": "hard sentence.",
+  "translations": {
+    "bg": "енигма",
+    "cs": "záhada",
+    "da": "en gåde",
+    "de": "ein Rätsel",
+    "el": "ένα αίνιγμα",
+    "es": "un enigma",
+    "et": "mõistatus",
+    "fi": "arvoitus",
+    "fr": "une énigme",
+    "hu": "egy rejtély",
+    "id": "sebuah teka-teki",
+    "it": "un enigma",
+    "ja": "謎",
+    "ko": "수수께끼",
+    "lt": "mįslė",
+    "lv": "mīkla",
+    "nb": "en gåte",
+    "nl": "een raadsel",
+    "pl": "zagadka",
+    "pt": "um enigma",
+    "ro": "o enigmă",
+    "ru": "загадка",
+    "sk": "záhada",
+    "sl": "enigma",
+    "sv": "en gåta",
+    "tr": "bir muamma",
+    "uk": "загадка",
+    "zh": "神奥"
+  },
+  "hebrew": "אֲחִידָה",
+  "verses": [
+    "daniel 5:12:10"
+  ]
+}

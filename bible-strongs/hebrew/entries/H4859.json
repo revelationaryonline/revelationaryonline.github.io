@@ -1,0 +1,43 @@
+{
+  "number": "H4859",
+  "language": "hebrew",
+  "transliteration": "mashshâʼâh",
+  "pronunciation": "mash-shaw-aw'",
+  "definition": "a loan",
+  "kjvTranslation": "[idiom] any(-thing), debt.",
+  "hebrew": "מַשָּׁאָה",
+  "translations": {
+    "bg": "заем",
+    "cs": "půjčka",
+    "da": "et lån",
+    "de": "ein Darlehen",
+    "el": "ένα δάνειο",
+    "es": "un préstamo",
+    "et": "laen",
+    "fi": "laina",
+    "fr": "un prêt",
+    "hu": "kölcsön",
+    "id": "pinjaman",
+    "it": "un prestito",
+    "ja": "ローン",
+    "ko": "대출",
+    "lt": "paskola",
+    "lv": "aizdevums",
+    "nb": "et lån",
+    "nl": "een lening",
+    "pl": "pożyczka",
+    "pt": "um empréstimo",
+    "ro": "un împrumut",
+    "ru": "кредит",
+    "sk": "pôžička",
+    "sl": "posojilo",
+    "sv": "ett lån",
+    "tr": "bir kredi",
+    "uk": "позику",
+    "zh": "贷款"
+  },
+  "verses": [
+    "deuteronomy 24:10:3",
+    "proverbs 22:26:5"
+  ]
+}

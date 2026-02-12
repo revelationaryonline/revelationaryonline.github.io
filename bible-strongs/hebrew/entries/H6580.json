@@ -1,0 +1,42 @@
+{
+  "number": "H6580",
+  "language": "hebrew",
+  "transliteration": "pash",
+  "pronunciation": "pash",
+  "definition": "stupidity (as a result of grossness or of degeneracy)",
+  "kjvTranslation": "extremity.",
+  "hebrew": "פַּשׁ",
+  "translations": {
+    "bg": "глупост (в резултат на грубост или дегенерация)",
+    "cs": "hloupost (v důsledku hrubosti nebo degenerace)",
+    "da": "dumhed (som følge af grovhed eller degeneration)",
+    "de": "dummheit (als Folge von Grobheit oder Entartung)",
+    "el": "βλακεία (ως αποτέλεσμα αηδίας ή εκφυλισμού)",
+    "es": "estupidez (como resultado de la grosería o de la degeneración)",
+    "et": "rumalus (jämeduse või degeneratsiooni tagajärjel)",
+    "fi": "tyhmyys (karkeuden tai rappeutumisen seurauksena)",
+    "fr": "la stupidité (résultant de la grossièreté ou de la dégénérescence)",
+    "hu": "ostobaság (durvaság vagy degeneráltság következtében)",
+    "id": "kebodohan (sebagai akibat dari kekotoran atau kemunduran)",
+    "it": "stupidità (come risultato di grossolanità o degenerazione)",
+    "ja": "魯鈍",
+    "ko": "어리석음(총체적 또는 퇴보의 결과)",
+    "lt": "kvailumas (dėl grubumo arba išsigimimo)",
+    "lv": "stulbums (rupjības vai deģenerācijas dēļ)",
+    "nb": "dumhet (som følge av grovhet eller degenerasjon)",
+    "nl": "domheid (als gevolg van grofheid of ontaarding)",
+    "pl": "głupota (wynikająca z grubiaństwa lub zwyrodnienia)",
+    "pt": "estupidez (por grosseria ou por degenerescência)",
+    "ro": "prostie (ca rezultat al grosolăniei sau al degenerării)",
+    "ru": "глупость (в результате грубости или вырождения)",
+    "sk": "hlúposť (v dôsledku hrubosti alebo degenerácie)",
+    "sl": "neumnost (kot posledica grobosti ali izrojenosti)",
+    "sv": "dumhet (som en följd av grovhet eller degenerering)",
+    "tr": "aptallık (kabalık veya yozlaşmanın bir sonucu olarak)",
+    "uk": "дурість (внаслідок грубості або дегенерації)",
+    "zh": "愚蠢"
+  },
+  "verses": [
+    "job 35:15:7"
+  ]
+}

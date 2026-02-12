@@ -1,0 +1,43 @@
+{
+  "number": "H7338",
+  "language": "hebrew",
+  "transliteration": "rachab",
+  "pronunciation": "rakh'-ab",
+  "definition": "a width",
+  "kjvTranslation": "breadth, broad place.",
+  "hebrew": "רַחַב",
+  "translations": {
+    "bg": "ширина",
+    "cs": "šířka",
+    "da": "en bredde",
+    "de": "eine Breite",
+    "el": "ένα πλάτος",
+    "es": "una anchura",
+    "et": "laius",
+    "fi": "leveys",
+    "fr": "une largeur",
+    "hu": "a szélesség",
+    "id": "lebar",
+    "it": "una larghezza",
+    "ja": "幅",
+    "ko": "너비",
+    "lt": "a plotis",
+    "lv": "platums",
+    "nb": "en bredde",
+    "nl": "een breedte",
+    "pl": "szerokość",
+    "pt": "uma largura",
+    "ro": "o lățime",
+    "ru": "ширина",
+    "sk": "šírka",
+    "sl": "širina",
+    "sv": "en bredd",
+    "tr": "bir genişlik",
+    "uk": "ширина",
+    "zh": "宽度"
+  },
+  "verses": [
+    "job 36:16:4",
+    "job 38:18:2"
+  ]
+}

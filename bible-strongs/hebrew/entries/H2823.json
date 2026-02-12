@@ -1,0 +1,42 @@
+{
+  "number": "H2823",
+  "language": "hebrew",
+  "transliteration": "châshôk",
+  "pronunciation": "khaw-shoke'",
+  "definition": "dark (figuratively, i.e. obscure)",
+  "kjvTranslation": "meaning",
+  "translations": {
+    "bg": "тъмен (в преносен смисъл, т.е. неясен)",
+    "cs": "temný (přeneseně, tj. nejasný)",
+    "da": "mørk (i overført betydning, dvs. uklar)",
+    "de": "dunkel (im übertragenen Sinne, d.h. undurchsichtig)",
+    "el": "σκοτεινό (μεταφορικά, δηλαδή σκοτεινό)",
+    "es": "oscuro (en sentido figurado, es decir, oscuro)",
+    "et": "tume (piltlikult öeldes, st hämar)",
+    "fi": "pimeä (kuvaannollisesti, eli hämärä)",
+    "fr": "sombre (au sens figuré, c'est-à-dire obscur)",
+    "hu": "sötét (átvitt értelemben, azaz homályos)",
+    "id": "gelap (secara kiasan, yaitu tidak jelas)",
+    "it": "oscuro (in senso figurato, cioè oscuro)",
+    "ja": "くらい",
+    "ko": "어둡게(비유적으로, 즉 모호함)",
+    "lt": "tamsus (perkeltine prasme, t. y. neaiškus)",
+    "lv": "tumšs (pārnestā nozīmē, t.i., neskaidrs)",
+    "nb": "mørk (i overført betydning, dvs. dunkel)",
+    "nl": "donker (figuurlijk, d.w.z. duister)",
+    "pl": "ciemny (w przenośni, tj. niejasny)",
+    "pt": "escuro (no sentido figurado, ou seja, obscuro)",
+    "ro": "întunecat (la figurat, adică obscur)",
+    "ru": "темный (фигурально, т.е. неясный)",
+    "sk": "temný (v prenesenom význame, t. j. nejasný)",
+    "sl": "temen (v prenesenem pomenu, tj. nejasen)",
+    "sv": "mörk (bildligt talat, d.v.s. dunkel)",
+    "tr": "karanlık (mecazi olarak, yani belirsiz)",
+    "uk": "темний (у переносному значенні, тобто неясний)",
+    "zh": "晦暗"
+  },
+  "hebrew": "חָשֹׁךְ",
+  "verses": [
+    "proverbs 22:29:10"
+  ]
+}

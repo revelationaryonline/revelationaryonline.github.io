@@ -1,0 +1,42 @@
+{
+  "number": "H3981",
+  "language": "hebrew",
+  "transliteration": "maʼămâts",
+  "pronunciation": "mah-am-awts'",
+  "definition": "strength, i.e. (plural) resources",
+  "kjvTranslation": "force.",
+  "hebrew": "מַאֲמָץ",
+  "translations": {
+    "bg": "сила, т.е. (множествено число) ресурси",
+    "cs": "síla, tj. (množné číslo) zdroje",
+    "da": "styrke, dvs. ressourcer (i flertal)",
+    "de": "stärke, d.h. (Plural) Ressourcen",
+    "el": "δύναμη, δηλαδή (πληθυντικός) πόροι",
+    "es": "fuerza, es decir (plural) recursos",
+    "et": "tugevus, st (mitmuses) ressursid",
+    "fi": "voimavarat, eli (monikossa) resurssit",
+    "fr": "la force, c'est-à-dire les ressources (au pluriel)",
+    "hu": "erő, azaz (többes számban) erőforrások",
+    "id": "kekuatan, yaitu sumber daya (jamak)",
+    "it": "forza, cioè (al plurale) risorse",
+    "ja": "力、すなわち（複数の）資源",
+    "ko": "힘, 즉 (복수) 자원",
+    "lt": "jėga, t. y. (daugiskaita) ištekliai",
+    "lv": "spēks, t.i., (daudzskaitlī) resursi",
+    "nb": "styrke, dvs. ressurser (flertall)",
+    "nl": "kracht, d.w.z. (meervoud) middelen",
+    "pl": "siła, tj. (liczba mnoga) zasoby",
+    "pt": "força, ou seja, recursos (plural)",
+    "ro": "putere, adică (plural) resurse",
+    "ru": "сила, т.е. (множественное число) ресурсы",
+    "sk": "sila, t. j. (množné číslo) zdroje",
+    "sl": "moč, tj. (množina) viri",
+    "sv": "styrka, dvs. resurser (i plural)",
+    "tr": "güç, yani (çoğul) kaynaklar",
+    "uk": "сила, тобто (множина) ресурсів",
+    "zh": "力量，即（复数）资源"
+  },
+  "verses": [
+    "job 36:19:5"
+  ]
+}

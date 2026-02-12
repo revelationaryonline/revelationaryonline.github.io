@@ -1,0 +1,42 @@
+{
+  "number": "H488",
+  "language": "hebrew",
+  "transliteration": "ʼalmân",
+  "pronunciation": "al-mawn'",
+  "definition": "discarded (as a divorced person)",
+  "kjvTranslation": "forsaken.",
+  "translations": {
+    "bg": "изхвърлен (като разведен човек)",
+    "cs": "vyřazen (jako rozvedená osoba)",
+    "da": "kasseret (som en fraskilt person)",
+    "de": "ausrangiert (als geschiedene Person)",
+    "el": "απορρίπτεται (ως διαζευγμένο άτομο)",
+    "es": "descartado (como persona divorciada)",
+    "et": "kõrvale heidetud (kui lahutatud isik)",
+    "fi": "hylätty (eronneena henkilönä)",
+    "fr": "mis au rebut (en tant que personne divorcée)",
+    "hu": "eldobott (mint elvált személy)",
+    "id": "dibuang (sebagai orang yang bercerai)",
+    "it": "scartato (come persona divorziata)",
+    "ja": "捨て",
+    "ko": "폐기(이혼한 사람으로서)",
+    "lt": "išmestas (kaip išsiskyręs asmuo)",
+    "lv": "atlaists (kā šķīries)",
+    "nb": "forkastet (som en fraskilt person)",
+    "nl": "afgedankt (als een gescheiden persoon)",
+    "pl": "odrzucony (jako osoba rozwiedziona)",
+    "pt": "descartado (como uma pessoa divorciada)",
+    "ro": "aruncat (ca o persoană divorțată)",
+    "ru": "выброшенный (как разведенный человек)",
+    "sk": "vyradený (ako rozvedená osoba)",
+    "sl": "zavržen (kot razvezana oseba)",
+    "sv": "kasserad (som en frånskild person)",
+    "tr": "atılmış (boşanmış bir kişi olarak)",
+    "uk": "відмовлено (як розлученій особі)",
+    "zh": "丢三落四"
+  },
+  "hebrew": "אַלְמָן",
+  "verses": [
+    "jeremiah 51:5:2"
+  ]
+}

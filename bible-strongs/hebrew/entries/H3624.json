@@ -1,0 +1,43 @@
+{
+  "number": "H3624",
+  "language": "hebrew",
+  "transliteration": "kelach",
+  "pronunciation": "keh'-lakh",
+  "definition": "maturity",
+  "kjvTranslation": "full (old) age.",
+  "translations": {
+    "bg": "падеж",
+    "cs": "splatnost",
+    "da": "modenhed",
+    "de": "fälligkeit",
+    "el": "ωρίμανση",
+    "es": "vencimiento",
+    "et": "küpsus",
+    "fi": "maturiteetti",
+    "fr": "maturité",
+    "hu": "lejárat",
+    "id": "kedewasaan",
+    "it": "maturità",
+    "ja": "成熟",
+    "ko": "성숙도",
+    "lt": "terminas",
+    "lv": "termiņš",
+    "nb": "modenhet",
+    "nl": "looptijd",
+    "pl": "dojrzałość",
+    "pt": "maturidade",
+    "ro": "maturitate",
+    "ru": "срок погашения",
+    "sk": "splatnosť",
+    "sl": "zapadlost",
+    "sv": "löptid",
+    "tr": "olgunluk",
+    "uk": "термін погашення",
+    "zh": "到期日"
+  },
+  "hebrew": "כֶּלַח",
+  "verses": [
+    "job 5:26:1",
+    "job 30:2:7"
+  ]
+}

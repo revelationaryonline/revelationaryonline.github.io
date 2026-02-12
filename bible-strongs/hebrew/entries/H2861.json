@@ -1,0 +1,42 @@
+{
+  "number": "H2861",
+  "language": "hebrew",
+  "transliteration": "chăthunnâh",
+  "pronunciation": "khath-oon-naw'",
+  "definition": "a wedding",
+  "kjvTranslation": "espousal.",
+  "translations": {
+    "bg": "сватба",
+    "cs": "svatba",
+    "da": "et bryllup",
+    "de": "eine Hochzeit",
+    "el": "ένας γάμος",
+    "es": "una boda",
+    "et": "pulm",
+    "fi": "häät",
+    "fr": "un mariage",
+    "hu": "esküvő",
+    "id": "pernikahan",
+    "it": "un matrimonio",
+    "ja": "結婚式",
+    "ko": "결혼식",
+    "lt": "vestuvės",
+    "lv": "kāzas",
+    "nb": "et bryllup",
+    "nl": "een bruiloft",
+    "pl": "wesele",
+    "pt": "um casamento",
+    "ro": "o nuntă",
+    "ru": "свадьба",
+    "sk": "svadba",
+    "sl": "poroka",
+    "sv": "ett bröllop",
+    "tr": "bir düğün",
+    "uk": "весілля",
+    "zh": "婚礼"
+  },
+  "hebrew": "חֲתֻנָּה",
+  "verses": [
+    "solomon 3:11:11"
+  ]
+}

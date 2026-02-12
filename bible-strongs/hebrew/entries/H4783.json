@@ -1,0 +1,42 @@
+{
+  "number": "H4783",
+  "language": "hebrew",
+  "transliteration": "murdâph",
+  "pronunciation": "moor-dawf'",
+  "definition": "persecuted",
+  "kjvTranslation": "persecuted.",
+  "hebrew": "מֻרְדָּף",
+  "translations": {
+    "bg": "преследвани",
+    "cs": "pronásledovaný",
+    "da": "forfulgt",
+    "de": "verfolgt",
+    "el": "διωκόμενοι",
+    "es": "perseguido",
+    "et": "tagakiusatud",
+    "fi": "vainottu",
+    "fr": "persécuté",
+    "hu": "üldözött",
+    "id": "dianiaya",
+    "it": "perseguitato",
+    "ja": "苦しい",
+    "ko": "박해",
+    "lt": "persekiojamas",
+    "lv": "vajāti",
+    "nb": "forfulgt",
+    "nl": "vervolgd",
+    "pl": "prześladowany",
+    "pt": "perseguido",
+    "ro": "persecutat",
+    "ru": "преследуемый",
+    "sk": "prenasledovaný",
+    "sl": "preganjani",
+    "sv": "förföljd",
+    "tr": "zulüm",
+    "uk": "переслідувані",
+    "zh": "迫害"
+  },
+  "verses": [
+    "isaiah 14:6:9"
+  ]
+}

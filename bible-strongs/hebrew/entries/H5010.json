@@ -1,0 +1,43 @@
+{
+  "number": "H5010",
+  "language": "hebrew",
+  "transliteration": "nâʼar",
+  "pronunciation": "naw-ar'",
+  "definition": "to reject",
+  "kjvTranslation": "abhor, make void.",
+  "hebrew": "נָאַר",
+  "translations": {
+    "bg": "да отхвърли",
+    "cs": "odmítnout",
+    "da": "at afvise",
+    "de": "abzulehnen",
+    "el": "να απορρίψει",
+    "es": "rechazar",
+    "et": "tagasi lükata",
+    "fi": "hylätä",
+    "fr": "de rejeter",
+    "hu": "elutasítani",
+    "id": "untuk menolak",
+    "it": "rifiutare",
+    "ja": "拒否する",
+    "ko": "거부하려면",
+    "lt": "atmesti",
+    "lv": "noraidīt",
+    "nb": "å avvise",
+    "nl": "afwijzen",
+    "pl": "odrzucić",
+    "pt": "para rejeitar",
+    "ro": "să respingă",
+    "ru": "отвергать",
+    "sk": "odmietnuť",
+    "sl": "zavrniti",
+    "sv": "att förkasta",
+    "tr": "reddetmek için",
+    "uk": "відкинути",
+    "zh": "摒弃"
+  },
+  "verses": [
+    "psalms 89:40:0",
+    "lamentations 2:7:3"
+  ]
+}

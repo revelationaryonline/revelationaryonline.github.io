@@ -1,0 +1,42 @@
+{
+  "number": "H8638",
+  "language": "hebrew",
+  "transliteration": "tirgam",
+  "pronunciation": "teer-gam'",
+  "definition": "to transfer, i.e. translate",
+  "kjvTranslation": "interpret.",
+  "hebrew": "תִּרְגַּם",
+  "translations": {
+    "bg": "да прехвърли, т.е. да преведе",
+    "cs": "převést, tj. přeložit",
+    "da": "at overføre, dvs. oversætte",
+    "de": "zu übertragen, d.h. zu übersetzen",
+    "el": "να μεταφέρει, δηλαδή να μεταφράσει",
+    "es": "transferir, es decir, traducir",
+    "et": "üle kanda, st tõlkida",
+    "fi": "siirtää eli kääntää",
+    "fr": "à transférer, c'est-à-dire à traduire",
+    "hu": "átvinni, azaz lefordítani",
+    "id": "untuk mentransfer, yaitu menerjemahkan",
+    "it": "per trasferire, cioè tradurre",
+    "ja": "を転送する。",
+    "ko": "전송, 즉 번역",
+    "lt": "perkelti, t. y. išversti",
+    "lv": "pārskaitīt, t. i., tulkot",
+    "nb": "for å overføre, dvs. oversette",
+    "nl": "overbrengen, d.w.z. vertalen",
+    "pl": "przenieść, tj. przetłumaczyć",
+    "pt": "para transferir, ou seja, traduzir",
+    "ro": "să transfere, adică să traducă",
+    "ru": "перевести, т.е. перевести",
+    "sk": "previesť, t. j. preložiť",
+    "sl": "prenesti, tj. prevesti",
+    "sv": "för att överföra, dvs. översätta",
+    "tr": "transfer etmek, yani çevirmek",
+    "uk": "перекладати, тобто перекладати",
+    "zh": "转移，即翻译"
+  },
+  "verses": [
+    "ezra 4:7:18"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7207",
+  "language": "hebrew",
+  "transliteration": "raʼăvâh",
+  "pronunciation": "rah-av-aw'",
+  "definition": "sight, i.e. satisfaction",
+  "kjvTranslation": "behold.",
+  "hebrew": "רַאֲוָה",
+  "translations": {
+    "bg": "поглед, т.е. удовлетворение",
+    "cs": "pohled, tj. spokojenost",
+    "da": "syn, dvs. tilfredshed",
+    "de": "sicht, d.h. Zufriedenheit",
+    "el": "θέαση, δηλαδή ικανοποίηση",
+    "es": "vista, es decir, satisfacción",
+    "et": "nägemine, st rahulolu",
+    "fi": "näkö, eli tyytyväisyys",
+    "fr": "la vue, c'est-à-dire la satisfaction",
+    "hu": "látvány, azaz elégedettség",
+    "id": "penglihatan, yaitu kepuasan",
+    "it": "vista, cioè la soddisfazione",
+    "ja": "満足",
+    "ko": "시각, 즉 만족도",
+    "lt": "žvilgsnis, t. y. pasitenkinimas",
+    "lv": "skatiens, t. i., apmierinātība",
+    "nb": "syn, dvs. tilfredshet",
+    "nl": "zicht, d.w.z. tevredenheid",
+    "pl": "wzrok, czyli satysfakcja",
+    "pt": "visão, ou seja, satisfação",
+    "ro": "vedere, adică satisfacție",
+    "ru": "зрение, т.е. удовлетворение",
+    "sk": "pohľad, t. j. spokojnosť",
+    "sl": "pogled, tj. zadovoljstvo",
+    "sv": "syn, d.v.s. tillfredsställelse",
+    "tr": "görüş, yani memnuniyet",
+    "uk": "видовище, тобто задоволення",
+    "zh": "视觉，即满意度"
+  },
+  "verses": [
+    "ecclesiastes 5:10:10"
+  ]
+}

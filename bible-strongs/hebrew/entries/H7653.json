@@ -1,0 +1,42 @@
+{
+  "number": "H7653",
+  "language": "hebrew",
+  "transliteration": "sibʻâh",
+  "pronunciation": "sib-aw'",
+  "definition": "satiety",
+  "kjvTranslation": "fulness.",
+  "hebrew": "שִׂבְעָה",
+  "translations": {
+    "bg": "ситост",
+    "cs": "nasycení",
+    "da": "mæthed",
+    "de": "sättigung",
+    "el": "κορεσμός",
+    "es": "saciedad",
+    "et": "küllastumine",
+    "fi": "kylläisyys",
+    "fr": "satiété",
+    "hu": "telítettség",
+    "id": "rasa kenyang",
+    "it": "sazietà",
+    "ja": "満腹",
+    "ko": "포만감",
+    "lt": "sotumo jausmas",
+    "lv": "sāta sajūta",
+    "nb": "metthetsfølelse",
+    "nl": "verzadiging",
+    "pl": "sytość",
+    "pt": "saciedade",
+    "ro": "sațietate",
+    "ru": "сытость",
+    "sk": "nasýtenie",
+    "sl": "sitost",
+    "sv": "mättnadskänsla",
+    "tr": "tokluk",
+    "uk": "ситість",
+    "zh": "饱腹感"
+  },
+  "verses": [
+    "ezekiel 16:49:7"
+  ]
+}

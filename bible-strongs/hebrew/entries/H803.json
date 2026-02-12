@@ -1,0 +1,43 @@
+{
+  "number": "H803",
+  "language": "hebrew",
+  "transliteration": "ʼăshûwyâh",
+  "pronunciation": "ash-oo-yah'",
+  "definition": "foundation",
+  "kjvTranslation": "foundation.",
+  "translations": {
+    "bg": "фондация",
+    "cs": "nadace",
+    "da": "fundament",
+    "de": "stiftung",
+    "el": "ίδρυμα",
+    "es": "fundación",
+    "et": "sihtasutus",
+    "fi": "säätiö",
+    "fr": "fondation",
+    "hu": "alapítvány",
+    "id": "yayasan",
+    "it": "fondazione",
+    "ja": "基礎",
+    "ko": "기초",
+    "lt": "fondas",
+    "lv": "fonds",
+    "nb": "fundament",
+    "nl": "stichting",
+    "pl": "fundacja",
+    "pt": "fundação",
+    "ro": "fundație",
+    "ru": "фонд",
+    "sk": "nadácia",
+    "sl": "fundacija",
+    "sv": "grund",
+    "tr": "vakıf",
+    "uk": "фундамент",
+    "zh": "基金会"
+  },
+  "hebrew": "אֲשׁוּיָה",
+  "verses": [
+    "jeremiah 50:15:6",
+    "jeremiah 50:15:7"
+  ]
+}

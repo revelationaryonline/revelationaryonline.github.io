@@ -1,0 +1,42 @@
+{
+  "number": "H414",
+  "language": "hebrew",
+  "transliteration": "ʼÊlâʼ",
+  "pronunciation": "ay-law'",
+  "definition": "Ela, an Israelite",
+  "kjvTranslation": "Elah.",
+  "translations": {
+    "bg": "Ела, израилтянка",
+    "cs": "Ela, Izraelka",
+    "da": "Ela, en israelit",
+    "de": "Ela, eine Israelitin",
+    "el": "Ela, Ισραηλίτισσα",
+    "es": "Ela, israelita",
+    "et": "Ela, iisraellane",
+    "fi": "Ela, israelilainen",
+    "fr": "Ela, Israélite",
+    "hu": "Ela, izraelita",
+    "id": "Ela, seorang Israel",
+    "it": "Ela, un israelita",
+    "ja": "イスラエル人エラ",
+    "ko": "이스라엘인 엘라",
+    "lt": "Ela, izraelitas",
+    "lv": "Ela, izraēliete",
+    "nb": "Ela, en israelitt",
+    "nl": "Ela, een Israëliet",
+    "pl": "Ela, Izraelitka",
+    "pt": "Ela, israelita",
+    "ro": "Ela, o israelită",
+    "ru": "Эла, израильтянка",
+    "sk": "Ela, Izraelita",
+    "sl": "Ela, Izraelka",
+    "sv": "Ela, en israelit",
+    "tr": "Ela, bir İsrailli",
+    "uk": "Ела, ізраїльтянка",
+    "zh": "埃拉，以色列人"
+  },
+  "hebrew": "אֵלָא",
+  "verses": [
+    "firstKings 4:18:2"
+  ]
+}

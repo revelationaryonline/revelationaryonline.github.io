@@ -1,0 +1,42 @@
+{
+  "number": "H4868",
+  "language": "hebrew",
+  "transliteration": "mishbâth",
+  "pronunciation": "mish-bawth'",
+  "definition": "cessation, i.e. destruction",
+  "kjvTranslation": "sabbath.",
+  "hebrew": "מִשְׁבָּת",
+  "translations": {
+    "bg": "прекратяване, т.е. унищожаване",
+    "cs": "ukončení, tj. zničení",
+    "da": "ophør, dvs. ødelæggelse",
+    "de": "beendigung, d.h. Zerstörung",
+    "el": "παύση, δηλαδή καταστροφή",
+    "es": "cese, es decir, destrucción",
+    "et": "lõpetamine, st hävitamine",
+    "fi": "lopettaminen eli tuhoaminen",
+    "fr": "la cessation, c'est-à-dire la destruction",
+    "hu": "megszűnés, azaz megsemmisülés",
+    "id": "penghentian, yaitu penghancuran",
+    "it": "cessazione, cioè distruzione",
+    "ja": "消滅",
+    "ko": "중단, 즉 파괴",
+    "lt": "nutraukimas, t. y. sunaikinimas",
+    "lv": "izbeigšana, t. i., iznīcināšana",
+    "nb": "opphør, dvs. ødeleggelse",
+    "nl": "beëindiging, d.w.z. vernietiging",
+    "pl": "zaprzestanie, tj. zniszczenie",
+    "pt": "cessação, ou seja, destruição",
+    "ro": "încetarea, adică distrugerea",
+    "ru": "прекращение, т.е. уничтожение",
+    "sk": "ukončenie, t. j. zničenie",
+    "sl": "prenehanje, tj. uničenje",
+    "sv": "upphörande, d.v.s. förstörelse",
+    "tr": "durdurma, yani yok etme",
+    "uk": "припинення, тобто знищення",
+    "zh": "停止，即毁灭"
+  },
+  "verses": [
+    "lamentations 1:7:22"
+  ]
+}

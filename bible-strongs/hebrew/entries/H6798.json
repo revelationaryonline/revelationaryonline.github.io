@@ -1,0 +1,42 @@
+{
+  "number": "H6798",
+  "language": "hebrew",
+  "transliteration": "tsânam",
+  "pronunciation": "tsaw-nam'",
+  "definition": "to blast or shrink",
+  "kjvTranslation": "withered.",
+  "hebrew": "צָנַם",
+  "translations": {
+    "bg": "да се взриви или свие",
+    "cs": "odstřelit nebo zmenšit",
+    "da": "at sprænge eller skrumpe",
+    "de": "zu sprengen oder zu schrumpfen",
+    "el": "να ανατινάξει ή να συρρικνώσει",
+    "es": "explotar o encoger",
+    "et": "lõhkuda või kahandada",
+    "fi": "räjäyttää tai kutistaa",
+    "fr": "faire exploser ou rétrécir",
+    "hu": "robbantani vagy zsugorítani",
+    "id": "untuk meledak atau menyusut",
+    "it": "esplodere o ridursi",
+    "ja": "爆縮する",
+    "ko": "폭발 또는 축소",
+    "lt": "susprogdinti arba sumažinti",
+    "lv": "uzspridzināt vai sašaurināt",
+    "nb": "å sprenge eller krympe",
+    "nl": "stralen of krimpen",
+    "pl": "wysadzać lub kurczyć",
+    "pt": "explodir ou encolher",
+    "ro": "să explodeze sau să se micșoreze",
+    "ru": "взорваться или уменьшиться",
+    "sk": "vyhodiť do vzduchu alebo zmenšiť",
+    "sl": "razpočiti ali skrčiti",
+    "sv": "att spränga eller krympa",
+    "tr": "patlatmak veya küçültmek",
+    "uk": "підривати або стискати",
+    "zh": "鼓风或收缩"
+  },
+  "verses": [
+    "genesis 41:23:3"
+  ]
+}

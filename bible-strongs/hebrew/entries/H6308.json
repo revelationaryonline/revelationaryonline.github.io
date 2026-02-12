@@ -1,0 +1,42 @@
+{
+  "number": "H6308",
+  "language": "hebrew",
+  "transliteration": "pâdaʻ",
+  "pronunciation": "paw-dah'",
+  "definition": "to retrieve",
+  "kjvTranslation": "deliver.",
+  "hebrew": "פָּדַע",
+  "translations": {
+    "bg": "за извличане на",
+    "cs": "načíst",
+    "da": "for at hente",
+    "de": "zum Abrufen",
+    "el": "για να ανακτήσετε",
+    "es": "para recuperar",
+    "et": "et saada tagasi",
+    "fi": "hakea",
+    "fr": "pour récupérer",
+    "hu": "hogy visszakapja",
+    "id": "untuk mengambil",
+    "it": "per recuperare",
+    "ja": "検索する",
+    "ko": "를 검색하려면",
+    "lt": "gauti",
+    "lv": "lai iegūtu",
+    "nb": "for å hente",
+    "nl": "ophalen",
+    "pl": "do pobrania",
+    "pt": "para recuperar",
+    "ro": "pentru a prelua",
+    "ru": "получить",
+    "sk": "načítať",
+    "sl": "za pridobitev",
+    "sv": "för att hämta",
+    "tr": "geri almak için",
+    "uk": "щоб отримати",
+    "zh": "检索"
+  },
+  "verses": [
+    "job 33:24:2"
+  ]
+}

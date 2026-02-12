@@ -1,0 +1,43 @@
+{
+  "number": "H6405",
+  "language": "hebrew",
+  "transliteration": "pallêṭ",
+  "pronunciation": "pal-late'",
+  "definition": "escape",
+  "kjvTranslation": "deliverance, escape.",
+  "hebrew": "פַּלֵּט",
+  "translations": {
+    "bg": "бягство",
+    "cs": "únik",
+    "da": "flygte",
+    "de": "flucht",
+    "el": "διαφυγής",
+    "es": "escapar",
+    "et": "põgeneda",
+    "fi": "paeta",
+    "fr": "s'échapper",
+    "hu": "menekülés",
+    "id": "melarikan diri",
+    "it": "fuga",
+    "ja": "エスケープ",
+    "ko": "탈출",
+    "lt": "pabėgti",
+    "lv": "izkļūšana",
+    "nb": "flukt",
+    "nl": "ontsnappen",
+    "pl": "ucieczka",
+    "pt": "fuga",
+    "ro": "evadare",
+    "ru": "побег",
+    "sk": "únik",
+    "sl": "pobeg",
+    "sv": "flykt",
+    "tr": "kaçış",
+    "uk": "втеча",
+    "zh": "脱身"
+  },
+  "verses": [
+    "psalms 32:7:6",
+    "psalms 56:8:2"
+  ]
+}

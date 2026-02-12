@@ -1,0 +1,42 @@
+{
+  "number": "H435",
+  "language": "hebrew",
+  "transliteration": "ʼĔlûwl",
+  "pronunciation": "el-ool'",
+  "definition": "Elul, the sixth Jewish month",
+  "kjvTranslation": "Elul.",
+  "translations": {
+    "bg": "Елул, шестият еврейски месец",
+    "cs": "Elul, šestý židovský měsíc",
+    "da": "Elul, den sjette jødiske måned",
+    "de": "Elul, der sechste jüdische Monat",
+    "el": "Ελουλ, ο έκτος εβραϊκός μήνας",
+    "es": "Elul, sexto mes judío",
+    "et": "Elul, kuues juudi kuu",
+    "fi": "Elul, kuudes juutalainen kuukausi",
+    "fr": "Elul, le sixième mois juif",
+    "hu": "Elul, a hatodik zsidó hónap",
+    "id": "Elul, bulan keenam dalam agama Yahudi",
+    "it": "Elul, il sesto mese ebraico",
+    "ja": "エルル、ユダヤ教の第6の月",
+    "ko": "유대인의 여섯 번째 달, 엘룰",
+    "lt": "Elul, šeštasis žydų mėnuo",
+    "lv": "Eluls, ebreju sestais mēnesis",
+    "nb": "Elul, den sjette jødiske måneden",
+    "nl": "Elul, de zesde Joodse maand",
+    "pl": "Elul, szósty żydowski miesiąc",
+    "pt": "Elul, o sexto mês judaico",
+    "ro": "Elul, a șasea lună evreiască",
+    "ru": "Элул, шестой еврейский месяц",
+    "sk": "Elul, šiesty židovský mesiac",
+    "sl": "Elul, šesti judovski mesec",
+    "sv": "Elul, den sjätte judiska månaden",
+    "tr": "Elul, Yahudilerin altıncı ayı",
+    "uk": "Елул, шостий єврейський місяць",
+    "zh": "厄卢尔"
+  },
+  "hebrew": "אֱלוּל",
+  "verses": [
+    "nehemiah 6:15:4"
+  ]
+}

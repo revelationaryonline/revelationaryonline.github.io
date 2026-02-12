@@ -1,0 +1,43 @@
+{
+  "number": "H2221",
+  "language": "hebrew",
+  "transliteration": "zêrûwaʻ",
+  "pronunciation": "zay-roo'-ah",
+  "definition": "something sown, i.e. a plant",
+  "kjvTranslation": "sowing, thing that is sown.",
+  "translations": {
+    "bg": "нещо посято, т.е. растение",
+    "cs": "něco zasetého, tj. rostlina",
+    "da": "noget sået, f.eks. en plante",
+    "de": "etwas Gesätes, d.h. eine Pflanze",
+    "el": "κάτι που σπέρνεται, δηλαδή ένα φυτό",
+    "es": "algo sembrado, es decir, una planta",
+    "et": "midagi külvatud, st taim",
+    "fi": "jotain kylvettyä eli kasvi",
+    "fr": "quelque chose de semé, c'est-à-dire une plante",
+    "hu": "valami elvetett dolog, azaz egy növény",
+    "id": "sesuatu yang ditaburkan, yaitu tanaman",
+    "it": "qualcosa di seminato, cioè una pianta",
+    "ja": "種まき",
+    "ko": "뿌려진 것, 즉 식물",
+    "lt": "pasėtas daiktas, t. y. augalas",
+    "lv": "kaut kas iesēts, t. i., augs",
+    "nb": "noe som er sådd, f.eks. en plante",
+    "nl": "iets gezaaid, d.w.z. een plant",
+    "pl": "coś zasianego, np. roślina",
+    "pt": "algo semeado, ou seja, uma planta",
+    "ro": "ceva semănat, adică o plantă",
+    "ru": "что-то посеянное, т.е. растение",
+    "sk": "niečo zasiate, t. j. rastlina",
+    "sl": "nekaj posejanega, tj. rastlina",
+    "sv": "något som sås, t.ex. en planta",
+    "tr": "ekilen bir şey, yani bir bitki",
+    "uk": "щось посіяне, тобто рослина",
+    "zh": "植物"
+  },
+  "hebrew": "זֵרוּעַ",
+  "verses": [
+    "leviticus 11:37:6",
+    "isaiah 61:11:5"
+  ]
+}

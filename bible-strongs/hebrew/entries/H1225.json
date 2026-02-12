@@ -1,0 +1,42 @@
+{
+  "number": "H1225",
+  "language": "hebrew",
+  "transliteration": "bitstsârôwn",
+  "pronunciation": "bits-tsaw-rone'",
+  "definition": "a fortress",
+  "kjvTranslation": "stronghold.",
+  "translations": {
+    "bg": "крепост",
+    "cs": "pevnost",
+    "da": "en fæstning",
+    "de": "eine Festung",
+    "el": "ένα φρούριο",
+    "es": "una fortaleza",
+    "et": "kindlus",
+    "fi": "linnoitus",
+    "fr": "une forteresse",
+    "hu": "egy erőd",
+    "id": "sebuah benteng",
+    "it": "una fortezza",
+    "ja": "砦",
+    "ko": "요새",
+    "lt": "tvirtovė",
+    "lv": "cietoksnis",
+    "nb": "en festning",
+    "nl": "een fort",
+    "pl": "twierdza",
+    "pt": "uma fortaleza",
+    "ro": "o fortăreață",
+    "ru": "крепость",
+    "sk": "pevnosť",
+    "sl": "trdnjava",
+    "sv": "en fästning",
+    "tr": "bir kale",
+    "uk": "фортеця",
+    "zh": "堡垒"
+  },
+  "hebrew": "בִּצָּרוֹן",
+  "verses": [
+    "zechariah 9:12:1"
+  ]
+}

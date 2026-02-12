@@ -1,0 +1,42 @@
+{
+  "number": "H4650",
+  "language": "hebrew",
+  "transliteration": "mêphîyts",
+  "pronunciation": "may-feets'",
+  "definition": "a breaker, i.e. mallet",
+  "kjvTranslation": "maul.",
+  "hebrew": "מֵפִיץ",
+  "verses": [
+    "proverbs 25:18:0"
+  ],
+  "translations": {
+    "bg": "чук, т.е. чукче",
+    "cs": "rozbrušovačka, tj. palička",
+    "da": "en bryder, f.eks. en mukkert",
+    "de": "ein Hammer, d.h. ein Hämmerchen",
+    "el": "ένα σφυρί, π.χ. σφυρί",
+    "es": "un martillo, es decir, un mazo",
+    "et": "lõhkekeha, s.t. haamer",
+    "fi": "murskain, esim. vasara",
+    "fr": "un marteau, c'est-à-dire un maillet",
+    "hu": "egy törő, azaz kalapács",
+    "id": "pemutus, yaitu palu",
+    "it": "un martello, cioè un mazzuolo",
+    "ja": "ブレーカー",
+    "ko": "차단기, 즉 망치",
+    "lt": "laužtuvas, t. y. plaktukas",
+    "lv": "lauzējs, t. i., āmurs",
+    "nb": "en hammer, f.eks. en hammer",
+    "nl": "een breker, d.w.z. hamer",
+    "pl": "młot, tj. młotek",
+    "pt": "um martelo, ou seja, um martelo",
+    "ro": "un spărgător, de exemplu un ciocan",
+    "ru": "молоток, т.е. киянка",
+    "sk": "rozbíjač, t. j. palička",
+    "sl": "lomilo, tj. kladivo",
+    "sv": "en brytare, t.ex. en klubba",
+    "tr": "bir kırıcı, yani tokmak",
+    "uk": "брейкер, тобто молоток",
+    "zh": "槌"
+  }
+}

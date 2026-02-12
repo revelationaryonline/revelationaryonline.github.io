@@ -1,0 +1,42 @@
+{
+  "number": "H608",
+  "language": "hebrew",
+  "transliteration": "ʼantûwn",
+  "pronunciation": "an-toon'",
+  "definition": "ye",
+  "kjvTranslation": "ye.",
+  "translations": {
+    "bg": "ye",
+    "cs": "ye",
+    "da": "i",
+    "de": "ihr",
+    "el": "ναι",
+    "es": "ye",
+    "et": "jah",
+    "fi": "ye",
+    "fr": "oui",
+    "hu": "ye",
+    "id": "kamu",
+    "it": "lievito",
+    "ja": "イェー",
+    "ko": "ye",
+    "lt": "jūs",
+    "lv": "ye",
+    "nb": "dere",
+    "nl": "gij",
+    "pl": "tak",
+    "pt": "sim",
+    "ro": "voi",
+    "ru": "да",
+    "sk": "y",
+    "sl": "ye",
+    "sv": "ye",
+    "tr": "sen",
+    "uk": "так",
+    "zh": "你们"
+  },
+  "hebrew": "אַנְתּוּן",
+  "verses": [
+    "daniel 2:8:9"
+  ]
+}

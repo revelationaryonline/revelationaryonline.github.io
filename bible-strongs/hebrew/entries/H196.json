@@ -1,0 +1,42 @@
+{
+  "number": "H196",
+  "language": "hebrew",
+  "transliteration": "ʼĕvilîy",
+  "pronunciation": "ev-ee-lee'",
+  "definition": "silly, foolish; hence (morally) impious",
+  "kjvTranslation": "foolish.",
+  "translations": {
+    "bg": "глупав, глупав; следователно (морално) нечестив",
+    "cs": "hloupý, pošetilý, tedy (morálně) bezbožný",
+    "da": "dum, tåbelig; derfor (moralsk) ugudelig",
+    "de": "dumm, töricht; daher (moralisch) pietätlos",
+    "el": "ανόητος, ανόητος, άρα (ηθικά) ασεβής",
+    "es": "tonto, insensato; por lo tanto (moralmente) impío",
+    "et": "rumal, rumal; seega (moraalselt) vagadus",
+    "fi": "hölmö, typerä; siis (moraalisesti) jumalattomuus",
+    "fr": "stupide, insensé ; donc (moralement) impie",
+    "hu": "ostoba, bolond; ezért (erkölcsileg) istentelen",
+    "id": "konyol, bodoh; karenanya (secara moral) tidak bermoral",
+    "it": "sciocco, insensato; quindi (moralmente) empio",
+    "ja": "愚にもつかない",
+    "ko": "어리석고 어리석은, 따라서 (도덕적으로) 불경한",
+    "lt": "kvailas, kvailas; taigi (moraliniu požiūriu) bedieviškas",
+    "lv": "muļķīgs, muļķīgs; tātad (morāli) bezdievīgs",
+    "nb": "dum, tåpelig; derav (moralsk) ugudelig",
+    "nl": "dom, dwaas; vandaar (moreel) goddeloos",
+    "pl": "głupi, niemądry; stąd (moralnie) bezbożny",
+    "pt": "tolo, insensato; portanto (moralmente) ímpio",
+    "ro": "prostuț, nebun; prin urmare (moral) impios",
+    "ru": "глупый, глупый; следовательно (морально) нечестивый",
+    "sk": "hlúpy, bláznivý; teda (morálne) bezbožný",
+    "sl": "neumen, neumen; zato (moralno) brezbožen",
+    "sv": "dum, dåraktig; därav (moraliskt) ogudaktig",
+    "tr": "aptalca, budalaca; dolayısıyla (ahlaki açıdan) dinsiz",
+    "uk": "дурний, нерозумний; отже (морально) нечестивий",
+    "zh": "愚蠢、愚昧；因此（道德上）不虔诚"
+  },
+  "hebrew": "אֱוִלִי",
+  "verses": [
+    "zechariah 11:15:8"
+  ]
+}

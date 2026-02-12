@@ -1,0 +1,42 @@
+{
+  "number": "H6349",
+  "language": "hebrew",
+  "transliteration": "pachaz",
+  "pronunciation": "pakh'-az",
+  "definition": "ebullition, i.e. froth (figuratively, lust)",
+  "kjvTranslation": "unstable.",
+  "hebrew": "פַּחַז",
+  "translations": {
+    "bg": "изблик, т.е. пяна (в преносен смисъл, похот)",
+    "cs": "ebullition, tj. pěna (přeneseně chtíč)",
+    "da": "ebullition, dvs. skum (i overført betydning, lyst)",
+    "de": "überschwang, d.h. Schaum (im übertragenen Sinne, Lust)",
+    "el": "πλημμύρα, δηλαδή αφρός (μεταφορικά, λαγνεία)",
+    "es": "ebullición, es decir, espuma (en sentido figurado, lujuria)",
+    "et": "ebullition, s.t. vahutamine (piltlikult öeldes, iha)",
+    "fi": "vaahtoaminen, eli vaahtoaminen (kuvaannollisesti, himo)",
+    "fr": "l'ébullition, c'est-à-dire l'écume (au sens figuré, la luxure)",
+    "hu": "habzsolás, azaz habzsolás (átvitt értelemben: kéjvágy)",
+    "id": "ebullisi, yaitu buih (secara kiasan, nafsu)",
+    "it": "ebollizione, cioè schiuma (in senso figurato, lussuria)",
+    "ja": "滾る",
+    "ko": "거품, 즉 거품(비유적으로 욕망)",
+    "lt": "ebullition, t. y. putojimas (perkeltine prasme, geismas)",
+    "lv": "ebullition, t.i., putas (pārnestā nozīmē, iekāre)",
+    "nb": "ebullition, dvs. fråde (i overført betydning, begjær)",
+    "nl": "ebullition, d.w.z. schuim (figuurlijk, lust)",
+    "pl": "ebullition, tj. piana (w przenośni pożądanie)",
+    "pt": "ebulição, ou seja, espuma (em sentido figurado, luxúria)",
+    "ro": "ebulliție, adică spumă (la figurat, poftă)",
+    "ru": "бурление, т.е. пена (образно, похоть)",
+    "sk": "ebullition, t. j. pena (obrazne, žiadostivosť)",
+    "sl": "ebulacija, tj. pena (v prenesenem pomenu, poželenje)",
+    "sv": "ebullition, d.v.s. skum (bildligt, lust)",
+    "tr": "ebullition, yani köpük (mecazi olarak, şehvet)",
+    "uk": "ебуліція, тобто піна (образно кажучи, хіть)",
+    "zh": "沫"
+  },
+  "verses": [
+    "genesis 49:4:0"
+  ]
+}

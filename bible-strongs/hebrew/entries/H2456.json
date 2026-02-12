@@ -1,0 +1,42 @@
+{
+  "number": "H2456",
+  "language": "hebrew",
+  "transliteration": "châlâʼ",
+  "pronunciation": "khaw-law'",
+  "definition": "to be sick",
+  "kjvTranslation": "be diseased.",
+  "translations": {
+    "bg": "да бъдеш болен",
+    "cs": "být nemocný",
+    "da": "at være syg",
+    "de": "krank zu sein",
+    "el": "να είναι άρρωστος",
+    "es": "estar enfermo",
+    "et": "olla haige",
+    "fi": "olla sairas",
+    "fr": "être malade",
+    "hu": "betegnek lenni",
+    "id": "menjadi sakit",
+    "it": "essere malati",
+    "ja": "病気になる",
+    "ko": "아프다",
+    "lt": "sirgti",
+    "lv": "saslimt",
+    "nb": "å være syk",
+    "nl": "ziek zijn",
+    "pl": "być chorym",
+    "pt": "estar doente",
+    "ro": "să fii bolnav",
+    "ru": "болеть",
+    "sk": "byť chorý",
+    "sl": "biti bolan",
+    "sv": "att vara sjuk",
+    "tr": "hasta olmak",
+    "uk": "хворіти",
+    "zh": "生病"
+  },
+  "hebrew": "חָלָא",
+  "verses": [
+    "secondChronicles 16:12:0"
+  ]
+}

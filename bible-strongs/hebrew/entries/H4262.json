@@ -1,0 +1,43 @@
+{
+  "number": "H4262",
+  "language": "hebrew",
+  "transliteration": "machmud",
+  "pronunciation": "makh-mood'",
+  "definition": "desired; hence, a valuable",
+  "kjvTranslation": "pleasant thing.",
+  "hebrew": "מַחְמֻד",
+  "translations": {
+    "bg": "желана; следователно, ценна",
+    "cs": "žádoucí; proto je cenný",
+    "da": "ønsket; derfor en værdifuld",
+    "de": "gewünscht; daher eine wertvolle",
+    "el": "ως εκ τούτου, ένα πολύτιμο",
+    "es": "deseado; por lo tanto, un valioso",
+    "et": "soovitud; seega on väärtuslik",
+    "fi": "haluttu; näin ollen arvokas",
+    "fr": "souhaitée, d'où l'importance d'une",
+    "hu": "kívánatos; ezért értékes",
+    "id": "yang diinginkan; oleh karena itu, sebuah",
+    "it": "desiderata; quindi, un prezioso",
+    "ja": "したがって、貴重な",
+    "ko": "원하는; 따라서 귀중한",
+    "lt": "pageidaujama; taigi, vertingas",
+    "lv": "vēlama; tādējādi, vērtīgs",
+    "nb": "ønsket; derfor er en verdifull",
+    "nl": "gewenst; dus een waardevolle",
+    "pl": "pożądany; stąd cenny",
+    "pt": "desejado; portanto, um valioso",
+    "ro": "dorit; prin urmare, un valoros",
+    "ru": "желаемый; следовательно, ценный",
+    "sk": "požadovaný; preto je cenný",
+    "sl": "želeno; zato je dragocen",
+    "sv": "önskad; därmed en värdefull",
+    "tr": "istenen; dolayısıyla, değerli bir",
+    "uk": "бажаний; отже, цінний",
+    "zh": "因此，一个宝贵的"
+  },
+  "verses": [
+    "lamentations 1:7:6",
+    "lamentations 1:11:6"
+  ]
+}

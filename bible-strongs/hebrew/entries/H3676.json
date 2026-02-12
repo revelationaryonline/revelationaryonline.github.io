@@ -1,0 +1,42 @@
+{
+  "number": "H3676",
+  "language": "hebrew",
+  "transliteration": "kêç",
+  "pronunciation": "kace",
+  "definition": "{a flag; also a sail; by implication, a flagstaff; generally a signal; figuratively, a token}",
+  "kjvTranslation": "sworn.",
+  "translations": {
+    "bg": "{флаг; също и платно; по подразбиране - флагман; обикновено сигнал; в преносен смисъл - знак}",
+    "cs": "{vlajka; také plachta; implicitně stěžeň; obecně signál; přeneseně znamení}",
+    "da": "{et flag; også et sejl; underforstået en flagstang; generelt et signal; i overført betydning et symbol}",
+    "de": "{eine Fahne; auch ein Segel; implizit auch ein Fahnenmast; allgemein ein Signal; im übertragenen Sinne ein Zeichen}",
+    "el": "{μια σημαία, επίσης ένα πανί, κατ' επέκταση, ένας ιστός σημαίας, γενικά ένα σήμα, μεταφορικά, ένα σύμβολο}",
+    "es": "{una bandera; también una vela; por implicación, un asta; generalmente una señal; figuradamente, una señal}",
+    "et": "{lipp; ka puri; kaudselt ka lipuvarda; üldiselt signaal; piltlikult öeldes märk}",
+    "fi": "{lippu; myös purje; implisiittisesti lipputanko; yleensä merkki; kuvaannollisesti merkki}",
+    "fr": "{un drapeau ; également une voile ; par implication, une hampe de drapeau ; généralement un signal ; au sens figuré, un gage}",
+    "hu": "{zászló; vitorla is; értelemszerűen zászlórúd; általában jelzés; átvitt értelemben: jelzőtábla}",
+    "id": "{bendera; juga layar; dengan implikasi, tongkat bendera; secara umum sebuah sinyal; secara kiasan, sebuah tanda}",
+    "it": "{bandiera; anche vela; per implicazione, pennone; generalmente un segnale; in senso figurato, un simbolo}",
+    "ja": "{旗; 帆; 意味合いとしては旗ざお; 一般的には合図; 形容的にはトークン}。",
+    "ko": "{깃발, 또한 돛, 함축적으로 깃대, 일반적으로 신호, 비유적으로 토큰}",
+    "lt": "{vėliava; taip pat burė; netiesiogiai vėliavos stiebas; paprastai signalas; perkeltine prasme - ženklas}",
+    "lv": "{karogs; arī bura; netieši arī karoga masts; parasti signāls; pārnestā nozīmē - zīme}",
+    "nb": "{et flagg; også et seil; underforstått, en flaggstang; generelt et signal; i overført betydning, et symbol}",
+    "nl": "{een vlag; ook een zeil; impliciet, een vlaggenstok; in het algemeen een signaal; figuurlijk, een teken}",
+    "pl": "{flaga; także żagiel; w domyśle maszt flagowy; ogólnie sygnał; w przenośni znak}",
+    "pt": "{uma bandeira; também uma vela; implicitamente, um mastro de bandeira; geralmente um sinal; figurativamente, um símbolo}",
+    "ro": "{un steag; de asemenea, o pânză; implicit, un catarg de pavilion; în general, un semnal; la figurat, un semn}",
+    "ru": "{флаг; также парус; по косвенным признакам, флагшток; обычно сигнал; фигурально, знак}",
+    "sk": "{vlajka; tiež plachta; implicitne vlajkový stožiar; všeobecne signál; obrazne povedané, znamenie}",
+    "sl": "{zastava; tudi jadro; implicitno tudi drog zastave; na splošno signal; v prenesenem pomenu znak}",
+    "sv": "{en flagga; även ett segel; underförstått en flaggstång; i allmänhet en signal; bildligt talat en symbol}",
+    "tr": "{bir bayrak; ayrıca bir yelken; ima yoluyla, bir bayrak direği; genellikle bir işaret; mecazi olarak, bir belirteç}",
+    "uk": "{прапор; також вітрило; за змістом - флагшток; загалом сигнал; образно - знак}",
+    "zh": "{旗帜；也指船帆；暗指旗杆；一般指信号；比喻信物}。"
+  },
+  "hebrew": "כֵּס",
+  "verses": [
+    "exodus 17:16:4"
+  ]
+}

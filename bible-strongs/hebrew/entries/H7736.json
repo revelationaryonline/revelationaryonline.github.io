@@ -1,0 +1,42 @@
+{
+  "number": "H7736",
+  "language": "hebrew",
+  "transliteration": "shûwd",
+  "pronunciation": "shood",
+  "definition": "properly, to swell up, i.e. figuratively (by implication of insolence) to devastate",
+  "kjvTranslation": "waste.",
+  "hebrew": "שׁוּד",
+  "translations": {
+    "bg": "правилно, да набъбне, т.е. образно (чрез намек за наглост) да опустоши",
+    "cs": "správně, nabobtnat, tj. obrazně (v náznaku drzosti) zpustošit",
+    "da": "korrekt, at svulme op, dvs. i overført betydning (ved implikation af uforskammethed) at ødelægge",
+    "de": "richtig: anschwellen, d.h. im übertragenen Sinne (durch Anmaßung) verwüsten",
+    "el": "σωστά, να διογκωθεί, δηλαδή μεταφορικά (με την υπονοούμενη αυθάδεια) να καταστραφεί",
+    "es": "propiamente, hincharse, es decir, en sentido figurado (por implicación de insolencia) devastar",
+    "et": "õigesti, paisuda, s.t. piltlikult (vihjates uljusele) laastada",
+    "fi": "oikein, paisua, toisin sanoen kuvaannollisesti (julkeuden kautta) tuhota",
+    "fr": "au sens propre, gonfler, c'est-à-dire au sens figuré (par insolence) dévaster",
+    "hu": "helyesen, felduzzasztani, azaz képletesen (a szemtelenségre utalva) elpusztítani",
+    "id": "benar, membengkak, yaitu secara kiasan (dengan implikasi penghinaan) untuk menghancurkan",
+    "it": "propriamente, gonfiarsi, cioè in senso figurato (con l'implicazione di insolenza) devastare",
+    "ja": "正しくは、膨れ上がる、つまり比喩的に（不遜の意味合いで）荒廃させる",
+    "ko": "적절하게, 부풀어 오르다, 즉 비 유적으로 (오만함의 암시에 의해) 파괴하다",
+    "lt": "tinkamai - išsipūsti, t. y. perkeltine prasme (dėl įžūlumo) nusiaubti",
+    "lv": "pareizi - uzbriest, t.i., pārnestā nozīmē (ar netīšu nekaunību) izpostīt",
+    "nb": "egentlig, å svulme opp, dvs. i overført betydning (ved implikasjon av uforskammethet) å ødelegge",
+    "nl": "goed, opzwellen, d.w.z. figuurlijk (door implicatie van brutaliteit) verwoesten",
+    "pl": "prawidłowo, puchnąć, tj. w przenośni (przez implikację bezczelności) dewastować",
+    "pt": "propriamente, inchar, ou seja, figurativamente (por implicação de insolência) devastar",
+    "ro": "propriu-zis, a se umfla, adică la figurat (prin implicare în insolență) a devasta",
+    "ru": "правильно, разбухать, т.е., образно говоря (подразумевая наглость), опустошать",
+    "sk": "správne, napučať, t. j. obrazne (v náznaku drzosti) zdevastovať",
+    "sl": "pravilno, nabrekniti, tj. v prenesenem pomenu (zaradi predrznosti) opustošiti",
+    "sv": "korrekt, att svälla upp, dvs. bildligt (genom implikation av oförskämdhet) att förgöra",
+    "tr": "uygun şekilde, şişmek, yani mecazi olarak (küstahlık imasıyla) harap etmek",
+    "uk": "власне, розбухати, тобто в переносному значенні (з натяком на нахабство) спустошувати",
+    "zh": "适当地，膨胀起来，即比喻（暗示无礼）破坏"
+  },
+  "verses": [
+    "psalms 91:6:4"
+  ]
+}

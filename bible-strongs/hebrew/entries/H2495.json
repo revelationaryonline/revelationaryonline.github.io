@@ -1,0 +1,42 @@
+{
+  "number": "H2495",
+  "language": "hebrew",
+  "transliteration": "challâmûwth",
+  "pronunciation": "khal-law-mooth'",
+  "definition": "probably purslain",
+  "kjvTranslation": "egg.",
+  "translations": {
+    "bg": "вероятно Purslain",
+    "cs": "pravděpodobně purslain",
+    "da": "sandsynligvis purslain",
+    "de": "wahrscheinlich Purslain",
+    "el": "πιθανώς purslain",
+    "es": "probablemente purslain",
+    "et": "tõenäoliselt tagaotsitav",
+    "fi": "luultavasti purslain",
+    "fr": "probablement la poursuite de l'action",
+    "hu": "valószínűleg üldözni",
+    "id": "mungkin purslain",
+    "it": "probabilmente purslain",
+    "ja": "おそらくパースレン",
+    "ko": "아마도 퍼슬린",
+    "lt": "tikriausiai Purslain",
+    "lv": "iespējams, Purslain",
+    "nb": "sannsynligvis purslain",
+    "nl": "waarschijnlijk purslain",
+    "pl": "prawdopodobnie purslain",
+    "pt": "provavelmente purslain",
+    "ro": "probabil purslain",
+    "ru": "вероятно, Пурслейн",
+    "sk": "pravdepodobne purslain",
+    "sl": "verjetno purslain",
+    "sv": "förmodligen purslain",
+    "tr": "muhtemelen purslain",
+    "uk": "можливо, переслідувати",
+    "zh": "可能是珀尔塞莱恩"
+  },
+  "hebrew": "חַלָּמוּת",
+  "verses": [
+    "job 6:6:8"
+  ]
+}

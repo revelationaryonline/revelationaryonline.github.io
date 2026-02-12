@@ -1,0 +1,42 @@
+{
+  "number": "H8509",
+  "language": "hebrew",
+  "transliteration": "takrîyk",
+  "pronunciation": "tak-reek'",
+  "definition": "a wrapper or robe",
+  "kjvTranslation": "garment.",
+  "hebrew": "תַּכְרִיךְ",
+  "translations": {
+    "bg": "обвивка или халат",
+    "cs": "zavinovačka nebo roucho",
+    "da": "en indpakning eller kappe",
+    "de": "ein Umhang oder Gewand",
+    "el": "ένα περιτύλιγμα ή ρόμπα",
+    "es": "una envoltura o manto",
+    "et": "mähis või rüü",
+    "fi": "kääre tai kaapu",
+    "fr": "une enveloppe ou une robe",
+    "hu": "csomagolópapír vagy köntös",
+    "id": "pembungkus atau jubah",
+    "it": "un involucro o una veste",
+    "ja": "袈裟",
+    "ko": "포장지 또는 가운",
+    "lt": "apsiaustas arba chalatas",
+    "lv": "apmetnis vai halāts",
+    "nb": "et omslag eller en kappe",
+    "nl": "een omslagdoek of gewaad",
+    "pl": "owijka lub szata",
+    "pt": "um invólucro ou manto",
+    "ro": "un înveliș sau un halat",
+    "ru": "обертка или халат",
+    "sk": "zavinovačka alebo rúcho",
+    "sl": "ovoj ali halja",
+    "sv": "ett omslag eller en mantel",
+    "tr": "bir sargı veya bornoz",
+    "uk": "обгортка або халат",
+    "zh": "裹"
+  },
+  "verses": [
+    "esther 8:15:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H36",
+  "language": "hebrew",
+  "transliteration": "ʼĂbîyṭûwb",
+  "pronunciation": "ab-ee-toob'",
+  "definition": "Abitub, an Israelite",
+  "kjvTranslation": "Abitub.",
+  "translations": {
+    "bg": "Авитуб, израилтянин",
+    "cs": "Abitub, Izraelita",
+    "da": "Abitub, en israelit",
+    "de": "Abitub, ein Israelit",
+    "el": "Abitub, ένας Ισραηλίτης",
+    "es": "Abitub, israelita",
+    "et": "Abitub, iisraellane",
+    "fi": "Abitub, israelilainen",
+    "fr": "Abitub, Israélite",
+    "hu": "Abitub, izraelita",
+    "id": "Abitub, seorang Israel",
+    "it": "Abitub, un israelita",
+    "ja": "イスラエル人アビトゥブ",
+    "ko": "아비툽, 이스라엘인",
+    "lt": "Abitubas, izraelitas",
+    "lv": "Abitubs, izraēlietis",
+    "nb": "Abitub, en israelitt",
+    "nl": "Abitub, een Israëliet",
+    "pl": "Abitub, Izraelita",
+    "pt": "Abitub, israelita",
+    "ro": "Abitub, un israelit",
+    "ru": "Абитуб, израильтянин",
+    "sk": "Abitub, Izraelita",
+    "sl": "Abitub, Izraelec",
+    "sv": "Abitub, en israelit",
+    "tr": "Abitub, bir İsrailli",
+    "uk": "Абітуб, ізраїльтянин",
+    "zh": "以色列人亚比图"
+  },
+  "hebrew": "אֲבִיטוּב",
+  "verses": [
+    "firstChronicles 8:11:3"
+  ]
+}

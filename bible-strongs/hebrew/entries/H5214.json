@@ -1,0 +1,43 @@
+{
+  "number": "H5214",
+  "language": "hebrew",
+  "transliteration": "nîyr",
+  "pronunciation": "neer",
+  "definition": "to till the soil",
+  "kjvTranslation": "break up.",
+  "hebrew": "נִיר",
+  "translations": {
+    "bg": "да обработва почвата",
+    "cs": "obdělávat půdu",
+    "da": "til at bearbejde jorden",
+    "de": "den Boden zu bearbeiten",
+    "el": "να καλλιεργήσουν το έδαφος",
+    "es": "labrar la tierra",
+    "et": "mulda harida",
+    "fi": "maan muokkaamiseen",
+    "fr": "labourer le sol",
+    "hu": "a földet megművelni",
+    "id": "untuk mengolah tanah",
+    "it": "per dissodare il terreno",
+    "ja": "土を耕す",
+    "ko": "흙을 경작하기 위해",
+    "lt": "įdirbti dirvą",
+    "lv": "apstrādāt augsni",
+    "nb": "å bearbeide jorden",
+    "nl": "om de grond te bewerken",
+    "pl": "do uprawy gleby",
+    "pt": "cultivar o solo",
+    "ro": "să lucreze pământul",
+    "ru": "обрабатывать землю",
+    "sk": "obrábať pôdu",
+    "sl": "obdelovati zemljo",
+    "sv": "att bearbeta jorden",
+    "tr": "toprağı işlemek için",
+    "uk": "для обробітку ґрунту",
+    "zh": "耕田"
+  },
+  "verses": [
+    "jeremiah 4:3:7",
+    "hosea 10:12:6"
+  ]
+}

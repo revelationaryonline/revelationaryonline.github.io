@@ -1,0 +1,42 @@
+{
+  "number": "H3600",
+  "language": "hebrew",
+  "transliteration": "kîyr",
+  "pronunciation": "keer",
+  "definition": "a cooking range (consisting of two parallel stones, across which the boiler is set)",
+  "kjvTranslation": "ranges for pots.",
+  "translations": {
+    "bg": "печка за готвене (състояща се от два успоредни камъка, върху които е поставен котелът)",
+    "cs": "varná deska (skládající se ze dvou rovnoběžných kamenů, přes které je postaven kotel)",
+    "da": "en kogeplade (bestående af to parallelle sten, som kedlen er placeret på tværs af)",
+    "de": "ein Kochfeld (bestehend aus zwei parallelen Steinen, auf die der Kessel gestellt wird)",
+    "el": "εστία μαγειρέματος (αποτελούμενη από δύο παράλληλες πέτρες, στις οποίες τοποθετείται ο λέβητας)",
+    "es": "una batería de cocina (formada por dos piedras paralelas sobre las que se coloca la caldera)",
+    "et": "keeduala (mis koosneb kahest paralleelsest kivist, mille üle on asetatud katel)",
+    "fi": "keittotaso (joka koostuu kahdesta samansuuntaisesta kivestä, joiden poikki kattila asetetaan)",
+    "fr": "une cuisinière (composée de deux pierres parallèles, sur lesquelles la chaudière est placée)",
+    "hu": "főzőtér (két párhuzamos kőből áll, amelyeken a kazán keresztben helyezkedik el)",
+    "id": "tempat memasak (terdiri dari dua batu paralel, di mana ketel diletakkan)",
+    "it": "una gamma di cottura (costituita da due pietre parallele, attraverso le quali è posizionata la caldaia)",
+    "ja": "かまど",
+    "ko": "조리 범위 (보일러가 설치된 두 개의 평행 한 돌로 구성됨)",
+    "lt": "kepimo zona (sudaryta iš dviejų lygiagrečių akmenų, ant kurių pastatytas katilas)",
+    "lv": "gatavošanas zona (sastāv no diviem paralēliem akmeņiem, pāri kuriem novietots katls)",
+    "nb": "en kokeplate (bestående av to parallelle steiner som kjelen er plassert på tvers av)",
+    "nl": "een kookplaat (bestaande uit twee parallelle stenen, waar de ketel overheen staat)",
+    "pl": "zakres gotowania (składający się z dwóch równoległych kamieni, w poprzek których ustawiony jest kocioł)",
+    "pt": "um leque de cozedura (constituído por duas pedras paralelas, sobre as quais se coloca a caldeira)",
+    "ro": "o plită de gătit (formată din două pietre paralele, peste care este așezat cazanul)",
+    "ru": "варочная поверхность (состоит из двух параллельных камней, на которых установлен котел)",
+    "sk": "varný panel (pozostávajúci z dvoch rovnobežných kameňov, na ktorých je postavený kotol)",
+    "sl": "kuhalno polje (sestavljeno iz dveh vzporednih kamnov, na katerih je postavljen kotel)",
+    "sv": "ett matlagningsområde (bestående av två parallella stenar, över vilka pannan är placerad)",
+    "tr": "bir pişirme aralığı (kazanın yerleştirildiği iki paralel taştan oluşan)",
+    "uk": "варильна поверхня (складається з двох паралельних каменів, на яких встановлений котел)",
+    "zh": "灶台"
+  },
+  "hebrew": "כִּיר",
+  "verses": [
+    "leviticus 11:35:7"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5191",
+  "language": "hebrew",
+  "transliteration": "nᵉṭal",
+  "pronunciation": "net-al'",
+  "definition": "to raise",
+  "kjvTranslation": "take up.",
+  "hebrew": "נְטַל",
+  "translations": {
+    "bg": "да се повиши",
+    "cs": "zvýšit",
+    "da": "for at rejse",
+    "de": "zu erhöhen",
+    "el": "να αυξήσει",
+    "es": "aumentar",
+    "et": "tõsta",
+    "fi": "nostaa",
+    "fr": "pour élever",
+    "hu": "emelni",
+    "id": "untuk meningkatkan",
+    "it": "per aumentare",
+    "ja": "上げる",
+    "ko": "올리려면",
+    "lt": "didinti",
+    "lv": "paaugstināt",
+    "nb": "for å heve",
+    "nl": "om",
+    "pl": "podnieść",
+    "pt": "para aumentar",
+    "ro": "pentru a ridica",
+    "ru": "повышать",
+    "sk": "zvýšiť",
+    "sl": "da bi povečali",
+    "sv": "för att höja",
+    "tr": "yükseltmek için",
+    "uk": "щоб підняти",
+    "zh": "以提高"
+  },
+  "verses": [
+    "daniel 4:31:6",
+    "daniel 7:4:12"
+  ]
+}

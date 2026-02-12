@@ -1,0 +1,43 @@
+{
+  "number": "H8211",
+  "language": "hebrew",
+  "transliteration": "shephek",
+  "pronunciation": "sheh'-fek",
+  "definition": "an emptying place, e.g. an ash-heap",
+  "kjvTranslation": "are poured out.",
+  "hebrew": "שֶׁפֶךְ",
+  "translations": {
+    "bg": "място за изпразване, напр. пепелище",
+    "cs": "místo pro vyprazdňování, např. popelník",
+    "da": "et sted, der tømmes, f.eks. en askebunke",
+    "de": "ein Entleerungsort, z. B. ein Aschehaufen",
+    "el": "ένας τόπος εκκένωσης, π.χ. ένας σωρός τέφρας",
+    "es": "un lugar de vaciado, por ejemplo, un cenicero",
+    "et": "tühjenduskoht, nt tuhahunnik",
+    "fi": "tyhjennyspaikka, esim. tuhkakasa",
+    "fr": "un lieu de vidange, par exemple un tas de cendres",
+    "hu": "ürítőhely, pl. egy hamuhalom",
+    "id": "tempat pengosongan, misalnya tumpukan abu",
+    "it": "un luogo di svuotamento, ad esempio un cumulo di cenere",
+    "ja": "灰捨て場",
+    "ko": "비워지는 장소, 예를 들어 재 더미",
+    "lt": "ištuštinimo vieta, pvz., pelenų krūva",
+    "lv": "iztukšošanas vieta, piemēram, pelnu kaudze",
+    "nb": "et tømmested, f.eks. en askehaug",
+    "nl": "een leegplaats, bijv. een ashoop",
+    "pl": "miejsce opróżniania, np. hałda popiołu",
+    "pt": "um local de esvaziamento, por exemplo, um monte de cinzas",
+    "ro": "un loc de golire, de exemplu o groapă de cenușă",
+    "ru": "пустое место, например, пепелище",
+    "sk": "miesto na vyprázdňovanie, napr. popolník",
+    "sl": "prostor za praznjenje, npr. pepelnik",
+    "sv": "en plats som töms, t.ex. en askhög",
+    "tr": "bir boşaltma yeri, örneğin bir kül yığını",
+    "uk": "місце, що порожніє, наприклад, попелище",
+    "zh": "贮灰场"
+  },
+  "verses": [
+    "leviticus 4:12:11",
+    "leviticus 4:12:19"
+  ]
+}

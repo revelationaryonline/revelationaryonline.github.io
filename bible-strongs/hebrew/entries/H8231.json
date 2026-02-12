@@ -1,0 +1,42 @@
+{
+  "number": "H8231",
+  "language": "hebrew",
+  "transliteration": "shâphar",
+  "pronunciation": "shaw-far'",
+  "definition": "to glisten, i.e. (figuratively) be (causatively, make) fair",
+  "kjvTranslation": "[idiom] goodly.",
+  "hebrew": "שָׁפַר",
+  "translations": {
+    "bg": "да блести, т.е. (преносно) да бъде (причинно-следствено, да бъде) честен",
+    "cs": "lesknout se, tj. (přeneseně) být (příčinně, dělat) poctivý",
+    "da": "at skinne, dvs. (i overført betydning) være (kausalt, gøre) fair",
+    "de": "glänzen, d.h. (bildlich) schön sein (kausal, machen)",
+    "el": "να λάμπει, δηλαδή (μεταφορικά) να είναι (αιτιωδώς, να κάνει) δίκαιο",
+    "es": "brillar, es decir (figuradamente) ser (causativamente, hacer) justo",
+    "et": "särada, st (piltlikult) olla (põhjuslikult, teha) õiglane",
+    "fi": "kiiltää, eli (kuvaannollisesti) olla (kausatiivisesti, tehdä) oikeudenmukainen",
+    "fr": "briller, c'est-à-dire (au sens figuré) être (au sens causal, faire) juste",
+    "hu": "csillogni, azaz (átvitt értelemben) tisztességesnek lenni (ok-okozati értelemben, tisztességessé tenni)",
+    "id": "untuk berkilau, yaitu (secara kiasan) menjadi (secara kausatif, membuat) adil",
+    "it": "scintillare, cioè (in senso figurato) essere (causalmente, rendere) leale",
+    "ja": "光り輝く、すなわち（比喩的に）公平である（因果的に、公正である）。",
+    "ko": "반짝이다, 즉 (비유적으로) (인과적으로, 공정하게) 만들다",
+    "lt": "blizgėti, t. y. (perkeltine prasme) būti (priežastingai, sąžiningai)",
+    "lv": "spīdēt, t.i., (pārnestā nozīmē) būt (cēloņsakarīgi, padarīt) godīgu",
+    "nb": "å glitre, dvs. (i overført betydning) være (kausativt, gjøre) rettferdig",
+    "nl": "glinsteren, d.w.z. (figuurlijk) eerlijk zijn (causaal, maken)",
+    "pl": "błyszczeć, tj. (w przenośni) być (przyczynowo, czynić) uczciwym",
+    "pt": "brilhar, ou seja, (figurativamente) ser (causativamente, tornar) justo",
+    "ro": "a străluci, adică (la figurat) a fi (cauzativ, a face) corect",
+    "ru": "сверкать, т.е. (фигурально) быть (каузально, делать) справедливым",
+    "sk": "lesknúť sa, t. j. (obrazne) byť (príčinne, urobiť) spravodlivým",
+    "sl": "blesteti, tj. (v prenesenem pomenu) biti (v vzročnem pomenu, biti) pošten",
+    "sv": "att glänsa, dvs. (bildligt) vara (kausalt, göra) rättvis",
+    "tr": "parıldamak, yani (mecazi olarak) adil olmak (nedensel olarak, yapmak)",
+    "uk": "блищати, тобто (образно) бути (каузально, робити) справедливим",
+    "zh": "闪闪发光，即（比喻）公平（因果关系，使）公平"
+  },
+  "verses": [
+    "psalms 16:6:6"
+  ]
+}

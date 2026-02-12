@@ -1,0 +1,43 @@
+{
+  "number": "H4836",
+  "language": "hebrew",
+  "transliteration": "martsêaʻ",
+  "pronunciation": "mar-tsay'-ah",
+  "definition": "an awl",
+  "kjvTranslation": "aul.",
+  "hebrew": "מַרְצֵעַ",
+  "translations": {
+    "bg": "шило",
+    "cs": "šídlo",
+    "da": "en syl",
+    "de": "eine Ahle",
+    "el": "ένα τσεκούρι",
+    "es": "un punzón",
+    "et": "naaskel",
+    "fi": "nuija",
+    "fr": "une alène",
+    "hu": "egy fúrótőr",
+    "id": "penusuk",
+    "it": "un punteruolo",
+    "ja": "アウル",
+    "ko": "송곳",
+    "lt": "plunksna",
+    "lv": "īlens",
+    "nb": "en syl",
+    "nl": "een priem",
+    "pl": "szydło",
+    "pt": "um furador",
+    "ro": "o sulă",
+    "ru": "шило",
+    "sk": "šidlo",
+    "sl": "šilo",
+    "sv": "en syl",
+    "tr": "bir tığ",
+    "uk": "шило",
+    "zh": "锥子"
+  },
+  "verses": [
+    "exodus 21:6:14",
+    "deuteronomy 15:17:2"
+  ]
+}

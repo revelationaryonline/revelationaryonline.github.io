@@ -1,0 +1,42 @@
+{
+  "number": "H3670",
+  "language": "hebrew",
+  "transliteration": "kânaph",
+  "pronunciation": "kaw-naf'",
+  "definition": "properly, to project laterally, i.e. probably (reflexive) to withdraw",
+  "kjvTranslation": "be removed.",
+  "translations": {
+    "bg": "правилно, да се проектира странично, т.е. вероятно (рефлексивно) да се оттегли",
+    "cs": "správně, promítnout se do strany, tj. pravděpodobně (reflexivně) stáhnout se",
+    "da": "korrekt, at projicere sideværts, dvs. sandsynligvis (refleksivt) at trække sig tilbage",
+    "de": "richtig, seitlich projizieren, d.h. wahrscheinlich (reflexiv) zurückziehen",
+    "el": "σωστά, να προβάλλει πλευρικά, δηλαδή πιθανώς (αντανακλαστικά) να αποσύρει",
+    "es": "propiamente, proyectarse lateralmente, es decir, probablemente (reflexivo) retirarse",
+    "et": "korralikult, külgsuunas projitseerida, st tõenäoliselt (refleksiivselt) tagasi tõmbuda",
+    "fi": "kunnolla, projisoida sivusuunnassa, eli luultavasti (refleksiivisesti) vetäytyä pois",
+    "fr": "proprement, de se projeter latéralement, c'est-à-dire probablement (réflexe) de se retirer",
+    "hu": "megfelelően, oldalirányban kivetülni, azaz valószínűleg (reflexív) visszahúzódni",
+    "id": "dengan benar, untuk memproyeksikan secara lateral, yaitu mungkin (refleksif) untuk menarik",
+    "it": "propriamente, proiettarsi lateralmente, cioè probabilmente (riflessivo) ritirarsi",
+    "ja": "つまり、おそらく（反射的に）撤退する",
+    "ko": "적절하게, 옆으로 투사하다, 즉 아마도 (반사적으로) 철회하다",
+    "lt": "tinkamai, išsikišti į šoną, t. y. tikriausiai (refleksyviai) pasitraukti",
+    "lv": "pareizi, izvirzīties uz sāniem, t.i., iespējams (atgriezeniski) atkāpties",
+    "nb": "riktig, å projisere sideveis, dvs. sannsynligvis (refleksiv) å trekke seg tilbake",
+    "nl": "goed, zijwaarts uitsteken, d.w.z. waarschijnlijk (reflexief) terugtrekken",
+    "pl": "prawidłowo, rzutować na boki, tj. prawdopodobnie (refleksyjnie) wycofać się",
+    "pt": "propriamente, projetar lateralmente, ou seja, provavelmente (reflexivo) retirar",
+    "ro": "corect, să se proiecteze lateral, adică probabil (reflexiv) să se retragă",
+    "ru": "правильно, выступать вбок, т.е., вероятно (рефлекторно), отводить",
+    "sk": "správne, vysunúť do strany, t. j. pravdepodobne (reflexívne) stiahnuť",
+    "sl": "pravilno, bočno, tj. verjetno (refleksivno) umakniti se",
+    "sv": "korrekt, att skjuta ut i sidled, dvs. troligen (reflexivt) att dra sig tillbaka",
+    "tr": "uygun şekilde, yanal olarak yansıtmak, yani muhtemelen (refleksif) geri çekmek",
+    "uk": "правильно, проектувати латерально, тобто ймовірно (рефлексивно) виводити",
+    "zh": "适当地，横向伸出，即可能（反身）撤回"
+  },
+  "hebrew": "כָּנַף",
+  "verses": [
+    "isaiah 30:20:8"
+  ]
+}

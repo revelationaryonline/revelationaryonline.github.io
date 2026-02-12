@@ -1,0 +1,42 @@
+{
+  "number": "H3250",
+  "language": "hebrew",
+  "transliteration": "yiççôwr",
+  "pronunciation": "yis-sore'",
+  "definition": "a reprover",
+  "kjvTranslation": "instruct.",
+  "translations": {
+    "bg": "изобличител",
+    "cs": "kárající osoba",
+    "da": "en irettesætter",
+    "de": "ein Tadelnder",
+    "el": "ένας επιτιμητής",
+    "es": "un reprobador",
+    "et": "noomija",
+    "fi": "moittija",
+    "fr": "un réprobateur",
+    "hu": "egy szemrehányó",
+    "id": "seorang reprover",
+    "it": "un rimproveratore",
+    "ja": "叱責者",
+    "ko": "리퍼버",
+    "lt": "priekaištautojas",
+    "lv": "pārmetējs",
+    "nb": "en irettesetter",
+    "nl": "een berisping",
+    "pl": "upominający",
+    "pt": "um repreensor",
+    "ro": "un mustrător",
+    "ru": "обличитель",
+    "sk": "vyčítač",
+    "sl": "očitajočega",
+    "sv": "en förtalare",
+    "tr": "bir suçlayıcı",
+    "uk": "репродуктор",
+    "zh": "诤友"
+  },
+  "hebrew": "יִסּוֹר",
+  "verses": [
+    "job 40:2:3"
+  ]
+}

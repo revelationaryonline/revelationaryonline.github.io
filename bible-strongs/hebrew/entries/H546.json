@@ -1,0 +1,43 @@
+{
+  "number": "H546",
+  "language": "hebrew",
+  "transliteration": "ʼomnâh",
+  "pronunciation": "om-naw'",
+  "definition": "adverb, surely",
+  "kjvTranslation": "indeed.",
+  "translations": {
+    "bg": "наречие, със сигурност",
+    "cs": "příslovce, jistě",
+    "da": "adverbium, helt sikkert",
+    "de": "adverb, sicher",
+    "el": "επίρρημα, σίγουρα",
+    "es": "adverbio, seguramente",
+    "et": "adverb, kindlasti",
+    "fi": "adverbi, varmasti",
+    "fr": "adverbe, sûrement",
+    "hu": "határozószó, biztosan",
+    "id": "kata keterangan, pasti",
+    "it": "avverbio, sicuramente",
+    "ja": "副詞",
+    "ko": "부사, 확실히",
+    "lt": "prieveiksmis, tikrai",
+    "lv": "apstākļa vārds, noteikti",
+    "nb": "adverb, sikkert",
+    "nl": "bijwoord, zeker",
+    "pl": "przysłówek, na pewno",
+    "pt": "advérbio, certamente",
+    "ro": "adverb, cu siguranță",
+    "ru": "наречие, безусловно",
+    "sk": "príslovka, určite",
+    "sl": "prislov, zagotovo",
+    "sv": "adverb, säkert",
+    "tr": "zarf, kesinlikle",
+    "uk": "прислівник, звичайно",
+    "zh": "定"
+  },
+  "hebrew": "אׇמְנָה",
+  "verses": [
+    "genesis 20:12:1",
+    "joshua 7:20:5"
+  ]
+}

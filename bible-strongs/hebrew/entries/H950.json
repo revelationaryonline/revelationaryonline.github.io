@@ -1,0 +1,42 @@
+{
+  "number": "H950",
+  "language": "hebrew",
+  "transliteration": "bûwqâh",
+  "pronunciation": "boo-kaw'",
+  "definition": "emptiness (as adjective)",
+  "kjvTranslation": "empty.",
+  "translations": {
+    "bg": "emptiness (като прилагателно)",
+    "cs": "prázdnota (jako přídavné jméno)",
+    "da": "tomhed (som tillægsord)",
+    "de": "leere (als Adjektiv)",
+    "el": "κενότητα (ως επίθετο)",
+    "es": "vacío (como adjetivo)",
+    "et": "tühjus (omadussõnana)",
+    "fi": "tyhjyys (adjektiivina)",
+    "fr": "vide (en tant qu'adjectif)",
+    "hu": "üresség (mint melléknév)",
+    "id": "kekosongan (sebagai kata sifat)",
+    "it": "vuoto (come aggettivo)",
+    "ja": "空",
+    "ko": "공허함(형용사)",
+    "lt": "tuštuma (kaip būdvardis)",
+    "lv": "tukšums (kā īpašības vārds)",
+    "nb": "tomhet (som adjektiv)",
+    "nl": "leegte (als bijvoeglijk naamwoord)",
+    "pl": "pustka (jako przymiotnik)",
+    "pt": "vazio (como adjetivo)",
+    "ro": "gol (ca adjectiv)",
+    "ru": "пустота (как прилагательное)",
+    "sk": "prázdnota (ako prídavné meno)",
+    "sl": "praznina (kot pridevnik)",
+    "sv": "tomhet (som adjektiv)",
+    "tr": "boşluk (sıfat olarak)",
+    "uk": "порожнеча (як прикметник)",
+    "zh": "空虚"
+  },
+  "hebrew": "בּוּקָה",
+  "verses": [
+    "nahum 2:11:0"
+  ]
+}

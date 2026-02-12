@@ -1,0 +1,42 @@
+{
+  "number": "H6096",
+  "language": "hebrew",
+  "transliteration": "ʻâtseh",
+  "pronunciation": "aw-tseh'",
+  "definition": "the spine (as giving firmness to the body)",
+  "kjvTranslation": "backbone.",
+  "hebrew": "עָצֶה",
+  "translations": {
+    "bg": "гръбначния стълб (като придаващ твърдост на тялото)",
+    "cs": "páteř (jako dodání pevnosti tělu)",
+    "da": "rygsøjlen (som giver fasthed til kroppen)",
+    "de": "die Wirbelsäule (um dem Körper Festigkeit zu verleihen)",
+    "el": "τη σπονδυλική στήλη (ως σταθεροποιητικό στοιχείο του σώματος)",
+    "es": "la columna vertebral (como dando firmeza al cuerpo)",
+    "et": "selgroogu (kui kehale tugevuse andmist)",
+    "fi": "selkäranka (antaa vartalolle lujuutta)",
+    "fr": "la colonne vertébrale (comme donnant de la fermeté au corps)",
+    "hu": "a gerinc (mint a test szilárdságát adó)",
+    "id": "tulang belakang (seperti memberikan kekencangan pada tubuh)",
+    "it": "la colonna vertebrale (per dare solidità al corpo)",
+    "ja": "背骨",
+    "ko": "척추 (몸에 탄력을 주는 역할을 함)",
+    "lt": "stuburą (kaip suteikiantį kūnui tvirtumo)",
+    "lv": "mugurkaulam (kā stingrības piešķiršana ķermenim)",
+    "nb": "ryggraden (som gir fasthet til kroppen)",
+    "nl": "de wervelkolom (om het lichaam stevigheid te geven)",
+    "pl": "kręgosłup (jako nadający ciału jędrność)",
+    "pt": "a coluna vertebral (para dar firmeza ao corpo)",
+    "ro": "coloana vertebrală (pentru a da fermitate corpului)",
+    "ru": "позвоночник (как придающий твердость телу)",
+    "sk": "chrbtica (ako dodanie pevnosti telu)",
+    "sl": "hrbtenico (kot sredstvo, ki daje telesu čvrstost)",
+    "sv": "ryggraden (som ger fasthet åt kroppen)",
+    "tr": "omurga (vücuda sıkılık vermek gibi)",
+    "uk": "хребет (як такий, що надає тілу стійкості)",
+    "zh": "脊柱（使身体坚固）"
+  },
+  "verses": [
+    "leviticus 3:9:9"
+  ]
+}

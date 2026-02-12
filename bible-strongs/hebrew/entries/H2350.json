@@ -1,0 +1,42 @@
+{
+  "number": "H2350",
+  "language": "hebrew",
+  "transliteration": "Chûwphâmîy",
+  "pronunciation": "khoo-faw-mee'",
+  "definition": "a Chuphamite or descendant of Chupham",
+  "kjvTranslation": "Huphamites.",
+  "translations": {
+    "bg": "чупхамит или потомък на Чупхам",
+    "cs": "chuphamita nebo Chuphamův potomek",
+    "da": "en chuphamit eller efterkommer af Chupham",
+    "de": "ein Chuphamit oder Nachkomme von Chupham",
+    "el": "ένας Chuphamite ή απόγονος του Chupham",
+    "es": "chuphamita o descendiente de Chupham",
+    "et": "chuphamite või Chuphami järeltulija",
+    "fi": "chuphamilainen tai Chuphamin jälkeläinen",
+    "fr": "un Chuphamite ou un descendant de Chupham",
+    "hu": "chuphamita vagy Chupham leszármazottja",
+    "id": "orang Chupham atau keturunan Chupham",
+    "it": "un Chuphamita o un discendente di Chupham",
+    "ja": "チュパム人またはチュパムの子孫",
+    "ko": "츄팜인 또는 츄팜의 후손",
+    "lt": "chuphamietis arba Chuphamo palikuonis",
+    "lv": "čuphamietis vai Čuphama pēcnācējs",
+    "nb": "en chuphamitt eller etterkommer av Chupham",
+    "nl": "een Chuphamiet of afstammeling van Chupham",
+    "pl": "chuphamita lub potomek Chuphama",
+    "pt": "um Chuphamita ou descendente de Chupham",
+    "ro": "un Chuphamite sau descendent al lui Chupham",
+    "ru": "чуфамец или потомок Чуфама",
+    "sk": "chuphamita alebo Chuphamov potomok",
+    "sl": "chuphamovec ali Chuphamov potomec",
+    "sv": "en chuphamit eller ättling till Chupham",
+    "tr": "bir Chuphamlı ya da Chupham'ın soyundan gelen",
+    "uk": "чуфамітом або нащадком Чуфама",
+    "zh": "楚巴姆人或楚巴姆的后裔"
+  },
+  "hebrew": "חוּפָמִי",
+  "verses": [
+    "numbers 26:39:5"
+  ]
+}

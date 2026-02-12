@@ -1,0 +1,42 @@
+{
+  "number": "H8228",
+  "language": "hebrew",
+  "transliteration": "shephaʻ",
+  "pronunciation": "sheh'-fah",
+  "definition": "resources",
+  "kjvTranslation": "abundance.",
+  "hebrew": "שֶׁפַע",
+  "translations": {
+    "bg": "ресурси",
+    "cs": "zdroje",
+    "da": "ressourcer",
+    "de": "ressourcen",
+    "el": "πόροι",
+    "es": "recursos",
+    "et": "ressursid",
+    "fi": "resurssit",
+    "fr": "ressources",
+    "hu": "források",
+    "id": "sumber daya",
+    "it": "risorse",
+    "ja": "リソース",
+    "ko": "리소스",
+    "lt": "ištekliai",
+    "lv": "resursi",
+    "nb": "ressurser",
+    "nl": "middelen",
+    "pl": "zasoby",
+    "pt": "recursos",
+    "ro": "resurse",
+    "ru": "ресурсы",
+    "sk": "zdroje",
+    "sl": "viri",
+    "sv": "resurser",
+    "tr": "kaynaklar",
+    "uk": "ресурси",
+    "zh": "资源"
+  },
+  "verses": [
+    "deuteronomy 33:19:8"
+  ]
+}

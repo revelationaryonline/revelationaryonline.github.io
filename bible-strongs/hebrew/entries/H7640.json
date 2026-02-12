@@ -1,0 +1,42 @@
+{
+  "number": "H7640",
+  "language": "hebrew",
+  "transliteration": "shôbel",
+  "pronunciation": "show'-bel",
+  "definition": "a lady's train (as trailing after her)",
+  "kjvTranslation": "leg.",
+  "hebrew": "שֹׁבֶל",
+  "translations": {
+    "bg": "влак на дама (като вървящ след нея)",
+    "cs": "dámská vlečka (jako když se za ní táhne)",
+    "da": "en dames slæb (som følger efter hende)",
+    "de": "die Schleppe einer Dame (wie sie hinter ihr herzieht)",
+    "el": "το τρένο μιας κυρίας (όπως την ακολουθεί)",
+    "es": "el tren de una dama (como arrastrándose tras ella)",
+    "et": "daami rong (nagu tema järel)",
+    "fi": "naisen juna (hänen perässään kulkeva)",
+    "fr": "le train d'une dame (comme s'il la suivait)",
+    "hu": "egy hölgy vonata (mintha követné őt)",
+    "id": "kereta wanita (seperti mengekor di belakangnya)",
+    "it": "lo strascico di una signora (come se la seguisse)",
+    "ja": "おねえさん列車",
+    "ko": "여인의 기차(뒤따라오는 모습)",
+    "lt": "damos traukinys (kaip einantis paskui ją)",
+    "lv": "dāmas vilciens (kā vilciens, kas seko viņai)",
+    "nb": "en dames tog (som følger etter henne)",
+    "nl": "de sleep van een dame (zoals achter haar aan)",
+    "pl": "damski pociąg (jako podążający za nią)",
+    "pt": "o comboio de uma senhora (como se seguisse atrás dela)",
+    "ro": "trenul unei doamne (în urma ei)",
+    "ru": "дамский шлейф (как идущий за ней)",
+    "sk": "dámska vlečka (ako sa vlečie za ňou)",
+    "sl": "ženski vlak (kot vlak, ki se vleče za njo)",
+    "sv": "en dams tåg (som släpande efter henne)",
+    "tr": "bir bayanın treni (onun peşinden giden)",
+    "uk": "дамський потяг (як такий, що тягнеться за нею)",
+    "zh": "辌车"
+  },
+  "verses": [
+    "isaiah 47:2:7"
+  ]
+}

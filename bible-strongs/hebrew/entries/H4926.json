@@ -1,0 +1,42 @@
+{
+  "number": "H4926",
+  "language": "hebrew",
+  "transliteration": "mishmâʻ",
+  "pronunciation": "mish-maw'",
+  "definition": "a report",
+  "kjvTranslation": "hearing.",
+  "hebrew": "מִשְׁמָע",
+  "translations": {
+    "bg": "доклад",
+    "cs": "zpráva",
+    "da": "en rapport",
+    "de": "ein Bericht",
+    "el": "μια έκθεση",
+    "es": "un informe",
+    "et": "aruanne",
+    "fi": "raportti",
+    "fr": "un rapport",
+    "hu": "egy jelentés",
+    "id": "laporan",
+    "it": "un rapporto",
+    "ja": "報告書",
+    "ko": "보고서",
+    "lt": "ataskaita",
+    "lv": "ziņojums",
+    "nb": "en rapport",
+    "nl": "een verslag",
+    "pl": "raport",
+    "pt": "um relatório",
+    "ro": "un raport",
+    "ru": "доклад",
+    "sk": "správa",
+    "sl": "poročilo",
+    "sv": "en rapport",
+    "tr": "bir rapor",
+    "uk": "доповідь",
+    "zh": "报告"
+  },
+  "verses": [
+    "isaiah 11:3:8"
+  ]
+}

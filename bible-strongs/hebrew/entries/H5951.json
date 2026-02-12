@@ -1,0 +1,42 @@
+{
+  "number": "H5951",
+  "language": "hebrew",
+  "transliteration": "ʻălîytsûwth",
+  "pronunciation": "al-ee-tsooth'",
+  "definition": "exultation",
+  "kjvTranslation": "rejoicing.",
+  "hebrew": "עֲלִיצוּת",
+  "translations": {
+    "bg": "ликуване",
+    "cs": "jásot",
+    "da": "jubel",
+    "de": "jubel",
+    "el": "αγαλλίαση",
+    "es": "exultación",
+    "et": "juubeldamine",
+    "fi": "riemu",
+    "fr": "exultation",
+    "hu": "ujjongás",
+    "id": "kegembiraan",
+    "it": "esultanza",
+    "ja": "謳歌",
+    "ko": "환희",
+    "lt": "džiūgavimas",
+    "lv": "līksmība",
+    "nb": "jubel",
+    "nl": "vreugde",
+    "pl": "uniesienie",
+    "pt": "exultação",
+    "ro": "exultare",
+    "ru": "ликование",
+    "sk": "radosť",
+    "sl": "navdušenje",
+    "sv": "jubel",
+    "tr": "coşku",
+    "uk": "радість",
+    "zh": "大喜"
+  },
+  "verses": [
+    "habakkuk 3:14:7"
+  ]
+}

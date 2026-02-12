@@ -1,0 +1,42 @@
+{
+  "number": "H5185",
+  "language": "hebrew",
+  "transliteration": "nâchêth",
+  "pronunciation": "naw-khayth'",
+  "definition": "descending",
+  "kjvTranslation": "come down.",
+  "hebrew": "נָחֵת",
+  "translations": {
+    "bg": "низходящ",
+    "cs": "sestupně",
+    "da": "faldende",
+    "de": "absteigend",
+    "el": "φθίνουσα",
+    "es": "descendente",
+    "et": "laskuv",
+    "fi": "laskeva",
+    "fr": "descendant",
+    "hu": "ereszkedő",
+    "id": "turun",
+    "it": "discendente",
+    "ja": "下降",
+    "ko": "내림차순",
+    "lt": "mažėjantis",
+    "lv": "lejupejošais",
+    "nb": "synkende",
+    "nl": "aflopend",
+    "pl": "malejący",
+    "pt": "descendente",
+    "ro": "descendentă",
+    "ru": "по убывающей",
+    "sk": "zostupne",
+    "sl": "padajoče",
+    "sv": "nedåtgående",
+    "tr": "azalan",
+    "uk": "спадний",
+    "zh": "降序"
+  },
+  "verses": [
+    "secondKings 6:9:14"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3251",
+  "language": "hebrew",
+  "transliteration": "yâçak",
+  "pronunciation": "yaw-sak'",
+  "definition": "to pour (intransitive)",
+  "kjvTranslation": "be poured.",
+  "translations": {
+    "bg": "да се излива (непреходно)",
+    "cs": "nalít (nepřechodné)",
+    "da": "at hælde (intransitiv)",
+    "de": "gießen (intransitiv)",
+    "el": "to pour (intransitive)",
+    "es": "verter (intransitivo)",
+    "et": "to pour (intransitive)",
+    "fi": "kaataa (intransitiivinen)",
+    "fr": "verser (intransitif)",
+    "hu": "to pour (intransitive)",
+    "id": "menuangkan (intransitif)",
+    "it": "versare (intransitivo)",
+    "ja": "注ぐ（自動詞）",
+    "ko": "붓다(자동사)",
+    "lt": "pilti (netranzityvinis)",
+    "lv": "ieliet (netranzitīvs)",
+    "nb": "å helle (intransitiv)",
+    "nl": "gieten (onovergankelijk)",
+    "pl": "wlać (nieprzechodnie)",
+    "pt": "verter (intransitivo)",
+    "ro": "a turna (intranzitiv)",
+    "ru": "наливать (непереходный)",
+    "sk": "naliať (intranzitívny)",
+    "sl": "prelivati (intranzitivno)",
+    "sv": "att hälla (intransitiv)",
+    "tr": "dökmek (geçişsiz)",
+    "uk": "наливати (неперехідний)",
+    "zh": "倒"
+  },
+  "hebrew": "יָסַךְ",
+  "verses": [
+    "exodus 30:32:4"
+  ]
+}

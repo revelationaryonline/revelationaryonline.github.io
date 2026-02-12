@@ -1,0 +1,42 @@
+{
+  "number": "H869",
+  "language": "hebrew",
+  "transliteration": "ʼEthnan",
+  "pronunciation": "eth-nan'",
+  "definition": "Ethnan, an Israelite",
+  "kjvTranslation": "Ethnan.",
+  "translations": {
+    "bg": "Етнан, израилтянин",
+    "cs": "Etnan, Izraelita",
+    "da": "Ethnan, en israelit",
+    "de": "Ethnan, ein Israelit",
+    "el": "Ethnan, ένας Ισραηλίτης",
+    "es": "Ethnan, israelita",
+    "et": "Ethnan, iisraellane",
+    "fi": "Ethnan, israelilainen",
+    "fr": "Ethnan, un Israélite",
+    "hu": "Ethnan, izraelita",
+    "id": "Ethnan, seorang Israel",
+    "it": "Ethnan, un israelita",
+    "ja": "エスナン イスラエル人",
+    "ko": "이스라엘인, 에단",
+    "lt": "Etnanas, izraelitas",
+    "lv": "Etnans, izraēlietis",
+    "nb": "Ethnan, en israelitt",
+    "nl": "Ethnan, een Israëliet",
+    "pl": "Etnan, Izraelita",
+    "pt": "Ethnan, um israelita",
+    "ro": "Ethnan, un israelit",
+    "ru": "Этнан, израильтянин",
+    "sk": "Etnan, Izraelita",
+    "sl": "Ethnan, Izraelec",
+    "sv": "Ethnan, en israelit",
+    "tr": "Ethnan, bir İsrailli",
+    "uk": "Етнон, ізраїльтянин",
+    "zh": "伊斯南，以色列人"
+  },
+  "hebrew": "אֶתְנַן",
+  "verses": [
+    "firstChronicles 4:7:5"
+  ]
+}

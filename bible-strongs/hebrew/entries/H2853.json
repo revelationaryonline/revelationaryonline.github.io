@@ -1,0 +1,43 @@
+{
+  "number": "H2853",
+  "language": "hebrew",
+  "transliteration": "châthal",
+  "pronunciation": "khaw-thal'",
+  "definition": "to swathe",
+  "kjvTranslation": "[idiom] at all, swaddle.",
+  "translations": {
+    "bg": "да се обсипва",
+    "cs": "rozhrnout",
+    "da": "at svøbe",
+    "de": "einwickeln",
+    "el": "να σκουπίσω",
+    "es": "para envolver",
+    "et": "pühkida",
+    "fi": "peittää",
+    "fr": "pour enguirlander",
+    "hu": "hogy beborítsa",
+    "id": "untuk membasahi",
+    "it": "per avvolgere",
+    "ja": "一網打尽にする",
+    "ko": "쓸다",
+    "lt": "apsupti",
+    "lv": "izpludināt",
+    "nb": "til å svøpe",
+    "nl": "om te hakken",
+    "pl": "pokos",
+    "pt": "para cobrir",
+    "ro": "să înfășoare",
+    "ru": "покрывать",
+    "sk": "rozprestierať sa",
+    "sl": "prekriti",
+    "sv": "att svepa",
+    "tr": "süpürmek için",
+    "uk": "щоб обмолотити",
+    "zh": "横扫"
+  },
+  "hebrew": "חָתַל",
+  "verses": [
+    "ezekiel 16:4:14",
+    "ezekiel 16:4:16"
+  ]
+}

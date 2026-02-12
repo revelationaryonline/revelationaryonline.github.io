@@ -1,0 +1,42 @@
+{
+  "number": "H2622",
+  "language": "hebrew",
+  "transliteration": "châçûwth",
+  "pronunciation": "khaw-sooth'",
+  "definition": "confidence",
+  "kjvTranslation": "trust.",
+  "translations": {
+    "bg": "доверие",
+    "cs": "důvěra",
+    "da": "tillid",
+    "de": "vertrauen",
+    "el": "εμπιστοσύνη",
+    "es": "confianza",
+    "et": "usaldus",
+    "fi": "luottamus",
+    "fr": "confiance",
+    "hu": "bizalom",
+    "id": "kepercayaan diri",
+    "it": "fiducia",
+    "ja": "信頼",
+    "ko": "자신감",
+    "lt": "pasitikėjimas",
+    "lv": "uzticība",
+    "nb": "tillit",
+    "nl": "vertrouwen",
+    "pl": "zaufanie",
+    "pt": "confiança",
+    "ro": "încredere",
+    "ru": "уверенность",
+    "sk": "dôvera",
+    "sl": "zaupanje",
+    "sv": "förtroende",
+    "tr": "güven",
+    "uk": "впевненість",
+    "zh": "信心"
+  },
+  "hebrew": "חָסוּת",
+  "verses": [
+    "isaiah 30:3:5"
+  ]
+}

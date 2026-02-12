@@ -1,0 +1,42 @@
+{
+  "number": "H4930",
+  "language": "hebrew",
+  "transliteration": "masmᵉrâh",
+  "pronunciation": "mas-mer-aw'",
+  "definition": "a peg",
+  "kjvTranslation": "nail.",
+  "hebrew": "מַשְׂמְרָה",
+  "translations": {
+    "bg": "колче",
+    "cs": "kužel",
+    "da": "en pind",
+    "de": "ein Pflock",
+    "el": "ένα μανταλάκι",
+    "es": "una clavija",
+    "et": "viiruk",
+    "fi": "tappi",
+    "fr": "un piquet",
+    "hu": "egy csap",
+    "id": "pasak",
+    "it": "un piolo",
+    "ja": "ペグ",
+    "ko": "말뚝",
+    "lt": "kaištis",
+    "lv": "a pegs",
+    "nb": "en pinne",
+    "nl": "een pin",
+    "pl": "kołek",
+    "pt": "uma estaca",
+    "ro": "a cuier",
+    "ru": "прищепка",
+    "sk": "a kolíček",
+    "sl": "a zatič",
+    "sv": "a peg",
+    "tr": "bir peg",
+    "uk": "кілочок",
+    "zh": "楬"
+  },
+  "verses": [
+    "ecclesiastes 12:11:3"
+  ]
+}

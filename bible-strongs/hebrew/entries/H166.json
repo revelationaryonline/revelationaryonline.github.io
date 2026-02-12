@@ -1,0 +1,42 @@
+{
+  "number": "H166",
+  "language": "hebrew",
+  "transliteration": "ʼâhal",
+  "pronunciation": "aw-hal'",
+  "definition": "to be clear",
+  "kjvTranslation": "shine.",
+  "translations": {
+    "bg": "да бъде ясно",
+    "cs": "aby bylo jasno",
+    "da": "for at være tydelig",
+    "de": "um es deutlich zu machen",
+    "el": "για να είμαστε σαφείς",
+    "es": "para ser claros",
+    "et": "et olla selge",
+    "fi": "selvyyden vuoksi",
+    "fr": "pour être clair",
+    "hu": "hogy világos legyen",
+    "id": "untuk memperjelas",
+    "it": "per essere chiari",
+    "ja": "はっきり言って",
+    "ko": "명확히 하기 위해",
+    "lt": "būti aiškiam",
+    "lv": "lai būtu skaidrs",
+    "nb": "for å være tydelig",
+    "nl": "duidelijk zijn",
+    "pl": "żeby było jasne",
+    "pt": "para ser claro",
+    "ro": "să fie clar",
+    "ru": "быть понятным",
+    "sk": "aby bolo jasné",
+    "sl": "da bi bilo jasno",
+    "sv": "för att vara tydlig",
+    "tr": "açık olmak gerekirse",
+    "uk": "щоб було зрозуміло",
+    "zh": "要清楚"
+  },
+  "hebrew": "אָהַל",
+  "verses": [
+    "job 25:5:4"
+  ]
+}

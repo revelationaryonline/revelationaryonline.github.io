@@ -1,0 +1,42 @@
+{
+  "number": "H13",
+  "language": "hebrew",
+  "transliteration": "ʼobdan",
+  "pronunciation": "ob-dawn'",
+  "definition": "a perishing",
+  "kjvTranslation": "destruction.",
+  "translations": {
+    "bg": "загиване",
+    "cs": "hynoucí",
+    "da": "en fortabelse",
+    "de": "ein Untergang",
+    "el": "ένα χαμένο",
+    "es": "un perecer",
+    "et": "hukkuv",
+    "fi": "tuhoutuva",
+    "fr": "une disparition",
+    "hu": "egy pusztuló",
+    "id": "yang binasa",
+    "it": "un perimento",
+    "ja": "滅び",
+    "ko": "멸망하는",
+    "lt": "žūsta",
+    "lv": "bojā ejošs",
+    "nb": "en fortapt",
+    "nl": "een vergaan",
+    "pl": "ginący",
+    "pt": "um perecimento",
+    "ro": "o pieire",
+    "ru": "погибающий",
+    "sk": "hynúci",
+    "sl": "pogubno",
+    "sv": "en förgänglig",
+    "tr": "bir yok oluş",
+    "uk": "загибелі",
+    "zh": "濒临灭绝"
+  },
+  "hebrew": "אׇבְדַן",
+  "verses": [
+    "esther 8:6:12"
+  ]
+}

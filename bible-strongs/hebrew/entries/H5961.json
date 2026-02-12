@@ -1,0 +1,43 @@
+{
+  "number": "H5961",
+  "language": "hebrew",
+  "transliteration": "ʻĂlâmôwth",
+  "pronunciation": "al-aw-moth'",
+  "definition": "properly, girls, i.e. the soprano or female voice, perhaps falsetto",
+  "kjvTranslation": "Alamoth.",
+  "hebrew": "עֲלָמוֹת",
+  "translations": {
+    "bg": "правилно, момичета, т.е. сопран или женски глас, може би фалцет",
+    "cs": "správně dívky, tj. soprán nebo ženský hlas, případně falzet",
+    "da": "korrekt, piger, dvs. sopran- eller kvindestemmen, måske falset",
+    "de": "richtig, Mädchen, d.h. die Sopran- oder Frauenstimme, vielleicht Falsettstimme",
+    "el": "σωστά, κορίτσια, δηλαδή η σοπράνο ή γυναικεία φωνή, ίσως φαλτσέτο",
+    "es": "propiamente, chicas, es decir, la voz soprano o femenina, tal vez falsete",
+    "et": "korralikult, tüdrukud, st sopran või naishääl, ehk falsetthääl",
+    "fi": "oikein, tytöt, eli sopraano tai naisääni, ehkä falsetto-ääni",
+    "fr": "proprement, les filles, c'est-à-dire la voix de soprano ou de femme, éventuellement de fausset",
+    "hu": "megfelelően, lányok, azaz a szoprán vagy női hang, esetleg falsettó",
+    "id": "dengan benar, anak perempuan, yaitu suara sopran atau suara perempuan, mungkin falsetto",
+    "it": "propriamente, ragazze, cioè la voce soprano o femminile, magari in falsetto",
+    "ja": "正しくは、女の子、つまりソプラノか女性の声、おそらくファルセット",
+    "ko": "제대로, 여자, 즉 소프라노 또는 여성 목소리, 아마도 가성음",
+    "lt": "tinkamai, mergaitės, t. y. sopranas arba moteriškas balsas, galbūt falcetas",
+    "lv": "pareizi, meitenes, t. i., soprāns vai sieviešu balss, iespējams, falsets",
+    "nb": "riktig, jenter, dvs. sopran- eller kvinnestemme, kanskje falsett",
+    "nl": "goed, meisjes, d.w.z. de sopraan- of vrouwenstem, misschien falsetto",
+    "pl": "właściwie dziewczęta, tj. sopran lub głos żeński, być może falset",
+    "pt": "propriamente dito, raparigas, isto é, a voz de soprano ou feminina, talvez em falsete",
+    "ro": "corect, fete, adică soprană sau voce feminină, poate falsetto",
+    "ru": "правильно, девушки, т.е. сопрано или женский голос, возможно, фальцет",
+    "sk": "správne, dievčatá, t. j. soprán alebo ženský hlas, prípadne falzet",
+    "sl": "pravilno, dekleta, tj. sopranski ali ženski glas, morda falset",
+    "sv": "rätt, flickor, dvs. sopran- eller kvinnoröst, kanske falsett",
+    "tr": "uygun şekilde, kızlar, yani soprano veya kadın sesi, belki falsetto",
+    "uk": "власне, дівчата, тобто сопрано або жіночий голос, можливо, фальцет",
+    "zh": "正确地说，女孩，即女高音或女声，也许是假声"
+  },
+  "verses": [
+    "firstChronicles 15:20:10",
+    "psalms 46:1:4"
+  ]
+}

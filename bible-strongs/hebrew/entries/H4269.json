@@ -1,0 +1,42 @@
+{
+  "number": "H4269",
+  "language": "hebrew",
+  "transliteration": "machçôwm",
+  "pronunciation": "makh-sohm'",
+  "definition": "a muzzle",
+  "kjvTranslation": "bridle.",
+  "hebrew": "מַחְסוֹם",
+  "translations": {
+    "bg": "намордник",
+    "cs": "náhubek",
+    "da": "en mundkurv",
+    "de": "einen Maulkorb",
+    "el": "ένα φίμωτρο",
+    "es": "un bozal",
+    "et": "suukorv",
+    "fi": "kuonokoppa",
+    "fr": "une muselière",
+    "hu": "szájkosár",
+    "id": "moncong",
+    "it": "una museruola",
+    "ja": "銃口",
+    "ko": "총구",
+    "lt": "snukis",
+    "lv": "uzpurnis",
+    "nb": "en munnkurv",
+    "nl": "een muilkorf",
+    "pl": "kaganiec",
+    "pt": "um açaime",
+    "ro": "o botniță",
+    "ru": "намордник",
+    "sk": "náhubok",
+    "sl": "nagobčnik",
+    "sv": "en munkorg",
+    "tr": "bir ağızlık",
+    "uk": "намордник",
+    "zh": "枪口"
+  },
+  "verses": [
+    "psalms 39:2:7"
+  ]
+}

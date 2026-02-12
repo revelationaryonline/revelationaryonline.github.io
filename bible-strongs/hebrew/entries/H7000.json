@@ -1,0 +1,42 @@
+{
+  "number": "H7000",
+  "language": "hebrew",
+  "transliteration": "qâṭar",
+  "pronunciation": "kaw-tar'",
+  "definition": "to inclose",
+  "kjvTranslation": "join.",
+  "hebrew": "קָטַר",
+  "translations": {
+    "bg": "да се огражда",
+    "cs": "uzavřít",
+    "da": "at indeslutte",
+    "de": "zum Einschließen",
+    "el": "να περικλείσει",
+    "es": "incluir",
+    "et": "sulgeda",
+    "fi": "koteloida",
+    "fr": "pour enfermer",
+    "hu": "bezárni",
+    "id": "untuk melampirkan",
+    "it": "incapsulare",
+    "ja": "包む",
+    "ko": "를 포함하려면",
+    "lt": "aptverti",
+    "lv": "pievienot",
+    "nb": "å inneslutte",
+    "nl": "insluiten",
+    "pl": "zawrzeć",
+    "pt": "para encerrar",
+    "ro": "a include",
+    "ru": "закрывать",
+    "sk": "na uzavretie",
+    "sl": "zapreti",
+    "sv": "att innesluta",
+    "tr": "kapatmak için",
+    "uk": "включити",
+    "zh": "封闭"
+  },
+  "verses": [
+    "ezekiel 46:22:4"
+  ]
+}

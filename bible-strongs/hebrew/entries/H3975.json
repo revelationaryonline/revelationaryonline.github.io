@@ -1,0 +1,42 @@
+{
+  "number": "H3975",
+  "language": "hebrew",
+  "transliteration": "mᵉʼûwrâh",
+  "pronunciation": "meh-oo-raw'",
+  "definition": "something lighted, i.e. an aperture; by implication, a crevice or hole (of a serpent)",
+  "kjvTranslation": "den.",
+  "hebrew": "מְאוּרָה",
+  "translations": {
+    "bg": "нещо осветено, т.е. отвор; по подразбиране - процеп или дупка (на змия)",
+    "cs": "něco osvětleného, tj. otvor; implicitně štěrbina nebo otvor (hada)",
+    "da": "noget oplyst, dvs. en åbning; underforstået en sprække eller et hul (i en slange)",
+    "de": "etwas Beleuchtetes, d. h. eine Öffnung; implizit ein Spalt oder ein Loch (einer Schlange)",
+    "el": "κάτι που φωτίζεται, δηλ. ένα άνοιγμα- κατ' επέκταση, μια σχισμή ή μια τρύπα (ενός φιδιού)",
+    "es": "algo iluminado, es decir, una abertura; por implicación, una hendidura o agujero (de una serpiente)",
+    "et": "midagi valgustatud, s.t. avaus; kaudselt lõhe või auk (käärmuse)",
+    "fi": "jotakin valaistua, eli aukko; implisiittisesti rako tai reikä (käärmeessä)",
+    "fr": "quelque chose d'éclairé, c'est-à-dire une ouverture ; par implication, une crevasse ou un trou (d'un serpent)",
+    "hu": "valami megvilágított, azaz egy nyílás; értelemszerűen egy hasadék vagy lyuk (egy kígyóé)",
+    "id": "sesuatu yang menyala, yaitu sebuah lubang; dengan implikasi, celah atau lubang (ular)",
+    "it": "qualcosa di illuminato, cioè un'apertura; per implicazione, una fessura o un buco (di un serpente)",
+    "ja": "明きょ",
+    "ko": "불이 켜진 것, 즉 조리개; 암시적으로 (뱀의) 틈새나 구멍을 의미합니다",
+    "lt": "kažkas apšviestas, t. y. anga; netiesiogiai - plyšys ar skylė (gyvatės)",
+    "lv": "kaut kas izgaismots, t. i., atvērums; netieši - sprauga vai caurums (čūskas)",
+    "nb": "noe opplyst, dvs. en åpning; underforstått, en sprekk eller et hull (i en slange)",
+    "nl": "iets verlicht, d.w.z. een opening; bij implicatie, een spleet of gat (van een slang)",
+    "pl": "coś oświetlonego, tj. otwór; w domyśle szczelina lub dziura (węża)",
+    "pt": "algo iluminado, ou seja, uma abertura; por implicação, uma fenda ou buraco (de uma serpente)",
+    "ro": "ceva luminat, adică o deschizătură; implicit, o crăpătură sau o gaură (a unui șarpe)",
+    "ru": "нечто освещенное, т.е. отверстие; по косвенным признакам, щель или отверстие (у змеи)",
+    "sk": "niečo osvetlené, t. j. otvor; implicitne štrbina alebo diera (hada)",
+    "sl": "nekaj osvetljenega, tj. odprtina; implicitno razpoka ali luknja (kače)",
+    "sv": "något upplyst, dvs. en öppning; underförstått, en spricka eller ett hål (hos en orm)",
+    "tr": "ışıklı bir şey, yani bir açıklık; ima yoluyla, bir yarık veya delik (bir yılanın)",
+    "uk": "щось освітлене, тобто отвір; підтекстом - щілина або діра (про змію)",
+    "zh": "有光的东西，即孔隙；暗指（蛇的）缝隙或洞口"
+  },
+  "verses": [
+    "isaiah 11:8:6"
+  ]
+}

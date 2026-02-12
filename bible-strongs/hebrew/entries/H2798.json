@@ -1,0 +1,42 @@
+{
+  "number": "H2798",
+  "language": "hebrew",
+  "transliteration": "Chărâshîym",
+  "pronunciation": "khar-aw-sheem'",
+  "definition": "mechanics, the name of a valley in Jerusalem",
+  "kjvTranslation": "Charashim, craftsmen.",
+  "translations": {
+    "bg": "механика - името на една долина в Йерусалим",
+    "cs": "mechanika, název údolí v Jeruzalémě",
+    "da": "mekanik, navnet på en dal i Jerusalem",
+    "de": "mechanik, der Name eines Tals in Jerusalem",
+    "el": "μηχανικοί, το όνομα μιας κοιλάδας στην Ιερουσαλήμ",
+    "es": "mecánicos, nombre de un valle de Jerusalén",
+    "et": "mehaanika, Jeruusalemmas asuva oru nimi",
+    "fi": "mekaniikka, Jerusalemissa sijaitsevan laakson nimi",
+    "fr": "mécanique, nom d'une vallée à Jérusalem",
+    "hu": "mechanika, egy jeruzsálemi völgy neve",
+    "id": "mekanika, nama sebuah lembah di Yerusalem",
+    "it": "meccanici, il nome di una valle a Gerusalemme",
+    "ja": "エルサレムの谷の名前、メカニクス",
+    "ko": "역학, 예루살렘의 계곡 이름",
+    "lt": "mechanika, Jeruzalės slėnio pavadinimas",
+    "lv": "mehānika, nosaukums ielejā Jeruzalemē",
+    "nb": "mekanikk, navnet på en dal i Jerusalem",
+    "nl": "mechanica, de naam van een vallei in Jeruzalem",
+    "pl": "mechanics, nazwa doliny w Jerozolimie",
+    "pt": "mecânica, nome de um vale em Jerusalém",
+    "ro": "mecanică, numele unei văi din Ierusalim",
+    "ru": "механика, название долины в Иерусалиме",
+    "sk": "mechanika, názov údolia v Jeruzaleme",
+    "sl": "mehanike, ime doline v Jeruzalemu",
+    "sv": "mekanik, namnet på en dal i Jerusalem",
+    "tr": "mekanikler, Kudüs'te bir vadinin adı",
+    "uk": "механіки, назва долини в Єрусалимі",
+    "zh": "力学"
+  },
+  "hebrew": "חֲרָשִׁים",
+  "verses": [
+    "firstChronicles 4:14:10"
+  ]
+}

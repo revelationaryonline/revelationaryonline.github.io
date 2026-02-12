@@ -1,0 +1,43 @@
+{
+  "number": "H5232",
+  "language": "hebrew",
+  "transliteration": "nᵉkaç",
+  "pronunciation": "nek-as'",
+  "definition": "{treasure}",
+  "kjvTranslation": "goods.",
+  "hebrew": "נְכַס",
+  "translations": {
+    "bg": "{съкровище}",
+    "cs": "{treasure}",
+    "da": "{skat}",
+    "de": "{Schatz}",
+    "el": "(θησαυρός)",
+    "es": "{tesoro}",
+    "et": "{treasure}",
+    "fi": "(aarre)",
+    "fr": "{trésor}",
+    "hu": "{kincs}",
+    "id": "[harta]",
+    "it": "{Tesoro.}",
+    "ja": "宝物",
+    "ko": "{보물}",
+    "lt": "{treasure}",
+    "lv": "{dārgums}",
+    "nb": "{skatt}",
+    "nl": "{Schat.}",
+    "pl": "{skarb}",
+    "pt": "{tesouro}",
+    "ro": "{treasure}",
+    "ru": "{сокровище}",
+    "sk": "{poklad}",
+    "sl": "{treasure}",
+    "sv": "{skatt}",
+    "tr": "{Hazine}",
+    "uk": "{Скарб.}",
+    "zh": "{宝藏｝"
+  },
+  "verses": [
+    "ezra 6:8:14",
+    "ezra 7:26:23"
+  ]
+}

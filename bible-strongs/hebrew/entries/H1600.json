@@ -1,0 +1,43 @@
+{
+  "number": "H1600",
+  "language": "hebrew",
+  "transliteration": "gâʻâh",
+  "pronunciation": "gaw-aw'",
+  "definition": "to bellow (as cattle)",
+  "kjvTranslation": "low.",
+  "translations": {
+    "bg": "да реве (като говеда)",
+    "cs": "bučet (jako dobytek)",
+    "da": "at brøle (som kvæg)",
+    "de": "brüllen (wie Vieh)",
+    "el": "να γαβγίζουν (όπως τα βοοειδή)",
+    "es": "bramar (como el ganado)",
+    "et": "möirgama (nagu kariloomad)",
+    "fi": "ulvoa (kuten karja)",
+    "fr": "mugir (comme le bétail)",
+    "hu": "bömbölni (mint a szarvasmarha)",
+    "id": "ke bawah (sebagai ternak)",
+    "it": "muggire (come il bestiame)",
+    "ja": "うなる",
+    "ko": "울다(소처럼)",
+    "lt": "riaumoti (kaip galvijai)",
+    "lv": "rēkt (kā liellopiem)",
+    "nb": "å brøle (som storfe)",
+    "nl": "blèren (als vee)",
+    "pl": "ryczeć (jak bydło)",
+    "pt": "mugir (como o gado)",
+    "ro": "a mugi (ca vitele)",
+    "ru": "мычать (как скот)",
+    "sk": "bučať (ako dobytok)",
+    "sl": "mukati (kot govedo)",
+    "sv": "att bölja (som nötkreatur)",
+    "tr": "böğürmek (sığır gibi)",
+    "uk": "ревіти (як худоба)",
+    "zh": "吼叫"
+  },
+  "hebrew": "גָּעָה",
+  "verses": [
+    "firstSamuel 6:12:11",
+    "job 6:5:5"
+  ]
+}

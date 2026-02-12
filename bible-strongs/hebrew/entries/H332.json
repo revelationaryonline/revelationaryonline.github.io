@@ -1,0 +1,42 @@
+{
+  "number": "H332",
+  "language": "hebrew",
+  "transliteration": "ʼâṭar",
+  "pronunciation": "aw-tar'",
+  "definition": "to close up",
+  "kjvTranslation": "shut.",
+  "translations": {
+    "bg": "да затваряте",
+    "cs": "uzavřít",
+    "da": "til at lukke op",
+    "de": "zu verschließen",
+    "el": "να κλείσει",
+    "es": "para cerrar",
+    "et": "sulgeda",
+    "fi": "sulkea",
+    "fr": "fermer",
+    "hu": "bezárni",
+    "id": "untuk menutup",
+    "it": "per chiudere",
+    "ja": "閉じる",
+    "ko": "닫으려면",
+    "lt": "uždaryti",
+    "lv": "slēgt",
+    "nb": "for å lukke opp",
+    "nl": "sluiten",
+    "pl": "do zamknięcia",
+    "pt": "para fechar",
+    "ro": "pentru a închide",
+    "ru": "закрываться",
+    "sk": "uzavrieť",
+    "sl": "zapreti",
+    "sv": "att stänga upp",
+    "tr": "kapatmak için",
+    "uk": "щоб закрити",
+    "zh": "闭幕"
+  },
+  "hebrew": "אָטַר",
+  "verses": [
+    "psalms 69:16:8"
+  ]
+}

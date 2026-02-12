@@ -1,0 +1,43 @@
+{
+  "number": "H70",
+  "language": "hebrew",
+  "transliteration": "ʼôben",
+  "pronunciation": "o' ben",
+  "definition": "a pair of stones (only dual); a potter's wheel or a midwife's stool (consisting alike of two horizontal disks with a support between)",
+  "kjvTranslation": "wheel, stool.",
+  "translations": {
+    "bg": "чифт камъни (само двойни); грънчарско колело или акушерски стол (състоящ се от два хоризонтални диска с опора между тях)",
+    "cs": "dvojice kamenů (pouze dvojí); hrnčířský kruh nebo porodní stolička (skládající se ze dvou vodorovných kotoučů s podpěrou mezi nimi)",
+    "da": "et par sten (kun dobbelt); en pottemagerskive eller en jordemoderskammel (bestående af to vandrette skiver med en støtte imellem)",
+    "de": "ein Steinpaar (nur zweifach); eine Töpferscheibe oder ein Hebammenschemel (bestehend aus zwei horizontalen Scheiben mit einer Stütze dazwischen)",
+    "el": "ζεύγος λίθων (μόνο διπλό)- τροχός αγγειοπλαστικής ή σκαμνί μαίας (που αποτελείται από δύο οριζόντιους δίσκους με ένα στήριγμα ανάμεσά τους)",
+    "es": "un par de piedras (sólo duales); un torno de alfarero o un taburete de comadrona (consistente igualmente en dos discos horizontales con un soporte entre ellos)",
+    "et": "kivipaar (ainult kaksik); potterratas või ämmaemanda jakk (mis koosneb samamoodi kahest horisontaalsest kettast, mille vahel on tugi)",
+    "fi": "kivipari (vain kaksi); savenvalajan pyörä tai kätilön jakkara (joka koostuu kahdesta vaakasuorasta kiekosta ja niiden välissä olevasta tuesta)",
+    "fr": "une paire de pierres (seulement doubles) ; un tour de potier ou un tabouret de sage-femme (composé de deux disques horizontaux avec un support entre les deux)",
+    "hu": "kőpár (csak kettős); fazekaskorong vagy bába zsámoly (amely két vízszintes korongból áll, amelyek között egy támaszték van)",
+    "id": "sepasang batu (hanya ada dua); roda tembikar atau bangku bidan (terdiri dari dua cakram horisontal dengan penyangga di antaranya)",
+    "it": "un paio di pietre (solo doppie); un tornio da vasaio o uno sgabello da ostetrica (costituito da due dischi orizzontali con un supporto interposto)",
+    "ja": "一対の石（デュアルのみ）；ろくろ、または助産師のスツール（2つの水平な円盤の間に支えがあるもの）。",
+    "ko": "한 쌍의 돌 (이중 만); 물레 또는 조산사 의자 (사이에 지지대가있는 두 개의 수평 디스크로 비슷하게 구성됨)",
+    "lt": "akmenų pora (tik dviguba); puodžiaus ratas arba akušerinė taburetė (sudaryta iš dviejų horizontalių diskų, tarp kurių yra atrama)",
+    "lv": "akmeņu pāris (tikai dubults); podnieka ritenis vai vecmātes krēsls (kas sastāv no diviem horizontāliem diskiem ar balstu starp tiem)",
+    "nb": "et par steiner (bare to); en pottemakerskive eller en jordmorstol (bestående av to horisontale skiver med en støtte imellom)",
+    "nl": "een paar stenen (alleen dubbel); een pottenbakkersschijf of een vroedvrouwenkruk (bestaande uit twee horizontale schijven met een steun ertussen)",
+    "pl": "para kamieni (tylko podwójnych); koło garncarskie lub stołek położnej (składający się z dwóch poziomych dysków ze wspornikiem pomiędzy nimi)",
+    "pt": "um par de pedras (apenas duplas); uma roda de oleiro ou um banco de parteira (constituído igualmente por dois discos horizontais com um suporte entre eles)",
+    "ro": "o pereche de pietre (numai duble); o roată de olar sau un scaun de moașă (format la fel din două discuri orizontale cu un suport între ele)",
+    "ru": "пара камней (только двойных); гончарный круг или акушерский стул (состоящий как из двух горизонтальных дисков с опорой между ними)",
+    "sk": "dvojica kameňov (len dvojnásobná); hrnčiarsky kruh alebo stolička pre pôrodnú asistentku (pozostávajúca z dvoch vodorovných diskov s podperou medzi nimi)",
+    "sl": "par kamnov (samo dvojni); lončarsko kolo ali babiški stol (sestavljen iz dveh vodoravnih diskov z vmesno oporo)",
+    "sv": "ett par stenar (endast dubbla); en krukmakarskiva eller en barnmorskestol (som består av två horisontella skivor med ett stöd emellan)",
+    "tr": "bir çift taş (sadece çift); bir çömlekçi çarkı veya bir ebe taburesi (aralarında bir destek bulunan iki yatay diskten oluşur)",
+    "uk": "пара каменів (тільки подвійних); гончарний круг або акушерський стілець (складається з двох горизонтальних дисків з підставкою між ними)",
+    "zh": "一对石头（仅双）；陶轮或接生凳（同样由两个横盘组成，中间有一个支撑物）"
+  },
+  "hebrew": "אֹבֶן",
+  "verses": [
+    "exodus 1:16:6",
+    "jeremiah 18:3:9"
+  ]
+}

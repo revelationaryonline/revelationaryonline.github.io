@@ -1,0 +1,42 @@
+{
+  "number": "H5919",
+  "language": "hebrew",
+  "transliteration": "ʻakshûwb",
+  "pronunciation": "ak-shoob'",
+  "definition": "an asp (from lurking coiled up)",
+  "kjvTranslation": "adder.",
+  "hebrew": "עַכְשׁוּב",
+  "translations": {
+    "bg": "аспид (от дебнене навито)",
+    "cs": "asp (z číhajícího svinutého)",
+    "da": "en asp (fra at ligge på lur sammenrullet)",
+    "de": "ein Aspisvogel (vom Lauern aufgerollt)",
+    "el": "asp (από το lurking coiled up)",
+    "es": "un áspid (de acechar enroscado)",
+    "et": "asp (varitsemisest ülespoole keritud)",
+    "fi": "asp (lymyilemästä käärittynä)",
+    "fr": "un aspic (de l'anglais lurking coiled up)",
+    "hu": "egy asp (a lurkóból feltekeredve)",
+    "id": "asp (dari mengintai melingkar ke atas)",
+    "it": "un'aspide (dall'essere in agguato arrotolato)",
+    "ja": "アスプ",
+    "ko": "aSP(감겨서 숨어있는 것)",
+    "lt": "aspa (nuo tykojimo suvyniota į ritę)",
+    "lv": "āpša (no lurking coiled up)",
+    "nb": "en asp (fra å ligge på lur sammenrullet)",
+    "nl": "een asp (van opgerold op de loer liggen)",
+    "pl": "boleń (od czającego się zwiniętego w kłębek)",
+    "pt": "uma áspide (de espreitar enrolada)",
+    "ro": "o aspidă (de la pândă încolăcită)",
+    "ru": "осина (от притаиться, свернувшись калачиком)",
+    "sk": "asp (z číhajúceho zvinutého)",
+    "sl": "asp (od čuvajočega se zvitega)",
+    "sv": "en asp (från lurande upprullad)",
+    "tr": "bir asp (sarmalanmış olarak gizlenmekten)",
+    "uk": "осина (від причаїтися, згорнувшись калачиком)",
+    "zh": "蛰伏"
+  },
+  "verses": [
+    "psalms 140:4:5"
+  ]
+}

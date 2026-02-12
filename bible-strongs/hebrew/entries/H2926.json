@@ -1,0 +1,42 @@
+{
+  "number": "H2926",
+  "language": "hebrew",
+  "transliteration": "ṭâlal",
+  "pronunciation": "taw-lal'",
+  "definition": "properly, to strew over, i.e. (by implication) to cover in or plate (with beams)",
+  "kjvTranslation": "cover.",
+  "translations": {
+    "bg": "правилно, да се разпръсне, т.е. (по подразбиране) да се покрие или покрие с греди",
+    "cs": "správně, posypat, tj. (implicitně) pokrýt nebo pokrýt (trámy)",
+    "da": "korrekt, at strø over, dvs. (underforstået) at dække eller beklæde (med bjælker)",
+    "de": "richtig: überstreuen, d.h. (implizit) eindecken oder (mit Balken) verkleiden",
+    "el": "σωστά, να απλώνω, δηλαδή (με συνέπεια) να καλύπτω ή να πλακώνω (με δοκάρια)",
+    "es": "propiamente, esparcir por encima, es decir (implícitamente) cubrir o revestir (con vigas)",
+    "et": "õigesti, üle puistata, st (kaudselt) katta või plaatida (taladega)",
+    "fi": "oikein, levittää, eli (implisiittisesti) peittää tai päällystää (palkeilla)",
+    "fr": "proprement, pour couvrir, c'est-à-dire (implicitement) pour recouvrir ou plaquer (avec des poutres)",
+    "hu": "megfelelően, szórni, azaz (értelemszerűen) beborítani vagy lefedni (gerendákkal)",
+    "id": "dengan benar, untuk menimbun, yaitu (dengan implikasi) untuk menutupi atau melapisi (dengan balok)",
+    "it": "propriamente, spargere sopra, cioè (per implicazione) ricoprire o plasmare (con travi)",
+    "ja": "梁を張る",
+    "ko": "적절하게, 뒤집다, 즉 (암시적으로) 덮다 또는 (빔으로) 판을 깔다",
+    "lt": "tinkamai, išbarstyti, t. y. (netiesiogiai) uždengti arba padengti (sijomis)",
+    "lv": "pareizi, pārklāt, t.i., (netieši) apklāt vai apklāt ar sijām",
+    "nb": "egentlig, å strø over, dvs. (underforstått) å dekke til eller legge på (med bjelker)",
+    "nl": "op de juiste manier, uitstrooien, d.w.z. (impliciet) bedekken of bedekken (met balken)",
+    "pl": "prawidłowo, rozsypać, tj. (w domyśle) przykryć lub pokryć (belkami)",
+    "pt": "propriamente dito, espalhar, ou seja (implicitamente) cobrir ou revestir (com vigas)",
+    "ro": "în mod corespunzător, a împrăștia peste, adică (implicit) a acoperi sau a placa (cu grinzi)",
+    "ru": "правильно, расстилать, т.е. (по смыслу) покрывать или укладывать (балками)",
+    "sk": "správne, posypať, t. j. (implicitne) zakryť alebo obložiť (trámami)",
+    "sl": "pravilno, prekriti, tj. (implicitno) prekriti ali obložiti (z gredami)",
+    "sv": "korrekt, att strö över, dvs. (underförstått) att täcka in eller platta (med balkar)",
+    "tr": "uygun şekilde, üzerine serpmek, yani (ima yoluyla) (kirişlerle) örtmek veya kaplamak",
+    "uk": "правильно, перекинути, тобто (непрямо) покрити або накрити (балками)",
+    "zh": "适当地，铺满，即（暗指）用横梁覆盖或板结"
+  },
+  "hebrew": "טָלַל",
+  "verses": [
+    "nehemiah 3:15:13"
+  ]
+}

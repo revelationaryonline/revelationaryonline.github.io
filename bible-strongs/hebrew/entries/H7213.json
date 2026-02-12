@@ -1,0 +1,42 @@
+{
+  "number": "H7213",
+  "language": "hebrew",
+  "transliteration": "râʼam",
+  "pronunciation": "raw-am'",
+  "definition": "to rise",
+  "kjvTranslation": "be lifted up.",
+  "hebrew": "רָאַם",
+  "translations": {
+    "bg": "да се издига",
+    "cs": "stoupat",
+    "da": "til at stige",
+    "de": "zu steigen",
+    "el": "να αυξηθεί",
+    "es": "subir",
+    "et": "tõusta",
+    "fi": "nousta",
+    "fr": "s'élever",
+    "hu": "hogy felemelkedjen",
+    "id": "untuk bangkit",
+    "it": "per salire",
+    "ja": "上昇する",
+    "ko": "상승",
+    "lt": "pakilti",
+    "lv": "pacelties",
+    "nb": "til å stige",
+    "nl": "om te stijgen",
+    "pl": "rosnąć",
+    "pt": "subir",
+    "ro": "să crească",
+    "ru": "подниматься",
+    "sk": "stúpať",
+    "sl": "se dvigniti",
+    "sv": "att stiga",
+    "tr": "yükselmek için",
+    "uk": "піднятися",
+    "zh": "上升"
+  },
+  "verses": [
+    "zechariah 14:10:8"
+  ]
+}

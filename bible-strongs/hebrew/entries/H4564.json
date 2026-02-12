@@ -1,0 +1,42 @@
+{
+  "number": "H4564",
+  "language": "hebrew",
+  "transliteration": "maçtêr",
+  "pronunciation": "mas-tare'",
+  "definition": "properly, a hider, i.e. (abstractly) a hiding, i.e. aversion",
+  "kjvTranslation": "hid.",
+  "hebrew": "מַסְתֵּר",
+  "verses": [
+    "isaiah 53:3:7"
+  ],
+  "translations": {
+    "bg": "правилно, скривалище, т.е. (абстрактно) скриване, т.е. отвращение",
+    "cs": "správně skrývač, tj. (abstraktně) schovávač, tj. averze",
+    "da": "korrekt, en skjuler, dvs. (abstrakt) et skjul, dvs. aversion",
+    "de": "richtig, ein Verstecker, d.h. (abstrakt) ein Verstecken, d.h. Abneigung",
+    "el": "σωστά, ένας κρυφός, δηλαδή (αφηρημένα) ένας κρυφός, δηλαδή μια αποστροφή",
+    "es": "propiamente, un ocultador, es decir (abstractamente) una ocultación, es decir, una aversión",
+    "et": "õigesti, peidus, st (abstraktselt) peidus, st vastumeelsus",
+    "fi": "oikein, kätköilijä, eli (abstraktisti) kätköilijä, eli vastenmielisyys",
+    "fr": "proprement dit, un cacheur, c'est-à-dire (abstraitement) une cachette, c'est-à-dire une aversion",
+    "hu": "megfelelően, egy rejtőzködő, azaz (elvontan) egy rejtőzködő, azaz averzió",
+    "id": "benar, seorang hider, yaitu (secara abstrak) bersembunyi, yaitu keengganan",
+    "it": "propriamente, un nascondere, cioè (astrattamente) un nascondere, cioè l'avversione",
+    "ja": "正しくは、隠者、すなわち（抽象的に）隠れる者、すなわち嫌悪する者",
+    "ko": "정확하게는 숨는 사람, 즉 (추상적으로) 숨는 것, 즉 혐오감",
+    "lt": "tinkamai, slėptuvė, t. y. (abstrakčiai) slėpinys, t. y. aversija",
+    "lv": "pareizi, slēpējs, t.i., (abstrakti) slēpšanās, t.i., nepatiku",
+    "nb": "egentlig, en skjuler, dvs. (abstrakt) en gjemmer, dvs. aversjon",
+    "nl": "goed, een verberger, d.w.z. (abstract) een verberger, d.w.z. afkeer",
+    "pl": "właściwie ukrywający, tj. (abstrakcyjnie) ukrywający, tj. awersja",
+    "pt": "propriamente dito, um esconderijo, ou seja, (abstratamente) um esconderijo, ou seja, uma aversão",
+    "ro": "în mod corespunzător, o ascunzătoare, adică (abstract) o ascunzătoare, adică aversiune",
+    "ru": "правильно, скрывающий, т.е. (абстрактно) прячущийся, т.е. отвращение",
+    "sk": "správne, skrývač, t. j. (abstraktne) skrývanie, t. j. averzia",
+    "sl": "pravilno, skrivač, tj. (abstraktno) skrivanje, tj. averzija",
+    "sv": "egentligen en döljare, dvs. (abstrakt) en döljare, dvs. aversion",
+    "tr": "uygun bir şekilde, bir saklayıcı, yani (soyut olarak) bir gizleme, yani isteksizlik",
+    "uk": "власне, хованець, тобто (абстрактно) приховування, тобто відраза",
+    "zh": "正确地说，是隐藏，即（抽象地）隐藏，即厌恶"
+  }
+}

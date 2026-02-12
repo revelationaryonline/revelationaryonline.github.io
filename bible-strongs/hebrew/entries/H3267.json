@@ -1,0 +1,42 @@
+{
+  "number": "H3267",
+  "language": "hebrew",
+  "transliteration": "yâʻaz",
+  "pronunciation": "yaw-az'",
+  "definition": "to be bold or obstinate",
+  "kjvTranslation": "fierce.",
+  "translations": {
+    "bg": "да бъде смел или упорит",
+    "cs": "být odvážný nebo tvrdohlavý",
+    "da": "at være dristig eller stædig",
+    "de": "mutig oder hartnäckig sein",
+    "el": "να είσαι τολμηρός ή πεισματάρης",
+    "es": "ser audaz u obstinado",
+    "et": "olla julge või kangekaelne",
+    "fi": "olla rohkea tai itsepäinen",
+    "fr": "être audacieux ou obstiné",
+    "hu": "merész vagy makacs lenni",
+    "id": "menjadi berani atau keras kepala",
+    "it": "essere audace o ostinato",
+    "ja": "大胆になる",
+    "ko": "대담하거나 고집스럽다",
+    "lt": "būti drąsiam arba užsispyrusiam",
+    "lv": "būt drosmīgam vai spītīgam",
+    "nb": "å være dristig eller sta",
+    "nl": "brutaal of koppig zijn",
+    "pl": "być odważnym lub upartym",
+    "pt": "ser ousado ou obstinado",
+    "ro": "a fi îndrăzneț sau încăpățânat",
+    "ru": "быть смелым или упрямым",
+    "sk": "byť odvážny alebo tvrdohlavý",
+    "sl": "biti drzen ali trmast",
+    "sv": "att vara djärv eller obstinat",
+    "tr": "cesur veya inatçı olmak",
+    "uk": "бути сміливим або впертим",
+    "zh": "放肆"
+  },
+  "hebrew": "יָעַז",
+  "verses": [
+    "isaiah 33:19:2"
+  ]
+}

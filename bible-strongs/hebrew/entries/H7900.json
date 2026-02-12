@@ -1,0 +1,42 @@
+{
+  "number": "H7900",
+  "language": "hebrew",
+  "transliteration": "sôk",
+  "pronunciation": "soke",
+  "definition": "a booth (as interlaced)",
+  "kjvTranslation": "tabernacle.",
+  "hebrew": "שֹׂךְ",
+  "translations": {
+    "bg": "кабина (като преплетена)",
+    "cs": "kabina (jako prokládaná)",
+    "da": "en bås (som sammenflettet)",
+    "de": "eine Kabine (wie verschachtelt)",
+    "el": "ένας θάλαμος (όπως διαπλεκόμενος)",
+    "es": "una cabina (como entrelazada)",
+    "et": "boks (nagu põimitud)",
+    "fi": "koppi (kuten lomitettu)",
+    "fr": "un stand (comme entrelacé)",
+    "hu": "egy fülke (mint interlaced)",
+    "id": "stan (seperti yang saling terkait)",
+    "it": "una cabina (come interlacciata)",
+    "ja": "ブース",
+    "ko": "부스(인터레이스된 상태)",
+    "lt": "kabina (kaip susipynusi)",
+    "lv": "kabīne (kā pārklāšanās)",
+    "nb": "en bås (som sammenflettet)",
+    "nl": "een stand (als interlaced)",
+    "pl": "kabina (z przeplotem)",
+    "pt": "uma cabina (como entrelaçada)",
+    "ro": "o cabină (ca interlaced)",
+    "ru": "стенд (с чередованием)",
+    "sk": "kabína (ako prepletená)",
+    "sl": "kabina (kot prepletena)",
+    "sv": "ett bås (som sammanflätat)",
+    "tr": "bir kabin (geçmeli olarak)",
+    "uk": "стенд (як переплітається)",
+    "zh": "包间"
+  },
+  "verses": [
+    "lamentations 2:6:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H6599",
+  "language": "hebrew",
+  "transliteration": "pithgâm",
+  "pronunciation": "pith-gawm'",
+  "definition": "a (judicial) sentence",
+  "kjvTranslation": "decree, sentence.",
+  "hebrew": "פִּתְגָּם",
+  "translations": {
+    "bg": "(съдебна) присъда",
+    "cs": "(soudní) rozsudek",
+    "da": "en (retslig) dom",
+    "de": "ein (gerichtliches) Urteil",
+    "el": "μια (δικαστική) ποινή",
+    "es": "una sentencia (judicial)",
+    "et": "(kohtulik) karistus",
+    "fi": "(oikeudellinen) tuomio",
+    "fr": "une condamnation (judiciaire)",
+    "hu": "(bírósági) ítélet",
+    "id": "hukuman (yudisial)",
+    "it": "una sentenza (giudiziaria)",
+    "ja": "量刑",
+    "ko": "(사법) 선고",
+    "lt": "(teismo) nuosprendis",
+    "lv": "(tiesas) spriedums",
+    "nb": "en (rettslig) dom",
+    "nl": "een (gerechtelijk) vonnis",
+    "pl": "wyrok (sądowy)",
+    "pt": "uma sentença (judicial)",
+    "ro": "o sentință (judiciară)",
+    "ru": "(судебный) приговор",
+    "sk": "(súdny) rozsudok",
+    "sl": "(sodna) kazen",
+    "sv": "en (rättslig) dom",
+    "tr": "bir (adli) hüküm",
+    "uk": "(судовий) вирок",
+    "zh": "判决"
+  },
+  "verses": [
+    "esther 1:20:1",
+    "ecclesiastes 8:11:3"
+  ]
+}

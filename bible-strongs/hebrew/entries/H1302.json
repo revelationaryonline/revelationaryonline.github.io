@@ -1,0 +1,43 @@
+{
+  "number": "H1302",
+  "language": "hebrew",
+  "transliteration": "Barqôwç",
+  "pronunciation": "bar-kose'",
+  "definition": "Barkos, one of the Nethimim",
+  "kjvTranslation": "Barkos.",
+  "translations": {
+    "bg": "Баркос, един от нетимите",
+    "cs": "Barkos, jeden z Nethimů",
+    "da": "Barkos, en af nethimimerne",
+    "de": "Barkos, einer der Nethimim",
+    "el": "Barkos, ένας από τους Nethimim",
+    "es": "Barkos, uno de los Nethimim",
+    "et": "Barkos, üks nethiimlastest",
+    "fi": "Barkos, yksi nethimimiläisistä",
+    "fr": "Barkos, l'un des Nethimim",
+    "hu": "Barkos, a netimiek egyike",
+    "id": "Barkos, salah satu orang Nethimim",
+    "it": "Barkos, uno dei Nethimim",
+    "ja": "ネヒムの一人、バルコス",
+    "ko": "네티밈 중 한 명, 바코스",
+    "lt": "Barkosas, vienas iš netimų",
+    "lv": "Barkos, viens no Nethimim",
+    "nb": "Barkos, en av netimimene",
+    "nl": "Barkos, een van de Nethimim",
+    "pl": "Barkos, jeden z Nethimim",
+    "pt": "Barkos, um dos Nethimim",
+    "ro": "Barkos, unul dintre Nethimim",
+    "ru": "Баркос, один из Нефимим",
+    "sk": "Barkos, jeden z Nethimim",
+    "sl": "Barkos, eden od Nethimov",
+    "sv": "Barkos, en av Nethimim",
+    "tr": "Barkos, Nethimim'den biri",
+    "uk": "Баркос, один з нетімімів",
+    "zh": "巴科斯，纳西姆人之一"
+  },
+  "hebrew": "בַּרְקוֹס",
+  "verses": [
+    "ezra 2:53:1",
+    "nehemiah 7:55:1"
+  ]
+}

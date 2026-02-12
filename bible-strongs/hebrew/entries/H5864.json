@@ -1,0 +1,43 @@
+{
+  "number": "H5864",
+  "language": "hebrew",
+  "transliteration": "ʻÎyîym",
+  "pronunciation": "ee-yeem'",
+  "definition": "Ijim, a place in the Desert.",
+  "kjvTranslation": "Iim.",
+  "hebrew": "עִיִּים",
+  "translations": {
+    "bg": "Иджим, място в пустинята.",
+    "cs": "Ijim, místo v poušti.",
+    "da": "Ijim, et sted i ørkenen.",
+    "de": "Ijim, ein Ort in der Wüste.",
+    "el": "Ijim, ένα μέρος στην έρημο.",
+    "es": "Ijim, un lugar en el desierto.",
+    "et": "Ijim, koht kõrbes.",
+    "fi": "Ijim, paikka erämaassa.",
+    "fr": "Ijim, un lieu dans le désert.",
+    "hu": "Ijim, egy hely a sivatagban.",
+    "id": "Ijim, sebuah tempat di Gurun Pasir.",
+    "it": "Ijim, un luogo nel deserto.",
+    "ja": "砂漠にあるイジムという場所。",
+    "ko": "이짐, 사막의 한 장소.",
+    "lt": "Ijim, vieta dykumoje.",
+    "lv": "Ijim, vieta tuksnesī.",
+    "nb": "Ijim, et sted i ørkenen.",
+    "nl": "Ijim, een plaats in de woestijn.",
+    "pl": "Ijim, miejsce na pustyni.",
+    "pt": "Ijim, um lugar no deserto.",
+    "ro": "Ijim, un loc în deșert.",
+    "ru": "Иджим, место в пустыне.",
+    "sk": "Ijim, miesto v púšti.",
+    "sl": "Ijim, kraj v puščavi.",
+    "sv": "Ijim, en plats i öknen.",
+    "tr": "Ijim, çölde bir yer.",
+    "uk": "Іджим, місце в пустелі.",
+    "zh": "伊吉姆，沙漠中的一个地方。"
+  },
+  "verses": [
+    "numbers 33:45:1",
+    "joshua 15:29:1"
+  ]
+}

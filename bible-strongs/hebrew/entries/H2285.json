@@ -1,0 +1,42 @@
+{
+  "number": "H2285",
+  "language": "hebrew",
+  "transliteration": "Châgâb",
+  "pronunciation": "khaw-gawb'",
+  "definition": "Chagab, one of the Nethinim",
+  "kjvTranslation": "Hagab.",
+  "translations": {
+    "bg": "Шагаб, един от нетинимите",
+    "cs": "Chagab, jeden z Nethinimů",
+    "da": "Chagab, en af nethinim'erne",
+    "de": "Chagab, einer der Nethinim",
+    "el": "Chagab, ένας από τους Nethinim",
+    "es": "Chagab, uno de los Nethinim",
+    "et": "Chagab, üks nethinidest",
+    "fi": "Chagab, yksi nethinimiläisistä",
+    "fr": "Chagab, l'un des Nethinim",
+    "hu": "Chagab, az egyik nethinim",
+    "id": "Chagab, salah satu anggota Nethinim",
+    "it": "Chagab, uno dei Nethinim",
+    "ja": "ネティニムの一人、チャガブ",
+    "ko": "네티님 중 한 명, 차갑",
+    "lt": "Chagabas, vienas iš nethinimų",
+    "lv": "Čagabs, viens no Nethinim",
+    "nb": "Chagab, en av nethinimene",
+    "nl": "Chagab, een van de Nethinim",
+    "pl": "Chagab, jeden z Nethinim",
+    "pt": "Chagab, um dos Nethinim",
+    "ro": "Chagab, unul dintre Nethinim",
+    "ru": "Шагаб, один из нефиним",
+    "sk": "Chagab, jeden z Nethinim",
+    "sl": "Chagab, eden od Nethinim",
+    "sv": "Chagab, en av Nethinim",
+    "tr": "Chagab, Nethinim'den biri",
+    "uk": "Шаґаб, один з нефінімів",
+    "zh": "查加布，奈西尼姆人之一"
+  },
+  "hebrew": "חָגָב",
+  "verses": [
+    "ezra 2:46:1"
+  ]
+}

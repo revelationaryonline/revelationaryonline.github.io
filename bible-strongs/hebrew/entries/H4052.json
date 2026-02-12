@@ -1,0 +1,42 @@
+{
+  "number": "H4052",
+  "language": "hebrew",
+  "transliteration": "migrâʻâh",
+  "pronunciation": "mig-raw-aw'",
+  "definition": "a ledge or offset",
+  "kjvTranslation": "narrowed rest.",
+  "hebrew": "מִגְרָעָה",
+  "translations": {
+    "bg": "перваз или отклонение",
+    "cs": "římsa nebo odsazení",
+    "da": "en afsats eller forskydning",
+    "de": "eine Kante oder ein Absatz",
+    "el": "μια προεξοχή ή ένα offset",
+    "es": "un saliente o desplazamiento",
+    "et": "liistu või nihke",
+    "fi": "koroke tai siirtymä",
+    "fr": "un rebord ou un décalage",
+    "hu": "egy párkány vagy egy eltolás",
+    "id": "langkan atau offset",
+    "it": "una sporgenza o un dislivello",
+    "ja": "へり",
+    "ko": "선반 또는 오프셋",
+    "lt": "iškyša arba nuokrypa",
+    "lv": "izvirzījums vai nobīde",
+    "nb": "en avsats eller forskyvning",
+    "nl": "een richel of verspringing",
+    "pl": "półka lub przesunięcie",
+    "pt": "uma saliência ou desvio",
+    "ro": "o margine sau un decalaj",
+    "ru": "выступ или смещение",
+    "sk": "rímsa alebo odsadenie",
+    "sl": "polico ali odmik",
+    "sv": "en avsats eller förskjutning",
+    "tr": "bir çıkıntı veya ofset",
+    "uk": "виступ або зсув",
+    "zh": "樘"
+  },
+  "verses": [
+    "firstKings 6:6:15"
+  ]
+}

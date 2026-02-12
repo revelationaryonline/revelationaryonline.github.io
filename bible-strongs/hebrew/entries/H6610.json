@@ -1,0 +1,43 @@
+{
+  "number": "H6610",
+  "language": "hebrew",
+  "transliteration": "pithchôwn",
+  "pronunciation": "pith-khone'",
+  "definition": "opening (the act)",
+  "kjvTranslation": "open(-ing).",
+  "hebrew": "פִּתְחוֹן",
+  "translations": {
+    "bg": "откриване (действие)",
+    "cs": "zahájení (aktu)",
+    "da": "åbning (handlingen)",
+    "de": "eröffnung (der Akt)",
+    "el": "άνοιγμα (η πράξη)",
+    "es": "apertura (el acto)",
+    "et": "avamine (akt)",
+    "fi": "avaaminen (teko)",
+    "fr": "ouverture (l'acte)",
+    "hu": "megnyitó (az aktus)",
+    "id": "pembukaan (tindakan)",
+    "it": "apertura (l'atto)",
+    "ja": "幕開け",
+    "ko": "오프닝(행위)",
+    "lt": "atidarymas (veiksmas)",
+    "lv": "atklāšana (akts)",
+    "nb": "åpning (handlingen)",
+    "nl": "opening (de handeling)",
+    "pl": "otwarcie (akt)",
+    "pt": "abertura (o ato)",
+    "ro": "deschidere (actul)",
+    "ru": "открытие (акт)",
+    "sk": "otvorenie (akt)",
+    "sl": "odprtje (dejanje)",
+    "sv": "öppning (akten)",
+    "tr": "açılış (eylem)",
+    "uk": "відкриття (акт)",
+    "zh": "开场"
+  },
+  "verses": [
+    "ezekiel 16:63:7",
+    "ezekiel 29:21:8"
+  ]
+}

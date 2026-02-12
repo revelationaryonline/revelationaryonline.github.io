@@ -1,0 +1,42 @@
+{
+  "number": "H7038",
+  "language": "hebrew",
+  "transliteration": "qâlaṭ",
+  "pronunciation": "kaw-lat'",
+  "definition": "to maim",
+  "kjvTranslation": "lacking in his parts.",
+  "hebrew": "קָלַט",
+  "translations": {
+    "bg": "да осакатява",
+    "cs": "zmrzačit",
+    "da": "at lemlæste",
+    "de": "zu verstümmeln",
+    "el": "να ακρωτηριάσει",
+    "es": "mutilar",
+    "et": "sandistada",
+    "fi": "silpoa",
+    "fr": "mutiler",
+    "hu": "megcsonkítani",
+    "id": "untuk melukai",
+    "it": "mutilare",
+    "ja": "傷付ける",
+    "ko": "불구가 되다",
+    "lt": "žaloti",
+    "lv": "sakropļot",
+    "nb": "å lemleste",
+    "nl": "verminken",
+    "pl": "okaleczyć",
+    "pt": "para mutilar",
+    "ro": "să mutileze",
+    "ru": "калечить",
+    "sk": "zmrzačiť",
+    "sl": "pohabiti",
+    "sv": "att lemlästa",
+    "tr": "sakatlamak için",
+    "uk": "калічити",
+    "zh": "致残"
+  },
+  "verses": [
+    "leviticus 22:23:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H578",
+  "language": "hebrew",
+  "transliteration": "ʼânâh",
+  "pronunciation": "aw-naw'",
+  "definition": "to groan",
+  "kjvTranslation": "lament, mourn.",
+  "translations": {
+    "bg": "да стене",
+    "cs": "sténat",
+    "da": "at stønne",
+    "de": "zu stöhnen",
+    "el": "να βογκάω",
+    "es": "gemir",
+    "et": "uriseda",
+    "fi": "huokaamaan",
+    "fr": "gémir",
+    "hu": "nyögni",
+    "id": "untuk mengerang",
+    "it": "gemere",
+    "ja": "うめく",
+    "ko": "신음하다",
+    "lt": "dejuoti",
+    "lv": "nopūsties",
+    "nb": "å stønne",
+    "nl": "kreunen",
+    "pl": "jęczeć",
+    "pt": "gemer",
+    "ro": "să gemi",
+    "ru": "стонать",
+    "sk": "stonať",
+    "sl": "stokati",
+    "sv": "att stöna",
+    "tr": "inlemek için",
+    "uk": "стогнати",
+    "zh": "呻吟"
+  },
+  "hebrew": "אָנָה",
+  "verses": [
+    "isaiah 3:26:0",
+    "isaiah 19:8:0"
+  ]
+}

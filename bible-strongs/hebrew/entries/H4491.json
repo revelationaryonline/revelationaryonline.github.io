@@ -1,0 +1,43 @@
+{
+  "number": "H4491",
+  "language": "hebrew",
+  "transliteration": "minhâg",
+  "pronunciation": "min-hawg'",
+  "definition": "the driving (of a chariot)",
+  "kjvTranslation": "driving.",
+  "hebrew": "מִנְהָג",
+  "verses": [
+    "secondKings 9:20:8",
+    "secondKings 9:20:9"
+  ],
+  "translations": {
+    "bg": "управление (на колесница)",
+    "cs": "řízení (vozu)",
+    "da": "kørsel (af en vogn)",
+    "de": "das Fahren (eines Wagens)",
+    "el": "η οδήγηση (ενός άρματος)",
+    "es": "la conducción (de un carro)",
+    "et": "(vankri) juhtimine",
+    "fi": "(vaunujen) ajaminen",
+    "fr": "la conduite (d'un char)",
+    "hu": "a szekérhajtás (a szekérhajtás)",
+    "id": "mengemudi (kereta)",
+    "it": "la guida (di un carro)",
+    "ja": "馭者",
+    "ko": "(전차의) 운전",
+    "lt": "važiavimas (vežimu)",
+    "lv": "braukšana (ar ratiem)",
+    "nb": "kjøring (av en stridsvogn)",
+    "nl": "het besturen (van een wagen)",
+    "pl": "powożenie (rydwanem)",
+    "pt": "a condução (de uma carruagem)",
+    "ro": "conducerea (unui car)",
+    "ru": "управление (колесницей)",
+    "sk": "jazda (na voze)",
+    "sl": "vožnja (voza)",
+    "sv": "körning (av en vagn)",
+    "tr": "(bir savaş arabasının) sürülmesi",
+    "uk": "водіння (колісниці)",
+    "zh": "御驾"
+  }
+}

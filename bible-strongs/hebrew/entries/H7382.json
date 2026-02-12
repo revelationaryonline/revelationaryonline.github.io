@@ -1,0 +1,42 @@
+{
+  "number": "H7382",
+  "language": "hebrew",
+  "transliteration": "rêyach",
+  "pronunciation": "ray'-akh",
+  "definition": "{odor (as if blown)}",
+  "kjvTranslation": "smell.",
+  "hebrew": "רֵיחַ",
+  "translations": {
+    "bg": "{миризма (като при издухване)}",
+    "cs": "{zápach (jako by foukal)}",
+    "da": "{lugt (som om den er blæst)}",
+    "de": "{Geruch (wie geblasen)}",
+    "el": "{μυρωδιά (σαν να φυσάει)}",
+    "es": "{olor (como si soplara)}",
+    "et": "(lõhn (nagu oleks puhutud))",
+    "fi": "{haju (kuin puhaltaisi)",
+    "fr": "{odor (comme si on soufflait)}",
+    "hu": "(szag (mintha fújnák))",
+    "id": "{bau (seperti tertiup angin)}",
+    "it": "{odore (come se soffiasse)",
+    "ja": "臭い",
+    "ko": "{냄새(날리는 듯)}",
+    "lt": "{smarvė (tarsi pūstų)",
+    "lv": "{smarža (it kā pūstu)}",
+    "nb": "{lukt (som om den er blåst)",
+    "nl": "{geur (alsof je geblazen wordt)}",
+    "pl": "{zapach (jakby dmuchany)}",
+    "pt": "{odor (como se tivesse sido soprado)",
+    "ro": "{odor (ca și cum ar fi suflat)}",
+    "ru": "{Дождь (как будто дуновение)}",
+    "sk": "{zápach (akoby fúkal)}",
+    "sl": "{zadišava (kot da bi pihala)}",
+    "sv": "{lukt (som om den blåste)}",
+    "tr": "{koku (sanki üflenmiş gibi)}",
+    "uk": "{Неприємний запах",
+    "zh": "{气味（像被吹过一样）}"
+  },
+  "verses": [
+    "daniel 3:27:21"
+  ]
+}

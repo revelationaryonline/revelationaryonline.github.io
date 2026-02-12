@@ -1,0 +1,42 @@
+{
+  "number": "H3869",
+  "language": "hebrew",
+  "transliteration": "lûwz",
+  "pronunciation": "looz",
+  "definition": "some kind of nuttree, perhaps the almond",
+  "kjvTranslation": "hazel.",
+  "hebrew": "לוּז",
+  "translations": {
+    "bg": "някакъв вид орехово дърво, може би бадем",
+    "cs": "nějaký druh ořešáku, možná mandloň",
+    "da": "en slags nøddetræ, måske mandel",
+    "de": "eine Art von Nussbaum, vielleicht die Mandel",
+    "el": "κάποιο είδος καρυδιού, ίσως το αμύγδαλο",
+    "es": "algún tipo de nogal, quizás la almendra",
+    "et": "mingi pähklipuu, võib-olla mandel",
+    "fi": "jonkinlainen pähkinäpuu, ehkä manteli",
+    "fr": "une sorte d'arbre à noix, peut-être l'amande",
+    "hu": "valamilyen diófa, talán a mandula",
+    "id": "sejenis pohon kacang, mungkin almond",
+    "it": "un qualche tipo di noce, forse il mandorlo",
+    "ja": "木の実の一種、おそらくアーモンド",
+    "ko": "어떤 종류의 견과류, 아마도 아몬드",
+    "lt": "koks nors riešutmedis, galbūt migdolas",
+    "lv": "kāds riekstkoks, iespējams, mandeļkoks",
+    "nb": "et slags nøttetre, kanskje mandel",
+    "nl": "een soort notenboom, misschien de amandel",
+    "pl": "jakiś rodzaj drzewa orzechowego, być może migdałowiec",
+    "pt": "um tipo de árvore de noz, talvez a amêndoa",
+    "ro": "un fel de nuc, poate migdale",
+    "ru": "какой-то вид орехового дерева, возможно, миндаль",
+    "sk": "nejaký druh orecha, možno mandľa",
+    "sl": "kakšna vrsta oreščka, morda mandelj",
+    "sv": "något slags nötträd, kanske mandel",
+    "tr": "bir çeşit fındık ağacı, belki badem",
+    "uk": "якесь горіхове дерево, можливо, мигдаль",
+    "zh": "某种坚果树，也许是杏树"
+  },
+  "verses": [
+    "genesis 30:37:6"
+  ]
+}

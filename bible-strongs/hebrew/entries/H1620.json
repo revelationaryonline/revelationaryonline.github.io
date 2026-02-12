@@ -1,0 +1,42 @@
+{
+  "number": "H1620",
+  "language": "hebrew",
+  "transliteration": "gargar",
+  "pronunciation": "gar-gar'",
+  "definition": "a berry (as if a pellet of rumination)",
+  "kjvTranslation": "berry.",
+  "translations": {
+    "bg": "зрънце (като че ли е гранулка от преживяване)",
+    "cs": "bobule (jako by šlo o přežvykování)",
+    "da": "et bær (som en pille af drøvtygning)",
+    "de": "eine Beere (wie ein Kügelchen des Wiederkäuens)",
+    "el": "ένα μούρο (σαν ένα σφαιρίδιο μηρυκασμού)",
+    "es": "una baya (como si fuera una bolita de rumia)",
+    "et": "marja (justkui mürtsukene)",
+    "fi": "marja (ikään kuin rypälerake)",
+    "fr": "une baie (comme une boulette de rumination)",
+    "hu": "egy bogyó (mintha egy bogyó lenne)",
+    "id": "buah beri (seolah-olah pelet ruminasi)",
+    "it": "una bacca (come una pallina di ruminazione)",
+    "ja": "実のようなもの",
+    "ko": "베리 (마치 반추위 펠렛처럼)",
+    "lt": "uoga (tarsi gomurio rutuliukas)",
+    "lv": "oga (it kā grauzdiņš)",
+    "nb": "et bær (som om det er en drøvtyggingskule)",
+    "nl": "een bes (als een gerommelbolletje)",
+    "pl": "jagoda (jakby granulka przeżuwania)",
+    "pt": "uma baga (como se fosse uma pelota de ruminação)",
+    "ro": "o boabă (ca un pelet de ruminație)",
+    "ru": "ягода (как будто гранулы руминации)",
+    "sk": "bobuľa (akoby guľôčka prežívania)",
+    "sl": "jagoda (kot da bi šlo za drobec prebavil)",
+    "sv": "ett bär (som om det vore en pellet av idissling)",
+    "tr": "bir dut (sanki bir ruminasyon topağı gibi)",
+    "uk": "ягода (ніби гранула роздумів)",
+    "zh": "颗粒"
+  },
+  "hebrew": "גַּרְגַּר",
+  "verses": [
+    "isaiah 17:6:7"
+  ]
+}

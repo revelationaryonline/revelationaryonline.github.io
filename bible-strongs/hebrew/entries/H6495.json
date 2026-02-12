@@ -1,0 +1,42 @@
+{
+  "number": "H6495",
+  "language": "hebrew",
+  "transliteration": "pᵉqach-qôwach",
+  "pronunciation": "pek-akh-ko'-akh",
+  "definition": "opening (of a dungeon), i.e. jail-delivery (figuratively, salvation for sin)",
+  "kjvTranslation": "opening of the prison.",
+  "hebrew": "פְּקַח־קוֹחַ",
+  "translations": {
+    "bg": "отваряне (на тъмница), т.е. освобождаване от затвора (преносно, спасение от греха)",
+    "cs": "otevření (žaláře), tj. vysvobození z vězení (přeneseně záchrana za hřích)",
+    "da": "åbning (af et fangehul), dvs. udlevering af et fængsel (i overført betydning, frelse for synd)",
+    "de": "öffnung (eines Kerkers), d.h. Befreiung aus dem Gefängnis (im übertragenen Sinne, Erlösung von der Sünde)",
+    "el": "άνοιγμα (ενός μπουντρουμιού), δηλαδή απελευθέρωση από τη φυλακή (μεταφορικά, σωτηρία για την αμαρτία)",
+    "es": "apertura (de una mazmorra), es decir, entrega de la cárcel (en sentido figurado, salvación del pecado)",
+    "et": "(vangla) avamine, s.t. vanglast vabastamine (piltlikult öeldes, pääste pattude eest)",
+    "fi": "(vankityrmän) avaaminen, eli vankilasta vapauttaminen (kuvaannollisesti, pelastus synnistä)",
+    "fr": "ouverture (d'un cachot), c'est-à-dire délivrance d'une prison (au sens figuré, salut pour le péché)",
+    "hu": "(tömlöc) felnyitása, azaz börtönből való kiszabadítás (átvitt értelemben: megváltás a bűnből)",
+    "id": "pembukaan (penjara bawah tanah), yaitu pembebasan dari penjara (secara kiasan, keselamatan untuk dosa)",
+    "it": "apertura (di una prigione), cioè consegna della prigione (in senso figurato, salvezza dal peccato)",
+    "ja": "開牢",
+    "ko": "(던전의) 개방, 즉 감옥에 갇히다(비유적으로 죄에 대한 구원)",
+    "lt": "kalėjimo atidarymas, t. y. išlaisvinimas iš kalėjimo (perkeltine prasme - išgelbėjimas nuo nuodėmės)",
+    "lv": "(cietuma) atvēršana, t.i., atbrīvošana no cietuma (pārnestā nozīmē - glābšana no grēka)",
+    "nb": "åpning (av et fangehull), dvs. utfrielse fra fengselet (i overført betydning, frelse for synd)",
+    "nl": "opening (van een kerker), d.w.z. bevrijding uit de gevangenis (figuurlijk, verlossing van zonde)",
+    "pl": "otwarcie (lochu), tj. uwolnienie z więzienia (w przenośni zbawienie od grzechu)",
+    "pt": "abertura (de um calabouço), ou seja, entrega na prisão (figurativamente, salvação para o pecado)",
+    "ro": "deschidere (a unei temnițe), adică eliberare din închisoare (la figurat, mântuire pentru păcat)",
+    "ru": "открытие (темницы), т.е. освобождение из тюрьмы (образно, спасение от греха)",
+    "sk": "otvorenie (žalára), t. j. vyslobodenie z väzenia (v prenesenom význame, záchrana za hriech)",
+    "sl": "odprtje (ječe), tj. osvoboditev iz zapora (v prenesenem pomenu, odrešitev od greha)",
+    "sv": "öppning (av en fängelsehåla), dvs. fängelseutdelning (bildligt talat, frälsning för synd)",
+    "tr": "(bir zindanın) açılması, yani hapishanenin boşaltılması (mecazi olarak, günahtan kurtuluş)",
+    "uk": "відкриття (темниці), тобто звільнення з в'язниці (образно - спасіння від гріха)",
+    "zh": "打开（地牢），即送狱（比喻对罪的救赎）"
+  },
+  "verses": [
+    "isaiah 61:1:19"
+  ]
+}

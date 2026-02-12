@@ -1,0 +1,42 @@
+{
+  "number": "H7717",
+  "language": "hebrew",
+  "transliteration": "sâhêd",
+  "pronunciation": "saw-hade'",
+  "definition": "a witness",
+  "kjvTranslation": "record.",
+  "hebrew": "שָׂהֵד",
+  "translations": {
+    "bg": "свидетел",
+    "cs": "svědek",
+    "da": "et vidne",
+    "de": "ein Zeuge",
+    "el": "ένας μάρτυρας",
+    "es": "un testigo",
+    "et": "tunnistaja",
+    "fi": "todistaja",
+    "fr": "un témoin",
+    "hu": "egy tanú",
+    "id": "seorang saksi",
+    "it": "un testimone",
+    "ja": "目撃者",
+    "ko": "증인",
+    "lt": "liudytojas",
+    "lv": "liecinieks",
+    "nb": "et vitne",
+    "nl": "een getuige",
+    "pl": "świadek",
+    "pt": "uma testemunha",
+    "ro": "un martor",
+    "ru": "свидетель",
+    "sk": "svedok",
+    "sl": "priča",
+    "sv": "ett vittne",
+    "tr": "bir tanık",
+    "uk": "свідок",
+    "zh": "证人"
+  },
+  "verses": [
+    "job 16:19:5"
+  ]
+}

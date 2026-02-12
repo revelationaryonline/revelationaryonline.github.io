@@ -1,0 +1,43 @@
+{
+  "number": "H1303",
+  "language": "hebrew",
+  "transliteration": "barqân",
+  "pronunciation": "bar-kwan'",
+  "definition": "a thorn (perhaps as burning brightly)",
+  "kjvTranslation": "brier.",
+  "translations": {
+    "bg": "трън (може би като ярко горящ)",
+    "cs": "trn (možná jako jasně hořící)",
+    "da": "en torn (måske som brænder stærkt)",
+    "de": "ein Dorn (vielleicht als hell brennend)",
+    "el": "ένα αγκάθι (ίσως σαν να καίει έντονα)",
+    "es": "una espina (quizás como ardiendo intensamente)",
+    "et": "okas (võib-olla kui eredalt põlev)",
+    "fi": "piikki (ehkä kirkkaasti palavana)",
+    "fr": "une épine (peut-être en tant que brûlant)",
+    "hu": "egy tüske (talán mint fényesen égő)",
+    "id": "duri (mungkin seperti terbakar terang)",
+    "it": "una spina (forse come se bruciasse intensamente)",
+    "ja": "とげ",
+    "ko": "가시(아마도 밝게 타는 것처럼)",
+    "lt": "erškėtis (galbūt kaip ryškiai degantis)",
+    "lv": "ērkšķis (varbūt kā spilgti degošs)",
+    "nb": "en torn (kanskje som brenner sterkt)",
+    "nl": "een doorn (misschien als fel brandend)",
+    "pl": "cierń (być może płonący jasno)",
+    "pt": "um espinho (talvez como ardente)",
+    "ro": "un ghimpe (poate ca arzând strălucitor)",
+    "ru": "шип (возможно, ярко горящий)",
+    "sk": "tŕň (možno ako jasne horiaci)",
+    "sl": "trn (morda kot močno goreč)",
+    "sv": "en tagg (kanske som att brinna starkt)",
+    "tr": "bir diken (belki de parlak bir şekilde yanan)",
+    "uk": "колючка (можливо, така ж яскраво палаюча)",
+    "zh": "荆棘"
+  },
+  "hebrew": "בַּרְקָן",
+  "verses": [
+    "judges 8:7:17",
+    "judges 8:16:8"
+  ]
+}

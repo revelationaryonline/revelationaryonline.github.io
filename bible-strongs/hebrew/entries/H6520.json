@@ -1,0 +1,43 @@
+{
+  "number": "H6520",
+  "language": "hebrew",
+  "transliteration": "pᵉrâzôwn",
+  "pronunciation": "per-aw-zone'",
+  "definition": "magistracy, i.e. leadership (also concretely, chieftains)",
+  "kjvTranslation": "village.",
+  "hebrew": "פְּרָזוֹן",
+  "translations": {
+    "bg": "магистратура, т.е. ръководство (също и конкретно - вождове)",
+    "cs": "magistrát, tj. vedení (také konkrétně náčelníci)",
+    "da": "magistrat, dvs. lederskab (også konkret, høvdinge)",
+    "de": "magistratur, d. h. Führung (auch konkret: Häuptlinge)",
+    "el": "ηγεσία, δηλαδή ηγεσία (επίσης συγκεκριμένα, οπλαρχηγοί)",
+    "es": "magistratura, es decir, liderazgo (también concretamente, caciques)",
+    "et": "magistraat, s.t. juhtkond (ka konkreetselt pealikud)",
+    "fi": "maistraatti, eli johto (myös konkreettisesti päälliköt)",
+    "fr": "la magistrature, c'est-à-dire la direction (aussi concrètement, les chefs)",
+    "hu": "magisztrátus, azaz vezetés (konkrétan a törzsfőnökök is)",
+    "id": "magistrasi, yaitu kepemimpinan (juga secara konkret, kepala suku)",
+    "it": "magistratura, cioè leadership (anche concretamente, capi)",
+    "ja": "司政",
+    "ko": "치안, 즉 리더십(구체적으로는 족장)",
+    "lt": "magistratūra, t. y. vadovavimas (taip pat konkrečiai - vadai)",
+    "lv": "maģistrātija, t.i., vadība (arī konkrēti - priekšnieki)",
+    "nb": "magistrat, dvs. lederskap (også konkret, høvdinger)",
+    "nl": "magistratuur, d.w.z. leiderschap (ook concreet, stamhoofden)",
+    "pl": "magistratura, tj. przywództwo (również konkretnie wodzowie)",
+    "pt": "magistratura, ou seja, chefia (também concretamente, chefes)",
+    "ro": "magistratură, adică conducere (de asemenea, în mod concret, căpetenii)",
+    "ru": "магистратура, т.е. руководство (также конкретно - вожди)",
+    "sk": "magistratúra, t. j. vedenie (tiež konkrétne náčelníci)",
+    "sl": "magistrat, tj. vodstvo (konkretno tudi poglavarji)",
+    "sv": "magistrat, dvs. ledarskap (även konkret, hövdingar)",
+    "tr": "magistracy, yani liderlik (ayrıca somut olarak reisler)",
+    "uk": "магістратура, тобто керівництво (також конкретно - отамани)",
+    "zh": "官制，即领导权（也具体指酋长）"
+  },
+  "verses": [
+    "judges 5:7:1",
+    "judges 5:11:9"
+  ]
+}

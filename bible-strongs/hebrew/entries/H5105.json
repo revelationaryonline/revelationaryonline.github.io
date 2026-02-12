@@ -1,0 +1,42 @@
+{
+  "number": "H5105",
+  "language": "hebrew",
+  "transliteration": "nᵉhârâh",
+  "pronunciation": "neh-haw-raw'",
+  "definition": "daylight",
+  "kjvTranslation": "light.",
+  "hebrew": "נְהָרָה",
+  "translations": {
+    "bg": "дневна светлина",
+    "cs": "denní světlo",
+    "da": "dagslys",
+    "de": "tageslicht",
+    "el": "φως της ημέρας",
+    "es": "luz del día",
+    "et": "päevavalgus",
+    "fi": "päivänvalo",
+    "fr": "lumière du jour",
+    "hu": "nappali fény",
+    "id": "siang hari",
+    "it": "luce diurna",
+    "ja": "昼光",
+    "ko": "낮",
+    "lt": "dienos šviesa",
+    "lv": "dienas gaisma",
+    "nb": "dagslys",
+    "nl": "daglicht",
+    "pl": "światło dzienne",
+    "pt": "luz do dia",
+    "ro": "lumina zilei",
+    "ru": "дневной свет",
+    "sk": "denné svetlo",
+    "sl": "dnevna svetloba",
+    "sv": "dagsljus",
+    "tr": "gün ışığı",
+    "uk": "денне світло",
+    "zh": "日光"
+  },
+  "verses": [
+    "job 3:4:11"
+  ]
+}

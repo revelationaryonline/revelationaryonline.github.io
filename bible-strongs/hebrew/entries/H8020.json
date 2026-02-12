@@ -1,0 +1,42 @@
+{
+  "number": "H8020",
+  "language": "hebrew",
+  "transliteration": "Shalman",
+  "pronunciation": "shal-man'",
+  "definition": "Shalman, a king apparently of Assyria",
+  "kjvTranslation": "Shalman. Compare H8022 (שַׁלְמַנְאֶסֶר).",
+  "hebrew": "שַׁלְמַן",
+  "translations": {
+    "bg": "Шалман, очевидно цар на Асирия",
+    "cs": "Šalman, zřejmě asyrský král",
+    "da": "Shalman, tilsyneladende en konge af Assyrien",
+    "de": "Schalman, offenbar ein König von Assyrien",
+    "el": "Σαλμάν, βασιλιάς προφανώς της Ασσυρίας",
+    "es": "Shalman, un rey aparentemente de Asiria",
+    "et": "Shalman, ilmselt Assüüria kuningas",
+    "fi": "Shalman, ilmeisesti Assyrian kuningas",
+    "fr": "Shalman, un roi apparemment d'Assyrie",
+    "hu": "Sálmán, egy asszír király, aki valószínűleg Asszíria királya volt",
+    "id": "Shalman, seorang raja yang tampaknya berasal dari Asyur",
+    "it": "Shalman, apparentemente un re dell'Assiria",
+    "ja": "アッシリアの王らしいシャルマン",
+    "ko": "앗수르의 왕으로 추정되는 샬만",
+    "lt": "Šalmanas, matyt, Asirijos karalius",
+    "lv": "Shalman, karalis acīmredzot no Asīrijas",
+    "nb": "Shalman, en konge som skal ha vært konge av Assyria",
+    "nl": "Shalman, blijkbaar een koning van Assyrië",
+    "pl": "Szalman, najwyraźniej król Asyrii",
+    "pt": "Salman, aparentemente um rei da Assíria",
+    "ro": "Shalman, un rege al Asiriei, se pare",
+    "ru": "Шалман, царь, по-видимому, Ассирии",
+    "sk": "Šalman, zrejme asýrsky kráľ",
+    "sl": "Šalman, očitno asirski kralj",
+    "sv": "Shalman, en kung uppenbarligen av Assyrien",
+    "tr": "Şalman, görünüşe göre Asur kralı",
+    "uk": "Шалман, цар, ймовірно, ассирійський",
+    "zh": "沙勒曼，亚述国王"
+  },
+  "verses": [
+    "hosea 10:14:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H64",
+  "language": "hebrew",
+  "transliteration": "ʼÂbêl Kᵉrâmîym",
+  "pronunciation": "aw-bale' ker-aw-meem'",
+  "definition": "Abel-Keramim, a place in Palestine",
+  "kjvTranslation": "plain of the vineyards.",
+  "translations": {
+    "bg": "Abel-Keramim, място в Палестина",
+    "cs": "Abel-Keramim, místo v Palestině",
+    "da": "Abel-Keramim, et sted i Palæstina",
+    "de": "Abel-Keramim, ein Ort in Palästina",
+    "el": "Abel-Keramim, τόπος στην Παλαιστίνη",
+    "es": "Abel-Keramim, un lugar en Palestina",
+    "et": "Abel-Keramim, koht Palestiinas",
+    "fi": "Abel-Keramim, paikka Palestiinassa",
+    "fr": "Abel-Keramim, lieu en Palestine",
+    "hu": "Abel-Keramim, egy hely Palesztinában",
+    "id": "Abel-Keramim, sebuah tempat di Palestina",
+    "it": "Abel-Keramim, località della Palestina",
+    "ja": "アベル・ケラミム（パレスチナの地名",
+    "ko": "팔레스타인의 아벨-케라밈, 팔레스타인의 한 장소",
+    "lt": "Abel-Keramim, vietovė Palestinoje",
+    "lv": "Abel-Keramim, vieta Palestīnā",
+    "nb": "Abel-Keramim, et sted i Palestina",
+    "nl": "Abel-Keramim, een plaats in Palestina",
+    "pl": "Abel-Keramim, miejscowość w Palestynie",
+    "pt": "Abel-Keramim, um lugar na Palestina",
+    "ro": "Abel-Keramim, un loc în Palestina",
+    "ru": "Абель-Керамим, место в Палестине",
+    "sk": "Abel-Keramim, miesto v Palestíne",
+    "sl": "Abel-Keramim, kraj v Palestini",
+    "sv": "Abel-Keramim, en plats i Palestina",
+    "tr": "Abel-Keramim, Filistin'de bir yer",
+    "uk": "Абель-Керамім, місце в Палестині",
+    "zh": "亚伯-凯拉米"
+  },
+  "hebrew": "אָבֵל כְּרָמִים",
+  "verses": [
+    "judges 11:33:9"
+  ]
+}

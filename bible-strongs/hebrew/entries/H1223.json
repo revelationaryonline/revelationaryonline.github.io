@@ -1,0 +1,42 @@
+{
+  "number": "H1223",
+  "language": "hebrew",
+  "transliteration": "botsrâh",
+  "pronunciation": "bots-raw'",
+  "definition": "an enclosure, i.e. sheep fold",
+  "kjvTranslation": "Bozrah.",
+  "translations": {
+    "bg": "заграждение, т.е. овчарник",
+    "cs": "ohrada, tj. ovčí stáj",
+    "da": "en indhegning, dvs. en fårefold",
+    "de": "ein Gehege, d.h. ein Schafstall",
+    "el": "ένα περίβλημα, δηλαδή μια στάνη για πρόβατα",
+    "es": "un recinto, es decir, un redil de ovejas",
+    "et": "tara, st lambakarja",
+    "fi": "kotelo, eli lampaiden tarha",
+    "fr": "un enclos, c'est-à-dire une bergerie",
+    "hu": "egy kerítés, azaz egy juhnyáj",
+    "id": "kandang, yaitu kandang domba",
+    "it": "un recinto, cioè un ovile",
+    "ja": "囲い",
+    "ko": "인클로저, 즉 양 접기",
+    "lt": "aptvaras, t. y. avių aptvaras",
+    "lv": "iežogojums, t.i., aitu aploks",
+    "nb": "en innhegning, dvs. en sauefjøs",
+    "nl": "een omheining, d.w.z. een schaapskooi",
+    "pl": "ogrodzenie, tj. owczarnia",
+    "pt": "um recinto, ou seja, um curral de ovelhas",
+    "ro": "o incintă, adică o stână",
+    "ru": "загон, т.е. овчарня",
+    "sk": "ohrada, t. j. ovčín",
+    "sl": "ogrado, tj. ovčjo ogrado",
+    "sv": "en inhägnad, t.ex. ett fårfålla",
+    "tr": "bir muhafaza, yani koyun ağılı",
+    "uk": "вольєр, тобто овеча загорода",
+    "zh": "羊圈"
+  },
+  "hebrew": "בׇּצְרָה",
+  "verses": [
+    "micah 2:12:11"
+  ]
+}

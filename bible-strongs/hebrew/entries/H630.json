@@ -1,0 +1,42 @@
+{
+  "number": "H630",
+  "language": "hebrew",
+  "transliteration": "ʼAçpâthâʼ",
+  "pronunciation": "as-paw-thaw'",
+  "definition": "Aspatha, a son of Haman",
+  "kjvTranslation": "Aspatha.",
+  "translations": {
+    "bg": "Аспат, син на Аман",
+    "cs": "Aspata, syn Hamanův",
+    "da": "Aspatha, en søn af Haman",
+    "de": "Aspatha, ein Sohn von Haman",
+    "el": "Ασπάθα, γιος του Αμάν",
+    "es": "Aspatha, hijo de Amán",
+    "et": "Aspatha, Haamani poeg",
+    "fi": "Aspatha, Haamanin poika",
+    "fr": "Aspatha, fils d'Haman",
+    "hu": "Aspatha, Hámán fia",
+    "id": "Aspatha, seorang putra Haman",
+    "it": "Aspatha, figlio di Haman",
+    "ja": "ハマンの息子アスパタ",
+    "ko": "하만의 아들, 아스파타",
+    "lt": "Aspatas, Hamano sūnus",
+    "lv": "Aspata, Hamana dēls",
+    "nb": "Aspatha, en sønn av Haman",
+    "nl": "Aspatha, een zoon van Haman",
+    "pl": "Aspatha, syn Hamana",
+    "pt": "Aspatha, um filho de Hamã",
+    "ro": "Aspatha, un fiu al lui Haman",
+    "ru": "Аспата, сын Хамана",
+    "sk": "Aspatha, syn Hamana",
+    "sl": "Aspata, Hamanov sin",
+    "sv": "Aspatha, en son till Haman",
+    "tr": "Aspatha, Haman'ın oğlu",
+    "uk": "Аспата, син Амана",
+    "zh": "哈曼的儿子阿斯帕塔"
+  },
+  "hebrew": "אַסְפָּתָא",
+  "verses": [
+    "esther 9:7:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5076",
+  "language": "hebrew",
+  "transliteration": "nâdud",
+  "pronunciation": "naw-dood'",
+  "definition": "properly, tossed; abstractly, a rolling (on the bed)",
+  "kjvTranslation": "tossing to and fro.",
+  "hebrew": "נָדֻד",
+  "translations": {
+    "bg": "правилно, подхвърлен; абстрактно, търкаляне (на леглото)",
+    "cs": "správně, hozený; abstraktně, válení (na posteli)",
+    "da": "korrekt, kastet; abstrakt, en rullen (på sengen)",
+    "de": "richtig, geworfen; abstrakt, ein Rollen (auf dem Bett)",
+    "el": "σωστά, πετάγεται, αφηρημένα, ένα κύλισμα (στο κρεβάτι)",
+    "es": "propiamente, sacudido; abstractamente, un revolcón (en la cama)",
+    "et": "korralikult, visatud; abstraktselt, veerev (voodil)",
+    "fi": "oikein, heittää; abstraktisti, rullaava (sängyssä)",
+    "fr": "proprement, ballotté ; abstraitement, un roulement (sur le lit)",
+    "hu": "helyesen, dobált; elvontan, gurulás (az ágyon)",
+    "id": "dengan benar, dilemparkan; secara abstrak, berguling (di tempat tidur)",
+    "it": "propriamente, sballottato; astrattamente, un rotolare (sul letto)",
+    "ja": "転がされる；抽象的には（ベッドの上で）転がる",
+    "ko": "적절하게, 던져짐; 추상적으로, (침대에서) 구르는 것",
+    "lt": "tinkamai, mėtomas; abstrakčiai, riedantis (ant lovos)",
+    "lv": "pareizi, mētāties; abstrakti, rullītis (uz gultas)",
+    "nb": "egentlig, kastet; abstrakt, en rulling (på sengen)",
+    "nl": "naar behoren, geworpen; abstract, een rollen (op het bed)",
+    "pl": "prawidłowo, rzucony; abstrakcyjnie, toczenie się (na łóżku)",
+    "pt": "propriamente dito, atirado; abstratamente, um rolar (na cama)",
+    "ro": "propriu-zis, aruncat; abstract, o rostogolire (pe pat)",
+    "ru": "правильно, швырять; абстрактно, катать (по кровати)",
+    "sk": "správne, hádzaný; abstraktne, kotúľanie (na posteli)",
+    "sl": "pravilno, vrgla; abstraktno, kotaljenje (na postelji)",
+    "sv": "i egentlig mening, kastad; abstrakt, en rullning (på sängen)",
+    "tr": "gerçek anlamda, savrulmak; soyut anlamda, yuvarlanmak (yatakta)",
+    "uk": "власне, підкинутий; абстрактно - перекинутий (на ліжку)",
+    "zh": "辗转；抽象地指（在床上）打滚"
+  },
+  "verses": [
+    "job 7:4:8"
+  ]
+}

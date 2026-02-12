@@ -1,0 +1,42 @@
+{
+  "number": "H4845",
+  "language": "hebrew",
+  "transliteration": "mᵉrêrâh",
+  "pronunciation": "mer-ay-raw'",
+  "definition": "bile (from its bitterness)",
+  "kjvTranslation": "gall.",
+  "hebrew": "מְרֵרָה",
+  "translations": {
+    "bg": "жлъчка (заради горчивината ѝ)",
+    "cs": "žluč (z její hořkosti)",
+    "da": "galde (på grund af dens bitterhed)",
+    "de": "galle (aufgrund ihrer Bitterkeit)",
+    "el": "χολή (από την πικράδα της)",
+    "es": "bilis (por su amargor)",
+    "et": "sapp (selle kibedusest)",
+    "fi": "sappi (sen katkeruudesta)",
+    "fr": "la bile (en raison de son amertume)",
+    "hu": "epe (a keserűségétől)",
+    "id": "empedu (dari rasa pahitnya)",
+    "it": "bile (per la sua amarezza)",
+    "ja": "苦汁",
+    "ko": "담즙 (쓴맛으로 인한)",
+    "lt": "tulžis (nuo kartumo)",
+    "lv": "žults (no tās rūgtuma)",
+    "nb": "galle (fra dens bitterhet)",
+    "nl": "gal (van de bitterheid)",
+    "pl": "żółć (od jej goryczy)",
+    "pt": "bílis (pelo seu amargor)",
+    "ro": "bilă (din cauza amărăciunii sale)",
+    "ru": "желчь (из-за ее горечи)",
+    "sk": "žlč (z jej horkosti)",
+    "sl": "žolč (zaradi grenkobe)",
+    "sv": "galla (från dess bitterhet)",
+    "tr": "safra (acılığından)",
+    "uk": "жовч (через її гіркоту)",
+    "zh": "胆汁"
+  },
+  "verses": [
+    "job 16:13:9"
+  ]
+}

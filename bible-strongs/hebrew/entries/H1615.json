@@ -1,0 +1,42 @@
+{
+  "number": "H1615",
+  "language": "hebrew",
+  "transliteration": "gir",
+  "pronunciation": "gheer",
+  "definition": "lime (from being burned in a kiln)",
+  "kjvTranslation": "chalk(-stone).",
+  "translations": {
+    "bg": "вар (от изгаряне в пещ)",
+    "cs": "vápno (z pálení v peci)",
+    "da": "kalk (fra at blive brændt i en ovn)",
+    "de": "kalk (durch Brennen im Brennofen)",
+    "el": "ασβέστης (από την καύση σε κλίβανο)",
+    "es": "cal (de ser quemada en un horno)",
+    "et": "lubi (ahjus põletamisest)",
+    "fi": "kalkki (uunissa poltetusta kalkista)",
+    "fr": "chaux (provenant de la combustion dans un four)",
+    "hu": "mész (a kemencében való égetésből)",
+    "id": "kapur (dari pembakaran di tempat pembakaran)",
+    "it": "calce (da bruciare in un forno)",
+    "ja": "石灰",
+    "ko": "석회(가마에서 태운 것)",
+    "lt": "kalkės (iš degimo krosnyje)",
+    "lv": "kaļķi (no dedzināšanas krāsnī)",
+    "nb": "kalk (fra brenning i ovn)",
+    "nl": "kalk (van verbranding in een oven)",
+    "pl": "wapno (ze spalania w piecu)",
+    "pt": "cal (por ser queimada num forno)",
+    "ro": "var (de la arderea în cuptor)",
+    "ru": "известь (от обжига в печи)",
+    "sk": "vápno (zo spaľovania v peci)",
+    "sl": "apno (zaradi žganja v peči)",
+    "sv": "kalk (från att ha bränts i en ugn)",
+    "tr": "kireç (fırında yakılarak elde edilen)",
+    "uk": "вапно (від випалювання в печі)",
+    "zh": "石灰"
+  },
+  "hebrew": "גִּר",
+  "verses": [
+    "isaiah 27:9:15"
+  ]
+}

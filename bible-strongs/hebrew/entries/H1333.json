@@ -1,0 +1,42 @@
+{
+  "number": "H1333",
+  "language": "hebrew",
+  "transliteration": "bâthaq",
+  "pronunciation": "baw-thak'",
+  "definition": "to cut in pieces",
+  "kjvTranslation": "thrust through.",
+  "translations": {
+    "bg": "да се реже на парчета",
+    "cs": "krájet na kousky",
+    "da": "at skære i stykker",
+    "de": "in Stücke zu schneiden",
+    "el": "να κόψω σε κομμάτια",
+    "es": "cortar en trozos",
+    "et": "tükkideks lõigata",
+    "fi": "leikata paloiksi",
+    "fr": "couper en morceaux",
+    "hu": "feldarabolni",
+    "id": "untuk dipotong-potong",
+    "it": "tagliare a pezzi",
+    "ja": "切り刻む",
+    "ko": "조각으로 자르려면",
+    "lt": "supjaustyti gabalais",
+    "lv": "sagriezt gabalos",
+    "nb": "å skjære i biter",
+    "nl": "in stukken snijden",
+    "pl": "pociąć na kawałki",
+    "pt": "cortar em pedaços",
+    "ro": "a tăia în bucăți",
+    "ru": "разрезать на части",
+    "sk": "rozrezať na kúsky",
+    "sl": "razrezati na koščke",
+    "sv": "att skära i bitar",
+    "tr": "parçalara ayırmak",
+    "uk": "розрізати на шматочки",
+    "zh": "切块"
+  },
+  "hebrew": "בָּתַק",
+  "verses": [
+    "ezekiel 16:40:6"
+  ]
+}

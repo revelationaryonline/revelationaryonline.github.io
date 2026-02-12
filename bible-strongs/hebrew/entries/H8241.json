@@ -1,0 +1,42 @@
+{
+  "number": "H8241",
+  "language": "hebrew",
+  "transliteration": "shetseph",
+  "pronunciation": "sheh'-tsef",
+  "definition": "an outburst (of anger)",
+  "kjvTranslation": "little.",
+  "hebrew": "שֶׁצֶף",
+  "translations": {
+    "bg": "избухване (на гняв)",
+    "cs": "výbuch (hněvu)",
+    "da": "et udbrud (af vrede)",
+    "de": "ein Ausbruch (von Wut)",
+    "el": "ένα ξέσπασμα (θυμού)",
+    "es": "un arrebato (de ira)",
+    "et": "(vihapurse)",
+    "fi": "(vihan) purkaus",
+    "fr": "une explosion (de colère)",
+    "hu": "(dühkitörés)",
+    "id": "ledakan (kemarahan)",
+    "it": "uno sfogo (di rabbia)",
+    "ja": "いかりちらす",
+    "ko": "(분노의) 폭발",
+    "lt": "pykčio protrūkis",
+    "lv": "(dusmu) uzliesmojums",
+    "nb": "et utbrudd (av sinne)",
+    "nl": "een uitbarsting (van woede)",
+    "pl": "wybuch (gniewu)",
+    "pt": "uma explosão (de raiva)",
+    "ro": "o izbucnire (de furie)",
+    "ru": "вспышка (гнева)",
+    "sk": "výbuch (hnevu)",
+    "sl": "izbruh (jeze)",
+    "sv": "ett utbrott (av ilska)",
+    "tr": "(öfke) patlaması",
+    "uk": "спалах (гніву)",
+    "zh": "一气"
+  },
+  "verses": [
+    "isaiah 54:8:0"
+  ]
+}

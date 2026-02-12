@@ -1,0 +1,42 @@
+{
+  "number": "H1702",
+  "language": "hebrew",
+  "transliteration": "dôbᵉrâh",
+  "pronunciation": "do-ber-aw'",
+  "definition": "a raft",
+  "kjvTranslation": "float.",
+  "translations": {
+    "bg": "сал",
+    "cs": "vor",
+    "da": "en tømmerflåde",
+    "de": "ein Floß",
+    "el": "μια σχεδία",
+    "es": "una balsa",
+    "et": "parv",
+    "fi": "lautta",
+    "fr": "un radeau",
+    "hu": "egy tutaj",
+    "id": "sebuah rakit",
+    "it": "una zattera",
+    "ja": "いかだ",
+    "ko": "뗏목",
+    "lt": "plaustas",
+    "lv": "plostu",
+    "nb": "en flåte",
+    "nl": "een vlot",
+    "pl": "tratwa",
+    "pt": "uma jangada",
+    "ro": "o plută",
+    "ru": "плот",
+    "sk": "plť",
+    "sl": "splav",
+    "sv": "en flotte",
+    "tr": "bir sal",
+    "uk": "пліт",
+    "zh": "泭"
+  },
+  "hebrew": "דֹּבְרָה",
+  "verses": [
+    "firstKings 5:23:7"
+  ]
+}

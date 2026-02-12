@@ -1,0 +1,42 @@
+{
+  "number": "H960",
+  "language": "hebrew",
+  "transliteration": "bâzôh",
+  "pronunciation": "baw-zo'",
+  "definition": "scorned",
+  "kjvTranslation": "despise.",
+  "translations": {
+    "bg": "презрян",
+    "cs": "opovrhovaný",
+    "da": "hånet",
+    "de": "verschmäht",
+    "el": "περιφρονημένο",
+    "es": "despreciado",
+    "et": "põlatud",
+    "fi": "halveksittu",
+    "fr": "méprisé",
+    "hu": "megvetett",
+    "id": "dicemooh",
+    "it": "disprezzato",
+    "ja": "軽蔑",
+    "ko": "경멸",
+    "lt": "paniekintas",
+    "lv": "izpostīts",
+    "nb": "foraktet",
+    "nl": "geminachte",
+    "pl": "wzgardzony",
+    "pt": "desprezado",
+    "ro": "disprețuit",
+    "ru": "презираемый",
+    "sk": "opovrhovaný",
+    "sl": "zaničevan",
+    "sv": "föraktad",
+    "tr": "küçümsenmiş",
+    "uk": "зневажений",
+    "zh": "鄙视"
+  },
+  "hebrew": "בָּזֹה",
+  "verses": [
+    "isaiah 49:7:6"
+  ]
+}

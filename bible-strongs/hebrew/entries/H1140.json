@@ -1,0 +1,42 @@
+{
+  "number": "H1140",
+  "language": "hebrew",
+  "transliteration": "binyâh",
+  "pronunciation": "bin-yaw'",
+  "definition": "a structure",
+  "kjvTranslation": "building.",
+  "translations": {
+    "bg": "структура",
+    "cs": "struktura",
+    "da": "en struktur",
+    "de": "eine Struktur",
+    "el": "μια δομή",
+    "es": "una estructura",
+    "et": "struktuur",
+    "fi": "rakenne",
+    "fr": "une structure",
+    "hu": "a szerkezet",
+    "id": "sebuah struktur",
+    "it": "una struttura",
+    "ja": "構造",
+    "ko": "구조",
+    "lt": "struktūra",
+    "lv": "struktūra",
+    "nb": "en struktur",
+    "nl": "een structuur",
+    "pl": "struktura",
+    "pt": "uma estrutura",
+    "ro": "o structură",
+    "ru": "структура",
+    "sk": "štruktúra",
+    "sl": "struktura",
+    "sv": "en struktur",
+    "tr": "bir yapı",
+    "uk": "структура",
+    "zh": "架构"
+  },
+  "hebrew": "בִּנְיָה",
+  "verses": [
+    "ezekiel 41:13:7"
+  ]
+}

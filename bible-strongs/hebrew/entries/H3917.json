@@ -1,0 +1,42 @@
+{
+  "number": "H3917",
+  "language": "hebrew",
+  "transliteration": "lîylîyth",
+  "pronunciation": "lee-leeth'",
+  "definition": "a night spectre",
+  "kjvTranslation": "screech owl.",
+  "hebrew": "לִילִית",
+  "translations": {
+    "bg": "нощен призрак",
+    "cs": "noční přízrak",
+    "da": "et natligt spøgelse",
+    "de": "ein Nachtgespenst",
+    "el": "ένα νυχτερινό φάντασμα",
+    "es": "un espectro nocturno",
+    "et": "öine kummitus",
+    "fi": "yön haamu",
+    "fr": "un spectre nocturne",
+    "hu": "egy éjszakai kísértet",
+    "id": "hantu malam",
+    "it": "uno spettro notturno",
+    "ja": "夜の妖怪",
+    "ko": "밤의 유령",
+    "lt": "nakties šmėkla",
+    "lv": "nakts spoku",
+    "nb": "et nattspøkelse",
+    "nl": "een nachtelijk spook",
+    "pl": "nocne widmo",
+    "pt": "um espetro noturno",
+    "ro": "un spectru nocturn",
+    "ru": "ночной призрак",
+    "sk": "nočný prízrak",
+    "sl": "nočni privid",
+    "sv": "ett nattligt spöke",
+    "tr": "bir gece hayaleti",
+    "uk": "нічний привид",
+    "zh": "夜幽灵"
+  },
+  "verses": [
+    "isaiah 34:14:11"
+  ]
+}

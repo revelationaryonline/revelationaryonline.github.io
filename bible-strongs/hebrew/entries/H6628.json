@@ -1,0 +1,43 @@
+{
+  "number": "H6628",
+  "language": "hebrew",
+  "transliteration": "tseʼel",
+  "pronunciation": "tseh'-el",
+  "definition": "the lotus tree",
+  "kjvTranslation": "shady tree.",
+  "hebrew": "צֶאֶל",
+  "translations": {
+    "bg": "лотосовото дърво",
+    "cs": "lotosový strom",
+    "da": "lotus-træet",
+    "de": "der Lotosbaum",
+    "el": "το δέντρο του λωτού",
+    "es": "el árbol de loto",
+    "et": "lootusepuu",
+    "fi": "lootuspuu",
+    "fr": "l'arbre à lotus",
+    "hu": "a lótuszfa",
+    "id": "pohon teratai",
+    "it": "l'albero di loto",
+    "ja": "蓮の木",
+    "ko": "연꽃 나무",
+    "lt": "lotoso medis",
+    "lv": "lotosa koks",
+    "nb": "lotustreet",
+    "nl": "de lotusboom",
+    "pl": "drzewo lotosu",
+    "pt": "a árvore de lótus",
+    "ro": "copacul lotus",
+    "ru": "лотосовое дерево",
+    "sk": "lotosový strom",
+    "sl": "lotosovo drevo",
+    "sv": "lotusträdet",
+    "tr": "lotus ağacı",
+    "uk": "лотос",
+    "zh": "莲花"
+  },
+  "verses": [
+    "job 40:21:1",
+    "job 40:22:1"
+  ]
+}

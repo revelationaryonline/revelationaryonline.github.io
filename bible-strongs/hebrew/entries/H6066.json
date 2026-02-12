@@ -1,0 +1,43 @@
+{
+  "number": "H6066",
+  "language": "hebrew",
+  "transliteration": "ʻônesh",
+  "pronunciation": "o'-nesh",
+  "definition": "a fine",
+  "kjvTranslation": "punishment, tribute.",
+  "hebrew": "עֹנֶשׁ",
+  "translations": {
+    "bg": "глоба",
+    "cs": "pokuta",
+    "da": "en bøde",
+    "de": "eine Geldstrafe",
+    "el": "ένα πρόστιμο",
+    "es": "una multa",
+    "et": "trahvi",
+    "fi": "sakko",
+    "fr": "une amende",
+    "hu": "egy bírság",
+    "id": "denda",
+    "it": "un'ammenda",
+    "ja": "罰金",
+    "ko": "벌금",
+    "lt": "baudą",
+    "lv": "naudas sods",
+    "nb": "en bot",
+    "nl": "een boete",
+    "pl": "grzywna",
+    "pt": "uma multa",
+    "ro": "o amendă",
+    "ru": "прекрасный",
+    "sk": "pokuta",
+    "sl": "denarno kazen",
+    "sv": "en fin",
+    "tr": "iyi",
+    "uk": "штраф",
+    "zh": "罚金"
+  },
+  "verses": [
+    "secondKings 23:33:10",
+    "proverbs 19:19:4"
+  ]
+}

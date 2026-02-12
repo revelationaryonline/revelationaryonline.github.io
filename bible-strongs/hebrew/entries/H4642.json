@@ -1,0 +1,43 @@
+{
+  "number": "H4642",
+  "language": "hebrew",
+  "transliteration": "maʻăshaqqâh",
+  "pronunciation": "mah-ash-ak-kaw'",
+  "definition": "oppression",
+  "kjvTranslation": "oppression, [idiom] oppressor.",
+  "hebrew": "מַעֲשַׁקָּה",
+  "verses": [
+    "proverbs 28:16:4",
+    "isaiah 33:15:6"
+  ],
+  "translations": {
+    "bg": "потисничество",
+    "cs": "útlak",
+    "da": "undertrykkelse",
+    "de": "unterdrückung",
+    "el": "καταπίεση",
+    "es": "opresión",
+    "et": "rõhumine",
+    "fi": "sorto",
+    "fr": "oppression",
+    "hu": "elnyomás",
+    "id": "penindasan",
+    "it": "oppressione",
+    "ja": "圧迫",
+    "ko": "억압",
+    "lt": "priespauda",
+    "lv": "apspiešana",
+    "nb": "undertrykkelse",
+    "nl": "onderdrukking",
+    "pl": "ucisk",
+    "pt": "opressão",
+    "ro": "opresiune",
+    "ru": "угнетение",
+    "sk": "útlak",
+    "sl": "zatiranje",
+    "sv": "förtryck",
+    "tr": "bASKI",
+    "uk": "гноблення",
+    "zh": "镇压"
+  }
+}

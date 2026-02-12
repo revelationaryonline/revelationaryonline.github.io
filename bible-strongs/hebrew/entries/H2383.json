@@ -1,0 +1,42 @@
+{
+  "number": "H2383",
+  "language": "hebrew",
+  "transliteration": "Chezyôwn",
+  "pronunciation": "khez-yone'",
+  "definition": "Chezjon, a Syrian",
+  "kjvTranslation": "Hezion.",
+  "translations": {
+    "bg": "Chezjon, сириец",
+    "cs": "Chezjon, Syřan",
+    "da": "Chezjon, en syrisk",
+    "de": "Chezjon, ein Syrer",
+    "el": "Chezjon, ένας Σύρος",
+    "es": "Chezjon, un sirio",
+    "et": "Chezjon, Süüria",
+    "fi": "Chezjon, syyrialainen",
+    "fr": "Chezjon, un Syrien",
+    "hu": "Chezjon, egy szíriai",
+    "id": "Chezjon, seorang warga Suriah",
+    "it": "Chezjon, un siriano",
+    "ja": "シリア人シェジョン",
+    "ko": "시리아, 체죤",
+    "lt": "Chezjon, siras",
+    "lv": "Chezjon, sīriešu",
+    "nb": "Chezjon, en syrisk",
+    "nl": "Chezjon, een Syriër",
+    "pl": "Chezjon, Syryjczyk",
+    "pt": "Chezjon, um sírio",
+    "ro": "Chezjon, un sirian",
+    "ru": "Чезжон, сириец",
+    "sk": "Chezjon, Sýrčan",
+    "sl": "Chezjon, sirski",
+    "sv": "Chezjon, en syrisk",
+    "tr": "Chezjon, bir Suriyeli",
+    "uk": "Чезжон, сирієць",
+    "zh": "叙利亚人切兹琼"
+  },
+  "hebrew": "חֶזְיוֹן",
+  "verses": [
+    "firstKings 15:18:27"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5657",
+  "language": "hebrew",
+  "transliteration": "ʻăbuddâh",
+  "pronunciation": "ab-ood-daw'",
+  "definition": "something wrought, i.e. (concretely) service",
+  "kjvTranslation": "household, store of servants.",
+  "hebrew": "עֲבֻדָּה",
+  "translations": {
+    "bg": "нещо изработено, т.е. (конкретно) услуга",
+    "cs": "něco kovaného, tj. (konkrétně) služba",
+    "da": "noget udført, dvs. (konkret) service",
+    "de": "etwas Geschaffenes, d.h. eine (konkrete) Leistung",
+    "el": "κάτι που κατασκευάστηκε, δηλαδή (συγκεκριμένα) υπηρεσία",
+    "es": "algo forjado, es decir (concretamente) servicio",
+    "et": "midagi tehtud, s.t. (konkreetselt) teenus",
+    "fi": "jotakin tehtyä, eli (konkreettisesti) palvelua",
+    "fr": "quelque chose de travaillé, c'est-à-dire un service (concret)",
+    "hu": "valami megmunkált, azaz (konkrét) szolgáltatás",
+    "id": "sesuatu yang ditempa, yaitu (secara konkret) layanan",
+    "it": "qualcosa di lavorato, cioè (concretamente) un servizio",
+    "ja": "奉仕",
+    "ko": "가공된 무언가, 즉 (구체적으로) 서비스",
+    "lt": "kažkas iškaltas, t. y. (konkrečiai) paslauga",
+    "lv": "kaut kas darināts, t.i., (konkrēti) pakalpojums",
+    "nb": "noe utført, dvs. (konkret) tjeneste",
+    "nl": "iets gesmeed, d.w.z. (concreet) dienst",
+    "pl": "coś wykonanego, tj. (konkretnie) usługa",
+    "pt": "algo forjado, ou seja, (concretamente) serviço",
+    "ro": "ceva lucrat, adică un serviciu (concret)",
+    "ru": "что-то сделанное, т.е. (конкретное) обслуживание",
+    "sk": "niečo vykonané, t. j. (konkrétne) služba",
+    "sl": "nekaj izdelanega, tj. (konkretno) storitev",
+    "sv": "något utfört, d.v.s. (konkret) tjänst",
+    "tr": "işlenmiş bir şey, yani (somut olarak) hizmet",
+    "uk": "щось зроблене, тобто (конкретно) послуга",
+    "zh": "锻造的东西，即（具体的）服务"
+  },
+  "verses": [
+    "genesis 26:14:6",
+    "job 1:3:15"
+  ]
+}

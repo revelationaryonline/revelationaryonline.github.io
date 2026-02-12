@@ -1,0 +1,42 @@
+{
+  "number": "H6683",
+  "language": "hebrew",
+  "transliteration": "tsûwlâh",
+  "pronunciation": "tsoo-law'",
+  "definition": "an abyss (of the sea)",
+  "kjvTranslation": "deep.",
+  "hebrew": "צוּלָה",
+  "translations": {
+    "bg": "бездна (в морето)",
+    "cs": "propast (moře)",
+    "da": "en afgrund (i havet)",
+    "de": "ein Abgrund (des Meeres)",
+    "el": "μια άβυσσος (της θάλασσας)",
+    "es": "un abismo (del mar)",
+    "et": "kuristik (meres)",
+    "fi": "(meren) kuilu",
+    "fr": "un gouffre (de la mer)",
+    "hu": "egy (tengeri) szakadék",
+    "id": "sebuah jurang (di laut)",
+    "it": "un abisso (del mare)",
+    "ja": "深淵",
+    "ko": "(바다의) 심연",
+    "lt": "bedugnė (jūros)",
+    "lv": "bezdibenis (jūras)",
+    "nb": "en avgrunn (i havet)",
+    "nl": "een afgrond (van de zee)",
+    "pl": "otchłań (morska)",
+    "pt": "um abismo (do mar)",
+    "ro": "un abis (al mării)",
+    "ru": "пучина (морская)",
+    "sk": "priepasť (mora)",
+    "sl": "brezno (morja)",
+    "sv": "en avgrund (i havet)",
+    "tr": "bir uçurum (denizin)",
+    "uk": "безодня (моря)",
+    "zh": "深渊"
+  },
+  "verses": [
+    "isaiah 44:27:1"
+  ]
+}

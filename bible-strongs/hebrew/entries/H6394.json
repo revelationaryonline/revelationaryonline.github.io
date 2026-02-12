@@ -1,0 +1,42 @@
+{
+  "number": "H6394",
+  "language": "hebrew",
+  "transliteration": "Pildâsh",
+  "pronunciation": "pil-dawsh'",
+  "definition": "Pildash, a relative of Abraham",
+  "kjvTranslation": "Pildash.",
+  "hebrew": "פִּלְדָּשׁ",
+  "translations": {
+    "bg": "Пилдаш, роднина на Авраам",
+    "cs": "Pildash, Abrahamův příbuzný",
+    "da": "Pildash, en slægtning til Abraham",
+    "de": "Pildasch, ein Verwandter von Abraham",
+    "el": "Pildash, συγγενής του Αβραάμ",
+    "es": "Pildash, pariente de Abraham",
+    "et": "Pildash, Aabrahami sugulane",
+    "fi": "Pildash, Aabrahamin sukulainen",
+    "fr": "Pildash, un parent d'Abraham",
+    "hu": "Pildash, Ábrahám rokona",
+    "id": "Pildash, seorang kerabat Abraham",
+    "it": "Pildash, un parente di Abramo",
+    "ja": "ピルダッシュ、アブラハムの親戚",
+    "ko": "아브라함의 친척, 필다쉬",
+    "lt": "Pildasas, Abraomo giminaitis",
+    "lv": "Pildash, Ābrahāma radinieks",
+    "nb": "Pildash, en slektning av Abraham",
+    "nl": "Pildash, een familielid van Abraham",
+    "pl": "Pildash, krewny Abrahama",
+    "pt": "Pildash, um parente de Abraão",
+    "ro": "Pildash, o rudă a lui Avraam",
+    "ru": "Пильдаш, родственник Авраама",
+    "sk": "Pildash, príbuzný Abraháma",
+    "sl": "Pildash, Abrahamov sorodnik",
+    "sv": "Pildash, en släkting till Abraham",
+    "tr": "Pildash, İbrahim'in bir akrabası",
+    "uk": "Пільдаш, родич Авраама",
+    "zh": "亚伯拉罕的亲戚皮尔达什"
+  },
+  "verses": [
+    "genesis 22:22:5"
+  ]
+}

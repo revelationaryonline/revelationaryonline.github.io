@@ -1,0 +1,42 @@
+{
+  "number": "H8090",
+  "language": "hebrew",
+  "transliteration": "Shᵉmâʻ",
+  "pronunciation": "shem-aw'",
+  "definition": "Shema, a place in Palestine",
+  "kjvTranslation": "Shema.",
+  "hebrew": "שְׁמָע",
+  "translations": {
+    "bg": "Шема, място в Палестина",
+    "cs": "Šema, místo v Palestině",
+    "da": "Shema, et sted i Palæstina",
+    "de": "Shema, ein Ort in Palästina",
+    "el": "Shema, τόπος στην Παλαιστίνη",
+    "es": "Shema, un lugar de Palestina",
+    "et": "Shema, koht Palestiinas",
+    "fi": "Shema, paikka Palestiinassa",
+    "fr": "Shema, localité de Palestine",
+    "hu": "Shema, egy hely Palesztinában",
+    "id": "Shema, sebuah tempat di Palestina",
+    "it": "Shema, una località della Palestina",
+    "ja": "シェマ、パレスチナの地名",
+    "ko": "팔레스타인의 장소, 셰마",
+    "lt": "Šema, vietovė Palestinoje",
+    "lv": "Šema, vieta Palestīnā",
+    "nb": "Shema, et sted i Palestina",
+    "nl": "Shema, een plaats in Palestina",
+    "pl": "Shema, miejscowość w Palestynie",
+    "pt": "Shema, um lugar na Palestina",
+    "ro": "Shema, un loc în Palestina",
+    "ru": "Шема, место в Палестине",
+    "sk": "Šema, miesto v Palestíne",
+    "sl": "Shema, kraj v Palestini",
+    "sv": "Shema, en plats i Palestina",
+    "tr": "Şema, Filistin'de bir yer",
+    "uk": "Шхема, місце в Палестині",
+    "zh": "谢马"
+  },
+  "verses": [
+    "joshua 15:26:1"
+  ]
+}

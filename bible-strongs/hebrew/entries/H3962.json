@@ -1,0 +1,42 @@
+{
+  "number": "H3962",
+  "language": "hebrew",
+  "transliteration": "Leshaʻ",
+  "pronunciation": "leh'-shah",
+  "definition": "Lesha, a place probably East of the Jordan",
+  "kjvTranslation": "Lasha.",
+  "hebrew": "לֶשַׁע",
+  "translations": {
+    "bg": "Леша, място вероятно на изток от Йордан",
+    "cs": "Lesha, místo pravděpodobně na východ od Jordánu",
+    "da": "Lesha, et sted sandsynligvis øst for Jordan",
+    "de": "Lesha, ein Ort wahrscheinlich östlich des Jordans",
+    "el": "Lesha, ένας τόπος πιθανώς ανατολικά του Ιορδάνη",
+    "es": "Lesha, un lugar probablemente al este del Jordán",
+    "et": "Lesha, tõenäoliselt Jordani jõest ida pool asuv koht",
+    "fi": "Lesha, paikka luultavasti Jordanin itäpuolella",
+    "fr": "Lesha, lieu situé probablement à l'est du Jourdain",
+    "hu": "Lesha, egy hely valószínűleg a Jordántól keletre",
+    "id": "Lesha, sebuah tempat yang mungkin berada di sebelah timur Sungai Yordan",
+    "it": "Lesha, un luogo probabilmente a est del Giordano",
+    "ja": "レシャは、おそらくヨルダンの東にある場所である。",
+    "ko": "요르단 동쪽의 레샤, 아마도 요르단 동쪽에 있는 곳",
+    "lt": "Lesha, vietovė į rytus nuo Jordano",
+    "lv": "Lesha, vieta, iespējams, uz austrumiem no Jordānas",
+    "nb": "Lesha, et sted sannsynligvis øst for Jordan",
+    "nl": "Lesha, een plaats waarschijnlijk ten oosten van de Jordaan",
+    "pl": "Lesha, miejsce prawdopodobnie na wschód od Jordanu",
+    "pt": "Lesha, um lugar provavelmente a leste do Jordão",
+    "ro": "Lesha, un loc probabil la est de Iordan",
+    "ru": "Леша, место, вероятно, к востоку от Иордана",
+    "sk": "Lesha, miesto pravdepodobne východne od Jordánu",
+    "sl": "Lesha, kraj verjetno vzhodno od Jordana",
+    "sv": "Lesha, en plats troligen öster om Jordanfloden",
+    "tr": "Lesha, muhtemelen Ürdün'ün doğusunda bir yer",
+    "uk": "Льоша, місце, ймовірно, на схід від Йордану",
+    "zh": "莱沙，一个可能在约旦河东的地方"
+  },
+  "verses": [
+    "genesis 10:19:14"
+  ]
+}

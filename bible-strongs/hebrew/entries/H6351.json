@@ -1,0 +1,42 @@
+{
+  "number": "H6351",
+  "language": "hebrew",
+  "transliteration": "pâchach",
+  "pronunciation": "paw-khakh'",
+  "definition": "to spread a net",
+  "kjvTranslation": "be snared.",
+  "hebrew": "פָּחַח",
+  "translations": {
+    "bg": "да разпространявате мрежа",
+    "cs": "rozprostřít síť",
+    "da": "at sprede et net",
+    "de": "ein Netz zu spannen",
+    "el": "να απλώσει ένα δίχτυ",
+    "es": "extender una red",
+    "et": "levitada võrku",
+    "fi": "levittää verkko",
+    "fr": "pour étendre un filet",
+    "hu": "hálót teríteni",
+    "id": "untuk menyebarkan jaring",
+    "it": "per stendere una rete",
+    "ja": "網を広げる",
+    "ko": "그물을 펼치려면",
+    "lt": "išskleisti tinklą",
+    "lv": "izkliedēt tīklu",
+    "nb": "å spre et nett",
+    "nl": "een net verspreiden",
+    "pl": "do rozprzestrzeniania sieci",
+    "pt": "para estender uma rede",
+    "ro": "pentru a întinde o plasă",
+    "ru": "раскинуть сеть",
+    "sk": "rozprestrieť sieť",
+    "sl": "razprostreti mrežo",
+    "sv": "för att sprida ett nät",
+    "tr": "bir ağ yaymak için",
+    "uk": "розкинути сітку",
+    "zh": "撒网"
+  },
+  "verses": [
+    "isaiah 42:22:4"
+  ]
+}

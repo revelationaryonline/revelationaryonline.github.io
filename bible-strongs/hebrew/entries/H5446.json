@@ -1,0 +1,42 @@
+{
+  "number": "H5446",
+  "language": "hebrew",
+  "transliteration": "çᵉbal",
+  "pronunciation": "seb-al'",
+  "definition": "to erect",
+  "kjvTranslation": "strongly laid.",
+  "hebrew": "סְבַל",
+  "translations": {
+    "bg": "да се издига",
+    "cs": "postavit",
+    "da": "at opstille",
+    "de": "zu errichten",
+    "el": "να ανεγείρει",
+    "es": "erigir",
+    "et": "püstitada",
+    "fi": "pystyttää",
+    "fr": "ériger",
+    "hu": "felállítani",
+    "id": "untuk mendirikan",
+    "it": "erigere",
+    "ja": "建てる",
+    "ko": "세우다",
+    "lt": "pastatyti",
+    "lv": "uzcelt",
+    "nb": "til å reise",
+    "nl": "oprichten",
+    "pl": "wznieść",
+    "pt": "para erguer",
+    "ro": "să ridice",
+    "ru": "возводить",
+    "sk": "postaviť",
+    "sl": "postaviti",
+    "sv": "att resa upp",
+    "tr": "dikmek için",
+    "uk": "щоб звести",
+    "zh": "竖立"
+  },
+  "verses": [
+    "ezra 6:3:18"
+  ]
+}

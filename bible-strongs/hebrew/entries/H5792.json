@@ -1,0 +1,42 @@
+{
+  "number": "H5792",
+  "language": "hebrew",
+  "transliteration": "ʻavvâthâh",
+  "pronunciation": "av-vaw-thaw'",
+  "definition": "oppression",
+  "kjvTranslation": "wrong.",
+  "hebrew": "עַוָּתָה",
+  "translations": {
+    "bg": "потисничество",
+    "cs": "útlak",
+    "da": "undertrykkelse",
+    "de": "unterdrückung",
+    "el": "καταπίεση",
+    "es": "opresión",
+    "et": "rõhumine",
+    "fi": "sorto",
+    "fr": "oppression",
+    "hu": "elnyomás",
+    "id": "penindasan",
+    "it": "oppressione",
+    "ja": "圧迫",
+    "ko": "억압",
+    "lt": "priespauda",
+    "lv": "apspiešana",
+    "nb": "undertrykkelse",
+    "nl": "onderdrukking",
+    "pl": "ucisk",
+    "pt": "opressão",
+    "ro": "opresiune",
+    "ru": "угнетение",
+    "sk": "útlak",
+    "sl": "zatiranje",
+    "sv": "förtryck",
+    "tr": "bASKI",
+    "uk": "гноблення",
+    "zh": "镇压"
+  },
+  "verses": [
+    "lamentations 3:59:2"
+  ]
+}

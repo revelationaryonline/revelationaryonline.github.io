@@ -1,0 +1,42 @@
+{
+  "number": "H5626",
+  "language": "hebrew",
+  "transliteration": "Çirâh",
+  "pronunciation": "see-raw'",
+  "definition": "Sirah, a cistern so-called",
+  "kjvTranslation": "Sirah. See also H5518 (סִיר).",
+  "hebrew": "סִרָה",
+  "translations": {
+    "bg": "Sirah, така наречената цистерна",
+    "cs": "Sirah, cisterna tzv",
+    "da": "Sirah, en såkaldt cisterne",
+    "de": "Sirah, eine sogenannte Zisterne",
+    "el": "Sirah, μια δεξαμενή που ονομάζεται",
+    "es": "Sirah, una cisterna llamada",
+    "et": "Sirah, tsistern nn",
+    "fi": "Sirah, niin sanottu säiliö",
+    "fr": "Sirah, une citerne dite",
+    "hu": "Sirah, egy úgynevezett ciszterna",
+    "id": "Sirah, sebuah wadah yang disebut",
+    "it": "Sirah, una cisterna cosiddetta",
+    "ja": "シラー、いわゆる貯水槽",
+    "ko": "시라, 물통이라고 불리는 수조",
+    "lt": "Sirah, vadinamoji cisterna",
+    "lv": "Sirah, tā sauktā cisterna",
+    "nb": "Sirah, en såkalt cisterne",
+    "nl": "Sirah, een cisterne genaamd",
+    "pl": "Sirah, tak zwana cysterna",
+    "pt": "Sirah, uma cisterna dita",
+    "ro": "Sirah, o cisternă așa-numită",
+    "ru": "Сира, цистерна, так называемый",
+    "sk": "Sirah, cisterna tzv",
+    "sl": "Sirah, tako imenovana cisterna",
+    "sv": "Sirah, en cistern så kallad",
+    "tr": "Sirah, bir sarnıç sözde",
+    "uk": "Сіра, так звана цистерна",
+    "zh": "西拉，所谓的蓄水池"
+  },
+  "verses": [
+    "secondSamuel 3:26:11"
+  ]
+}

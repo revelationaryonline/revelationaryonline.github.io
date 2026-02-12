@@ -1,0 +1,43 @@
+{
+  "number": "H4034",
+  "language": "hebrew",
+  "transliteration": "mᵉgôwrah",
+  "pronunciation": "meg-o-raw'",
+  "definition": "affright",
+  "kjvTranslation": "fear.",
+  "hebrew": "מְגוֹרַה",
+  "translations": {
+    "bg": "ужас",
+    "cs": "vyděsit",
+    "da": "forfærdet",
+    "de": "bestürzen",
+    "el": "affright",
+    "es": "afright",
+    "et": "affright",
+    "fi": "affright",
+    "fr": "affolant",
+    "hu": "affright",
+    "id": "ketakutan",
+    "it": "spavento",
+    "ja": "畏怖",
+    "ko": "affright",
+    "lt": "išgąstis",
+    "lv": "pārsteigums",
+    "nb": "forskrekket",
+    "nl": "verbijstering",
+    "pl": "strach",
+    "pt": "afrontar",
+    "ro": "înspăimântare",
+    "ru": "страх",
+    "sk": "zdesenie",
+    "sl": "prestrašiti",
+    "sv": "upprörd",
+    "tr": "affright",
+    "uk": "переляк",
+    "zh": "威吓"
+  },
+  "verses": [
+    "psalms 34:5:5",
+    "proverbs 10:24:0"
+  ]
+}

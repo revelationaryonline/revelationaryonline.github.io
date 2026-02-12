@@ -1,0 +1,42 @@
+{
+  "number": "H5639",
+  "language": "hebrew",
+  "transliteration": "Çᵉthûwr",
+  "pronunciation": "seth-oor'",
+  "definition": "Sethur, an Israelite",
+  "kjvTranslation": "Sethur.",
+  "hebrew": "סְתוּר",
+  "translations": {
+    "bg": "Сетур, израилтянин",
+    "cs": "Setur, Izraelita",
+    "da": "Sethur, en israelit",
+    "de": "Sethur, ein Israelit",
+    "el": "Σεθούρ, Ισραηλίτης",
+    "es": "Sethur, israelita",
+    "et": "Setur, iisraellane",
+    "fi": "Seetur, israelilainen",
+    "fr": "Sethur, Israélite",
+    "hu": "Sethur, izraelita",
+    "id": "Sethur, seorang Israel",
+    "it": "Sethur, un israelita",
+    "ja": "イスラエル人セスール",
+    "ko": "이스라엘인 세투르",
+    "lt": "Setūras, izraelitas",
+    "lv": "Seturs, izraēlietis",
+    "nb": "Sethur, en israelitt",
+    "nl": "Sethur, een Israëliet",
+    "pl": "Setur, Izraelita",
+    "pt": "Sethur, israelita",
+    "ro": "Sethur, un israelit",
+    "ru": "Сетур, израильтянин",
+    "sk": "Setur, Izraelita",
+    "sl": "Setur, Izraelec",
+    "sv": "Sethur, en israelit",
+    "tr": "Sethur, bir İsrailli",
+    "uk": "Сифур, ізраїльтянин",
+    "zh": "以色列人塞图尔"
+  },
+  "verses": [
+    "numbers 13:13:2"
+  ]
+}

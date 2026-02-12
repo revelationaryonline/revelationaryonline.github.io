@@ -1,0 +1,42 @@
+{
+  "number": "H3200",
+  "language": "hebrew",
+  "transliteration": "Yâkîynîy",
+  "pronunciation": "yaw-kee-nee'",
+  "definition": "a Jakinite (collectively) or descendants of Jakin",
+  "kjvTranslation": "Jachinites.",
+  "translations": {
+    "bg": "а Jakinite (колективно) или потомци на Jakin",
+    "cs": "a Jakinite (kolektivně) nebo potomci Jakinů",
+    "da": "en Jakinite (kollektivt) eller efterkommere af Jakin",
+    "de": "ein Jakinite (kollektiv) oder Nachkommen von Jakin",
+    "el": "ένας Jakinite (συλλογικά) ή απόγονοι του Jakin",
+    "es": "a Jakinite (colectivamente) o descendientes de Jakin",
+    "et": "jakinite (kollektiivselt) või Jakinite järeltulijad",
+    "fi": "jakinit (kollektiivisesti) tai Jakinin jälkeläiset",
+    "fr": "un Jakinite (collectivement) ou des descendants de Jakin",
+    "hu": "a jakiniták (együttesen) vagy a jakinok leszármazottai",
+    "id": "orang Jakin (secara kolektif) atau keturunan Jakin",
+    "it": "una Jakinite (collettivamente) o discendenti di Jakin",
+    "ja": "ジャキナイト（総称）またはジャキンの子孫",
+    "ko": "자킨인(총칭) 또는 자킨의 후손",
+    "lt": "jakinite (bendrai) arba Jakin palikuonys",
+    "lv": "jakinite (kopā) vai Jakin pēcteči",
+    "nb": "en Jakinite (kollektivt) eller etterkommere av Jakin",
+    "nl": "een Jakiniet (collectief) of afstammelingen van Jakin",
+    "pl": "jakinitów (łącznie) lub potomków Jakinów",
+    "pt": "um Jakinita (coletivamente) ou descendentes de Jakin",
+    "ro": "un Jakinite (colectiv) sau descendenți ai Jakin",
+    "ru": "джакиниты (коллективно) или потомки джакинов",
+    "sk": "jakiniti (spoločne) alebo potomkovia Jakinov",
+    "sl": "jakiniti (skupaj) ali potomci Jakinov",
+    "sv": "en Jakinite (kollektivt) eller ättlingar till Jakin",
+    "tr": "bir Jakinli (topluca) veya Jakin'in soyundan gelenler",
+    "uk": "якинець (спільно) або нащадок якинів",
+    "zh": "雅京人（集体）或雅京人后裔"
+  },
+  "hebrew": "יָכִינִי",
+  "verses": [
+    "numbers 26:12:11"
+  ]
+}

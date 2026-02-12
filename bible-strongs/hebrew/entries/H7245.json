@@ -1,0 +1,42 @@
+{
+  "number": "H7245",
+  "language": "hebrew",
+  "transliteration": "Rabbîyth",
+  "pronunciation": "rab-beeth'",
+  "definition": "Rabbith, a place in Palestine",
+  "kjvTranslation": "Rabbith.",
+  "hebrew": "רַבִּית",
+  "translations": {
+    "bg": "Rabbith, място в Палестина",
+    "cs": "Rabbith, místo v Palestině",
+    "da": "Rabbith, et sted i Palæstina",
+    "de": "Rabbith, ein Ort in Palästina",
+    "el": "Rabbith, ένας τόπος στην Παλαιστίνη",
+    "es": "Rabbith, un lugar en Palestina",
+    "et": "Rabbith, koht Palestiinas",
+    "fi": "Rabbith, paikka Palestiinassa",
+    "fr": "Rabbith, localité de Palestine",
+    "hu": "Rabbith, egy hely Palesztinában",
+    "id": "Rabbith, sebuah tempat di Palestina",
+    "it": "Rabbith, località della Palestina",
+    "ja": "パレスチナの地名ラビース",
+    "ko": "라비트, 팔레스타인의 한 장소",
+    "lt": "Rabbith, vietovė Palestinoje",
+    "lv": "Rabbith, vieta Palestīnā",
+    "nb": "Rabbith, et sted i Palestina",
+    "nl": "Rabbith, een plaats in Palestina",
+    "pl": "Rabbith, miejscowość w Palestynie",
+    "pt": "Rabbith, um lugar na Palestina",
+    "ro": "Rabbith, un loc în Palestina",
+    "ru": "Раббита, местечко в Палестине",
+    "sk": "Rabbith, miesto v Palestíne",
+    "sl": "Rabbith, kraj v Palestini",
+    "sv": "Rabbith, en plats i Palestina",
+    "tr": "Rabbith, Filistin'de bir yer",
+    "uk": "Раббіт, місце в Палестині",
+    "zh": "拉比斯"
+  },
+  "verses": [
+    "joshua 19:20:0"
+  ]
+}

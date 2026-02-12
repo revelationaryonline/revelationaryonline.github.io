@@ -1,0 +1,42 @@
+{
+  "number": "H7923",
+  "language": "hebrew",
+  "transliteration": "shikkulîym",
+  "pronunciation": "shik-koo-leem'",
+  "definition": "childlessness (by continued bereavements)",
+  "kjvTranslation": "to have after loss of others.",
+  "hebrew": "שִׁכֻּלִים",
+  "translations": {
+    "bg": "бездетност (чрез продължителни разводи)",
+    "cs": "bezdětnost (v důsledku pokračujících ztrát)",
+    "da": "barnløshed (ved fortsatte dødsfald)",
+    "de": "kinderlosigkeit (durch fortgesetzte Trauerfälle)",
+    "el": "ατεκνία (από συνεχή πένθη)",
+    "es": "falta de hijos (por duelos continuados)",
+    "et": "lastetus (jätkuvate kaotuste tõttu)",
+    "fi": "lapsettomuus (jatkuvien surujen vuoksi)",
+    "fr": "l'absence d'enfants (par des deuils continus)",
+    "hu": "gyermektelenség (folytatódó gyászok miatt)",
+    "id": "tidak memiliki anak (karena terus berduka)",
+    "it": "assenza di figli (per lutti continui)",
+    "ja": "こそう",
+    "ko": "자녀가 없는 경우(사별이 계속되는 경우)",
+    "lt": "bevaikystė (dėl nuolatinių netekčių)",
+    "lv": "bezbērnība (pēc ilgstošām apgādnieka zaudējuma attiecībām)",
+    "nb": "barnløshet (ved fortsatte dødsfall)",
+    "nl": "kinderloosheid (door voortdurende sterfgevallen)",
+    "pl": "bezdzietność (przez ciągłe żałoby)",
+    "pt": "ausência de filhos (por luto continuado)",
+    "ro": "lipsa copiilor (prin despărțiri continue)",
+    "ru": "бездетность (при продолжающихся утратах)",
+    "sk": "bezdetnosť (v dôsledku pretrvávajúcej straty)",
+    "sl": "brez otrok (z nadaljevanjem razočaranja)",
+    "sv": "barnlöshet (genom fortsatta avskedanden)",
+    "tr": "çocuksuzluk (devam eden yaslar nedeniyle)",
+    "uk": "бездітність (через постійні втрати)",
+    "zh": "无子女（因持续丧偶）"
+  },
+  "verses": [
+    "isaiah 49:20:4"
+  ]
+}

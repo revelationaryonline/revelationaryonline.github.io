@@ -1,0 +1,42 @@
+{
+  "number": "H5623",
+  "language": "hebrew",
+  "transliteration": "Çargôwn",
+  "pronunciation": "sar-gone'",
+  "definition": "Sargon, an Assyrian king",
+  "kjvTranslation": "Sargon.",
+  "hebrew": "סַרְגּוֹן",
+  "translations": {
+    "bg": "Саргон, асирийски цар",
+    "cs": "Sargon, asyrský král",
+    "da": "Sargon, en assyrisk konge",
+    "de": "Sargon, ein assyrischer König",
+    "el": "Ο Σαργών, ένας Ασσύριος βασιλιάς",
+    "es": "Sargón, un rey asirio",
+    "et": "Assüüria kuningas Sargon",
+    "fi": "Sargon, assyrialainen kuningas",
+    "fr": "Sargon, roi assyrien",
+    "hu": "Sargon, asszír király",
+    "id": "Sargon, seorang raja Asyur",
+    "it": "Sargon, un re assiro",
+    "ja": "アッシリアの王、サルゴン",
+    "ko": "앗수르 왕 사르곤",
+    "lt": "Sargonas, Asirijos karalius",
+    "lv": "Sargons, asīriešu ķēniņš",
+    "nb": "Sargon, en assyrisk konge",
+    "nl": "Sargon, een Assyrische koning",
+    "pl": "Sargon, asyryjski król",
+    "pt": "Sargão, um rei assírio",
+    "ro": "Sargon, un rege asirian",
+    "ru": "Саргон, ассирийский царь",
+    "sk": "Sargon, asýrsky kráľ",
+    "sl": "Sargon, asirski kralj",
+    "sv": "Sargon, en assyrisk kung",
+    "tr": "Sargon, bir Asur kralı",
+    "uk": "Саргон, ассирійський цар",
+    "zh": "亚述国王萨尔贡"
+  },
+  "verses": [
+    "isaiah 20:1:6"
+  ]
+}

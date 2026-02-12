@@ -1,0 +1,43 @@
+{
+  "number": "H3954",
+  "language": "hebrew",
+  "transliteration": "leqesh",
+  "pronunciation": "leh'-kesh",
+  "definition": "the after crop",
+  "kjvTranslation": "latter growth.",
+  "hebrew": "לֶקֶשׁ",
+  "translations": {
+    "bg": "последваща реколта",
+    "cs": "po sklizni",
+    "da": "efterafgrøden",
+    "de": "die Nachfrucht",
+    "el": "η μετακαλλιέργεια",
+    "es": "la cosecha posterior",
+    "et": "järelkasvatus",
+    "fi": "sadonkorjuu",
+    "fr": "l'après-culture",
+    "hu": "az utóvetemény",
+    "id": "setelah panen",
+    "it": "il dopo raccolto",
+    "ja": "後作",
+    "ko": "애프터 크롭",
+    "lt": "po derliaus nuėmimo",
+    "lv": "pēc ražas novākšanas",
+    "nb": "etteravlingen",
+    "nl": "de naoogst",
+    "pl": "po zbiorach",
+    "pt": "a pós-colheita",
+    "ro": "cultura de după",
+    "ru": "после урожая",
+    "sk": "následná úroda",
+    "sl": "naknadni pridelek",
+    "sv": "efterskörden",
+    "tr": "mahsul sonrası",
+    "uk": "післяжнивний врожай",
+    "zh": "后茬"
+  },
+  "verses": [
+    "amos 7:1:9",
+    "amos 7:1:11"
+  ]
+}

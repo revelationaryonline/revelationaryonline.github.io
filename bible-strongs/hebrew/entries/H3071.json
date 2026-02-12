@@ -1,0 +1,42 @@
+{
+  "number": "H3071",
+  "language": "hebrew",
+  "transliteration": "Yᵉhôvâh niççîy",
+  "pronunciation": "yeh-ho-vaw' nis-see'",
+  "definition": "Jehovah-Nissi, a symbolical name of an altar in the Desert",
+  "kjvTranslation": "Jehovah-nissi.",
+  "translations": {
+    "bg": "Йехова-Ниси, символично име на олтар в пустинята",
+    "cs": "Jehova-Nissi, symbolické jméno oltáře v poušti",
+    "da": "Jehova-Nissi, et symbolsk navn på et alter i ørkenen",
+    "de": "Jehovah-Nissi, ein symbolischer Name eines Altars in der Wüste",
+    "el": "Jehovah-Nissi, συμβολικό όνομα ενός βωμού στην έρημο",
+    "es": "Jehová-Nissi, nombre simbólico de un altar en el Desierto",
+    "et": "Jehoova-Nissi, sümboolne nimi kõrbes asuva altari jaoks",
+    "fi": "Jehova-Nissi, erämaassa sijaitsevan alttarin symbolinen nimi",
+    "fr": "Jehovah-Nissi, nom symbolique d'un autel dans le désert",
+    "hu": "Jehova-Nissi, egy oltár szimbolikus neve a sivatagban",
+    "id": "Yehuwa-Nissi, nama simbolis dari sebuah altar di Gurun",
+    "it": "Jehovah-Nissi, nome simbolico di un altare nel deserto",
+    "ja": "エホバ＝ニシ、砂漠にある祭壇の象徴的な名前",
+    "ko": "사막의 제단을 상징하는 이름, 여호와-닛시",
+    "lt": "Jehova-Nissi - simbolinis dykumos aukuro pavadinimas",
+    "lv": "Jehova-Nisī, simbolisks altāra nosaukums tuksnesī",
+    "nb": "Jehova-Nissi, et symbolsk navn på et alter i ørkenen",
+    "nl": "Jehovah-Nissi, een symbolische naam van een altaar in de Woestijn",
+    "pl": "Jehowa-Nissi, symboliczna nazwa ołtarza na pustyni",
+    "pt": "Jeová-Nissi, nome simbólico de um altar no deserto",
+    "ro": "Iehova-Nissi, un nume simbolic al unui altar din deșert",
+    "ru": "Иегова-Нисси, символическое название жертвенника в пустыне",
+    "sk": "Jehova-Nissi, symbolický názov oltára v púšti",
+    "sl": "Jehova-Nissi, simbolično ime oltarja v puščavi",
+    "sv": "Jehovah-Nissi, ett symboliskt namn på ett altare i öknen",
+    "tr": "Yehova-Nissi, Çöl'deki bir sunağın sembolik adı",
+    "uk": "Єгова-Ніссі, символічна назва жертовника в пустелі",
+    "zh": "耶和华尼西"
+  },
+  "hebrew": "יְהֹוָה נִסִּי",
+  "verses": [
+    "exodus 17:15:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5979",
+  "language": "hebrew",
+  "transliteration": "ʻemdâh",
+  "pronunciation": "em-daw'",
+  "definition": "a station, i.e. domicile",
+  "kjvTranslation": "standing.",
+  "hebrew": "עֶמְדָּה",
+  "translations": {
+    "bg": "станция, т.е. местоживеене",
+    "cs": "stanice, tj. bydliště",
+    "da": "en station, dvs. en bopæl",
+    "de": "eine Station, d.h. ein Wohnsitz",
+    "el": "σταθμός, δηλαδή κατοικία",
+    "es": "una estación, es decir, un domicilio",
+    "et": "jaam, s.t. elukoht",
+    "fi": "asema eli kotipaikka",
+    "fr": "une station, c'est-à-dire un domicile",
+    "hu": "egy állomás, azaz lakóhely",
+    "id": "stasiun, yaitu domisili",
+    "it": "una stazione, cioè un domicilio",
+    "ja": "駅、すなわち住所",
+    "ko": "역, 즉 거주지",
+    "lt": "stotis, t. y. gyvenamoji vieta",
+    "lv": "stacija, t. i., dzīvesvieta",
+    "nb": "en stasjon, dvs. et bosted",
+    "nl": "een station, d.w.z. woonplaats",
+    "pl": "stacja, tj. miejsce zamieszkania",
+    "pt": "uma estação, ou seja, um domicílio",
+    "ro": "o stație, adică domiciliu",
+    "ru": "станция, т.е. место жительства",
+    "sk": "stanica, t. j. bydlisko",
+    "sl": "postaja, tj. domicil",
+    "sv": "en station, d.v.s. hemvist",
+    "tr": "bir istasyon, yani ikametgah",
+    "uk": "станція, тобто місце проживання",
+    "zh": "籍贯"
+  },
+  "verses": [
+    "micah 1:11:15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4044",
+  "language": "hebrew",
+  "transliteration": "mᵉginnâh",
+  "pronunciation": "meg-in-naw'",
+  "definition": "a covering (in a bad sense), i.e. blindness or obduracy",
+  "kjvTranslation": "sorrow. See also H4043 (מָגֵן).",
+  "hebrew": "מְגִנָּה",
+  "translations": {
+    "bg": "покритие (в лош смисъл), т.е. слепота или твърдоглавие",
+    "cs": "zástěrka (ve špatném slova smyslu), tj. slepota nebo zatvrzelost",
+    "da": "en tildækning (i dårlig forstand), dvs. blindhed eller forstokkethed",
+    "de": "eine Abdeckung (im schlechten Sinne), d.h. Blindheit oder Verstocktheit",
+    "el": "κάλυψη (με την κακή έννοια), δηλαδή τύφλωση ή δυστροπία",
+    "es": "una cubierta (en el mal sentido), es decir, ceguera u obcecación",
+    "et": "katmine (halvas mõttes), st pimedus või umbusklikkus",
+    "fi": "peittäminen (huonossa merkityksessä), eli sokeus tai umpimielisyys",
+    "fr": "une couverture (dans le mauvais sens du terme), c'est-à-dire l'aveuglement ou l'obstination",
+    "hu": "takarás (rossz értelemben), azaz vakság vagy makacsság",
+    "id": "penutup (dalam arti yang buruk), yaitu kebutaan atau ketaatan",
+    "it": "una copertura (in senso negativo), cioè cecità o ostinazione",
+    "ja": "もう",
+    "ko": "(나쁜 의미의) 가림, 즉 실명 또는 난독증",
+    "lt": "uždanga (blogąja prasme), t. y. aklumas arba klusnumas",
+    "lv": "aizsegs (sliktā nozīmē), t.i., aklums vai stūrgalvība",
+    "nb": "en tildekking (i dårlig forstand), dvs. blindhet eller forstokkethet",
+    "nl": "een bedekking (in slechte zin), d.w.z. blindheid of koppigheid",
+    "pl": "zakrycie (w złym znaczeniu), tj. ślepota lub upór",
+    "pt": "uma cobertura (no mau sentido), ou seja, cegueira ou obstinação",
+    "ro": "o acoperire (în sens negativ), adică orbire sau obtuzitate",
+    "ru": "покров (в плохом смысле), т.е. слепота или чёрствость",
+    "sk": "krytie (v zlom zmysle), t. j. slepota alebo zatvrdlivosť",
+    "sl": "pokrov (v slabem pomenu), tj. slepota ali trma",
+    "sv": "ett skydd (i dålig bemärkelse), dvs. blindhet eller envishet",
+    "tr": "bir örtü (kötü anlamda), yani körlük veya inatçılık",
+    "uk": "прикриття (в поганому сенсі), тобто сліпота або непокірність",
+    "zh": "障眼法"
+  },
+  "verses": [
+    "lamentations 3:65:2"
+  ]
+}

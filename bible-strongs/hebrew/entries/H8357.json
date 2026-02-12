@@ -1,0 +1,43 @@
+{
+  "number": "H8357",
+  "language": "hebrew",
+  "transliteration": "shêthâh",
+  "pronunciation": "shay-thaw'",
+  "definition": "the seat (of the person)",
+  "kjvTranslation": "buttock.",
+  "hebrew": "שֵׁתָה",
+  "translations": {
+    "bg": "мястото (на лицето)",
+    "cs": "sídlo (osoby)",
+    "da": "sædet (af personen)",
+    "de": "der Sitz (der Person)",
+    "el": "η έδρα (του ατόμου)",
+    "es": "el asiento (de la persona)",
+    "et": "(isiku) asukoht",
+    "fi": "(henkilön) istuin",
+    "fr": "le siège (de la personne)",
+    "hu": "az ülés (a személy)",
+    "id": "tempat duduk (orang tersebut)",
+    "it": "la sede (della persona)",
+    "ja": "ざ",
+    "ko": "(그 사람의) 좌석",
+    "lt": "vieta (asmens)",
+    "lv": "sēdeklis (personas)",
+    "nb": "setet (til personen)",
+    "nl": "de zetel (van de persoon)",
+    "pl": "siedziba (osoby)",
+    "pt": "a sede (da pessoa)",
+    "ro": "locul (persoanei)",
+    "ru": "место (человека)",
+    "sk": "sídlo (osoby)",
+    "sl": "sedež (osebe)",
+    "sv": "sätet (på personen)",
+    "tr": "(kişinin) koltuğu",
+    "uk": "місце (особи)",
+    "zh": "座位"
+  },
+  "verses": [
+    "secondSamuel 10:4:14",
+    "isaiah 20:4:15"
+  ]
+}

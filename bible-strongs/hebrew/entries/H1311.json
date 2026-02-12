@@ -1,0 +1,43 @@
+{
+  "number": "H1311",
+  "language": "hebrew",
+  "transliteration": "bâshêl",
+  "pronunciation": "baw-shale'",
+  "definition": "boiled",
+  "kjvTranslation": "[idiom] at all, sodden.",
+  "translations": {
+    "bg": "варени",
+    "cs": "vařené",
+    "da": "kogt",
+    "de": "gekocht",
+    "el": "βρασμένο",
+    "es": "hervido",
+    "et": "keedetud",
+    "fi": "keitetty",
+    "fr": "bouillie",
+    "hu": "főtt",
+    "id": "direbus",
+    "it": "bollito",
+    "ja": "ボイルド",
+    "ko": "삶은",
+    "lt": "virtas",
+    "lv": "vārīti",
+    "nb": "kokt",
+    "nl": "gekookt",
+    "pl": "gotowany",
+    "pt": "cozido",
+    "ro": "fiert",
+    "ru": "варёный",
+    "sk": "varené",
+    "sl": "kuhano",
+    "sv": "kokt",
+    "tr": "haşlanmış",
+    "uk": "кип'яченим",
+    "zh": "沸腾"
+  },
+  "hebrew": "בָּשֵׁל",
+  "verses": [
+    "exodus 12:9:4",
+    "numbers 6:19:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7209",
+  "language": "hebrew",
+  "transliteration": "rᵉʼîy",
+  "pronunciation": "reh-ee'",
+  "definition": "a mirror (as seen)",
+  "kjvTranslation": "looking glass.",
+  "hebrew": "רְאִי",
+  "translations": {
+    "bg": "огледало (както се вижда)",
+    "cs": "zrcadlo (jak je vidět)",
+    "da": "et spejl (som set)",
+    "de": "ein Spiegel (wie gesehen)",
+    "el": "έναν καθρέφτη (όπως φαίνεται)",
+    "es": "un espejo (como se ve)",
+    "et": "peegel (nagu näha)",
+    "fi": "peili (sellaisena kuin se on nähty)",
+    "fr": "un miroir (tel que vu)",
+    "hu": "tükör (ahogyan látható)",
+    "id": "cermin (seperti yang terlihat)",
+    "it": "uno specchio (come si vede)",
+    "ja": "鏡",
+    "ko": "거울(보이는 대로)",
+    "lt": "veidrodis (toks, koks matomas)",
+    "lv": "spogulis (kā redzams)",
+    "nb": "et speil (som sett)",
+    "nl": "een spiegel (gezien)",
+    "pl": "lustro (jak widać)",
+    "pt": "um espelho (como se vê)",
+    "ro": "o oglindă (așa cum se vede)",
+    "ru": "зеркало (как видно)",
+    "sk": "zrkadlo (ako je vidieť)",
+    "sl": "ogledalo (kot ga vidimo)",
+    "sv": "en spegel (som man ser)",
+    "tr": "bir ayna (görüldüğü gibi)",
+    "uk": "дзеркало (як видно)",
+    "zh": "镜面"
+  },
+  "verses": [
+    "job 37:18:4"
+  ]
+}

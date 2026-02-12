@@ -1,0 +1,42 @@
+{
+  "number": "H5112",
+  "language": "hebrew",
+  "transliteration": "nôwd",
+  "pronunciation": "node",
+  "definition": "exile",
+  "kjvTranslation": "wandering.",
+  "hebrew": "נוֹד",
+  "translations": {
+    "bg": "изгнание",
+    "cs": "exil",
+    "da": "eksil",
+    "de": "exil",
+    "el": "εξορία",
+    "es": "exilio",
+    "et": "pagendus",
+    "fi": "exile",
+    "fr": "exil",
+    "hu": "száműzetés",
+    "id": "pengasingan",
+    "it": "esilio",
+    "ja": "追放",
+    "ko": "망명",
+    "lt": "tremtis",
+    "lv": "trimda",
+    "nb": "eksil",
+    "nl": "ballingschap",
+    "pl": "wygnanie",
+    "pt": "exílio",
+    "ro": "exil",
+    "ru": "изгнание",
+    "sk": "exil",
+    "sl": "izgnanstvo",
+    "sv": "exil",
+    "tr": "sÜRGÜN",
+    "uk": "вигнання",
+    "zh": "流亡"
+  },
+  "verses": [
+    "psalms 56:9:0"
+  ]
+}

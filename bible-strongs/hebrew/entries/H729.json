@@ -1,0 +1,42 @@
+{
+  "number": "H729",
+  "language": "hebrew",
+  "transliteration": "ʼâraz",
+  "pronunciation": "aw-raz'",
+  "definition": "of cedar",
+  "kjvTranslation": "made of cedar.",
+  "translations": {
+    "bg": "от кедър",
+    "cs": "cedru",
+    "da": "af cedertræ",
+    "de": "aus Zedernholz",
+    "el": "από κέδρο",
+    "es": "de cedro",
+    "et": "seeder",
+    "fi": "setri",
+    "fr": "de cèdre",
+    "hu": "cédrusfa",
+    "id": "dari cedar",
+    "it": "di cedro",
+    "ja": "杉の",
+    "ko": "삼나무",
+    "lt": "kedro",
+    "lv": "no ciedra",
+    "nb": "av sedertre",
+    "nl": "van cederhout",
+    "pl": "cedru",
+    "pt": "de cedro",
+    "ro": "de cedru",
+    "ru": "кедр",
+    "sk": "z cédra",
+    "sl": "cedre",
+    "sv": "av cederträ",
+    "tr": "sedir",
+    "uk": "з кедра",
+    "zh": "雪松的"
+  },
+  "hebrew": "אָרַז",
+  "verses": [
+    "ezekiel 27:24:10"
+  ]
+}

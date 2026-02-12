@@ -1,0 +1,43 @@
+{
+  "number": "H8143",
+  "language": "hebrew",
+  "transliteration": "shenhabbîym",
+  "pronunciation": "shen-hab-beem'",
+  "definition": "probably, tooth of elephants, i.e. ivory tusk",
+  "kjvTranslation": "ivory.",
+  "hebrew": "שֶׁנְהַבִּים",
+  "translations": {
+    "bg": "вероятно зъб на слон, т.е. бивна от слонова кост",
+    "cs": "pravděpodobně sloní zub, tj. sloní kel",
+    "da": "sandsynligvis en elefanttand, dvs. en stødtand af elfenben",
+    "de": "wahrscheinlich, Elefantenzahn, d.h. Elfenbeinstoßzahn",
+    "el": "πιθανότατα, δόντι ελέφαντα, δηλαδή χαυλιόδοντας από ελεφαντόδοντο",
+    "es": "probablemente, diente de elefante, es decir, colmillo de marfil",
+    "et": "tõenäoliselt elevandihammas, st elevandiluust hambad",
+    "fi": "luultavasti norsunhammas, eli norsunluun keihäs",
+    "fr": "probablement, dent d'éléphant, c'est-à-dire défense en ivoire",
+    "hu": "valószínűleg elefántok foga, azaz elefántcsont agyar",
+    "id": "mungkin, gigi gajah, yaitu gading gajah",
+    "it": "probabilmente, dente di elefante, cioè zanna d'avorio",
+    "ja": "象牙の歯",
+    "ko": "아마도 코끼리의 이빨, 즉 상아 엄니 일 것입니다",
+    "lt": "tikriausiai dramblio dantis, t. y. dramblio kaulo iltis",
+    "lv": "iespējams, ziloņu zobs, t.i., ziloņkaula ilknis",
+    "nb": "sannsynligvis elefanttann, dvs. elfenbenstann",
+    "nl": "waarschijnlijk olifantentand, d.w.z. ivoren slagtand",
+    "pl": "prawdopodobnie ząb słonia, tj. kość słoniowa",
+    "pt": "provavelmente, dente de elefante, ou seja, presa de marfim",
+    "ro": "probabil, dinte de elefant, adică colț de fildeș",
+    "ru": "вероятно, зуб слонов, т.е. бивень из слоновой кости",
+    "sk": "pravdepodobne sloní zub, t. j. sloní kel",
+    "sl": "verjetno, slonov zob, tj. slonov kljun",
+    "sv": "troligen, tand av elefant, dvs. betar av elfenben",
+    "tr": "muhtemelen fil dişi, yani fildişi diş",
+    "uk": "ймовірно, зуб слона, тобто бивень зі слонової кістки",
+    "zh": "象牙"
+  },
+  "verses": [
+    "firstKings 10:22:17",
+    "secondChronicles 9:21:17"
+  ]
+}

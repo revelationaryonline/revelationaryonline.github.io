@@ -1,0 +1,42 @@
+{
+  "number": "H1972",
+  "language": "hebrew",
+  "transliteration": "hâlâʼ",
+  "pronunciation": "haw-law'",
+  "definition": "to remove or be remote",
+  "kjvTranslation": "cast far off.",
+  "translations": {
+    "bg": "да се отстрани или да се отдалечи",
+    "cs": "odstranit nebo být vzdálen",
+    "da": "at fjerne eller være fjern",
+    "de": "zu entfernen oder entfernt zu sein",
+    "el": "να απομακρυνθεί ή να απομακρυνθεί",
+    "es": "alejarse o ser alejado",
+    "et": "eemaldada või olla eemal",
+    "fi": "poistaa tai olla kaukana",
+    "fr": "s'éloigner ou être éloigné",
+    "hu": "eltávolítani vagy eltávolítani",
+    "id": "untuk menghapus atau menjadi jauh",
+    "it": "rimuovere o allontanare",
+    "ja": "を取り外すか、または遠隔にする",
+    "ko": "를 제거하거나 원격으로",
+    "lt": "pašalinti arba būti nutolusiam",
+    "lv": "noņemt vai attālināt",
+    "nb": "å fjerne eller være fjern",
+    "nl": "verwijderen of ver weg zijn",
+    "pl": "usunięcie lub oddalenie",
+    "pt": "remover ou ser afastado",
+    "ro": "a îndepărta sau a fi îndepărtat",
+    "ru": "удаляться или быть удаленным",
+    "sk": "odstrániť alebo byť vzdialený",
+    "sl": "odstraniti ali biti oddaljen",
+    "sv": "att avlägsna eller vara avlägsen",
+    "tr": "uzaklaştırmak veya uzak olmak",
+    "uk": "видалити або бути віддаленим",
+    "zh": "遐"
+  },
+  "hebrew": "הָלָא",
+  "verses": [
+    "micah 4:7:4"
+  ]
+}

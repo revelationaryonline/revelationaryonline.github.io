@@ -1,0 +1,42 @@
+{
+  "number": "H6039",
+  "language": "hebrew",
+  "transliteration": "ʻĕnûwth",
+  "pronunciation": "en-ooth'",
+  "definition": "affliction",
+  "kjvTranslation": "affliction.",
+  "hebrew": "עֱנוּת",
+  "translations": {
+    "bg": "страдание",
+    "cs": "postižení",
+    "da": "lidelse",
+    "de": "bedrängnis",
+    "el": "θλίψη",
+    "es": "aflicción",
+    "et": "kannatused",
+    "fi": "kärsimys",
+    "fr": "malheur",
+    "hu": "nyomorúság",
+    "id": "penderitaan",
+    "it": "afflizione",
+    "ja": "罹災",
+    "ko": "고통",
+    "lt": "kančia",
+    "lv": "nelaime",
+    "nb": "lidelse",
+    "nl": "aandoening",
+    "pl": "dolegliwość",
+    "pt": "aflição",
+    "ro": "suferință",
+    "ru": "недуг",
+    "sk": "postihnutie",
+    "sl": "prizadetost",
+    "sv": "lidande",
+    "tr": "ızdırap",
+    "uk": "страждання",
+    "zh": "闵凶"
+  },
+  "verses": [
+    "psalms 22:25:5"
+  ]
+}

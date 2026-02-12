@@ -1,0 +1,43 @@
+{
+  "number": "H5779",
+  "language": "hebrew",
+  "transliteration": "ʻûwts",
+  "pronunciation": "oots",
+  "definition": "to consult",
+  "kjvTranslation": "take advice ((counsel) together).",
+  "hebrew": "עוּץ",
+  "translations": {
+    "bg": "да се консултирате",
+    "cs": "konzultovat",
+    "da": "at konsultere",
+    "de": "zu konsultieren",
+    "el": "να συμβουλευτείτε",
+    "es": "consultar",
+    "et": "konsulteerida",
+    "fi": "neuvotella",
+    "fr": "consulter",
+    "hu": "konzultálni",
+    "id": "untuk berkonsultasi",
+    "it": "per consultare",
+    "ja": "相談する",
+    "ko": "상담하려면",
+    "lt": "konsultuotis",
+    "lv": "konsultēties",
+    "nb": "for å konsultere",
+    "nl": "raadplegen",
+    "pl": "konsultować się",
+    "pt": "para consultar",
+    "ro": "pentru a consulta",
+    "ru": "консультироваться",
+    "sk": "konzultovať",
+    "sl": "se posvetovati",
+    "sv": "att konsultera",
+    "tr": "danışmak için",
+    "uk": "проконсультуватися",
+    "zh": "咨询"
+  },
+  "verses": [
+    "judges 19:30:21",
+    "isaiah 8:10:0"
+  ]
+}

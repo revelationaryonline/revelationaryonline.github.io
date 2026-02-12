@@ -1,0 +1,42 @@
+{
+  "number": "H5083",
+  "language": "hebrew",
+  "transliteration": "nâdân",
+  "pronunciation": "naw-dawn'",
+  "definition": "a present (for prostitution)",
+  "kjvTranslation": "gift.",
+  "hebrew": "נָדָן",
+  "translations": {
+    "bg": "подарък (за проституция)",
+    "cs": "dárek (za prostituci)",
+    "da": "en gave (til prostitution)",
+    "de": "ein Geschenk (für Prostitution)",
+    "el": "ένα δώρο (για πορνεία)",
+    "es": "un regalo (por prostitución)",
+    "et": "kingitus (prostitutsiooniks)",
+    "fi": "lahja (prostituutiota varten)",
+    "fr": "un cadeau (pour la prostitution)",
+    "hu": "ajándék (prostitúcióra)",
+    "id": "hadiah (untuk prostitusi)",
+    "it": "un regalo (per la prostituzione)",
+    "ja": "引き物",
+    "ko": "선물(매춘용)",
+    "lt": "dovana (už prostituciją)",
+    "lv": "dāvana (par prostitūciju)",
+    "nb": "en gave (til prostitusjon)",
+    "nl": "een cadeautje (voor prostitutie)",
+    "pl": "prezent (za prostytucję)",
+    "pt": "um presente (para prostituição)",
+    "ro": "un cadou (pentru prostituție)",
+    "ru": "подарок (за проституцию)",
+    "sk": "darček (za prostitúciu)",
+    "sl": "darilo (za prostitucijo)",
+    "sv": "en present (för prostitution)",
+    "tr": "bir hediye (fuhuş için)",
+    "uk": "подарунок (за проституцію)",
+    "zh": "嫖资"
+  },
+  "verses": [
+    "ezekiel 16:33:7"
+  ]
+}

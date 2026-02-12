@@ -1,0 +1,43 @@
+{
+  "number": "H5313",
+  "language": "hebrew",
+  "transliteration": "niphqâʼ",
+  "pronunciation": "nif-kaw'",
+  "definition": "an outgo, i.e. expense",
+  "kjvTranslation": "expense.",
+  "hebrew": "נִפְקָא",
+  "translations": {
+    "bg": "изходящ разход, т.е. разход",
+    "cs": "výdaje, tj. náklady",
+    "da": "et udlæg, dvs. en udgift",
+    "de": "eine Ausgabe, d.h. ein Aufwand",
+    "el": "ένα έξοδο, δηλαδή δαπάνη",
+    "es": "una salida, es decir, un gasto",
+    "et": "väljaminek, st kulu",
+    "fi": "meno eli menoerä",
+    "fr": "une sortie, c'est-à-dire une dépense",
+    "hu": "kiadás, azaz kiadás",
+    "id": "pengeluaran, yaitu biaya",
+    "it": "un'uscita, cioè una spesa",
+    "ja": "支出",
+    "ko": "지출, 즉 비용",
+    "lt": "išlaidos, t. y. sąnaudos",
+    "lv": "izdevumi, t. i., izdevumi",
+    "nb": "en utgift, dvs. en kostnad",
+    "nl": "een uitgave, d.w.z. kosten",
+    "pl": "rozchód, tj. wydatek",
+    "pt": "um gasto, ou seja, uma despesa",
+    "ro": "un outgo, adică o cheltuială",
+    "ru": "расходы, т.е. затраты",
+    "sk": "výdavok, t. j. náklad",
+    "sl": "odhodek, tj. izdatek",
+    "sv": "ett utlägg, dvs. en kostnad",
+    "tr": "bir gider, yani masraf",
+    "uk": "вихід, тобто витрати",
+    "zh": "支出，即费用"
+  },
+  "verses": [
+    "ezra 6:4:9",
+    "ezra 6:8:21"
+  ]
+}

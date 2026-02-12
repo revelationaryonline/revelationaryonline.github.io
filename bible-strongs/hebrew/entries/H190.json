@@ -1,0 +1,42 @@
+{
+  "number": "H190",
+  "language": "hebrew",
+  "transliteration": "ʼôwyâh",
+  "pronunciation": "o-yaw'",
+  "definition": "{lamentation; also interjectionally Oh!}",
+  "kjvTranslation": "woe.",
+  "translations": {
+    "bg": "{ламентация; също и междуметията Oh!}",
+    "cs": "{lamentace; také interjekčně Oh!}",
+    "da": "{lamentation; også interjektionelt Oh!}",
+    "de": "{Lamentation; auch interjektionell Oh! }",
+    "el": "{κοινοβουλευτισμός- επίσης, διακειμενικά Ω! }",
+    "es": "{lamentación; también interjección ¡Oh!}",
+    "et": "{laulatus; ka interjektiivselt Oh!}",
+    "fi": "{keskustelu; myös interjektiivisesti Oh!}",
+    "fr": "{lamentation ; aussi par interjection Oh!}",
+    "hu": "{nyilatkozat; közbeszólásként is: Oh!}",
+    "id": "{lamentation; juga interjeksi Oh!}",
+    "it": "{lamentazione; anche interiezione Oh!}",
+    "ja": "{嘆き。｝",
+    "ko": "{애도; 또한 감탄사 오!}",
+    "lt": "{lamentacija; taip pat tarmiškai Oh!}",
+    "lv": "{lamentācija; arī interjekcionāli Oh!}",
+    "nb": "{lamentasjon; også interjeksjonelt Oh!}",
+    "nl": "{lamentatie; ook interjectief Oh!}",
+    "pl": "{lamentacja; również wtrącenie Oh!}",
+    "pt": "{lamentação; também interjeição Oh!}",
+    "ro": "{lamentare; de asemenea, interjecțional Oh!}",
+    "ru": "{ламентация; также междометие О!}",
+    "sk": "{lamentácia; tiež interjekčne Oh!}",
+    "sl": "{lamentacija; tudi interjekcijsko Oh!}",
+    "sv": "{lamentation; även interjektionellt Oh!}",
+    "tr": "{lamentation; also interjectionally Oh!}",
+    "uk": "{плач; також вигук Ох!}",
+    "zh": "{感叹词；也可叹词哦！}"
+  },
+  "hebrew": "אוֹיָה",
+  "verses": [
+    "psalms 120:5:0"
+  ]
+}

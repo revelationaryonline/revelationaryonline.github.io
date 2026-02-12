@@ -1,0 +1,43 @@
+{
+  "number": "H7351",
+  "language": "hebrew",
+  "transliteration": "rᵉchîyṭ",
+  "pronunciation": "rekh-eet'",
+  "definition": "a panel (as resembling a trough)",
+  "kjvTranslation": "rafter.",
+  "hebrew": "רְחִיט",
+  "translations": {
+    "bg": "панел (наподобяващ корито)",
+    "cs": "panel (připomínající koryto)",
+    "da": "et panel (som ligner et trug)",
+    "de": "eine Platte (ähnlich einem Trog)",
+    "el": "ένα πάνελ (που μοιάζει με γούρνα)",
+    "es": "un panel (en forma de artesa)",
+    "et": "paneel (nagu kraavi sarnane)",
+    "fi": "paneeli (kaukaloa muistuttava)",
+    "fr": "un panneau (ressemblant à une auge)",
+    "hu": "panel (mint vályúhoz hasonló)",
+    "id": "sebuah panel (seperti menyerupai palung)",
+    "it": "un pannello (simile a un abbeveratoio)",
+    "ja": "樋板",
+    "ko": "패널(물마루와 유사한 모양)",
+    "lt": "plokštė (panaši į lovį)",
+    "lv": "panelis (līdzīgs silei)",
+    "nb": "et panel (som ligner et trau)",
+    "nl": "een paneel (als een trog)",
+    "pl": "panel (przypominający koryto)",
+    "pt": "um painel (que se assemelha a uma calha)",
+    "ro": "un panou (asemănător unei jgheaburi)",
+    "ru": "панель (напоминающая корыто)",
+    "sk": "panel (pripomínajúci koryto)",
+    "sl": "plošča (podobna koritu)",
+    "sv": "en panel (som liknar ett tråg)",
+    "tr": "bir panel (bir çukura benzeyen)",
+    "uk": "панель (що нагадує корито)",
+    "zh": "面板"
+  },
+  "verses": [
+    "solomon 1:17:3",
+    "solomon 1:17:4"
+  ]
+}

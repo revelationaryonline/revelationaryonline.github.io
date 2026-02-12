@@ -1,0 +1,42 @@
+{
+  "number": "H6897",
+  "language": "hebrew",
+  "transliteration": "qôbâh",
+  "pronunciation": "ko'-baw",
+  "definition": "the abdomen (as a cavity)",
+  "kjvTranslation": "belly.",
+  "hebrew": "קֹבָה",
+  "translations": {
+    "bg": "коремът (като кухина)",
+    "cs": "břicho (jako dutina)",
+    "da": "maven (som et hulrum)",
+    "de": "der Unterleib (als Hohlraum)",
+    "el": "η κοιλιά (ως κοιλότητα)",
+    "es": "el abdomen (como cavidad)",
+    "et": "kõht (kui õõnsus)",
+    "fi": "vatsa (ontelona)",
+    "fr": "l'abdomen (en tant que cavité)",
+    "hu": "a hasüreg (mint üreg)",
+    "id": "perut (sebagai rongga)",
+    "it": "l'addome (come cavità)",
+    "ja": "腹部",
+    "ko": "복부(구멍으로서의 복부)",
+    "lt": "pilvas (kaip ertmė)",
+    "lv": "vēders (kā dobums)",
+    "nb": "buken (som et hulrom)",
+    "nl": "de buik (als holte)",
+    "pl": "brzuch (jako jama)",
+    "pt": "o abdómen (como uma cavidade)",
+    "ro": "abdomenul (ca o cavitate)",
+    "ru": "брюшная полость (как полость)",
+    "sk": "brucho (ako dutina)",
+    "sl": "trebuh (kot votlina)",
+    "sv": "buken (som ett hålrum)",
+    "tr": "karın (bir boşluk olarak)",
+    "uk": "живіт (як порожнина)",
+    "zh": "腹腔"
+  },
+  "verses": [
+    "numbers 25:8:15"
+  ]
+}

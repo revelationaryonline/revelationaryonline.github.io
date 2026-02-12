@@ -1,0 +1,43 @@
+{
+  "number": "H4893",
+  "language": "hebrew",
+  "transliteration": "mishchâth",
+  "pronunciation": "mish-khawth'",
+  "definition": "disfigurement",
+  "kjvTranslation": "corruption, marred.",
+  "hebrew": "מִשְׁחָת",
+  "translations": {
+    "bg": "обезобразяване",
+    "cs": "znetvoření",
+    "da": "vansiring",
+    "de": "verunstaltung",
+    "el": "παραμόρφωση",
+    "es": "desfiguración",
+    "et": "moonutamine",
+    "fi": "epämuodostuma",
+    "fr": "défiguration",
+    "hu": "eltorzulás",
+    "id": "kerusakan",
+    "it": "deturpazione",
+    "ja": "醜形",
+    "ko": "변형",
+    "lt": "subjaurojimas",
+    "lv": "izkropļojumi",
+    "nb": "vansiring",
+    "nl": "misvorming",
+    "pl": "oszpecenie",
+    "pt": "desfiguração",
+    "ro": "desfigurare",
+    "ru": "обезображивание",
+    "sk": "znetvorenie",
+    "sl": "iznakaženost",
+    "sv": "vanställdhet",
+    "tr": "şekil bozukluğu",
+    "uk": "каліцтво",
+    "zh": "毁容"
+  },
+  "verses": [
+    "leviticus 22:25:11",
+    "isaiah 52:14:5"
+  ]
+}

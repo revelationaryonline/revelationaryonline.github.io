@@ -1,0 +1,43 @@
+{
+  "number": "H3858",
+  "language": "hebrew",
+  "transliteration": "lahaṭ",
+  "pronunciation": "lah'-hat",
+  "definition": "a blaze; also (from the idea of enwrapping) magic (as covert)",
+  "kjvTranslation": "flaming, enchantment.",
+  "hebrew": "לַהַט",
+  "translations": {
+    "bg": "пламък; също (от идеята за обвиване) магия (като скрита)",
+    "cs": "plamen; také (od myšlenky ovíjení) magie (jako skryté)",
+    "da": "en flamme; også (fra ideen om indpakning) magi (som skjult)",
+    "de": "ein Feuer; auch (von der Idee der Einhüllung) Magie (als verdeckte)",
+    "el": "φλόγα, επίσης (από την ιδέα του περιτυλίγματος) μαγεία (ως κρυφή)",
+    "es": "una llamarada; también (de la idea de envolver) magia (como encubierta)",
+    "et": "leek; ka (ümbermähkimise ideest) maagia (kui varjatud)",
+    "fi": "leimahdus; myös (kietoutumisen ideasta) taikuus (kätkettynä)",
+    "fr": "un embrasement ; aussi (de l'idée d'enveloppement) de la magie (en tant que dissimulation)",
+    "hu": "lángolás; továbbá (a beburkolás gondolatából) mágia (mint rejtőzködés)",
+    "id": "kobaran api; juga (dari ide membungkus) sihir (sebagai rahasia)",
+    "it": "una fiammata; anche (dall'idea di avvolgimento) magia (come copertura)",
+    "ja": "炎；また（包み込むという発想から）魔法（隠蔽として）",
+    "ko": "불꽃; 또한 (감싸는 개념에서) 마법 (은밀한 것으로)",
+    "lt": "liepsna; taip pat (iš idėjos apgaubti) magija (kaip paslėpta)",
+    "lv": "liesma; arī (no apvijuma jēdziena) maģija (kā slēpta)",
+    "nb": "en flamme; også (fra ideen om innpakning) magi (som skjult)",
+    "nl": "een vuurzee; ook (van het idee van omhullen) magie (als heimelijk)",
+    "pl": "płomień; także (od idei owijania) magia (jako ukryta)",
+    "pt": "uma chama; também (da ideia de envolver) magia (como encoberta)",
+    "ro": "o flacără; de asemenea (din ideea de înfășurare) magie (ca acoperire)",
+    "ru": "пылать; также (от идеи окутывания) магия (как приворот)",
+    "sk": "plameň; tiež (od myšlienky zahaľovania) mágia (ako skryté)",
+    "sl": "plamen; tudi (iz ideje o ovoju) magija (kot prikrita)",
+    "sv": "en flamma; även (från idén om att omsluta) magi (som dold)",
+    "tr": "bir alev; ayrıca (sarma fikrinden) büyü (gizli olarak)",
+    "uk": "полум'я; також (від ідеї огортання) магія (як прихована)",
+    "zh": "炽热；也指（从 \"包裹 \"的意思）魔法（作为隐蔽）"
+  },
+  "verses": [
+    "genesis 3:24:10",
+    "exodus 7:11:10"
+  ]
+}

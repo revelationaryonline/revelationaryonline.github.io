@@ -1,0 +1,42 @@
+{
+  "number": "H3799",
+  "language": "hebrew",
+  "transliteration": "kâtham",
+  "pronunciation": "kaw-tham'",
+  "definition": "properly, to carve or engrave, i.e. (by implication) to inscribe indelibly",
+  "kjvTranslation": "mark.",
+  "hebrew": "כָּתַם",
+  "translations": {
+    "bg": "правилно, да се издълбае или гравира, т.е. (по подразбиране) да се впише неизличимо",
+    "cs": "správně, vyrýt nebo vyrýt, tj. (implicitně) nesmazatelně vepsat",
+    "da": "korrekt, at skære eller indgravere, dvs. (underforstået) at indskrive uudsletteligt",
+    "de": "richtig: einritzen oder gravieren, d.h. (implizit) unauslöschlich einschreiben",
+    "el": "σωστά, να χαράζω ή να χαράζω, δηλ. (κατ' επέκταση) να γράφω ανεξίτηλα",
+    "es": "propiamente, tallar o grabar, es decir (implícitamente) inscribir de forma indeleble",
+    "et": "õigesti, raiuda või graveerida, st (kaudselt) kustutamatult sisse kirjutada",
+    "fi": "oikein, kaivertaa tai kaivertaa, eli (implisiittisesti) kirjoittaa pysyvästi",
+    "fr": "proprement, graver, c'est-à-dire (implicitement) inscrire de façon indélébile",
+    "hu": "helyesen: vésni vagy vésni, azaz (értelemszerűen) kitörölhetetlenül beírni",
+    "id": "mengukir atau mengukir, yaitu (dengan implikasi) untuk menuliskan sesuatu yang tak terhapuskan",
+    "it": "propriamente, incidere o incidere, vale a dire (per implicazione) iscrivere in modo indelebile",
+    "ja": "正しくは、彫る、刻む、すなわち（暗に）消えないように刻む",
+    "ko": "적절하게, 새기거나 조각하다, 즉 (암시적으로) 지워지지 않게 새기다",
+    "lt": "tinkamai, išraižyti arba išraižyti, t. y. (netiesiogiai) neišdildomai įrašyti",
+    "lv": "pareizi - izgrebt vai iegravēt, t.i., netīši ierakstīt",
+    "nb": "egentlig, å riste eller gravere, dvs. (underforstått) å innskrive uutslettelig",
+    "nl": "op de juiste manier kerven of graveren, d.w.z. (impliciet) onuitwisbaar schrijven",
+    "pl": "prawidłowo, rzeźbić lub grawerować, tj. (w domyśle) nieusuwalnie wpisywać",
+    "pt": "propriamente dito, esculpir ou gravar, ou seja (implicitamente) inscrever de forma indelével",
+    "ro": "corect, a sculpta sau a grava, adică (implicit) a înscrie în mod indelebil",
+    "ru": "правильно, вырезать или выгравировать, т.е. (по косвенным признакам) нанести неизгладимую надпись",
+    "sk": "správne, vyrezať alebo vyryť, t. j. (implicitne) nezmazateľne zapísať",
+    "sl": "pravilno, vrezati ali vklesati, tj. (implicitno) neizbrisno zapisati",
+    "sv": "korrekt, att rista eller gravera, d.v.s. (underförstått) att skriva in outplånligt",
+    "tr": "uygun şekilde, oymak veya kazımak, yani (ima yoluyla) silinmeyecek şekilde yazmak",
+    "uk": "правильно, вирізати або вигравіювати, тобто (за підтекстом) нанести незгладимий напис",
+    "zh": "正确地说，是雕刻或镌刻，即（隐含地）刻下不可磨灭的痕迹"
+  },
+  "verses": [
+    "jeremiah 2:22:7"
+  ]
+}

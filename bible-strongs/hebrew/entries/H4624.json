@@ -1,0 +1,42 @@
+{
+  "number": "H4624",
+  "language": "hebrew",
+  "transliteration": "maʻăqeh",
+  "pronunciation": "mah-ak-eh'",
+  "definition": "a parapet",
+  "kjvTranslation": "battlement.",
+  "hebrew": "מַעֲקֶה",
+  "verses": [
+    "deuteronomy 22:8:5"
+  ],
+  "translations": {
+    "bg": "парапет",
+    "cs": "parapet",
+    "da": "et brystværn",
+    "de": "eine Brüstung",
+    "el": "ένα στηθαίο",
+    "es": "un parapeto",
+    "et": "parapet",
+    "fi": "kaide",
+    "fr": "un parapet",
+    "hu": "parapet",
+    "id": "tembok pembatas",
+    "it": "un parapetto",
+    "ja": "欄干",
+    "ko": "난간",
+    "lt": "parapetas",
+    "lv": "parapets",
+    "nb": "en brystning",
+    "nl": "een borstwering",
+    "pl": "parapet",
+    "pt": "um parapeito",
+    "ro": "un parapet",
+    "ru": "парапет",
+    "sk": "parapet",
+    "sl": "parapet",
+    "sv": "en bröstning",
+    "tr": "bir parapet",
+    "uk": "парапет",
+    "zh": "栏杆"
+  }
+}

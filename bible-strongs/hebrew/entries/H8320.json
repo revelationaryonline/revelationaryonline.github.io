@@ -1,0 +1,42 @@
+{
+  "number": "H8320",
+  "language": "hebrew",
+  "transliteration": "sâruq",
+  "pronunciation": "saw-rook'",
+  "definition": "bright red (as piercing to the sight), i.e. bay",
+  "kjvTranslation": "speckled. See H8291 (שָׂרוּק).",
+  "hebrew": "שָׂרֻק",
+  "translations": {
+    "bg": "яркочервен (като пронизващ зрението), т.е. залив",
+    "cs": "jasně červená (jako pronikavá pro zrak), tj. zátoka",
+    "da": "lysende rød (som gennemtrængende for synet), dvs. bugt",
+    "de": "leuchtend rot (als durchdringend für den Blick), d.h. rotbraun",
+    "el": "έντονο κόκκινο (ως διαπεραστικό για την όραση), δηλαδή κόλπος",
+    "es": "rojo vivo (como penetrante a la vista), es decir, bayo",
+    "et": "erkpunane (nagu silmi läbistav), s.t. lahtine",
+    "fi": "kirkkaanpunainen (näköä lävistävä), ts. punalahti",
+    "fr": "rouge vif (comme perçant à la vue), c'est-à-dire baie",
+    "hu": "élénkvörös (mint a látás számára szúrós), azaz öböl színű",
+    "id": "merah terang (seperti menusuk penglihatan), yaitu teluk",
+    "it": "rosso vivo (come se fosse una trafittura per la vista), cioè baia",
+    "ja": "ベイ",
+    "ko": "밝은 빨간색 (눈에 꿰뚫는 것처럼), 즉 만",
+    "lt": "ryškiai raudonas (kaip perveriantis žvilgsnį), t. y. įlanka",
+    "lv": "spilgti sarkans (kā caururbjošs skatienam), t.i., līcis",
+    "nb": "knallrød (som gjennomtrengende for synet), dvs. bukt",
+    "nl": "helder rood (als doordringend voor het gezicht), d.w.z. baai",
+    "pl": "jaskrawoczerwony (jak przeszywający wzrok), tj. gniady",
+    "pt": "vermelho vivo (como se fosse penetrante para a vista), ou seja, baía",
+    "ro": "roșu aprins (ca străpungerea vederii), adică bai",
+    "ru": "ярко-красный (пронзительный для зрения), т.е. заливной",
+    "sk": "jasne červená (ako prenikavá pre zrak), t. j. zátoka",
+    "sl": "svetlo rdeča (kot prodorna za pogled), tj. zaliv",
+    "sv": "ljusröd (som genomträngande för synen), dvs. bay",
+    "tr": "parlak kırmızı (göze batan), yani defne",
+    "uk": "яскраво-червоний (як пронизливий для зору), тобто лавровий",
+    "zh": "鲜红"
+  },
+  "verses": [
+    "zechariah 1:8:17"
+  ]
+}

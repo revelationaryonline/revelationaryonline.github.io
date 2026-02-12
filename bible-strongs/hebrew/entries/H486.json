@@ -1,0 +1,43 @@
+{
+  "number": "H486",
+  "language": "hebrew",
+  "transliteration": "ʼAlmôwdâd",
+  "pronunciation": "al-mo-dawd'",
+  "definition": "Almodad, a son of Joktan",
+  "kjvTranslation": "Almodad.",
+  "translations": {
+    "bg": "Алмодад, син на Йоктан",
+    "cs": "Almodad, syn Joktanův",
+    "da": "Almodad, en søn af Joktan",
+    "de": "Almodad, ein Sohn des Joktan",
+    "el": "Almodad, γιος του Joktan",
+    "es": "Almodad, hijo de Joktan",
+    "et": "Almodad, Joktani poeg",
+    "fi": "Almodad, Joktanin poika",
+    "fr": "Almodad, fils de Joktan",
+    "hu": "Almodad, Joktan fia",
+    "id": "Almodad, seorang putra dari Joktan",
+    "it": "Almodad, figlio di Joktan",
+    "ja": "ヨクタンの息子アルモダド",
+    "ko": "알모다드, 족탄의 아들",
+    "lt": "Almodadas, Joktano sūnus",
+    "lv": "Almodads, Joktāna dēls",
+    "nb": "Almodad, en sønn av Joktan",
+    "nl": "Almodad, een zoon van Joktan",
+    "pl": "Almodad, syn Joktana",
+    "pt": "Almodade, um filho de Joctan",
+    "ro": "Almodad, un fiu al lui Joktan",
+    "ru": "Альмодад, сын Джоктана",
+    "sk": "Almodad, Joktanov syn",
+    "sl": "Almodad, Joktanov sin",
+    "sv": "Almodad, en son till Joktan",
+    "tr": "Almodad, Joktan'ın oğlu",
+    "uk": "Альмодад, син Джоктана",
+    "zh": "阿尔莫达，约克坦之子"
+  },
+  "hebrew": "אַלְמוֹדָד",
+  "verses": [
+    "genesis 10:26:3",
+    "firstChronicles 1:20:3"
+  ]
+}

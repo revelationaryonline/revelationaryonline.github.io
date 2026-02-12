@@ -1,0 +1,42 @@
+{
+  "number": "H7003",
+  "language": "hebrew",
+  "transliteration": "Qiṭrôwn",
+  "pronunciation": "kit-rone'",
+  "definition": "Kitron, a place in Palestine",
+  "kjvTranslation": "Kitron.",
+  "hebrew": "קִטְרוֹן",
+  "translations": {
+    "bg": "Kitron, място в Палестина",
+    "cs": "Kitron, místo v Palestině",
+    "da": "Kitron, et sted i Palæstina",
+    "de": "Kitron, ein Ort in Palästina",
+    "el": "Kitron, τόπος στην Παλαιστίνη",
+    "es": "Kitron, un lugar en Palestina",
+    "et": "Kitron, koht Palestiinas",
+    "fi": "Kitron, paikka Palestiinassa",
+    "fr": "Kitron, localité de Palestine",
+    "hu": "Kitron, egy hely Palesztinában",
+    "id": "Kitron, sebuah tempat di Palestina",
+    "it": "Kitron, località della Palestina",
+    "ja": "キトロン（パレスチナの地名",
+    "ko": "키트론, 팔레스타인의 한 장소",
+    "lt": "Kitron, vietovė Palestinoje",
+    "lv": "Kitron, vieta Palestīnā",
+    "nb": "Kitron, et sted i Palestina",
+    "nl": "Kitron, een plaats in Palestina",
+    "pl": "Kitron, miejsce w Palestynie",
+    "pt": "Kitron, um lugar na Palestina",
+    "ro": "Kitron, un loc în Palestina",
+    "ru": "Китрон, местечко в Палестине",
+    "sk": "Kitron, miesto v Palestíne",
+    "sl": "Kitron, kraj v Palestini",
+    "sv": "Kitron, en plats i Palestina",
+    "tr": "Kitron, Filistin'de bir yer",
+    "uk": "Кітрон, місце в Палестині",
+    "zh": "基特伦"
+  },
+  "verses": [
+    "judges 1:30:5"
+  ]
+}

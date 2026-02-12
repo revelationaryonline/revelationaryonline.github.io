@@ -1,0 +1,42 @@
+{
+  "number": "H2666",
+  "language": "hebrew",
+  "transliteration": "châphash",
+  "pronunciation": "khaw-fash'",
+  "definition": "to spread loose; figuratively, to manumit",
+  "kjvTranslation": "be free.",
+  "translations": {
+    "bg": "да се освободи; в преносен смисъл - да се манумитира",
+    "cs": "rozprostřít; přeneseně manumitovat",
+    "da": "at sprede løs; i overført betydning at manumitere",
+    "de": "ausbreiten; im übertragenen Sinne: manumitieren",
+    "el": "μεταφορικά, να απελευθερώσω, να χειραφετήσω",
+    "es": "soltar; en sentido figurado, manumitir",
+    "et": "laiali ajada; piltlikult öeldes, manumiteerida",
+    "fi": "levittää irti; kuvaannollisesti, manumitoida",
+    "fr": "se détacher ; au sens figuré, manumiter",
+    "hu": "szabadon terjeszteni; átvitt értelemben, manumitálni",
+    "id": "untuk menyebarkan; secara kiasan, untuk mengasingkan diri",
+    "it": "sciogliere; in senso figurato, manomettere",
+    "ja": "を緩める；比喩的に言えば、手なずける",
+    "ko": "느슨하게 퍼지다; 비유적으로, 마누밋하다",
+    "lt": "išskleisti; perkeltine prasme - manumituoti",
+    "lv": "atbrīvot; pārnestā nozīmē - manumitēt",
+    "nb": "å spre løs; i overført betydning, å manumitere",
+    "nl": "los spreiden; figuurlijk, manumiteren",
+    "pl": "rozprzestrzeniać się luźno; w przenośni, manumitować",
+    "pt": "soltar; figurativamente, manumitir",
+    "ro": "a dezlega; la figurat, a mantui",
+    "ru": "распускать; образно говоря, манумировать",
+    "sk": "uvoľniť; v prenesenom význame manumit",
+    "sl": "sprostiti; v prenesenem pomenu manumitirati",
+    "sv": "att sprida lös; bildligt talat, att manumitera",
+    "tr": "gevşetmek; mecazi olarak manumit etmek",
+    "uk": "розкидатися; образно кажучи, маніпулювати",
+    "zh": "疏通；比喻疏通人际关系"
+  },
+  "hebrew": "חָפַשׁ",
+  "verses": [
+    "leviticus 19:20:25"
+  ]
+}

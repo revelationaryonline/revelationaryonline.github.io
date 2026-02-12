@@ -1,0 +1,43 @@
+{
+  "number": "H6146",
+  "language": "hebrew",
+  "transliteration": "ʻâr",
+  "pronunciation": "awr",
+  "definition": "{a foe (as watchful for mischief)}",
+  "kjvTranslation": "enemy.",
+  "hebrew": "עָר",
+  "translations": {
+    "bg": "{неприятел (като бдящ за пакости)}",
+    "cs": "{nepřítel (jako strážný, který chce páchat neplechu)}",
+    "da": "{en fjende (som er på vagt over for ondskab)}",
+    "de": "{ein Feind (der auf Unheil lauert)}",
+    "el": "{εχθρός (ως άγρυπνος για κακό) }",
+    "es": "{a foe (as watchful for mischief)}",
+    "et": "{vaenlane (kui valvsalt pahandust otsiv)}",
+    "fi": "{vihollinen (pahaa varten valppaana)}",
+    "fr": "{un ennemi (comme attentif à un méfait)}",
+    "hu": "{az ellenség (mint aki vigyáz a rosszra)}",
+    "id": "{musuh (sebagai waspada terhadap kerusakan)}",
+    "it": "{un nemico (attento alla malizia)",
+    "ja": "{災いを警戒する敵｝。",
+    "ko": "{적(장난을 경계하는 적)}",
+    "lt": "{priešas (budrus, kad nepadarytų piktadarybių)}",
+    "lv": "{pretnieks (kā uzmanīgs ļaundaris)}",
+    "nb": "{en fiende (som er på vakt etter ondskap)}",
+    "nl": "{een vijand (op zijn hoede voor onheil)}",
+    "pl": "{wróg (jako czujny na psoty)}",
+    "pt": "{um inimigo (como vigilante para o mal)",
+    "ro": "{un dușman (care veghează la răutăți)}",
+    "ru": "{враг (как сторож, готовый к беде)}",
+    "sk": "{nepriateľ (ako strážca zlého)}",
+    "sl": "{vraga (ki je pozoren na zlobo)}",
+    "sv": "{en fiende (som vaksam på illdåd)}",
+    "tr": "{bir düşman (kötülük için tetikte)}",
+    "uk": "{ворог (який пильнує, щоб не нашкодити)}",
+    "zh": "{一个敌人（作为对恶作剧的警惕）}"
+  },
+  "verses": [
+    "daniel 4:16:27",
+    "daniel 4:16:28"
+  ]
+}

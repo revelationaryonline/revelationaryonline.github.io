@@ -1,0 +1,42 @@
+{
+  "number": "H1825",
+  "language": "hebrew",
+  "transliteration": "dimyôwn",
+  "pronunciation": "dim-yone'",
+  "definition": "resemblance",
+  "kjvTranslation": "[idiom] like.",
+  "translations": {
+    "bg": "прилика",
+    "cs": "podobnost",
+    "da": "lighed",
+    "de": "ähnlichkeit",
+    "el": "ομοιότητα",
+    "es": "parecido",
+    "et": "sarnasus",
+    "fi": "samankaltaisuus",
+    "fr": "ressemblance",
+    "hu": "hasonlóság",
+    "id": "kemiripan",
+    "it": "somiglianza",
+    "ja": "類似性",
+    "ko": "닮음",
+    "lt": "panašumas",
+    "lv": "līdzība",
+    "nb": "likhet",
+    "nl": "gelijkenis",
+    "pl": "podobieństwo",
+    "pt": "semelhança",
+    "ro": "asemănare",
+    "ru": "сходство",
+    "sk": "podobnosť",
+    "sl": "podobnost",
+    "sv": "likhet",
+    "tr": "benzerlik",
+    "uk": "схожість",
+    "zh": "相似性"
+  },
+  "hebrew": "דִּמְיוֹן",
+  "verses": [
+    "psalms 17:12:0"
+  ]
+}

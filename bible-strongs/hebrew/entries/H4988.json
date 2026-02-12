@@ -1,0 +1,42 @@
+{
+  "number": "H4988",
+  "language": "hebrew",
+  "transliteration": "mâthâq",
+  "pronunciation": "maw-thawk'",
+  "definition": "a dainty, i.e. (generally) food",
+  "kjvTranslation": "feed sweetly.",
+  "hebrew": "מָתָק",
+  "translations": {
+    "bg": "лакомство, т.е. (обикновено) храна",
+    "cs": "lahůdka, tj. (obecně) jídlo",
+    "da": "en lækkerbisken, dvs. (generelt) mad",
+    "de": "eine Leckerei, d.h. (im Allgemeinen) ein Lebensmittel",
+    "el": "μια λιχουδιά, δηλαδή (γενικά) ένα τρόφιμο",
+    "es": "un manjar, es decir (generalmente) comida",
+    "et": "delikatess, st (üldjuhul) toit",
+    "fi": "herkku, eli (yleensä) ruoka-aine",
+    "fr": "une friandise, c'est-à-dire (généralement) de la nourriture",
+    "hu": "finomság, azaz (általában) élelmiszer",
+    "id": "yang mungil, yaitu (umumnya) makanan",
+    "it": "una prelibatezza, cioè (in genere) un alimento",
+    "ja": "珍味",
+    "ko": "고급스러운, 즉 (일반적으로) 음식",
+    "lt": "skanėstas, t. y. (paprastai) maistas",
+    "lv": "delikatese, t. i., (parasti) ēdiens",
+    "nb": "en lekkerbisken, dvs. (vanligvis) mat",
+    "nl": "een sieraad, d.w.z. (over het algemeen) voedsel",
+    "pl": "przysmak, tj. (ogólnie) jedzenie",
+    "pt": "uma iguaria, ou seja, (geralmente) um alimento",
+    "ro": "o delicatesă, adică (în general) un aliment",
+    "ru": "лакомство, т.е. (как правило) еда",
+    "sk": "delikatesa, t. j. (všeobecne) jedlo",
+    "sl": "delikatesa, tj. (na splošno) hrana",
+    "sv": "en läckerhet, dvs. (i allmänhet) mat",
+    "tr": "bir incelik, yani (genellikle) yiyecek",
+    "uk": "ласощі, тобто (загалом) їжа",
+    "zh": "小菜"
+  },
+  "verses": [
+    "job 24:20:2"
+  ]
+}

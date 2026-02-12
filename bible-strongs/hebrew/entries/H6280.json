@@ -1,0 +1,43 @@
+{
+  "number": "H6280",
+  "language": "hebrew",
+  "transliteration": "ʻâthar",
+  "pronunciation": "aw-thar'",
+  "definition": "to be (causatively, make) abundant",
+  "kjvTranslation": "deceitful, multiply.",
+  "hebrew": "עָתַר",
+  "translations": {
+    "bg": "да бъде (в причинно-следствена връзка, да бъде) в изобилие",
+    "cs": "být (kauzativně, učinit) hojným",
+    "da": "at være (kausativt, gøre) rigelig",
+    "de": "reichlich sein (kausal, machen)",
+    "el": "να είναι (αιτιωδώς, να κάνει) άφθονο",
+    "es": "ser (causativamente, hacer) abundante",
+    "et": "olla (põhjuslikult, teha) rikkalikuks",
+    "fi": "olla (kausatiivisesti, tehdä) runsas",
+    "fr": "être (causativement, rendre) abondant(e)",
+    "hu": "bőségesnek lenni (ok-okozati úton, bőségessé tenni)",
+    "id": "menjadi (secara kausal, membuat) berlimpah",
+    "it": "essere (causalmente, rendere) abbondanti",
+    "ja": "豊かにする",
+    "ko": "(원인 적으로, 만들다) 풍부하다",
+    "lt": "būti (priežastingai, padaryti) gausų",
+    "lv": "būt (cēloņsakarīgi, būt) bagātīgam",
+    "nb": "å være (kausativt, gjøre) rikelig",
+    "nl": "overvloedig zijn (causatief, maken)",
+    "pl": "być (przyczynowo, czynić) obfitym",
+    "pt": "ser (causativamente, tornar) abundante",
+    "ro": "a fi (cauzal, a face) abundent",
+    "ru": "быть (каузативно, делать) обильным",
+    "sk": "byť (kauzatívne, spôsobiť) hojnosť",
+    "sl": "biti (vzročno) obilen",
+    "sv": "att vara (kausativt, göra) riklig",
+    "tr": "bol olmak (nedensel olarak, yapmak)",
+    "uk": "бути (каузально, робити) рясним",
+    "zh": "充盈"
+  },
+  "verses": [
+    "proverbs 27:6:3",
+    "ezekiel 35:13:3"
+  ]
+}

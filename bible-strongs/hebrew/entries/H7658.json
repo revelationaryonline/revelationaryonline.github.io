@@ -1,0 +1,42 @@
+{
+  "number": "H7658",
+  "language": "hebrew",
+  "transliteration": "shibʻânâh",
+  "pronunciation": "shib-aw-naw'",
+  "definition": "seven",
+  "kjvTranslation": "seven.",
+  "hebrew": "שִׁבְעָנָה",
+  "translations": {
+    "bg": "седем",
+    "cs": "sedm",
+    "da": "syv",
+    "de": "sieben",
+    "el": "επτά",
+    "es": "siete",
+    "et": "seitse",
+    "fi": "seitsemän",
+    "fr": "sept",
+    "hu": "hét",
+    "id": "tujuh",
+    "it": "sette",
+    "ja": "セブン",
+    "ko": "일곱",
+    "lt": "septyni",
+    "lv": "septiņi",
+    "nb": "syv",
+    "nl": "zeven",
+    "pl": "siedem",
+    "pt": "sete",
+    "ro": "șapte",
+    "ru": "семь",
+    "sk": "sedem",
+    "sl": "sedem",
+    "sv": "sju",
+    "tr": "yedi",
+    "uk": "сім",
+    "zh": "七"
+  },
+  "verses": [
+    "job 42:13:2"
+  ]
+}

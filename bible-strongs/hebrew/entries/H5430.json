@@ -1,0 +1,42 @@
+{
+  "number": "H5430",
+  "language": "hebrew",
+  "transliteration": "çᵉʼôwn",
+  "pronunciation": "seh-own'",
+  "definition": "perhaps a military boot (as aprotection from mud",
+  "kjvTranslation": "battle.",
+  "hebrew": "סְאוֹן",
+  "translations": {
+    "bg": "може би военна обувка (за защита от кал)",
+    "cs": "možná vojenská bota (jako ochrana před blátem)",
+    "da": "måske en militærstøvle (som beskyttelse mod mudder)",
+    "de": "vielleicht einen Militärstiefel (zum Schutz vor Schlamm)",
+    "el": "ίσως μια στρατιωτική μπότα (ως προστασία από τη λάσπη)",
+    "es": "quizás una bota militar (para protegerse del barro)",
+    "et": "võib-olla sõjaväe saapad (kaitseks muda eest)",
+    "fi": "kenties sotilaskengät (suojana mudalta)",
+    "fr": "peut-être une botte militaire (pour se protéger de la boue)",
+    "hu": "talán egy katonai csizma (mint aprotection a sárból",
+    "id": "mungkin sepatu bot militer (sebagai pelindung dari lumpur)",
+    "it": "forse uno stivale militare (per proteggersi dal fango)",
+    "ja": "おそらく軍用ブーツ（泥除けとして",
+    "ko": "아마도 진흙으로부터 보호하는 군화일 것입니다",
+    "lt": "galbūt karinį batą (kaip apsaugą nuo purvo)",
+    "lv": "varbūt militārais zābaks (kā aizsardzība pret dubļiem)",
+    "nb": "kanskje en militærstøvel (som beskyttelse mot gjørme",
+    "nl": "misschien een militaire laars (als bescherming tegen modder",
+    "pl": "być może but wojskowy (jako ochrona przed błotem)",
+    "pt": "talvez uma bota militar (como proteção contra a lama)",
+    "ro": "poate o cizmă militară (ca protecție împotriva noroiului",
+    "ru": "возможно, военные ботинки (в качестве защиты от грязи",
+    "sk": "možno vojenskú obuv (ako ochrana pred blatom)",
+    "sl": "morda vojaški škorenj (za zaščito pred blatom)",
+    "sv": "kanske en militärkänga (som skydd mot lera)",
+    "tr": "belki bir askeri bot (çamurdan korunmak için",
+    "uk": "можливо, військовий черевик (як захист від бруду)",
+    "zh": "也许是军靴（防止泥泞"
+  },
+  "verses": [
+    "isaiah 9:4:2"
+  ]
+}

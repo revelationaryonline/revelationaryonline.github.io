@@ -1,0 +1,43 @@
+{
+  "number": "H7823",
+  "language": "hebrew",
+  "transliteration": "shâchîyç",
+  "pronunciation": "shaw-khece'",
+  "definition": "aftergrowth",
+  "kjvTranslation": "(that) which springeth of the same.",
+  "hebrew": "שָׁחִיס",
+  "translations": {
+    "bg": "след растеж",
+    "cs": "aftergrowth",
+    "da": "eftervækst",
+    "de": "nachwuchs",
+    "el": "aftergrowth",
+    "es": "después del crecimiento",
+    "et": "aftergrowth",
+    "fi": "jälkikasvu",
+    "fr": "post-croissance",
+    "hu": "aftergrowth",
+    "id": "setelah pertumbuhan",
+    "it": "post-crescita",
+    "ja": "後伸び",
+    "ko": "후성장",
+    "lt": "po augimo",
+    "lv": "pēcapaugums",
+    "nb": "ettervekst",
+    "nl": "nagroei",
+    "pl": "aftergrowth",
+    "pt": "pós-crescimento",
+    "ro": "postcreștere",
+    "ru": "aftergrowth",
+    "sk": "aftergrowth",
+    "sl": "aftergrowth",
+    "sv": "efterväxt",
+    "tr": "büyüme sonrası",
+    "uk": "поросль",
+    "zh": "后生长"
+  },
+  "verses": [
+    "secondKings 19:29:8",
+    "isaiah 37:30:8"
+  ]
+}

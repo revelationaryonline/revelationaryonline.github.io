@@ -1,0 +1,42 @@
+{
+  "number": "H4536",
+  "language": "hebrew",
+  "transliteration": "miçchâr",
+  "pronunciation": "mis-khawr'",
+  "definition": "trade",
+  "kjvTranslation": "traffic.",
+  "hebrew": "מִסְחָר",
+  "verses": [
+    "firstKings 10:15:3"
+  ],
+  "translations": {
+    "bg": "търговия",
+    "cs": "obchod",
+    "da": "handel",
+    "de": "handel",
+    "el": "εμπόριο",
+    "es": "comercio",
+    "et": "kaubandus",
+    "fi": "kauppa",
+    "fr": "commerce",
+    "hu": "kereskedelem",
+    "id": "perdagangan",
+    "it": "commercio",
+    "ja": "トレード",
+    "ko": "무역",
+    "lt": "prekyba",
+    "lv": "tirdzniecība",
+    "nb": "handel",
+    "nl": "handel",
+    "pl": "handel",
+    "pt": "comércio",
+    "ro": "comerț",
+    "ru": "торговля",
+    "sk": "obchod",
+    "sl": "trgovina",
+    "sv": "handel",
+    "tr": "tİCARET",
+    "uk": "торгівля",
+    "zh": "贸易"
+  }
+}

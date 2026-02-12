@@ -1,0 +1,42 @@
+{
+  "number": "H2847",
+  "language": "hebrew",
+  "transliteration": "chittâh",
+  "pronunciation": "khit-taw'",
+  "definition": "fear",
+  "kjvTranslation": "terror.",
+  "translations": {
+    "bg": "страх",
+    "cs": "strach",
+    "da": "frygt",
+    "de": "angst",
+    "el": "φόβος",
+    "es": "miedo",
+    "et": "hirm",
+    "fi": "pelko",
+    "fr": "peur",
+    "hu": "félelem",
+    "id": "ketakutan",
+    "it": "paura",
+    "ja": "恐怖",
+    "ko": "두려움",
+    "lt": "baimė",
+    "lv": "bailes",
+    "nb": "frykt",
+    "nl": "angst",
+    "pl": "strach",
+    "pt": "medo",
+    "ro": "frică",
+    "ru": "страх",
+    "sk": "strach",
+    "sl": "strah",
+    "sv": "rädsla",
+    "tr": "korku",
+    "uk": "страх",
+    "zh": "担心"
+  },
+  "hebrew": "חִתָּה",
+  "verses": [
+    "genesis 35:5:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1585",
+  "language": "hebrew",
+  "transliteration": "gᵉmar",
+  "pronunciation": "ghem-ar'",
+  "definition": "{to end (in the sense of completion or failure)}",
+  "kjvTranslation": "perfect.",
+  "translations": {
+    "bg": "{да приключи (в смисъл на завършване или провал)}",
+    "cs": "{ukončit (ve smyslu dokončení nebo selhání)}",
+    "da": "{at afslutte (i betydningen færdiggørelse eller fiasko)}",
+    "de": "(im Sinne von Beendigung oder Scheitern)",
+    "el": "(με την έννοια της ολοκλήρωσης ή της αποτυχίας)}",
+    "es": "{terminar (en el sentido de completar o fracasar)}",
+    "et": "{lõpetada (lõpetamise või ebaõnnestumise mõttes)}",
+    "fi": "{lopettaa (loppuunsaattamisen tai epäonnistumisen merkityksessä)}",
+    "fr": "{à la fin (dans le sens de l'achèvement ou de l'échec)}",
+    "hu": "{véget vetni (a befejezés vagy a kudarc értelmében)}",
+    "id": "{mengakhiri (dalam arti selesai atau gagal)}",
+    "it": "{fine (nel senso di completamento o fallimento)}",
+    "ja": "{完了または失敗という意味で）終了する｝。",
+    "ko": "{끝나다(완료 또는 실패의 의미에서)}",
+    "lt": "{baigti (užbaigimo ar nesėkmės prasme)}",
+    "lv": "{beigt (pabeigšanas vai neveiksmes nozīmē)}",
+    "nb": "{å avslutte (i betydningen fullføring eller fiasko)}",
+    "nl": "{om te eindigen (in de zin van voltooiing of mislukking)}",
+    "pl": "{zakończyć (w sensie zakończenia lub niepowodzenia)}",
+    "pt": "{terminar (no sentido de conclusão ou fracasso)}",
+    "ro": "{to end (în sensul de finalizare sau eșec)}",
+    "ru": "{закончить (в смысле завершения или неудачи)}",
+    "sk": "{ukončiť (v zmysle dokončenia alebo zlyhania)}",
+    "sl": "{končati (v smislu zaključka ali neuspeha)}",
+    "sv": "{avsluta (i betydelsen slutförande eller misslyckande)}",
+    "tr": "{bitirmek (tamamlanma veya başarısızlık anlamında)}",
+    "uk": "{закінчитися (у значенні завершення або невдачі)}",
+    "zh": "{结束（在完成或失败的意义上）}"
+  },
+  "hebrew": "גְּמַר",
+  "verses": [
+    "ezra 7:12:10"
+  ]
+}

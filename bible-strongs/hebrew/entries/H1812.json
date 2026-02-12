@@ -1,0 +1,43 @@
+{
+  "number": "H1812",
+  "language": "hebrew",
+  "transliteration": "deleph",
+  "pronunciation": "deh'-lef",
+  "definition": "a dripping",
+  "kjvTranslation": "dropping.",
+  "translations": {
+    "bg": "капещ",
+    "cs": "kapající",
+    "da": "en dryppende",
+    "de": "ein triefendes",
+    "el": "ένα στάξιμο",
+    "es": "un goteo",
+    "et": "tilkuv",
+    "fi": "tippuva",
+    "fr": "une goutte d'eau",
+    "hu": "egy csöpögő",
+    "id": "menetes",
+    "it": "uno sgocciolamento",
+    "ja": "滴り",
+    "ko": "떨어지는",
+    "lt": "lašantis",
+    "lv": "pilienveida",
+    "nb": "en dryppende",
+    "nl": "een druipende",
+    "pl": "kapanie",
+    "pt": "um gotejamento",
+    "ro": "o picurare",
+    "ru": "капающий",
+    "sk": "kvapkajúci",
+    "sl": "kapljanje",
+    "sv": "en droppande",
+    "tr": "bir damlama",
+    "uk": "капає",
+    "zh": "裛"
+  },
+  "hebrew": "דֶּלֶף",
+  "verses": [
+    "proverbs 19:13:4",
+    "proverbs 27:15:0"
+  ]
+}

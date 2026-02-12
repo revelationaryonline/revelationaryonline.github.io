@@ -1,0 +1,43 @@
+{
+  "number": "H4433",
+  "language": "hebrew",
+  "transliteration": "malkâʼ",
+  "pronunciation": "mal-kaw'",
+  "definition": "a queen",
+  "kjvTranslation": "queen.",
+  "hebrew": "מַלְכָּא",
+  "translations": {
+    "bg": "кралица",
+    "cs": "královna",
+    "da": "en dronning",
+    "de": "eine Königin",
+    "el": "μια βασίλισσα",
+    "es": "una reina",
+    "et": "kuninganna",
+    "fi": "kuningatar",
+    "fr": "une reine",
+    "hu": "egy királynő",
+    "id": "seorang ratu",
+    "it": "una regina",
+    "ja": "女王",
+    "ko": "여왕",
+    "lt": "karalienė",
+    "lv": "karaliene",
+    "nb": "en dronning",
+    "nl": "een koningin",
+    "pl": "królowa",
+    "pt": "uma rainha",
+    "ro": "o regină",
+    "ru": "королева",
+    "sk": "kráľovná",
+    "sl": "kraljica",
+    "sv": "en drottning",
+    "tr": "bir kraliçe",
+    "uk": "королевою",
+    "zh": "王后"
+  },
+  "verses": [
+    "daniel 5:10:0",
+    "daniel 5:10:10"
+  ]
+}

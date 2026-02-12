@@ -1,0 +1,43 @@
+{
+  "number": "H1917",
+  "language": "hebrew",
+  "transliteration": "haddâm",
+  "pronunciation": "had-dawm'",
+  "definition": "something stamped to pieces, i.e. a bit",
+  "kjvTranslation": "piece.",
+  "translations": {
+    "bg": "нещо, което е раздробено на парчета, т.е. малко",
+    "cs": "něco otisknutého na kousky, tj. kousek",
+    "da": "noget, der er stampet i stykker, dvs. en smule",
+    "de": "etwas zertrümmert, d.h. ein Stück",
+    "el": "κάτι που έχει κομματιαστεί, δηλαδή ένα κομμάτι",
+    "es": "algo hecho pedazos, es decir, un poco",
+    "et": "midagi tükkideks tembeldatud, st natuke",
+    "fi": "jotain palasiksi leimattua, ts. hieman",
+    "fr": "quelque chose mis en pièces, c'est-à-dire un peu",
+    "hu": "valami darabokra tört, vagyis egy kicsit",
+    "id": "sesuatu yang dicap berkeping-keping, yaitu sedikit",
+    "it": "qualcosa fatto a pezzi, cioè un pezzo",
+    "ja": "バラバラ",
+    "ko": "조각으로 찍힌 것, 즉 약간",
+    "lt": "kažkas išdaužytas į gabalus, t. y. šiek tiek",
+    "lv": "kaut kas saplēsts gabalos, t. i., mazliet",
+    "nb": "noe som er stampet i stykker, dvs. litt",
+    "nl": "iets in stukken gestampt, d.w.z. een beetje",
+    "pl": "coś rozbitego na kawałki, tj. trochę",
+    "pt": "uma coisa cortada em pedaços, ou seja, um pouco",
+    "ro": "ceva ștampilat în bucăți, adică un pic",
+    "ru": "что-то, разбитое на куски, т.е. немного",
+    "sk": "niečo vyrazené na kúsky, t. j. trochu",
+    "sl": "nekaj, kar je razbito na koščke, tj. malo",
+    "sv": "något som stampats sönder, dvs. en bit",
+    "tr": "parçalara ayrılmış bir şey, yani biraz",
+    "uk": "щось штамповане, тобто трохи",
+    "zh": "打碎的东西，即一点"
+  },
+  "hebrew": "הַדָּם",
+  "verses": [
+    "daniel 2:5:13",
+    "daniel 3:29:19"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6608",
+  "language": "hebrew",
+  "transliteration": "pêthach",
+  "pronunciation": "pay'-thakh",
+  "definition": "opening (figuratively) i.e. disclosure",
+  "kjvTranslation": "entrance.",
+  "hebrew": "פֵּתַח",
+  "translations": {
+    "bg": "отваряне (в преносен смисъл), т.е. разкриване",
+    "cs": "otevření (obrazně), tj. odhalení",
+    "da": "åbning (i overført betydning), dvs. afsløring",
+    "de": "öffnung (im übertragenen Sinne), d.h. Offenlegung",
+    "el": "άνοιγμα (μεταφορικά), δηλ. αποκάλυψη",
+    "es": "apertura (en sentido figurado), es decir, divulgación",
+    "et": "avamine (piltlikult), st avalikustamine",
+    "fi": "avautuminen (kuvaannollisesti) eli julkistaminen",
+    "fr": "l'ouverture (au sens figuré), c'est-à-dire la divulgation",
+    "hu": "nyitás (átvitt értelemben), azaz közzététel",
+    "id": "pembukaan (secara kiasan) yaitu pengungkapan",
+    "it": "apertura (in senso figurato), vale a dire divulgazione",
+    "ja": "かいこう",
+    "ko": "개방(비유적으로), 즉 공개",
+    "lt": "atidarymas (perkeltine prasme), t. y. atskleidimas",
+    "lv": "atvēršana (pārnestā nozīmē), t.i., atklāšana",
+    "nb": "åpning (i overført betydning), dvs. avsløring",
+    "nl": "opening (figuurlijk) d.w.z. onthulling",
+    "pl": "otwarcie (w przenośni), tj. ujawnienie",
+    "pt": "abertura (em sentido figurado), ou seja, divulgação",
+    "ro": "deschidere (la figurat) adică dezvăluire",
+    "ru": "открытие (образно), т.е. раскрытие",
+    "sk": "otvorenie (obrazne), t. j. odhalenie",
+    "sl": "odpiranje (v prenesenem pomenu), tj. razkritje",
+    "sv": "öppning (bildligt talat), dvs. avslöjande",
+    "tr": "açılış (mecazi olarak) yani ifşa",
+    "uk": "відкриття (образно), тобто розкриття",
+    "zh": "开幕"
+  },
+  "verses": [
+    "psalms 119:130:0"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2481",
+  "language": "hebrew",
+  "transliteration": "chălîy",
+  "pronunciation": "khal-ee'",
+  "definition": "a trinket (as polished)",
+  "kjvTranslation": "jewel, ornament.",
+  "translations": {
+    "bg": "дрънкулка (като полирана)",
+    "cs": "cetka (leštěná)",
+    "da": "et smykke (som poleret)",
+    "de": "ein Schmuckstück (wie poliert)",
+    "el": "ένα μπιχλιμπίδι (όπως γυαλισμένο)",
+    "es": "una baratija (como pulido)",
+    "et": "nipsasja (nagu poleeritud)",
+    "fi": "rihkama (kiillotettu)",
+    "fr": "un bibelot (comme poli)",
+    "hu": "csecsebecse (fényezett)",
+    "id": "perhiasan (seperti yang dipoles)",
+    "it": "un gingillo (come lucidato)",
+    "ja": "かざりもの",
+    "ko": "장신구(광택이 있는 상태)",
+    "lt": "smulkmena (kaip poliruota)",
+    "lv": "nieciņš (kā pulēts)",
+    "nb": "en pyntegjenstand (som polert)",
+    "nl": "een snuisterij (als gepoetst)",
+    "pl": "drobiazg (jak polerowany)",
+    "pt": "uma bugiganga (como polido)",
+    "ro": "un bibelou (ca lustruit)",
+    "ru": "безделушка (полированная)",
+    "sk": "drobnosť (ako vyleštená)",
+    "sl": "drobiž (kot poliran)",
+    "sv": "en prydnadssak (som polerad)",
+    "tr": "bir biblo (cilalanmış olarak)",
+    "uk": "брелок (у відполірованому вигляді)",
+    "zh": "饰品"
+  },
+  "hebrew": "חֲלִי",
+  "verses": [
+    "proverbs 25:12:2",
+    "solomon 7:2:9"
+  ]
+}

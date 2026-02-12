@@ -1,0 +1,42 @@
+{
+  "number": "H4473",
+  "language": "hebrew",
+  "transliteration": "mimshach",
+  "pronunciation": "mim-shakh'",
+  "definition": "outspread (i.e. with outstretched wings)",
+  "kjvTranslation": "anointed.",
+  "hebrew": "מִמְשַׁח",
+  "verses": [
+    "ezekiel 28:14:2"
+  ],
+  "translations": {
+    "bg": "разперени (т.е. с разперени крила)",
+    "cs": "roztažená (tj. s roztaženými křídly)",
+    "da": "udspændt (dvs. med udstrakte vinger)",
+    "de": "ausgestreckt (d. h. mit ausgebreiteten Flügeln)",
+    "el": "απλωμένα (δηλ. με απλωμένα φτερά)",
+    "es": "extendido (es decir, con las alas extendidas)",
+    "et": "laiali (st. väljasirutatud tiibadega)",
+    "fi": "levittäytyneenä (eli ojennetuin siivin)",
+    "fr": "déployé (c.-à-d. avec des ailes déployées)",
+    "hu": "kiterjesztett szárnyakkal (azaz kiterjesztett szárnyakkal)",
+    "id": "menyebar (yaitu dengan sayap terentang)",
+    "it": "allargato (cioè con le ali tese)",
+    "ja": "翼を広げた",
+    "ko": "아웃스프레드(즉, 날개를 펼친 상태)",
+    "lt": "išskleistais (t. y. išskleistais sparnais)",
+    "lv": "izplestiem (t.i., ar izstieptiem spārniem)",
+    "nb": "utstrakt (dvs. med utstrakte vinger)",
+    "nl": "uitgespreid (d.w.z. met uitgestrekte vleugels)",
+    "pl": "rozpostarty (tj. z rozpostartymi skrzydłami)",
+    "pt": "estendida (ou seja, com as asas estendidas)",
+    "ro": "întinse (adică cu aripile întinse)",
+    "ru": "распростертый (т.е. с распростертыми крыльями)",
+    "sk": "rozprestreté (t. j. s roztiahnutými krídlami)",
+    "sl": "razprta (tj. z razprtimi krili)",
+    "sv": "utspridda (dvs. med utsträckta vingar)",
+    "tr": "outspread (yani uzanmış kanatlarla)",
+    "uk": "з розпростертими (тобто з розпростертими крилами)",
+    "zh": "展翅"
+  }
+}

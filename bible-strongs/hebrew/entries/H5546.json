@@ -1,0 +1,42 @@
+{
+  "number": "H5546",
+  "language": "hebrew",
+  "transliteration": "çallâch",
+  "pronunciation": "saw-lawkh'",
+  "definition": "placable",
+  "kjvTranslation": "ready to forgive.",
+  "hebrew": "סַלָּח",
+  "translations": {
+    "bg": "пласируем",
+    "cs": "umístitelný",
+    "da": "placerbar",
+    "de": "vermittelbar",
+    "el": "placable",
+    "es": "placable",
+    "et": "paigutatav",
+    "fi": "placable",
+    "fr": "plaçable",
+    "hu": "elhelyezhető",
+    "id": "dapat ditempatkan",
+    "it": "placabile",
+    "ja": "プレイカブル",
+    "ko": "배치 가능",
+    "lt": "placable",
+    "lv": "izvietojams",
+    "nb": "plasserbar",
+    "nl": "plaatsbaar",
+    "pl": "możliwy do umieszczenia",
+    "pt": "colocável",
+    "ro": "pliabil",
+    "ru": "россыпь",
+    "sk": "umiestniteľné",
+    "sl": "placable",
+    "sv": "placerbar",
+    "tr": "yerleştirilebilir",
+    "uk": "миролюбний",
+    "zh": "可放置"
+  },
+  "verses": [
+    "psalms 86:5:4"
+  ]
+}

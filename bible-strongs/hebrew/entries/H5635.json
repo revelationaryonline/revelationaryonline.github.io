@@ -1,0 +1,42 @@
+{
+  "number": "H5635",
+  "language": "hebrew",
+  "transliteration": "çâraph",
+  "pronunciation": "saw-raf'",
+  "definition": "to cremate, i.e. to be (near) of kin (such being privileged to kindle the pyre)",
+  "kjvTranslation": "burn.",
+  "hebrew": "סָרַף",
+  "translations": {
+    "bg": "да кремираш, т.е. да си (близък) на роднини (такива, които са привилегировани да запалят кладата)",
+    "cs": "zpopelnit, tj. být (blízký) příbuzný (takový, který má výsadu zapálit hranici)",
+    "da": "at kremere, dvs. at være (nær) slægtning (som er privilegeret til at tænde bålet)",
+    "de": "einäschern, d.h. (nahe) verwandt sein (das Privileg haben, den Scheiterhaufen zu entzünden)",
+    "el": "να αποτεφρώνω, δηλαδή να είμαι (κοντά) σε συγγενείς (που έχουν το προνόμιο να ανάβουν την πυρά)",
+    "es": "incinerar, es decir, estar (cerca) de los parientes (como tener el privilegio de encender la pira)",
+    "et": "tuhastada, s.t. olla (lähedane) sugulane (selline, kellel on privileeg süüdata müüdi)",
+    "fi": "polttohauta, eli olla (lähi)sukua (koska on etuoikeutettu sytyttämään rovio)",
+    "fr": "incinérer, c'est-à-dire être (proche) d'un parent (ayant le privilège d'allumer le bûcher)",
+    "hu": "hamvasztani, azaz (közeli) rokonságban lenni (ilyen kiváltságosnak lenni a máglya meggyújtására)",
+    "id": "untuk mengkremasi, yaitu menjadi (dekat) dengan kerabat (seperti memiliki hak istimewa untuk menyalakan api)",
+    "it": "cremare, cioè essere (vicino) a un parente (tale da avere il privilegio di accendere la pira)",
+    "ja": "荼毘に付す、すなわち（火葬に付す特権のある）近親者になる",
+    "ko": "화장하다, 즉 (가까운) 친족(장작불을 피울 수 있는 특권이 있는)",
+    "lt": "kremuoti, t. y. būti (artimu) giminaičiu (toks, kuriam suteikta teisė uždegti laužą)",
+    "lv": "kremēt, t.i., būt (tuvu) radiniekiem (tādiem, kam ir privilēģija aizdedzināt kūlu)",
+    "nb": "å kremere, dvs. å være (nær) i slekt (slik at man er privilegert til å tenne bålet)",
+    "nl": "cremeren, d.w.z. (naaste) verwanten zijn (die het voorrecht hebben om de brandstapel aan te steken)",
+    "pl": "kremować, tj. być (bliskim) krewnym (takim, który jest uprzywilejowany do rozpalania stosu)",
+    "pt": "cremar, ou seja, estar (próximo) de um parente (sendo este privilegiado para acender a pira)",
+    "ro": "a incinera, adică a fi (aproape) de rude (astfel încât să aibă privilegiul de a aprinde rugul)",
+    "ru": "кремировать, т.е. быть (близким) родственником (таким, который имеет право разжигать костер)",
+    "sk": "spopolniť, t. j. byť (blízkym) príbuzným (takým, ktorý má právo zapáliť hranicu)",
+    "sl": "upepeliti, tj. biti (blizu) sorodnikom (ki imajo privilegij, da prižgejo žaro)",
+    "sv": "att kremera, d.v.s. att vara (nära) släkt (såsom att vara privilegierad att tända bålet)",
+    "tr": "yakmak, yani (yakın) akraba olmak (ateşi yakma ayrıcalığına sahip olmak gibi)",
+    "uk": "кремувати, тобто бути (близьким) родичем (таким, що має право розпалювати вогнище)",
+    "zh": "火葬，即（近）亲属（这种人有点燃火堆的特权）。"
+  },
+  "verses": [
+    "amos 6:10:2"
+  ]
+}

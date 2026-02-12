@@ -1,0 +1,43 @@
+{
+  "number": "H7952",
+  "language": "hebrew",
+  "transliteration": "shâlâh",
+  "pronunciation": "shaw-law'",
+  "definition": "to mislead",
+  "kjvTranslation": "deceive, be negligent.",
+  "hebrew": "שָׁלָה",
+  "translations": {
+    "bg": "да заблуждава",
+    "cs": "uvádět v omyl",
+    "da": "at vildlede",
+    "de": "zur Irreführung",
+    "el": "να παραπλανήσει",
+    "es": "engañar",
+    "et": "eksitada",
+    "fi": "johtaa harhaan",
+    "fr": "induire en erreur",
+    "hu": "félrevezetni",
+    "id": "untuk menyesatkan",
+    "it": "ingannare",
+    "ja": "を惑わす",
+    "ko": "오도하기 위해",
+    "lt": "suklaidinti",
+    "lv": "maldināt",
+    "nb": "for å villede",
+    "nl": "misleiden",
+    "pl": "wprowadzać w błąd",
+    "pt": "induzir em erro",
+    "ro": "să inducă în eroare",
+    "ru": "вводить в заблуждение",
+    "sk": "zavádzať",
+    "sl": "zavajati",
+    "sv": "att vilseleda",
+    "tr": "yanıltmak için",
+    "uk": "щоб ввести в оману",
+    "zh": "诱导误导"
+  },
+  "verses": [
+    "secondKings 4:28:8",
+    "secondChronicles 29:11:3"
+  ]
+}

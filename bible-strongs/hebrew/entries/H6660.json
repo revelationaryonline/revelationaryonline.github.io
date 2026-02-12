@@ -1,0 +1,43 @@
+{
+  "number": "H6660",
+  "language": "hebrew",
+  "transliteration": "tsᵉdîyâh",
+  "pronunciation": "tsed-ee-yaw'",
+  "definition": "design",
+  "kjvTranslation": "lying in wait.",
+  "hebrew": "צְדִיָּה",
+  "translations": {
+    "bg": "дизайн",
+    "cs": "design",
+    "da": "design",
+    "de": "entwurf",
+    "el": "σχεδιασμός",
+    "es": "diseño",
+    "et": "disain",
+    "fi": "suunnittelu",
+    "fr": "conception",
+    "hu": "tervezés",
+    "id": "desain",
+    "it": "design",
+    "ja": "デザイン",
+    "ko": "디자인",
+    "lt": "dizainas",
+    "lv": "dizains",
+    "nb": "utforming",
+    "nl": "ontwerp",
+    "pl": "projekt",
+    "pt": "desenho",
+    "ro": "design",
+    "ru": "дизайн",
+    "sk": "dizajn",
+    "sl": "oblikovanje",
+    "sv": "design",
+    "tr": "tasarım",
+    "uk": "дизайн",
+    "zh": "设计"
+  },
+  "verses": [
+    "numbers 35:20:6",
+    "numbers 35:22:11"
+  ]
+}

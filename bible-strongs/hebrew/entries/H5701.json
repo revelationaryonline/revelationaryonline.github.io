@@ -1,0 +1,42 @@
+{
+  "number": "H5701",
+  "language": "hebrew",
+  "transliteration": "ʻâgam",
+  "pronunciation": "aw-gam'",
+  "definition": "to be sad",
+  "kjvTranslation": "grieve.",
+  "hebrew": "עָגַם",
+  "translations": {
+    "bg": "да бъдеш тъжен",
+    "cs": "být smutný",
+    "da": "at være ked af det",
+    "de": "traurig sein",
+    "el": "να είμαι λυπημένος",
+    "es": "estar triste",
+    "et": "olla kurb",
+    "fi": "olla surullinen",
+    "fr": "être triste",
+    "hu": "szomorúnak lenni",
+    "id": "menjadi sedih",
+    "it": "essere triste",
+    "ja": "悲しい",
+    "ko": "슬퍼하다",
+    "lt": "liūdėti",
+    "lv": "būt skumjam",
+    "nb": "å være trist",
+    "nl": "verdrietig zijn",
+    "pl": "być smutnym",
+    "pt": "estar triste",
+    "ro": "să fii trist",
+    "ru": "грустить",
+    "sk": "byť smutný",
+    "sl": "biti žalosten",
+    "sv": "att vara ledsen",
+    "tr": "üzgün olmak",
+    "uk": "сумувати",
+    "zh": "心酸"
+  },
+  "verses": [
+    "job 30:25:5"
+  ]
+}

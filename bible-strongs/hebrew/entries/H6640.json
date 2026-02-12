@@ -1,0 +1,42 @@
+{
+  "number": "H6640",
+  "language": "hebrew",
+  "transliteration": "tsᵉbûw",
+  "pronunciation": "tseb-oo'",
+  "definition": "properly, will; concretely, an affair (as a matter of determination)",
+  "kjvTranslation": "purpose.",
+  "hebrew": "צְבוּ",
+  "translations": {
+    "bg": "правилно, воля; конкретно, дело (като въпрос на решение)",
+    "cs": "správně, vůle; konkrétně, záležitost (jako věc určení)",
+    "da": "korrekt, vilje; konkret, en affære (som et spørgsmål om bestemmelse)",
+    "de": "richtig, Wille; konkret, eine Angelegenheit (als eine Frage der Entschlossenheit)",
+    "el": "σωστά, θέληση- συγκεκριμένα, μια υπόθεση (ως θέμα αποφασιστικότητας)",
+    "es": "propiamente, voluntad; concretamente, un asunto (como una cuestión de determinación)",
+    "et": "õigesti, tahe; konkreetselt, asi (otsustusena)",
+    "fi": "oikein, tahto; konkreettisesti, asia (määrätietoisesti)",
+    "fr": "proprement dit, la volonté ; concrètement, une affaire (en tant que question de détermination)",
+    "hu": "megfelelően, akarat; konkrétan, ügy (mint elhatározás kérdése)",
+    "id": "benar, kehendak; secara konkret, urusan (sebagai masalah tekad)",
+    "it": "propriamente, volontà; concretamente, un affare (come una questione di determinazione)",
+    "ja": "具体的には、（決定事項としての）出来事である。",
+    "ko": "적절하게는 의지, 구체적으로는 불륜(결심의 문제)",
+    "lt": "tinkamai, valia; konkrečiai, reikalas (dėl apsisprendimo)",
+    "lv": "pareizi, griba; konkrēti, lieta (kā apņēmības jautājums)",
+    "nb": "egentlig, vilje; konkret, en affære (som et spørsmål om besluttsomhet)",
+    "nl": "eigenlijk, wil; concreet, een zaak (als een kwestie van vastberadenheid)",
+    "pl": "właściwie, wola; konkretnie, sprawa (jako kwestia determinacji)",
+    "pt": "propriamente, vontade; concretamente, um caso (como uma questão de determinação)",
+    "ro": "propriu-zis, voință; concret, o afacere (ca o chestiune de determinare)",
+    "ru": "правильно, воля; конкретно, дело (в смысле решимости)",
+    "sk": "správne, vôľa; konkrétne, záležitosť (ako vec určenia)",
+    "sl": "pravilno, volja; konkretno, zadeva (kot stvar določitve)",
+    "sv": "korrekt, vilja; konkret, en affär (som en fråga om beslutsamhet)",
+    "tr": "uygun olarak, irade; somut olarak, bir mesele (bir kararlılık meselesi olarak)",
+    "uk": "власне, воля; конкретно, справа (як питання визначення)",
+    "zh": "正确地讲，是指；具体地说，是指（确定的）一件事"
+  },
+  "verses": [
+    "daniel 6:18:15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1948",
+  "language": "hebrew",
+  "transliteration": "hôwlêlûwth",
+  "pronunciation": "ho-lay-looth'",
+  "definition": "folly",
+  "kjvTranslation": "madness.",
+  "translations": {
+    "bg": "глупост",
+    "cs": "bláznovství",
+    "da": "dårskab",
+    "de": "narrheit",
+    "el": "τρέλα",
+    "es": "locura",
+    "et": "rumalus",
+    "fi": "hulluus",
+    "fr": "folie",
+    "hu": "bolondság",
+    "id": "kebodohan",
+    "it": "follia",
+    "ja": "愚行",
+    "ko": "어리석음",
+    "lt": "kvailystė",
+    "lv": "muļķība",
+    "nb": "dårskap",
+    "nl": "dwaasheid",
+    "pl": "szaleństwo",
+    "pt": "loucura",
+    "ro": "nebunie",
+    "ru": "глупость",
+    "sk": "bláznovstvo",
+    "sl": "norost",
+    "sv": "dårskap",
+    "tr": "çılgınlık",
+    "uk": "безумство",
+    "zh": "愚蠢"
+  },
+  "hebrew": "הוֹלֵלוּת",
+  "verses": [
+    "ecclesiastes 10:13:6"
+  ]
+}

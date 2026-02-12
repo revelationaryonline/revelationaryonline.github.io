@@ -1,0 +1,42 @@
+{
+  "number": "H604",
+  "language": "hebrew",
+  "transliteration": "ʼănâqâh",
+  "pronunciation": "an-aw-kaw'",
+  "definition": "some kind of lizard, probably the gecko (from its wail)",
+  "kjvTranslation": "ferret.",
+  "translations": {
+    "bg": "някакъв вид гущер, вероятно гекон (от стенанията му)",
+    "cs": "nějaký druh ještěra, pravděpodobně gekon (podle jeho kvílení)",
+    "da": "en slags øgle, sandsynligvis gekko (ud fra dens hyletone)",
+    "de": "eine Art von Eidechse, wahrscheinlich ein Gecko (wegen seines Heulens)",
+    "el": "κάποιο είδος σαύρας, πιθανώς γκέκο (από το ουρλιαχτό του)",
+    "es": "algún tipo de lagarto, probablemente la salamanquesa (por su lamento)",
+    "et": "mingi sisalik, ilmselt geekk (selle vingumisest lähtuvalt)",
+    "fi": "jonkinlainen lisko, luultavasti gekko (sen huudosta päätellen)",
+    "fr": "une sorte de lézard, probablement le gecko (à cause de son cri)",
+    "hu": "valamilyen gyík, valószínűleg a gekkó (a jajveszékeléséből ítélve)",
+    "id": "sejenis kadal, mungkin tokek (dari rintihannya)",
+    "it": "una specie di lucertola, probabilmente il geco (dal suo lamento)",
+    "ja": "トカゲの一種、おそらくヤモリ（その鳴き声から）",
+    "ko": "어떤 종류의 도마뱀, 아마도 도마뱀 (울음 소리에서)",
+    "lt": "kažkoks driežas, tikriausiai gekonas (iš jo klyksmo)",
+    "lv": "kāda ķirzakas suga, iespējams, gekons (pēc tā vaimanas)",
+    "nb": "en slags øgle, sannsynligvis gekko (ut fra jamringen)",
+    "nl": "een soort hagedis, waarschijnlijk de gekko (vanwege zijn gehuil)",
+    "pl": "jakiś rodzaj jaszczurki, prawdopodobnie gekon (od jego zawodzenia)",
+    "pt": "uma espécie de lagarto, provavelmente a osga (pelo seu gemido)",
+    "ro": "un fel de șopârlă, probabil gecko (din cauza țipătului său)",
+    "ru": "какая-то ящерица, вероятно, геккон (судя по его вою)",
+    "sk": "nejaký druh jaštera, pravdepodobne gekón (podľa jeho kvílenia)",
+    "sl": "neka vrsta kuščarja, verjetno gekon (glede na njegovo stokanje)",
+    "sv": "någon form av ödla, förmodligen gecko (från dess klagan)",
+    "tr": "bir tür kertenkele, muhtemelen kertenkele (feryadından)",
+    "uk": "якась ящірка, ймовірно гекон (судячи з її крику)",
+    "zh": "某种蜥蜴，可能是壁虎（从它的哀号中可以看出）"
+  },
+  "hebrew": "אֲנָקָה",
+  "verses": [
+    "leviticus 11:30:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4774",
+  "language": "hebrew",
+  "transliteration": "margêʻâh",
+  "pronunciation": "mar-gay-aw'",
+  "definition": "rest",
+  "kjvTranslation": "refreshing.",
+  "hebrew": "מַרְגֵּעָה",
+  "translations": {
+    "bg": "почивка",
+    "cs": "odpočinek",
+    "da": "hvile",
+    "de": "rest",
+    "el": "υπόλοιπο",
+    "es": "resto",
+    "et": "puhata",
+    "fi": "levätä",
+    "fr": "repos",
+    "hu": "pihenés",
+    "id": "istirahat",
+    "it": "riposo",
+    "ja": "休憩",
+    "ko": "휴식",
+    "lt": "poilsis",
+    "lv": "atpūta",
+    "nb": "hvile",
+    "nl": "rust",
+    "pl": "odpoczynek",
+    "pt": "descanso",
+    "ro": "odihnă",
+    "ru": "отдых",
+    "sk": "zvyšok",
+    "sl": "počitek",
+    "sv": "vila",
+    "tr": "dinlenme",
+    "uk": "відпочинок",
+    "zh": "休息时间"
+  },
+  "verses": [
+    "isaiah 28:12:8"
+  ]
+}

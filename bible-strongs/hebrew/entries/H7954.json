@@ -1,0 +1,42 @@
+{
+  "number": "H7954",
+  "language": "hebrew",
+  "transliteration": "shᵉlâh",
+  "pronunciation": "shel-aw'",
+  "definition": "to be secure",
+  "kjvTranslation": "at rest.",
+  "hebrew": "שְׁלָה",
+  "translations": {
+    "bg": "да бъдете сигурни",
+    "cs": "být v bezpečí",
+    "da": "at være sikker",
+    "de": "sicher zu sein",
+    "el": "να είναι ασφαλής",
+    "es": "estar seguro",
+    "et": "olla turvaline",
+    "fi": "olla turvassa",
+    "fr": "être en sécurité",
+    "hu": "biztonságban lenni",
+    "id": "agar aman",
+    "it": "essere sicuri",
+    "ja": "安全であること",
+    "ko": "보안을 위해",
+    "lt": "būti saugiam",
+    "lv": "būt drošam",
+    "nb": "å være trygg",
+    "nl": "veilig zijn",
+    "pl": "być bezpiecznym",
+    "pt": "ser seguro",
+    "ro": "să fie în siguranță",
+    "ru": "быть в безопасности",
+    "sk": "byť v bezpečí",
+    "sl": "biti varen",
+    "sv": "att vara säker",
+    "tr": "güvenli olmak",
+    "uk": "щоб бути в безпеці",
+    "zh": "安全"
+  },
+  "verses": [
+    "daniel 4:1:2"
+  ]
+}

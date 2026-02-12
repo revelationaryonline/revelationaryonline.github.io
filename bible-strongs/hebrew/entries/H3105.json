@@ -1,0 +1,42 @@
+{
+  "number": "H3105",
+  "language": "hebrew",
+  "transliteration": "yûwbal",
+  "pronunciation": "yoo-bal'",
+  "definition": "a stream",
+  "kjvTranslation": "river.",
+  "translations": {
+    "bg": "поток",
+    "cs": "proud",
+    "da": "en strøm",
+    "de": "ein Strom",
+    "el": "ένα ρεύμα",
+    "es": "una corriente",
+    "et": "voolu",
+    "fi": "virta",
+    "fr": "un flux",
+    "hu": "egy patak",
+    "id": "aliran",
+    "it": "un flusso",
+    "ja": "流れ",
+    "ko": "스트림",
+    "lt": "srautas",
+    "lv": "straume",
+    "nb": "en strøm",
+    "nl": "een stroom",
+    "pl": "strumień",
+    "pt": "um fluxo",
+    "ro": "un flux",
+    "ru": "поток",
+    "sk": "prúd",
+    "sl": "tok",
+    "sv": "en ström",
+    "tr": "bir dere",
+    "uk": "потік",
+    "zh": "一股"
+  },
+  "hebrew": "יוּבַל",
+  "verses": [
+    "jeremiah 17:8:6"
+  ]
+}

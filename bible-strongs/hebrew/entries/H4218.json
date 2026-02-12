@@ -1,0 +1,42 @@
+{
+  "number": "H4218",
+  "language": "hebrew",
+  "transliteration": "mizrâʻ",
+  "pronunciation": "miz-raw'",
+  "definition": "a planted field",
+  "kjvTranslation": "thing sown.",
+  "hebrew": "מִזְרָע",
+  "translations": {
+    "bg": "засадено поле",
+    "cs": "osázené pole",
+    "da": "en tilplantet mark",
+    "de": "ein bepflanztes Feld",
+    "el": "ένα φυτεμένο χωράφι",
+    "es": "un campo plantado",
+    "et": "istutatud põld",
+    "fi": "istutettu pelto",
+    "fr": "un champ planté",
+    "hu": "beültetett mező",
+    "id": "ladang yang ditanami",
+    "it": "un campo coltivato",
+    "ja": "作付け田",
+    "ko": "심은 밭",
+    "lt": "apsodintas laukas",
+    "lv": "apstādīts lauks",
+    "nb": "en beplantet åker",
+    "nl": "een beplant veld",
+    "pl": "obsadzone pole",
+    "pt": "um campo plantado",
+    "ro": "un câmp plantat",
+    "ru": "засеянное поле",
+    "sk": "vysadené pole",
+    "sl": "zasajeno polje",
+    "sv": "ett planterat fält",
+    "tr": "ekili bir tarla",
+    "uk": "засіяне поле",
+    "zh": "耕地"
+  },
+  "verses": [
+    "isaiah 19:7:7"
+  ]
+}

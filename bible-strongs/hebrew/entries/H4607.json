@@ -1,0 +1,42 @@
+{
+  "number": "H4607",
+  "language": "hebrew",
+  "transliteration": "môʻal",
+  "pronunciation": "mo'-al",
+  "definition": "a raising (of the hands)",
+  "kjvTranslation": "lifting up.",
+  "hebrew": "מֹעַל",
+  "verses": [
+    "nehemiah 8:6:11"
+  ],
+  "translations": {
+    "bg": "вдигане (на ръцете)",
+    "cs": "zvednutí (rukou)",
+    "da": "en løftning (af hænderne)",
+    "de": "ein Heben (der Hände)",
+    "el": "ένα σήκωμα (των χεριών)",
+    "es": "una elevación (de las manos)",
+    "et": "(käte) tõstmine",
+    "fi": "(käsien) nostaminen",
+    "fr": "une élévation (des mains)",
+    "hu": "(a kezek) felemelése",
+    "id": "mengangkat (tangan)",
+    "it": "un'alzata (delle mani)",
+    "ja": "挙手",
+    "ko": "(손을 들어 올리기)",
+    "lt": "rankų pakėlimas",
+    "lv": "(roku) pacelšana",
+    "nb": "en heving (av hendene)",
+    "nl": "een opsteken (van de handen)",
+    "pl": "podniesienie (rąk)",
+    "pt": "um levantar (das mãos)",
+    "ro": "o ridicare (a mâinilor)",
+    "ru": "поднятие (рук)",
+    "sk": "zdvihnutie (rúk)",
+    "sl": "dvig (rok)",
+    "sv": "en höjning (av händerna)",
+    "tr": "(ellerin) kaldırılması",
+    "uk": "підняття (рук)",
+    "zh": "举手"
+  }
+}

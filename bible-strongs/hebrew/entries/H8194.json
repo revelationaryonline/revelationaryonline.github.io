@@ -1,0 +1,42 @@
+{
+  "number": "H8194",
+  "language": "hebrew",
+  "transliteration": "shâphâh",
+  "pronunciation": "shaw-faw'",
+  "definition": "a cheese (as strained from the whey)",
+  "kjvTranslation": "cheese.",
+  "hebrew": "שָׁפָה",
+  "translations": {
+    "bg": "сирене (отцедено от суроватката)",
+    "cs": "sýr (oddělený od syrovátky)",
+    "da": "en ost (som er siet fra vallen)",
+    "de": "ein Käse (wie von der Molke abgeseiht)",
+    "el": "ένα τυρί (όπως στραγγίζεται από τον ορό γάλακτος)",
+    "es": "un queso (colado del suero)",
+    "et": "juust (vadakust nõrutatud)",
+    "fi": "juusto (herasta puhdistettuna)",
+    "fr": "un fromage (tel qu'égoutté du petit-lait)",
+    "hu": "sajt (a savótól leszűrt)",
+    "id": "keju (seperti yang disaring dari whey)",
+    "it": "un formaggio (filtrato dal siero)",
+    "ja": "チーズ（乳清を絞ったもの）",
+    "ko": "치즈 1개(유청에서 걸러낸 것)",
+    "lt": "sūris (ištrintas iš išrūgų)",
+    "lv": "siers (atdalīts no sūkalām)",
+    "nb": "en ost (som er silt fra mysen)",
+    "nl": "een kaas (zoals gezeefd van de wei)",
+    "pl": "ser (odcedzony z serwatki)",
+    "pt": "um queijo (tal como coado do soro)",
+    "ro": "o brânză (strecurată din zer)",
+    "ru": "сыр (отцеженный от сыворотки)",
+    "sk": "syr (odcedený zo srvátky)",
+    "sl": "sir (odcejen iz sirotke)",
+    "sv": "en ost (som silats från vasslen)",
+    "tr": "bir peynir (peynir altı suyundan süzülmüş olarak)",
+    "uk": "сир (відціджений від сироватки)",
+    "zh": "酪"
+  },
+  "verses": [
+    "secondSamuel 17:29:3"
+  ]
+}

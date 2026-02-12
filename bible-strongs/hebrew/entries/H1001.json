@@ -1,0 +1,42 @@
+{
+  "number": "H1001",
+  "language": "hebrew",
+  "transliteration": "bîyrâʼ",
+  "pronunciation": "bee-raw'",
+  "definition": "a palace",
+  "kjvTranslation": "palace.",
+  "translations": {
+    "bg": "дворец",
+    "cs": "palác",
+    "da": "et palads",
+    "de": "ein Palast",
+    "el": "ένα παλάτι",
+    "es": "un palacio",
+    "et": "palee",
+    "fi": "palatsi",
+    "fr": "un palais",
+    "hu": "egy palota",
+    "id": "sebuah istana",
+    "it": "un palazzo",
+    "ja": "宮殿",
+    "ko": "궁전",
+    "lt": "rūmai",
+    "lv": "pils",
+    "nb": "et palass",
+    "nl": "een paleis",
+    "pl": "pałac",
+    "pt": "um palácio",
+    "ro": "un palat",
+    "ru": "дворец",
+    "sk": "palác",
+    "sl": "palača",
+    "sv": "ett palats",
+    "tr": "bir saray",
+    "uk": "палац",
+    "zh": "王宫"
+  },
+  "hebrew": "בִּירָא",
+  "verses": [
+    "ezra 6:2:2"
+  ]
+}

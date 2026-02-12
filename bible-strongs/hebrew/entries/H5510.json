@@ -1,0 +1,42 @@
+{
+  "number": "H5510",
+  "language": "hebrew",
+  "transliteration": "Çîyvân",
+  "pronunciation": "see-vawn'",
+  "definition": "Sivan, the third Hebrew month",
+  "kjvTranslation": "Sivan.",
+  "hebrew": "סִיוָן",
+  "translations": {
+    "bg": "Сиван, третият еврейски месец",
+    "cs": "Sivan, třetí hebrejský měsíc",
+    "da": "Sivan, den tredje hebraiske måned",
+    "de": "Sivan, der dritte hebräische Monat",
+    "el": "Σιβάν, ο τρίτος εβραϊκός μήνας",
+    "es": "Sivan, tercer mes hebreo",
+    "et": "Sivan, kolmas heebrea kuu",
+    "fi": "Sivan, kolmas heprealainen kuukausi",
+    "fr": "Sivan, le troisième mois hébreu",
+    "hu": "Siván, a harmadik héber hónap",
+    "id": "Sivan, bulan Ibrani ketiga",
+    "it": "Sivan, il terzo mese ebraico",
+    "ja": "シヴァン、ヘブライ語第3の月",
+    "ko": "히브리어 세 번째 달, 시반",
+    "lt": "Sivanas, trečiasis hebrajų mėnuo",
+    "lv": "Sivāns, trešais ebreju mēnesis",
+    "nb": "Sivan, den tredje hebraiske måneden",
+    "nl": "Sivan, de derde Hebreeuwse maand",
+    "pl": "Sivan, trzeci hebrajski miesiąc",
+    "pt": "Sivan, o terceiro mês hebraico",
+    "ro": "Sivan, a treia lună ebraică",
+    "ru": "Сиван, третий еврейский месяц",
+    "sk": "Sivan, tretí hebrejský mesiac",
+    "sl": "Sivan, tretji hebrejski mesec",
+    "sv": "Sivan, den tredje hebreiska månaden",
+    "tr": "Sivan, üçüncü İbrani ayı",
+    "uk": "Сіван, третій єврейський місяць",
+    "zh": "西凡，希伯来文第三个月"
+  },
+  "verses": [
+    "esther 8:9:9"
+  ]
+}

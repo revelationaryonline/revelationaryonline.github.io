@@ -1,0 +1,43 @@
+{
+  "number": "H4545",
+  "language": "hebrew",
+  "transliteration": "maççeketh",
+  "pronunciation": "mas-seh'-keth",
+  "definition": "something expanded, i.e. the warp in aloom (as stretched out to receive the woof)",
+  "kjvTranslation": "web.",
+  "hebrew": "מַסֶּכֶת",
+  "verses": [
+    "judges 16:13:24",
+    "judges 16:14:14"
+  ],
+  "translations": {
+    "bg": "нещо разширено, напр. основата в тъканта (разтеглена, за да приеме вътъка)",
+    "cs": "něco roztaženého, tj. osnova v útku (roztažená, aby přijala útek)",
+    "da": "noget udvidet, f.eks. kæde i aloom (som udspændt for at modtage vævet)",
+    "de": "etwas Ausgedehntes, z. B. die Kette im Webstuhl (wie ausgestreckt, um den Schuss aufzunehmen)",
+    "el": "κάτι που έχει διασταλεί, π.χ. το στημόνι στο αλούμι (όπως είναι τεντωμένο για να δεχτεί το υφάδι)",
+    "es": "algo expandido, por ejemplo, la urdimbre en aloom (como estirada para recibir la trama)",
+    "et": "midagi laiendatud, s.t. lõimelõng (nagu välja sirutatud, et saada kootud lõim)",
+    "fi": "jotain laajennettua, esim. loimi puomissa (venytettynä vastaanottamaan kudetta)",
+    "fr": "quelque chose d'élargi, par exemple la chaîne d'un métier à tisser (étirée pour recevoir la trame)",
+    "hu": "valami kiterjesztett, pl. a láncfonal az alumnál (ahogyan kinyújtva fogadja a fonalat)",
+    "id": "sesuatu yang diperluas, yaitu lungsin dalam aloom (seperti direntangkan untuk menerima guk)",
+    "it": "qualcosa di espanso, ad esempio l'ordito in aloom (come se fosse teso per ricevere la trama)",
+    "ja": "緯糸",
+    "ko": "확장된 무언가, 즉 알룸의 워프(우프를 받기 위해 펴진 상태)",
+    "lt": "kažkas išsiplėtęs, t. y. audeklo metmenys (ištempti, kad priimtų ataudus)",
+    "lv": "kaut kas izstiepts, t. i., pavediens (kā izstiepts, lai saņemtu pavedienu)",
+    "nb": "noe utstrakt, f.eks. renningen i aloom (som strukket ut for å ta imot vevet)",
+    "nl": "iets dat uitzet, bijv. de schering in aloom (zoals uitgerekt om de inslag te ontvangen)",
+    "pl": "coś rozciągniętego, np. osnowa w aloesie (rozciągnięta, aby otrzymać wątek)",
+    "pt": "algo expandido, ou seja, a urdidura de um tear (esticada para receber a trama)",
+    "ro": "ceva expandat, de exemplu urzeala în aloom (întinsă pentru a primi țesătura)",
+    "ru": "нечто расширенное, т.е. основа в алуме (вытянутая для получения мотка)",
+    "sk": "niečo rozšírené, t. j. osnova v tkanine (ako sa rozprestiera, aby prijala úplet)",
+    "sl": "nekaj raztegnjenega, npr. osnova v tkanini (kot raztegnjena, da bi sprejela preplet)",
+    "sv": "något utvidgat, t.ex. varpen i aloom (som sträckts ut för att ta emot väven)",
+    "tr": "genişlemiş bir şey, örneğin aloom'daki çözgü (havı almak için gerilmiş olarak)",
+    "uk": "щось розширене, тобто викривлення в алоумі (як витягнуте, щоб прийняти гавкіт)",
+    "zh": "展开的东西，即内里的经纱（被拉开以接收纬纱）"
+  }
+}

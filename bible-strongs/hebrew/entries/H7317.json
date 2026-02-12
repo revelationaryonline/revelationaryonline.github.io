@@ -1,0 +1,42 @@
+{
+  "number": "H7317",
+  "language": "hebrew",
+  "transliteration": "rôwmâh",
+  "pronunciation": "ro-maw'",
+  "definition": "elation, i.e. (adverbially) proudly",
+  "kjvTranslation": "haughtily.",
+  "hebrew": "רוֹמָה",
+  "translations": {
+    "bg": "възторг, т.е. (наречие) гордост",
+    "cs": "nadšení, tj. (příslovečně) hrdě",
+    "da": "opstemthed, dvs. (adverbielt) stolt",
+    "de": "freudig, d.h. (adverbial) stolz",
+    "el": "αγαλλίαση, δηλαδή (επιρρηματικά) περήφανα",
+    "es": "euforia, es decir (adverbialmente) con orgullo",
+    "et": "elation, st (adverbiaalselt) uhkelt",
+    "fi": "riemu, ts. (adverbiaalisesti) ylpeänä",
+    "fr": "l'allégresse, c'est-à-dire (adverbialement) la fierté",
+    "hu": "elation, azaz (határozószóval) büszkén",
+    "id": "kegembiraan, yaitu (kata keterangan) dengan bangga",
+    "it": "euforia, cioè (avverbialmente) orgogliosamente",
+    "ja": "昂揚、すなわち（副詞的に）誇らしげに",
+    "ko": "환희, 즉 (부사적으로) 자랑스럽게",
+    "lt": "elation, t. y. (su prieveiksmiais) išdidžiai",
+    "lv": "sajūsma, t.i., (apstākļa vārds) lepni",
+    "nb": "opprømt, dvs. (adverbialt) stolt",
+    "nl": "opgetogen, d.w.z. (bijwoordelijk) trots",
+    "pl": "uniesienie, tj. (przysłówkowo) dumnie",
+    "pt": "elação, ou seja, (adverbialmente) orgulhosamente",
+    "ro": "elație, adică (adverbial) cu mândrie",
+    "ru": "восторженно, т.е. (наречие) гордо",
+    "sk": "elation, t. j. (príslovkovo) hrdo",
+    "sl": "navdušenje, tj. (prislovno) ponosno",
+    "sv": "elation, d.v.s. (adverbiellt) stolt",
+    "tr": "sevinç, yani (zarf olarak) gururla",
+    "uk": "піднесено, тобто (прислівниково) гордо",
+    "zh": "意气风发"
+  },
+  "verses": [
+    "micah 2:3:17"
+  ]
+}

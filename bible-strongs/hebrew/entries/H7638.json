@@ -1,0 +1,42 @@
+{
+  "number": "H7638",
+  "language": "hebrew",
+  "transliteration": "sâbâk",
+  "pronunciation": "saw-bawk'",
+  "definition": "a netting (ornament to the capital of a column)",
+  "kjvTranslation": "net.",
+  "hebrew": "שָׂבָךְ",
+  "translations": {
+    "bg": "мрежа (орнамент на главата на колона)",
+    "cs": "síťovina (ozdoba hlavice sloupu)",
+    "da": "et net (udsmykning til kapitælen på en søjle)",
+    "de": "ein Netz (Verzierung des Kapitells einer Säule)",
+    "el": "ένα δίχτυ (στολίδι στο κεφάλαιο μιας στήλης)",
+    "es": "una red (ornamento del capitel de una columna)",
+    "et": "võrk (ornament veeru kapitaalile)",
+    "fi": "verkko (pylvään päädyn koriste)",
+    "fr": "un filet (ornement du chapiteau d'une colonne)",
+    "hu": "háló (az oszlop tőkéjének dísze)",
+    "id": "jaring (ornamen pada bagian atas kolom)",
+    "it": "una rete (ornamento del capitello di una colonna)",
+    "ja": "網代",
+    "ko": "그물망(기둥의 대문자 장식)",
+    "lt": "tinklelis (kolonos galvutės puošmena)",
+    "lv": "tīkliņš (kolonnas galvas rotājums)",
+    "nb": "et netting (ornament til kapitellet på en søyle)",
+    "nl": "een net (versiering aan het kapiteel van een zuil)",
+    "pl": "siatka (ozdoba na kapitelu kolumny)",
+    "pt": "uma rede (ornamento do capitel de uma coluna)",
+    "ro": "o plasă (ornament al capitelului unei coloane)",
+    "ru": "сетка (украшение на столицу колонны)",
+    "sk": "sieťovina (ozdoba na hlavici stĺpa)",
+    "sl": "mreža (okras na kapitelju stebra)",
+    "sv": "ett nät (utsmyckning till en kolumns huvuddel)",
+    "tr": "bir ağ (bir sütunun başlığına yapılan süs)",
+    "uk": "сітка (орнамент до капітелі колони)",
+    "zh": "桁"
+  },
+  "verses": [
+    "firstKings 7:17:0"
+  ]
+}

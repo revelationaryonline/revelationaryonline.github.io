@@ -1,0 +1,42 @@
+{
+  "number": "H6183",
+  "language": "hebrew",
+  "transliteration": "ʻârîyph",
+  "pronunciation": "aw-reef'",
+  "definition": "the sky (as dropping at the horizon)",
+  "kjvTranslation": "heaven.",
+  "hebrew": "עָרִיף",
+  "translations": {
+    "bg": "небето (като падане на хоризонта)",
+    "cs": "obloha (jako pokles na obzoru)",
+    "da": "himlen (som falder ved horisonten)",
+    "de": "der Himmel (wie am Horizont abfallend)",
+    "el": "ο ουρανός (όπως πέφτει στον ορίζοντα)",
+    "es": "el cielo (como cayendo en el horizonte)",
+    "et": "taevas (nagu langevad horisondil)",
+    "fi": "taivas (horisonttiin laskeutuvana)",
+    "fr": "le ciel (comme s'il tombait à l'horizon)",
+    "hu": "az égbolt (mint a horizonton leeső)",
+    "id": "langit (seperti jatuh di cakrawala)",
+    "it": "il cielo (come se scendesse all'orizzonte)",
+    "ja": "空",
+    "ko": "하늘(수평선에 떨어지는 모습)",
+    "lt": "dangus (krintantis ties horizontu)",
+    "lv": "debesis (kā kritums pie apvāršņa)",
+    "nb": "himmelen (som synker ved horisonten)",
+    "nl": "de hemel (als vallend aan de horizon)",
+    "pl": "niebo (jako opadające na horyzoncie)",
+    "pt": "o céu (como se estivesse a cair no horizonte)",
+    "ro": "cerul (ca o cădere la orizont)",
+    "ru": "небо (как падение на горизонте)",
+    "sk": "obloha (ako klesanie na horizonte)",
+    "sl": "nebo (kot padec na obzorju)",
+    "sv": "himlen (som fallande vid horisonten)",
+    "tr": "gökyüzü (ufukta düşerken)",
+    "uk": "небо (як падіння на горизонті)",
+    "zh": "穹苍"
+  },
+  "verses": [
+    "isaiah 5:30:13"
+  ]
+}

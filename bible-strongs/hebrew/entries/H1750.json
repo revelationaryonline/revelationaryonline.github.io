@@ -1,0 +1,42 @@
+{
+  "number": "H1750",
+  "language": "hebrew",
+  "transliteration": "dûwts",
+  "pronunciation": "doots",
+  "definition": "to leap",
+  "kjvTranslation": "be turned.",
+  "translations": {
+    "bg": "да скача",
+    "cs": "skákat",
+    "da": "at springe",
+    "de": "zu springen",
+    "el": "να πηδήξω",
+    "es": "saltar",
+    "et": "hüpata",
+    "fi": "hyppäämään",
+    "fr": "sauter",
+    "hu": "ugrani",
+    "id": "untuk melompat",
+    "it": "saltare",
+    "ja": "跳ぶ",
+    "ko": "도약하다",
+    "lt": "šokinėti",
+    "lv": "lēkt",
+    "nb": "til å hoppe",
+    "nl": "om te springen",
+    "pl": "skakać",
+    "pt": "para saltar",
+    "ro": "să sară",
+    "ru": "прыгать",
+    "sk": "skákať",
+    "sl": "skakati",
+    "sv": "att hoppa",
+    "tr": "sıçramak için",
+    "uk": "стрибнути",
+    "zh": "跃"
+  },
+  "hebrew": "דּוּץ",
+  "verses": [
+    "job 41:14:4"
+  ]
+}

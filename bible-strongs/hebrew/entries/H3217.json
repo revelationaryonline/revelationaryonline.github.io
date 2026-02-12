@@ -1,0 +1,43 @@
+{
+  "number": "H3217",
+  "language": "hebrew",
+  "transliteration": "yallepheth",
+  "pronunciation": "yal-leh'-feth",
+  "definition": "scurf or tetter",
+  "kjvTranslation": "scabbed.",
+  "translations": {
+    "bg": "скреж или тетър",
+    "cs": "scurf nebo tetter",
+    "da": "skurv eller tetter",
+    "de": "schorf oder Tetter",
+    "el": "ψώρα ή πανώλη",
+    "es": "espinilla",
+    "et": "pori või tetter",
+    "fi": "rupea tai rupea",
+    "fr": "gale ou tetter",
+    "hu": "hámlás vagy tetter",
+    "id": "scurf atau tetter",
+    "it": "pidocchioso o pidocchioso",
+    "ja": "スカーフまたはテッター",
+    "ko": "스커프 또는 테터",
+    "lt": "žvynelinė arba tetteris",
+    "lv": "zvīņošanās vai tetteris",
+    "nb": "skurv eller tetter",
+    "nl": "korst of tetter",
+    "pl": "strup lub zgnilizna",
+    "pt": "sarna ou sarna-da-raiz",
+    "ro": "scurf sau tetter",
+    "ru": "шкурка или лишай",
+    "sk": "scurf alebo tetter",
+    "sl": "pordelost ali pegavost",
+    "sv": "scurf eller tetter",
+    "tr": "scurf veya tetter",
+    "uk": "сюрф або лишай",
+    "zh": "垢"
+  },
+  "hebrew": "יַלֶּפֶת",
+  "verses": [
+    "leviticus 21:20:10",
+    "leviticus 22:22:10"
+  ]
+}

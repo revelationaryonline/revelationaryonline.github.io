@@ -1,0 +1,43 @@
+{
+  "number": "H1469",
+  "language": "hebrew",
+  "transliteration": "gôwzâl",
+  "pronunciation": "go-zawl'",
+  "definition": "a nestling (as being comparatively nude of feathers)",
+  "kjvTranslation": "young (pigeon).",
+  "translations": {
+    "bg": "пиленце (като сравнително чисто от пера)",
+    "cs": "mládě (jako poměrně holé peří)",
+    "da": "en redeunge (som er forholdsvis nøgen af fjer)",
+    "de": "ein Nestling (als vergleichsweise federloses Wesen)",
+    "el": "ένα νεοσσό (ως συγκριτικά γυμνό από φτερά)",
+    "es": "un polluelo (por estar relativamente desnudo de plumas)",
+    "et": "pesapoeg (kui võrdlemisi alasti sulgedest)",
+    "fi": "pesäpoikanen (suhteellisen höyhenettömänä)",
+    "fr": "un oisillon (comme étant relativement dépourvu de plumes)",
+    "hu": "fészekalj (mint viszonylag csupasz tollú)",
+    "id": "sarang (karena relatif tidak memiliki bulu)",
+    "it": "un nidiaceo (in quanto relativamente nudo di piume)",
+    "ja": "すひな",
+    "ko": "둥지(깃털이 비교적 노출되지 않은 상태)",
+    "lt": "inkilas (palyginti be plunksnų)",
+    "lv": "ligzdiņš (salīdzinoši bez spalvām)",
+    "nb": "en fugleunge (som er forholdsvis naken av fjær)",
+    "nl": "een nestjong (als zijnde relatief naakt van veren)",
+    "pl": "pisklę (jako stosunkowo pozbawione piór)",
+    "pt": "um filhote (por estar relativamente despido de penas)",
+    "ro": "un pui (ca fiind relativ lipsit de pene)",
+    "ru": "птенец (как сравнительно голый в перьях)",
+    "sk": "mláďa (ako pomerne holé perie)",
+    "sl": "gnezdo (ki je razmeroma brez perja)",
+    "sv": "en fågelunge (som är jämförelsevis naken av fjädrar)",
+    "tr": "bir yuva (nispeten tüyleri çıplak olarak)",
+    "uk": "пташеня (як таке, що порівняно не має пір'я)",
+    "zh": "雏鸟"
+  },
+  "hebrew": "גּוֹזָל",
+  "verses": [
+    "genesis 15:9:11",
+    "deuteronomy 32:11:4"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3704",
+  "language": "hebrew",
+  "transliteration": "keçeth",
+  "pronunciation": "keh'-seth",
+  "definition": "a cushion or pillow (as covering a seat or bed)",
+  "kjvTranslation": "pillow.",
+  "translations": {
+    "bg": "възглавница (за покриване на седалка или легло)",
+    "cs": "polštář nebo poduška (jako potah sedadla nebo postele)",
+    "da": "en hynde eller pude (som dækker et sæde eller en seng)",
+    "de": "ein Polster oder Kissen (als Sitz- oder Bettbezug)",
+    "el": "ένα μαξιλάρι ή μαξιλάρι (για την κάλυψη ενός καθίσματος ή ενός κρεβατιού)",
+    "es": "un cojín o almohada (para cubrir un asiento o una cama)",
+    "et": "polster või padi (nagu istme või voodi katmine)",
+    "fi": "tyyny tai tyyny (istuimen tai sängyn peitteenä)",
+    "fr": "un coussin ou un oreiller (pour recouvrir un siège ou un lit)",
+    "hu": "párna vagy párna (mint az ülés vagy ágy borítása)",
+    "id": "bantal atau guling (sebagai penutup kursi atau tempat tidur)",
+    "it": "un cuscino o un guanciale (per coprire un sedile o un letto)",
+    "ja": "クッション枕",
+    "ko": "쿠션 또는 베개(좌석이나 침대를 덮는 용도로)",
+    "lt": "pagalvė arba pagalvėlė (kaip sėdynės ar lovos užvalkalas)",
+    "lv": "spilvens vai spilvens (kā sēdekļa vai gultas pārklājums)",
+    "nb": "en pute (som dekker et sete eller en seng)",
+    "nl": "een kussen (als bekleding van een stoel of bed)",
+    "pl": "poduszka lub poduszka (jako pokrycie siedzenia lub łóżka)",
+    "pt": "uma almofada ou travesseiro (para cobrir um assento ou uma cama)",
+    "ro": "o pernă sau o pernă (care acoperă un scaun sau un pat)",
+    "ru": "подушка или подушечка (как покрытие сиденья или кровати)",
+    "sk": "vankúš alebo poduška (ako poťah sedadla alebo postele)",
+    "sl": "blazina ali vzglavnik (kot prevleka sedeža ali postelje)",
+    "sv": "en dyna eller kudde (som täcker ett säte eller en säng)",
+    "tr": "bir minder veya yastık (bir koltuğu veya yatağı kaplamak gibi)",
+    "uk": "подушка або подушка (як покриття для сидіння або ліжка)",
+    "zh": "垫子"
+  },
+  "hebrew": "כֶּסֶת",
+  "verses": [
+    "ezekiel 13:18:7",
+    "ezekiel 13:20:7"
+  ]
+}

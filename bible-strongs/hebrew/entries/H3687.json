@@ -1,0 +1,42 @@
+{
+  "number": "H3687",
+  "language": "hebrew",
+  "transliteration": "kᵉçîylûwth",
+  "pronunciation": "kes-eel-ooth'",
+  "definition": "silliness",
+  "kjvTranslation": "foolish.",
+  "translations": {
+    "bg": "глупост",
+    "cs": "hloupost",
+    "da": "fjollethed",
+    "de": "dummheit",
+    "el": "ανοησία",
+    "es": "tontería",
+    "et": "rumalus",
+    "fi": "typeryys",
+    "fr": "bêtise",
+    "hu": "butaság",
+    "id": "kekonyolan",
+    "it": "stupidità",
+    "ja": "愚",
+    "ko": "어리석음",
+    "lt": "kvailystė",
+    "lv": "muļķība",
+    "nb": "tåpeligheter",
+    "nl": "dwaasheid",
+    "pl": "głupota",
+    "pt": "tolice",
+    "ro": "prostie",
+    "ru": "глупость",
+    "sk": "hlúposť",
+    "sl": "neumnost",
+    "sv": "fånighet",
+    "tr": "aptallık",
+    "uk": "безглуздість",
+    "zh": "无聊"
+  },
+  "hebrew": "כְּסִילוּת",
+  "verses": [
+    "proverbs 9:13:1"
+  ]
+}

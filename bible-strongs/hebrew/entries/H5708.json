@@ -1,0 +1,42 @@
+{
+  "number": "H5708",
+  "language": "hebrew",
+  "transliteration": "ʻêd",
+  "pronunciation": "ayd",
+  "definition": "the menstrual flux (as periodical); by implication (in plural) soiling",
+  "kjvTranslation": "filthy.",
+  "hebrew": "עֵד",
+  "translations": {
+    "bg": "менструалното течение (като периодично); по подразбиране (в множествено число) замърсяване",
+    "cs": "menstruační proud (jako periodický); implicitně (v množném čísle) znečištění",
+    "da": "menstruationsstrømmen (som periodisk); underforstået (i flertal) tilsmudsning",
+    "de": "der Menstruationsfluss (als periodisch); implizit (im Plural) die Verschmutzung",
+    "el": "η εμμηνορροϊκή ροή (ως περιοδική)- με την έννοια (στον πληθυντικό) η ρύπανση",
+    "es": "el flujo menstrual (como periódico); por implicación (en plural) ensuciamiento",
+    "et": "menstruatsioonivool (kui perioodiline); kaudselt (mitmuses) määrdumine",
+    "fi": "kuukautisvuoto (kuukautisvuotoina); implisiittisesti (monikossa) likaantuminen",
+    "fr": "le flux menstruel (comme périodique) ; par implication (au pluriel) la souillure",
+    "hu": "a menstruációs folyás (mint időszakos); értelemszerűen (többes számban) a szennyezés",
+    "id": "fluks menstruasi (sebagai periodik); dengan implikasi (dalam bentuk jamak) mengotori",
+    "it": "il flusso mestruale (come periodico); per implicazione (al plurale) la sporcizia",
+    "ja": "(定期的な)月経の流れ; (複数形の)汚れという意味合いで",
+    "ko": "월경 흐름 (주기적); 암시 적으로 (복수형) 더러워짐",
+    "lt": "menstruacijų srovė (periodiškai); netiesiogiai (daugiskaita) nešvarumai",
+    "lv": "menstruāciju plūdums (kā periodisks); netieši (daudzskaitlī) netīrība",
+    "nb": "menstruasjonsstrømmen (som periodisk); underforstått (i flertall) tilsmussing",
+    "nl": "de menstruatie (als periodiek); bij implicatie (in meervoud) bevuiling",
+    "pl": "strumień menstruacyjny (jako okresowy); w domyśle (w liczbie mnogiej) zabrudzenie",
+    "pt": "o fluxo menstrual (como periódico); por implicação (no plural) sujidade",
+    "ro": "fluxul menstrual (ca periodic); implicit (la plural) murdărie",
+    "ru": "менструальный поток (как периодический); по косвенным признакам (во множественном числе) загрязнение",
+    "sk": "menštruačný tok (ako periodický); implicitne (v množnom čísle) znečistenie",
+    "sl": "menstrualni tok (kot periodični); implicitno (v množini) umazanija",
+    "sv": "menstruationsflödet (som periodiskt); underförstått (i plural) nedsmutsning",
+    "tr": "adet akıntısı (periyodik olarak); ima yoluyla (çoğul olarak) kirlenme",
+    "uk": "менструальний потік (як періодичний); за змістом (у множині) забруднення",
+    "zh": "月经来潮（定期）；暗示（复数）玷污"
+  },
+  "verses": [
+    "isaiah 64:5:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6729",
+  "language": "hebrew",
+  "transliteration": "tsîynôq",
+  "pronunciation": "tsee-noke'",
+  "definition": "the pillory",
+  "kjvTranslation": "stocks.",
+  "hebrew": "צִינֹק",
+  "translations": {
+    "bg": "стълбата",
+    "cs": "pranýř",
+    "da": "prædikestolen",
+    "de": "der Pranger",
+    "el": "το στύλο",
+    "es": "la picota",
+    "et": "prügimägi",
+    "fi": "pylväs",
+    "fr": "le pilori",
+    "hu": "a pellengérre állítás",
+    "id": "tempat pemujaan",
+    "it": "la gogna",
+    "ja": "こうりん",
+    "ko": "기둥",
+    "lt": "stulpas",
+    "lv": "pīlārs",
+    "nb": "gapestokken",
+    "nl": "de schandpaal",
+    "pl": "pręgierz",
+    "pt": "o pelourinho",
+    "ro": "stâlpul",
+    "ru": "столб",
+    "sk": "stĺp",
+    "sl": "steber",
+    "sv": "skampålen",
+    "tr": "boyunduruk",
+    "uk": "стовп",
+    "zh": "耻辱柱"
+  },
+  "verses": [
+    "jeremiah 29:26:19"
+  ]
+}

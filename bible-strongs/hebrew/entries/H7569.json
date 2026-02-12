@@ -1,0 +1,42 @@
+{
+  "number": "H7569",
+  "language": "hebrew",
+  "transliteration": "rattôwq",
+  "pronunciation": "rat-toke'",
+  "definition": "a chain",
+  "kjvTranslation": "chain.",
+  "hebrew": "רַתּוֹק",
+  "translations": {
+    "bg": "верига",
+    "cs": "řetěz",
+    "da": "en kæde",
+    "de": "eine Kette",
+    "el": "μια αλυσίδα",
+    "es": "una cadena",
+    "et": "kett",
+    "fi": "ketju",
+    "fr": "une chaîne",
+    "hu": "egy lánc",
+    "id": "sebuah rantai",
+    "it": "una catena",
+    "ja": "鎖",
+    "ko": "체인",
+    "lt": "grandinė",
+    "lv": "ķēde",
+    "nb": "en kjede",
+    "nl": "een ketting",
+    "pl": "łańcuch",
+    "pt": "uma cadeia",
+    "ro": "un lanț",
+    "ru": "цепочка",
+    "sk": "reťaz",
+    "sl": "veriga",
+    "sv": "en kedja",
+    "tr": "bir zincir",
+    "uk": "ланцюжок",
+    "zh": "连环"
+  },
+  "verses": [
+    "ezekiel 7:23:1"
+  ]
+}

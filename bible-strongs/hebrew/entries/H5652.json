@@ -1,0 +1,42 @@
+{
+  "number": "H5652",
+  "language": "hebrew",
+  "transliteration": "ʻăbâd",
+  "pronunciation": "ab-awd'",
+  "definition": "a deed",
+  "kjvTranslation": "work.",
+  "hebrew": "עֲבָד",
+  "translations": {
+    "bg": "документ за собственост",
+    "cs": "listina",
+    "da": "et skøde",
+    "de": "eine Urkunde",
+    "el": "μια πράξη",
+    "es": "una escritura",
+    "et": "teo",
+    "fi": "kauppakirja",
+    "fr": "un acte",
+    "hu": "egy okirat",
+    "id": "sebuah akta",
+    "it": "un atto",
+    "ja": "証書",
+    "ko": "증서",
+    "lt": "aktas",
+    "lv": "akts",
+    "nb": "et skjøte",
+    "nl": "een akte",
+    "pl": "czyn",
+    "pt": "uma escritura",
+    "ro": "o faptă",
+    "ru": "дело",
+    "sk": "listina",
+    "sl": "listina",
+    "sv": "en handling",
+    "tr": "bir tapu",
+    "uk": "вчинок",
+    "zh": "契"
+  },
+  "verses": [
+    "ecclesiastes 9:1:14"
+  ]
+}

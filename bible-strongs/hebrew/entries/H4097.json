@@ -1,0 +1,43 @@
+{
+  "number": "H4097",
+  "language": "hebrew",
+  "transliteration": "midrâsh",
+  "pronunciation": "mid-rawsh'",
+  "definition": "properly, an investigation, i.e. (by implication) a treatise or elaborate compilation",
+  "kjvTranslation": "story.",
+  "hebrew": "מִדְרָשׁ",
+  "translations": {
+    "bg": "правилно - изследване, т.е. (по подразбиране) трактат или подробен сборник",
+    "cs": "správně vyšetřování, tj. (implicitně) pojednání nebo propracovaná kompilace",
+    "da": "korrekt, en undersøgelse, dvs. (underforstået) en afhandling eller udførlig samling",
+    "de": "eigentlich eine Untersuchung, d. h. (implizit) eine Abhandlung oder eine ausführliche Zusammenstellung",
+    "el": "σωστά, μια έρευνα, δηλαδή (κατ' επέκταση) μια πραγματεία ή μια περίτεχνη συλλογή",
+    "es": "propiamente, una investigación, es decir (implícitamente) un tratado o una recopilación elaborada",
+    "et": "õigesti, uurimus, st (kaudselt) traktaat või põhjalik kogumik",
+    "fi": "oikeastaan tutkimus, eli (epäsuorasti) tutkielma tai perusteellinen kooste",
+    "fr": "proprement dit, une enquête, c'est-à-dire (implicitement) un traité ou une compilation élaborée",
+    "hu": "helyesen, egy vizsgálat, azaz (értelemszerűen) egy értekezés vagy részletes összeállítás",
+    "id": "benar, sebuah investigasi, yaitu (dengan implikasi) sebuah risalah atau kompilasi yang rumit",
+    "it": "propriamente, un'indagine, cioè (per implicazione) un trattato o una compilazione elaborata",
+    "ja": "正確には、調査、つまり（暗に）論文や精巧な編集物",
+    "ko": "적절하게는 조사, 즉 (암시적으로) 논문 또는 정교한 편집물",
+    "lt": "tinkamai, tyrimas, t. y. (netiesiogiai) traktatas ar išsamus rinkinys",
+    "lv": "pareizi - pētījums, t.i., (netieši) traktāts vai izvērsts apkopojums",
+    "nb": "egentlig en undersøkelse, dvs. (underforstått) en avhandling eller utførlig sammenstilling",
+    "nl": "goed, een onderzoek, d.w.z. (impliciet) een verhandeling of uitgebreide compilatie",
+    "pl": "właściwie dochodzenie, tj. (w domyśle) traktat lub rozbudowana kompilacja",
+    "pt": "propriamente, uma investigação, ou seja, (implicitamente) um tratado ou uma compilação elaborada",
+    "ro": "corect, o investigație, adică (implicit) un tratat sau o compilație elaborată",
+    "ru": "правильно, исследование, т.е. (по косвенным признакам) трактат или подробный сборник",
+    "sk": "správne, vyšetrovanie, t. j. (implicitne) pojednanie alebo komplikovaná kompilácia",
+    "sl": "pravilno, raziskava, tj. (implicitno) traktat ali podrobna zbirka",
+    "sv": "en undersökning, dvs. (underförstått) en avhandling eller en detaljerad sammanställning",
+    "tr": "uygun bir şekilde, bir araştırma, yani (ima yoluyla) bir inceleme veya ayrıntılı derleme",
+    "uk": "власне, дослідження, тобто (за підтекстом) трактат або ретельна компіляція",
+    "zh": "调查，即（暗指）论文或详细汇编"
+  },
+  "verses": [
+    "secondChronicles 13:22:6",
+    "secondChronicles 24:27:11"
+  ]
+}

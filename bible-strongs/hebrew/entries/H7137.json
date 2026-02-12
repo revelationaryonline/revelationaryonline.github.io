@@ -1,0 +1,42 @@
+{
+  "number": "H7137",
+  "language": "hebrew",
+  "transliteration": "qâreh",
+  "pronunciation": "kaw-reh'",
+  "definition": "an (unfortunate) occurrence, i.e. some accidental (ceremonial) disqualification",
+  "kjvTranslation": "uncleanness that chanceth.",
+  "hebrew": "קָרֶה",
+  "translations": {
+    "bg": "(нещастен) случай, т.е. случайна (церемониална) дисквалификация",
+    "cs": "(nešťastná) událost, tj. náhodná (ceremoniální) diskvalifikace",
+    "da": "en (uheldig) begivenhed, dvs. en tilfældig (ceremoniel) diskvalifikation",
+    "de": "ein (unglückliches) Ereignis, d.h. eine zufällige (zeremonielle) Disqualifikation",
+    "el": "ένα (ατυχές) συμβάν, δηλαδή κάποιος τυχαίος (τελετουργικός) αποκλεισμός",
+    "es": "un suceso (desafortunado), es decir, una descalificación accidental (ceremonial)",
+    "et": "(õnnetu) sündmus, st mõni juhuslik (tseremoniaalne) diskvalifitseerimine",
+    "fi": "(epäonninen) tapahtuma, eli jokin vahingossa tapahtunut (seremoniallinen) hylkääminen",
+    "fr": "un événement (malheureux), c'est-à-dire une disqualification accidentelle (cérémonial)",
+    "hu": "egy (szerencsétlen) esemény, azaz valamilyen véletlen (szertartásos) kizárás",
+    "id": "kejadian (yang tidak menguntungkan), yaitu beberapa diskualifikasi (seremonial) yang tidak disengaja",
+    "it": "un evento (sfortunato), cioè una squalifica accidentale (cerimoniale)",
+    "ja": "不幸中の幸い",
+    "ko": "(불행한) 사건, 즉 우발적인 (의례적인) 실격이 발생한 경우",
+    "lt": "(nelaimingas) įvykis, t. y. atsitiktinis (ceremonialinis) diskvalifikavimas",
+    "lv": "(neveiksmīgs) gadījums, t. i., nejauša (ceremoniāla) diskvalifikācija",
+    "nb": "en (uheldig) hendelse, dvs. en utilsiktet (seremoniell) diskvalifikasjon",
+    "nl": "een (ongelukkige) gebeurtenis, d.w.z. een toevallige (ceremoniële) diskwalificatie",
+    "pl": "(niefortunne) zdarzenie, tj. przypadkowa (ceremonialna) dyskwalifikacja",
+    "pt": "uma ocorrência (infeliz), ou seja, uma desqualificação (cerimonial) acidental",
+    "ro": "un eveniment (nefericit), adică o descalificare accidentală (ceremonială)",
+    "ru": "(несчастный) случай, т.е. случайная (церемониальная) дисквалификация",
+    "sk": "(nešťastná) udalosť, t. j. náhodná (ceremoniálna) diskvalifikácia",
+    "sl": "(nesrečen) dogodek, tj. naključna (obredna) diskvalifikacija",
+    "sv": "en (olycklig) händelse, dvs. någon oavsiktlig (ceremoniell) diskvalificering",
+    "tr": "(talihsiz) bir olay, yani kazara (törensel) bir diskalifiye",
+    "uk": "(прикрий) випадок, тобто випадкова (церемоніальна) дискваліфікація",
+    "zh": "出师不利"
+  },
+  "verses": [
+    "deuteronomy 23:11:8"
+  ]
+}

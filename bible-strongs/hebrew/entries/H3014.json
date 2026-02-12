@@ -1,0 +1,42 @@
+{
+  "number": "H3014",
+  "language": "hebrew",
+  "transliteration": "yâgâh",
+  "pronunciation": "yaw-gaw'",
+  "definition": "to push away",
+  "kjvTranslation": "be removed.",
+  "translations": {
+    "bg": "да се отдръпне",
+    "cs": "odstrčit",
+    "da": "at skubbe væk",
+    "de": "wegzuschieben",
+    "el": "να απομακρύνω",
+    "es": "alejar",
+    "et": "eemale lükkama",
+    "fi": "työntää pois",
+    "fr": "repousser",
+    "hu": "hogy eltaszítsam magamtól",
+    "id": "untuk mendorong menjauh",
+    "it": "allontanare",
+    "ja": "押しのける",
+    "ko": "밀어내다",
+    "lt": "atstumti",
+    "lv": "atgrūst",
+    "nb": "å skyve bort",
+    "nl": "wegduwen",
+    "pl": "odepchnąć",
+    "pt": "para afastar",
+    "ro": "să respingi",
+    "ru": "отталкивать",
+    "sk": "odstrčiť",
+    "sl": "odriniti",
+    "sv": "att skjuta bort",
+    "tr": "itmek için",
+    "uk": "щоб відштовхнути",
+    "zh": "推开"
+  },
+  "hebrew": "יָגָה",
+  "verses": [
+    "secondSamuel 20:13:1"
+  ]
+}

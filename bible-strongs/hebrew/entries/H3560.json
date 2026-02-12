@@ -1,0 +1,42 @@
+{
+  "number": "H3560",
+  "language": "hebrew",
+  "transliteration": "Kûwn",
+  "pronunciation": "koon",
+  "definition": "Kun, a place in Syria",
+  "kjvTranslation": "Chun.",
+  "translations": {
+    "bg": "Кун, място в Сирия",
+    "cs": "Kun, místo v Sýrii",
+    "da": "Kun, et sted i Syrien",
+    "de": "Kun, ein Ort in Syrien",
+    "el": "Kun, τόπος στη Συρία",
+    "es": "Kun, un lugar en Siria",
+    "et": "Kun, koht Süürias",
+    "fi": "Kun, paikka Syyriassa",
+    "fr": "Kun, une localité en Syrie",
+    "hu": "Kun, egy hely Szíriában",
+    "id": "Kun, sebuah tempat di Suriah",
+    "it": "Kun, una località della Siria",
+    "ja": "クン、シリアの地名",
+    "ko": "쿤, 시리아의 한 장소",
+    "lt": "Kun, vietovė Sirijoje",
+    "lv": "Kun, vieta Sīrijā",
+    "nb": "Kun, et sted i Syria",
+    "nl": "Kun, een plaats in Syrië",
+    "pl": "Kun, miejsce w Syrii",
+    "pt": "Kun, um lugar na Síria",
+    "ro": "Kun, un loc în Siria",
+    "ru": "Кун, место в Сирии",
+    "sk": "Kun, miesto v Sýrii",
+    "sl": "Kun, kraj v Siriji",
+    "sv": "Kun, en plats i Syrien",
+    "tr": "Kun, Suriye'de bir yer",
+    "uk": "Кун, місце в Сирії",
+    "zh": "昆"
+  },
+  "hebrew": "כּוּן",
+  "verses": [
+    "firstChronicles 18:8:1"
+  ]
+}

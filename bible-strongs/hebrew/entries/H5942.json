@@ -1,0 +1,43 @@
+{
+  "number": "H5942",
+  "language": "hebrew",
+  "transliteration": "ʻillîy",
+  "pronunciation": "il-lee'",
+  "definition": "high; i.e. comparative",
+  "kjvTranslation": "upper.",
+  "hebrew": "עִלִּי",
+  "translations": {
+    "bg": "висока; т.е. сравнителна",
+    "cs": "vysoká; tj. srovnatelná",
+    "da": "høj; dvs. sammenlignelig",
+    "de": "hoch; d.h. vergleichsweise",
+    "el": "υψηλή, δηλαδή συγκριτική",
+    "es": "alta; es decir, comparativa",
+    "et": "kõrge; st võrdleva",
+    "fi": "korkea; toisin sanoen vertaileva",
+    "fr": "élevé ; c'est-à-dire comparatif",
+    "hu": "magas; azaz összehasonlító",
+    "id": "tinggi; yaitu komparatif",
+    "it": "elevato; cioè comparativo",
+    "ja": "高い。",
+    "ko": "높음; 즉, 비교",
+    "lt": "didelis, t. y. lyginamasis",
+    "lv": "augsts; t. i., salīdzinošs",
+    "nb": "høy; dvs. komparativ",
+    "nl": "hoog; d.w.z. vergelijkend",
+    "pl": "wysoki; tj. porównawczy",
+    "pt": "elevado; ou seja, comparativo",
+    "ro": "ridicat; de exemplu, comparativ",
+    "ru": "высокий; т.е. сравнительный",
+    "sk": "vysoká; t. j. porovnateľná",
+    "sl": "visoka; tj. primerjalna",
+    "sv": "hög; d.v.s. jämförande",
+    "tr": "yüksek; yani karşılaştırmalı",
+    "uk": "високий; тобто порівняльний",
+    "zh": "高；即比较"
+  },
+  "verses": [
+    "joshua 15:19:16",
+    "judges 1:15:18"
+  ]
+}

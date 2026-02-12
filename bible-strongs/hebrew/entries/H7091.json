@@ -1,0 +1,42 @@
+{
+  "number": "H7091",
+  "language": "hebrew",
+  "transliteration": "qippôwz",
+  "pronunciation": "kip-poze'",
+  "definition": "spring forward; an arrow-snake (as darting on its prey)",
+  "kjvTranslation": "great owl.",
+  "hebrew": "קִפּוֹז",
+  "translations": {
+    "bg": "да изскочи напред; змия-стрела (като стрела към плячката си)",
+    "cs": "vyrazit vpřed; šípový had (jako když se vrhá na svou kořist)",
+    "da": "springe frem; en pil-slange (som kaster sig over sit bytte)",
+    "de": "nach vorne springen; eine Pfeilschlange (wie sie sich auf ihre Beute stürzt)",
+    "el": "ένα βέλος-φίδι (που ορμάει στη λεία του)",
+    "es": "saltar hacia adelante; una flecha-serpiente (como lanzándose sobre su presa)",
+    "et": "hüppab edasi; noole-loom (kui tormab oma saagi peale)",
+    "fi": "ponnahtaa eteenpäin; nuolikäärme (joka syöksyy saaliinsa kimppuun)",
+    "fr": "s'élancer vers l'avant ; une flèche-serpent (comme s'élançant sur sa proie)",
+    "hu": "előreugrik; nyilaskígyó (mintha a zsákmányra vetné magát)",
+    "id": "musim semi ke depan; ular panah (seperti melesat pada mangsanya)",
+    "it": "balzare in avanti; una freccia-serpente (come se stesse sfrecciando sulla preda)",
+    "ja": "翔ぶ",
+    "ko": "앞으로 봄; 화살-뱀(먹이를 향해 돌진하는 모습)",
+    "lt": "šuolis į priekį; strėlė-gyvatė (skriejanti į savo grobį)",
+    "lv": "atsperties uz priekšu; bulta-čūska (kas metas uz savu upuri)",
+    "nb": "springe fremover; en pilslange (som piler på byttet sitt)",
+    "nl": "naar voren springen; een pijlslang (die op zijn prooi afkomt)",
+    "pl": "odskoczyć do przodu; wąż-strzała (jak rzucający się na ofiarę)",
+    "pt": "avançar; uma cobra-flecha (como se estivesse a lançar-se sobre a sua presa)",
+    "ro": "a sări înainte; un șarpe săgeată (care se aruncă asupra prăzii sale)",
+    "ru": "пружинить вперед; змея со стрелами (набрасывающаяся на добычу)",
+    "sk": "vyskočiť dopredu; had so šípom (ako sa vrhá na svoju korisť)",
+    "sl": "odskočiti naprej; kača s puščico (kot strela na svoj plen)",
+    "sv": "springa fram; en pil-orm (som kastar sig över sitt byte)",
+    "tr": "ileri fırlamak; bir ok yılanı (avının üzerine atılır gibi)",
+    "uk": "пружинити вперед; стріла-змійка (що кидається на здобич)",
+    "zh": "箭步如飞"
+  },
+  "verses": [
+    "isaiah 34:15:2"
+  ]
+}

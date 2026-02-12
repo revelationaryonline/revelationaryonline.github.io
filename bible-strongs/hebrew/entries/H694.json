@@ -1,0 +1,42 @@
+{
+  "number": "H694",
+  "language": "hebrew",
+  "transliteration": "ʼĂrâb",
+  "pronunciation": "ar-awb'",
+  "definition": "Arab, a place in Palestine",
+  "kjvTranslation": "Arab.",
+  "translations": {
+    "bg": "Arab, място в Палестина",
+    "cs": "Arab, místo v Palestině",
+    "da": "Arab, et sted i Palæstina",
+    "de": "Arab, ein Ort in Palästina",
+    "el": "Arab, ένας τόπος στην Παλαιστίνη",
+    "es": "Arab, un lugar de Palestina",
+    "et": "Araabia, koht Palestiinas",
+    "fi": "Arab, paikka Palestiinassa",
+    "fr": "Arab, localité de Palestine",
+    "hu": "Arab, egy hely Palesztinában",
+    "id": "Arab, sebuah tempat di Palestina",
+    "it": "Arabo, un luogo in Palestina",
+    "ja": "アラブ、パレスチナの地名",
+    "ko": "아랍, 팔레스타인의 한 지역",
+    "lt": "Arab, vietovė Palestinoje",
+    "lv": "Arab, vieta Palestīnā",
+    "nb": "Arab, et sted i Palestina",
+    "nl": "Arab, een plaats in Palestina",
+    "pl": "Arab, miejscowość w Palestynie",
+    "pt": "Árabe, um lugar na Palestina",
+    "ro": "Arab, un loc în Palestina",
+    "ru": "Араб, место в Палестине",
+    "sk": "Arab, miesto v Palestíne",
+    "sl": "Arab, kraj v Palestini",
+    "sv": "Arab, en plats i Palestina",
+    "tr": "Arap, Filistin'de bir yer",
+    "uk": "Араб, місцевість в Палестині",
+    "zh": "阿拉伯"
+  },
+  "hebrew": "אֲרָב",
+  "verses": [
+    "joshua 15:52:0"
+  ]
+}

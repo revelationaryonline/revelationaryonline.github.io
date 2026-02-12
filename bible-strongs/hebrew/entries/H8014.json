@@ -1,0 +1,43 @@
+{
+  "number": "H8014",
+  "language": "hebrew",
+  "transliteration": "Salmay",
+  "pronunciation": "sal-mah'-ee",
+  "definition": "Salmai, an Israelite",
+  "kjvTranslation": "Shalmai.",
+  "hebrew": "שַׂלְמַי",
+  "translations": {
+    "bg": "Салмай, израилтянин",
+    "cs": "Salmai, Izraelita",
+    "da": "Salmai, en israelit",
+    "de": "Salmai, ein Israelit",
+    "el": "Σαλμάι, Ισραηλίτης",
+    "es": "Salmai, israelita",
+    "et": "Salmai, iisraellane",
+    "fi": "Salmai, israelilainen",
+    "fr": "Salmaï, Israélite",
+    "hu": "Szalmai, izraelita",
+    "id": "Salmai, seorang Israel",
+    "it": "Salmai, un israelita",
+    "ja": "イスラエル人サルマイ",
+    "ko": "이스라엘인 살마이",
+    "lt": "Salmai, izraelitas",
+    "lv": "Salmai, izraēlietis",
+    "nb": "Salmai, en israelitt",
+    "nl": "Salmai, een Israëliet",
+    "pl": "Salmai, Izraelita",
+    "pt": "Salmai, israelita",
+    "ro": "Salmai, un israelit",
+    "ru": "Салмай, израильтянин",
+    "sk": "Salmai, Izraelita",
+    "sl": "Salmai, Izraelec",
+    "sv": "Salmai, en israelit",
+    "tr": "Salmai, bir İsrailli",
+    "uk": "Салмай, ізраїльтянин",
+    "zh": "以色列人撒尔迈"
+  },
+  "verses": [
+    "ezra 2:46:4",
+    "nehemiah 7:48:5"
+  ]
+}

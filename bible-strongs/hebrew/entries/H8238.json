@@ -1,0 +1,42 @@
+{
+  "number": "H8238",
+  "language": "hebrew",
+  "transliteration": "shᵉpharphar",
+  "pronunciation": "shef-ar-far'",
+  "definition": "the dawn (as brilliant with aurora)",
+  "kjvTranslation": "[idiom] very early in the morning.",
+  "hebrew": "שְׁפַרְפַר",
+  "translations": {
+    "bg": "зората (като блестяща от полярно сияние)",
+    "cs": "svítání (jako zářivá polární záře)",
+    "da": "daggryet (som stråler af nordlys)",
+    "de": "die Morgendämmerung (wie mit Polarlicht glänzend)",
+    "el": "η αυγή (ως λαμπρή με σέλας)",
+    "es": "el amanecer (como brillante de aurora)",
+    "et": "koidik (nagu särava aurora)",
+    "fi": "aamunkoitto (revontulien loistamana)",
+    "fr": "l'aube (comme brillante avec les aurores)",
+    "hu": "a hajnal (sarki fényben ragyogó)",
+    "id": "fajar (secemerlang aurora)",
+    "it": "l'alba (come brillante di aurora)",
+    "ja": "ぎょうこう",
+    "ko": "새벽(오로라로 찬란하게 빛나는)",
+    "lt": "aušra (kaip aurora)",
+    "lv": "rītausma (kā spoža ar auroru)",
+    "nb": "morgengryet (som stråler av nordlys)",
+    "nl": "de dageraad (als schitterend met poollicht)",
+    "pl": "świt (jak olśniewająca zorza polarna)",
+    "pt": "a aurora (brilhante como a aurora)",
+    "ro": "zorii (străluciți de auroră)",
+    "ru": "рассвет (как блеск авроры)",
+    "sk": "svitanie (ako žiarivé polárnou žiarou)",
+    "sl": "zora (kot sijoča z auroro)",
+    "sv": "gryningen (som lysande med norrsken)",
+    "tr": "şafak (aurora ile parlak)",
+    "uk": "світанок (такий же яскравий, як полярне сяйво)",
+    "zh": "拂晓"
+  },
+  "verses": [
+    "daniel 6:20:2"
+  ]
+}

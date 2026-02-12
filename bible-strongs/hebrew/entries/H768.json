@@ -1,0 +1,43 @@
+{
+  "number": "H768",
+  "language": "hebrew",
+  "transliteration": "ʼarnebeth",
+  "pronunciation": "ar-neh'-beth",
+  "definition": "the hare",
+  "kjvTranslation": "hare.",
+  "translations": {
+    "bg": "заекът",
+    "cs": "zajíc",
+    "da": "haren",
+    "de": "der Hase",
+    "el": "ο λαγός",
+    "es": "la liebre",
+    "et": "jänes",
+    "fi": "jänis",
+    "fr": "le lièvre",
+    "hu": "a nyúl",
+    "id": "kelinci",
+    "it": "la lepre",
+    "ja": "うさぎ",
+    "ko": "토끼",
+    "lt": "kiškis",
+    "lv": "zaķis",
+    "nb": "haren",
+    "nl": "de haas",
+    "pl": "zając",
+    "pt": "a lebre",
+    "ro": "iepurele",
+    "ru": "заяц",
+    "sk": "zajac",
+    "sl": "zajec",
+    "sv": "haren",
+    "tr": "tavşan",
+    "uk": "заєць",
+    "zh": "野兔"
+  },
+  "hebrew": "אַרְנֶבֶת",
+  "verses": [
+    "leviticus 11:6:1",
+    "deuteronomy 14:7:13"
+  ]
+}

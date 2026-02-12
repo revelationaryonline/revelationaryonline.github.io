@@ -1,0 +1,42 @@
+{
+  "number": "H1795",
+  "language": "hebrew",
+  "transliteration": "dakkâh",
+  "pronunciation": "dak-kaw'",
+  "definition": "mutilated",
+  "kjvTranslation": "[phrase] wounded.",
+  "translations": {
+    "bg": "осакатен",
+    "cs": "znetvořený",
+    "da": "lemlæstet",
+    "de": "verstümmelt",
+    "el": "ακρωτηριασμένο",
+    "es": "mutilado",
+    "et": "sandistatud",
+    "fi": "silvottu",
+    "fr": "mutilé",
+    "hu": "megcsonkított",
+    "id": "dimutilasi",
+    "it": "mutilato",
+    "ja": "骨抜き",
+    "ko": "절단",
+    "lt": "sužalotas",
+    "lv": "sakropļots",
+    "nb": "lemlestet",
+    "nl": "verminkt",
+    "pl": "okaleczony",
+    "pt": "mutilado",
+    "ro": "mutilate",
+    "ru": "изуродованный",
+    "sk": "zmrzačené",
+    "sl": "pohabljen",
+    "sv": "stympad",
+    "tr": "sakatlanmış",
+    "uk": "понівечені",
+    "zh": "残缺"
+  },
+  "hebrew": "דַּכָּה",
+  "verses": [
+    "deuteronomy 23:2:3"
+  ]
+}

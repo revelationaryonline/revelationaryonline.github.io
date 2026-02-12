@@ -1,0 +1,42 @@
+{
+  "number": "H3216",
+  "language": "hebrew",
+  "transliteration": "yâlaʻ",
+  "pronunciation": "yaw-lah'",
+  "definition": "to blurt or utter inconsiderately",
+  "kjvTranslation": "devour.",
+  "translations": {
+    "bg": "да изричам или да се изказвам необмислено",
+    "cs": "bezmyšlenkovitě vyhrknout nebo vyslovit",
+    "da": "at slynge eller udtale sig uovervejet",
+    "de": "unbedacht zu platzen oder sich unüberlegt zu äußern",
+    "el": "να ξεσπάσω ή να εκστομίσω απερίσκεπτα",
+    "es": "soltar o pronunciar desconsideradamente",
+    "et": "plätserdada või lausuda mõtlematult",
+    "fi": "räksyttää tai lausua harkitsemattomasti",
+    "fr": "s'exprimer de manière inconsidérée",
+    "hu": "meggondolatlanul bömbölni vagy kimondani",
+    "id": "untuk berkata-kata atau mengucapkan dengan tidak bijaksana",
+    "it": "sfociare o pronunciare in modo sconsiderato",
+    "ja": "軽率に口にする",
+    "ko": "사려 깊지 않게 말하거나 말하다",
+    "lt": "neapgalvotai išsilieti ar ištarti",
+    "lv": "nesaprātīgi izkliegt vai izrunāt",
+    "nb": "å slenge eller ytre seg ubetenksomt",
+    "nl": "ondoordacht kletsen of uitdrukken",
+    "pl": "bluzgać lub wypowiadać się nierozważnie",
+    "pt": "dizer ou proferir sem consideração",
+    "ro": "a rosti sau a vorbi fără considerație",
+    "ru": "проболтаться или произнести неосмотрительно",
+    "sk": "neuvážene rozmazávať alebo vyslovovať",
+    "sl": "nepremišljeno izreči ali izreči",
+    "sv": "att slänga ur sig eller yttra sig obetänksamt",
+    "tr": "düşüncesizce ağzından kaçırmak veya söylemek",
+    "uk": "розмити або вимовити необдумано",
+    "zh": "说胡话"
+  },
+  "hebrew": "יָלַע",
+  "verses": [
+    "proverbs 20:25:2"
+  ]
+}

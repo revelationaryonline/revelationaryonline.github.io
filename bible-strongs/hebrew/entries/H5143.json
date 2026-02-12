@@ -1,0 +1,42 @@
+{
+  "number": "H5143",
+  "language": "hebrew",
+  "transliteration": "nêzeq",
+  "pronunciation": "nay'zek",
+  "definition": "loss",
+  "kjvTranslation": "damage.",
+  "hebrew": "נֵזֶק",
+  "translations": {
+    "bg": "загуба",
+    "cs": "ztráta",
+    "da": "tab",
+    "de": "verlust",
+    "el": "απώλεια",
+    "es": "pérdida",
+    "et": "kadu",
+    "fi": "tappio",
+    "fr": "perte",
+    "hu": "veszteség",
+    "id": "kerugian",
+    "it": "perdita",
+    "ja": "損失",
+    "ko": "손실",
+    "lt": "nuostoliai",
+    "lv": "zaudējumi",
+    "nb": "tap",
+    "nl": "verlies",
+    "pl": "strata",
+    "pt": "perda",
+    "ro": "pierdere",
+    "ru": "потеря",
+    "sk": "strata",
+    "sl": "izguba",
+    "sv": "förlust",
+    "tr": "kayıp",
+    "uk": "втрата",
+    "zh": "损失"
+  },
+  "verses": [
+    "esther 7:4:16"
+  ]
+}

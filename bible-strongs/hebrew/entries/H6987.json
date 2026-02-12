@@ -1,0 +1,42 @@
+{
+  "number": "H6987",
+  "language": "hebrew",
+  "transliteration": "qôṭeb",
+  "pronunciation": "ko'-teb",
+  "definition": "extermination",
+  "kjvTranslation": "destruction.",
+  "hebrew": "קֹטֶב",
+  "translations": {
+    "bg": "изтребване",
+    "cs": "deratizace",
+    "da": "udryddelse",
+    "de": "ausrottung",
+    "el": "εξόντωση",
+    "es": "exterminio",
+    "et": "hävitamine",
+    "fi": "tuhoaminen",
+    "fr": "extermination",
+    "hu": "kiirtás",
+    "id": "pemusnahan",
+    "it": "sterminio",
+    "ja": "殲滅",
+    "ko": "근절",
+    "lt": "naikinimas",
+    "lv": "iznīcināšana",
+    "nb": "utryddelse",
+    "nl": "uitroeiing",
+    "pl": "eksterminacja",
+    "pt": "extermínio",
+    "ro": "exterminare",
+    "ru": "истребление",
+    "sk": "vyhladzovanie",
+    "sl": "iztrebljanje",
+    "sv": "utrotning",
+    "tr": "i̇MHA",
+    "uk": "знищення",
+    "zh": "灭绝"
+  },
+  "verses": [
+    "hosea 13:14:9"
+  ]
+}

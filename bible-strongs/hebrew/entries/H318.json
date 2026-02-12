@@ -1,0 +1,42 @@
+{
+  "number": "H318",
+  "language": "hebrew",
+  "transliteration": "ʼochŏrêyn",
+  "pronunciation": "okh-or-ane'",
+  "definition": "last",
+  "kjvTranslation": "at last.",
+  "translations": {
+    "bg": "последно",
+    "cs": "poslední",
+    "da": "sidste",
+    "de": "zuletzt",
+    "el": "last",
+    "es": "último",
+    "et": "viimane",
+    "fi": "viimeinen",
+    "fr": "dernier",
+    "hu": "utolsó",
+    "id": "terakhir",
+    "it": "ultimo",
+    "ja": "最後",
+    "ko": "마지막",
+    "lt": "paskutinis",
+    "lv": "pēdējais",
+    "nb": "siste",
+    "nl": "laatste",
+    "pl": "ostatni",
+    "pt": "último",
+    "ro": "ultimul",
+    "ru": "последний",
+    "sk": "posledný",
+    "sl": "zadnji",
+    "sv": "sista",
+    "tr": "son",
+    "uk": "останній",
+    "zh": "最后一个"
+  },
+  "hebrew": "אׇחֳרֵין",
+  "verses": [
+    "daniel 4:5:1"
+  ]
+}

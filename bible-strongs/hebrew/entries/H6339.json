@@ -1,0 +1,43 @@
+{
+  "number": "H6339",
+  "language": "hebrew",
+  "transliteration": "pâzaz",
+  "pronunciation": "paw-zaz'",
+  "definition": "to solidify (as if by refining); also to spring (as if separating the limbs)",
+  "kjvTranslation": "leap, be made strong.",
+  "hebrew": "פָּזַז",
+  "translations": {
+    "bg": "да се втвърди (като че ли чрез рафиниране); също и да изпружи (като че ли разделя крайниците)",
+    "cs": "ztuhnout (jakoby zušlechtěním); také pružit (jakoby oddělením končetin)",
+    "da": "at størkne (som ved raffinering); også at springe (som ved adskillelse af lemmerne)",
+    "de": "verfestigen (wie durch Läuterung); auch federn (wie beim Trennen der Gliedmaßen)",
+    "el": "να στερεοποιηθεί (σαν να είναι από τον εξευγενισμό), επίσης να αναπηδήσει (σαν να διαχωρίζει τα άκρα)",
+    "es": "solidificar (como por refinado); también muelle (como separando los miembros)",
+    "et": "tahkestada (justkui rafineerimise teel); ka vedrustada (justkui jäsemete eraldamine)",
+    "fi": "jähmettyä (ikään kuin jalostamalla); myös jousittaa (ikään kuin raajojen erottaminen)",
+    "fr": "se solidifier (comme par affinage) ; également jaillir (comme en séparant les membres)",
+    "hu": "megszilárdulni (mintha finomítással); továbbá rugózni (mintha a végtagok szétválnának)",
+    "id": "memadatkan (seolah-olah dengan memurnikan); juga untuk memunculkan (seolah-olah memisahkan anggota tubuh)",
+    "it": "solidificare (come se si raffinasse); anche sgorgare (come se si separassero le membra)",
+    "ja": "を（精製するように）固める；また（手足を切り離すように）はねさせる",
+    "ko": "굳다 (마치 정제하는 것처럼); 또한 (사지를 분리하는 것처럼) 튀어 나오다",
+    "lt": "sukietėti (tarsi rafinuojant); taip pat atšokti (tarsi atskiriant galūnes)",
+    "lv": "sacietēt (it kā rafinējot); arī atsperties (it kā atdalot locekļus)",
+    "nb": "å stivne (som ved raffinering); også å springe (som ved å skille lemmer)",
+    "nl": "stollen (als door raffinage); ook veren (als door het scheiden van de ledematen)",
+    "pl": "krzepnąć (jakby przez rafinację); także sprężynować (jakby rozdzielając kończyny)",
+    "pt": "solidificar (como que por refinação); também saltar (como que separando os membros)",
+    "ro": "a se solidifica (ca prin rafinare); de asemenea, a izvorî (ca prin separarea membrelor)",
+    "ru": "затвердевать (как при рафинировании); также пружинить (как при отделении конечностей)",
+    "sk": "stuhnúť (akoby zušľachtením); tiež pružiť (akoby oddeľovať končatiny)",
+    "sl": "strditi (kot pri prečiščevanju); tudi vzmetiti (kot pri ločevanju udov)",
+    "sv": "att stelna (som genom raffinering); även att fjädra (som genom att separera lemmarna)",
+    "tr": "katılaştırmak (sanki rafine ederek); ayrıca yaymak (sanki uzuvları ayırıyormuş gibi)",
+    "uk": "застигати (немовби очищаючись); також пружинити (немовби роз'єднуючи кінцівки)",
+    "zh": "凝固（如通过提炼）；也指弹起（如分离肢体）。"
+  },
+  "verses": [
+    "genesis 49:24:3",
+    "secondSamuel 6:16:16"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1070",
+  "language": "hebrew",
+  "transliteration": "beker",
+  "pronunciation": "beh'-ker",
+  "definition": "a young camel",
+  "kjvTranslation": "dromedary.",
+  "translations": {
+    "bg": "млада камила",
+    "cs": "mladý velbloud",
+    "da": "en ung kamel",
+    "de": "ein junges Kamel",
+    "el": "μια νεαρή καμήλα",
+    "es": "un joven camello",
+    "et": "noor kaamel",
+    "fi": "nuori kameli",
+    "fr": "un jeune chameau",
+    "hu": "egy fiatal teve",
+    "id": "seekor unta muda",
+    "it": "un giovane cammello",
+    "ja": "若いラクダ",
+    "ko": "어린 낙타",
+    "lt": "jaunas kupranugaris",
+    "lv": "jauns kamielis",
+    "nb": "en ung kamel",
+    "nl": "een jonge kameel",
+    "pl": "młody wielbłąd",
+    "pt": "um camelo jovem",
+    "ro": "o cămilă tânără",
+    "ru": "молодой верблюд",
+    "sk": "mladá ťava",
+    "sl": "mlada kamela",
+    "sv": "en ung kamel",
+    "tr": "genç bir deve",
+    "uk": "молодого верблюда",
+    "zh": "稚驼"
+  },
+  "hebrew": "בֶּכֶר",
+  "verses": [
+    "isaiah 60:6:3"
+  ]
+}

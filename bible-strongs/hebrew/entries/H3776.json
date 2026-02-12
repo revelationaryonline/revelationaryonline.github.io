@@ -1,0 +1,42 @@
+{
+  "number": "H3776",
+  "language": "hebrew",
+  "transliteration": "kisbâh",
+  "pronunciation": "kis-baw'",
+  "definition": "a young ewe",
+  "kjvTranslation": "lamb.",
+  "hebrew": "כִּשְׂבָּה",
+  "translations": {
+    "bg": "млада овца",
+    "cs": "mladá ovce",
+    "da": "et ungt moderfår",
+    "de": "ein junges Mutterschaf",
+    "el": "μια νεαρή προβατίνα",
+    "es": "una oveja joven",
+    "et": "noor utt",
+    "fi": "nuori uuhi",
+    "fr": "une jeune brebis",
+    "hu": "egy fiatal anyajuh",
+    "id": "seekor domba betina muda",
+    "it": "una giovane pecora",
+    "ja": "若い雌羊",
+    "ko": "어린 암소",
+    "lt": "jauna avis",
+    "lv": "jauna aita",
+    "nb": "en ung søye",
+    "nl": "een jonge ooi",
+    "pl": "młoda owca",
+    "pt": "uma ovelha jovem",
+    "ro": "o oaie tânără",
+    "ru": "молодая овца",
+    "sk": "mladá ovca",
+    "sl": "mlada ovca",
+    "sv": "en ung tacka",
+    "tr": "genç bir koyun",
+    "uk": "молода вівця",
+    "zh": "雏母羊"
+  },
+  "verses": [
+    "leviticus 5:6:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1532",
+  "language": "hebrew",
+  "transliteration": "gallâb",
+  "pronunciation": "gal-lawb'",
+  "definition": "a barber",
+  "kjvTranslation": "barber.",
+  "translations": {
+    "bg": "бръснар",
+    "cs": "holič",
+    "da": "en barber",
+    "de": "ein Friseur",
+    "el": "έναν κουρέα",
+    "es": "un barbero",
+    "et": "juuksur",
+    "fi": "parturi",
+    "fr": "un barbier",
+    "hu": "egy borbély",
+    "id": "tukang cukur",
+    "it": "un barbiere",
+    "ja": "床屋",
+    "ko": "이발사",
+    "lt": "kirpėjas",
+    "lv": "frizieris",
+    "nb": "en barberer",
+    "nl": "een kapper",
+    "pl": "fryzjer",
+    "pt": "um barbeiro",
+    "ro": "un frizer",
+    "ru": "парикмахер",
+    "sk": "holič",
+    "sl": "frizer",
+    "sv": "en barberare",
+    "tr": "bir berber",
+    "uk": "перукар",
+    "zh": "理发师"
+  },
+  "hebrew": "גַּלָּב",
+  "verses": [
+    "ezekiel 5:1:8"
+  ]
+}

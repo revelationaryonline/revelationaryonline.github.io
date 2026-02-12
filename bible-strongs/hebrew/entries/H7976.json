@@ -1,0 +1,42 @@
+{
+  "number": "H7976",
+  "language": "hebrew",
+  "transliteration": "shilluchâh",
+  "pronunciation": "shil-loo-khaw'",
+  "definition": "a shoot",
+  "kjvTranslation": "branch.",
+  "hebrew": "שִׁלֻּחָה",
+  "translations": {
+    "bg": "стрелба",
+    "cs": "střelba",
+    "da": "et skud",
+    "de": "ein Dreh",
+    "el": "ένας πυροβολισμός",
+    "es": "un brote",
+    "et": "laskmine",
+    "fi": "ampua",
+    "fr": "une prise de vue",
+    "hu": "egy hajtás",
+    "id": "sebuah pemotretan",
+    "it": "un tiro",
+    "ja": "シュート",
+    "ko": "촬영",
+    "lt": "šaudymas",
+    "lv": "šāviens",
+    "nb": "et skudd",
+    "nl": "een scheut",
+    "pl": "strzał",
+    "pt": "um disparo",
+    "ro": "a trage",
+    "ru": "съёмка",
+    "sk": "streľba",
+    "sl": "fotografiranje",
+    "sv": "ett skott",
+    "tr": "bir atış",
+    "uk": "зйомки",
+    "zh": "一枪"
+  },
+  "verses": [
+    "isaiah 16:8:15"
+  ]
+}

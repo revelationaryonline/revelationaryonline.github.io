@@ -1,0 +1,42 @@
+{
+  "number": "H4814",
+  "language": "hebrew",
+  "transliteration": "mᵉrîyrûwth",
+  "pronunciation": "mer-ee-rooth'",
+  "definition": "bitterness, i.e. (figuratively) grief",
+  "kjvTranslation": "bitterness.",
+  "hebrew": "מְרִירוּת",
+  "translations": {
+    "bg": "горчивина, т.е. (в преносен смисъл) скръб",
+    "cs": "hořkost, tj. (přeneseně) smutek",
+    "da": "bitterhed, dvs. (i overført betydning) sorg",
+    "de": "bitterkeit, d.h. (im übertragenen Sinne) Kummer",
+    "el": "πικρία, δηλαδή (μεταφορικά) θλίψη",
+    "es": "amargura, es decir (en sentido figurado) pena",
+    "et": "kibedus, st (piltlikult öeldes) kurbus",
+    "fi": "katkeruus eli (kuvaannollisesti) suru",
+    "fr": "l'amertume, c'est-à-dire (au sens figuré) le chagrin",
+    "hu": "keserűség, azaz (átvitt értelemben) bánat",
+    "id": "kepahitan, yaitu (secara kiasan) kesedihan",
+    "it": "amarezza, cioè (in senso figurato) dolore",
+    "ja": "かなしさ",
+    "ko": "괴로움, 즉 (비유적으로) 슬픔",
+    "lt": "kartumas, t. y. (perkeltine prasme) sielvartas",
+    "lv": "rūgtums, t.i., (pārnestā nozīmē) bēdas",
+    "nb": "bitterhet, dvs. (i overført betydning) sorg",
+    "nl": "bitterheid, d.w.z. (figuurlijk) verdriet",
+    "pl": "gorycz, tj. (w przenośni) żal",
+    "pt": "amargura, isto é, (figurativamente) mágoa",
+    "ro": "amărăciune, adică (la figurat) durere",
+    "ru": "горечь, т.е. (образно) скорбь",
+    "sk": "trpkosť, t. j. (obrazne) smútok",
+    "sl": "grenkoba, tj. (v prenesenem pomenu) žalost",
+    "sv": "bitterhet, dvs. (bildligt talat) sorg",
+    "tr": "acı, yani (mecazi olarak) keder",
+    "uk": "гіркота, тобто (образно) горе",
+    "zh": "苦，即（比喻）悲伤"
+  },
+  "verses": [
+    "ezekiel 21:11:6"
+  ]
+}

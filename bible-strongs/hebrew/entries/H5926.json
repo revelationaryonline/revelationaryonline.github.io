@@ -1,0 +1,42 @@
+{
+  "number": "H5926",
+  "language": "hebrew",
+  "transliteration": "ʻillêg",
+  "pronunciation": "il-layg'",
+  "definition": "stuttering",
+  "kjvTranslation": "stammerer.",
+  "hebrew": "עִלֵּג",
+  "translations": {
+    "bg": "заекване",
+    "cs": "koktání",
+    "da": "stammer",
+    "de": "stottern",
+    "el": "τραύλισμα",
+    "es": "tartamudeo",
+    "et": "ulgumine",
+    "fi": "änkytys",
+    "fr": "bégaiement",
+    "hu": "dadogás",
+    "id": "gagap",
+    "it": "balbuzie",
+    "ja": "ロレロレ",
+    "ko": "말더듬",
+    "lt": "mikčiojimas",
+    "lv": "stostīšanās",
+    "nb": "stamming",
+    "nl": "stotteren",
+    "pl": "jąkanie",
+    "pt": "gaguez",
+    "ro": "bâlbâială",
+    "ru": "заикание",
+    "sk": "koktanie",
+    "sl": "jecljanje",
+    "sv": "stammar",
+    "tr": "kekemelik",
+    "uk": "заїкання",
+    "zh": "磕磕巴巴"
+  },
+  "verses": [
+    "isaiah 32:4:5"
+  ]
+}

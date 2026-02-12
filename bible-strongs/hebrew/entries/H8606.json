@@ -1,0 +1,42 @@
+{
+  "number": "H8606",
+  "language": "hebrew",
+  "transliteration": "tiphletseth",
+  "pronunciation": "tif-leh'-tseth",
+  "definition": "fearfulness",
+  "kjvTranslation": "terrible.",
+  "hebrew": "תִּפְלֶצֶת",
+  "translations": {
+    "bg": "страхливост",
+    "cs": "bázlivost",
+    "da": "frygtsomhed",
+    "de": "furchtsamkeit",
+    "el": "φοβικότητα",
+    "es": "miedo",
+    "et": "hirmuäratavus",
+    "fi": "pelokkuus",
+    "fr": "peur",
+    "hu": "félelemkeltés",
+    "id": "ketakutan",
+    "it": "paura",
+    "ja": "怖さ",
+    "ko": "두려움",
+    "lt": "baimė",
+    "lv": "bailīgums",
+    "nb": "fryktsomhet",
+    "nl": "angst",
+    "pl": "strachliwość",
+    "pt": "medo",
+    "ro": "teamă",
+    "ru": "боязливость",
+    "sk": "bojazlivosť",
+    "sl": "bojazljivost",
+    "sv": "rädsla",
+    "tr": "korkaklık",
+    "uk": "боязкість",
+    "zh": "恐惧"
+  },
+  "verses": [
+    "jeremiah 49:16:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4780",
+  "language": "hebrew",
+  "transliteration": "mardûwth",
+  "pronunciation": "mar-dooth'",
+  "definition": "rebelliousness",
+  "kjvTranslation": "[idiom] rebellious.",
+  "hebrew": "מַרְדּוּת",
+  "translations": {
+    "bg": "бунтарство",
+    "cs": "vzpurnost",
+    "da": "oprørskhed",
+    "de": "aufmüpfigkeit",
+    "el": "επαναστατικότητα",
+    "es": "rebeldía",
+    "et": "mässumeelsus",
+    "fi": "kapinallisuus",
+    "fr": "rébellion",
+    "hu": "lázadás",
+    "id": "pemberontakan",
+    "it": "ribellione",
+    "ja": "反骨精神",
+    "ko": "반항성",
+    "lt": "maištingumas",
+    "lv": "dumpinieciskums",
+    "nb": "opprørskhet",
+    "nl": "opstandigheid",
+    "pl": "buntowniczość",
+    "pt": "rebeldia",
+    "ro": "rebeliune",
+    "ru": "бунтарство",
+    "sk": "vzdorovitosť",
+    "sl": "uporništvo",
+    "sv": "upproriskhet",
+    "tr": "isyankarlık",
+    "uk": "бунтарство",
+    "zh": "反叛"
+  },
+  "verses": [
+    "firstSamuel 20:30:8"
+  ]
+}

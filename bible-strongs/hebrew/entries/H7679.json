@@ -1,0 +1,43 @@
+{
+  "number": "H7679",
+  "language": "hebrew",
+  "transliteration": "sâgâʼ",
+  "pronunciation": "saw-gaw'",
+  "definition": "to grow, i.e. (causatively) to enlarge, (figuratively) laud",
+  "kjvTranslation": "increase, magnify.",
+  "hebrew": "שָׂגָא",
+  "translations": {
+    "bg": "да се разраства, т.е. (в каузативен смисъл) да се увеличава, (в преносен смисъл) да се възхвалява",
+    "cs": "růst, tj. (kauzativně) zvětšovat se, (přeneseně) chválit",
+    "da": "at vokse, dvs. (kausativt) at forstørre, (billedligt) at rose",
+    "de": "wachsen, d.h. (kausal) vergrößern, (bildlich) loben",
+    "el": "να μεγαλώνω, δηλαδή (αιτιωδώς) να διευρύνω, (μεταφορικά) να εγκωμιάζω",
+    "es": "crecer, es decir (causativamente) agrandar, (figuradamente) alabar",
+    "et": "kasvama, st (põhjuslikult) laienema, (ülekantud tähenduses) kiitma",
+    "fi": "kasvaa, eli (kausatiivisesti) laajentua, (kuvaannollisesti) ylistää",
+    "fr": "croître, c'est-à-dire (au sens propre) agrandir, (au sens figuré) louer",
+    "hu": "növekedni, azaz (ok-okozati értelemben) megnagyobbodni, (átvitt értelemben) dicsérni",
+    "id": "untuk tumbuh, yaitu (secara kausatif) memperbesar, (secara kiasan) memuji",
+    "it": "crescere, cioè (causalmente) ingrandire, (figurativamente) elogiare",
+    "ja": "を大きくする、すなわち（使役的に）拡大する、（比喩的に）称賛する",
+    "ko": "성장하다, 즉 (원인 적으로) 확대하다, (비 유적으로) 칭찬하다",
+    "lt": "augti, t. y. (priežastingai) didėti, (perkeltine prasme) didžiuotis",
+    "lv": "augt, t.i., (cēloņdarbībā) palielināties, (pārnestā nozīmē) slavēt",
+    "nb": "å vokse, dvs. (kausativt) å forstørre, (billedlig) å lovprise",
+    "nl": "groeien, d.w.z. (causatief) vergroten, (figuurlijk) loven",
+    "pl": "rosnąć, tj. (przyczynowo) powiększać, (w przenośni) chwalić",
+    "pt": "crescer, isto é, (causativamente) alargar, (figurativamente) louvar",
+    "ro": "a crește, adică (cauzativ) a mări, (figurativ) a lăuda",
+    "ru": "расти, т.е. (каузально) увеличиваться, (фигурально) превозноситься",
+    "sk": "rásť, t. j. (kauzatívne) zväčšovať sa, (obrazne) chváliť",
+    "sl": "rasti, tj. (vzročno) povečevati, (preneseno) hvaliti",
+    "sv": "att växa, dvs. (kausativt) att förstora, (bildligt) att berömma",
+    "tr": "büyümek, yani (nedensel olarak) büyütmek, (mecazi olarak) övmek",
+    "uk": "зростати, тобто (причинно) збільшуватися, (образно) прославлятися",
+    "zh": "增长，即（因果关系）扩大，（比喻）称赞"
+  },
+  "verses": [
+    "job 12:23:0",
+    "job 36:24:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6502",
+  "language": "hebrew",
+  "transliteration": "Pirʼâm",
+  "pronunciation": "pir-awm'",
+  "definition": "Piram, a Canaanite",
+  "kjvTranslation": "Piram.",
+  "hebrew": "פִּרְאָם",
+  "translations": {
+    "bg": "Пирам, ханаанец",
+    "cs": "Piram, Kanaánec",
+    "da": "Piram, en kanaanæer",
+    "de": "Piram, ein Kanaaniter",
+    "el": "Piram, ένας Χαναναίος",
+    "es": "Piram, cananeo",
+    "et": "Piram, kaananlane",
+    "fi": "Piram, kanaanilainen",
+    "fr": "Piram, Cananéen",
+    "hu": "Piram, egy kánaánita",
+    "id": "Piram, seorang Kanaan",
+    "it": "Piram, un cananeo",
+    "ja": "カナン人ピラム",
+    "ko": "가나안인 피람",
+    "lt": "Piramas, kanaanietis",
+    "lv": "Piram, kanaānietis",
+    "nb": "Piram, en kanaaneer",
+    "nl": "Piram, een Kanaäniet",
+    "pl": "Piram, Kananejczyk",
+    "pt": "Piram, cananeu",
+    "ro": "Piram, un canaanit",
+    "ru": "Пирам, ханаанейка",
+    "sk": "Piram, Kanaánec",
+    "sl": "Piram, Kanaanec",
+    "sv": "Piram, en kanaaneisk",
+    "tr": "Piram, bir Kenanlı",
+    "uk": "Пірам, ханаанеянин",
+    "zh": "皮拉姆，迦南人"
+  },
+  "verses": [
+    "joshua 10:3:10"
+  ]
+}

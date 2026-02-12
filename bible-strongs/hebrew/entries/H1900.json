@@ -1,0 +1,42 @@
+{
+  "number": "H1900",
+  "language": "hebrew",
+  "transliteration": "hâgûwth",
+  "pronunciation": "haw-gooth'",
+  "definition": "musing",
+  "kjvTranslation": "meditation.",
+  "translations": {
+    "bg": "размишление",
+    "cs": "zamyšlení",
+    "da": "grublerier",
+    "de": "nachdenken",
+    "el": "musing",
+    "es": "reflexionando",
+    "et": "mõtisklus",
+    "fi": "musing",
+    "fr": "musardage",
+    "hu": "merengő",
+    "id": "merenung",
+    "it": "riflessione",
+    "ja": "反芻",
+    "ko": "사색",
+    "lt": "mąstymas",
+    "lv": "mūzing",
+    "nb": "grublerier",
+    "nl": "mijmerend",
+    "pl": "rozmyślanie",
+    "pt": "meditação",
+    "ro": "meditație",
+    "ru": "размышления",
+    "sk": "zamyslenie",
+    "sl": "razmišljanje",
+    "sv": "musande",
+    "tr": "musing",
+    "uk": "роздуми",
+    "zh": "闲思"
+  },
+  "hebrew": "הָגוּת",
+  "verses": [
+    "psalms 49:4:3"
+  ]
+}

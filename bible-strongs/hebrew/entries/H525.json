@@ -1,0 +1,42 @@
+{
+  "number": "H525",
+  "language": "hebrew",
+  "transliteration": "ʼâmôwn",
+  "pronunciation": "aw-mone'",
+  "definition": "skilled, i.e. an architect",
+  "kjvTranslation": "one brought up.",
+  "translations": {
+    "bg": "квалифициран, т.е. архитект",
+    "cs": "kvalifikovaný, tj. architekt",
+    "da": "dygtig, f.eks. en arkitekt",
+    "de": "qualifiziert, d.h. ein Architekt",
+    "el": "ειδικευμένος, π.χ. αρχιτέκτονας",
+    "es": "cualificado, es decir, un arquitecto",
+    "et": "kvalifitseeritud, st arhitekt",
+    "fi": "ammattitaitoinen eli arkkitehti",
+    "fr": "compétent, c'est-à-dire un architecte",
+    "hu": "szakképzett, azaz építész",
+    "id": "terampil, yaitu seorang arsitek",
+    "it": "esperto, ad esempio un architetto",
+    "ja": "建築家",
+    "ko": "숙련된, 즉 건축가",
+    "lt": "kvalifikuotas, t. y. architektas",
+    "lv": "kvalificēts, t.i., arhitekts",
+    "nb": "dyktig, f.eks. en arkitekt",
+    "nl": "geschoold, d.w.z. een architect",
+    "pl": "wykwalifikowany, tj. architekt",
+    "pt": "qualificado, ou seja, um arquiteto",
+    "ro": "calificat, de exemplu un arhitect",
+    "ru": "квалифицированный, например, архитектор",
+    "sk": "kvalifikovaný, t. j. architekt",
+    "sl": "usposobljen, npr. arhitekt",
+    "sv": "skicklig, t.ex. en arkitekt",
+    "tr": "yetenekli, yani bir mimar",
+    "uk": "кваліфікований, тобто архітектор",
+    "zh": "技术人员，即建筑师"
+  },
+  "hebrew": "אָמוֹן",
+  "verses": [
+    "proverbs 8:30:2"
+  ]
+}

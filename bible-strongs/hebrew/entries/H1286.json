@@ -1,0 +1,42 @@
+{
+  "number": "H1286",
+  "language": "hebrew",
+  "transliteration": "Bᵉrîyth",
+  "pronunciation": "ber-eeth'",
+  "definition": "Berith, a Shechemitish deity",
+  "kjvTranslation": "Berith.",
+  "translations": {
+    "bg": "Берит, шехемитско божество",
+    "cs": "Berith, šemitské božstvo",
+    "da": "Berith, en shekemitisk guddom",
+    "de": "Berith, eine schemitische Gottheit",
+    "el": "Berith, θεότητα των Σεχαιμιτών",
+    "es": "Berith, divinidad chechemita",
+    "et": "Berith, šeemiitide jumalus",
+    "fi": "Berith, shekemiläinen jumaluus",
+    "fr": "Berith, une divinité shechémite",
+    "hu": "Berith, egy séchemita istenség",
+    "id": "Berith, dewa dari suku Sikhemit",
+    "it": "Berith, una divinità sichemita",
+    "ja": "シェケミ人の神、ベリス",
+    "ko": "베리트, 세겜의 신",
+    "lt": "Beritas, šechemitų dievybė",
+    "lv": "Berith, šehemitiešu dievība",
+    "nb": "Berith, en sjechiittisk guddom",
+    "nl": "Berith, een Shechemitische godheid",
+    "pl": "Berith, bóstwo Szechemitów",
+    "pt": "Berith, uma divindade shechemita",
+    "ro": "Berith, o zeitate shechemitish",
+    "ru": "Берит, шехмитское божество",
+    "sk": "Berith, šemitské božstvo",
+    "sl": "Berith, šekemitsko božanstvo",
+    "sv": "Berith, en shekemitisk gudom",
+    "tr": "Berith, bir Shechemitish tanrısı",
+    "uk": "Берит, шехемітське божество",
+    "zh": "贝里斯"
+  },
+  "hebrew": "בְּרִית",
+  "verses": [
+    "judges 9:46:10"
+  ]
+}

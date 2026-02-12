@@ -1,0 +1,42 @@
+{
+  "number": "H7987",
+  "language": "hebrew",
+  "transliteration": "shᵉlîy",
+  "pronunciation": "shel-ee'",
+  "definition": "privacy",
+  "kjvTranslation": "[phrase] quietly.",
+  "hebrew": "שְׁלִי",
+  "translations": {
+    "bg": "поверителност",
+    "cs": "ochrana osobních údajů",
+    "da": "privatlivets fred",
+    "de": "datenschutz",
+    "el": "προστασία της ιδιωτικής ζωής",
+    "es": "privacidad",
+    "et": "privaatsus",
+    "fi": "yksityisyys",
+    "fr": "vie privée",
+    "hu": "adatvédelem",
+    "id": "privasi",
+    "it": "privacy",
+    "ja": "プライバシー",
+    "ko": "개인 정보 보호",
+    "lt": "privatumas",
+    "lv": "konfidencialitāte",
+    "nb": "personvern",
+    "nl": "privacy",
+    "pl": "prywatność",
+    "pt": "privacidade",
+    "ro": "confidențialitate",
+    "ru": "конфиденциальность",
+    "sk": "ochrana osobných údajov",
+    "sl": "zasebnost",
+    "sv": "integritet",
+    "tr": "mahremiyet",
+    "uk": "приватність",
+    "zh": "隐私"
+  },
+  "verses": [
+    "secondSamuel 3:27:10"
+  ]
+}

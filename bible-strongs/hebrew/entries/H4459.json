@@ -1,0 +1,42 @@
+{
+  "number": "H4459",
+  "language": "hebrew",
+  "transliteration": "maltâʻâh",
+  "pronunciation": "mal-taw-aw'",
+  "definition": "a grinder, i.e. back tooth",
+  "kjvTranslation": "great tooth.",
+  "hebrew": "מַלְתָּעָה",
+  "translations": {
+    "bg": "шлайф, т.е. заден зъб",
+    "cs": "bruska, tj. zadní zub",
+    "da": "en slibemaskine, dvs. en bagtand",
+    "de": "ein Schleifer, d.h. ein Backenzahn",
+    "el": "έναν μύλο, δηλαδή ένα πίσω δόντι",
+    "es": "un molinillo, es decir, un diente trasero",
+    "et": "lihvija, s.t. tagahammas",
+    "fi": "hiomakone, eli takahammas",
+    "fr": "un broyeur, c'est-à-dire une dent arrière",
+    "hu": "csiszológép, azaz hátsó fogazat",
+    "id": "penggiling, yaitu gigi belakang",
+    "it": "una smerigliatrice, cioè un dente posteriore",
+    "ja": "グラインダー、つまり奥歯",
+    "ko": "그라인더, 즉 뒷니",
+    "lt": "šlifuoklis, t. y. galinis dantis",
+    "lv": "slīpmašīna, t. i., aizmugurējais zobs",
+    "nb": "en kvern, dvs. en baktann",
+    "nl": "een slijpmachine, d.w.z. achtertand",
+    "pl": "szlifierka, tj. tylny ząb",
+    "pt": "um moedor, ou seja, um dente posterior",
+    "ro": "un polizor, adică dintele din spate",
+    "ru": "шлифовальный станок, т.е. задний зуб",
+    "sk": "brúska, t. j. zadný zub",
+    "sl": "mlinček, tj. zadnji zob",
+    "sv": "en malande tand, t.ex. en baktand",
+    "tr": "bir öğütücü, yani arka diş",
+    "uk": "шліфувальна машина, тобто задній зуб",
+    "zh": "磨齿机，即后齿"
+  },
+  "verses": [
+    "psalms 58:7:4"
+  ]
+}

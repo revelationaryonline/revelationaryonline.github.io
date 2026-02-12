@@ -1,0 +1,42 @@
+{
+  "number": "H1564",
+  "language": "hebrew",
+  "transliteration": "gôlem",
+  "pronunciation": "go'-lem",
+  "definition": "a wrapped (and unformed mass, i.e. as the embryo)",
+  "kjvTranslation": "substance yet being unperfect.",
+  "translations": {
+    "bg": "обвита (и неоформена маса, т.е. като ембрион)",
+    "cs": "zabalená (a nezformovaná hmota, tj. jako embryo)",
+    "da": "en indpakket (og uformet masse, dvs. som et embryo)",
+    "de": "eine umhüllte (und ungeformte Masse, d. h. als Embryo)",
+    "el": "μια τυλιγμένη (και αδιαμόρφωτη μάζα, δηλαδή ως έμβρυο)",
+    "es": "una masa envuelta (y no formada, es decir, como el embrión)",
+    "et": "mähitud (ja vormimata mass, st embrüona)",
+    "fi": "käärittynä (ja muotoutumattomana massana, eli alkiona)",
+    "fr": "une masse enveloppée (et non formée, c'est-à-dire l'embryon)",
+    "hu": "egy becsomagolt (és formátlan tömeg, azaz embrió formájában)",
+    "id": "massa yang terbungkus (dan belum terbentuk, yaitu sebagai embrio)",
+    "it": "una massa avvolta (e non formata, cioè come l'embrione)",
+    "ja": "包まれた（形のない）塊、つまり胚として",
+    "ko": "포장된(그리고 형성되지 않은 덩어리, 즉 배아) 덩어리",
+    "lt": "suvyniota (ir nesusiformavusi masė, t. y. embrionas)",
+    "lv": "iesaiņota (un neizveidota masa, t. i., kā embrijs)",
+    "nb": "en innpakket (og uformet masse, dvs. som embryo)",
+    "nl": "een omhulde (en ongevormde massa, d.w.z. als het embryo)",
+    "pl": "owinięta (i nieuformowana masa, tj. jako zarodek)",
+    "pt": "uma massa envolta (e não formada, ou seja, como o embrião)",
+    "ro": "o masă înfășurată (și neformată, adică embrionul)",
+    "ru": "завернутая (и не сформировавшаяся масса, т.е. эмбрион)",
+    "sk": "zabalená (a nesformovaná hmota, t. j. ako embryo)",
+    "sl": "zavito (in neizoblikovano maso, tj. kot zarodek)",
+    "sv": "en förpackad (och oformad massa, dvs. som embryot)",
+    "tr": "sarılmış (ve şekillenmemiş bir kütle, yani embriyo olarak)",
+    "uk": "загорнута (і несформована маса, тобто як ембріон)",
+    "zh": "一个包裹着的（未成形的团块，即胚胎）"
+  },
+  "hebrew": "גֹּלֶם",
+  "verses": [
+    "psalms 139:16:0"
+  ]
+}

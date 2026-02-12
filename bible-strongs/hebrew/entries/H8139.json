@@ -1,0 +1,42 @@
+{
+  "number": "H8139",
+  "language": "hebrew",
+  "transliteration": "shᵉnâh",
+  "pronunciation": "shen-aw'",
+  "definition": "{sleep}",
+  "kjvTranslation": "sleep.",
+  "hebrew": "שְׁנָה",
+  "translations": {
+    "bg": "{сън}",
+    "cs": "{spánek}",
+    "da": "{sove}",
+    "de": "{schlafen}",
+    "el": "{κοιμήσου}",
+    "es": "{sleep}",
+    "et": "(magab)",
+    "fi": "{nukkumaan}",
+    "fr": "{sleep}",
+    "hu": "{alvás}",
+    "id": "[tidur]",
+    "it": "{Dormire.}",
+    "ja": "睡眠",
+    "ko": "{sleep}",
+    "lt": "{sleep}",
+    "lv": "{miegs}",
+    "nb": "{sove}",
+    "nl": "{slaap}",
+    "pl": "{śpij}",
+    "pt": "{Dormir}",
+    "ro": "{sleep}",
+    "ru": "{спит}",
+    "sk": "{spánok}",
+    "sl": "{sleep}",
+    "sv": "{Sova}",
+    "tr": "{uyku}",
+    "uk": "{Спати.}",
+    "zh": "{睡觉}"
+  },
+  "verses": [
+    "daniel 6:19:10"
+  ]
+}

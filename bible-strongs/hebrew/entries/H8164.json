@@ -1,0 +1,42 @@
+{
+  "number": "H8164",
+  "language": "hebrew",
+  "transliteration": "sâʻîyr",
+  "pronunciation": "saw-eer'",
+  "definition": "a shower (as tempestuous)",
+  "kjvTranslation": "small rain.",
+  "hebrew": "שָׂעִיר",
+  "translations": {
+    "bg": "дъжд (като бурен)",
+    "cs": "sprcha (jako bouřlivá)",
+    "da": "en byge (som stormfuld)",
+    "de": "ein Schauer (wie stürmisch)",
+    "el": "μια βροχή (ως θυελλώδης)",
+    "es": "un chaparrón (como tempestuoso)",
+    "et": "dušš (kui tormiline)",
+    "fi": "suihku (myrskyisänä)",
+    "fr": "une averse (comme tempétueuse)",
+    "hu": "zápor (mint viharos)",
+    "id": "mandi (seperti badai)",
+    "it": "una doccia (come tempestosa)",
+    "ja": "驟雨",
+    "ko": "샤워(폭풍우처럼)",
+    "lt": "lietus (kaip audringas)",
+    "lv": "lietus (kā vētrains)",
+    "nb": "en dusj (som stormende)",
+    "nl": "een bui (als onstuimig)",
+    "pl": "prysznic (jako burzliwy)",
+    "pt": "um aguaceiro (como tempestuoso)",
+    "ro": "a shower (ca tempestuous)",
+    "ru": "ливень (как бурный)",
+    "sk": "sprcha (ako búrlivá)",
+    "sl": "pršič (kot buren)",
+    "sv": "en skur (som stormig)",
+    "tr": "bir sağanak (fırtınalı olarak)",
+    "uk": "дощ (настільки ж бурхливий)",
+    "zh": "骤雨"
+  },
+  "verses": [
+    "deuteronomy 32:2:6"
+  ]
+}

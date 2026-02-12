@@ -1,0 +1,42 @@
+{
+  "number": "H379",
+  "language": "hebrew",
+  "transliteration": "ʼÎyshᵉhôwd",
+  "pronunciation": "eesh-hode'",
+  "definition": "Ishod, an Israelite",
+  "kjvTranslation": "Ishod.",
+  "translations": {
+    "bg": "Ишод, израилтянин",
+    "cs": "Ishod, Izraelita",
+    "da": "Ishod, en israelit",
+    "de": "Ishod, ein Israelit",
+    "el": "Ishod, ένας Ισραηλίτης",
+    "es": "Ishod, israelita",
+    "et": "Iisod, iisraellane",
+    "fi": "Ishod, israelilainen",
+    "fr": "Ishod, Israélite",
+    "hu": "Ishod, egy izraelita",
+    "id": "Ishod, seorang Israel",
+    "it": "Ishod, un israelita",
+    "ja": "イスラエル人イショド",
+    "ko": "이스라엘인, 이쇼드",
+    "lt": "Izodas, izraelitas",
+    "lv": "Izods, izraēlietis",
+    "nb": "Ishod, en israelitt",
+    "nl": "Ishod, een Israëliet",
+    "pl": "Iszod, Izraelita",
+    "pt": "Ishod, um israelita",
+    "ro": "Ishod, un israelit",
+    "ru": "Ишод, израильтянин",
+    "sk": "Isód, Izraelita",
+    "sl": "Izhod, Izraelec",
+    "sv": "Ishod, en israelit",
+    "tr": "İshod, bir İsrailli",
+    "uk": "Ішод, ізраїльтянин",
+    "zh": "伊所德，以色列人"
+  },
+  "hebrew": "אִישְׁהוֹד",
+  "verses": [
+    "firstChronicles 7:18:4"
+  ]
+}

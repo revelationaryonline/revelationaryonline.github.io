@@ -1,0 +1,43 @@
+{
+  "number": "H6792",
+  "language": "hebrew",
+  "transliteration": "tsônêʼ",
+  "pronunciation": "tso-nay'",
+  "definition": "a flock",
+  "kjvTranslation": "sheep.",
+  "hebrew": "צֹנֵא",
+  "translations": {
+    "bg": "стадо",
+    "cs": "hejno",
+    "da": "en flok",
+    "de": "eine Herde",
+    "el": "ένα κοπάδι",
+    "es": "un rebaño",
+    "et": "kari",
+    "fi": "lauma",
+    "fr": "un troupeau",
+    "hu": "egy nyáj",
+    "id": "kawanan",
+    "it": "un gregge",
+    "ja": "群れ",
+    "ko": "무리",
+    "lt": "bandą",
+    "lv": "ganāmpulks",
+    "nb": "en flokk",
+    "nl": "een zwerm",
+    "pl": "stado",
+    "pt": "um rebanho",
+    "ro": "o turmă",
+    "ru": "стая",
+    "sk": "kŕdeľ",
+    "sl": "čreda",
+    "sv": "en flock",
+    "tr": "bir sürü",
+    "uk": "зграя",
+    "zh": "成群结队"
+  },
+  "verses": [
+    "numbers 32:24:5",
+    "psalms 8:8:0"
+  ]
+}

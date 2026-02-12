@@ -1,0 +1,42 @@
+{
+  "number": "H5683",
+  "language": "hebrew",
+  "transliteration": "ʻEbrôn",
+  "pronunciation": "eb-rone'",
+  "definition": "Ebron, a place in Palestine",
+  "kjvTranslation": "Hebron. Perhaps a clerical error for H5658 (עַבְדוֹן).",
+  "hebrew": "עֶבְרֹן",
+  "translations": {
+    "bg": "Ebron, място в Палестина",
+    "cs": "Ebron, místo v Palestině",
+    "da": "Ebron, et sted i Palæstina",
+    "de": "Ebron, ein Ort in Palästina",
+    "el": "Ebron, ένας τόπος στην Παλαιστίνη",
+    "es": "Ebron, un lugar en Palestina",
+    "et": "Ebron, koht Palestiinas",
+    "fi": "Ebron, paikka Palestiinassa",
+    "fr": "Ebron, un lieu en Palestine",
+    "hu": "Ebron, egy hely Palesztinában",
+    "id": "Ebron, sebuah tempat di Palestina",
+    "it": "Ebron, un luogo in Palestina",
+    "ja": "パレスチナの地名エブロン",
+    "ko": "팔레스타인 에브론, 팔레스타인의 한 장소",
+    "lt": "Ebron, vietovė Palestinoje",
+    "lv": "Ebron, vieta Palestīnā",
+    "nb": "Ebron, et sted i Palestina",
+    "nl": "Ebron, een plaats in Palestina",
+    "pl": "Ebron, miejscowość w Palestynie",
+    "pt": "Ebron, um lugar na Palestina",
+    "ro": "Ebron, un loc în Palestina",
+    "ru": "Эброн, местечко в Палестине",
+    "sk": "Ebron, miesto v Palestíne",
+    "sl": "Ebron, kraj v Palestini",
+    "sv": "Ebron, en plats i Palestina",
+    "tr": "Ebron, Filistin'de bir yer",
+    "uk": "Еброн, місто в Палестині",
+    "zh": "埃布伦"
+  },
+  "verses": [
+    "joshua 19:28:0"
+  ]
+}

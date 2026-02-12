@@ -1,0 +1,43 @@
+{
+  "number": "H4469",
+  "language": "hebrew",
+  "transliteration": "mamçâk",
+  "pronunciation": "mam-sawk'",
+  "definition": "mixture, i.e. (specifically) wine mixed (with water or spices)",
+  "kjvTranslation": "drink-offering, mixed wine.",
+  "hebrew": "מַמְסָךְ",
+  "verses": [
+    "proverbs 23:30:5",
+    "isaiah 65:11:12"
+  ],
+  "translations": {
+    "bg": "смес, т.е. (по-специално) вино, смесено (с вода или подправки)",
+    "cs": "směs, tj. (konkrétně) víno smíchané (s vodou nebo kořením)",
+    "da": "blanding, dvs. (specifikt) vin blandet (med vand eller krydderier)",
+    "de": "mischung, d.h. (speziell) Wein, der (mit Wasser oder Gewürzen) vermischt ist",
+    "el": "μείγμα, δηλαδή (συγκεκριμένα) κρασί αναμεμειγμένο (με νερό ή μπαχαρικά)",
+    "es": "mezcla, es decir (específicamente) vino mezclado (con agua o especias)",
+    "et": "segu, st (konkreetselt) vein, mis on segatud (veega või vürtsidega)",
+    "fi": "seos, eli (erityisesti) viini sekoitettuna (veden tai mausteiden kanssa)",
+    "fr": "mélange, c'est-à-dire (spécifiquement) du vin mélangé (avec de l'eau ou des épices)",
+    "hu": "keverék, azaz (konkrétan) bor (vízzel vagy fűszerekkel) keverve",
+    "id": "campuran, yaitu (secara khusus) anggur yang dicampur (dengan air atau rempah-rempah)",
+    "it": "miscela, cioè (nello specifico) vino mescolato (con acqua o spezie)",
+    "ja": "混ぜ物",
+    "ko": "혼합물, 즉 (특히) (물 또는 향신료와) 혼합된 와인",
+    "lt": "mišinys, t. y. (konkrečiai) vynas, sumaišytas (su vandeniu arba prieskoniais)",
+    "lv": "maisījums, t. i., (īpaši) vīns, kas sajaukts (ar ūdeni vai garšvielām)",
+    "nb": "blanding, dvs. (spesifikt) vin blandet (med vann eller krydder)",
+    "nl": "mengsel, d.w.z. (specifiek) wijn gemengd (met water of kruiden)",
+    "pl": "mieszanka, tj. (konkretnie) wino zmieszane (z wodą lub przyprawami)",
+    "pt": "mistura, ou seja, (especificamente) vinho misturado (com água ou especiarias)",
+    "ro": "amestec, adică (în special) vin amestecat (cu apă sau mirodenii)",
+    "ru": "смесь, т.е. (конкретно) вино, смешанное (с водой или специями)",
+    "sk": "zmes, t. j. (konkrétne) víno zmiešané (s vodou alebo korením)",
+    "sl": "mešanica, tj. (zlasti) vino, zmešano (z vodo ali začimbami)",
+    "sv": "blandning, dvs. (särskilt) vin blandat (med vatten eller kryddor)",
+    "tr": "karışım, yani (özellikle) (su veya baharatla) karıştırılmış şarap",
+    "uk": "суміш, тобто (конкретно) вино, змішане (з водою або спеціями)",
+    "zh": "搀合"
+  }
+}

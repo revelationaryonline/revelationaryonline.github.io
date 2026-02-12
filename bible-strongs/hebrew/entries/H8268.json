@@ -1,0 +1,43 @@
+{
+  "number": "H8268",
+  "language": "hebrew",
+  "transliteration": "shôqeth",
+  "pronunciation": "sho'-keth",
+  "definition": "a trough (for watering)",
+  "kjvTranslation": "trough.",
+  "hebrew": "שֹׁקֶת",
+  "translations": {
+    "bg": "корито (за поливане)",
+    "cs": "koryto (na zalévání)",
+    "da": "et trug (til vanding)",
+    "de": "einen Trog (zum Tränken)",
+    "el": "μια γούρνα (για πότισμα)",
+    "es": "un abrevadero (para regar)",
+    "et": "kraanikaussi (kastmiseks)",
+    "fi": "kaukalo (kastelua varten)",
+    "fr": "un abreuvoir (pour l'arrosage)",
+    "hu": "vályú (öntözéshez)",
+    "id": "palung (untuk menyiram)",
+    "it": "un abbeveratoio (per l'irrigazione)",
+    "ja": "水桶",
+    "ko": "물통(급수용)",
+    "lt": "lovys (laistymui)",
+    "lv": "siles (laistīšanai)",
+    "nb": "et trau (til vanning)",
+    "nl": "een trog (om water te geven)",
+    "pl": "koryto (do podlewania)",
+    "pt": "um bebedouro (para regar)",
+    "ro": "un jgheab (pentru udare)",
+    "ru": "корыто (для полива)",
+    "sk": "koryto (na polievanie)",
+    "sl": "korito (za zalivanje)",
+    "sv": "ett tråg (för vattning)",
+    "tr": "bir yalak (sulama için)",
+    "uk": "корито (для поливу)",
+    "zh": "浇槽"
+  },
+  "verses": [
+    "genesis 24:20:4",
+    "genesis 30:38:6"
+  ]
+}

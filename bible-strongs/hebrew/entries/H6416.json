@@ -1,0 +1,42 @@
+{
+  "number": "H6416",
+  "language": "hebrew",
+  "transliteration": "pᵉlîylîy",
+  "pronunciation": "pel-ee-lee'",
+  "definition": "judicial",
+  "kjvTranslation": "judge.",
+  "hebrew": "פְּלִילִי",
+  "translations": {
+    "bg": "съдебен",
+    "cs": "soudní",
+    "da": "juridisk",
+    "de": "gerichtlich",
+    "el": "δικαστικό",
+    "es": "judicial",
+    "et": "kohtuliku",
+    "fi": "oikeudellinen",
+    "fr": "judiciaire",
+    "hu": "igazságügyi",
+    "id": "peradilan",
+    "it": "giudiziario",
+    "ja": "司法",
+    "ko": "사법",
+    "lt": "teisminė",
+    "lv": "tiesu",
+    "nb": "rettslig",
+    "nl": "gerechtelijk",
+    "pl": "sądowy",
+    "pt": "judicial",
+    "ro": "judiciare",
+    "ru": "судебная",
+    "sk": "súdna",
+    "sl": "sodstvo",
+    "sv": "rättsliga",
+    "tr": "adli",
+    "uk": "судовий",
+    "zh": "司法"
+  },
+  "verses": [
+    "job 31:28:3"
+  ]
+}

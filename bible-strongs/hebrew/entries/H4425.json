@@ -1,0 +1,42 @@
+{
+  "number": "H4425",
+  "language": "hebrew",
+  "transliteration": "mᵉlîylâh",
+  "pronunciation": "mel-ee-law'",
+  "definition": "a head of grain (as cut off)",
+  "kjvTranslation": "ear.",
+  "hebrew": "מְלִילָה",
+  "translations": {
+    "bg": "глава зърно (отрязана)",
+    "cs": "hlávka obilí (jako odříznutá)",
+    "da": "et kornhoved (som er skåret af)",
+    "de": "ein Getreidekopf (wie abgeschnitten)",
+    "el": "ένα κεφάλι σιτηρών (όπως κόβεται)",
+    "es": "una cabeza de grano (cortada)",
+    "et": "viljapea (nagu maha lõigatud)",
+    "fi": "viljanpää (leikattuna)",
+    "fr": "un épi de blé (coupé)",
+    "hu": "egy fej gabona (levágva)",
+    "id": "satu bulir padi (seperti yang sudah dipotong)",
+    "it": "un chicco di grano (tagliato)",
+    "ja": "一斤",
+    "ko": "곡물 한 머리(잘라낸 상태)",
+    "lt": "nupjauta grūdų varpa",
+    "lv": "labības galviņa (kā nogriezta)",
+    "nb": "et kornhode (som avkuttet)",
+    "nl": "een krop graan (zoals afgesneden)",
+    "pl": "łeb zboża (odcięty)",
+    "pt": "uma cabeça de grão (tal como foi cortada)",
+    "ro": "o căpățână de grâu (ca tăiată)",
+    "ru": "головка зерна (как срезанная)",
+    "sk": "zrno (ako odrezané)",
+    "sl": "glavo žita (kot odrezano)",
+    "sv": "ett kornhuvud (som avskuret)",
+    "tr": "bir baş tahıl (kesilmiş olarak)",
+    "uk": "качан зерна (у зрізаному вигляді)",
+    "zh": "头"
+  },
+  "verses": [
+    "deuteronomy 23:26:5"
+  ]
+}

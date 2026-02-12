@@ -1,0 +1,42 @@
+{
+  "number": "H6359",
+  "language": "hebrew",
+  "transliteration": "pâṭîyr",
+  "pronunciation": "paw-teer'",
+  "definition": "open, i.e. unoccupied",
+  "kjvTranslation": "free.",
+  "hebrew": "פָּטִיר",
+  "translations": {
+    "bg": "отворен, т.е. необитаем",
+    "cs": "otevřené, tj. neobsazené",
+    "da": "åben, dvs. ubeboet",
+    "de": "offen, d.h. unbesetzt",
+    "el": "ανοικτό, δηλαδή ακατοίκητο",
+    "es": "abierto, es decir, desocupado",
+    "et": "avatud, s.t. tühi",
+    "fi": "avoinna, eli tyhjillään",
+    "fr": "ouvert, c'est-à-dire inoccupé",
+    "hu": "nyitott, azaz nem foglalt",
+    "id": "terbuka, yaitu tidak dihuni",
+    "it": "aperto, cioè non occupato",
+    "ja": "オープン、すなわち無人",
+    "ko": "열려 있음, 즉 비어 있음",
+    "lt": "atviras, t. y. neužimtas",
+    "lv": "atvērts, t. i., neaizņemts",
+    "nb": "åpen, dvs. ubebodd",
+    "nl": "open, d.w.z. onbezet",
+    "pl": "otwarty, tj. niezajęty",
+    "pt": "aberto, ou seja, desocupado",
+    "ro": "deschis, adică neocupat",
+    "ru": "открытый, т.е. незанятый",
+    "sk": "otvorené, t. j. neobsadené",
+    "sl": "odprt, tj. nezaseden",
+    "sv": "öppen, d.v.s. obebodd",
+    "tr": "açık, yani boş",
+    "uk": "відкриті, тобто незайняті",
+    "zh": "开放，即无人居住"
+  },
+  "verses": [
+    "firstChronicles 9:33:6"
+  ]
+}

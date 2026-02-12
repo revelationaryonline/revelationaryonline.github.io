@@ -1,0 +1,42 @@
+{
+  "number": "H2852",
+  "language": "hebrew",
+  "transliteration": "châthak",
+  "pronunciation": "khaw-thak'",
+  "definition": "properly, to cut off, i.e. (figuratively) to decree",
+  "kjvTranslation": "determine.",
+  "translations": {
+    "bg": "правилно, да се отреже, т.е. (образно) да се постанови",
+    "cs": "správně odříznout, tj. (obrazně) nařídit",
+    "da": "korrekt, at afskære, dvs. (i overført betydning) at dekretere",
+    "de": "richtig: abschneiden, d.h. (bildlich) anordnen",
+    "el": "σωστά, να αποκόψει, δηλαδή (μεταφορικά) να διατάξει",
+    "es": "propiamente, cortar, es decir (en sentido figurado) decretar",
+    "et": "õigesti, ära lõigata, s.t. (piltlikult) deklareerida",
+    "fi": "oikein, katkaista, eli (kuvaannollisesti) määrätä",
+    "fr": "proprement, couper, c'est-à-dire (au sens figuré) décréter",
+    "hu": "helyesen, elvágni, azaz (átvitt értelemben) elhatározni",
+    "id": "benar, untuk memotong, yaitu (secara kiasan) untuk memutuskan",
+    "it": "propriamente, tagliare, cioè (in senso figurato) decretare",
+    "ja": "正しくは、断ち切る、すなわち（比喩的に）宣告する",
+    "ko": "적절하게, 잘라내다, 즉 (비 유적으로) 선언하다",
+    "lt": "tinkamai, nukirsti, t. y. (perkeltine prasme) įsakyti",
+    "lv": "pareizi - nogriezt, t.i., (pārnestā nozīmē) izdot rīkojumu",
+    "nb": "egentlig, å avskjære, dvs. (i overført betydning) å forordne",
+    "nl": "goed, afsnijden, d.w.z. (figuurlijk) bevelen",
+    "pl": "właściwie, odciąć, tj. (w przenośni) zadekretować",
+    "pt": "propriamente, cortar, ou seja, (figurativamente) decretar",
+    "ro": "corect, a tăia, adică (la figurat) a decreta",
+    "ru": "правильно, отрезать, т.е. (фигурально) постановить",
+    "sk": "správne, odrezať, t. j. (obrazne) nariadiť",
+    "sl": "pravilno, odrezati, tj. (v prenesenem pomenu) odrediti",
+    "sv": "korrekt, att skära av, dvs (bildligt talat) att förordna",
+    "tr": "uygun şekilde, kesmek, yani (mecazi olarak) karar vermek",
+    "uk": "правильно, відрізати, тобто (образно) постановити",
+    "zh": "正确地说，是斩断，即（比喻）下达命令"
+  },
+  "hebrew": "חָתַךְ",
+  "verses": [
+    "daniel 9:24:2"
+  ]
+}

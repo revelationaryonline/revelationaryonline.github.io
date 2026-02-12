@@ -1,0 +1,42 @@
+{
+  "number": "H6445",
+  "language": "hebrew",
+  "transliteration": "pânaq",
+  "pronunciation": "paw-nak'",
+  "definition": "to enervate",
+  "kjvTranslation": "bring up.",
+  "hebrew": "פָּנַק",
+  "translations": {
+    "bg": "да се изтощава",
+    "cs": "zeslabit",
+    "da": "til at gøre enerverende",
+    "de": "zu entnerven",
+    "el": "να απονευρώσω",
+    "es": "enervar",
+    "et": "närviliseks muuta",
+    "fi": "hermostuttaa",
+    "fr": "d'endormir",
+    "hu": "enerválni",
+    "id": "untuk menggairahkan",
+    "it": "enervare",
+    "ja": "疲弊させる",
+    "ko": "흥분시키다",
+    "lt": "išvarginti",
+    "lv": "vājināt",
+    "nb": "å undertrykke",
+    "nl": "verdoven",
+    "pl": "osłabiać",
+    "pt": "enervar",
+    "ro": "să enerveze",
+    "ru": "истощать",
+    "sk": "vyčerpať",
+    "sl": "izčrpavati",
+    "sv": "att överväldiga",
+    "tr": "etkisiz hale getirmek",
+    "uk": "щоб роздратувати",
+    "zh": "镇压"
+  },
+  "verses": [
+    "proverbs 29:21:0"
+  ]
+}

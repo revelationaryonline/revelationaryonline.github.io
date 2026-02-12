@@ -1,0 +1,42 @@
+{
+  "number": "H5751",
+  "language": "hebrew",
+  "transliteration": "ʻôwd",
+  "pronunciation": "ode",
+  "definition": "{properly, iteration or continuance; used only adverbially (with or without preposition), again, repeatedly, still, more}",
+  "kjvTranslation": "while.",
+  "hebrew": "עוֹד",
+  "translations": {
+    "bg": "{правилно, повторение или продължение; използва се само като наречие (с или без предлог), отново, многократно, все още, повече}",
+    "cs": "{vlastně, opakování nebo pokračování; používá se pouze příslovečně (s předložkou nebo bez ní), znovu, opakovaně, stále, více}",
+    "da": "{korrekt, gentagelse eller fortsættelse; bruges kun adverbielt (med eller uden præposition), igen, gentagne gange, stadig, mere}",
+    "de": "{richtig, Wiederholung oder Fortsetzung; nur adverbial verwendet (mit oder ohne Präposition), wieder, wiederholt, noch, mehr}",
+    "el": "{κατάλληλα, επανάληψη ή συνέχεια- χρησιμοποιείται μόνο επιρρηματικά (με ή χωρίς πρόθεση), ξανά, επανειλημμένα, ακόμα, περισσότερο}",
+    "es": "{propiamente, iteración o continuación; usado sólo adverbialmente (con o sin preposición), otra vez, repetidamente, todavía, más}",
+    "et": "{sõna, iteratsioon või jätkamine; kasutatakse ainult adverbiaalina (koos prepositsiooniga või ilma), uuesti, korduvalt, veel, veel}",
+    "fi": "{sopivasti, iterointi tai jatkuminen; käytetään vain adverbiaalisesti (preposition kanssa tai ilman), uudelleen, toistuvasti, edelleen, enemmän}",
+    "fr": "{correctement, l'itération ou la continuation ; utilisé seulement adverbialement (avec ou sans préposition), à nouveau, de façon répétée, encore, plus}",
+    "hu": "{helyesen, ismétlés vagy folytatás; csak határozószóval (prepozícióval vagy anélkül), újra, ismételten, még mindig, még több}",
+    "id": "{secara benar, pengulangan atau kelanjutan; hanya digunakan sebagai kata keterangan (dengan atau tanpa kata depan), lagi, berulang kali, masih, lebih}",
+    "it": "{propriamente, iterazione o continuazione; usato solo in senso avverbiale (con o senza preposizione), di nuovo, ripetutamente, ancora, di più}",
+    "ja": "{正しくは、反復、継続。副詞的にのみ（前置詞の有無にかかわらず）使われ、再び、繰り返し、まだ、もっと}。",
+    "ko": "{적절하게, 반복 또는 계속; 부사(전치사 포함 또는 제외), 다시, 반복적으로, 여전히, 더만 사용}",
+    "lt": "{tinkamai, pasikartojimas arba tęsinys; vartojamas tik kaip prieveiksmis (su arba be prieveiksmio), vėl, pakartotinai, vis dar, daugiau}",
+    "lv": "{pareizi, atkārtošanās vai turpinājums; lietots tikai adverbiāli (ar vai bez prievārda), atkal, atkārtoti, joprojām, vairāk}",
+    "nb": "{korrekt, gjentakelse eller fortsettelse; brukes bare adverbialt (med eller uten preposisjon), igjen, gjentatte ganger, fremdeles, mer}",
+    "nl": "{correct, iteratie of voortzetting; alleen bijwoordelijk gebruikt (met of zonder voorzetsel), opnieuw, herhaaldelijk, nog steeds, meer}",
+    "pl": "{właściwie iteracja lub kontynuacja; używane tylko przysłówkowo (z przyimkiem lub bez), ponownie, wielokrotnie, wciąż, więcej}",
+    "pt": "{propriamente, iteração ou continuação; usado apenas adverbialmente (com ou sem preposição), novamente, repetidamente, ainda, mais}",
+    "ro": "{properly, iteration or continuance; used only adverbially (with or without preposition), again, repeatedly, still, more}",
+    "ru": "{правильно, итерация или продолжение; используется только наречие (с предлогом или без него), снова, неоднократно, все еще, больше}",
+    "sk": "{správne, opakovanie alebo pokračovanie; používa sa len príslovkovo (s predložkou alebo bez nej), opäť, opakovane, stále, viac}",
+    "sl": "{pravilno, ponavljanje ali nadaljevanje; uporablja se le kot prislov (s predpono ali brez nje), spet, večkrat, še vedno, bolj}",
+    "sv": "{korrekt, iteration eller fortsättning; används endast adverbiellt (med eller utan preposition), igen, upprepade gånger, fortfarande, mer}",
+    "tr": "{doğru olarak, yineleme veya devamlılık; sadece zarf olarak kullanılır (edatla veya edatsız), tekrar, tekrar, hala, daha}",
+    "uk": "{правильно, ітерація або продовження; вживається тільки прислівниково (з прийменником або без нього), знову, повторно, все ще, ще, ще}",
+    "zh": "{正确地说，是迭代或延续；仅用于副词（带或不带介词），再次、反复、仍然、更多}。"
+  },
+  "verses": [
+    "daniel 4:28:0"
+  ]
+}

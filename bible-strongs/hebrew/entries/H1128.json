@@ -1,0 +1,42 @@
+{
+  "number": "H1128",
+  "language": "hebrew",
+  "transliteration": "Ben-Deqer",
+  "pronunciation": "ben-deh'-ker",
+  "definition": "Ben-Deker, an Israelite",
+  "kjvTranslation": "the son of Dekar.",
+  "translations": {
+    "bg": "Бен-Декер, израелец",
+    "cs": "Ben-Deker, Izraelita",
+    "da": "Ben-Deker, en israelit",
+    "de": "Ben-Deker, ein Israelit",
+    "el": "Ben-Deker, ένας Ισραηλίτης",
+    "es": "Ben-Deker, israelita",
+    "et": "Ben-Deker, iisraellane",
+    "fi": "Ben-Deker, israelilainen",
+    "fr": "Ben-Deker, Israélite",
+    "hu": "Ben-Deker, egy izraelita",
+    "id": "Ben-Deker, seorang Israel",
+    "it": "Ben-Deker, un israelita",
+    "ja": "イスラエルのベン・デカー",
+    "ko": "이스라엘인 벤-데커",
+    "lt": "Ben-Deker, izraelitas",
+    "lv": "Ben-Dekers, izraēlietis",
+    "nb": "Ben-Deker, en israelitt",
+    "nl": "Ben-Deker, een Israëliet",
+    "pl": "Ben-Deker, Izraelita",
+    "pt": "Ben-Deker, um israelita",
+    "ro": "Ben-Deker, un israelit",
+    "ru": "Бен-Декер, израильтянин",
+    "sk": "Ben-Deker, Izraelita",
+    "sl": "Ben-Deker, Izraelec",
+    "sv": "Ben-Deker, en israelit",
+    "tr": "Ben-Deker, bir İsrailli",
+    "uk": "Бен-Декер, ізраїльтянин",
+    "zh": "以色列人本-德克"
+  },
+  "hebrew": "בֶּן־דֶּקֶר",
+  "verses": [
+    "firstKings 4:9:1"
+  ]
+}

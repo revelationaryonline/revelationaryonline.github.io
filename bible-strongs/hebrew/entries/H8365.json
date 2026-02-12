@@ -1,0 +1,43 @@
+{
+  "number": "H8365",
+  "language": "hebrew",
+  "transliteration": "shâtham",
+  "pronunciation": "shaw-tham'",
+  "definition": "to unveil (figuratively)",
+  "kjvTranslation": "be open.",
+  "hebrew": "שָׁתַם",
+  "translations": {
+    "bg": "да се разкрие (в преносен смисъл)",
+    "cs": "odhalit (obrazně)",
+    "da": "at afsløre (i overført betydning)",
+    "de": "enthüllen (im übertragenen Sinne)",
+    "el": "να αποκαλύψει (μεταφορικά)",
+    "es": "desvelar (en sentido figurado)",
+    "et": "paljastada (piltlikult)",
+    "fi": "paljastaa (kuvaannollisesti)",
+    "fr": "dévoiler (au sens figuré)",
+    "hu": "leleplezni (átvitt értelemben)",
+    "id": "untuk mengungkap (secara kiasan)",
+    "it": "svelare (in senso figurato)",
+    "ja": "あらわにする",
+    "ko": "를 (비유적으로) 공개합니다",
+    "lt": "atskleisti (perkeltine prasme)",
+    "lv": "atklāt (pārnestā nozīmē)",
+    "nb": "å avdekke (i overført betydning)",
+    "nl": "onthullen (figuurlijk)",
+    "pl": "odsłonić (w przenośni)",
+    "pt": "revelar (em sentido figurado)",
+    "ro": "a dezvălui (la figurat)",
+    "ru": "раскрывать (фигурально)",
+    "sk": "odhaľovať (v prenesenom význame)",
+    "sl": "razkriti (v prenesenem pomenu)",
+    "sv": "att avslöja (bildligt talat)",
+    "tr": "ortaya çıkarmak (mecazi olarak)",
+    "uk": "розкрити (образно)",
+    "zh": "揭晓"
+  },
+  "verses": [
+    "numbers 24:3:9",
+    "numbers 24:15:9"
+  ]
+}

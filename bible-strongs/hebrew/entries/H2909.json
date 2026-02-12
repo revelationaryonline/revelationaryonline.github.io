@@ -1,0 +1,42 @@
+{
+  "number": "H2909",
+  "language": "hebrew",
+  "transliteration": "ṭâchâh",
+  "pronunciation": "taw-khaw'",
+  "definition": "to stretch a bow, as an archer",
+  "kjvTranslation": "(bow-) shot.",
+  "translations": {
+    "bg": "да опъва лък, като стрелец с лък",
+    "cs": "napnout luk jako lukostřelec",
+    "da": "at spænde en bue, som en bueskytte",
+    "de": "einen Bogen spannen, wie ein Bogenschütze",
+    "el": "να τεντώσει ένα τόξο, όπως ένας τοξότης",
+    "es": "tensar un arco, como un arquero",
+    "et": "vibu venitada, nagu vibulaskja",
+    "fi": "jännittää jousi, kuten jousimies",
+    "fr": "tendre un arc, comme un archer",
+    "hu": "íjat feszíteni, mint egy íjász",
+    "id": "untuk meregangkan busur, sebagai pemanah",
+    "it": "tendere un arco, come un arciere",
+    "ja": "弓を張る",
+    "ko": "활을 펴는 궁수처럼",
+    "lt": "ištempti lanką, kaip lankininkas",
+    "lv": "izstiept loku, kā loka šāvēji",
+    "nb": "å spenne en bue, som en bueskytter",
+    "nl": "een boog spannen, als een boogschutter",
+    "pl": "napinać łuk, jak łucznik",
+    "pt": "esticar um arco, como um arqueiro",
+    "ro": "a întinde un arc, ca un arcaș",
+    "ru": "натягивать лук, как лучник",
+    "sk": "napínať luk ako lukostrelec",
+    "sl": "napenjati lok, kot lokostrelec",
+    "sv": "att spänna en båge, som en bågskytt",
+    "tr": "bir okçu gibi yay germek",
+    "uk": "натягнути лук, як лучник",
+    "zh": "张弓"
+  },
+  "hebrew": "טָחָה",
+  "verses": [
+    "genesis 21:16:5"
+  ]
+}

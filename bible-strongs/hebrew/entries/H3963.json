@@ -1,0 +1,42 @@
+{
+  "number": "H3963",
+  "language": "hebrew",
+  "transliteration": "lethek",
+  "pronunciation": "leh'-thek",
+  "definition": "a measure for things dry",
+  "kjvTranslation": "half homer. m",
+  "hebrew": "לֶתֶךְ",
+  "translations": {
+    "bg": "мярка за сухи неща",
+    "cs": "míra pro suché věci",
+    "da": "et mål for tørre ting",
+    "de": "ein Maß für trockene Dinge",
+    "el": "ένα μέτρο για τα ξηρά πράγματα",
+    "es": "una medida para las cosas secas",
+    "et": "kuivade asjade meede",
+    "fi": "kuivien asioiden mitta",
+    "fr": "une mesure pour les choses sèches",
+    "hu": "a száraz dolgok mértékegysége",
+    "id": "ukuran untuk benda-benda kering",
+    "it": "una misura per le cose secche",
+    "ja": "乾物",
+    "ko": "건조한 물건에 대한 조치",
+    "lt": "sausų daiktų matas",
+    "lv": "sauso lietu mērs",
+    "nb": "et mål for tørre ting",
+    "nl": "een maat voor droge dingen",
+    "pl": "miara dla rzeczy suchych",
+    "pt": "uma medida para as coisas secas",
+    "ro": "o măsură pentru lucrurile uscate",
+    "ru": "мера для сухих вещей",
+    "sk": "miera pre suché veci",
+    "sl": "merilo za suhe stvari",
+    "sv": "ett mått för torra saker",
+    "tr": "kuru şeyler için bir ölçü",
+    "uk": "міра для сухих речей",
+    "zh": "干货"
+  },
+  "verses": [
+    "hosea 3:2:7"
+  ]
+}

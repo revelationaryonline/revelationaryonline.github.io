@@ -1,0 +1,42 @@
+{
+  "number": "H7295",
+  "language": "hebrew",
+  "transliteration": "râhâb",
+  "pronunciation": "raw-hawb'",
+  "definition": "insolent",
+  "kjvTranslation": "proud.",
+  "hebrew": "רָהָב",
+  "translations": {
+    "bg": "нагъл",
+    "cs": "drzý",
+    "da": "uforskammet",
+    "de": "frechheit",
+    "el": "αυθάδης",
+    "es": "insolente",
+    "et": "häbematu",
+    "fi": "röyhkeä",
+    "fr": "insolent",
+    "hu": "pimasz",
+    "id": "kurang ajar",
+    "it": "insolente",
+    "ja": "ひとをくった",
+    "ko": "무례한",
+    "lt": "įžūlus",
+    "lv": "nekaunīgs",
+    "nb": "frekk",
+    "nl": "brutale",
+    "pl": "bezczelny",
+    "pt": "insolente",
+    "ro": "insolent",
+    "ru": "наглость",
+    "sk": "drzé",
+    "sl": "predrzni",
+    "sv": "oförskämd",
+    "tr": "küstah",
+    "uk": "нахабний",
+    "zh": "无礼"
+  },
+  "verses": [
+    "psalms 40:5:9"
+  ]
+}

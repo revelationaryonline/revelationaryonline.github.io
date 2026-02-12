@@ -1,0 +1,43 @@
+{
+  "number": "H2179",
+  "language": "hebrew",
+  "transliteration": "zânab",
+  "pronunciation": "zaw-nab'",
+  "definition": "to curtail, i.e. cut off the rear",
+  "kjvTranslation": "smite the hindmost.",
+  "translations": {
+    "bg": "да се ограничи, т.е. да се отреже задната част",
+    "cs": "omezit, tj. odříznout zadní část vozu",
+    "da": "at indskrænke, dvs. skære bagenden af",
+    "de": "zu beschneiden, d.h. die Rückseite abzuschneiden",
+    "el": "να περικόψει, δηλαδή να κόψει το πίσω μέρος",
+    "es": "recortar, es decir, cortar la parte trasera",
+    "et": "kärpida, st lõigata ära tagumine osa",
+    "fi": "rajoittaa, eli katkaista takaosaa",
+    "fr": "réduire, c'est-à-dire couper l'arrière",
+    "hu": "megkurtítani, azaz levágni a hátsó részt",
+    "id": "untuk membatasi, yaitu memotong bagian belakang",
+    "it": "ridurre, cioè tagliare la parte posteriore",
+    "ja": "を削る。",
+    "ko": "축소, 즉 뒤쪽을 잘라냅니다",
+    "lt": "apriboti, t. y. nukirsti galinę dalį",
+    "lv": "ierobežot, t. i., nogriezt aizmugurējo daļu",
+    "nb": "å avkorte, dvs. kutte av bakenden",
+    "nl": "inkorten, d.w.z. de achterkant afsnijden",
+    "pl": "ograniczyć, tj. odciąć tył",
+    "pt": "reduzir, ou seja, cortar a retaguarda",
+    "ro": "a restrânge, adică a tăia din spate",
+    "ru": "свернуть, т.е. отрезать тыл",
+    "sk": "obmedziť, t. j. odrezať zadnú časť",
+    "sl": "omejiti, tj. odrezati zadnji del",
+    "sv": "att förkorta, d.v.s. skära av bakdelen",
+    "tr": "kısaltmak, yani arkayı kesmek",
+    "uk": "згорнути, тобто відрізати тили",
+    "zh": "缩尾，即切断后方"
+  },
+  "hebrew": "זָנַב",
+  "verses": [
+    "deuteronomy 25:18:3",
+    "joshua 10:19:6"
+  ]
+}

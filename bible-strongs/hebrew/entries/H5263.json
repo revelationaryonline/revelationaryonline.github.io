@@ -1,0 +1,42 @@
+{
+  "number": "H5263",
+  "language": "hebrew",
+  "transliteration": "nâçaç",
+  "pronunciation": "naw-sas'",
+  "definition": "to wane, i.e. be sick",
+  "kjvTranslation": "faint.",
+  "hebrew": "נָסַס",
+  "translations": {
+    "bg": "да отслабва, т.е. да се разболее",
+    "cs": "slábnout, tj. být nemocný",
+    "da": "at aftage, dvs. være syg",
+    "de": "abnehmen, d.h. krank sein",
+    "el": "να εξασθενήσει, δηλαδή να αρρωστήσει",
+    "es": "decaer, es decir, estar enfermo",
+    "et": "kahaneda, st haigeks jääda",
+    "fi": "hiipua, eli sairastua",
+    "fr": "de s'affaiblir, c'est-à-dire d'être malade",
+    "hu": "fogyatkozni, azaz betegnek lenni",
+    "id": "berkurang, yaitu menjadi sakit",
+    "it": "diminuire, cioè ammalarsi",
+    "ja": "衰える、つまり病気になる",
+    "ko": "쇠약해지다, 즉 아프다",
+    "lt": "silpnėti, t. y. sirgti",
+    "lv": "novājināties, t.i., saslimt",
+    "nb": "å avta, dvs. være syk",
+    "nl": "afnemen, d.w.z. ziek zijn",
+    "pl": "słabnąć, tj. chorować",
+    "pt": "esmorecer, ou seja, ficar doente",
+    "ro": "să scadă, adică să fie bolnav",
+    "ru": "ослабевать, т.е. болеть",
+    "sk": "slabnúť, t. j. byť chorý",
+    "sl": "usihati, tj. zboleti",
+    "sv": "att avta, d.v.s. vara sjuk",
+    "tr": "zayıflamak, yani hasta olmak",
+    "uk": "слабшати, тобто хворіти",
+    "zh": "恹恹"
+  },
+  "verses": [
+    "isaiah 10:18:9"
+  ]
+}

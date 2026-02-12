@@ -1,0 +1,42 @@
+{
+  "number": "H5910",
+  "language": "hebrew",
+  "transliteration": "ʻAkkôw",
+  "pronunciation": "ak-ko'",
+  "definition": "Akko (from its situation on a bay)",
+  "kjvTranslation": "Accho.",
+  "hebrew": "עַכּוֹ",
+  "translations": {
+    "bg": "Акко (от разположението му в залив)",
+    "cs": "Akko (podle polohy v zálivu)",
+    "da": "Akko (på grund af dens beliggenhed på en bugt)",
+    "de": "Akko (aufgrund seiner Lage in einer Bucht)",
+    "el": "Akko (από τη θέση του σε έναν κόλπο)",
+    "es": "Akko (por su situación en una bahía)",
+    "et": "Akko (asukoha tõttu lahe ääres)",
+    "fi": "Akko (sijaintinsa vuoksi lahdella)",
+    "fr": "Akko (de sa situation sur une baie)",
+    "hu": "Akko (az öbölben való elhelyezkedése miatt)",
+    "id": "Akko (dari situasinya yang berada di teluk)",
+    "it": "Akko (per la sua posizione su una baia)",
+    "ja": "湾に面していることから",
+    "ko": "아코(만에서의 상황)",
+    "lt": "Akko (dėl padėties įlankoje)",
+    "lv": "Akko (pēc tā atrašanās vietas līcī)",
+    "nb": "Akko (på grunn av beliggenheten i en bukt)",
+    "nl": "Akko (vanwege de ligging aan een baai)",
+    "pl": "Akko (ze względu na położenie w zatoce)",
+    "pt": "Akko (pela sua situação numa baía)",
+    "ro": "Akko (din cauza situației sale pe un golf)",
+    "ru": "Акко (по расположению на берегу залива)",
+    "sk": "Akko (podľa polohy v zálive)",
+    "sl": "Akko (zaradi lege v zalivu)",
+    "sv": "Akko (på grund av dess läge på en vik)",
+    "tr": "Akko (bir koy üzerindeki konumundan)",
+    "uk": "Акко (з його розташування на березі затоки)",
+    "zh": "阿科（位于海湾上）"
+  },
+  "verses": [
+    "judges 1:31:5"
+  ]
+}

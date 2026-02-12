@@ -1,0 +1,43 @@
+{
+  "number": "H2500",
+  "language": "hebrew",
+  "transliteration": "chêleph",
+  "pronunciation": "klay'-lef",
+  "definition": "properly, exchange; hence (as preposition) instead of",
+  "kjvTranslation": "[idiom] for.",
+  "translations": {
+    "bg": "правилно, размяна; следователно (като предлог) вместо",
+    "cs": "správně, výměna; proto (jako předložka) místo",
+    "da": "korrekt, udveksle; derfor (som præposition) i stedet for",
+    "de": "richtig, Austausch; daher (als Präposition) anstelle von",
+    "el": "σωστά, ανταλλαγή- ως εκ τούτου (ως πρόθεση) αντί για",
+    "es": "propiamente, intercambio; por lo tanto (como preposición) en lugar de",
+    "et": "korralikult, vahetada; seega (kui prepositsioon) asemel",
+    "fi": "oikein, vaihto; siis (prepositiona) sen sijaan, että",
+    "fr": "à proprement parler, échanger ; d'où (comme préposition) au lieu de",
+    "hu": "megfelelően, csere; ezért (mint prepozíció) ahelyett, hogy",
+    "id": "benar, bertukar; karenanya (sebagai kata depan) bukannya",
+    "it": "propriamente, scambio; quindi (come preposizione) invece di",
+    "ja": "したがって（前置詞として）代わりに",
+    "ko": "적절하게, 교환; 따라서 (전치사로서) 대신에",
+    "lt": "tinkamai, mainai; taigi (kaip prieveiksmis) vietoj",
+    "lv": "pareizi, apmaiņa; tātad (kā prievārds), nevis",
+    "nb": "riktig, bytte; derfor (som preposisjon) i stedet for",
+    "nl": "goed, ruilen; vandaar (als voorzetsel) in plaats van",
+    "pl": "właściwie, wymiana; stąd (jako przyimek) zamiast",
+    "pt": "propriamente, trocar; portanto (como preposição) em vez de",
+    "ro": "corect, schimb; prin urmare (ca prepoziție) în loc de",
+    "ru": "должным образом, обмениваться; следовательно (как предлог) вместо",
+    "sk": "správne, výmena; preto (ako predložka) namiesto",
+    "sl": "pravilno, izmenjava; zato (kot predponski obrazec) namesto",
+    "sv": "korrekt, byta; därav (som preposition) i stället för",
+    "tr": "uygun şekilde, takas; dolayısıyla (edat olarak) yerine",
+    "uk": "правильно, обмінюватися; отже (як прийменник) замість",
+    "zh": "适当地，交换；因此（作为介词）而不是"
+  },
+  "hebrew": "חֵלֶף",
+  "verses": [
+    "numbers 18:21:8",
+    "numbers 18:31:10"
+  ]
+}

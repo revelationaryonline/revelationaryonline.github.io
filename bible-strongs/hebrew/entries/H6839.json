@@ -1,0 +1,42 @@
+{
+  "number": "H6839",
+  "language": "hebrew",
+  "transliteration": "Tsôphîym",
+  "pronunciation": "tso-feem'",
+  "definition": "Tsophim, a place East of the Jordan",
+  "kjvTranslation": "Zophim.",
+  "hebrew": "צֹפִים",
+  "translations": {
+    "bg": "Цофим, място на изток от Йордан",
+    "cs": "Tsophim, místo na východ od Jordánu",
+    "da": "Tsophim, et sted øst for Jordan",
+    "de": "Tsophim, ein Ort östlich des Jordans",
+    "el": "Τσοφίμ, τόπος ανατολικά του Ιορδάνη",
+    "es": "Tsophim, un lugar al este del Jordán",
+    "et": "Tsophim, koht Jordani jõest ida pool",
+    "fi": "Tsophim, paikka Jordanin itäpuolella",
+    "fr": "Tsophim, lieu situé à l'est du Jourdain",
+    "hu": "Tsophim, egy hely a Jordántól keletre",
+    "id": "Tsophim, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Tsophim, un luogo a est del Giordano",
+    "ja": "ヨルダンの東の地、ツォフィム",
+    "ko": "요르단 동쪽의 장소, 소핌",
+    "lt": "Cofimas, vietovė į rytus nuo Jordano",
+    "lv": "Tsophim, vieta uz austrumiem no Jordānas",
+    "nb": "Tsophim, et sted øst for Jordan",
+    "nl": "Tsophim, een plaats ten oosten van de Jordaan",
+    "pl": "Tsophim, miejsce na wschód od Jordanu",
+    "pt": "Tsofim, um lugar a leste do Jordão",
+    "ro": "Tsophim, un loc la est de Iordan",
+    "ru": "Цофим, место к востоку от Иордана",
+    "sk": "Tsophim, miesto na východ od Jordánu",
+    "sl": "Tsophim, kraj vzhodno od Jordana",
+    "sv": "Tsophim, en plats öster om Jordanfloden",
+    "tr": "Tsophim, Ürdün'ün doğusunda bir yer",
+    "uk": "Цофім, місце на схід від Йордану",
+    "zh": "佐非姆，约旦河东的一个地方"
+  },
+  "verses": [
+    "numbers 23:14:2"
+  ]
+}

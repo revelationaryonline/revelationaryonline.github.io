@@ -1,0 +1,42 @@
+{
+  "number": "H773",
+  "language": "hebrew",
+  "transliteration": "ʼarʻîyth",
+  "pronunciation": "arh-eeth'",
+  "definition": "the bottom",
+  "kjvTranslation": "bottom.",
+  "translations": {
+    "bg": "на дъното",
+    "cs": "dno",
+    "da": "bunden",
+    "de": "der Boden",
+    "el": "ο πυθμένας",
+    "es": "el fondo",
+    "et": "põhja",
+    "fi": "pohja",
+    "fr": "le fond",
+    "hu": "a fenék",
+    "id": "bagian bawah",
+    "it": "il fondo",
+    "ja": "下",
+    "ko": "하단",
+    "lt": "apačioje",
+    "lv": "apakšā",
+    "nb": "bunnen",
+    "nl": "de bodem",
+    "pl": "dno",
+    "pt": "o fundo",
+    "ro": "partea de jos",
+    "ru": "дно",
+    "sk": "dno",
+    "sl": "dno",
+    "sv": "botten",
+    "tr": "alt",
+    "uk": "дно",
+    "zh": "底部"
+  },
+  "hebrew": "אַרְעִית",
+  "verses": [
+    "daniel 6:25:18"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5568",
+  "language": "hebrew",
+  "transliteration": "çâmar",
+  "pronunciation": "saw-mar'",
+  "definition": "to be erect, i.e. bristle as hair",
+  "kjvTranslation": "stand up, tremble.",
+  "hebrew": "סָמַר",
+  "translations": {
+    "bg": "да е изправен, т.е. да е с косъм като коса",
+    "cs": "být vzpřímený, tj. štětinatý jako vlasy",
+    "da": "at være oprejst, dvs. stritte som hår",
+    "de": "aufrecht zu sein, d.h. Borsten wie Haare",
+    "el": "να είναι όρθιο, δηλαδή να έχει τρίχες σαν τρίχες",
+    "es": "estar erecto, es decir, erizarse como el pelo",
+    "et": "olla püsti, st harjased nagu juuksed",
+    "fi": "olla pystyssä, eli harjaksia kuin hiukset",
+    "fr": "être dressé, c'est-à-dire se hérisser comme un cheveu",
+    "hu": "felállni, azaz szőrösnek lenni, mint a szőrszálak",
+    "id": "menjadi tegak, yaitu bulu seperti rambut",
+    "it": "essere eretto, cioè irto come un pelo",
+    "ja": "直立する、すなわち髪のように剛毛になる",
+    "ko": "직립, 즉 머리카락처럼 뻣뻣하다",
+    "lt": "būti stačiam, t. y. šerpetoti kaip plaukai",
+    "lv": "stāvēt, t.i., sari kā mati",
+    "nb": "å være oppreist, dvs. bustet som hår",
+    "nl": "rechtop staan, d.w.z. overeind staan als haar",
+    "pl": "być wyprostowanym, tj. szczeciniastym jak włosy",
+    "pt": "ser ereto, ou seja, ter cerdas como cabelo",
+    "ro": "să fie erect, adică să se zbârlească ca părul",
+    "ru": "быть прямым, т.е. щетиниться, как волосы",
+    "sk": "byť vzpriamený, t. j. štetinatý ako vlasy",
+    "sl": "biti pokončen, tj. ščetinast kot lasje",
+    "sv": "vara upprätt, d.v.s. ha borst som hår",
+    "tr": "dik olmak, yani saç gibi kıllanmak",
+    "uk": "бути прямостоячим, тобто щетинистим, як волосся",
+    "zh": "竖起，即鬃毛如发"
+  },
+  "verses": [
+    "job 4:15:4",
+    "psalms 119:120:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8182",
+  "language": "hebrew",
+  "transliteration": "shôʻâr",
+  "pronunciation": "sho-awr'",
+  "definition": "harsh or horrid, i.e. offensive",
+  "kjvTranslation": "vile.",
+  "hebrew": "שֹׁעָר",
+  "translations": {
+    "bg": "суров или ужасен, т.е. обиден",
+    "cs": "drsný nebo hrozný, tj. urážlivý",
+    "da": "hård eller forfærdelig, dvs. stødende",
+    "de": "hart oder schrecklich, d.h. anstößig",
+    "el": "σκληρό ή φρικτό, δηλαδή προσβλητικό",
+    "es": "áspero u horrible, es decir, ofensivo",
+    "et": "karm või õudne, s.t. solvav",
+    "fi": "ankara tai kauhea, eli loukkaava",
+    "fr": "dur ou horrible, c'est-à-dire offensant",
+    "hu": "durva vagy borzalmas, azaz sértő",
+    "id": "kasar atau mengerikan, yaitu menyinggung",
+    "it": "duro o orrido, cioè offensivo",
+    "ja": "険悪",
+    "ko": "가혹하거나 끔찍한, 즉 불쾌감을 주는 경우",
+    "lt": "šiurkštus arba baisus, t. y. įžeidžiantis",
+    "lv": "skarbs vai briesmīgs, t.i., aizskarošs",
+    "nb": "hard eller forferdelig, dvs. støtende",
+    "nl": "hard of afschuwelijk, d.w.z. beledigend",
+    "pl": "ostry lub okropny, tj. obraźliwy",
+    "pt": "duro ou horrendo, ou seja, ofensivo",
+    "ro": "dur sau oribil, adică ofensator",
+    "ru": "суровый или ужасный, т.е. оскорбительный",
+    "sk": "drsný alebo hrozný, t. j. urážlivý",
+    "sl": "krut ali grozen, tj. žaljiv",
+    "sv": "hård eller hemsk, d.v.s. stötande",
+    "tr": "sert veya korkunç, yani saldırgan",
+    "uk": "грубим або жахливим, тобто образливим",
+    "zh": "刺耳"
+  },
+  "verses": [
+    "jeremiah 29:17:16"
+  ]
+}

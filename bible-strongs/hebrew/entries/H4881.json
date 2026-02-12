@@ -1,0 +1,43 @@
+{
+  "number": "H4881",
+  "language": "hebrew",
+  "transliteration": "mᵉsûwkâh",
+  "pronunciation": "mes-oo-kaw'",
+  "definition": "a hedge",
+  "kjvTranslation": "hedge.",
+  "hebrew": "מְשׂוּכָה",
+  "translations": {
+    "bg": "хедж",
+    "cs": "živý plot",
+    "da": "en hæk",
+    "de": "eine Hecke",
+    "el": "μια αντιστάθμιση",
+    "es": "un seto",
+    "et": "hekk",
+    "fi": "suojaus",
+    "fr": "une couverture",
+    "hu": "egy sövény",
+    "id": "lindung nilai",
+    "it": "una siepe",
+    "ja": "ヘッジ",
+    "ko": "헤지",
+    "lt": "gyvatvorė",
+    "lv": "dzīvžogs",
+    "nb": "en sikring",
+    "nl": "een afdekking",
+    "pl": "żywopłot",
+    "pt": "uma cobertura",
+    "ro": "o acoperire",
+    "ru": "хеджирование",
+    "sk": "živý plot",
+    "sl": "živa meja",
+    "sv": "en säkring",
+    "tr": "bir çit",
+    "uk": "живопліт",
+    "zh": "篱"
+  },
+  "verses": [
+    "proverbs 15:19:2",
+    "isaiah 5:5:10"
+  ]
+}

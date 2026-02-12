@@ -1,0 +1,42 @@
+{
+  "number": "H301",
+  "language": "hebrew",
+  "transliteration": "ʼĂchîyshâr",
+  "pronunciation": "akh-ee-shawr'",
+  "definition": "Achishar, an Israelite",
+  "kjvTranslation": "Ahishar.",
+  "translations": {
+    "bg": "Ахишар, израилтянин",
+    "cs": "Achišar, Izraelita",
+    "da": "Achishar, en israelit",
+    "de": "Achischar, ein Israelit",
+    "el": "Αχισάρ, Ισραηλίτης",
+    "es": "Achishar, israelita",
+    "et": "Ahišar, iisraellane",
+    "fi": "Akishar, israelilainen",
+    "fr": "Achishar, Israélite",
+    "hu": "Achisar, egy izraelita",
+    "id": "Akhisar, seorang Israel",
+    "it": "Achishar, un israelita",
+    "ja": "イスラエル人アキシャル",
+    "ko": "이스라엘인 아치샤르",
+    "lt": "Achišaras, izraelitas",
+    "lv": "Ahišars, izraēlietis",
+    "nb": "Akishar, en israelitt",
+    "nl": "Achisar, een Israëliet",
+    "pl": "Achiszar, Izraelita",
+    "pt": "Achishar, israelita",
+    "ro": "Achișar, un israelit",
+    "ru": "Ахишар, израильтянин",
+    "sk": "Achišar, Izraelita",
+    "sl": "Akišar, Izraelec",
+    "sv": "Achishar, en israelit",
+    "tr": "Akişar, bir İsrailli",
+    "uk": "Ахішар, ізраїльтянин",
+    "zh": "亚基沙尔，以色列人"
+  },
+  "hebrew": "אֲחִישָׁר",
+  "verses": [
+    "firstKings 4:6:0"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H8653",
+  "language": "hebrew",
+  "transliteration": "tarʻêlâh",
+  "pronunciation": "tar-ay-law'",
+  "definition": "reeling",
+  "kjvTranslation": "astonishment, trembling.",
+  "hebrew": "תַּרְעֵלָה",
+  "translations": {
+    "bg": "макара",
+    "cs": "navíjení",
+    "da": "afrulning",
+    "de": "taumelnd",
+    "el": "τύλιγμα",
+    "es": "devanado",
+    "et": "reeling",
+    "fi": "kelaaminen",
+    "fr": "enroulement",
+    "hu": "reeling",
+    "id": "terguncang",
+    "it": "avvolgimento",
+    "ja": "そうろう",
+    "ko": "릴링",
+    "lv": "uztīšana",
+    "nb": "spoler",
+    "nl": "wankelen",
+    "pl": "zwijanie",
+    "pt": "enrolamento",
+    "ro": "derulare",
+    "ru": "катушка",
+    "sk": "navíjanie",
+    "sl": "navijanje",
+    "sv": "rullar",
+    "tr": "sarma",
+    "uk": "намотується",
+    "zh": "缫丝"
+  },
+  "verses": [
+    "psalms 60:5:5",
+    "isaiah 51:17:14",
+    "isaiah 51:22:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5451",
+  "language": "hebrew",
+  "transliteration": "çibbôleth",
+  "pronunciation": "sib-bo'-leth",
+  "definition": "an ear of grain",
+  "kjvTranslation": "Sibboleth.",
+  "hebrew": "סִבֹּלֶת",
+  "translations": {
+    "bg": "житен клас",
+    "cs": "obilný klas",
+    "da": "et kornaks",
+    "de": "eine Getreideähre",
+    "el": "ένα στάχυ",
+    "es": "una espiga",
+    "et": "viljatera",
+    "fi": "viljan tähkä",
+    "fr": "un épi de blé",
+    "hu": "egy szem gabona",
+    "id": "sebutir biji-bijian",
+    "it": "una spiga di grano",
+    "ja": "一穂の穀物",
+    "ko": "곡물 한 귀",
+    "lt": "javų varpos",
+    "lv": "labības kviešu",
+    "nb": "et kornaks",
+    "nl": "een korenaar",
+    "pl": "kłos zboża",
+    "pt": "uma espiga de grão",
+    "ro": "un spic de grâu",
+    "ru": "колос зерна",
+    "sk": "obilný klas",
+    "sl": "žitni klas",
+    "sv": "ett ax av spannmål",
+    "tr": "bir başak tahıl",
+    "uk": "колосся",
+    "zh": "穗儿"
+  },
+  "verses": [
+    "judges 12:6:6"
+  ]
+}

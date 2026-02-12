@@ -1,0 +1,43 @@
+{
+  "number": "H7060",
+  "language": "hebrew",
+  "transliteration": "qâmal",
+  "pronunciation": "kaw-mal'",
+  "definition": "to wither",
+  "kjvTranslation": "hew down, wither.",
+  "hebrew": "קָמַל",
+  "translations": {
+    "bg": "да изсъхне",
+    "cs": "uschnout",
+    "da": "til at visne",
+    "de": "zu verdorren",
+    "el": "να μαραθεί",
+    "es": "marchitarse",
+    "et": "närbuda",
+    "fi": "kuihtua",
+    "fr": "se flétrir",
+    "hu": "hogy elsorvadjon",
+    "id": "untuk layu",
+    "it": "appassire",
+    "ja": "枯れる",
+    "ko": "시들다",
+    "lt": "sudžiūti",
+    "lv": "nokalst",
+    "nb": "til å visne",
+    "nl": "verwelken",
+    "pl": "więdnąć",
+    "pt": "murchar",
+    "ro": "să se ofilească",
+    "ru": "увядать",
+    "sk": "uschnúť",
+    "sl": "usahniti",
+    "sv": "att förtvina",
+    "tr": "solmaya",
+    "uk": "в'янути",
+    "zh": "枯萎"
+  },
+  "verses": [
+    "isaiah 19:6:8",
+    "isaiah 33:9:5"
+  ]
+}

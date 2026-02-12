@@ -1,0 +1,42 @@
+{
+  "number": "H4837",
+  "language": "hebrew",
+  "transliteration": "martsepheth",
+  "pronunciation": "mar-tseh'-feth",
+  "definition": "a pavement",
+  "kjvTranslation": "pavement.",
+  "hebrew": "מַרְצֶפֶת",
+  "translations": {
+    "bg": "настилка",
+    "cs": "chodník",
+    "da": "et fortov",
+    "de": "ein Pflaster",
+    "el": "ένα πεζοδρόμιο",
+    "es": "un pavimento",
+    "et": "kõnnitee",
+    "fi": "jalkakäytävä",
+    "fr": "un trottoir",
+    "hu": "járda",
+    "id": "trotoar",
+    "it": "un marciapiede",
+    "ja": "舗装",
+    "ko": "포장 도로",
+    "lt": "šaligatvis",
+    "lv": "bruģis",
+    "nb": "et fortau",
+    "nl": "een bestrating",
+    "pl": "nawierzchnia",
+    "pt": "um pavimento",
+    "ro": "un pavaj",
+    "ru": "тротуар",
+    "sk": "chodník",
+    "sl": "pločnik",
+    "sv": "en trottoar",
+    "tr": "bir kaldırım",
+    "uk": "тротуар",
+    "zh": "人行道"
+  },
+  "verses": [
+    "secondKings 16:17:22"
+  ]
+}

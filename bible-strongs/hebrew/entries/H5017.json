@@ -1,0 +1,42 @@
+{
+  "number": "H5017",
+  "language": "hebrew",
+  "transliteration": "nᵉbûwʼâh",
+  "pronunciation": "neb-oo-aw",
+  "definition": "inspired teaching",
+  "kjvTranslation": "prophesying.",
+  "hebrew": "נְבוּאָה",
+  "translations": {
+    "bg": "вдъхновено преподаване",
+    "cs": "inspirovaná výuka",
+    "da": "inspireret undervisning",
+    "de": "inspirierte Lehre",
+    "el": "εμπνευσμένη διδασκαλία",
+    "es": "enseñanza inspirada",
+    "et": "inspireeritud õpetamine",
+    "fi": "inspiroitunut opetus",
+    "fr": "un enseignement inspiré",
+    "hu": "ihletett tanítás",
+    "id": "pengajaran yang terinspirasi",
+    "it": "insegnamento ispirato",
+    "ja": "感化教育",
+    "ko": "영감을 주는 교육",
+    "lt": "įkvėptas mokymas",
+    "lv": "iedvesmota mācīšana",
+    "nb": "inspirert undervisning",
+    "nl": "geïnspireerd onderwijs",
+    "pl": "inspirujące nauczanie",
+    "pt": "ensino inspirado",
+    "ro": "predare inspirată",
+    "ru": "вдохновенное обучение",
+    "sk": "inšpirované vyučovanie",
+    "sl": "navdihnjeno poučevanje",
+    "sv": "inspirerad undervisning",
+    "tr": "ilham verici öğretim",
+    "uk": "натхненне викладання",
+    "zh": "启发式教学"
+  },
+  "verses": [
+    "ezra 6:14:4"
+  ]
+}

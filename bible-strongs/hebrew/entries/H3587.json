@@ -1,0 +1,42 @@
+{
+  "number": "H3587",
+  "language": "hebrew",
+  "transliteration": "kîy",
+  "pronunciation": "kee",
+  "definition": "a brand or scar",
+  "kjvTranslation": "burning.",
+  "translations": {
+    "bg": "марка или белег",
+    "cs": "značka nebo jizva",
+    "da": "et mærke eller ar",
+    "de": "ein Brandzeichen oder eine Narbe",
+    "el": "ένα σημάδι ή μια ουλή",
+    "es": "una marca o cicatriz",
+    "et": "kaubamärk või arm",
+    "fi": "merkki tai arpi",
+    "fr": "une marque ou une cicatrice",
+    "hu": "egy márka vagy heg",
+    "id": "merek atau bekas luka",
+    "it": "un marchio o una cicatrice",
+    "ja": "焼き印",
+    "ko": "브랜드 또는 흉터",
+    "lt": "prekės ženklas arba randas",
+    "lv": "zīmols vai rēta",
+    "nb": "et merke eller arr",
+    "nl": "een merk of litteken",
+    "pl": "znamię lub blizna",
+    "pt": "uma marca ou cicatriz",
+    "ro": "o marcă sau o cicatrice",
+    "ru": "клеймо или шрам",
+    "sk": "značka alebo jazva",
+    "sl": "blagovna znamka ali brazgotina",
+    "sv": "ett märke eller ärr",
+    "tr": "bir marka veya yara izi",
+    "uk": "тавро або шрам",
+    "zh": "烙印"
+  },
+  "hebrew": "כִּי",
+  "verses": [
+    "isaiah 3:24:16"
+  ]
+}

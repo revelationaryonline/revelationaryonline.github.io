@@ -1,0 +1,43 @@
+{
+  "number": "H2379",
+  "language": "hebrew",
+  "transliteration": "chăzôwth",
+  "pronunciation": "khaz-oth'",
+  "definition": "a view",
+  "kjvTranslation": "sight.",
+  "translations": {
+    "bg": "изглед",
+    "cs": "pohled",
+    "da": "en udsigt",
+    "de": "eine Ansicht",
+    "el": "μια άποψη",
+    "es": "una vista",
+    "et": "vaade",
+    "fi": "näkymä",
+    "fr": "une vue",
+    "hu": "kilátás",
+    "id": "sebuah pemandangan",
+    "it": "una vista",
+    "ja": "一望",
+    "ko": "보기",
+    "lt": "vaizdas",
+    "lv": "skats",
+    "nb": "en utsikt",
+    "nl": "uitzicht",
+    "pl": "widok",
+    "pt": "uma vista",
+    "ro": "o vedere",
+    "ru": "взгляд",
+    "sk": "pohľad",
+    "sl": "pogled",
+    "sv": "en vy",
+    "tr": "bir görünüm",
+    "uk": "вид",
+    "zh": "景观"
+  },
+  "hebrew": "חֲזוֹת",
+  "verses": [
+    "daniel 4:8:6",
+    "daniel 4:17:9"
+  ]
+}

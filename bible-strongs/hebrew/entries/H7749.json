@@ -1,0 +1,43 @@
+{
+  "number": "H7749",
+  "language": "hebrew",
+  "transliteration": "Shûwchâmîy",
+  "pronunciation": "shoo-khaw-mee'",
+  "definition": "a Shuchamite (collectively)",
+  "kjvTranslation": "Shuhamites.",
+  "hebrew": "שׁוּחָמִי",
+  "translations": {
+    "bg": "шухамит (колективно)",
+    "cs": "šuchamit (společně)",
+    "da": "en shuchamit (kollektivt)",
+    "de": "ein Schuchamit (kollektiv)",
+    "el": "ένας Σουχαμίτης (συλλογικά)",
+    "es": "un shuchamita (colectivamente)",
+    "et": "šukamiit (kollektiivselt)",
+    "fi": "shuchamite (kollektiivisesti)",
+    "fr": "un Shuchamite (collectivement)",
+    "hu": "egy suchamita (kollektíven)",
+    "id": "seorang Syuchamite (secara kolektif)",
+    "it": "uno Shuchamita (collettivamente)",
+    "ja": "シュチャム人",
+    "ko": "슈참인(총칭)",
+    "lt": "šuchamitai (bendrai)",
+    "lv": "šuhamīti (kopā)",
+    "nb": "en sjuchamitt (kollektivt)",
+    "nl": "een Shuchamiet (collectief)",
+    "pl": "szuchamita (łącznie)",
+    "pt": "um shuchamita (coletivamente)",
+    "ro": "un șucamit (colectiv)",
+    "ru": "шухамит (коллективно)",
+    "sk": "šuchamit (spoločne)",
+    "sl": "šuhamit (kolektivno)",
+    "sv": "en shuchamit (kollektivt)",
+    "tr": "bir Shuchamite (topluca)",
+    "uk": "шушаміти (колективно)",
+    "zh": "舒查米人"
+  },
+  "verses": [
+    "numbers 26:42:6",
+    "numbers 26:43:2"
+  ]
+}

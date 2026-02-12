@@ -1,0 +1,43 @@
+{
+  "number": "H5669",
+  "language": "hebrew",
+  "transliteration": "ʻâbûwr",
+  "pronunciation": "aw-boor'",
+  "definition": "passed, i.e. kept over; used only of stored grain",
+  "kjvTranslation": "old corn.",
+  "hebrew": "עָבוּר",
+  "translations": {
+    "bg": "преминава, т.е. престоява; използва се само за складирано зърно",
+    "cs": "předané, tj. přechovávané; používá se pouze pro uskladněné obilí",
+    "da": "passeret, dvs. holdt over; bruges kun om oplagret korn",
+    "de": "bestanden, d.h. aufbewahrt; nur für gelagertes Getreide verwendet",
+    "el": "πέρασε, δηλ. διατηρήθηκε- χρησιμοποιείται μόνο για αποθηκευμένα σιτηρά",
+    "es": "pasado, es decir, guardado; utilizado únicamente para el grano almacenado",
+    "et": "läbitud, s.t. üleval hoitud; kasutatakse ainult ladustatud teravilja puhul",
+    "fi": "läpäissyt, ts. pidetty yli; käytetään ainoastaan varastoidusta viljasta",
+    "fr": "passé, c'est-à-dire conservé ; utilisé uniquement pour les céréales stockées",
+    "hu": "áthaladt, azaz megmaradt; csak a tárolt gabonafélék esetében használatos",
+    "id": "dilewatkan, yaitu disimpan; hanya digunakan untuk biji-bijian yang disimpan",
+    "it": "passato, cioè conservato; usato solo per i cereali immagazzinati",
+    "ja": "貯蔵穀物にのみ使用される。",
+    "ko": "통과, 즉 보관됨; 저장된 곡물만 사용됨",
+    "lt": "perduotas, t. y. laikomas; naudojamas tik sandėliuojamiems grūdams",
+    "lv": "nodots, t. i., paturēts pāri; izmanto tikai attiecībā uz uzglabātiem graudiem",
+    "nb": "passert, dvs. holdt over; brukes bare om lagret korn",
+    "nl": "gepasseerd, d.w.z. overgebleven; alleen gebruikt voor opgeslagen graan",
+    "pl": "przeszedł, tj. pozostał; używany tylko w przypadku przechowywanego ziarna",
+    "pt": "passado, ou seja, retido; utilizado apenas para cereais armazenados",
+    "ro": "trecut, adică păstrat; folosit numai pentru cereale depozitate",
+    "ru": "пройденный, т.е. передержанный; используется только в отношении хранящегося зерна",
+    "sk": "prešiel, t. j. prešiel; používa sa len na uskladnené obilie",
+    "sl": "prešel, tj. ostal; uporablja se samo za skladiščeno žito",
+    "sv": "passerade, d.v.s. hölls över; används endast för lagrad spannmål",
+    "tr": "geçti, yani bekletildi; sadece depolanmış tahıl için kullanılır",
+    "uk": "прохідний, тобто збережений; використовується тільки із зерна, що зберігається",
+    "zh": "通过，即保留；仅用于储藏的谷物"
+  },
+  "verses": [
+    "joshua 5:11:1",
+    "joshua 5:12:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5053",
+  "language": "hebrew",
+  "transliteration": "nôgahh",
+  "pronunciation": "no'-gah",
+  "definition": "dawn",
+  "kjvTranslation": "morning.",
+  "hebrew": "נֹגַהּ",
+  "translations": {
+    "bg": "зора",
+    "cs": "dawn",
+    "da": "daggry",
+    "de": "morgengrauen",
+    "el": "αυγή",
+    "es": "amanecer",
+    "et": "dawn",
+    "fi": "aamunkoitto",
+    "fr": "aube",
+    "hu": "hajnal",
+    "id": "fajar",
+    "it": "alba",
+    "ja": "夜明け",
+    "ko": "새벽",
+    "lt": "aušra",
+    "lv": "rītausma",
+    "nb": "daggry",
+    "nl": "dageraad",
+    "pl": "świt",
+    "pt": "madrugada",
+    "ro": "zori",
+    "ru": "рассвет",
+    "sk": "úsvit",
+    "sl": "zora",
+    "sv": "gryning",
+    "tr": "şafak",
+    "uk": "світанок",
+    "zh": "拂晓"
+  },
+  "verses": [
+    "daniel 6:20:4"
+  ]
+}

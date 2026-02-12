@@ -1,0 +1,42 @@
+{
+  "number": "H4128",
+  "language": "hebrew",
+  "transliteration": "mûwd",
+  "pronunciation": "mood",
+  "definition": "to shake",
+  "kjvTranslation": "measure.",
+  "hebrew": "מוּד",
+  "translations": {
+    "bg": "да се разклаща",
+    "cs": "třást",
+    "da": "til at ryste",
+    "de": "zu schütteln",
+    "el": "να κουνιέμαι",
+    "es": "agitar",
+    "et": "raputada",
+    "fi": "ravistella",
+    "fr": "secouer",
+    "hu": "rázni",
+    "id": "untuk mengguncang",
+    "it": "scuotere",
+    "ja": "振る",
+    "ko": "흔들다",
+    "lt": "purtyti",
+    "lv": "kratīt",
+    "nb": "å riste",
+    "nl": "schudden",
+    "pl": "wstrząsnąć",
+    "pt": "abanar",
+    "ro": "să se scuture",
+    "ru": "трястись",
+    "sk": "otriasť sa",
+    "sl": "stresati",
+    "sv": "att skaka",
+    "tr": "sallamak için",
+    "uk": "трясти",
+    "zh": "摇晃"
+  },
+  "verses": [
+    "habakkuk 3:6:1"
+  ]
+}

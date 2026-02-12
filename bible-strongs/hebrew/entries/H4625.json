@@ -1,0 +1,42 @@
+{
+  "number": "H4625",
+  "language": "hebrew",
+  "transliteration": "maʻăqâsh",
+  "pronunciation": "mah-ak-awsh'",
+  "definition": "a crook (in a road)",
+  "kjvTranslation": "crooked thing.",
+  "hebrew": "מַעֲקָשׁ",
+  "verses": [
+    "isaiah 42:16:13"
+  ],
+  "translations": {
+    "bg": "крива (на пътя)",
+    "cs": "křivka (na silnici)",
+    "da": "en skævhed (i en vej)",
+    "de": "eine Krümmung (in einer Straße)",
+    "el": "μια στροφή (σε έναν δρόμο)",
+    "es": "un sinuoso (en un camino)",
+    "et": "krants (teel)",
+    "fi": "mutka (tiellä)",
+    "fr": "un crochet (dans une route)",
+    "hu": "egy kanyar (az úton)",
+    "id": "penjahat (di jalan)",
+    "it": "una storta (in una strada)",
+    "ja": "曲り角",
+    "ko": "도둑(도로에서)",
+    "lt": "kreivė (kelyje)",
+    "lv": "līkums (uz ceļa)",
+    "nb": "en krok (i en vei)",
+    "nl": "een bocht (in een weg)",
+    "pl": "oszust (na drodze)",
+    "pt": "um entalhe (numa estrada)",
+    "ro": "o strâmbătură (pe un drum)",
+    "ru": "кривой (на дороге)",
+    "sk": "križovatka (na ceste)",
+    "sl": "krivina (na cesti)",
+    "sv": "en krok (i en väg)",
+    "tr": "bir dolandırıcı (bir yolda)",
+    "uk": "шахрай (на дорозі)",
+    "zh": "岔路"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1352",
+  "language": "hebrew",
+  "transliteration": "gôʼel",
+  "pronunciation": "go'-el",
+  "definition": "profanation",
+  "kjvTranslation": "defile.",
+  "translations": {
+    "bg": "профанация",
+    "cs": "profanace",
+    "da": "vanhelligelse",
+    "de": "profanierung",
+    "el": "βεβήλωση",
+    "es": "profanación",
+    "et": "profaniseerimine",
+    "fi": "profanointi",
+    "fr": "profanation",
+    "hu": "szentségtörés",
+    "id": "pencemaran",
+    "it": "profanazione",
+    "ja": "褻瀆",
+    "ko": "욕설",
+    "lt": "profanacija",
+    "lv": "profanācija",
+    "nb": "vanhelligelse",
+    "nl": "profanatie",
+    "pl": "profanacja",
+    "pt": "profanação",
+    "ro": "profanare",
+    "ru": "профанация",
+    "sk": "profanácia",
+    "sl": "profanacija",
+    "sv": "profanering",
+    "tr": "küfür",
+    "uk": "профанація",
+    "zh": "亵渎"
+  },
+  "hebrew": "גֹּאֶל",
+  "verses": [
+    "nehemiah 13:29:4"
+  ]
+}

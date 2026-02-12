@@ -1,0 +1,42 @@
+{
+  "number": "H8654",
+  "language": "hebrew",
+  "transliteration": "Tirʻâthîy",
+  "pronunciation": "teer-aw-thee'",
+  "definition": "a Tirathite or inhabitant of an unknown Tirah",
+  "kjvTranslation": "Tirathite.",
+  "hebrew": "תִּרְעָתִי",
+  "translations": {
+    "bg": "тиратянин или жител на неизвестна Тира",
+    "cs": "tirathita nebo obyvatel neznámého Tirahu",
+    "da": "en Tirathite eller indbygger i et ukendt Tirah",
+    "de": "ein Tirathit oder Einwohner eines unbekannten Tirah",
+    "el": "ένας Τιραθίτης ή κάτοικος ενός άγνωστου Τιράχ",
+    "es": "un tirathita o habitante de un Tirah desconocido",
+    "et": "tiraatlane või tundmatu Tirahi elanik",
+    "fi": "tiiratiittia tai tuntemattoman Tirahin asukasta",
+    "fr": "un Tirathite ou un habitant d'une Tirah inconnue",
+    "hu": "tirathita vagy egy ismeretlen Tirah lakója",
+    "id": "orang Tirath atau penduduk Tirah yang tidak dikenal",
+    "it": "un Tirathite o un abitante di una Tirah sconosciuta",
+    "ja": "ティラート人または未知のティラの住民",
+    "ko": "티라트족 또는 미지의 티라 거주자",
+    "lt": "tiratietis arba nežinomo Tiraso gyventojas",
+    "lv": "tirācietis vai nezināmas Tiras iedzīvotājs",
+    "nb": "en tiratitt eller innbygger i et ukjent Tirah",
+    "nl": "een Tirathiet of inwoner van een onbekende Tirah",
+    "pl": "tiratczyk lub mieszkaniec nieznanego Tirah",
+    "pt": "um tiratita ou habitante de um Tirah desconhecido",
+    "ro": "un Tirathit sau locuitor al unui Tirah necunoscut",
+    "ru": "тиратец или житель неизвестного Тираха",
+    "sk": "tiráťan alebo obyvateľ neznámeho Tirahu",
+    "sl": "tiratec ali prebivalec neznanega Tiraha",
+    "sv": "en Tirathite eller invånare i en okänd Tirah",
+    "tr": "bir Tirathite ya da bilinmeyen bir Tirah'ın sakini",
+    "uk": "тиратієць або мешканець невідомої Тири",
+    "zh": "提拉人或不知名提拉的居民"
+  },
+  "verses": [
+    "firstChronicles 2:55:5"
+  ]
+}

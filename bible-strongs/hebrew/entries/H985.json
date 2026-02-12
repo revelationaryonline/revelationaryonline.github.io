@@ -1,0 +1,42 @@
+{
+  "number": "H985",
+  "language": "hebrew",
+  "transliteration": "biṭchâh",
+  "pronunciation": "bit-khaw'",
+  "definition": "trust",
+  "kjvTranslation": "confidence.",
+  "translations": {
+    "bg": "доверие",
+    "cs": "trust",
+    "da": "tillid",
+    "de": "vertrauen",
+    "el": "εμπιστοσύνη",
+    "es": "confíe en",
+    "et": "usaldus",
+    "fi": "luottaa",
+    "fr": "confiance",
+    "hu": "bizalom",
+    "id": "kepercayaan",
+    "it": "fiducia",
+    "ja": "信頼",
+    "ko": "신뢰",
+    "lt": "pasitikėjimas",
+    "lv": "uzticēšanās",
+    "nb": "tillit",
+    "nl": "vertrouwen",
+    "pl": "zaufanie",
+    "pt": "confiança",
+    "ro": "încredere",
+    "ru": "доверие",
+    "sk": "trust",
+    "sl": "zaupanje",
+    "sv": "förtroende",
+    "tr": "güven",
+    "uk": "довіра",
+    "zh": "信任"
+  },
+  "hebrew": "בִּטְחָה",
+  "verses": [
+    "isaiah 30:15:11"
+  ]
+}

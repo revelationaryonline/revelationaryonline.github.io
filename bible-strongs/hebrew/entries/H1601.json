@@ -1,0 +1,42 @@
+{
+  "number": "H1601",
+  "language": "hebrew",
+  "transliteration": "Gôʻâh",
+  "pronunciation": "go-aw'",
+  "definition": "Goah, a place near Jerusalem",
+  "kjvTranslation": "Goath.",
+  "translations": {
+    "bg": "Гоа, място близо до Ерусалим",
+    "cs": "Goah, místo poblíž Jeruzaléma",
+    "da": "Goah, et sted nær Jerusalem",
+    "de": "Goah, ein Ort in der Nähe von Jerusalem",
+    "el": "Goah, ένας τόπος κοντά στην Ιερουσαλήμ",
+    "es": "Goah, un lugar cerca de Jerusalén",
+    "et": "Goah, koht Jeruusalemma lähedal",
+    "fi": "Goah, paikka Jerusalemin lähellä",
+    "fr": "Goah, lieu situé près de Jérusalem",
+    "hu": "Goah, egy Jeruzsálem melletti hely",
+    "id": "Goah, sebuah tempat di dekat Yerusalem",
+    "it": "Goah, un luogo vicino a Gerusalemme",
+    "ja": "エルサレム近郊の地、ゴア",
+    "ko": "고아, 예루살렘 근처의 장소",
+    "lt": "Goah, vietovė netoli Jeruzalės",
+    "lv": "Goah, vieta netālu no Jeruzalemes",
+    "nb": "Goah, et sted i nærheten av Jerusalem",
+    "nl": "Goah, een plaats bij Jeruzalem",
+    "pl": "Goah, miejsce w pobliżu Jerozolimy",
+    "pt": "Goah, um lugar perto de Jerusalém",
+    "ro": "Goah, un loc lângă Ierusalim",
+    "ru": "Гоах, место в окрестностях Иерусалима",
+    "sk": "Goah, miesto blízko Jeruzalema",
+    "sl": "Goah, kraj blizu Jeruzalema",
+    "sv": "Goah, en plats nära Jerusalem",
+    "tr": "Goah, Kudüs yakınlarında bir yer",
+    "uk": "Гоа, місце біля Єрусалиму",
+    "zh": "戈阿"
+  },
+  "hebrew": "גֹּעָה",
+  "verses": [
+    "jeremiah 31:39:10"
+  ]
+}

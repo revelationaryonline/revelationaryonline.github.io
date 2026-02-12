@@ -1,0 +1,43 @@
+{
+  "number": "H4942",
+  "language": "hebrew",
+  "transliteration": "mishpâth",
+  "pronunciation": "mish-pawth'",
+  "definition": "a stall for cattle (only dual)",
+  "kjvTranslation": "burden, sheepfold.",
+  "hebrew": "מִשְׁפָּת",
+  "translations": {
+    "bg": "обор за добитък (само двоен)",
+    "cs": "stáj pro skot (pouze dvojí)",
+    "da": "en stald til kvæg (kun dobbelt)",
+    "de": "einen Stall für Rinder (nur doppelt)",
+    "el": "στάβλος για βοοειδή (μόνο διπλός)",
+    "es": "un establo para el ganado (sólo doble)",
+    "et": "karjaaed (ainult kahekordne)",
+    "fi": "karjan karsina (vain kaksoiskarsina)",
+    "fr": "une stabulation pour le bétail (uniquement double)",
+    "hu": "szarvasmarhaistálló (csak kettős)",
+    "id": "kandang untuk ternak (hanya ada dua)",
+    "it": "una stalla per il bestiame (solo doppia)",
+    "ja": "牛小屋",
+    "ko": "소를 위한 마구간(이중만 가능)",
+    "lt": "galvijų tvartas (tik dvivietis)",
+    "lv": "novietne liellopiem (tikai divvietīga)",
+    "nb": "en bås for storfe (kun dobbelt)",
+    "nl": "een stal voor vee (alleen dubbel)",
+    "pl": "stanowisko dla bydła (tylko podwójne)",
+    "pt": "um estábulo para gado (apenas duplo)",
+    "ro": "o stabulație pentru vite (numai dublă)",
+    "ru": "стойло для скота (только двойное)",
+    "sk": "stajňa pre dobytok (len dvojnásobná)",
+    "sl": "hlev za govedo (samo dvojno)",
+    "sv": "ett stall för nötkreatur (endast dubbel)",
+    "tr": "sığırlar için bir ahır (sadece çift)",
+    "uk": "стійло для великої рогатої худоби (тільки подвійне)",
+    "zh": "牛栏"
+  },
+  "verses": [
+    "genesis 49:14:5",
+    "judges 5:16:3"
+  ]
+}

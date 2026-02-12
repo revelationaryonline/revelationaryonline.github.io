@@ -1,0 +1,42 @@
+{
+  "number": "H945",
+  "language": "hebrew",
+  "transliteration": "Bûwl",
+  "pronunciation": "bool",
+  "definition": "Bul, the eighth Hebrew month",
+  "kjvTranslation": "Bul.",
+  "translations": {
+    "bg": "Бул, осмият еврейски месец",
+    "cs": "Bul, osmý hebrejský měsíc",
+    "da": "Bul, den ottende hebraiske måned",
+    "de": "Bul, der achte hebräische Monat",
+    "el": "Bul, ο όγδοος εβραϊκός μήνας",
+    "es": "Bul, el octavo mes hebreo",
+    "et": "Bul, kaheksas heebrea kuu",
+    "fi": "Bul, kahdeksas heprealainen kuukausi",
+    "fr": "Bul, le huitième mois hébreu",
+    "hu": "Bul, a nyolcadik héber hónap",
+    "id": "Bul, bulan kedelapan dalam bahasa Ibrani",
+    "it": "Bul, l'ottavo mese ebraico",
+    "ja": "ブル、ヘブライ語第8の月",
+    "ko": "불, 히브리어 여덟 번째 달",
+    "lt": "Bul, aštuntasis hebrajų mėnuo",
+    "lv": "Bul, astotais ebreju mēnesis",
+    "nb": "Bul, den åttende hebraiske måneden",
+    "nl": "Bul, de achtste Hebreeuwse maand",
+    "pl": "Bul, ósmy miesiąc hebrajski",
+    "pt": "Bul, o oitavo mês hebraico",
+    "ro": "Bul, a opta lună ebraică",
+    "ru": "Бул, восьмой еврейский месяц",
+    "sk": "Bul, ôsmy hebrejský mesiac",
+    "sl": "Bul, osmi hebrejski mesec",
+    "sv": "Bul, den åttonde hebreiska månaden",
+    "tr": "Bul, sekizinci İbrani ayı",
+    "uk": "Бул, восьмий єврейський місяць",
+    "zh": "布拉，希伯来文第八个月"
+  },
+  "hebrew": "בּוּל",
+  "verses": [
+    "firstKings 6:38:4"
+  ]
+}

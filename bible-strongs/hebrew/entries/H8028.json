@@ -1,0 +1,42 @@
+{
+  "number": "H8028",
+  "language": "hebrew",
+  "transliteration": "Shelesh",
+  "pronunciation": "sheh'-lesh",
+  "definition": "Shelesh, an Israelite",
+  "kjvTranslation": "Shelesh.",
+  "hebrew": "שֶׁלֶשׁ",
+  "translations": {
+    "bg": "Шелеш, израилтянин",
+    "cs": "Šeleš, Izraelita",
+    "da": "Shelesh, en israelit",
+    "de": "Shelesh, ein Israelit",
+    "el": "Shelesh, ένας Ισραηλίτης",
+    "es": "Shelesh, israelita",
+    "et": "Shelesh, iisraellane",
+    "fi": "Shelesh, israelilainen",
+    "fr": "Shelesh, Israélite",
+    "hu": "Selyes, izraelita",
+    "id": "Shelesh, seorang Israel",
+    "it": "Shelesh, un israelita",
+    "ja": "イスラエル人シェレシュ",
+    "ko": "이스라엘인 셸레쉬",
+    "lt": "Šelešas, izraelitas",
+    "lv": "Shelesh, izraēlietis",
+    "nb": "Shelesh, en israelitt",
+    "nl": "Shelesh, een Israëliet",
+    "pl": "Shelesh, Izraelita",
+    "pt": "Shelesh, um israelita",
+    "ro": "Shelesh, un israelit",
+    "ru": "Шелеш, израильтянин",
+    "sk": "Šeleš, Izraelita",
+    "sl": "Šeleš, Izraelec",
+    "sv": "Shelesh, en israelit",
+    "tr": "Şeleş, bir İsrailli",
+    "uk": "Шелеш, ізраїльтянин",
+    "zh": "以色列人舍利施"
+  },
+  "verses": [
+    "firstChronicles 7:35:5"
+  ]
+}

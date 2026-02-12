@@ -1,0 +1,42 @@
+{
+  "number": "H1203",
+  "language": "hebrew",
+  "transliteration": "Bᵉʻeshtᵉrâh",
+  "pronunciation": "beh-esh-ter-aw'",
+  "definition": "Beeshterah, a place East of the Jordan",
+  "kjvTranslation": "Beeshterah.",
+  "translations": {
+    "bg": "Беештера, място на изток от Йордан",
+    "cs": "Beeštera, místo na východ od Jordánu",
+    "da": "Beeshterah, et sted øst for Jordan",
+    "de": "Beeshterah, ein Ort östlich des Jordans",
+    "el": "Βηστέρα, τόπος ανατολικά του Ιορδάνη",
+    "es": "Beeshterah, un lugar al este del Jordán",
+    "et": "Beeshterah, koht Jordani jõest ida pool",
+    "fi": "Beeshterah, paikka Jordanin itäpuolella",
+    "fr": "Beeshterah, localité située à l'est du Jourdain",
+    "hu": "Beeshterah, egy hely a Jordántól keletre",
+    "id": "Beeshterah, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Beeshterah, un luogo a est del Giordano",
+    "ja": "ヨルダンの東の地、ビーシュテラ",
+    "ko": "요르단 동쪽의 비슈테라, 요르단 동쪽의 장소",
+    "lt": "Beeshterah, vietovė į rytus nuo Jordano",
+    "lv": "Beeshterah, vieta uz austrumiem no Jordānas",
+    "nb": "Beeshterah, et sted øst for Jordan",
+    "nl": "Beeshterah, een plaats ten oosten van de Jordaan",
+    "pl": "Beeshterah, miejsce na wschód od Jordanu",
+    "pt": "Beeshterah, um lugar a leste do Jordão",
+    "ro": "Beeshterah, un loc la est de Iordan",
+    "ru": "Бештера, место к востоку от Иордана",
+    "sk": "Beeshterah, miesto na východ od Jordánu",
+    "sl": "Beeshterah, kraj vzhodno od Jordana",
+    "sv": "Beeshterah, en plats öster om Jordanfloden",
+    "tr": "Beeshterah, Ürdün'ün doğusunda bir yer",
+    "uk": "Бештера, місце на схід від Йордану",
+    "zh": "比什特拉，约旦河东的一个地方"
+  },
+  "hebrew": "בְּעֶשְׁתְּרָה",
+  "verses": [
+    "joshua 21:27:18"
+  ]
+}

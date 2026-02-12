@@ -1,0 +1,42 @@
+{
+  "number": "H3840",
+  "language": "hebrew",
+  "transliteration": "libnâh",
+  "pronunciation": "lib-naw'",
+  "definition": "properly, whiteness, i.e. (by implication) transparency",
+  "kjvTranslation": "paved.",
+  "hebrew": "לִבְנָה",
+  "translations": {
+    "bg": "правилно, белота, т.е. (по подразбиране) прозрачност",
+    "cs": "správně bělost, tj. (implicitně) průhlednost",
+    "da": "korrekt, hvidhed, dvs. (underforstået) gennemsigtighed",
+    "de": "richtig, Weißheit, d.h. (implizit) Transparenz",
+    "el": "σωστά, λευκότητα, δηλαδή (κατ' επέκταση) διαφάνεια",
+    "es": "propiamente, blancura, es decir (implícitamente) transparencia",
+    "et": "õigesti, valgelisus, st (kaudselt) läbipaistvus",
+    "fi": "oikeastaan valkoisuus eli (epäsuorasti) läpinäkyvyys",
+    "fr": "proprement dit, la blancheur, c'est-à-dire (implicitement) la transparence",
+    "hu": "megfelelően, fehérség, azaz (értelemszerűen) átláthatóság",
+    "id": "benar, keputihan, yaitu (dengan implikasi) transparansi",
+    "it": "propriamente, il candore, cioè (per implicazione) la trasparenza",
+    "ja": "正しくは、白さ、すなわち（暗に）透明度",
+    "ko": "적절하게, 백색도, 즉 (암시적으로) 투명성",
+    "lt": "tinkamai, baltumas, t. y. (netiesiogiai) skaidrumas",
+    "lv": "pareizi, baltums, t.i., (netieši) caurspīdīgums",
+    "nb": "egentlig hvithet, dvs. (underforstått) gjennomsiktighet",
+    "nl": "goed, witheid, d.w.z. (impliciet) transparantie",
+    "pl": "właściwie biel, tj. (w domyśle) przezroczystość",
+    "pt": "propriamente, brancura, ou seja, (implicitamente) transparência",
+    "ro": "în mod corespunzător, albeață, adică (implicit) transparență",
+    "ru": "правильно, белизна, т.е. (по косвенным признакам) прозрачность",
+    "sk": "správne, belosť, t. j. (implicitne) transparentnosť",
+    "sl": "pravilno, belina, tj. (implicitno) preglednost",
+    "sv": "korrekt, vithet, dvs. (underförstått) transparens",
+    "tr": "doğru bir şekilde, beyazlık, yani (ima yoluyla) şeffaflık",
+    "uk": "власне, білизну, тобто (неявно) прозорість",
+    "zh": "白度，即（暗示）透明度"
+  },
+  "verses": [
+    "exodus 24:10:7"
+  ]
+}

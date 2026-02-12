@@ -1,0 +1,42 @@
+{
+  "number": "H4698",
+  "language": "hebrew",
+  "transliteration": "mᵉtsillâh",
+  "pronunciation": "mets-il-law'",
+  "definition": "a tinkler, i.e. a bell",
+  "kjvTranslation": "bell.",
+  "hebrew": "מְצִלָּה",
+  "translations": {
+    "bg": "звънец, т.е. камбана",
+    "cs": "zvonkohra, tj. zvonek",
+    "da": "en tinkler, dvs. en klokke",
+    "de": "ein Klingelgerät, d.h. eine Glocke",
+    "el": "ένα κουδούνι, δηλαδή μια καμπάνα",
+    "es": "un tintineo, es decir, una campana",
+    "et": "helisema, s.t. kellukese",
+    "fi": "helistin eli kello",
+    "fr": "un tintement, c'est-à-dire une cloche",
+    "hu": "csörgő, azaz harang",
+    "id": "sebuah lonceng, yaitu lonceng",
+    "it": "un tintinnio, ovvero una campana",
+    "ja": "ティンクラー",
+    "ko": "땜장이, 즉 종을 치는 사람",
+    "lt": "skambutis, t. y. varpas",
+    "lv": "zvana zvaniņš, t. i., zvans",
+    "nb": "en ringeklokke, dvs. en bjelle",
+    "nl": "een tinkler, d.w.z. een bel",
+    "pl": "brzęczyk, tj. dzwonek",
+    "pt": "um tinkler, ou seja, um sino",
+    "ro": "un clinchet, adică un clopot",
+    "ru": "звонарь, т.е. колокол",
+    "sk": "zvonček, t. j. zvon",
+    "sl": "zvonec, tj. zvonec",
+    "sv": "en tinkler, dvs. en klocka",
+    "tr": "bir tinkler, yani bir çan",
+    "uk": "дзвоник, тобто дзвіночок",
+    "zh": "一个丁当，即一个钟"
+  },
+  "verses": [
+    "zechariah 14:20:4"
+  ]
+}

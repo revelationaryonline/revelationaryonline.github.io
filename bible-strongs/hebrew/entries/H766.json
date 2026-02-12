@@ -1,0 +1,42 @@
+{
+  "number": "H766",
+  "language": "hebrew",
+  "transliteration": "ʼôren",
+  "pronunciation": "o'-ren",
+  "definition": "the ash tree (from its toughness)",
+  "kjvTranslation": "ash.",
+  "translations": {
+    "bg": "ясена (заради здравината му)",
+    "cs": "jasan (kvůli jeho houževnatosti)",
+    "da": "asketræet (på grund af dets sejhed)",
+    "de": "die Esche (wegen ihrer Zähigkeit)",
+    "el": "η τέφρα (από τη σκληρότητά της)",
+    "es": "el fresno (por su dureza)",
+    "et": "tuhkpuu (selle sitkusest)",
+    "fi": "saarni (sen sitkeyden vuoksi)",
+    "fr": "le frêne (en raison de sa robustesse)",
+    "hu": "a kőrisfa (szívósságából)",
+    "id": "pohon abu (dari ketangguhannya)",
+    "it": "il frassino (per la sua robustezza)",
+    "ja": "トネリコ",
+    "ko": "물푸레나무(강인함에서 유래)",
+    "lt": "uosio medis (dėl jo tvirtumo)",
+    "lv": "osis (no tā izturības)",
+    "nb": "asketreet (på grunn av dets seighet)",
+    "nl": "de es (vanwege zijn taaiheid)",
+    "pl": "jesion (ze względu na swoją wytrzymałość)",
+    "pt": "o freixo (pela sua dureza)",
+    "ro": "frasinul (de la duritatea sa)",
+    "ru": "ясень (из-за его прочности)",
+    "sk": "jaseň (z jeho húževnatosti)",
+    "sl": "jesen (zaradi njegove žilavosti)",
+    "sv": "askträdet (på grund av dess seghet)",
+    "tr": "dişbudak ağacı (sertliğinden)",
+    "uk": "ясен (через його твердість)",
+    "zh": "白蜡树"
+  },
+  "hebrew": "אֹרֶן",
+  "verses": [
+    "isaiah 44:14:11"
+  ]
+}

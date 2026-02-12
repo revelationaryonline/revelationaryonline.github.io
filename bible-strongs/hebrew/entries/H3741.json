@@ -1,0 +1,42 @@
+{
+  "number": "H3741",
+  "language": "hebrew",
+  "transliteration": "kârâh",
+  "pronunciation": "kaw-raw'",
+  "definition": "a meadow",
+  "kjvTranslation": "cottage.",
+  "translations": {
+    "bg": "ливада",
+    "cs": "louka",
+    "da": "en eng",
+    "de": "eine Wiese",
+    "el": "ένα λιβάδι",
+    "es": "un prado",
+    "et": "heinamaa",
+    "fi": "niitty",
+    "fr": "une prairie",
+    "hu": "egy rét",
+    "id": "padang rumput",
+    "it": "un prato",
+    "ja": "草原",
+    "ko": "초원",
+    "lt": "pieva",
+    "lv": "pļava",
+    "nb": "en eng",
+    "nl": "een weide",
+    "pl": "łąka",
+    "pt": "um prado",
+    "ro": "o pajiște",
+    "ru": "луг",
+    "sk": "lúka",
+    "sl": "travnik",
+    "sv": "en äng",
+    "tr": "bir çayır",
+    "uk": "луг",
+    "zh": "草甸"
+  },
+  "hebrew": "כָּרָה",
+  "verses": [
+    "zephaniah 2:6:4"
+  ]
+}

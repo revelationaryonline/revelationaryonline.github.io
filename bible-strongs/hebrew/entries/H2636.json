@@ -1,0 +1,42 @@
+{
+  "number": "H2636",
+  "language": "hebrew",
+  "transliteration": "chaçpaç",
+  "pronunciation": "khas-pas'",
+  "definition": "a shred or scale",
+  "kjvTranslation": "round thing.",
+  "translations": {
+    "bg": "парче или люспа",
+    "cs": "šrot nebo měřítko",
+    "da": "en stump eller et skår",
+    "de": "ein Fetzen oder eine Schuppe",
+    "el": "ένα θραύσμα ή μια κλίμακα",
+    "es": "un jirón o escama",
+    "et": "killustik või skaala",
+    "fi": "sirpale tai asteikko",
+    "fr": "un lambeau ou une écaille",
+    "hu": "foszlány vagy pikkely",
+    "id": "sobekan atau timbangan",
+    "it": "un frammento o una scaglia",
+    "ja": "一片",
+    "ko": "조각 또는 저울",
+    "lt": "gabalėlis arba skalė",
+    "lv": "šķembas vai zvīņas",
+    "nb": "en flik eller et skjell",
+    "nl": "een snipper of schaal",
+    "pl": "strzęp lub skala",
+    "pt": "um fragmento ou uma escama",
+    "ro": "o fărâmă sau un rest",
+    "ru": "клочок или чешуйка",
+    "sk": "šupiny alebo stupnice",
+    "sl": "drobec ali odlomek",
+    "sv": "en skärva eller en skala",
+    "tr": "bir parça veya ölçek",
+    "uk": "шматок або луску",
+    "zh": "尺"
+  },
+  "hebrew": "חַסְפַּס",
+  "verses": [
+    "exodus 16:14:8"
+  ]
+}

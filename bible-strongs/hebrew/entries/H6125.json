@@ -1,0 +1,42 @@
+{
+  "number": "H6125",
+  "language": "hebrew",
+  "transliteration": "ʻâqâh",
+  "pronunciation": "aw-kaw'",
+  "definition": "constraint",
+  "kjvTranslation": "oppression.",
+  "hebrew": "עָקָה",
+  "translations": {
+    "bg": "ограничение",
+    "cs": "omezení",
+    "da": "begrænsning",
+    "de": "einschränkung",
+    "el": "περιορισμός",
+    "es": "restricción",
+    "et": "piirang",
+    "fi": "rajoitus",
+    "fr": "contrainte",
+    "hu": "korlátozás",
+    "id": "kendala",
+    "it": "vincolo",
+    "ja": "制約条件",
+    "ko": "제약 조건",
+    "lt": "apribojimas",
+    "lv": "ierobežojums",
+    "nb": "begrensning",
+    "nl": "beperking",
+    "pl": "ograniczenie",
+    "pt": "restrição",
+    "ro": "constrângere",
+    "ru": "ограничение",
+    "sk": "obmedzenie",
+    "sl": "omejitev",
+    "sv": "begränsning",
+    "tr": "kısıtlama",
+    "uk": "обмеження",
+    "zh": "约束条件"
+  },
+  "verses": [
+    "psalms 55:4:3"
+  ]
+}

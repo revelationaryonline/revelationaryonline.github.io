@@ -1,0 +1,43 @@
+{
+  "number": "H944",
+  "language": "hebrew",
+  "transliteration": "bûwl",
+  "pronunciation": "bool",
+  "definition": "produce (of the earth, etc.)",
+  "kjvTranslation": "food, stock.",
+  "translations": {
+    "bg": "продукт (на земята и др.)",
+    "cs": "produkty (země atd.)",
+    "da": "producere (af jorden osv.)",
+    "de": "erzeugnisse (der Erde usw.)",
+    "el": "προϊόντα (της γης κ.λπ.)",
+    "es": "producir (de la tierra, etc.)",
+    "et": "toodang (maa jne)",
+    "fi": "tuottaa (maan jne.)",
+    "fr": "produire (de la terre, etc.)",
+    "hu": "termés (a földből stb.)",
+    "id": "hasil bumi (dari bumi, dll.)",
+    "it": "prodotti (della terra, ecc.)",
+    "ja": "とれる",
+    "ko": "(지구의) 농산물 등",
+    "lt": "(žemės ir kt.)",
+    "lv": "(zemes u.c.)",
+    "nb": "produsere (av jorden, etc.)",
+    "nl": "voortbrengen (van de aarde, enz.)",
+    "pl": "produkt (ziemi itp.)",
+    "pt": "produzir (da terra, etc.)",
+    "ro": "produce (din pământ etc.)",
+    "ru": "производить (из земли и т.д.)",
+    "sk": "produkty (zeme atď.)",
+    "sl": "pridelki (zemlje itd.)",
+    "sv": "producera (av jorden, etc.)",
+    "tr": "ürün (topraktan, vb.)",
+    "uk": "продукти (землі тощо)",
+    "zh": "出产"
+  },
+  "hebrew": "בּוּל",
+  "verses": [
+    "job 40:20:1",
+    "isaiah 44:19:24"
+  ]
+}

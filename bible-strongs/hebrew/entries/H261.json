@@ -1,0 +1,42 @@
+{
+  "number": "H261",
+  "language": "hebrew",
+  "transliteration": "ʼÊchûwd",
+  "pronunciation": "ay-khood'",
+  "definition": "Echud, the name of three Israelites",
+  "kjvTranslation": "Ehud.",
+  "translations": {
+    "bg": "Ехуд, името на трима израилтяни",
+    "cs": "Echud, jméno tří Izraelitů",
+    "da": "Echud, navnet på tre israelitter",
+    "de": "Echud, der Name von drei Israeliten",
+    "el": "Echud, το όνομα τριών Ισραηλιτών",
+    "es": "Echud, nombre de tres israelitas",
+    "et": "Echud, kolme iisraellase nimi",
+    "fi": "Echud, kolmen israelilaisen nimi",
+    "fr": "Echud, nom de trois Israélites",
+    "hu": "Echud, három izraelita neve",
+    "id": "Echud, nama tiga orang Israel",
+    "it": "Echud, il nome di tre israeliti",
+    "ja": "エチュード、3人のイスラエル人の名前",
+    "ko": "에추드, 세 이스라엘인의 이름",
+    "lt": "Echudas, trijų izraelitų vardas",
+    "lv": "Echud, trīs izraēliešu vārds",
+    "nb": "Echud, navnet på tre israelitter",
+    "nl": "Echud, de naam van drie Israëlieten",
+    "pl": "Echud, imię trzech Izraelitów",
+    "pt": "Echud, o nome de três israelitas",
+    "ro": "Echud, numele a trei israeliți",
+    "ru": "Эхуд, имя трех израильтян",
+    "sk": "Echud, meno troch Izraelitov",
+    "sl": "Echud, ime treh Izraelcev",
+    "sv": "Echud, namnet på tre israeliter",
+    "tr": "Echud, üç İsraillinin adı",
+    "uk": "Ехуд, ім'я трьох ізраїльтян",
+    "zh": "埃古德，三个以色列人的名字"
+  },
+  "hebrew": "אֵחוּד",
+  "verses": [
+    "firstChronicles 8:6:2"
+  ]
+}

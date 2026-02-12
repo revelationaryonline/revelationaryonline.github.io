@@ -1,0 +1,42 @@
+{
+  "number": "H1244",
+  "language": "hebrew",
+  "transliteration": "biqqôreth",
+  "pronunciation": "bik-ko-reth",
+  "definition": "properly, examination, i.e. (by implication) punishment",
+  "kjvTranslation": "scourged.",
+  "translations": {
+    "bg": "правилно, проверка, т.е. (по подразбиране) наказание",
+    "cs": "správně, zkouška, tj. (implicitně) trest",
+    "da": "korrekt, undersøgelse, dvs. (underforstået) straf",
+    "de": "ordnungsgemäß, Prüfung, d.h. (implizit) Bestrafung",
+    "el": "σωστά, εξέταση, δηλαδή (κατ' επέκταση) τιμωρία",
+    "es": "propiamente, examen, es decir (implícitamente) castigo",
+    "et": "korralikult, uurimine, st (kaudselt) karistamine",
+    "fi": "asianmukaisesti, tutkiminen, eli (epäsuorasti) rangaistus",
+    "fr": "correctement, examen, c'est-à-dire (implicitement) punition",
+    "hu": "megfelelően, vizsgálat, azaz (implicite) büntetés",
+    "id": "dengan benar, pemeriksaan, yaitu (dengan implikasi) hukuman",
+    "it": "propriamente, esame, cioè (per implicazione) punizione",
+    "ja": "正しく、検査、すなわち（暗に）処罰",
+    "ko": "적절하게, 검사, 즉 (암시 적으로) 처벌",
+    "lt": "tinkamai, tyrimas, t. y. (netiesiogiai) bausmė",
+    "lv": "pareizi, pārbaude, t.i., (netieši) sods",
+    "nb": "riktig, undersøkelse, dvs. (underforstått) straff",
+    "nl": "goed, onderzoek, d.w.z. (impliciet) straf",
+    "pl": "prawidłowo, badanie, tj. (w domyśle) kara",
+    "pt": "corretamente, exame, ou seja, (implicitamente) punição",
+    "ro": "în mod corespunzător, examinare, adică (implicit) pedeapsă",
+    "ru": "должным образом, экзамен, т.е. (по косвенным признакам) наказание",
+    "sk": "správne, vyšetrenie, t. j. (implicitne) trest",
+    "sl": "pravilno, pregled, tj. (implicitno) kazen",
+    "sv": "korrekt, undersökning, dvs. (underförstått) bestraffning",
+    "tr": "uygun şekilde, inceleme, yani (ima yoluyla) cezalandırma",
+    "uk": "власне, розгляд, тобто (за підтекстом) покарання",
+    "zh": "检查，即（暗示）惩罚"
+  },
+  "hebrew": "בִּקֹּרֶת",
+  "verses": [
+    "leviticus 19:20:19"
+  ]
+}

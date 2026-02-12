@@ -1,0 +1,42 @@
+{
+  "number": "H976",
+  "language": "hebrew",
+  "transliteration": "bôchan",
+  "pronunciation": "bo'-khan",
+  "definition": "trial",
+  "kjvTranslation": "tried.",
+  "translations": {
+    "bg": "изпитване",
+    "cs": "zkušební verze",
+    "da": "retssag",
+    "de": "versuch",
+    "el": "δοκιμή",
+    "es": "ensayo",
+    "et": "kohtuprotsess",
+    "fi": "kokeilu",
+    "fr": "procès",
+    "hu": "próba",
+    "id": "uji coba",
+    "it": "processo",
+    "ja": "トライアル",
+    "ko": "시험판",
+    "lt": "bandomasis",
+    "lv": "izmēģinājuma",
+    "nb": "rettssak",
+    "nl": "proef",
+    "pl": "próba",
+    "pt": "ensaio",
+    "ro": "proces",
+    "ru": "судебное разбирательство",
+    "sk": "skúšobná verzia",
+    "sl": "preskus",
+    "sv": "rättegång",
+    "tr": "deneme",
+    "uk": "випробування",
+    "zh": "审判"
+  },
+  "hebrew": "בֹּחַן",
+  "verses": [
+    "isaiah 28:16:10"
+  ]
+}

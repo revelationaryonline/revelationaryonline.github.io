@@ -1,0 +1,42 @@
+{
+  "number": "H5928",
+  "language": "hebrew",
+  "transliteration": "ʻălâh",
+  "pronunciation": "al-law'",
+  "definition": "a holocaust",
+  "kjvTranslation": "burnt offering.",
+  "hebrew": "עֲלָה",
+  "translations": {
+    "bg": "холокост",
+    "cs": "holocaust",
+    "da": "et holocaust",
+    "de": "ein Holocaust",
+    "el": "ένα ολοκαύτωμα",
+    "es": "un holocausto",
+    "et": "holokaust",
+    "fi": "holokausti",
+    "fr": "un holocauste",
+    "hu": "holokauszt",
+    "id": "sebuah holocaust",
+    "it": "un olocausto",
+    "ja": "ホロコースト",
+    "ko": "홀로코스트",
+    "lt": "holokaustas",
+    "lv": "holokausts",
+    "nb": "et holocaust",
+    "nl": "een holocaust",
+    "pl": "holokaust",
+    "pt": "um holocausto",
+    "ro": "un holocaust",
+    "ru": "холокост",
+    "sk": "holokaust",
+    "sl": "holokavst",
+    "sv": "en förintelse",
+    "tr": "bir soykırım",
+    "uk": "голокост",
+    "zh": "大屠杀"
+  },
+  "verses": [
+    "ezra 6:9:6"
+  ]
+}

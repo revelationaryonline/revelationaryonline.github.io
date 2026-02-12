@@ -1,0 +1,42 @@
+{
+  "number": "H5240",
+  "language": "hebrew",
+  "transliteration": "nᵉmibzeh",
+  "pronunciation": "nem-ib-zeh'",
+  "definition": "despised",
+  "kjvTranslation": "vile.",
+  "hebrew": "נְמִבְזֶה",
+  "translations": {
+    "bg": "презрян",
+    "cs": "opovrhované",
+    "da": "foragtet",
+    "de": "verachtet",
+    "el": "περιφρονημένο",
+    "es": "despreciado",
+    "et": "põlatud",
+    "fi": "halveksittu",
+    "fr": "méprisé",
+    "hu": "megvetett",
+    "id": "dibenci",
+    "it": "disprezzato",
+    "ja": "軽蔑的",
+    "ko": "경멸",
+    "lt": "niekinamas",
+    "lv": "nicināja",
+    "nb": "foraktet",
+    "nl": "veracht",
+    "pl": "pogardzany",
+    "pt": "desprezado",
+    "ro": "disprețuit",
+    "ru": "презирал",
+    "sk": "opovrhované",
+    "sl": "preziral",
+    "sv": "föraktade",
+    "tr": "hor görülmüş",
+    "uk": "зневажений",
+    "zh": "鄙夷"
+  },
+  "verses": [
+    "firstSamuel 15:9:20"
+  ]
+}

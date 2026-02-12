@@ -1,0 +1,42 @@
+{
+  "number": "H4011",
+  "language": "hebrew",
+  "transliteration": "mibneh",
+  "pronunciation": "mib-neh'",
+  "definition": "a building",
+  "kjvTranslation": "frame.",
+  "hebrew": "מִבְנֶה",
+  "translations": {
+    "bg": "сграда",
+    "cs": "budova",
+    "da": "en bygning",
+    "de": "ein Gebäude",
+    "el": "ένα κτίριο",
+    "es": "un edificio",
+    "et": "hoone",
+    "fi": "rakennus",
+    "fr": "un bâtiment",
+    "hu": "egy épület",
+    "id": "sebuah bangunan",
+    "it": "un edificio",
+    "ja": "ビル",
+    "ko": "건물",
+    "lt": "pastatas",
+    "lv": "ēka",
+    "nb": "en bygning",
+    "nl": "een gebouw",
+    "pl": "budynek",
+    "pt": "um edifício",
+    "ro": "o clădire",
+    "ru": "здание",
+    "sk": "budova",
+    "sl": "stavba",
+    "sv": "en byggnad",
+    "tr": "bir bina",
+    "uk": "будівля",
+    "zh": "建筑"
+  },
+  "verses": [
+    "ezekiel 40:2:12"
+  ]
+}

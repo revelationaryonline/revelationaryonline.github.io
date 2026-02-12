@@ -1,0 +1,42 @@
+{
+  "number": "H4664",
+  "language": "hebrew",
+  "transliteration": "miphrâts",
+  "pronunciation": "mif-rawts'",
+  "definition": "a break (in the shore), i.e. a haven",
+  "kjvTranslation": "breach.",
+  "hebrew": "מִפְרָץ",
+  "translations": {
+    "bg": "пролом (на брега), т.е. пристанище",
+    "cs": "zlom (na břehu), tj. přístav",
+    "da": "en pause (i kysten), dvs. en havn",
+    "de": "ein Bruch (am Ufer), d.h. ein Hafen",
+    "el": "ένα ρήγμα (στην ακτή), δηλαδή ένα καταφύγιο",
+    "es": "una rompiente (en la orilla), es decir, un refugio",
+    "et": "murrang (kaldal), st sadamakoht",
+    "fi": "(ranta)tauko, eli satama",
+    "fr": "une brèche (dans le rivage), c'est-à-dire un havre de paix",
+    "hu": "egy törés (a parton), azaz egy kikötő",
+    "id": "istirahat (di pantai), yaitu tempat berlindung",
+    "it": "un'interruzione (nel litorale), cioè un rifugio",
+    "ja": "かいがん",
+    "ko": "(해안에서의) 휴식, 즉 안식처",
+    "lt": "iškyšulys (krante), t. y. prieplauka",
+    "lv": "izrāviens (krastā), t. i., osta",
+    "nb": "et brudd (i kysten), dvs. en havn",
+    "nl": "een onderbreking (in de kust), d.w.z. een haven",
+    "pl": "przerwa (w brzegu), tj. przystań",
+    "pt": "uma quebra (na costa), ou seja, um refúgio",
+    "ro": "o spărtură (în țărm), adică un paradis",
+    "ru": "обрыв (на берегу), т.е. гавань",
+    "sk": "zlom (na brehu), t. j. prístav",
+    "sl": "prelom (na obali), tj. pristanišče",
+    "sv": "ett avbrott (i stranden), dvs. en hamn",
+    "tr": "(kıyıda) bir mola, yani bir sığınak",
+    "uk": "перерва (в березі), тобто притулок",
+    "zh": "港湾"
+  },
+  "verses": [
+    "judges 5:17:13"
+  ]
+}

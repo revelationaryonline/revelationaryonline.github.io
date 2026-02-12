@@ -1,0 +1,42 @@
+{
+  "number": "H2785",
+  "language": "hebrew",
+  "transliteration": "chartsan",
+  "pronunciation": "kchar-tsan'",
+  "definition": "a sour grape (as sharp in taste)",
+  "kjvTranslation": "kernel.",
+  "translations": {
+    "bg": "кисело грозде (с остър вкус)",
+    "cs": "kyselý hrozen (ostré chuti)",
+    "da": "en sur drue (som er skarp i smagen)",
+    "de": "eine saure Weintraube (so scharf im Geschmack)",
+    "el": "ένα ξινό σταφύλι (με έντονη γεύση)",
+    "es": "una uva ácida (de sabor picante)",
+    "et": "hapu viinamarja (terava maitsega)",
+    "fi": "hapan viinirypäle (yhtä terävän makuinen)",
+    "fr": "un raisin acide (au goût piquant)",
+    "hu": "savanyú szőlő (éles ízű)",
+    "id": "anggur asam (rasanya tajam)",
+    "it": "un acino d'uva acida (dal sapore pungente)",
+    "ja": "すっぱいぶどう",
+    "ko": "신 포도(맛이 날카로운 것)",
+    "lt": "rūgšti vynuogė (aštraus skonio)",
+    "lv": "skāba vīnoga (ar asu garšu)",
+    "nb": "en sur drue (som skarp i smaken)",
+    "nl": "een zure druif (zo scherp van smaak)",
+    "pl": "kwaśne winogrono (ostre w smaku)",
+    "pt": "uma uva azeda (de sabor acentuado)",
+    "ro": "un strugure acru (cu gust ascuțit)",
+    "ru": "кислый виноград (такой же острый на вкус)",
+    "sk": "kyslé hrozno (ako ostrá chuť)",
+    "sl": "kislo grozdje (ostrega okusa)",
+    "sv": "en sur druva (lika skarp i smaken)",
+    "tr": "ekşi bir üzüm (tadı keskin olarak)",
+    "uk": "кислий виноград (настільки ж гострий на смак)",
+    "zh": "酸葡萄"
+  },
+  "hebrew": "חַרְצַן",
+  "verses": [
+    "numbers 6:4:8"
+  ]
+}

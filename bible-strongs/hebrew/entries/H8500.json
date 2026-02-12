@@ -1,0 +1,43 @@
+{
+  "number": "H8500",
+  "language": "hebrew",
+  "transliteration": "tukkîy",
+  "pronunciation": "took-kee'",
+  "definition": "probably of foreign derivation; some imported creature, probably a peacock",
+  "kjvTranslation": "peacock.",
+  "hebrew": "תֻּכִּי",
+  "translations": {
+    "bg": "вероятно от чужд произход; някакво внесено същество, вероятно паун",
+    "cs": "pravděpodobně cizího původu; nějaký importovaný tvor, pravděpodobně páv",
+    "da": "sandsynligvis af udenlandsk oprindelse; en importeret skabning, sandsynligvis en påfugl",
+    "de": "wahrscheinlich ausländischer Herkunft; eine importierte Kreatur, wahrscheinlich ein Pfau",
+    "el": "πιθανότατα ξένης προέλευσης- κάποιο εισαγόμενο πλάσμα, πιθανότατα ένα παγώνι",
+    "es": "probablemente de origen extranjero; alguna criatura importada, probablemente un pavo real",
+    "et": "tõenäoliselt välismaist päritolu; mingi imporditud olend, tõenäoliselt paabulind",
+    "fi": "luultavasti ulkomaista alkuperää; jokin maahantuotu olento, luultavasti riikinkukko",
+    "fr": "probablement d'origine étrangère ; une créature importée, probablement un paon",
+    "hu": "valószínűleg idegen eredetű; valamilyen importált állat, valószínűleg páva",
+    "id": "mungkin berasal dari bahasa asing; beberapa makhluk impor, mungkin burung merak",
+    "it": "probabilmente di derivazione straniera; qualche creatura importata, probabilmente un pavone",
+    "ja": "おそらく外国に由来する、輸入された生物、おそらく孔雀",
+    "ko": "아마도 외국에서 유래한 것으로 추정되는 수입 생물, 아마도 공작새일 것입니다",
+    "lt": "tikriausiai svetimos kilmės; koks nors importuotas padaras, tikriausiai povas",
+    "lv": "iespējams, svešzemju izcelsmes; kāds importēts radījums, iespējams, pāvs",
+    "nb": "sannsynligvis av utenlandsk opprinnelse; en importert skapning, sannsynligvis en påfugl",
+    "nl": "waarschijnlijk van buitenlandse afkomst; een geïmporteerd schepsel, waarschijnlijk een pauw",
+    "pl": "prawdopodobnie obcego pochodzenia; jakieś importowane stworzenie, prawdopodobnie paw",
+    "pt": "provavelmente de origem estrangeira; alguma criatura importada, provavelmente um pavão",
+    "ro": "probabil de proveniență străină; o creatură importată, probabil un păun",
+    "ru": "вероятно, иностранного происхождения; какое-то завезенное существо, возможно, павлин",
+    "sk": "pravdepodobne cudzieho pôvodu; nejaký dovezený tvor, pravdepodobne páv",
+    "sl": "verjetno tujega izvora; uvoženo bitje, verjetno pav",
+    "sv": "troligen av utländsk härkomst; någon importerad varelse, troligen en påfågel",
+    "tr": "muhtemelen yabancı kökenli; ithal edilmiş bir yaratık, muhtemelen bir tavus kuşu",
+    "uk": "ймовірно, іноземного походження; якась імпортна істота, можливо, павич",
+    "zh": "可能是外来的；某种舶来品，可能是孔雀"
+  },
+  "verses": [
+    "firstKings 10:22:19",
+    "secondChronicles 9:21:19"
+  ]
+}

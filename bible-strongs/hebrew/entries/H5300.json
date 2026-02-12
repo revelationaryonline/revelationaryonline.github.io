@@ -1,0 +1,42 @@
+{
+  "number": "H5300",
+  "language": "hebrew",
+  "transliteration": "Nᵉphûwshᵉçîym",
+  "pronunciation": "nef-oo-shes-eem'",
+  "definition": "Nephushesim, a Temple-servant",
+  "kjvTranslation": "Nephisesim (from the margin).",
+  "hebrew": "נְפוּשְׁסִים",
+  "translations": {
+    "bg": "Нефусесим, служител на храма",
+    "cs": "Nefushesim, chrámový služebník",
+    "da": "Nephushesim, en tempeltjener",
+    "de": "Nephuschesim, ein Tempeldiener",
+    "el": "Νεφουσεσίμ, υπηρέτης του Ναού",
+    "es": "Nefushesim, siervo del Templo",
+    "et": "Nefuusim, templi teenija",
+    "fi": "Nefushesim, temppelipalvelija",
+    "fr": "Nephushesim, serviteur du temple",
+    "hu": "Nephushesim, egy templomi szolga",
+    "id": "Nephushesim, seorang pelayan Bait Suci",
+    "it": "Nephushesim, un servitore del Tempio",
+    "ja": "神殿に仕えるネフシェシム",
+    "ko": "신전의 종, 네푸세심",
+    "lt": "Nefušeimas, šventyklos tarnas",
+    "lv": "Nefushesim, Tempļa kalps",
+    "nb": "Nefushesim, en tempeltjener",
+    "nl": "Nephushesim, een tempeldienaar",
+    "pl": "Nefusim, sługa świątynny",
+    "pt": "Nefushesim, um servo do Templo",
+    "ro": "Nephushesim, un slujitor al Templului",
+    "ru": "Нефусим, служитель храма",
+    "sk": "Nefušim, chrámový sluha",
+    "sl": "Nefushesim, tempeljski služabnik",
+    "sv": "Nephushesim, en tempeltjänare",
+    "tr": "Nefuşesim, bir tapınak hizmetkarı",
+    "uk": "Нефусим, служитель храму",
+    "zh": "神殿仆人尼弗西姆"
+  },
+  "verses": [
+    "nehemiah 7:52:5"
+  ]
+}

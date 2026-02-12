@@ -1,0 +1,43 @@
+{
+  "number": "H2770",
+  "language": "hebrew",
+  "transliteration": "chermêsh",
+  "pronunciation": "kher-mashe'",
+  "definition": "a sickle (as cutting)",
+  "kjvTranslation": "sickle.",
+  "translations": {
+    "bg": "сърп (за рязане)",
+    "cs": "srp (jako řezání)",
+    "da": "et segl (som skærer)",
+    "de": "eine Sichel (zum Schneiden)",
+    "el": "δρεπάνι (ως κοπή)",
+    "es": "una hoz (para cortar)",
+    "et": "sirp (nagu lõikamine)",
+    "fi": "sirppi (leikkurina)",
+    "fr": "une faucille (pour couper)",
+    "hu": "sarló (vágás)",
+    "id": "sabit (sebagai alat pemotong)",
+    "it": "una falce (per tagliare)",
+    "ja": "鎌",
+    "ko": "낫(절단용)",
+    "lt": "serpas (pjaunantis)",
+    "lv": "sirpis (griešanai)",
+    "nb": "en sigd (som skjæring)",
+    "nl": "een sikkel (als snijden)",
+    "pl": "sierp (do cięcia)",
+    "pt": "uma foice (para cortar)",
+    "ro": "o seceră (pentru tăiere)",
+    "ru": "серп (для резки)",
+    "sk": "srp (ako rezanie)",
+    "sl": "srp (za rezanje)",
+    "sv": "en skära (som skärning)",
+    "tr": "bir orak (kesici olarak)",
+    "uk": "серп (для різання)",
+    "zh": "镰刀"
+  },
+  "hebrew": "חֶרְמֵשׁ",
+  "verses": [
+    "deuteronomy 16:9:5",
+    "deuteronomy 23:26:7"
+  ]
+}

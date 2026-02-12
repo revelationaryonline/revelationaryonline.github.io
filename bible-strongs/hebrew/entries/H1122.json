@@ -1,0 +1,42 @@
+{
+  "number": "H1122",
+  "language": "hebrew",
+  "transliteration": "Bên",
+  "pronunciation": "bane",
+  "definition": "Ben, an Israelite",
+  "kjvTranslation": "Ben.",
+  "translations": {
+    "bg": "Бен, израилтянин",
+    "cs": "Ben, Izraelita",
+    "da": "Ben, en israelit",
+    "de": "Ben, ein Israelit",
+    "el": "Μπεν, Ισραηλίτης",
+    "es": "Ben, un israelita",
+    "et": "Ben, iisraellane",
+    "fi": "Ben, israelilainen",
+    "fr": "Ben, un Israélien",
+    "hu": "Ben, izraelita",
+    "id": "Ben, seorang Israel",
+    "it": "Ben, un israelita",
+    "ja": "イスラエル人ベン",
+    "ko": "이스라엘인, 벤",
+    "lt": "Benas, izraelitas",
+    "lv": "Ben, izraēlietis",
+    "nb": "Ben, en israelitt",
+    "nl": "Ben, een Israëliet",
+    "pl": "Ben, Izraelita",
+    "pt": "Ben, um israelita",
+    "ro": "Ben, un israelit",
+    "ru": "Бен, израильтянин",
+    "sk": "Ben, Izraelita",
+    "sl": "Ben, Izraelec",
+    "sv": "Ben, en israelit",
+    "tr": "Ben, bir İsrailli",
+    "uk": "Бен, ізраїльтянин",
+    "zh": "以色列人本"
+  },
+  "hebrew": "בֵּן",
+  "verses": [
+    "firstChronicles 15:18:4"
+  ]
+}

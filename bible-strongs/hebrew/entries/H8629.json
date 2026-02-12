@@ -1,0 +1,42 @@
+{
+  "number": "H8629",
+  "language": "hebrew",
+  "transliteration": "têqaʻ",
+  "pronunciation": "tay-kah'",
+  "definition": "a blast of a trumpet",
+  "kjvTranslation": "sound.",
+  "hebrew": "תֵּקַע",
+  "translations": {
+    "bg": "взрив на тромпет",
+    "cs": "troubení na trubku",
+    "da": "et stød fra en trompet",
+    "de": "ein Trompetenstoss",
+    "el": "ένα φύσημα μιας σάλπιγγας",
+    "es": "un toque de trompeta",
+    "et": "trompetilöök",
+    "fi": "trumpetin ääni",
+    "fr": "un coup de trompette",
+    "hu": "egy trombitaszó",
+    "id": "ledakan sangkakala",
+    "it": "uno squillo di tromba",
+    "ja": "ラッパの一声",
+    "ko": "트럼펫의 폭발",
+    "lt": "trimito sprogimas",
+    "lv": "trompetes pūtiens",
+    "nb": "et trompetstøt",
+    "nl": "een trompetgeschal",
+    "pl": "podmuch trąbki",
+    "pt": "um toque de trombeta",
+    "ro": "o explozie de trompetă",
+    "ru": "звук трубы",
+    "sk": "trúbenie na trúbku",
+    "sl": "pisk trobente",
+    "sv": "en stöt från en trumpet",
+    "tr": "bir trompet patlaması",
+    "uk": "звук сурми",
+    "zh": "一声号角"
+  },
+  "verses": [
+    "psalms 150:3:1"
+  ]
+}

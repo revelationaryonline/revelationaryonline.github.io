@@ -1,0 +1,43 @@
+{
+  "number": "H4071",
+  "language": "hebrew",
+  "transliteration": "mᵉdûwrâh",
+  "pronunciation": "med-oo-raw'",
+  "definition": "a pile of fuel",
+  "kjvTranslation": "pile (for fire).",
+  "hebrew": "מְדוּרָה",
+  "translations": {
+    "bg": "купчина гориво",
+    "cs": "hromada paliva",
+    "da": "en bunke brændstof",
+    "de": "ein Haufen Treibstoff",
+    "el": "ένα σωρό καύσιμα",
+    "es": "un montón de combustible",
+    "et": "hunnik kütust",
+    "fi": "kasa polttoainetta",
+    "fr": "un tas de combustible",
+    "hu": "egy rakás üzemanyag",
+    "id": "tumpukan bahan bakar",
+    "it": "un mucchio di carburante",
+    "ja": "燃料の山",
+    "ko": "연료 더미",
+    "lt": "degalų krūva",
+    "lv": "degvielas kaudze",
+    "nb": "en haug med drivstoff",
+    "nl": "een berg brandstof",
+    "pl": "stos paliwa",
+    "pt": "uma pilha de combustível",
+    "ro": "o grămadă de combustibil",
+    "ru": "куча топлива",
+    "sk": "hromada paliva",
+    "sl": "kup goriva",
+    "sv": "en hög med bränsle",
+    "tr": "bir yığın yakıt",
+    "uk": "купа палива",
+    "zh": "一堆燃料"
+  },
+  "verses": [
+    "isaiah 30:33:11",
+    "ezekiel 24:9:11"
+  ]
+}

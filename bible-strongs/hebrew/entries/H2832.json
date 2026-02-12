@@ -1,0 +1,43 @@
+{
+  "number": "H2832",
+  "language": "hebrew",
+  "transliteration": "Chashmônâh",
+  "pronunciation": "khash-mo-naw'",
+  "definition": "Chasmonah, a place in the Desert",
+  "kjvTranslation": "Hashmonah.",
+  "translations": {
+    "bg": "Chasmonah, място в пустинята",
+    "cs": "Chasmona, místo v poušti",
+    "da": "Chasmonah, et sted i ørkenen",
+    "de": "Chasmonah, ein Ort in der Wüste",
+    "el": "Chasmonah, ένα μέρος στην έρημο",
+    "es": "Chasmonah, un lugar en el desierto",
+    "et": "Chasmonah, koht kõrbes",
+    "fi": "Chasmonah, paikka erämaassa",
+    "fr": "Chasmonah, un lieu dans le désert",
+    "hu": "Chasmonah, egy hely a sivatagban",
+    "id": "Chasmonah, sebuah tempat di Gurun Pasir",
+    "it": "Chasmonah, un luogo nel deserto",
+    "ja": "砂漠の地、シャスモナ",
+    "ko": "사막의 장소, 차스모나",
+    "lt": "Chasmona, vieta dykumoje",
+    "lv": "Chasmonah, vieta tuksnesī",
+    "nb": "Chasmonah, et sted i ørkenen",
+    "nl": "Chasmonah, een plaats in de woestijn",
+    "pl": "Chasmonah, miejsce na pustyni",
+    "pt": "Chasmonah, um lugar no deserto",
+    "ro": "Chasmonah, un loc în deșert",
+    "ru": "Хасмона, место в пустыне",
+    "sk": "Chasmona, miesto v púšti",
+    "sl": "Chasmonah, kraj v puščavi",
+    "sv": "Chasmonah, en plats i öknen",
+    "tr": "Chasmonah, Çölde bir yer",
+    "uk": "Хасмона, місце в пустелі",
+    "zh": "查斯摩那，沙漠中的一个地方"
+  },
+  "hebrew": "חַשְׁמֹנָה",
+  "verses": [
+    "numbers 33:29:3",
+    "numbers 33:30:1"
+  ]
+}

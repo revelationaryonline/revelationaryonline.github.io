@@ -1,0 +1,43 @@
+{
+  "number": "H973",
+  "language": "hebrew",
+  "transliteration": "bâchal",
+  "pronunciation": "baw-khal'",
+  "definition": "to loath",
+  "kjvTranslation": "abhor, get hastily (from the margin for H926 (בָּהַל)).",
+  "translations": {
+    "bg": "да се отвращава",
+    "cs": "nenávidět",
+    "da": "at afsky",
+    "de": "zu verabscheuen",
+    "el": "να απεχθάνομαι",
+    "es": "detestar",
+    "et": "vihkama",
+    "fi": "inhota",
+    "fr": "détester",
+    "hu": "gyűlölni",
+    "id": "untuk membenci",
+    "it": "detestare",
+    "ja": "嫌悪する",
+    "ko": "혐오하다",
+    "lt": "nekęsti",
+    "lv": "ienīst",
+    "nb": "å avsky",
+    "nl": "afschuw",
+    "pl": "nienawidzić",
+    "pt": "detestar",
+    "ro": "să urască",
+    "ru": "ненавидеть",
+    "sk": "nenávidieť",
+    "sl": "sovražiti",
+    "sv": "att avsky",
+    "tr": "nefret etmek",
+    "uk": "ненавидіти",
+    "zh": "厌"
+  },
+  "hebrew": "בָּחַל",
+  "verses": [
+    "proverbs 20:21:1",
+    "zechariah 11:8:11"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7524",
+  "language": "hebrew",
+  "transliteration": "retsach",
+  "pronunciation": "reh-tsakh",
+  "definition": "a crushing; specifically, a murder-cry",
+  "kjvTranslation": "slaughter, sword.",
+  "hebrew": "רֶצַח",
+  "translations": {
+    "bg": "съкрушителен вик; по-специално вик за убийство",
+    "cs": "zdrcující; konkrétně vražedný výkřik",
+    "da": "en knusning; specifikt et mordskrig",
+    "de": "ein vernichtendes Urteil; insbesondere ein Mordschrei",
+    "el": "συντριβή- συγκεκριμένα, κραυγή δολοφονίας",
+    "es": "un aplastamiento; en concreto, un grito de asesinato",
+    "et": "purustamine; täpsemalt, mõrvapalavik",
+    "fi": "murskaaminen; erityisesti murhahuuto",
+    "fr": "un écrasement ; en particulier, un cri de meurtre",
+    "hu": "zúzás; különösen gyilkos kiáltás",
+    "id": "menghancurkan; khususnya, teriakan pembunuhan",
+    "it": "uno schiacciamento; in particolare, un grido di omicidio",
+    "ja": "特に殺人の叫び",
+    "ko": "짓밟다; 구체적으로, 살인의 외침",
+    "lt": "sutriuškinimas; ypač žmogžudystės šauksmas",
+    "lv": "satricinošs; īpaši slepkavības sauciens",
+    "nb": "en knusing; spesielt et drapsrop",
+    "nl": "een verliefdheid; specifiek, een moordkreet",
+    "pl": "miażdżenie; w szczególności okrzyk morderstwa",
+    "pt": "um esmagamento; especificamente, um grito de assassínio",
+    "ro": "o strivire; în special, un strigăt de crimă",
+    "ru": "сокрушительный крик; в частности, крик убийства",
+    "sk": "zdrvujúci; konkrétne vražedný výkrik",
+    "sl": "zdrobljenje; zlasti morilski krik",
+    "sv": "en krossning; särskilt ett mordrop",
+    "tr": "bir ezme; özellikle, bir cinayet çığlığı",
+    "uk": "розчавлювання; зокрема, крик про вбивство",
+    "zh": "呐喊；具体地说，就是杀人的呐喊"
+  },
+  "verses": [
+    "psalms 42:11:0",
+    "ezekiel 21:27:8"
+  ]
+}

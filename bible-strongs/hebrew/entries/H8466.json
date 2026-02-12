@@ -1,0 +1,42 @@
+{
+  "number": "H8466",
+  "language": "hebrew",
+  "transliteration": "tachănâh",
+  "pronunciation": "takh-an-aw'",
+  "definition": "(only plural collectively) an encampment",
+  "kjvTranslation": "camp.",
+  "hebrew": "תַּחֲנָה",
+  "translations": {
+    "bg": "(само в множествено число) лагер",
+    "cs": "(pouze v množném čísle) tábor",
+    "da": "(kun flertal kollektivt) en lejr",
+    "de": "(nur Plural, kollektiv) ein Lager",
+    "el": "(μόνο στον πληθυντικό συλλογικά) ένας καταυλισμός",
+    "es": "(sólo en plural colectivo) un campamento",
+    "et": "(ainult mitmuses kollektiivselt) laager",
+    "fi": "(vain monikossa kollektiivisesti) leiripaikka",
+    "fr": "(uniquement au pluriel, collectivement) un campement",
+    "hu": "(csak többes számban, együttesen) táborhely",
+    "id": "(hanya jamak secara kolektif) perkemahan",
+    "it": "(solo plurale collettivo) un accampamento",
+    "ja": "(野営地",
+    "ko": "(복수형으로만 통칭) 야영지",
+    "lt": "(tik daugiskaita) stovyklavietė",
+    "lv": "(tikai daudzskaitlī kopā) nometne",
+    "nb": "(bare flertall kollektivt) en leir",
+    "nl": "(alleen meervoud collectief) een kampement",
+    "pl": "(tylko liczba mnoga łącznie) obozowisko",
+    "pt": "(só no plural coletivamente) um acampamento",
+    "ro": "(numai la plural colectiv) o tabără",
+    "ru": "(только множественное число) лагерь",
+    "sk": "(len v množnom čísle) tábor",
+    "sl": "(samo v množini skupaj) taborišče",
+    "sv": "(endast plural kollektivt) ett läger",
+    "tr": "(yalnızca toplu olarak çoğul) bir kamp",
+    "uk": "(тільки у множині) табір",
+    "zh": "云集"
+  },
+  "verses": [
+    "secondKings 6:8:13"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H8661",
+  "language": "hebrew",
+  "transliteration": "Tartân",
+  "pronunciation": "tar-tawn'",
+  "definition": "Tartan, an Assyrian",
+  "kjvTranslation": "Tartan.",
+  "hebrew": "תַּרְתָּן",
+  "translations": {
+    "bg": "Тартан, асирийски",
+    "cs": "Tartan, asyrský",
+    "da": "Tartan, en assyrisk",
+    "de": "Tartan, ein assyrisches",
+    "el": "Ταρτάν, ένα Ασσυριακό",
+    "es": "Tartán, un asirio",
+    "et": "Tartan, assüüria",
+    "fi": "Tartan, assyrialainen",
+    "fr": "Tartan, un Assyrien",
+    "hu": "Tartán, egy asszír",
+    "id": "Tartan, seorang Asiria",
+    "it": "Tartan, un assiro",
+    "ja": "アッシリアのタータン",
+    "ko": "아시리아 타탄, 타탄",
+    "lt": "Tartanas, asirų",
+    "lv": "Tartāns, asīriešu",
+    "nb": "Tartan, en assyrisk",
+    "nl": "Tartan, een Assyrische",
+    "pl": "Tartan, asyryjski",
+    "pt": "Tartan, um assírio",
+    "ro": "Tartan, un asirian",
+    "ru": "Тартан, ассирийский",
+    "sk": "Tartan, asýrsky",
+    "sl": "Tartan, asirski",
+    "sv": "Tartan, en assyrisk",
+    "tr": "Tartan, bir Asurlu",
+    "uk": "Тартан, ассирієць",
+    "zh": "塔尔坦"
+  },
+  "verses": [
+    "secondKings 18:17:4",
+    "isaiah 20:1:2"
+  ]
+}

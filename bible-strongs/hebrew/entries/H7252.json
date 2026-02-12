@@ -1,0 +1,42 @@
+{
+  "number": "H7252",
+  "language": "hebrew",
+  "transliteration": "rebaʻ",
+  "pronunciation": "reh'-bah",
+  "definition": "prostration (for sleep)",
+  "kjvTranslation": "lying down.",
+  "hebrew": "רֶבַע",
+  "translations": {
+    "bg": "прострация (за сън)",
+    "cs": "prostrace (pro spánek)",
+    "da": "nedbøjning (for at sove)",
+    "de": "niederwerfung (zum Schlafen)",
+    "el": "κατάκλιση (για ύπνο)",
+    "es": "postración (para dormir)",
+    "et": "kummardamine (magamiseks)",
+    "fi": "kumartuminen (nukkumista varten)",
+    "fr": "prostration (pour le sommeil)",
+    "hu": "leborulás (alváshoz)",
+    "id": "sujud (untuk tidur)",
+    "it": "prostrazione (per dormire)",
+    "ja": "ふみん",
+    "ko": "엎드린 자세(수면용)",
+    "lt": "išsitiesimas (miegui)",
+    "lv": "prostrācija (miegam)",
+    "nb": "prostration (for søvn)",
+    "nl": "prostratie (voor slaap)",
+    "pl": "pokłon (dla snu)",
+    "pt": "prostração (para dormir)",
+    "ro": "prostrație (pentru somn)",
+    "ru": "прострация (для сна)",
+    "sk": "prostrácia (pre spánok)",
+    "sl": "razgibavanje (za spanje)",
+    "sv": "prostration (för sömn)",
+    "tr": "secde (uyku için)",
+    "uk": "прострація (для сну)",
+    "zh": "寤寐"
+  },
+  "verses": [
+    "psalms 139:3:1"
+  ]
+}

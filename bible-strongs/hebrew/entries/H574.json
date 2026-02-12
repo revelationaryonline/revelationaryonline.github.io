@@ -1,0 +1,42 @@
+{
+  "number": "H574",
+  "language": "hebrew",
+  "transliteration": "ʼêmᵉtânîy",
+  "pronunciation": "em-taw-nee'",
+  "definition": "well-loined (i.e. burly) or mighty",
+  "kjvTranslation": "terrible.",
+  "translations": {
+    "bg": "добре сложен (т.е. силен) или могъщ",
+    "cs": "dobře stavěný (tj. mohutný) nebo mohutný",
+    "da": "velpolstret (dvs. kraftig) eller mægtig",
+    "de": "wohlbeleibt (d.h. stämmig) oder mächtig",
+    "el": "καλά χορδές (δηλ. γεροδεμένος) ή δυνατός",
+    "es": "bien fornido (es decir, corpulento) o poderoso",
+    "et": "hästi sooniline (st jõuline) või võimas",
+    "fi": "hyvin lonkeroitu (eli kookas) tai mahtava",
+    "fr": "bien charpenté (c.-à-d. costaud) ou puissant",
+    "hu": "jól begyepesedett (azaz testes) vagy hatalmas",
+    "id": "berbadan tegap (yaitu kekar) atau perkasa",
+    "it": "ben robusto (cioè corpulento) o possente",
+    "ja": "たくましい",
+    "ko": "잘 짜여진 (즉, 건장한) 또는 강력한",
+    "lt": "gerai sudėtas (t. y. stambus) arba galingas",
+    "lv": "labi noslogots (t.i., spēcīgs) vai spēcīgs",
+    "nb": "veltrent (dvs. kraftig) eller mektig",
+    "nl": "goed gelijnd (d.w.z. stevig) of machtig",
+    "pl": "dobrze zbudowany (tj. krzepki) lub potężny",
+    "pt": "bem constituído (ou seja, corpulento) ou poderoso",
+    "ro": "bine închegat (adică voinic) sau puternic",
+    "ru": "крепко сложенный (т.е. мощный) или могучий",
+    "sk": "dobre stavaný (t. j. mohutný) alebo mohutný",
+    "sl": "dobro grajen (tj. čvrst) ali mogočen",
+    "sv": "välbyggd (d.v.s. kraftig) eller mäktig",
+    "tr": "iyi yapılı (yani iri yarı) veya güçlü",
+    "uk": "добре вгодовані (тобто кремезні) або потужні",
+    "zh": "膀大腰圆"
+  },
+  "hebrew": "אֵמְתָּנִי",
+  "verses": [
+    "daniel 7:7:11"
+  ]
+}

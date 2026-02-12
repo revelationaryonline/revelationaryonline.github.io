@@ -1,0 +1,42 @@
+{
+  "number": "H2274",
+  "language": "hebrew",
+  "transliteration": "chebrâh",
+  "pronunciation": "kheb-raw'",
+  "definition": "association",
+  "kjvTranslation": "company.",
+  "translations": {
+    "bg": "асоциация",
+    "cs": "sdružení",
+    "da": "forening",
+    "de": "verein",
+    "el": "ένωση",
+    "es": "asociación",
+    "et": "ühendus",
+    "fi": "yhdistys",
+    "fr": "association",
+    "hu": "egyesület",
+    "id": "asosiasi",
+    "it": "associazione",
+    "ja": "協会",
+    "ko": "연관성",
+    "lt": "asociacija",
+    "lv": "asociācija",
+    "nb": "forening",
+    "nl": "vereniging",
+    "pl": "stowarzyszenie",
+    "pt": "associação",
+    "ro": "asociere",
+    "ru": "ассоциация",
+    "sk": "združenie",
+    "sl": "združenje",
+    "sv": "förening",
+    "tr": "dernek",
+    "uk": "об'єднання",
+    "zh": "协会"
+  },
+  "hebrew": "חֶבְרָה",
+  "verses": [
+    "job 34:8:1"
+  ]
+}

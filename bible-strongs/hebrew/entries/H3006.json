@@ -1,0 +1,43 @@
+{
+  "number": "H3006",
+  "language": "hebrew",
+  "transliteration": "yabbesheth",
+  "pronunciation": "yab-beh'-sheth",
+  "definition": "dry ground",
+  "kjvTranslation": "dry land.",
+  "translations": {
+    "bg": "суха земя",
+    "cs": "suchá půda",
+    "da": "tør jord",
+    "de": "trockener Boden",
+    "el": "ξηρό έδαφος",
+    "es": "tierra seca",
+    "et": "kuiv maa",
+    "fi": "kuiva maa",
+    "fr": "sol sec",
+    "hu": "száraz talaj",
+    "id": "tanah kering",
+    "it": "terreno asciutto",
+    "ja": "ドライグラウンド",
+    "ko": "마른 땅",
+    "lt": "sausa žemė",
+    "lv": "sausa zeme",
+    "nb": "tørr grunn",
+    "nl": "droge grond",
+    "pl": "suchy grunt",
+    "pt": "solo seco",
+    "ro": "sol uscat",
+    "ru": "сухая земля",
+    "sk": "suchá pôda",
+    "sl": "suha tla",
+    "sv": "torr mark",
+    "tr": "kuru zemin",
+    "uk": "суха земля",
+    "zh": "干地"
+  },
+  "hebrew": "יַבֶּשֶׁת",
+  "verses": [
+    "exodus 4:9:24",
+    "psalms 95:5:5"
+  ]
+}

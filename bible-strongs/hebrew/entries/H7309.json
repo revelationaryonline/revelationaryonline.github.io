@@ -1,0 +1,43 @@
+{
+  "number": "H7309",
+  "language": "hebrew",
+  "transliteration": "rᵉvâchâh",
+  "pronunciation": "rev-aw-khaw'",
+  "definition": "relief",
+  "kjvTranslation": "breathing, respite.",
+  "hebrew": "רְוָחָה",
+  "translations": {
+    "bg": "облекчение",
+    "cs": "úleva",
+    "da": "aflastning",
+    "de": "relief",
+    "el": "ανακούφιση",
+    "es": "ayuda",
+    "et": "reljeef",
+    "fi": "helpotus",
+    "fr": "secours",
+    "hu": "megkönnyebbülés",
+    "id": "bantuan",
+    "it": "sollievo",
+    "ja": "救援",
+    "ko": "릴리프",
+    "lt": "pagalba",
+    "lv": "atvieglojums",
+    "nb": "lettelse",
+    "nl": "hulp",
+    "pl": "ulga",
+    "pt": "alívio",
+    "ro": "ușurare",
+    "ru": "рельеф",
+    "sk": "úľava",
+    "sl": "razbremenitev",
+    "sv": "lättnad",
+    "tr": "rahatlama",
+    "uk": "полегшення",
+    "zh": "救济"
+  },
+  "verses": [
+    "exodus 8:11:4",
+    "lamentations 3:56:5"
+  ]
+}

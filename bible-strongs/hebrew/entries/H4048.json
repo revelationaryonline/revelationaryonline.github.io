@@ -1,0 +1,43 @@
+{
+  "number": "H4048",
+  "language": "hebrew",
+  "transliteration": "mâgar",
+  "pronunciation": "maw-gar'",
+  "definition": "to yield up; intensively, to precipitate",
+  "kjvTranslation": "cast down, terror.",
+  "hebrew": "מָגַר",
+  "translations": {
+    "bg": "да се предаде; в интензивен смисъл - да се утаи",
+    "cs": "vzdát se; intenzivně, srážet se",
+    "da": "at give op; intensivt, at udfælde",
+    "de": "aufgeben; intensiv, ausfallen",
+    "el": "να υποχωρήσει- εντατικά, να κατακρημνιστεί",
+    "es": "ceder; intensamente, precipitarse",
+    "et": "järele anda; intensiivselt, sadestuda",
+    "fi": "antaa periksi; intensiivisesti, saostua",
+    "fr": "céder ; de manière intensive, précipiter",
+    "hu": "felhagyni; intenzíven, kicsapódni",
+    "id": "menyerah; secara intensif, mengendapkan",
+    "it": "cedere; intensamente, precipitare",
+    "ja": "降伏させる；集中的に、沈殿させる",
+    "ko": "양보하다; 집중적으로, 침전하다",
+    "lt": "pasiduoti; intensyviai, nusėsti",
+    "lv": "padoties; intensīvi - nogulsnēties",
+    "nb": "å gi opp; intensivt, å utfelle",
+    "nl": "opgeven; intensief, neerslaan",
+    "pl": "ustępować; intensywnie, wytrącać się",
+    "pt": "ceder; intensivamente, precipitar",
+    "ro": "a ceda; intensiv, a precipita",
+    "ru": "сдаваться; интенсивно, выпадать в осадок",
+    "sk": "podľahnúť; intenzívne, zrážať",
+    "sl": "popustiti; intenzivno, izločiti",
+    "sv": "att ge upp; intensivt, att utfälla",
+    "tr": "pes etmek; yoğun olarak, çökelmek",
+    "uk": "здаватися; інтенсивно, осаджуватися",
+    "zh": "屈服；密集地，沉淀"
+  },
+  "verses": [
+    "psalms 89:45:4",
+    "ezekiel 21:17:12"
+  ]
+}

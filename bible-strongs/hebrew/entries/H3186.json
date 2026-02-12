@@ -1,0 +1,42 @@
+{
+  "number": "H3186",
+  "language": "hebrew",
+  "transliteration": "yâchar",
+  "pronunciation": "yaw-khar'",
+  "definition": "to delay",
+  "kjvTranslation": "tarry longer.",
+  "translations": {
+    "bg": "да се забави",
+    "cs": "zpoždění",
+    "da": "for at forsinke",
+    "de": "zu verzögern",
+    "el": "να καθυστερήσει",
+    "es": "retrasar",
+    "et": "edasi lükata",
+    "fi": "viivästyttää",
+    "fr": "de retarder",
+    "hu": "késleltetni",
+    "id": "untuk menunda",
+    "it": "per ritardare",
+    "ja": "遅らせる",
+    "ko": "지연하려면",
+    "lt": "atidėti",
+    "lv": "aizkavēt",
+    "nb": "for å forsinke",
+    "nl": "uitstellen",
+    "pl": "opóźnienie",
+    "pt": "para atrasar",
+    "ro": "pentru a întârzia",
+    "ru": "откладывать",
+    "sk": "odložiť",
+    "sl": "odložiti",
+    "sv": "att fördröja",
+    "tr": "geciktirmek için",
+    "uk": "затримати",
+    "zh": "拖延时间"
+  },
+  "hebrew": "יָחַר",
+  "verses": [
+    "secondSamuel 20:5:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3650",
+  "language": "hebrew",
+  "transliteration": "kimrîyr",
+  "pronunciation": "kim-reer'",
+  "definition": "obscuration (as if from shrinkage of light, i.e. an eclipse (only in plural)",
+  "kjvTranslation": "blackness.",
+  "translations": {
+    "bg": "затъмнение (като от свиване на светлината, напр. затъмнение) (само в множествено число)",
+    "cs": "zatemnění (jakoby z úbytku světla, tj. zatmění (pouze v množném čísle)",
+    "da": "tilsløring (som ved indskrænkning af lys, dvs. en formørkelse (kun i flertal)",
+    "de": "verdunkelung (wie bei einer Lichtschrumpfung, d.h. einer Finsternis (nur im Plural)",
+    "el": "συσκότιση (σαν από συρρίκνωση του φωτός, δηλ. έκλειψη (μόνο στον πληθυντικό)",
+    "es": "oscurecimiento (como por contracción de la luz, es decir, un eclipse (sólo en plural)",
+    "et": "hämarus (nagu valguse kahanemisest, s.t. varjutusest (ainult mitmuses))",
+    "fi": "hämärtyminen (ikään kuin valon kutistumisesta johtuva, ts. pimennys (vain monikossa))",
+    "fr": "obscurcissement (comme par rétrécissement de la lumière, c'est-à-dire une éclipse) (seulement au pluriel)",
+    "hu": "homályosodás (mintha a fény zsugorodása, azaz napfogyatkozás (csak többes számban))",
+    "id": "pengaburan (seolah-olah karena penyusutan cahaya, yaitu gerhana (hanya dalam bentuk jamak)",
+    "it": "oscuramento (come per il restringimento della luce, cioè un'eclissi (solo al plurale)",
+    "ja": "蝕",
+    "ko": "가려짐(빛의 수축으로 인한 일식, 즉 일식(복수형만 해당))",
+    "lt": "užtemimas (tarsi dėl šviesos sumažėjimo, t. y. užtemimas (tik daugiskaita)",
+    "lv": "aptumšojums (it kā no gaismas sarukuma, t.i., aptumsumsums (tikai daudzskaitlī))",
+    "nb": "tilsløring (som ved krymping av lys, dvs. en formørkelse (bare i flertall)",
+    "nl": "verduistering (als door inkrimping van licht, d.w.z. een verduistering (alleen in meervoud)",
+    "pl": "zaciemnienie (jakby z powodu kurczenia się światła, tj. zaćmienie (tylko w liczbie mnogiej)",
+    "pt": "obscurecimento (como que por retração da luz, ou seja, um eclipse (só no plural)",
+    "ro": "întunecare (ca urmare a micșorării luminii, de exemplu o eclipsă (numai la plural)",
+    "ru": "затемнение (как бы от уменьшения света, т.е. затмение (только во множественном числе)",
+    "sk": "zatmenie (akoby z úbytku svetla, t. j. zatmenie (len v množnom čísle)",
+    "sl": "zastrtost (kot zaradi zmanjšanja svetlobe, npr. mrk) (samo v množini)",
+    "sv": "förmörkelse (som av ljusets krympning, dvs. en förmörkelse (endast i plural)",
+    "tr": "karartma (sanki ışığın büzülmesinden kaynaklanıyormuş gibi, yani bir tutulma (sadece çoğul olarak)",
+    "uk": "затемнення (ніби від стиснення світла), тобто затемнення (тільки у множині)",
+    "zh": "晦明"
+  },
+  "hebrew": "כִּמְרִיר",
+  "verses": [
+    "job 3:5:7"
+  ]
+}

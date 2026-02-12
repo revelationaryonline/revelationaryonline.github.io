@@ -1,0 +1,42 @@
+{
+  "number": "H6000",
+  "language": "hebrew",
+  "transliteration": "ʻÂmâl",
+  "pronunciation": "aw-mawl'",
+  "definition": "Amal, an Israelite",
+  "kjvTranslation": "Amal.",
+  "hebrew": "עָמָל",
+  "translations": {
+    "bg": "Амал, израелец",
+    "cs": "Amal, Izraelka",
+    "da": "Amal, en israelit",
+    "de": "Amal, eine Israelitin",
+    "el": "Amal, Ισραηλίτισσα",
+    "es": "Amal, israelita",
+    "et": "Amal, iisraellane",
+    "fi": "Amal, israelilainen",
+    "fr": "Amal, une Israélite",
+    "hu": "Amal, izraelita",
+    "id": "Amal, seorang Israel",
+    "it": "Amal, un'israelita",
+    "ja": "イスラエル人アマル",
+    "ko": "이스라엘인, 아말",
+    "lt": "Amal, izraelietė",
+    "lv": "Amal, izraēliete",
+    "nb": "Amal, en israelitt",
+    "nl": "Amal, een Israëliet",
+    "pl": "Amal, Izraelita",
+    "pt": "Amal, israelita",
+    "ro": "Amal, o israelită",
+    "ru": "Амаль, израильтянка",
+    "sk": "Amal, Izraelita",
+    "sl": "Amal, Izraelka",
+    "sv": "Amal, en israelit",
+    "tr": "Amal, bir İsrailli",
+    "uk": "Амаль, ізраїльтянка",
+    "zh": "阿迈勒"
+  },
+  "verses": [
+    "firstChronicles 7:35:6"
+  ]
+}

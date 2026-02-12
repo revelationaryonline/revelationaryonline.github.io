@@ -1,0 +1,42 @@
+{
+  "number": "H2314",
+  "language": "hebrew",
+  "transliteration": "châdar",
+  "pronunciation": "khaw-dar'",
+  "definition": "properly, to inclose (as a room), i.e. (by analogy,) to beset (as in a siege)",
+  "kjvTranslation": "enter a privy chamber.",
+  "translations": {
+    "bg": "правилно, да се загради (като стая), т.е. (по аналогия) да се обсади (като при обсада)",
+    "cs": "správně, uzavřít (jako místnost), tj. (analogicky) obklíčit (jako při obléhání)",
+    "da": "korrekt, at omslutte (som et rum), dvs. (analogt) at omringe (som i en belejring)",
+    "de": "richtig: einschließen (wie einen Raum), d.h. (in Analogie) umzingeln (wie bei einer Belagerung)",
+    "el": "σωστά, να περικλείω (όπως ένα δωμάτιο), δηλαδή (κατ' αναλογία) να πολιορκώ (όπως σε μια πολιορκία)",
+    "es": "propiamente, cercar (como una habitación), es decir, (por analogía,) asediar (como en un asedio)",
+    "et": "õigesti, ümbritseda (nagu tuba), st (analoogiliselt) piirama (nagu piiramisrõngas)",
+    "fi": "oikein, sulkea (kuten huone), eli (analogisesti) piirittää (kuten piirityksessä)",
+    "fr": "proprement, enfermer (comme une pièce), c'est-à-dire (par analogie) assiéger (comme lors d'un siège)",
+    "hu": "helyesen, körülzárni (mint egy szobát), azaz (analógia szerint) ostromolni (mint egy ostromnál)",
+    "id": "benar, untuk menutup (sebagai sebuah ruangan), yaitu (dengan analogi,) untuk mengepung (seperti dalam pengepungan)",
+    "it": "propriamente, chiudere (come una stanza), cioè (per analogia) assediare (come in un assedio)",
+    "ja": "へいをめぐらす",
+    "ko": "적절하게, (방처럼) 둘러싸다, 즉 (비유하자면) 포위하다(포위 공격에서처럼)",
+    "lt": "tinkamai - aptverti (kaip patalpą), t. y. (pagal analogiją) apsupti (kaip apgulties metu)",
+    "lv": "pareizi - norobežot (kā telpu), t.i., (pēc analoģijas) aplenkt (kā aplenkuma laikā)",
+    "nb": "egentlig, å omslutte (som et rom), dvs. (analogt) å omringe (som i en beleiring)",
+    "nl": "goed, insluiten (zoals een kamer), d.w.z. (naar analogie) belegeren (zoals in een belegering)",
+    "pl": "właściwie, zamknąć (jako pomieszczenie), tj. (przez analogię) oblegać (jak podczas oblężenia)",
+    "pt": "propriamente, encerrar (como uma sala), ou seja (por analogia), cercar (como num cerco)",
+    "ro": "în mod corespunzător, a include (ca o cameră), adică (prin analogie) a înconjura (ca într-un asediu)",
+    "ru": "правильно, заключать в себе (как комнату), т.е. (по аналогии) осаждать (как при осаде)",
+    "sk": "správne, uzavrieť (ako miestnosť), t. j. (analogicky) obkľúčiť (ako pri obliehaní)",
+    "sl": "pravilno, ograditi (kot sobo), tj. (po analogiji) obkoliti (kot pri obleganju)",
+    "sv": "korrekt, att stänga in (som ett rum), dvs. (analogt) att belägra (som vid en belägring)",
+    "tr": "uygun şekilde, (bir oda gibi) çevrelemek, yani (benzetme yoluyla,) kuşatmak (kuşatmada olduğu gibi)",
+    "uk": "правильно, замикати (як кімнату), тобто (за аналогією) облягати (як в облозі)",
+    "zh": "围，即（类推）包围（如围城"
+  },
+  "hebrew": "חָדַר",
+  "verses": [
+    "ezekiel 21:19:17"
+  ]
+}

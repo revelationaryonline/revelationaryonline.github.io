@@ -1,0 +1,42 @@
+{
+  "number": "H1539",
+  "language": "hebrew",
+  "transliteration": "geled",
+  "pronunciation": "ghe'-led",
+  "definition": "the (human) skin (as smooth)",
+  "kjvTranslation": "skin.",
+  "translations": {
+    "bg": "(човешката) кожа (като гладка)",
+    "cs": "(lidská) kůže (jako hladká)",
+    "da": "den (menneskelige) hud (som glat)",
+    "de": "die (menschliche) Haut (als glatt)",
+    "el": "το (ανθρώπινο) δέρμα (ως λείο)",
+    "es": "la piel (humana) (como lisa)",
+    "et": "(inimese) nahk (siledamana)",
+    "fi": "(ihmisen) iho (sileänä)",
+    "fr": "la peau (humaine) (lisse)",
+    "hu": "az (emberi) bőr (mint sima)",
+    "id": "kulit (manusia) (sehalus)",
+    "it": "la pelle (umana) (come liscia)",
+    "ja": "人肌",
+    "ko": "(사람의) 피부(매끄러운)",
+    "lt": "(žmogaus) oda (kaip lygi)",
+    "lv": "(cilvēka) āda (kā gluda)",
+    "nb": "(menneske)huden (som glatt)",
+    "nl": "de (menselijke) huid (als glad)",
+    "pl": "(ludzka) skóra (jako gładka)",
+    "pt": "a pele (humana) (como lisa)",
+    "ro": "pielea (umană) (ca netedă)",
+    "ru": "кожа (человеческая) (как гладкая)",
+    "sk": "(ľudská) koža (ako hladká)",
+    "sl": "(človeška) koža (kot gladka)",
+    "sv": "den (mänskliga) huden (som slät)",
+    "tr": "(insan) derisi (pürüzsüz olarak)",
+    "uk": "(людська) шкіра (як гладка)",
+    "zh": "皮肤"
+  },
+  "hebrew": "גֶּלֶד",
+  "verses": [
+    "job 16:15:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4202",
+  "language": "hebrew",
+  "transliteration": "mâzôwn",
+  "pronunciation": "maw-zone'",
+  "definition": "food",
+  "kjvTranslation": "meat, victual.",
+  "hebrew": "מָזוֹן",
+  "translations": {
+    "bg": "храна",
+    "cs": "potraviny",
+    "da": "mad",
+    "de": "lebensmittel",
+    "el": "τρόφιμα",
+    "es": "alimentos",
+    "et": "toit",
+    "fi": "ruoka",
+    "fr": "nourriture",
+    "hu": "élelmiszer",
+    "id": "makanan",
+    "it": "cibo",
+    "ja": "食品",
+    "ko": "음식",
+    "lt": "maistas",
+    "lv": "pārtika",
+    "nb": "mat",
+    "nl": "voedsel",
+    "pl": "jedzenie",
+    "pt": "alimentos",
+    "ro": "alimente",
+    "ru": "еда",
+    "sk": "potraviny",
+    "sl": "hrana",
+    "sv": "mat",
+    "tr": "yemek",
+    "uk": "їжа",
+    "zh": "食物"
+  },
+  "verses": [
+    "genesis 45:23:13",
+    "secondChronicles 11:23:13"
+  ]
+}

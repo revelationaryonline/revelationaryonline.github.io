@@ -1,0 +1,43 @@
+{
+  "number": "H5101",
+  "language": "hebrew",
+  "transliteration": "nâhaq",
+  "pronunciation": "naw-hak'",
+  "definition": "to bray (as an ass), scream (from hunger)",
+  "kjvTranslation": "bray.",
+  "hebrew": "נָהַק",
+  "translations": {
+    "bg": "да блее (като магаре), да крещи (от глад)",
+    "cs": "řvát (jako osel), křičet (z hladu)",
+    "da": "at brøle (som et æsel), skrige (af sult)",
+    "de": "brüllen (wie ein Esel), schreien (vor Hunger)",
+    "el": "να καυχιέμαι (σαν γάιδαρος), να ουρλιάζω (από την πείνα)",
+    "es": "rebuznar (como un asno), gritar (de hambre)",
+    "et": "karjuda (nagu eesel), karjuda (näljast)",
+    "fi": "huutaa (kuin aasi), huutaa (nälästä)",
+    "fr": "braire (comme un âne), crier (de faim)",
+    "hu": "bömbölni (mint egy szamár), sikítani (az éhségtől)",
+    "id": "mengoceh (seperti keledai), menjerit (karena lapar)",
+    "it": "ragliare (come un asino), urlare (per la fame)",
+    "ja": "雄叫びを上げる、空腹で悲鳴を上げる",
+    "ko": "(엉덩이처럼) 비명을 지르다, (배고픔으로) 비명을 지르다",
+    "lt": "riaumoti (kaip asilas), rėkti (iš bado)",
+    "lv": "bļaustīties (kā ēzelis), kliegt (no bada)",
+    "nb": "å brøle (som et esel), skrike (av sult)",
+    "nl": "brullen (als een ezel), schreeuwen (van de honger)",
+    "pl": "ryczeć (jak osioł), krzyczeć (z głodu)",
+    "pt": "zurrar (como um asno), gritar (de fome)",
+    "ro": "a răcni (ca un măgar), a țipa (de foame)",
+    "ru": "выть (как осел), кричать (от голода)",
+    "sk": "brechať (ako osol), kričať (od hladu)",
+    "sl": "vpiti (kot osel), kričati (od lakote)",
+    "sv": "att bräka (som en åsna), skrika (av hunger)",
+    "tr": "anırmak (bir eşek gibi), çığlık atmak (açlıktan)",
+    "uk": "ревіти (як осел), кричати (від голоду)",
+    "zh": "嘶叫（作为驴子），尖叫（因为饥饿）"
+  },
+  "verses": [
+    "job 6:5:0",
+    "job 30:7:2"
+  ]
+}

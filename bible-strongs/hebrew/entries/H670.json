@@ -1,0 +1,42 @@
+{
+  "number": "H670",
+  "language": "hebrew",
+  "transliteration": "ʼĂphârᵉçay",
+  "pronunciation": "af-aw-re-sah'ee",
+  "definition": "an Apherasite or inhabitant of an unknown region of Assyria",
+  "kjvTranslation": "Apharsite.",
+  "translations": {
+    "bg": "аферасит или жител на неизвестен район на Асирия",
+    "cs": "aferasita nebo obyvatel neznámé oblasti Asýrie",
+    "da": "en aferasit eller indbygger i en ukendt region i Assyrien",
+    "de": "ein Apherasit oder Bewohner einer unbekannten Region in Assyrien",
+    "el": "ένας Αφερασίτης ή κάτοικος μιας άγνωστης περιοχής της Ασσυρίας",
+    "es": "un aferasita o habitante de una región desconocida de Asiria",
+    "et": "aferasiit või Assüüria tundmatu piirkonna elanik",
+    "fi": "apherasialainen tai Assyrian tuntemattoman alueen asukas",
+    "fr": "aphérasite ou habitant d'une région inconnue de l'Assyrie",
+    "hu": "egy apheraszita vagy Asszíria egy ismeretlen régiójának lakója",
+    "id": "seorang Apherasite atau penduduk dari wilayah Asyur yang tidak diketahui",
+    "it": "un aferasita o abitante di una regione sconosciuta dell'Assiria",
+    "ja": "アフェラ人、またはアッシリアの未知の地域の住民",
+    "ko": "아시리아의 알려지지 않은 지역에 거주하는 아페라사이트 또는 거주자",
+    "lt": "aferasietis arba nežinomo Asirijos regiono gyventojas",
+    "lv": "aferasietis vai nezināma Asīrijas reģiona iedzīvotājs",
+    "nb": "en aferasitt eller innbygger i en ukjent region i Assyria",
+    "nl": "een Apherasiet of inwoner van een onbekende regio in Assyrië",
+    "pl": "aferasyta lub mieszkaniec nieznanego regionu Asyrii",
+    "pt": "um aferasita ou habitante de uma região desconhecida da Assíria",
+    "ro": "un Aferasit sau locuitor al unei regiuni necunoscute din Asiria",
+    "ru": "апхерасец или житель неизвестной области Ассирии",
+    "sk": "aferasita alebo obyvateľ neznámej oblasti Asýrie",
+    "sl": "aferasit ali prebivalec neznane asirske regije",
+    "sv": "en Apherasit eller invånare i en okänd region i Assyrien",
+    "tr": "bir Apheraslı ya da Asur'un bilinmeyen bir bölgesinin sakini",
+    "uk": "аферасіт або мешканець невідомого регіону Ассирії",
+    "zh": "阿弗拉斯人或亚述一个不知名地区的居民"
+  },
+  "hebrew": "אֲפָרְסַי",
+  "verses": [
+    "ezra 4:9:11"
+  ]
+}

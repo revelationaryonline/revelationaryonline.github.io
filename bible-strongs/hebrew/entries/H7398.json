@@ -1,0 +1,42 @@
+{
+  "number": "H7398",
+  "language": "hebrew",
+  "transliteration": "rᵉkûwb",
+  "pronunciation": "rek-oob'",
+  "definition": "a vehicle (as ridden on)",
+  "kjvTranslation": "chariot.",
+  "hebrew": "רְכוּב",
+  "translations": {
+    "bg": "превозно средство (когато се вози)",
+    "cs": "vozidlo (na kterém se jezdí)",
+    "da": "et køretøj (som man kører på)",
+    "de": "ein Fahrzeug (wie geritten)",
+    "el": "ένα όχημα (όπως αναβάλεται)",
+    "es": "un vehículo (como montado en)",
+    "et": "sõiduk (millega sõidetakse)",
+    "fi": "ajoneuvo (jolla ajetaan)",
+    "fr": "un véhicule (comme s'il était monté dessus)",
+    "hu": "jármű (ahogyan lovagoltak rajta)",
+    "id": "kendaraan (seperti yang ditunggangi)",
+    "it": "un veicolo (come cavalcato)",
+    "ja": "のりもの",
+    "ko": "차량(탑승한 상태)",
+    "lt": "transporto priemonė (kuria važiuojama)",
+    "lv": "transportlīdzeklis (ar ko brauc)",
+    "nb": "et kjøretøy (som det kjøres på)",
+    "nl": "een voertuig (zoals bereden)",
+    "pl": "pojazd (na którym się jeździ)",
+    "pt": "um veículo (como se fosse montado)",
+    "ro": "un vehicul (pe care se călărește)",
+    "ru": "транспортное средство (на котором ездят)",
+    "sk": "vozidlo (na ktorom sa jazdí)",
+    "sl": "vozilo (na katerem se vozi)",
+    "sv": "ett fordon (som man åker på)",
+    "tr": "bir araç (üzerine binildiği gibi)",
+    "uk": "транспортний засіб (в тому вигляді, в якому він використовується)",
+    "zh": "车辆"
+  },
+  "verses": [
+    "psalms 104:3:5"
+  ]
+}

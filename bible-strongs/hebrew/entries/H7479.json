@@ -1,0 +1,42 @@
+{
+  "number": "H7479",
+  "language": "hebrew",
+  "transliteration": "raʻălâh",
+  "pronunciation": "rah-al-aw'",
+  "definition": "a long veil (as fluttering)",
+  "kjvTranslation": "muffler.",
+  "hebrew": "רַעֲלָה",
+  "translations": {
+    "bg": "дълъг воал (като трептящ)",
+    "cs": "dlouhý závoj (jako vlající)",
+    "da": "et langt slør (som flagrer)",
+    "de": "ein langer Schleier (wie flatternd)",
+    "el": "ένα μακρύ πέπλο (που φτερουγίζει)",
+    "es": "un velo largo (como revoloteando)",
+    "et": "pikk loor (nagu lehvimas)",
+    "fi": "pitkä huntu (lepattava)",
+    "fr": "un long voile (comme flottant)",
+    "hu": "hosszú fátyol (mint a lobogó)",
+    "id": "kerudung panjang (seperti berkibar)",
+    "it": "un lungo velo (come svolazzante)",
+    "ja": "ひらひら",
+    "ko": "긴 베일(펄럭이는 것처럼)",
+    "lt": "ilgas šydas (kaip plazdantis)",
+    "lv": "garu plīvuru (kā plīvuru)",
+    "nb": "et langt slør (som flagrende)",
+    "nl": "een lange sluier (als fladderen)",
+    "pl": "długi welon (jak trzepotanie)",
+    "pt": "um véu comprido (como se estivesse a esvoaçar)",
+    "ro": "un voal lung (ca fluturând)",
+    "ru": "длинная вуаль (развевающаяся)",
+    "sk": "dlhý závoj (ako vlajúci)",
+    "sl": "dolga tančica (kot plapolajoča)",
+    "sv": "en lång slöja (som fladdrande)",
+    "tr": "uzun bir örtü (çırpınan)",
+    "uk": "довга фата (як розвівається)",
+    "zh": "长纱"
+  },
+  "verses": [
+    "isaiah 3:19:2"
+  ]
+}

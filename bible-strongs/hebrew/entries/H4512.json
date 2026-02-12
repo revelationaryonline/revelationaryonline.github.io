@@ -1,0 +1,42 @@
+{
+  "number": "H4512",
+  "language": "hebrew",
+  "transliteration": "minleh",
+  "pronunciation": "min-leh'",
+  "definition": "completion, i.e. (in produce) wealth",
+  "kjvTranslation": "perfection.",
+  "hebrew": "מִנְלֶה",
+  "verses": [
+    "job 15:29:8"
+  ],
+  "translations": {
+    "bg": "завършеност, т.е. (в производството) богатство",
+    "cs": "dokončení, tj. (v produkci) bohatství",
+    "da": "færdiggørelse, dvs. (i produkter) rigdom",
+    "de": "fertigstellung, d.h. (produktiver) Wohlstand",
+    "el": "ολοκλήρωση, δηλαδή (σε προϊόντα) πλούτος",
+    "es": "finalización, es decir (en producir) riqueza",
+    "et": "lõpuleviimine, st (tootmisel) jõukus",
+    "fi": "loppuunsaattaminen, eli (tuotannossa) vauraus",
+    "fr": "l'achèvement, c'est-à-dire (en produit) la richesse",
+    "hu": "kiteljesedés, azaz (termelékenységben) gazdagság",
+    "id": "penyelesaian, yaitu (dalam menghasilkan) kekayaan",
+    "it": "completamento, vale a dire (in prodotti) la ricchezza",
+    "ja": "完成、すなわち（生産物における）富",
+    "ko": "완성, 즉 (생산에서) 부",
+    "lt": "užbaigimas, t. y. (produkcija) turtas",
+    "lv": "pabeigšana, t. i., (produkcijas) bagātība",
+    "nb": "ferdigstillelse, dvs. (i produkter) rikdom",
+    "nl": "voltooiing, d.w.z. (in productie) rijkdom",
+    "pl": "ukończenie, tj. (w produkcie) bogactwo",
+    "pt": "conclusão, ou seja, riqueza (em produtos)",
+    "ro": "finalizare, adică (în produs) bogăție",
+    "ru": "завершение, т.е. (в производстве) богатство",
+    "sk": "dokončenie, t. j. (vo výrobe) bohatstvo",
+    "sl": "dokončanje, tj. (v proizvodnji) bogastvo",
+    "sv": "färdigställande, dvs. (i produktion) rikedom",
+    "tr": "tamamlanması, yani (ürün olarak) zenginlik",
+    "uk": "завершення, тобто (у виробництві) багатство",
+    "zh": "完成，即（生产）财富"
+  }
+}

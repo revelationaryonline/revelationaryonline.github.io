@@ -1,0 +1,42 @@
+{
+  "number": "H7115",
+  "language": "hebrew",
+  "transliteration": "qôtser",
+  "pronunciation": "ko'-tser",
+  "definition": "shortness (of spirit), i.e. impatience",
+  "kjvTranslation": "anguish.",
+  "hebrew": "קֹצֶר",
+  "translations": {
+    "bg": "късогледство (на духа), т.е. нетърпение",
+    "cs": "krátkost (ducha), tj. netrpělivost",
+    "da": "kortfattethed (i ånden), dvs. utålmodighed",
+    "de": "kurzatmigkeit (des Geistes), d.h. Ungeduld",
+    "el": "βραδύτητα (του πνεύματος), δηλαδή ανυπομονησία",
+    "es": "falta de ánimo, es decir, impaciencia",
+    "et": "(vaimne) lühidus, st kannatamatus",
+    "fi": "(henkinen) lyhytjänteisyys eli kärsimättömyys",
+    "fr": "la brièveté (de l'esprit), c'est-à-dire l'impatience",
+    "hu": "szűkkeblűség (a lélekben), azaz türelmetlenség",
+    "id": "kependekan (semangat), yaitu ketidaksabaran",
+    "it": "brevità (di spirito), ossia impazienza",
+    "ja": "たんき",
+    "ko": "(정신의) 부족함, 즉 조급함",
+    "lt": "(dvasios) silpnumas, t. y. nekantrumas",
+    "lv": "(gara trūkums), t. i., nepacietība",
+    "nb": "kort lunte, dvs. utålmodighet",
+    "nl": "kortademigheid, d.w.z. ongeduld",
+    "pl": "zwięzłość (ducha), tj. niecierpliwość",
+    "pt": "falta (de ânimo), ou seja, impaciência",
+    "ro": "scurtime (de spirit), adică nerăbdare",
+    "ru": "краткость (духа), т.е. нетерпение",
+    "sk": "skratkovitosť (ducha), t. j. netrpezlivosť",
+    "sl": "kratkost (duha), tj. nepotrpežljivost",
+    "sv": "korthet (i anden), dvs. otålighet",
+    "tr": "(ruh) darlığı, yani sabırsızlık",
+    "uk": "неміч (духу), тобто нетерплячість",
+    "zh": "急躁"
+  },
+  "verses": [
+    "exodus 6:9:10"
+  ]
+}

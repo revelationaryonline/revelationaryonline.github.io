@@ -1,0 +1,42 @@
+{
+  "number": "H6266",
+  "language": "hebrew",
+  "transliteration": "ʻâthîyq",
+  "pronunciation": "aw-theek'",
+  "definition": "properly, antique, i.e. venerable or splendid",
+  "kjvTranslation": "durable.",
+  "hebrew": "עָתִיק",
+  "translations": {
+    "bg": "правилно, античен, т.е. достолепен или великолепен",
+    "cs": "správně, starožitný, tj. ctihodný nebo nádherný",
+    "da": "korrekt, antik, dvs. ærværdig eller prægtig",
+    "de": "richtig, antik, d.h. ehrwürdig oder prächtig",
+    "el": "σωστά, αρχαία, δηλαδή σεβάσμια ή υπέροχα",
+    "es": "propiamente, antiguo, es decir, venerable o espléndido",
+    "et": "korralikult, antiikne, st auväärne või suurepärane",
+    "fi": "oikein, antiikkinen eli kunnianarvoinen tai loistava",
+    "fr": "proprement dit, antique, c'est-à-dire vénérable ou splendide",
+    "hu": "megfelelően, antik, azaz tiszteletre méltó vagy pompás",
+    "id": "benar, antik, yaitu terhormat atau indah",
+    "it": "propriamente, antico, cioè venerabile o splendido",
+    "ja": "正しくは、アンティーク、すなわち由緒ある、あるいは立派な",
+    "ko": "적절하게, 골동품, 즉 유서 깊은 또는 화려한",
+    "lt": "tinkamai, antikvarinis, t. y. garbingas arba puošnus",
+    "lv": "pareizi, antīks, t.i., cienījams vai krāšņs",
+    "nb": "egentlig antikk, dvs. ærverdig eller praktfull",
+    "nl": "goed, antiek, d.w.z. eerbiedwaardig of prachtig",
+    "pl": "właściwie, antyczny, tj. czcigodny lub wspaniały",
+    "pt": "propriamente dito, antigo, ou seja, venerável ou esplêndido",
+    "ro": "corect, antic, adică venerabil sau splendid",
+    "ru": "правильно, античный, т.е. почтенный или великолепный",
+    "sk": "správne, starožitný, t. j. úctyhodný alebo nádherný",
+    "sl": "pravilno, starinsko, tj. častitljivo ali veličastno",
+    "sv": "korrekt, antik, d.v.s. vördnadsvärd eller praktfull",
+    "tr": "uygun şekilde, antika, yani saygıdeğer veya görkemli",
+    "uk": "правильно, антикварний, тобто поважний або чудовий",
+    "zh": "古色古香"
+  },
+  "verses": [
+    "isaiah 23:18:18"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H114",
+  "language": "hebrew",
+  "transliteration": "ʼAddôwn",
+  "pronunciation": "ad-done'",
+  "definition": "Addon, apparently an Israelite",
+  "kjvTranslation": "Addon.",
+  "translations": {
+    "bg": "Addon, очевидно израилтянин",
+    "cs": "Addon, zřejmě Izraelita",
+    "da": "Addon, tilsyneladende en israelit",
+    "de": "Addon, offenbar ein Israelit",
+    "el": "Addon, προφανώς Ισραηλίτης",
+    "es": "Addon, aparentemente un israelita",
+    "et": "Addon, ilmselt iisraellane",
+    "fi": "Addon, ilmeisesti israelilainen",
+    "fr": "Addon, apparemment israélite",
+    "hu": "Addon, nyilvánvalóan egy izraelita",
+    "id": "Addon, rupanya seorang Israel",
+    "it": "Addon, apparentemente un israelita",
+    "ja": "アドン、イスラエル人らしい",
+    "ko": "애드온, 이스라엘인인 듯",
+    "lt": "Addon, matyt, izraelitas",
+    "lv": "Addon, acīmredzot izraēlietis",
+    "nb": "Addon, tilsynelatende en israelitt",
+    "nl": "Addon, blijkbaar een Israëliet",
+    "pl": "Addon, najwyraźniej Izraelczyk",
+    "pt": "Addon, aparentemente um israelita",
+    "ro": "Addon, aparent un israelit",
+    "ru": "Аддон, по-видимому, израильтянин",
+    "sk": "Addon, zrejme Izraelita",
+    "sl": "Addon, očitno Izraelec",
+    "sv": "Addon, uppenbarligen en israelit",
+    "tr": "Addon, görünüşe göre bir İsrailli",
+    "uk": "Аддон, очевидно, ізраїльтянин",
+    "zh": "阿顿，显然是以色列人"
+  },
+  "hebrew": "אַדּוֹן",
+  "verses": [
+    "nehemiah 7:61:7"
+  ]
+}

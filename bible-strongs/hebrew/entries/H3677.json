@@ -1,0 +1,43 @@
+{
+  "number": "H3677",
+  "language": "hebrew",
+  "transliteration": "keçeʼ",
+  "pronunciation": "keh'-seh",
+  "definition": "properly, fulness or the full moon, i.e. its festival",
+  "kjvTranslation": "(time) appointed.",
+  "translations": {
+    "bg": "правилно, пълнота или пълнолуние, т.е. неговия празник",
+    "cs": "správně plnost nebo úplněk, tj. jeho svátek",
+    "da": "korrekt, fylde eller fuldmåne, dvs. dens festival",
+    "de": "richtig: Vollmond oder Vollmond, d.h. sein Fest",
+    "el": "σωστά, η πληρότητα ή η πανσέληνος, δηλαδή η γιορτή της",
+    "es": "propiamente, plenitud o luna llena, es decir, su fiesta",
+    "et": "õigesti, täiskuu või täiskuu, st selle festival",
+    "fi": "oikeastaan täyteys tai täysikuu, eli sen juhla",
+    "fr": "proprement, la plénitude ou la pleine lune, c'est-à-dire sa fête",
+    "hu": "helyesen, telihold vagy telihold, azaz annak ünnepe",
+    "id": "dengan benar, kepenuhan atau bulan purnama, yaitu festivalnya",
+    "it": "propriamente, la pienezza o il plenilunio, cioè la sua festa",
+    "ja": "正しくは満月、つまり満月のお祭り",
+    "ko": "적절하게, 충만 또는 보름달, 즉 그 축제",
+    "lt": "tinkamai, pilnatis arba mėnulio pilnatis, t. y. jo šventė",
+    "lv": "pareizi, pilnība vai pilnmēness, t.i., tās festivāls",
+    "nb": "egentlig, fullmåne eller fullmåne, dvs. dens festival",
+    "nl": "juist, volheid of de volle maan, d.w.z. het feest ervan",
+    "pl": "właściwie pełnia lub pełnia księżyca, tj. jego święto",
+    "pt": "propriamente, a plenitude ou a lua cheia, ou seja, a sua festa",
+    "ro": "propriu-zis, plinătatea sau luna plină, adică sărbătoarea ei",
+    "ru": "правильно, полнота или полнолуние, т.е. его праздник",
+    "sk": "správne, plnosť alebo spln, t. j. jeho festival",
+    "sl": "pravilno, polnost ali polna luna, tj. njen praznik",
+    "sv": "fullmåne eller fullmåne, dvs. dess festival",
+    "tr": "uygun şekilde, dolunay veya dolunay, yani onun festivali",
+    "uk": "власне, повнота або повний місяць, тобто його свято",
+    "zh": "满月，即月圆之夜。"
+  },
+  "hebrew": "כֶּסֶא",
+  "verses": [
+    "psalms 81:4:3",
+    "proverbs 7:20:5"
+  ]
+}

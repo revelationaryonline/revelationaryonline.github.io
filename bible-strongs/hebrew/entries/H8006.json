@@ -1,0 +1,43 @@
+{
+  "number": "H8006",
+  "language": "hebrew",
+  "transliteration": "Shillêm",
+  "pronunciation": "shil-lame'",
+  "definition": "Shillem, an Israelite",
+  "kjvTranslation": "Shillem.",
+  "hebrew": "שִׁלֵּם",
+  "translations": {
+    "bg": "Шилем, израилтянин",
+    "cs": "Šillem, Izraelita",
+    "da": "Shillem, en israelit",
+    "de": "Schillem, ein Israelit",
+    "el": "Σιλλέμ, Ισραηλίτης",
+    "es": "Shillem, israelita",
+    "et": "Siilim, iisraellane",
+    "fi": "Shillem, israelilainen",
+    "fr": "Shillem, Israélite",
+    "hu": "Sillem, egy izraelita",
+    "id": "Shillem, seorang Israel",
+    "it": "Shillem, un israelita",
+    "ja": "イスラエル人シレム",
+    "ko": "이스라엘인 실렘",
+    "lt": "Šilemas, izraelitas",
+    "lv": "Šilems, izraēlietis",
+    "nb": "Sjillem, en israelitt",
+    "nl": "Shillem, een Israëliet",
+    "pl": "Szillem, Izraelita",
+    "pt": "Shillem, um israelita",
+    "ro": "Shillem, un israelit",
+    "ru": "Шиллем, израильтянин",
+    "sk": "Šillem, Izraelita",
+    "sl": "Šillem, Izraelec",
+    "sv": "Shillem, en israelit",
+    "tr": "Şillem, bir İsrailli",
+    "uk": "Шиллем, ізраїльтянин",
+    "zh": "以色列人希廉"
+  },
+  "verses": [
+    "genesis 46:24:5",
+    "numbers 26:49:3"
+  ]
+}

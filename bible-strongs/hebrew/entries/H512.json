@@ -1,0 +1,42 @@
+{
+  "number": "H512",
+  "language": "hebrew",
+  "transliteration": "ʼElqôshîy",
+  "pronunciation": "el-ko-shee'",
+  "definition": "an Elkoshite or native of Elkosh",
+  "kjvTranslation": "Elkoshite.",
+  "translations": {
+    "bg": "elkoshite или роден в Elkosh",
+    "cs": "elkošita nebo rodák z Elkoše",
+    "da": "en Elkoshit eller indfødt i Elkosh",
+    "de": "ein Elkoschite oder gebürtig aus Elkosch",
+    "el": "ένας Elkoshite ή γηγενής του Elkosh",
+    "es": "un Elkoshita o nativo de Elkosh",
+    "et": "elkoshite või Elkoshist pärit isik",
+    "fi": "elkoshilainen tai Elkoshista kotoisin oleva henkilö",
+    "fr": "elkoshite ou originaire d'Elkosh",
+    "hu": "elkoshita vagy Elkosh szülötte",
+    "id": "orang Elkosh atau penduduk asli Elkosh",
+    "it": "un Elkoshita o un nativo di Elkosh",
+    "ja": "エルコシュ人またはエルコシュ出身者",
+    "ko": "엘코시인 또는 엘코시 출신",
+    "lt": "elkošietis arba kilęs iš Elkošo",
+    "lv": "elkošietis vai Elkošas iedzīvotājs",
+    "nb": "en Elkoshitt eller innfødt av Elkosh",
+    "nl": "een Elkoshiet of inwoner van Elkosh",
+    "pl": "mieszkaniec Ełku lub pochodzący z Ełku",
+    "pt": "um elkoshita ou natural de Elkosh",
+    "ro": "un Elkoshite sau originar din Elkosh",
+    "ru": "элкошит или уроженец Элкоша",
+    "sk": "elkoščan alebo rodák z Elkoša",
+    "sl": "elkoshite ali domačin iz Elkosha",
+    "sv": "en Elkoshite eller född i Elkosh",
+    "tr": "bir Elkoshlu veya Elkosh'un yerlisi",
+    "uk": "елкошинець або уродженець Елкоша",
+    "zh": "埃尔科什人或土生土长的埃尔科什人"
+  },
+  "hebrew": "אֶלְקֹשִׁי",
+  "verses": [
+    "nahum 1:1:5"
+  ]
+}

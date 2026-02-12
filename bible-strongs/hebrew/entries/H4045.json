@@ -1,0 +1,42 @@
+{
+  "number": "H4045",
+  "language": "hebrew",
+  "transliteration": "migʻereth",
+  "pronunciation": "mig-eh'-reth",
+  "definition": "reproof (i.e. curse)",
+  "kjvTranslation": "rebuke.",
+  "hebrew": "מִגְעֶרֶת",
+  "translations": {
+    "bg": "изобличение (т.е. проклятие)",
+    "cs": "pokárání (tj. prokletí)",
+    "da": "irettesættelse (dvs. forbandelse)",
+    "de": "tadel (d.h. Fluch)",
+    "el": "επίπληξη (δηλαδή κατάρα)",
+    "es": "reprensión (es decir, maldición)",
+    "et": "noomitus (st. needus)",
+    "fi": "moitteet (ts. kirous)",
+    "fr": "la réprimande (c'est-à-dire la malédiction)",
+    "hu": "szemrehányás (azaz átok)",
+    "id": "teguran (yaitu kutukan)",
+    "it": "rimprovero (cioè maledizione)",
+    "ja": "咎め",
+    "ko": "책망(즉, 저주)",
+    "lt": "papeikimas (t. y. prakeikimas)",
+    "lv": "pārmetums (t.i., lāsts)",
+    "nb": "irettesettelse (dvs. forbannelse)",
+    "nl": "berispen (d.w.z. vervloeken)",
+    "pl": "upomnienie (tj. przekleństwo)",
+    "pt": "repreensão (ou seja, maldição)",
+    "ro": "mustrare (i.e. blestem)",
+    "ru": "обличение (т.е. проклятие)",
+    "sk": "pokarhanie (t. j. prekliatie)",
+    "sl": "graja (tj. prekletstvo)",
+    "sv": "tillrättavisning (d.v.s. förbannelse)",
+    "tr": "kınama (yani lanetleme)",
+    "uk": "докір (тобто прокляття)",
+    "zh": "斥责"
+  },
+  "verses": [
+    "deuteronomy 28:20:8"
+  ]
+}

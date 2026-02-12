@@ -1,0 +1,43 @@
+{
+  "number": "H4426",
+  "language": "hebrew",
+  "transliteration": "mᵉlîytsâh",
+  "pronunciation": "mel-ee-tsaw'",
+  "definition": "an aphorism; also a satire",
+  "kjvTranslation": "interpretation, taunting.",
+  "hebrew": "מְלִיצָה",
+  "translations": {
+    "bg": "афоризъм; също и сатира",
+    "cs": "aforismus; také satira",
+    "da": "en aforisme; også en satire",
+    "de": "ein Aphorismus; auch eine Satire",
+    "el": "ένας αφορισμός- επίσης μια σάτιρα",
+    "es": "un aforismo; también una sátira",
+    "et": "aforism; ka satiir",
+    "fi": "aforismi; myös satiiri",
+    "fr": "un aphorisme ; également une satire",
+    "hu": "aforizma; szatíra is",
+    "id": "pepatah; juga sebuah sindiran",
+    "it": "un aforisma; anche una satira",
+    "ja": "格言; 風刺でもある",
+    "ko": "격언; 또한 풍자",
+    "lt": "aforizmas; taip pat satyra",
+    "lv": "aforisms; arī satīra",
+    "nb": "en aforisme; også en satire",
+    "nl": "een aforisme; ook een satire",
+    "pl": "aforyzm; również satyra",
+    "pt": "um aforismo; também uma sátira",
+    "ro": "un aforism; de asemenea, o satiră",
+    "ru": "афоризм; также сатира",
+    "sk": "aforizmus; tiež satira",
+    "sl": "aforizem; tudi satira",
+    "sv": "en aforism; även en satir",
+    "tr": "bir aforizma; ayrıca bir hiciv",
+    "uk": "афоризм; також сатира",
+    "zh": "谚语；也是一种讽刺"
+  },
+  "verses": [
+    "proverbs 1:6:2",
+    "habakkuk 2:6:6"
+  ]
+}

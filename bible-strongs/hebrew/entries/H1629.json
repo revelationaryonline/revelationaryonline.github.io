@@ -1,0 +1,42 @@
+{
+  "number": "H1629",
+  "language": "hebrew",
+  "transliteration": "gâraz",
+  "pronunciation": "gaw-raz'",
+  "definition": "to cut off",
+  "kjvTranslation": "cut off.",
+  "translations": {
+    "bg": "да се отреже",
+    "cs": "odříznout",
+    "da": "at skære af",
+    "de": "abschneiden",
+    "el": "για να κόψω",
+    "es": "cortar",
+    "et": "ära lõigata",
+    "fi": "katkaista",
+    "fr": "couper",
+    "hu": "levágni",
+    "id": "untuk memotong",
+    "it": "tagliare",
+    "ja": "切り離す",
+    "ko": "잘라내려면",
+    "lt": "nukirpti",
+    "lv": "nogriezt",
+    "nb": "å kutte av",
+    "nl": "afsnijden",
+    "pl": "odciąć",
+    "pt": "cortar",
+    "ro": "să taie",
+    "ru": "отрезать",
+    "sk": "odrezať",
+    "sl": "odrezati",
+    "sv": "att skära av",
+    "tr": "kesmek için",
+    "uk": "щоб відрізати",
+    "zh": "割断"
+  },
+  "hebrew": "גָּרַז",
+  "verses": [
+    "psalms 31:23:3"
+  ]
+}

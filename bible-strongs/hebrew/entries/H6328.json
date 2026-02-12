@@ -1,0 +1,43 @@
+{
+  "number": "H6328",
+  "language": "hebrew",
+  "transliteration": "pûwq",
+  "pronunciation": "pook",
+  "definition": "to waver",
+  "kjvTranslation": "stumble, move.",
+  "hebrew": "פּוּק",
+  "translations": {
+    "bg": "да се колебае",
+    "cs": "kolísat",
+    "da": "at vakle",
+    "de": "zu schwanken",
+    "el": "να αμφιταλαντεύεται",
+    "es": "vacilar",
+    "et": "kõhklema",
+    "fi": "horjua",
+    "fr": "vaciller",
+    "hu": "ingadozni",
+    "id": "untuk goyah",
+    "it": "vacillare",
+    "ja": "ゆらぐ",
+    "ko": "흔들리다",
+    "lt": "svyruoti",
+    "lv": "svārstīties",
+    "nb": "å vakle",
+    "nl": "aarzelen",
+    "pl": "chwiać się",
+    "pt": "vacilar",
+    "ro": "să oscileze",
+    "ru": "колебаться",
+    "sk": "kolísať",
+    "sl": "nihati",
+    "sv": "att vackla",
+    "tr": "dalgalanmak",
+    "uk": "коливатися",
+    "zh": "踟蹰"
+  },
+  "verses": [
+    "isaiah 28:7:18",
+    "jeremiah 10:4:7"
+  ]
+}

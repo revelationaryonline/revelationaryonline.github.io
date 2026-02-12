@@ -1,0 +1,43 @@
+{
+  "number": "H735",
+  "language": "hebrew",
+  "transliteration": "ʼôrach",
+  "pronunciation": "o'-rakh",
+  "definition": "a road",
+  "kjvTranslation": "way.",
+  "translations": {
+    "bg": "път",
+    "cs": "silnice",
+    "da": "en vej",
+    "de": "eine Straße",
+    "el": "ένας δρόμος",
+    "es": "un camino",
+    "et": "tee",
+    "fi": "tie",
+    "fr": "une route",
+    "hu": "egy út",
+    "id": "jalan",
+    "it": "una strada",
+    "ja": "道路",
+    "ko": "도로",
+    "lt": "kelias",
+    "lv": "ceļš",
+    "nb": "en vei",
+    "nl": "een weg",
+    "pl": "droga",
+    "pt": "uma estrada",
+    "ro": "un drum",
+    "ru": "дорога",
+    "sk": "cesta",
+    "sl": "cesta",
+    "sv": "en väg",
+    "tr": "bir yol",
+    "uk": "дорога",
+    "zh": "公路"
+  },
+  "hebrew": "אֹרַח",
+  "verses": [
+    "daniel 4:34:12",
+    "daniel 5:23:39"
+  ]
+}

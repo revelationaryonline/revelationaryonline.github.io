@@ -1,0 +1,42 @@
+{
+  "number": "H5474",
+  "language": "hebrew",
+  "transliteration": "çûwgar",
+  "pronunciation": "soo-gar'",
+  "definition": "an inclosure, i.e. cage (for an animal)",
+  "kjvTranslation": "ward.",
+  "hebrew": "סוּגַר",
+  "translations": {
+    "bg": "заграждение, т.е. клетка (за животно)",
+    "cs": "ohrada, tj. klec (pro zvíře)",
+    "da": "en indhegning, dvs. et bur (til et dyr)",
+    "de": "ein Gehege, d. h. ein Käfig (für ein Tier)",
+    "el": "ένα κλουβί (για ένα ζώο)",
+    "es": "un recinto, es decir, una jaula (para un animal)",
+    "et": "tara, st puur (looma jaoks)",
+    "fi": "häkki, eli häkki (eläimelle)",
+    "fr": "un enclos, c'est-à-dire une cage (pour un animal)",
+    "hu": "ketrec, azaz ketrec (egy állat számára)",
+    "id": "kandang, yaitu kandang (untuk hewan)",
+    "it": "un recinto, cioè una gabbia (per un animale)",
+    "ja": "檻",
+    "ko": "인클로저, 즉 케이지(동물용)",
+    "lt": "aptvaras, t. y. narvas (gyvūnui)",
+    "lv": "iežogojums, t. i., būris (dzīvniekam)",
+    "nb": "en innhegning, dvs. et bur (for et dyr)",
+    "nl": "een omheining, d.w.z. kooi (voor een dier)",
+    "pl": "zamknięcie, tj. klatka (dla zwierzęcia)",
+    "pt": "um recinto fechado, ou seja, uma gaiola (para um animal)",
+    "ro": "o incintă, adică o cușcă (pentru un animal)",
+    "ru": "вольер, т.е. клетка (для животного)",
+    "sk": "ohrada, t. j. klietka (pre zviera)",
+    "sl": "ograda, tj. kletka (za žival)",
+    "sv": "en inhägnad, dvs. en bur (för ett djur)",
+    "tr": "bir muhafaza, yani kafes (bir hayvan için)",
+    "uk": "вольєр, тобто клітка (для тварини)",
+    "zh": "笼槛"
+  },
+  "verses": [
+    "ezekiel 19:9:1"
+  ]
+}

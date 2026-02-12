@@ -1,0 +1,42 @@
+{
+  "number": "H726",
+  "language": "hebrew",
+  "transliteration": "ʼĂrôwmîy",
+  "pronunciation": "ar-o-mee'",
+  "definition": "an Edomite (as in the margin)",
+  "kjvTranslation": "Syrian.",
+  "translations": {
+    "bg": "едомски (както е в полето)",
+    "cs": "edómský (jako na okraji)",
+    "da": "en edomit (som i marginen)",
+    "de": "ein Edomiter (wie am Rande erwähnt)",
+    "el": "ένας Εδομίτης (όπως στο περιθώριο)",
+    "es": "un edomita (como en el margen)",
+    "et": "edomit (nagu marginaal)",
+    "fi": "edomilainen (kuten marginaalissa)",
+    "fr": "un Edomite (comme dans la marge)",
+    "hu": "egy edomita (mint a margón)",
+    "id": "seorang Edom (seperti yang ada di margin)",
+    "it": "un Edomita (come nel margine)",
+    "ja": "江戸人",
+    "ko": "에돔인(여백에서와 같이)",
+    "lt": "edomitas (kaip ir paraštėje)",
+    "lv": "edomītis (kā rakstīts malā)",
+    "nb": "en edomitt (som i margen)",
+    "nl": "een Edomiet (zoals in de kantlijn)",
+    "pl": "edomita (jak na marginesie)",
+    "pt": "um edomita (como na margem)",
+    "ro": "un edomit (ca în margine)",
+    "ru": "эдомитянин (как на полях)",
+    "sk": "edomita (ako na okraji)",
+    "sl": "edomec (kot na robu)",
+    "sv": "en Edomit (som i marginalen)",
+    "tr": "bir Edomlu (marjda olduğu gibi)",
+    "uk": "едоміт (як на маргінесі)",
+    "zh": "以东人"
+  },
+  "hebrew": "אֲרוֹמִי",
+  "verses": [
+    "secondKings 16:6:13"
+  ]
+}

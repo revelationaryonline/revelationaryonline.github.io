@@ -1,0 +1,42 @@
+{
+  "number": "H4952",
+  "language": "hebrew",
+  "transliteration": "mishrâh",
+  "pronunciation": "mish-raw'",
+  "definition": "maceration, i.e. steeped juice",
+  "kjvTranslation": "liquor.",
+  "hebrew": "מִשְׁרָה",
+  "translations": {
+    "bg": "мацерация, т.е. накиснат сок",
+    "cs": "macerace, tj. namáčení šťávy",
+    "da": "udblødning, dvs. udblødt juice",
+    "de": "mazeration, d.h. eingeweichter Saft",
+    "el": "εκχύλιση, δηλ. χυμός που έχει υποστεί εμβάπτιση",
+    "es": "maceración, es decir, zumo remojado",
+    "et": "matseratsioon, st leotatud mahl",
+    "fi": "maseeraus, eli liotettu mehu",
+    "fr": "la macération, c'est-à-dire le jus infusé",
+    "hu": "maceráció, azaz áztatott lé",
+    "id": "maserasi, yaitu jus yang direndam",
+    "it": "macerazione, cioè succo macerato",
+    "ja": "マセラシオン、すなわちスティープジュース",
+    "ko": "침지, 즉 불린 주스",
+    "lt": "maceracija, t. y. mirkytos sultys",
+    "lv": "macerācija, t. i., mērcēta sula",
+    "nb": "maserasjon, dvs. utblødning av saften",
+    "nl": "maceratie, d.w.z. geweekt sap",
+    "pl": "maceracja, tj. namoczony sok",
+    "pt": "maceração, ou seja, sumo em infusão",
+    "ro": "macerare, adică suc infuzat",
+    "ru": "мацерация, т.е. выдержка сока",
+    "sk": "macerácia, t. j. namáčanie šťavy",
+    "sl": "maceracija, tj. namočen sok",
+    "sv": "maceration, d.v.s. inkokt juice",
+    "tr": "maserasyon, yani demlenmiş meyve suyu",
+    "uk": "мацерація, тобто витриманий сік",
+    "zh": "浸渍，即浸泡果汁"
+  },
+  "verses": [
+    "numbers 6:3:10"
+  ]
+}

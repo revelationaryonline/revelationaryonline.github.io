@@ -1,0 +1,42 @@
+{
+  "number": "H743",
+  "language": "hebrew",
+  "transliteration": "ʼĂrîydâthâʼ",
+  "pronunciation": "ar-ee-daw-thaw'",
+  "definition": "Aridatha, a son of Haman",
+  "kjvTranslation": "Aridatha.",
+  "translations": {
+    "bg": "Аридата, син на Аман",
+    "cs": "Aridatha, syn Hamanův",
+    "da": "Aridatha, en søn af Haman",
+    "de": "Aridatha, ein Sohn von Haman",
+    "el": "Αριδάθα, γιος του Αμάν",
+    "es": "Aridatha, hijo de Amán",
+    "et": "Aridatha, Haamani poeg",
+    "fi": "Aridatha, Haamanin poika",
+    "fr": "Aridatha, fils de Haman",
+    "hu": "Aridatha, Hámán fia",
+    "id": "Aridata, anak Haman",
+    "it": "Aridatha, figlio di Haman",
+    "ja": "ハマンの息子アリダタ",
+    "ko": "하만의 아들 아리다다",
+    "lt": "Aridatas, Hamano sūnus",
+    "lv": "Aridata, Hamana dēls",
+    "nb": "Aridatha, en sønn av Haman",
+    "nl": "Aridatha, een zoon van Haman",
+    "pl": "Aridatha, syn Hamana",
+    "pt": "Aridata, um filho de Hamã",
+    "ro": "Aridatha, un fiu al lui Haman",
+    "ru": "Аридат, сын Хамана",
+    "sk": "Aridatha, Hamanov syn",
+    "sl": "Aridata, Hamanov sin",
+    "sv": "Aridatha, en son till Haman",
+    "tr": "Aridatha, Haman'ın oğlu",
+    "uk": "Арідата, син Амана",
+    "zh": "哈曼的儿子亚里达塔"
+  },
+  "hebrew": "אֲרִידָתָא",
+  "verses": [
+    "esther 9:8:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4699",
+  "language": "hebrew",
+  "transliteration": "mᵉtsullâh",
+  "pronunciation": "mets-ool-law'",
+  "definition": "shade",
+  "kjvTranslation": "bottom.",
+  "hebrew": "מְצֻלָּה",
+  "translations": {
+    "bg": "сянка",
+    "cs": "stín",
+    "da": "skygge",
+    "de": "farbton",
+    "el": "σκιά",
+    "es": "sombra",
+    "et": "varjund",
+    "fi": "sävy",
+    "fr": "ombre",
+    "hu": "árnyék",
+    "id": "naungan",
+    "it": "ombra",
+    "ja": "シェード",
+    "ko": "그늘",
+    "lt": "atspalvis",
+    "lv": "ēna",
+    "nb": "skygge",
+    "nl": "schaduw",
+    "pl": "odcień",
+    "pt": "sombra",
+    "ro": "nuanță",
+    "ru": "оттенок",
+    "sk": "odtieň",
+    "sl": "odtenek",
+    "sv": "skugga",
+    "tr": "gölge",
+    "uk": "відтінок",
+    "zh": "阴影"
+  },
+  "verses": [
+    "zechariah 1:8:13"
+  ]
+}

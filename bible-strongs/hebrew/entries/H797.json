@@ -1,0 +1,42 @@
+{
+  "number": "H797",
+  "language": "hebrew",
+  "transliteration": "ʼAshdôwdîyth",
+  "pronunciation": "ash-do-deeth'",
+  "definition": "(only adverb) in the language of Ashdod",
+  "kjvTranslation": "in the speech of Ashdod.",
+  "translations": {
+    "bg": "(само наречие) на езика на Ашдод",
+    "cs": "(pouze příslovce) v jazyce Ašdodu",
+    "da": "(kun adverbium) på sproget i Ashdod",
+    "de": "(nur Adverb) in der Sprache von Ashdod",
+    "el": "(μόνο επίρρημα) στη γλώσσα του Ashdod",
+    "es": "(sólo adverbio) en la lengua de Ashdod",
+    "et": "(ainult liitsõna) Ashdodi keeles",
+    "fi": "(vain adverbi) Ashdodin kielellä",
+    "fr": "(uniquement adverbe) dans la langue d'Ashdod",
+    "hu": "(csak határozószó) Asdod nyelvén",
+    "id": "(hanya kata keterangan) dalam bahasa Asdod",
+    "it": "(solo avverbio) nella lingua di Ashdod",
+    "ja": "(副詞のみ）アシュドド語で",
+    "ko": "(부사만) 아슈도드어에서",
+    "lt": "(tik prieveiksmis) Ašdodo kalba",
+    "lv": "(tikai apstākļa vārds) Ašdodas valodā",
+    "nb": "(bare adverb) på språket i Ashdod",
+    "nl": "(alleen bijwoord) in de taal van Ashdod",
+    "pl": "(tylko przysłówek) w języku Aszdod",
+    "pt": "(só advérbio) na língua de Ashdod",
+    "ro": "(numai adverb) în limba din Ashdod",
+    "ru": "(только наречие) на языке Ашдода",
+    "sk": "(iba príslovka) v jazyku Ašdódu",
+    "sl": "(samo prislov) v jeziku Ašdoda",
+    "sv": "(endast adverb) på språket i Ashdod",
+    "tr": "aşdod dilinde (sadece zarf)",
+    "uk": "(тільки прислівник) мовою Ашдоду",
+    "zh": "(阿什杜德语"
+  },
+  "hebrew": "אַשְׁדּוֹדִית",
+  "verses": [
+    "nehemiah 13:24:3"
+  ]
+}

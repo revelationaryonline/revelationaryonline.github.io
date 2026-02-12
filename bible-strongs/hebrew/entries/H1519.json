@@ -1,0 +1,42 @@
+{
+  "number": "H1519",
+  "language": "hebrew",
+  "transliteration": "gîyach",
+  "pronunciation": "ghee'-akh",
+  "definition": "to rush forth",
+  "kjvTranslation": "strive.",
+  "translations": {
+    "bg": "да се втурне напред",
+    "cs": "spěchat vpřed",
+    "da": "at skynde sig frem",
+    "de": "hinauszueilen",
+    "el": "να βιαστούμε",
+    "es": "para salir corriendo",
+    "et": "et tormata edasi",
+    "fi": "ryntäämään eteenpäin",
+    "fr": "se précipiter",
+    "hu": "hogy előrerohanjon",
+    "id": "untuk bergegas maju",
+    "it": "per precipitarsi",
+    "ja": "殺到する",
+    "ko": "서두르다",
+    "lt": "skubėti į priekį",
+    "lv": "steigties uz priekšu",
+    "nb": "å styrte frem",
+    "nl": "om voort te snellen",
+    "pl": "pędzić naprzód",
+    "pt": "para se precipitar",
+    "ro": "să se repeadă",
+    "ru": "мчаться вперёд",
+    "sk": "ponáhľať sa",
+    "sl": "da se poženejo naprej",
+    "sv": "att rusa fram",
+    "tr": "ileri atılmak için",
+    "uk": "поспішати вперед",
+    "zh": "驰骋"
+  },
+  "hebrew": "גִּיחַ",
+  "verses": [
+    "daniel 7:2:12"
+  ]
+}

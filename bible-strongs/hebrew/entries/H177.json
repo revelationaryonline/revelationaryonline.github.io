@@ -1,0 +1,42 @@
+{
+  "number": "H177",
+  "language": "hebrew",
+  "transliteration": "ʼÛwʼêl",
+  "pronunciation": "oo-ale'",
+  "definition": "Uel, and Israelite",
+  "kjvTranslation": "Uel.",
+  "translations": {
+    "bg": "Уел и израилтянин",
+    "cs": "Uel a Izraelita",
+    "da": "Uel, og israelit",
+    "de": "Uel, und Israelit",
+    "el": "Uel, και Ισραηλίτες",
+    "es": "Uel, e israelita",
+    "et": "Uel ja iisraellane",
+    "fi": "Uel ja israelilaiset",
+    "fr": "Uel, et israélite",
+    "hu": "Uel, és izraelita",
+    "id": "Uel, dan orang Israel",
+    "it": "Uel, e israelita",
+    "ja": "ウエル、イスラエル人",
+    "ko": "우엘, 이스라엘인",
+    "lt": "Uel ir izraelitas",
+    "lv": "Uel un izraēlieši",
+    "nb": "Uel, og israelitt",
+    "nl": "Uel en Israëliet",
+    "pl": "Uel i Izraelita",
+    "pt": "Uel, e israelita",
+    "ro": "Uel, și israelit",
+    "ru": "Уэль, и израильтянин",
+    "sk": "Uel a Izraelita",
+    "sl": "Uel in Izraelci",
+    "sv": "Uel, och israelitiska",
+    "tr": "Uel, ve İsrailli",
+    "uk": "Уель, і ізраїльтянин",
+    "zh": "乌尔和以色列人"
+  },
+  "hebrew": "אוּאֵל",
+  "verses": [
+    "ezra 10:34:4"
+  ]
+}

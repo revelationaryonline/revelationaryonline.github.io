@@ -1,0 +1,42 @@
+{
+  "number": "H4485",
+  "language": "hebrew",
+  "transliteration": "mangîynâh",
+  "pronunciation": "man-ghee-naw'",
+  "definition": "a satire",
+  "kjvTranslation": "music.",
+  "hebrew": "מַנְגִּינָה",
+  "verses": [
+    "lamentations 3:63:4"
+  ],
+  "translations": {
+    "bg": "сатира",
+    "cs": "satira",
+    "da": "en satire",
+    "de": "eine Satire",
+    "el": "μια σάτιρα",
+    "es": "una sátira",
+    "et": "satiir",
+    "fi": "satiiri",
+    "fr": "une satire",
+    "hu": "szatíra",
+    "id": "sebuah sindiran",
+    "it": "una satira",
+    "ja": "風刺",
+    "ko": "풍자",
+    "lt": "satyra",
+    "lv": "satīra",
+    "nb": "en satire",
+    "nl": "een satire",
+    "pl": "satyra",
+    "pt": "uma sátira",
+    "ro": "o satiră",
+    "ru": "сатира",
+    "sk": "satira",
+    "sl": "satira",
+    "sv": "en satir",
+    "tr": "bir hiciv",
+    "uk": "сатира",
+    "zh": "讽刺"
+  }
+}

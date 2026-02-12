@@ -1,0 +1,42 @@
+{
+  "number": "H2718",
+  "language": "hebrew",
+  "transliteration": "chărab",
+  "pronunciation": "khar-ab'",
+  "definition": "to demolish",
+  "kjvTranslation": "destroy.",
+  "translations": {
+    "bg": "да разрушава",
+    "cs": "demolovat",
+    "da": "at rive ned",
+    "de": "zum Abriss",
+    "el": "να κατεδαφίσει",
+    "es": "demoler",
+    "et": "lammutada",
+    "fi": "purkaa",
+    "fr": "démolir",
+    "hu": "lebontani",
+    "id": "untuk menghancurkan",
+    "it": "demolire",
+    "ja": "取り壊す",
+    "ko": "철거",
+    "lt": "griauti",
+    "lv": "nojaukt",
+    "nb": "å rive",
+    "nl": "slopen",
+    "pl": "wyburzyć",
+    "pt": "demolir",
+    "ro": "să demoleze",
+    "ru": "разрушать",
+    "sk": "demolovať",
+    "sl": "rušiti",
+    "sv": "att riva",
+    "tr": "yıkmak için",
+    "uk": "знести",
+    "zh": "拆除"
+  },
+  "hebrew": "חֲרַב",
+  "verses": [
+    "ezra 4:15:28"
+  ]
+}

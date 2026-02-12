@@ -1,0 +1,42 @@
+{
+  "number": "H7365",
+  "language": "hebrew",
+  "transliteration": "rᵉchats",
+  "pronunciation": "rekh-ats'",
+  "definition": "to attend upon",
+  "kjvTranslation": "trust.",
+  "hebrew": "רְחַץ",
+  "translations": {
+    "bg": "да присъства на",
+    "cs": "se zúčastnit",
+    "da": "at tage sig af",
+    "de": "zu beachten",
+    "el": "για να παρακολουθήσετε",
+    "es": "para atender",
+    "et": "osaleda",
+    "fi": "huolehtia",
+    "fr": "s'occuper de",
+    "hu": "hogy részt vegyen",
+    "id": "untuk hadir pada saat",
+    "it": "per assistere",
+    "ja": "付き添う",
+    "ko": "참석할 수 있습니다",
+    "lt": "dalyvauti",
+    "lv": "apmeklēt pēc",
+    "nb": "å ta seg av",
+    "nl": "om bij te wonen",
+    "pl": "uczestniczyć",
+    "pt": "para atender",
+    "ro": "să se ocupe de",
+    "ru": "присутствовать",
+    "sk": "zúčastniť sa na",
+    "sl": "da se udeležite",
+    "sv": "att ta hand om",
+    "tr": "katılmak için",
+    "uk": "щоб прийти на допомогу",
+    "zh": "侍奉"
+  },
+  "verses": [
+    "daniel 3:28:16"
+  ]
+}

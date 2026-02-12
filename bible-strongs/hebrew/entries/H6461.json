@@ -1,0 +1,42 @@
+{
+  "number": "H6461",
+  "language": "hebrew",
+  "transliteration": "pâçaç",
+  "pronunciation": "paw-sas'",
+  "definition": "probably to disperse, i.e. (intransitive) disappear",
+  "kjvTranslation": "cease.",
+  "hebrew": "פָּסַס",
+  "translations": {
+    "bg": "вероятно да се разпръсне, т.е. (непреходно) да изчезне",
+    "cs": "pravděpodobně rozptýlit, tj. (intranzitivní) zmizet",
+    "da": "sandsynligvis at sprede sig, dvs. (intransitiv) forsvinde",
+    "de": "sich wahrscheinlich auflösen, d.h. (intransitiv) verschwinden",
+    "el": "πιθανόν να διασκορπιστεί, δηλαδή (ενδογενής) να εξαφανιστεί",
+    "es": "probablemente dispersar, es decir (intransitivo) desaparecer",
+    "et": "tõenäoliselt hajuda, st (intransitiivne) kaduma",
+    "fi": "luultavasti hajaantua eli (intransitiivinen) kadota",
+    "fr": "probablement se disperser, c'est-à-dire (intransitif) disparaître",
+    "hu": "valószínűleg szétszóródni, azaz (intranzitív) eltűnni",
+    "id": "mungkin untuk membubarkan, yaitu (intransitif) menghilang",
+    "it": "probabilmente disperdersi, cioè (intransitivo) scomparire",
+    "ja": "おそらく分散する、すなわち（自働）消滅する",
+    "ko": "아마도 흩어지다, 즉 (자동사) 사라지다",
+    "lt": "tikriausiai išsisklaidyti, t. y. (netranzityvinis) išnykti",
+    "lv": "iespējams, izkliedēties, t.i., (netranzitīvs) pazust",
+    "nb": "sannsynligvis å spre seg, dvs. (intransitiv) forsvinne",
+    "nl": "waarschijnlijk verspreiden, d.w.z. (onovergankelijk) verdwijnen",
+    "pl": "prawdopodobnie rozproszyć się, tj. (nieprzechodnie) zniknąć",
+    "pt": "provavelmente dispersar, ou seja, (intransitivo) desaparecer",
+    "ro": "probabil să se disperseze, adică (intransitiv) să dispară",
+    "ru": "вероятно, рассеиваться, т.е. (непереходный) исчезать",
+    "sk": "pravdepodobne rozptýliť, t. j. (intranzitívny) zmiznúť",
+    "sl": "verjetno razpršiti, tj. (intranzitivno) izginiti",
+    "sv": "troligen att skingras, dvs. (intransitiv) försvinna",
+    "tr": "muhtemelen dağılmak, yani (geçişsiz) kaybolmak",
+    "uk": "ймовірно, розійтися, тобто (неперехідний) зникнути",
+    "zh": "可能消散，即（不及物动词）消失"
+  },
+  "verses": [
+    "psalms 12:2:6"
+  ]
+}

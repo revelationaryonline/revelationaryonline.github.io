@@ -1,0 +1,43 @@
+{
+  "number": "H3349",
+  "language": "hebrew",
+  "transliteration": "yiqqâhâh",
+  "pronunciation": "yik-kaw-haw'",
+  "definition": "obedience",
+  "kjvTranslation": "gathering, to obey.",
+  "translations": {
+    "bg": "послушание",
+    "cs": "poslušnost",
+    "da": "lydighed",
+    "de": "gehorsam",
+    "el": "υπακοή",
+    "es": "obediencia",
+    "et": "kuulekus",
+    "fi": "kuuliaisuus",
+    "fr": "obéissance",
+    "hu": "engedelmesség",
+    "id": "ketaatan",
+    "it": "obbedienza",
+    "ja": "服従",
+    "ko": "순종",
+    "lt": "paklusnumas",
+    "lv": "paklausība",
+    "nb": "lydighet",
+    "nl": "gehoorzaamheid",
+    "pl": "posłuszeństwo",
+    "pt": "obediência",
+    "ro": "supunere",
+    "ru": "послушание",
+    "sk": "poslušnosť",
+    "sl": "poslušnost",
+    "sv": "lydnad",
+    "tr": "i̇TAAT",
+    "uk": "покірність",
+    "zh": "服从"
+  },
+  "hebrew": "יִקָּהָה",
+  "verses": [
+    "genesis 49:10:13",
+    "proverbs 30:17:4"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4949",
+  "language": "hebrew",
+  "transliteration": "mishqeleth",
+  "pronunciation": "mish-keh'-leth",
+  "definition": "a weight, i.e. a plummet (with line attached)",
+  "kjvTranslation": "plummet.",
+  "hebrew": "מִשְׁקֶלֶת",
+  "translations": {
+    "bg": "тежест, т.е. отвес (с прикрепено въже)",
+    "cs": "závaží, tj. olovnice (s připevněným lankem)",
+    "da": "en vægt, dvs. et lod (med line)",
+    "de": "ein Gewicht, d.h. ein Lot (mit befestigter Leine)",
+    "el": "ένα βάρος, δηλ. ένα βαρίδι (με σχοινί συνδεδεμένο)",
+    "es": "un peso, es decir, una plomada (con cabo atado)",
+    "et": "raskus, s.t. langevarras (koos kinnitatud nööriga)",
+    "fi": "paino, eli syöksyputki (johon on kiinnitetty siima)",
+    "fr": "un poids, c'est-à-dire un plomb (avec une ligne attachée)",
+    "hu": "egy súly, azaz egy ejtőernyő (zsinórral)",
+    "id": "sebuah pemberat, yaitu sebuah timbangan (dengan garis yang terpasang)",
+    "it": "un peso, cioè un piombino (con una cima attaccata)",
+    "ja": "おもし",
+    "ko": "무게, 즉 급강하(선이 연결된 상태)",
+    "lt": "svoris, t. y. skraidyklė (su pritvirtintu lynu)",
+    "lv": "atsvars, t. i., svārsts (ar piestiprinātu auklu)",
+    "nb": "en vekt, dvs. et lodd (med line festet)",
+    "nl": "een gewicht, d.w.z. een loodje (met lijn eraan vast)",
+    "pl": "obciążnik, tj. pion (z przymocowaną linką)",
+    "pt": "um peso, ou seja, um prumo (com linha ligada)",
+    "ro": "o greutate, adică o plomadă (cu un cablu atașat)",
+    "ru": "груз, т.е. отвес (с прикрепленной леской)",
+    "sk": "závažie, t. j. olovnica (s pripevnenou šnúrou)",
+    "sl": "utež, tj. padalo (s pritrjeno vrvjo)",
+    "sv": "en vikt, t.ex. ett lod (med lina)",
+    "tr": "bir ağırlık, yani bir zoka (halat takılı)",
+    "uk": "вага, тобто схил (з прикріпленою мотузкою)",
+    "zh": "秤砣"
+  },
+  "verses": [
+    "secondKings 21:13:7",
+    "isaiah 28:17:4"
+  ]
+}

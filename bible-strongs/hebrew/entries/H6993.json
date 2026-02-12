@@ -1,0 +1,42 @@
+{
+  "number": "H6993",
+  "language": "hebrew",
+  "transliteration": "qeṭel",
+  "pronunciation": "keh'-tel",
+  "definition": "a violent death",
+  "kjvTranslation": "slaughter.",
+  "hebrew": "קֶטֶל",
+  "translations": {
+    "bg": "насилствена смърт",
+    "cs": "násilná smrt",
+    "da": "en voldsom død",
+    "de": "ein gewaltsamer Tod",
+    "el": "βίαιος θάνατος",
+    "es": "una muerte violenta",
+    "et": "vägivaldne surm",
+    "fi": "väkivaltainen kuolema",
+    "fr": "une mort violente",
+    "hu": "erőszakos halál",
+    "id": "kematian yang disebabkan oleh kekerasan",
+    "it": "una morte violenta",
+    "ja": "惨死",
+    "ko": "폭력적인 죽음",
+    "lt": "smurtinė mirtis",
+    "lv": "vardarbīga nāve",
+    "nb": "en voldsom død",
+    "nl": "een gewelddadige dood",
+    "pl": "gwałtowna śmierć",
+    "pt": "uma morte violenta",
+    "ro": "o moarte violentă",
+    "ru": "насильственная смерть",
+    "sk": "násilná smrť",
+    "sl": "nasilna smrt",
+    "sv": "en våldsam död",
+    "tr": "şiddetli bir ölüm",
+    "uk": "насильницька смерть",
+    "zh": "毙命"
+  },
+  "verses": [
+    "obadiah 1:9:8"
+  ]
+}

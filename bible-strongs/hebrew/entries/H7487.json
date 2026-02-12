@@ -1,0 +1,42 @@
+{
+  "number": "H7487",
+  "language": "hebrew",
+  "transliteration": "raʻănan",
+  "pronunciation": "rah-aw-nan'",
+  "definition": "green, i.e. (figuratively) prosperous",
+  "kjvTranslation": "flourishing.",
+  "hebrew": "רַעֲנַן",
+  "translations": {
+    "bg": "зелен, т.е. (в преносен смисъл) проспериращ",
+    "cs": "zelený, tj. (obrazně) prosperující",
+    "da": "grøn, dvs. (i overført betydning) velstående",
+    "de": "grün, d.h. (im übertragenen Sinne) wohlhabend",
+    "el": "πράσινο, δηλαδή (μεταφορικά) ευημερούν",
+    "es": "verde, es decir (en sentido figurado) próspero",
+    "et": "roheline, st (piltlikult öeldes) jõukas",
+    "fi": "vihreä, eli (kuvaannollisesti) vauras",
+    "fr": "vert, c'est-à-dire (au sens figuré) prospère",
+    "hu": "zöld, azaz (átvitt értelemben) virágzó",
+    "id": "hijau, yaitu (secara kiasan) makmur",
+    "it": "verde, cioè (in senso figurato) prospera",
+    "ja": "緑豊か",
+    "ko": "녹색, 즉 (비 유적으로) 번영하는",
+    "lt": "žalias, t. y. (perkeltine prasme) klestintis",
+    "lv": "zaļš, t.i. (pārnestā nozīmē) pārtikušs",
+    "nb": "grønn, dvs. (i overført betydning) velstående",
+    "nl": "groen, d.w.z. (figuurlijk) welvarend",
+    "pl": "zielony, tj. (w przenośni) dobrze prosperujący",
+    "pt": "verde, ou seja, (figurativamente) próspero",
+    "ro": "verde, adică (la figurat) prosperă",
+    "ru": "зеленый, т.е. (образно) процветающий",
+    "sk": "zelený, t. j. (obrazne) prosperujúci",
+    "sl": "zeleni, tj. (v prenesenem pomenu) uspešni",
+    "sv": "grön, d.v.s. (bildligt talat) välmående",
+    "tr": "yeşil, yani (mecazi olarak) müreffeh",
+    "uk": "зелений, тобто (образно) процвітаючий",
+    "zh": "绿，即（比喻）繁荣"
+  },
+  "verses": [
+    "daniel 4:1:5"
+  ]
+}

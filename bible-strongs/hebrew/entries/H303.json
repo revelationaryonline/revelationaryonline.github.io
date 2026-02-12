@@ -1,0 +1,42 @@
+{
+  "number": "H303",
+  "language": "hebrew",
+  "transliteration": "ʼAchlâb",
+  "pronunciation": "akh-lawb'",
+  "definition": "Achlab, a place in Palestine",
+  "kjvTranslation": "Ahlab.",
+  "translations": {
+    "bg": "Achlab, място в Палестина",
+    "cs": "Achlab, místo v Palestině",
+    "da": "Achlab, et sted i Palæstina",
+    "de": "Achlab, ein Ort in Palästina",
+    "el": "Achlab, τόπος στην Παλαιστίνη",
+    "es": "Achlab, un lugar en Palestina",
+    "et": "Achlab, koht Palestiinas",
+    "fi": "Achlab, paikka Palestiinassa",
+    "fr": "Achlab, localité de Palestine",
+    "hu": "Achlab, egy hely Palesztinában",
+    "id": "Achlab, sebuah tempat di Palestina",
+    "it": "Achlab, località della Palestina",
+    "ja": "パレスチナの地名Achlab",
+    "ko": "팔레스타인의 한 장소, 아클랩",
+    "lt": "Achlab, vietovė Palestinoje",
+    "lv": "Achlab, vieta Palestīnā",
+    "nb": "Achlab, et sted i Palestina",
+    "nl": "Achlab, een plaats in Palestina",
+    "pl": "Achlab, miejscowość w Palestynie",
+    "pt": "Achlab, um lugar na Palestina",
+    "ro": "Achlab, un loc în Palestina",
+    "ru": "Ахлаб, местечко в Палестине",
+    "sk": "Achlab, miesto v Palestíne",
+    "sl": "Achlab, kraj v Palestini",
+    "sv": "Achlab, en plats i Palestina",
+    "tr": "Achlab, Filistin'de bir yer",
+    "uk": "Ахлаб, місце в Палестині",
+    "zh": "阿奇拉卜"
+  },
+  "hebrew": "אַחְלָב",
+  "verses": [
+    "judges 1:31:10"
+  ]
+}

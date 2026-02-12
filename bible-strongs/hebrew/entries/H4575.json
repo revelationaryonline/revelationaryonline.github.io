@@ -1,0 +1,42 @@
+{
+  "number": "H4575",
+  "language": "hebrew",
+  "transliteration": "maʻădannâh",
+  "pronunciation": "mah-ad-an-naw'",
+  "definition": "a bond, i.e. group",
+  "kjvTranslation": "influence.",
+  "hebrew": "מַעֲדַנָּה",
+  "verses": [
+    "job 38:31:1"
+  ],
+  "translations": {
+    "bg": "връзка, т.е. група",
+    "cs": "vazba, tj. skupina",
+    "da": "en binding, dvs. en gruppe",
+    "de": "eine Bindung, d. h. eine Gruppe",
+    "el": "έναν δεσμό, δηλαδή μια ομάδα",
+    "es": "un vínculo, es decir, un grupo",
+    "et": "side, st rühm",
+    "fi": "sidos eli ryhmä",
+    "fr": "un lien, c'est-à-dire un groupe",
+    "hu": "kötés, azaz csoport",
+    "id": "suatu ikatan, yaitu kelompok",
+    "it": "un legame, cioè un gruppo",
+    "ja": "結合、すなわちグループ",
+    "ko": "채권, 즉 그룹",
+    "lt": "ryšys, t. y. grupė",
+    "lv": "saite, t. i., grupa",
+    "nb": "en binding, dvs. en gruppe",
+    "nl": "een band, d.w.z. groep",
+    "pl": "wiązanie, tj. grupa",
+    "pt": "uma ligação, ou seja, um grupo",
+    "ro": "o legătură, adică un grup",
+    "ru": "связь, т.е. группа",
+    "sk": "väzba, t. j. skupina",
+    "sl": "vez, tj. skupina",
+    "sv": "ett band, dvs. en grupp",
+    "tr": "bir bağ, yani grup",
+    "uk": "бонд, тобто група",
+    "zh": "债券"
+  }
+}

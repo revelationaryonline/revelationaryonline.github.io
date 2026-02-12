@@ -1,0 +1,43 @@
+{
+  "number": "H4887",
+  "language": "hebrew",
+  "transliteration": "mᵉshach",
+  "pronunciation": "mesh-akh'",
+  "definition": "oil",
+  "kjvTranslation": "oil.",
+  "hebrew": "מְשַׁח",
+  "translations": {
+    "bg": "масло",
+    "cs": "olej",
+    "da": "olie",
+    "de": "öl",
+    "el": "λάδι",
+    "es": "aceite",
+    "et": "õli",
+    "fi": "öljy",
+    "fr": "huile",
+    "hu": "olaj",
+    "id": "minyak",
+    "it": "olio",
+    "ja": "オイル",
+    "ko": "오일",
+    "lt": "alyva",
+    "lv": "eļļa",
+    "nb": "olje",
+    "nl": "olie",
+    "pl": "olej",
+    "pt": "óleo",
+    "ro": "ulei",
+    "ru": "масло",
+    "sk": "olej",
+    "sl": "olje",
+    "sv": "olja",
+    "tr": "yağ",
+    "uk": "нафта",
+    "zh": "油类"
+  },
+  "verses": [
+    "ezra 6:9:12",
+    "ezra 7:22:14"
+  ]
+}

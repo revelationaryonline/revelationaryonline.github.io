@@ -1,0 +1,42 @@
+{
+  "number": "H7319",
+  "language": "hebrew",
+  "transliteration": "rôwmᵉmâh",
+  "pronunciation": "ro-mem-aw'",
+  "definition": "exaltation, i.e. praise",
+  "kjvTranslation": "high.",
+  "hebrew": "רוֹמְמָה",
+  "translations": {
+    "bg": "издигане, т.е. възхвала",
+    "cs": "povýšení, tj. chvála",
+    "da": "ophøjelse, dvs. lovprisning",
+    "de": "verherrlichung, d.h. Lobpreisung",
+    "el": "εξύψωση, δηλαδή έπαινος",
+    "es": "exaltación, es decir, alabanza",
+    "et": "ülistus, st kiitmine",
+    "fi": "ylistys, eli ylistys",
+    "fr": "l'exaltation, c'est-à-dire la louange",
+    "hu": "magasztalás, azaz dicséret",
+    "id": "peninggian, yaitu pujian",
+    "it": "esaltazione, cioè lode",
+    "ja": "称揚",
+    "ko": "높임말, 즉 칭찬",
+    "lt": "išaukštinimas, t. y. šlovinimas",
+    "lv": "cildināšana, t.i., slavēšana",
+    "nb": "opphøyelse, dvs. lovprisning",
+    "nl": "verheerlijking, d.w.z. lofprijzing",
+    "pl": "wywyższenie, tj. pochwała",
+    "pt": "exaltação, ou seja, louvor",
+    "ro": "exaltare, adică laudă",
+    "ru": "возвышение, т.е. восхваление",
+    "sk": "povýšenie, t. j. chvála",
+    "sl": "poveličevanje, tj. hvalnica",
+    "sv": "upphöjelse, dvs. lovprisning",
+    "tr": "yüceltme, yani övgü",
+    "uk": "екзальтація, тобто похвала",
+    "zh": "赞美"
+  },
+  "verses": [
+    "psalms 149:6:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3443",
+  "language": "hebrew",
+  "transliteration": "Yêshûwaʻ",
+  "pronunciation": "yay-shoo'-ah",
+  "definition": "{Jeshua, the name of ten Israelites, also of a place in Palestine}",
+  "kjvTranslation": "Jeshua.",
+  "translations": {
+    "bg": "{Йешуа, името на десет израилтяни, също и на едно място в Палестина}",
+    "cs": "{Ješua, jméno deseti Izraelitů, také místa v Palestině}",
+    "da": "{Jeshua, navnet på ti israelitter, også på et sted i Palæstina}",
+    "de": "{Jeshua, der Name von zehn Israeliten, auch von einem Ort in Palästina}",
+    "el": "{Ιεσούα, το όνομα δέκα Ισραηλιτών, επίσης ενός τόπου στην Παλαιστίνη}",
+    "es": "{Jeshua, el nombre de diez israelitas, también de un lugar en Palestina}",
+    "et": "{Ješua, kümne iisraellase nimi, ka Palestiinas asuva paiga nimi}",
+    "fi": "{Jeshua, kymmenen israelilaisen nimi, myös erään paikan nimi Palestiinassa}",
+    "fr": "{Jeshua, nom de dix Israélites, également d'un lieu en Palestine}",
+    "hu": "{Jesua, tíz izraelita neve, egy palesztinai helység neve is}",
+    "id": "{Yesua, nama sepuluh orang Israel, juga nama sebuah tempat di Palestina}",
+    "it": "{Jeshua, nome di dieci israeliti, anche di un luogo in Palestina}",
+    "ja": "{ジェシュア、10人のイスラエル人の名前、パレスチナの地名でもある}。",
+    "ko": "{예수아, 팔레스타인의 한 지명으로 이스라엘인 10명의 이름}",
+    "lt": "{Ješua, dešimties izraelitų vardas, taip pat vienos vietos Palestinoje pavadinimas}",
+    "lv": "{Jesua, desmit izraēliešu vārds, arī vietas Palestīnā}",
+    "nb": "{Jeshua, navnet på ti israelitter, også på et sted i Palestina}",
+    "nl": "{Jeshua, de naam van tien Israëlieten, ook van een plaats in Palestina}",
+    "pl": "{Jeshua, imię dziesięciu Izraelitów, również od miejsca w Palestynie}",
+    "pt": "{Jeshua, o nome de dez israelitas, também de um lugar na Palestina}",
+    "ro": "{Jeshua, numele a zece israeliți, de asemenea al unui loc din Palestina}",
+    "ru": "{Иешуа, имя десяти израильтян, также место в Палестине}",
+    "sk": "{Ješua, meno desiatich Izraelitov, tiež miesta v Palestíne}",
+    "sl": "{Jezue, ime desetih Izraelcev, tudi kraja v Palestini}",
+    "sv": "{Jeshua, namnet på tio israeliter, även på en plats i Palestina}",
+    "tr": "{Jeshua, on İsraillinin adı, ayrıca Filistin'de bir yerin adı}",
+    "uk": "{Єшуа, ім'я десяти ізраїльтян, а також місцевості в Палестині.}",
+    "zh": "{耶书亚，十个以色列人的名字，也是巴勒斯坦一个地方的名字｝"
+  },
+  "hebrew": "יֵשׁוּעַ",
+  "verses": [
+    "ezra 5:2:5"
+  ]
+}

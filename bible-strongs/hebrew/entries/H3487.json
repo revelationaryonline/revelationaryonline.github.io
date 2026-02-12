@@ -1,0 +1,42 @@
+{
+  "number": "H3487",
+  "language": "hebrew",
+  "transliteration": "yath",
+  "pronunciation": "yath",
+  "definition": "a sign of the object of a verb",
+  "kjvTranslation": "[phrase] whom.",
+  "translations": {
+    "bg": "знак за обекта на глагола",
+    "cs": "označení předmětu slovesa",
+    "da": "et tegn på genstanden for et verbum",
+    "de": "ein Zeichen für das Objekt eines Verbs",
+    "el": "σημείο του αντικειμένου ενός ρήματος",
+    "es": "signo del objeto de un verbo",
+    "et": "verbi objekti tähis",
+    "fi": "verbin objektin merkki",
+    "fr": "signe de l'objet d'un verbe",
+    "hu": "az ige tárgyának jele",
+    "id": "tanda objek dari kata kerja",
+    "it": "segno dell'oggetto di un verbo",
+    "ja": "賓標",
+    "ko": "동사의 목적어의 표시",
+    "lt": "veiksmažodžio objekto ženklas",
+    "lv": "darbības vārda objekta apzīmējums",
+    "nb": "et tegn på objektet til et verb",
+    "nl": "een teken van het lijdend voorwerp van een werkwoord",
+    "pl": "znak dopełnienia czasownika",
+    "pt": "um sinal do objeto de um verbo",
+    "ro": "un semn al obiectului unui verb",
+    "ru": "признак объекта глагола",
+    "sk": "označenie predmetu slovesa",
+    "sl": "oznaka predmeta glagola",
+    "sv": "ett tecken på objektet för ett verb",
+    "tr": "bir fiilin nesnesinin işareti",
+    "uk": "ознака об'єкта дієслова",
+    "zh": "谓"
+  },
+  "hebrew": "יַת",
+  "verses": [
+    "daniel 3:12:5"
+  ]
+}

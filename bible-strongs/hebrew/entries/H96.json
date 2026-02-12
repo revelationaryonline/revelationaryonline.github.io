@@ -1,0 +1,42 @@
+{
+  "number": "H96",
+  "language": "hebrew",
+  "transliteration": "ʼegel",
+  "pronunciation": "eh'-ghel",
+  "definition": "a reservoir",
+  "kjvTranslation": "drop.",
+  "translations": {
+    "bg": "резервоар",
+    "cs": "nádrž",
+    "da": "et reservoir",
+    "de": "ein Reservoir",
+    "el": "μια δεξαμενή",
+    "es": "un depósito",
+    "et": "veehoidla",
+    "fi": "säiliö",
+    "fr": "un réservoir",
+    "hu": "egy tározó",
+    "id": "waduk",
+    "it": "un serbatoio",
+    "ja": "貯水池",
+    "ko": "저수지",
+    "lt": "rezervuaras",
+    "lv": "rezervuārs",
+    "nb": "et reservoar",
+    "nl": "een reservoir",
+    "pl": "zbiornik",
+    "pt": "um reservatório",
+    "ro": "un rezervor",
+    "ru": "водохранилище",
+    "sk": "zásobník",
+    "sl": "rezervoar",
+    "sv": "en reservoar",
+    "tr": "bir rezervuar",
+    "uk": "водосховище",
+    "zh": "水库"
+  },
+  "hebrew": "אֶגֶל",
+  "verses": [
+    "job 38:28:6"
+  ]
+}

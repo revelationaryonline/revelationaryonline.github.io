@@ -1,0 +1,43 @@
+{
+  "number": "H822",
+  "language": "hebrew",
+  "transliteration": "ʼeshnâb",
+  "pronunciation": "esh-nawb'",
+  "definition": "a latticed window",
+  "kjvTranslation": "casement, lattice.",
+  "translations": {
+    "bg": "решетъчен прозорец",
+    "cs": "mřížové okno",
+    "da": "et vindue med gitter",
+    "de": "ein vergittertes Fenster",
+    "el": "ένα παράθυρο με πλέγμα",
+    "es": "una ventana enrejada",
+    "et": "võrega aken",
+    "fi": "ristikkomainen ikkuna",
+    "fr": "une fenêtre à croisillons",
+    "hu": "rácsos ablak",
+    "id": "jendela berkisi-kisi",
+    "it": "una finestra con grata",
+    "ja": "格子窓",
+    "ko": "격자형 창",
+    "lt": "grotuotas langas",
+    "lv": "režģa logs",
+    "nb": "et gittervindu",
+    "nl": "een rastervenster",
+    "pl": "okno kratowe",
+    "pt": "uma janela gradeada",
+    "ro": "o fereastră cu zăbrele",
+    "ru": "решетчатое окно",
+    "sk": "mriežkované okno",
+    "sl": "rešetkasto okno",
+    "sv": "ett gallerförsett fönster",
+    "tr": "kafesli bir pencere",
+    "uk": "решітчасте вікно",
+    "zh": "牖"
+  },
+  "hebrew": "אֶשְׁנָב",
+  "verses": [
+    "judges 5:28:7",
+    "proverbs 7:6:4"
+  ]
+}

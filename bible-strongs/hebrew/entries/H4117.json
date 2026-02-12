@@ -1,0 +1,43 @@
+{
+  "number": "H4117",
+  "language": "hebrew",
+  "transliteration": "mâhar",
+  "pronunciation": "maw-har'",
+  "definition": "to bargain (for a wife), i.e. to wed",
+  "kjvTranslation": "endow, [idiom] surely.",
+  "hebrew": "מָהַר",
+  "translations": {
+    "bg": "да се пазари (за жена), т.е. да се венчае",
+    "cs": "vyjednávat (o manželku), tj. vdávat se",
+    "da": "at forhandle (om en kone), dvs. at gifte sig",
+    "de": "verhandeln (um eine Frau), d.h. heiraten",
+    "el": "να διαπραγματευτώ (για μια σύζυγο), δηλαδή να παντρευτώ",
+    "es": "negociar (por una esposa), es decir, casarse",
+    "et": "kaubelda (naise pärast), s.t. abielluda",
+    "fi": "tinkiä (vaimosta), eli mennä naimisiin",
+    "fr": "négocier (une femme), c'est-à-dire se marier",
+    "hu": "alkudozni (feleségért), azaz házasodni",
+    "id": "untuk menawar (untuk seorang istri), yaitu untuk menikah",
+    "it": "contrattare (per avere una moglie), cioè sposarsi",
+    "ja": "妻をめとる",
+    "ko": "(아내를 위해) 흥정하다, 즉 결혼하다",
+    "lt": "derėtis (dėl žmonos), t. y. tuoktis",
+    "lv": "kaulēties (par sievu), t.i., precēties",
+    "nb": "å forhandle (om en kone), dvs. å gifte seg",
+    "nl": "onderhandelen (over een vrouw), d.w.z. trouwen",
+    "pl": "targować się (o żonę), tj. poślubić",
+    "pt": "negociar (por uma esposa), ou seja, casar",
+    "ro": "a negocia (pentru o soție), adică a se căsători",
+    "ru": "торговаться (за жену), т.е. жениться",
+    "sk": "vyjednávať (o manželku), t. j. vydať sa",
+    "sl": "pogajati se (za ženo), tj. poročiti se",
+    "sv": "att köpslå (om en hustru), dvs. att gifta sig",
+    "tr": "(bir eş için) pazarlık etmek, yani evlenmek",
+    "uk": "свататися (за дружину), тобто одружуватися",
+    "zh": "讨价还价，即结婚"
+  },
+  "verses": [
+    "exodus 22:15:9",
+    "exodus 22:15:10"
+  ]
+}

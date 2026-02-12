@@ -1,0 +1,43 @@
+{
+  "number": "H4715",
+  "language": "hebrew",
+  "transliteration": "mitsrêph",
+  "pronunciation": "mits-rafe'",
+  "definition": "a crucible",
+  "kjvTranslation": "fining pot.",
+  "hebrew": "מִצְרֵף",
+  "translations": {
+    "bg": "тигел",
+    "cs": "tyglík",
+    "da": "en smeltedigel",
+    "de": "ein Schmelztiegel",
+    "el": "ένα χωνευτήρι",
+    "es": "un crisol",
+    "et": "sulatusahju",
+    "fi": "upokasuuni",
+    "fr": "un creuset",
+    "hu": "egy tégely",
+    "id": "sebuah wadah",
+    "it": "un crogiolo",
+    "ja": "るつぼ",
+    "ko": "도가니",
+    "lt": "tiglis",
+    "lv": "tīģelis",
+    "nb": "en smeltedigel",
+    "nl": "een smeltkroes",
+    "pl": "tygiel",
+    "pt": "um cadinho",
+    "ro": "un creuzet",
+    "ru": "тигель",
+    "sk": "téglik",
+    "sl": "lonček",
+    "sv": "en degel",
+    "tr": "bir pota",
+    "uk": "горнило",
+    "zh": "埚"
+  },
+  "verses": [
+    "proverbs 17:3:0",
+    "proverbs 27:21:0"
+  ]
+}

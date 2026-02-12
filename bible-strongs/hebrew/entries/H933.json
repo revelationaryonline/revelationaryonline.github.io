@@ -1,0 +1,42 @@
+{
+  "number": "H933",
+  "language": "hebrew",
+  "transliteration": "bôhaq",
+  "pronunciation": "bo'-hak",
+  "definition": "white scurf",
+  "kjvTranslation": "freckled spot.",
+  "translations": {
+    "bg": "бял налеп",
+    "cs": "bílý škraloup",
+    "da": "hvid skorpe",
+    "de": "weißer Schorf",
+    "el": "λευκή επιδερμίδα",
+    "es": "espinilla blanca",
+    "et": "valge pori",
+    "fi": "valkoinen finne",
+    "fr": "gale blanche",
+    "hu": "fehér hámlás",
+    "id": "scurf putih",
+    "it": "puzza di bianco",
+    "ja": "白毛",
+    "ko": "흰색 스커프",
+    "lt": "baltos spalvos žvynelinė",
+    "lv": "balts zvīņošanās",
+    "nb": "hvit skorpe",
+    "nl": "witte korst",
+    "pl": "biały nalot",
+    "pt": "erupção cutânea branca",
+    "ro": "scorbură albă",
+    "ru": "белый шрам",
+    "sk": "biely šupinatý povrch",
+    "sl": "bela pegavost",
+    "sv": "vit skurv",
+    "tr": "beyaz scurf",
+    "uk": "білий прибій",
+    "zh": "白屑"
+  },
+  "hebrew": "בֹּהַק",
+  "verses": [
+    "leviticus 13:39:8"
+  ]
+}

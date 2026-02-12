@@ -1,0 +1,42 @@
+{
+  "number": "H4369",
+  "language": "hebrew",
+  "transliteration": "mᵉkunâh",
+  "pronunciation": "mek-oo-naw'",
+  "definition": "a spot",
+  "kjvTranslation": "base.",
+  "hebrew": "מְכֻנָה",
+  "translations": {
+    "bg": "място",
+    "cs": "místo",
+    "da": "en plet",
+    "de": "ein Punkt",
+    "el": "ένα σημείο",
+    "es": "un punto",
+    "et": "koht",
+    "fi": "paikka",
+    "fr": "un point",
+    "hu": "egy hely",
+    "id": "sebuah tempat",
+    "it": "un punto",
+    "ja": "スポット",
+    "ko": "한 자리",
+    "lt": "vieta",
+    "lv": "vieta",
+    "nb": "en flekk",
+    "nl": "een vlek",
+    "pl": "miejsce",
+    "pt": "um ponto",
+    "ro": "o pată",
+    "ru": "пятно",
+    "sk": "miesto",
+    "sl": "mesto",
+    "sv": "en fläck",
+    "tr": "bir nokta",
+    "uk": "місце",
+    "zh": "一处"
+  },
+  "verses": [
+    "zechariah 5:11:11"
+  ]
+}

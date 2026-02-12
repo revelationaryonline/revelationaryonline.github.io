@@ -1,0 +1,43 @@
+{
+  "number": "H327",
+  "language": "hebrew",
+  "transliteration": "ʼăchashtârân",
+  "pronunciation": "akh-ash-taw-rawn'",
+  "definition": "a mule",
+  "kjvTranslation": "camel.",
+  "translations": {
+    "bg": "муле",
+    "cs": "mula",
+    "da": "et muldyr",
+    "de": "ein Maultier",
+    "el": "ένα μουλάρι",
+    "es": "una mula",
+    "et": "muul",
+    "fi": "muuli",
+    "fr": "un mulet",
+    "hu": "egy öszvér",
+    "id": "seekor keledai",
+    "it": "un mulo",
+    "ja": "ラバ",
+    "ko": "노새",
+    "lt": "mulas",
+    "lv": "mūlis",
+    "nb": "et muldyr",
+    "nl": "een muilezel",
+    "pl": "muł",
+    "pt": "uma mula",
+    "ro": "un catâr",
+    "ru": "мул",
+    "sk": "mula",
+    "sl": "mulo",
+    "sv": "en mula",
+    "tr": "bir katır",
+    "uk": "мула",
+    "zh": "骡子"
+  },
+  "hebrew": "אֲחַשְׁתָּרָן",
+  "verses": [
+    "esther 8:10:14",
+    "esther 8:14:3"
+  ]
+}

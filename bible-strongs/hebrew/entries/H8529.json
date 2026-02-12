@@ -1,0 +1,42 @@
+{
+  "number": "H8529",
+  "language": "hebrew",
+  "transliteration": "tâlaʻ",
+  "pronunciation": "taw-law'",
+  "definition": "to crimson, i.e. dye that color",
+  "kjvTranslation": "[idiom] scarlet.",
+  "hebrew": "תָּלַע",
+  "translations": {
+    "bg": "до малиново, т.е. да боядисате този цвят",
+    "cs": "na karmínovou, tj. obarvit na tuto barvu",
+    "da": "til karmoisinrød, dvs. farve den farve",
+    "de": "zu Karminrot, d.h. diese Farbe färben",
+    "el": "σε βυσσινί, δηλαδή να βάψετε αυτό το χρώμα",
+    "es": "a carmesí, es decir, teñir de ese color",
+    "et": "karmiinpunaseks, st värvida seda värvi",
+    "fi": "purppuranpunaiseksi, eli värjätä tuo väri..",
+    "fr": "à la cramoisie, c'est-à-dire à la teinture de cette couleur",
+    "hu": "bíborvörösre, azaz festeni ezt a színt..",
+    "id": "menjadi merah tua, yaitu pewarna warna tersebut",
+    "it": "al cremisi, cioè tingere di quel colore",
+    "ja": "真紅に染める。",
+    "ko": "를 진홍색으로, 즉 해당 색으로 염색합니다",
+    "lt": "į purpurinę, t. y. dažyti šia spalva",
+    "lv": "līdz purpursarkanai krāsai, t.i., krāso šo krāsu",
+    "nb": "til karmosinrød, dvs. farge den fargen",
+    "nl": "tot karmozijnrood, d.w.z. die kleur verven",
+    "pl": "na karmazynowy, tj. farbować na ten kolor",
+    "pt": "para carmesim, ou seja, tingir dessa cor",
+    "ro": "la crimson, adică să vopsească acea culoare",
+    "ru": "в малиновый, т.е. окрасить в этот цвет",
+    "sk": "na karmínovú, t. j. farbiť touto farbou",
+    "sl": "v škrlatno barvo, tj. pobarvajte to barvo",
+    "sv": "till karmosinröd, dvs. färga den färgen",
+    "tr": "kıpkırmızıya, yani o renge boyamak",
+    "uk": "до малинового, тобто пофарбувати в цей колір",
+    "zh": "染成深红色，即染成这种颜色"
+  },
+  "verses": [
+    "nahum 2:4:5"
+  ]
+}

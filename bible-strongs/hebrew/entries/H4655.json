@@ -1,0 +1,42 @@
+{
+  "number": "H4655",
+  "language": "hebrew",
+  "transliteration": "miphlâṭ",
+  "pronunciation": "mif-lawt'",
+  "definition": "an escape",
+  "kjvTranslation": "escape.",
+  "hebrew": "מִפְלָט",
+  "verses": [
+    "psalms 55:9:1"
+  ],
+  "translations": {
+    "bg": "бягство",
+    "cs": "útěk",
+    "da": "en flugt",
+    "de": "eine Flucht",
+    "el": "μια απόδραση",
+    "es": "una fuga",
+    "et": "põgenemine",
+    "fi": "pako",
+    "fr": "une évasion",
+    "hu": "menekülés",
+    "id": "sebuah pelarian",
+    "it": "una fuga",
+    "ja": "脱出",
+    "ko": "탈출",
+    "lt": "pabėgimas",
+    "lv": "bēgšana",
+    "nb": "en flukt",
+    "nl": "een ontsnapping",
+    "pl": "ucieczka",
+    "pt": "uma fuga",
+    "ro": "o evadare",
+    "ru": "побег",
+    "sk": "únik",
+    "sl": "pobeg",
+    "sv": "en flykt",
+    "tr": "bir kaçış",
+    "uk": "втеча",
+    "zh": "逃生"
+  }
+}

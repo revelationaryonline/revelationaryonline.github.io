@@ -1,0 +1,42 @@
+{
+  "number": "H3883",
+  "language": "hebrew",
+  "transliteration": "lûwl",
+  "pronunciation": "lool",
+  "definition": "a spiral step",
+  "kjvTranslation": "winding stair. Compare H3924 (לֻלָאָה).",
+  "hebrew": "לוּל",
+  "translations": {
+    "bg": "спираловидно стъпало",
+    "cs": "spirálový krok",
+    "da": "et spiraltrin",
+    "de": "eine spiralförmige Stufe",
+    "el": "ένα σπειροειδές βήμα",
+    "es": "un paso en espiral",
+    "et": "spiraalne samm",
+    "fi": "kierreaskel",
+    "fr": "une marche en spirale",
+    "hu": "spirális lépés",
+    "id": "langkah spiral",
+    "it": "un passo a spirale",
+    "ja": "らせん状のステップ",
+    "ko": "나선형 단계",
+    "lt": "spiralinis laiptelis",
+    "lv": "spirālveida pakāpiens",
+    "nb": "et spiraltrinn",
+    "nl": "een spiraalvormige stap",
+    "pl": "krok spiralny",
+    "pt": "um passo em espiral",
+    "ro": "o treaptă în spirală",
+    "ru": "спиральный шаг",
+    "sk": "špirálový krok",
+    "sl": "spiralni korak",
+    "sv": "ett spiralformat steg",
+    "tr": "spiral bir adım",
+    "uk": "крок по спіралі",
+    "zh": "旋步"
+  },
+  "verses": [
+    "firstKings 6:8:7"
+  ]
+}

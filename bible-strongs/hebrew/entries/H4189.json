@@ -1,0 +1,42 @@
+{
+  "number": "H4189",
+  "language": "hebrew",
+  "transliteration": "môwshᵉkâh",
+  "pronunciation": "mo-shek-aw'",
+  "definition": "something drawing, i.e. (figuratively) a cord",
+  "kjvTranslation": "band.",
+  "hebrew": "מוֹשְׁכָה",
+  "translations": {
+    "bg": "нещо, което тегли, т.е. (в преносен смисъл) въже",
+    "cs": "něco táhnoucího, tj. (obrazně) šňůra",
+    "da": "noget, der trækker, dvs. (i overført betydning) en snor",
+    "de": "etwas Ziehendes, d.h. (im übertragenen Sinne) eine Schnur",
+    "el": "κάτι που τραβάει, δηλαδή (μεταφορικά) ένα σχοινί",
+    "es": "algo que tira, es decir (figuradamente) una cuerda",
+    "et": "midagi joonistavat, st (piltlikult) nööri",
+    "fi": "jotakin vetävää, eli (kuvaannollisesti) narua",
+    "fr": "quelque chose qui tire, c'est-à-dire (au sens figuré) une corde",
+    "hu": "valami húzás, azaz (átvitt értelemben) egy zsinór",
+    "id": "sesuatu yang digambar, misalnya (secara kiasan) kabel",
+    "it": "qualcosa che disegna, cioè (in senso figurato) una corda",
+    "ja": "引き紐",
+    "ko": "무언가 그리는 것, 즉 (비 유적으로) 코드",
+    "lt": "kažkas, kas traukia, t. y. (perkeltine prasme) virvė",
+    "lv": "kaut kas velkams, t.i., (pārnestā nozīmē) aukla",
+    "nb": "noe som trekker, dvs. (i overført betydning) en snor",
+    "nl": "iets dat trekt, d.w.z. (figuurlijk) een koord",
+    "pl": "coś ciągnącego, tj. (w przenośni) sznur",
+    "pt": "algo que puxa, ou seja, (figurativamente) um cordão",
+    "ro": "ceva care trage, de exemplu (la figurat) un cordon",
+    "ru": "что-то волочащееся, т.е. (фигурально) шнур",
+    "sk": "niečo ťahajúce, t. j. (obrazne) šnúra",
+    "sl": "nekaj, kar vleče, tj. (v prenesenem pomenu) vrv",
+    "sv": "något som drar, t.ex. (bildligt talat) en sladd",
+    "tr": "çizen bir şey, yani (mecazi olarak) bir kordon",
+    "uk": "щось, що тягнеться, тобто (образно) шнур",
+    "zh": "拉绳"
+  },
+  "verses": [
+    "job 38:31:4"
+  ]
+}

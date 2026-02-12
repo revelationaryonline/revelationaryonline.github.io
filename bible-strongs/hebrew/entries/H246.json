@@ -1,0 +1,43 @@
+{
+  "number": "H246",
+  "language": "hebrew",
+  "transliteration": "ʼăziqqîym",
+  "pronunciation": "az-ik-keem'",
+  "definition": "manacles",
+  "kjvTranslation": "chains.",
+  "translations": {
+    "bg": "белезници",
+    "cs": "pouta",
+    "da": "håndjern",
+    "de": "handschellen",
+    "el": "χειροπέδες",
+    "es": "grilletes",
+    "et": "käsivarred",
+    "fi": "käsiraudat",
+    "fr": "manilles",
+    "hu": "bilincsek",
+    "id": "manacles",
+    "it": "manette",
+    "ja": "手錠",
+    "ko": "마나클",
+    "lt": "pančiai",
+    "lv": "manekeni",
+    "nb": "håndjern",
+    "nl": "boeien",
+    "pl": "kajdany",
+    "pt": "algemas",
+    "ro": "manșete",
+    "ru": "манатки",
+    "sk": "putá",
+    "sl": "okovi",
+    "sv": "handbojor",
+    "tr": "kelepçeler",
+    "uk": "кайдани",
+    "zh": "手铐"
+  },
+  "hebrew": "אֲזִקִּים",
+  "verses": [
+    "jeremiah 40:1:19",
+    "jeremiah 40:4:5"
+  ]
+}

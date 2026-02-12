@@ -1,0 +1,43 @@
+{
+  "number": "H5465",
+  "language": "hebrew",
+  "transliteration": "çad",
+  "pronunciation": "sad",
+  "definition": "the stocks",
+  "kjvTranslation": "stocks.",
+  "hebrew": "סַד",
+  "translations": {
+    "bg": "запасите",
+    "cs": "zásoby",
+    "da": "aktierne",
+    "de": "die Bestände",
+    "el": "τα αποθέματα",
+    "es": "las existencias",
+    "et": "varud",
+    "fi": "varastot",
+    "fr": "les stocks",
+    "hu": "a készletek",
+    "id": "saham",
+    "it": "le azioni",
+    "ja": "株式",
+    "ko": "주식",
+    "lt": "atsargos",
+    "lv": "krājumi",
+    "nb": "aksjene",
+    "nl": "de voorraden",
+    "pl": "akcje",
+    "pt": "as acções",
+    "ro": "stocurile",
+    "ru": "акции",
+    "sk": "zásoby",
+    "sl": "zaloge",
+    "sv": "aktierna",
+    "tr": "hisse senetleri",
+    "uk": "запаси",
+    "zh": "股票"
+  },
+  "verses": [
+    "job 13:27:1",
+    "job 33:11:1"
+  ]
+}

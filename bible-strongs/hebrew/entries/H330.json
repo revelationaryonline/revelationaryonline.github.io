@@ -1,0 +1,42 @@
+{
+  "number": "H330",
+  "language": "hebrew",
+  "transliteration": "ʼêṭûwn",
+  "pronunciation": "ay-toon'",
+  "definition": "properly, twisted (yarn), i.e. tapestry",
+  "kjvTranslation": "fine linen.",
+  "translations": {
+    "bg": "правилно, усукана (прежда), напр. гоблен",
+    "cs": "správně, kroucená (příze), tj. tapiserie",
+    "da": "ordentligt, snoet (garn), f.eks. gobelin",
+    "de": "richtig, gezwirnt (Garn), d.h. Gobelin",
+    "el": "κατάλληλα, στριμμένα (νήματα), π.χ. ταπισερί",
+    "es": "propiamente, retorcido (hilo), es decir, tapiz",
+    "et": "korralikult, keeratud (lõng), st gobelääni",
+    "fi": "kunnolla, kierretty (lanka), esim. kuvakudosnauha (tapetti)",
+    "fr": "correctement, torsadé (fil), c'est-à-dire tapisserie",
+    "hu": "rendesen, sodrott (fonal), azaz gobelin",
+    "id": "dengan benar, dipilin (benang), yaitu permadani",
+    "it": "propriamente detto, ritorto (filato), cioè arazzo",
+    "ja": "きちんと撚られた（糸）、つまりタペストリー",
+    "ko": "제대로, 꼬인 (원사), 즉 태피스트리",
+    "lt": "tinkamai susukti (verpalai), t. y. gobelenai",
+    "lv": "pareizi, vītā (dzija), t.i., gobelēns",
+    "nb": "riktig, tvunnet (garn), f.eks. billedvev",
+    "nl": "goed, gedraaid (garen), d.w.z. tapisserie",
+    "pl": "prawidłowo skręcona (przędza), np. gobelinowa",
+    "pt": "propriamente dito, torcido (fio), ou seja, tapeçaria",
+    "ro": "în mod corespunzător, răsucite (fire), de exemplu tapiserie",
+    "ru": "правильно, крученая (пряжа), т.е. гобелен",
+    "sk": "správne, krútené (priadza), t. j. gobelín",
+    "sl": "pravilno, sukana (preja), npr. gobelin",
+    "sv": "ordentligt, tvinnat (garn), t.ex. gobeläng",
+    "tr": "düzgün, bükülmüş (iplik), yani goblen",
+    "uk": "власне, скручена (пряжа), тобто гобелен",
+    "zh": "捻好的(纱)，即织锦"
+  },
+  "hebrew": "אֵטוּן",
+  "verses": [
+    "proverbs 7:16:4"
+  ]
+}

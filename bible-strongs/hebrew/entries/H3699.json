@@ -1,0 +1,42 @@
+{
+  "number": "H3699",
+  "language": "hebrew",
+  "transliteration": "kâçaç",
+  "pronunciation": "kaw-sas'",
+  "definition": "to estimate",
+  "kjvTranslation": "make count.",
+  "translations": {
+    "bg": "за оценка",
+    "cs": "odhadnout",
+    "da": "for at estimere",
+    "de": "zu schätzen",
+    "el": "για να εκτιμήσει",
+    "es": "estimar",
+    "et": "hinnata",
+    "fi": "arvioida",
+    "fr": "pour estimer",
+    "hu": "a becsléshez",
+    "id": "untuk memperkirakan",
+    "it": "per stimare",
+    "ja": "見積もる",
+    "ko": "추정하려면",
+    "lt": "įvertinti",
+    "lv": "novērtēt",
+    "nb": "for å estimere",
+    "nl": "schatten",
+    "pl": "oszacować",
+    "pt": "para estimar",
+    "ro": "pentru a estima",
+    "ru": "оценить",
+    "sk": "odhadnúť",
+    "sl": "oceniti",
+    "sv": "för att uppskatta",
+    "tr": "tahmin etmek",
+    "uk": "оцінити",
+    "zh": "来估计"
+  },
+  "hebrew": "כָּסַס",
+  "verses": [
+    "exodus 12:4:16"
+  ]
+}

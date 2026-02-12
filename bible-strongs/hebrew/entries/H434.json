@@ -1,0 +1,42 @@
+{
+  "number": "H434",
+  "language": "hebrew",
+  "transliteration": "ʼĕlûwl",
+  "pronunciation": "el-ool'",
+  "definition": "good for nothing",
+  "kjvTranslation": "thing of nought.",
+  "translations": {
+    "bg": "за нищо не става",
+    "cs": "k ničemu",
+    "da": "god for ingenting",
+    "de": "für nichts zu gebrauchen",
+    "el": "καλό για το τίποτα",
+    "es": "bueno para nada",
+    "et": "ei kõlba millekski",
+    "fi": "ei kelpaa mihinkään",
+    "fr": "bon à rien",
+    "hu": "semmire sem jó",
+    "id": "bagus untuk apa-apa",
+    "it": "buono a nulla",
+    "ja": "何の役にも立たない",
+    "ko": "쓸모없는 것",
+    "lt": "nieko gero",
+    "lv": "nekam nederīgs",
+    "nb": "godt for ingenting",
+    "nl": "goed voor niets",
+    "pl": "dobry na nic",
+    "pt": "bom para nada",
+    "ro": "bun de nimic",
+    "ru": "ничего хорошего",
+    "sk": "k ničomu",
+    "sl": "dobro za nič",
+    "sv": "bra för ingenting",
+    "tr": "hiçbir şey için iyi",
+    "uk": "ні на що не придатні",
+    "zh": "白搭"
+  },
+  "hebrew": "אֱלוּל",
+  "verses": [
+    "jeremiah 14:14:17"
+  ]
+}

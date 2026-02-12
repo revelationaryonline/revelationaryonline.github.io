@@ -1,0 +1,43 @@
+{
+  "number": "H7618",
+  "language": "hebrew",
+  "transliteration": "shᵉbûw",
+  "pronunciation": "sheb-oo'",
+  "definition": "a gem (from its sparkle), probably the agate",
+  "kjvTranslation": "agate.",
+  "hebrew": "שְׁבוּ",
+  "translations": {
+    "bg": "скъпоценен камък (според блясъка му), вероятно ахат",
+    "cs": "drahokam (podle jiskry), pravděpodobně achát",
+    "da": "en ædelsten (fra dens gnistren), sandsynligvis agat",
+    "de": "ein Edelstein (wegen seines Funkelns), wahrscheinlich der Achat",
+    "el": "ένας πολύτιμος λίθος (από τη λάμψη του), πιθανότατα ο αχάτης",
+    "es": "una gema (por su brillo), probablemente el ágata",
+    "et": "kalliskivi (selle sädeluse järgi), tõenäoliselt akaat",
+    "fi": "jalokivi (sen kimalluksesta päätellen), luultavasti akaatti",
+    "fr": "une pierre précieuse (d'après son éclat), probablement l'agate",
+    "hu": "egy drágakő (a csillogásából ítélve), valószínűleg az achát",
+    "id": "permata (dari kilaunya), mungkin batu akik",
+    "it": "una gemma (dal suo scintillio), probabilmente l'agata",
+    "ja": "宝石（その輝きから）、おそらくメノウ",
+    "ko": "보석 (반짝임에서), 아마도 마노 일 것입니다",
+    "lt": "brangakmenis (pagal spindesį), tikriausiai agatas",
+    "lv": "dārgakmens (pēc tā mirdzuma), iespējams, agāts",
+    "nb": "en edelsten (ut fra glitringen), sannsynligvis agat",
+    "nl": "een edelsteen (aan de schittering te zien), waarschijnlijk de agaat",
+    "pl": "klejnot (od jego blasku), prawdopodobnie agat",
+    "pt": "uma pedra preciosa (pelo seu brilho), provavelmente a ágata",
+    "ro": "o piatră prețioasă (de la strălucirea ei), probabil agat",
+    "ru": "драгоценный камень (судя по его блеску), вероятно, агат",
+    "sk": "drahokam (podľa lesku), pravdepodobne achát",
+    "sl": "dragulj (zaradi bleščanja), verjetno agat",
+    "sv": "en ädelsten (från dess gnistrande), troligen agaten",
+    "tr": "bir mücevher (ışıltısından), muhtemelen akik",
+    "uk": "дорогоцінний камінь (від його блиску), ймовірно, агат",
+    "zh": "宝石，可能是玛瑙"
+  },
+  "verses": [
+    "exodus 28:19:3",
+    "exodus 39:12:3"
+  ]
+}

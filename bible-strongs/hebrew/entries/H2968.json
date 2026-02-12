@@ -1,0 +1,42 @@
+{
+  "number": "H2968",
+  "language": "hebrew",
+  "transliteration": "yâʼab",
+  "pronunciation": "yaw-ab'",
+  "definition": "to desire",
+  "kjvTranslation": "long.",
+  "translations": {
+    "bg": "да желае",
+    "cs": "toužit",
+    "da": "at ønske",
+    "de": "zu wünschen",
+    "el": "να επιθυμώ",
+    "es": "desear",
+    "et": "soovida",
+    "fi": "haluta",
+    "fr": "désirer",
+    "hu": "vágyakozni",
+    "id": "untuk keinginan",
+    "it": "desiderare",
+    "ja": "欲する",
+    "ko": "욕망에",
+    "lt": "norėti",
+    "lv": "vēlēties",
+    "nb": "å ønske",
+    "nl": "te verlangen",
+    "pl": "pragnąć",
+    "pt": "desejar",
+    "ro": "să dorească",
+    "ru": "желать",
+    "sk": "túžiť",
+    "sl": "želeti si",
+    "sv": "att önska",
+    "tr": "arzu etmek",
+    "uk": "бажати",
+    "zh": "希望"
+  },
+  "hebrew": "יָאַב",
+  "verses": [
+    "psalms 119:131:5"
+  ]
+}

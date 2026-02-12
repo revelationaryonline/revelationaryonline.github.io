@@ -1,0 +1,43 @@
+{
+  "number": "H1409",
+  "language": "hebrew",
+  "transliteration": "gâd",
+  "pronunciation": "gawd",
+  "definition": "fortune",
+  "kjvTranslation": "troop.",
+  "translations": {
+    "bg": "късмет",
+    "cs": "štěstí",
+    "da": "formue",
+    "de": "glück",
+    "el": "τύχη",
+    "es": "fortuna",
+    "et": "õnn",
+    "fi": "onni",
+    "fr": "fortune",
+    "hu": "szerencse",
+    "id": "keberuntungan",
+    "it": "fortuna",
+    "ja": "幸運",
+    "ko": "재산",
+    "lt": "fortūna",
+    "lv": "laime",
+    "nb": "formue",
+    "nl": "fortuin",
+    "pl": "szczęście",
+    "pt": "fortuna",
+    "ro": "avere",
+    "ru": "фортуна",
+    "sk": "šťastie",
+    "sl": "bogastvo",
+    "sv": "förmögenhet",
+    "tr": "servet",
+    "uk": "доля",
+    "zh": "运气"
+  },
+  "hebrew": "גָּד",
+  "verses": [
+    "genesis 30:11:2",
+    "genesis 30:11:4"
+  ]
+}

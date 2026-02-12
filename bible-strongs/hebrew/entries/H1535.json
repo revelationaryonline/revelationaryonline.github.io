@@ -1,0 +1,42 @@
+{
+  "number": "H1535",
+  "language": "hebrew",
+  "transliteration": "galgal",
+  "pronunciation": "gal-gal'",
+  "definition": "a wheel",
+  "kjvTranslation": "wheel.",
+  "translations": {
+    "bg": "колело",
+    "cs": "kolo",
+    "da": "et hjul",
+    "de": "ein Rad",
+    "el": "ένας τροχός",
+    "es": "una rueda",
+    "et": "ratas",
+    "fi": "pyörä",
+    "fr": "une roue",
+    "hu": "kerék",
+    "id": "sebuah roda",
+    "it": "una ruota",
+    "ja": "車輪",
+    "ko": "바퀴",
+    "lt": "ratas",
+    "lv": "ritenis",
+    "nb": "et hjul",
+    "nl": "een wiel",
+    "pl": "koło",
+    "pt": "uma roda",
+    "ro": "o roată",
+    "ru": "колесо",
+    "sk": "koleso",
+    "sl": "kolo",
+    "sv": "ett hjul",
+    "tr": "bir tekerlek",
+    "uk": "колесо",
+    "zh": "车轮"
+  },
+  "hebrew": "גַּלְגַּל",
+  "verses": [
+    "daniel 7:9:20"
+  ]
+}

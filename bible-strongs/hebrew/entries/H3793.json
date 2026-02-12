@@ -1,0 +1,42 @@
+{
+  "number": "H3793",
+  "language": "hebrew",
+  "transliteration": "kᵉthôbeth",
+  "pronunciation": "keth-o'-beth",
+  "definition": "a letter or other mark branded on the skin",
+  "kjvTranslation": "[idiom] any (mark).",
+  "hebrew": "כְּתֹבֶת",
+  "translations": {
+    "bg": "буква или друг знак, нанесени върху кожата",
+    "cs": "písmeno nebo jiná značka vyznačená na kůži",
+    "da": "et bogstav eller andet mærke, der er brændt på huden",
+    "de": "ein auf der Haut eingebrannter Buchstabe oder ein anderes Zeichen",
+    "el": "ένα γράμμα ή άλλο σημάδι στο δέρμα",
+    "es": "una letra u otra marca marcada en la piel",
+    "et": "nahale märgistatud täht või muu märk",
+    "fi": "kirjain tai muu merkintä, joka on leimattu ihoon",
+    "fr": "une lettre ou une autre marque apposée sur la peau",
+    "hu": "a bőrre égetett betű vagy más jel",
+    "id": "huruf atau tanda lain yang dicap pada kulit",
+    "it": "una lettera o un altro segno impresso sulla pelle",
+    "ja": "皮膚に焼印された文字やマーク",
+    "ko": "피부에 새겨진 문자 또는 기타 마크",
+    "lt": "raidė ar kitoks ženklas, pažymėtas ant odos",
+    "lv": "uz ādas uzzīmēts burts vai cita zīme",
+    "nb": "en bokstav eller et annet merke som er brent på huden",
+    "nl": "een letter of ander merkteken op de huid gebrandmerkt",
+    "pl": "litera lub inny znak naniesiony na skórę",
+    "pt": "uma letra ou outra marca marcada na pele",
+    "ro": "o literă sau alt semn marcat pe piele",
+    "ru": "буква или другой знак, нанесенный на кожу",
+    "sk": "písmeno alebo iná značka vyznačená na koži",
+    "sl": "črka ali druga oznaka na koži",
+    "sv": "en bokstav eller annat märke som bränts in på huden",
+    "tr": "deri üzerine damgalanmış bir harf veya başka bir işaret",
+    "uk": "буква або інша позначка, вибита на шкірі",
+    "zh": "烙印"
+  },
+  "verses": [
+    "leviticus 19:28:5"
+  ]
+}

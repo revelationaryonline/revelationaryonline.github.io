@@ -1,0 +1,42 @@
+{
+  "number": "H6972",
+  "language": "hebrew",
+  "transliteration": "qûwts",
+  "pronunciation": "koots",
+  "definition": "to spend the harvest season",
+  "kjvTranslation": "summer.",
+  "hebrew": "קוּץ",
+  "translations": {
+    "bg": "да прекарате сезона на жътвата",
+    "cs": "strávit období sklizně",
+    "da": "for at tilbringe høstsæsonen",
+    "de": "um die Erntezeit zu verbringen",
+    "el": "για να περάσουν την περίοδο της συγκομιδής",
+    "es": "para pasar la temporada de cosecha",
+    "et": "et veeta saagikoristushooaeg",
+    "fi": "viettää sadonkorjuukautta",
+    "fr": "pour passer la saison des récoltes",
+    "hu": "hogy a szüreti szezont",
+    "id": "untuk menghabiskan musim panen",
+    "it": "per trascorrere la stagione del raccolto",
+    "ja": "収穫期を過ごすために",
+    "ko": "수확의 계절을 보내기 위해",
+    "lt": "praleisti derliaus nuėmimo sezoną",
+    "lv": "pavadīt ražas novākšanas sezonu",
+    "nb": "for å tilbringe høstsesongen",
+    "nl": "om het oogstseizoen door te brengen",
+    "pl": "spędzić sezon zbiorów",
+    "pt": "para passar a época das colheitas",
+    "ro": "pentru a petrece sezonul recoltei",
+    "ru": "чтобы провести сезон сбора урожая",
+    "sk": "stráviť obdobie zberu úrody",
+    "sl": "preživeti sezono žetve",
+    "sv": "att tillbringa skördesäsongen",
+    "tr": "hasat mevsimini geçirmek için",
+    "uk": "провести сезон збору врожаю",
+    "zh": "共度丰收季"
+  },
+  "verses": [
+    "isaiah 18:6:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7816",
+  "language": "hebrew",
+  "transliteration": "shᵉchûwth",
+  "pronunciation": "shekh-ooth'",
+  "definition": "pit",
+  "kjvTranslation": "pit.",
+  "hebrew": "שְׁחוּת",
+  "translations": {
+    "bg": "яма",
+    "cs": "pit",
+    "da": "pit",
+    "de": "grube",
+    "el": "pit",
+    "es": "foso",
+    "et": "pit",
+    "fi": "kuoppa",
+    "fr": "fosse",
+    "hu": "pit",
+    "id": "lubang",
+    "it": "pozzo",
+    "ja": "ピット",
+    "ko": "pit",
+    "lt": "duobė",
+    "lv": "bedre",
+    "nb": "grop",
+    "nl": "put",
+    "pl": "dół",
+    "pt": "fosso",
+    "ro": "groapă",
+    "ru": "яма",
+    "sk": "jama",
+    "sl": "jama",
+    "sv": "grop",
+    "tr": "çukur",
+    "uk": "яма",
+    "zh": "坑内"
+  },
+  "verses": [
+    "proverbs 28:10:4"
+  ]
+}

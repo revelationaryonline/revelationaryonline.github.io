@@ -1,0 +1,42 @@
+{
+  "number": "H5412",
+  "language": "hebrew",
+  "transliteration": "Nᵉthîyn",
+  "pronunciation": "netheen'",
+  "definition": "{the Nethinim, or Temple-servants (as given to that duty)}",
+  "kjvTranslation": "Nethinims.",
+  "hebrew": "נְתִין",
+  "translations": {
+    "bg": "{Нетините, или храмовите служители (като натоварени с това задължение)}",
+    "cs": "{Nethinim neboli chrámoví služebníci (podle toho, jak byli pověřeni touto povinností)}",
+    "da": "{Nethinim, eller tempeltjenere (som blev givet til den opgave)}",
+    "de": "{die Nethinim, oder Tempeldiener (wie sie für diese Aufgabe bestimmt sind)}",
+    "el": "{οι Νεθινίμ, ή οι υπηρέτες του Ναού (όπως τους είχε ανατεθεί το καθήκον αυτό)}",
+    "es": "{los Nethinim, o sirvientes del Templo (como se les da ese deber)}",
+    "et": "{Nethinim ehk templiametnikud (mis on antud selleks kohustuseks)}",
+    "fi": "{Nethinim eli temppelipalvelijat (jotka on annettu tähän tehtävään) }",
+    "fr": "{les Nethinim, ou serviteurs du Temple (tels qu'ils sont affectés à cette tâche)}",
+    "hu": "{a nethinim, vagy templomi szolgák (ahogyan erre a feladatra kijelölték őket)}",
+    "id": "{Nethinim, atau pelayan Bait Suci (seperti yang diberikan untuk tugas itu)}",
+    "it": "{I Nethinim, o servitori del Tempio (in quanto addetti a tale compito)",
+    "ja": "{ネティニム、すなわち神殿に仕える者たちである。",
+    "ko": "{네티님 또는 성전 봉사자(그 의무에 따라)}입니다",
+    "lt": "{nethinim, arba šventyklos tarnai (pagal paskirtį)",
+    "lv": "{netiņi jeb Tempļa kalpi (kā tiem bija uzticēts)",
+    "nb": "{Nethinim, eller tempeltjenerne (som var satt til denne oppgaven)}",
+    "nl": "{de Nethinim, of tempeldienaren (zoals gegeven aan die taak)}",
+    "pl": "{Netynejczycy, czyli słudzy świątynni (wyznaczeni do tego obowiązku)}",
+    "pt": "{os netinins, ou servos do templo (como foram designados para essa função)}",
+    "ro": "{Nethinim, sau slujitorii Templului (așa cum au fost însărcinați cu această sarcină)}",
+    "ru": "{Нетиним, или служители храма (как и положено для этой обязанности)}",
+    "sk": "{Nethinim, alebo chrámoví služobníci (ako boli poverení touto povinnosťou)}",
+    "sl": "{nethinim ali tempeljski služabniki (kot so bili zadolženi za to nalogo)",
+    "sv": "{Nethinim, eller tempeltjänare (eftersom de hade den uppgiften)}",
+    "tr": "{Nethinim ya da Tapınak hizmetkârları (bu göreve atanmışlardı)}",
+    "uk": "{Нефінімів, або служителів Храму (на яких покладено цей обов'язок)}",
+    "zh": "{尼西尼人，或圣殿仆人（被赋予该职责）}。"
+  },
+  "verses": [
+    "ezra 7:24:8"
+  ]
+}

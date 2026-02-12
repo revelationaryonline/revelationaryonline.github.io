@@ -1,0 +1,42 @@
+{
+  "number": "H4073",
+  "language": "hebrew",
+  "transliteration": "mᵉdachphâh",
+  "pronunciation": "med-akh-faw'",
+  "definition": "a push, i.e. ruin",
+  "kjvTranslation": "overthrow.",
+  "hebrew": "מְדַחְפָה",
+  "translations": {
+    "bg": "тласък, т.е. разрушаване",
+    "cs": "tlačit, tj. zničit",
+    "da": "et skub, dvs. ødelæggelse",
+    "de": "einen Schub, d.h. den Ruin",
+    "el": "μια ώθηση, δηλαδή καταστροφή",
+    "es": "un empujón, es decir, la ruina",
+    "et": "push, st hävitamine",
+    "fi": "työntö, eli tuhoaminen",
+    "fr": "une poussée, c'est-à-dire une ruine",
+    "hu": "egy lökés, azaz tönkretétel",
+    "id": "dorongan, yaitu kehancuran",
+    "it": "una spinta, cioè una rovina",
+    "ja": "一押し、つまり破滅",
+    "ko": "푸시, 즉 파멸",
+    "lt": "stūmimas, t. y. žlugdymas",
+    "lv": "grūdiens, t.i., sabrukums",
+    "nb": "et dytt, dvs. ødeleggelse",
+    "nl": "een duw, d.w.z. ruïneren",
+    "pl": "pchnięcie, tj. ruina",
+    "pt": "um empurrão, ou seja, uma ruína",
+    "ro": "o împingere, adică o ruină",
+    "ru": "толчок, т.е. разрушение",
+    "sk": "tlačiť, t. j. zničiť",
+    "sl": "potisk, tj. uničenje",
+    "sv": "en knuff, d.v.s. förstörelse",
+    "tr": "bir itme, yani yıkım",
+    "uk": "поштовх, тобто руйнування",
+    "zh": "一推，即毁坏"
+  },
+  "verses": [
+    "psalms 140:12:9"
+  ]
+}

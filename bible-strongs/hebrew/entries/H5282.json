@@ -1,0 +1,42 @@
+{
+  "number": "H5282",
+  "language": "hebrew",
+  "transliteration": "naʻămân",
+  "pronunciation": "nah-am-awn'",
+  "definition": "pleasantness (plural as concrete)",
+  "kjvTranslation": "pleasant.",
+  "hebrew": "נַעֲמָן",
+  "translations": {
+    "bg": "приятност (в множествено число като конкретност)",
+    "cs": "příjemnost (množné číslo jako konkrétní)",
+    "da": "behagelighed (flertal som konkret)",
+    "de": "annehmlichkeit (Plural wie konkret)",
+    "el": "pleasantness (πληθυντικός ως concrete)",
+    "es": "agrado (plural como concreto)",
+    "et": "meeldivus (mitmuses kui konkreetne)",
+    "fi": "miellyttävyys (monikko konkreettisena)",
+    "fr": "l'agrément (pluriel comme concret)",
+    "hu": "kellemesség (többes számban, mint konkrétan)",
+    "id": "kesenangan (jamak sebagai konkret)",
+    "it": "piacevolezza (plurale come concreto)",
+    "ja": "心地よさ",
+    "ko": "쾌적함(콘크리트와 같은 복수형)",
+    "lt": "malonumas (daugiskaita kaip konkretus)",
+    "lv": "patīkamība (daudzskaitlī kā konkrēts)",
+    "nb": "behagelighet (flertall som konkret)",
+    "nl": "aangenaamheid (meervoud als concreet)",
+    "pl": "przyjemności (liczba mnoga jako konkretna)",
+    "pt": "agradabilidade (plural como concreto)",
+    "ro": "plăcere (plural ca concret)",
+    "ru": "приятность (множественное число как конкретное)",
+    "sk": "príjemnosť (v množnom čísle ako konkrétny)",
+    "sl": "prijetnost (množina kot konkretno)",
+    "sv": "behaglighet (plural som konkret)",
+    "tr": "hoşluk (somut olarak çoğul)",
+    "uk": "приємність (у множині, як бетон)",
+    "zh": "悦耳"
+  },
+  "verses": [
+    "isaiah 17:10:12"
+  ]
+}

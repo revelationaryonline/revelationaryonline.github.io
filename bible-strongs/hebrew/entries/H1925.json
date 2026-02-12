@@ -1,0 +1,42 @@
+{
+  "number": "H1925",
+  "language": "hebrew",
+  "transliteration": "heder",
+  "pronunciation": "heh'-der",
+  "definition": "honour; used (figuratively) for the capital city (Jerusalem)",
+  "kjvTranslation": "glory.",
+  "translations": {
+    "bg": "чест; използва се (в преносен смисъл) за столицата (Йерусалим)",
+    "cs": "čest; používá se (přeneseně) pro hlavní město (Jeruzalém)",
+    "da": "ære; bruges (i overført betydning) om hovedstaden (Jerusalem)",
+    "de": "ehre; wird (im übertragenen Sinne) für die Hauptstadt (Jerusalem) verwendet",
+    "el": "τιμή- χρησιμοποιείται (μεταφορικά) για την πρωτεύουσα (Ιερουσαλήμ)",
+    "es": "honor; utilizado (en sentido figurado) para la capital (Jerusalén)",
+    "et": "au; kasutatakse (piltlikult) pealinna (Jeruusalemma) kohta",
+    "fi": "kunnia; käytetään (kuvaannollisesti) pääkaupungista (Jerusalem)",
+    "fr": "honneur ; utilisé (au sens figuré) pour la capitale (Jérusalem)",
+    "hu": "becsület; (átvitt értelemben) a fővárosra (Jeruzsálem) használták",
+    "id": "kehormatan; digunakan (secara kiasan) untuk ibu kota (Yerusalem)",
+    "it": "onore; usato (in senso figurato) per la capitale (Gerusalemme)",
+    "ja": "名誉；首都（エルサレム）に（比喩的に）使われる",
+    "ko": "명예; 수도(예루살렘)에 (비유적으로) 사용됨",
+    "lt": "garbė; vartojamas (perkeltine prasme) sostinei (Jeruzalei)",
+    "lv": "gods; tiek lietots (pārnestā nozīmē) galvaspilsētas (Jeruzalemes) apzīmēšanai",
+    "nb": "ære; brukes (i overført betydning) om hovedstaden (Jerusalem)",
+    "nl": "eer; (figuurlijk) gebruikt voor de hoofdstad (Jeruzalem)",
+    "pl": "honor; używane (w przenośni) w odniesieniu do stolicy (Jerozolimy)",
+    "pt": "honra; utilizado (em sentido figurado) para a cidade capital (Jerusalém)",
+    "ro": "onoare; folosit (la figurat) pentru capitală (Ierusalim)",
+    "ru": "честь; используется (образно) для обозначения столицы (Иерусалим)",
+    "sk": "česť; používa sa (obrazne) pre hlavné mesto (Jeruzalem)",
+    "sl": "čast; uporablja se (v prenesenem pomenu) za glavno mesto (Jeruzalem)",
+    "sv": "ära; används (bildligt talat) för huvudstaden (Jerusalem)",
+    "tr": "onur; başkent (Kudüs) için (mecazi olarak) kullanılır",
+    "uk": "честь; вживається (образно) на позначення столиці (Єрусалиму)",
+    "zh": "荣誉；（比喻）用于首都（耶路撒冷）"
+  },
+  "hebrew": "הֶדֶר",
+  "verses": [
+    "daniel 11:20:5"
+  ]
+}

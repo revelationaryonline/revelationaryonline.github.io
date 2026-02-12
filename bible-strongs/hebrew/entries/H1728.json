@@ -1,0 +1,43 @@
+{
+  "number": "H1728",
+  "language": "hebrew",
+  "transliteration": "davvâg",
+  "pronunciation": "dav-vawg'",
+  "definition": "a fisherman",
+  "kjvTranslation": "fisher.",
+  "translations": {
+    "bg": "рибар",
+    "cs": "rybář",
+    "da": "en fisker",
+    "de": "ein Fischer",
+    "el": "ένας ψαράς",
+    "es": "un pescador",
+    "et": "kalur",
+    "fi": "kalastaja",
+    "fr": "un pêcheur",
+    "hu": "egy halász",
+    "id": "seorang nelayan",
+    "it": "un pescatore",
+    "ja": "漁師",
+    "ko": "어부",
+    "lt": "žvejys",
+    "lv": "zvejnieks",
+    "nb": "en fisker",
+    "nl": "een visser",
+    "pl": "rybak",
+    "pt": "um pescador",
+    "ro": "un pescar",
+    "ru": "рыбак",
+    "sk": "rybár",
+    "sl": "ribič",
+    "sv": "en fiskare",
+    "tr": "bir balıkçı",
+    "uk": "рибалка",
+    "zh": "渔民"
+  },
+  "hebrew": "דַּוָּג",
+  "verses": [
+    "jeremiah 16:16:2",
+    "ezekiel 47:10:4"
+  ]
+}

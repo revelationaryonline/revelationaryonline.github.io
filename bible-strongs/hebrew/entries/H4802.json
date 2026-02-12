@@ -1,0 +1,43 @@
+{
+  "number": "H4802",
+  "language": "hebrew",
+  "transliteration": "marchesheth",
+  "pronunciation": "mar-kheh'-sheth",
+  "definition": "a stewpan",
+  "kjvTranslation": "fryingpan.",
+  "hebrew": "מַרְחֶשֶׁת",
+  "translations": {
+    "bg": "тенджера за готвене",
+    "cs": "kotlík na dušení",
+    "da": "en gryde",
+    "de": "einen Kochtopf",
+    "el": "μια κατσαρόλα",
+    "es": "una cacerola",
+    "et": "hautamisnõu",
+    "fi": "kattila",
+    "fr": "un faitout",
+    "hu": "egy fazék",
+    "id": "panci rebusan",
+    "it": "una pentola",
+    "ja": "鍋",
+    "ko": "스튜팬",
+    "lt": "troškintuvas",
+    "lv": "sautējamais katls",
+    "nb": "en gryte",
+    "nl": "een stoofpan",
+    "pl": "patelnia",
+    "pt": "uma panela",
+    "ro": "o cratiță",
+    "ru": "кастрюля",
+    "sk": "kotlík na guláš",
+    "sl": "lonec za kuhanje",
+    "sv": "en gryta",
+    "tr": "bir güveç",
+    "uk": "сотейник",
+    "zh": "炖锅"
+  },
+  "verses": [
+    "leviticus 2:7:2",
+    "leviticus 7:9:7"
+  ]
+}

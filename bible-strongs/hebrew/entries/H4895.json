@@ -1,0 +1,43 @@
+{
+  "number": "H4895",
+  "language": "hebrew",
+  "transliteration": "masṭêmâh",
+  "pronunciation": "mas-tay-maw'",
+  "definition": "enmity",
+  "kjvTranslation": "hatred.",
+  "hebrew": "מַשְׂטֵמָה",
+  "translations": {
+    "bg": "враждебност",
+    "cs": "nepřátelství",
+    "da": "fjendskab",
+    "de": "feindschaft",
+    "el": "εχθρότητα",
+    "es": "enemistad",
+    "et": "vaenu",
+    "fi": "vihamielisyys",
+    "fr": "hostilité",
+    "hu": "ellenségeskedés",
+    "id": "permusuhan",
+    "it": "inimicizia",
+    "ja": "怨恨",
+    "ko": "적대",
+    "lt": "priešiškumas",
+    "lv": "ienaids",
+    "nb": "fiendskap",
+    "nl": "vijandschap",
+    "pl": "wrogość",
+    "pt": "inimizade",
+    "ro": "dușmănie",
+    "ru": "вражда",
+    "sk": "nepriateľstvo",
+    "sl": "sovraštvo",
+    "sv": "fiendskap",
+    "tr": "düşmanlık",
+    "uk": "ворожнеча",
+    "zh": "仇恨"
+  },
+  "verses": [
+    "hosea 9:7:17",
+    "hosea 9:8:10"
+  ]
+}

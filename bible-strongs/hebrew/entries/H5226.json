@@ -1,0 +1,43 @@
+{
+  "number": "H5226",
+  "language": "hebrew",
+  "transliteration": "nêkach",
+  "pronunciation": "nay'-kakh",
+  "definition": "properly, the fore part; used adverbially, opposite",
+  "kjvTranslation": "before, over against.",
+  "hebrew": "נֵכַח",
+  "translations": {
+    "bg": "правилно, предната част; използва се като наречие, противоположно",
+    "cs": "správně, přední část; používá se jako příslovce, opak",
+    "da": "korrekt, den forreste del; brugt adverbialt, modsat",
+    "de": "richtig, der vordere Teil; adverbial verwendet, gegenüber",
+    "el": "σωστά, το μπροστινό μέρος- χρησιμοποιείται επιρρηματικά, αντίθετα",
+    "es": "propiamente, la parte anterior; usado adverbialmente, opuesto",
+    "et": "õigesti, esiosa; kasutatakse adverbiaalselt, vastandatult",
+    "fi": "oikein, etuosa; käytetään adverbiaalisesti, vastakkainen osa",
+    "fr": "proprement dit, la partie antérieure ; utilisé adverbialement, l'opposé",
+    "hu": "helyesen: az elülső rész; határozószóval használva: ellentétes",
+    "id": "benar, bagian depan; digunakan secara adverbial, berlawanan",
+    "it": "propriamente, la parte anteriore; usato in senso avverbiale, contrario",
+    "ja": "正しくは、前方部分。副詞的には、反対の意味で使われる",
+    "ko": "적절하게, 앞 부분; 부사적으로, 반대로 사용됨",
+    "lt": "tinkamai - priekinė dalis; vartojamas kaip prieveiksmis, priešingas",
+    "lv": "pareizi - priekšējā daļa; lietots kā apstākļa vārds, pretējs",
+    "nb": "egentlig, den fremre delen; brukt adverbialt, motsatt",
+    "nl": "naar behoren, het voorste deel; gebruikt als bijwoordelijk, tegenovergesteld",
+    "pl": "właściwie, przednia część; użyte przysłówkowo, przeciwnie",
+    "pt": "propriamente, a parte anterior; usado adverbialmente, oposto",
+    "ro": "propriu-zis, partea din față; folosit adverbial, opus",
+    "ru": "правильно, передняя часть; используется наречие, напротив",
+    "sk": "správne, predná časť; používa sa ako príslovkové určenie, protiklad",
+    "sl": "pravilno, sprednji del; uporablja se kot prislov, nasprotno",
+    "sv": "korrekt, den främre delen; används adverbiellt, motsatt",
+    "tr": "doğru olarak, ön kısım; zarf olarak, karşıt olarak kullanılır",
+    "uk": "власне, передня частина; вживається прислівниково, навпаки",
+    "zh": "前"
+  },
+  "verses": [
+    "exodus 14:2:16",
+    "ezekiel 46:9:31"
+  ]
+}

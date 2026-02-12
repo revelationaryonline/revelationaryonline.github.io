@@ -1,0 +1,42 @@
+{
+  "number": "H1752",
+  "language": "hebrew",
+  "transliteration": "dûwr",
+  "pronunciation": "dure",
+  "definition": "properly, to gyrate (or move in a circle), i.e. to remain",
+  "kjvTranslation": "dwell.",
+  "translations": {
+    "bg": "правилно, да се върти (или да се движи в кръг), т.е. да остане",
+    "cs": "správně gyrate (pohybovat se v kruhu), tj. zůstat v kruhu",
+    "da": "korrekt, at dreje (eller bevæge sig i en cirkel), dvs. at forblive",
+    "de": "richtig, sich drehen (oder im Kreis bewegen), d.h. bleiben",
+    "el": "σωστά, να γυρίζει (ή να κινείται κυκλικά), δηλαδή να παραμένει",
+    "es": "propiamente, girar (o moverse en círculo), es decir, permanecer",
+    "et": "õigesti, keerelda (või liikuda ringiratast), st jääda",
+    "fi": "oikein, kiertää (tai liikkua ympyrässä), eli pysyä",
+    "fr": "proprement, de tourner en rond (ou de se déplacer en cercle), c'est-à-dire de rester en place",
+    "hu": "megfelelően, körözni (vagy körbe-körbe mozogni), azaz megmaradni",
+    "id": "dengan benar, untuk berputar (atau bergerak dalam lingkaran), yaitu untuk tetap",
+    "it": "propriamente, di girare (o muoversi in cerchio), cioè di rimanere",
+    "ja": "つまり、円を描くように動く。",
+    "ko": "제대로, 회전(또는 원을 그리며 움직이기)하기, 즉",
+    "lt": "taisyklingai, gyrate (arba judėti ratu), t. y. išlikti",
+    "lv": "pareizi - griezties (vai kustēties pa apli), t. i., palikt",
+    "nb": "riktig, å rotere (eller bevege seg i en sirkel), dvs. å forbli",
+    "nl": "op de juiste manier, om te draaien (of in een cirkel te bewegen), d.w.z. om te blijven",
+    "pl": "prawidłowo, do gyrate (lub poruszać się po okręgu), tj. pozostać",
+    "pt": "propriamente dito, girar (ou mover-se em círculo), ou seja, permanecer",
+    "ro": "în mod corespunzător, să se rotească (sau să se miște în cerc), adică să rămână",
+    "ru": "правильно, гирировать (или двигаться по кругу), т.е. оставаться",
+    "sk": "správne gyrate (alebo pohybovať sa v kruhu), t. j. zostať",
+    "sl": "pravilno, vrteti se (ali se gibati v krogu), tj. ostati",
+    "sv": "korrekt, att snurra (eller röra sig i en cirkel), dvs. att förbli",
+    "tr": "düzgün bir şekilde, dönmek (veya bir daire içinde hareket etmek), yani kalmak",
+    "uk": "правильно, кружляти (або рухатися по колу), тобто залишатися",
+    "zh": "正确地，回旋（或绕圈移动），即保持"
+  },
+  "hebrew": "דּוּר",
+  "verses": [
+    "psalms 84:11:9"
+  ]
+}

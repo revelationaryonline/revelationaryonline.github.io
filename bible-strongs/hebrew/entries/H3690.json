@@ -1,0 +1,43 @@
+{
+  "number": "H3690",
+  "language": "hebrew",
+  "transliteration": "kiçlâh",
+  "pronunciation": "kis-law'",
+  "definition": "in a good sense, trust; in a bad one, silliness",
+  "kjvTranslation": "confidence, folly.",
+  "translations": {
+    "bg": "в добрия смисъл на думата - доверие; в лошия - глупост",
+    "cs": "v dobrém slova smyslu důvěra, ve špatném slova smyslu hloupost",
+    "da": "i god forstand, tillid; i dårlig forstand, dumhed",
+    "de": "im guten Sinne: Vertrauen; im schlechten Sinne: Dummheit",
+    "el": "με την καλή έννοια, εμπιστοσύνη- με την κακή, ανοησία",
+    "es": "en el buen sentido, confianza; en el malo, estupidez",
+    "et": "heas mõttes usaldus; halvas mõttes rumalus",
+    "fi": "hyvässä mielessä luottamus, huonossa mielessä hölmöys",
+    "fr": "dans le bon sens, la confiance ; dans le mauvais, la bêtise",
+    "hu": "jó értelemben bizalom, rossz értelemben butaság",
+    "id": "dalam arti yang baik, kepercayaan; dalam arti yang buruk, kekonyolan",
+    "it": "in senso buono, fiducia; in senso cattivo, stupidità",
+    "ja": "良い意味での信頼、悪い意味での愚かさ",
+    "ko": "좋은 의미로는 신뢰, 나쁜 의미로는 어리석음을 뜻합니다",
+    "lt": "gerąja prasme - pasitikėjimas, blogąja - kvailumas",
+    "lv": "labā nozīmē - uzticība, sliktā - muļķība",
+    "nb": "i god forstand, tillit; i dårlig, dumhet",
+    "nl": "in goede zin, vertrouwen; in slechte zin, dwaasheid",
+    "pl": "w dobrym znaczeniu - zaufanie; w złym - głupota",
+    "pt": "no bom sentido, confiança; no mau sentido, tolice",
+    "ro": "în sens bun, încredere; în sens rău, prostie",
+    "ru": "в хорошем смысле - доверие; в плохом - глупость",
+    "sk": "v dobrom zmysle slova dôvera, v zlom hlúposť",
+    "sl": "v dobrem smislu zaupanje, v slabem pa neumnost",
+    "sv": "i god bemärkelse, förtroende; i dålig, dumhet",
+    "tr": "iyi anlamda, güven; kötü anlamda, aptallık",
+    "uk": "у хорошому сенсі - довіра; у поганому - дурість",
+    "zh": "说得好，是信任；说得不好，是愚蠢"
+  },
+  "hebrew": "כִּסְלָה",
+  "verses": [
+    "job 4:6:2",
+    "psalms 85:9:14"
+  ]
+}

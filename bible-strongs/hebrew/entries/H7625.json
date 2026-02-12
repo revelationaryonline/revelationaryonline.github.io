@@ -1,0 +1,42 @@
+{
+  "number": "H7625",
+  "language": "hebrew",
+  "transliteration": "shᵉbaṭ",
+  "pronunciation": "sheb-at'",
+  "definition": "a clan",
+  "kjvTranslation": "tribe.",
+  "hebrew": "שְׁבַט",
+  "translations": {
+    "bg": "клан",
+    "cs": "klan",
+    "da": "en klan",
+    "de": "ein Clan",
+    "el": "μια φυλή",
+    "es": "un clan",
+    "et": "klann",
+    "fi": "klaani",
+    "fr": "un clan",
+    "hu": "egy klán",
+    "id": "sebuah klan",
+    "it": "un clan",
+    "ja": "一族",
+    "ko": "클랜",
+    "lt": "klanas",
+    "lv": "klans",
+    "nb": "en klan",
+    "nl": "een clan",
+    "pl": "klan",
+    "pt": "um clã",
+    "ro": "un clan",
+    "ru": "клан",
+    "sk": "klan",
+    "sl": "klan",
+    "sv": "en klan",
+    "tr": "bir klan",
+    "uk": "клан",
+    "zh": "一族"
+  },
+  "verses": [
+    "ezra 6:17:22"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5784",
+  "language": "hebrew",
+  "transliteration": "ʻûwr",
+  "pronunciation": "oor",
+  "definition": "chaff (as the naked husk)",
+  "kjvTranslation": "chaff.",
+  "hebrew": "עוּר",
+  "translations": {
+    "bg": "плява (като гола люспа)",
+    "cs": "plevy (jako holá slupka)",
+    "da": "avner (som den nøgne skal)",
+    "de": "spreu (wie die nackte Schale)",
+    "el": "chaff (όπως το γυμνό φλοιό)",
+    "es": "paja (como la cáscara desnuda)",
+    "et": "chaff (nagu alasti koor)",
+    "fi": "akanat (alastomana kuorena)",
+    "fr": "paille (comme l'enveloppe nue)",
+    "hu": "pelyva (mint a csupasz héj)",
+    "id": "sekam (sebagai sekam telanjang)",
+    "it": "pula (come la pula nuda)",
+    "ja": "籾殻",
+    "ko": "왕겨(껍질을 벗긴 상태)",
+    "lt": "pelus (kaip nuogas lukštas)",
+    "lv": "pelavas (kā kailas mizas)",
+    "nb": "agner (som det nakne skallet)",
+    "nl": "kaf (als het naakte kaf)",
+    "pl": "plewa (jako naga łuska)",
+    "pt": "palha (como a casca nua)",
+    "ro": "pleavă (ca coaja goală)",
+    "ru": "мякина (как голая шелуха)",
+    "sk": "plevy (ako holá pleva)",
+    "sl": "pleve (kot gola lupina)",
+    "sv": "agnar (som det nakna skalet)",
+    "tr": "saman (çıplak kabuk olarak)",
+    "uk": "полова (як голе лушпиння)",
+    "zh": "秕糠"
+  },
+  "verses": [
+    "daniel 2:35:9"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7874",
+  "language": "hebrew",
+  "transliteration": "sîyd",
+  "pronunciation": "seed",
+  "definition": "to plaster",
+  "kjvTranslation": "plaister.",
+  "hebrew": "שִׂיד",
+  "translations": {
+    "bg": "да се измазва",
+    "cs": "na omítku",
+    "da": "at pudse",
+    "de": "zum Verputzen",
+    "el": "να σοβατίσουν",
+    "es": "enyesar",
+    "et": "kipsile",
+    "fi": "kipsata",
+    "fr": "pour plâtrer",
+    "hu": "a vakolathoz",
+    "id": "untuk memplester",
+    "it": "per intonacare",
+    "ja": "プラスター",
+    "ko": "석고에",
+    "lt": "tinkuoti",
+    "lv": "apmetums",
+    "nb": "til gips",
+    "nl": "om te pleisteren",
+    "pl": "tynkować",
+    "pt": "para rebocar",
+    "ro": "să tencuiască",
+    "ru": "штукатурить",
+    "sk": "na omietku",
+    "sl": "ometati",
+    "sv": "att plåstra om",
+    "tr": "sıva yapmak için",
+    "uk": "штукатурити",
+    "zh": "抹灰"
+  },
+  "verses": [
+    "deuteronomy 27:2:17",
+    "deuteronomy 27:4:15"
+  ]
+}

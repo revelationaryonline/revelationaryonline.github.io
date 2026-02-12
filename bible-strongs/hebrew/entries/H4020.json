@@ -1,0 +1,42 @@
+{
+  "number": "H4020",
+  "language": "hebrew",
+  "transliteration": "migbâlâh",
+  "pronunciation": "mig-baw-law'",
+  "definition": "a border",
+  "kjvTranslation": "end.",
+  "hebrew": "מִגְבָּלָה",
+  "translations": {
+    "bg": "граница",
+    "cs": "hranice",
+    "da": "en grænse",
+    "de": "eine Grenze",
+    "el": "ένα σύνορο",
+    "es": "una frontera",
+    "et": "piir",
+    "fi": "raja",
+    "fr": "une frontière",
+    "hu": "egy határ",
+    "id": "perbatasan",
+    "it": "un bordo",
+    "ja": "国境線",
+    "ko": "테두리",
+    "lt": "riba",
+    "lv": "robeža",
+    "nb": "en grense",
+    "nl": "een grens",
+    "pl": "granica",
+    "pt": "uma fronteira",
+    "ro": "o frontieră",
+    "ru": "граница",
+    "sk": "hranica",
+    "sl": "meja",
+    "sv": "en gräns",
+    "tr": "bir sınır",
+    "uk": "кордон",
+    "zh": "圻"
+  },
+  "verses": [
+    "exodus 28:14:4"
+  ]
+}

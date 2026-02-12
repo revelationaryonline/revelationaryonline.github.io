@@ -1,0 +1,42 @@
+{
+  "number": "H1429",
+  "language": "hebrew",
+  "transliteration": "gᵉdîyâh",
+  "pronunciation": "ghed-ee-yaw'",
+  "definition": "a young female goat",
+  "kjvTranslation": "kid.",
+  "translations": {
+    "bg": "млада женска коза",
+    "cs": "mladá koza",
+    "da": "en ung hunged",
+    "de": "eine junge weibliche Ziege",
+    "el": "μια νεαρή θηλυκή κατσίκα",
+    "es": "una cabra joven",
+    "et": "noor emane kitsepoeg",
+    "fi": "nuori naaraspuolinen vuohi",
+    "fr": "une jeune chèvre",
+    "hu": "fiatal nőstény kecske",
+    "id": "seekor kambing betina muda",
+    "it": "una giovane capra femmina",
+    "ja": "若い雌ヤギ",
+    "ko": "어린 암컷 염소",
+    "lt": "jauna ožkos patelė",
+    "lv": "jauna kazas mātīte",
+    "nb": "en ung hunngeit",
+    "nl": "een jonge vrouwelijke geit",
+    "pl": "młoda samica kozy",
+    "pt": "uma cabra jovem",
+    "ro": "o capră tânără",
+    "ru": "молодая самка козы",
+    "sk": "mladá koza",
+    "sl": "mlada samica koze",
+    "sv": "en ung get av honkön",
+    "tr": "genç bir dişi keçi",
+    "uk": "молоду козу",
+    "zh": "雌羊"
+  },
+  "hebrew": "גְּדִיָּה",
+  "verses": [
+    "solomon 1:8:12"
+  ]
+}

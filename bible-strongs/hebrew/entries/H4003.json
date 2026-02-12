@@ -1,0 +1,42 @@
+{
+  "number": "H4003",
+  "language": "hebrew",
+  "transliteration": "mᵉbûwqâh",
+  "pronunciation": "meb-oo-kah'",
+  "definition": "emptiness",
+  "kjvTranslation": "void.",
+  "hebrew": "מְבוּקָה",
+  "translations": {
+    "bg": "празнота",
+    "cs": "prázdnota",
+    "da": "tomhed",
+    "de": "leere",
+    "el": "κενότητα",
+    "es": "vacío",
+    "et": "tühjus",
+    "fi": "tyhjyys",
+    "fr": "vide",
+    "hu": "üresség",
+    "id": "kekosongan",
+    "it": "vuoto",
+    "ja": "空虚",
+    "ko": "공허함",
+    "lt": "tuštuma",
+    "lv": "tukšums",
+    "nb": "tomhet",
+    "nl": "leegte",
+    "pl": "pustka",
+    "pt": "vazio",
+    "ro": "goliciune",
+    "ru": "пустота",
+    "sk": "prázdnota",
+    "sl": "praznina",
+    "sv": "tomhet",
+    "tr": "boşluk",
+    "uk": "порожнеча",
+    "zh": "虚空"
+  },
+  "verses": [
+    "nahum 2:11:1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H210",
+  "language": "hebrew",
+  "transliteration": "ʼÛwphâz",
+  "pronunciation": "oo-fawz'",
+  "definition": "Uphaz, a famous gold region",
+  "kjvTranslation": "Uphaz.",
+  "translations": {
+    "bg": "Уфаз, известен златен район",
+    "cs": "Uphaz, slavná zlatá oblast",
+    "da": "Uphaz, en berømt guldregion",
+    "de": "Uphaz, eine berühmte Goldregion",
+    "el": "Uphaz, μια διάσημη περιοχή χρυσού",
+    "es": "Uphaz, una famosa región aurífera",
+    "et": "Uphaz, kuulus kullapiirkond",
+    "fi": "Uphaz, kuuluisa kulta-alue",
+    "fr": "Uphaz, une région aurifère réputée",
+    "hu": "Uphaz, egy híres aranyrégió",
+    "id": "Uphaz, wilayah emas yang terkenal",
+    "it": "Uphaz, una famosa regione aurifera",
+    "ja": "黄金の名産地、ウファズ",
+    "ko": "금으로 유명한 지역, 우파즈",
+    "lt": "Ufazas, garsus aukso regionas",
+    "lv": "Uphaz, slavenais zelta reģions",
+    "nb": "Uphaz, en berømt gullregion",
+    "nl": "Uphaz, een beroemde goudregio",
+    "pl": "Uphaz, słynny region złota",
+    "pt": "Uphaz, uma famosa região aurífera",
+    "ro": "Uphaz, o regiune auriferă renumită",
+    "ru": "Уфаз, знаменитый золотоносный район",
+    "sk": "Uphaz, slávna zlatá oblasť",
+    "sl": "Uphaz, znamenita zlata regija",
+    "sv": "Uphaz, en berömd guldregion",
+    "tr": "Uphaz, ünlü bir altın bölgesi",
+    "uk": "Уфаз, відомий золотий регіон",
+    "zh": "乌法兹"
+  },
+  "hebrew": "אוּפָז",
+  "verses": [
+    "jeremiah 10:9:5",
+    "daniel 10:5:12"
+  ]
+}

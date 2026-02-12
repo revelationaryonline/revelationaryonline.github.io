@@ -1,0 +1,42 @@
+{
+  "number": "H6173",
+  "language": "hebrew",
+  "transliteration": "ʻarvâh",
+  "pronunciation": "ar-vaw'",
+  "definition": "nakedness, i.e. (figuratively) impoverishment",
+  "kjvTranslation": "dishonor.",
+  "hebrew": "עַרְוָה",
+  "translations": {
+    "bg": "голота, т.е. (в преносен смисъл) обедняване",
+    "cs": "nahota, tj. (přeneseně) zbídačení",
+    "da": "nøgenhed, dvs. (i overført betydning) forarmelse",
+    "de": "nacktheit, d.h. (im übertragenen Sinne) Verarmung",
+    "el": "γύμνια, δηλαδή (μεταφορικά) εξαθλίωση",
+    "es": "desnudez, es decir (en sentido figurado) empobrecimiento",
+    "et": "alastisus, st (piltlikult) vaesumine",
+    "fi": "alastomuus eli (kuvaannollisesti) köyhtyminen",
+    "fr": "la nudité, c'est-à-dire (au sens figuré) l'appauvrissement",
+    "hu": "meztelenség, azaz (átvitt értelemben) elszegényedés",
+    "id": "ketelanjangan, yaitu (secara kiasan) pemiskinan",
+    "it": "nudità, cioè impoverimento (in senso figurato)",
+    "ja": "裸一貫",
+    "ko": "벌거벗음, 즉 (비유적으로) 가난함",
+    "lt": "nuogumas, t. y. (perkeltine prasme) nuskurdimas",
+    "lv": "kailums, t.i., (pārnestā nozīmē) nabadzība",
+    "nb": "nakenhet, dvs. (i overført betydning) utarming",
+    "nl": "naaktheid, d.w.z. (figuurlijk) verarming",
+    "pl": "nagość, tj. (w przenośni) zubożenie",
+    "pt": "a nudez, ou seja, (figurativamente) o empobrecimento",
+    "ro": "goliciune, adică (la figurat) sărăcire",
+    "ru": "нагота, т.е. (образно) обнищание",
+    "sk": "nahota, t. j. (obrazne) ochudobnenie",
+    "sl": "golota, tj. (v prenesenem pomenu) osiromašenje",
+    "sv": "nakenhet, dvs. (bildligt talat) utarmning",
+    "tr": "çıplaklık, yani (mecazi anlamda) yoksullaşma",
+    "uk": "оголеність, тобто (образно) зубожіння",
+    "zh": "赤贫"
+  },
+  "verses": [
+    "ezra 4:14:7"
+  ]
+}

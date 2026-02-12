@@ -1,0 +1,42 @@
+{
+  "number": "H3613",
+  "language": "hebrew",
+  "transliteration": "Kâlêb ʼEphrâthâh",
+  "pronunciation": "kaw-labe' ef-raw'-thaw",
+  "definition": "Caleb-Ephrathah, a place in Egypt (if the text is correct)",
+  "kjvTranslation": "Caleb-ephrathah.",
+  "translations": {
+    "bg": "Халев-Ефрат, място в Египет (ако текстът е верен)",
+    "cs": "Káleb-Efrata, místo v Egyptě (pokud je text správný)",
+    "da": "Caleb-Ephrathah, et sted i Egypten (hvis teksten er korrekt)",
+    "de": "Kaleb-Ephratha, ein Ort in Ägypten (wenn der Text korrekt ist)",
+    "el": "Χάλεβ-Εφραθά, ένας τόπος στην Αίγυπτο (αν το κείμενο είναι σωστό)",
+    "es": "Caleb-Efrata, un lugar en Egipto (si el texto es correcto)",
+    "et": "Kaaleb-Efratha, koht Egiptuses (kui tekst on õige)",
+    "fi": "Kaleb-Ephrata, paikka Egyptissä (jos teksti on oikea)",
+    "fr": "Caleb-Ephratha, un lieu en Égypte (si le texte est correct)",
+    "hu": "Káleb-Efrátha, egy hely Egyiptomban (ha a szöveg helytálló)",
+    "id": "Kaleb-Efrata, sebuah tempat di Mesir (jika teksnya benar)",
+    "it": "Caleb-Efrata, una località in Egitto (se il testo è corretto)",
+    "ja": "カレブ＝エフラタ、エジプトの地名（テキストが正しければ）",
+    "ko": "칼렙-에브라다, 이집트의 한 장소(본문이 맞다면)",
+    "lt": "Kalebas-Efrata, vietovė Egipte (jei tekstas teisingas)",
+    "lv": "Kalebs-Efratha, vieta Ēģiptē (ja teksts ir pareizs)",
+    "nb": "Kaleb-Ephrata, et sted i Egypt (hvis teksten er korrekt)",
+    "nl": "Kaleb-Efratha, een plaats in Egypte (als de tekst juist is)",
+    "pl": "Caleb-Ephrathah, miejsce w Egipcie (jeśli tekst jest poprawny)",
+    "pt": "Calebe-Efrata, um lugar no Egito (se o texto estiver correto)",
+    "ro": "Caleb-Efrata, un loc în Egipt (dacă textul este corect)",
+    "ru": "Халев-Ефрафа, место в Египте (если текст верен)",
+    "sk": "Kaleb-Efrata, miesto v Egypte (ak je text správny)",
+    "sl": "Kaleb-Efrata, kraj v Egiptu (če je besedilo pravilno)",
+    "sv": "Caleb-Ephrathah, en plats i Egypten (om texten är korrekt)",
+    "tr": "Caleb-Ephrathah, Mısır'da bir yer (eğer metin doğruysa)",
+    "uk": "Калеб-Ефрата, місце в Єгипті (якщо текст правильний)",
+    "zh": "迦勒-以法他，埃及的一个地方（如果文本正确的话）"
+  },
+  "hebrew": "כָּלֵב אֶפְרָתָה",
+  "verses": [
+    "firstChronicles 2:24:4"
+  ]
+}

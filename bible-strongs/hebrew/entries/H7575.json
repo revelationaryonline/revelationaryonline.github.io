@@ -1,0 +1,43 @@
+{
+  "number": "H7575",
+  "language": "hebrew",
+  "transliteration": "Rithmâh",
+  "pronunciation": "rith-maw'",
+  "definition": "Rithmah, a place in the Desert",
+  "kjvTranslation": "Rithmah.",
+  "hebrew": "רִתְמָה",
+  "translations": {
+    "bg": "Ритма, място в пустинята",
+    "cs": "Rithmah, místo v poušti",
+    "da": "Rithmah, et sted i ørkenen",
+    "de": "Rithmah, ein Ort in der Wüste",
+    "el": "Ρίθμα, ένας τόπος στην έρημο",
+    "es": "Rithmah, un lugar en el desierto",
+    "et": "Rithmah, koht kõrbes",
+    "fi": "Rithmah, paikka erämaassa",
+    "fr": "Rithmah, un lieu dans le désert",
+    "hu": "Rithmah, egy hely a sivatagban",
+    "id": "Rithmah, sebuah tempat di Gurun Pasir",
+    "it": "Rithmah, un luogo nel deserto",
+    "ja": "砂漠の地リスマ",
+    "ko": "사막의 장소, 리트마",
+    "lt": "Ritma, vieta dykumoje",
+    "lv": "Rithmah, vieta tuksnesī",
+    "nb": "Rithmah, et sted i ørkenen",
+    "nl": "Rithmah, een plaats in de woestijn",
+    "pl": "Rithmah, miejsce na pustyni",
+    "pt": "Rithmah, um lugar no deserto",
+    "ro": "Rithmah, un loc în deșert",
+    "ru": "Рифма, место в пустыне",
+    "sk": "Rithmah, miesto v púšti",
+    "sl": "Rithmah, kraj v puščavi",
+    "sv": "Rithmah, en plats i öknen",
+    "tr": "Rithmah, Çölde bir yer",
+    "uk": "Ритма, місце в пустелі",
+    "zh": "里斯玛"
+  },
+  "verses": [
+    "numbers 33:18:3",
+    "numbers 33:19:1"
+  ]
+}

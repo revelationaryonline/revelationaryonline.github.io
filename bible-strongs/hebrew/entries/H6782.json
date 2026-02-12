@@ -1,0 +1,43 @@
+{
+  "number": "H6782",
+  "language": "hebrew",
+  "transliteration": "tsammîym",
+  "pronunciation": "tsam-meem'",
+  "definition": "a noose (as fastening); figuratively, destruction",
+  "kjvTranslation": "robber.",
+  "hebrew": "צַמִּים",
+  "translations": {
+    "bg": "примка (като закопчалка); преносно - разрушение",
+    "cs": "smyčka (jako upevnění); přeneseně zkáza",
+    "da": "en løkke (som fastgørelse); i overført betydning, ødelæggelse",
+    "de": "eine Schlinge (als Befestigung); im übertragenen Sinne: Zerstörung",
+    "el": "θηλιά (ως στερέωση)- μεταφορικά, καταστροφή",
+    "es": "un lazo (como sujeción); en sentido figurado, destrucción",
+    "et": "silmus (kinnitusena); piltlikult öeldes hävitamine",
+    "fi": "silmukka (kiinnitys); kuvaannollisesti tuhoaminen",
+    "fr": "un nœud coulant (comme attache) ; au sens figuré, la destruction",
+    "hu": "hurok (mint rögzítés); átvitt értelemben: pusztítás",
+    "id": "jerat (sebagai pengikat); secara kiasan, kehancuran",
+    "it": "un cappio (come fissaggio); in senso figurato, distruzione",
+    "ja": "しめ縄；比喩的には破壊",
+    "ko": "올가미 (고정으로); 비유적으로, 파괴",
+    "lt": "kilpa (kaip tvirtinimas); perkeltine prasme - sunaikinimas",
+    "lv": "cilpa (kā stiprinājums); pārnestā nozīmē - iznīcināšana",
+    "nb": "en løkke (som feste); i overført betydning, ødeleggelse",
+    "nl": "een strop (als sluiting); figuurlijk, vernietiging",
+    "pl": "pętla (jako mocowanie); w przenośni zniszczenie",
+    "pt": "um laço (como uma fixação); figurativamente, destruição",
+    "ro": "un ștreang (ca prindere); la figurat, distrugere",
+    "ru": "петля (как крепление); образно, разрушение",
+    "sk": "slučka (ako upevnenie); v prenesenom význame zničenie",
+    "sl": "zanka (kot pritrditev); v prenesenem pomenu uničenje",
+    "sv": "en snara (som fästanordning); bildligt talat, förstörelse",
+    "tr": "bir ilmik (bağlama olarak); mecazi olarak, yıkım",
+    "uk": "зашморг (як кріплення); образно - знищення",
+    "zh": "绳索；比喻破坏"
+  },
+  "verses": [
+    "job 5:5:8",
+    "job 18:9:5"
+  ]
+}

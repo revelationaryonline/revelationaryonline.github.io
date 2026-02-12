@@ -1,0 +1,42 @@
+{
+  "number": "H7986",
+  "language": "hebrew",
+  "transliteration": "shalleṭeth",
+  "pronunciation": "shal-leh'-teth",
+  "definition": "a vixen",
+  "kjvTranslation": "imperious.",
+  "hebrew": "שַׁלֶּטֶת",
+  "translations": {
+    "bg": "лисица",
+    "cs": "liška",
+    "da": "en heks",
+    "de": "eine Füchsin",
+    "el": "μια αλεπού",
+    "es": "una zorra",
+    "et": "vixen",
+    "fi": "narttu",
+    "fr": "une mégère",
+    "hu": "egy boszorkány",
+    "id": "seekor rubah betina",
+    "it": "una volpe",
+    "ja": "雌狐",
+    "ko": "여우",
+    "lt": "vikšras",
+    "lv": "lūsis",
+    "nb": "en heks",
+    "nl": "een feeks",
+    "pl": "lisica",
+    "pt": "uma mulher",
+    "ro": "o vulpe",
+    "ru": "лисица",
+    "sk": "líška",
+    "sl": "lisica",
+    "sv": "en räv",
+    "tr": "bir vixen",
+    "uk": "лисиця",
+    "zh": "狐狸精"
+  },
+  "verses": [
+    "ezekiel 16:30:13"
+  ]
+}

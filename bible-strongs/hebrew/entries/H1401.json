@@ -1,0 +1,42 @@
+{
+  "number": "H1401",
+  "language": "hebrew",
+  "transliteration": "gibbâr",
+  "pronunciation": "ghib-bawr'",
+  "definition": "valiant, or warrior",
+  "kjvTranslation": "mighty.",
+  "translations": {
+    "bg": "доблестен или воин",
+    "cs": "statečný nebo bojovník",
+    "da": "tapper eller kriger",
+    "de": "tapfer, oder Krieger",
+    "el": "γενναίος, ή πολεμιστής",
+    "es": "valiente o guerrero",
+    "et": "vapper või sõdalane",
+    "fi": "urhea tai soturi",
+    "fr": "vaillant ou guerrier",
+    "hu": "bátor, vagy harcos",
+    "id": "gagah berani, atau pejuang",
+    "it": "valoroso o guerriero",
+    "ja": "勇士",
+    "ko": "용감한 또는 전사",
+    "lt": "drąsus arba karys",
+    "lv": "drosmīgs vai kareivis",
+    "nb": "tapper, eller kriger",
+    "nl": "dapper, of krijger",
+    "pl": "dzielny lub wojownik",
+    "pt": "valente, ou guerreiro",
+    "ro": "curajos, sau războinic",
+    "ru": "доблестный, или воин",
+    "sk": "udatný alebo bojovník",
+    "sl": "hrabri ali bojevnik",
+    "sv": "tapper eller krigare",
+    "tr": "yiğit ya da savaşçı",
+    "uk": "доблесний, або воїн",
+    "zh": "勇士"
+  },
+  "hebrew": "גִּבָּר",
+  "verses": [
+    "daniel 3:20:1"
+  ]
+}

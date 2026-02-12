@@ -1,0 +1,42 @@
+{
+  "number": "H2475",
+  "language": "hebrew",
+  "transliteration": "chălôwph",
+  "pronunciation": "khal-ofe'",
+  "definition": "properly, surviving; by implication (collectively) orphans",
+  "kjvTranslation": "[idiom] destruction.",
+  "translations": {
+    "bg": "правилно, оцелял; по подразбиране (колективно) сираци",
+    "cs": "správně, přežívající; implicitně (kolektivně) sirotci",
+    "da": "korrekt, overlevende; underforstået (kollektivt) forældreløse børn",
+    "de": "richtig, überlebend; implizit (kollektiv) Waisenkinder",
+    "el": "σωστά, επιζώντες- κατ' επέκταση (συλλογικά) ορφανά",
+    "es": "propiamente, supervivientes; por implicación (colectivamente) huérfanos",
+    "et": "õigesti, ellujäänud; kaudselt (kollektiivselt) orvud",
+    "fi": "oikein, eloonjääneet; implisiittisesti (kollektiivisesti) orvot",
+    "fr": "proprement dit, survivants ; par implication (collectivement) orphelins",
+    "hu": "megfelelően, túlélő; értelemszerűen (kollektíven) árvák",
+    "id": "benar, bertahan hidup; dengan implikasi (secara kolektif) anak yatim piatu",
+    "it": "propriamente, sopravvissuti; per implicazione (collettivamente) orfani",
+    "ja": "正しくは、生存している、暗に（集合的に）孤児",
+    "ko": "제대로, 살아남은; 암시적으로 (총체적으로) 고아",
+    "lt": "tinkamai, išgyvenę; netiesiogiai (kolektyviai) našlaičiai",
+    "lv": "pareizi, izdzīvojuši; netieši (kolektīvi) bāreņi",
+    "nb": "egentlig, overlevende; underforstått (kollektivt) foreldreløse barn",
+    "nl": "naar behoren, overlevende; impliciet (collectief) wezen",
+    "pl": "właściwie, ocalały; w domyśle (zbiorowo) sieroty",
+    "pt": "propriamente, sobreviventes; implicitamente (coletivamente) órfãos",
+    "ro": "corect, supraviețuitori; implicit (colectiv) orfani",
+    "ru": "должным образом, выжившие; по косвенным признакам (коллективно) сироты",
+    "sk": "správne, prežívajúci; implicitne (kolektívne) siroty",
+    "sl": "pravilno, preživeli; implicitno (kolektivno) sirote",
+    "sv": "korrekt, överlevande; underförstått (kollektivt) föräldralösa barn",
+    "tr": "uygun şekilde, hayatta kalan; ima yoluyla (toplu olarak) yetimler",
+    "uk": "власне, виживання; за змістом (збірно) сироти",
+    "zh": "适当地，幸存的；暗示（集体）孤儿"
+  },
+  "hebrew": "חֲלוֹף",
+  "verses": [
+    "proverbs 31:8:7"
+  ]
+}

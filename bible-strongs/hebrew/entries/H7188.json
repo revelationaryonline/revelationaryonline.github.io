@@ -1,0 +1,43 @@
+{
+  "number": "H7188",
+  "language": "hebrew",
+  "transliteration": "qâshach",
+  "pronunciation": "kaw-shakh'",
+  "definition": "to be (causatively, make) unfeeling",
+  "kjvTranslation": "harden.",
+  "hebrew": "קָשַׁח",
+  "translations": {
+    "bg": "да бъдеш (в причинно-следствена връзка, да бъдеш) безчувствен",
+    "cs": "být (kauzativně, učinit) bezcitným",
+    "da": "at være (kausalt, gøre) ufølsom",
+    "de": "gefühllos sein (ursächlich, machen)",
+    "el": "να είμαι (αιτιωδώς, να κάνω) αναίσθητος",
+    "es": "ser (causativamente, hacer) insensible",
+    "et": "olla (põhjuslikult, teha) tundetuks",
+    "fi": "olla (kausatiivisesti, tehdä) tunteeton",
+    "fr": "être (causativement, rendre) insensible",
+    "hu": "érzéketlenné tenni (kauzatívan, ok-okozati úton)",
+    "id": "menjadi (secara kausal, membuat) tidak berperasaan",
+    "it": "essere (causalmente, rendere) insensibile",
+    "ja": "無感情にする",
+    "ko": "(인과적으로) 무감각하다",
+    "lt": "būti (priežastingai, padaryti) bejausmiu",
+    "lv": "būt (cēloņsakarīgi, padarīt) bezjūtīgu",
+    "nb": "å være (kausativt, gjøre) følelsesløs",
+    "nl": "gevoelloos zijn (causatief, maken)",
+    "pl": "być (przyczynowo, czynić) nieczułym",
+    "pt": "ser (causativamente, tornar) insensível",
+    "ro": "a fi (cauzal, a face) insensibil",
+    "ru": "быть (каузативно, делать) бесчувственным",
+    "sk": "byť (kauzatívne, robiť) bezcitným",
+    "sl": "biti (vzročno) brezčutni",
+    "sv": "att vara (kausalt, göra) känslolös",
+    "tr": "duygusuz olmak (nedensel olarak, yapmak)",
+    "uk": "бути (причинно, робити) бездушним",
+    "zh": "无情"
+  },
+  "verses": [
+    "job 39:16:0",
+    "isaiah 63:17:4"
+  ]
+}

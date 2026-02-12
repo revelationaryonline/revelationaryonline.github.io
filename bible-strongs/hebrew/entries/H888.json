@@ -1,0 +1,42 @@
+{
+  "number": "H888",
+  "language": "hebrew",
+  "transliteration": "bᵉʼêsh",
+  "pronunciation": "be-aysh'",
+  "definition": "{to smell bad; figuratively, to be offensive morally}",
+  "kjvTranslation": "displease.",
+  "translations": {
+    "bg": "{да мирише лошо; в преносен смисъл, да е обидно от морална гледна точка}",
+    "cs": "{páchnout; přeneseně, být morálně urážlivý}",
+    "da": "{at lugte dårligt; i overført betydning at være moralsk anstødelig}",
+    "de": "{schlecht riechen; im übertragenen Sinne, moralisch anstößig sein}",
+    "el": "{μυρίζει άσχημα, μεταφορικά, είναι προσβλητικό ηθικά}",
+    "es": "{oler mal; en sentido figurado, ser ofensivo moralmente}",
+    "et": "{paha lõhn; piltlikult öeldes, olla moraalselt solvav}",
+    "fi": "{hajua pahalle; kuvaannollisesti, olla moraalisesti loukkaava}",
+    "fr": "{sentir mauvais ; au sens figuré, être moralement offensant}",
+    "hu": "{rossz szagú; átvitt értelemben, erkölcsileg sértő}",
+    "id": "(berbau tidak sedap; secara kiasan, menyinggung perasaan secara moral)",
+    "it": "{pubblicare un cattivo odore; in senso figurato, essere offensivo moralmente}",
+    "ja": "{道徳的に不快である。｝",
+    "ko": "{악취가 나다; 비유적으로, 도덕적으로 불쾌감을 주다}",
+    "lt": "{kvepėti blogai; perkeltine prasme - būti moraliai įžeidžiančiu}",
+    "lv": "{nepatīkama smarža; pārnestā nozīmē - būt morāli aizskarošam}",
+    "nb": "{å lukte vondt; i overført betydning, å være moralsk støtende}",
+    "nl": "{om slecht te ruiken; figuurlijk, om moreel aanstootgevend te zijn}",
+    "pl": "{brzydko pachnieć; w przenośni, być obraźliwym moralnie}",
+    "pt": "{cheirar mal; figurativamente, ser ofensivo do ponto de vista moral}",
+    "ro": "{to smell bad; la figurat, a fi ofensator moral}",
+    "ru": "{плохо пахнуть; образно, быть оскорбительным в моральном отношении}",
+    "sk": "{páchnuť; v prenesenom význame byť morálne urážlivý}",
+    "sl": "{slabega vonja; v prenesenem pomenu, moralno žaljiv}",
+    "sv": "{att lukta illa; bildligt talat, att vara moraliskt stötande}",
+    "tr": "{kötü kokmak; mecazi olarak, ahlaki açıdan rahatsız edici olmak}",
+    "uk": "{погано пахнути; образно, бути образливим з моральної точки зору}",
+    "zh": "{臭气熏天；比喻在道德上令人反感）"
+  },
+  "hebrew": "בְּאֵשׁ",
+  "verses": [
+    "daniel 6:15:6"
+  ]
+}

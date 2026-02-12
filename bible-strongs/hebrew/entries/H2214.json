@@ -1,0 +1,42 @@
+{
+  "number": "H2214",
+  "language": "hebrew",
+  "transliteration": "zârâʼ",
+  "pronunciation": "zaw-raw'",
+  "definition": "disgust",
+  "kjvTranslation": "loathsome.",
+  "translations": {
+    "bg": "отвращение",
+    "cs": "znechucení",
+    "da": "afsky",
+    "de": "ekel",
+    "el": "αηδία",
+    "es": "asco",
+    "et": "vastik",
+    "fi": "inho",
+    "fr": "dégoût",
+    "hu": "undor",
+    "id": "jijik",
+    "it": "disgusto",
+    "ja": "嫌悪",
+    "ko": "혐오",
+    "lt": "pasibjaurėjimas",
+    "lv": "riebums",
+    "nb": "avsky",
+    "nl": "walging",
+    "pl": "obrzydzenie",
+    "pt": "nojo",
+    "ro": "dezgust",
+    "ru": "отвращение",
+    "sk": "znechutenie",
+    "sl": "gnus",
+    "sv": "avsky",
+    "tr": "i̇ğrenme",
+    "uk": "огида",
+    "zh": "生厌"
+  },
+  "hebrew": "זָרָא",
+  "verses": [
+    "numbers 11:20:9"
+  ]
+}

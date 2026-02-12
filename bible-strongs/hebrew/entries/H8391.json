@@ -1,0 +1,43 @@
+{
+  "number": "H8391",
+  "language": "hebrew",
+  "transliteration": "tᵉʼashshûwr",
+  "pronunciation": "teh-ash-shoor'",
+  "definition": "a species of cedar (from its erectness)",
+  "kjvTranslation": "box (tree).",
+  "hebrew": "תְּאַשּׁוּר",
+  "translations": {
+    "bg": "вид кедър (поради изправеността му)",
+    "cs": "druh cedru (podle vzpřímenosti)",
+    "da": "en cedertræsart (fra dens oprejsthed)",
+    "de": "eine Zedernart (wegen ihrer Aufrichtigkeit)",
+    "el": "ένα είδος κέδρου (από την όρθια μορφή του)",
+    "es": "una especie de cedro (por su erección)",
+    "et": "seedripuu liik (püstiseisuse järgi)",
+    "fi": "setripuun laji (sen pystysuuntaisuudesta)",
+    "fr": "une espèce de cèdre (du fait de son port dressé)",
+    "hu": "egy cédrusfaj (a felegyenesedéséből adódóan)",
+    "id": "spesies pohon cedar (dari bentuknya yang tegak)",
+    "it": "una specie di cedro (dal suo portamento eretto)",
+    "ja": "すぎ",
+    "ko": "삼나무의 한 종(직립성에서 유래)",
+    "lt": "kedro rūšis (dėl jo stačiokiškumo)",
+    "lv": "ciedru suga (no tās stāvuma)",
+    "nb": "en sedertreart (fra dens oppreisthet)",
+    "nl": "een soort ceder (van zijn rechtopstaande vorm)",
+    "pl": "gatunek cedru (od jego wyprostowanej postawy)",
+    "pt": "uma espécie de cedro (pela sua ereção)",
+    "ro": "o specie de cedru (de la erecția sa)",
+    "ru": "вид кедра (по его прямостоячести)",
+    "sk": "druh cédra (podľa jeho vzpriamenosti)",
+    "sl": "vrsta cedre (zaradi njene pokončnosti)",
+    "sv": "en art av cederträ (från dess upprätthet)",
+    "tr": "bir sedir türü (dikliğinden)",
+    "uk": "вид кедра (від його прямостоячості)",
+    "zh": "杉木"
+  },
+  "verses": [
+    "isaiah 41:19:11",
+    "isaiah 60:13:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2207",
+  "language": "hebrew",
+  "transliteration": "zôqen",
+  "pronunciation": "zo'-ken",
+  "definition": "old age",
+  "kjvTranslation": "age.",
+  "translations": {
+    "bg": "старост",
+    "cs": "stáří",
+    "da": "alderdom",
+    "de": "lebensalter",
+    "el": "γήρας",
+    "es": "vejez",
+    "et": "vanadus",
+    "fi": "vanhuus",
+    "fr": "vieillesse",
+    "hu": "öregkor",
+    "id": "usia tua",
+    "it": "vecchiaia",
+    "ja": "老後",
+    "ko": "노년기",
+    "lt": "senatvė",
+    "lv": "vecumdienas",
+    "nb": "alderdom",
+    "nl": "hoge leeftijd",
+    "pl": "starość",
+    "pt": "idade avançada",
+    "ro": "bătrânețe",
+    "ru": "старость",
+    "sk": "staroba",
+    "sl": "starost",
+    "sv": "ålderdom",
+    "tr": "yAŞLILIK",
+    "uk": "старість",
+    "zh": "高龄"
+  },
+  "hebrew": "זֹקֶן",
+  "verses": [
+    "genesis 48:10:3"
+  ]
+}

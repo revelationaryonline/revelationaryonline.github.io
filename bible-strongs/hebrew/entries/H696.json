@@ -1,0 +1,42 @@
+{
+  "number": "H696",
+  "language": "hebrew",
+  "transliteration": "ʼôreb",
+  "pronunciation": "o'-reb",
+  "definition": "{ambuscade}",
+  "kjvTranslation": "wait.",
+  "translations": {
+    "bg": "{ambuscade}",
+    "cs": "{ambuscade}",
+    "da": "{ambuscade}",
+    "de": "{ambuscade}",
+    "el": "{ambuscade}",
+    "es": "{ambuscade}",
+    "et": "{ambuscade}",
+    "fi": "{ambuscade}",
+    "fr": "{ambuscade}",
+    "hu": "{ambuscade}",
+    "id": "[ambuscade]",
+    "it": "{Ambra.}",
+    "ja": "{ambuscade}。",
+    "ko": "{앰부스케이드}",
+    "lt": "{ambuscade}",
+    "lv": "{ambuscade}",
+    "nb": "{ambuscade}",
+    "nl": "{ambuscade}",
+    "pl": "{ambuscade}",
+    "pt": "{ambuscade}",
+    "ro": "{ambuscadă}",
+    "ru": "{ambuscade}",
+    "sk": "{ambuscade}",
+    "sl": "{ambuscade}",
+    "sv": "{ambuscade}",
+    "tr": "{ambuscade}",
+    "uk": "[амбасада]",
+    "zh": "{bambuscade}(琥珀色)"
+  },
+  "hebrew": "אֹרֶב",
+  "verses": [
+    "jeremiah 9:7:13"
+  ]
+}

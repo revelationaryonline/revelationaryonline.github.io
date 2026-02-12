@@ -1,0 +1,42 @@
+{
+  "number": "H5584",
+  "language": "hebrew",
+  "transliteration": "çâʻâh",
+  "pronunciation": "saw-aw'",
+  "definition": "to rush",
+  "kjvTranslation": "storm.",
+  "hebrew": "סָעָה",
+  "translations": {
+    "bg": "да бързате",
+    "cs": "spěchat",
+    "da": "at skynde sig",
+    "de": "zu eilen",
+    "el": "να βιαστούμε",
+    "es": "apresurarse",
+    "et": "kiirustada",
+    "fi": "kiirehtimään",
+    "fr": "se précipiter",
+    "hu": "sietni",
+    "id": "untuk terburu-buru",
+    "it": "per affrettarsi",
+    "ja": "殺到する",
+    "ko": "서두르다",
+    "lt": "skubėti",
+    "lv": "steigties",
+    "nb": "å skynde seg",
+    "nl": "om te haasten",
+    "pl": "spieszyć się",
+    "pt": "apressar-se",
+    "ro": "să se grăbească",
+    "ru": "спешить",
+    "sk": "ponáhľať sa",
+    "sl": "hiteti",
+    "sv": "att rusa",
+    "tr": "acele etmek",
+    "uk": "поспішати",
+    "zh": "赶赴"
+  },
+  "verses": [
+    "psalms 55:9:4"
+  ]
+}

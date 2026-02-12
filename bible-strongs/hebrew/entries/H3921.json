@@ -1,0 +1,42 @@
+{
+  "number": "H3921",
+  "language": "hebrew",
+  "transliteration": "leked",
+  "pronunciation": "leh'ked",
+  "definition": "something to capture with, i.e. a noose",
+  "kjvTranslation": "being taken.",
+  "hebrew": "לֶכֶד",
+  "translations": {
+    "bg": "нещо за хващане, например примка",
+    "cs": "něco k zachycení, např. smyčka",
+    "da": "noget at fange med, f.eks. en løkke",
+    "de": "etwas zum Fangen, z. B. eine Schlinge",
+    "el": "κάτι για να συλληφθεί, π.χ. μια θηλιά",
+    "es": "algo con lo que capturar, por ejemplo, un lazo",
+    "et": "midagi, millega püüda, st silmus",
+    "fi": "jotakin, jolla voi vangita, esim. silmukka",
+    "fr": "quelque chose pour capturer, par exemple un noeud coulant",
+    "hu": "valamit, amivel el lehet fogni, pl. egy hurkot",
+    "id": "sesuatu untuk ditangkap, misalnya jerat",
+    "it": "qualcosa con cui catturare, ad esempio un cappio",
+    "ja": "縄",
+    "ko": "올가미로 잡을 무언가, 예: 올가미",
+    "lt": "ką nors, kuo galima sugauti, t. y. kilpą",
+    "lv": "kaut kas, ar ko satvert, piemēram, cilpa",
+    "nb": "noe å fange med, f.eks. en løkke",
+    "nl": "iets om mee te vangen, bijvoorbeeld een strop",
+    "pl": "coś do chwytania, np. pętla",
+    "pt": "algo para capturar, ou seja, um laço",
+    "ro": "ceva cu care să fie prins, de exemplu un ștreang",
+    "ru": "что-то, чем можно схватить, например, петля",
+    "sk": "niečo na zachytenie, napr. slučka",
+    "sl": "nekaj, s čimer se ujame, npr. zanka",
+    "sv": "något att fånga med, t.ex. en snara",
+    "tr": "yakalamak için bir şey, örneğin bir ilmik",
+    "uk": "чимось, щоб захопити, тобто зашморгом",
+    "zh": "绳索"
+  },
+  "verses": [
+    "proverbs 3:26:6"
+  ]
+}

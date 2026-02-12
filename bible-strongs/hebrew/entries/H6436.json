@@ -1,0 +1,42 @@
+{
+  "number": "H6436",
+  "language": "hebrew",
+  "transliteration": "pannag",
+  "pronunciation": "pan-nag'",
+  "definition": "probably pastry",
+  "kjvTranslation": "Pannag.",
+  "hebrew": "פַּנַּג",
+  "translations": {
+    "bg": "вероятно сладкиш",
+    "cs": "pravděpodobně pečivo",
+    "da": "sandsynligvis wienerbrød",
+    "de": "wahrscheinlich Gebäck",
+    "el": "πιθανώς ζαχαροπλαστική",
+    "es": "probablemente pastelería",
+    "et": "tõenäoliselt kondiitritooted",
+    "fi": "luultavasti leivonnaisia",
+    "fr": "probablement de la pâtisserie",
+    "hu": "valószínűleg péksütemény",
+    "id": "mungkin kue",
+    "it": "probabilmente pasticceria",
+    "ja": "おそらくペストリー",
+    "ko": "아마도 페이스트리",
+    "lt": "tikriausiai pyragaičiai",
+    "lv": "iespējams, mīklas izstrādājumi",
+    "nb": "sannsynligvis wienerbrød",
+    "nl": "waarschijnlijk gebak",
+    "pl": "prawdopodobnie ciasto",
+    "pt": "provavelmente pastelaria",
+    "ro": "probabil produse de patiserie",
+    "ru": "возможно, кондитерские изделия",
+    "sk": "pravdepodobne pečivo",
+    "sl": "verjetno pecivo",
+    "sv": "förmodligen bakverk",
+    "tr": "muhtemelen hamur işi",
+    "uk": "напевно, кондитерські вироби",
+    "zh": "可能是面点"
+  },
+  "verses": [
+    "ezekiel 27:17:7"
+  ]
+}

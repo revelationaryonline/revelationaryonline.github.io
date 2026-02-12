@@ -1,0 +1,43 @@
+{
+  "number": "H3029",
+  "language": "hebrew",
+  "transliteration": "yᵉdâʼ",
+  "pronunciation": "yed-aw'",
+  "definition": "to praise",
+  "kjvTranslation": "(give) thank(-s).",
+  "translations": {
+    "bg": "да хвалите",
+    "cs": "chválit",
+    "da": "for at rose",
+    "de": "zu loben",
+    "el": "να επαινέσω",
+    "es": "alabar",
+    "et": "kiita",
+    "fi": "ylistää",
+    "fr": "de faire l'éloge",
+    "hu": "dicsérni",
+    "id": "untuk memuji",
+    "it": "lodare",
+    "ja": "賞賛する",
+    "ko": "칭찬하기",
+    "lt": "girti",
+    "lv": "slavēt",
+    "nb": "for å rose",
+    "nl": "loven",
+    "pl": "chwalić",
+    "pt": "para elogiar",
+    "ro": "pentru a lăuda",
+    "ru": "восхвалять",
+    "sk": "chváliť",
+    "sl": "hvaliti",
+    "sv": "att berömma",
+    "tr": "övmek için",
+    "uk": "хвалити",
+    "zh": "赞美"
+  },
+  "hebrew": "יְדָא",
+  "verses": [
+    "daniel 2:23:3",
+    "daniel 6:11:22"
+  ]
+}

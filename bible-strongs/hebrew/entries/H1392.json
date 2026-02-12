@@ -1,0 +1,42 @@
+{
+  "number": "H1392",
+  "language": "hebrew",
+  "transliteration": "gibʻôl",
+  "pronunciation": "ghib-ole'",
+  "definition": "the calyx of a flower",
+  "kjvTranslation": "bolled.",
+  "translations": {
+    "bg": "чашката на цвете",
+    "cs": "kalich květu",
+    "da": "bægeret på en blomst",
+    "de": "der Kelch einer Blume",
+    "el": "ο κάλυκας ενός λουλουδιού",
+    "es": "el cáliz de una flor",
+    "et": "lilleõie kuppel",
+    "fi": "kukan kukkakimppu",
+    "fr": "le calice d'une fleur",
+    "hu": "a virág kehelye",
+    "id": "kelopak bunga",
+    "it": "il calice di un fiore",
+    "ja": "花の萼",
+    "ko": "꽃의 꽃받침",
+    "lt": "gėlės taurė",
+    "lv": "zieda kausiņš",
+    "nb": "begeret på en blomst",
+    "nl": "de kelk van een bloem",
+    "pl": "kielich kwiatu",
+    "pt": "o cálice de uma flor",
+    "ro": "caliciul unei flori",
+    "ru": "чашечка цветка",
+    "sk": "kalich kvetu",
+    "sl": "cvetni listič",
+    "sv": "en blommas kalyx",
+    "tr": "bir çiçeğin kaliksi",
+    "uk": "чашечка квітки",
+    "zh": "花萼"
+  },
+  "hebrew": "גִּבְעֹל",
+  "verses": [
+    "exodus 9:31:7"
+  ]
+}

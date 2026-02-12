@@ -1,0 +1,42 @@
+{
+  "number": "H1911",
+  "language": "hebrew",
+  "transliteration": "hâdâh",
+  "pronunciation": "haw-daw'",
+  "definition": "to stretch forth the hand",
+  "kjvTranslation": "put.",
+  "translations": {
+    "bg": "да протегнеш ръка",
+    "cs": "vztáhnout ruku",
+    "da": "at strække hånden ud",
+    "de": "die Hand auszustrecken",
+    "el": "να απλώσει το χέρι",
+    "es": "extender la mano",
+    "et": "sirutada käsi välja",
+    "fi": "ojentaa käsi",
+    "fr": "tendre la main",
+    "hu": "kinyújtani a kezét",
+    "id": "untuk mengulurkan tangan",
+    "it": "tendere la mano",
+    "ja": "手を伸ばす",
+    "ko": "손을 쭉 뻗으려면",
+    "lt": "ištiesti ranką",
+    "lv": "izstiept roku",
+    "nb": "å strekke ut hånden",
+    "nl": "om de hand uit te strekken",
+    "pl": "wyciągnąć rękę",
+    "pt": "estender a mão",
+    "ro": "să întinzi mâna",
+    "ru": "протянуть руку",
+    "sk": "natiahnuť ruku",
+    "sl": "iztegniti roko",
+    "sv": "att sträcka ut handen",
+    "tr": "elini uzatmak için",
+    "uk": "простягнути руку",
+    "zh": "伸手"
+  },
+  "hebrew": "הָדָה",
+  "verses": [
+    "isaiah 11:8:10"
+  ]
+}

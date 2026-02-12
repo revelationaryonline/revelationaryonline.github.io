@@ -1,0 +1,42 @@
+{
+  "number": "H5082",
+  "language": "hebrew",
+  "transliteration": "nᵉdîybâh",
+  "pronunciation": "ned-ee-baw'",
+  "definition": "properly, nobility, i.e. reputation",
+  "kjvTranslation": "soul.",
+  "hebrew": "נְדִיבָה",
+  "translations": {
+    "bg": "правилно, благородство, т.е. репутация",
+    "cs": "správně, ušlechtilost, tj. pověst",
+    "da": "korrekt, adel, dvs. omdømme",
+    "de": "richtig, Adel, d.h. Ansehen",
+    "el": "σωστά, ευγένεια, δηλαδή φήμη",
+    "es": "propiamente, nobleza, es decir, reputación",
+    "et": "korralikult, aadel, s.t. maine",
+    "fi": "kunnolla, aatelisto, eli maine..",
+    "fr": "proprement dit, la noblesse, c'est-à-dire la réputation",
+    "hu": "megfelelően, nemesség, azaz hírnév",
+    "id": "dengan benar, kemuliaan, yaitu reputasi",
+    "it": "propriamente, nobiltà, cioè reputazione",
+    "ja": "正しくは、高貴さ、すなわち評判",
+    "ko": "제대로, 귀족, 즉 평판",
+    "lt": "tinkamai, kilnumas, t. y. reputacija",
+    "lv": "pareizi, dižciltība, t.i., reputācija",
+    "nb": "riktig, adel, dvs. omdømme",
+    "nl": "adel, d.w.z. reputatie",
+    "pl": "właściwie, szlachetność, tj. reputacja",
+    "pt": "propriamente, a nobreza, ou seja, a reputação",
+    "ro": "în mod corespunzător, nobilime, adică reputație",
+    "ru": "правильно, благородство, т.е. репутация",
+    "sk": "správne, šľachta, t. j. povesť",
+    "sl": "pravilno, plemenitost, tj. ugled",
+    "sv": "korrekt, adel, dvs. anseende",
+    "tr": "düzgün bir şekilde, asalet, yani itibar",
+    "uk": "власне, шляхетність, тобто репутація",
+    "zh": "贵，即声誉"
+  },
+  "verses": [
+    "job 30:15:5"
+  ]
+}

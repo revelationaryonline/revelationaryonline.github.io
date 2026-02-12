@@ -1,0 +1,42 @@
+{
+  "number": "H4346",
+  "language": "hebrew",
+  "transliteration": "makbâr",
+  "pronunciation": "mak-bawr'",
+  "definition": "a cloth (as netted)",
+  "kjvTranslation": "thick cloth.",
+  "hebrew": "מַכְבָּר",
+  "translations": {
+    "bg": "плат (мрежест)",
+    "cs": "tkanina (jako síťovina)",
+    "da": "et klæde (som net)",
+    "de": "ein Tuch (als Netz)",
+    "el": "ένα ύφασμα (με δίχτυ)",
+    "es": "una tela (de red)",
+    "et": "riie (nagu võrk)",
+    "fi": "kangas (verkkona)",
+    "fr": "un tissu (comme un filet)",
+    "hu": "szövet (mint háló)",
+    "id": "kain (seperti yang dijaring)",
+    "it": "un tessuto (come una rete)",
+    "ja": "あみもの",
+    "ko": "천(그물망)",
+    "lt": "audinys (tinklinis)",
+    "lv": "audums (kā tīkls)",
+    "nb": "en duk (som netting)",
+    "nl": "een doek (als net)",
+    "pl": "tkanina (jak siatka)",
+    "pt": "um pano (como uma rede)",
+    "ro": "o pânză (ca o plasă)",
+    "ru": "ткань (в виде сетки)",
+    "sk": "tkanina (ako sieťovina)",
+    "sl": "tkanina (mrežasta)",
+    "sv": "en duk (som nät)",
+    "tr": "bir bez (ağ gibi)",
+    "uk": "тканина (у вигляді сітки)",
+    "zh": "网布"
+  },
+  "verses": [
+    "secondKings 8:15:3"
+  ]
+}

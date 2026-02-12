@@ -1,0 +1,42 @@
+{
+  "number": "H2831",
+  "language": "hebrew",
+  "transliteration": "chashman",
+  "pronunciation": "khash-man'",
+  "definition": "wealthy",
+  "kjvTranslation": "princes.",
+  "translations": {
+    "bg": "богат",
+    "cs": "bohatý",
+    "da": "velhavende",
+    "de": "wohlhabend",
+    "el": "πλούσιος",
+    "es": "ricos",
+    "et": "rikkad",
+    "fi": "varakas",
+    "fr": "riches",
+    "hu": "gazdag",
+    "id": "kaya",
+    "it": "ricco",
+    "ja": "富める",
+    "ko": "부유한",
+    "lt": "turtingas",
+    "lv": "bagāts",
+    "nb": "velstående",
+    "nl": "rijke",
+    "pl": "bogaty",
+    "pt": "rico",
+    "ro": "bogat",
+    "ru": "богатые",
+    "sk": "bohatý",
+    "sl": "bogati",
+    "sv": "välbärgad",
+    "tr": "zengin",
+    "uk": "заможний",
+    "zh": "富裕"
+  },
+  "hebrew": "חַשְׁמַן",
+  "verses": [
+    "psalms 68:32:1"
+  ]
+}

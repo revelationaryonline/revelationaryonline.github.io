@@ -1,0 +1,42 @@
+{
+  "number": "H6899",
+  "language": "hebrew",
+  "transliteration": "qibbûwts",
+  "pronunciation": "kib-boots'",
+  "definition": "a throng",
+  "kjvTranslation": "company.",
+  "hebrew": "קִבּוּץ",
+  "translations": {
+    "bg": "тълпа",
+    "cs": "dav",
+    "da": "en menneskemængde",
+    "de": "eine Schar",
+    "el": "ένα πλήθος",
+    "es": "una multitud",
+    "et": "rahvahulk",
+    "fi": "väkijoukko",
+    "fr": "une foule",
+    "hu": "egy tömeg",
+    "id": "kerumunan",
+    "it": "una folla",
+    "ja": "群衆",
+    "ko": "군중",
+    "lt": "minia",
+    "lv": "pūlis",
+    "nb": "en folkemengde",
+    "nl": "een menigte",
+    "pl": "tłum",
+    "pt": "uma multidão",
+    "ro": "o mulțime",
+    "ru": "толпа",
+    "sk": "dav",
+    "sl": "množica",
+    "sv": "en folkmassa",
+    "tr": "bir kalabalık",
+    "uk": "натовп",
+    "zh": "摩肩接踵"
+  },
+  "verses": [
+    "isaiah 57:13:2"
+  ]
+}

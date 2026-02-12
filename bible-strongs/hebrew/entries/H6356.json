@@ -1,0 +1,42 @@
+{
+  "number": "H6356",
+  "language": "hebrew",
+  "transliteration": "pᵉchetheth",
+  "pronunciation": "pekh-eh'-theth",
+  "definition": "a hole (by mildew in a garment)",
+  "kjvTranslation": "fret inward.",
+  "hebrew": "פְּחֶתֶת",
+  "translations": {
+    "bg": "дупка (от мухъл в дрехата)",
+    "cs": "díra (plísní v oděvu)",
+    "da": "et hul (af meldug i et stykke tøj)",
+    "de": "ein Loch (durch Schimmel in einem Kleidungsstück)",
+    "el": "μια τρύπα (από μούχλα σε ένα ρούχο)",
+    "es": "un agujero (por moho en una prenda)",
+    "et": "auk (hallituse poolt rõivas)",
+    "fi": "reikä (homeen aiheuttama reikä vaatteessa)",
+    "fr": "un trou (par la moisissure dans un vêtement)",
+    "hu": "lyuk (penész által egy ruhadarabon)",
+    "id": "lubang (oleh jamur pada pakaian)",
+    "it": "un buco (da muffa in un indumento)",
+    "ja": "穴明き",
+    "ko": "구멍(의류의 곰팡이로 인한)",
+    "lt": "skylė (dėl pelėsio drabužyje)",
+    "lv": "caurums (ar pelējumu apģērbā)",
+    "nb": "et hull (av mugg i et plagg)",
+    "nl": "een gat (door schimmel in een kledingstuk)",
+    "pl": "dziura (przez pleśń w ubraniu)",
+    "pt": "um buraco (por bolor numa peça de vestuário)",
+    "ro": "o gaură (de mucegai într-un articol de îmbrăcăminte)",
+    "ru": "дыра (от плесени в одежде)",
+    "sk": "diera (plesňou v odeve)",
+    "sl": "luknja (zaradi plesni v oblačilu)",
+    "sv": "ett hål (av mögel i ett plagg)",
+    "tr": "bir delik (bir giysideki küf nedeniyle)",
+    "uk": "дірка (від цвілі на одязі)",
+    "zh": "破洞"
+  },
+  "verses": [
+    "leviticus 13:55:19"
+  ]
+}

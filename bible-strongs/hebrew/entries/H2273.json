@@ -1,0 +1,42 @@
+{
+  "number": "H2273",
+  "language": "hebrew",
+  "transliteration": "chabrâh",
+  "pronunciation": "khab-raw'",
+  "definition": "an associate",
+  "kjvTranslation": "other.",
+  "translations": {
+    "bg": "сътрудник",
+    "cs": "spolupracovník",
+    "da": "en medarbejder",
+    "de": "ein Mitarbeiter",
+    "el": "ένας συνεργάτης",
+    "es": "un asociado",
+    "et": "kaaslane",
+    "fi": "osakkuusyhtiö",
+    "fr": "un associé",
+    "hu": "egy munkatárs",
+    "id": "seorang rekan",
+    "it": "un associato",
+    "ja": "准",
+    "ko": "동료",
+    "lt": "asocijuotas darbuotojas",
+    "lv": "asociētais darbinieks",
+    "nb": "en medarbeider",
+    "nl": "een medewerker",
+    "pl": "współpracownik",
+    "pt": "um associado",
+    "ro": "un asociat",
+    "ru": "сотрудник",
+    "sk": "spolupracovník",
+    "sl": "sodelavec",
+    "sv": "en medarbetare",
+    "tr": "bir ortak",
+    "uk": "юрист",
+    "zh": "联营公司"
+  },
+  "hebrew": "חַבְרָה",
+  "verses": [
+    "daniel 7:20:24"
+  ]
+}

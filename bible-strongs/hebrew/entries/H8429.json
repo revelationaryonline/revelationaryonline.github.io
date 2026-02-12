@@ -1,0 +1,42 @@
+{
+  "number": "H8429",
+  "language": "hebrew",
+  "transliteration": "tᵉvahh",
+  "pronunciation": "tev-ah'",
+  "definition": "to amaze, i.e. (reflex. by implication) take alarm",
+  "kjvTranslation": "be astonied.",
+  "hebrew": "תְּוַהּ",
+  "translations": {
+    "bg": "да учуди, т.е. (рефлекторно. по подразбиране) да предизвика тревога",
+    "cs": "ohromit, tj. (reflex. implicitně) vyvolat poplach",
+    "da": "at forbløffe, dvs. (refleks. underforstået) skræmme",
+    "de": "in Erstaunen versetzen, d.h. (reflexartig) erschrecken",
+    "el": "να εκπλήσσει, δηλαδή (αντανακλαστικά. με υπαινιγμό) να προκαλεί συναγερμό",
+    "es": "asombrar, es decir (reflejo. por implicación) alarmar",
+    "et": "hämmastama, st (refleks. kaudselt) ärevusse ajama",
+    "fi": "hämmästyttää, eli (refleksiivisesti) hätkähdyttää",
+    "fr": "étonner, c'est-à-dire (réflexe. par implication) alarmer",
+    "hu": "meghökkenteni, azaz (reflexszerűen) megijeszteni",
+    "id": "untuk memukau, yaitu (refleks. dengan implikasi) merasa khawatir",
+    "it": "stupire, cioè (di riflesso. per implicazione) allarmare",
+    "ja": "驚かせる、つまり（反射的に）警戒させる",
+    "ko": "놀라다, 즉 (반사적으로. 암시적으로) 경보를 울리다",
+    "lt": "nustebinti, t. y. (refleksiškai. netiesiogiai) sukelti nerimą",
+    "lv": "pārsteigt, t.i., (refleksīvi. netieši) izraisīt trauksmi",
+    "nb": "å forbløffe, dvs. (refleks. underforstått) skremme",
+    "nl": "verbazen, d.w.z. (reflex. impliciet) alarm slaan",
+    "pl": "zadziwiać, tj. (odruchowo. w domyśle) niepokoić",
+    "pt": "espantar, ou seja, (reflexo. por implicação) alarmar",
+    "ro": "să uimească, adică (reflex. implicit) să alarmeze",
+    "ru": "поражать, т.е. (рефлекторно, по косвенным признакам) вызывать тревогу",
+    "sk": "prekvapiť, t. j. (reflex. implicitne) vyvolať poplach",
+    "sl": "presenetiti, tj. (refleksno. implicitno) vzbuditi preplah",
+    "sv": "att förvåna, d.v.s. (reflex. underförstått) skrämma",
+    "tr": "şaşırtmak, yani (refleks. ima yoluyla) alarma geçirmek",
+    "uk": "дивувати, тобто (рефлекторно. за підтекстом) бити на сполох",
+    "zh": "令人震惊"
+  },
+  "verses": [
+    "daniel 3:24:3"
+  ]
+}

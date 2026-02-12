@@ -1,0 +1,42 @@
+{
+  "number": "H2613",
+  "language": "hebrew",
+  "transliteration": "chănuphâh",
+  "pronunciation": "khan-oo-faw'",
+  "definition": "impiety",
+  "kjvTranslation": "profaneness.",
+  "translations": {
+    "bg": "безбожие",
+    "cs": "bezbožnost",
+    "da": "ugudelighed",
+    "de": "pietätlosigkeit",
+    "el": "ασέβεια",
+    "es": "impiedad",
+    "et": "vagadus",
+    "fi": "jumalattomuus",
+    "fr": "impiété",
+    "hu": "istentelenség",
+    "id": "ketidaksalehan",
+    "it": "empietà",
+    "ja": "不信心",
+    "ko": "불결함",
+    "lt": "nedorybė",
+    "lv": "bezdievība",
+    "nb": "ugudelighet",
+    "nl": "verdorvenheid",
+    "pl": "bezbożność",
+    "pt": "impiedade",
+    "ro": "impietate",
+    "ru": "нечестие",
+    "sk": "bezbožnosť",
+    "sl": "brezbožnost",
+    "sv": "orättfärdighet",
+    "tr": "dinsizlik",
+    "uk": "нечестивість",
+    "zh": "不孝"
+  },
+  "hebrew": "חֲנֻפָה",
+  "verses": [
+    "jeremiah 23:15:19"
+  ]
+}

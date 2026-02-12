@@ -1,0 +1,43 @@
+{
+  "number": "H3674",
+  "language": "hebrew",
+  "transliteration": "kᵉnâth",
+  "pronunciation": "ken-awth'",
+  "definition": "a colleague (as having the same title)",
+  "kjvTranslation": "companion.",
+  "translations": {
+    "bg": "колега (като имащ същата длъжност)",
+    "cs": "kolega (jako osoba se stejným titulem)",
+    "da": "en kollega (som har samme titel)",
+    "de": "ein Kollege (mit demselben Titel)",
+    "el": "συνάδελφος (ως έχων τον ίδιο τίτλο)",
+    "es": "un colega (por tener el mismo título)",
+    "et": "kolleeg (kui sama ametinimetusega)",
+    "fi": "kollega (jolla on sama titteli)",
+    "fr": "un collègue (comme ayant le même titre)",
+    "hu": "kolléga (mint azonos beosztású)",
+    "id": "seorang kolega (karena memiliki gelar yang sama)",
+    "it": "un collega (in quanto avente lo stesso titolo)",
+    "ja": "同期",
+    "ko": "동료(같은 직함을 가진 것으로 간주)",
+    "lt": "kolega (kaip turintis tas pačias pareigas)",
+    "lv": "kolēģis (ar tādu pašu amatu)",
+    "nb": "en kollega (som har samme tittel)",
+    "nl": "een collega (met dezelfde titel)",
+    "pl": "współpracownik (posiadający ten sam tytuł)",
+    "pt": "um colega (como tendo o mesmo título)",
+    "ro": "un coleg (ca având același titlu)",
+    "ru": "коллега (как имеющий ту же должность)",
+    "sk": "kolega (ako osoba s rovnakým titulom)",
+    "sl": "sodelavec (kot oseba z istim nazivom)",
+    "sv": "en kollega (som har samma titel)",
+    "tr": "bir meslektaş (aynı unvana sahip olarak)",
+    "uk": "колега (як такий, що має таку саму посаду)",
+    "zh": "僚属"
+  },
+  "hebrew": "כְּנָת",
+  "verses": [
+    "ezra 4:7:7",
+    "ezra 4:7:8"
+  ]
+}

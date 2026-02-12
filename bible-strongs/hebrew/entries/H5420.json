@@ -1,0 +1,42 @@
+{
+  "number": "H5420",
+  "language": "hebrew",
+  "transliteration": "nâthâç",
+  "pronunciation": "naw-thas'",
+  "definition": "to tear up",
+  "kjvTranslation": "mar.",
+  "hebrew": "נָתָס",
+  "translations": {
+    "bg": "да се разкъса",
+    "cs": "roztrhat",
+    "da": "at rive op",
+    "de": "zu zerreißen",
+    "el": "να σκίσω",
+    "es": "romper",
+    "et": "lõhkuda",
+    "fi": "repiä",
+    "fr": "déchirer",
+    "hu": "széttépni",
+    "id": "untuk merobek",
+    "it": "strappare",
+    "ja": "引き裂く",
+    "ko": "눈물을 흘리다",
+    "lt": "suplėšyti",
+    "lv": "saplēst",
+    "nb": "å rive opp",
+    "nl": "verscheuren",
+    "pl": "rozerwać",
+    "pt": "rasgar",
+    "ro": "să se rupă",
+    "ru": "разрываться",
+    "sk": "roztrhnúť",
+    "sl": "raztrgati",
+    "sv": "att riva sönder",
+    "tr": "yırtmak için",
+    "uk": "щоб розірвати",
+    "zh": "撕毁"
+  },
+  "verses": [
+    "job 30:13:0"
+  ]
+}

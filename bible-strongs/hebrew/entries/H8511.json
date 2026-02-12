@@ -1,0 +1,43 @@
+{
+  "number": "H8511",
+  "language": "hebrew",
+  "transliteration": "tâlâʼ",
+  "pronunciation": "taw-law'",
+  "definition": "to suspend; figuratively (through hesitation) to be uncertain; by implication (of mental dependence) to habituate",
+  "kjvTranslation": "be bent, hang (in doubt).",
+  "hebrew": "תָּלָא",
+  "translations": {
+    "bg": "да се отлага; в преносен смисъл (чрез колебание) да се несигурен; по подразбиране (за психическа зависимост) да се приучава",
+    "cs": "pozastavit; přeneseně (váháním) být nejistý; implicitně (psychická závislost) zvyknout si",
+    "da": "at suspendere; i overført betydning (gennem tøven) at være usikker; underforstået (af mental afhængighed) at vænne sig til",
+    "de": "aussetzen; im übertragenen Sinne (durch Zögern) unsicher sein; implizit (bei geistiger Abhängigkeit) gewöhnen",
+    "el": "να αναστείλει- μεταφορικά (μέσω του δισταγμού) να είναι αβέβαιος- με υπονοούμενο (της ψυχικής εξάρτησης) να συνηθίσει",
+    "es": "suspender; figuradamente (por vacilación) ser incierto; por implicación (de dependencia mental) habituar",
+    "et": "peatada; piltlikult (kõhkluse kaudu) olla ebakindel; kaudselt (vaimse sõltuvuse kaudu) harjuda",
+    "fi": "keskeyttää; kuvaannollisesti (epäröinnin kautta) olla epävarma; implisiittisesti (henkisen riippuvuuden kautta) tottua",
+    "fr": "suspendre ; au sens figuré (par hésitation) être incertain ; par implication (de la dépendance mentale) s'habituer",
+    "hu": "felfüggeszteni; átvitt értelemben (tétovázás révén) bizonytalanná válni; értelemszerűen (a mentális függőséggel kapcsolatban) hozzászokni",
+    "id": "untuk menangguhkan; secara kiasan (melalui keraguan) menjadi tidak pasti; dengan implikasi (ketergantungan mental) untuk membiasakan",
+    "it": "sospendere; in senso figurato (attraverso l'esitazione) essere incerto; per implicazione (di dipendenza mentale) abituarsi",
+    "ja": "を中断する；比喩的に（ためらうことによって）不確かである；（精神的依存の）暗示によって習慣化する",
+    "ko": "중단하다; 비 유적으로 (망설임으로) 불확실하다; 암시 적으로 (정신적 의존의) 습관화하다",
+    "lt": "sustabdyti; perkeltine prasme (dėl dvejonių) būti abejingam; netiesiogiai (dėl psichinės priklausomybės) priprasti",
+    "lv": "apturēt; pārnestā nozīmē (ar vilcināšanos) būt nenoteiktam; netieši (par garīgo atkarību) pieradināt",
+    "nb": "å utsette; i overført betydning (gjennom nøling) å være usikker; underforstått (av mental avhengighet) å tilvenne seg",
+    "nl": "opschorten; figuurlijk (door aarzeling) onzeker zijn; door implicatie (van geestelijke afhankelijkheid) wennen",
+    "pl": "zawiesić; w przenośni (przez wahanie) być niepewnym; przez implikację (zależności umysłowej) przyzwyczaić się",
+    "pt": "suspender; figurativamente (por hesitação) ser incerto; por implicação (de dependência mental) habituar",
+    "ro": "a suspenda; la figurat (prin ezitare) a fi nesigur; implicit (de dependență mentală) a obișnui",
+    "ru": "приостанавливать; образно (через колебания) быть неуверенным; по косвенным признакам (о психической зависимости) привыкать",
+    "sk": "pozastaviť; prenesene (váhaním) byť neistý; implicitne (psychická závislosť) zvyknúť si",
+    "sl": "prekiniti; v prenesenem pomenu (zaradi oklevanja) biti negotov; implicitno (za duševno odvisnost) navaditi se",
+    "sv": "att avbryta; bildligt (genom tvekan) att vara osäker; underförstått (av mentalt beroende) att vänja sig",
+    "tr": "askıya almak; mecazi olarak (tereddüt yoluyla) belirsiz olmak; ima yoluyla (zihinsel bağımlılık) alışkanlık haline getirmek",
+    "uk": "призупинити; образно (через вагання) бути невпевненим; через підтекст (психічну залежність) звикнути",
+    "zh": "暂停；比喻（通过犹豫）不确定；暗示（精神依赖）习惯化"
+  },
+  "verses": [
+    "deuteronomy 28:66:2",
+    "hosea 11:7:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6905",
+  "language": "hebrew",
+  "transliteration": "qâbâl",
+  "pronunciation": "kaw-bawl'",
+  "definition": "the presence, i.e. (adverbially) in front of",
+  "kjvTranslation": "before.",
+  "hebrew": "קָבָל",
+  "translations": {
+    "bg": "присъствието, т.е. (наречието) пред",
+    "cs": "přítomnost, tj. (příslovečně) před",
+    "da": "tilstedeværelsen, dvs. (adverbielt) foran",
+    "de": "die Gegenwart, d.h. (adverbial) vor",
+    "el": "την παρουσία, δηλαδή (επιρρηματικά) μπροστά από",
+    "es": "la presencia, es decir (adverbialmente) delante de",
+    "et": "juuresolekul, st (adverbiaalselt) enne",
+    "fi": "läsnäolossa, eli (adverbiaalisesti) seuraavien edessä",
+    "fr": "la présence, c'est-à-dire (adverbialement) devant",
+    "hu": "a jelenlét, azaz (határozószóval) a következő előtt",
+    "id": "kehadiran, yaitu (secara adverbial) di depan",
+    "it": "la presenza, cioè (avverbialmente) di fronte a",
+    "ja": "の前に、つまり（副詞的に）存在する。",
+    "ko": "존재, 즉 (부사적으로) 앞의",
+    "lt": "buvimą, t. y. (su prieveiksmine reikšme) priešais",
+    "lv": "klātbūtnē, t. i., (apstākļa vārds) priekšā",
+    "nb": "tilstedeværelsen, dvs. (adverbialt) foran",
+    "nl": "de aanwezigheid, d.w.z. (bijwoordelijk) voor",
+    "pl": "obecność, tj. (przysłówkowo) przed",
+    "pt": "a presença, ou seja, (adverbialmente) em frente de",
+    "ro": "prezența, adică (adverbial) în fața",
+    "ru": "присутствие, т.е. (наречие) перед",
+    "sk": "prítomnosť, t. j. (adverbiálne) pred",
+    "sl": "prisotnost, tj. (prislovno) pred",
+    "sv": "närvaro, dvs. (adverbiellt) framför",
+    "tr": "varlığında, yani (zarf olarak) önünde",
+    "uk": "наявність, тобто (прислівниково) перед",
+    "zh": "存在，即（副词）在"
+  },
+  "verses": [
+    "secondKings 15:10:6"
+  ]
+}

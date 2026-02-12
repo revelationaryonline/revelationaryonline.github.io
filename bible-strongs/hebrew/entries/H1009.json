@@ -1,0 +1,42 @@
+{
+  "number": "H1009",
+  "language": "hebrew",
+  "transliteration": "Bêyth ʼArbêʼl",
+  "pronunciation": "bayth ar-bale'",
+  "definition": "Beth-Arbel, a place in Palestine",
+  "kjvTranslation": "Beth-Arbel.",
+  "translations": {
+    "bg": "Бет-Арбел, място в Палестина",
+    "cs": "Beth-Arbel, místo v Palestině",
+    "da": "Beth-Arbel, et sted i Palæstina",
+    "de": "Beth-Arbel, ein Ort in Palästina",
+    "el": "Beth-Arbel, τόπος στην Παλαιστίνη",
+    "es": "Beth-Arbel, un lugar en Palestina",
+    "et": "Beth-Arbel, koht Palestiinas",
+    "fi": "Beth-Arbel, paikka Palestiinassa",
+    "fr": "Beth-Arbel, localité de Palestine",
+    "hu": "Beth-Arbel, egy hely Palesztinában",
+    "id": "Beth-Arbel, sebuah tempat di Palestina",
+    "it": "Beth-Arbel, località della Palestina",
+    "ja": "パレスチナの地名、ベス・アーベル",
+    "ko": "팔레스타인의 베스-아벨, 팔레스타인의 한 장소",
+    "lt": "Beth-Arbel, vietovė Palestinoje",
+    "lv": "Beth-Arbel, vieta Palestīnā",
+    "nb": "Beth-Arbel, et sted i Palestina",
+    "nl": "Beth-Arbel, een plaats in Palestina",
+    "pl": "Beth-Arbel, miejscowość w Palestynie",
+    "pt": "Beth-Arbel, um lugar na Palestina",
+    "ro": "Beth-Arbel, un loc în Palestina",
+    "ru": "Бет-Арбель, местечко в Палестине",
+    "sk": "Beth-Arbel, miesto v Palestíne",
+    "sl": "Beth-Arbel, kraj v Palestini",
+    "sv": "Beth-Arbel, en plats i Palestina",
+    "tr": "Beth-Arbel, Filistin'de bir yer",
+    "uk": "Бет-Арбель, місце в Палестині",
+    "zh": "伯阿贝尔"
+  },
+  "hebrew": "בֵּית אַרְבֵּאל",
+  "verses": [
+    "hosea 10:14:9"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5781",
+  "language": "hebrew",
+  "transliteration": "ʻûwq",
+  "pronunciation": "ook",
+  "definition": "to pack",
+  "kjvTranslation": "be pressed.",
+  "hebrew": "עוּק",
+  "translations": {
+    "bg": "да опаковате",
+    "cs": "zabalit",
+    "da": "til at pakke",
+    "de": "zu verpacken",
+    "el": "για να συσκευάσετε",
+    "es": "para embalar",
+    "et": "pakkimiseks",
+    "fi": "pakata",
+    "fr": "pour emballer",
+    "hu": "csomagolni",
+    "id": "untuk berkemas",
+    "it": "per imballare",
+    "ja": "荷造り",
+    "ko": "포장하기",
+    "lt": "supakuoti",
+    "lv": "iesaiņot",
+    "nb": "å pakke",
+    "nl": "inpakken",
+    "pl": "pakować",
+    "pt": "para embalar",
+    "ro": "pentru a împacheta",
+    "ru": "упаковывать",
+    "sk": "na balenie",
+    "sl": "za pakiranje",
+    "sv": "att packa",
+    "tr": "paketlemek için",
+    "uk": "пакувати речі",
+    "zh": "装"
+  },
+  "verses": [
+    "amos 2:13:2",
+    "amos 2:13:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H921",
+  "language": "hebrew",
+  "transliteration": "bᵉdar",
+  "pronunciation": "bed-ar'",
+  "definition": "to scatter",
+  "kjvTranslation": "scatter.",
+  "translations": {
+    "bg": "да се разпръсне",
+    "cs": "rozptýlit",
+    "da": "at sprede sig",
+    "de": "zu zerstreuen",
+    "el": "να διασκορπίσω",
+    "es": "dispersar",
+    "et": "hajutada",
+    "fi": "hajottaa",
+    "fr": "disperser",
+    "hu": "szétszóródni",
+    "id": "untuk menyebarkan",
+    "it": "disperdere",
+    "ja": "ばらまく",
+    "ko": "흩어지다",
+    "lt": "išsklaidyti",
+    "lv": "izkliedēt",
+    "nb": "å spre",
+    "nl": "verspreiden",
+    "pl": "rozproszyć",
+    "pt": "espalhar",
+    "ro": "a împrăștia",
+    "ru": "рассыпаться",
+    "sk": "rozptýliť",
+    "sl": "razpršiti",
+    "sv": "att skingra",
+    "tr": "dağıtmak için",
+    "uk": "розбігтися",
+    "zh": "散"
+  },
+  "hebrew": "בְּדַר",
+  "verses": [
+    "daniel 4:11:10"
+  ]
+}

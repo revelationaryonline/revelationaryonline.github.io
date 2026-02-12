@@ -1,0 +1,42 @@
+{
+  "number": "H2480",
+  "language": "hebrew",
+  "transliteration": "châlaṭ",
+  "pronunciation": "khaw-lat'",
+  "definition": "to snatch at",
+  "kjvTranslation": "catch.",
+  "translations": {
+    "bg": "да се вкопчи в",
+    "cs": "chňapnout po",
+    "da": "at gribe fat i",
+    "de": "zum Greifen nah",
+    "el": "για να αρπάξει",
+    "es": "para arrebatar a",
+    "et": "et haarata",
+    "fi": "nappaamaan",
+    "fr": "à arracher",
+    "hu": "hogy megragadja",
+    "id": "untuk merebut di",
+    "it": "per strappare",
+    "ja": "を掠め取る。",
+    "ko": "에서",
+    "lt": "pagriebti",
+    "lv": "sagrābt",
+    "nb": "å snappe etter",
+    "nl": "om te grijpen naar",
+    "pl": "wyrwać",
+    "pt": "para agarrar",
+    "ro": "pentru a smulge la",
+    "ru": "ухватиться за",
+    "sk": "chytiť na",
+    "sl": "da bi ga ujeli",
+    "sv": "att rycka i",
+    "tr": "kapmak için",
+    "uk": "щоб вхопитися за нього",
+    "zh": "擸"
+  },
+  "hebrew": "חָלַט",
+  "verses": [
+    "firstKings 20:33:3"
+  ]
+}

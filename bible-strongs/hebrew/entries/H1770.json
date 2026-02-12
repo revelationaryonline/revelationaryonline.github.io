@@ -1,0 +1,42 @@
+{
+  "number": "H1770",
+  "language": "hebrew",
+  "transliteration": "dîyg",
+  "pronunciation": "deeg",
+  "definition": "to fish",
+  "kjvTranslation": "fish.",
+  "translations": {
+    "bg": "да ловите риба",
+    "cs": "lovit ryby",
+    "da": "til at fiske",
+    "de": "angeln",
+    "el": "για ψάρεμα",
+    "es": "para pescar",
+    "et": "kala püüda",
+    "fi": "kalastamaan",
+    "fr": "pour pêcher",
+    "hu": "halászni",
+    "id": "untuk memancing",
+    "it": "per pescare",
+    "ja": "釣りをする",
+    "ko": "낚시",
+    "lt": "žvejoti",
+    "lv": "zvejot",
+    "nb": "å fiske",
+    "nl": "om te vissen",
+    "pl": "łowić ryby",
+    "pt": "para pescar",
+    "ro": "să pescuiască",
+    "ru": "ловить рыбу",
+    "sk": "loviť ryby",
+    "sl": "loviti ribe",
+    "sv": "att fiska",
+    "tr": "balık tutmak için",
+    "uk": "рибалити",
+    "zh": "捕鱼"
+  },
+  "hebrew": "דִּיג",
+  "verses": [
+    "jeremiah 16:16:7"
+  ]
+}

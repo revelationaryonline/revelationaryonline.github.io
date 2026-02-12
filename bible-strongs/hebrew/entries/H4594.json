@@ -1,0 +1,42 @@
+{
+  "number": "H4594",
+  "language": "hebrew",
+  "transliteration": "maʻăṭeh",
+  "pronunciation": "mah-at-eh'",
+  "definition": "a vestment",
+  "kjvTranslation": "garment.",
+  "hebrew": "מַעֲטֶה",
+  "verses": [
+    "isaiah 61:3:12"
+  ],
+  "translations": {
+    "bg": "ризница",
+    "cs": "hábit",
+    "da": "en klædedragt",
+    "de": "ein Gewand",
+    "el": "ένα ένδυμα",
+    "es": "una vestidura",
+    "et": "rõivastus",
+    "fi": "liivi",
+    "fr": "un vêtement",
+    "hu": "egy miseruha",
+    "id": "jubah",
+    "it": "un paramento",
+    "ja": "法衣",
+    "ko": "조끼",
+    "lt": "drabužis",
+    "lv": "tērps",
+    "nb": "en bekledning",
+    "nl": "een gewaad",
+    "pl": "szata",
+    "pt": "uma veste",
+    "ro": "un veșmânt",
+    "ru": "облачение",
+    "sk": "rúcho",
+    "sl": "oblačilo",
+    "sv": "en klädnad",
+    "tr": "bir giysi",
+    "uk": "вбрання",
+    "zh": "圣衣"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2643",
+  "language": "hebrew",
+  "transliteration": "chaph",
+  "pronunciation": "khaf",
+  "definition": "pure",
+  "kjvTranslation": "innocent.",
+  "translations": {
+    "bg": "чист",
+    "cs": "čistě",
+    "da": "ren",
+    "de": "rein",
+    "el": "καθαρό",
+    "es": "puro",
+    "et": "puhas",
+    "fi": "puhdas",
+    "fr": "pur",
+    "hu": "tiszta",
+    "id": "murni",
+    "it": "puro",
+    "ja": "純粋",
+    "ko": "pure",
+    "lt": "grynas",
+    "lv": "tīrs",
+    "nb": "ren",
+    "nl": "puur",
+    "pl": "czysty",
+    "pt": "puro",
+    "ro": "pur",
+    "ru": "чистый",
+    "sk": "čisto",
+    "sl": "čisto",
+    "sv": "ren",
+    "tr": "saf",
+    "uk": "чистий",
+    "zh": "纯粹"
+  },
+  "hebrew": "חַף",
+  "verses": [
+    "job 33:9:4"
+  ]
+}

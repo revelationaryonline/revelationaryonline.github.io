@@ -1,0 +1,42 @@
+{
+  "number": "H7559",
+  "language": "hebrew",
+  "transliteration": "râsham",
+  "pronunciation": "raw-sham'",
+  "definition": "to record",
+  "kjvTranslation": "note.",
+  "hebrew": "רָשַׁם",
+  "translations": {
+    "bg": "да записвате",
+    "cs": "zaznamenávat",
+    "da": "til at optage",
+    "de": "aufzeichnen",
+    "el": "για να καταγράψετε",
+    "es": "grabar",
+    "et": "salvestada",
+    "fi": "tallentamaan",
+    "fr": "pour enregistrer",
+    "hu": "rögzíteni",
+    "id": "untuk merekam",
+    "it": "per registrare",
+    "ja": "記録する",
+    "ko": "기록하려면",
+    "lt": "įrašyti",
+    "lv": "ierakstīt",
+    "nb": "for å registrere",
+    "nl": "om op te nemen",
+    "pl": "nagrywać",
+    "pt": "para registar",
+    "ro": "pentru a înregistra",
+    "ru": "записывать",
+    "sk": "zaznamenať",
+    "sl": "za zapisovanje",
+    "sv": "att spela in",
+    "tr": "kaydetmek için",
+    "uk": "щоб записати",
+    "zh": "以记录"
+  },
+  "verses": [
+    "daniel 10:21:4"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1718",
+  "language": "hebrew",
+  "transliteration": "dâdâh",
+  "pronunciation": "daw-daw'",
+  "definition": "to walk gently",
+  "kjvTranslation": "go (softly, with).",
+  "translations": {
+    "bg": "да се движи внимателно",
+    "cs": "chodit jemně",
+    "da": "at gå forsigtigt",
+    "de": "sanft zu gehen",
+    "el": "να περπατάω απαλά",
+    "es": "caminar suavemente",
+    "et": "õrnalt kõndida",
+    "fi": "kävellä varovasti",
+    "fr": "marcher doucement",
+    "hu": "finoman járni",
+    "id": "untuk berjalan dengan lembut",
+    "it": "camminare dolcemente",
+    "ja": "そっと歩く",
+    "ko": "부드럽게 걷기",
+    "lt": "švelniai vaikščioti",
+    "lv": "maigi staigāt",
+    "nb": "å gå forsiktig",
+    "nl": "zachtjes lopen",
+    "pl": "chodzić delikatnie",
+    "pt": "andar suavemente",
+    "ro": "să meargă ușor",
+    "ru": "ходить осторожно",
+    "sk": "jemne kráčať",
+    "sl": "hoditi nežno",
+    "sv": "att gå försiktigt",
+    "tr": "nazikçe yürümek",
+    "uk": "ходити м'яко",
+    "zh": "轻轻地走"
+  },
+  "hebrew": "דָּדָה",
+  "verses": [
+    "psalms 42:5:8",
+    "isaiah 38:15:6"
+  ]
+}

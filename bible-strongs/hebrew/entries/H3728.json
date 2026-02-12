@@ -1,0 +1,42 @@
+{
+  "number": "H3728",
+  "language": "hebrew",
+  "transliteration": "kâphash",
+  "pronunciation": "kaw-fash'",
+  "definition": "to tread down; figuratively, to humiliate",
+  "kjvTranslation": "cover.",
+  "translations": {
+    "bg": "да се потъпква; в преносен смисъл - да се унижава",
+    "cs": "pošlapat; v přeneseném významu ponížit",
+    "da": "at træde ned; i overført betydning at ydmyge",
+    "de": "niedertrampeln; im übertragenen Sinne: demütigen",
+    "el": "πατάω κάτω- μεταφορικά, ταπεινώνω",
+    "es": "pisotear; en sentido figurado, humillar",
+    "et": "maha tallata; piltlikult öeldes, alandada",
+    "fi": "talloa maahan; kuvaannollisesti, nöyryyttää",
+    "fr": "piétiner ; au sens figuré, humilier",
+    "hu": "megalázni; átvitt értelemben: megalázni",
+    "id": "menginjak-injak; secara kiasan, mempermalukan",
+    "it": "calpestare; in senso figurato, umiliare",
+    "ja": "踏みつける；比喩的に、恥をかかせる",
+    "ko": "밟다; 비유적으로, 굴욕감을 주다",
+    "lt": "sutrypti; perkeltine prasme - pažeminti",
+    "lv": "pazemot; pārnestā nozīmē - pazemot",
+    "nb": "å tråkke ned; i overført betydning, å ydmyke",
+    "nl": "neerhalen; figuurlijk, vernederen",
+    "pl": "zdeptać; w przenośni, upokorzyć",
+    "pt": "pisar; figurativamente, humilhar",
+    "ro": "a călca în picioare; la figurat, a umili",
+    "ru": "принижать; образно говоря, унижать",
+    "sk": "pošliapať; v prenesenom význame ponížiť",
+    "sl": "stopiti na tla; v prenesenem pomenu ponižati",
+    "sv": "att trampa ner; bildligt talat, att förödmjuka",
+    "tr": "ezmek; mecazi olarak aşağılamak",
+    "uk": "розтоптати; образно - принизити",
+    "zh": "践踏；比喻羞辱"
+  },
+  "hebrew": "כָּפַשׁ",
+  "verses": [
+    "lamentations 3:16:3"
+  ]
+}

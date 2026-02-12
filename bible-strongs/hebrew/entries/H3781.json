@@ -1,0 +1,42 @@
+{
+  "number": "H3781",
+  "language": "hebrew",
+  "transliteration": "kashshîyl",
+  "pronunciation": "kash-sheel'",
+  "definition": "properly, a feller, i.e. an axe",
+  "kjvTranslation": "ax.",
+  "hebrew": "כַּשִּׁיל",
+  "translations": {
+    "bg": "правилно, feller, т.е. брадва",
+    "cs": "správně feller, tj. sekera",
+    "da": "korrekt, en feller, dvs. en økse",
+    "de": "richtig, ein Feller, d.h. eine Axt",
+    "el": "σωστά, ένα τσεκούρι, δηλαδή ένα τσεκούρι",
+    "es": "propiamente, un feller, es decir, un hacha",
+    "et": "korralikult, feller, st kirves",
+    "fi": "kunnolla, feller, eli kirves",
+    "fr": "proprement, un abatteur, c'est-à-dire une hache",
+    "hu": "megfelelően, egy feller, azaz egy fejsze",
+    "id": "benar, penebang, yaitu kapak",
+    "it": "propriamente, un feller, cioè un'ascia",
+    "ja": "正しくはフェラー、つまり斧",
+    "ko": "정확히 말하자면, 펠러, 즉 도끼",
+    "lt": "tinkamai, a feller, t. y. kirvis",
+    "lv": "pareizi, a feller, t.i., cirvis",
+    "nb": "en feller, dvs. en øks",
+    "nl": "goed, een feller, d.w.z. een bijl",
+    "pl": "prawidłowo, feller, tj. siekiera",
+    "pt": "propriamente dito, um \"feller\", ou seja, um machado",
+    "ro": "în mod corespunzător, un \"feller\", adică un topor",
+    "ru": "правильно, топор, т.е. топор",
+    "sk": "správne feller, t. j. sekera",
+    "sl": "pravilno, feller, tj. sekira",
+    "sv": "korrekt, en feller, d.v.s. en yxa",
+    "tr": "düzgün bir şekilde, bir feller, yani bir balta",
+    "uk": "власне, дроворуб, тобто сокира",
+    "zh": "斧头"
+  },
+  "verses": [
+    "psalms 74:6:4"
+  ]
+}

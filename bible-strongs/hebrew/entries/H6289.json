@@ -1,0 +1,43 @@
+{
+  "number": "H6289",
+  "language": "hebrew",
+  "transliteration": "pâʼrûwr",
+  "pronunciation": "paw-roor'",
+  "definition": "properly, illuminated, i.e. a glow; as noun, a flush (of anxiety)",
+  "kjvTranslation": "blackness.",
+  "hebrew": "פָּארוּר",
+  "translations": {
+    "bg": "правилно, осветен, т.е. сияние; като съществително - зачервяване (от тревога)",
+    "cs": "správně, osvětlený, tj. záře; jako podstatné jméno, ruměnec (úzkosti)",
+    "da": "korrekt, oplyst, dvs. en glød; som substantiv, en rødmen (af ængstelse)",
+    "de": "richtig, erleuchtet, d.h. ein Leuchten; als Substantiv, eine Errötung (der Angst)",
+    "el": "κατάλληλα, φωτισμένος, δηλαδή μια λάμψη- ως ουσιαστικό, μια έξαψη (του άγχους)",
+    "es": "propiamente, iluminado, es decir, un resplandor; como sustantivo, un rubor (de ansiedad)",
+    "et": "õigesti, valgustatud, st hõõguv; kui nimisõna, hõõgumine (ärevusest)",
+    "fi": "oikein, valaistu, eli hehku; substantiivina punastuminen (ahdistuksesta)",
+    "fr": "proprement, illuminé, c'est-à-dire une lueur ; comme substantif, une bouffée (d'anxiété)",
+    "hu": "megfelelően, megvilágított, azaz ragyogás; főnévként, pír (az aggodalomtól)",
+    "id": "benar, diterangi, yaitu cahaya; sebagai kata benda, kemerahan (kecemasan)",
+    "it": "propriamente, illuminato, cioè un bagliore; come sostantivo, una vampata (di ansia)",
+    "ja": "ひかりかがやく",
+    "ko": "적절하게, 조명, 즉 빛; 명사로서, (불안의) 홍조",
+    "lt": "tinkamai, apšviestas, t. y. švytintis; kaip daiktavardis, rausvas (nerimo)",
+    "lv": "pareizi, izgaismots, t.i., mirdzošs; kā lietvārds - satraukuma sajūta",
+    "nb": "egentlig, opplyst, dvs. en glød; som substantiv, en rødme (av angst)",
+    "nl": "op de juiste manier, verlicht, d.w.z. een gloed; als zelfstandig naamwoord, een blos (van angst)",
+    "pl": "właściwie, oświetlony, tj. blask; jako rzeczownik, rumieniec (niepokoju)",
+    "pt": "propriamente dito, iluminado, ou seja, um brilho; como substantivo, um rubor (de ansiedade)",
+    "ro": "propriu-zis, luminat, adică o strălucire; ca substantiv, o roșeață (de anxietate)",
+    "ru": "правильно, освещенный, т.е. сияющий; как существительное, румянец (от волнения)",
+    "sk": "správne, osvetlený, t. j. žiara; ako podstatné meno, rumenec (úzkosti)",
+    "sl": "pravilno, osvetljen, tj. sijaj; kot samostalnik, rdečica (tesnobe)",
+    "sv": "korrekt, upplyst, dvs. en glöd; som substantiv, en rodnad (av ångest)",
+    "tr": "uygun şekilde, aydınlatılmış, yani bir parıltı; isim olarak, bir kızarma (endişe)",
+    "uk": "належним чином, освітлений, тобто сяйво; як іменник, почервоніння (від тривоги)",
+    "zh": "焕发；作为名词，潮红"
+  },
+  "verses": [
+    "joel 2:6:6",
+    "nahum 2:11:13"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2631",
+  "language": "hebrew",
+  "transliteration": "chăçan",
+  "pronunciation": "khas-an'",
+  "definition": "to hold in occupancy",
+  "kjvTranslation": "possess.",
+  "translations": {
+    "bg": "да заемат място",
+    "cs": "k obsazení",
+    "da": "at holde i besættelse",
+    "de": "in Besitz zu halten",
+    "el": "να κρατήσει σε κατοχή",
+    "es": "mantener en ocupación",
+    "et": "hoida hõivatuna",
+    "fi": "pitää miehitettynä",
+    "fr": "pour l'occupation",
+    "hu": "hogy elfoglalva tartsák",
+    "id": "untuk menahan hunian",
+    "it": "tenere occupato",
+    "ja": "占有する",
+    "ko": "점유 유지",
+    "lt": "laikyti užimtą patalpą",
+    "lv": "aizņemt vietu",
+    "nb": "å holde i besittelse",
+    "nl": "bezet houden",
+    "pl": "zajmować miejsce",
+    "pt": "para manter a ocupação",
+    "ro": "pentru a ține în ocupație",
+    "ru": "занимать место",
+    "sk": "mať obsadené",
+    "sl": "imeti v uporabi",
+    "sv": "för att hålla i beläggning",
+    "tr": "işgal altında tutmak",
+    "uk": "утримувати в зайнятості",
+    "zh": "占用"
+  },
+  "hebrew": "חֲסַן",
+  "verses": [
+    "daniel 7:18:4",
+    "daniel 7:22:12"
+  ]
+}

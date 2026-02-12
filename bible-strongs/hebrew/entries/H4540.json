@@ -1,0 +1,42 @@
+{
+  "number": "H4540",
+  "language": "hebrew",
+  "transliteration": "mᵉçukkâh",
+  "pronunciation": "mes-ook-kaw'",
+  "definition": "a covering, i.e. garniture",
+  "kjvTranslation": "covering.",
+  "hebrew": "מְסֻכָּה",
+  "verses": [
+    "ezekiel 28:13:7"
+  ],
+  "translations": {
+    "bg": "покриване, т.е. запор",
+    "cs": "krytí, tj. garnitura",
+    "da": "en tildækning, dvs. en udlægsforretning",
+    "de": "eine Abdeckung, d.h. eine Pfändung",
+    "el": "κάλυψη, δηλαδή κατάσχεση",
+    "es": "una cobertura, es decir, un embargo",
+    "et": "katmine, st kinnipidamine",
+    "fi": "peittäminen eli takavarikointi",
+    "fr": "une couverture, c'est-à-dire une saisie",
+    "hu": "fedezet, azaz lefoglalás",
+    "id": "penutup, yaitu hiasan",
+    "it": "una copertura, cioè un'imposizione di pignoramento",
+    "ja": "差し押さえ",
+    "ko": "덮개, 즉 장식물",
+    "lt": "dengimas, t. y. areštas",
+    "lv": "segums, t. i., apķīlāšana",
+    "nb": "en tildekking, dvs. beslagleggelse",
+    "nl": "een bedekking, d.w.z. derdenbeslag",
+    "pl": "pokrycie, tj. zajęcie",
+    "pt": "uma cobertura, ou seja, uma penhora",
+    "ro": "o acoperire, adică o poprire",
+    "ru": "покрытие, т.е. конфискация",
+    "sk": "krytie, t. j. garnitúra",
+    "sl": "pokritje, tj. zaplemba",
+    "sv": "en täckning, dvs. kvarstad",
+    "tr": "bir örtü, yani haciz",
+    "uk": "покриття, тобто гарнітур",
+    "zh": "封口费"
+  }
+}

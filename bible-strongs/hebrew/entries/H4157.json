@@ -1,0 +1,42 @@
+{
+  "number": "H4157",
+  "language": "hebrew",
+  "transliteration": "mûwʻâqâh",
+  "pronunciation": "moo-aw-kaw'",
+  "definition": "pressure, i.e. (figuratively) distress",
+  "kjvTranslation": "affliction.",
+  "hebrew": "מוּעָקָה",
+  "translations": {
+    "bg": "натиск, т.е. (в преносен смисъл) бедствие",
+    "cs": "tlak, tj. (přeneseně) tíseň",
+    "da": "pres, dvs. (i overført betydning) nød",
+    "de": "druck, d.h. (im übertragenen Sinne) Bedrängnis",
+    "el": "πίεση, δηλαδή (μεταφορικά) αγωνία",
+    "es": "presión, es decir (en sentido figurado) angustia",
+    "et": "surve, st (piltlikult öeldes) häda",
+    "fi": "paine, eli (kuvaannollisesti) ahdistus",
+    "fr": "pression, c'est-à-dire (au sens figuré) détresse",
+    "hu": "nyomás, azaz (átvitt értelemben) szorongás",
+    "id": "tekanan, yaitu (secara kiasan) kesusahan",
+    "it": "pressione, cioè (in senso figurato) angoscia",
+    "ja": "苦況",
+    "ko": "압력, 즉 (비유적으로) 괴로움",
+    "lt": "spaudimas, t. y. (perkeltine prasme) nelaimė",
+    "lv": "spiediens, t.i., (pārnestā nozīmē) bēda",
+    "nb": "press, dvs. (i overført betydning) nød",
+    "nl": "druk, d.w.z. (figuurlijk) leed",
+    "pl": "presja, tj. (w przenośni) niepokój",
+    "pt": "pressão, ou seja, (figurativamente) angústia",
+    "ro": "presiune, adică (la figurat) suferință",
+    "ru": "давление, т.е. (фигурально) бедствие",
+    "sk": "tlak, t. j. (obrazne) tieseň",
+    "sl": "pritisk, tj. (v prenesenem pomenu) stiska",
+    "sv": "tryck, dvs. (bildligt talat) nöd",
+    "tr": "baskı, yani (mecazi anlamda) sıkıntı",
+    "uk": "тиск, тобто (образно) дистрес",
+    "zh": "压力，即（比喻）苦恼"
+  },
+  "verses": [
+    "psalms 66:11:3"
+  ]
+}

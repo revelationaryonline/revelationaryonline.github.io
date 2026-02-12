@@ -1,0 +1,42 @@
+{
+  "number": "H6050",
+  "language": "hebrew",
+  "transliteration": "ʻănan",
+  "pronunciation": "an-an'",
+  "definition": "{a cloud (as covering the sky), i.e. the nimbus or thunder-cloud}",
+  "kjvTranslation": "cloud.",
+  "hebrew": "עֲנַן",
+  "translations": {
+    "bg": "{облак (покриващ небето), т.е. нимб или гръмотевичен облак}",
+    "cs": "{oblak (jako pokrývající oblohu), tj. nimbus nebo bouřkový mrak}",
+    "da": "{en sky (som dækker himlen), dvs. nimbus eller tordensky}",
+    "de": "{eine Wolke (die den Himmel bedeckt), d.h. der Nimbus oder die Gewitterwolke}",
+    "el": "{ένα σύννεφο (που καλύπτει τον ουρανό), δηλαδή το σύννεφο ή το σύννεφο του κεραυνού}",
+    "es": "{una nube (que cubre el cielo), es decir, el nimbo o la nube del trueno}",
+    "et": "{pilv (nagu taevast kattev), s.t. nimbus või äikesepilv}",
+    "fi": "{pilvi (taivaan peittävänä), eli nimbus tai ukkospilvi}",
+    "fr": "{un nuage (comme couvrant le ciel), c'est-à-dire le nimbe ou le nuage d'orage}",
+    "hu": "{felhő (mint az eget borító felhő), azaz a nimbusz vagy a zivatarfelhő}",
+    "id": "(awan (seperti yang menutupi langit), yaitu nimbus atau awan guntur)",
+    "it": "{una nuvola (che copre il cielo), cioè il nimbo o la nuvola di tuono}",
+    "ja": "(空を覆うような)雲、すなわち薄雲や雷雲}。",
+    "ko": "(하늘을 덮고 있는) 구름, 즉 후광 또는 뇌운}",
+    "lt": "{dangų dengiantis debesis, t. y. nimbas arba perkūnijos debesis}",
+    "lv": "{mākoņa (kā debesis), t.i., nimba vai pērkona mākoņa}",
+    "nb": "{en sky (som dekker himmelen), dvs. nimbus eller tordensky}",
+    "nl": "{een wolk (die de hemel bedekt), d.w.z. de nimbus of donderwolk}",
+    "pl": "{chmura (pokrywająca niebo), tj. nimb lub chmura burzowa}",
+    "pt": "{uma nuvem (como cobrindo o céu), isto é, o nimbus ou nuvem de trovão}",
+    "ro": "{un nor (ca acoperind cerul), adică nimbul sau norul tunetului}",
+    "ru": "{облако (как покрывающее небо), т.е. нимб или грозовое облако}",
+    "sk": "{oblak (ako pokrývajúci oblohu), t. j. nimbus alebo búrkový mrak}",
+    "sl": "{oblak (ki prekriva nebo), tj. nimbus ali nevihtni oblak}",
+    "sv": "{ett moln (som täcker himlen), t.ex. nimbus eller åskmoln}",
+    "tr": "{bir bulut (gökyüzünü kaplayan), yani nimbus veya gök gürültüsü bulutu}",
+    "uk": "{хмара (як така, що вкриває небо), тобто німб або грозова хмара}",
+    "zh": "云（遮天蔽日），即云雾或雷云"
+  },
+  "verses": [
+    "daniel 7:13:6"
+  ]
+}

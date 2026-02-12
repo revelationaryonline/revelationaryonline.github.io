@@ -1,0 +1,42 @@
+{
+  "number": "H7514",
+  "language": "hebrew",
+  "transliteration": "râphaq",
+  "pronunciation": "raw-fak'",
+  "definition": "to recline",
+  "kjvTranslation": "lean.",
+  "hebrew": "רָפַק",
+  "translations": {
+    "bg": "да се облягате",
+    "cs": "naklonit",
+    "da": "at læne sig tilbage",
+    "de": "sich zu lehnen",
+    "el": "να ξαπλώσετε",
+    "es": "reclinarse",
+    "et": "lamada",
+    "fi": "nojata",
+    "fr": "s'incliner",
+    "hu": "hátradőlni",
+    "id": "untuk berbaring",
+    "it": "reclinare",
+    "ja": "リクライニング",
+    "ko": "기대다",
+    "lt": "atsilošti",
+    "lv": "noliekties",
+    "nb": "å legge seg tilbake",
+    "nl": "achterover leunen",
+    "pl": "do odchylenia",
+    "pt": "para reclinar",
+    "ro": "să se încline",
+    "ru": "откидываться",
+    "sk": "na sklopenie",
+    "sl": "za nagibanje",
+    "sv": "att luta sig tillbaka",
+    "tr": "yaslanmak için",
+    "uk": "відкинутися на спинку крісла",
+    "zh": "斜躺"
+  },
+  "verses": [
+    "solomon 8:5:5"
+  ]
+}

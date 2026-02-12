@@ -1,0 +1,42 @@
+{
+  "number": "H4946",
+  "language": "hebrew",
+  "transliteration": "mishqôwl",
+  "pronunciation": "mish-kole'",
+  "definition": "weight",
+  "kjvTranslation": "weight.",
+  "hebrew": "מִשְׁקוֹל",
+  "translations": {
+    "bg": "тегло",
+    "cs": "hmotnost",
+    "da": "vægt",
+    "de": "gewicht",
+    "el": "βάρος",
+    "es": "peso",
+    "et": "kaal",
+    "fi": "paino",
+    "fr": "poids",
+    "hu": "súly",
+    "id": "berat badan",
+    "it": "peso",
+    "ja": "重量",
+    "ko": "무게",
+    "lt": "svoris",
+    "lv": "svars",
+    "nb": "vekt",
+    "nl": "gewicht",
+    "pl": "waga",
+    "pt": "peso",
+    "ro": "greutate",
+    "ru": "вес",
+    "sk": "hmotnosť",
+    "sl": "teža",
+    "sv": "vikt",
+    "tr": "ağırlık",
+    "uk": "вага",
+    "zh": "重量"
+  },
+  "verses": [
+    "ezekiel 4:10:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1407",
+  "language": "hebrew",
+  "transliteration": "gad",
+  "pronunciation": "gad",
+  "definition": "coriander seed (from its furrows)",
+  "kjvTranslation": "coriander.",
+  "translations": {
+    "bg": "семена от кориандър (от браздите му)",
+    "cs": "semínka koriandru (z jeho brázd)",
+    "da": "korianderfrø (fra dens furer)",
+    "de": "koriandersamen (aus seinen Furchen)",
+    "el": "σπόρους κόλιανδρου (από τα αυλάκια του)",
+    "es": "semillas de cilantro (de sus surcos)",
+    "et": "koriandri seemned (selle kobaradelt)",
+    "fi": "korianterin siemeniä (sen uurteista)",
+    "fr": "graines de coriandre (de ses sillons)",
+    "hu": "koriandermag (a barázdáiból)",
+    "id": "biji ketumbar (dari alurnya)",
+    "it": "semi di coriandolo (dai suoi solchi)",
+    "ja": "コリアンダーシード",
+    "ko": "고수 씨앗(고랑에서 추출)",
+    "lt": "kalendros sėklų (iš jos vagų)",
+    "lv": "koriandra sēklas (no tā brikšņiem)",
+    "nb": "korianderfrø (fra furene)",
+    "nl": "korianderzaad (uit de groeven)",
+    "pl": "nasiona kolendry (z jej bruzd)",
+    "pt": "sementes de coentros (dos seus sulcos)",
+    "ro": "semințe de coriandru (din brazdele sale)",
+    "ru": "семена кориандра (из бороздок)",
+    "sk": "semená koriandra (z jeho brázd)",
+    "sl": "semena koriandra (iz njegovih brazd)",
+    "sv": "korianderfrö (från dess fåror)",
+    "tr": "kişniş tohumu (oluklarından)",
+    "uk": "насіння коріандру (з його борозен)",
+    "zh": "芫荽籽"
+  },
+  "hebrew": "גַּד",
+  "verses": [
+    "exodus 16:31:8",
+    "numbers 11:7:2"
+  ]
+}

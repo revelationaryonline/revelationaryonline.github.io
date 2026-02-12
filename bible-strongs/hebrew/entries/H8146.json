@@ -1,0 +1,42 @@
+{
+  "number": "H8146",
+  "language": "hebrew",
+  "transliteration": "sânîyʼ",
+  "pronunciation": "saw-nee'",
+  "definition": "hated",
+  "kjvTranslation": "hated.",
+  "hebrew": "שָׂנִיא",
+  "translations": {
+    "bg": "мразеше",
+    "cs": "nenáviděný",
+    "da": "forhadt",
+    "de": "gehasst",
+    "el": "μισητό",
+    "es": "odiaba",
+    "et": "vihkas",
+    "fi": "vihattu",
+    "fr": "détesté",
+    "hu": "gyűlölt",
+    "id": "benci",
+    "it": "odiato",
+    "ja": "嫌い",
+    "ko": "싫어",
+    "lt": "nekentė",
+    "lv": "ienīda",
+    "nb": "forhatt",
+    "nl": "haatte",
+    "pl": "znienawidzony",
+    "pt": "odiado",
+    "ro": "urât",
+    "ru": "ненавидел",
+    "sk": "nenávidel",
+    "sl": "sovražil",
+    "sv": "hatade",
+    "tr": "nefret etti",
+    "uk": "ненавиджу",
+    "zh": "恼火"
+  },
+  "verses": [
+    "deuteronomy 21:15:17"
+  ]
+}

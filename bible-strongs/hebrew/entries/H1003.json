@@ -1,0 +1,43 @@
+{
+  "number": "H1003",
+  "language": "hebrew",
+  "transliteration": "bîyrânîyth",
+  "pronunciation": "bee-raw-neeth'",
+  "definition": "a fortress",
+  "kjvTranslation": "castle.",
+  "translations": {
+    "bg": "крепост",
+    "cs": "pevnost",
+    "da": "en fæstning",
+    "de": "eine Festung",
+    "el": "ένα φρούριο",
+    "es": "una fortaleza",
+    "et": "kindlus",
+    "fi": "linnoitus",
+    "fr": "une forteresse",
+    "hu": "egy erőd",
+    "id": "sebuah benteng",
+    "it": "una fortezza",
+    "ja": "砦",
+    "ko": "요새",
+    "lt": "tvirtovė",
+    "lv": "cietoksnis",
+    "nb": "en festning",
+    "nl": "een fort",
+    "pl": "twierdza",
+    "pt": "uma fortaleza",
+    "ro": "o fortăreață",
+    "ru": "крепость",
+    "sk": "pevnosť",
+    "sl": "trdnjava",
+    "sv": "en fästning",
+    "tr": "bir kale",
+    "uk": "фортеця",
+    "zh": "堡垒"
+  },
+  "hebrew": "בִּירָנִית",
+  "verses": [
+    "secondChronicles 17:12:8",
+    "secondChronicles 27:4:6"
+  ]
+}

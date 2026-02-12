@@ -1,0 +1,43 @@
+{
+  "number": "H1549",
+  "language": "hebrew",
+  "transliteration": "gillâyôwn",
+  "pronunciation": "ghil-law-yone'",
+  "definition": "a tablet for writing (as bare); by analogy, a mirror (as a plate)",
+  "kjvTranslation": "glass, roll.",
+  "translations": {
+    "bg": "плоча за писане (гола); по аналогия - огледало (като плоча)",
+    "cs": "tabulka na psaní (jako holá); analogicky zrcadlo (jako deska)",
+    "da": "en tavle til at skrive på (som bare); analogt et spejl (som en plade)",
+    "de": "eine Tafel zum Schreiben (wie eine bloße); analog dazu ein Spiegel (wie eine Platte)",
+    "el": "μια πινακίδα για γραφή (ως γυμνή)- κατ' αναλογία, ένας καθρέφτης (ως πλάκα)",
+    "es": "una tablilla para escribir (como desnudo); por analogía, un espejo (como placa)",
+    "et": "tahvel kirjutamiseks (kui paljas); analoogia alusel peegel (kui plaat)",
+    "fi": "kirjoitustaulu (paljaana); vastaavasti peili (levynä)",
+    "fr": "une tablette pour écrire (comme nue) ; par analogie, un miroir (comme une plaque)",
+    "hu": "írótábla (mint puszta); ennek analógiájára tükör (mint lemez)",
+    "id": "sebuah tablet untuk menulis (seperti telanjang); dengan analogi, cermin (sebagai piring)",
+    "it": "una tavoletta per scrivere (come spoglia); per analogia, uno specchio (come una lastra)",
+    "ja": "鏡板",
+    "ko": "필기용 태블릿(맨손으로); 비유하자면 거울(접시로)",
+    "lt": "rašymo lentelė (kaip plikas); analogiškai - veidrodis (kaip plokštelė)",
+    "lv": "plāksne rakstīšanai (kā tukša); pēc analoģijas - spogulis (kā plāksne)",
+    "nb": "en tavle for skriving (som bare); analogt, et speil (som en plate)",
+    "nl": "een tablet om op te schrijven (als kaal); naar analogie, een spiegel (als bord)",
+    "pl": "tabliczka do pisania (jako goła); przez analogię, lustro (jako tabliczka)",
+    "pt": "uma tábua para escrever (como uma tábua); por analogia, um espelho (como um prato)",
+    "ro": "o tăbliță pentru scris (ca bare); prin analogie, o oglindă (ca o placă)",
+    "ru": "дощечка для письма (как голая); по аналогии - зеркало (как тарелка)",
+    "sk": "tabuľka na písanie (ako holá); analogicky zrkadlo (ako doska)",
+    "sl": "tablica za pisanje (gola); po analogiji ogledalo (kot plošča)",
+    "sv": "en tablett för skrivning (som bar); analogt en spegel (som en platta)",
+    "tr": "yazı yazmak için bir tablet (çıplak olarak); benzetme yoluyla, bir ayna (bir tabak olarak)",
+    "uk": "планшет для письма (як голий); за аналогією, дзеркало (як тарілка)",
+    "zh": "板"
+  },
+  "hebrew": "גִּלָּיוֹן",
+  "verses": [
+    "isaiah 3:23:0",
+    "isaiah 8:1:5"
+  ]
+}

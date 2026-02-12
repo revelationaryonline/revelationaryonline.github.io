@@ -1,0 +1,43 @@
+{
+  "number": "H7132",
+  "language": "hebrew",
+  "transliteration": "qᵉrâbâh",
+  "pronunciation": "ker-aw-baw'",
+  "definition": "approach",
+  "kjvTranslation": "approaching, draw near.",
+  "hebrew": "קְרָבָה",
+  "translations": {
+    "bg": "подход",
+    "cs": "přístup",
+    "da": "tilgang",
+    "de": "anfahrt",
+    "el": "προσέγγιση",
+    "es": "enfoque",
+    "et": "lähenemine",
+    "fi": "lähestymistapa",
+    "fr": "approche",
+    "hu": "megközelítés",
+    "id": "pendekatan",
+    "it": "approccio",
+    "ja": "アプローチ",
+    "ko": "접근 방식",
+    "lt": "požiūris",
+    "lv": "pieeja",
+    "nb": "tilnærming",
+    "nl": "benadering",
+    "pl": "podejście",
+    "pt": "abordagem",
+    "ro": "abordare",
+    "ru": "подход",
+    "sk": "prístup",
+    "sl": "pristop",
+    "sv": "tillvägagångssätt",
+    "tr": "yaklaşım",
+    "uk": "підхід",
+    "zh": "办法"
+  },
+  "verses": [
+    "psalms 73:28:1",
+    "isaiah 58:2:18"
+  ]
+}

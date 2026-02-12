@@ -1,0 +1,42 @@
+{
+  "number": "H7427",
+  "language": "hebrew",
+  "transliteration": "rômêmuth",
+  "pronunciation": "ro-may-mooth'",
+  "definition": "exaltation",
+  "kjvTranslation": "lifting up of self.",
+  "hebrew": "רֹמֵמֻת",
+  "translations": {
+    "bg": "издигане",
+    "cs": "povýšení",
+    "da": "ophøjelse",
+    "de": "exaltation",
+    "el": "έξαρση",
+    "es": "exaltación",
+    "et": "ülistus",
+    "fi": "korotus",
+    "fr": "exaltation",
+    "hu": "felmagasztalás",
+    "id": "peninggian",
+    "it": "esaltazione",
+    "ja": "高揚",
+    "ko": "승영",
+    "lt": "išaukštinimas",
+    "lv": "eksaltācija",
+    "nb": "opphøyelse",
+    "nl": "verheerlijking",
+    "pl": "wywyższenie",
+    "pt": "exaltação",
+    "ro": "exaltare",
+    "ru": "возвышение",
+    "sk": "povýšenie",
+    "sl": "povzdignjenje",
+    "sv": "upphöjelse",
+    "tr": "yüceltme",
+    "uk": "піднесення",
+    "zh": "超升"
+  },
+  "verses": [
+    "isaiah 33:3:4"
+  ]
+}

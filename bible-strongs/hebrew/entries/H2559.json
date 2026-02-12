@@ -1,0 +1,43 @@
+{
+  "number": "H2559",
+  "language": "hebrew",
+  "transliteration": "châmaq",
+  "pronunciation": "khaw-mak'",
+  "definition": "properly, to wrap; hence, to depart (i.e. turn about)",
+  "kjvTranslation": "go about, withdraw self.",
+  "translations": {
+    "bg": "правилно, да се увие; оттам - да се отклони (т.е. да се обърне)",
+    "cs": "správně zabalit; tedy odejít (tj. otočit se)",
+    "da": "korrekt, at pakke sammen; derfor, at rejse (dvs. vende om)",
+    "de": "richtig: einpacken; also abfahren (d. h. umdrehen)",
+    "el": "σωστά, να τυλίγω- ως εκ τούτου, να αναχωρώ (δηλ. να γυρίζω πίσω)",
+    "es": "propiamente, envolver; de ahí, partir (es decir, dar la vuelta)",
+    "et": "õigesti, mähkida; seega, lahkuda (st ümber pöörata)",
+    "fi": "oikein, kääriä; siis lähteä (eli kääntyä ympäri)",
+    "fr": "à proprement parler, s'éloigner ; par conséquent, partir (c'est-à-dire faire demi-tour)",
+    "hu": "megfelelően, bebugyolálni; tehát távozni (azaz megfordulni)",
+    "id": "benar, membungkus; karenanya, berangkat (yaitu, berbalik)",
+    "it": "propriamente, allontanarsi; quindi, partire (cioè girare)",
+    "ja": "つまり、出発する。",
+    "ko": "적절하게, 감싸다; 따라서 출발하다(즉, 돌아서다)",
+    "lt": "tinkamai, suvynioti; taigi, išvykti (t. y. apsisukti)",
+    "lv": "pareizi - ietīt, tātad - aizbraukt (t.i., apgriezties)",
+    "nb": "egentlig, å pakke inn; derav, å dra (dvs. snu)",
+    "nl": "goed, omwikkelen; vandaar, vertrekken (d.w.z. omkeren)",
+    "pl": "właściwie, zawijać; stąd, odchodzić (tj. zawracać)",
+    "pt": "propriamente, envolver; portanto, partir (ou seja, dar meia volta)",
+    "ro": "în mod corespunzător, a înfășura; prin urmare, a pleca (adică a se întoarce)",
+    "ru": "правильно, заворачивать; следовательно, уходить (т.е. поворачиваться)",
+    "sk": "správne zabaliť; teda odísť (t. j. otočiť sa)",
+    "sl": "pravilno, zaviti; torej oditi (tj. obrniti se)",
+    "sv": "korrekt, att linda; följaktligen att avgå (dvs. vända om)",
+    "tr": "uygun şekilde, sarmak; dolayısıyla, ayrılmak (yani geri dönmek)",
+    "uk": "правильно, завертати; отже, відходити (тобто розвертатися)",
+    "zh": "裹；因此，离开（即掉头）"
+  },
+  "hebrew": "חָמַק",
+  "verses": [
+    "solomon 5:6:4",
+    "jeremiah 31:22:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1863",
+  "language": "hebrew",
+  "transliteration": "dardar",
+  "pronunciation": "dar-dar'",
+  "definition": "a thorn",
+  "kjvTranslation": "thistle.",
+  "translations": {
+    "bg": "трън",
+    "cs": "trn",
+    "da": "en torn",
+    "de": "ein Stachel",
+    "el": "ένα αγκάθι",
+    "es": "una espina",
+    "et": "okas",
+    "fi": "piikki",
+    "fr": "une épine",
+    "hu": "egy tüske",
+    "id": "duri",
+    "it": "una spina",
+    "ja": "とげ",
+    "ko": "가시",
+    "lt": "dyglys",
+    "lv": "ērkšķis",
+    "nb": "en torn",
+    "nl": "een doorn",
+    "pl": "cierń",
+    "pt": "um espinho",
+    "ro": "un ghimpe",
+    "ru": "шип",
+    "sk": "tŕň",
+    "sl": "trn",
+    "sv": "en tagg",
+    "tr": "bir diken",
+    "uk": "колючка",
+    "zh": "刺儿"
+  },
+  "hebrew": "דַּרְדַּר",
+  "verses": [
+    "genesis 3:18:1",
+    "hosea 10:8:6"
+  ]
+}

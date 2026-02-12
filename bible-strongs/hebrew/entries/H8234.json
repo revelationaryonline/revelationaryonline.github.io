@@ -1,0 +1,43 @@
+{
+  "number": "H8234",
+  "language": "hebrew",
+  "transliteration": "Shepher",
+  "pronunciation": "sheh'-fer",
+  "definition": "Shepher, a place in the Desert",
+  "kjvTranslation": "Shapper.",
+  "hebrew": "שֶׁפֶר",
+  "translations": {
+    "bg": "Пастир, място в пустинята",
+    "cs": "Shepher, místo v poušti",
+    "da": "Shepher, et sted i ørkenen",
+    "de": "Shepher, ein Ort in der Wüste",
+    "el": "Shepher, ένα μέρος στην έρημο",
+    "es": "Shepher, un lugar en el desierto",
+    "et": "Shepher, koht kõrbes",
+    "fi": "Shepher, paikka autiomaassa",
+    "fr": "Berger, un lieu dans le désert",
+    "hu": "Shepher, egy hely a sivatagban",
+    "id": "Gembala, sebuah tempat di Gurun Pasir",
+    "it": "Shepher, un luogo nel deserto",
+    "ja": "シェファ、砂漠のある場所",
+    "ko": "사막의 장소, 셰퍼",
+    "lt": "Šeferis, vieta dykumoje",
+    "lv": "Shepher, vieta tuksnesī",
+    "nb": "Shepher, et sted i ørkenen",
+    "nl": "Shepher, een plaats in de woestijn",
+    "pl": "Shepher, miejsce na pustyni",
+    "pt": "Shepher, um lugar no deserto",
+    "ro": "Shepher, un loc în deșert",
+    "ru": "Пастух, место в пустыне",
+    "sk": "Pastier, miesto v púšti",
+    "sl": "Pastir, kraj v puščavi",
+    "sv": "Shepher, en plats i öknen",
+    "tr": "Shepher, Çölde bir yer",
+    "uk": "Пастух, місце в пустелі",
+    "zh": "牧羊人，沙漠中的一个地方"
+  },
+  "verses": [
+    "numbers 33:23:4",
+    "numbers 33:24:2"
+  ]
+}

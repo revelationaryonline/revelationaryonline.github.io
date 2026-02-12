@@ -1,0 +1,43 @@
+{
+  "number": "H8078",
+  "language": "hebrew",
+  "transliteration": "shimmâmôwn",
+  "pronunciation": "shim-maw-mone'",
+  "definition": "stupefaction",
+  "kjvTranslation": "astonishment.",
+  "hebrew": "שִׁמָּמוֹן",
+  "translations": {
+    "bg": "оглупяване",
+    "cs": "omámení",
+    "da": "bedøvelse",
+    "de": "verblödung",
+    "el": "ζαλάδα",
+    "es": "estupefacción",
+    "et": "uimastamine",
+    "fi": "tainnutus",
+    "fr": "stupéfaction",
+    "hu": "kábulat",
+    "id": "kebodohan",
+    "it": "stupefazione",
+    "ja": "茫然自失",
+    "ko": "멍청함",
+    "lt": "apstulbimas",
+    "lv": "apstulbums",
+    "nb": "bedøvelse",
+    "nl": "bedwelming",
+    "pl": "otępienie",
+    "pt": "estupefação",
+    "ro": "stupefacție",
+    "ru": "одурманивание",
+    "sk": "omámenie",
+    "sl": "omamljanje",
+    "sv": "förbluffning",
+    "tr": "sersemletme",
+    "uk": "одурманення",
+    "zh": "眩晕"
+  },
+  "verses": [
+    "ezekiel 4:16:15",
+    "ezekiel 12:19:17"
+  ]
+}

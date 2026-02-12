@@ -1,0 +1,42 @@
+{
+  "number": "H778",
+  "language": "hebrew",
+  "transliteration": "ʼăraq",
+  "pronunciation": "ar-ak'",
+  "definition": "the earth",
+  "kjvTranslation": "earth.",
+  "translations": {
+    "bg": "земята",
+    "cs": "země",
+    "da": "jorden",
+    "de": "die Erde",
+    "el": "η γη",
+    "es": "la tierra",
+    "et": "maa",
+    "fi": "maa",
+    "fr": "la terre",
+    "hu": "a föld",
+    "id": "bumi",
+    "it": "la terra",
+    "ja": "地球",
+    "ko": "지구",
+    "lt": "žemė",
+    "lv": "zeme",
+    "nb": "jorden",
+    "nl": "de aarde",
+    "pl": "ziemia",
+    "pt": "a terra",
+    "ro": "pământul",
+    "ru": "земля",
+    "sk": "zem",
+    "sl": "zemljo",
+    "sv": "jorden",
+    "tr": "toprak",
+    "uk": "земля",
+    "zh": "人间"
+  },
+  "hebrew": "אֲרַק",
+  "verses": [
+    "jeremiah 10:11:6"
+  ]
+}

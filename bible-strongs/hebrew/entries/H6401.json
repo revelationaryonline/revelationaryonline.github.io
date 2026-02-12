@@ -1,0 +1,42 @@
+{
+  "number": "H6401",
+  "language": "hebrew",
+  "transliteration": "Pilchâʼ",
+  "pronunciation": "pil-khaw'",
+  "definition": "Pilcha, an Israelite",
+  "kjvTranslation": "Pilcha.",
+  "hebrew": "פִּלְחָא",
+  "translations": {
+    "bg": "Пилха, израилтянин",
+    "cs": "Pilcha, Izraelita",
+    "da": "Pilcha, en israelit",
+    "de": "Pilcha, ein Israelit",
+    "el": "Pilcha, ένας Ισραηλίτης",
+    "es": "Pilcha, israelita",
+    "et": "Pilcha, iisraellane",
+    "fi": "Pilcha, israelilainen",
+    "fr": "Pilcha, Israélite",
+    "hu": "Pilcha, izraelita",
+    "id": "Pilcha, seorang Israel",
+    "it": "Pilcha, un israelita",
+    "ja": "イスラエル人ピルチャ",
+    "ko": "필차, 이스라엘인",
+    "lt": "Pilcha, izraelitas",
+    "lv": "Pilcha, izraēlietis",
+    "nb": "Pilcha, en israelitt",
+    "nl": "Pilcha, een Israëliet",
+    "pl": "Pilcha, Izraelita",
+    "pt": "Pilcha, israelita",
+    "ro": "Pilcha, un israelit",
+    "ru": "Пильха, израильтянин",
+    "sk": "Pilcha, Izraelita",
+    "sl": "Pilcha, Izraelec",
+    "sv": "Pilcha, en israelit",
+    "tr": "Pilcha, bir İsrailli",
+    "uk": "Пільха, ізраїльтянин",
+    "zh": "皮尔查，以色列人"
+  },
+  "verses": [
+    "nehemiah 10:25:1"
+  ]
+}

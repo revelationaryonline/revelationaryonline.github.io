@@ -1,0 +1,43 @@
+{
+  "number": "H2872",
+  "language": "hebrew",
+  "transliteration": "ṭabbûwr",
+  "pronunciation": "tab-boor'",
+  "definition": "properly, accumulated; i.e. (by implication) a summit",
+  "kjvTranslation": "middle, midst.",
+  "translations": {
+    "bg": "правилно, натрупан; т.е. (по подразбиране) връх",
+    "cs": "správně, nahromaděný, tj. (implicitně) vrchol",
+    "da": "korrekt, akkumuleret; dvs. (underforstået) et topmøde",
+    "de": "richtig, akkumuliert; d.h. (implizit) ein Gipfel",
+    "el": "σωστά, συσσωρευμένη, δηλαδή (κατ' επέκταση) μια σύνοδος κορυφής",
+    "es": "propiamente, acumulado; es decir (implícitamente) una cumbre",
+    "et": "korralikult, akumuleeritud; st (kaudselt) tippkohtumine",
+    "fi": "oikein, kertynyt; eli (implisiittisesti) huippukokous",
+    "fr": "correctement, accumulé ; c'est-à-dire (par implication) un sommet",
+    "hu": "megfelelően, felhalmozva; azaz (értelemszerűen) egy csúcson",
+    "id": "benar, terakumulasi; yaitu (dengan implikasi) sebuah puncak",
+    "it": "propriamente detto, accumulato; cioè (per implicazione) un vertice",
+    "ja": "つまり（暗に）頂上である。",
+    "ko": "적절하게, 누적된; 즉, (암시적으로) 정상 회담",
+    "lt": "tinkamai, sukauptas, t. y. (netiesiogiai) viršūnė",
+    "lv": "pareizi, uzkrāts, t.i., (netieši) samits",
+    "nb": "riktig, akkumulert; dvs. (underforstått) en topp",
+    "nl": "goed, geaccumuleerd; d.w.z. (impliciet) een top",
+    "pl": "właściwie, nagromadzony; tj. (w domyśle) szczyt",
+    "pt": "propriamente dito, acumulado; ou seja, (implicitamente) uma cimeira",
+    "ro": "în mod corespunzător, acumulat; adică (implicit) o culme",
+    "ru": "должным образом, накопленный; т.е. (по косвенным признакам) вершина",
+    "sk": "správne, nahromadené; t. j. (implicitne) vrchol",
+    "sl": "pravilno, nakopičeno; tj. (implicitno) vrh",
+    "sv": "ordentligt, ackumulerat; d.v.s. (underförstått) ett toppmöte",
+    "tr": "uygun şekilde, biriktirilmiş; yani (ima yoluyla) bir zirve",
+    "uk": "власне, накопичений; тобто (за підтекстом) саміт",
+    "zh": "适当地，积累；即（暗示）峰会"
+  },
+  "hebrew": "טַבּוּר",
+  "verses": [
+    "judges 9:37:9",
+    "ezekiel 38:12:18"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1781",
+  "language": "hebrew",
+  "transliteration": "dayân",
+  "pronunciation": "dah-yawn'",
+  "definition": "a judge or advocate",
+  "kjvTranslation": "judge.",
+  "translations": {
+    "bg": "съдия или адвокат",
+    "cs": "soudce nebo advokát",
+    "da": "en dommer eller advokat",
+    "de": "ein Richter oder Anwalt",
+    "el": "δικαστής ή συνήγορος",
+    "es": "un juez o abogado",
+    "et": "kohtunik või advokaat",
+    "fi": "tuomari tai asianajaja",
+    "fr": "un juge ou un avocat",
+    "hu": "bíró vagy ügyvéd",
+    "id": "seorang hakim atau advokat",
+    "it": "un giudice o un avvocato",
+    "ja": "判士",
+    "ko": "판사 또는 옹호자",
+    "lt": "teisėjas arba advokatas",
+    "lv": "tiesnesis vai advokāts",
+    "nb": "en dommer eller advokat",
+    "nl": "een rechter of advocaat",
+    "pl": "sędzia lub adwokat",
+    "pt": "um juiz ou advogado",
+    "ro": "un judecător sau un avocat",
+    "ru": "судья или адвокат",
+    "sk": "sudca alebo advokát",
+    "sl": "sodnik ali zagovornik",
+    "sv": "en domare eller advokat",
+    "tr": "bir yargıç veya avukat",
+    "uk": "суддя або адвокат",
+    "zh": "法官"
+  },
+  "hebrew": "דַּיָּן",
+  "verses": [
+    "firstSamuel 24:16:2",
+    "psalms 68:6:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1278",
+  "language": "hebrew",
+  "transliteration": "bᵉrîyʼâh",
+  "pronunciation": "ber-ee-aw'",
+  "definition": "a creation, i.e. a novelty",
+  "kjvTranslation": "new thing.",
+  "translations": {
+    "bg": "творение, т.е. новост",
+    "cs": "výtvor, tj. novinka",
+    "da": "en skabelse, dvs. en nyhed",
+    "de": "eine Schöpfung, d.h. eine Neuheit",
+    "el": "ένα δημιούργημα, δηλαδή μια καινοτομία",
+    "es": "una creación, es decir, una novedad",
+    "et": "looming, s.t. uudsus",
+    "fi": "luomus eli uutuus",
+    "fr": "une création, c'est-à-dire une nouveauté",
+    "hu": "egy alkotás, azaz egy újdonság",
+    "id": "suatu ciptaan, yaitu suatu hal yang baru",
+    "it": "una creazione, cioè una novità",
+    "ja": "創造、すなわち新奇性",
+    "ko": "창작물, 즉 참신함",
+    "lt": "kūrinys, t. y. naujovė",
+    "lv": "radījums, t.i., jaunums",
+    "nb": "en nyskapning, dvs. en nyhet",
+    "nl": "een creatie, d.w.z. een nieuwigheid",
+    "pl": "stworzenie, tj. nowość",
+    "pt": "uma criação, ou seja, uma novidade",
+    "ro": "o creație, adică o noutate",
+    "ru": "творение, т.е. новинка",
+    "sk": "výtvor, t. j. novinka",
+    "sl": "stvaritev, tj. novost",
+    "sv": "en skapelse, d.v.s. en nyhet",
+    "tr": "bir yaratım, yani bir yenilik",
+    "uk": "творіння, тобто новинка",
+    "zh": "创造，即新奇事物"
+  },
+  "hebrew": "בְּרִיאָה",
+  "verses": [
+    "numbers 16:30:1"
+  ]
+}

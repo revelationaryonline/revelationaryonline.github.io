@@ -1,0 +1,42 @@
+{
+  "number": "H2716",
+  "language": "hebrew",
+  "transliteration": "chereʼ",
+  "pronunciation": "kheh'-reh",
+  "definition": "excrement",
+  "kjvTranslation": "dung. Also חֲרִי.",
+  "translations": {
+    "bg": "екскременти",
+    "cs": "exkrementy",
+    "da": "ekskrementer",
+    "de": "exkremente",
+    "el": "περιττώματα",
+    "es": "excrementos",
+    "et": "ekskrement",
+    "fi": "ulosteet",
+    "fr": "excréments",
+    "hu": "ürülék",
+    "id": "kotoran",
+    "it": "escrementi",
+    "ja": "排泄物",
+    "ko": "배설물",
+    "lt": "ekskrementai",
+    "lv": "ekskrementi",
+    "nb": "ekskrementer",
+    "nl": "uitwerpselen",
+    "pl": "odchody",
+    "pt": "excremento",
+    "ro": "excremente",
+    "ru": "экскременты",
+    "sk": "exkrementy",
+    "sl": "izločki",
+    "sv": "exkrement",
+    "tr": "dışkı",
+    "uk": "екскременти",
+    "zh": "粪便"
+  },
+  "hebrew": "חֶרֶא",
+  "verses": [
+    "isaiah 36:12:20"
+  ]
+}

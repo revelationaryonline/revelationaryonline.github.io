@@ -1,0 +1,42 @@
+{
+  "number": "H4098",
+  "language": "hebrew",
+  "transliteration": "mᵉdushshâh",
+  "pronunciation": "med-oosh-shaw'",
+  "definition": "a threshing, i.e. (concretely and figuratively) down-trodden people",
+  "kjvTranslation": "threshing.",
+  "hebrew": "מְדֻשָּׁה",
+  "translations": {
+    "bg": "вършитба, т.е. (конкретно и преносно) потиснати хора",
+    "cs": "mlátička, tj. (konkrétně i obrazně) utlačovaní lidé",
+    "da": "en tærskning, dvs. (konkret og i overført betydning) nedbrudte mennesker",
+    "de": "ein Dreschen, d.h. (konkret und im übertragenen Sinne) niedergeschlagene Menschen",
+    "el": "ένα αλώνισμα, δηλαδή (συγκεκριμένα και μεταφορικά) κατατρεγμένοι άνθρωποι",
+    "es": "una trilla, es decir (concreta y figuradamente) gente pisoteada",
+    "et": "peksmine, st (konkreetselt ja ülekantud tähenduses) mahasurutud inimesed",
+    "fi": "puinti, eli (konkreettisesti ja kuvaannollisesti) poljettu kansa",
+    "fr": "un battage, c'est-à-dire (au sens concret et figuré) des personnes abattues",
+    "hu": "cséplés, azaz (konkrétan és átvitt értelemben) elnyomott emberek",
+    "id": "pengirikan, yaitu (secara konkret dan kiasan) orang-orang yang diinjak-injak",
+    "it": "una trebbiatura, cioè (concretamente e figurativamente) gente in difficoltà",
+    "ja": "脱穀、つまり（具体的にも比喩的にも）踏み倒された人々",
+    "ko": "타작, 즉 (구체적이고 비 유적으로) 짓밟힌 사람들",
+    "lt": "kūlimas, t. y. (konkrečiai ir perkeltine prasme) nuskriausti žmonės",
+    "lv": "kulšana, t. i., (konkrēti un pārnestā nozīmē) nogurdināti cilvēki",
+    "nb": "en treske, dvs. (konkret og i overført betydning) nedkjørte mennesker",
+    "nl": "een dorsing, d.w.z. (concreet en figuurlijk) vertrapte mensen",
+    "pl": "omłot, tj. (konkretnie i w przenośni) zdeptani ludzie",
+    "pt": "uma debulha, ou seja, (concreta e figurativamente) pessoas oprimidas",
+    "ro": "o treierat, adică (concret și figurat) oameni doborâți",
+    "ru": "молотьба, т.е. (в конкретном и переносном смыслах) обделенные люди",
+    "sk": "mláťačka, t. j. (konkrétne a obrazne) ľudia, ktorí sa ocitli na dne",
+    "sl": "mlatilnica, tj. (konkretno in v prenesenem pomenu) potrti ljudje",
+    "sv": "en tröskning, dvs. (konkret och bildligt) nedtyngda människor",
+    "tr": "bir harman, yani (somut ve mecazi olarak) ezilmiş insanlar",
+    "uk": "молотьба, тобто (в прямому і переносному значенні) пригноблений народ",
+    "zh": "打谷，即（具体和比喻）被打倒的人"
+  },
+  "verses": [
+    "isaiah 21:10:0"
+  ]
+}

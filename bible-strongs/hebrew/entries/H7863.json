@@ -1,0 +1,42 @@
+{
+  "number": "H7863",
+  "language": "hebrew",
+  "transliteration": "sîyʼ",
+  "pronunciation": "see",
+  "definition": "elevation",
+  "kjvTranslation": "excellency.",
+  "hebrew": "שִׂיא",
+  "translations": {
+    "bg": "височина",
+    "cs": "nadmořská výška",
+    "da": "forhøjning",
+    "de": "höhe",
+    "el": "ανύψωση",
+    "es": "elevación",
+    "et": "kõrgus merepinnast",
+    "fi": "korkeusasema",
+    "fr": "élévation",
+    "hu": "magasság",
+    "id": "ketinggian",
+    "it": "elevazione",
+    "ja": "立面図",
+    "ko": "고도",
+    "lt": "aukštis",
+    "lv": "augstums",
+    "nb": "høyde",
+    "nl": "hoogte",
+    "pl": "elewacja",
+    "pt": "elevação",
+    "ro": "elevație",
+    "ru": "высота",
+    "sk": "nadmorská výška",
+    "sl": "nadmorska višina",
+    "sv": "upphöjning",
+    "tr": "yÜKSEKLİK",
+    "uk": "висота",
+    "zh": "标高"
+  },
+  "verses": [
+    "job 20:6:3"
+  ]
+}

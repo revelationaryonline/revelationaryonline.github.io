@@ -1,0 +1,43 @@
+{
+  "number": "H1216",
+  "language": "hebrew",
+  "transliteration": "bâtsêq",
+  "pronunciation": "baw-tsake'",
+  "definition": "perhaps to swell up, i.e. blister",
+  "kjvTranslation": "swell.",
+  "translations": {
+    "bg": "може би да се подуе, т.е. да се образува мехур",
+    "cs": "snad otéct, tj. udělat puchýř",
+    "da": "måske svulme op, dvs. danne blærer",
+    "de": "vielleicht anschwellen, d.h. eine Blase bilden",
+    "el": "ίσως να πρηστεί, δηλ. να φουσκώσει",
+    "es": "quizás hincharse, es decir, ampollarse",
+    "et": "võib-olla paisuda, s.t. villida",
+    "fi": "ehkä turpoamaan, eli rakkulan muodostamiseen",
+    "fr": "peut-être gonfler, c'est-à-dire former des cloques",
+    "hu": "esetleg megduzzadni, azaz felhólyagosodni",
+    "id": "mungkin membengkak, yaitu melepuh",
+    "it": "forse gonfiarsi, cioè fare una vescica",
+    "ja": "おそらく腫れる、つまり水ぶくれができる",
+    "ko": "아마도 부풀어 오르는 것, 즉 물집이 생길 수 있습니다",
+    "lt": "galbūt išbrinkti, t. y. pūslė",
+    "lv": "iespējams, uzbriest, t. i., uzpūst, t. i., veidojas pūslīši",
+    "nb": "kanskje svelle opp, dvs. få blemmer",
+    "nl": "misschien opzwellen, d.w.z. blaren krijgen",
+    "pl": "może puchnąć, np. pęcherze",
+    "pt": "talvez inchar, ou seja, formar bolhas",
+    "ro": "poate să se umfle, adică să facă bășici",
+    "ru": "возможно, набухать, т.е. волдырь",
+    "sk": "možno opuchnúť, t. j. vytvoriť pľuzgiere",
+    "sl": "morda nabrekniti, tj. narediti mehur",
+    "sv": "kanske svullna upp, dvs. blåsor",
+    "tr": "belki de şişmek, yani kabarmak",
+    "uk": "можливо, набрякнути, тобто з'явитися пухир",
+    "zh": "也许会肿胀，即起泡"
+  },
+  "hebrew": "בָּצֵק",
+  "verses": [
+    "deuteronomy 8:4:6",
+    "nehemiah 9:21:11"
+  ]
+}

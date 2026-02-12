@@ -1,0 +1,43 @@
+{
+  "number": "H7170",
+  "language": "hebrew",
+  "transliteration": "qᵉrats",
+  "pronunciation": "ker-ats'",
+  "definition": "chew him up (figuratively) by slander",
+  "kjvTranslation": "[phrase] accuse.",
+  "hebrew": "קְרַץ",
+  "translations": {
+    "bg": "да го сдъвчат (образно) чрез клевета",
+    "cs": "rozkousat ho (obrazně) pomluvami",
+    "da": "tygge ham op (i overført betydning) ved bagtalelse",
+    "de": "ihn durch Verleumdung (im übertragenen Sinne) zu zermalmen",
+    "el": "να τον μασήσει (μεταφορικά) με συκοφαντίες",
+    "es": "masticarlo (figuradamente) con calumnias",
+    "et": "närida teda (piltlikult öeldes) laimuga ära",
+    "fi": "pureskella häntä (kuvaannollisesti) herjaamalla häntä",
+    "fr": "le mâcher (au sens figuré) par la calomnie",
+    "hu": "rágalmazás által (képletesen) megrágni őt",
+    "id": "mengunyahnya (secara kiasan) dengan fitnah",
+    "it": "masticarlo (in senso figurato) con la calunnia",
+    "ja": "誹謗中傷で黙らせる",
+    "ko": "비방으로 (비 유적으로) 그를 씹어 먹습니다",
+    "lt": "suvalgyti jį (perkeltine prasme) šmeižtu",
+    "lv": "pārkož viņu (pārnestā nozīmē) ar apmelojumiem",
+    "nb": "tygge ham opp (i overført betydning) ved bakvaskelse",
+    "nl": "hem (figuurlijk) voorkauwen door laster",
+    "pl": "przeżuć go (w przenośni) przez oszczerstwo",
+    "pt": "mastigá-lo (figurativamente) com calúnias",
+    "ro": "să-l mestece (la figurat) prin calomnie",
+    "ru": "загрызть его (фигурально), оклеветав",
+    "sk": "prežúvať ho (obrazne) ohováraním",
+    "sl": "ga (v prenesenem pomenu) prežvečiti z obrekovanjem",
+    "sv": "tugga sönder honom (bildligt talat) genom förtal",
+    "tr": "iftira atarak (mecazi anlamda) onu çiğnemek",
+    "uk": "з'їсти його (образно кажучи) наклепом",
+    "zh": "反咬一口"
+  },
+  "verses": [
+    "daniel 3:8:9",
+    "daniel 6:25:7"
+  ]
+}

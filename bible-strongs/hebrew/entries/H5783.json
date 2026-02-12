@@ -1,0 +1,42 @@
+{
+  "number": "H5783",
+  "language": "hebrew",
+  "transliteration": "ʻûwr",
+  "pronunciation": "oor",
+  "definition": "to (be) bare",
+  "kjvTranslation": "be made naked.",
+  "hebrew": "עוּר",
+  "translations": {
+    "bg": "да (се) оголи",
+    "cs": "(být) holý",
+    "da": "at (være) bar",
+    "de": "entblößt (sein)",
+    "el": "να (είναι) γυμνός",
+    "es": "estar desnudo",
+    "et": "olla paljas",
+    "fi": "(olla) paljas",
+    "fr": "(être) nu(e)",
+    "hu": "csupasz (lenni)",
+    "id": "untuk (menjadi) telanjang",
+    "it": "(essere) nudo",
+    "ja": "剥き出しにする",
+    "ko": "맨손으로",
+    "lt": "(būti) nuogas",
+    "lv": "(būt) kailiem",
+    "nb": "å (være) bar",
+    "nl": "kaal (zijn)",
+    "pl": "(być) nagim",
+    "pt": "estar (estar) nu",
+    "ro": "să (fie) goală",
+    "ru": "оголяться",
+    "sk": "(byť) holý",
+    "sl": "(biti) goli",
+    "sv": "att (vara) bar",
+    "tr": "çıplak (olmak)",
+    "uk": "бути (оголеним)",
+    "zh": "裸露"
+  },
+  "verses": [
+    "habakkuk 3:9:1"
+  ]
+}

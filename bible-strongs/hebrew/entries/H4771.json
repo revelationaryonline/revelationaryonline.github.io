@@ -1,0 +1,42 @@
+{
+  "number": "H4771",
+  "language": "hebrew",
+  "transliteration": "margôwaʻ",
+  "pronunciation": "mar-go'-ah",
+  "definition": "a resting place",
+  "kjvTranslation": "rest.",
+  "hebrew": "מַרְגּוֹעַ",
+  "translations": {
+    "bg": "място за почивка",
+    "cs": "místo odpočinku",
+    "da": "et hvilested",
+    "de": "eine Ruhestätte",
+    "el": "ένα μέρος ανάπαυσης",
+    "es": "un lugar de descanso",
+    "et": "puhkekoht",
+    "fi": "lepopaikka",
+    "fr": "un lieu de repos",
+    "hu": "egy pihenőhely",
+    "id": "tempat peristirahatan",
+    "it": "un luogo di riposo",
+    "ja": "休憩所",
+    "ko": "휴식 공간",
+    "lt": "poilsio vieta",
+    "lv": "atpūtas vieta",
+    "nb": "et hvilested",
+    "nl": "een rustplaats",
+    "pl": "miejsce spoczynku",
+    "pt": "um local de repouso",
+    "ro": "un loc de odihnă",
+    "ru": "место отдыха",
+    "sk": "miesto odpočinku",
+    "sl": "počivališče",
+    "sv": "en viloplats",
+    "tr": "bir dinlenme yeri",
+    "uk": "місце для відпочинку",
+    "zh": "安息地"
+  },
+  "verses": [
+    "jeremiah 6:16:17"
+  ]
+}

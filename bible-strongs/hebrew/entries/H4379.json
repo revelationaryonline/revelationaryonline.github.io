@@ -1,0 +1,42 @@
+{
+  "number": "H4379",
+  "language": "hebrew",
+  "transliteration": "mikreh",
+  "pronunciation": "mik-reh'",
+  "definition": "a pit (for salt)",
+  "kjvTranslation": "(salt-) pit.",
+  "hebrew": "מִכְרֶה",
+  "translations": {
+    "bg": "яма (за сол)",
+    "cs": "jáma (na sůl)",
+    "da": "et hul (til salt)",
+    "de": "eine Grube (für Salz)",
+    "el": "έναν λάκκο (για το αλάτι)",
+    "es": "un pozo (para la sal)",
+    "et": "kaevu (soola jaoks)",
+    "fi": "kuoppa (suolaa varten)",
+    "fr": "un noyau (pour le sel)",
+    "hu": "egy gödör (a sóhoz)",
+    "id": "sebuah lubang (untuk garam)",
+    "it": "un pozzo (per il sale)",
+    "ja": "落とし穴（塩用）",
+    "ko": "구덩이(소금용)",
+    "lt": "duobutė (druskai)",
+    "lv": "bedre (sālim)",
+    "nb": "en grop (til salt)",
+    "nl": "een pit (voor zout)",
+    "pl": "wgłębienie (na sól)",
+    "pt": "um caroço (para o sal)",
+    "ro": "o groapă (pentru sare)",
+    "ru": "яма (для соли)",
+    "sk": "jama (na soľ)",
+    "sl": "jama (za sol)",
+    "sv": "en grop (för salt)",
+    "tr": "bir çukur (tuz için)",
+    "uk": "яма (для солі)",
+    "zh": "坑"
+  },
+  "verses": [
+    "zephaniah 2:9:17"
+  ]
+}

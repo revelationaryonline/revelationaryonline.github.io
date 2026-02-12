@@ -1,0 +1,42 @@
+{
+  "number": "H1759",
+  "language": "hebrew",
+  "transliteration": "dûwsh",
+  "pronunciation": "doosh",
+  "definition": "to trample",
+  "kjvTranslation": "tread down.",
+  "translations": {
+    "bg": "да стъпче",
+    "cs": "pošlapat",
+    "da": "at trampe på",
+    "de": "zertrampeln",
+    "el": "να ποδοπατήσω",
+    "es": "pisotear",
+    "et": "tallata",
+    "fi": "talloa",
+    "fr": "piétiner",
+    "hu": "eltaposni",
+    "id": "untuk menginjak-injak",
+    "it": "calpestare",
+    "ja": "踏みつける",
+    "ko": "짓밟다",
+    "lt": "sutrypti",
+    "lv": "sapostīt",
+    "nb": "å tråkke",
+    "nl": "vertrappen",
+    "pl": "deptać",
+    "pt": "pisar",
+    "ro": "a călca în picioare",
+    "ru": "топтать",
+    "sk": "pošliapať",
+    "sl": "teptati",
+    "sv": "att trampa",
+    "tr": "çiğnemek için",
+    "uk": "розтоптати",
+    "zh": "践踏"
+  },
+  "hebrew": "דּוּשׁ",
+  "verses": [
+    "daniel 7:23:17"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H8411",
+  "language": "hebrew",
+  "transliteration": "tᵉdîyrâʼ",
+  "pronunciation": "ted-ee-raw'",
+  "definition": "permanence, i.e. (adverb) constantly",
+  "kjvTranslation": "continually.",
+  "hebrew": "תְּדִירָא",
+  "translations": {
+    "bg": "перманентност, т.е. (наречие) постоянно",
+    "cs": "permanence, tj. (příslovce) neustále",
+    "da": "varighed, dvs. (adverbium) konstant",
+    "de": "dauerhaftigkeit, d.h. (Adverb) ständig",
+    "el": "μονιμότητα, δηλ. (επίρρημα) συνεχώς",
+    "es": "permanencia, es decir (adverbio) constantemente",
+    "et": "püsivus, s.t. (adverb) pidevalt",
+    "fi": "pysyvyys, eli (adverbi) jatkuvasti",
+    "fr": "permanence, c'est-à-dire (adverbe) constamment",
+    "hu": "állandóság, azaz (határozószó) folyamatosan",
+    "id": "keabadian, yaitu (kata keterangan) terus-menerus",
+    "it": "permanenza, cioè (avverbio) costantemente",
+    "ja": "絶え間ない",
+    "ko": "영속성, 즉 (부사) 끊임없이",
+    "lt": "pastovumas, t. y. (priežodis) nuolat",
+    "lv": "permanence, t.i. (apstākļa vārds) pastāvīgi",
+    "nb": "varighet, dvs. (adverb) konstant",
+    "nl": "permanent, d.w.z. (bijwoord) voortdurend",
+    "pl": "trwałość, tj. (przysłówek) stale",
+    "pt": "permanência, ou seja, (advérbio) constantemente",
+    "ro": "permanență, i.e. (adverb) constant",
+    "ru": "постоянство, т.е. (наречие) постоянно",
+    "sk": "trvalosť, t. j. (príslovka) neustále",
+    "sl": "stalnost, tj. (prislov) stalno",
+    "sv": "varaktighet, dvs. (adverb) ständigt",
+    "tr": "kalıcılık, yani (zarf) sürekli",
+    "uk": "постійність, тобто (прислівник) постійно",
+    "zh": "恒久"
+  },
+  "verses": [
+    "daniel 6:17:19",
+    "daniel 6:21:20"
+  ]
+}

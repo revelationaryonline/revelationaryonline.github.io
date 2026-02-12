@@ -1,0 +1,42 @@
+{
+  "number": "H8524",
+  "language": "hebrew",
+  "transliteration": "tâlal",
+  "pronunciation": "taw-lal'",
+  "definition": "to pile up, i.e. elevate",
+  "kjvTranslation": "eminent. Compare H2048 (הָתַל).",
+  "hebrew": "תָּלַל",
+  "translations": {
+    "bg": "да се натрупва, т.е. да се издига",
+    "cs": "hromadit, tj. vyzdvihovat",
+    "da": "at hobe sig op, dvs. hæve sig",
+    "de": "auftürmen, d.h. anheben",
+    "el": "να συσσωρεύεται, δηλαδή να ανυψώνεται",
+    "es": "amontonar, es decir, elevar",
+    "et": "kuhjata, st tõsta",
+    "fi": "kasaantua, eli kohota",
+    "fr": "d'empiler, c'est-à-dire d'élever",
+    "hu": "felhalmozni, azaz felemelni",
+    "id": "untuk menumpuk, yaitu meninggikan",
+    "it": "accumulare, cioè elevare",
+    "ja": "を積み上げる。",
+    "ko": "쌓다, 즉 상승하다",
+    "lt": "kaupti, t. y. pakelti",
+    "lv": "uzkrāties, t.i., paaugstināties",
+    "nb": "å hope seg opp, dvs. heve",
+    "nl": "ophopen, d.w.z. verheffen",
+    "pl": "gromadzić, tj. podnosić",
+    "pt": "amontoar, ou seja, elevar",
+    "ro": "a îngrămădi, adică a ridica",
+    "ru": "нагромождать, т.е. возвышать",
+    "sk": "hromadiť, t. j. zvyšovať",
+    "sl": "kopičiti, tj. dvigovati",
+    "sv": "att stapla upp, d.v.s. höja",
+    "tr": "yığmak, yani yükseltmek",
+    "uk": "нагромаджувати, тобто піднімати",
+    "zh": "堆积，即升高"
+  },
+  "verses": [
+    "ezekiel 17:22:19"
+  ]
+}

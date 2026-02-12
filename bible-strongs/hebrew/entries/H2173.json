@@ -1,0 +1,42 @@
+{
+  "number": "H2173",
+  "language": "hebrew",
+  "transliteration": "zimrâh",
+  "pronunciation": "zim-raw'",
+  "definition": "pruned (i.e. choice) fruit",
+  "kjvTranslation": "best fruit.",
+  "translations": {
+    "bg": "подрязани (т.е. избрани) плодове",
+    "cs": "prořezávané (tj. výběrové) ovoce",
+    "da": "beskåret (dvs. udvalgt) frugt",
+    "de": "beschnittene (d.h. ausgesuchte) Früchte",
+    "el": "κλαδεμένοι (δηλ. εκλεκτοί) καρποί",
+    "es": "fruta podada (es decir, seleccionada)",
+    "et": "kärbitud (st valitud) viljad",
+    "fi": "karsitut (eli valikoidut) hedelmät",
+    "fr": "fruits taillés (c'est-à-dire de choix)",
+    "hu": "metszett (azaz válogatott) gyümölcsök",
+    "id": "buah yang dipangkas (yaitu buah pilihan)",
+    "it": "frutti potati (cioè di prima scelta)",
+    "ja": "剪定果",
+    "ko": "가지치기(즉, 선택) 과일",
+    "lt": "genėti (t. y. rinktiniai) vaisiai",
+    "lv": "atzaroti (t. i., izlases) augļi",
+    "nb": "beskåret (dvs. utvalgt) frukt",
+    "nl": "gesnoeid (d.w.z. keuze) fruit",
+    "pl": "przycinane (tj. wybrane) owoce",
+    "pt": "frutos podados (ou seja, de seleção)",
+    "ro": "fructe tăiate (adică alese)",
+    "ru": "обрезанные (т.е. отборные) фрукты",
+    "sk": "rezané (t. j. výberové) ovocie",
+    "sl": "obrezano (tj. izbrano) sadje",
+    "sv": "beskuren (dvs. utvald) frukt",
+    "tr": "budanmış (yani seçilmiş) meyve",
+    "uk": "обрізані (тобто вибрані) фрукти",
+    "zh": "修剪过的果实"
+  },
+  "hebrew": "זִמְרָה",
+  "verses": [
+    "genesis 43:11:10"
+  ]
+}

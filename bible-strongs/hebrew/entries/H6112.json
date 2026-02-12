@@ -1,0 +1,43 @@
+{
+  "number": "H6112",
+  "language": "hebrew",
+  "transliteration": "ʻêtsen",
+  "pronunciation": "ay'-tsen",
+  "definition": "a spear",
+  "kjvTranslation": "Eznite (from the margin).",
+  "hebrew": "עֵצֶן",
+  "translations": {
+    "bg": "копие",
+    "cs": "kopí",
+    "da": "et spyd",
+    "de": "ein Speer",
+    "el": "ένα δόρυ",
+    "es": "una lanza",
+    "et": "oda",
+    "fi": "keihäs",
+    "fr": "une lance",
+    "hu": "egy lándzsa",
+    "id": "tombak",
+    "it": "una lancia",
+    "ja": "槍",
+    "ko": "창",
+    "lt": "ietis",
+    "lv": "šķēps",
+    "nb": "et spyd",
+    "nl": "een speer",
+    "pl": "włócznia",
+    "pt": "uma lança",
+    "ro": "o suliță",
+    "ru": "копьё",
+    "sk": "oštep",
+    "sl": "kopje",
+    "sv": "ett spjut",
+    "tr": "bir mızrak",
+    "uk": "списа",
+    "zh": "矛"
+  },
+  "verses": [
+    "secondSamuel 23:8:12",
+    "secondSamuel 23:8:13"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2448",
+  "language": "hebrew",
+  "transliteration": "chaklilûwth",
+  "pronunciation": "khak-lee-looth'",
+  "definition": "flash (of the eyes); in a bad sense, blearedness",
+  "kjvTranslation": "redness.",
+  "translations": {
+    "bg": "светкавица (на очите); в лошия смисъл на думата, кървене",
+    "cs": "záblesk (očí); ve špatném slova smyslu, krvácení",
+    "da": "glimt (i øjnene); i en dårlig betydning, bleghed",
+    "de": "blitzen (der Augen); im schlechten Sinne, Trübung",
+    "el": "λάμψη (των ματιών), με την κακή έννοια, θολερότητα",
+    "es": "centelleo (de los ojos); en el mal sentido, blearedness",
+    "et": "vilkumine (silmade); halvas tähenduses, pleekimine",
+    "fi": "(silmien) välkkyminen; huonossa merkityksessä, valkeus",
+    "fr": "éclair (des yeux) ; dans le mauvais sens du terme, pâleur",
+    "hu": "villogás (a szemek); rossz értelemben a fehérség",
+    "id": "kilatan (pada mata); dalam arti yang buruk, silau",
+    "it": "lampo (degli occhi); in senso negativo, sbiancamento",
+    "ja": "目がチカチカする；悪い意味での白目",
+    "ko": "(눈의) 섬광; 나쁜 의미에서, 눈부심",
+    "lt": "blyksnis (akyse); blogąja prasme - blyškumas",
+    "lv": "mirgošana (acīs); sliktā nozīmē - asiņošana",
+    "nb": "blitz (i øynene); i dårlig forstand, blearedness",
+    "nl": "flits (van de ogen); in slechte zin, bleekheid",
+    "pl": "błysk (oczu); w złym znaczeniu, zaczerwienienie",
+    "pt": "clarão (dos olhos); no mau sentido, brancura",
+    "ro": "strălucire (a ochilor); în sens negativ, albire",
+    "ru": "вспышка (в глазах); в плохом смысле слова, бледность",
+    "sk": "záblesk (očí); v zlom zmysle slova krvácavosť",
+    "sl": "blesk (oči); v slabem pomenu, krvavitev",
+    "sv": "blixt (i ögonen); i dålig bemärkelse, blekhet",
+    "tr": "(gözlerin) parlaması; kötü anlamda, beyazlık",
+    "uk": "спалах (очей); у поганому сенсі, почервоніння",
+    "zh": "眼花"
+  },
+  "hebrew": "חַכְלִלוּת",
+  "verses": [
+    "proverbs 23:29:13"
+  ]
+}

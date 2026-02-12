@@ -1,0 +1,43 @@
+{
+  "number": "H7228",
+  "language": "hebrew",
+  "transliteration": "rab",
+  "pronunciation": "rab",
+  "definition": "an archer",
+  "kjvTranslation": "archer.",
+  "hebrew": "רַב",
+  "translations": {
+    "bg": "стрелец с лък",
+    "cs": "lukostřelec",
+    "da": "en bueskytte",
+    "de": "ein Bogenschütze",
+    "el": "ένας τοξότης",
+    "es": "un arquero",
+    "et": "vibulaskja",
+    "fi": "jousimies",
+    "fr": "un archer",
+    "hu": "egy íjász",
+    "id": "seorang pemanah",
+    "it": "un arciere",
+    "ja": "射手",
+    "ko": "궁수",
+    "lt": "lankininkas",
+    "lv": "strēlnieks",
+    "nb": "en bueskytter",
+    "nl": "een boogschutter",
+    "pl": "łucznik",
+    "pt": "um arqueiro",
+    "ro": "un arcaș",
+    "ru": "лучник",
+    "sk": "lukostrelec",
+    "sl": "lokostrelec",
+    "sv": "en bågskytt",
+    "tr": "bir okçu",
+    "uk": "лучник",
+    "zh": "弓箭手"
+  },
+  "verses": [
+    "job 16:13:2",
+    "jeremiah 50:29:3"
+  ]
+}

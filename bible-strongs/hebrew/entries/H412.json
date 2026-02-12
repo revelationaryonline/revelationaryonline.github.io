@@ -1,0 +1,43 @@
+{
+  "number": "H412",
+  "language": "hebrew",
+  "transliteration": "ʼêl",
+  "pronunciation": "ale",
+  "definition": "{these or those}",
+  "kjvTranslation": "these.",
+  "translations": {
+    "bg": "{тези или онези}",
+    "cs": "{těchto nebo těch}",
+    "da": "{Disse eller dem}",
+    "de": "{diese oder jene}",
+    "el": "{αυτά ή εκείνα}",
+    "es": "{estos o aquellos}",
+    "et": "{see või need}",
+    "fi": "{tämä tai nuo}",
+    "fr": "{ceux-ci ou ceux-là}",
+    "hu": "{ezek vagy azok}",
+    "id": "[ini atau itu]",
+    "it": "{questi o quelli}",
+    "ja": "{あれもこれも｝",
+    "ko": "{이것 또는 저것}",
+    "lt": "{teisė arba tie}",
+    "lv": "{tie vai tie}",
+    "nb": "{disse eller dem}",
+    "nl": "{deze of die}",
+    "pl": "{te lub te}",
+    "pt": "{estes ou aqueles}",
+    "ro": "{acestea sau acelea}",
+    "ru": "{это или те}",
+    "sk": "{tie alebo tie}",
+    "sl": "{teh ali tistih}",
+    "sv": "{dessa eller dessa}",
+    "tr": "{bunlar ya da şunlar}",
+    "uk": "{ті чи інші}",
+    "zh": "{这些或那些}"
+  },
+  "hebrew": "אֵל",
+  "verses": [
+    "ezra 5:15:2",
+    "ezra 5:15:3"
+  ]
+}

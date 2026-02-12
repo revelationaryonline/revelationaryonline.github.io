@@ -1,0 +1,42 @@
+{
+  "number": "H5721",
+  "language": "hebrew",
+  "transliteration": "ʻĂdîynâʼ",
+  "pronunciation": "ad-ee-naw'",
+  "definition": "Adina, an Israelite",
+  "kjvTranslation": "Adina.",
+  "hebrew": "עֲדִינָא",
+  "translations": {
+    "bg": "Адина, израилтянка",
+    "cs": "Adina, Izraelka",
+    "da": "Adina, en israelit",
+    "de": "Adina, eine Israelitin",
+    "el": "Adina, μια Ισραηλίτισσα",
+    "es": "Adina, israelita",
+    "et": "Adina, iisraellane",
+    "fi": "Adina, israelilainen",
+    "fr": "Adina, Israélite",
+    "hu": "Adina, egy izraelita",
+    "id": "Adina, seorang Israel",
+    "it": "Adina, un'israelita",
+    "ja": "イスラエル人アディーナ",
+    "ko": "이스라엘인, 아디나",
+    "lt": "Adina, izraelietė",
+    "lv": "Adina, izraēliete",
+    "nb": "Adina, en israelitt",
+    "nl": "Adina, een Israëliet",
+    "pl": "Adina, Izraelitka",
+    "pt": "Adina, israelita",
+    "ro": "Adina, o israelită",
+    "ru": "Адина, израильтянка",
+    "sk": "Adina, Izraelita",
+    "sl": "Adina, Izraelka",
+    "sv": "Adina, en israelit",
+    "tr": "Adina, bir İsrailli",
+    "uk": "Адіна, ізраїльтянка",
+    "zh": "以色列人阿迪纳"
+  },
+  "verses": [
+    "firstChronicles 11:42:0"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3880",
+  "language": "hebrew",
+  "transliteration": "livyâh",
+  "pronunciation": "liv-yaw'",
+  "definition": "something attached, i.e. a wreath",
+  "kjvTranslation": "ornament.",
+  "hebrew": "לִוְיָה",
+  "translations": {
+    "bg": "нещо прикрепено, напр. венец",
+    "cs": "něco připevněného, např. věnec",
+    "da": "noget fastgjort, f.eks. en krans",
+    "de": "etwas Befestigtes, z. B. ein Kranz",
+    "el": "κάτι προσαρτημένο, π.χ. ένα στεφάνι",
+    "es": "algo sujeto, por ejemplo, una corona de flores",
+    "et": "midagi kinnitatud, st pärg",
+    "fi": "jotain kiinnitettyä, esim. seppele",
+    "fr": "quelque chose d'attaché, par exemple une couronne",
+    "hu": "valamit felerősített, pl. koszorút",
+    "id": "sesuatu yang melekat, misalnya karangan bunga",
+    "it": "qualcosa di attaccato, ad esempio una corona di fiori",
+    "ja": "リース",
+    "ko": "화환과 같이 부착된 무언가",
+    "lt": "kažkas pritvirtinta, t. y. vainikas",
+    "lv": "kaut kas piestiprināts, piemēram, vainags",
+    "nb": "noe som er festet, f.eks. en krans",
+    "nl": "iets dat eraan vastzit, bijv. een krans",
+    "pl": "coś przymocowanego, np. wieniec",
+    "pt": "algo preso, ou seja, uma coroa de flores",
+    "ro": "ceva atașat, de exemplu, o coroană",
+    "ru": "что-то прикрепленное, т.е. венок",
+    "sk": "niečo pripevnené, napr. veniec",
+    "sl": "nekaj pritrjenega, npr. venec",
+    "sv": "något som är fäst, t.ex. en krans",
+    "tr": "iliştirilmiş bir şey, örneğin bir çelenk",
+    "uk": "щось прикріплене, наприклад, вінок",
+    "zh": "花环"
+  },
+  "verses": [
+    "proverbs 1:9:1",
+    "proverbs 4:9:2"
+  ]
+}

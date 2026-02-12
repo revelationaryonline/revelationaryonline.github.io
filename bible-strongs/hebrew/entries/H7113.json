@@ -1,0 +1,42 @@
+{
+  "number": "H7113",
+  "language": "hebrew",
+  "transliteration": "qᵉtsats",
+  "pronunciation": "kets-ats'",
+  "definition": "{to chop off (literally or figuratively)}",
+  "kjvTranslation": "cut off.",
+  "hebrew": "קְצַץ",
+  "translations": {
+    "bg": "{да се отреже (буквално или преносно)}",
+    "cs": "{odříznout (doslova nebo obrazně)}",
+    "da": "{at hugge af (bogstaveligt eller i overført betydning)}",
+    "de": "(wörtlich oder im übertragenen Sinne) abhacken",
+    "el": "(κυριολεκτικά ή μεταφορικά)}",
+    "es": "{cortar (literal o figuradamente)}",
+    "et": "(sõna otseses või ülekantud tähenduses) maha raiuda",
+    "fi": "(kirjaimellisesti tai kuvaannollisesti) katkaista",
+    "fr": "{pour couper (au sens propre ou au sens figuré)}",
+    "hu": "{levágni (szó szerint vagy átvitt értelemben)}",
+    "id": "{memotong (secara harfiah atau kiasan)}",
+    "it": "{tagliare (in senso letterale o figurato)",
+    "ja": "{切り落とす（文字通りの意味でも比喩的な意味でも）}。",
+    "ko": "{자르다(문자적 또는 비유적으로)}",
+    "lt": "{nukapoti (tiesiogine ar perkeltine prasme)}",
+    "lv": "{nogriezt (burtiski vai pārnestā nozīmē)}",
+    "nb": "{å hugge av (bokstavelig eller billedlig)}",
+    "nl": "{afhakken (letterlijk of figuurlijk)}",
+    "pl": "{odciąć (dosłownie lub w przenośni)}",
+    "pt": "{cortar (literal ou figurativamente)}",
+    "ro": "{să taie (la propriu sau la figurat)}",
+    "ru": "{отрубить (в прямом или переносном смысле)}",
+    "sk": "{odseknúť (doslova alebo obrazne)}",
+    "sl": "(dobesedno ali v prenesenem pomenu)",
+    "sv": "{att hugga av (bokstavligen eller bildligt talat)}",
+    "tr": "{kesip atmak (gerçek veya mecazi anlamda)}",
+    "uk": "{відрубати (в прямому чи переносному значенні)",
+    "zh": "{斩断（字面或比喻）}"
+  },
+  "verses": [
+    "daniel 4:11:6"
+  ]
+}

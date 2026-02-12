@@ -1,0 +1,42 @@
+{
+  "number": "H1679",
+  "language": "hebrew",
+  "transliteration": "dôbeʼ",
+  "pronunciation": "do'-beh",
+  "definition": "quiet",
+  "kjvTranslation": "strength.",
+  "translations": {
+    "bg": "тихо",
+    "cs": "tichý",
+    "da": "stille og roligt",
+    "de": "leise",
+    "el": "ήσυχο",
+    "es": "tranquilo",
+    "et": "vaikne",
+    "fi": "hiljainen",
+    "fr": "calme",
+    "hu": "csendes",
+    "id": "tenang",
+    "it": "tranquillo",
+    "ja": "静か",
+    "ko": "조용한",
+    "lt": "tylus",
+    "lv": "klusā",
+    "nb": "stille",
+    "nl": "rustig",
+    "pl": "spokój",
+    "pt": "calmo",
+    "ro": "liniște",
+    "ru": "тихий",
+    "sk": "tichý",
+    "sl": "tiho",
+    "sv": "tyst",
+    "tr": "sessiz",
+    "uk": "тихо",
+    "zh": "安静"
+  },
+  "hebrew": "דֹּבֶא",
+  "verses": [
+    "deuteronomy 33:25:4"
+  ]
+}

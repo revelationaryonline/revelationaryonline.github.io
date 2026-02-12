@@ -1,0 +1,43 @@
+{
+  "number": "H8506",
+  "language": "hebrew",
+  "transliteration": "tôken",
+  "pronunciation": "to'-ken",
+  "definition": "a fixed quantity",
+  "kjvTranslation": "measure, tale.",
+  "hebrew": "תֹּכֶן",
+  "translations": {
+    "bg": "фиксирано количество",
+    "cs": "pevně stanovené množství",
+    "da": "en fast mængde",
+    "de": "eine feste Menge",
+    "el": "μια καθορισμένη ποσότητα",
+    "es": "una cantidad fija",
+    "et": "kindlaksmääratud kogus",
+    "fi": "kiinteä määrä",
+    "fr": "une quantité fixe",
+    "hu": "egy meghatározott mennyiség",
+    "id": "jumlah yang tetap",
+    "it": "una quantità fissa",
+    "ja": "定量",
+    "ko": "고정 수량",
+    "lt": "fiksuotas kiekis",
+    "lv": "fiksēts daudzums",
+    "nb": "en fast mengde",
+    "nl": "een vaste hoeveelheid",
+    "pl": "stała ilość",
+    "pt": "uma quantidade fixa",
+    "ro": "o cantitate fixă",
+    "ru": "фиксированное количество",
+    "sk": "pevne stanovené množstvo",
+    "sl": "fiksna količina",
+    "sv": "en fast kvantitet",
+    "tr": "sabit bir miktar",
+    "uk": "фіксована кількість",
+    "zh": "定量"
+  },
+  "verses": [
+    "exodus 5:18:7",
+    "ezekiel 45:11:2"
+  ]
+}

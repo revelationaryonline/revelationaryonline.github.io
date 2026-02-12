@@ -1,0 +1,42 @@
+{
+  "number": "H6390",
+  "language": "hebrew",
+  "transliteration": "pᵉlaggâh",
+  "pronunciation": "pel-ag-gaw'",
+  "definition": "a runlet, i.e. gully",
+  "kjvTranslation": "division, river.",
+  "hebrew": "פְּלַגָּה",
+  "translations": {
+    "bg": "ручей, т.е. канавка",
+    "cs": "runlet, tj. strouha",
+    "da": "en lille rende, dvs. en slugt",
+    "de": "ein Rinnsal, d.h. ein Abflusskanal",
+    "el": "ένα ρέμα, δηλαδή μια ρεματιά",
+    "es": "un runlet, es decir, barranco",
+    "et": "renn, st kallasrada, s.t. kuru",
+    "fi": "juoksuhaudan eli ojan",
+    "fr": "un ruissellement, c'est-à-dire un ravin",
+    "hu": "egy vízmosás, azaz egy víznyelő",
+    "id": "runlet, yaitu selokan",
+    "it": "un canale di scorrimento, cioè un canale di scolo",
+    "ja": "溝",
+    "ko": "런렛, 즉 협곡",
+    "lt": "bėgimo takas, t. y. griovys",
+    "lv": "ieteka, t. i., grava",
+    "nb": "en runlet, dvs. en renne",
+    "nl": "een uitloper, d.w.z. een geul",
+    "pl": "ruczaj, tj. wąwóz",
+    "pt": "um runlet, ou seja, um barranco",
+    "ro": "un râuleț, adică o râpă",
+    "ru": "русло, т.е. овраг",
+    "sk": "roklina, t. j. strž",
+    "sl": "struga, tj. žleb",
+    "sv": "en rännil, t.ex. en ravin",
+    "tr": "bir akıntı, yani oluk",
+    "uk": "рундук, тобто ярок",
+    "zh": "沟渠"
+  },
+  "verses": [
+    "job 20:17:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4892",
+  "language": "hebrew",
+  "transliteration": "mashchêth",
+  "pronunciation": "mash-khayth'",
+  "definition": "destruction",
+  "kjvTranslation": "destroying.",
+  "hebrew": "מַשְׁחֵת",
+  "translations": {
+    "bg": "унищожаване",
+    "cs": "zničení",
+    "da": "ødelæggelse",
+    "de": "zerstörung",
+    "el": "καταστροφή",
+    "es": "destrucción",
+    "et": "hävitamine",
+    "fi": "tuhoaminen",
+    "fr": "destruction",
+    "hu": "pusztítás",
+    "id": "kehancuran",
+    "it": "distruzione",
+    "ja": "破壊",
+    "ko": "파괴",
+    "lt": "naikinimas",
+    "lv": "iznīcināšana",
+    "nb": "ødeleggelse",
+    "nl": "vernietiging",
+    "pl": "zniszczenie",
+    "pt": "destruição",
+    "ro": "distrugere",
+    "ru": "разрушение",
+    "sk": "zničenie",
+    "sl": "uničenje",
+    "sv": "förstörelse",
+    "tr": "yIKIM",
+    "uk": "знищення",
+    "zh": "毁灭"
+  },
+  "verses": [
+    "ezekiel 9:1:10"
+  ]
+}

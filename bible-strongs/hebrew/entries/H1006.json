@@ -1,0 +1,42 @@
+{
+  "number": "H1006",
+  "language": "hebrew",
+  "transliteration": "Bayith",
+  "pronunciation": "bah'-yith",
+  "definition": "Bajith, a place in Palestine",
+  "kjvTranslation": "Bajith.",
+  "translations": {
+    "bg": "Bajith, място в Палестина",
+    "cs": "Bajith, místo v Palestině",
+    "da": "Bajith, et sted i Palæstina",
+    "de": "Bajith, ein Ort in Palästina",
+    "el": "Bajith, ένας τόπος στην Παλαιστίνη",
+    "es": "Bajith, un lugar en Palestina",
+    "et": "Bajith, koht Palestiinas",
+    "fi": "Bajith, paikka Palestiinassa",
+    "fr": "Bajith, localité de Palestine",
+    "hu": "Bajith, egy hely Palesztinában",
+    "id": "Bajith, sebuah tempat di Palestina",
+    "it": "Bajith, località della Palestina",
+    "ja": "バジス（パレスチナの地名",
+    "ko": "팔레스타인의 바지스, 팔레스타인의 한 장소",
+    "lt": "Bajith, vietovė Palestinoje",
+    "lv": "Bajith, vieta Palestīnā",
+    "nb": "Bajith, et sted i Palestina",
+    "nl": "Bajith, een plaats in Palestina",
+    "pl": "Bajith, miejsce w Palestynie",
+    "pt": "Bajith, um lugar na Palestina",
+    "ro": "Bajith, un loc în Palestina",
+    "ru": "Бахит, место в Палестине",
+    "sk": "Bajith, miesto v Palestíne",
+    "sl": "Bajith, kraj v Palestini",
+    "sv": "Bajith, en plats i Palestina",
+    "tr": "Bajith, Filistin'de bir yer",
+    "uk": "Баджит, місце в Палестині",
+    "zh": "巴吉斯"
+  },
+  "hebrew": "בַּיִת",
+  "verses": [
+    "isaiah 15:2:1"
+  ]
+}

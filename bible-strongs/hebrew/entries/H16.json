@@ -1,0 +1,42 @@
+{
+  "number": "H16",
+  "language": "hebrew",
+  "transliteration": "ʼêbeh",
+  "pronunciation": "ay-beh'",
+  "definition": "the papyrus",
+  "kjvTranslation": "swift.",
+  "translations": {
+    "bg": "папирусът",
+    "cs": "papyrus",
+    "da": "papyrussen",
+    "de": "der Papyrus",
+    "el": "ο πάπυρος",
+    "es": "el papiro",
+    "et": "papüürus",
+    "fi": "papyrus",
+    "fr": "le papyrus",
+    "hu": "a papirusz",
+    "id": "papirus",
+    "it": "il papiro",
+    "ja": "パピルス",
+    "ko": "파피루스",
+    "lt": "papirusas",
+    "lv": "papiruss",
+    "nb": "papyrusen",
+    "nl": "de papyrus",
+    "pl": "papirus",
+    "pt": "o papiro",
+    "ro": "papirusul",
+    "ru": "папирус",
+    "sk": "papyrus",
+    "sl": "papirus",
+    "sv": "papyrus",
+    "tr": "papirüs",
+    "uk": "папірус",
+    "zh": "纸莎草"
+  },
+  "hebrew": "אֵבֶה",
+  "verses": [
+    "job 9:26:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4552",
+  "language": "hebrew",
+  "transliteration": "miçʻâd",
+  "pronunciation": "mis-awd'",
+  "definition": "a balustrade (for stairs)",
+  "kjvTranslation": "pillar.",
+  "hebrew": "מִסְעָד",
+  "verses": [
+    "firstKings 10:12:5"
+  ],
+  "translations": {
+    "bg": "балюстрада (за стълби)",
+    "cs": "zábradlí (pro schody)",
+    "da": "et gelænder (til trapper)",
+    "de": "eine Balustrade (für Treppen)",
+    "el": "ένα κιγκλίδωμα (για σκάλες)",
+    "es": "una balaustrada (para escaleras)",
+    "et": "rõdu (treppide jaoks)",
+    "fi": "kaide (portaita varten)",
+    "fr": "une balustrade (pour les escaliers)",
+    "hu": "korlát (lépcsőkhöz)",
+    "id": "langkan (untuk tangga)",
+    "it": "una balaustra (per le scale)",
+    "ja": "欄干",
+    "ko": "난간(계단용)",
+    "lt": "baliustrada (laiptų)",
+    "lv": "margu (kāpnēm)",
+    "nb": "et rekkverk (for trapper)",
+    "nl": "een balustrade (voor trappen)",
+    "pl": "balustrada (do schodów)",
+    "pt": "uma balaustrada (para escadas)",
+    "ro": "o balustradă (pentru scări)",
+    "ru": "балюстрада (для лестниц)",
+    "sk": "zábradlie (pre schody)",
+    "sl": "ograja (za stopnice)",
+    "sv": "en balustrad (för trappor)",
+    "tr": "bir korkuluk (merdivenler için)",
+    "uk": "балюстрада (для сходів)",
+    "zh": "栏杆"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5843",
+  "language": "hebrew",
+  "transliteration": "ʻêṭâʼ",
+  "pronunciation": "ay-taw'",
+  "definition": "prudence",
+  "kjvTranslation": "counsel.",
+  "hebrew": "עֵטָא",
+  "translations": {
+    "bg": "предпазливост",
+    "cs": "obezřetnost",
+    "da": "forsigtighed",
+    "de": "besonnenheit",
+    "el": "σύνεση",
+    "es": "prudencia",
+    "et": "ettevaatlikkus",
+    "fi": "varovaisuus",
+    "fr": "prudence",
+    "hu": "óvatosság",
+    "id": "kehati-hatian",
+    "it": "prudenza",
+    "ja": "心掛け",
+    "ko": "신중함",
+    "lt": "atsargumas",
+    "lv": "piesardzība",
+    "nb": "forsiktighet",
+    "nl": "voorzichtigheid",
+    "pl": "ostrożność",
+    "pt": "prudência",
+    "ro": "prudență",
+    "ru": "пруденс",
+    "sk": "obozretnosť",
+    "sl": "previdnost",
+    "sv": "försiktighet",
+    "tr": "ihtiyatlılık",
+    "uk": "розсудливість",
+    "zh": "审慎"
+  },
+  "verses": [
+    "daniel 2:14:3"
+  ]
+}

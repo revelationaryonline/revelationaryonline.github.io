@@ -1,0 +1,43 @@
+{
+  "number": "H6143",
+  "language": "hebrew",
+  "transliteration": "ʻiqqᵉshûwth",
+  "pronunciation": "ik-kesh-ooth'",
+  "definition": "perversity",
+  "kjvTranslation": "[idiom] froward.",
+  "hebrew": "עִקְּשׁוּת",
+  "translations": {
+    "bg": "извратеност",
+    "cs": "zvrácenost",
+    "da": "perversitet",
+    "de": "perversität",
+    "el": "διαστροφή",
+    "es": "perversidad",
+    "et": "perverssus",
+    "fi": "perversio",
+    "fr": "perversité",
+    "hu": "perverzitás",
+    "id": "penyimpangan",
+    "it": "perversione",
+    "ja": "つむじまがり",
+    "ko": "변태",
+    "lt": "iškrypimas",
+    "lv": "perversitāte",
+    "nb": "perversitet",
+    "nl": "perversiteit",
+    "pl": "przewrotność",
+    "pt": "perversidade",
+    "ro": "perversitate",
+    "ru": "извращение",
+    "sk": "zvrátenosť",
+    "sl": "sprevrženost",
+    "sv": "perversitet",
+    "tr": "sapkınlık",
+    "uk": "збочення",
+    "zh": "变态"
+  },
+  "verses": [
+    "proverbs 4:24:2",
+    "proverbs 6:12:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1929",
+  "language": "hebrew",
+  "transliteration": "hâhh",
+  "pronunciation": "haw",
+  "definition": "ah! expressing grief",
+  "kjvTranslation": "woe worth.",
+  "translations": {
+    "bg": "ах! изразяване на скръб",
+    "cs": "ah! vyjádření smutku",
+    "da": "ah! at udtrykke sorg",
+    "de": "ach! Trauer ausdrücken",
+    "el": "αχ! εκφράζοντας τη θλίψη",
+    "es": "expresando pena",
+    "et": "ah! kurbuse väljendamine",
+    "fi": "surun ilmaiseminen",
+    "fr": "ah ! l'expression du chagrin",
+    "hu": "a bánat kifejezése",
+    "id": "ah! mengekspresikan kesedihan",
+    "it": "ah! esprimere il dolore",
+    "ja": "悲しみを表す",
+    "ko": "아! 슬픔 표현하기",
+    "lt": "ah! sielvarto išreiškimas",
+    "lv": "ah! izsakot bēdas",
+    "nb": "å! Å uttrykke sorg",
+    "nl": "ah! uiting geven aan verdriet",
+    "pl": "wyrażanie smutku",
+    "pt": "ah! expressar a dor",
+    "ro": "ah! exprimarea durerii",
+    "ru": "выражая скорбь",
+    "sk": "ah! vyjadrenie smútku",
+    "sl": "ah! izražanje žalosti",
+    "sv": "ah! uttrycka sorg",
+    "tr": "ah! Kederin ifadesi",
+    "uk": "ах! висловлюючи скорботу",
+    "zh": "呜呼哀哉"
+  },
+  "hebrew": "הָהּ",
+  "verses": [
+    "ezekiel 30:2:9"
+  ]
+}

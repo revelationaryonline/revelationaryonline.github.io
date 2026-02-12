@@ -1,0 +1,43 @@
+{
+  "number": "H3968",
+  "language": "hebrew",
+  "transliteration": "Mêʼâh",
+  "pronunciation": "may-aw'",
+  "definition": "Meah, a tower in Jerusalem",
+  "kjvTranslation": "Meah.",
+  "hebrew": "מֵאָה",
+  "translations": {
+    "bg": "Меа, кула в Ерусалим",
+    "cs": "Meah, věž v Jeruzalémě",
+    "da": "Meah, et tårn i Jerusalem",
+    "de": "Meah, ein Turm in Jerusalem",
+    "el": "Meah, ένας πύργος στην Ιερουσαλήμ",
+    "es": "Meah, una torre en Jerusalén",
+    "et": "Meah, torn Jeruusalemmas",
+    "fi": "Meah, torni Jerusalemissa",
+    "fr": "Meah, une tour à Jérusalem",
+    "hu": "Meah, egy torony Jeruzsálemben",
+    "id": "Meah, sebuah menara di Yerusalem",
+    "it": "Meah, una torre a Gerusalemme",
+    "ja": "エルサレムの塔、メア",
+    "ko": "메아, 예루살렘의 탑",
+    "lt": "Meah, bokštas Jeruzalėje",
+    "lv": "Meah, tornis Jeruzalemē",
+    "nb": "Meah, et tårn i Jerusalem",
+    "nl": "Meah, een toren in Jeruzalem",
+    "pl": "Meah, wieża w Jerozolimie",
+    "pt": "Meah, uma torre em Jerusalém",
+    "ro": "Meah, un turn în Ierusalim",
+    "ru": "Меа, башня в Иерусалиме",
+    "sk": "Meah, veža v Jeruzaleme",
+    "sl": "Meah, stolp v Jeruzalemu",
+    "sv": "Meah, ett torn i Jerusalem",
+    "tr": "Meah, Kudüs'te bir kule",
+    "uk": "Так, вежа в Єрусалимі",
+    "zh": "米亚"
+  },
+  "verses": [
+    "nehemiah 3:1:16",
+    "nehemiah 12:39:12"
+  ]
+}

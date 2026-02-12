@@ -1,0 +1,42 @@
+{
+  "number": "H82",
+  "language": "hebrew",
+  "transliteration": "ʼâbar",
+  "pronunciation": "aw-bar'",
+  "definition": "to soar",
+  "kjvTranslation": "fly.",
+  "translations": {
+    "bg": "да се издига",
+    "cs": "vzlétnout",
+    "da": "at svæve",
+    "de": "zu schweben",
+    "el": "να πετάξει ψηλά",
+    "es": "volar",
+    "et": "tõusta",
+    "fi": "kohota",
+    "fr": "s'élever",
+    "hu": "hogy szárnyaljon",
+    "id": "untuk melambung",
+    "it": "per salire in alto",
+    "ja": "舞い上がる",
+    "ko": "날아오르다",
+    "lt": "pakilti",
+    "lv": "pacelties",
+    "nb": "til å sveve",
+    "nl": "om te zweven",
+    "pl": "szybować",
+    "pt": "para voar",
+    "ro": "să se înalțe",
+    "ru": "парить",
+    "sk": "stúpať",
+    "sl": "se vzpenjati",
+    "sv": "att sväva",
+    "tr": "yükselmek için",
+    "uk": "щоб злетіти",
+    "zh": "翱翔"
+  },
+  "hebrew": "אָבַר",
+  "verses": [
+    "job 39:26:1"
+  ]
+}

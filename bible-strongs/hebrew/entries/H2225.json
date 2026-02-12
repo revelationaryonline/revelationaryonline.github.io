@@ -1,0 +1,42 @@
+{
+  "number": "H2225",
+  "language": "hebrew",
+  "transliteration": "zerach",
+  "pronunciation": "zeh'-rakh",
+  "definition": "a rising of light",
+  "kjvTranslation": "rising.",
+  "translations": {
+    "bg": "изгрев на светлина",
+    "cs": "vzestup světla",
+    "da": "en stigning af lys",
+    "de": "ein Aufgang von Licht",
+    "el": "μια ανάδυση του φωτός",
+    "es": "un amanecer de luz",
+    "et": "valguse tõusmine",
+    "fi": "valon nousu",
+    "fr": "une montée de lumière",
+    "hu": "a fény felemelkedése",
+    "id": "terbitnya cahaya",
+    "it": "un'ascesa di luce",
+    "ja": "光の昇り",
+    "ko": "빛의 상승",
+    "lt": "kylanti šviesa",
+    "lv": "gaismas uzplaukums",
+    "nb": "en oppgang av lys",
+    "nl": "een oprijzing van licht",
+    "pl": "wzrost światła",
+    "pt": "um nascer de luz",
+    "ro": "o creștere a luminii",
+    "ru": "восход света",
+    "sk": "vzostup svetla",
+    "sl": "vzpon svetlobe",
+    "sv": "en uppgång av ljus",
+    "tr": "bir ışık yükselişi",
+    "uk": "схід сонця",
+    "zh": "冉冉升起"
+  },
+  "hebrew": "זֶרַח",
+  "verses": [
+    "isaiah 60:3:5"
+  ]
+}

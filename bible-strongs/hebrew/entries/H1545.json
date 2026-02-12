@@ -1,0 +1,42 @@
+{
+  "number": "H1545",
+  "language": "hebrew",
+  "transliteration": "gᵉlôwm",
+  "pronunciation": "ghel-ome'",
+  "definition": "clothing (as wrapped)",
+  "kjvTranslation": "clothes.",
+  "translations": {
+    "bg": "облекло (като опаковка)",
+    "cs": "oděvy (zabalené)",
+    "da": "tøj (som indpakket)",
+    "de": "kleidung (wie eingewickelt)",
+    "el": "ρούχα (όπως τυλίγονται)",
+    "es": "ropa (como envuelta)",
+    "et": "rõivad (pakendatuna)",
+    "fi": "vaatteet (käärittynä)",
+    "fr": "vêtements (enveloppés)",
+    "hu": "ruházat (csomagolva)",
+    "id": "pakaian (seperti yang dibungkus)",
+    "it": "indumenti (come avvolti)",
+    "ja": "ふく",
+    "ko": "의류(포장된 상태)",
+    "lt": "drabužiai (kaip suvynioti)",
+    "lv": "apģērbs (iesaiņojumā)",
+    "nb": "klær (som innpakket)",
+    "nl": "kleding (zoals gewikkeld)",
+    "pl": "odzież (jako opakowanie)",
+    "pt": "vestuário (como embrulhado)",
+    "ro": "îmbrăcăminte (ca învelită)",
+    "ru": "одежда (в виде упаковки)",
+    "sk": "oblečenie (zabalené)",
+    "sl": "oblačila (zavita)",
+    "sv": "kläder (som inplastade)",
+    "tr": "giysi (sarılmış olarak)",
+    "uk": "одяг (у загорнутому вигляді)",
+    "zh": "衣物"
+  },
+  "hebrew": "גְּלוֹם",
+  "verses": [
+    "ezekiel 27:24:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8305",
+  "language": "hebrew",
+  "transliteration": "sᵉrîyqâh",
+  "pronunciation": "ser-ee-kaw'",
+  "definition": "hetchelling (or combing flax), i.e. (concretely) tow (by extension, linen cloth)",
+  "kjvTranslation": "fine.",
+  "hebrew": "שְׂרִיקָה",
+  "translations": {
+    "bg": "хетчинг (или разчесване на лен), т.е. (конкретно) кърпа (и в последствие ленена тъкан)",
+    "cs": "hetchelling (nebo česání lnu), tj. (konkrétně) ručník (a následně lněné plátno)",
+    "da": "hetchelling (eller kæmning af hør), dvs. (konkret) blår (i forlængelse heraf linnedklæde)",
+    "de": "hetscheln (oder Kämmen von Flachs), d. h. (konkret) Werg (im weiteren Sinne Leinengewebe)",
+    "el": "hetchelling (ή χτένισμα λιναριού), δηλαδή (συγκεκριμένα) πετσετέ (κατ' επέκταση, λινό ύφασμα)",
+    "es": "hetchelling (o peinado del lino), es decir (concretamente) estopa (por extensión, tela de lino)",
+    "et": "hetšelling (või kammimine lina), st (konkreetselt) rätik (laiendatud kujul linane riie)",
+    "fi": "pellavan kampaus (tai kampaus), eli (konkreettisesti) pyyhe (laajemmin pellavakangas)",
+    "fr": "l'échenillage (ou le peignage du lin), c'est-à-dire (concrètement) l'étoupe (par extension, la toile de lin)",
+    "hu": "hetchelling (vagy fésülés lenből), azaz (konkrétan) kóc (kiterjesztve: lenvászon)",
+    "id": "hetchelling (atau menyisir rami), yaitu (secara konkret) derek (dengan perluasan, kain linen)",
+    "it": "hetchelling (o pettinatura del lino), cioè (concretamente) stoppa (per estensione, tela di lino)",
+    "ja": "苧引き",
+    "ko": "헤첼링 (또는 아마 빗질), 즉 (구체적으로) 견인 (연장, 린넨 천으로)",
+    "lt": "hetchelling (arba linų šukavimas), t. y. (konkrečiai) rankšluostis (vėliau - lininis audinys)",
+    "lv": "linu ķemmēšana (vai ķemmēšana), t. i., (konkrēti) dvieļu (tātad linu audums)",
+    "nb": "hetchelling (eller kaming av lin), dvs. (konkret) blår (i forlengelsen av dette, linduk)",
+    "nl": "hetchellen (of kammen van vlas), d.w.z. (concreet) slepen (bij uitbreiding, linnen doek)",
+    "pl": "hetchelling (lub czesanie lnu), tj. (konkretnie) ręcznik (przez rozszerzenie, płótno lniane)",
+    "pt": "o linho, ou seja (concretamente) a estopa (por extensão, o tecido de linho)",
+    "ro": "pieptănarea inului, adică (concret) a ștergarului (prin extensie, a pânzei de in)",
+    "ru": "тесание (или очесывание льна), т.е. (конкретно) полотенце (в дальнейшем - льняная ткань)",
+    "sk": "hetchelling (alebo česanie ľanu), t. j. (konkrétne) uterák (následne ľanové plátno)",
+    "sl": "hetchelling (ali česanje lanu), tj. (konkretno) brisača (s tem tudi laneno platno)",
+    "sv": "hetchelling (eller kamning av lin), dvs. (konkret) blånad (i förlängningen linneduk)",
+    "tr": "hetchelling (veya keten taramak), yani (somut olarak) tow (uzantı olarak, keten kumaş)",
+    "uk": "хетчелінг (або гребенечесання льону), тобто (конкретно) клоччя (в розширеному розумінні - лляна тканина)",
+    "zh": "梳麻（或梳亚麻），即（具体地说）毛巾（引申为亚麻布）"
+  },
+  "verses": [
+    "isaiah 19:9:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1861",
+  "language": "hebrew",
+  "transliteration": "dorbôwn",
+  "pronunciation": "dor-bone'",
+  "definition": "a goad",
+  "kjvTranslation": "goad.",
+  "translations": {
+    "bg": "тояга",
+    "cs": "rákoska",
+    "da": "en gokke",
+    "de": "ein Ansporn",
+    "el": "ένα κίνητρο",
+    "es": "un aguijón",
+    "et": "ajaviide",
+    "fi": "vauhtia",
+    "fr": "un aiguillon",
+    "hu": "egy ösztönző",
+    "id": "sebuah tongkat",
+    "it": "un pungolo",
+    "ja": "鞭",
+    "ko": "고드",
+    "lt": "ietigalis",
+    "lv": "iejūgs",
+    "nb": "en stokk",
+    "nl": "een goad",
+    "pl": "kozioł",
+    "pt": "um aguilhão",
+    "ro": "un stimulent",
+    "ru": "заступ",
+    "sk": "bidlo",
+    "sl": "okovje",
+    "sv": "en sporre",
+    "tr": "bir goad",
+    "uk": "козел",
+    "zh": "笞杖"
+  },
+  "hebrew": "דׇּרְבוֹן",
+  "verses": [
+    "firstSamuel 13:21:9",
+    "ecclesiastes 12:11:2"
+  ]
+}

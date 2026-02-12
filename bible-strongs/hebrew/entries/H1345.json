@@ -1,0 +1,42 @@
+{
+  "number": "H1345",
+  "language": "hebrew",
+  "transliteration": "Gᵉʼûwʼêl",
+  "pronunciation": "gheh-oo-ale'",
+  "definition": "Geuel, an Israelite",
+  "kjvTranslation": "Geuel.",
+  "translations": {
+    "bg": "Геуел, израилтянин",
+    "cs": "Geuel, Izraelita",
+    "da": "Geuel, en israelit",
+    "de": "Geuel, ein Israelit",
+    "el": "Geuel, ένας Ισραηλίτης",
+    "es": "Geuel, israelita",
+    "et": "Geuel, iisraellane",
+    "fi": "Geuel, israelilainen",
+    "fr": "Geuel, Israélite",
+    "hu": "Geuel, izraelita",
+    "id": "Geuel, seorang Israel",
+    "it": "Geuel, un israelita",
+    "ja": "イスラエル人ゲエル",
+    "ko": "이스라엘인, 게엘",
+    "lt": "Geuelis, izraelitas",
+    "lv": "Geuels, izraēlietis",
+    "nb": "Geuel, en israelitt",
+    "nl": "Geuel, een Israëliet",
+    "pl": "Geuel, Izraelita",
+    "pt": "Geuel, israelita",
+    "ro": "Geuel, un israelit",
+    "ru": "Геуил, израильтянин",
+    "sk": "Geuel, Izraelita",
+    "sl": "Geuel, Izraelec",
+    "sv": "Geuel, en israelit",
+    "tr": "Geuel, bir İsrailli",
+    "uk": "Ґеуель, ізраїльтянин",
+    "zh": "基厄尔，以色列人"
+  },
+  "hebrew": "גְּאוּאֵל",
+  "verses": [
+    "numbers 13:15:2"
+  ]
+}

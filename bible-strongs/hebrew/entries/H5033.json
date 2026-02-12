@@ -1,0 +1,42 @@
+{
+  "number": "H5033",
+  "language": "hebrew",
+  "transliteration": "nêbek",
+  "pronunciation": "nay'-bek",
+  "definition": "a fountain",
+  "kjvTranslation": "spring.",
+  "hebrew": "נֵבֶךְ",
+  "translations": {
+    "bg": "фонтан",
+    "cs": "fontána",
+    "da": "en fontæne",
+    "de": "ein Springbrunnen",
+    "el": "ένα σιντριβάνι",
+    "es": "una fuente",
+    "et": "purskkaevu",
+    "fi": "suihkulähde",
+    "fr": "une fontaine",
+    "hu": "egy szökőkút",
+    "id": "air mancur",
+    "it": "una fontana",
+    "ja": "噴水",
+    "ko": "분수",
+    "lt": "fontanas",
+    "lv": "strūklaka",
+    "nb": "en fontene",
+    "nl": "een fontein",
+    "pl": "fontanna",
+    "pt": "uma fonte",
+    "ro": "o fântână",
+    "ru": "фонтан",
+    "sk": "fontána",
+    "sl": "vodnjak",
+    "sv": "en fontän",
+    "tr": "bir çeşme",
+    "uk": "фонтан",
+    "zh": "喷泉"
+  },
+  "verses": [
+    "job 38:16:2"
+  ]
+}

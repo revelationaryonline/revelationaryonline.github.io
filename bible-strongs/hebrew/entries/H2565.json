@@ -1,0 +1,43 @@
+{
+  "number": "H2565",
+  "language": "hebrew",
+  "transliteration": "chămôrâh",
+  "pronunciation": "kham-o-raw'",
+  "definition": "a heap",
+  "kjvTranslation": "heap.",
+  "translations": {
+    "bg": "купчина",
+    "cs": "hromada",
+    "da": "en bunke",
+    "de": "ein Haufen",
+    "el": "ένα σωρό",
+    "es": "un montón",
+    "et": "hunnik",
+    "fi": "kasa",
+    "fr": "un tas",
+    "hu": "egy halom",
+    "id": "tumpukan",
+    "it": "un mucchio",
+    "ja": "山ほど",
+    "ko": "힙",
+    "lt": "krūva",
+    "lv": "kaudze",
+    "nb": "en haug",
+    "nl": "een hoop",
+    "pl": "hałda",
+    "pt": "uma pilha",
+    "ro": "o grămadă",
+    "ru": "куча",
+    "sk": "hromada",
+    "sl": "kup",
+    "sv": "en hög",
+    "tr": "bir yığın",
+    "uk": "купа",
+    "zh": "砢"
+  },
+  "hebrew": "חֲמֹרָה",
+  "verses": [
+    "judges 15:16:4",
+    "judges 15:16:5"
+  ]
+}

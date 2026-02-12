@@ -1,0 +1,42 @@
+{
+  "number": "H1147",
+  "language": "hebrew",
+  "transliteration": "binyân",
+  "pronunciation": "bin-yawn'",
+  "definition": "{an edifice}",
+  "kjvTranslation": "building.",
+  "translations": {
+    "bg": "{сграда}",
+    "cs": "{stavba}",
+    "da": "{Et bygningsværk}",
+    "de": "{Ein Bauwerk}",
+    "el": "(ένα οικοδόμημα)",
+    "es": "{un edificio}",
+    "et": "(ehitis)",
+    "fi": "{rakennus}",
+    "fr": "{un édifice}",
+    "hu": "{egy épület}",
+    "id": "[sebuah bangunan]",
+    "it": "{un edificio}",
+    "ja": "{建造物｝である。",
+    "ko": "{건물}",
+    "lt": "{pastatas}",
+    "lv": "{būve}",
+    "nb": "{et byggverk}",
+    "nl": "{een bouwwerk}",
+    "pl": "{budynek}",
+    "pt": "{Um edifício}",
+    "ro": "{un edificiu}",
+    "ru": "{здание.}",
+    "sk": "{stavba}",
+    "sl": "{stavba}",
+    "sv": "{ett byggnadsverk}",
+    "tr": "{bir yapı}",
+    "uk": "[будівля]",
+    "zh": "{一座大厦}"
+  },
+  "hebrew": "בִּנְיָן",
+  "verses": [
+    "ezra 5:4:10"
+  ]
+}

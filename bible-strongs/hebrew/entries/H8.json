@@ -1,0 +1,43 @@
+{
+  "number": "H8",
+  "language": "hebrew",
+  "transliteration": "ʼôbêd",
+  "pronunciation": "o-bade'",
+  "definition": "(concrete) wretched or (abstract) destruction",
+  "kjvTranslation": "perish.",
+  "translations": {
+    "bg": "(конкретно) окаяно или (абстрактно) унищожение",
+    "cs": "(konkrétní) bída nebo (abstraktní) zkáza",
+    "da": "(konkret) elendig eller (abstrakt) ødelæggelse",
+    "de": "(konkret) erbärmlich oder (abstrakt) Zerstörung",
+    "el": "(συγκεκριμένα) άθλια ή (αφηρημένα) καταστροφή",
+    "es": "(concreto) desdichado o (abstracto) destrucción",
+    "et": "(konkreetne) viletsus või (abstraktne) häving",
+    "fi": "(konkreettinen) kurja tai (abstrakti) tuhoisa",
+    "fr": "(concret) misérable ou (abstrait) destruction",
+    "hu": "(konkrétan) nyomorult vagy (elvont) pusztulás",
+    "id": "(konkret) celaka atau kehancuran (abstrak)",
+    "it": "(concreto) miserabile o (astratto) distruzione",
+    "ja": "(惨め滅び",
+    "ko": "(구체적인) 비참함 또는 (추상적인) 파괴",
+    "lt": "(konkretus) nelaimingas arba (abstraktus) sunaikinimas",
+    "lv": "(konkrēts) nožēlojams vai (abstrakts) iznīcība",
+    "nb": "(konkret) elendig eller (abstrakt) ødeleggelse",
+    "nl": "(concreet) ellendig of (abstract) vernietiging",
+    "pl": "(konkretna) nędza lub (abstrakcyjne) zniszczenie",
+    "pt": "(concreto) miserável ou (abstrato) destruição",
+    "ro": "(concret) mizerie sau (abstract) distrugere",
+    "ru": "(конкретный) жалкий или (абстрактный) разрушение",
+    "sk": "(konkrétny) nešťastný alebo (abstraktný) zničenie",
+    "sl": "(konkretno) nesrečen ali (abstraktno) uničenje",
+    "sv": "(konkret) eländig eller (abstrakt) förintelse",
+    "tr": "(somut) perişan veya (soyut) yıkım",
+    "uk": "(конкретне) жалюгідне або (абстрактне) знищення",
+    "zh": "毁灭"
+  },
+  "hebrew": "אֹבֵד",
+  "verses": [
+    "numbers 24:20:11",
+    "numbers 24:24:10"
+  ]
+}

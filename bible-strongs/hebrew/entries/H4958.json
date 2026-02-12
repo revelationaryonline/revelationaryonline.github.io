@@ -1,0 +1,42 @@
+{
+  "number": "H4958",
+  "language": "hebrew",
+  "transliteration": "masrêth",
+  "pronunciation": "mas-rayth'",
+  "definition": "a pan",
+  "kjvTranslation": "pan.",
+  "hebrew": "מַשְׂרֵת",
+  "translations": {
+    "bg": "тиган",
+    "cs": "pánev",
+    "da": "en gryde",
+    "de": "eine Pfanne",
+    "el": "ένα τηγάνι",
+    "es": "una sartén",
+    "et": "panni",
+    "fi": "pannu",
+    "fr": "une casserole",
+    "hu": "egy serpenyő",
+    "id": "panci",
+    "it": "una padella",
+    "ja": "鍋",
+    "ko": "팬",
+    "lt": "keptuvė",
+    "lv": "panna",
+    "nb": "en panne",
+    "nl": "een pan",
+    "pl": "patelnia",
+    "pt": "uma panela",
+    "ro": "o tigaie",
+    "ru": "сковорода",
+    "sk": "panvica",
+    "sl": "ponev",
+    "sv": "en panna",
+    "tr": "bir tava",
+    "uk": "каструля",
+    "zh": "平底锅"
+  },
+  "verses": [
+    "secondSamuel 13:9:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4896",
+  "language": "hebrew",
+  "transliteration": "mishṭâr",
+  "pronunciation": "mish-tawr'",
+  "definition": "jurisdiction",
+  "kjvTranslation": "dominion.",
+  "hebrew": "מִשְׁטָר",
+  "translations": {
+    "bg": "юрисдикция",
+    "cs": "jurisdikce",
+    "da": "jurisdiktion",
+    "de": "gerichtsbarkeit",
+    "el": "δικαιοδοσία",
+    "es": "jurisdicción",
+    "et": "jurisdiktsioon",
+    "fi": "toimivalta",
+    "fr": "juridiction",
+    "hu": "joghatóság",
+    "id": "yurisdiksi",
+    "it": "giurisdizione",
+    "ja": "管轄",
+    "ko": "관할권",
+    "lt": "jurisdikcija",
+    "lv": "jurisdikcija",
+    "nb": "jurisdiksjon",
+    "nl": "rechtsgebied",
+    "pl": "jurysdykcja",
+    "pt": "jurisdição",
+    "ro": "jurisdicție",
+    "ru": "юрисдикция",
+    "sk": "jurisdikcia",
+    "sl": "pristojnost",
+    "sv": "jurisdiktion",
+    "tr": "yargı yetkisi",
+    "uk": "юрисдикція",
+    "zh": "管辖权"
+  },
+  "verses": [
+    "job 38:33:5"
+  ]
+}

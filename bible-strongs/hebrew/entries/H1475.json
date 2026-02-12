@@ -1,0 +1,42 @@
+{
+  "number": "H1475",
+  "language": "hebrew",
+  "transliteration": "gûwmmâts",
+  "pronunciation": "goom-mawts'",
+  "definition": "a pit",
+  "kjvTranslation": "pit.",
+  "translations": {
+    "bg": "яма",
+    "cs": "jáma",
+    "da": "et hul",
+    "de": "eine Grube",
+    "el": "ένα λάκκο",
+    "es": "un pozo",
+    "et": "a pit",
+    "fi": "kuoppa",
+    "fr": "une fosse",
+    "hu": "egy gödör",
+    "id": "sebuah lubang",
+    "it": "un pozzo",
+    "ja": "落とし穴",
+    "ko": "구덩이",
+    "lt": "duobė",
+    "lv": "bedre",
+    "nb": "en grop",
+    "nl": "een put",
+    "pl": "dół",
+    "pt": "um poço",
+    "ro": "o groapă",
+    "ru": "яма",
+    "sk": "jama",
+    "sl": "jama",
+    "sv": "en grop",
+    "tr": "bir çukur",
+    "uk": "яма",
+    "zh": "凹坑"
+  },
+  "hebrew": "גּוּמָּץ",
+  "verses": [
+    "ecclesiastes 10:8:1"
+  ]
+}

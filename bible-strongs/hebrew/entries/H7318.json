@@ -1,0 +1,42 @@
+{
+  "number": "H7318",
+  "language": "hebrew",
+  "transliteration": "rôwmâm",
+  "pronunciation": "ro-mawm'",
+  "definition": "exaltation, i.e. (figuratively and specifically) praise",
+  "kjvTranslation": "be extolled.",
+  "hebrew": "רוֹמָם",
+  "translations": {
+    "bg": "издигане, т.е. (в преносен и конкретен смисъл) възхвала",
+    "cs": "povýšení, tj. (přeneseně a konkrétně) chvála",
+    "da": "ophøjelse, dvs. (i overført betydning og specifikt) lovprisning",
+    "de": "verherrlichung, d.h. (bildlich und konkret) Lob",
+    "el": "εξύψωση, δηλαδή (μεταφορικά και συγκεκριμένα) έπαινος",
+    "es": "exaltación, es decir (en sentido figurado y específico) alabanza",
+    "et": "ülistus, st (piltlikult ja konkreetselt) ülistus",
+    "fi": "ylistys, eli (kuvaannollisesti ja erityisesti) ylistys",
+    "fr": "l'exaltation, c'est-à-dire (au sens figuré et spécifique) la louange",
+    "hu": "magasztalás, azaz (átvitt értelemben és konkrétan) dicséret",
+    "id": "peninggian, yaitu (secara kiasan dan khusus) pujian",
+    "it": "esaltazione, cioè (in senso figurato e specifico) l'elogio",
+    "ja": "称揚",
+    "ko": "높임, 즉 (비유적이고 구체적인) 칭찬",
+    "lt": "išaukštinimas, t. y. (perkeltine ir konkrečia prasme) šlovinimas",
+    "lv": "cildināšana, t.i., (pārnestā nozīmē un īpaši) slavēšana",
+    "nb": "opphøyelse, dvs. (i overført betydning og spesifikt) lovprisning",
+    "nl": "verheffing, d.w.z. (figuurlijk en specifiek) lofprijzing",
+    "pl": "wywyższenie, tj. (w przenośni i konkretnie) pochwała",
+    "pt": "exaltação, ou seja, (em sentido figurado e específico) louvor",
+    "ro": "exaltare, adică (figurativ și specific) laudă",
+    "ru": "возвышение, т.е. (образно и конкретно) восхваление",
+    "sk": "povýšenie, t. j. (v prenesenom význame a konkrétne) chvála",
+    "sl": "poveličevanje, tj. (v prenesenem in posebnem pomenu) hvalnica",
+    "sv": "upphöjelse, dvs. (bildligt och specifikt) beröm",
+    "tr": "yüceltme, yani (mecazi olarak ve özellikle) övgü",
+    "uk": "звеличення, тобто (образно і конкретно) похвала",
+    "zh": "赞美"
+  },
+  "verses": [
+    "psalms 66:17:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2200",
+  "language": "hebrew",
+  "transliteration": "zᵉʻiq",
+  "pronunciation": "zek'-eek",
+  "definition": "to make an outcry",
+  "kjvTranslation": "cry.",
+  "translations": {
+    "bg": "да вдига шум",
+    "cs": "křičet",
+    "da": "at gøre et ramaskrig",
+    "de": "einen Aufschrei zu machen",
+    "el": "να ξεσηκωθείς",
+    "es": "protestar",
+    "et": "teha üleskutse",
+    "fi": "pitää meteliä",
+    "fr": "faire un tollé",
+    "hu": "hogy felháborodjon",
+    "id": "untuk membuat protes",
+    "it": "per fare una protesta",
+    "ja": "叫ぶ",
+    "ko": "항의하기 위해",
+    "lt": "kelti triukšmą",
+    "lv": "izsaukt kliedzienu",
+    "nb": "å gjøre et ramaskrik",
+    "nl": "schreeuwen",
+    "pl": "zrobić krzyk",
+    "pt": "fazer barulho",
+    "ro": "să facă un scandal",
+    "ru": "поднимать шум",
+    "sk": "vydávať výkriky",
+    "sl": "vzbuditi proteste",
+    "sv": "att göra ett ramaskri",
+    "tr": "haykırmak için",
+    "uk": "здійняти галас",
+    "zh": "哗然"
+  },
+  "hebrew": "זְעִק",
+  "verses": [
+    "daniel 6:21:5"
+  ]
+}

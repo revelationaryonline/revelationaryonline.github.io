@@ -1,0 +1,42 @@
+{
+  "number": "H2681",
+  "language": "hebrew",
+  "transliteration": "châtsîyr",
+  "pronunciation": "khaw-tseer'",
+  "definition": "a court or abode",
+  "kjvTranslation": "court.",
+  "translations": {
+    "bg": "двор или жилище",
+    "cs": "dvůr nebo sídlo",
+    "da": "en gård eller et opholdssted",
+    "de": "einen Hof oder Wohnsitz",
+    "el": "ένα δικαστήριο ή μια κατοικία",
+    "es": "un tribunal o morada",
+    "et": "kohus või elukoht",
+    "fi": "tuomioistuin tai asuinpaikka",
+    "fr": "une cour ou une demeure",
+    "hu": "udvar vagy lakóhely",
+    "id": "pengadilan atau tempat tinggal",
+    "it": "una corte o una dimora",
+    "ja": "宮居",
+    "ko": "법원 또는 거주지",
+    "lt": "dvaras arba buveinė",
+    "lv": "tiesa vai mājoklis",
+    "nb": "en gård eller et oppholdssted",
+    "nl": "een hof of verblijfplaats",
+    "pl": "dwór lub siedziba",
+    "pt": "um tribunal ou residência",
+    "ro": "o curte sau o locuință",
+    "ru": "двор или обитель",
+    "sk": "dvor alebo príbytok",
+    "sl": "dvorišče ali bivališče",
+    "sv": "en domstol eller bostad",
+    "tr": "bir mahkeme veya mesken",
+    "uk": "суд або житло",
+    "zh": "苑"
+  },
+  "hebrew": "חָצִיר",
+  "verses": [
+    "isaiah 34:13:9"
+  ]
+}

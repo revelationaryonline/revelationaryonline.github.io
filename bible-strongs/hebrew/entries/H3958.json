@@ -1,0 +1,43 @@
+{
+  "number": "H3958",
+  "language": "hebrew",
+  "transliteration": "leshem",
+  "pronunciation": "leh'-shem",
+  "definition": "a gem, perhaps the jacinth",
+  "kjvTranslation": "ligure.",
+  "hebrew": "לֶשֶׁם",
+  "translations": {
+    "bg": "скъпоценен камък, може би жацинт",
+    "cs": "drahokam, možná jacinth",
+    "da": "en ædelsten, måske en jacint",
+    "de": "ein Edelstein, vielleicht der Jacinth",
+    "el": "ένα πετράδι, ίσως ο ζακίνθος",
+    "es": "una gema, tal vez el jacinto",
+    "et": "kalliskivi, ehk jacinth",
+    "fi": "jalokivi, ehkä jacinth",
+    "fr": "une pierre précieuse, peut-être le jacinthe",
+    "hu": "egy drágakő, talán a jácint",
+    "id": "permata, mungkin jacinth",
+    "it": "una gemma, forse il giacinto",
+    "ja": "宝石、おそらくジャシンス",
+    "ko": "보석, 아마도 자신스일 것입니다",
+    "lt": "brangakmenis, galbūt žakintas",
+    "lv": "dārgakmens, iespējams, jacints",
+    "nb": "en edelsten, kanskje en jacint",
+    "nl": "een juweel, misschien de jacint",
+    "pl": "klejnot, być może żakint",
+    "pt": "uma pedra preciosa, talvez o jacinto",
+    "ro": "o bijuterie, poate jacintul",
+    "ru": "драгоценный камень, возможно, жакант",
+    "sk": "drahokam, možno jacinth",
+    "sl": "dragulj, morda jacinth",
+    "sv": "en ädelsten, kanske en jacint",
+    "tr": "bir mücevher, belki de sümbül",
+    "uk": "дорогоцінний камінь, можливо, жасмин",
+    "zh": "宝石"
+  },
+  "verses": [
+    "exodus 28:19:2",
+    "exodus 39:12:2"
+  ]
+}

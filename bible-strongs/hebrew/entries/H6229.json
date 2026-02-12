@@ -1,0 +1,42 @@
+{
+  "number": "H6229",
+  "language": "hebrew",
+  "transliteration": "ʻâsaq",
+  "pronunciation": "aw-sak",
+  "definition": "to press upon, i.e. quarrel",
+  "kjvTranslation": "strive with.",
+  "hebrew": "עָשַׂק",
+  "translations": {
+    "bg": "да притиска, т.е. да се кара",
+    "cs": "tlačit, tj. hádat se",
+    "da": "at presse på, dvs. skændes",
+    "de": "bedrängen, d.h. streiten",
+    "el": "να πιέζετε, δηλαδή να διαπληκτίζεστε",
+    "es": "presionar, es decir, reñir",
+    "et": "peale suruda, st tülitseda",
+    "fi": "painostaa, eli riidellä",
+    "fr": "presser, c'est-à-dire se quereller",
+    "hu": "nyomást gyakorolni, azaz veszekedni",
+    "id": "untuk menekan, yaitu bertengkar",
+    "it": "premere su, cioè litigare",
+    "ja": "押し付ける",
+    "ko": "압박하다, 즉 다투다",
+    "lt": "spausti, t. y. ginčytis",
+    "lv": "uzspiest, t.i., strīdēties",
+    "nb": "å presse på, dvs. krangle",
+    "nl": "aandringen, d.w.z. ruzie maken",
+    "pl": "naciskać, tj. kłócić się",
+    "pt": "pressionar, ou seja, discutir",
+    "ro": "a presa, adică a se certa",
+    "ru": "давить, т.е. ссориться",
+    "sk": "tlačiť na, t. j. hádať sa",
+    "sl": "pritiskati, tj. prepirati se",
+    "sv": "att trycka på, dvs. gräla",
+    "tr": "üzerine bastırmak, yani kavga etmek",
+    "uk": "натиснути, тобто посваритися",
+    "zh": "压，即争吵"
+  },
+  "verses": [
+    "genesis 26:20:14"
+  ]
+}

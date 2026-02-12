@@ -1,0 +1,42 @@
+{
+  "number": "H6849",
+  "language": "hebrew",
+  "transliteration": "tsᵉphiʻâh",
+  "pronunciation": "tsef-ee-aw'",
+  "definition": "an outcast thing",
+  "kjvTranslation": "issue.",
+  "hebrew": "צְפִעָה",
+  "translations": {
+    "bg": "нещо, което е отхвърлено",
+    "cs": "vyděděnec",
+    "da": "en udstødt ting",
+    "de": "eine ausgestoßene Sache",
+    "el": "ένα απόβλητο πράγμα",
+    "es": "una cosa marginada",
+    "et": "tõrjutud asi",
+    "fi": "syrjäytynyt asia",
+    "fr": "une chose exclue",
+    "hu": "egy kitaszított dolog",
+    "id": "hal yang terbuang",
+    "it": "una cosa da emarginati",
+    "ja": "のけ者",
+    "ko": "버림받은 것",
+    "lt": "atstumtasis dalykas",
+    "lv": "atstumtā lieta",
+    "nb": "en utstøtt ting",
+    "nl": "een verstoten ding",
+    "pl": "rzecz wyrzutka",
+    "pt": "uma coisa marginalizada",
+    "ro": "un lucru proscris",
+    "ru": "изгой",
+    "sk": "vyvrheľ",
+    "sl": "izobčenec",
+    "sv": "en utstött sak",
+    "tr": "dışlanmış bir şey",
+    "uk": "вигнанцем",
+    "zh": "异事"
+  },
+  "verses": [
+    "isaiah 22:24:7"
+  ]
+}

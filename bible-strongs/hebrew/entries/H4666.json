@@ -1,0 +1,43 @@
+{
+  "number": "H4666",
+  "language": "hebrew",
+  "transliteration": "miphrâs",
+  "pronunciation": "mif-rawce'",
+  "definition": "an expansion",
+  "kjvTranslation": "that which...spreadest forth, spreading.",
+  "hebrew": "מִפְרָשׂ",
+  "translations": {
+    "bg": "разширяване",
+    "cs": "rozšíření",
+    "da": "en udvidelse",
+    "de": "eine Erweiterung",
+    "el": "μια επέκταση",
+    "es": "una ampliación",
+    "et": "laienemine",
+    "fi": "laajennus",
+    "fr": "une expansion",
+    "hu": "bővítés",
+    "id": "sebuah ekspansi",
+    "it": "un'espansione",
+    "ja": "拡大",
+    "ko": "확장",
+    "lt": "plėtra",
+    "lv": "paplašināšana",
+    "nb": "en utvidelse",
+    "nl": "een uitbreiding",
+    "pl": "rozszerzenie",
+    "pt": "uma expansão",
+    "ro": "o extindere",
+    "ru": "расширение",
+    "sk": "rozšírenie",
+    "sl": "razširitev",
+    "sv": "en expansion",
+    "tr": "bir genişleme",
+    "uk": "розширення",
+    "zh": "扩建"
+  },
+  "verses": [
+    "job 36:29:3",
+    "ezekiel 27:7:4"
+  ]
+}

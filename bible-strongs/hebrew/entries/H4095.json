@@ -1,0 +1,43 @@
+{
+  "number": "H4095",
+  "language": "hebrew",
+  "transliteration": "madrêgâh",
+  "pronunciation": "mad-ray-gaw'",
+  "definition": "properly, a step; by implication, a steep or inaccessible place",
+  "kjvTranslation": "stair, steep place.",
+  "hebrew": "מַדְרֵגָה",
+  "translations": {
+    "bg": "правилно - стъпало; по подразбиране - стръмно или недостъпно място",
+    "cs": "správně schod; implicitně strmé nebo nepřístupné místo",
+    "da": "korrekt, et trin; underforstået, et stejlt eller utilgængeligt sted",
+    "de": "richtig: eine Stufe; implizit: eine steile oder unzugängliche Stelle",
+    "el": "σωστά, ένα σκαλοπάτι- κατ' επέκταση, ένα απόκρημνο ή απρόσιτο μέρος",
+    "es": "propiamente, un escalón; implícitamente, un lugar escarpado o inaccesible",
+    "et": "õigesti, samm; kaudselt, järsk või ligipääsmatu koht",
+    "fi": "oikeastaan askelma; implisiittisesti jyrkkä tai saavuttamattomissa oleva paikka",
+    "fr": "proprement dit, une marche ; par implication, un endroit escarpé ou inaccessible",
+    "hu": "helyesen, egy lépcsőfok; értelemszerűen egy meredek vagy megközelíthetetlen hely",
+    "id": "dengan benar, sebuah langkah; dengan implikasi, tempat yang curam atau tidak dapat diakses",
+    "it": "propriamente, un gradino; per implicazione, un luogo ripido o inaccessibile",
+    "ja": "正しくは「段差」、暗義には「急な、または近づきがたい場所",
+    "ko": "정확하게는 계단, 암시적으로는 가파르거나 접근하기 어려운 장소",
+    "lt": "taisyklingai - laiptelis; netiesiogiai - stati ar nepasiekiama vieta",
+    "lv": "pareizi - pakāpiens; netieši - stāva vai nepieejama vieta",
+    "nb": "egentlig, et trinn; underforstått, et bratt eller utilgjengelig sted",
+    "nl": "een trede; impliciet een steile of ontoegankelijke plaats",
+    "pl": "właściwie, stopień; w domyśle, strome lub niedostępne miejsce",
+    "pt": "propriamente dito, um degrau; implicitamente, um lugar íngreme ou inacessível",
+    "ro": "propriu-zis, o treaptă; implicit, un loc abrupt sau inaccesibil",
+    "ru": "правильно, ступенька; по смыслу, крутое или недоступное место",
+    "sk": "správne, schod; implicitne, strmé alebo neprístupné miesto",
+    "sl": "pravilno, korak; implicitno, strm ali nedostopen kraj",
+    "sv": "i egentlig mening ett trappsteg; underförstått en brant eller otillgänglig plats",
+    "tr": "uygun şekilde, bir basamak; ima yoluyla, dik veya erişilemez bir yer",
+    "uk": "власне, сходинка; підтекстом - круте або важкодоступне місце",
+    "zh": "阶梯"
+  },
+  "verses": [
+    "solomon 2:14:4",
+    "ezekiel 38:20:22"
+  ]
+}

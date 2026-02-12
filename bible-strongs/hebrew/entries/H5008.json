@@ -1,0 +1,43 @@
+{
+  "number": "H5008",
+  "language": "hebrew",
+  "transliteration": "nâʼaq",
+  "pronunciation": "naw-ak'",
+  "definition": "to groan",
+  "kjvTranslation": "groan.",
+  "hebrew": "נָאַק",
+  "translations": {
+    "bg": "да стене",
+    "cs": "sténat",
+    "da": "at stønne",
+    "de": "zu stöhnen",
+    "el": "να βογκάω",
+    "es": "gemir",
+    "et": "uriseda",
+    "fi": "huokaamaan",
+    "fr": "gémir",
+    "hu": "nyögni",
+    "id": "untuk mengerang",
+    "it": "gemere",
+    "ja": "うめく",
+    "ko": "신음하다",
+    "lt": "dejuoti",
+    "lv": "nopūsties",
+    "nb": "å stønne",
+    "nl": "kreunen",
+    "pl": "jęczeć",
+    "pt": "gemer",
+    "ro": "să gemi",
+    "ru": "стонать",
+    "sk": "stonať",
+    "sl": "stokati",
+    "sv": "att stöna",
+    "tr": "inlemek için",
+    "uk": "стогнати",
+    "zh": "呻吟"
+  },
+  "verses": [
+    "job 24:12:2",
+    "ezekiel 30:24:13"
+  ]
+}

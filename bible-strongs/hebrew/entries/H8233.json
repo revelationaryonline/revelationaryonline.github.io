@@ -1,0 +1,42 @@
+{
+  "number": "H8233",
+  "language": "hebrew",
+  "transliteration": "shepher",
+  "pronunciation": "sheh'-fer",
+  "definition": "beauty",
+  "kjvTranslation": "[idiom] goodly.",
+  "hebrew": "שֶׁפֶר",
+  "translations": {
+    "bg": "красота",
+    "cs": "krása",
+    "da": "skønhed",
+    "de": "schönheit",
+    "el": "ομορφιά",
+    "es": "belleza",
+    "et": "ilu",
+    "fi": "kauneus",
+    "fr": "beauté",
+    "hu": "szépség",
+    "id": "kecantikan",
+    "it": "bellezza",
+    "ja": "美",
+    "ko": "뷰티",
+    "lt": "grožis",
+    "lv": "skaistumkopšana",
+    "nb": "skjønnhet",
+    "nl": "schoonheid",
+    "pl": "piękno",
+    "pt": "beleza",
+    "ro": "frumusețe",
+    "ru": "красота",
+    "sk": "krása",
+    "sl": "lepota",
+    "sv": "skönhet",
+    "tr": "güzellik",
+    "uk": "краса",
+    "zh": "美景"
+  },
+  "verses": [
+    "genesis 49:21:5"
+  ]
+}

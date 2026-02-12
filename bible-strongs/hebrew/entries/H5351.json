@@ -1,0 +1,42 @@
+{
+  "number": "H5351",
+  "language": "hebrew",
+  "transliteration": "nᵉquddâh",
+  "pronunciation": "ned-ood-daw'",
+  "definition": "a boss",
+  "kjvTranslation": "stud.",
+  "hebrew": "נְקֻדָּה",
+  "translations": {
+    "bg": "началник",
+    "cs": "šéf",
+    "da": "en chef",
+    "de": "ein Chef",
+    "el": "ένα αφεντικό",
+    "es": "un jefe",
+    "et": "ülemus",
+    "fi": "pomo",
+    "fr": "un patron",
+    "hu": "egy főnök",
+    "id": "bos",
+    "it": "un capo",
+    "ja": "ボス",
+    "ko": "상사",
+    "lt": "viršininkas",
+    "lv": "priekšnieks",
+    "nb": "en sjef",
+    "nl": "een baas",
+    "pl": "szef",
+    "pt": "um chefe",
+    "ro": "un șef",
+    "ru": "босс",
+    "sk": "šéf",
+    "sl": "šef",
+    "sv": "en chef",
+    "tr": "bir patron",
+    "uk": "бос",
+    "zh": "老板"
+  },
+  "verses": [
+    "solomon 1:11:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6719",
+  "language": "hebrew",
+  "transliteration": "tsayâd",
+  "pronunciation": "tsah'-yawd",
+  "definition": "a huntsman",
+  "kjvTranslation": "hunter.",
+  "hebrew": "צַיָּד",
+  "translations": {
+    "bg": "ловец",
+    "cs": "lovec",
+    "da": "en jæger",
+    "de": "ein Waidmann",
+    "el": "ένας κυνηγός",
+    "es": "un cazador",
+    "et": "jahimees",
+    "fi": "metsästäjä",
+    "fr": "un chasseur",
+    "hu": "egy vadász",
+    "id": "seorang pemburu",
+    "it": "un cacciatore",
+    "ja": "猟師",
+    "ko": "사냥꾼",
+    "lt": "medžiotojas",
+    "lv": "mednieks",
+    "nb": "en jeger",
+    "nl": "een jager",
+    "pl": "myśliwy",
+    "pt": "um caçador",
+    "ro": "un vânător",
+    "ru": "егерь",
+    "sk": "poľovník",
+    "sl": "lovec",
+    "sv": "en jägare",
+    "tr": "bir avcı",
+    "uk": "мисливець",
+    "zh": "狩猎者"
+  },
+  "verses": [
+    "jeremiah 16:16:12"
+  ]
+}

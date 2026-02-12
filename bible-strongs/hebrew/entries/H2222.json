@@ -1,0 +1,42 @@
+{
+  "number": "H2222",
+  "language": "hebrew",
+  "transliteration": "zarzîyph",
+  "pronunciation": "zar-zeef'",
+  "definition": "a pouring rain",
+  "kjvTranslation": "water.",
+  "translations": {
+    "bg": "проливен дъжд",
+    "cs": "liják",
+    "da": "en silende regn",
+    "de": "ein strömender Regen",
+    "el": "μια καταρρακτώδης βροχή",
+    "es": "una lluvia torrencial",
+    "et": "paduvihm",
+    "fi": "kaatosade",
+    "fr": "une pluie battante",
+    "hu": "zuhogó eső",
+    "id": "hujan deras",
+    "it": "una pioggia battente",
+    "ja": "どしゃ降り",
+    "ko": "쏟아지는 비",
+    "lt": "pliaupiantis lietus",
+    "lv": "līst lietus",
+    "nb": "et øsende regnvær",
+    "nl": "een gietende regen",
+    "pl": "ulewny deszcz",
+    "pt": "uma chuva torrencial",
+    "ro": "o ploaie torențială",
+    "ru": "проливной дождь",
+    "sk": "lejaku",
+    "sl": "nalivni dež",
+    "sv": "ett hällande regn",
+    "tr": "bardaktan boşanırcasına yağan bir yağmur",
+    "uk": "проливний дощ",
+    "zh": "倾盆大雨"
+  },
+  "hebrew": "זַרְזִיף",
+  "verses": [
+    "psalms 72:6:5"
+  ]
+}

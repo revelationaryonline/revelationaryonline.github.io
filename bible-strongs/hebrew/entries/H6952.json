@@ -1,0 +1,43 @@
+{
+  "number": "H6952",
+  "language": "hebrew",
+  "transliteration": "qᵉhillâh",
+  "pronunciation": "keh-hil-law'",
+  "definition": "an assemblage",
+  "kjvTranslation": "assembly, congregation.",
+  "hebrew": "קְהִלָּה",
+  "translations": {
+    "bg": "сглобка",
+    "cs": "asambláž",
+    "da": "en samling",
+    "de": "eine Assemblage",
+    "el": "ένα σύνολο",
+    "es": "un conjunto",
+    "et": "kogumik",
+    "fi": "kokoonpano",
+    "fr": "un assemblage",
+    "hu": "egy összeállítás",
+    "id": "kumpulan",
+    "it": "un assemblaggio",
+    "ja": "アッサンブラージュ",
+    "ko": "어셈블리",
+    "lt": "asambliažas",
+    "lv": "montāža",
+    "nb": "en samling",
+    "nl": "een assemblage",
+    "pl": "zbiór",
+    "pt": "um conjunto",
+    "ro": "un ansamblu",
+    "ru": "собрание",
+    "sk": "zostava",
+    "sl": "skupek",
+    "sv": "en sammansättning",
+    "tr": "bir topluluk",
+    "uk": "асамблея",
+    "zh": "集合体"
+  },
+  "verses": [
+    "deuteronomy 33:4:5",
+    "nehemiah 5:7:18"
+  ]
+}

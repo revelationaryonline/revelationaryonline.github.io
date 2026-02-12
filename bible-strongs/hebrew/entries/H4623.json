@@ -1,0 +1,42 @@
+{
+  "number": "H4623",
+  "language": "hebrew",
+  "transliteration": "maʻtsâr",
+  "pronunciation": "mah-tsawr'",
+  "definition": "subjectively, control",
+  "kjvTranslation": "rule.",
+  "hebrew": "מַעְצָר",
+  "verses": [
+    "proverbs 25:28:7"
+  ],
+  "translations": {
+    "bg": "субективно, контрол",
+    "cs": "subjektivně, kontrola",
+    "da": "subjektivt, kontrol",
+    "de": "subjektiv, Kontrolle",
+    "el": "υποκειμενικά, έλεγχος",
+    "es": "subjetivamente, control",
+    "et": "subjektiivselt, kontroll",
+    "fi": "subjektiivisesti, valvonta",
+    "fr": "subjectivement, contrôle",
+    "hu": "szubjektíven, ellenőrzés",
+    "id": "secara subyektif, kontrol",
+    "it": "soggettivamente, controllo",
+    "ja": "主観的に、コントロール",
+    "ko": "주관적, 제어",
+    "lt": "subjektyviai, kontrolė",
+    "lv": "subjektīvi, kontrole",
+    "nb": "subjektivt, kontroll",
+    "nl": "subjectief, controle",
+    "pl": "subiektywnie, kontrola",
+    "pt": "subjetivamente, controlar",
+    "ro": "subiectiv, control",
+    "ru": "субъективно, контролировать",
+    "sk": "subjektívne, kontrola",
+    "sl": "subjektivno, nadzor",
+    "sv": "subjektivt, kontroll",
+    "tr": "öznel olarak, kontrol",
+    "uk": "суб'єктивно, контроль",
+    "zh": "主观控制"
+  }
+}

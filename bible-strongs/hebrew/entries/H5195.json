@@ -1,0 +1,42 @@
+{
+  "number": "H5195",
+  "language": "hebrew",
+  "transliteration": "nâṭîyaʻ",
+  "pronunciation": "naw-tee'-ah",
+  "definition": "a plant",
+  "kjvTranslation": "plant.",
+  "hebrew": "נָטִיעַ",
+  "translations": {
+    "bg": "растение",
+    "cs": "rostlina",
+    "da": "en plante",
+    "de": "eine Pflanze",
+    "el": "ένα φυτό",
+    "es": "una planta",
+    "et": "taim",
+    "fi": "kasvi",
+    "fr": "une plante",
+    "hu": "egy növény",
+    "id": "tanaman",
+    "it": "una pianta",
+    "ja": "植物",
+    "ko": "식물",
+    "lt": "augalas",
+    "lv": "augs",
+    "nb": "en plante",
+    "nl": "een plant",
+    "pl": "roślina",
+    "pt": "uma planta",
+    "ro": "o plantă",
+    "ru": "растение",
+    "sk": "rastlina",
+    "sl": "rastlina",
+    "sv": "en anläggning",
+    "tr": "bir bitki",
+    "uk": "рослина",
+    "zh": "株"
+  },
+  "verses": [
+    "psalms 144:12:2"
+  ]
+}

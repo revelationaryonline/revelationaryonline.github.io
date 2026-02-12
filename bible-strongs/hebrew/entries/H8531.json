@@ -1,0 +1,43 @@
+{
+  "number": "H8531",
+  "language": "hebrew",
+  "transliteration": "tᵉlath",
+  "pronunciation": "tel-ath'",
+  "definition": "a tertiary rank",
+  "kjvTranslation": "third.",
+  "hebrew": "תְּלַת",
+  "translations": {
+    "bg": "третостепенен ранг",
+    "cs": "terciární hodnost",
+    "da": "en tertiær rang",
+    "de": "einen tertiären Rang",
+    "el": "μια τριτοβάθμια βαθμίδα",
+    "es": "un rango terciario",
+    "et": "kolmanda astme ametikoht",
+    "fi": "korkea-asteen asema",
+    "fr": "un rang tertiaire",
+    "hu": "harmadlagos rang",
+    "id": "peringkat tersier",
+    "it": "un grado terziario",
+    "ja": "三級",
+    "ko": "3차 등급",
+    "lt": "tretinis rangas",
+    "lv": "terciārā ranga",
+    "nb": "en tertiær rang",
+    "nl": "een tertiaire rang",
+    "pl": "stopień trzeciorzędny",
+    "pt": "um grau terciário",
+    "ro": "un rang terțiar",
+    "ru": "третичный ранг",
+    "sk": "terciárny stupeň",
+    "sl": "terciarni rang",
+    "sv": "en tertiär rang",
+    "tr": "üçüncül bir rütbe",
+    "uk": "третій ранг",
+    "zh": "三级"
+  },
+  "verses": [
+    "daniel 5:16:27",
+    "daniel 5:29:17"
+  ]
+}

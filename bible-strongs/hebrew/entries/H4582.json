@@ -1,0 +1,42 @@
+{
+  "number": "H4582",
+  "language": "hebrew",
+  "transliteration": "Mâʻôwk",
+  "pronunciation": "maw-oke'",
+  "definition": "Maok, a Philistine",
+  "kjvTranslation": "Maoch.",
+  "hebrew": "מָעוֹךְ",
+  "verses": [
+    "firstSamuel 27:2:12"
+  ],
+  "translations": {
+    "bg": "Маок, филистимец",
+    "cs": "Maok, Filištín",
+    "da": "Maok, en filister",
+    "de": "Maok, ein Philister",
+    "el": "Μαόκ, ένας Φιλισταίος",
+    "es": "Maok, un filisteo",
+    "et": "Maok, vilistlane",
+    "fi": "Maok, filistealainen",
+    "fr": "Maok, un Philistin",
+    "hu": "Maok, egy filiszteus",
+    "id": "Maok, seorang Filistin",
+    "it": "Maok, un filisteo",
+    "ja": "ペリシテ人マオク",
+    "ko": "블레셋인 마옥",
+    "lt": "Maokas, filistinietis",
+    "lv": "Maok, filistrietis",
+    "nb": "Maok, en filister",
+    "nl": "Maok, een Filistijn",
+    "pl": "Maok, Filistyn",
+    "pt": "Maoque, um filisteu",
+    "ro": "Maok, un filistean",
+    "ru": "Маок, филистимлянин",
+    "sk": "Maok, Filištín",
+    "sl": "Maok, Filistejka",
+    "sv": "Maok, en filisté",
+    "tr": "Maok, bir Filistinli",
+    "uk": "Маок, филистимлянин",
+    "zh": "非利士人莫克"
+  }
+}

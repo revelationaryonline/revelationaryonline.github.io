@@ -1,0 +1,43 @@
+{
+  "number": "H4765",
+  "language": "hebrew",
+  "transliteration": "marbad",
+  "pronunciation": "mar-bad'",
+  "definition": "a coverlet",
+  "kjvTranslation": "covering of tapestry.",
+  "hebrew": "מַרְבַד",
+  "translations": {
+    "bg": "покривало",
+    "cs": "přehoz",
+    "da": "et tæppe",
+    "de": "eine Bettdecke",
+    "el": "ένα κάλυμμα",
+    "es": "un cobertor",
+    "et": "voodipesu",
+    "fi": "peitto",
+    "fr": "un couvre-lit",
+    "hu": "egy takaró",
+    "id": "selimut",
+    "it": "un copriletto",
+    "ja": "掛け布団",
+    "ko": "이불",
+    "lt": "užvalkalas",
+    "lv": "pārklājs",
+    "nb": "et teppe",
+    "nl": "een dekbed",
+    "pl": "narzuta",
+    "pt": "uma colcha",
+    "ro": "o cuvertură",
+    "ru": "покрывало",
+    "sk": "prehoz",
+    "sl": "pregrinjalo",
+    "sv": "ett överkast",
+    "tr": "bir örtü",
+    "uk": "покривало",
+    "zh": "衾"
+  },
+  "verses": [
+    "proverbs 7:16:0",
+    "proverbs 31:22:0"
+  ]
+}

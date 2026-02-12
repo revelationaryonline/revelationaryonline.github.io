@@ -1,0 +1,43 @@
+{
+  "number": "H5406",
+  "language": "hebrew",
+  "transliteration": "nishtᵉvân",
+  "pronunciation": "nish-tev-awn'",
+  "definition": "an epistle",
+  "kjvTranslation": "letter.",
+  "hebrew": "נִשְׁתְּוָן",
+  "translations": {
+    "bg": "послание",
+    "cs": "epištola",
+    "da": "en epistel",
+    "de": "eine Epistel",
+    "el": "μια επιστολή",
+    "es": "una epístola",
+    "et": "kiri",
+    "fi": "kirje",
+    "fr": "une épître",
+    "hu": "egy levél",
+    "id": "sebuah surat",
+    "it": "un'epistola",
+    "ja": "書簡",
+    "ko": "서신",
+    "lt": "laiškas",
+    "lv": "vēstule",
+    "nb": "en epistel",
+    "nl": "een epistel",
+    "pl": "list",
+    "pt": "uma epístola",
+    "ro": "o epistolă",
+    "ru": "послание",
+    "sk": "list",
+    "sl": "pismo",
+    "sv": "en epistel",
+    "tr": "bir mektup",
+    "uk": "послання",
+    "zh": "书信"
+  },
+  "verses": [
+    "ezra 4:7:15",
+    "ezra 7:11:2"
+  ]
+}

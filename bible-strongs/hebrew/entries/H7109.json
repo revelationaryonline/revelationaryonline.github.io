@@ -1,0 +1,42 @@
+{
+  "number": "H7109",
+  "language": "hebrew",
+  "transliteration": "qᵉtsaph",
+  "pronunciation": "kets-af'",
+  "definition": "rage",
+  "kjvTranslation": "wrath.",
+  "hebrew": "קְצַף",
+  "translations": {
+    "bg": "ярост",
+    "cs": "zuřivost",
+    "da": "raseri",
+    "de": "wut",
+    "el": "οργή",
+    "es": "rabia",
+    "et": "raev",
+    "fi": "raivo",
+    "fr": "rage",
+    "hu": "düh",
+    "id": "kemarahan",
+    "it": "rabbia",
+    "ja": "憤怒",
+    "ko": "분노",
+    "lt": "įniršis",
+    "lv": "dusmas",
+    "nb": "raseri",
+    "nl": "woede",
+    "pl": "wściekłość",
+    "pt": "raiva",
+    "ro": "furie",
+    "ru": "ярость",
+    "sk": "hnev",
+    "sl": "bes",
+    "sv": "raseri",
+    "tr": "öfke",
+    "uk": "лють",
+    "zh": "愤怒"
+  },
+  "verses": [
+    "ezra 7:23:14"
+  ]
+}

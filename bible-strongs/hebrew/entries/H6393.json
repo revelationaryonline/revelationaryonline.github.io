@@ -1,0 +1,42 @@
+{
+  "number": "H6393",
+  "language": "hebrew",
+  "transliteration": "pᵉlâdâh",
+  "pronunciation": "pel-aw-daw'",
+  "definition": "a cleaver, i.e. iron armature (of a chariot)",
+  "kjvTranslation": "torch.",
+  "hebrew": "פְּלָדָה",
+  "translations": {
+    "bg": "секач, т.е. желязна арматура (на колесница)",
+    "cs": "sekáček, tj. železná armatura (vozu)",
+    "da": "en kløft, dvs. jernarmatur (til en vogn)",
+    "de": "ein Hackbeil, d.h. eine eiserne Armatur (eines Wagens)",
+    "el": "ένας μπαλτάς, δηλαδή σιδερένιος οπλισμός (ενός άρματος)",
+    "es": "una cuchilla, es decir, una armadura de hierro (de un carro)",
+    "et": "kirves, s.t. rauast armatuur (vankri)",
+    "fi": "kirves, eli (vaunujen) rauta-ankkuri",
+    "fr": "un couperet, c'est-à-dire l'armature en fer (d'un char)",
+    "hu": "egy bárd, azaz egy (szekér) vas armatúra",
+    "id": "golok, yaitu angker besi (dari kereta perang)",
+    "it": "una mannaia, ovvero un'armatura di ferro (di un carro)",
+    "ja": "薙刀",
+    "ko": "칼, 즉 (전차의) 철제 뼈대",
+    "lt": "kirstuvas, t. y. geležinė armatūra (vežimo)",
+    "lv": "cirvja, t.i., dzelzs armatūra (ratiņiem)",
+    "nb": "en klyve, dvs. jernarmatur (til en vogn)",
+    "nl": "een hakmes, d.w.z. ijzeren armatuur (van een wagen)",
+    "pl": "tasak, tj. żelazna armatura (rydwanu)",
+    "pt": "um cutelo, ou seja, uma armadura de ferro (de uma carruagem)",
+    "ro": "un clește, adică o armătură de fier (a unui car)",
+    "ru": "тесак, т.е. железная арматура (колесницы)",
+    "sk": "sekáč, t. j. železná armatúra (voza)",
+    "sl": "sekač, tj. železna armatura (voza)",
+    "sv": "en klyva, dvs. järnarmatur (för en vagn)",
+    "tr": "bir balta, yani demir armatür (bir savaş arabasının)",
+    "uk": "сокира, тобто залізна арматура (колісниці)",
+    "zh": "铁桁"
+  },
+  "verses": [
+    "nahum 2:4:7"
+  ]
+}

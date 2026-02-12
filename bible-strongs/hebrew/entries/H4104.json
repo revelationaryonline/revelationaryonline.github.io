@@ -1,0 +1,42 @@
+{
+  "number": "H4104",
+  "language": "hebrew",
+  "transliteration": "Mᵉhûwmân",
+  "pronunciation": "meh-hoo-mawn'",
+  "definition": "Mehuman, a eunuch of Xerxes",
+  "kjvTranslation": "Mehuman.",
+  "hebrew": "מְהוּמָן",
+  "translations": {
+    "bg": "Мехуман, евнух на Ксеркс",
+    "cs": "Mehuman, Xerxův eunuch",
+    "da": "Mehuman, en af Xerxes' eunukker",
+    "de": "Mehuman, ein Eunuch von Xerxes",
+    "el": "Mehuman, ευνούχος του Ξέρξη",
+    "es": "Mehuman, un eunuco de Jerjes",
+    "et": "Mehuman, Kserxese eunuhh",
+    "fi": "Mehuman, Kserkseksen eunukki",
+    "fr": "Mehuman, eunuque de Xerxès",
+    "hu": "Mehuman, Xerxész eunuchja",
+    "id": "Mehuman, seorang kasim dari Xerxes",
+    "it": "Mehuman, eunuco di Serse",
+    "ja": "クセルクセスの宦官メフマン",
+    "ko": "크세르크세스의 환관, 메휴먼",
+    "lt": "Mehumanas, Kserkso eunuchas",
+    "lv": "Mehumans, Kserksa eunukss",
+    "nb": "Mehuman, en evnukk av Xerxes",
+    "nl": "Mehuman, een eunuch van Xerxes",
+    "pl": "Mehuman, eunuch Kserksesa",
+    "pt": "Mehuman, um eunuco de Xerxes",
+    "ro": "Mehuman, un eunuc al lui Xerxes",
+    "ru": "Мехуман, евнух Ксеркса",
+    "sk": "Mehuman, Xerxov eunuch",
+    "sl": "Mehuman, Kserksov evnuh",
+    "sv": "Mehuman, en eunuck hos Xerxes",
+    "tr": "Mehuman, Xerxes'in haremağası",
+    "uk": "Мегуман, євнух Ксеркса",
+    "zh": "薛西斯的宦官穆胡曼"
+  },
+  "verses": [
+    "esther 1:10:7"
+  ]
+}

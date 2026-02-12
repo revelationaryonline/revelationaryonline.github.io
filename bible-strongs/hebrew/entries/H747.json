@@ -1,0 +1,42 @@
+{
+  "number": "H747",
+  "language": "hebrew",
+  "transliteration": "ʼĂrîyçay",
+  "pronunciation": "ar-ee-sah'-ee",
+  "definition": "Arisai, a son of Haman",
+  "kjvTranslation": "Arisai.",
+  "translations": {
+    "bg": "Арисай, син на Аман",
+    "cs": "Arisai, syn Hamanův",
+    "da": "Arisai, en søn af Haman",
+    "de": "Arisai, ein Sohn von Haman",
+    "el": "Αρισάι, γιος του Αμάν",
+    "es": "Arisai, hijo de Amán",
+    "et": "Arisai, Haamani poeg",
+    "fi": "Arisai, Haamanin poika",
+    "fr": "Arisai, fils d'Haman",
+    "hu": "Arisai, Hámán fia",
+    "id": "Arisai, seorang putra Haman",
+    "it": "Arisai, figlio di Haman",
+    "ja": "ハマーンの息子アリサイ",
+    "ko": "하만의 아들 아리사이",
+    "lt": "Arisajus, Hamano sūnus",
+    "lv": "Arisajs, Hamana dēls",
+    "nb": "Arisai, en sønn av Haman",
+    "nl": "Arisai, een zoon van Haman",
+    "pl": "Arisaj, syn Hamana",
+    "pt": "Arisai, filho de Hamã",
+    "ro": "Arisai, un fiu al lui Haman",
+    "ru": "Арисаи, сын Хамана",
+    "sk": "Arisai, Hamanov syn",
+    "sl": "Arisai, Hamanov sin",
+    "sv": "Arisai, en son till Haman",
+    "tr": "Arisai, Haman'ın oğlu",
+    "uk": "Арісай, син Амана",
+    "zh": "哈曼的儿子亚里赛"
+  },
+  "hebrew": "אֲרִיסַי",
+  "verses": [
+    "esther 9:9:3"
+  ]
+}

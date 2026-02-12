@@ -1,0 +1,43 @@
+{
+  "number": "H8474",
+  "language": "hebrew",
+  "transliteration": "tachârâh",
+  "pronunciation": "takh-aw-raw'",
+  "definition": "to vie with a rival",
+  "kjvTranslation": "close, contend.",
+  "hebrew": "תַּחָרָה",
+  "translations": {
+    "bg": "да се съревновава със съперник",
+    "cs": "soupeřit s konkurentem",
+    "da": "at konkurrere med en rival",
+    "de": "mit einem Rivalen zu konkurrieren",
+    "el": "να ανταγωνιστείς έναν αντίπαλο",
+    "es": "competir con un rival",
+    "et": "konkureerida rivaaliga",
+    "fi": "kilpailemaan kilpailijan kanssa",
+    "fr": "rivaliser avec un rival",
+    "hu": "versenyezni egy riválissal",
+    "id": "untuk bersaing dengan saingan",
+    "it": "competere con un rivale",
+    "ja": "ライバルと争う",
+    "ko": "라이벌과 경쟁하기 위해",
+    "lt": "varžytis su varžovu",
+    "lv": "sacensties ar sāncensi",
+    "nb": "å konkurrere med en rival",
+    "nl": "wedijveren met een rivaal",
+    "pl": "rywalizować z rywalem",
+    "pt": "competir com um rival",
+    "ro": "a concura cu un rival",
+    "ru": "соперничать с конкурентом",
+    "sk": "súperiť so súperom",
+    "sl": "tekmovati s tekmecem",
+    "sv": "att tävla med en rival",
+    "tr": "bir rakiple yarışmak",
+    "uk": "змагатися з конкурентами",
+    "zh": "一争高下"
+  },
+  "verses": [
+    "jeremiah 12:5:6",
+    "jeremiah 22:15:3"
+  ]
+}

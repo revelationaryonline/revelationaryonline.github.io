@@ -1,0 +1,42 @@
+{
+  "number": "H8122",
+  "language": "hebrew",
+  "transliteration": "shemesh",
+  "pronunciation": "sheh'-mesh",
+  "definition": "the sun",
+  "kjvTranslation": "sun.",
+  "hebrew": "שֶׁמֶשׁ",
+  "translations": {
+    "bg": "слънцето",
+    "cs": "slunce",
+    "da": "solen",
+    "de": "die Sonne",
+    "el": "ο ήλιος",
+    "es": "el sol",
+    "et": "päike",
+    "fi": "aurinko",
+    "fr": "le soleil",
+    "hu": "a nap",
+    "id": "matahari",
+    "it": "il sole",
+    "ja": "太陽",
+    "ko": "태양",
+    "lt": "saulė",
+    "lv": "saule",
+    "nb": "solen",
+    "nl": "de zon",
+    "pl": "słońce",
+    "pt": "o sol",
+    "ro": "soarele",
+    "ru": "солнце",
+    "sk": "slnko",
+    "sl": "sonce",
+    "sv": "solen",
+    "tr": "güneş",
+    "uk": "сонце",
+    "zh": "红轮"
+  },
+  "verses": [
+    "daniel 6:15:15"
+  ]
+}

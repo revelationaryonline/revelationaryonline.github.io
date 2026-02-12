@@ -1,0 +1,42 @@
+{
+  "number": "H2927",
+  "language": "hebrew",
+  "transliteration": "ṭᵉlal",
+  "pronunciation": "tel-al'",
+  "definition": "to cover with shade",
+  "kjvTranslation": "have a shadow.",
+  "translations": {
+    "bg": "да се покрие със сянка",
+    "cs": "zakrýt stínem",
+    "da": "at dække med skygge",
+    "de": "mit Schatten zu bedecken",
+    "el": "καλύπτω με σκιά",
+    "es": "cubrir con sombra",
+    "et": "varjuga katta",
+    "fi": "peittää varjolla",
+    "fr": "couvrir d'ombre",
+    "hu": "árnyékkal takarni",
+    "id": "untuk menutupi dengan naungan",
+    "it": "coprire con l'ombra",
+    "ja": "日陰を覆う",
+    "ko": "그늘로 덮으려면",
+    "lt": "uždengti šešėliu",
+    "lv": "aizsegt ar ēnu",
+    "nb": "å dekke med skygge",
+    "nl": "bedekken met schaduw",
+    "pl": "przykrywać cieniem",
+    "pt": "cobrir com sombra",
+    "ro": "a acoperi cu umbră",
+    "ru": "накрывать тенью",
+    "sk": "zakryť tieňom",
+    "sl": "pokrivati s senco",
+    "sv": "att täcka med skugga",
+    "tr": "gölge ile örtmek",
+    "uk": "накрити тінню",
+    "zh": "荫蔽"
+  },
+  "hebrew": "טְלַל",
+  "verses": [
+    "daniel 4:9:8"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7289",
+  "language": "hebrew",
+  "transliteration": "râdîyd",
+  "pronunciation": "raw-deed'",
+  "definition": "a veil (as expanded)",
+  "kjvTranslation": "vail, veil.",
+  "hebrew": "רָדִיד",
+  "translations": {
+    "bg": "воал (като разширен)",
+    "cs": "závoj (rozšířený)",
+    "da": "et slør (som udvidet)",
+    "de": "ein Schleier (wie erweitert)",
+    "el": "ένα πέπλο (όπως επεκτάθηκε)",
+    "es": "un velo (como expandido)",
+    "et": "loor (laiendatud kujul)",
+    "fi": "huntu (laajennettuna)",
+    "fr": "un voile (comme élargi)",
+    "hu": "fátyol (kiterjesztve)",
+    "id": "kerudung (seperti yang diperluas)",
+    "it": "un velo (come espanso)",
+    "ja": "エキスパンド",
+    "ko": "베일(확장 시)",
+    "lt": "šydas (kaip išplėstinis)",
+    "lv": "plīvurs (kā paplašināts)",
+    "nb": "et slør (som utvidet)",
+    "nl": "een sluier (zoals uitgebreid)",
+    "pl": "zasłona (jako rozszerzona)",
+    "pt": "um véu (como expandido)",
+    "ro": "un văl (ca extins)",
+    "ru": "вуаль (в расширенном виде)",
+    "sk": "závoj (ako rozšírený)",
+    "sl": "tančica (kot razširjena)",
+    "sv": "en slöja (som utökad)",
+    "tr": "bir örtü (genişletilmiş olarak)",
+    "uk": "фата (у розгорнутому вигляді)",
+    "zh": "纱"
+  },
+  "verses": [
+    "solomon 5:7:8",
+    "isaiah 3:23:3"
+  ]
+}

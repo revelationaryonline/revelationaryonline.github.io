@@ -1,0 +1,43 @@
+{
+  "number": "H6281",
+  "language": "hebrew",
+  "transliteration": "ʻEther",
+  "pronunciation": "eh'ther",
+  "definition": "Ether, a place in Palestine",
+  "kjvTranslation": "Ether.",
+  "hebrew": "עֶתֶר",
+  "translations": {
+    "bg": "Ether, място в Палестина",
+    "cs": "Éter, místo v Palestině",
+    "da": "Ether, et sted i Palæstina",
+    "de": "Ether, ein Ort in Palästina",
+    "el": "Ether, ένας τόπος στην Παλαιστίνη",
+    "es": "Éter, un lugar de Palestina",
+    "et": "Ether, koht Palestiinas",
+    "fi": "Ether, paikka Palestiinassa",
+    "fr": "Ether, un lieu en Palestine",
+    "hu": "Ether, egy hely Palesztinában",
+    "id": "Eter, sebuah tempat di Palestina",
+    "it": "Ether, un luogo in Palestina",
+    "ja": "エーテル（パレスチナの地名",
+    "ko": "에테르, 팔레스타인의 한 장소",
+    "lt": "Eteris, vietovė Palestinoje",
+    "lv": "Ēters, vieta Palestīnā",
+    "nb": "Ether, et sted i Palestina",
+    "nl": "Ether, een plaats in Palestina",
+    "pl": "Ether, miejsce w Palestynie",
+    "pt": "Éter, um lugar na Palestina",
+    "ro": "Ether, un loc în Palestina",
+    "ru": "Эфир, место в Палестине",
+    "sk": "Éter, miesto v Palestíne",
+    "sl": "Ether, kraj v Palestini",
+    "sv": "Ether, en plats i Palestina",
+    "tr": "Eter, Filistin'de bir yer",
+    "uk": "Ефір, місце в Палестині",
+    "zh": "以太"
+  },
+  "verses": [
+    "joshua 15:42:1",
+    "joshua 19:7:2"
+  ]
+}

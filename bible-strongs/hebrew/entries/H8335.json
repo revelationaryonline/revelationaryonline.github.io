@@ -1,0 +1,43 @@
+{
+  "number": "H8335",
+  "language": "hebrew",
+  "transliteration": "shârêth",
+  "pronunciation": "shaw-rayth'",
+  "definition": "service (in the Temple)",
+  "kjvTranslation": "minister(-ry).",
+  "hebrew": "שָׁרֵת",
+  "translations": {
+    "bg": "служба (в Храма)",
+    "cs": "bohoslužba (v Chrámu)",
+    "da": "tjeneste (i templet)",
+    "de": "dienst (im Tempel)",
+    "el": "υπηρεσία (στο Ναό)",
+    "es": "servicio (en el Templo)",
+    "et": "jumalateenistus (templis)",
+    "fi": "palvelu (temppelissä)",
+    "fr": "service (dans le Temple)",
+    "hu": "szolgálat (a templomban)",
+    "id": "layanan (di Bait Suci)",
+    "it": "servizio (nel Tempio)",
+    "ja": "奉仕",
+    "ko": "서비스(성전 내)",
+    "lt": "tarnystė (Šventykloje)",
+    "lv": "dievkalpojums (Templī)",
+    "nb": "gudstjeneste (i tempelet)",
+    "nl": "dienst (in de Tempel)",
+    "pl": "usługa (w Świątyni)",
+    "pt": "serviço (no Templo)",
+    "ro": "serviciu (în Templu)",
+    "ru": "служба (в Храме)",
+    "sk": "služba (v chráme)",
+    "sl": "bogoslužje (v templju)",
+    "sv": "gudstjänst (i templet)",
+    "tr": "hizmet (Tapınakta)",
+    "uk": "служба (у храмі)",
+    "zh": "礼拜"
+  },
+  "verses": [
+    "numbers 4:12:4",
+    "secondChronicles 24:14:13"
+  ]
+}

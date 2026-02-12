@@ -1,0 +1,42 @@
+{
+  "number": "H8455",
+  "language": "hebrew",
+  "transliteration": "tôwthâch",
+  "pronunciation": "to-thawkh'",
+  "definition": "a club",
+  "kjvTranslation": "darts.",
+  "hebrew": "תּוֹתָח",
+  "translations": {
+    "bg": "клуб",
+    "cs": "klub",
+    "da": "en klub",
+    "de": "ein Verein",
+    "el": "ένα κλαμπ",
+    "es": "un club",
+    "et": "klubi",
+    "fi": "klubi",
+    "fr": "un club",
+    "hu": "egy klub",
+    "id": "sebuah klub",
+    "it": "un club",
+    "ja": "クラブ",
+    "ko": "클럽",
+    "lt": "klubas",
+    "lv": "klubs",
+    "nb": "en klubb",
+    "nl": "een club",
+    "pl": "klub",
+    "pt": "um clube",
+    "ro": "un club",
+    "ru": "клуб",
+    "sk": "klub",
+    "sl": "klub",
+    "sv": "en klubb",
+    "tr": "bir kulüp",
+    "uk": "клуб",
+    "zh": "俱乐部"
+  },
+  "verses": [
+    "job 41:21:2"
+  ]
+}

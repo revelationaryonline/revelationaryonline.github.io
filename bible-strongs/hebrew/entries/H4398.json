@@ -1,0 +1,43 @@
+{
+  "number": "H4398",
+  "language": "hebrew",
+  "transliteration": "malʼak",
+  "pronunciation": "mal-ak'",
+  "definition": "an angel",
+  "kjvTranslation": "angel.",
+  "hebrew": "מַלְאַךְ",
+  "translations": {
+    "bg": "ангел",
+    "cs": "anděl",
+    "da": "en engel",
+    "de": "ein Engel",
+    "el": "ένας άγγελος",
+    "es": "un ángel",
+    "et": "ingel",
+    "fi": "enkeli",
+    "fr": "un ange",
+    "hu": "egy angyal",
+    "id": "seorang malaikat",
+    "it": "un angelo",
+    "ja": "天使",
+    "ko": "천사",
+    "lt": "angelas",
+    "lv": "eņģelis",
+    "nb": "en engel",
+    "nl": "een engel",
+    "pl": "anioł",
+    "pt": "um anjo",
+    "ro": "un înger",
+    "ru": "ангел",
+    "sk": "anjel",
+    "sl": "angel",
+    "sv": "en ängel",
+    "tr": "bir melek",
+    "uk": "ангела",
+    "zh": "天使"
+  },
+  "verses": [
+    "daniel 3:28:12",
+    "daniel 6:23:2"
+  ]
+}

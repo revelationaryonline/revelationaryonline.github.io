@@ -1,0 +1,43 @@
+{
+  "number": "H7932",
+  "language": "hebrew",
+  "transliteration": "shᵉkan",
+  "pronunciation": "shek-an'",
+  "definition": "{to reside or permanently stay (literally or figuratively)}",
+  "kjvTranslation": "cause to dwell, have habitation.",
+  "hebrew": "שְׁכַן",
+  "translations": {
+    "bg": "{да пребивава или да остане за постоянно (в буквален или преносен смисъл)}",
+    "cs": "{bydlet nebo trvale pobývat (doslova nebo přeneseně)}",
+    "da": "{at bo eller opholde sig permanent (bogstaveligt eller i overført betydning)}",
+    "de": "(wörtlich oder bildlich) wohnen oder dauerhaft bleiben",
+    "el": "{να διαμένεις ή να μένεις μόνιμα (κυριολεκτικά ή μεταφορικά)}",
+    "es": "{residir o permanecer permanentemente (literal o figuradamente)}",
+    "et": "{asuda või püsivalt viibida (sõna otseses või ülekantud tähenduses)}",
+    "fi": "{asua tai jäädä pysyvästi (kirjaimellisesti tai kuvaannollisesti)",
+    "fr": "{résider ou rester en permanence (au sens propre ou figuré)}",
+    "hu": "{(szó szerint vagy átvitt értelemben) tartózkodni vagy tartósan ott maradni}",
+    "id": "{menetap atau tinggal secara permanen (secara harfiah atau kiasan)}",
+    "it": "{risiedere o soggiornare permanentemente (in senso letterale o figurato)",
+    "ja": "(文字通りの意味でも比喩的な意味でも)居住する、または永住する｝。",
+    "ko": "{거주 또는 영구적으로 머물다(문자 그대로 또는 비유적으로)}",
+    "lt": "{gyventi ar nuolat gyventi (tiesiogine ar perkeltine prasme)}",
+    "lv": "{dzīvot vai pastāvīgi uzturēties (tiešā vai pārnestā nozīmē)}",
+    "nb": "{å bo eller oppholde seg permanent (bokstavelig eller i overført betydning)}",
+    "nl": "{om te verblijven of permanent te verblijven (letterlijk of figuurlijk)}",
+    "pl": "{zamieszkiwać lub przebywać na stałe (dosłownie lub w przenośni)}",
+    "pt": "{residir ou permanecer permanentemente (literal ou figurativamente)}",
+    "ro": "{să locuiască sau să rămână permanent (la propriu sau la figurat)}",
+    "ru": "{проживать или постоянно находиться (в прямом или переносном смысле)}",
+    "sk": "{bývať alebo trvalo zostať (doslovne alebo prenesene)}",
+    "sl": "{prebivati ali trajno ostati (dobesedno ali v prenesenem pomenu)}",
+    "sv": "{att bo eller vistas permanent (bokstavligen eller bildligt talat)}",
+    "tr": "{ikamet etmek ya da kalıcı olarak kalmak (gerçek ya da mecazi anlamda)}",
+    "uk": "{проживати або постійно перебувати (в прямому чи переносному значенні)}",
+    "zh": "{居住或永久停留（字面或比喻）}。"
+  },
+  "verses": [
+    "ezra 6:12:2",
+    "daniel 4:18:12"
+  ]
+}

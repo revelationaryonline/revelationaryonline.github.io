@@ -1,0 +1,42 @@
+{
+  "number": "H8611",
+  "language": "hebrew",
+  "transliteration": "tôpheth",
+  "pronunciation": "to'-feth",
+  "definition": "a smiting, i.e. (figuratively) contempt",
+  "kjvTranslation": "tabret.",
+  "hebrew": "תֹּפֶת",
+  "translations": {
+    "bg": "поражение, т.е. (образно) презрение",
+    "cs": "pohlavek, tj. (přeneseně) pohrdání",
+    "da": "et slag, dvs. (i overført betydning) foragt",
+    "de": "eine Ohrfeige, d.h. (im übertragenen Sinne) Verachtung",
+    "el": "ένα χτύπημα, δηλαδή (μεταφορικά) περιφρόνηση",
+    "es": "una bofetada, es decir (en sentido figurado) un desprecio",
+    "et": "löömine, st (piltlikult) põlgamine",
+    "fi": "lyönti, eli (kuvaannollisesti) halveksunta",
+    "fr": "un coup, c'est-à-dire (au sens figuré) le mépris",
+    "hu": "verés, azaz (átvitt értelemben) megvetés",
+    "id": "sebuah pukulan, yaitu (secara kiasan) penghinaan",
+    "it": "un colpo, cioè un disprezzo (in senso figurato)",
+    "ja": "ぶちのめし",
+    "ko": "때리는 행위, 즉 (비유적으로) 경멸하는 행위",
+    "lt": "smūgis, t. y. (perkeltine prasme) panieka",
+    "lv": "sitiens, t.i., (pārnestā nozīmē) nicinājums",
+    "nb": "et slag, dvs. (i overført betydning) forakt",
+    "nl": "een slag, d.w.z. (figuurlijk) minachting",
+    "pl": "uderzenie, tj. (w przenośni) pogarda",
+    "pt": "um golpe, isto é, (figurativamente) um desprezo",
+    "ro": "o lovitură, adică (la figurat) dispreț",
+    "ru": "поражение, т.е. (образно) презрение",
+    "sk": "bitie, t. j. (obrazne) pohŕdanie",
+    "sl": "udarec, tj. (v prenesenem pomenu) zaničevanje",
+    "sv": "ett slag, dvs. (bildligt talat) förakt",
+    "tr": "bir vuruş, yani (mecazi olarak) aşağılama",
+    "uk": "побиття, тобто (образно) презирство",
+    "zh": "蔑视"
+  },
+  "verses": [
+    "job 17:6:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H15",
+  "language": "hebrew",
+  "transliteration": "ʼâbeh",
+  "pronunciation": "aw-beh'",
+  "definition": "longing",
+  "kjvTranslation": "desire.",
+  "translations": {
+    "bg": "копнеж",
+    "cs": "touha",
+    "da": "længsel",
+    "de": "sehnsucht",
+    "el": "λαχτάρα",
+    "es": "anhelo",
+    "et": "igatsus",
+    "fi": "kaipuu",
+    "fr": "désir",
+    "hu": "vágyakozás",
+    "id": "kerinduan",
+    "it": "desiderio",
+    "ja": "あこがれ",
+    "ko": "갈망",
+    "lt": "ilgesys",
+    "lv": "ilgas",
+    "nb": "lengsel",
+    "nl": "verlangen",
+    "pl": "tęsknota",
+    "pt": "desejo",
+    "ro": "dor",
+    "ru": "тоска",
+    "sk": "túžba",
+    "sl": "hrepenenje",
+    "sv": "längtan",
+    "tr": "özlem",
+    "uk": "туга",
+    "zh": "憧憬"
+  },
+  "hebrew": "אָבֶה",
+  "verses": [
+    "job 34:36:0"
+  ]
+}

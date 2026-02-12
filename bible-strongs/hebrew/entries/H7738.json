@@ -1,0 +1,42 @@
+{
+  "number": "H7738",
+  "language": "hebrew",
+  "transliteration": "shâvâh",
+  "pronunciation": "shaw-vaw'",
+  "definition": "to destroy",
+  "kjvTranslation": "[idiom] substance (from the margin).",
+  "hebrew": "שָׁוָה",
+  "translations": {
+    "bg": "да унищожи",
+    "cs": "zničit",
+    "da": "at ødelægge",
+    "de": "zu zerstören",
+    "el": "να καταστρέψει",
+    "es": "destruir",
+    "et": "hävitada",
+    "fi": "tuhota",
+    "fr": "détruire",
+    "hu": "elpusztítani",
+    "id": "untuk menghancurkan",
+    "it": "distruggere",
+    "ja": "破壊する",
+    "ko": "파괴",
+    "lt": "sunaikinti",
+    "lv": "iznīcināt",
+    "nb": "å ødelegge",
+    "nl": "vernietigen",
+    "pl": "zniszczyć",
+    "pt": "para destruir",
+    "ro": "să distrugă",
+    "ru": "уничтожить",
+    "sk": "zničiť",
+    "sl": "uničiti",
+    "sv": "att förstöra",
+    "tr": "yok etmek için",
+    "uk": "знищити",
+    "zh": "毁灭"
+  },
+  "verses": [
+    "job 30:22:5"
+  ]
+}

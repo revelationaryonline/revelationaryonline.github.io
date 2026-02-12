@@ -1,0 +1,42 @@
+{
+  "number": "H4547",
+  "language": "hebrew",
+  "transliteration": "maçlûwl",
+  "pronunciation": "mas-lool'",
+  "definition": "a thoroughfare (as turnpiked)",
+  "kjvTranslation": "highway.",
+  "hebrew": "מַסְלוּל",
+  "verses": [
+    "isaiah 35:8:2"
+  ],
+  "translations": {
+    "bg": "пътна артерия (с пътни платна)",
+    "cs": "dopravní tepny (s odbočkami)",
+    "da": "en gennemfartsvej (som turnpiked)",
+    "de": "eine Durchgangsstraße (als Schlagbaum)",
+    "el": "μια οδική αρτηρία (όπως η turnpiked)",
+    "es": "una vía pública (como turnpiked)",
+    "et": "läbipääsutee (nagu pööratud)",
+    "fi": "läpikulkutie (käännytetty)",
+    "fr": "une voie de circulation (comme un virage)",
+    "hu": "átjáró (mint kanyarodóút)",
+    "id": "jalan raya (seperti jalan berbelok)",
+    "it": "un'arteria stradale (come una strada a scorrimento veloce)",
+    "ja": "幹線道路",
+    "ko": "도로(턴파이크)",
+    "lt": "magistralinis kelias (su kelkraščiais)",
+    "lv": "maģistrāle (ar pagrieziena joslu)",
+    "nb": "en gjennomfartsvei (som turnpiked)",
+    "nl": "een doorgaande weg (zoals geplaveid)",
+    "pl": "droga przelotowa (jako droga szybkiego ruchu)",
+    "pt": "uma via de comunicação (como uma via de acesso)",
+    "ro": "o stradă (ca turnpiked)",
+    "ru": "проезжая часть (с поворотом)",
+    "sk": "dopravná komunikácia (ako odbočka)",
+    "sl": "prometna cesta (z voziščem)",
+    "sv": "en genomfartsled (som turnpiked)",
+    "tr": "bir cadde (turnikeli olarak)",
+    "uk": "магістраль (з кільцевим рухом)",
+    "zh": "衢"
+  }
+}

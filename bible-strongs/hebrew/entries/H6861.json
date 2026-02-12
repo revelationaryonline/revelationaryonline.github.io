@@ -1,0 +1,42 @@
+{
+  "number": "H6861",
+  "language": "hebrew",
+  "transliteration": "tsiqlôn",
+  "pronunciation": "tsik-lone'",
+  "definition": "a sack (as tied at the mouth)",
+  "kjvTranslation": "husk.",
+  "hebrew": "צִקְלֹן",
+  "translations": {
+    "bg": "чувал (завързан за устата)",
+    "cs": "pytel (zavázaný u úst)",
+    "da": "en sæk (som bindes ved munden)",
+    "de": "einen Sack (wie um den Mund gebunden)",
+    "el": "ένας σάκος (δεμένος στο στόμα)",
+    "es": "un saco (como atado a la boca)",
+    "et": "kott (nagu suust kinni seotud)",
+    "fi": "säkki (suuhun sidottuna)",
+    "fr": "un sac (attaché à la bouche)",
+    "hu": "zsák (a szájnál megkötött zsák)",
+    "id": "sebuah karung (seperti yang diikat di mulut)",
+    "it": "un sacco (legato alla bocca)",
+    "ja": "口袋",
+    "ko": "자루(입에 묶은 상태)",
+    "lt": "maišas (užrištas ant burnos)",
+    "lv": "maiss (kā aizsprādzēts pie mutes)",
+    "nb": "en sekk (som bundet ved munnen)",
+    "nl": "een zak (zoals vastgebonden bij de mond)",
+    "pl": "worek (zawiązany na ustach)",
+    "pt": "um saco (atado à boca)",
+    "ro": "un sac (legat la gură)",
+    "ru": "мешок (завязанный у рта)",
+    "sk": "vrece (ako zviazané pri ústach)",
+    "sl": "vreča (zavezana na ustju)",
+    "sv": "en säck (som knyts vid munnen)",
+    "tr": "bir çuval (ağızdan bağlı olarak)",
+    "uk": "мішок (зав'язаний біля рота)",
+    "zh": "袋"
+  },
+  "verses": [
+    "secondKings 4:42:13"
+  ]
+}

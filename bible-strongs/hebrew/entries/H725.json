@@ -1,0 +1,42 @@
+{
+  "number": "H725",
+  "language": "hebrew",
+  "transliteration": "ʼĂrûwmâh",
+  "pronunciation": "ar-oo-maw'",
+  "definition": "Arumah, a place in Palestine",
+  "kjvTranslation": "Arumah.",
+  "translations": {
+    "bg": "Arumah, място в Палестина",
+    "cs": "Arumah, místo v Palestině",
+    "da": "Arumah, et sted i Palæstina",
+    "de": "Arumah, ein Ort in Palästina",
+    "el": "Arumah, ένας τόπος στην Παλαιστίνη",
+    "es": "Arumah, un lugar en Palestina",
+    "et": "Arumah, koht Palestiinas",
+    "fi": "Arumah, paikka Palestiinassa",
+    "fr": "Arumah, localité de Palestine",
+    "hu": "Arumah, egy hely Palesztinában",
+    "id": "Arumah, sebuah tempat di Palestina",
+    "it": "Arumah, località della Palestina",
+    "ja": "パレスチナの地名アルマ",
+    "ko": "팔레스타인의 아루마, 팔레스타인의 한 장소",
+    "lt": "Arumah, vietovė Palestinoje",
+    "lv": "Arumah, vieta Palestīnā",
+    "nb": "Arumah, et sted i Palestina",
+    "nl": "Arumah, een plaats in Palestina",
+    "pl": "Arumah, miejsce w Palestynie",
+    "pt": "Arumah, um lugar na Palestina",
+    "ro": "Arumah, un loc în Palestina",
+    "ru": "Арума, место в Палестине",
+    "sk": "Arumah, miesto v Palestíne",
+    "sl": "Arumah, kraj v Palestini",
+    "sv": "Arumah, en plats i Palestina",
+    "tr": "Arumah, Filistin'de bir yer",
+    "uk": "Арума, місце в Палестині",
+    "zh": "阿鲁迈"
+  },
+  "hebrew": "אֲרוּמָה",
+  "verses": [
+    "judges 9:41:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8119",
+  "language": "hebrew",
+  "transliteration": "Shimrâth",
+  "pronunciation": "shim-rawth'",
+  "definition": "Shimrath, an Israelite",
+  "kjvTranslation": "Shimrath.",
+  "hebrew": "שִׁמְרָת",
+  "translations": {
+    "bg": "Шимрат, израилтянин",
+    "cs": "Šimrat, Izraelita",
+    "da": "Shimrath, en israelit",
+    "de": "Schimrath, ein Israelit",
+    "el": "Σιμράθ, Ισραηλίτης",
+    "es": "Shimrath, israelita",
+    "et": "Shimrath, iisraellane",
+    "fi": "Shimrath, israelilainen",
+    "fr": "Shimrath, Israélite",
+    "hu": "Simrath, izraelita",
+    "id": "Simson, seorang Israel",
+    "it": "Shimrath, un israelita",
+    "ja": "イスラエル人シムラス",
+    "ko": "이스라엘인, 심라트",
+    "lt": "Šimratas, izraelitas",
+    "lv": "Šimrats, izraēlietis",
+    "nb": "Shimrath, en israelitt",
+    "nl": "Shimrath, een Israëliet",
+    "pl": "Szimrath, Izraelita",
+    "pt": "Shimrath, israelita",
+    "ro": "Shimrath, un israelit",
+    "ru": "Шимрат, израильтянин",
+    "sk": "Šimrat, Izraelita",
+    "sl": "Šimrat, Izraelec",
+    "sv": "Shimrath, en israelit",
+    "tr": "Shimrath, bir İsrailli",
+    "uk": "Шимрат, ізраїльтянин",
+    "zh": "希姆拉特，以色列人"
+  },
+  "verses": [
+    "firstChronicles 8:21:2"
+  ]
+}

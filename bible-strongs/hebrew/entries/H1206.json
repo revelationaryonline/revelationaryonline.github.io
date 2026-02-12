@@ -1,0 +1,42 @@
+{
+  "number": "H1206",
+  "language": "hebrew",
+  "transliteration": "bôts",
+  "pronunciation": "botse",
+  "definition": "mud (as whitish clay)",
+  "kjvTranslation": "mire.",
+  "translations": {
+    "bg": "кал (като белезникава глина)",
+    "cs": "bahno (jako bělavý jíl)",
+    "da": "mudder (som hvidligt ler)",
+    "de": "schlamm (als weißlicher Ton)",
+    "el": "λάσπη (ως υπόλευκος πηλός)",
+    "es": "barro (como arcilla blanquecina)",
+    "et": "muda (valkjas savi)",
+    "fi": "muta (valkeana savena)",
+    "fr": "boue (argile blanchâtre)",
+    "hu": "iszap (fehéres agyagként)",
+    "id": "lumpur (seperti tanah liat keputihan)",
+    "it": "fango (come argilla biancastra)",
+    "ja": "泥",
+    "ko": "진흙(희끄무레한 점토)",
+    "lt": "purvas (kaip balkšvas molis)",
+    "lv": "dubļi (kā bālgans māls)",
+    "nb": "gjørme (som hvitaktig leire)",
+    "nl": "modder (als witachtige klei)",
+    "pl": "błoto (jako biaława glina)",
+    "pt": "lama (como argila esbranquiçada)",
+    "ro": "noroi (ca argilă albicioasă)",
+    "ru": "грязь (в виде беловатой глины)",
+    "sk": "bahno (ako belavý íl)",
+    "sl": "blato (kot belkasta glina)",
+    "sv": "lera (som vitaktig lera)",
+    "tr": "çamur (beyazımsı kil olarak)",
+    "uk": "грязь (у вигляді білуватої глини)",
+    "zh": "淤泥"
+  },
+  "hebrew": "בֹץ",
+  "verses": [
+    "jeremiah 38:22:21"
+  ]
+}

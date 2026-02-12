@@ -1,0 +1,43 @@
+{
+  "number": "H4329",
+  "language": "hebrew",
+  "transliteration": "mêyçâk",
+  "pronunciation": "may-sawk'",
+  "definition": "a portico (as covered)",
+  "kjvTranslation": "covert.",
+  "hebrew": "מֵיסָךְ",
+  "translations": {
+    "bg": "портик (като покрит)",
+    "cs": "portikus (jako krytý)",
+    "da": "en søjlegang (som overdækket)",
+    "de": "einen Säulengang (wie überdacht)",
+    "el": "μια στοά (όπως καλύπτεται)",
+    "es": "un pórtico (como cubierto)",
+    "et": "portikus (nagu kaetud)",
+    "fi": "portaikko (katettu)",
+    "fr": "un portique (comme couvert)",
+    "hu": "oszlopcsarnok (fedett)",
+    "id": "serambi (seperti yang tercakup)",
+    "it": "un portico (come copertura)",
+    "ja": "ポーティコ",
+    "ko": "포티코(보험 적용)",
+    "lt": "portikas (dengtas)",
+    "lv": "portiks (kā segts)",
+    "nb": "en portiko (som overbygd)",
+    "nl": "een portiek (als overdekt)",
+    "pl": "portyk (jako zadaszony)",
+    "pt": "um pórtico (como coberto)",
+    "ro": "un portic (ca acoperit)",
+    "ru": "портик (как крытый)",
+    "sk": "portikus (ako krytý)",
+    "sl": "portik (kot pokrito)",
+    "sv": "en portik (som täckt)",
+    "tr": "bir revak (üstü kapalı olarak)",
+    "uk": "портик (як покрито)",
+    "zh": "廊庑"
+  },
+  "verses": [
+    "secondKings 16:18:1",
+    "secondKings 16:18:2"
+  ]
+}

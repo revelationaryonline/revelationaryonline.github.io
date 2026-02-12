@@ -1,0 +1,42 @@
+{
+  "number": "H2958",
+  "language": "hebrew",
+  "transliteration": "ṭᵉrôwm",
+  "pronunciation": "ter-ome'",
+  "definition": "not yet",
+  "kjvTranslation": "before.",
+  "translations": {
+    "bg": "все още не",
+    "cs": "zatím ne",
+    "da": "ikke endnu",
+    "de": "noch nicht",
+    "el": "όχι ακόμα",
+    "es": "todavía no",
+    "et": "veel mitte",
+    "fi": "ei vielä",
+    "fr": "pas encore",
+    "hu": "még nem",
+    "id": "belum",
+    "it": "non ancora",
+    "ja": "まだ",
+    "ko": "아직",
+    "lt": "dar ne",
+    "lv": "vēl nav",
+    "nb": "ikke ennå",
+    "nl": "nog niet",
+    "pl": "jeszcze nie",
+    "pt": "ainda não",
+    "ro": "nu încă",
+    "ru": "пока нет",
+    "sk": "zatiaľ nie",
+    "sl": "še ne",
+    "sv": "ännu inte",
+    "tr": "henüz değil",
+    "uk": "ще ні",
+    "zh": "尚未"
+  },
+  "hebrew": "טְרוֹם",
+  "verses": [
+    "ruth 3:14:6"
+  ]
+}

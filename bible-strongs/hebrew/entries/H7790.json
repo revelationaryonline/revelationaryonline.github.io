@@ -1,0 +1,42 @@
+{
+  "number": "H7790",
+  "language": "hebrew",
+  "transliteration": "shûwr",
+  "pronunciation": "shoor",
+  "definition": "a foe (as lying in wait)",
+  "kjvTranslation": "enemy.",
+  "hebrew": "שׁוּר",
+  "translations": {
+    "bg": "враг (в очакване)",
+    "cs": "nepřítel (jako číhající)",
+    "da": "en fjende (som ligger på lur)",
+    "de": "ein Feind (wie auf der Lauer liegend)",
+    "el": "ένας εχθρός (που παραμονεύει)",
+    "es": "un enemigo (al acecho)",
+    "et": "vaenlane (nagu varitsemine)",
+    "fi": "vihollinen (joka väijyy)",
+    "fr": "un ennemi (à l'affût)",
+    "hu": "ellenség (mint aki lesben áll)",
+    "id": "musuh (seperti berbaring menunggu)",
+    "it": "un nemico (in agguato)",
+    "ja": "待ち敵",
+    "ko": "적(대기 중인 상태)",
+    "lt": "priešas (kaip tykojantis)",
+    "lv": "ienaidnieks (kas gaida)",
+    "nb": "en fiende (som ligger på lur)",
+    "nl": "een vijand (die op de loer ligt)",
+    "pl": "wróg (czyhający w ukryciu)",
+    "pt": "um inimigo (como se estivesse à espreita)",
+    "ro": "un inamic (la pândă)",
+    "ru": "враг (как затаившийся)",
+    "sk": "nepriateľ (ako číhajúci)",
+    "sl": "sovražnik (ki čaka)",
+    "sv": "en fiende (som ligger på lur)",
+    "tr": "bir düşman (pusuya yatmış gibi)",
+    "uk": "ворог (як такий, що підстерігає)",
+    "zh": "寇"
+  },
+  "verses": [
+    "psalms 92:12:2"
+  ]
+}

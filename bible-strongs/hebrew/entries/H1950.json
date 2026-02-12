@@ -1,0 +1,42 @@
+{
+  "number": "H1950",
+  "language": "hebrew",
+  "transliteration": "Hôwmâm",
+  "pronunciation": "ho-mawm'",
+  "definition": "Homam, an Edomitish chieftain",
+  "kjvTranslation": "Homam. Compare H1967 (הֵימָם).",
+  "translations": {
+    "bg": "Хомам, едомитски вожд",
+    "cs": "Homam, edomitský náčelník",
+    "da": "Homam, en edomitisk høvding",
+    "de": "Homam, ein edomitischer Häuptling",
+    "el": "Homam, ένας αρχηγός των Εδομιτών",
+    "es": "Homam, un jefe edomita",
+    "et": "Homam, Edomiidi pealik",
+    "fi": "Homam, edomilainen päällikkö, -",
+    "fr": "Homam, chef édomite",
+    "hu": "Homam, egy edomita törzsfőnök",
+    "id": "Homam, seorang kepala suku Edom",
+    "it": "Homam, un capo edomita",
+    "ja": "ホーマム エドミテスの族長",
+    "ko": "호맘, 에돔족 족장",
+    "lt": "Homamas, edomitų vadas",
+    "lv": "Homams, edomītu vadonis",
+    "nb": "Homam, en edomittisk høvding",
+    "nl": "Homam, een Edomitisch stamhoofd",
+    "pl": "Homam, wódz Edomitów",
+    "pt": "Homam, um chefe edomita",
+    "ro": "Homam, o căpetenie edomită",
+    "ru": "Хомам, эдомитский вождь",
+    "sk": "Homam, edomitský náčelník",
+    "sl": "Homam, edomitski poglavar",
+    "sv": "Homam, en edomitisk hövding",
+    "tr": "Homam, bir Edomit reisi",
+    "uk": "Хомам, едомітський вождь",
+    "zh": "以东酋长霍马姆"
+  },
+  "hebrew": "הוֹמָם",
+  "verses": [
+    "firstChronicles 1:39:3"
+  ]
+}

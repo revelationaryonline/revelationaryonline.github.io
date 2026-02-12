@@ -1,0 +1,43 @@
+{
+  "number": "H2906",
+  "language": "hebrew",
+  "transliteration": "ṭûwr",
+  "pronunciation": "toor",
+  "definition": "a rock or hill",
+  "kjvTranslation": "mountain.",
+  "translations": {
+    "bg": "скала или хълм",
+    "cs": "skála nebo kopec",
+    "da": "en sten eller en bakke",
+    "de": "ein Felsen oder Hügel",
+    "el": "βράχος ή λόφος",
+    "es": "una roca o colina",
+    "et": "kivi või küngas",
+    "fi": "kallio tai kukkula",
+    "fr": "un rocher ou une colline",
+    "hu": "szikla vagy domb",
+    "id": "batu atau bukit",
+    "it": "una roccia o una collina",
+    "ja": "いわやま",
+    "ko": "바위 또는 언덕",
+    "lt": "uola arba kalva",
+    "lv": "klints vai kalns",
+    "nb": "en stein eller en høyde",
+    "nl": "een rots of heuvel",
+    "pl": "skała lub wzgórze",
+    "pt": "uma rocha ou colina",
+    "ro": "o stâncă sau un deal",
+    "ru": "скала или холм",
+    "sk": "skala alebo kopec",
+    "sl": "skala ali hrib",
+    "sv": "en klippa eller kulle",
+    "tr": "bir kaya veya tepe",
+    "uk": "скеля або пагорб",
+    "zh": "矸"
+  },
+  "hebrew": "טוּר",
+  "verses": [
+    "daniel 2:35:26",
+    "daniel 2:45:5"
+  ]
+}

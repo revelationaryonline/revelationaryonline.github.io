@@ -1,0 +1,43 @@
+{
+  "number": "H7285",
+  "language": "hebrew",
+  "transliteration": "regesh",
+  "pronunciation": "reh'-ghesh",
+  "definition": "a tumultuous crowd",
+  "kjvTranslation": "company, insurrection.",
+  "hebrew": "רֶגֶשׁ",
+  "translations": {
+    "bg": "бурна тълпа",
+    "cs": "bouřlivý dav",
+    "da": "en tumultarisk menneskemængde",
+    "de": "eine tobende Menge",
+    "el": "ένα ταραχώδες πλήθος",
+    "es": "una multitud tumultuosa",
+    "et": "tormiline rahvahulk",
+    "fi": "myrskyisä väkijoukko",
+    "fr": "une foule tumultueuse",
+    "hu": "egy tumultuózus tömeg",
+    "id": "kerumunan orang yang kacau",
+    "it": "una folla tumultuosa",
+    "ja": "けんけんがくがく",
+    "ko": "소란스러운 군중",
+    "lt": "triukšminga minia",
+    "lv": "vētrains pūlis",
+    "nb": "en tumultarisk folkemengde",
+    "nl": "een tumultueuze menigte",
+    "pl": "burzliwy tłum",
+    "pt": "uma multidão tumultuosa",
+    "ro": "o mulțime tumultoasă",
+    "ru": "бурная толпа",
+    "sk": "búrlivý dav",
+    "sl": "burna množica",
+    "sv": "en tumultartad folkmassa",
+    "tr": "çalkantılı bir kalabalık",
+    "uk": "галасливий натовп",
+    "zh": "人声鼎沸"
+  },
+  "verses": [
+    "psalms 55:15:7",
+    "psalms 64:3:3"
+  ]
+}

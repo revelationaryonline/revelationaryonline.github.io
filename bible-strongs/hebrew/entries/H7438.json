@@ -1,0 +1,42 @@
+{
+  "number": "H7438",
+  "language": "hebrew",
+  "transliteration": "rôn",
+  "pronunciation": "rone",
+  "definition": "a shout (of deliverance)",
+  "kjvTranslation": "song.",
+  "hebrew": "רֹן",
+  "translations": {
+    "bg": "вик (за избавление)",
+    "cs": "výkřik (vysvobození)",
+    "da": "et råb (om udfrielse)",
+    "de": "ein Schrei (der Befreiung)",
+    "el": "μια κραυγή (απελευθέρωσης)",
+    "es": "un grito (de liberación)",
+    "et": "hüüe (vabastuse kohta)",
+    "fi": "huuto (vapautuksesta)",
+    "fr": "un cri (de délivrance)",
+    "hu": "kiáltás (a szabadulásról)",
+    "id": "teriakan (pembebasan)",
+    "it": "un grido (di liberazione)",
+    "ja": "雄叫び",
+    "ko": "(구원의) 외침",
+    "lt": "šauksmas (apie išlaisvinimą)",
+    "lv": "sauciens (par atbrīvošanu)",
+    "nb": "et rop (om befrielse)",
+    "nl": "een schreeuw (van bevrijding)",
+    "pl": "krzyk (wyzwolenia)",
+    "pt": "um grito (de libertação)",
+    "ro": "un strigăt (de eliberare)",
+    "ru": "крик (об избавлении)",
+    "sk": "výkrik (vyslobodenia)",
+    "sl": "krik (o osvoboditvi)",
+    "sv": "ett rop (av befrielse)",
+    "tr": "bir haykırış (kurtuluş)",
+    "uk": "крик (визволення)",
+    "zh": "呼声"
+  },
+  "verses": [
+    "psalms 32:7:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5",
+  "language": "hebrew",
+  "transliteration": "ʼĂbagthâʼ",
+  "pronunciation": "ab-ag-thaw'",
+  "definition": "Abagtha, a eunuch of Xerxes",
+  "kjvTranslation": "Abagtha.",
+  "translations": {
+    "bg": "Абагта, евнух на Ксеркс",
+    "cs": "Abagtha, Xerxův eunuch",
+    "da": "Abagtha, en af Xerxes' eunukker",
+    "de": "Abagtha, ein Eunuch von Xerxes",
+    "el": "Abagtha, ευνούχος του Ξέρξη",
+    "es": "Abagtha, un eunuco de Jerjes",
+    "et": "Abagtha, Kserxese eunuhh",
+    "fi": "Abagtha, Kserkseksen eunukki, -",
+    "fr": "Abagtha, eunuque de Xerxès",
+    "hu": "Abagtha, Xerxész eunuchja",
+    "id": "Abagtha, seorang kasim dari Xerxes",
+    "it": "Abagtha, un eunuco di Serse",
+    "ja": "クセルクセスの宦官アバグタ",
+    "ko": "크세르크세스의 환관, 아바그타",
+    "lt": "Abagta, Kserkso eunuchas",
+    "lv": "Abagta, Kserksa eunukss",
+    "nb": "Abagtha, en evnukk av Xerxes",
+    "nl": "Abagtha, een eunuch van Xerxes",
+    "pl": "Abagtha, eunuch Kserksesa",
+    "pt": "Abagta, um eunuco de Xerxes",
+    "ro": "Abagtha, un eunuc al lui Xerxes",
+    "ru": "Абагта, евнух Ксеркса",
+    "sk": "Abagtha, Xerxov eunuch",
+    "sl": "Abagta, Kserksov evnuh",
+    "sv": "Abagtha, en eunuck hos Xerxes",
+    "tr": "Abagtha, Xerxes'in haremağası",
+    "uk": "Абагта, євнух Ксеркса",
+    "zh": "薛西斯的宦官阿巴格塔"
+  },
+  "hebrew": "אֲבַגְתָא",
+  "verses": [
+    "esther 1:10:11"
+  ]
+}

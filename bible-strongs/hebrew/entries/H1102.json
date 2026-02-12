@@ -1,0 +1,42 @@
+{
+  "number": "H1102",
+  "language": "hebrew",
+  "transliteration": "bâlam",
+  "pronunciation": "baw-lam'",
+  "definition": "to muzzle",
+  "kjvTranslation": "be held in.",
+  "translations": {
+    "bg": "да надува намордник",
+    "cs": "nasadit náhubek",
+    "da": "at give mundkurv på",
+    "de": "zum Maulkorb",
+    "el": "για να φιμώσει",
+    "es": "para amordazar",
+    "et": "suukorvistada",
+    "fi": "suukapulan",
+    "fr": "museler",
+    "hu": "szájkosárral",
+    "id": "untuk memberangus",
+    "it": "per mettere la museruola",
+    "ja": "銃口を向ける",
+    "ko": "총구",
+    "lt": "užčiaupti snukį",
+    "lv": "uzlikt uzpurni",
+    "nb": "å sette munnkurv på",
+    "nl": "muilkorven",
+    "pl": "kaganiec",
+    "pt": "para amordaçar",
+    "ro": "să pună botniță",
+    "ru": "наставлять морду",
+    "sk": "nasadiť náhubok",
+    "sl": "za nagobčnik",
+    "sv": "till munkorg",
+    "tr": "susturmak için",
+    "uk": "в намордник",
+    "zh": "枪口"
+  },
+  "hebrew": "בָּלַם",
+  "verses": [
+    "psalms 32:9:9"
+  ]
+}

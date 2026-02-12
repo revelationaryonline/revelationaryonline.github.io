@@ -1,0 +1,42 @@
+{
+  "number": "H4558",
+  "language": "hebrew",
+  "transliteration": "Miçpâr",
+  "pronunciation": "mis-pawr'",
+  "definition": "Mispar, an Israelite",
+  "kjvTranslation": "Mizpar. Compare H4559 (מִסְפֶּרֶת).",
+  "hebrew": "מִסְפָּר",
+  "verses": [
+    "ezra 2:2:10"
+  ],
+  "translations": {
+    "bg": "Миспар, израилтянин",
+    "cs": "Mispar, Izraelita",
+    "da": "Mispar, en israelit",
+    "de": "Mispar, ein Israelit",
+    "el": "Mispar, Ισραηλίτης",
+    "es": "Mispar, israelita",
+    "et": "Mispar, iisraellane",
+    "fi": "Mispar, israelilainen",
+    "fr": "Mispar, Israélite",
+    "hu": "Mispar, izraelita",
+    "id": "Mispar, seorang Israel",
+    "it": "Mispar, un israelita",
+    "ja": "イスラエル人ミスパル",
+    "ko": "이스라엘인, 미스파",
+    "lt": "Misparas, izraelitas",
+    "lv": "Mispars, izraēlietis",
+    "nb": "Mispar, en israelitt",
+    "nl": "Mispar, een Israëliet",
+    "pl": "Mispar, Izraelita",
+    "pt": "Mispar, um israelita",
+    "ro": "Mispar, un israelit",
+    "ru": "Миспар, израильтянин",
+    "sk": "Mispar, Izraelita",
+    "sl": "Mispar, Izraelec",
+    "sv": "Mispar, en israelit",
+    "tr": "Mispar, bir İsrailli",
+    "uk": "Міспар, ізраїльтянин",
+    "zh": "米斯帕，以色列人"
+  }
+}

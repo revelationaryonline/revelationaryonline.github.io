@@ -1,0 +1,42 @@
+{
+  "number": "H4535",
+  "language": "hebrew",
+  "transliteration": "maççâch",
+  "pronunciation": "mas-sawkh'",
+  "definition": "a cordon, (adverbially) or (as a) military barrier",
+  "kjvTranslation": "broken down.",
+  "hebrew": "מַסָּח",
+  "verses": [
+    "secondKings 11:6:11"
+  ],
+  "translations": {
+    "bg": "кордон, (наречие) или (като) военна преграда",
+    "cs": "kordon, (příslovečně) nebo (jako) vojenská překážka",
+    "da": "en afspærring, (adverbialt) eller (som en) militær barriere",
+    "de": "ein Kordon, (adverbial) oder (als) militärische Barriere",
+    "el": "ένας κλοιός, (επιρρηματικά) ή (ως) στρατιωτικό φράγμα",
+    "es": "un cordón, (adverbialmente) o (como) barrera militar",
+    "et": "kordon, (adverbiaalselt) või (kui) sõjaline tõkkepuu",
+    "fi": "kordoni, (adverbiaalisesti) tai (sotilaallinen) este",
+    "fr": "un cordon, (adverbialement) ou (en tant que) barrière militaire",
+    "hu": "kordon, (határozószóval) vagy (mint) katonai akadály",
+    "id": "barisan, (secara adverbial) atau (sebagai) penghalang militer",
+    "it": "un cordone, (avverbialmente) o (come) barriera militare",
+    "ja": "けいかいせん",
+    "ko": "경계선, (부사적으로) 또는 (군사적 장벽으로)",
+    "lt": "kordonas (su prieveiksmiais) arba (kaip) karinė užtvara",
+    "lv": "kordons, (apstākļa vārds) vai (kā) militāra barjera",
+    "nb": "en avsperring, (adverbialt) eller (som en) militær barriere",
+    "nl": "een cordon, (bijwoordelijk) of (als) militaire barrière",
+    "pl": "kordon, (przysłówkowo) lub (jako) bariera wojskowa",
+    "pt": "um cordão, (adverbialmente) ou (como) barreira militar",
+    "ro": "un cordon, (adverbial) sau (ca o) barieră militară",
+    "ru": "кордон, (наречие) или (как) военное заграждение",
+    "sk": "kordón, (príslovkovo) alebo (ako) vojenská prekážka",
+    "sl": "kordon, (prislovno) ali (kot) vojaška ovira",
+    "sv": "en avspärrning, (adverbiellt) eller (som en) militär barriär",
+    "tr": "bir kordon, (zarf olarak) veya (bir) askeri bariyer",
+    "uk": "кордон, (прислівниково) або (як) військовий бар'єр",
+    "zh": "警戒线"
+  }
+}

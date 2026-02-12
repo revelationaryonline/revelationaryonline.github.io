@@ -1,0 +1,43 @@
+{
+  "number": "H7983",
+  "language": "hebrew",
+  "transliteration": "shilṭôwn",
+  "pronunciation": "shil-tone'",
+  "definition": "{power.}",
+  "kjvTranslation": "power.",
+  "hebrew": "שִׁלְטוֹן",
+  "translations": {
+    "bg": "{power.}",
+    "cs": "{moc.}",
+    "da": "{Kraft}",
+    "de": "(Macht.)",
+    "el": "{δύναμη.}",
+    "es": "{poder.}",
+    "et": "{võimsus.}",
+    "fi": "{voima.}",
+    "fr": "{pouvoir.}",
+    "hu": "{hatalom.}",
+    "id": "(kekuatan)",
+    "it": "{potenza.}",
+    "ja": "{パワー｝",
+    "ko": "{power.}",
+    "lt": "{galia.}",
+    "lv": "{power.}",
+    "nb": "{kraft.}",
+    "nl": "{power.}",
+    "pl": "{moc.}",
+    "pt": "{Poder.}",
+    "ro": "{putere.}",
+    "ru": "{силы.}",
+    "sk": "{power.}",
+    "sl": "{moč.}",
+    "sv": "{kraft.}",
+    "tr": "{güç.}",
+    "uk": "{Я знаю, що це не так.}",
+    "zh": "{pos(330,220)}力量"
+  },
+  "verses": [
+    "ecclesiastes 8:4:3",
+    "ecclesiastes 8:8:8"
+  ]
+}

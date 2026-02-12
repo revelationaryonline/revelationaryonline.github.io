@@ -1,0 +1,42 @@
+{
+  "number": "H5323",
+  "language": "hebrew",
+  "transliteration": "nâtsâʼ",
+  "pronunciation": "naw-tsaw'",
+  "definition": "to go away",
+  "kjvTranslation": "flee.",
+  "hebrew": "נָצָא",
+  "translations": {
+    "bg": "да си тръгне",
+    "cs": "odejít",
+    "da": "at gå væk",
+    "de": "wegzugehen",
+    "el": "να φύγω",
+    "es": "irse",
+    "et": "ära minna",
+    "fi": "lähteä pois",
+    "fr": "s'éloigner",
+    "hu": "hogy elmenjünk",
+    "id": "untuk pergi",
+    "it": "andare via",
+    "ja": "立ち去る",
+    "ko": "사라지다",
+    "lt": "išvykti",
+    "lv": "doties prom",
+    "nb": "å reise bort",
+    "nl": "om weg te gaan",
+    "pl": "odejść",
+    "pt": "ir embora",
+    "ro": "să plece",
+    "ru": "уехать",
+    "sk": "odísť",
+    "sl": "oditi",
+    "sv": "att gå bort",
+    "tr": "uzaklaşmak için",
+    "uk": "піти геть",
+    "zh": "走"
+  },
+  "verses": [
+    "jeremiah 48:9:4"
+  ]
+}

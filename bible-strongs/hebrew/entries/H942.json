@@ -1,0 +1,42 @@
+{
+  "number": "H942",
+  "language": "hebrew",
+  "transliteration": "Bavvay",
+  "pronunciation": "bav-vah'ee",
+  "definition": "Bavvai, an Israelite",
+  "kjvTranslation": "Bavai.",
+  "translations": {
+    "bg": "Баваи, израилтянин",
+    "cs": "Bavvai, Izraelita",
+    "da": "Bavvai, en israelit",
+    "de": "Bavvai, ein Israelit",
+    "el": "Bavvai, Ισραηλίτης",
+    "es": "Bavvai, israelita",
+    "et": "Bavvai, iisraellane",
+    "fi": "Bavvai, israelilainen",
+    "fr": "Bavvai, Israélite",
+    "hu": "Bavvai, izraelita",
+    "id": "Bavvai, seorang Israel",
+    "it": "Bavvai, un israelita",
+    "ja": "イスラエル人バヴァイ",
+    "ko": "이스라엘인, 바브바이",
+    "lt": "Bavvai, izraelitas",
+    "lv": "Bavvai, izraēlietis",
+    "nb": "Bavvai, en israelitt",
+    "nl": "Bavvai, een Israëliet",
+    "pl": "Bavvai, Izraelita",
+    "pt": "Bavvai, israelita",
+    "ro": "Bavvai, un israelit",
+    "ru": "Баввай, израильтянин",
+    "sk": "Bavvai, Izraelita",
+    "sl": "Bavvai, Izraelec",
+    "sv": "Bavvai, en israelit",
+    "tr": "Bavvai, bir İsrailli",
+    "uk": "Баввай, ізраїльтянин",
+    "zh": "巴威，以色列人"
+  },
+  "hebrew": "בַּוַּי",
+  "verses": [
+    "nehemiah 3:18:3"
+  ]
+}

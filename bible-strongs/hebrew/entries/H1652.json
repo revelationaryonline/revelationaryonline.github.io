@@ -1,0 +1,42 @@
+{
+  "number": "H1652",
+  "language": "hebrew",
+  "transliteration": "gâsham",
+  "pronunciation": "gaw-sham'",
+  "definition": "to shower violently",
+  "kjvTranslation": "(cause to) rain.",
+  "translations": {
+    "bg": "да се облива силно",
+    "cs": "prudce sprchovat",
+    "da": "at bruse voldsomt",
+    "de": "heftig zu duschen",
+    "el": "να βρέξει βίαια",
+    "es": "ducharse violentamente",
+    "et": "vägivaldselt duši all",
+    "fi": "suihkua rajusti",
+    "fr": "se doucher violemment",
+    "hu": "hevesen zuhanyozni",
+    "id": "untuk mandi dengan keras",
+    "it": "fare una doccia violenta",
+    "ja": "激しくシャワーを浴びる",
+    "ko": "격렬하게 샤워하기",
+    "lt": "smarkiai purkšti",
+    "lv": "spēcīgi dušoties",
+    "nb": "å dusje voldsomt",
+    "nl": "hevig douchen",
+    "pl": "gwałtowny prysznic",
+    "pt": "tomar um duche violento",
+    "ro": "să plouă violent",
+    "ru": "неистово лить",
+    "sk": "prudko sprchovať",
+    "sl": "silovito pršiti",
+    "sv": "att duscha våldsamt",
+    "tr": "şiddetli yağmur yağdırmak",
+    "uk": "несамовито митися під душем",
+    "zh": "骤雨"
+  },
+  "hebrew": "גָּשַׁם",
+  "verses": [
+    "jeremiah 14:22:3"
+  ]
+}

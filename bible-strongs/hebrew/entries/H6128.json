@@ -1,0 +1,43 @@
+{
+  "number": "H6128",
+  "language": "hebrew",
+  "transliteration": "ʻăqalqal",
+  "pronunciation": "ak-al-kal'",
+  "definition": "winding",
+  "kjvTranslation": "by(-way), crooked way.",
+  "hebrew": "עֲקַלְקַל",
+  "translations": {
+    "bg": "навиване",
+    "cs": "navíjení",
+    "da": "vikling",
+    "de": "wickeln",
+    "el": "περιέλιξη",
+    "es": "bobinado",
+    "et": "mähis",
+    "fi": "käämitys",
+    "fr": "enroulement",
+    "hu": "tekercselés",
+    "id": "berkelok-kelok",
+    "it": "avvolgimento",
+    "ja": "巻き",
+    "ko": "와인딩",
+    "lt": "vyniojimas",
+    "lv": "uztīšana",
+    "nb": "svingete",
+    "nl": "wikkelen",
+    "pl": "uzwojenie",
+    "pt": "enrolamento",
+    "ro": "lichidare",
+    "ru": "намотка",
+    "sk": "navíjanie",
+    "sl": "navijanje",
+    "sv": "lindning",
+    "tr": "sarma",
+    "uk": "обмотка",
+    "zh": "绕组"
+  },
+  "verses": [
+    "judges 5:6:12",
+    "psalms 125:5:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7078",
+  "language": "hebrew",
+  "transliteration": "qenets",
+  "pronunciation": "keh'-nets",
+  "definition": "perversion",
+  "kjvTranslation": "end.",
+  "hebrew": "קֶנֶץ",
+  "translations": {
+    "bg": "перверзия",
+    "cs": "perverze",
+    "da": "perversion",
+    "de": "perversion",
+    "el": "διαστροφή",
+    "es": "perversión",
+    "et": "perverssus",
+    "fi": "perversio",
+    "fr": "perversion",
+    "hu": "perverzió",
+    "id": "penyimpangan",
+    "it": "perversione",
+    "ja": "倒錯",
+    "ko": "변태",
+    "lt": "iškrypimas",
+    "lv": "perversija",
+    "nb": "perversjon",
+    "nl": "perversie",
+    "pl": "perwersja",
+    "pt": "perversão",
+    "ro": "perversiune",
+    "ru": "извращение",
+    "sk": "zvrátenosť",
+    "sl": "perverznost",
+    "sv": "perversion",
+    "tr": "sapıklık",
+    "uk": "збочення",
+    "zh": "变态"
+  },
+  "verses": [
+    "job 18:2:3"
+  ]
+}

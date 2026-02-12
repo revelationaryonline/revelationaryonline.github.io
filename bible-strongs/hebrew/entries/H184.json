@@ -1,0 +1,42 @@
+{
+  "number": "H184",
+  "language": "hebrew",
+  "transliteration": "ʼâvâh",
+  "pronunciation": "aw-vaw'",
+  "definition": "to extend or mark out",
+  "kjvTranslation": "point out.",
+  "translations": {
+    "bg": "да се разширява или да се очертава",
+    "cs": "rozšířit nebo vytyčit",
+    "da": "at udvide eller afgrænse",
+    "de": "erweitern oder abstecken",
+    "el": "να επεκτείνω ή να οριοθετώ",
+    "es": "extender o delimitar",
+    "et": "laiendada või tähistada",
+    "fi": "laajentaa tai merkitä",
+    "fr": "étendre ou délimiter",
+    "hu": "kiterjeszteni vagy kijelölni",
+    "id": "untuk memperpanjang atau menandai",
+    "it": "estendere o delimitare",
+    "ja": "を伸ばす、またはマークする",
+    "ko": "확장하거나 표시하려면",
+    "lt": "išplėsti arba išskirti",
+    "lv": "paplašināt vai iezīmēt",
+    "nb": "å utvide eller markere",
+    "nl": "uitbreiden of afbakenen",
+    "pl": "rozszerzyć lub zaznaczyć",
+    "pt": "alargar ou delimitar",
+    "ro": "a extinde sau a delimita",
+    "ru": "расширять или выделять",
+    "sk": "rozšíriť alebo vyčleniť",
+    "sl": "razširiti ali razmejiti",
+    "sv": "att förlänga eller markera",
+    "tr": "uzatmak veya işaretlemek",
+    "uk": "розширити або виділити",
+    "zh": "延伸"
+  },
+  "hebrew": "אָוָה",
+  "verses": [
+    "numbers 34:10:0"
+  ]
+}

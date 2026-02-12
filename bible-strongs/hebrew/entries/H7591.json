@@ -1,0 +1,42 @@
+{
+  "number": "H7591",
+  "language": "hebrew",
+  "transliteration": "shᵉʼîyâh",
+  "pronunciation": "sheh-ee-yaw'",
+  "definition": "desolation",
+  "kjvTranslation": "destruction.",
+  "hebrew": "שְׁאִיָּה",
+  "translations": {
+    "bg": "опустошение",
+    "cs": "desolation",
+    "da": "ødelæggelse",
+    "de": "verwüstung",
+    "el": "ερήμωση",
+    "es": "desolación",
+    "et": "hülgamine",
+    "fi": "autioitus",
+    "fr": "désolation",
+    "hu": "pusztulás",
+    "id": "kehancuran",
+    "it": "desolazione",
+    "ja": "さびしさ",
+    "ko": "황폐화",
+    "lt": "dykuma",
+    "lv": "tuksnesis",
+    "nb": "øde",
+    "nl": "verlatenheid",
+    "pl": "spustoszenie",
+    "pt": "desolação",
+    "ro": "pustiire",
+    "ru": "запустение",
+    "sk": "opustenosť",
+    "sl": "opustošenje",
+    "sv": "ödeläggelse",
+    "tr": "ıssızlık",
+    "uk": "спустошення",
+    "zh": "荒凉"
+  },
+  "verses": [
+    "isaiah 24:12:3"
+  ]
+}

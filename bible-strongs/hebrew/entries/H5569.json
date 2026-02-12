@@ -1,0 +1,42 @@
+{
+  "number": "H5569",
+  "language": "hebrew",
+  "transliteration": "çâmâr",
+  "pronunciation": "saw-mar'",
+  "definition": "bristling, i.e. shaggy",
+  "kjvTranslation": "rough.",
+  "hebrew": "סָמָר",
+  "translations": {
+    "bg": "четина, т.е. космат",
+    "cs": "štětinatý, tj. zacuchaný",
+    "da": "strittende, dvs. lurvet",
+    "de": "struppig, d.h. zottelig",
+    "el": "αγκαθωτός, δηλαδή δασύτριχος",
+    "es": "erizado, es decir, desgreñado",
+    "et": "karvane, s.t. karvane",
+    "fi": "karvainen, ts. karvainen",
+    "fr": "hérissé, c'est-à-dire hirsute",
+    "hu": "borostás, azaz bozontos",
+    "id": "berbulu, yaitu berbulu lebat",
+    "it": "irto, cioè ispido",
+    "ja": "もじゃもじゃ",
+    "ko": "뻣뻣한, 즉 털이 많은",
+    "lt": "šerpetojantis, t. y. plaukuotas",
+    "lv": "ķemmveidīgs, t.i., pūkains",
+    "nb": "bustete, dvs. lurvete",
+    "nl": "borstelig, d.w.z. ruig",
+    "pl": "szczeciniasty, tj. kudłaty",
+    "pt": "eriçado, ou seja, desgrenhado",
+    "ro": "zbârlit, adică zbârlit",
+    "ru": "щетинистый, т.е. лохматый",
+    "sk": "štetinatý, t. j. chlpatý",
+    "sl": "ščetinast, tj. kosmat, košat",
+    "sv": "borsthårig, dvs. lurvig",
+    "tr": "kıllı, yani tüylü",
+    "uk": "щетинистий, тобто волохатий",
+    "zh": "毵毵"
+  },
+  "verses": [
+    "jeremiah 51:27:21"
+  ]
+}

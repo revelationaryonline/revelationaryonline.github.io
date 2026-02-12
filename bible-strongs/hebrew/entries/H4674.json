@@ -1,0 +1,42 @@
+{
+  "number": "H4674",
+  "language": "hebrew",
+  "transliteration": "mutstsâb",
+  "pronunciation": "moots-tsawb'",
+  "definition": "a station, i.e. military post",
+  "kjvTranslation": "mount.",
+  "hebrew": "מֻצָּב",
+  "translations": {
+    "bg": "станция, т.е. военен пост",
+    "cs": "stanice, tj. vojenské stanoviště",
+    "da": "en station, dvs. en militærpost",
+    "de": "eine Station, d.h. ein Militärposten",
+    "el": "σταθμός, δηλαδή στρατιωτικό φυλάκιο",
+    "es": "una estación, es decir, un puesto militar",
+    "et": "jaam, st sõjaväepunkt",
+    "fi": "asema eli sotilasasema",
+    "fr": "une station, c'est-à-dire un poste militaire",
+    "hu": "állomás, azaz katonai őrhely",
+    "id": "sebuah stasiun, yaitu pos militer",
+    "it": "una stazione, cioè una postazione militare",
+    "ja": "駐屯地",
+    "ko": "역, 즉 군대 주둔지",
+    "lt": "stotis, t. y. karinis postas",
+    "lv": "stacija, t. i., militārais postenis",
+    "nb": "en stasjon, dvs. en militærpost",
+    "nl": "een station, d.w.z. een militaire post",
+    "pl": "stacja, tj. posterunek wojskowy",
+    "pt": "uma estação, ou seja, um posto militar",
+    "ro": "o stație, adică un post militar",
+    "ru": "станция, т.е. военный пост",
+    "sk": "stanica, t. j. vojenské stanovište",
+    "sl": "postaja, tj. vojaška postojanka",
+    "sv": "en station, t.ex. en militärpostering",
+    "tr": "bir istasyon, yani askeri karakol",
+    "uk": "станція, тобто військовий пост",
+    "zh": "站"
+  },
+  "verses": [
+    "isaiah 29:3:5"
+  ]
+}

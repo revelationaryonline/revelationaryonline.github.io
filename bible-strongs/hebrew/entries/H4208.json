@@ -1,0 +1,42 @@
+{
+  "number": "H4208",
+  "language": "hebrew",
+  "transliteration": "mazzâlâh",
+  "pronunciation": "maz-zaw-law'",
+  "definition": "a constellation, i.e. Zodiacal sign (perhaps as affecting the weather)",
+  "kjvTranslation": "planet. Compare H4216 (מַזָּרָה).",
+  "hebrew": "מַזָּלָה",
+  "translations": {
+    "bg": "съзвездие, т.е. зодиакален знак (може би като влияещ на времето)",
+    "cs": "souhvězdí, tj. znamení zvěrokruhu (třeba podle počasí)",
+    "da": "et stjernebillede, dvs. et stjernetegn (som måske påvirker vejret)",
+    "de": "eine Konstellation, d. h. ein Tierkreiszeichen (z. B. in Bezug auf das Wetter)",
+    "el": "ένας αστερισμός, δηλαδή ένα ζώδιο του ζωδιακού κύκλου (ίσως επειδή επηρεάζει τον καιρό)",
+    "es": "una constelación, es decir, un signo zodiacal (que puede afectar al tiempo)",
+    "et": "tähtkuju, st sodiaagimärk (võib-olla ilmastikumõjuna)",
+    "fi": "tähtikuvio, eli horoskooppimerkki (ehkä säähän vaikuttava)",
+    "fr": "une constellation, c'est-à-dire un signe du zodiaque (par exemple en ce qui concerne le temps qu'il fait)",
+    "hu": "csillagkép, azaz állatövi jegy (esetleg az időjárást befolyásoló)",
+    "id": "konstelasi, yaitu tanda zodiak (mungkin karena mempengaruhi cuaca)",
+    "it": "una costellazione, cioè un segno zodiacale (forse perché influisce sul tempo)",
+    "ja": "星座",
+    "ko": "별자리, 즉 황도대(날씨에 영향을 주는 별자리)",
+    "lt": "žvaigždynas, t. y. Zodiako ženklas (galbūt turintis įtakos orui)",
+    "lv": "zvaigznājs, t. i., zodiaka zīme (iespējams, kas ietekmē laikapstākļus)",
+    "nb": "et stjernebilde, dvs. et stjernetegn (som kanskje påvirker været)",
+    "nl": "een sterrenbeeld, d.w.z. Dierenriemteken (misschien als invloed op het weer)",
+    "pl": "konstelacja, tj. znak zodiaku (być może wpływający na pogodę)",
+    "pt": "uma constelação, ou seja, um signo do Zodíaco (talvez por afetar o tempo)",
+    "ro": "o constelație, adică un semn zodiacal (care poate afecta vremea)",
+    "ru": "созвездие, т.е. зодиакальный знак (возможно, как влияющий на погоду)",
+    "sk": "súhvezdie, t. j. znamenie zverokruhu (možno ovplyvňujúce počasie)",
+    "sl": "ozvezdje, tj. zodiakalno znamenje (morda vpliva na vreme)",
+    "sv": "en konstellation, d.v.s. ett stjärntecken (kanske som påverkar vädret)",
+    "tr": "bir takımyıldızı, yani Zodyak burcu (belki de hava durumunu etkilediği için)",
+    "uk": "сузір'я, тобто знак Зодіаку (можливо, так само, як впливає на погоду)",
+    "zh": "黄道星座"
+  },
+  "verses": [
+    "secondKings 23:5:18"
+  ]
+}

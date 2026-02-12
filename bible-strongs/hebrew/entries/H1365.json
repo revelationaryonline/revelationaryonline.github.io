@@ -1,0 +1,43 @@
+{
+  "number": "H1365",
+  "language": "hebrew",
+  "transliteration": "gabhûwth",
+  "pronunciation": "gab-hooth'",
+  "definition": "pride",
+  "kjvTranslation": "loftiness, lofty.",
+  "translations": {
+    "bg": "pride",
+    "cs": "pride",
+    "da": "stolthed",
+    "de": "stolz",
+    "el": "υπερηφάνεια",
+    "es": "orgullo",
+    "et": "uhkus",
+    "fi": "ylpeys",
+    "fr": "fierté",
+    "hu": "büszkeség",
+    "id": "kebanggaan",
+    "it": "orgoglio",
+    "ja": "プライド",
+    "ko": "자부심",
+    "lt": "pasididžiavimas",
+    "lv": "lepnums",
+    "nb": "stolthet",
+    "nl": "trots",
+    "pl": "duma",
+    "pt": "orgulho",
+    "ro": "mândrie",
+    "ru": "гордость",
+    "sk": "hrdosť",
+    "sl": "ponos",
+    "sv": "stolthet",
+    "tr": "gurur",
+    "uk": "гордість",
+    "zh": "自豪感"
+  },
+  "hebrew": "גַּבְהוּת",
+  "verses": [
+    "isaiah 2:11:1",
+    "isaiah 2:17:1"
+  ]
+}

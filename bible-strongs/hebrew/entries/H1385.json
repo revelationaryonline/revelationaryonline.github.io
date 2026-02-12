@@ -1,0 +1,42 @@
+{
+  "number": "H1385",
+  "language": "hebrew",
+  "transliteration": "gᵉbinâh",
+  "pronunciation": "gheb-ee-naw'",
+  "definition": "curdled milk",
+  "kjvTranslation": "cheese.",
+  "translations": {
+    "bg": "подсирено мляко",
+    "cs": "sražené mléko",
+    "da": "koaguleret mælk",
+    "de": "geronnene Milch",
+    "el": "πηγμένο γάλα",
+    "es": "leche cuajada",
+    "et": "kalgendatud piim",
+    "fi": "hyytynyt maito",
+    "fr": "lait caillé",
+    "hu": "aludttej",
+    "id": "susu kental",
+    "it": "latte cagliato",
+    "ja": "凝乳",
+    "ko": "응유",
+    "lt": "sutirštėjęs pienas",
+    "lv": "sarecējis piens",
+    "nb": "koagulert melk",
+    "nl": "gestremde melk",
+    "pl": "zsiadłe mleko",
+    "pt": "leite coalhado",
+    "ro": "lapte coagulat",
+    "ru": "свернувшееся молоко",
+    "sk": "zrazené mlieko",
+    "sl": "skisano mleko",
+    "sv": "koagulerad mjölk",
+    "tr": "kesilmiş süt",
+    "uk": "згущене молоко",
+    "zh": "凝乳"
+  },
+  "hebrew": "גְּבִנָה",
+  "verses": [
+    "job 10:10:3"
+  ]
+}

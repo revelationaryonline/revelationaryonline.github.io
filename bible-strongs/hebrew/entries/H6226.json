@@ -1,0 +1,43 @@
+{
+  "number": "H6226",
+  "language": "hebrew",
+  "transliteration": "ʻâshên",
+  "pronunciation": "aw-shane'",
+  "definition": "smoky",
+  "kjvTranslation": "smoking.",
+  "hebrew": "עָשֵׁן",
+  "translations": {
+    "bg": "опушен",
+    "cs": "kouřové",
+    "da": "røgfyldt",
+    "de": "verräuchert",
+    "el": "smoky",
+    "es": "ahumado",
+    "et": "suitsune",
+    "fi": "savuinen",
+    "fr": "fumé",
+    "hu": "füstös",
+    "id": "berasap",
+    "it": "fumoso",
+    "ja": "けむい",
+    "ko": "스모키",
+    "lt": "dūminis",
+    "lv": "dūmakains",
+    "nb": "røykfylt",
+    "nl": "rokerig",
+    "pl": "zadymiony",
+    "pt": "fumado",
+    "ro": "afumat",
+    "ru": "дымчатый",
+    "sk": "dymové",
+    "sl": "dimljen",
+    "sv": "rökig",
+    "tr": "dumanlı",
+    "uk": "димчастий",
+    "zh": "跑车"
+  },
+  "verses": [
+    "exodus 20:18:12",
+    "isaiah 7:4:12"
+  ]
+}

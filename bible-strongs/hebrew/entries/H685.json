@@ -1,0 +1,43 @@
+{
+  "number": "H685",
+  "language": "hebrew",
+  "transliteration": "ʼetsʻâdâh",
+  "pronunciation": "ets-aw-daw'",
+  "definition": "properly, a step-chain; by analogy, a bracelet",
+  "kjvTranslation": "bracelet, chain.",
+  "translations": {
+    "bg": "правилно, верига от стъпки; по аналогия - гривна",
+    "cs": "správně krokový řetízek; analogicky náramek",
+    "da": "korrekt, en trin-kæde; analogt, et armbånd",
+    "de": "richtig: eine Stufenkette; analog dazu ein Armband",
+    "el": "σωστά, μια αλυσίδα- κατ' αναλογία, ένα βραχιόλι",
+    "es": "propiamente, una cadena escalonada; por analogía, una pulsera",
+    "et": "õigesti, astmeline ahel; analoogia järgi käevõru",
+    "fi": "oikeastaan askelketju; vastaavasti rannekoru",
+    "fr": "proprement dit, une chaîne de marche ; par analogie, un bracelet",
+    "hu": "helyesen, egy lépcsős lánc; analógia szerint egy karkötő",
+    "id": "secara tepat, sebuah rantai langkah; dengan analogi, sebuah gelang",
+    "it": "propriamente, una catena a gradini; per analogia, un bracciale",
+    "ja": "例えるなら、ブレスレット。",
+    "ko": "정확히 말하면 스텝 체인, 비유하자면 팔찌입니다",
+    "lt": "taisyklingai - žingsninė grandinėlė; analogiškai - apyrankė",
+    "lv": "pareizi - pakāpienu ķēdīte; pēc analoģijas - aproce",
+    "nb": "egentlig en step-kjede; analogt sett et armbånd",
+    "nl": "op de juiste manier, een stappenschakel; naar analogie, een armband",
+    "pl": "prawidłowo, łańcuch krokowy; przez analogię, bransoletka",
+    "pt": "propriamente dito, uma cadeia de passos; por analogia, uma pulseira",
+    "ro": "în mod corespunzător, un lanț de pași; prin analogie, o brățară",
+    "ru": "правильно, ступенчатая цепь; по аналогии, браслет",
+    "sk": "správne, step-chain; analogicky, náramok",
+    "sl": "pravilno, verižica; po analogiji zapestnica",
+    "sv": "korrekt, en stegkedja; analogt, ett armband",
+    "tr": "uygun şekilde, bir adım zinciri; benzer şekilde, bir bilezik",
+    "uk": "власне, ступінчастий ланцюг; за аналогією - браслет",
+    "zh": "阶梯链；以此类推，手镯"
+  },
+  "hebrew": "אֶצְעָדָה",
+  "verses": [
+    "numbers 31:50:9",
+    "secondSamuel 1:10:15"
+  ]
+}

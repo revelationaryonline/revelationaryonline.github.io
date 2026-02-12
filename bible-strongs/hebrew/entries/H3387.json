@@ -1,0 +1,42 @@
+{
+  "number": "H3387",
+  "language": "hebrew",
+  "transliteration": "yârôwq",
+  "pronunciation": "yaw-roke'",
+  "definition": "green, i.e. an herb",
+  "kjvTranslation": "green thing.",
+  "translations": {
+    "bg": "зелен, т.е. билка",
+    "cs": "zelený, tj. bylina",
+    "da": "grøn, dvs. en urt",
+    "de": "grün, d.h. ein Kraut",
+    "el": "πράσινο, δηλ. ένα βότανο",
+    "es": "verde, es decir, una hierba",
+    "et": "roheline, s.t. ravimtaim",
+    "fi": "vihreä eli yrtti",
+    "fr": "vert, c'est-à-dire une herbe",
+    "hu": "zöld, azaz gyógynövény",
+    "id": "hijau, yaitu ramuan",
+    "it": "verde, cioè un'erba",
+    "ja": "あお",
+    "ko": "녹색, 즉 허브",
+    "lt": "žalias, t. y. žolė",
+    "lv": "zaļš, t. i., augs",
+    "nb": "grønn, dvs. en urt",
+    "nl": "groen, d.w.z. een kruid",
+    "pl": "zielony, tj. zioło",
+    "pt": "verde, ou seja, uma erva",
+    "ro": "verde, adică o plantă",
+    "ru": "зеленый, т.е. трава",
+    "sk": "zelený, t. j. bylina",
+    "sl": "zelena, tj. zelišče",
+    "sv": "grön, d.v.s. en ört",
+    "tr": "yeşil, yani bir bitki",
+    "uk": "зелений, тобто трава",
+    "zh": "绿"
+  },
+  "hebrew": "יָרוֹק",
+  "verses": [
+    "job 39:8:5"
+  ]
+}

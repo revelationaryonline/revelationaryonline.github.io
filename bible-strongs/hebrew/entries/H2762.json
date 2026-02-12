@@ -1,0 +1,42 @@
+{
+  "number": "H2762",
+  "language": "hebrew",
+  "transliteration": "cherek",
+  "pronunciation": "kheh'-rek",
+  "definition": "properly, a net, i.e. (by analogy) lattice",
+  "kjvTranslation": "lattice.",
+  "translations": {
+    "bg": "правилно - мрежа, т.е. (по аналогия) решетка",
+    "cs": "správně, síť, tj. (analogicky) mřížka",
+    "da": "korrekt, et net, dvs. (analogt) et gitter",
+    "de": "richtig, ein Netz, d.h. (analog) ein Gitter",
+    "el": "κατάλληλα, ένα δίχτυ, δηλαδή (κατ' αναλογία) ένα πλέγμα",
+    "es": "propiamente, una red, es decir (por analogía) un entramado",
+    "et": "õigesti, võrk, st (analoogiliselt) võrega",
+    "fi": "oikein, verkko eli (analogisesti) ristikko",
+    "fr": "proprement dit, un filet, c'est-à-dire (par analogie) un treillis",
+    "hu": "megfelelően, egy háló, azaz (analógia szerint) rácsháló",
+    "id": "dengan benar, jaring, yaitu (dengan analogi) kisi",
+    "it": "propriamente, una rete, cioè (per analogia) un reticolo",
+    "ja": "正しくは、ネット、つまり（類推すれば）格子",
+    "ko": "제대로 말하면 그물, 즉 (비유하자면) 격자입니다",
+    "lt": "tinkamai, tinklą, t. y. (pagal analogiją) tinklelį",
+    "lv": "pareizi, tīkls, t.i., (pēc analoģijas) režģis",
+    "nb": "et nett, dvs. (analogt) et gitter",
+    "nl": "op de juiste manier, een net, d.w.z. (naar analogie) rooster",
+    "pl": "odpowiednio, sieć, tj. (przez analogię) kratownica",
+    "pt": "propriamente dita, uma rede, ou seja, (por analogia) uma grelha",
+    "ro": "în mod corespunzător, o plasă, adică (prin analogie) un grilaj",
+    "ru": "правильно, сеть, т.е. (по аналогии) решетка",
+    "sk": "správne, sieť, t. j. (analogicky) mriežka",
+    "sl": "pravilno, mreža, tj. (po analogiji) rešetka",
+    "sv": "ett nät, dvs. (i analogi) ett gitter",
+    "tr": "düzgün bir şekilde, bir ağ, yani (analoji yoluyla) kafes",
+    "uk": "власне, сітка, тобто (за аналогією) решітка",
+    "zh": "适当地，一个网，即（类比）晶格"
+  },
+  "hebrew": "חֶרֶךְ",
+  "verses": [
+    "solomon 2:9:16"
+  ]
+}

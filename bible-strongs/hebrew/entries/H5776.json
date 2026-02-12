@@ -1,0 +1,43 @@
+{
+  "number": "H5776",
+  "language": "hebrew",
+  "transliteration": "ʻôwph",
+  "pronunciation": "ofe",
+  "definition": "{a bird (as covered with feathers, or rather as covering with wings), often collectively}",
+  "kjvTranslation": "fowl.",
+  "hebrew": "עוֹף",
+  "translations": {
+    "bg": "{птица (покрита с пера, или по-скоро с крила), често колективно}",
+    "cs": "{pták (jako pokrytý peřím, nebo spíše jako pokrytí křídly), často souhrnně}",
+    "da": "{en fugl (som dækket af fjer, eller snarere som dækket af vinger), ofte kollektivt}",
+    "de": "{ein Vogel (als mit Federn bedeckt, oder eher als mit Flügeln bedeckt), oft kollektiv}",
+    "el": "{ένα πουλί (όπως καλύπτεται με φτερά, ή μάλλον όπως καλύπτεται με φτερά), συχνά συλλογικά}",
+    "es": "{un ave (como cubierta de plumas, o más bien como cubierta de alas), a menudo colectivamente}",
+    "et": "{lind (sulestikuga kaetud või pigem tiibadega kaetud), sageli kollektiivselt}",
+    "fi": "{lintu (höyhenillä tai pikemminkin siivillä peitettynä), usein kollektiivisesti}",
+    "fr": "{un oiseau (comme couvert de plumes, ou plutôt comme couvert d'ailes), souvent collectivement}",
+    "hu": "{madár (mint tollakkal borított, vagy inkább mint szárnyakkal borított), gyakran együttesen}",
+    "id": "(seekor burung (yang ditutupi dengan bulu, atau lebih tepatnya ditutupi dengan sayap), sering kali secara kolektif)",
+    "it": "{un uccello (come coperto di piume, o piuttosto come coperto di ali), spesso collettivamente}",
+    "ja": "{羽毛で覆われた、あるいはむしろ翼で覆われた）鳥、しばしば集合的に}。",
+    "ko": "{새(깃털로 덮여 있거나 오히려 날개로 덮여 있는 것처럼), 종종 총체적으로}",
+    "lt": "{paukštis (padengtas plunksnomis, tiksliau, dengiamas sparnais), dažnai bendrai}",
+    "lv": "{putns (ar spalvām vai drīzāk ar spārniem), bieži kopā}",
+    "nb": "{en fugl (som dekket med fjær, eller snarere som dekket med vinger), ofte kollektivt}",
+    "nl": "{een vogel (als bedekt met veren, of liever als bedekking met vleugels), vaak collectief}",
+    "pl": "{ptak (jako pokryty piórami, lub raczej jako pokrywający skrzydłami), często zbiorowo}",
+    "pt": "{uma ave (como coberta de penas, ou melhor, como coberta de asas), muitas vezes coletivamente}",
+    "ro": "{o pasăre (acoperită cu pene, sau mai degrabă acoperită cu aripi), adesea colectiv}",
+    "ru": "{птица (как покрытая перьями, или, скорее, как покрывающая крыльями), часто коллективно}",
+    "sk": "{vták (ako pokrytý perím alebo skôr ako pokrytý krídlami), často spoločne}",
+    "sl": "{ptica (kot pokrita s perjem ali bolje kot pokrita s krili), pogosto skupaj}",
+    "sv": "{en fågel (som täckt med fjädrar, eller snarare som täckt med vingar), ofta kollektivt}",
+    "tr": "{bir kuş (tüylerle kaplı olarak ya da daha ziyade kanatlarla kaplı olarak), genellikle toplu olarak}",
+    "uk": "{птах (як покритий пір'ям, а точніше як покритий крилами), часто збірно}",
+    "zh": "{鸟（被羽毛覆盖，或者说被翅膀覆盖），通常是指鸟类的统称}。"
+  },
+  "verses": [
+    "daniel 2:38:8",
+    "daniel 7:6:11"
+  ]
+}

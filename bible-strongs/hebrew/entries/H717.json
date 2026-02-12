@@ -1,0 +1,43 @@
+{
+  "number": "H717",
+  "language": "hebrew",
+  "transliteration": "ʼârâh",
+  "pronunciation": "aw-raw'",
+  "definition": "to pluck",
+  "kjvTranslation": "gather, pluck.",
+  "translations": {
+    "bg": "да се откъсне",
+    "cs": "vytrhnout",
+    "da": "at plukke",
+    "de": "zu rupfen",
+    "el": "να μαδήσω",
+    "es": "arrancar",
+    "et": "kitkuda",
+    "fi": "nyppiä",
+    "fr": "plumer",
+    "hu": "megkopasztani",
+    "id": "untuk memetik",
+    "it": "spennare",
+    "ja": "摘み取る",
+    "ko": "뽑다",
+    "lt": "nuplėšti",
+    "lv": "noplūkt",
+    "nb": "å plukke",
+    "nl": "plukken",
+    "pl": "oskubać",
+    "pt": "depenar",
+    "ro": "a smulge",
+    "ru": "выщипывать",
+    "sk": "šklbať",
+    "sl": "oskubiti",
+    "sv": "att plocka",
+    "tr": "koparmak için",
+    "uk": "щоб зірвати",
+    "zh": "摘"
+  },
+  "hebrew": "אָרָה",
+  "verses": [
+    "psalms 80:13:3",
+    "solomon 5:1:4"
+  ]
+}

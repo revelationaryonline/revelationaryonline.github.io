@@ -1,0 +1,42 @@
+{
+  "number": "H7824",
+  "language": "hebrew",
+  "transliteration": "shâchîyph",
+  "pronunciation": "shaw-kheef'",
+  "definition": "a board (as chipped thin)",
+  "kjvTranslation": "cieled with.",
+  "hebrew": "שָׁחִיף",
+  "translations": {
+    "bg": "дъска (като начупена тънка)",
+    "cs": "deska (jako štípaná tenká)",
+    "da": "et bræt (som skåret tyndt)",
+    "de": "ein Brett (als dünner Splitter)",
+    "el": "μια σανίδα (ως πελεκημένη λεπτή)",
+    "es": "una tabla (como astillas finas)",
+    "et": "laud (nagu lõhestatud õhuke)",
+    "fi": "lauta (ohueksi lohkottuna)",
+    "fr": "une planche (comme écaillé mince)",
+    "hu": "egy deszka (mint a vékony csorba)",
+    "id": "sebuah papan (seperti terkelupas tipis)",
+    "it": "una tavola (come sottile scheggiatura)",
+    "ja": "板切れ",
+    "ko": "보드(얇게 잘린 상태)",
+    "lt": "lenta (kaip plona drožlių plokštė)",
+    "lv": "dēlis (kā šķeldains plāns)",
+    "nb": "et brett (som fliset tynt)",
+    "nl": "een plank (als verspaand dun)",
+    "pl": "deska (jako cienki wiór)",
+    "pt": "uma tábua (como uma tábua lascada)",
+    "ro": "o placă (sub formă de așchii subțiri)",
+    "ru": "доска (как тонкая стружка)",
+    "sk": "doska (ako štiepaná tenká)",
+    "sl": "deska (kot odlomljena tanka deska)",
+    "sv": "en bräda (som flisad tunn)",
+    "tr": "bir tahta (yontulmuş ince olarak)",
+    "uk": "дошка (стругана тонка)",
+    "zh": "薄板"
+  },
+  "verses": [
+    "ezekiel 41:16:8"
+  ]
+}

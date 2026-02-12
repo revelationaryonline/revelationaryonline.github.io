@@ -1,0 +1,42 @@
+{
+  "number": "H5222",
+  "language": "hebrew",
+  "transliteration": "nêkeh",
+  "pronunciation": "nay-keh'",
+  "definition": "a smiter, i.e. (figuratively) traducer",
+  "kjvTranslation": "abject.",
+  "hebrew": "נֵכֶה",
+  "translations": {
+    "bg": "побойник, т.е. (в преносен смисъл) измамник",
+    "cs": "bijce, tj. (přeneseně) podrazák",
+    "da": "en smadrer, dvs. (i overført betydning) en forræder",
+    "de": "ein Verleumder, d. h. (im übertragenen Sinne) ein Verleumder",
+    "el": "ένας χτυπητής, δηλ. (μεταφορικά) ένας συκοφάντης",
+    "es": "un golpeador, es decir (en sentido figurado) traductor",
+    "et": "lööja, st (piltlikult) kaubitseja",
+    "fi": "lyöjä, eli (kuvaannollisesti) petturi",
+    "fr": "un frappeur, c'est-à-dire (au sens figuré) un traducteur",
+    "hu": "a verő, azaz (átvitt értelemben) a gyalázó",
+    "id": "seorang pedagang, yaitu (secara kiasan) pedagang",
+    "it": "un picchiatore, cioè (in senso figurato) un traditore",
+    "ja": "叩き屋",
+    "ko": "스마이터, 즉 (비유적으로) 거래자",
+    "lt": "smogikas, t. y. (perkeltine prasme) išdavikas",
+    "lv": "smēķētājs, t.i., (pārnestā nozīmē) izkrāpējs",
+    "nb": "en smitter, dvs. (i overført betydning) en forræder",
+    "nl": "een slachter, d.w.z. (figuurlijk) ontvoerder",
+    "pl": "karzący, tj. (w przenośni) zdrajca",
+    "pt": "um ferreiro, ou seja, (figurativamente) um tradutor",
+    "ro": "un lovitor, adică (la figurat) un traducător",
+    "ru": "погромщик, т.е. (фигурально) торговец",
+    "sk": "bitkár, t. j. (v prenesenom význame) zvodca",
+    "sl": "ubijalec, tj. (v prenesenem pomenu) prevarant",
+    "sv": "en smällare, dvs. (bildligt talat) en förförare",
+    "tr": "bir vurucu, yani (mecazi olarak) tüccar",
+    "uk": "згубник, тобто (образно) винищувач",
+    "zh": "践踏者，即（比喻）践踏者"
+  },
+  "verses": [
+    "psalms 35:15:5"
+  ]
+}

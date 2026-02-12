@@ -1,0 +1,43 @@
+{
+  "number": "H1414",
+  "language": "hebrew",
+  "transliteration": "gᵉdad",
+  "pronunciation": "ghed-ad'",
+  "definition": "to cut down",
+  "kjvTranslation": "hew down.",
+  "translations": {
+    "bg": "да се намали",
+    "cs": "snížit",
+    "da": "at skære ned",
+    "de": "zu kürzen",
+    "el": "να μειώσει",
+    "es": "reducir",
+    "et": "vähendada",
+    "fi": "leikata",
+    "fr": "réduire",
+    "hu": "hogy csökkentsük",
+    "id": "untuk mengurangi",
+    "it": "tagliare",
+    "ja": "削減する",
+    "ko": "줄이려면",
+    "lt": "sumažinti",
+    "lv": "samazināt",
+    "nb": "å kutte ned",
+    "nl": "kappen",
+    "pl": "zmniejszyć",
+    "pt": "para cortar",
+    "ro": "să reducă",
+    "ru": "сократить",
+    "sk": "znížiť",
+    "sl": "zmanjšati",
+    "sv": "för att skära ner",
+    "tr": "kesmek için",
+    "uk": "щоб зрубати",
+    "zh": "砍伐"
+  },
+  "hebrew": "גְּדַד",
+  "verses": [
+    "daniel 4:11:4",
+    "daniel 4:20:9"
+  ]
+}

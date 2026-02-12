@@ -1,0 +1,42 @@
+{
+  "number": "H6878",
+  "language": "hebrew",
+  "transliteration": "tsôrek",
+  "pronunciation": "tso'-rek",
+  "definition": "need",
+  "kjvTranslation": "need.",
+  "hebrew": "צֹרֶךְ",
+  "translations": {
+    "bg": "нужда от",
+    "cs": "potřebujete",
+    "da": "behov",
+    "de": "brauchen",
+    "el": "ανάγκη",
+    "es": "necesita",
+    "et": "vaja",
+    "fi": "tarvitsen",
+    "fr": "besoin",
+    "hu": "szükség van",
+    "id": "kebutuhan",
+    "it": "necessità",
+    "ja": "必要",
+    "ko": "필요",
+    "lt": "reikia",
+    "lv": "nepieciešams",
+    "nb": "trenger",
+    "nl": "nodig",
+    "pl": "potrzeba",
+    "pt": "necessidade",
+    "ro": "nevoie",
+    "ru": "нужно",
+    "sk": "potrebujete",
+    "sl": "potrebujete",
+    "sv": "behov",
+    "tr": "ihtiyaç",
+    "uk": "потреба",
+    "zh": "需要"
+  },
+  "verses": [
+    "secondChronicles 2:15:6"
+  ]
+}

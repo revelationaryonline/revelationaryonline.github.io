@@ -1,0 +1,42 @@
+{
+  "number": "H6851",
+  "language": "hebrew",
+  "transliteration": "tsaphtsâphâh",
+  "pronunciation": "tsaf-tsaw-faw'",
+  "definition": "a willow (as growing in overflowed places)",
+  "kjvTranslation": "willow tree.",
+  "hebrew": "צַפְצָפָה",
+  "translations": {
+    "bg": "върба (като растяща на препълнени места)",
+    "cs": "vrba (rostoucí na přeplněných místech)",
+    "da": "en pil (som vokser på oversvømmede steder)",
+    "de": "eine Weide (wie sie an überfluteten Orten wächst)",
+    "el": "ιτιά (που φυτρώνει σε υπερχειλισμένους τόπους)",
+    "es": "un sauce (como los que crecen en lugares desbordados)",
+    "et": "paju (nagu kasvab üleujutatud kohtades)",
+    "fi": "paju (paju, joka kasvaa ylivuotopaikoilla)",
+    "fr": "un saule (comme celui qui pousse dans les endroits inondés)",
+    "hu": "fűzfa (mint ami a túláradó helyeken nő)",
+    "id": "pohon willow (seperti yang tumbuh di tempat yang melimpah)",
+    "it": "un salice (come se crescesse in luoghi traboccanti)",
+    "ja": "溢れ柳",
+    "ko": "버드나무(물이 넘친 곳에서 자라는 것)",
+    "lt": "gluosnis (augantis užlietose vietose)",
+    "lv": "vītols (kā aug pārplūdušās vietās)",
+    "nb": "en pil (som vokser på overfylte steder)",
+    "nl": "een wilg (zoals die groeit op overstroomde plaatsen)",
+    "pl": "wierzba (rosnąca w zalanych miejscach)",
+    "pt": "um salgueiro (que cresce em lugares alagados)",
+    "ro": "o salcie (care crește în locuri inundate)",
+    "ru": "ива (как растущая в переполненных водой местах)",
+    "sk": "vŕba (rastúca na preplnených miestach)",
+    "sl": "vrba (ki raste na preplavljenih mestih)",
+    "sv": "en pil (som växer på översvämda platser)",
+    "tr": "söğüt (taşkın yerlerde yetişen)",
+    "uk": "верба (як така, що росте в переповнених місцях)",
+    "zh": "杨柳"
+  },
+  "verses": [
+    "ezekiel 17:5:10"
+  ]
+}

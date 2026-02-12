@@ -1,0 +1,43 @@
+{
+  "number": "H8353",
+  "language": "hebrew",
+  "transliteration": "shêth",
+  "pronunciation": "shayth",
+  "definition": "{six}",
+  "kjvTranslation": "six(-th).",
+  "hebrew": "שֵׁת",
+  "translations": {
+    "bg": "{шест}",
+    "cs": "{šest}",
+    "da": "{seks}",
+    "de": "{sechs}",
+    "el": "{Έξι...}",
+    "es": "{six}",
+    "et": "(kuus)",
+    "fi": "{six}",
+    "fr": "{six}",
+    "hu": "{hat}",
+    "id": "[enam]",
+    "it": "{Sei...}",
+    "ja": "六",
+    "ko": "{여섯}",
+    "lt": "{šeši}",
+    "lv": "{seši}",
+    "nb": "{...seks...}",
+    "nl": "{Zes.}",
+    "pl": "{six}",
+    "pt": "{Seis.}",
+    "ro": "{six}",
+    "ru": "{шесть}",
+    "sk": "{šesť}",
+    "sl": "{šest}",
+    "sv": "{...sex...}",
+    "tr": "{altı}",
+    "uk": "{Шість.}",
+    "zh": "{六｝"
+  },
+  "verses": [
+    "ezra 6:15:11",
+    "daniel 3:1:11"
+  ]
+}

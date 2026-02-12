@@ -1,0 +1,42 @@
+{
+  "number": "H1112",
+  "language": "hebrew",
+  "transliteration": "Bêlshaʼtstsar",
+  "pronunciation": "bale-shats-tsar'",
+  "definition": "Belshatstsar, a Babylonian king",
+  "kjvTranslation": "Belshazzar.",
+  "translations": {
+    "bg": "Белшатсар, вавилонски цар",
+    "cs": "Belshatstsar, babylonský král",
+    "da": "Belshatstsar, en babylonisk konge",
+    "de": "Belshatstsar, ein babylonischer König",
+    "el": "Belshatstsar, βασιλιάς της Βαβυλώνας",
+    "es": "Belshatstsar, rey babilonio",
+    "et": "Belshatstsar, Babüloonia kuningas",
+    "fi": "Belshatstsar, babylonialainen kuningas",
+    "fr": "Belshatstsar, roi de Babylone",
+    "hu": "Belshatstsar, babiloni király",
+    "id": "Belshatstsar, seorang raja Babilonia",
+    "it": "Belshatstsar, un re babilonese",
+    "ja": "バビロニアの王、ベルシャトサル",
+    "ko": "바빌로니아 왕 벨샤트사르",
+    "lt": "Belšatstsaras, Babilono karalius",
+    "lv": "Belšatstsars, babiloniešu ķēniņš",
+    "nb": "Belshatstsar, en babylonsk konge",
+    "nl": "Belshatstsar, een Babylonische koning",
+    "pl": "Belszatstsar, król babiloński",
+    "pt": "Belshatstsar, rei da Babilónia",
+    "ro": "Belshatstsar, un rege babilonian",
+    "ru": "Белшатсар, вавилонский царь",
+    "sk": "Belšatstár, babylonský kráľ",
+    "sl": "Belshatstsar, babilonski kralj",
+    "sv": "Belshatstsar, en babylonisk kung",
+    "tr": "Belşatstsar, bir Babil kralı",
+    "uk": "Валтасар, вавилонський цар",
+    "zh": "巴比伦国王贝尔沙特萨尔"
+  },
+  "hebrew": "בֵּלְשַׁאצַּר",
+  "verses": [
+    "daniel 8:1:3"
+  ]
+}

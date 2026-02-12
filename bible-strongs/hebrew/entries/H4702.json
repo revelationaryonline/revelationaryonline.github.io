@@ -1,0 +1,42 @@
+{
+  "number": "H4702",
+  "language": "hebrew",
+  "transliteration": "matstsâʻ",
+  "pronunciation": "mats-tsaw'",
+  "definition": "a couch",
+  "kjvTranslation": "bed.",
+  "hebrew": "מַצָּע",
+  "translations": {
+    "bg": "диван",
+    "cs": "gauč",
+    "da": "en sofa",
+    "de": "eine Couch",
+    "el": "έναν καναπέ",
+    "es": "un sofá",
+    "et": "diivan",
+    "fi": "sohva",
+    "fr": "un canapé",
+    "hu": "egy kanapé",
+    "id": "sebuah sofa",
+    "it": "un divano",
+    "ja": "ソファ",
+    "ko": "소파",
+    "lt": "sofa",
+    "lv": "dīvāns",
+    "nb": "en sofa",
+    "nl": "een bank",
+    "pl": "kanapa",
+    "pt": "um sofá",
+    "ro": "o canapea",
+    "ru": "кушетка",
+    "sk": "gauč",
+    "sl": "kavč",
+    "sv": "en soffa",
+    "tr": "bir kanepe",
+    "uk": "диван",
+    "zh": "沙发"
+  },
+  "verses": [
+    "isaiah 28:20:2"
+  ]
+}

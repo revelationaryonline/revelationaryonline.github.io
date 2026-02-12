@@ -1,0 +1,42 @@
+{
+  "number": "H4200",
+  "language": "hebrew",
+  "transliteration": "mezev",
+  "pronunciation": "meh'-zev",
+  "definition": "a granary",
+  "kjvTranslation": "garner.",
+  "hebrew": "מֶזֶו",
+  "translations": {
+    "bg": "зърнохранилище",
+    "cs": "sýpka",
+    "da": "et kornmagasin",
+    "de": "ein Getreidespeicher",
+    "el": "σιταποθήκη",
+    "es": "un granero",
+    "et": "viljahoidla",
+    "fi": "viljavarasto",
+    "fr": "un grenier",
+    "hu": "magtár",
+    "id": "lumbung",
+    "it": "un granaio",
+    "ja": "穀物倉",
+    "ko": "곡물 창고",
+    "lt": "grūdų sandėlis",
+    "lv": "klēts",
+    "nb": "et kornmagasin",
+    "nl": "een graanschuur",
+    "pl": "spichlerz",
+    "pt": "um celeiro",
+    "ro": "un hambar",
+    "ru": "зернохранилище",
+    "sk": "sýpka",
+    "sl": "kašča",
+    "sv": "ett sädesmagasin",
+    "tr": "bir tahıl ambarı",
+    "uk": "зерносховище",
+    "zh": "囷"
+  },
+  "verses": [
+    "psalms 144:13:0"
+  ]
+}

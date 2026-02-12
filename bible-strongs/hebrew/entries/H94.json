@@ -1,0 +1,42 @@
+{
+  "number": "H94",
+  "language": "hebrew",
+  "transliteration": "ʼÂgûwr",
+  "pronunciation": "aw-goor'",
+  "definition": "Agur, a fanciful name for Solomon",
+  "kjvTranslation": "Agur.",
+  "translations": {
+    "bg": "Агур, измислено име на Соломон",
+    "cs": "Agur, smyšlené jméno pro Šalamouna",
+    "da": "Agur, et fantasifuldt navn for Salomon",
+    "de": "Agur, ein Fantasiename für Salomo",
+    "el": "Agur, ένα ευφάνταστο όνομα για τον Σολομώντα",
+    "es": "Agur, un nombre de fantasía para Salomón",
+    "et": "Agur, Saalomoni fantaasiarikas nimi",
+    "fi": "Agur, Salomonin mielikuvituksellinen nimi",
+    "fr": "Agur, un nom fantaisiste pour Salomon",
+    "hu": "Agur, Salamon fantázianeve",
+    "id": "Agur, nama yang indah untuk Salomo",
+    "it": "Agur, un nome di fantasia per Salomone",
+    "ja": "アグル、ソロモンの架空の名前",
+    "ko": "솔로몬의 환상적인 이름, 아구르",
+    "lt": "Aguras, išgalvotas Saliamono vardas",
+    "lv": "Agur, izdomāts vārds Salamana vārdā",
+    "nb": "Agur, et fantasifullt navn for Salomo",
+    "nl": "Agur, een fantasienaam voor Salomo",
+    "pl": "Agur, fantazyjne imię Salomona",
+    "pt": "Agur, um nome de fantasia para Salomão",
+    "ro": "Agur, un nume fantezist pentru Solomon",
+    "ru": "Агур, причудливое имя Соломона",
+    "sk": "Agur, vymyslené meno pre Šalamúna",
+    "sl": "Agur, izmišljeno ime za Salomona",
+    "sv": "Agur, ett fantasinamn för Salomo",
+    "tr": "Agur, Süleyman için hayali bir isim",
+    "uk": "Агур, химерне ім'я Соломона",
+    "zh": "阿古尔"
+  },
+  "hebrew": "אָגוּר",
+  "verses": [
+    "proverbs 30:1:1"
+  ]
+}

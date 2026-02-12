@@ -1,0 +1,42 @@
+{
+  "number": "H1089",
+  "language": "hebrew",
+  "transliteration": "bâlahh",
+  "pronunciation": "baw-lah'",
+  "definition": "to palpitate; hence, (causatively) to terrify",
+  "kjvTranslation": "trouble.",
+  "translations": {
+    "bg": "да трепери; оттук и (в причинно-следствено значение) да се страхува",
+    "cs": "palpit; odtud (kauzativně) děsit",
+    "da": "at få hjertebanken; derfor (kausalt) at skræmme",
+    "de": "zu klopfen; daher (ursächlich) zu erschrecken",
+    "el": "να χτυπάω με ταχυπαλμία- ως εκ τούτου, (αιτιωδώς) να τρομάζω",
+    "es": "palpitar; por lo tanto, (causalmente) aterrorizar",
+    "et": "palpitate; seega (põhjuslikult) hirmutada",
+    "fi": "sydämentykytys; siis (kausatiivisesti) kauhistuttaa",
+    "fr": "palpiter ; par conséquent, (causalement) terrifier",
+    "hu": "lüktetni; ezért (ok-okozati összefüggésben) megrémülni",
+    "id": "berdebar-debar; karenanya, (secara kausal) membuat takut",
+    "it": "palpitare; quindi, (causalmente) terrorizzare",
+    "ja": "動悸がする、従って（因果的に）恐怖を与える",
+    "ko": "두근거리다; 따라서 (원인 적으로) 겁을 먹다",
+    "lt": "palpituoti; taigi, (priežastiniu ryšiu) gąsdinti",
+    "lv": "sirdsklauves; līdz ar to (cēloņsakarībā) biedēt",
+    "nb": "å hjertebank; derav (kausativt) å skremme",
+    "nl": "beven; vandaar (causatief) angst aanjagen",
+    "pl": "palpitować; stąd (przyczynowo) przerażać",
+    "pt": "palpitar; portanto, (causativamente) aterrorizar",
+    "ro": "a palpita; prin urmare, (cauzal) a îngrozi",
+    "ru": "трепетать; следовательно, (каузально) приводить в ужас",
+    "sk": "búšiť; preto (v príčinnom význame) desiť",
+    "sl": "razburjati; od tod (vzročno) prestrašiti",
+    "sv": "att få hjärtklappning; följaktligen (kausativt) att skrämmas",
+    "tr": "çarpıntı; dolayısıyla (nedensel olarak) dehşete düşürmek",
+    "uk": "тремтіти; отже, (каузативно) наводити жах",
+    "zh": "使人心悸；因此，（因果关系）使人惊恐"
+  },
+  "hebrew": "בָּלַהּ",
+  "verses": [
+    "ezra 4:4:7"
+  ]
+}

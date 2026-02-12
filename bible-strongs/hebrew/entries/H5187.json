@@ -1,0 +1,42 @@
+{
+  "number": "H5187",
+  "language": "hebrew",
+  "transliteration": "nᵉṭîyl",
+  "pronunciation": "net-eel'",
+  "definition": "laden",
+  "kjvTranslation": "that bear.",
+  "hebrew": "נְטִיל",
+  "translations": {
+    "bg": "натоварен",
+    "cs": "zatížené",
+    "da": "ladet",
+    "de": "laden",
+    "el": "φορτωμένο",
+    "es": "cargado",
+    "et": "koormatud",
+    "fi": "ladattu",
+    "fr": "en charge",
+    "hu": "terhelt",
+    "id": "sarat",
+    "it": "carico",
+    "ja": "ラデン",
+    "ko": "laden",
+    "lt": "apkrautas",
+    "lv": "piekrauts",
+    "nb": "lastet",
+    "nl": "beladen",
+    "pl": "ładunek",
+    "pt": "carregado",
+    "ro": "încărcat",
+    "ru": "laden",
+    "sk": "naložené",
+    "sl": "naložen",
+    "sv": "laddad",
+    "tr": "laden",
+    "uk": "навантажений",
+    "zh": "载重"
+  },
+  "verses": [
+    "zephaniah 1:11:10"
+  ]
+}

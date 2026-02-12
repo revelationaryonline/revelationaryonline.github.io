@@ -1,0 +1,42 @@
+{
+  "number": "H963",
+  "language": "hebrew",
+  "transliteration": "bizzâyôwn",
+  "pronunciation": "biz-zaw-yone'",
+  "definition": "disesteem",
+  "kjvTranslation": "contempt.",
+  "translations": {
+    "bg": "обезценяване",
+    "cs": "disesteem",
+    "da": "uværd",
+    "de": "missachtung",
+    "el": "disesteem",
+    "es": "desestima",
+    "et": "disesteem",
+    "fi": "huono arvostus",
+    "fr": "mésestime",
+    "hu": "disesteem",
+    "id": "membenci",
+    "it": "disstima",
+    "ja": "軽蔑",
+    "ko": "경멸",
+    "lt": "nepagarba",
+    "lv": "disesteem",
+    "nb": "dårlig selvtillit",
+    "nl": "disesteem",
+    "pl": "brak szacunku",
+    "pt": "desestima",
+    "ro": "lipsa de stimă",
+    "ru": "чувство собственного достоинства",
+    "sk": "disesteem",
+    "sl": "nespoštovanje",
+    "sv": "missaktning",
+    "tr": "sAYGISIZLIK",
+    "uk": "неповага",
+    "zh": "自尊心"
+  },
+  "hebrew": "בִּזָּיוֹן",
+  "verses": [
+    "esther 1:18:15"
+  ]
+}

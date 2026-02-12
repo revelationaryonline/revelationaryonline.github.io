@@ -1,0 +1,43 @@
+{
+  "number": "H4675",
+  "language": "hebrew",
+  "transliteration": "matstsâbâh",
+  "pronunciation": "mats-tsaw-baw'",
+  "definition": "a military guard",
+  "kjvTranslation": "army, garrison.",
+  "hebrew": "מַצָּבָה",
+  "translations": {
+    "bg": "военна охрана",
+    "cs": "vojenská stráž",
+    "da": "en militærvagt",
+    "de": "eine militärische Wache",
+    "el": "στρατιωτική φρουρά",
+    "es": "un guardia militar",
+    "et": "sõjaväe valvur",
+    "fi": "sotilaskaarti",
+    "fr": "un garde militaire",
+    "hu": "katonai őrség",
+    "id": "seorang penjaga militer",
+    "it": "una guardia militare",
+    "ja": "へいえい",
+    "ko": "군 경비병",
+    "lt": "karinė sargyba",
+    "lv": "militārā apsardze",
+    "nb": "en militær vakt",
+    "nl": "een militaire wacht",
+    "pl": "strażnik wojskowy",
+    "pt": "uma guarda militar",
+    "ro": "o gardă militară",
+    "ru": "военная охрана",
+    "sk": "vojenská stráž",
+    "sl": "vojaška straža",
+    "sv": "en militär vakt",
+    "tr": "bir askeri muhafız",
+    "uk": "військовий охоронець",
+    "zh": "卫兵"
+  },
+  "verses": [
+    "firstSamuel 14:12:2",
+    "zechariah 9:8:2"
+  ]
+}

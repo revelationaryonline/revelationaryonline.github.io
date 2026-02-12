@@ -1,0 +1,42 @@
+{
+  "number": "H7735",
+  "language": "hebrew",
+  "transliteration": "sûwg",
+  "pronunciation": "soog",
+  "definition": "to hedge in",
+  "kjvTranslation": "make to grow.",
+  "hebrew": "שׂוּג",
+  "translations": {
+    "bg": "за хеджиране в",
+    "cs": "k zajištění v",
+    "da": "at afdække i",
+    "de": "zur Absicherung in",
+    "el": "για να αντισταθμίσει σε",
+    "es": "para cubrir en",
+    "et": "maandada",
+    "fi": "suojautua",
+    "fr": "à couvrir en",
+    "hu": "fedezni",
+    "id": "untuk melakukan lindung nilai",
+    "it": "di copertura in",
+    "ja": "でヘッジする。",
+    "ko": "헤지하려면",
+    "lt": "apsidrausti",
+    "lv": "nodrošināties pret risku",
+    "nb": "for å sikre seg i",
+    "nl": "om af te dekken in",
+    "pl": "do zabezpieczenia",
+    "pt": "para cobertura em",
+    "ro": "pentru a acoperi în",
+    "ru": "для хеджирования в",
+    "sk": "na zabezpečenie",
+    "sl": "za varovanje pred tveganjem v",
+    "sv": "för att säkra i",
+    "tr": "hedge etmek için",
+    "uk": "щоб застрахуватися",
+    "zh": "对冲"
+  },
+  "verses": [
+    "isaiah 17:11:2"
+  ]
+}

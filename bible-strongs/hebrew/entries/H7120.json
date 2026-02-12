@@ -1,0 +1,42 @@
+{
+  "number": "H7120",
+  "language": "hebrew",
+  "transliteration": "qôr",
+  "pronunciation": "kore",
+  "definition": "cold",
+  "kjvTranslation": "cold.",
+  "hebrew": "קֹר",
+  "translations": {
+    "bg": "студено",
+    "cs": "studené",
+    "da": "kold",
+    "de": "kalt",
+    "el": "κρύο",
+    "es": "frío",
+    "et": "külm",
+    "fi": "kylmä",
+    "fr": "froid",
+    "hu": "hideg",
+    "id": "dingin",
+    "it": "freddo",
+    "ja": "冷たい",
+    "ko": "cold",
+    "lt": "šaltas",
+    "lv": "auksts",
+    "nb": "kald",
+    "nl": "koud",
+    "pl": "zimno",
+    "pt": "frio",
+    "ro": "rece",
+    "ru": "холод",
+    "sk": "studené",
+    "sl": "hladno",
+    "sv": "kall",
+    "tr": "soğuk",
+    "uk": "холодний",
+    "zh": "冷"
+  },
+  "verses": [
+    "genesis 8:22:6"
+  ]
+}

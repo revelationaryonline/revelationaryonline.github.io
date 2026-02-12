@@ -1,0 +1,42 @@
+{
+  "number": "H4152",
+  "language": "hebrew",
+  "transliteration": "mûwʻâdâh",
+  "pronunciation": "moo-aw-daw'",
+  "definition": "an appointed place, i.e. asylum",
+  "kjvTranslation": "appointed.",
+  "hebrew": "מוּעָדָה",
+  "translations": {
+    "bg": "определено място, т.е. убежище",
+    "cs": "určené místo, tj. azyl",
+    "da": "et udpeget sted, dvs. asyl",
+    "de": "einen bestimmten Ort, d.h. ein Asyl",
+    "el": "ένα καθορισμένο μέρος, δηλαδή άσυλο",
+    "es": "un lugar designado, es decir, un asilo",
+    "et": "määratud koht, st varjupaik",
+    "fi": "määrätty paikka eli turvapaikka",
+    "fr": "un lieu désigné, c'est-à-dire un asile",
+    "hu": "egy kijelölt hely, azaz menedékhely",
+    "id": "tempat yang telah ditentukan, yaitu suaka",
+    "it": "un luogo stabilito, cioè un asilo",
+    "ja": "指定された場所、すなわち亡命先",
+    "ko": "지정된 장소, 즉 망명지",
+    "lt": "paskirta vieta, t. y. prieglobstis",
+    "lv": "noteiktā vietā, t.i., patvērumu",
+    "nb": "et bestemt sted, dvs. asyl",
+    "nl": "een aangewezen plaats, d.w.z. asiel",
+    "pl": "wyznaczone miejsce, tj. azyl",
+    "pt": "um lugar designado, ou seja, um asilo",
+    "ro": "un loc stabilit, adică azil",
+    "ru": "назначенное место, т.е. убежище",
+    "sk": "určené miesto, t. j. azyl",
+    "sl": "določen kraj, tj. azil",
+    "sv": "en utvald plats, dvs. asyl",
+    "tr": "belirlenmiş bir yer, yani sığınak",
+    "uk": "призначене місце, тобто притулок",
+    "zh": "指定地点，即庇护所"
+  },
+  "verses": [
+    "joshua 20:9:3"
+  ]
+}

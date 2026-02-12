@@ -1,0 +1,42 @@
+{
+  "number": "H5261",
+  "language": "hebrew",
+  "transliteration": "nᵉçak",
+  "pronunciation": "nes-ak'",
+  "definition": "a libation",
+  "kjvTranslation": "drink offering.",
+  "hebrew": "נְסַךְ",
+  "translations": {
+    "bg": "възлияние",
+    "cs": "úlitba",
+    "da": "en drikkelse",
+    "de": "ein Trankopfer",
+    "el": "μια σπονδή",
+    "es": "una libación",
+    "et": "libestamine",
+    "fi": "juoma",
+    "fr": "une libation",
+    "hu": "egy ital",
+    "id": "persembahan",
+    "it": "una libagione",
+    "ja": "一杯",
+    "ko": "해방",
+    "lt": "išlaisvinimas",
+    "lv": "libation",
+    "nb": "en drikk",
+    "nl": "een plengoffer",
+    "pl": "libacja",
+    "pt": "uma libação",
+    "ro": "o libație",
+    "ru": "возлияние",
+    "sk": "úľavu",
+    "sl": "liberacijo",
+    "sv": "en dryck",
+    "tr": "bir içki",
+    "uk": "випивка",
+    "zh": "奠酒"
+  },
+  "verses": [
+    "ezra 7:17:11"
+  ]
+}

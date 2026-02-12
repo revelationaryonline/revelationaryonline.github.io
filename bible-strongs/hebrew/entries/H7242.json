@@ -1,0 +1,43 @@
+{
+  "number": "H7242",
+  "language": "hebrew",
+  "transliteration": "râbîyd",
+  "pronunciation": "raw-beed'",
+  "definition": "a collar (as spread around the neck)",
+  "kjvTranslation": "chain.",
+  "hebrew": "רָבִיד",
+  "translations": {
+    "bg": "нашийник (като на врата)",
+    "cs": "obojek (jako obepínající krk)",
+    "da": "en krave (som sidder rundt om halsen)",
+    "de": "ein Halsband (wie um den Hals gelegt)",
+    "el": "κολάρο (που απλώνεται γύρω από το λαιμό)",
+    "es": "un collar (como el que se extiende alrededor del cuello)",
+    "et": "kaelarihm (nagu kaela ümber laiali)",
+    "fi": "kaulapanta (kaulan ympärille levitettynä)",
+    "fr": "un collier (comme étalé autour du cou)",
+    "hu": "nyakörv (a nyakra terítve)",
+    "id": "kerah (seperti yang disebarkan di leher)",
+    "it": "un collare (come se fosse steso intorno al collo)",
+    "ja": "襟巻き",
+    "ko": "목걸이(목에 두르는 형태)",
+    "lt": "apykaklė (uždedama ant kaklo)",
+    "lv": "apkakle (ap kaklu)",
+    "nb": "en krage (som spres rundt halsen)",
+    "nl": "een kraag (zoals verspreid rond de nek)",
+    "pl": "kołnierz (rozpięty wokół szyi)",
+    "pt": "uma coleira (como uma faixa à volta do pescoço)",
+    "ro": "un guler (întins în jurul gâtului)",
+    "ru": "ошейник (надевается на шею)",
+    "sk": "golier (ako obopínajúci krk)",
+    "sl": "ovratnik (za ovratnik okoli vratu)",
+    "sv": "en krage (som sätts runt halsen)",
+    "tr": "bir yaka (boynun etrafına yayılmış olarak)",
+    "uk": "нашийник (накинутий на шию)",
+    "zh": "领口"
+  },
+  "verses": [
+    "genesis 41:42:16",
+    "ezekiel 16:11:6"
+  ]
+}

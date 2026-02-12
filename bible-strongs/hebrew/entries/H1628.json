@@ -1,0 +1,42 @@
+{
+  "number": "H1628",
+  "language": "hebrew",
+  "transliteration": "gêrûwth",
+  "pronunciation": "gay-rooth'",
+  "definition": "a (temporary) residence",
+  "kjvTranslation": "habitation.",
+  "translations": {
+    "bg": "(временно) пребиваване",
+    "cs": "(dočasné) bydliště",
+    "da": "en (midlertidig) bolig",
+    "de": "einen (vorübergehenden) Wohnsitz",
+    "el": "μια (προσωρινή) κατοικία",
+    "es": "una residencia (temporal)",
+    "et": "(ajutine) elukoht",
+    "fi": "(tilapäinen) asuinpaikka",
+    "fr": "une résidence (temporaire)",
+    "hu": "(ideiglenes) lakóhely",
+    "id": "tempat tinggal (sementara)",
+    "it": "una residenza (temporanea)",
+    "ja": "居宅",
+    "ko": "(임시) 거주지",
+    "lt": "(laikina) gyvenamoji vieta",
+    "lv": "(pagaidu) dzīvesvieta",
+    "nb": "en (midlertidig) bolig",
+    "nl": "een (tijdelijk) verblijf",
+    "pl": "(tymczasowe) miejsce zamieszkania",
+    "pt": "uma residência (temporária)",
+    "ro": "o reședință (temporară)",
+    "ru": "(временное) место жительства",
+    "sk": "(dočasné) bydlisko",
+    "sl": "(začasno) prebivališče",
+    "sv": "en (tillfällig) bostad",
+    "tr": "(geçici) bir ikametgah",
+    "uk": "(тимчасове) місце проживання",
+    "zh": "暂住地"
+  },
+  "hebrew": "גֵּרוּת",
+  "verses": [
+    "jeremiah 41:17:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1487",
+  "language": "hebrew",
+  "transliteration": "gûwsh",
+  "pronunciation": "goosh",
+  "definition": "a mass of earth",
+  "kjvTranslation": "clod.",
+  "translations": {
+    "bg": "земна маса",
+    "cs": "masa země",
+    "da": "en masse af jord",
+    "de": "eine Masse von Erde",
+    "el": "μια μάζα γης",
+    "es": "una masa de tierra",
+    "et": "mullamass",
+    "fi": "maa-aines",
+    "fr": "une masse de terre",
+    "hu": "egy földtömeg",
+    "id": "massa bumi",
+    "it": "una massa di terra",
+    "ja": "大地の塊",
+    "ko": "지구의 덩어리",
+    "lt": "žemės masė",
+    "lv": "zemes masa",
+    "nb": "en masse jord",
+    "nl": "een massa aarde",
+    "pl": "masa ziemi",
+    "pt": "uma massa de terra",
+    "ro": "o masă de pământ",
+    "ru": "масса земли",
+    "sk": "masa zeme",
+    "sl": "masa zemlje",
+    "sv": "en massa av jord",
+    "tr": "bir toprak kütlesi",
+    "uk": "маса землі",
+    "zh": "抟土"
+  },
+  "hebrew": "גּוּשׁ",
+  "verses": [
+    "job 7:5:3",
+    "job 7:5:4"
+  ]
+}

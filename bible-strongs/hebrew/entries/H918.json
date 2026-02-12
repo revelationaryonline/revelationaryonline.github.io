@@ -1,0 +1,42 @@
+{
+  "number": "H918",
+  "language": "hebrew",
+  "transliteration": "bâdaq",
+  "pronunciation": "baw-dak'",
+  "definition": "to mend a breach",
+  "kjvTranslation": "repair.",
+  "translations": {
+    "bg": "да поправя нарушение",
+    "cs": "k nápravě trhliny",
+    "da": "at reparere et brud",
+    "de": "um eine Lücke zu schließen",
+    "el": "για να διορθώσω ένα ρήγμα",
+    "es": "para reparar una brecha",
+    "et": "parandada rikkumist",
+    "fi": "korjata rikkoutunut sopimus",
+    "fr": "combler une lacune",
+    "hu": "hogy helyrehozzunk egy sérülést",
+    "id": "untuk memperbaiki pelanggaran",
+    "it": "per riparare una frattura",
+    "ja": "仲直り",
+    "ko": "위반을 수정하기 위해",
+    "lt": "ištaisyti pažeidimą",
+    "lv": "labot plaisu",
+    "nb": "for å reparere et brudd",
+    "nl": "om een breuk te herstellen",
+    "pl": "naprawić wyrwę",
+    "pt": "para reparar uma rutura",
+    "ro": "pentru a repara o breșă",
+    "ru": "заделать брешь",
+    "sk": "napraviť porušenie",
+    "sl": "popraviti prelom",
+    "sv": "att reparera en skada",
+    "tr": "bir gediği onarmak için",
+    "uk": "щоб виправити порушення",
+    "zh": "亡羊补牢"
+  },
+  "hebrew": "בָּדַק",
+  "verses": [
+    "secondChronicles 34:10:16"
+  ]
+}

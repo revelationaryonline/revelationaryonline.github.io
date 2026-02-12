@@ -1,0 +1,42 @@
+{
+  "number": "H7377",
+  "language": "hebrew",
+  "transliteration": "rîy",
+  "pronunciation": "ree",
+  "definition": "irrigation, i.e. a shower",
+  "kjvTranslation": "watering.",
+  "hebrew": "רִי",
+  "translations": {
+    "bg": "напояване, т.е. душ",
+    "cs": "zavlažování, tj. sprcha",
+    "da": "kunstvanding, dvs. et brusebad",
+    "de": "bewässerung, d.h. eine Dusche",
+    "el": "άρδευση, δηλαδή ντους",
+    "es": "riego, es decir, una ducha",
+    "et": "niisutamine, st dušš",
+    "fi": "kastelu eli suihku",
+    "fr": "l'irrigation, c'est-à-dire une douche",
+    "hu": "öntözés, azaz zuhanyozás",
+    "id": "irigasi, yaitu pancuran",
+    "it": "irrigazione, cioè una doccia",
+    "ja": "灌漑、つまりシャワー",
+    "ko": "관개(예: 샤워)",
+    "lt": "drėkinimas, t. y. dušas",
+    "lv": "apūdeņošana, t.i., duša",
+    "nb": "vanning, dvs. en dusj",
+    "nl": "irrigatie, d.w.z. een douche",
+    "pl": "nawadnianie, tj. prysznic",
+    "pt": "irrigação, ou seja, um duche",
+    "ro": "irigare, de exemplu un duș",
+    "ru": "орошение, т.е. душ",
+    "sk": "zavlažovanie, t. j. sprcha",
+    "sl": "namakanje, tj. tuširanje",
+    "sv": "bevattning, t.ex. en dusch",
+    "tr": "sulama, yani duş",
+    "uk": "зрошення, тобто душ",
+    "zh": "灌溉，即淋浴"
+  },
+  "verses": [
+    "job 37:11:1"
+  ]
+}

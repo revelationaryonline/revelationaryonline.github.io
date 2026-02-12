@@ -1,0 +1,43 @@
+{
+  "number": "H6800",
+  "language": "hebrew",
+  "transliteration": "tsânaʻ",
+  "pronunciation": "tsaw-nah'",
+  "definition": "to humiliate",
+  "kjvTranslation": "humbly, lowly.",
+  "hebrew": "צָנַע",
+  "translations": {
+    "bg": "да се унижава",
+    "cs": "ponižovat",
+    "da": "at ydmyge",
+    "de": "zu demütigen",
+    "el": "να ταπεινώσει",
+    "es": "humillar",
+    "et": "alandada",
+    "fi": "nöyryyttää",
+    "fr": "humilier",
+    "hu": "megalázni",
+    "id": "untuk mempermalukan",
+    "it": "umiliare",
+    "ja": "恥をかかせる",
+    "ko": "굴욕감을 주다",
+    "lt": "pažeminti",
+    "lv": "pazemot",
+    "nb": "å ydmyke",
+    "nl": "vernederen",
+    "pl": "poniżać",
+    "pt": "humilhar",
+    "ro": "să umilească",
+    "ru": "унижать",
+    "sk": "ponížiť",
+    "sl": "ponižati",
+    "sv": "att förödmjuka",
+    "tr": "aşağılamak için",
+    "uk": "принизити",
+    "zh": "羞辱"
+  },
+  "verses": [
+    "proverbs 11:2:5",
+    "micah 6:8:15"
+  ]
+}

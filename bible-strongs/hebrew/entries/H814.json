@@ -1,0 +1,43 @@
+{
+  "number": "H814",
+  "language": "hebrew",
+  "transliteration": "ʼeshkâr",
+  "pronunciation": "esh-cawr'",
+  "definition": "a gratuity",
+  "kjvTranslation": "gift, present.",
+  "translations": {
+    "bg": "бакшиш",
+    "cs": "spropitné",
+    "da": "en erkendtlighed",
+    "de": "eine Gratifikation",
+    "el": "φιλοδώρημα",
+    "es": "una gratificación",
+    "et": "jootraha",
+    "fi": "juomaraha",
+    "fr": "un pourboire",
+    "hu": "hálapénz",
+    "id": "gratifikasi",
+    "it": "una mancia",
+    "ja": "心付け",
+    "ko": "팁",
+    "lt": "arbatpinigiai",
+    "lv": "naudas balvu",
+    "nb": "en drikkepenge",
+    "nl": "een gratificatie",
+    "pl": "napiwek",
+    "pt": "uma gratificação",
+    "ro": "o gratuitate",
+    "ru": "чаевые",
+    "sk": "odmenu",
+    "sl": "napitnina",
+    "sv": "en gratifikation",
+    "tr": "bir bahşiş",
+    "uk": "винагороду",
+    "zh": "小费"
+  },
+  "hebrew": "אֶשְׁכָּר",
+  "verses": [
+    "psalms 72:10:8",
+    "ezekiel 27:15:12"
+  ]
+}

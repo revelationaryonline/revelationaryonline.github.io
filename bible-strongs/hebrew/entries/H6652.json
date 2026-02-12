@@ -1,0 +1,42 @@
+{
+  "number": "H6652",
+  "language": "hebrew",
+  "transliteration": "tsibbur",
+  "pronunciation": "tsib-boor'",
+  "definition": "a pile",
+  "kjvTranslation": "heap.",
+  "hebrew": "צִבֻּר",
+  "translations": {
+    "bg": "купчина",
+    "cs": "hromada",
+    "da": "en bunke",
+    "de": "ein Haufen",
+    "el": "ένα σωρό",
+    "es": "un montón",
+    "et": "hunnik",
+    "fi": "kasa",
+    "fr": "une pile",
+    "hu": "egy halom",
+    "id": "tumpukan",
+    "it": "una pila",
+    "ja": "一山",
+    "ko": "더미",
+    "lt": "krūva",
+    "lv": "kaudze",
+    "nb": "en haug",
+    "nl": "een stapel",
+    "pl": "stos",
+    "pt": "um monte",
+    "ro": "o grămadă",
+    "ru": "куча",
+    "sk": "hromada",
+    "sl": "kup",
+    "sv": "en hög",
+    "tr": "bir yığın",
+    "uk": "купа",
+    "zh": "摞"
+  },
+  "verses": [
+    "secondKings 10:8:13"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3455",
+  "language": "hebrew",
+  "transliteration": "yâsam",
+  "pronunciation": "yaw-sam'",
+  "definition": "to place; intransitively, to be placed",
+  "kjvTranslation": "be put (set).",
+  "translations": {
+    "bg": "да се постави; в непреходно значение - да се постави",
+    "cs": "umístit; intranzitivně, být umístěn",
+    "da": "at placere; intransitivt, at blive placeret",
+    "de": "zu platzieren; intransitiv, platziert zu werden",
+    "el": "να τοποθετηθεί- ενδοτικά, να τοποθετηθεί",
+    "es": "colocar; intransitivamente, ser colocado",
+    "et": "paigutada; intransitiivselt, paigutada",
+    "fi": "sijoittaa; intransitiivisesti, sijoitetaan",
+    "fr": "placer ; intransitivement, être placé",
+    "hu": "elhelyezni; intranzitív módon, elhelyezni",
+    "id": "menempatkan; secara intransitif, untuk ditempatkan",
+    "it": "collocare; intransitivamente, essere collocati",
+    "ja": "を置く。",
+    "ko": "놓다; 과도적으로, 배치하다",
+    "lt": "patalpinti; intranzityviai, būti patalpintas",
+    "lv": "novietot; intranzitīvi - novietot",
+    "nb": "å plassere; intransitivt, å bli plassert",
+    "nl": "plaatsen; transitief, geplaatst worden",
+    "pl": "umieścić; nieprzejednanie, być umieszczonym",
+    "pt": "colocar; intransitivamente, ser colocado",
+    "ro": "a plasa; intransitiv, a fi plasat",
+    "ru": "размещать; интранзитивно, быть размещенным",
+    "sk": "umiestniť; intranzitívne, byť umiestnený",
+    "sl": "postaviti; intranzitivno, biti postavljen",
+    "sv": "att placera; intransitivt, att bli placerad",
+    "tr": "yerleştirmek; geçişsiz olarak, yerleştirilmek",
+    "uk": "розміщувати; неперехідно, бути розміщеним",
+    "zh": "放置；不对称地，被放置"
+  },
+  "hebrew": "יָשַׂם",
+  "verses": [
+    "genesis 24:33:0",
+    "genesis 50:26:8"
+  ]
+}

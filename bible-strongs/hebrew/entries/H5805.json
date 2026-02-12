@@ -1,0 +1,42 @@
+{
+  "number": "H5805",
+  "language": "hebrew",
+  "transliteration": "ʻăzûwbâh",
+  "pronunciation": "az-oo-baw'",
+  "definition": "desertion (of inhabitants)",
+  "kjvTranslation": "forsaking.",
+  "hebrew": "עֲזוּבָה",
+  "translations": {
+    "bg": "дезертьорство (на жители)",
+    "cs": "opuštění (obyvatel)",
+    "da": "desertering (af indbyggere)",
+    "de": "fahnenflucht (von Einwohnern)",
+    "el": "εγκατάλειψη (των κατοίκων)",
+    "es": "abandono (de habitantes)",
+    "et": "(elanike) hülgamine",
+    "fi": "(asukkaiden) autioituminen",
+    "fr": "désertion (des habitants)",
+    "hu": "(lakosok) elhagyása",
+    "id": "desersi (penduduk)",
+    "it": "diserzione (di abitanti)",
+    "ja": "だっそう",
+    "ko": "탈영(주민 이탈)",
+    "lt": "(gyventojų) dezertyravimas",
+    "lv": "dezertēšana (no iedzīvotājiem)",
+    "nb": "desertering (av innbyggere)",
+    "nl": "desertie (van inwoners)",
+    "pl": "dezercja (mieszkańców)",
+    "pt": "deserção (de habitantes)",
+    "ro": "dezertare (a locuitorilor)",
+    "ru": "дезертирство (жителей)",
+    "sk": "opustenie (obyvateľov)",
+    "sl": "zapuščanje (prebivalcev)",
+    "sv": "desertering (av invånare)",
+    "tr": "(bölge sakinlerinin) firar etmesi",
+    "uk": "дезертирство (мешканців)",
+    "zh": "开小差"
+  },
+  "verses": [
+    "isaiah 6:12:5"
+  ]
+}

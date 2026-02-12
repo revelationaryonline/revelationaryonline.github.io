@@ -1,0 +1,42 @@
+{
+  "number": "H8501",
+  "language": "hebrew",
+  "transliteration": "tâkâk",
+  "pronunciation": "taw-kawk'",
+  "definition": "to dissever, i.e. crush",
+  "kjvTranslation": "deceitful.",
+  "hebrew": "תָּכָךְ",
+  "translations": {
+    "bg": "да се разруши, т.е. да се смаже",
+    "cs": "rozbít, tj. rozdrtit",
+    "da": "at dissekere, dvs. knuse",
+    "de": "zersetzen, d.h. zerquetschen",
+    "el": "να διαλύσει, δηλαδή να συντρίψει",
+    "es": "dissever, es decir, aplastar",
+    "et": "dissever, st purustada",
+    "fi": "dissever, eli murskata",
+    "fr": "de disséquer, c'est-à-dire d'écraser",
+    "hu": "szétzúzni, azaz összezúzni",
+    "id": "untuk menghancurkan, yaitu menghancurkan",
+    "it": "dissotterrare, cioè schiacciare",
+    "ja": "砕く",
+    "ko": "발견하다, 즉 부수다",
+    "lt": "išardyti, t. y. sutraiškyti",
+    "lv": "izjaukt, t.i., sadragāt",
+    "nb": "å dissevere, dvs. knuse",
+    "nl": "dissever, d.w.z. verpletteren",
+    "pl": "rozdzielić, tj. zmiażdżyć",
+    "pt": "desvirtuar, ou seja, esmagar",
+    "ro": "to dissever, adică a zdrobi",
+    "ru": "расколоть, т.е. раздавить",
+    "sk": "rozvrátiť, t. j. rozdrviť",
+    "sl": "razdreti, tj. zdrobiti",
+    "sv": "att dissekera, d.v.s. krossa",
+    "tr": "parçalamak, yani ezmek",
+    "uk": "роз'єднати, тобто розчавити",
+    "zh": "碾碎"
+  },
+  "verses": [
+    "proverbs 29:13:2"
+  ]
+}

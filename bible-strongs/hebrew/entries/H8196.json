@@ -1,0 +1,43 @@
+{
+  "number": "H8196",
+  "language": "hebrew",
+  "transliteration": "shᵉphôwṭ",
+  "pronunciation": "shef-ote'",
+  "definition": "a judicial sentence, i.e. punishment",
+  "kjvTranslation": "judgment.",
+  "hebrew": "שְׁפוֹט",
+  "translations": {
+    "bg": "съдебна присъда, т.е. наказание",
+    "cs": "soudní rozsudek, tj. trest",
+    "da": "en retslig dom, dvs. en straf",
+    "de": "ein gerichtliches Urteil, d.h. eine Strafe",
+    "el": "δικαστική ποινή, δηλαδή τιμωρία",
+    "es": "una sentencia judicial, es decir, un castigo",
+    "et": "kohtuotsus, st karistus",
+    "fi": "oikeudellinen tuomio eli rangaistus",
+    "fr": "une sentence judiciaire, c'est-à-dire une peine",
+    "hu": "bírósági ítélet, azaz büntetés",
+    "id": "hukuman yudisial, yaitu hukuman",
+    "it": "una sentenza giudiziaria, cioè una punizione",
+    "ja": "刑罰",
+    "ko": "사법적 선고, 즉 처벌",
+    "lt": "teismo nuosprendis, t. y. bausmė",
+    "lv": "tiesas spriedums, t.i., sods",
+    "nb": "en rettslig dom, dvs. straff",
+    "nl": "een gerechtelijk vonnis, d.w.z. straf",
+    "pl": "wyrok sądowy, tj. kara",
+    "pt": "uma sentença judicial, ou seja, um castigo",
+    "ro": "o sentință judecătorească, adică o pedeapsă",
+    "ru": "судебный приговор, т.е. наказание",
+    "sk": "súdny rozsudok, t. j. trest",
+    "sl": "sodna obsodba, tj. kazen",
+    "sv": "en rättslig dom, dvs. ett straff",
+    "tr": "adli bir hüküm, yani ceza",
+    "uk": "судовий вирок, тобто покарання",
+    "zh": "司法判决，即惩罚"
+  },
+  "verses": [
+    "secondChronicles 20:9:5",
+    "ezekiel 23:10:12"
+  ]
+}

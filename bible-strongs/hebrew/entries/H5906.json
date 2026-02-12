@@ -1,0 +1,43 @@
+{
+  "number": "H5906",
+  "language": "hebrew",
+  "transliteration": "ʻAyish",
+  "pronunciation": "ah'-yish",
+  "definition": "the constellation of the Great Bear (perhaps from its migration through the heavens)",
+  "kjvTranslation": "Arcturus.",
+  "hebrew": "עַיִשׁ",
+  "translations": {
+    "bg": "съзвездието Голяма мечка (може би заради миграцията ѝ през небето)",
+    "cs": "souhvězdí Velké medvědice (snad podle jejího putování po obloze)",
+    "da": "konstellationen Store Bjørn (måske fra dens vandring gennem himlen)",
+    "de": "das Sternbild des Großen Bären (vielleicht wegen seiner Wanderung durch den Himmel)",
+    "el": "ο αστερισμός της Μεγάλης Αρκούδας (ίσως από τη μετανάστευσή της στους ουρανούς)",
+    "es": "la constelación de la Osa Mayor (quizás por su migración a través de los cielos)",
+    "et": "suure Karu tähtkuju (võib-olla selle rändest läbi taeva)",
+    "fi": "suuren karhun tähdistö (ehkä sen vaelluksesta taivaalla)",
+    "fr": "la constellation de la Grande Ourse (peut-être en raison de sa migration dans les cieux)",
+    "hu": "a Nagy Medve csillagkép (talán az égbolton való vándorlása miatt)",
+    "id": "konstelasi Beruang Besar (mungkin dari migrasinya melintasi langit)",
+    "it": "la costellazione dell'Orsa Maggiore (forse dalla sua migrazione attraverso i cieli)",
+    "ja": "大熊座",
+    "ko": "대곰의 별자리(아마도 하늘을 이동하는 모습에서 따온 것일 수 있습니다)",
+    "lt": "didžiojo lokio žvaigždynas (galbūt dėl jo migracijos per dangų)",
+    "lv": "lielā lāča zvaigznājs (iespējams, no tā migrācijas pa debesīm)",
+    "nb": "konstellasjonen Store Bjørn (kanskje fra dens vandring gjennom himmelen)",
+    "nl": "het sterrenbeeld Grote Beer (misschien van zijn migratie door de hemel)",
+    "pl": "gwiazdozbiór Wielkiej Niedźwiedzicy (być może od jej wędrówki przez niebiosa)",
+    "pt": "a constelação da Ursa Maior (talvez devido à sua migração através dos céus)",
+    "ro": "constelația Marelui Urs (poate de la migrația sa prin ceruri)",
+    "ru": "созвездие Большой Медведицы (возможно, из-за ее перемещения по небосводу)",
+    "sk": "súhvezdie Veľkej medvedice (možno podľa jej putovania po oblohe)",
+    "sl": "ozvezdje Velikega medveda (morda zaradi njegove selitve po nebu)",
+    "sv": "konstellationen Stora björnen (kanske från dess vandring genom himlavalvet)",
+    "tr": "büyük Ayı takımyıldızı (belki de göklerdeki göçünden)",
+    "uk": "сузір'я Великої Ведмедиці (можливо, від її міграції по небу)",
+    "zh": "大熊座"
+  },
+  "verses": [
+    "job 9:9:1",
+    "job 38:32:3"
+  ]
+}

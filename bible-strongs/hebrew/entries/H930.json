@@ -1,0 +1,42 @@
+{
+  "number": "H930",
+  "language": "hebrew",
+  "transliteration": "bᵉhêmôwth",
+  "pronunciation": "be-hay-mohth'",
+  "definition": "a water-ox, i.e. the hippopotamus or Nile-horse",
+  "kjvTranslation": "Behemoth.",
+  "translations": {
+    "bg": "водна лисица, т.е. хипопотам или нилски кон",
+    "cs": "vodní liška, tj. hroch nebo nilský kůň",
+    "da": "en vand-okse, dvs. flodhesten eller nilhesten",
+    "de": "ein Wasserochse, d.h. das Flusspferd oder Nilpferd",
+    "el": "ένα νερό-οξυγόνο, δηλαδή ο ιπποπόταμος ή το άλογο του Νείλου",
+    "es": "un buey de agua, es decir, el hipopótamo o caballo del Nilo",
+    "et": "vesihobu, st jõehobu või Niiluse hobune",
+    "fi": "vesikettu eli virtahepo tai Niilin hevonen",
+    "fr": "un bœuf d'eau, c'est-à-dire l'hippopotame ou le cheval du Nil",
+    "hu": "víziló, azaz a víziló vagy nílusi ló",
+    "id": "seekor kerbau air, yaitu kuda nil atau kuda Nil",
+    "it": "una volpe d'acqua, cioè l'ippopotamo o cavallo del Nilo",
+    "ja": "みずうし",
+    "ko": "물소, 즉 하마 또는 나일강 말",
+    "lt": "vandens lapė, t. y. hipopotamas arba Nilo arklys",
+    "lv": "ūdens lapsis, t. i., hipopotams vai Nīlas zirgs",
+    "nb": "en vannokse, dvs. flodhesten eller nilhesten",
+    "nl": "een water-ox, d.w.z. het nijlpaard of nijlpaard",
+    "pl": "lisa wodnego, tj. hipopotama lub konia nilowego",
+    "pt": "um óxido de água, ou seja, o hipopótamo ou cavalo do Nilo",
+    "ro": "un vulpe de apă, adică hipopotamul sau calul Nilului",
+    "ru": "водный лис, т.е. бегемот или нильский конь",
+    "sk": "vodný líšok, t. j. hroch alebo nílsky kôň",
+    "sl": "vodni lis, tj. hipopotam ali nilski konj",
+    "sv": "en vattenoxe, dvs. flodhäst eller nilhäst",
+    "tr": "bir su öküzü, yani su aygırı veya Nil atı",
+    "uk": "водяний віслюк, тобто бегемот або нільський кінь",
+    "zh": "河马"
+  },
+  "hebrew": "בְּהֵמוֹת",
+  "verses": [
+    "job 40:15:2"
+  ]
+}

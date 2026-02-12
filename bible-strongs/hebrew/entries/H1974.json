@@ -1,0 +1,43 @@
+{
+  "number": "H1974",
+  "language": "hebrew",
+  "transliteration": "hillûwl",
+  "pronunciation": "hil-lool'",
+  "definition": "a celebration of thanksgiving for harvest",
+  "kjvTranslation": "merry, praise.",
+  "translations": {
+    "bg": "празник на благодарността за реколтата",
+    "cs": "oslava díkůvzdání za úrodu",
+    "da": "en fejring af taknemmelighed for høsten",
+    "de": "ein Fest des Erntedankes",
+    "el": "μια γιορτή ευχαριστίας για τη συγκομιδή",
+    "es": "una celebración de acción de gracias por la cosecha",
+    "et": "tänuüritus saagikoristuse eest",
+    "fi": "sadonkorjuun kiitosjuhla",
+    "fr": "une célébration d'action de grâce pour la récolte",
+    "hu": "a betakarításért való hálaadás ünnepe",
+    "id": "perayaan syukur atas panen",
+    "it": "una celebrazione di ringraziamento per il raccolto",
+    "ja": "収穫感謝祭",
+    "ko": "추수를 감사하는 축제",
+    "lt": "padėkos už derlių šventė",
+    "lv": "pateicības svētki par ražu",
+    "nb": "en feiring av høsttakkefesten",
+    "nl": "een viering van dankbaarheid voor de oogst",
+    "pl": "święto dziękczynienia za plony",
+    "pt": "uma celebração de ação de graças pela colheita",
+    "ro": "o sărbătoare de mulțumire pentru recoltă",
+    "ru": "праздник благодарения за урожай",
+    "sk": "oslava vďaky za úrodu",
+    "sl": "praznovanje zahvale za pridelek",
+    "sv": "ett firande av tacksägelse för skörden",
+    "tr": "hasat i̇çi̇n şükran günü kutlamasi",
+    "uk": "свято подяки за врожай",
+    "zh": "感恩丰收"
+  },
+  "hebrew": "הִלּוּל",
+  "verses": [
+    "leviticus 19:24:6",
+    "judges 9:27:7"
+  ]
+}

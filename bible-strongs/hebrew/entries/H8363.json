@@ -1,0 +1,42 @@
+{
+  "number": "H8363",
+  "language": "hebrew",
+  "transliteration": "shᵉthil",
+  "pronunciation": "sheth-eel'",
+  "definition": "a sprig (as if transplanted), i.e. sucker",
+  "kjvTranslation": "plant.",
+  "hebrew": "שְׁתִל",
+  "translations": {
+    "bg": "клонче (като пресадено), т.е. издънка",
+    "cs": "větvička (jakoby přesazená), tj. výhonek",
+    "da": "en kvist (som om den var transplanteret), dvs. en sugekop",
+    "de": "ein Zweig (wie verpflanzt), d.h. ein Ableger",
+    "el": "ένα κλαδάκι (σαν μεταφυτευμένο), δηλαδή ένα βλαστάρι",
+    "es": "un brote (como si se hubiera trasplantado), es decir, un retoño",
+    "et": "okas (nagu ümber istutatud), st imik, st imikupuu",
+    "fi": "oksa (ikään kuin istutettu), ts. imijä",
+    "fr": "un rameau (comme s'il était transplanté), c'est-à-dire un drageon",
+    "hu": "egy ág (mintha átültetnék), azaz egy szívócska",
+    "id": "setangkai (seolah-olah dicangkokkan), yaitu pengisap",
+    "it": "un rametto (come se fosse trapiantato), cioè un pollone",
+    "ja": "小枝",
+    "ko": "장식 (이식 한 것처럼), 즉 빨판",
+    "lt": "šakelė (tarsi persodinta), t. y. atžala",
+    "lv": "zariņš (kā pārstādīts), t. i., atvase",
+    "nb": "en kvist (som om den var transplantert), dvs. en sucker",
+    "nl": "een takje (alsof het verplant is), d.w.z. een uitloper",
+    "pl": "gałązka (jakby przeszczepiona), tj. przyssawka",
+    "pt": "um ramo (como se tivesse sido transplantado), ou seja, um rebento",
+    "ro": "o crenguță (ca și cum ar fi transplantată), adică un sugaci",
+    "ru": "веточка (как при пересадке), т.е. отросток",
+    "sk": "vetvička (akoby presadená), t. j. výhonok",
+    "sl": "vejica (kot presajena), tj. poganjek",
+    "sv": "en kvist (som om den var transplanterad), dvs. en sugklocka",
+    "tr": "bir dal (nakledilmiş gibi), yani emici",
+    "uk": "гілочка (ніби пересаджена), тобто нащадок",
+    "zh": "一枝（如移植），即吸盘"
+  },
+  "verses": [
+    "psalms 128:3:6"
+  ]
+}

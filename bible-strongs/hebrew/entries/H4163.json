@@ -1,0 +1,43 @@
+{
+  "number": "H4163",
+  "language": "hebrew",
+  "transliteration": "môwtsâʼâh",
+  "pronunciation": "mo-tsaw-aw'",
+  "definition": "a family descent; also a sewer",
+  "kjvTranslation": "draught house; going forth.",
+  "hebrew": "מוֹצָאָה",
+  "translations": {
+    "bg": "семейно потекло; също и канализация",
+    "cs": "rodinný původ; také kanalizace",
+    "da": "en familieafstamning; også en kloak",
+    "de": "eine familiäre Abstammung; auch ein Abwasserkanal",
+    "el": "μια οικογενειακή καταγωγή- επίσης ένας υπόνομος",
+    "es": "una descendencia familiar; también una cloaca",
+    "et": "perekondlik põlvnemine; ka kanalisatsioon",
+    "fi": "suvun syntyperä; myös viemäri",
+    "fr": "une descendance familiale ; également un égout",
+    "hu": "családi leszármazás; csatorna is",
+    "id": "keturunan keluarga; juga selokan",
+    "it": "una discendenza familiare; anche una fogna",
+    "ja": "下水道",
+    "ko": "가족 혈통; 또한 하수도",
+    "lt": "šeimos kilmė; taip pat kanalizacija",
+    "lv": "dzimtas izcelsme; arī kanalizācija",
+    "nb": "en familieavstamning; også en kloakk",
+    "nl": "een familieafstamming; ook een riool",
+    "pl": "pochodzenie rodzinne; również kanał ściekowy",
+    "pt": "uma descendência familiar; também um esgoto",
+    "ro": "o descendență familială; de asemenea, o canalizare",
+    "ru": "семейное происхождение; также канализация",
+    "sk": "rodinný pôvod; tiež kanalizácia",
+    "sl": "družinsko poreklo; tudi kanal",
+    "sv": "en familjs härkomst; även en kloak",
+    "tr": "bir aile soyu; ayrıca bir kanalizasyon",
+    "uk": "сімейне походження; також каналізація",
+    "zh": "一脉"
+  },
+  "verses": [
+    "secondKings 10:27:10",
+    "micah 5:1:14"
+  ]
+}

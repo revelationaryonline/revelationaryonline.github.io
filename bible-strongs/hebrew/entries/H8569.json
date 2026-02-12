@@ -1,0 +1,43 @@
+{
+  "number": "H8569",
+  "language": "hebrew",
+  "transliteration": "tᵉnûwʼâh",
+  "pronunciation": "ten-oo-aw'",
+  "definition": "alienation; by implication, enmity",
+  "kjvTranslation": "breach of promise, occasion.",
+  "hebrew": "תְּנוּאָה",
+  "translations": {
+    "bg": "отчуждаване; по подразбиране - враждебност",
+    "cs": "odcizení; implicitně nepřátelství",
+    "da": "fremmedgørelse; underforstået fjendskab",
+    "de": "entfremdung; implizit Feindschaft",
+    "el": "αποξένωση- κατ' επέκταση, εχθρότητα",
+    "es": "alienación; por implicación, enemistad",
+    "et": "võõrandumine; kaudselt vaenulikkus",
+    "fi": "vieraannuttaminen; implisiittisesti vihamielisyys",
+    "fr": "aliénation ; par voie de conséquence, inimitié",
+    "hu": "elidegenedés; értelemszerűen ellenségeskedés",
+    "id": "keterasingan; dengan implikasi, permusuhan",
+    "it": "alienazione; per implicazione, inimicizia",
+    "ja": "疎外；暗に敵意",
+    "ko": "소외; 암시적으로 적대감",
+    "lt": "susvetimėjimas; netiesiogiai - priešiškumas",
+    "lv": "atsvešinātība; netieši - ienaids",
+    "nb": "fremmedgjøring; underforstått fiendskap",
+    "nl": "vervreemding; bij implicatie, vijandschap",
+    "pl": "alienacja; w domyśle wrogość",
+    "pt": "alienação; por implicação, inimizade",
+    "ro": "alienare; implicit, dușmănie",
+    "ru": "отчуждение; по косвенным признакам - вражда",
+    "sk": "odcudzenie; implicitne nepriateľstvo",
+    "sl": "odtujitev; implicitno sovražnost",
+    "sv": "alienation; underförstått, fiendskap",
+    "tr": "yabancılaşma; ima yoluyla, düşmanlık",
+    "uk": "відчуження; по суті, ворожнеча",
+    "zh": "疏远；暗示敌意"
+  },
+  "verses": [
+    "numbers 14:34:19",
+    "job 33:10:1"
+  ]
+}

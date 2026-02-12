@@ -1,0 +1,42 @@
+{
+  "number": "H1428",
+  "language": "hebrew",
+  "transliteration": "gidyâh",
+  "pronunciation": "ghid-yaw'",
+  "definition": "a river brink",
+  "kjvTranslation": "bank.",
+  "translations": {
+    "bg": "край на река",
+    "cs": "břeh řeky",
+    "da": "en flodkant",
+    "de": "ein Flussufer",
+    "el": "μια άκρη ποταμού",
+    "es": "la orilla de un río",
+    "et": "jõe ääres",
+    "fi": "joen reunalla",
+    "fr": "une rivière au bord de l'eau",
+    "hu": "egy folyó partján",
+    "id": "tepi sungai",
+    "it": "l'orlo di un fiume",
+    "ja": "川縁",
+    "ko": "강변",
+    "lt": "upės pakraštys",
+    "lv": "upes malā",
+    "nb": "en elvebredd",
+    "nl": "een rivierrand",
+    "pl": "brzeg rzeki",
+    "pt": "a margem de um rio",
+    "ro": "o margine de râu",
+    "ru": "речной порог",
+    "sk": "breh rieky",
+    "sl": "rob reke",
+    "sv": "en flodbrink",
+    "tr": "bir nehir kenarı",
+    "uk": "на березі річки",
+    "zh": "临河"
+  },
+  "hebrew": "גִּדְיָה",
+  "verses": [
+    "firstChronicles 12:16:12"
+  ]
+}

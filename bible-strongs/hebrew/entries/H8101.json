@@ -1,0 +1,42 @@
+{
+  "number": "H8101",
+  "language": "hebrew",
+  "transliteration": "Shimʻâthîy",
+  "pronunciation": "shim-aw-thee'",
+  "definition": "a Shimathite (collectively) or descendants of Shimah",
+  "kjvTranslation": "Shimeathites.",
+  "hebrew": "שִׁמְעָתִי",
+  "translations": {
+    "bg": "симатски (колективно) или потомци на Сима",
+    "cs": "šimáthovci (souhrnně) nebo potomci Šimachovi",
+    "da": "en shimathit (kollektivt) eller efterkommere af shima",
+    "de": "ein Schimathiter (kollektiv) oder Nachkommen von Schima",
+    "el": "σιμαθίτης (συλλογικά) ή απόγονοι του Σιμά",
+    "es": "un Simatí (colectivamente) o descendientes de Simá",
+    "et": "siimatiit (kollektiivselt) või Siima järeltulijad",
+    "fi": "simatilaiset (kollektiivisesti) tai Siman jälkeläiset",
+    "fr": "un Shimathite (collectivement) ou des descendants de Shimah",
+    "hu": "egy símathita (kollektíven) vagy Sima leszármazottai",
+    "id": "orang Shimath (secara kolektif) atau keturunan Shimah",
+    "it": "uno Shimathita (collettivamente) o discendente di Shimah",
+    "ja": "シマ人（総称）またはシマの子孫",
+    "ko": "시마타이트(총칭) 또는 시마의 후손",
+    "lt": "šimatitai (bendrai) arba Šimos palikuonys",
+    "lv": "šimāti (kopā) vai Šimas pēcnācēji",
+    "nb": "en sjimatitt (kollektivt) eller etterkommere av sjima",
+    "nl": "een Shimathiet (gezamenlijk) of afstammelingen van Shimah",
+    "pl": "szimatytów (łącznie) lub potomków Szimy",
+    "pt": "um simatita (coletivamente) ou descendentes de Simá",
+    "ro": "un șimatit (colectiv) sau descendenții lui Șima",
+    "ru": "симафитянин (собирательно) или потомки Симаха",
+    "sk": "šimatovci (spoločne) alebo potomkovia Šimachovi",
+    "sl": "šimatovec (skupaj) ali Šimahovi potomci",
+    "sv": "en shimathit (kollektivt) eller ättlingar till Shimah",
+    "tr": "bir Şimatit (topluca) ya da Şimah'ın soyundan gelenler",
+    "uk": "шиматит (спільно) або нащадки Шимаха",
+    "zh": "西玛人（统称）或西玛的后裔"
+  },
+  "verses": [
+    "firstChronicles 2:55:6"
+  ]
+}

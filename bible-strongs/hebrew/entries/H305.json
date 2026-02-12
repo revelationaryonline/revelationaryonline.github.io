@@ -1,0 +1,43 @@
+{
+  "number": "H305",
+  "language": "hebrew",
+  "transliteration": "ʼachălay",
+  "pronunciation": "akh-al-ah'ee",
+  "definition": "would that!",
+  "kjvTranslation": "O that, would God.",
+  "translations": {
+    "bg": "би ли го направил!",
+    "cs": "by to!",
+    "da": "ville det!",
+    "de": "wäre das!",
+    "el": "θα το έκανα αυτό!",
+    "es": "¡Eso!",
+    "et": "oleks see!",
+    "fi": "...sitä!",
+    "fr": "le gouvernement a fait un pas dans la bonne direction, mais il ne l'a pas fait",
+    "hu": "...az lenne!",
+    "id": "akan itu!",
+    "it": "lo farei!",
+    "ja": "そうだろう！",
+    "ko": "그럴까요!",
+    "lt": "tai būtų!",
+    "lv": "būtu, ka!",
+    "nb": "ville det!",
+    "nl": "zou dat!",
+    "pl": "czyżby!",
+    "pt": "seria isso!",
+    "ro": "ar face asta!",
+    "ru": "вот это да!",
+    "sk": "by to!",
+    "sl": "bi to!",
+    "sv": "skulle det!",
+    "tr": "bu olur mu!",
+    "uk": "якби ж то!",
+    "zh": "会那样！"
+  },
+  "hebrew": "אַחֲלַי",
+  "verses": [
+    "secondKings 5:3:3",
+    "psalms 119:5:0"
+  ]
+}

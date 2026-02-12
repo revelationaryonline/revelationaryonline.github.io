@@ -1,0 +1,43 @@
+{
+  "number": "H2164",
+  "language": "hebrew",
+  "transliteration": "zᵉman",
+  "pronunciation": "zem-an'",
+  "definition": "to agree (on a time and place)",
+  "kjvTranslation": "prepare.",
+  "translations": {
+    "bg": "да се споразумеят (за време и място)",
+    "cs": "dohodnout se (na čase a místě)",
+    "da": "at blive enige (om tid og sted)",
+    "de": "sich (auf einen Zeitpunkt und einen Ort) zu einigen",
+    "el": "να συμφωνήσετε (για τον χρόνο και τον τόπο)",
+    "es": "ponerse de acuerdo (sobre la hora y el lugar)",
+    "et": "leppida kokku (aeg ja koht)",
+    "fi": "sopia (ajasta ja paikasta)",
+    "fr": "se mettre d'accord (sur le lieu et la date)",
+    "hu": "megegyezni (időpontban és helyen)",
+    "id": "untuk menyetujui (waktu dan tempat)",
+    "it": "concordare (su un tempo e un luogo)",
+    "ja": "とりきめる",
+    "ko": "(시간과 장소에 대한) 동의",
+    "lt": "susitarti (dėl laiko ir vietos)",
+    "lv": "vienoties (par laiku un vietu)",
+    "nb": "å bli enige (om tid og sted)",
+    "nl": "afspreken (over een tijd en plaats)",
+    "pl": "uzgodnić (czas i miejsce)",
+    "pt": "chegar a acordo (sobre uma data e um local)",
+    "ro": "să se pună de acord (cu privire la un moment și un loc)",
+    "ru": "договариваться (о времени и месте)",
+    "sk": "dohodnúť sa (na čase a mieste)",
+    "sl": "dogovoriti se (o času in kraju)",
+    "sv": "att komma överens (om tid och plats)",
+    "tr": "(bir zaman ve yer üzerinde) anlaşmak",
+    "uk": "домовитися (про час і місце)",
+    "zh": "约定"
+  },
+  "hebrew": "זְמַן",
+  "verses": [
+    "daniel 2:9:11",
+    "daniel 2:9:12"
+  ]
+}

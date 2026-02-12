@@ -1,0 +1,42 @@
+{
+  "number": "H6284",
+  "language": "hebrew",
+  "transliteration": "pâʼâh",
+  "pronunciation": "paw-aw'",
+  "definition": "to puff, i.e. blow away",
+  "kjvTranslation": "scatter into corners.",
+  "hebrew": "פָּאָה",
+  "translations": {
+    "bg": "да се издуе, т.е. да се издуе",
+    "cs": "vyfouknout, tj. odfouknout",
+    "da": "at puste, dvs. blæse væk",
+    "de": "pusten, d.h. wegblasen",
+    "el": "να φυσήξει, δηλ. να ξεφουσκώσει",
+    "es": "resoplar, es decir, soplar",
+    "et": "puhuda, st ära puhuda",
+    "fi": "puhaltaa, eli puhaltaa pois",
+    "fr": "souffler, c'est-à-dire s'envoler",
+    "hu": "felfújni, azaz elfújni",
+    "id": "untuk mengembuskan napas, yaitu meniup",
+    "it": "soffiare, cioè soffiare via",
+    "ja": "吹き飛ばす",
+    "ko": "부풀리다, 즉 날려버리다",
+    "lt": "pūsti, t. y. išpūsti",
+    "lv": "uzpūst, t.i., izpūst, izspridzināt",
+    "nb": "å puste, dvs. blåse bort",
+    "nl": "puffen, d.w.z. wegblazen",
+    "pl": "dmuchać, tj. zdmuchiwać",
+    "pt": "soprar, ou seja, soprar",
+    "ro": "a sufla, adică a sufla departe",
+    "ru": "отдуваться, т.е. сдуваться",
+    "sk": "nafúknuť, t. j. odfúknuť",
+    "sl": "izpihovati, tj. odpihovati",
+    "sv": "att puffa, dvs. blåsa bort",
+    "tr": "üflemek, yani uçurmak",
+    "uk": "надути, тобто здути",
+    "zh": "扑，即吹走"
+  },
+  "verses": [
+    "deuteronomy 32:26:1"
+  ]
+}

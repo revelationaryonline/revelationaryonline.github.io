@@ -1,0 +1,43 @@
+{
+  "number": "H4168",
+  "language": "hebrew",
+  "transliteration": "môwqêd",
+  "pronunciation": "mo-kade'",
+  "definition": "a fire or fuel; abstractly, a conflagration",
+  "kjvTranslation": "burning, hearth.",
+  "hebrew": "מוֹקֵד",
+  "translations": {
+    "bg": "огън или гориво; абстрактно - пожар",
+    "cs": "oheň nebo palivo; abstraktně požár",
+    "da": "en brand eller et brændstof; abstrakt set en brand",
+    "de": "ein Feuer oder Brennstoff; abstrakt eine Feuersbrunst",
+    "el": "φωτιά ή καύσιμη ύλη- αφηρημένα, μια πυρκαγιά",
+    "es": "un fuego o combustible; en abstracto, una conflagración",
+    "et": "tulekahju või kütus; abstraktselt: tulekahju",
+    "fi": "tulipalo tai polttoaine; abstraktisti, tulipalo",
+    "fr": "un feu ou un combustible ; abstraitement, une conflagration",
+    "hu": "tűz vagy tüzelőanyag; elvontan, tűzvész",
+    "id": "api atau bahan bakar; secara abstrak, kobaran api",
+    "it": "un fuoco o un combustibile; astrattamente, una conflagrazione",
+    "ja": "火または燃料、抽象的には火事",
+    "ko": "불 또는 연료; 추상적으로, 발화",
+    "lt": "ugnis arba kuras; abstrakčiai - gaisras",
+    "lv": "uguns vai degviela; abstrakti - ugunsgrēks",
+    "nb": "en brann eller brensel; abstrakt, en brann",
+    "nl": "een vuur of brandstof; abstract, een vuurzee",
+    "pl": "ogień lub paliwo; abstrakcyjnie, pożoga",
+    "pt": "um fogo ou combustível; abstratamente, uma conflagração",
+    "ro": "un foc sau un combustibil; în mod abstract, o conflagrație",
+    "ru": "огонь или топливо; абстрактно - пожар",
+    "sk": "oheň alebo palivo; abstraktne, požiar",
+    "sl": "ogenj ali gorivo; abstraktno, požar",
+    "sv": "en eld eller ett bränsle; abstrakt, en eldsvåda",
+    "tr": "bir ateş veya yakıt; soyut olarak, bir yangın",
+    "uk": "вогонь або паливо; абстрактно - пожежа",
+    "zh": "篝火或燃料；抽象地说，一场大火"
+  },
+  "verses": [
+    "psalms 102:4:6",
+    "isaiah 33:14:14"
+  ]
+}

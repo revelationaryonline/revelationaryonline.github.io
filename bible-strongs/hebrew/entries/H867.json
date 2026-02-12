@@ -1,0 +1,42 @@
+{
+  "number": "H867",
+  "language": "hebrew",
+  "transliteration": "ʼEthnîy",
+  "pronunciation": "eth-nee'",
+  "definition": "Ethni, an Israelite",
+  "kjvTranslation": "Ethni.",
+  "translations": {
+    "bg": "Етни, израилтянин",
+    "cs": "Ethni, Izraelita",
+    "da": "Ethni, en israelit",
+    "de": "Ethni, ein Israelit",
+    "el": "Ethni, ένας Ισραηλίτης",
+    "es": "Ethni, israelita",
+    "et": "Ethni, iisraellane",
+    "fi": "Ethni, israelilainen",
+    "fr": "Ethni, Israélite",
+    "hu": "Ethni, izraelita",
+    "id": "Ethni, seorang Israel",
+    "it": "Ethni, un israelita",
+    "ja": "イスラエル人エスニ",
+    "ko": "이스라엘 민족, 에트니",
+    "lt": "Etni, izraelitas",
+    "lv": "Etni, izraēlietis",
+    "nb": "Ethni, en israelitt",
+    "nl": "Ethni, een Israëliet",
+    "pl": "Ethni, Izraelita",
+    "pt": "Ethni, um israelita",
+    "ro": "Ethni, un israelit",
+    "ru": "Этни, израильтянин",
+    "sk": "Ethni, Izraelita",
+    "sl": "Ethni, Izraelec",
+    "sv": "Ethni, en israelit",
+    "tr": "Ethni, bir İsrailli",
+    "uk": "Етнічний ізраїльтянин",
+    "zh": "伊斯尼"
+  },
+  "hebrew": "אֶתְנִי",
+  "verses": [
+    "firstChronicles 6:26:1"
+  ]
+}

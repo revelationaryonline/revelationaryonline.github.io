@@ -1,0 +1,42 @@
+{
+  "number": "H3814",
+  "language": "hebrew",
+  "transliteration": "lâʼṭ",
+  "pronunciation": "lawt",
+  "definition": "properly, muffled, i.e. silently",
+  "kjvTranslation": "softly.",
+  "hebrew": "לָאט",
+  "translations": {
+    "bg": "правилно, приглушено, т.е. безшумно",
+    "cs": "správně, tlumeně, tj. tiše",
+    "da": "ordentligt, dæmpet, dvs. lydløst",
+    "de": "richtig, gedämpft, d.h. geräuschlos",
+    "el": "σωστά, υπόκωφα, δηλαδή αθόρυβα",
+    "es": "correctamente, amortiguado, es decir, en silencio",
+    "et": "korralikult, summutatult, st vaikselt",
+    "fi": "kunnolla, vaimeasti, eli äänettömästi",
+    "fr": "correctement, en sourdine, c'est-à-dire silencieusement",
+    "hu": "megfelelően, tompítva, azaz hangtalanul",
+    "id": "dengan benar, teredam, yaitu diam-diam",
+    "it": "in modo corretto, ovattato, cioè silenzioso",
+    "ja": "きちんと、消音して、つまり静かに",
+    "ko": "제대로, 머플러로, 즉 조용히",
+    "lt": "tinkamai, prislopintai, t. y. tyliai",
+    "lv": "pareizi, pieklusināti, t.i., klusi, bez skaņas",
+    "nb": "riktig, dempet, dvs. lydløst",
+    "nl": "goed, gedempt, d.w.z. geluidloos",
+    "pl": "prawidłowo, stłumiony, tj. cicho",
+    "pt": "corretamente, abafado, ou seja, silenciosamente",
+    "ro": "în mod corespunzător, înăbușit, adică silențios",
+    "ru": "правильно, приглушенно, т.е. беззвучно",
+    "sk": "správne, tlmene, t. j. potichu",
+    "sl": "pravilno, utišano, tj. tiho",
+    "sv": "korrekt, dämpad, dvs. tyst",
+    "tr": "düzgün, boğuk, yani sessizce",
+    "uk": "правильно, приглушено, тобто безшумно",
+    "zh": "适当地、闷声不响地，即无声无息地"
+  },
+  "verses": [
+    "judges 4:21:13"
+  ]
+}

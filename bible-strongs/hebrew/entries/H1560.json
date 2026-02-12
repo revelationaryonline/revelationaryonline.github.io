@@ -1,0 +1,43 @@
+{
+  "number": "H1560",
+  "language": "hebrew",
+  "transliteration": "gᵉlâl",
+  "pronunciation": "ghel-awl'",
+  "definition": "weight or size (as if rolled)",
+  "kjvTranslation": "great.",
+  "translations": {
+    "bg": "тегло или размер (като на руло)",
+    "cs": "hmotnost nebo velikost (jako by byly srolované)",
+    "da": "vægt eller størrelse (som om den var rullet)",
+    "de": "gewicht oder Größe (wie gerollt)",
+    "el": "βάρος ή μέγεθος (σαν τυλιγμένο)",
+    "es": "peso o tamaño (como si estuviera enrollado)",
+    "et": "kaal või suurus (nagu rullitud)",
+    "fi": "paino tai koko (kuin rullattuna)",
+    "fr": "le poids ou la taille (comme s'il s'agissait d'un rouleau)",
+    "hu": "súly vagy méret (mintha hengerelve lenne)",
+    "id": "berat atau ukuran (seolah-olah digulung)",
+    "it": "peso o dimensione (come se fosse arrotolato)",
+    "ja": "巻き",
+    "ko": "무게 또는 크기(말린 것처럼)",
+    "lt": "svoris arba dydis (tarsi susuktas)",
+    "lv": "svars vai izmērs (kā ruļļos)",
+    "nb": "vekt eller størrelse (som om den var rullet)",
+    "nl": "gewicht of grootte (alsof opgerold)",
+    "pl": "waga lub rozmiar (jak po zrolowaniu)",
+    "pt": "peso ou tamanho (como se estivesse enrolado)",
+    "ro": "greutate sau dimensiune (ca și cum ar fi rulat)",
+    "ru": "вес или размер (как в рулоне)",
+    "sk": "hmotnosť alebo veľkosť (akoby zrolované)",
+    "sl": "teža ali velikost (kot v zvitku)",
+    "sv": "vikt eller storlek (som om den vore rullad)",
+    "tr": "ağırlık veya boyut (yuvarlanmış gibi)",
+    "uk": "вага або розмір (як у згорнутому вигляді)",
+    "zh": "擀"
+  },
+  "hebrew": "גְּלָל",
+  "verses": [
+    "ezra 5:8:13",
+    "ezra 6:4:3"
+  ]
+}

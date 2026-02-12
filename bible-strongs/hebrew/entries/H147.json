@@ -1,0 +1,42 @@
+{
+  "number": "H147",
+  "language": "hebrew",
+  "transliteration": "ʼiddar",
+  "pronunciation": "id-dar'",
+  "definition": "ample, i.e. a threshing-floor",
+  "kjvTranslation": "threshingfloor.",
+  "translations": {
+    "bg": "голям, т.е. гумното",
+    "cs": "rozsáhlý, tj. mlat",
+    "da": "stor, dvs. et tærskeværk",
+    "de": "weitläufig, d.h. eine Tenne",
+    "el": "άφθονο, δηλαδή ένα αλώνι",
+    "es": "amplia, es decir, una era",
+    "et": "rikkalik, st. põrandapuude",
+    "fi": "runsas, eli puimatonttu",
+    "fr": "ample, c'est-à-dire une aire de battage",
+    "hu": "bőséges, azaz cséplőpadló",
+    "id": "cukup, yaitu lantai pengirikan",
+    "it": "ampia, cioè un'aia",
+    "ja": "十分な、すなわち脱穀場",
+    "ko": "충분한, 즉 타작 바닥",
+    "lt": "didelis, t. y. kūlimo aikštelė",
+    "lv": "plaša, t. i., kulšanas laukums",
+    "nb": "rikelig, dvs. en treskeplass",
+    "nl": "ruim, d.w.z. een dorsvloer",
+    "pl": "obszerny, tj. klepisko",
+    "pt": "ampla, ou seja, uma eira",
+    "ro": "amplă, adică o arie de treierat",
+    "ru": "большой, т.е. молотильный пол",
+    "sk": "dostatok, t. j. mlatba",
+    "sl": "veliko, tj. mlatilnico",
+    "sv": "stor, dvs. en tröskplats",
+    "tr": "geniş, yani bir harman yeri",
+    "uk": "достатньою, тобто молотильною підлогою",
+    "zh": "打谷场"
+  },
+  "hebrew": "אִדַּר",
+  "verses": [
+    "daniel 2:35:11"
+  ]
+}

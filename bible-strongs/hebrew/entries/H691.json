@@ -1,0 +1,42 @@
+{
+  "number": "H691",
+  "language": "hebrew",
+  "transliteration": "ʼerʼêl",
+  "pronunciation": "er-ale'",
+  "definition": "a hero (collectively)",
+  "kjvTranslation": "valiant one.",
+  "translations": {
+    "bg": "герой (колективно)",
+    "cs": "hrdina (kolektivně)",
+    "da": "en helt (kollektivt)",
+    "de": "ein Held (kollektiv)",
+    "el": "ένας ήρωας (συλλογικά)",
+    "es": "un héroe (colectivamente)",
+    "et": "kangelane (kollektiivselt)",
+    "fi": "sankari (kollektiivisesti)",
+    "fr": "un héros (collectivement)",
+    "hu": "egy hős (kollektíven)",
+    "id": "seorang pahlawan (secara kolektif)",
+    "it": "un eroe (collettivamente)",
+    "ja": "英雄",
+    "ko": "영웅(총체적으로)",
+    "lt": "herojus (kolektyviai)",
+    "lv": "varonis (kolektīvi)",
+    "nb": "en helt (kollektivt)",
+    "nl": "een held (collectief)",
+    "pl": "bohater (zbiorowo)",
+    "pt": "um herói (coletivamente)",
+    "ro": "un erou (colectiv)",
+    "ru": "герой (коллективно)",
+    "sk": "hrdina (spoločne)",
+    "sl": "junak (kolektivno)",
+    "sv": "en hjälte (kollektivt)",
+    "tr": "bir kahraman (topluca)",
+    "uk": "героя (колективно)",
+    "zh": "英雄"
+  },
+  "hebrew": "אֶרְאֵל",
+  "verses": [
+    "isaiah 33:7:1"
+  ]
+}

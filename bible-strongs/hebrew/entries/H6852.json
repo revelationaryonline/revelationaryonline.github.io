@@ -1,0 +1,42 @@
+{
+  "number": "H6852",
+  "language": "hebrew",
+  "transliteration": "tsâphar",
+  "pronunciation": "tsaw-far'",
+  "definition": "to skip about, i.e. return",
+  "kjvTranslation": "depart early.",
+  "hebrew": "צָפַר",
+  "translations": {
+    "bg": "за да прескочите, т.е. да върнете",
+    "cs": "přeskočit, tj. vrátit zpět",
+    "da": "for at springe over, dvs. returnere",
+    "de": "zu überspringen, d.h. zurückzukehren",
+    "el": "για να παραλείψετε, δηλαδή να επιστρέψετε",
+    "es": "para saltar, es decir, devolver",
+    "et": "hüpata, s.t. naasta",
+    "fi": "ohittaa, eli palauttaa",
+    "fr": "pour passer à autre chose, c'est-à-dire renvoyer",
+    "hu": "átugrani, azaz visszatérni",
+    "id": "untuk melewati, yaitu kembali",
+    "it": "per saltare, cioè restituire",
+    "ja": "をスキップする。",
+    "ko": "건너뛰기, 즉 반환하려면",
+    "lt": "praleisti, t. y. grąžinti",
+    "lv": "izlaist, t. i., atgriezt",
+    "nb": "for å hoppe over, dvs. returnere",
+    "nl": "over te slaan, d.w.z. terug te keren",
+    "pl": "aby pominąć, tj. zwrócić",
+    "pt": "para saltar, ou seja, devolver",
+    "ro": "pentru a sări peste, adică pentru a reveni",
+    "ru": "пропустить, т.е. вернуть",
+    "sk": "preskočiť, t. j. vrátiť",
+    "sl": "za preskok, tj. vrnitev",
+    "sv": "att hoppa över, d.v.s. returnera",
+    "tr": "atlamak için, yani geri dönmek için",
+    "uk": "проскочити, тобто повернутися",
+    "zh": "跳过，即返回"
+  },
+  "verses": [
+    "judges 7:3:10"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7048",
+  "language": "hebrew",
+  "transliteration": "qallâçâh",
+  "pronunciation": "kal-law-saw'",
+  "definition": "ridicule",
+  "kjvTranslation": "mocking.",
+  "hebrew": "קַלָּסָה",
+  "translations": {
+    "bg": "осмиване",
+    "cs": "zesměšnění",
+    "da": "latterliggørelse",
+    "de": "lächerlich machen",
+    "el": "γελοιοποίηση",
+    "es": "ridiculizar",
+    "et": "naeruvääristada",
+    "fi": "pilkkaaminen",
+    "fr": "ridiculiser",
+    "hu": "gúnyolódás",
+    "id": "ejekan",
+    "it": "ridicolo",
+    "ja": "あざける",
+    "ko": "조롱",
+    "lt": "išjuokti",
+    "lv": "izsmiekls",
+    "nb": "latterliggjøring",
+    "nl": "belachelijk maken",
+    "pl": "kpina",
+    "pt": "ridicularizar",
+    "ro": "ridiculizare",
+    "ru": "высмеивать",
+    "sk": "posmech",
+    "sl": "posmeh",
+    "sv": "förlöjliga",
+    "tr": "alay etmek",
+    "uk": "висміювання",
+    "zh": "调侃"
+  },
+  "verses": [
+    "ezekiel 22:4:18"
+  ]
+}

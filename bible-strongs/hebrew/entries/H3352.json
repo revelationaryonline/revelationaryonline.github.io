@@ -1,0 +1,42 @@
+{
+  "number": "H3352",
+  "language": "hebrew",
+  "transliteration": "yâqôwsh",
+  "pronunciation": "yaw-koshe'",
+  "definition": "properly, entangling; hence, a snarer",
+  "kjvTranslation": "fowler.",
+  "translations": {
+    "bg": "правилно, заплитане; оттук - примка",
+    "cs": "správně, zamotávající se; odtud lapka",
+    "da": "korrekt, indviklet; derfor en snører",
+    "de": "richtig: verwickelnd; daher: ein Schlingensteller",
+    "el": "σωστά, παγιδευτικός, άρα και παγιδευτής",
+    "es": "propiamente, enredar; de ahí, un atrapador",
+    "et": "õigesti, takerdumine; seega, lõksu püüdja",
+    "fi": "oikeastaan, kietoutuva; siis ansoittaja",
+    "fr": "proprement, enchevêtrement ; d'où un piège",
+    "hu": "megfelelően, összegabalyodó; ezért csapdába ejtő",
+    "id": "benar, menjerat; karenanya, seorang penggeram",
+    "it": "propriamente, aggrovigliarsi; quindi, un'imboscata",
+    "ja": "正しくは、もつれさせる。",
+    "ko": "적절하게, 얽히다; 따라서, 스내러",
+    "lt": "tinkamai, susipainiojęs; taigi, spąstai",
+    "lv": "pareizi, sapinoties; tātad, slazds",
+    "nb": "egentlig, sammenfiltrende; derav en snarer",
+    "nl": "goed, verstrikt; vandaar, een strikker",
+    "pl": "właściwie, splątanie; stąd, sidło",
+    "pt": "propriamente dito, que enreda; por conseguinte, que enlaça",
+    "ro": "în mod corespunzător, încâlcit; prin urmare, un laț",
+    "ru": "правильно, запутывать; отсюда, ловец",
+    "sk": "správne, zapletenie; preto, chytač",
+    "sl": "pravilno, zapletajoče se; od tod past",
+    "sv": "ordentligt, intrasslande; därav en snärjare",
+    "tr": "uygun şekilde, dolaşık; dolayısıyla, bir tuzakçı",
+    "uk": "власне, заплутуючи; звідси - гаркавий",
+    "zh": "缠绕，因此是 \"陷阱\"。"
+  },
+  "hebrew": "יָקוֹשׁ",
+  "verses": [
+    "hosea 9:8:6"
+  ]
+}

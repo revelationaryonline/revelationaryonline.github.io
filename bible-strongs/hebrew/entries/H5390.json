@@ -1,0 +1,43 @@
+{
+  "number": "H5390",
+  "language": "hebrew",
+  "transliteration": "nᵉshîyqâh",
+  "pronunciation": "nesh-ee-kaw'",
+  "definition": "a kiss",
+  "kjvTranslation": "kiss.",
+  "hebrew": "נְשִׁיקָה",
+  "translations": {
+    "bg": "целувка",
+    "cs": "polibek",
+    "da": "et kys",
+    "de": "ein Kuss",
+    "el": "ένα φιλί",
+    "es": "un beso",
+    "et": "suudlus",
+    "fi": "suudelma",
+    "fr": "un baiser",
+    "hu": "egy csók",
+    "id": "ciuman",
+    "it": "un bacio",
+    "ja": "キス",
+    "ko": "키스",
+    "lt": "bučinys",
+    "lv": "skūpsts",
+    "nb": "et kyss",
+    "nl": "een kus",
+    "pl": "pocałunek",
+    "pt": "um beijo",
+    "ro": "un sărut",
+    "ru": "поцелуй",
+    "sk": "bozk",
+    "sl": "poljub",
+    "sv": "en kyss",
+    "tr": "bir öpücük",
+    "uk": "поцілунок",
+    "zh": "亲吻"
+  },
+  "verses": [
+    "proverbs 27:6:4",
+    "solomon 1:2:1"
+  ]
+}

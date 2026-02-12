@@ -1,0 +1,42 @@
+{
+  "number": "H6904",
+  "language": "hebrew",
+  "transliteration": "qôbel",
+  "pronunciation": "ko'-bel",
+  "definition": "a battering-ram",
+  "kjvTranslation": "war.",
+  "hebrew": "קֹבֶל",
+  "translations": {
+    "bg": "таран",
+    "cs": "beranidlo",
+    "da": "en rambuk",
+    "de": "ein Rammbock",
+    "el": "ένα πολιορκητικό κριό",
+    "es": "un ariete",
+    "et": "ramm-vasaraga",
+    "fi": "rynnäkkövasara",
+    "fr": "un bélier",
+    "hu": "egy faltörő kos",
+    "id": "ram pemukul",
+    "it": "un martello da guerra",
+    "ja": "鉄槌",
+    "ko": "타자 램",
+    "lt": "smogiamasis sviedinys",
+    "lv": "beramkrāns",
+    "nb": "en rambukk",
+    "nl": "een stormram",
+    "pl": "taran",
+    "pt": "um aríete",
+    "ro": "un berbec",
+    "ru": "таран",
+    "sk": "baranidlo",
+    "sl": "batah",
+    "sv": "en murbräcka",
+    "tr": "bir koçbaşı",
+    "uk": "таран",
+    "zh": "霹雳车"
+  },
+  "verses": [
+    "ezekiel 26:9:1"
+  ]
+}

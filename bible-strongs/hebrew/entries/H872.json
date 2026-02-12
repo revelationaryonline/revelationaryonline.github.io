@@ -1,0 +1,42 @@
+{
+  "number": "H872",
+  "language": "hebrew",
+  "transliteration": "bᵉʼâh",
+  "pronunciation": "be-aw'",
+  "definition": "an entrance to a building",
+  "kjvTranslation": "entry.",
+  "translations": {
+    "bg": "вход на сграда",
+    "cs": "vchod do budovy",
+    "da": "en indgang til en bygning",
+    "de": "ein Eingang zu einem Gebäude",
+    "el": "είσοδος σε κτίριο",
+    "es": "la entrada a un edificio",
+    "et": "sissepääs hoonesse",
+    "fi": "rakennuksen sisäänkäynti",
+    "fr": "l'entrée d'un bâtiment",
+    "hu": "egy épület bejárata",
+    "id": "pintu masuk ke sebuah bangunan",
+    "it": "l'ingresso di un edificio",
+    "ja": "ビルの入り口",
+    "ko": "건물 입구",
+    "lt": "įėjimas į pastatą",
+    "lv": "ieeja ēkā",
+    "nb": "en inngang til en bygning",
+    "nl": "een ingang van een gebouw",
+    "pl": "wejście do budynku",
+    "pt": "uma entrada para um edifício",
+    "ro": "o intrare într-o clădire",
+    "ru": "вход в здание",
+    "sk": "vchod do budovy",
+    "sl": "vhod v stavbo",
+    "sv": "en ingång till en byggnad",
+    "tr": "bir binanın girişi",
+    "uk": "вхід до будівлі",
+    "zh": "入口"
+  },
+  "hebrew": "בְּאָה",
+  "verses": [
+    "ezekiel 8:5:20"
+  ]
+}

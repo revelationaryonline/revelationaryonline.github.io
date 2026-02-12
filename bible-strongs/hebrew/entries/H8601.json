@@ -1,0 +1,42 @@
+{
+  "number": "H8601",
+  "language": "hebrew",
+  "transliteration": "tuphîyn",
+  "pronunciation": "too-feen'",
+  "definition": "cookery, i.e. (concretely) a cake",
+  "kjvTranslation": "baked piece.",
+  "hebrew": "תֻּפִין",
+  "translations": {
+    "bg": "готварство, т.е. (конкретно) торта",
+    "cs": "kuchařství, tj. (konkrétně) dort",
+    "da": "madlavning, dvs. (konkret) en kage",
+    "de": "kochkunst, d.h. (konkret) ein Kuchen",
+    "el": "μαγειρική, δηλαδή (συγκεκριμένα) ένα κέικ",
+    "es": "cocina, es decir (concretamente) un pastel",
+    "et": "kokandus, s.t (konkreetselt) kook",
+    "fi": "ruoanlaitto, eli (konkreettisesti) kakku",
+    "fr": "la cuisine, c'est-à-dire (concrètement) un gâteau",
+    "hu": "főzés, azaz (konkrétan) egy torta",
+    "id": "masakan, yaitu (secara konkret) kue",
+    "it": "cucina, cioè (concretamente) una torta",
+    "ja": "料理、つまり（具体的には）ケーキ",
+    "ko": "요리, 즉 (구체적으로) 케이크",
+    "lt": "kulinarija, t. y. (konkrečiai) tortas",
+    "lv": "kulinārija, t.i., (konkrēti) kūka",
+    "nb": "matlaging, dvs. (konkret) en kake",
+    "nl": "koken, d.w.z. (concreet) een taart",
+    "pl": "gotowanie, tj. (konkretnie) ciasto",
+    "pt": "culinária, ou seja, (concretamente) um bolo",
+    "ro": "bucătărie, adică (concret) o prăjitură",
+    "ru": "кулинария, т.е. (конкретно) торт",
+    "sk": "kuchárstvo, t. j. (konkrétne) koláč",
+    "sl": "kuhanje, tj. (konkretno) torta",
+    "sv": "matlagning, dvs. (konkret) en tårta",
+    "tr": "aşçılık, yani (somut olarak) bir pasta",
+    "uk": "кулінарія, тобто (конкретно) торт",
+    "zh": "烹饪，即（具体地说）蛋糕"
+  },
+  "verses": [
+    "leviticus 6:14:6"
+  ]
+}

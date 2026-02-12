@@ -1,0 +1,43 @@
+{
+  "number": "H6344",
+  "language": "hebrew",
+  "transliteration": "pachad",
+  "pronunciation": "pakh'-ad",
+  "definition": "a testicle (as a cause of shame akin to fear)",
+  "kjvTranslation": "stone.",
+  "hebrew": "פַּחַד",
+  "translations": {
+    "bg": "тестис (като причина за срам, подобен на страх)",
+    "cs": "varlata (jako důvod studu podobný strachu)",
+    "da": "en testikel (som årsag til skam i lighed med frygt)",
+    "de": "ein Hoden (als Grund für Scham, die mit Angst verbunden ist)",
+    "el": "όρχις (ως αιτία ντροπής που μοιάζει με φόβο)",
+    "es": "un testículo (como causa de vergüenza parecida al miedo)",
+    "et": "munand (kui hirmuga sarnane häbi põhjus)",
+    "fi": "kives (pelkoa muistuttavana häpeän aiheuttajana)",
+    "fr": "un testicule (comme cause de honte proche de la peur)",
+    "hu": "herék (mint a félelemmel rokon szégyenérzet okozója)",
+    "id": "buah zakar (sebagai penyebab rasa malu yang mirip dengan rasa takut)",
+    "it": "un testicolo (come causa di vergogna simile alla paura)",
+    "ja": "睾丸",
+    "ko": "고환(공포와 비슷한 수치심의 원인)",
+    "lt": "sėklidė (kaip gėdos, panašios į baimę, priežastis)",
+    "lv": "sēklinieks (kā kauna iemesls, kas līdzinās bailēm)",
+    "nb": "en testikkel (som en årsak til skam som ligner på frykt)",
+    "nl": "een testikel (als oorzaak van schaamte verwant aan angst)",
+    "pl": "jądro (jako powód wstydu podobnego do strachu)",
+    "pt": "um testículo (como causa de vergonha semelhante ao medo)",
+    "ro": "un testicul (ca o cauză de rușine asemănătoare fricii)",
+    "ru": "яичко (как причина стыда, сродни страху)",
+    "sk": "semenník (ako dôvod hanby podobný strachu)",
+    "sl": "semenčica (kot vzrok sramu, podoben strahu)",
+    "sv": "en testikel (som en orsak till skam som liknar rädsla)",
+    "tr": "bir testis (korkuya benzer bir utanç nedeni olarak)",
+    "uk": "яєчко (як причина сорому, подібного до страху)",
+    "zh": "睾丸"
+  },
+  "verses": [
+    "job 40:17:5",
+    "job 40:17:6"
+  ]
+}

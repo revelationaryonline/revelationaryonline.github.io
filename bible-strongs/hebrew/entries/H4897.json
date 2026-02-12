@@ -1,0 +1,43 @@
+{
+  "number": "H4897",
+  "language": "hebrew",
+  "transliteration": "meshîy",
+  "pronunciation": "meh'-shee",
+  "definition": "silk (as drawn from the cocoon)",
+  "kjvTranslation": "silk.",
+  "hebrew": "מֶשִׁי",
+  "translations": {
+    "bg": "коприна (извадена от пашкула)",
+    "cs": "hedvábí (vytažené z kukly)",
+    "da": "silke (som trukket ud af kokonen)",
+    "de": "seide (wie aus dem Kokon gezogen)",
+    "el": "μετάξι (όπως βγαίνει από το κουκούλι)",
+    "es": "seda (extraída del capullo)",
+    "et": "siid (kookonist tõmmatud)",
+    "fi": "silkki (kotelosta irrotettuna)",
+    "fr": "la soie (telle qu'elle est tirée du cocon)",
+    "hu": "selyem (a gubóból kihúzva)",
+    "id": "sutra (seperti yang diambil dari kepompong)",
+    "it": "seta (come estratto dal bozzolo)",
+    "ja": "繭糸",
+    "ko": "실크(누에고치에서 뽑은 것)",
+    "lt": "šilkas (ištrauktas iš kokono)",
+    "lv": "zīds (izvilkts no kokona)",
+    "nb": "silke (som trukket ut av kokongen)",
+    "nl": "zijde (uit de cocon)",
+    "pl": "jedwab (wyciągnięty z kokonu)",
+    "pt": "seda (retirada do casulo)",
+    "ro": "mătase (ca scoasă din cocon)",
+    "ru": "шелк (извлеченный из кокона)",
+    "sk": "hodváb (vytiahnutý z kokónu)",
+    "sl": "svila (iz kokona)",
+    "sv": "silke (från kokongen)",
+    "tr": "ipek (kozadan çekildiği gibi)",
+    "uk": "шовк (як витягнутий з кокона)",
+    "zh": "蚕丝"
+  },
+  "verses": [
+    "ezekiel 16:10:7",
+    "ezekiel 16:13:6"
+  ]
+}

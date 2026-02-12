@@ -1,0 +1,42 @@
+{
+  "number": "H4576",
+  "language": "hebrew",
+  "transliteration": "maʻdêr",
+  "pronunciation": "mah-dare'",
+  "definition": "a (weeding) hoe",
+  "kjvTranslation": "mattock.",
+  "hebrew": "מַעְדֵּר",
+  "verses": [
+    "isaiah 7:25:3"
+  ],
+  "translations": {
+    "bg": "мотика (за плевене)",
+    "cs": "motyčka (na plevel)",
+    "da": "en (ukrudts)hakke",
+    "de": "eine (Unkraut-)Hacke",
+    "el": "μια τσάπα (ξεχορταριάσματος)",
+    "es": "una azada (para escardar)",
+    "et": "(umbrohutõrje)haara",
+    "fi": "(kitkentä)kaivuri",
+    "fr": "une houe (de désherbage)",
+    "hu": "(gyomláló) kapa",
+    "id": "cangkul (penyiangan)",
+    "it": "una zappa (per diserbare)",
+    "ja": "鍬",
+    "ko": "(제초) 괭이",
+    "lt": "(ravėjimo) motka",
+    "lv": "(ravēšanas) kaplis",
+    "nb": "en (luke)hakke",
+    "nl": "een (onkruid)schoffel",
+    "pl": "motyka (do pielenia)",
+    "pt": "uma enxada (de monda)",
+    "ro": "o sapă (de erbicidat)",
+    "ru": "мотыга (для прополки)",
+    "sk": "motyka (na pletie)",
+    "sl": "motika (za pletje)",
+    "sv": "en (ogräsrensande) hacka",
+    "tr": "bir (ot ayıklama) çapası",
+    "uk": "мотика (для прополки)",
+    "zh": "锄头"
+  }
+}

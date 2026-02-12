@@ -1,0 +1,42 @@
+{
+  "number": "H7955",
+  "language": "hebrew",
+  "transliteration": "shâlâh",
+  "pronunciation": "shaw-law'",
+  "definition": "a wrong",
+  "kjvTranslation": "thing amiss.",
+  "hebrew": "שָׁלָה",
+  "translations": {
+    "bg": "грешка",
+    "cs": "a špatně",
+    "da": "en forkert",
+    "de": "ein Unrecht",
+    "el": "ένα λάθος",
+    "es": "un mal",
+    "et": "vale",
+    "fi": "väärä",
+    "fr": "une erreur",
+    "hu": "egy rossz",
+    "id": "salah",
+    "it": "a sbagliato",
+    "ja": "間違い",
+    "ko": "잘못된",
+    "lt": "neteisingas",
+    "lv": "a nepareizi",
+    "nb": "feil",
+    "nl": "een verkeerde",
+    "pl": "błąd",
+    "pt": "um erro",
+    "ro": "a greșit",
+    "ru": "неправильный",
+    "sk": "a nesprávne",
+    "sl": "a narobe",
+    "sv": "a fel",
+    "tr": "yanlış",
+    "uk": "неправильно",
+    "zh": "错"
+  },
+  "verses": [
+    "daniel 3:29:10"
+  ]
+}

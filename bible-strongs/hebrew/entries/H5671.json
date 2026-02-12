@@ -1,0 +1,42 @@
+{
+  "number": "H5671",
+  "language": "hebrew",
+  "transliteration": "ʻabṭîyṭ",
+  "pronunciation": "ab-teet'",
+  "definition": "something pledged, i.e. (collectively) pawned goods",
+  "kjvTranslation": "thick clay (by a false etym.).",
+  "hebrew": "עַבְטִיט",
+  "translations": {
+    "bg": "нещо, което е заложено, напр. (колективно) стоки в залог",
+    "cs": "něco zastaveného, tj. (souhrnně) zastavené zboží",
+    "da": "noget, der er pantsat, dvs. (kollektivt) pantsatte varer",
+    "de": "etwas verpfändetes, d.h. (kollektiv) verpfändetes Gut",
+    "el": "κάτι ενεχυριασμένο, δηλαδή (συλλογικά) ενεχυριασμένα αγαθά",
+    "es": "algo empeñado, es decir (colectivamente) bienes empeñados",
+    "et": "midagi panditud, s.t (kollektiivselt) panditud kaupa",
+    "fi": "jotain pantattua, eli (kollektiivisesti) pantattuja tavaroita",
+    "fr": "quelque chose de mis en gage, c'est-à-dire (collectivement) des biens mis en gage",
+    "hu": "valami zálogba adott, azaz (kollektíven) zálogba adott áru",
+    "id": "sesuatu yang dijaminkan, yaitu barang yang digadaikan (secara kolektif)",
+    "it": "qualcosa dato in pegno, ad esempio (collettivamente) beni in pegno",
+    "ja": "質物",
+    "ko": "담보로 제공된 것, 즉 (총체적으로) 전당포 상품",
+    "lt": "įkeistas daiktas, t. y. (bendrai) įkeistos prekės",
+    "lv": "kaut kas ieķīlāts, t.i., (kopīgi) ieķīlātas preces",
+    "nb": "noe som er pantsatt, f.eks. (kollektivt) pantsatte varer",
+    "nl": "iets verpand, d.w.z. (collectief) verpande goederen",
+    "pl": "coś zastawionego, tj. (zbiorczo) zastawione towary",
+    "pt": "algo penhorado, ou seja, (coletivamente) bens penhorados",
+    "ro": "ceva gajat, de exemplu (colectiv) bunuri amanetate",
+    "ru": "что-то заложенное, т.е. (коллективно) заложенные товары",
+    "sk": "niečo, čo je v zálohe, t. j. (spoločne) tovar v zálohe",
+    "sl": "nekaj zastavljenega, npr. (skupno) zastavljeno blago",
+    "sv": "något som är pantsatt, t.ex. (kollektivt) pantsatta varor",
+    "tr": "rehin verilen bir şey, yani (toplu olarak) rehin verilen mallar",
+    "uk": "щось заставлене, тобто (колективно) заставлене майно",
+    "zh": "质押品"
+  },
+  "verses": [
+    "habakkuk 2:6:18"
+  ]
+}

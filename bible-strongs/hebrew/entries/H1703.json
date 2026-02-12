@@ -1,0 +1,42 @@
+{
+  "number": "H1703",
+  "language": "hebrew",
+  "transliteration": "dabbârâh",
+  "pronunciation": "dab-baw-raw'",
+  "definition": "a word",
+  "kjvTranslation": "word.",
+  "translations": {
+    "bg": "дума",
+    "cs": "slovo",
+    "da": "et ord",
+    "de": "ein Wort",
+    "el": "μια λέξη",
+    "es": "una palabra",
+    "et": "sõna",
+    "fi": "sana",
+    "fr": "un mot",
+    "hu": "egy szó",
+    "id": "sebuah kata",
+    "it": "una parola",
+    "ja": "一言",
+    "ko": "한 마디",
+    "lt": "žodis",
+    "lv": "vārds",
+    "nb": "et ord",
+    "nl": "een woord",
+    "pl": "słowo",
+    "pt": "uma palavra",
+    "ro": "un cuvânt",
+    "ru": "слово",
+    "sk": "slovo",
+    "sl": "beseda",
+    "sv": "ett ord",
+    "tr": "bir kelime",
+    "uk": "на два слова",
+    "zh": "一句话"
+  },
+  "hebrew": "דַּבָּרָה",
+  "verses": [
+    "deuteronomy 33:3:10"
+  ]
+}

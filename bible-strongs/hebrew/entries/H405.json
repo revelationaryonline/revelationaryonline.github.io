@@ -1,0 +1,42 @@
+{
+  "number": "H405",
+  "language": "hebrew",
+  "transliteration": "ʼekeph",
+  "pronunciation": "eh'-kef",
+  "definition": "a load; by implication, a stroke (others dignity)",
+  "kjvTranslation": "hand.",
+  "translations": {
+    "bg": "натоварване; по подразбиране - удар (по достойнство)",
+    "cs": "zátěž; implicitně mrtvice (ostatní důstojnost)",
+    "da": "en belastning; underforstået, et slag (andres værdighed)",
+    "de": "eine Last; implizit ein Schlaganfall (andere Würde)",
+    "el": "ένα φορτίο- κατ' επέκταση, ένα εγκεφαλικό επεισόδιο (άλλοι αξιοπρέπεια)",
+    "es": "una carga; por implicación, un golpe (otros dignidad)",
+    "et": "koormus; kaudselt, insult (teised väärikus)",
+    "fi": "kuorma; implisiittisesti, aivohalvaus (muut arvokkuus)",
+    "fr": "une charge ; par implication, un coup (autres dignité)",
+    "hu": "egy teher; értelemszerűen egy stroke (mások méltósága)",
+    "id": "sebuah beban; sebagai implikasinya, sebuah pukulan (martabat orang lain)",
+    "it": "un carico; per implicazione, un colpo (dignità altrui)",
+    "ja": "負荷；暗にストローク（他人の尊厳）",
+    "ko": "부하; 암시적으로 뇌졸중(다른 사람의 존엄성)",
+    "lt": "krovinys; netiesiogiai - smūgis (kitų orumas)",
+    "lv": "slodze; netieši - trieciens (citu cieņa)",
+    "nb": "en belastning; underforstått, et slag (andres verdighet)",
+    "nl": "een last; bij implicatie, een slag (anderen waardigheid)",
+    "pl": "obciążenie; w domyśle udar (inni godność)",
+    "pt": "uma carga; implicitamente, um acidente vascular cerebral (dignidade alheia)",
+    "ro": "o sarcină; implicit, o lovitură (demnitatea altora)",
+    "ru": "груз; по косвенным признакам, удар (о достоинстве других)",
+    "sk": "záťaž; implicitne, mŕtvica (iní dôstojnosť)",
+    "sl": "breme; implicitno tudi udarec (dostojanstvo drugih)",
+    "sv": "en belastning; underförstått, en stroke (andra värdighet)",
+    "tr": "bir yük; ima yoluyla, bir darbe (diğerleri saygınlık)",
+    "uk": "тягар; за змістом - удар (по чужій гідності)",
+    "zh": "负荷；言下之意是中风（他人的尊严）"
+  },
+  "hebrew": "אֶכֶף",
+  "verses": [
+    "job 33:7:4"
+  ]
+}

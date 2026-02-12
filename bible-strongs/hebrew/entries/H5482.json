@@ -1,0 +1,43 @@
+{
+  "number": "H5482",
+  "language": "hebrew",
+  "transliteration": "Çᵉvênêh",
+  "pronunciation": "sev-ay-nay'",
+  "definition": "Seven, a place in Upper Egypt",
+  "kjvTranslation": "Syene.",
+  "hebrew": "סְוֵנֵה",
+  "translations": {
+    "bg": "Седем, място в Горен Египет",
+    "cs": "Sedm, místo v Horním Egyptě",
+    "da": "Seven, et sted i Øvre Egypten",
+    "de": "Sieben, ein Ort in Oberägypten",
+    "el": "Επτά, τόπος στην Άνω Αίγυπτο",
+    "es": "Siete, un lugar en el Alto Egipto",
+    "et": "Seitsmes, koht Ülem-Egiptuses",
+    "fi": "Seven, paikka Ylä-Egyptissä",
+    "fr": "Sept, localité de Haute-Égypte",
+    "hu": "Hét, egy hely Felső-Egyiptomban",
+    "id": "Tujuh, sebuah tempat di Mesir Hulu",
+    "it": "Sette, una località dell'Alto Egitto",
+    "ja": "セブン、上エジプトの地名",
+    "ko": "세븐, 어퍼 이집트의 한 장소",
+    "lt": "Seven, vietovė Aukštutiniame Egipte",
+    "lv": "Septiņi, vieta Augšējā Ēģiptē",
+    "nb": "Seven, et sted i Øvre Egypt",
+    "nl": "Zeven, een plaats in Opper-Egypte",
+    "pl": "Seven, miejscowość w Górnym Egipcie",
+    "pt": "Sete, um lugar no Alto Egito",
+    "ro": "Seven, un loc în Egiptul de Sus",
+    "ru": "Семь, место в Верхнем Египте",
+    "sk": "Sedem, miesto v Hornom Egypte",
+    "sl": "Seven, kraj v Zgornjem Egiptu",
+    "sv": "Seven, en plats i Övre Egypten",
+    "tr": "Seven, Yukarı Mısır'da bir yer",
+    "uk": "Сім, місце у Верхньому Єгипті",
+    "zh": "七"
+  },
+  "verses": [
+    "ezekiel 29:10:13",
+    "ezekiel 30:6:10"
+  ]
+}

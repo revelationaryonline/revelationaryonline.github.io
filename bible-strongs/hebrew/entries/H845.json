@@ -1,0 +1,42 @@
+{
+  "number": "H845",
+  "language": "hebrew",
+  "transliteration": "ʼAsriʼêlîy",
+  "pronunciation": "as-ree-ale-ee'",
+  "definition": "an Asrielite (collectively) or descendant of Asriel",
+  "kjvTranslation": "Asrielites.",
+  "translations": {
+    "bg": "асриелец (колективно) или потомък на Асриел",
+    "cs": "asrielit (souhrnně) nebo potomek Asriela",
+    "da": "en asrielit (kollektivt) eller en efterkommer af Asriel",
+    "de": "ein Asrielite (kollektiv) oder Nachkomme Asriels",
+    "el": "ένας Ασριελίτης (συλλογικά) ή απόγονος του Ασριήλ",
+    "es": "un asrielita (colectivamente) o descendiente de Asriel",
+    "et": "asrieliit (kollektiivselt) või Asrieli järeltulija",
+    "fi": "asrieliitti (kollektiivisesti) tai Asrielin jälkeläinen",
+    "fr": "un Asrielite (collectivement) ou un descendant d'Asriel",
+    "hu": "asrielita (kollektíven) vagy Asriel leszármazottja",
+    "id": "seorang Asrielite (secara kolektif) atau keturunan Asriel",
+    "it": "un Asrielita (collettivamente) o un discendente di Asriel",
+    "ja": "アスリエル人（総称）またはアスリエルの子孫",
+    "ko": "아스리엘라이트(총칭) 또는 아스리엘의 후손",
+    "lt": "asrielitas (kolektyviai) arba Asrielio palikuonis",
+    "lv": "asrielietis (kopā) vai Asrielas pēcnācējs",
+    "nb": "en asrielitt (kollektivt) eller etterkommer av Asriel",
+    "nl": "een Asrieliet (collectief) of afstammeling van Asriel",
+    "pl": "asrielita (łącznie) lub potomek Asriela",
+    "pt": "um Asrielita (coletivamente) ou descendente de Asriel",
+    "ro": "un Asrielit (colectiv) sau descendent al lui Asriel",
+    "ru": "азриэлит (собирательно) или потомок Азриэля",
+    "sk": "asrielita (spoločne) alebo potomok Asriela",
+    "sl": "asrielovec (skupaj) ali Asrielov potomec",
+    "sv": "en asrielit (kollektivt) eller ättling till Asriel",
+    "tr": "bir Asrielite (topluca) veya Asriel'in soyundan gelen",
+    "uk": "асріелітом (у сукупності) або нащадком Асріеля",
+    "zh": "阿斯利埃尔人（统称）或阿斯利埃尔的后裔"
+  },
+  "hebrew": "אַשְׂרִאֵלִי",
+  "verses": [
+    "numbers 26:31:2"
+  ]
+}

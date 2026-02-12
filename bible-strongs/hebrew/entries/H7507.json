@@ -1,0 +1,42 @@
+{
+  "number": "H7507",
+  "language": "hebrew",
+  "transliteration": "rᵉphîydâh",
+  "pronunciation": "ref-ee-daw'",
+  "definition": "a railing (as spread along)",
+  "kjvTranslation": "bottom.",
+  "hebrew": "רְפִידָה",
+  "translations": {
+    "bg": "парапет (разположен по протежение)",
+    "cs": "zábradlí (rozprostřené podél)",
+    "da": "et rækværk (som spredes langs)",
+    "de": "ein Geländer (wie es sich ausbreitet)",
+    "el": "ένα κιγκλίδωμα (όπως απλώνεται κατά μήκος)",
+    "es": "una barandilla (como extendida a lo largo)",
+    "et": "kaide (nagu laiali piki)",
+    "fi": "kaide (kuten levitetään pitkin)",
+    "fr": "une balustrade (comme étalée le long)",
+    "hu": "egy korlát (ahogyan elterjedt)",
+    "id": "pagar (seperti yang tersebar di sepanjang)",
+    "it": "un parapetto (come se fosse diffuso)",
+    "ja": "欄干",
+    "ko": "난간(펼쳐진 상태)",
+    "lt": "turėklai (kaip išilgai)",
+    "lv": "margas (kā gar tām)",
+    "nb": "et rekkverk (som spres langs)",
+    "nl": "een reling (zoals langs gespreid)",
+    "pl": "poręcz (rozciągnięta wzdłuż)",
+    "pt": "uma balaustrada (como se estende ao longo)",
+    "ro": "o balustradă (ca răspândită de-a lungul)",
+    "ru": "перила (в виде разложенных вдоль)",
+    "sk": "zábradlie (ako sa rozprestiera pozdĺž)",
+    "sl": "ograja (razprostrta vzdolž)",
+    "sv": "ett räcke (som sprids längs)",
+    "tr": "bir parmaklık (boyunca yayılmış olarak)",
+    "uk": "перила (розкладені вздовж)",
+    "zh": "槛"
+  },
+  "verses": [
+    "solomon 3:10:3"
+  ]
+}

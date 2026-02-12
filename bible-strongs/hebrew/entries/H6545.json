@@ -1,0 +1,43 @@
+{
+  "number": "H6545",
+  "language": "hebrew",
+  "transliteration": "peraʻ",
+  "pronunciation": "peh'-rah",
+  "definition": "the hair (as dishevelled)",
+  "kjvTranslation": "locks.",
+  "hebrew": "פֶּרַע",
+  "translations": {
+    "bg": "косата (като разрошена)",
+    "cs": "vlasy (jako rozcuchané)",
+    "da": "håret (som uredt)",
+    "de": "das Haar (wie zerzaust)",
+    "el": "τα μαλλιά (ως ατημέλητα)",
+    "es": "el pelo (como despeinado)",
+    "et": "juuksed (nagu korrastatud)",
+    "fi": "hiukset (epäsiisteinä)",
+    "fr": "les cheveux (comme ébouriffés)",
+    "hu": "a haj (mint zilált)",
+    "id": "rambut (seperti acak-acakan)",
+    "it": "i capelli (come spettinati)",
+    "ja": "みのけ",
+    "ko": "머리카락(흐트러진 상태)",
+    "lt": "plaukai (kaip iššukuoti)",
+    "lv": "mati (kā izķemmēti)",
+    "nb": "håret (som rufsete)",
+    "nl": "het haar (als verfomfaaid)",
+    "pl": "włosy (jako rozczochrane)",
+    "pt": "o cabelo (como desgrenhado)",
+    "ro": "părul (ca descâlcit)",
+    "ru": "волосы (взъерошенные)",
+    "sk": "vlasy (ako rozstrapatené)",
+    "sl": "lasje (kot razmršeni)",
+    "sv": "håret (som rufsigt)",
+    "tr": "saç (dağınık olarak)",
+    "uk": "волосся (як розпатлане)",
+    "zh": "头发"
+  },
+  "verses": [
+    "numbers 6:5:18",
+    "ezekiel 44:20:3"
+  ]
+}

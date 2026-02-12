@@ -1,0 +1,42 @@
+{
+  "number": "H1108",
+  "language": "hebrew",
+  "transliteration": "Balʻîy",
+  "pronunciation": "bel-ee'",
+  "definition": "a Belaite (collectively) or descendants of Bela",
+  "kjvTranslation": "Belaites.",
+  "translations": {
+    "bg": "a Belaite (колективно) или потомци на Bela",
+    "cs": "a Belaite (kolektivně) nebo potomci Bela",
+    "da": "en belaite (kollektivt) eller efterkommere af Bela",
+    "de": "ein Belaite (kollektiv) oder Nachkommen von Bela",
+    "el": "ένας Belaite (συλλογικά) ή απόγονοι του Bela",
+    "es": "a Belaite (colectivamente) o descendientes de Bela",
+    "et": "belaite (kollektiivselt) või Bela järeltulijad",
+    "fi": "belaite (kollektiivisesti) tai Belan jälkeläiset",
+    "fr": "un Belaite (collectivement) ou des descendants de Bela",
+    "hu": "egy bélaita (együttesen) vagy Béla leszármazottai",
+    "id": "seorang Bela (secara kolektif) atau keturunan Bela",
+    "it": "un Belaita (collettivamente) o discendenti di Bela",
+    "ja": "ベラ人（総称）またはベラの子孫",
+    "ko": "벨라족(총칭) 또는 벨라족의 후손",
+    "lt": "a Belaite (bendrai) arba Belos palikuonys",
+    "lv": "belaite (kopā) vai Bela pēcteči",
+    "nb": "en Belaite (kollektivt) eller etterkommere av Bela",
+    "nl": "een Belaiet (collectief) of afstammelingen van Bela",
+    "pl": "belaici (łącznie) lub potomkowie Beli",
+    "pt": "um Belaite (coletivamente) ou descendentes de Bela",
+    "ro": "un Belaite (colectiv) sau descendenți ai lui Bela",
+    "ru": "белаиты (коллективно) или потомки Бела",
+    "sk": "a Belaite (spoločne) alebo potomkovia Bela",
+    "sl": "a Belaite (skupaj) ali potomci Bele",
+    "sv": "en Belaite (kollektivt) eller ättlingar till Bela",
+    "tr": "bir Belaite (topluca) veya Bela'nın soyundan gelenler",
+    "uk": "білаїт (разом) або нащадки Бела",
+    "zh": "贝拉人（集体）或贝拉的后裔"
+  },
+  "hebrew": "בַּלְעִי",
+  "verses": [
+    "numbers 26:38:5"
+  ]
+}

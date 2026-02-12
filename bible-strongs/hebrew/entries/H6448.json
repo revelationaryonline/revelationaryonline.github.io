@@ -1,0 +1,42 @@
+{
+  "number": "H6448",
+  "language": "hebrew",
+  "transliteration": "pâçag",
+  "pronunciation": "paw-sag'",
+  "definition": "to cut up, i.e. (figuratively) contemplate",
+  "kjvTranslation": "consider.",
+  "hebrew": "פָּסַג",
+  "translations": {
+    "bg": "да режа, т.е. (в преносен смисъл) да размишлявам",
+    "cs": "krájet, tj. (obrazně) uvažovat",
+    "da": "at skære op, dvs. (i overført betydning) betragte",
+    "de": "zerschneiden, d.h. (im übertragenen Sinne) erwägen",
+    "el": "να τεμαχίσετε, δηλαδή (μεταφορικά) να συλλογιστείτε",
+    "es": "cortar, es decir (figuradamente) contemplar",
+    "et": "tükeldama, st (piltlikult) mõtisklema",
+    "fi": "paloitella, eli (kuvaannollisesti) pohtia",
+    "fr": "découper, c'est-à-dire contempler (au sens figuré)",
+    "hu": "feldarabolni, azaz (átvitt értelemben) szemlélődni",
+    "id": "untuk memotong, yaitu (secara kiasan) merenungkan",
+    "it": "tagliare, ovvero (in senso figurato) contemplare",
+    "ja": "切り刻む、つまり（比喩的に）熟考する",
+    "ko": "자르다, 즉 (비 유적으로) 생각하다",
+    "lt": "pjaustyti, t. y. (perkeltine prasme) svarstyti",
+    "lv": "sagriezt, t.i., (pārnestā nozīmē) pārdomāt",
+    "nb": "å skjære opp, dvs. (i overført betydning) betrakte",
+    "nl": "verknippen, d.w.z. (figuurlijk) overwegen",
+    "pl": "pociąć, tj. (w przenośni) kontemplować",
+    "pt": "cortar, ou seja, (figurativamente) contemplar",
+    "ro": "a tăia, adică (la figurat) a contempla",
+    "ru": "резать, т.е. (фигурально) созерцать",
+    "sk": "krájať, t. j. (obrazne) uvažovať",
+    "sl": "razrezati, tj. (v prenesenem pomenu) razmisliti",
+    "sv": "att skära upp, dvs. (bildligt talat) betrakta",
+    "tr": "kesmek, yani (mecazi olarak) düşünmek",
+    "uk": "розрізати, тобто (образно) споглядати",
+    "zh": "切磋，即（比喻）沉思"
+  },
+  "verses": [
+    "psalms 48:14:3"
+  ]
+}

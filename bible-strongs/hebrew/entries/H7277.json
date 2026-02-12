@@ -1,0 +1,42 @@
+{
+  "number": "H7277",
+  "language": "hebrew",
+  "transliteration": "rigmâh",
+  "pronunciation": "rig-maw'",
+  "definition": "a pile (of stones), i.e. (figuratively) a throng",
+  "kjvTranslation": "council.",
+  "hebrew": "רִגְמָה",
+  "translations": {
+    "bg": "купчина (камъни), т.е. (преносно) тълпа",
+    "cs": "hromada (kamení), tj. (obrazně) dav",
+    "da": "en bunke (af sten), dvs. (i overført betydning) en menneskemængde",
+    "de": "ein Haufen (von Steinen), d.h. (im übertragenen Sinne) ein Gedränge",
+    "el": "ένας σωρός (από πέτρες), δηλαδή (μεταφορικά) ένα πλήθος",
+    "es": "un montón (de piedras), es decir (en sentido figurado) una muchedumbre",
+    "et": "hunnik (kividest), st (piltlikult) rahvahulk",
+    "fi": "kasa (kiviä), eli (kuvaannollisesti) väkijoukko",
+    "fr": "un tas (de pierres), c'est-à-dire (au sens figuré) une foule",
+    "hu": "egy halom (kő), azaz (átvitt értelemben) egy tömeg",
+    "id": "tumpukan (batu), yaitu (secara kiasan) kerumunan",
+    "it": "un mucchio (di pietre), cioè (in senso figurato) una folla",
+    "ja": "うずたかい",
+    "ko": "(돌무더기) 더미, 즉 (비유적으로) 무리",
+    "lt": "akmenų krūva, t. y. (perkeltine prasme) minia",
+    "lv": "(akmeņu) kaudze, t. i., (pārnestā nozīmē) pūlis",
+    "nb": "en haug (av steiner), dvs. (i overført betydning) en folkemengde",
+    "nl": "een stapel (stenen), d.w.z. (figuurlijk) een menigte",
+    "pl": "stos (kamieni), tj. (w przenośni) tłum",
+    "pt": "um monte (de pedras), ou seja, (figurativamente) uma multidão",
+    "ro": "o grămadă (de pietre), adică (la figurat) o mulțime",
+    "ru": "груда (камней), т.е. (фигурально) толпа",
+    "sk": "hromada (kameňov), t. j. (obrazne) zástup",
+    "sl": "kup (kamenja), tj. (v prenesenem pomenu) množica",
+    "sv": "en hög (av stenar), dvs. (bildligt talat) en skara",
+    "tr": "(taşlardan oluşan) bir yığın, yani (mecazi olarak) bir kalabalık",
+    "uk": "купа (каміння), тобто (образно) натовп",
+    "zh": "乱石堆"
+  },
+  "verses": [
+    "psalms 68:28:6"
+  ]
+}

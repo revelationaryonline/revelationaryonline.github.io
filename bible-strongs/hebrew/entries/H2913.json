@@ -1,0 +1,42 @@
+{
+  "number": "H2913",
+  "language": "hebrew",
+  "transliteration": "ṭachănâh",
+  "pronunciation": "takh-an-aw'",
+  "definition": "a hand mill; hence (figuratively) chewing",
+  "kjvTranslation": "grinding.",
+  "translations": {
+    "bg": "ръчна мелница; оттам (образно) дъвчене",
+    "cs": "ruční mlýnek; tedy (přeneseně) žvýkání",
+    "da": "en håndmølle; derfor (i overført betydning) tygge",
+    "de": "eine Handmühle; daher (im übertragenen Sinne) kauend",
+    "el": "ένας χειρόμυλος- ως εκ τούτου (μεταφορικά) το μάσημα",
+    "es": "un molino de mano; de ahí (en sentido figurado) masticar",
+    "et": "käsiveski; seega (piltlikult) närimine",
+    "fi": "käsimylly; siis (kuvaannollisesti) pureskelu",
+    "fr": "un moulin à main ; d'où (au sens figuré) la mastication",
+    "hu": "kézi malom; ezért (átvitt értelemben) rágás",
+    "id": "gilingan tangan; karenanya (secara kiasan) mengunyah",
+    "it": "un mulino a mano; quindi (in senso figurato) masticare",
+    "ja": "だから（比喩的に）噛む",
+    "ko": "손 방앗간; 따라서 (비유적으로) 씹는 것",
+    "lt": "rankinis malūnas; taigi (perkeltine prasme) kramtymas",
+    "lv": "rokas dzirnaviņas; tātad (pārnestā nozīmē) košļājamā mašīna",
+    "nb": "en håndkvern; derav (i overført betydning) tygging",
+    "nl": "een handmolen; vandaar (figuurlijk) kauwen",
+    "pl": "młynek ręczny; stąd (w przenośni) żucie",
+    "pt": "um moinho manual; portanto (em sentido figurado) mastigando",
+    "ro": "o moară de mână; prin urmare (la figurat) mestecat",
+    "ru": "ручная мельница; отсюда (фигурально) жевание",
+    "sk": "ručný mlynček; teda (obrazne) žuvanie",
+    "sl": "ročni mlin; zato (v prenesenem pomenu) žvečenje",
+    "sv": "en handkvarn; därav (bildligt) tuggning",
+    "tr": "bir el değirmeni; dolayısıyla (mecazi olarak) çiğneme",
+    "uk": "ручний млин; звідси (образно) жування",
+    "zh": "手磨；因此（比喻咀嚼"
+  },
+  "hebrew": "טַחֲנָה",
+  "verses": [
+    "ecclesiastes 12:4:5"
+  ]
+}

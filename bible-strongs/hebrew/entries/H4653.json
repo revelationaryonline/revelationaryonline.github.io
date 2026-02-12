@@ -1,0 +1,42 @@
+{
+  "number": "H4653",
+  "language": "hebrew",
+  "transliteration": "miphlaggâh",
+  "pronunciation": "mif-lag-gaw'",
+  "definition": "a classification",
+  "kjvTranslation": "division.",
+  "hebrew": "מִפְלַגָּה",
+  "verses": [
+    "secondChronicles 35:12:3"
+  ],
+  "translations": {
+    "bg": "класификация",
+    "cs": "klasifikace",
+    "da": "en klassificering",
+    "de": "eine Klassifizierung",
+    "el": "ταξινόμηση",
+    "es": "una clasificación",
+    "et": "klassifikatsioon",
+    "fi": "luokittelu",
+    "fr": "une classification",
+    "hu": "osztályozás",
+    "id": "klasifikasi",
+    "it": "una classificazione",
+    "ja": "分類",
+    "ko": "분류",
+    "lt": "klasifikacija",
+    "lv": "klasifikācija",
+    "nb": "a klassifisering",
+    "nl": "een classificatie",
+    "pl": "klasyfikacja",
+    "pt": "a classificação",
+    "ro": "o clasificare",
+    "ru": "классификация",
+    "sk": "klasifikácia",
+    "sl": "razvrstitev",
+    "sv": "a klassificering",
+    "tr": "bir sınıflandırma",
+    "uk": "класифікацію",
+    "zh": "分类"
+  }
+}

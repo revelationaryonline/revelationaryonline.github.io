@@ -1,0 +1,42 @@
+{
+  "number": "H992",
+  "language": "hebrew",
+  "transliteration": "bôṭen",
+  "pronunciation": "bo'-ten",
+  "definition": "(only in plural) a pistachio-nut (from its form)",
+  "kjvTranslation": "nut.",
+  "translations": {
+    "bg": "(само в множествено число) шамфъстък (от формата му)",
+    "cs": "(pouze v množném čísle) pistáciový oříšek (podle tvaru)",
+    "da": "(kun i flertal) en pistacienød (fra dens form)",
+    "de": "(nur im Plural) eine Pistaziennuss (von der Form her)",
+    "el": "(μόνο στον πληθυντικό) ένα φιστίκι (από τη μορφή του)",
+    "es": "(sólo en plural) un pistacho (por su forma)",
+    "et": "(ainult mitmuses) pistaatsiapähkel (selle vormilt)",
+    "fi": "(vain monikossa) pistaasipähkinä (muodosta)",
+    "fr": "(uniquement au pluriel) une pistache (de sa forme)",
+    "hu": "(csak többes számban) pisztácia (a formájából)",
+    "id": "(hanya dalam bentuk jamak) kacang pistachio (dari bentuknya)",
+    "it": "(solo al plurale) un pistacchio (dalla sua forma)",
+    "ja": "(ピスタチオの実（その形から複数形のみ）",
+    "ko": "(복수형으로만) 피스타치오 너트(그 형태에서)",
+    "lt": "(tik daugiskaita) pistacijų riešutas (pagal formą)",
+    "lv": "(tikai daudzskaitlī) pistāciju rieksts (pēc formas)",
+    "nb": "(bare i flertall) en pistasjnøtt (fra formen)",
+    "nl": "(alleen in meervoud) een pistachenoot (van de vorm)",
+    "pl": "(tylko w liczbie mnogiej) orzech pistacjowy (od jego formy)",
+    "pt": "(apenas no plural) uma noz de pistácio (da sua forma)",
+    "ro": "(numai la plural) un fistic (de la forma sa)",
+    "ru": "(только во множественном числе) фисташковый орех (от его формы)",
+    "sk": "(len v množnom čísle) pistáciový orech (podľa tvaru)",
+    "sl": "(samo v množini) pistacija (po obliki)",
+    "sv": "(endast i plural) en pistagenöt (från dess form)",
+    "tr": "(sadece çoğul olarak) antep fıstığı (formundan)",
+    "uk": "(тільки у множині) фісташковий горіх (від форми)",
+    "zh": "(开心果"
+  },
+  "hebrew": "בֹּטֶן",
+  "verses": [
+    "genesis 43:11:22"
+  ]
+}

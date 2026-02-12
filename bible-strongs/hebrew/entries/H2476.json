@@ -1,0 +1,42 @@
+{
+  "number": "H2476",
+  "language": "hebrew",
+  "transliteration": "chălûwshâh",
+  "pronunciation": "khal-oo-shaw'",
+  "definition": "defeat",
+  "kjvTranslation": "being overcome.",
+  "translations": {
+    "bg": "победа",
+    "cs": "porazit",
+    "da": "nederlag",
+    "de": "besiegen",
+    "el": "ήττα",
+    "es": "vencer",
+    "et": "võita",
+    "fi": "voittaa",
+    "fr": "défaite",
+    "hu": "vereség",
+    "id": "kekalahan",
+    "it": "sconfitta",
+    "ja": "敗北",
+    "ko": "패배",
+    "lt": "nugalėti",
+    "lv": "uzvarēt",
+    "nb": "nederlag",
+    "nl": "verslaan",
+    "pl": "porażka",
+    "pt": "derrota",
+    "ro": "înfrângere",
+    "ru": "победить",
+    "sk": "poraziť",
+    "sl": "poraz",
+    "sv": "nederlag",
+    "tr": "yenilgi",
+    "uk": "поразка",
+    "zh": "挫败"
+  },
+  "hebrew": "חֲלוּשָׁה",
+  "verses": [
+    "exodus 32:18:8"
+  ]
+}

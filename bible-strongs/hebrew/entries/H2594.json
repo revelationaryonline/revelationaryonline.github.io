@@ -1,0 +1,42 @@
+{
+  "number": "H2594",
+  "language": "hebrew",
+  "transliteration": "chănîynâh",
+  "pronunciation": "khan-ee-naw'",
+  "definition": "graciousness",
+  "kjvTranslation": "favour.",
+  "translations": {
+    "bg": "милосърдие",
+    "cs": "milostivost",
+    "da": "elskværdighed",
+    "de": "liebenswürdigkeit",
+    "el": "ευγένεια",
+    "es": "gentileza",
+    "et": "armulikkus",
+    "fi": "armollisuus",
+    "fr": "gracieuseté",
+    "hu": "kegyesség",
+    "id": "keanggunan",
+    "it": "gentilezza",
+    "ja": "仁恵",
+    "ko": "은혜",
+    "lt": "maloningumas",
+    "lv": "žēlsirdība",
+    "nb": "elskverdighet",
+    "nl": "hoffelijkheid",
+    "pl": "łaskawość",
+    "pt": "graciosidade",
+    "ro": "grațiere",
+    "ru": "милосердие",
+    "sk": "láskavosť",
+    "sl": "prijaznost",
+    "sv": "älskvärdhet",
+    "tr": "nezaket",
+    "uk": "милість",
+    "zh": "得体"
+  },
+  "hebrew": "חֲנִינָה",
+  "verses": [
+    "jeremiah 16:13:23"
+  ]
+}

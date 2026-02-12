@@ -1,0 +1,42 @@
+{
+  "number": "H7917",
+  "language": "hebrew",
+  "transliteration": "sᵉkîyrâh",
+  "pronunciation": "sek-ee-raw'",
+  "definition": "a hiring",
+  "kjvTranslation": "that is hired.",
+  "hebrew": "שְׂכִירָה",
+  "translations": {
+    "bg": "наемане",
+    "cs": "najímání zaměstnanců",
+    "da": "en ansættelse",
+    "de": "eine Anstellung",
+    "el": "πρόσληψη",
+    "es": "a contratación",
+    "et": "töölevõtmine",
+    "fi": "palkkaaminen",
+    "fr": "une embauche",
+    "hu": "a bérbeadás",
+    "id": "perekrutan",
+    "it": "un'assunzione",
+    "ja": "雇用",
+    "ko": "채용",
+    "lt": "įdarbinimas",
+    "lv": "darbā pieņemšana",
+    "nb": "ansettelse",
+    "nl": "een indienstneming",
+    "pl": "zatrudnienie",
+    "pt": "a contratação",
+    "ro": "o angajare",
+    "ru": "наём",
+    "sk": "prijímanie zamestnancov",
+    "sl": "najem",
+    "sv": "en anställning",
+    "tr": "bir işe alma",
+    "uk": "наймання на роботу",
+    "zh": "雇用"
+  },
+  "verses": [
+    "isaiah 7:20:5"
+  ]
+}

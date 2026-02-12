@@ -1,0 +1,42 @@
+{
+  "number": "H6291",
+  "language": "hebrew",
+  "transliteration": "pag",
+  "pronunciation": "pag",
+  "definition": "crude; an unripe fig",
+  "kjvTranslation": "green figuratively",
+  "hebrew": "פַּג",
+  "translations": {
+    "bg": "сурова; неузряла смокиня",
+    "cs": "surový; nezralý fík",
+    "da": "rå; en umoden figen",
+    "de": "roh; eine unreife Feige",
+    "el": "ακατέργαστο, άγουρο σύκο",
+    "es": "crudo; un higo inmaduro",
+    "et": "toores; ebaküpset viigimarju",
+    "fi": "raaka; kypsymätön viikuna",
+    "fr": "brut ; une figue non mûre",
+    "hu": "nyers; éretlen füge",
+    "id": "minyak mentah; buah ara yang masih mentah",
+    "it": "grezzo; un fico acerbo",
+    "ja": "未熟なイチジク",
+    "ko": "조잡한; 덜 익은 무화과",
+    "lt": "neapdorota; neprinokusi figa",
+    "lv": "neapstrādāta; nenogatavojusies vīģe",
+    "nb": "rå; en umoden fiken",
+    "nl": "ruw; een onrijpe vijg",
+    "pl": "surowy; niedojrzała figa",
+    "pt": "cru; um figo não maduro",
+    "ro": "brut; o smochină necoaptă",
+    "ru": "сырой; недозрелый инжир",
+    "sk": "surový; nezrelý figovník",
+    "sl": "surova; nezrela figa",
+    "sv": "rå; ett omoget fikon",
+    "tr": "ham; olgunlaşmamış incir",
+    "uk": "сирий; недозрілий інжир",
+    "zh": "榛"
+  },
+  "verses": [
+    "solomon 2:13:2"
+  ]
+}

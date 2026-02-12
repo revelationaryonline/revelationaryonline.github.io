@@ -1,0 +1,42 @@
+{
+  "number": "H2283",
+  "language": "hebrew",
+  "transliteration": "châgâʼ",
+  "pronunciation": "khaw-gaw'",
+  "definition": "properly, vertigo, i.e. (figuratively) fear",
+  "kjvTranslation": "terror.",
+  "translations": {
+    "bg": "правилно, световъртеж, т.е. (в преносен смисъл) страх",
+    "cs": "správně závrať, tj. (přeneseně) strach",
+    "da": "korrekt, svimmelhed, dvs. (i overført betydning) frygt",
+    "de": "richtig, Schwindel, d.h. (im übertragenen Sinne) Angst",
+    "el": "σωστά, ίλιγγος, δηλαδή (μεταφορικά) φόβος",
+    "es": "propiamente, vértigo, es decir (figuradamente) miedo",
+    "et": "õigesti, vertigo, st (piltlikult öeldes) hirmu",
+    "fi": "oikein, huimaus, eli (kuvaannollisesti) pelko",
+    "fr": "proprement dit, le vertige, c'est-à-dire (au sens figuré) la peur",
+    "hu": "helyesen, szédülés, azaz (átvitt értelemben) félelem",
+    "id": "dengan benar, vertigo, yaitu (secara kiasan) ketakutan",
+    "it": "propriamente, vertigine, cioè (in senso figurato) paura",
+    "ja": "正しくは眩暈、すなわち（比喩的に）恐怖",
+    "ko": "제대로, 현기증, 즉 (비유적으로) 두려움",
+    "lt": "tinkamai, vertigo, t. y. (perkeltine prasme) baimė",
+    "lv": "pareizi, vertigo, t.i., (pārnestā nozīmē) bailes",
+    "nb": "egentlig svimmelhet, dvs. (i overført betydning) frykt",
+    "nl": "goed, vertigo, d.w.z. (figuurlijk) angst",
+    "pl": "właściwie zawroty głowy, tj. (w przenośni) strach",
+    "pt": "propriamente, vertigem, ou seja, (figurativamente) medo",
+    "ro": "corect, vertij, adică (la figurat) frică",
+    "ru": "правильно, головокружение, т.е. (образно) страх",
+    "sk": "správne, vertigo, t. j. (obrazne) strach",
+    "sl": "pravilno, vrtoglavica, tj. (v prenesenem pomenu) strah",
+    "sv": "korrekt, yrsel, dvs. (bildligt talat) rädsla",
+    "tr": "uygun şekilde, vertigo, yani (mecazi olarak) korku",
+    "uk": "власне, запаморочення, тобто (образно) страх",
+    "zh": "眩，即（比喻）恐惧"
+  },
+  "hebrew": "חָגָא",
+  "verses": [
+    "isaiah 19:17:4"
+  ]
+}

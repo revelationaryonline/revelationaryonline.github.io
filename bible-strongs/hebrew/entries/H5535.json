@@ -1,0 +1,42 @@
+{
+  "number": "H5535",
+  "language": "hebrew",
+  "transliteration": "çâkath",
+  "pronunciation": "saw-kath'",
+  "definition": "by implication, to observe quietly",
+  "kjvTranslation": "take heed.",
+  "hebrew": "סָכַת",
+  "translations": {
+    "bg": "по подразбиране, да наблюдавам спокойно",
+    "cs": "implicitně pozorovat v tichosti",
+    "da": "underforstået, at observere stille og roligt",
+    "de": "stillschweigend zu beobachten",
+    "el": "με την έννοια, να παρατηρώ ήσυχα",
+    "es": "implícitamente, observar en silencio",
+    "et": "kaudselt, vaikselt jälgida",
+    "fi": "implisiittisesti, tarkkailla hiljaa",
+    "fr": "implicitement, observer tranquillement",
+    "hu": "hallgatólagosan, csendben megfigyelni",
+    "id": "sebagai implikasinya, untuk mengamati dengan tenang",
+    "it": "per implicazione, osservare tranquillamente",
+    "ja": "静かに観察する",
+    "ko": "암시적으로, 조용히 관찰하기",
+    "lt": "netiesiogiai - ramiai stebėti",
+    "lv": "netieši - mierīgi novērot",
+    "nb": "underforstått, å observere i stillhet",
+    "nl": "impliciet, rustig observeren",
+    "pl": "w domyśle, obserwować po cichu",
+    "pt": "implicitamente, observar calmamente",
+    "ro": "implicit, a observa în liniște",
+    "ru": "по косвенным признакам, спокойно наблюдать",
+    "sk": "implicitne, ticho pozorovať",
+    "sl": "implicitno, mirno opazovati",
+    "sv": "underförstått, att observera lugnt",
+    "tr": "ima yoluyla, sessizce gözlemlemek",
+    "uk": "неявно, спокійно спостерігати",
+    "zh": "静观"
+  },
+  "verses": [
+    "deuteronomy 27:9:8"
+  ]
+}

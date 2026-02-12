@@ -1,0 +1,42 @@
+{
+  "number": "H3501",
+  "language": "hebrew",
+  "transliteration": "Yithrâʼ",
+  "pronunciation": "yith-raw'",
+  "definition": "Jithra, an Israelite (or Ishmaelite)",
+  "kjvTranslation": "Ithra.",
+  "translations": {
+    "bg": "Джитра, израилтянин (или измаилтянин)",
+    "cs": "Jithra, Izraelita (nebo Izmaelita)",
+    "da": "Jithra, en israelit (eller ismaelit)",
+    "de": "Jithra, ein Israelit (oder Ismaelit)",
+    "el": "Jithra, ένας Ισραηλίτης (ή Ισμαηλίτης)",
+    "es": "Jithra, israelita (o ismaelita)",
+    "et": "Jithra, iisraellane (või ismaeliit)",
+    "fi": "Jithra, israelilainen (tai ismaelilainen)",
+    "fr": "Jithra, Israélite (ou Ismaélite)",
+    "hu": "Jithra, izraelita (vagy izmaelit)",
+    "id": "Jithra, seorang Israel (atau Ismael)",
+    "it": "Jithra, un israelita (o ismaelita)",
+    "ja": "ジスラ イスラエル人（またはイシュマエル人）",
+    "ko": "지트라, 이스라엘인(또는 이스마엘인)",
+    "lt": "Jitra, izraelitas (arba izmaelitas)",
+    "lv": "Jitra, izraēliete (vai ismaēliete)",
+    "nb": "Jithra, en israelitt (eller ismaelitt)",
+    "nl": "Jithra, een Israëliet (of Ismaëliet)",
+    "pl": "Jithra, Izraelita (lub Ismaelita)",
+    "pt": "Jithra, um israelita (ou ismaelita)",
+    "ro": "Jithra, un israelit (sau ismaelit)",
+    "ru": "Иитра, израильтянин (или исмаилитянин)",
+    "sk": "Jithra, Izraelita (alebo Izmaelita)",
+    "sl": "Jithra, Izraelec (ali Izmaelit)",
+    "sv": "Jithra, en israelit (eller ismaelit)",
+    "tr": "Jithra, bir İsrailli (ya da İsmailî)",
+    "uk": "Їтра, ізраїльтянин (або ізмаїльтянин)",
+    "zh": "吉斯拉，以色列人（或以实玛利人）"
+  },
+  "hebrew": "יִתְרָא",
+  "verses": [
+    "secondSamuel 17:25:12"
+  ]
+}

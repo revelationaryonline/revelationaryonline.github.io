@@ -1,0 +1,42 @@
+{
+  "number": "H3219",
+  "language": "hebrew",
+  "transliteration": "yalqûwṭ",
+  "pronunciation": "yal-koot'",
+  "definition": "a travelling pouch (as if for gleanings)",
+  "kjvTranslation": "scrip.",
+  "translations": {
+    "bg": "пътна чанта (като за събиране на реколтата)",
+    "cs": "cestovní vak (jako na sběr)",
+    "da": "en rejsetaske (som til at samle ind)",
+    "de": "eine Reisetasche (wie für Nachlese)",
+    "el": "ένα ταξιδιωτικό σακουλάκι (σαν να είναι για συλλογή)",
+    "es": "una bolsa de viaje (como para espigar)",
+    "et": "reisikott (nagu oleks see mõeldud korjanduste jaoks)",
+    "fi": "matkasäkki (ikään kuin keräilykassia varten)",
+    "fr": "une pochette de voyage (comme pour les glanages)",
+    "hu": "egy utazótáska (mintha gyűjtögetni akarnának)",
+    "id": "kantong untuk bepergian (seolah-olah untuk mengumpulkan barang)",
+    "it": "una sacca da viaggio (come per la spigolatura)",
+    "ja": "のし袋",
+    "ko": "여행용 파우치(채집용)",
+    "lt": "kelioninį maišelį (tarsi rinkliavai)",
+    "lv": "ceļojuma maisiņš (it kā savākšanai)",
+    "nb": "en reiseveske (som om den skulle brukes til å samle inn)",
+    "nl": "een reisbuidel (als voor sprokkels)",
+    "pl": "torba podróżna (jak do zbierania plonów)",
+    "pt": "uma bolsa de viagem (como se fosse para respigar)",
+    "ro": "o pungă de voiaj (ca pentru culegeri)",
+    "ru": "дорожный мешочек (как бы для сбора урожая)",
+    "sk": "cestovný vak (akoby na zber)",
+    "sl": "potovalno torbo (kot za nabiranje)",
+    "sv": "en resepåse (som för att samla in saker)",
+    "tr": "bir seyahat kesesi (toplayıcılar için olduğu gibi)",
+    "uk": "дорожню сумку (ніби для збору врожаю)",
+    "zh": "行囊"
+  },
+  "hebrew": "יַלְקוּט",
+  "verses": [
+    "firstSamuel 17:40:16"
+  ]
+}

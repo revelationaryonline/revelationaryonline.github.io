@@ -1,0 +1,42 @@
+{
+  "number": "H7876",
+  "language": "hebrew",
+  "transliteration": "shâyâh",
+  "pronunciation": "shaw-yaw'",
+  "definition": "to keep in memory",
+  "kjvTranslation": "be unmindful. (Render Deuteronomy 32:18, 'A Rock bore thee, thou must recollect; and (yet) thou hast forgotten,' etc.)",
+  "hebrew": "שָׁיָה",
+  "translations": {
+    "bg": "да се пази в паметта",
+    "cs": "uchovávat v paměti",
+    "da": "at holde i hukommelsen",
+    "de": "im Gedächtnis zu behalten",
+    "el": "να κρατάτε στη μνήμη σας",
+    "es": "para guardar en la memoria",
+    "et": "mälu säilitamiseks",
+    "fi": "pitää muistissa",
+    "fr": "à garder en mémoire",
+    "hu": "hogy emlékezzünk rá",
+    "id": "untuk disimpan dalam memori",
+    "it": "da tenere in memoria",
+    "ja": "記憶にとどめる",
+    "ko": "메모리에 보관할 수 있습니다",
+    "lt": "saugoti atmintyje",
+    "lv": "saglabāt atmiņā",
+    "nb": "for å holde i minne",
+    "nl": "om in gedachten te houden",
+    "pl": "zachować w pamięci",
+    "pt": "para guardar na memória",
+    "ro": "pentru a păstra în memorie",
+    "ru": "хранить в памяти",
+    "sk": "uchovávať v pamäti",
+    "sl": "ohraniti v spominu",
+    "sv": "för att hålla i minnet",
+    "tr": "hafızada tutmak için",
+    "uk": "зберегти в пам'яті",
+    "zh": "怀念"
+  },
+  "verses": [
+    "deuteronomy 32:18:2"
+  ]
+}

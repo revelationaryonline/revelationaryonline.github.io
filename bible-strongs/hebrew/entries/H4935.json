@@ -1,0 +1,42 @@
+{
+  "number": "H4935",
+  "language": "hebrew",
+  "transliteration": "mishʻîy",
+  "pronunciation": "mish-ee'",
+  "definition": "inspection",
+  "kjvTranslation": "to supple.",
+  "hebrew": "מִשְׁעִי",
+  "translations": {
+    "bg": "инспекция",
+    "cs": "inspekce",
+    "da": "inspektion",
+    "de": "inspektion",
+    "el": "επιθεώρηση",
+    "es": "inspección",
+    "et": "kontroll",
+    "fi": "tarkastus",
+    "fr": "contrôle",
+    "hu": "ellenőrzés",
+    "id": "inspeksi",
+    "it": "ispezione",
+    "ja": "検査",
+    "ko": "검사",
+    "lt": "patikrinimas",
+    "lv": "pārbaude",
+    "nb": "inspeksjon",
+    "nl": "inspectie",
+    "pl": "kontrola",
+    "pt": "inspeção",
+    "ro": "inspecție",
+    "ru": "проверка",
+    "sk": "kontrola",
+    "sl": "pregled",
+    "sv": "inspektion",
+    "tr": "dENETİM",
+    "uk": "перевірка",
+    "zh": "检测"
+  },
+  "verses": [
+    "ezekiel 16:4:10"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H427",
+  "language": "hebrew",
+  "transliteration": "ʼallâh",
+  "pronunciation": "al-law'",
+  "definition": "{an oak or other strong tree}",
+  "kjvTranslation": "oak.",
+  "translations": {
+    "bg": "{дъб или друго силно дърво}",
+    "cs": "{dub nebo jiný silný strom}",
+    "da": "{et egetræ eller et andet stærkt træ}",
+    "de": "(eine Eiche oder ein anderer starker Baum)",
+    "el": "{μια βελανιδιά ή άλλο δυνατό δέντρο}",
+    "es": "{un roble u otro árbol fuerte}",
+    "et": "{tamm või muu tugev puu}",
+    "fi": "{tammi tai muu vahva puu}",
+    "fr": "{un chêne ou un autre arbre robuste}",
+    "hu": "{tölgy vagy más erős fa}",
+    "id": "(pohon ek atau pohon kuat lainnya)",
+    "it": "{una quercia o un altro albero robusto.}",
+    "ja": "{樫などの丈夫な木}。",
+    "ko": "{참나무 또는 기타 튼튼한 나무}",
+    "lt": "{ ąžuolas ar kitas stiprus medis}",
+    "lv": "{ozols vai cits stiprs koks}",
+    "nb": "{en eik eller et annet sterkt tre}",
+    "nl": "{Een eik of andere sterke boom.}",
+    "pl": "(dąb lub inne silne drzewo)",
+    "pt": "{um carvalho ou outra árvore forte}",
+    "ro": "{un stejar sau alt copac puternic}",
+    "ru": "{Дуб или другое сильное дерево.}",
+    "sk": "{dub alebo iný silný strom}",
+    "sl": "{hrast ali drugo močno drevo}",
+    "sv": "{en ek eller annat starkt träd}",
+    "tr": "{bir meşe ya da başka güçlü bir ağaç}",
+    "uk": "{дуб або інше міцне дерево}",
+    "zh": "{一棵橡树或其他强壮的树｝"
+  },
+  "hebrew": "אַלָּה",
+  "verses": [
+    "joshua 24:26:14"
+  ]
+}

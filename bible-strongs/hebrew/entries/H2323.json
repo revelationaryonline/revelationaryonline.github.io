@@ -1,0 +1,42 @@
+{
+  "number": "H2323",
+  "language": "hebrew",
+  "transliteration": "chădâth",
+  "pronunciation": "khad-ath'",
+  "definition": "new",
+  "kjvTranslation": "new.",
+  "translations": {
+    "bg": "нов",
+    "cs": "nový",
+    "da": "ny",
+    "de": "neu",
+    "el": "νέο",
+    "es": "nuevo",
+    "et": "uus",
+    "fi": "uusi",
+    "fr": "nouveau",
+    "hu": "új",
+    "id": "baru",
+    "it": "nuovo",
+    "ja": "新しい",
+    "ko": "new",
+    "lt": "naujas",
+    "lv": "jauns",
+    "nb": "ny",
+    "nl": "nieuw",
+    "pl": "nowy",
+    "pt": "novo",
+    "ro": "nou",
+    "ru": "новый",
+    "sk": "nový",
+    "sl": "novo",
+    "sv": "ny",
+    "tr": "yeni",
+    "uk": "новий",
+    "zh": "新"
+  },
+  "hebrew": "חֲדָת",
+  "verses": [
+    "ezra 6:4:8"
+  ]
+}

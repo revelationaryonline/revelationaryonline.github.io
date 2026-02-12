@@ -1,0 +1,42 @@
+{
+  "number": "H968",
+  "language": "hebrew",
+  "transliteration": "Bizthâʼ",
+  "pronunciation": "biz-thaw'",
+  "definition": "Biztha, a eunuch of Xerxes",
+  "kjvTranslation": "Biztha.",
+  "translations": {
+    "bg": "Бизта, евнух на Ксеркс",
+    "cs": "Biztha, Xerxův eunuch",
+    "da": "Biztha, en af Xerxes' eunukker",
+    "de": "Biztha, ein Eunuch von Xerxes",
+    "el": "Biztha, ευνούχος του Ξέρξη",
+    "es": "Biztha, un eunuco de Jerjes",
+    "et": "Biztha, Kserxese eunuhh",
+    "fi": "Biztha, Kserkseksen eunukki, -",
+    "fr": "Biztha, eunuque de Xerxès",
+    "hu": "Biztha, Xerxész eunuchja",
+    "id": "Biztha, seorang kasim dari Xerxes",
+    "it": "Biztha, un eunuco di Serse",
+    "ja": "クセルクセスの宦官ビズタ",
+    "ko": "크세르크세스의 환관, 비즈타",
+    "lt": "Bizta, Kserkso eunuchas",
+    "lv": "Bizta, Kserksa eunukss",
+    "nb": "Biztha, en evnukk av Xerxes",
+    "nl": "Biztha, een eunuch van Xerxes",
+    "pl": "Biztha, eunuch Kserksesa",
+    "pt": "Biztha, um eunuco de Xerxes",
+    "ro": "Biztha, un eunuc al lui Xerxes",
+    "ru": "Бизта, евнух Ксеркса",
+    "sk": "Biztha, Xerxov eunuch",
+    "sl": "Bizta, Kserksov evnuh",
+    "sv": "Biztha, en eunuck hos Xerxes",
+    "tr": "Biztha, Xerxes'in haremağası",
+    "uk": "Бізда, євнух Ксеркса",
+    "zh": "比兹塔，薛西斯的宦官"
+  },
+  "hebrew": "בִּזְתָא",
+  "verses": [
+    "esther 1:10:8"
+  ]
+}

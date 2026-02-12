@@ -1,0 +1,43 @@
+{
+  "number": "H666",
+  "language": "hebrew",
+  "transliteration": "ʼăphêr",
+  "pronunciation": "af-ayr'",
+  "definition": "a turban",
+  "kjvTranslation": "ashes.",
+  "translations": {
+    "bg": "тюрбан",
+    "cs": "turban",
+    "da": "en turban",
+    "de": "einen Turban",
+    "el": "ένα τουρμπάνι",
+    "es": "un turbante",
+    "et": "turban",
+    "fi": "turbaani",
+    "fr": "un turban",
+    "hu": "turbán",
+    "id": "sorban",
+    "it": "un turbante",
+    "ja": "ターバン",
+    "ko": "터번",
+    "lt": "turbanas",
+    "lv": "turbānu",
+    "nb": "en turban",
+    "nl": "een tulband",
+    "pl": "turban",
+    "pt": "um turbante",
+    "ro": "un turban",
+    "ru": "тюрбан",
+    "sk": "turban",
+    "sl": "turban",
+    "sv": "en turban",
+    "tr": "bir türban",
+    "uk": "тюрбан",
+    "zh": "包头"
+  },
+  "hebrew": "אֲפֵר",
+  "verses": [
+    "firstKings 20:38:7",
+    "firstKings 20:41:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4651",
+  "language": "hebrew",
+  "transliteration": "mappâl",
+  "pronunciation": "map-pawl'",
+  "definition": "a falling off, i.e. chaff; also something pendulous, i.e. a flap",
+  "kjvTranslation": "flake, refuse.",
+  "hebrew": "מַפָּל",
+  "verses": [
+    "job 41:15:0",
+    "amos 8:6:6"
+  ],
+  "translations": {
+    "bg": "отпадане, т.е. плява; също и нещо висящо, т.е. клапа",
+    "cs": "odpadávání, tj. plevy; také něco převislého, tj. klapka",
+    "da": "noget, der falder af, dvs. avner; også noget, der hænger, dvs. en flap",
+    "de": "ein Abfallen, d.h. Spreu; auch etwas Hängendes, d.h. eine Klappe",
+    "el": "μια πτώση, δηλ. μια ψίχα- επίσης κάτι που κρέμεται, δηλ. ένα πτερύγιο",
+    "es": "un desprendimiento, es decir, paja; también algo pendular, es decir, un colgajo",
+    "et": "maha kukkumine, st kobar; ka midagi rippuvat, st laperdamine",
+    "fi": "putoaminen, ts. akanat; myös jotain riippuvaa, ts. läppä",
+    "fr": "une chute, c'est-à-dire de la paille ; également quelque chose de pendulaire, c'est-à-dire un lambeau",
+    "hu": "leeső, azaz pelyva; továbbá valami lógó, azaz pelyva",
+    "id": "yang jatuh, yaitu sekam; juga sesuatu yang menggantung, yaitu penutup",
+    "it": "un'increspatura, cioè una pula; anche qualcosa di pendente, cioè un lembo",
+    "ja": "はらはらと落ちるもの。",
+    "ko": "떨어지는 것, 즉 왕겨; 또한 매달린 것, 즉 플랩과 같은 것",
+    "lt": "nukritęs, t. y. pelena; taip pat kažkas svyruojantis, t. y. atvartas",
+    "lv": "nokrituši, t. i., pelavas; arī kaut kas svārstīgs, t. i., plēksnains",
+    "nb": "noe som faller av, f.eks. agner; også noe hengende, f.eks. en flik",
+    "nl": "een vallend iets, d.w.z. kaf; ook iets hangend, d.w.z. een flap",
+    "pl": "odpadnięcie, tj. plewy; również coś zwisającego, tj. klapa",
+    "pt": "uma queda, ou seja, uma palha; também algo pendente, ou seja, um retalho",
+    "ro": "o cădere, adică paie; de asemenea, ceva pendulant, adică un fulg",
+    "ru": "падаль, т.е. мякина; также нечто маятниковое, т.е. лоскут",
+    "sk": "odpadnutie, t. j. plevy; tiež niečo visiace, t. j. klapka",
+    "sl": "odpadanje, tj. pleve; tudi nekaj visečega, tj. lopata",
+    "sv": "något som faller av, t.ex. agnar; även något som hänger, t.ex. en flik",
+    "tr": "düşmek, yani saman; ayrıca sarkık bir şey, yani bir kanat",
+    "uk": "те, що відпадає, тобто полова; також щось маятникове, тобто стулка",
+    "zh": "脱落，即糠秕；也指下垂的东西，即襟翼"
+  }
+}

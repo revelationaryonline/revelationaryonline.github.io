@@ -1,0 +1,42 @@
+{
+  "number": "H7656",
+  "language": "hebrew",
+  "transliteration": "Shibʻâh",
+  "pronunciation": "shib-aw'",
+  "definition": "Shebah, a well in Palestine",
+  "kjvTranslation": "Shebah.",
+  "hebrew": "שִׁבְעָה",
+  "translations": {
+    "bg": "Шеба, кладенец в Палестина",
+    "cs": "Šéba, studna v Palestině",
+    "da": "Shebah, en brønd i Palæstina",
+    "de": "Shebah, ein Brunnen in Palästina",
+    "el": "Shebah, ένα πηγάδι στην Παλαιστίνη",
+    "es": "Shebah, un pozo en Palestina",
+    "et": "Shebah, kaev Palestiinas",
+    "fi": "Shebah, kaivo Palestiinassa",
+    "fr": "Shebah, puits en Palestine",
+    "hu": "Shebah, egy kút Palesztinában",
+    "id": "Shebah, sebuah sumur di Palestina",
+    "it": "Shebah, un pozzo in Palestina",
+    "ja": "パレスチナの井戸「シェバ",
+    "ko": "팔레스타인의 우물, 셰바",
+    "lt": "Šebas, šulinys Palestinoje",
+    "lv": "Šebaha, aka Palestīnā",
+    "nb": "Shebah, en brønn i Palestina",
+    "nl": "Shebah, een put in Palestina",
+    "pl": "Shebah, studnia w Palestynie",
+    "pt": "Shebah, um poço na Palestina",
+    "ro": "Shebah, o fântână în Palestina",
+    "ru": "Шебах, колодец в Палестине",
+    "sk": "Šeba, studňa v Palestíne",
+    "sl": "Shebah, vodnjak v Palestini",
+    "sv": "Shebah, en brunn i Palestina",
+    "tr": "Şeba, Filistin'de bir kuyu",
+    "uk": "Шеба, колодязь у Палестині",
+    "zh": "谢巴赫"
+  },
+  "verses": [
+    "genesis 26:33:2"
+  ]
+}

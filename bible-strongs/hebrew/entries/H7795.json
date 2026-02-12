@@ -1,0 +1,42 @@
+{
+  "number": "H7795",
+  "language": "hebrew",
+  "transliteration": "sôwrâh",
+  "pronunciation": "so-raw'",
+  "definition": "properly, a ring, i.e. (by analogy) a row (adverbially)",
+  "kjvTranslation": "principal.",
+  "hebrew": "שׂוֹרָה",
+  "translations": {
+    "bg": "правилно, пръстен, т.е. (по аналогия) ред (наречие)",
+    "cs": "správně kruh, tj. (analogicky) řada (adverbiálně)",
+    "da": "korrekt, en ring, dvs. (analogt) en række (adverbialt)",
+    "de": "richtig, ein Ring, d.h. (sinngemäß) eine Reihe (adverbial)",
+    "el": "σωστά, ένα δαχτυλίδι, δηλαδή (κατ' αναλογία) μια σειρά (επιρρηματικά)",
+    "es": "propiamente, un anillo, es decir (por analogía) una fila (adverbialmente)",
+    "et": "õigesti, ring, st (analoogia järgi) rida (adverbiaalselt)",
+    "fi": "oikein, rengas, eli (analogisesti) rivi (adverbiaalisesti)",
+    "fr": "proprement, un anneau, c'est-à-dire (par analogie) une rangée (adverbialement)",
+    "hu": "megfelelően, egy gyűrű, azaz (analógia szerint) egy sor (határozószóval)",
+    "id": "benar, sebuah cincin, yaitu (dengan analogi) sebuah barisan (kata keterangan)",
+    "it": "propriamente, un anello, cioè (per analogia) una fila (avverbialmente)",
+    "ja": "正しくはリング、すなわち（副詞的に）一列",
+    "ko": "적절하게, 반지, 즉 (비유적으로) 줄(부사적으로)",
+    "lt": "tinkamai, žiedas, t. y. (pagal analogiją) eilutė (su prieveiksmiais)",
+    "lv": "pareizi, gredzens, t.i. (pēc analoģijas) rinda (adverbiāli)",
+    "nb": "egentlig, en ring, dvs. (analogt) en rad (adverbialt)",
+    "nl": "goed, een ring, d.w.z. (naar analogie) een rij (bijwoordelijk)",
+    "pl": "właściwie pierścień, tj. (przez analogię) rząd (przysłówkowo)",
+    "pt": "propriamente, um anel, ou seja, (por analogia) uma fila (adverbialmente)",
+    "ro": "în mod corespunzător, un inel, adică (prin analogie) un rând (adverbial)",
+    "ru": "правильно, кольцо, т.е. (по аналогии) ряд (наречие)",
+    "sk": "správne krúžok, t. j. (analogicky) rad (príslovkovo)",
+    "sl": "pravilno, obroč, tj. (po analogiji) vrsta (prislovno)",
+    "sv": "korrekt, en ring, d.v.s. (analogt) en rad (adverbiellt)",
+    "tr": "uygun şekilde, bir halka, yani (benzetme yoluyla) bir sıra (zarf olarak)",
+    "uk": "власне, кільце, тобто (за аналогією) ряд (прислівниково)",
+    "zh": "环，即（类比）行"
+  },
+  "verses": [
+    "isaiah 28:25:10"
+  ]
+}

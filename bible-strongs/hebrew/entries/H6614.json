@@ -1,0 +1,42 @@
+{
+  "number": "H6614",
+  "language": "hebrew",
+  "transliteration": "pᵉthîygîyl",
+  "pronunciation": "peth-eeg-eel'",
+  "definition": "probably a figured mantle forholidays",
+  "kjvTranslation": "stomacher.",
+  "hebrew": "פְּתִיגִיל",
+  "translations": {
+    "bg": "вероятно фигурална мантия за празниците",
+    "cs": "pravděpodobně figurální plášť na svátky",
+    "da": "sandsynligvis en figursyet kappe til højtiderne",
+    "de": "wahrscheinlich ein Mantel mit Figuren für die Feiertage",
+    "el": "πιθανώς ένα μανδύα για τις γιορτές",
+    "es": "probablemente un manto figurado para las fiestas",
+    "et": "ilmselt figuurne mantel pühadeks",
+    "fi": "luultavasti kuviollinen takki lomia varten..",
+    "fr": "probablement un manteau figuré pour les vacances",
+    "hu": "valószínűleg egy figurás kandalló az ünnepekre",
+    "id": "mungkin mantel berpola untuk hari libur",
+    "it": "probabilmente un mantello figurato per le feste",
+    "ja": "ホリデー用のマントルは、おそらくフィギュアだろう。",
+    "ko": "아마도 휴일을 위한 맨틀을 생각했을 것입니다",
+    "lt": "tikriausiai figūrinis židinys švenčių proga",
+    "lv": "iespējams, ka par svētkiem ir figūrzīmēts manteļskurstenis",
+    "nb": "sannsynligvis en figurert kappe til høytiden",
+    "nl": "waarschijnlijk een gefigureerde mantel voor de feestdagen",
+    "pl": "prawdopodobnie figurowy płaszcz na święta",
+    "pt": "provavelmente um manto figurado para as férias",
+    "ro": "probabil o manta figurată pentru sărbători",
+    "ru": "возможно, фигурная мантия для праздников",
+    "sk": "pravdepodobne figurálny plášť na sviatky",
+    "sl": "verjetno figurativni plašč za praznike",
+    "sv": "förmodligen en figursydd mantel förhelger",
+    "tr": "muhtemelen tatiller için figürlü bir manto",
+    "uk": "ймовірно, фігурна накидка на свята",
+    "zh": "可能是节日的花纹壁炉"
+  },
+  "verses": [
+    "isaiah 3:24:13"
+  ]
+}

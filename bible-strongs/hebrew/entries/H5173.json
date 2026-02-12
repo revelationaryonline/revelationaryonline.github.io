@@ -1,0 +1,43 @@
+{
+  "number": "H5173",
+  "language": "hebrew",
+  "transliteration": "nachash",
+  "pronunciation": "nakh'-ash",
+  "definition": "an incantation or augury",
+  "kjvTranslation": "enchantment.",
+  "hebrew": "נַחַשׁ",
+  "translations": {
+    "bg": "заклинание или предсказание",
+    "cs": "zaklínadlo nebo věštba",
+    "da": "en besværgelse eller spådom",
+    "de": "eine Beschwörung oder Weissagung",
+    "el": "ένα ξόρκι ή μια προφητεία",
+    "es": "un conjuro o augurio",
+    "et": "loitsu või ettekuulutus",
+    "fi": "loitsu tai ennustus",
+    "fr": "une incantation ou un augure",
+    "hu": "varázsige vagy jóslat",
+    "id": "mantra atau augury",
+    "it": "un incantesimo o un auspicio",
+    "ja": "呪文",
+    "ko": "주문 또는 오구리",
+    "lt": "užkalbėjimas arba pranašystė",
+    "lv": "parunāšana vai zīlēšana",
+    "nb": "en besvergelse eller spådom",
+    "nl": "een bezwering of voorspelling",
+    "pl": "zaklęcie lub wróżba",
+    "pt": "um encantamento ou augúrio",
+    "ro": "o incantație sau un augur",
+    "ru": "заклинание или предсказание",
+    "sk": "zaklínadlo alebo veštba",
+    "sl": "zaklinjanje ali prerokovanje",
+    "sv": "en besvärjelse eller spådom",
+    "tr": "bir büyü veya kehanet",
+    "uk": "заклинання або віщування",
+    "zh": "谶语"
+  },
+  "verses": [
+    "numbers 23:23:2",
+    "numbers 24:1:14"
+  ]
+}

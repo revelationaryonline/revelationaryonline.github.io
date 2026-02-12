@@ -1,0 +1,42 @@
+{
+  "number": "H3735",
+  "language": "hebrew",
+  "transliteration": "Kârâʼ",
+  "pronunciation": "kaw-raw'",
+  "definition": "to grieve",
+  "kjvTranslation": "be grieved.",
+  "translations": {
+    "bg": "да скърби",
+    "cs": "truchlit",
+    "da": "at sørge",
+    "de": "zu trauern",
+    "el": "να θρηνήσω",
+    "es": "llorar",
+    "et": "leinata",
+    "fi": "surra",
+    "fr": "faire son deuil",
+    "hu": "gyászolni",
+    "id": "untuk berduka",
+    "it": "per piangere",
+    "ja": "悲しむ",
+    "ko": "슬퍼하다",
+    "lt": "liūdėti",
+    "lv": "skumt",
+    "nb": "å sørge",
+    "nl": "om te rouwen",
+    "pl": "smucić się",
+    "pt": "para sofrer",
+    "ro": "să suferi",
+    "ru": "горевать",
+    "sk": "smútiť",
+    "sl": "žalovati",
+    "sv": "att sörja",
+    "tr": "yas tutmak için",
+    "uk": "сумувати",
+    "zh": "伤心"
+  },
+  "hebrew": "כָּרָא",
+  "verses": [
+    "daniel 7:15:0"
+  ]
+}

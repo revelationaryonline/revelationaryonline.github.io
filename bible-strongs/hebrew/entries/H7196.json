@@ -1,0 +1,43 @@
+{
+  "number": "H7196",
+  "language": "hebrew",
+  "transliteration": "qishshur",
+  "pronunciation": "kish-shoor'",
+  "definition": "an (ornamental) girdle (for women)",
+  "kjvTranslation": "attire, headband.",
+  "hebrew": "קִשֻּׁר",
+  "translations": {
+    "bg": "(декоративен) пояс (за жени)",
+    "cs": "(ozdobný) pás (pro ženy)",
+    "da": "et (dekorativt) hofteholder (til kvinder)",
+    "de": "ein (Zier-)Hüftgürtel (für Frauen)",
+    "el": "(διακοσμητική) ζώνη (για γυναίκες)",
+    "es": "una faja (ornamental) (para mujeres)",
+    "et": "(dekoratiivne) vöö (naistele)",
+    "fi": "(koristeellinen) vyötärö (naisille)",
+    "fr": "une ceinture (ornementale) (pour les femmes)",
+    "hu": "(díszes) fűző (nőknek)",
+    "id": "korset (hias) (untuk wanita)",
+    "it": "una cintura (ornamentale) (per le donne)",
+    "ja": "腰帯",
+    "ko": "(장식용) 거들(여성용)",
+    "lt": "(puošnus) diržas (moterims)",
+    "lv": "(ornamentāls) josta (sievietēm)",
+    "nb": "et (dekorativt) hoftebelte (for kvinner)",
+    "nl": "een (sier)gordel (voor vrouwen)",
+    "pl": "(ozdobny) pas (dla kobiet)",
+    "pt": "uma cinta (ornamental) (para mulheres)",
+    "ro": "un brâu (ornamental) (pentru femei)",
+    "ru": "(декоративный) пояс (для женщин)",
+    "sk": "(ozdobný) opasok (pre ženy)",
+    "sl": "(okrasni) pas (za ženske)",
+    "sv": "en (prydnads)gördel (för kvinnor)",
+    "tr": "bir (süs) kuşak (kadınlar için)",
+    "uk": "(декоративний) пояс (для жінок)",
+    "zh": "饰腰"
+  },
+  "verses": [
+    "isaiah 3:20:2",
+    "jeremiah 2:32:4"
+  ]
+}

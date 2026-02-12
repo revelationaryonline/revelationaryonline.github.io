@@ -1,0 +1,42 @@
+{
+  "number": "H2588",
+  "language": "hebrew",
+  "transliteration": "chânûwth",
+  "pronunciation": "khaw-nooth'",
+  "definition": "properly, a vault or cell (with an arch); by implication, a prison",
+  "kjvTranslation": "cabin.",
+  "translations": {
+    "bg": "правилно, свод или килия (с арка); по подразбиране - затвор",
+    "cs": "správně klenba nebo cela (s klenbou); implicitně vězení",
+    "da": "korrekt, en hvælving eller celle (med en bue); underforstået, et fængsel",
+    "de": "eigentlich ein Gewölbe oder eine Zelle (mit einem Gewölbe); implizit ein Gefängnis",
+    "el": "κατάλληλα, θόλος ή κελί (με αψίδα)- κατ' επέκταση, φυλακή",
+    "es": "propiamente, una bóveda o celda (con un arco); implícitamente, una prisión",
+    "et": "õigesti, võlvkamber või kambrit (kaarega); kaudselt ka vangla",
+    "fi": "oikeastaan holvi tai selli (kaarella); implisiittisesti vankila",
+    "fr": "proprement dit, une voûte ou une cellule (avec un arc) ; par implication, une prison",
+    "hu": "helyesen: boltozat vagy cella (boltívvel); értelemszerűen: börtön",
+    "id": "secara tepat, lemari besi atau sel (dengan lengkungan); dengan implikasi, penjara",
+    "it": "propriamente, una volta o una cella (con un arco); per implicazione, una prigione",
+    "ja": "正しくは、（アーチのある）丸天井または独房。",
+    "ko": "정확하게는 금고 또는 감방(아치가 있는), 암시적으로는 감옥을 의미합니다",
+    "lt": "tinkamai - skliautas arba kamera (su arka); netiesiogiai - kalėjimas",
+    "lv": "pareizi - velve vai kamera (ar arku); netieši - cietums",
+    "nb": "egentlig, et hvelv eller en celle (med en bue); underforstått, et fengsel",
+    "nl": "goed, een gewelf of cel (met een boog); impliciet, een gevangenis",
+    "pl": "właściwie sklepienie lub cela (z łukiem); w domyśle więzienie",
+    "pt": "propriamente dito, uma abóbada ou cela (com um arco); implicitamente, uma prisão",
+    "ro": "în mod corespunzător, o boltă sau o celulă (cu o boltă); implicit, o închisoare",
+    "ru": "правильно, свод или камера (с аркой); по косвенным признакам, тюрьма",
+    "sk": "správne, klenba alebo cela (s klenbou); implicitne, väzenie",
+    "sl": "pravilno, obok ali celica (z obokom); implicitno, zapor",
+    "sv": "egentligen, ett valv eller en cell (med en båge); underförstått, ett fängelse",
+    "tr": "düzgün bir şekilde, bir tonoz veya hücre (kemerli); ima yoluyla, bir hapishane",
+    "uk": "власне, сховище або камера (з аркою); побічно - в'язниця",
+    "zh": "穹顶或牢房（有拱门）；暗指监狱"
+  },
+  "hebrew": "חָנוּת",
+  "verses": [
+    "jeremiah 37:16:7"
+  ]
+}

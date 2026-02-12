@@ -1,0 +1,42 @@
+{
+  "number": "H4534",
+  "language": "hebrew",
+  "transliteration": "mᵉçûwkâh",
+  "pronunciation": "mes-oo-kaw'",
+  "definition": "a hedge",
+  "kjvTranslation": "thorn hedge.",
+  "hebrew": "מְסוּכָה",
+  "verses": [
+    "micah 7:4:3"
+  ],
+  "translations": {
+    "bg": "хедж",
+    "cs": "živý plot",
+    "da": "en hæk",
+    "de": "eine Hecke",
+    "el": "μια αντιστάθμιση",
+    "es": "un seto",
+    "et": "hekk",
+    "fi": "suojaus",
+    "fr": "une couverture",
+    "hu": "egy sövény",
+    "id": "lindung nilai",
+    "it": "una siepe",
+    "ja": "ヘッジ",
+    "ko": "헤지",
+    "lt": "gyvatvorė",
+    "lv": "dzīvžogs",
+    "nb": "en sikring",
+    "nl": "een afdekking",
+    "pl": "żywopłot",
+    "pt": "uma cobertura",
+    "ro": "o acoperire",
+    "ru": "хеджирование",
+    "sk": "živý plot",
+    "sl": "živa meja",
+    "sv": "en säkring",
+    "tr": "bir çit",
+    "uk": "живопліт",
+    "zh": "篱"
+  }
+}

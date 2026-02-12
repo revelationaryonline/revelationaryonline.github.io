@@ -1,0 +1,42 @@
+{
+  "number": "H77",
+  "language": "hebrew",
+  "transliteration": "ʼEbets",
+  "pronunciation": "eh'-bets",
+  "definition": "Ebets, a place in Palestine",
+  "kjvTranslation": "Abez.",
+  "translations": {
+    "bg": "Ebets, място в Палестина",
+    "cs": "Ebets, místo v Palestině",
+    "da": "Ebets, et sted i Palæstina",
+    "de": "Ebets, ein Ort in Palästina",
+    "el": "Ebets, ένας τόπος στην Παλαιστίνη",
+    "es": "Ebets, un lugar en Palestina",
+    "et": "Ebets, koht Palestiinas",
+    "fi": "Ebets, paikka Palestiinassa",
+    "fr": "Ebets, localité de Palestine",
+    "hu": "Ebets, egy hely Palesztinában",
+    "id": "Ebets, sebuah tempat di Palestina",
+    "it": "Ebets, località della Palestina",
+    "ja": "パレスチナの地名エベツ",
+    "ko": "팔레스타인의 에베츠, 팔레스타인의 한 장소",
+    "lt": "Ebets, vietovė Palestinoje",
+    "lv": "Ebets, vieta Palestīnā",
+    "nb": "Ebets, et sted i Palestina",
+    "nl": "Ebets, een plaats in Palestina",
+    "pl": "Ebets, miejscowość w Palestynie",
+    "pt": "Ebets, um lugar na Palestina",
+    "ro": "Ebets, un loc în Palestina",
+    "ru": "Эбец, местечко в Палестине",
+    "sk": "Ebets, miesto v Palestíne",
+    "sl": "Ebets, kraj v Palestini",
+    "sv": "Ebets, en plats i Palestina",
+    "tr": "Ebets, Filistin'de bir yer",
+    "uk": "Ебец, місце в Палестині",
+    "zh": "埃贝兹"
+  },
+  "hebrew": "אֶבֶץ",
+  "verses": [
+    "joshua 19:20:2"
+  ]
+}

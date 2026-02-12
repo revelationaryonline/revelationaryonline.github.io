@@ -1,0 +1,42 @@
+{
+  "number": "H7894",
+  "language": "hebrew",
+  "transliteration": "Shîyshâʼ",
+  "pronunciation": "shee-shaw'",
+  "definition": "Shisha, an Israelite",
+  "kjvTranslation": "Shisha.",
+  "hebrew": "שִׁישָׁא",
+  "translations": {
+    "bg": "Шиша, израелец",
+    "cs": "Šiša, Izraelita",
+    "da": "Shisha, en israelit",
+    "de": "Schischa, ein Israelit",
+    "el": "Shisha, ένας Ισραηλίτης",
+    "es": "Shisha, un israelita",
+    "et": "Shisha, iisraellane",
+    "fi": "Shisha, israelilainen",
+    "fr": "Shisha, un Israélien",
+    "hu": "Shisha, egy izraelita",
+    "id": "Shisha, seorang Israel",
+    "it": "Shisha, un israelita",
+    "ja": "イスラエル人、シーシャ",
+    "ko": "이스라엘인, 시샤",
+    "lt": "Šiša, izraelitas",
+    "lv": "Šiša, izraēlietis",
+    "nb": "Shisha, en israelitt",
+    "nl": "Shisha, een Israëliet",
+    "pl": "Shisha, Izraelita",
+    "pt": "Shisha, um israelita",
+    "ro": "Shisha, un israelit",
+    "ru": "Шиша, израильтянин",
+    "sk": "Šiša, Izraelita",
+    "sl": "Šiša, Izraelec",
+    "sv": "Shisha, en israelit",
+    "tr": "Shisha, bir İsrailli",
+    "uk": "Шиша, ізраїльтянин",
+    "zh": "以色列人什沙"
+  },
+  "verses": [
+    "firstKings 4:3:3"
+  ]
+}

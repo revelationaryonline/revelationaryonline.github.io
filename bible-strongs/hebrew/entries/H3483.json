@@ -1,0 +1,42 @@
+{
+  "number": "H3483",
+  "language": "hebrew",
+  "transliteration": "yishrâh",
+  "pronunciation": "yish-raw'",
+  "definition": "rectitude",
+  "kjvTranslation": "uprightness.",
+  "translations": {
+    "bg": "праволинейност",
+    "cs": "rectitude",
+    "da": "retskaffenhed",
+    "de": "geradheit",
+    "el": "ορθότητα",
+    "es": "rectitud",
+    "et": "õigsus",
+    "fi": "suoruus",
+    "fr": "droiture",
+    "hu": "egyenesség",
+    "id": "bujur",
+    "it": "rettitudine",
+    "ja": "ほうせい",
+    "ko": "직진",
+    "lt": "tiesumas",
+    "lv": "taisnīgums",
+    "nb": "rettskaffenhet",
+    "nl": "rechtschapenheid",
+    "pl": "prostoliniowość",
+    "pt": "retidão",
+    "ro": "rectitudine",
+    "ru": "прямота",
+    "sk": "správnosť",
+    "sl": "pravičnost",
+    "sv": "rätlinjighet",
+    "tr": "doğruluk",
+    "uk": "прямолінійність",
+    "zh": "正直"
+  },
+  "hebrew": "יִשְׁרָה",
+  "verses": [
+    "firstKings 3:6:15"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3964",
+  "language": "hebrew",
+  "transliteration": "mâʼ",
+  "pronunciation": "maw",
+  "definition": "(as indefinitely) that",
+  "kjvTranslation": "[phrase] what.",
+  "hebrew": "מָא",
+  "translations": {
+    "bg": "(като за неопределено време), че",
+    "cs": "(jako na neurčito), že",
+    "da": "(som på ubestemt tid), at",
+    "de": "(wie auf unbestimmte Zeit), dass",
+    "el": "(ως επ' αόριστον) ότι",
+    "es": "(como indefinidamente) que",
+    "et": "(nagu määramata ajaks), et",
+    "fi": "(kuten loputtomiin), että",
+    "fr": "(comme indéfiniment) que",
+    "hu": "(mint a végtelenségig), hogy",
+    "id": "(tanpa batas waktu) bahwa",
+    "it": "(come all'infinito) che",
+    "ja": "(無期限として",
+    "ko": "(무기한으로)",
+    "lt": "(kaip neribotam laikui), kad",
+    "lv": "(kā uz nenoteiktu laiku), ka",
+    "nb": "(som på ubestemt tid) at",
+    "nl": "(voor onbepaalde tijd) dat",
+    "pl": "(na czas nieokreślony), że",
+    "pt": "(como indefinidamente) que",
+    "ro": "(ca la nesfârșit) că",
+    "ru": "(как бесконечно), что",
+    "sk": "(ako na neurčito), že",
+    "sl": "(kot za nedoločen čas), da",
+    "sv": "(som på obestämd tid) att",
+    "tr": "(süresiz olarak)",
+    "uk": "(як невизначено), що",
+    "zh": "(无限期)，即"
+  },
+  "verses": [
+    "firstKings 22:21:11",
+    "ezra 6:8:3"
+  ]
+}

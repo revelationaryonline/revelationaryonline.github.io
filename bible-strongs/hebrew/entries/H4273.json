@@ -1,0 +1,42 @@
+{
+  "number": "H4273",
+  "language": "hebrew",
+  "transliteration": "machats",
+  "pronunciation": "makh'-ats",
+  "definition": "a contusion",
+  "kjvTranslation": "stroke.",
+  "hebrew": "מַחַץ",
+  "translations": {
+    "bg": "контузия",
+    "cs": "pohmoždění",
+    "da": "en kontusion",
+    "de": "eine Kontusion",
+    "el": "μια θλάση",
+    "es": "una contusión",
+    "et": "kontusioon",
+    "fi": "ruhje",
+    "fr": "une contusion",
+    "hu": "zúzódás",
+    "id": "memar",
+    "it": "una contusione",
+    "ja": "打撲傷",
+    "ko": "타박상",
+    "lt": "sumušimas",
+    "lv": "sasitums",
+    "nb": "en kontusjon",
+    "nl": "een kneuzing",
+    "pl": "stłuczenie",
+    "pt": "uma contusão",
+    "ro": "o contuzie",
+    "ru": "ушиб",
+    "sk": "pohmoždenie",
+    "sl": "udarnina",
+    "sv": "en kontusion",
+    "tr": "bir çürük",
+    "uk": "контузія",
+    "zh": "挫伤"
+  },
+  "verses": [
+    "isaiah 30:26:18"
+  ]
+}

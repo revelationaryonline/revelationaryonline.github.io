@@ -1,0 +1,42 @@
+{
+  "number": "H3711",
+  "language": "hebrew",
+  "transliteration": "kâphâh",
+  "pronunciation": "kaw-faw'",
+  "definition": "properly, to bend, i.e. (figuratively) to tame or subdue",
+  "kjvTranslation": "pacify.",
+  "translations": {
+    "bg": "правилно, да се огъва, т.е. (в преносен смисъл) да се укротява или подчинява",
+    "cs": "správně, ohnout, tj. (obrazně) zkrotit nebo podmanit si",
+    "da": "korrekt, at bøje, dvs. (i overført betydning) at tæmme eller underkaste sig",
+    "de": "richtig, zu beugen, d.h. (bildlich) zu zähmen oder zu unterwerfen",
+    "el": "σωστά, να λυγίσει, δηλαδή (μεταφορικά) να δαμάσει ή να υποτάξει",
+    "es": "propiamente, doblegar, es decir (en sentido figurado) domar o someter",
+    "et": "õigesti, painutada, st (piltlikult) taltsutada või alistada",
+    "fi": "oikein, taipua, eli (kuvaannollisesti) kesyttää tai alistaa",
+    "fr": "proprement dit, plier, c'est-à-dire (au sens figuré) dompter ou soumettre",
+    "hu": "helyesen, meghajlítani, azaz (átvitt értelemben) megszelídíteni vagy leigázni",
+    "id": "dengan benar, membengkokkan, yaitu (secara kiasan) menjinakkan atau menundukkan",
+    "it": "propriamente, piegare, ovvero (in senso figurato) domare o sottomettere",
+    "ja": "正しくは、曲げる、すなわち（比喩的に）手なずける、服従させる",
+    "ko": "적절하게, 구부리다, 즉 (비유적으로) 길들이거나 제압하다",
+    "lt": "tinkamai, sulenkti, t. y. (perkeltine prasme) sutramdyti arba pavergti",
+    "lv": "pareizi - saliekt, t.i., (pārnestā nozīmē) pieradināt vai pakļaut",
+    "nb": "egentlig, å bøye, dvs. (i overført betydning) å temme eller underkaste seg",
+    "nl": "goed, buigen, d.w.z. (figuurlijk) temmen of onderwerpen",
+    "pl": "właściwie, zginać, tj. (w przenośni) oswajać lub ujarzmiać",
+    "pt": "propriamente, dobrar, ou seja (em sentido figurado) domar ou subjugar",
+    "ro": "în mod corespunzător, a îndoi, adică (la figurat) a îmblânzi sau a supune",
+    "ru": "правильно, сгибать, т.е. (фигурально) укрощать или подчинять",
+    "sk": "správne, ohnúť, t. j. (obrazne) skrotiť alebo podmaniť si",
+    "sl": "pravilno, upogniti, tj. (v prenesenem pomenu) ukrotiti ali podrediti",
+    "sv": "korrekt, att böja, dvs (bildligt talat) att tämja eller underkasta sig",
+    "tr": "uygun şekilde, eğmek, yani (mecazi olarak) evcilleştirmek veya boyun eğdirmek",
+    "uk": "правильно, зігнути, тобто (образно) приручити або підкорити",
+    "zh": "适当地，弯曲，即（比喻）驯服或制服"
+  },
+  "hebrew": "כָּפָה",
+  "verses": [
+    "proverbs 21:14:2"
+  ]
+}

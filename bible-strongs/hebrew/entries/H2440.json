@@ -1,0 +1,42 @@
+{
+  "number": "H2440",
+  "language": "hebrew",
+  "transliteration": "chîysh",
+  "pronunciation": "kheesh",
+  "definition": "properly, a hurry; hence (adverb) quickly",
+  "kjvTranslation": "soon.",
+  "translations": {
+    "bg": "правилно, бързане; следователно (наречие) бързо",
+    "cs": "správně, spěch; proto (příslovce) rychle",
+    "da": "korrekt, en hast; derfor (adverb) hurtigt",
+    "de": "richtig, eine Eile; daher (Adverb) schnell",
+    "el": "σωστά, βιασύνη, άρα (επίρρημα) γρήγορα",
+    "es": "propiamente, una prisa; por lo tanto (adverbio) rápidamente",
+    "et": "korralikult, kiirustades; seega (omadussõna) kiiresti",
+    "fi": "oikein, kiire; siksi (adverbi) nopeasti",
+    "fr": "proprement, une hâte ; d'où (adverbe) rapidement",
+    "hu": "megfelelően, sietség; ezért (határozószó) gyorsan",
+    "id": "benar, terburu-buru; karenanya (kata keterangan) dengan cepat",
+    "it": "propriamente, una fretta; quindi (avverbio) rapidamente",
+    "ja": "だから（副詞）早く",
+    "ko": "적절하게, 서둘러; 따라서 (부사) 빨리",
+    "lt": "tinkamai, skubėti; taigi (prieveiksmis) greitai",
+    "lv": "pareizi, steigā; līdz ar to (apstākļa vārds) ātri",
+    "nb": "riktig, en hast; derav (adverb) raskt",
+    "nl": "goed, een haast; vandaar (bijwoord) snel",
+    "pl": "właściwie pośpiech; stąd (przysłówek) szybko",
+    "pt": "propriamente, uma pressa; portanto (advérbio) rapidamente",
+    "ro": "în mod corespunzător, o grabă; prin urmare (adverb) repede",
+    "ru": "правильно, торопливо; следовательно (наречие) быстро",
+    "sk": "správne, náhlivý; preto (príslovka) rýchlo",
+    "sl": "pravilno, hitenje; zato (prislov) hitro",
+    "sv": "ordentligt, bråttom; följaktligen (adverb) snabbt",
+    "tr": "uygun bir şekilde, acele; dolayısıyla (zarf) çabuk",
+    "uk": "правильно, поспіх; звідси (прислівник) швидко",
+    "zh": "快"
+  },
+  "hebrew": "חִישׁ",
+  "verses": [
+    "psalms 90:10:14"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1480",
+  "language": "hebrew",
+  "transliteration": "gûwphâh",
+  "pronunciation": "goo-faw'",
+  "definition": "a corpse (as closed to sense)",
+  "kjvTranslation": "body.",
+  "translations": {
+    "bg": "труп (като затворен за усещане)",
+    "cs": "mrtvola (jako smyslově uzavřená)",
+    "da": "et lig (som lukket for sansning)",
+    "de": "ein Leichnam (als sinnlos)",
+    "el": "ένα πτώμα (ως κλειστό στην αίσθηση)",
+    "es": "un cadáver (como cerrado al sentido)",
+    "et": "surnukeha (nagu suletud meelega)",
+    "fi": "ruumis (suljettuna aisteille)",
+    "fr": "un cadavre (comme fermé au sens)",
+    "hu": "egy holttest (mint az érzékszervek elől elzárt)",
+    "id": "mayat (seperti tertutup bagi indera)",
+    "it": "un cadavere (come chiuso al senso)",
+    "ja": "死体",
+    "ko": "시체(감지하기 위해 닫힌 상태)",
+    "lt": "lavonas (uždarytas pojūčiams)",
+    "lv": "līķis (kā slēgts sajūtām)",
+    "nb": "et lik (som lukket for sansning)",
+    "nl": "een lijk (als gesloten voor de zintuigen)",
+    "pl": "zwłoki (jako zamknięte dla zmysłów)",
+    "pt": "um cadáver (como fechado ao sentido)",
+    "ro": "un cadavru (ca închis sensului)",
+    "ru": "труп (как закрытый для восприятия)",
+    "sk": "mŕtvola (ako uzavretá zmyslom)",
+    "sl": "truplo (kot zaprto za čute)",
+    "sv": "ett lik (som stängt för förnimmelse)",
+    "tr": "bir ceset (duyulara kapalı olarak)",
+    "uk": "труп (як закритий для сенсу)",
+    "zh": "死尸"
+  },
+  "hebrew": "גּוּפָה",
+  "verses": [
+    "firstChronicles 10:12:6",
+    "firstChronicles 10:12:9"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H307",
+  "language": "hebrew",
+  "transliteration": "ʼAchmᵉthâʼ",
+  "pronunciation": "akh-me-thaw'",
+  "definition": "Achmetha (i.e. Ecbatana), the summer capital of Persia",
+  "kjvTranslation": "Achmetha.",
+  "translations": {
+    "bg": "Ахмета (т.е. Екбатана), лятната столица на Персия",
+    "cs": "Achmetha (tj. Ecbatana), letní hlavní město Persie",
+    "da": "Achmetha (dvs. Ecbatana), Persiens sommerhovedstad",
+    "de": "Achmetha (d.h. Ecbatana), die Sommerhauptstadt von Persien",
+    "el": "Achmetha (δηλ. Ecbatana), η θερινή πρωτεύουσα της Περσίας",
+    "es": "Achmetha (Ecbatana), capital de verano de Persia",
+    "et": "Achmetha (st Ecbatana), Pärsia suvine pealinn",
+    "fi": "Achmetha (eli Ecbatana), Persian kesäpääkaupunki",
+    "fr": "Achmetha (i.e. Ecbatana), capitale d'été de la Perse",
+    "hu": "Achmetha (azaz Ecbatana), Perzsia nyári fővárosa",
+    "id": "Achmetha (yaitu Ecbatana), ibu kota musim panas Persia",
+    "it": "Achmetha (cioè Ecbatana), la capitale estiva della Persia",
+    "ja": "ペルシャの夏の首都アクメタ（＝エクバタナ",
+    "ko": "페르시아의 여름 수도 아흐메타(즉, 에크바타나)",
+    "lt": "Achmetha (t. y. Ecbatana), Persijos vasaros sostinė",
+    "lv": "Achmetha (t.i., Ecbatana), Persijas vasaras galvaspilsēta",
+    "nb": "Achmetha (dvs. Ecbatana), sommerhovedstaden i Persia",
+    "nl": "Achmetha (Ecbatana), de zomerhoofdstad van Perzië",
+    "pl": "Achmetha (tj. Ekbatana), letnia stolica Persji",
+    "pt": "Achmetha (ou seja, Ecbatana), a capital de verão da Pérsia",
+    "ro": "Achmetha (adică Ecbatana), capitala de vară a Persiei",
+    "ru": "Ахмета (т.е. Экбатана), летняя столица Персии",
+    "sk": "Achmetha (t. j. Ecbatana), letné hlavné mesto Perzie",
+    "sl": "Achmetha (tj. Ecbatana), poletna prestolnica Perzije",
+    "sv": "Achmetha (dvs. Ecbatana), Persiens sommarhuvudstad",
+    "tr": "Achmetha (yani Ecbatana), İran'ın yazlık başkenti",
+    "uk": "Ахмета (тобто Екбатана), літня столиця Персії",
+    "zh": "阿赫迈塔"
+  },
+  "hebrew": "אַחְמְתָא",
+  "verses": [
+    "ezra 6:2:1"
+  ]
+}

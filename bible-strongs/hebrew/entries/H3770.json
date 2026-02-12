@@ -1,0 +1,42 @@
+{
+  "number": "H3770",
+  "language": "hebrew",
+  "transliteration": "kᵉrês",
+  "pronunciation": "ker-ace'",
+  "definition": "the paunch or belly (as swelling out)",
+  "kjvTranslation": "belly.",
+  "hebrew": "כְּרֵשׂ",
+  "translations": {
+    "bg": "коремът (като подуване)",
+    "cs": "břicho (jako otok)",
+    "da": "maven (som svulmer op)",
+    "de": "der Bauch (als Aufblähung)",
+    "el": "η κοιλιά (ως πρήξιμο)",
+    "es": "la barriga o vientre (como hinchazón)",
+    "et": "kõht või kõht (nagu välja paisunud)",
+    "fi": "vatsa tai vatsa (turvotuksena)",
+    "fr": "la bedaine ou le ventre (comme gonflé)",
+    "hu": "a pocak vagy a has (mint a duzzanat)",
+    "id": "bagian perut atau perut (seperti membengkak)",
+    "it": "la pancia o il ventre (come se si gonfiasse)",
+    "ja": "はれぼったい",
+    "ko": "펀치 또는 배 (부어 오름)",
+    "lt": "pilvas (kaip išsipūtęs)",
+    "lv": "vēders (kā pietūkums)",
+    "nb": "magen (som svulmer opp)",
+    "nl": "de pens of buik (als uitzwellen)",
+    "pl": "brzuch lub brzuch (jako pęczniejący)",
+    "pt": "a barriga (como se estivesse a inchar)",
+    "ro": "burta sau burta (ca umflarea)",
+    "ru": "пузо или живот (как разбухающий)",
+    "sk": "bruško (ako opuch)",
+    "sl": "trebuh (kot nabrekanje)",
+    "sv": "buken eller magen (som sväller ut)",
+    "tr": "göbek veya karın (dışarı doğru şişme gibi)",
+    "uk": "живіт або живіт (як випинання)",
+    "zh": "肚腩"
+  },
+  "verses": [
+    "jeremiah 51:34:15"
+  ]
+}

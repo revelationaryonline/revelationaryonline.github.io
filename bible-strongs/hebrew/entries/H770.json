@@ -1,0 +1,42 @@
+{
+  "number": "H770",
+  "language": "hebrew",
+  "transliteration": "ʼArnân",
+  "pronunciation": "ar-nawn'",
+  "definition": "Arnan, an Israelite",
+  "kjvTranslation": "Arnan.",
+  "translations": {
+    "bg": "Арнан, израилтянин",
+    "cs": "Arnan, Izraelita",
+    "da": "Arnan, en israelit",
+    "de": "Arnan, ein Israelit",
+    "el": "Arnan, ένας Ισραηλίτης",
+    "es": "Arnan, israelita",
+    "et": "Arnan, iisraellane",
+    "fi": "Arnan, israelilainen",
+    "fr": "Arnan, Israélite",
+    "hu": "Arnan, egy izraelita",
+    "id": "Arnan, seorang Israel",
+    "it": "Arnan, un israelita",
+    "ja": "イスラエル人アーナン",
+    "ko": "이스라엘인 아르난",
+    "lt": "Arnanas, izraelitas",
+    "lv": "Arnans, izraēlietis",
+    "nb": "Arnan, en israelitt",
+    "nl": "Arnan, een Israëliet",
+    "pl": "Arnan, Izraelita",
+    "pt": "Arnan, israelita",
+    "ro": "Arnan, un israelit",
+    "ru": "Арнан, израильтянин",
+    "sk": "Arnan, Izraelita",
+    "sl": "Arnan, Izraelec",
+    "sv": "Arnan, en israelit",
+    "tr": "Arnan, bir İsrailli",
+    "uk": "Арнан, ізраїльтянин",
+    "zh": "亚南，以色列人"
+  },
+  "hebrew": "אַרְנָן",
+  "verses": [
+    "firstChronicles 3:21:7"
+  ]
+}

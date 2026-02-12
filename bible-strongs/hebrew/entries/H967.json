@@ -1,0 +1,43 @@
+{
+  "number": "H967",
+  "language": "hebrew",
+  "transliteration": "bâzar",
+  "pronunciation": "baw-zar'",
+  "definition": "to disperse",
+  "kjvTranslation": "scatter.",
+  "translations": {
+    "bg": "да се разпръсне",
+    "cs": "rozptýlit",
+    "da": "at sprede sig",
+    "de": "zu zerstreuen",
+    "el": "να διασκορπιστεί",
+    "es": "dispersar",
+    "et": "hajutada",
+    "fi": "hajottaa",
+    "fr": "disperser",
+    "hu": "szétszóródni",
+    "id": "untuk membubarkan",
+    "it": "disperdere",
+    "ja": "分散させる",
+    "ko": "분산하려면",
+    "lt": "išsisklaidyti",
+    "lv": "izkliedēt",
+    "nb": "å spre seg",
+    "nl": "verspreiden",
+    "pl": "rozproszyć się",
+    "pt": "dispersar",
+    "ro": "să se disperseze",
+    "ru": "рассеиваться",
+    "sk": "rozptýliť",
+    "sl": "razpršiti",
+    "sv": "för att skingras",
+    "tr": "dağıtmak için",
+    "uk": "розійтися",
+    "zh": "消散"
+  },
+  "hebrew": "בָּזַר",
+  "verses": [
+    "psalms 68:31:10",
+    "daniel 11:24:15"
+  ]
+}

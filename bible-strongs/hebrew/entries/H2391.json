@@ -1,0 +1,42 @@
+{
+  "number": "H2391",
+  "language": "hebrew",
+  "transliteration": "chêzeq",
+  "pronunciation": "khay'-zek",
+  "definition": "help",
+  "kjvTranslation": "strength.",
+  "translations": {
+    "bg": "помощ",
+    "cs": "nápověda",
+    "da": "hjælp",
+    "de": "hilfe",
+    "el": "βοήθεια",
+    "es": "ayuda",
+    "et": "abi",
+    "fi": "apua",
+    "fr": "aider",
+    "hu": "segítség",
+    "id": "bantuan",
+    "it": "aiuto",
+    "ja": "ヘルプ",
+    "ko": "도움말",
+    "lt": "pagalba",
+    "lv": "palīdzība",
+    "nb": "hjelp",
+    "nl": "help",
+    "pl": "pomoc",
+    "pt": "ajuda",
+    "ro": "ajutor",
+    "ru": "помощь",
+    "sk": "pomoc",
+    "sl": "pomoč",
+    "sv": "hjälp",
+    "tr": "yardım",
+    "uk": "допомога",
+    "zh": "帮助"
+  },
+  "hebrew": "חֵזֶק",
+  "verses": [
+    "psalms 18:2:3"
+  ]
+}

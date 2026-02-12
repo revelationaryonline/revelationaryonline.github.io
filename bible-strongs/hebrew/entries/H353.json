@@ -1,0 +1,42 @@
+{
+  "number": "H353",
+  "language": "hebrew",
+  "transliteration": "ʼĕyâl",
+  "pronunciation": "eh-yawl'",
+  "definition": "strength",
+  "kjvTranslation": "strength.",
+  "translations": {
+    "bg": "сила",
+    "cs": "síla",
+    "da": "styrke",
+    "de": "stärke",
+    "el": "αντοχή",
+    "es": "fuerza",
+    "et": "tugevus",
+    "fi": "vahvuus",
+    "fr": "la force",
+    "hu": "erő",
+    "id": "kekuatan",
+    "it": "forza",
+    "ja": "強さ",
+    "ko": "힘",
+    "lt": "stiprumas",
+    "lv": "izturība",
+    "nb": "styrke",
+    "nl": "sterkte",
+    "pl": "siła",
+    "pt": "força",
+    "ro": "rezistență",
+    "ru": "прочность",
+    "sk": "sila",
+    "sl": "moč",
+    "sv": "styrka",
+    "tr": "güç",
+    "uk": "сила",
+    "zh": "力量"
+  },
+  "hebrew": "אֱיָל",
+  "verses": [
+    "psalms 88:5:7"
+  ]
+}

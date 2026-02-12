@@ -1,0 +1,42 @@
+{
+  "number": "H5539",
+  "language": "hebrew",
+  "transliteration": "çâlad",
+  "pronunciation": "saw-lad'",
+  "definition": "probably to leap (with joy), i.e. exult",
+  "kjvTranslation": "harden self.",
+  "hebrew": "סָלַד",
+  "translations": {
+    "bg": "вероятно да скачам (от радост), т.е. да ликувам",
+    "cs": "pravděpodobně skákat (radostí), tj. jásat",
+    "da": "sandsynligvis at springe (af glæde), dvs. juble",
+    "de": "wahrscheinlich springen (vor Freude), d.h. jubeln",
+    "el": "πιθανόν να πηδήξω (από χαρά), δηλαδή να χαρώ",
+    "es": "probablemente saltar (de alegría), es decir, exultar",
+    "et": "ilmselt hüpata (rõõmustades), s.t. juubeldada",
+    "fi": "luultavasti hyppiä (ilosta), eli riemuita",
+    "fr": "probablement pour sauter (de joie), c'est-à-dire exulter",
+    "hu": "valószínűleg ugrálni (örömében), azaz ujjongani",
+    "id": "mungkin untuk melompat (dengan sukacita), yaitu bersukacita",
+    "it": "probabilmente per saltare (con gioia), cioè esultare",
+    "ja": "おそらく（喜びで）跳躍する、すなわち歓喜する",
+    "ko": "아마도 (기쁨으로) 도약하다, 즉 환희하다",
+    "lt": "tikriausiai šokinėti (iš džiaugsmo), t. y. džiūgauti",
+    "lv": "droši vien lēkt (no prieka), t.i., līksmot",
+    "nb": "sannsynligvis å hoppe (av glede), dvs. juble",
+    "nl": "waarschijnlijk om (van vreugde) te springen, d.w.z. juichen",
+    "pl": "prawdopodobnie skakać (z radości), tj. radować się",
+    "pt": "provavelmente saltar (de alegria), ou seja, exultar",
+    "ro": "probabil a sări (de bucurie), adică a exulta",
+    "ru": "вероятно, прыгать (от радости), т.е. ликовать",
+    "sk": "pravdepodobne skákať (radosťou), t. j. jasať",
+    "sl": "verjetno skakati (od veselja), tj. veseliti se",
+    "sv": "förmodligen att hoppa (av glädje), dvs. jubla",
+    "tr": "muhtemelen (sevinçle) sıçramak, yani sevinmek",
+    "uk": "ймовірно, стрибати (від радості), тобто радіти",
+    "zh": "大概是跳跃，即欢呼"
+  },
+  "verses": [
+    "job 6:10:3"
+  ]
+}

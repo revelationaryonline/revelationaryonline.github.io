@@ -1,0 +1,42 @@
+{
+  "number": "H4793",
+  "language": "hebrew",
+  "transliteration": "mêrôwts",
+  "pronunciation": "may-rotes'",
+  "definition": "a run (the trial of speed)",
+  "kjvTranslation": "race.",
+  "hebrew": "מֵרוֹץ",
+  "translations": {
+    "bg": "бягане (изпитание на скоростта)",
+    "cs": "běh (zkouška rychlosti)",
+    "da": "et løb (hastighedsprøven)",
+    "de": "ein Lauf (die Prüfung der Geschwindigkeit)",
+    "el": "ένα τρέξιμο (η δοκιμασία της ταχύτητας)",
+    "es": "una carrera (la prueba de velocidad)",
+    "et": "jooksu (kiiruse katse)",
+    "fi": "juoksu (nopeuskoe)",
+    "fr": "une course (l'épreuve de vitesse)",
+    "hu": "futás (a sebesség próbája)",
+    "id": "lari (uji coba kecepatan)",
+    "it": "una corsa (prova di velocità)",
+    "ja": "かけっこ",
+    "ko": "달리기(속도 시험)",
+    "lt": "bėgimas (greičio išbandymas)",
+    "lv": "skrējiens (ātruma pārbaude)",
+    "nb": "et løp (fartsprøven)",
+    "nl": "een aanloop (de snelheidsproef)",
+    "pl": "bieg (próba szybkości)",
+    "pt": "uma corrida (a prova de velocidade)",
+    "ro": "o cursă (încercarea de viteză)",
+    "ru": "бег (испытание на скорость)",
+    "sk": "beh (skúška rýchlosti)",
+    "sl": "tek (preizkus hitrosti)",
+    "sv": "en körning (hastighetsprov)",
+    "tr": "bir koşu (hız denemesi)",
+    "uk": "біг (випробування швидкості)",
+    "zh": "奔跑"
+  },
+  "verses": [
+    "ecclesiastes 9:11:7"
+  ]
+}

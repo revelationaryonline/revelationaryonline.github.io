@@ -1,0 +1,42 @@
+{
+  "number": "H1764",
+  "language": "hebrew",
+  "transliteration": "dôchan",
+  "pronunciation": "do'-khan",
+  "definition": "millet",
+  "kjvTranslation": "millet.",
+  "translations": {
+    "bg": "просо",
+    "cs": "proso",
+    "da": "hirse",
+    "de": "hirse",
+    "el": "κεχρί",
+    "es": "mijo",
+    "et": "hirssi",
+    "fi": "hirssi",
+    "fr": "millet",
+    "hu": "köles",
+    "id": "millet",
+    "it": "miglio",
+    "ja": "雑穀",
+    "ko": "기장",
+    "lt": "soros",
+    "lv": "prosa",
+    "nb": "hirse",
+    "nl": "gierst",
+    "pl": "proso",
+    "pt": "painço",
+    "ro": "mei",
+    "ru": "просо",
+    "sk": "proso",
+    "sl": "proso",
+    "sv": "hirs",
+    "tr": "darı",
+    "uk": "просо",
+    "zh": "小米"
+  },
+  "hebrew": "דֹּחַן",
+  "verses": [
+    "ezekiel 4:9:7"
+  ]
+}

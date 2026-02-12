@@ -1,0 +1,42 @@
+{
+  "number": "H7150",
+  "language": "hebrew",
+  "transliteration": "qᵉrîyʼâh",
+  "pronunciation": "ker-ee-aw'",
+  "definition": "a proclamation",
+  "kjvTranslation": "preaching.",
+  "hebrew": "קְרִיאָה",
+  "translations": {
+    "bg": "прокламация",
+    "cs": "prohlášení",
+    "da": "en proklamation",
+    "de": "eine Proklamation",
+    "el": "μια διακήρυξη",
+    "es": "una proclama",
+    "et": "väljakuulutamine",
+    "fi": "julistus",
+    "fr": "une proclamation",
+    "hu": "egy kiáltvány",
+    "id": "sebuah proklamasi",
+    "it": "una proclamazione",
+    "ja": "宣言",
+    "ko": "선언문",
+    "lt": "skelbimas",
+    "lv": "proklamācija",
+    "nb": "en proklamasjon",
+    "nl": "een proclamatie",
+    "pl": "proklamacja",
+    "pt": "uma proclamação",
+    "ro": "o proclamație",
+    "ru": "прокламация",
+    "sk": "vyhlásenie",
+    "sl": "razglasitev",
+    "sv": "en proklamation",
+    "tr": "bir bildiri",
+    "uk": "прокламація",
+    "zh": "文告"
+  },
+  "verses": [
+    "jonah 3:2:9"
+  ]
+}

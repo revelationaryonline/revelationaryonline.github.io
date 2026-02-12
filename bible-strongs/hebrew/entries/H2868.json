@@ -1,0 +1,42 @@
+{
+  "number": "H2868",
+  "language": "hebrew",
+  "transliteration": "ṭᵉʼêb",
+  "pronunciation": "teh-abe'",
+  "definition": "to rejoice",
+  "kjvTranslation": "be glad",
+  "translations": {
+    "bg": "да се радвате",
+    "cs": "radovat se",
+    "da": "at glæde sig",
+    "de": "sich zu freuen",
+    "el": "να χαίρεσαι",
+    "es": "alegrarse",
+    "et": "rõõmustada",
+    "fi": "iloita",
+    "fr": "se réjouir",
+    "hu": "örülni",
+    "id": "untuk bersukacita",
+    "it": "gioire",
+    "ja": "喜ぶ",
+    "ko": "기뻐하다",
+    "lt": "džiaugtis",
+    "lv": "priecāties",
+    "nb": "å glede seg",
+    "nl": "om zich te verheugen",
+    "pl": "radować się",
+    "pt": "para se alegrar",
+    "ro": "să se bucure",
+    "ru": "радоваться",
+    "sk": "radovať sa",
+    "sl": "veseliti se",
+    "sv": "att glädjas",
+    "tr": "sevinmek için",
+    "uk": "радіти",
+    "zh": "欢喜"
+  },
+  "hebrew": "טְאֵב",
+  "verses": [
+    "daniel 6:24:3"
+  ]
+}

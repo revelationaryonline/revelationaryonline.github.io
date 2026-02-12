@@ -1,0 +1,42 @@
+{
+  "number": "H892",
+  "language": "hebrew",
+  "transliteration": "bâbâh",
+  "pronunciation": "baw-baw'",
+  "definition": "something hollowed (as a gate), i.e. pupil of the eye",
+  "kjvTranslation": "apple (of the eye).",
+  "translations": {
+    "bg": "нещо вдлъбнато (като врата), напр. зеницата на окото",
+    "cs": "něco vyhloubeného (jako brána), např. zornice oka",
+    "da": "noget udhulet (som en port), f.eks. øjets pupil",
+    "de": "etwas Ausgehöhltes (wie ein Tor), z. B. die Pupille des Auges",
+    "el": "κάτι κοίλο (σαν πύλη), π.χ. κόρη του ματιού",
+    "es": "algo ahuecado (como una puerta), es decir, pupila del ojo",
+    "et": "midagi õõnsat (nagu värav), st silmapilti",
+    "fi": "jotain onttoa (porttina), esim. silmän pupilli",
+    "fr": "quelque chose de creux (comme une porte), c'est-à-dire la pupille de l'œil",
+    "hu": "valami kivájt (mint egy kapu), pl. a szem pupillája",
+    "id": "sesuatu yang berlubang (sebagai gerbang), yaitu pupil mata",
+    "it": "qualcosa di incavato (come una porta), ad esempio la pupilla dell'occhio",
+    "ja": "あなのあいたもの",
+    "ko": "(문처럼) 속이 비어 있는 것, 즉 눈동자",
+    "lt": "kažkas tuščiaviduris (kaip vartai), t. y. akies vyzdys",
+    "lv": "kaut kas dobjveida (kā vārti), t. i., acs zīlīte",
+    "nb": "noe uthult (som en port), f.eks. øyets pupill",
+    "nl": "iets uitgehold (als een poort), d.w.z. pupil van het oog",
+    "pl": "coś wydrążonego (jak brama), np. źrenica oka",
+    "pt": "algo oco (como uma porta), ou seja, a pupila do olho",
+    "ro": "ceva scobit (ca o poartă), de exemplu pupila ochiului",
+    "ru": "что-то углубленное (как ворота), т.е. зрачок глаза",
+    "sk": "niečo vyhĺbené (ako brána), napr. zrenica oka",
+    "sl": "nekaj izdolbenega (kot vrata), npr. očesna zenica",
+    "sv": "något urholkat (som en port), t.ex. ögats pupill",
+    "tr": "oyulmuş bir şey (kapı gibi), yani göz bebeği",
+    "uk": "щось порожнисте (як ворота), тобто зіниця ока",
+    "zh": "膛"
+  },
+  "hebrew": "בָּבָה",
+  "verses": [
+    "zechariah 2:12:16"
+  ]
+}

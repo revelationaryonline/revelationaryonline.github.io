@@ -1,0 +1,43 @@
+{
+  "number": "H2304",
+  "language": "hebrew",
+  "transliteration": "chedvâh",
+  "pronunciation": "khed-vaw'",
+  "definition": "rejoicing",
+  "kjvTranslation": "gladness, joy.",
+  "translations": {
+    "bg": "радвайки се",
+    "cs": "radovat se",
+    "da": "glæde",
+    "de": "freudige Erregung",
+    "el": "χαίρονται",
+    "es": "regocijo",
+    "et": "rõõmustav",
+    "fi": "iloiten",
+    "fr": "réjouissance",
+    "hu": "ujjongó",
+    "id": "bersukacita",
+    "it": "gioire",
+    "ja": "歓び",
+    "ko": "기쁨",
+    "lt": "džiaugiasi",
+    "lv": "priecājas",
+    "nb": "gledelig",
+    "nl": "jubelend",
+    "pl": "radość",
+    "pt": "regozijo",
+    "ro": "bucurie",
+    "ru": "ликование",
+    "sk": "radovať sa",
+    "sl": "veselje",
+    "sv": "glädjande",
+    "tr": "sEVİNÇ",
+    "uk": "радіючи",
+    "zh": "欢欣"
+  },
+  "hebrew": "חֶדְוָה",
+  "verses": [
+    "firstChronicles 16:27:4",
+    "nehemiah 8:10:19"
+  ]
+}

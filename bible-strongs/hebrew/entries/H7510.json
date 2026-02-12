@@ -1,0 +1,42 @@
+{
+  "number": "H7510",
+  "language": "hebrew",
+  "transliteration": "riphyôwn",
+  "pronunciation": "rif-yone'",
+  "definition": "slackness",
+  "kjvTranslation": "feebleness.",
+  "hebrew": "רִפְיוֹן",
+  "translations": {
+    "bg": "небрежност",
+    "cs": "uvolněnost",
+    "da": "slaphed",
+    "de": "lässigkeit",
+    "el": "χαλαρότητα",
+    "es": "holgazanería",
+    "et": "lõtvus",
+    "fi": "löysyys",
+    "fr": "relâchement",
+    "hu": "lazaság",
+    "id": "kelonggaran",
+    "it": "lentezza",
+    "ja": "たるみ",
+    "ko": "느슨함",
+    "lt": "vangumas",
+    "lv": "atslābums",
+    "nb": "slapphet",
+    "nl": "slapte",
+    "pl": "luz",
+    "pt": "negligência",
+    "ro": "lene",
+    "ru": "безделье",
+    "sk": "uvoľnenosť",
+    "sl": "počasnost",
+    "sv": "slapphet",
+    "tr": "gevşeklik",
+    "uk": "розслабленість",
+    "zh": "懈怠"
+  },
+  "verses": [
+    "jeremiah 47:3:13"
+  ]
+}

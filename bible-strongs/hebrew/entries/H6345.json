@@ -1,0 +1,42 @@
+{
+  "number": "H6345",
+  "language": "hebrew",
+  "transliteration": "pachdâh",
+  "pronunciation": "pakh-daw'",
+  "definition": "alarm (i.e. awe)",
+  "kjvTranslation": "fear.",
+  "hebrew": "פַּחְדָּה",
+  "translations": {
+    "bg": "аларма (т.е. страхопочитание)",
+    "cs": "alarm (tj. bázeň)",
+    "da": "alarm (dvs. ærefrygt)",
+    "de": "alarm (d.h. Ehrfurcht)",
+    "el": "συναγερμός (π.χ. δέος)",
+    "es": "alarma (es decir, sobrecogimiento)",
+    "et": "häire (st. aukartus)",
+    "fi": "hälytys (ts. kunnioitusta)",
+    "fr": "alarme (c'est-à-dire crainte)",
+    "hu": "riasztás (azaz félelem)",
+    "id": "alarm (yaitu rasa kagum)",
+    "it": "allarme (cioè stupore)",
+    "ja": "アラーム",
+    "ko": "알람(예: 경외감)",
+    "lt": "pavojaus signalas (t. y. baimė)",
+    "lv": "trauksme (t.i., bijība)",
+    "nb": "alarm (dvs. ærefrykt)",
+    "nl": "alarm (d.w.z. ontzag)",
+    "pl": "alarm (tj. strach)",
+    "pt": "alarme (ou seja, pavor)",
+    "ro": "alarmă (i.e. spaimă)",
+    "ru": "тревога (т.е. благоговение)",
+    "sk": "alarm (t. j. bázeň)",
+    "sl": "alarm (tj. strah)",
+    "sv": "larm (dvs. förvåning)",
+    "tr": "alarm (yani huşu)",
+    "uk": "тривога (тобто благоговіння)",
+    "zh": "惊呼"
+  },
+  "verses": [
+    "jeremiah 2:19:14"
+  ]
+}

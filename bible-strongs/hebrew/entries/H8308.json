@@ -1,0 +1,42 @@
+{
+  "number": "H8308",
+  "language": "hebrew",
+  "transliteration": "sârak",
+  "pronunciation": "saw-rak'",
+  "definition": "to interlace",
+  "kjvTranslation": "traverse.",
+  "hebrew": "שָׂרַךְ",
+  "translations": {
+    "bg": "за преплитане",
+    "cs": "prokládat",
+    "da": "at flette sammen",
+    "de": "zu verschachteln",
+    "el": "να διασυνδέσετε",
+    "es": "entrelazar",
+    "et": "põimida",
+    "fi": "lomittamaan",
+    "fr": "entrelacer",
+    "hu": "összekapcsolni",
+    "id": "untuk menjalin",
+    "it": "intrecciare",
+    "ja": "インターレース",
+    "ko": "인터레이스",
+    "lt": "persipinti",
+    "lv": "pārklāšanās",
+    "nb": "å flette sammen",
+    "nl": "tussenvoegen",
+    "pl": "do przeplatania",
+    "pt": "para entrelaçar",
+    "ro": "să împletească",
+    "ru": "переплетаться",
+    "sk": "na prelínanie",
+    "sl": "za prepletanje",
+    "sv": "att sammanflätas",
+    "tr": "birleştirmek için",
+    "uk": "переплітати",
+    "zh": "穿插"
+  },
+  "verses": [
+    "jeremiah 2:23:16"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H110",
+  "language": "hebrew",
+  "transliteration": "ʼAdbᵉʼêl",
+  "pronunciation": "ad-beh-ale'",
+  "definition": "Adbeel, a son of Ishmael",
+  "kjvTranslation": "Adbeel.",
+  "translations": {
+    "bg": "Адбеил, син на Исмаил",
+    "cs": "Adbeel, syn Izmaelův",
+    "da": "Adbeel, en søn af Ismael",
+    "de": "Adbeel, ein Sohn von Ismael",
+    "el": "Adbeel, γιος του Ισμαήλ",
+    "es": "Adbeel, hijo de Ismael",
+    "et": "Adbeel, Ismaeli poeg",
+    "fi": "Adbeel, Ismaelin poika",
+    "fr": "Adbeel, fils d'Ismaël",
+    "hu": "Adbeel, Izmael fia",
+    "id": "Adbeel, seorang putra Ismail",
+    "it": "Adbeel, figlio di Ismaele",
+    "ja": "イシュマエルの子アドベエル",
+    "ko": "이스마엘의 아들, 아드빌",
+    "lt": "Adbeelis, Izmaelio sūnus",
+    "lv": "Adbeels, Ismaēla dēls",
+    "nb": "Adbeel, en sønn av Ismael",
+    "nl": "Adbeel, een zoon van Ismaël",
+    "pl": "Adbeel, syn Ismaela",
+    "pt": "Adbeel, filho de Ismael",
+    "ro": "Adbeel, un fiu al lui Ismael",
+    "ru": "Адбеил, сын Измаила",
+    "sk": "Adbeel, syn Izmaelov",
+    "sl": "Adbeel, Izmaelov sin",
+    "sv": "Adbeel, en son till Ismael",
+    "tr": "Adbeel, İsmail'in oğlu",
+    "uk": "Адвеїл, син Ізмаїла",
+    "zh": "以实玛利的儿子亚得比勒"
+  },
+  "hebrew": "אַדְבְּאֵל",
+  "verses": [
+    "genesis 25:13:10",
+    "firstChronicles 1:29:6"
+  ]
+}

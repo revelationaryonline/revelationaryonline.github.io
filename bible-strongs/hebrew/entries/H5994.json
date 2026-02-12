@@ -1,0 +1,42 @@
+{
+  "number": "H5994",
+  "language": "hebrew",
+  "transliteration": "ʻămîyq",
+  "pronunciation": "am-eek'",
+  "definition": "profound, i.e. unsearchable",
+  "kjvTranslation": "deep.",
+  "hebrew": "עֲמִיק",
+  "translations": {
+    "bg": "дълбока, т.е. неизследвана",
+    "cs": "hluboký, tj. nevyzpytatelný",
+    "da": "dyb, dvs. uudgrundelig",
+    "de": "tiefgründig, d.h. unauffindbar",
+    "el": "βαθύ, δηλαδή ανεξερεύνητο",
+    "es": "profundo, es decir, inescrutable",
+    "et": "sügav, s.t. uurimata",
+    "fi": "syvällinen, ts. tutkimaton",
+    "fr": "profond, c'est-à-dire insondable",
+    "hu": "mély, azaz kereshetetlen",
+    "id": "mendalam, yaitu tidak dapat dicari",
+    "it": "profondo, cioè imperscrutabile",
+    "ja": "奥が深い",
+    "ko": "심오한, 즉 검색할 수 없음",
+    "lt": "gilus, t. y. neištiriamas",
+    "lv": "dziļi, t.i., neizpētāmi",
+    "nb": "dyp, dvs. uutgrunnelig",
+    "nl": "diepzinnig, d.w.z. ondoorzoekbaar",
+    "pl": "głęboki, tj. niezbadany",
+    "pt": "profundo, ou seja, indecifrável",
+    "ro": "profundă, adică nepătrunsă",
+    "ru": "глубокий, то есть непостижимый",
+    "sk": "hlboký, t. j. nepreskúmateľný",
+    "sl": "globok, tj. neizvedljiv",
+    "sv": "djup, d.v.s. outgrundlig",
+    "tr": "derin, yani araştırılamaz",
+    "uk": "глибинні, тобто такі, що не підлягають дослідженню",
+    "zh": "深邃，即不可测"
+  },
+  "verses": [
+    "daniel 2:22:2"
+  ]
+}

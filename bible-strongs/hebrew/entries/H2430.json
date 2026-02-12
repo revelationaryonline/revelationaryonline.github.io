@@ -1,0 +1,42 @@
+{
+  "number": "H2430",
+  "language": "hebrew",
+  "transliteration": "chêylâh",
+  "pronunciation": "khay-law'",
+  "definition": "an intrenchment",
+  "kjvTranslation": "bulwark.",
+  "translations": {
+    "bg": "вкопаване",
+    "cs": "zákop",
+    "da": "en skanse",
+    "de": "eine Verschanzung",
+    "el": "μια οχύρωση",
+    "es": "un atrincheramiento",
+    "et": "šabloon",
+    "fi": "juoksuhaudan",
+    "fr": "un retranchement",
+    "hu": "egy sánc",
+    "id": "sebuah parit",
+    "it": "una trincea",
+    "ja": "塹壕",
+    "ko": "매복",
+    "lt": "įtvirtinimas",
+    "lv": "ierakts",
+    "nb": "en skanse",
+    "nl": "een loopgraaf",
+    "pl": "okop",
+    "pt": "uma intrincação",
+    "ro": "o tranșee",
+    "ru": "окоп",
+    "sk": "okop",
+    "sl": "okop",
+    "sv": "en förskansning",
+    "tr": "bir hendek",
+    "uk": "окоп",
+    "zh": "战壕"
+  },
+  "hebrew": "חֵילָה",
+  "verses": [
+    "psalms 48:14:2"
+  ]
+}

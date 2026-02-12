@@ -1,0 +1,43 @@
+{
+  "number": "H4008",
+  "language": "hebrew",
+  "transliteration": "mibṭâʼ",
+  "pronunciation": "mib-taw'",
+  "definition": "a rash utterance (hasty vow)",
+  "kjvTranslation": "(that which...) uttered (out of).",
+  "hebrew": "מִבְטָא",
+  "translations": {
+    "bg": "прибързано изказване (прибързана клетва)",
+    "cs": "unáhlený výrok (ukvapený slib)",
+    "da": "en forhastet ytring (forhastet løfte)",
+    "de": "eine unüberlegte Äußerung (voreiliger Schwur)",
+    "el": "μια βιαστική έκφραση (βιαστικός όρκος)",
+    "es": "una declaración precipitada (voto apresurado)",
+    "et": "rutakas ütlus (kiirustades antud lubadus)",
+    "fi": "hätiköity lausahdus (hätäinen lupaus)",
+    "fr": "une déclaration irréfléchie (un vœu hâtif)",
+    "hu": "meggondolatlan kijelentés (elhamarkodott fogadalom)",
+    "id": "ucapan yang terburu-buru (sumpah yang tergesa-gesa)",
+    "it": "un'affermazione avventata (un voto affrettato)",
+    "ja": "早口言葉",
+    "ko": "성급한 발언(성급한 맹세)",
+    "lt": "neapgalvotas pasisakymas (skubotas įžadas)",
+    "lv": "pārsteidzīgs izteikums (pārsteidzīgs zvērests)",
+    "nb": "en forhastet ytring (forhastet løfte)",
+    "nl": "een overhaaste uitspraak (haastige gelofte)",
+    "pl": "pochopna wypowiedź (pochopna przysięga)",
+    "pt": "uma declaração precipitada (voto precipitado)",
+    "ro": "o afirmație pripită (jurământ pripit)",
+    "ru": "необдуманное высказывание (поспешная клятва)",
+    "sk": "unáhlený výrok (unáhlený sľub)",
+    "sl": "nepremišljena izjava (prenagljena zaobljuba)",
+    "sv": "ett förhastat yttrande (förhastat löfte)",
+    "tr": "aceleci bir söz (aceleci yemin)",
+    "uk": "необдумане висловлювання (поспішна обітниця)",
+    "zh": "狂言"
+  },
+  "verses": [
+    "numbers 30:7:7",
+    "numbers 30:9:12"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H8240",
+  "language": "hebrew",
+  "transliteration": "shâphâth",
+  "pronunciation": "shaw-fawth'",
+  "definition": "a (double) stall (for cattle); also a (two-pronged) hook (for flaying animals on)",
+  "kjvTranslation": "hook, pot.",
+  "hebrew": "שָׁפָת",
+  "translations": {
+    "bg": "(двоен) обор (за едър рогат добитък); също (двуостра) кука (за разфасоване на животни)",
+    "cs": "(dvojitá) stáj (pro dobytek); také (dvouhrotý) hák (na stahování zvířat)",
+    "da": "en (dobbelt) bås (til kvæg); også en (to-takket) krog (til at flå dyr på)",
+    "de": "ein (doppelter) Stall (für Rinder); auch ein (zweizackiger) Haken (zum Häuten von Tieren)",
+    "el": "ένας (διπλός) στάβλος (για βοοειδή)- επίσης ένας (διπλός) γάντζος (για το γδάρσιμο των ζώων)",
+    "es": "un establo (doble) (para ganado); también un gancho (de dos puntas) (para desollar animales)",
+    "et": "(topelt)kopp (veiste jaoks); ka (kahesambaline) konks (loomade nülgimiseks)",
+    "fi": "(kaksoiskarsina) (karjan) karsina; myös (kaksikärkinen) koukku (eläinten nylkemistä varten)",
+    "fr": "une (double) stalle (pour le bétail) ; également un crochet (à deux pointes) (pour écorcher les animaux)",
+    "hu": "(kettős) istálló (szarvasmarhák számára); továbbá (kétágú) kampó (állatok nyúzására)",
+    "id": "kandang (ganda) (untuk ternak); juga pengait (bercabang dua) (untuk menguliti hewan)",
+    "it": "una stalla (doppia) (per il bestiame); anche un gancio (a due punte) (per scorticare gli animali)",
+    "ja": "二股鉤",
+    "ko": "(이중) 스톨(소용); 또한 (두 갈래로 된) 갈고리(동물의 가죽을 벗기는 데 사용)",
+    "lt": "(dviguba) stovyklavietė (galvijams); taip pat (dviašmenis) kablys (gyvuliams nupjauti)",
+    "lv": "(divvietīga) novietne (liellopiem); arī (divstūrains) āķis (dzīvnieku slaucīšanai)",
+    "nb": "en (dobbel) bås (for storfe); også en (tospisset) krok (til å flå dyr på)",
+    "nl": "een (dubbele) stal (voor vee); ook een (tweesnijdende) haak (om dieren aan te villen)",
+    "pl": "(podwójna) budka (dla bydła); również (dwugraniasty) hak (do ubijania zwierząt)",
+    "pt": "um curral (duplo) (para gado); também um gancho (com duas pontas) (para esfolar animais)",
+    "ro": "un grajd (dublu) (pentru vite); de asemenea, un cârlig (cu două vârfuri) (pentru jupuirea animalelor)",
+    "ru": "(двойное) стойло (для скота); также (двузубый) крюк (для битья животных)",
+    "sk": "(dvojitý) box (pre dobytok); tiež (dvojramenný) hák (na odháňanie zvierat)",
+    "sl": "(dvojni) boks (za govedo); tudi (dvoročni) kavelj (za odganjanje živali)",
+    "sv": "ett (dubbelt) bås (för boskap); även en (tvåtandad) krok (för att flå djur på)",
+    "tr": "(sığırlar için) bir (çift) ahır; ayrıca (hayvanların derisini yüzmek için) bir (iki uçlu) çengel",
+    "uk": "(подвійне) стійло (для великої рогатої худоби); також (двосторонній) гак (для зняття шкури з тварин)",
+    "zh": "牛栏；也是(用于剥牲口皮的)(两叉)钩子"
+  },
+  "verses": [
+    "psalms 68:14:3",
+    "ezekiel 40:43:0"
+  ]
+}

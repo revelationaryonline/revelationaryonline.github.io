@@ -1,0 +1,43 @@
+{
+  "number": "H8498",
+  "language": "hebrew",
+  "transliteration": "tᵉkûwnâh",
+  "pronunciation": "tek-oo-naw'",
+  "definition": "adjustment, i.e. structure; by implication, equipage",
+  "kjvTranslation": "fashion, store.",
+  "hebrew": "תְּכוּנָה",
+  "translations": {
+    "bg": "настройка, т.е. структура; по подразбиране - оборудване",
+    "cs": "úprava, tj. struktura; v důsledku toho i vybavení",
+    "da": "justering, dvs. struktur; underforstået, udstyr",
+    "de": "anpassung, d. h. Struktur; damit einhergehend: Equipage",
+    "el": "προσαρμογή, δηλ. δομή- κατ' επέκταση, εξοπλισμός",
+    "es": "ajuste, es decir, estructura; por implicación, equipaje",
+    "et": "kohandamine, s.t struktuur; kaudselt ka varustus",
+    "fi": "säätö, eli rakenne; implisiittisesti myös varustelu",
+    "fr": "l'ajustement, c'est-à-dire la structure ; par voie de conséquence, l'équipement",
+    "hu": "kiigazítás, azaz struktúra; következésképpen felszerelés",
+    "id": "penyesuaian, yaitu struktur; dengan implikasi, perlengkapan",
+    "it": "regolazione, cioè la struttura; per implicazione, equipaggiamento",
+    "ja": "調整、すなわち構造。",
+    "ko": "조정, 즉 구조; 함축적으로, 장비",
+    "lt": "koregavimas, t. y. struktūra; iš to išplaukia, kad Equipage",
+    "lv": "pielāgošana, t. i., struktūra; netieši arī aprīkošana",
+    "nb": "justering, dvs. struktur; underforstått, utrustning",
+    "nl": "aanpassing, d.w.z. structuur; bij implicatie, equipage",
+    "pl": "dostosowanie, tj. struktura; przez implikację, wyposażenie",
+    "pt": "ajustamento, ou seja, estrutura; por implicação, equipagem",
+    "ro": "ajustare, adică structură; implicit, echipare",
+    "ru": "приспособление, т.е. структура; по смыслу, оснащение",
+    "sk": "úprava, t. j. štruktúra; v dôsledku toho aj vybavenie",
+    "sl": "prilagoditev, tj. struktura; posledično tudi oprema",
+    "sv": "justering, dvs. struktur; underförstått, utrustning",
+    "tr": "ayarlama, yani yapı; dolaylı olarak, donatım",
+    "uk": "пристосування, тобто структура; по суті, оснащення",
+    "zh": "调整，即结构；暗示装备"
+  },
+  "verses": [
+    "ezekiel 43:11:7",
+    "nahum 2:10:6"
+  ]
+}

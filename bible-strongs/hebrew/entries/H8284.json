@@ -1,0 +1,42 @@
+{
+  "number": "H8284",
+  "language": "hebrew",
+  "transliteration": "shârâh",
+  "pronunciation": "shaw-raw'",
+  "definition": "a fortification (literally or figuratively)",
+  "kjvTranslation": "sing (by mistake for H7891 (שִׁיר)), wall.",
+  "hebrew": "שָׁרָה",
+  "translations": {
+    "bg": "укрепление (в буквален или преносен смисъл)",
+    "cs": "opevnění (doslova nebo obrazně)",
+    "da": "en befæstning (bogstaveligt eller i overført betydning)",
+    "de": "eine Befestigung (wörtlich oder im übertragenen Sinne)",
+    "el": "οχύρωση (κυριολεκτικά ή μεταφορικά)",
+    "es": "una fortificación (literal o figuradamente)",
+    "et": "kindlustus (sõna otseses või ülekantud tähenduses)",
+    "fi": "linnoitus (kirjaimellisesti tai kuvaannollisesti)",
+    "fr": "une fortification (au sens propre ou figuré)",
+    "hu": "erődítmény (szó szerint vagy átvitt értelemben)",
+    "id": "benteng pertahanan (secara harfiah atau kiasan)",
+    "it": "una fortificazione (in senso letterale o figurato)",
+    "ja": "要塞",
+    "ko": "요새화(문자 그대로 또는 비유적으로)",
+    "lt": "įtvirtinimas (tiesiogine ar perkeltine prasme)",
+    "lv": "nocietinājums (tiešā vai pārnestā nozīmē)",
+    "nb": "et festningsverk (bokstavelig eller billedlig talt)",
+    "nl": "een versterking (letterlijk of figuurlijk)",
+    "pl": "fortyfikacja (dosłownie lub w przenośni)",
+    "pt": "uma fortificação (literal ou figurativamente)",
+    "ro": "o fortificație (la propriu sau la figurat)",
+    "ru": "укрепление (в прямом или переносном смысле)",
+    "sk": "opevnenie (doslovne alebo obrazne)",
+    "sl": "utrdba (dobesedno ali v prenesenem pomenu)",
+    "sv": "en befästning (bokstavligen eller bildligt talat)",
+    "tr": "bir tahkimat (gerçek veya mecazi anlamda)",
+    "uk": "укріплення (в прямому чи переносному сенсі)",
+    "zh": "堡垒"
+  },
+  "verses": [
+    "jeremiah 5:10:1"
+  ]
+}

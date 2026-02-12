@@ -1,0 +1,42 @@
+{
+  "number": "H1489",
+  "language": "hebrew",
+  "transliteration": "gizbâr",
+  "pronunciation": "ghiz-bawr'",
+  "definition": "treasurer",
+  "kjvTranslation": "treasurer.",
+  "translations": {
+    "bg": "ковчежник",
+    "cs": "pokladník",
+    "da": "kasserer",
+    "de": "schatzmeister",
+    "el": "ταμίας",
+    "es": "tesorero",
+    "et": "kassapidaja",
+    "fi": "rahastonhoitaja",
+    "fr": "trésorier",
+    "hu": "pénztáros",
+    "id": "bendahara",
+    "it": "tesoriere",
+    "ja": "会計",
+    "ko": "재무",
+    "lt": "iždininkas",
+    "lv": "kasieris",
+    "nb": "kasserer",
+    "nl": "penningmeester",
+    "pl": "skarbnik",
+    "pt": "tesoureiro",
+    "ro": "trezorier",
+    "ru": "казначей",
+    "sk": "pokladník",
+    "sl": "blagajnik",
+    "sv": "kassör",
+    "tr": "sayman",
+    "uk": "скарбник",
+    "zh": "财长"
+  },
+  "hebrew": "גִּזְבָּר",
+  "verses": [
+    "ezra 1:8:7"
+  ]
+}

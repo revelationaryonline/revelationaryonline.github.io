@@ -1,0 +1,43 @@
+{
+  "number": "H719",
+  "language": "hebrew",
+  "transliteration": "ʼArvad",
+  "pronunciation": "ar-vad'",
+  "definition": "Arvad, an island-city of Palestine",
+  "kjvTranslation": "Arvad.",
+  "translations": {
+    "bg": "Арвад, островен град в Палестина",
+    "cs": "Arvad, ostrovní město v Palestině",
+    "da": "Arvad, en ø-by i Palæstina",
+    "de": "Arvad, eine Insel-Stadt in Palästina",
+    "el": "Arvad, μια νησιωτική πόλη της Παλαιστίνης",
+    "es": "Arvad, ciudad-isla de Palestina",
+    "et": "Arvad, Palestiina saarel asuv linn",
+    "fi": "Arvad, saarikaupunki Palestiinassa",
+    "fr": "Arvad, ville-île de Palestine",
+    "hu": "Arvad, Palesztina egyik szigetvárosa",
+    "id": "Arvad, sebuah kota pulau di Palestina",
+    "it": "Arvad, città-isola della Palestina",
+    "ja": "パレスチナの島都市アルヴァド",
+    "ko": "팔레스타인의 섬 도시 아르바드",
+    "lt": "Arvadas, Palestinos miestas-sala",
+    "lv": "Arvads, Palestīnas salu pilsēta",
+    "nb": "Arvad, en øyby i Palestina",
+    "nl": "Arvad, een eilandstad in Palestina",
+    "pl": "Arvad, miasto na wyspie w Palestynie",
+    "pt": "Arvad, uma cidade-ilha da Palestina",
+    "ro": "Arvad, o insulă-oraș din Palestina",
+    "ru": "Арвад, остров-город в Палестине",
+    "sk": "Arvad, ostrovné mesto v Palestíne",
+    "sl": "Arvad, otoško mesto v Palestini",
+    "sv": "Arvad, en östad i Palestina",
+    "tr": "Arvad, Filistin'de bir ada-şehir",
+    "uk": "Арвад, острівне місто в Палестині",
+    "zh": "阿尔瓦德"
+  },
+  "hebrew": "אַרְוַד",
+  "verses": [
+    "ezekiel 27:8:2",
+    "ezekiel 27:11:1"
+  ]
+}

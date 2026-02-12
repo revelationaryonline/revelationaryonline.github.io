@@ -1,0 +1,42 @@
+{
+  "number": "H6058",
+  "language": "hebrew",
+  "transliteration": "ʻânêph",
+  "pronunciation": "aw-nafe'",
+  "definition": "branching",
+  "kjvTranslation": "full of branches.",
+  "hebrew": "עָנֵף",
+  "translations": {
+    "bg": "разклонения",
+    "cs": "větvení",
+    "da": "forgrening",
+    "de": "verzweigung",
+    "el": "διακλάδωση",
+    "es": "ramificación",
+    "et": "hargnemine",
+    "fi": "haarautuminen",
+    "fr": "ramification",
+    "hu": "elágazás",
+    "id": "percabangan",
+    "it": "ramificazione",
+    "ja": "分枝",
+    "ko": "분기",
+    "lt": "išsišakojimas",
+    "lv": "sazarošanās",
+    "nb": "forgrening",
+    "nl": "vertakking",
+    "pl": "rozgałęzienie",
+    "pt": "ramificação",
+    "ro": "ramificare",
+    "ru": "разветвление",
+    "sk": "vetvenie",
+    "sl": "razvejanost",
+    "sv": "förgrening",
+    "tr": "dallanma",
+    "uk": "розгалуження",
+    "zh": "分枝"
+  },
+  "verses": [
+    "ezekiel 19:10:7"
+  ]
+}

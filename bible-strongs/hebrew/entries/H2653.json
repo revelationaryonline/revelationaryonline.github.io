@@ -1,0 +1,42 @@
+{
+  "number": "H2653",
+  "language": "hebrew",
+  "transliteration": "chophaph",
+  "pronunciation": "khaw-faf'",
+  "definition": "to cover (in protection)",
+  "kjvTranslation": "cover.",
+  "translations": {
+    "bg": "да покрива (в защита)",
+    "cs": "zakrýt (v ochraně)",
+    "da": "at dække (i beskyttelse)",
+    "de": "abdecken (zum Schutz)",
+    "el": "να καλύπτω (σε προστασία)",
+    "es": "cubrir (en protección)",
+    "et": "katta (kaitseks)",
+    "fi": "peittää (suojaksi)",
+    "fr": "couvrir (en protection)",
+    "hu": "fedez (védelemben)",
+    "id": "untuk menutupi (dalam perlindungan)",
+    "it": "coprire (in protezione)",
+    "ja": "覆う",
+    "ko": "커버 (보호 중)",
+    "lt": "dengti (apsaugai)",
+    "lv": "nosegt (aizsardzībai)",
+    "nb": "å dekke (i beskyttelse)",
+    "nl": "bedekken (in bescherming)",
+    "pl": "do pokrycia (w ochronie)",
+    "pt": "cobrir (em proteção)",
+    "ro": "a acoperi (în protecție)",
+    "ru": "покрывать (для защиты)",
+    "sk": "zakryť (pri ochrane)",
+    "sl": "pokrivati (za zaščito)",
+    "sv": "för att täcka (i skydd)",
+    "tr": "örtmek (koruma altına almak)",
+    "uk": "покривати (у захисті)",
+    "zh": "掩护"
+  },
+  "hebrew": "חׇפַף",
+  "verses": [
+    "deuteronomy 33:12:7"
+  ]
+}

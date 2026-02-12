@@ -1,0 +1,42 @@
+{
+  "number": "H7265",
+  "language": "hebrew",
+  "transliteration": "rᵉgaz",
+  "pronunciation": "reg-az'",
+  "definition": "{to quiver (with any violent emotion, especially anger or fear)}",
+  "kjvTranslation": "provoke unto wrath.",
+  "hebrew": "רְגַז",
+  "translations": {
+    "bg": "{да трепери (от някаква силна емоция, особено от гняв или страх)}",
+    "cs": "{třást se (jakoukoli prudkou emocí, zejména hněvem nebo strachem)}",
+    "da": "{at ryste (af en hvilken som helst voldsom følelse, især vrede eller frygt)}",
+    "de": "(bei einer heftigen Emotion, insbesondere Wut oder Angst) zu zittern",
+    "el": "{να τρέμω (με οποιοδήποτε βίαιο συναίσθημα, ιδίως θυμό ή φόβο)}",
+    "es": "{temblar (con cualquier emoción violenta, especialmente ira o miedo)}",
+    "et": "{tärisema (mis tahes vägivaldse emotsiooni, eriti viha või hirmu tõttu)}",
+    "fi": "{värisemään (mistä tahansa voimakkaasta tunteesta, erityisesti vihasta tai pelosta)}",
+    "fr": "{faire frémir (sous l'effet d'une émotion violente, en particulier la colère ou la peur)}",
+    "hu": "{remegni (bármilyen heves érzelemtől, különösen dühtől vagy félelemtől)}",
+    "id": "(bergetar (dengan emosi yang hebat, terutama kemarahan atau ketakutan)",
+    "it": "{fremere (con qualsiasi emozione violenta, specialmente rabbia o paura)",
+    "ja": "{激しい感情、特に怒りや恐怖で）震える｝。",
+    "ko": "{떨다(특히 분노나 두려움과 같은 격렬한 감정으로)}",
+    "lt": "{drebėti (dėl bet kokios stiprios emocijos, ypač pykčio ar baimės)}",
+    "lv": "{drebēt (ar jebkādām spēcīgām emocijām, īpaši dusmām vai bailēm)}",
+    "nb": "{å skjelve (av en hvilken som helst voldsom følelse, særlig sinne eller frykt)}",
+    "nl": "{om te beven (bij een heftige emotie, vooral woede of angst)}",
+    "pl": "{drżeć (z powodu jakiejkolwiek gwałtownej emocji, zwłaszcza gniewu lub strachu)}",
+    "pt": "{estremecer (com qualquer emoção violenta, especialmente raiva ou medo)}",
+    "ro": "{să tremure (de orice emoție violentă, în special furie sau teamă)}",
+    "ru": "{дрожать (от любых сильных эмоций, особенно от гнева или страха)}",
+    "sk": "{chvieť sa (akoukoľvek prudkou emóciou, najmä hnevom alebo strachom)}",
+    "sl": "{trepetati (ob katerem koli močnem čustvu, zlasti jezi ali strahu)}",
+    "sv": "{att darra (av någon våldsam känsla, särskilt ilska eller rädsla)}",
+    "tr": "{titremek (herhangi bir şiddetli duyguyla, özellikle öfke veya korkuyla)}",
+    "uk": "{тремтіти (від будь-якої сильної емоції, особливо від гніву чи страху)}",
+    "zh": "{（因任何剧烈情绪，尤其是愤怒或恐惧）而颤抖}......"
+  },
+  "verses": [
+    "ezra 5:12:3"
+  ]
+}

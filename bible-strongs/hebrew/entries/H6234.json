@@ -1,0 +1,42 @@
+{
+  "number": "H6234",
+  "language": "hebrew",
+  "transliteration": "ʻoshqâh",
+  "pronunciation": "osh-kaw'",
+  "definition": "anguish",
+  "kjvTranslation": "oppressed.",
+  "hebrew": "עׇשְׁקָה",
+  "translations": {
+    "bg": "мъка",
+    "cs": "úzkost",
+    "da": "angst",
+    "de": "ängste",
+    "el": "αγωνία",
+    "es": "angustia",
+    "et": "piin",
+    "fi": "tuska",
+    "fr": "angoisse",
+    "hu": "szorongás",
+    "id": "penderitaan",
+    "it": "angoscia",
+    "ja": "苦悩",
+    "ko": "고뇌",
+    "lt": "kančia",
+    "lv": "ciešanas",
+    "nb": "angst",
+    "nl": "angst",
+    "pl": "udręka",
+    "pt": "angústia",
+    "ro": "angoasă",
+    "ru": "страдания",
+    "sk": "trápenie",
+    "sl": "tesnoba",
+    "sv": "ångest",
+    "tr": "ızdırap",
+    "uk": "страждання",
+    "zh": "痛楚"
+  },
+  "verses": [
+    "isaiah 38:14:10"
+  ]
+}

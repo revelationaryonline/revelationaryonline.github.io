@@ -1,0 +1,43 @@
+{
+  "number": "H3",
+  "language": "hebrew",
+  "transliteration": "ʼêb",
+  "pronunciation": "abe",
+  "definition": "a green plant",
+  "kjvTranslation": "greenness, fruit.",
+  "translations": {
+    "bg": "зелено растение",
+    "cs": "zelená rostlina",
+    "da": "en grøn plante",
+    "de": "eine grüne Pflanze",
+    "el": "ένα πράσινο φυτό",
+    "es": "una planta verde",
+    "et": "roheline taim",
+    "fi": "vihreä kasvi",
+    "fr": "une plante verte",
+    "hu": "zöld növény",
+    "id": "tanaman hijau",
+    "it": "una pianta verde",
+    "ja": "緑の植物",
+    "ko": "녹색 식물",
+    "lt": "žalias augalas",
+    "lv": "zaļš augs",
+    "nb": "en grønn plante",
+    "nl": "een groene plant",
+    "pl": "zielona roślina",
+    "pt": "uma planta verde",
+    "ro": "o plantă verde",
+    "ru": "зелёное растение",
+    "sk": "zelená rastlina",
+    "sl": "zelena rastlina",
+    "sv": "en grön växt",
+    "tr": "yeşil bir bitki",
+    "uk": "зелена рослина",
+    "zh": "绿植"
+  },
+  "hebrew": "אֵב",
+  "verses": [
+    "job 8:12:1",
+    "solomon 6:11:5"
+  ]
+}

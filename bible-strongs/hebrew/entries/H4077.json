@@ -1,0 +1,42 @@
+{
+  "number": "H4077",
+  "language": "hebrew",
+  "transliteration": "Mâday",
+  "pronunciation": "maw-dah'-ee",
+  "definition": "{a Madian or native of Madai}",
+  "kjvTranslation": "Median.",
+  "hebrew": "מָדַי",
+  "translations": {
+    "bg": "{мадиец или родом от Мадай}",
+    "cs": "{Madian nebo rodák z Madai}",
+    "da": "{en madianer eller indfødt i Madai}",
+    "de": "(ein Madianer oder Eingeborener von Madai)",
+    "el": "{ένας Μαντιανός ή γηγενής από το Μαντάι}",
+    "es": "{un Madian o nativo de Madai}",
+    "et": "{Madilane või Madai põliselanik}",
+    "fi": "{Madilainen tai Madain kotoisin oleva}",
+    "fr": "{un Madian ou un natif de Madai}",
+    "hu": "{mádi vagy mádi születésű}",
+    "id": "(orang Madia atau penduduk asli Madai)",
+    "it": "{un madiano o un nativo di Madai.}",
+    "ja": "{マダイ人またはマダイ出身者｝。",
+    "ko": "{마디안 또는 마다이 출신}",
+    "lt": "{Madų gyventojas arba Madų gyventojas}",
+    "lv": "{madiānietis vai Madai dzimtene}",
+    "nb": "{en madier eller innfødt i Madai}",
+    "nl": "{een Madiaan of inwoner van Madai}",
+    "pl": "(Madian lub pochodzący z Madai)",
+    "pt": "{um madiano ou nativo de Madai}",
+    "ro": "{un Madian sau originar din Madai}",
+    "ru": "{Мадиец или уроженец Мадая.}",
+    "sk": "{Madián alebo rodák z Madai}",
+    "sl": "{Madijka ali domačinka iz Madaja}",
+    "sv": "{en Madian eller född i Madai}",
+    "tr": "{bir Madian ya da Madai yerlisi}",
+    "uk": "{мадяр або уродженець Мадаю}",
+    "zh": "{马代人或马代人｝"
+  },
+  "verses": [
+    "daniel 6:1:1"
+  ]
+}

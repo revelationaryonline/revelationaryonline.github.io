@@ -1,0 +1,42 @@
+{
+  "number": "H4004",
+  "language": "hebrew",
+  "transliteration": "mibchôwr",
+  "pronunciation": "mib-khore'",
+  "definition": "select, i.e. well fortified",
+  "kjvTranslation": "choice.",
+  "hebrew": "מִבְחוֹר",
+  "translations": {
+    "bg": "избрани, т.е. добре подсилени",
+    "cs": "vybrané, tj. dobře obohacené",
+    "da": "udvalgt, dvs. godt beriget",
+    "de": "ausgewählt, d.h. gut angereichert",
+    "el": "επιλεγμένα, δηλαδή καλά εμπλουτισμένα",
+    "es": "selecta, es decir, bien fortificada",
+    "et": "valitud, st hästi kindlustatud",
+    "fi": "valikoida, toisin sanoen hyvin täydennetty",
+    "fr": "sélectionnées, c'est-à-dire bien fortifiées",
+    "hu": "válogatott, azaz jól megerősített",
+    "id": "pilih, yaitu yang dibentengi dengan baik",
+    "it": "selezionati, cioè ben fortificati",
+    "ja": "セレクト",
+    "ko": "선택, 즉 잘 강화된",
+    "lt": "atrinkti, t. y. gerai sustiprinti",
+    "lv": "atlasīt, t. i., labi stiprinātus",
+    "nb": "utvalgt, dvs. godt befestet",
+    "nl": "select, d.w.z. goed verrijkt",
+    "pl": "wybrane, tj. dobrze wzmocnione",
+    "pt": "selecionado, ou seja, bem fortificado",
+    "ro": "select, adică bine fortificat",
+    "ru": "отборные, т.е. хорошо укрепленные",
+    "sk": "vybrané, t. j. dobre posilnené",
+    "sl": "izbrani, tj. dobro obogateni",
+    "sv": "utvalda, dvs. väl befästa",
+    "tr": "seçkin, yani iyi güçlendirilmiş",
+    "uk": "добірні, тобто добре укріплені",
+    "zh": "选择，即强化"
+  },
+  "verses": [
+    "secondKings 3:19:6"
+  ]
+}

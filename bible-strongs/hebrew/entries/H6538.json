@@ -1,0 +1,43 @@
+{
+  "number": "H6538",
+  "language": "hebrew",
+  "transliteration": "pereç",
+  "pronunciation": "peh'-res",
+  "definition": "a claw; also a kind of eagle",
+  "kjvTranslation": "claw, ossifrage.",
+  "hebrew": "פֶּרֶס",
+  "translations": {
+    "bg": "нокът; също вид орел",
+    "cs": "dráp; také druh orla",
+    "da": "en klo; også en slags ørn",
+    "de": "eine Klaue; auch eine Adlerart",
+    "el": "ένα νύχι- επίσης ένα είδος αετού",
+    "es": "una garra; también una especie de águila",
+    "et": "küünis; ka mingi kotkas",
+    "fi": "kynsi; myös kotkalaji",
+    "fr": "une griffe ; également une sorte d'aigle",
+    "hu": "karom; egyfajta sas is",
+    "id": "cakar; juga sejenis elang",
+    "it": "un artiglio; anche un tipo di aquila",
+    "ja": "鷲の一種でもある。",
+    "ko": "발톱; 독수리의 일종이기도 합니다",
+    "lt": "nagas; taip pat erelio rūšis",
+    "lv": "spīles; arī ērgļu suga",
+    "nb": "en klo; også en slags ørn",
+    "nl": "een klauw; ook een soort adelaar",
+    "pl": "szpon; również rodzaj orła",
+    "pt": "uma garra; também uma espécie de águia",
+    "ro": "o gheară; de asemenea, un fel de vultur",
+    "ru": "коготь; также разновидность орла",
+    "sk": "pazúr; tiež druh orla",
+    "sl": "krempelj; tudi vrsta orla",
+    "sv": "en klo; även en typ av örn",
+    "tr": "bir pençe; ayrıca bir tür kartal",
+    "uk": "кіготь; також різновид орла",
+    "zh": "爪；也是一种鹰"
+  },
+  "verses": [
+    "leviticus 11:13:12",
+    "deuteronomy 14:12:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8514",
+  "language": "hebrew",
+  "transliteration": "talʼûwbâh",
+  "pronunciation": "tal-oo-baw'",
+  "definition": "desiccation",
+  "kjvTranslation": "great drought.",
+  "hebrew": "תַּלְאוּבָה",
+  "translations": {
+    "bg": "изсушаване",
+    "cs": "vysychání",
+    "da": "udtørring",
+    "de": "austrocknung",
+    "el": "ξήρανση",
+    "es": "desecación",
+    "et": "kuivamine",
+    "fi": "kuivuminen",
+    "fr": "dessiccation",
+    "hu": "kiszáradás",
+    "id": "pengeringan",
+    "it": "essiccazione",
+    "ja": "乾燥",
+    "ko": "건조",
+    "lt": "išdžiūvimas",
+    "lv": "izžūšana",
+    "nb": "uttørking",
+    "nl": "uitdroging",
+    "pl": "wysuszenie",
+    "pt": "dessecação",
+    "ro": "desecare",
+    "ru": "высыхание",
+    "sk": "vysušenie",
+    "sl": "izsuševanje",
+    "sv": "uttorkning",
+    "tr": "kuruma",
+    "uk": "висихання",
+    "zh": "干燥"
+  },
+  "verses": [
+    "hosea 13:5:4"
+  ]
+}

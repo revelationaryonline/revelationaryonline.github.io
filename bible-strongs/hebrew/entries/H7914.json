@@ -1,0 +1,42 @@
+{
+  "number": "H7914",
+  "language": "hebrew",
+  "transliteration": "sᵉkîyâh",
+  "pronunciation": "sek-ee-yaw'",
+  "definition": "a conspicuous object",
+  "kjvTranslation": "picture.",
+  "hebrew": "שְׂכִיָּה",
+  "translations": {
+    "bg": "забележим предмет",
+    "cs": "nápadný předmět",
+    "da": "et iøjnefaldende objekt",
+    "de": "ein auffälliges Objekt",
+    "el": "ένα εμφανές αντικείμενο",
+    "es": "un objeto llamativo",
+    "et": "silmatorkav objekt",
+    "fi": "näkyvä esine",
+    "fr": "un objet visible",
+    "hu": "egy feltűnő tárgy",
+    "id": "objek yang mencolok",
+    "it": "un oggetto vistoso",
+    "ja": "めだつもの",
+    "ko": "눈에 띄는 물체",
+    "lt": "į akis krentantis objektas",
+    "lv": "uzkrītošs objekts",
+    "nb": "en iøynefallende gjenstand",
+    "nl": "een opvallend object",
+    "pl": "rzucający się w oczy obiekt",
+    "pt": "um objeto visível",
+    "ro": "un obiect vizibil",
+    "ru": "заметный объект",
+    "sk": "nápadný predmet",
+    "sl": "viden predmet",
+    "sv": "ett iögonfallande föremål",
+    "tr": "göze çarpan bir nesne",
+    "uk": "помітний об'єкт",
+    "zh": "显眼的物体"
+  },
+  "verses": [
+    "isaiah 2:16:6"
+  ]
+}

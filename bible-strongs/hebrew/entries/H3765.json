@@ -1,0 +1,42 @@
+{
+  "number": "H3765",
+  "language": "hebrew",
+  "transliteration": "kirçêm",
+  "pronunciation": "kir-same'",
+  "definition": "to lay waste",
+  "kjvTranslation": "waste.",
+  "hebrew": "כִּרְסֵם",
+  "translations": {
+    "bg": "да опустошава",
+    "cs": "pustošit",
+    "da": "at lægge øde",
+    "de": "zu verwüsten",
+    "el": "να καταστρέψει",
+    "es": "destruir",
+    "et": "hävitada",
+    "fi": "tuhota",
+    "fr": "de jeter des ordures",
+    "hu": "hogy elpusztítsa",
+    "id": "untuk membuang sampah",
+    "it": "per gettare rifiuti",
+    "ja": "荒らす",
+    "ko": "낭비하기",
+    "lt": "išmesti į šiukšlyną",
+    "lv": "izkaisīt atkritumus",
+    "nb": "å legge øde",
+    "nl": "om afval te leggen",
+    "pl": "położyć odpady",
+    "pt": "destruir",
+    "ro": "să distrugă",
+    "ru": "разрушать",
+    "sk": "zlikvidovať",
+    "sl": "opustošiti",
+    "sv": "att fördärva",
+    "tr": "atık bırakmak için",
+    "uk": "щоб відходів не залишилося",
+    "zh": "大肆破坏"
+  },
+  "verses": [
+    "psalms 80:14:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4523",
+  "language": "hebrew",
+  "transliteration": "mâç",
+  "pronunciation": "mawce",
+  "definition": "fainting, i.e. (figuratively) disconsolate",
+  "kjvTranslation": "is afflicted.",
+  "hebrew": "מָס",
+  "verses": [
+    "job 6:14:0"
+  ],
+  "translations": {
+    "bg": "припадане, т.е. (в преносен смисъл) обезсърчение",
+    "cs": "mdloby, tj. (přeneseně) sklíčenost",
+    "da": "besvimer, dvs. (i overført betydning) trøstesløs",
+    "de": "ohnmächtig, d.h. (im übertragenen Sinne) trostlos",
+    "el": "λιποθυμία, δηλ. (μεταφορικά) απαρηγόρητος",
+    "es": "desmayado, es decir (figuradamente) desconsolado",
+    "et": "minestus, st (piltlikult) lohutus",
+    "fi": "pyörtyminen, eli (kuvaannollisesti) lohduttomuus",
+    "fr": "l'évanouissement, c'est-à-dire (au sens figuré) la déconfiture",
+    "hu": "ájulás, azaz (átvitt értelemben) vigasztalanul",
+    "id": "pingsan, yaitu (secara kiasan) tidak tenang",
+    "it": "svenire, cioè (in senso figurato) sconsolato",
+    "ja": "失意",
+    "ko": "실신, 즉 (비 유적으로) 낙담하다",
+    "lt": "alpstantis, t. y. (perkeltine prasme) nusiminęs",
+    "lv": "ģībonis, t. i., (pārnestā nozīmē) bezcerīgs",
+    "nb": "besvimelse, dvs. (i overført betydning) trøstesløs",
+    "nl": "flauwvallen, d.w.z. (figuurlijk) troosteloos",
+    "pl": "mdlejący, tj. (w przenośni) niepocieszony",
+    "pt": "desmaiar, isto é, (figurativamente) desconsolado",
+    "ro": "leșinând, adică (la figurat) deconsolat",
+    "ru": "падать в обморок, т.е. (образно) впадать в уныние",
+    "sk": "mdloby, t. j. (obrazne) skľúčenosť",
+    "sl": "omedleli, tj. (v prenesenem pomenu) razočarani",
+    "sv": "svimning, dvs. (bildligt talat) nedstämdhet",
+    "tr": "baygın, yani (mecazi olarak) keyifsiz",
+    "uk": "знепритомніти, тобто (образно) розгубитися",
+    "zh": "昏厥，即（比喻）凄凉"
+  }
+}

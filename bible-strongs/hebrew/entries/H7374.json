@@ -1,0 +1,42 @@
+{
+  "number": "H7374",
+  "language": "hebrew",
+  "transliteration": "reṭeṭ",
+  "pronunciation": "reh'-tet",
+  "definition": "terror",
+  "kjvTranslation": "fear.",
+  "hebrew": "רֶטֶט",
+  "translations": {
+    "bg": "терор",
+    "cs": "teror",
+    "da": "terror",
+    "de": "terror",
+    "el": "τρομοκρατία",
+    "es": "terror",
+    "et": "terror",
+    "fi": "terrori",
+    "fr": "terreur",
+    "hu": "terror",
+    "id": "teror",
+    "it": "terrore",
+    "ja": "恐怖",
+    "ko": "테러",
+    "lt": "teroras",
+    "lv": "terors",
+    "nb": "terror",
+    "nl": "terreur",
+    "pl": "terror",
+    "pt": "terror",
+    "ro": "teroare",
+    "ru": "террор",
+    "sk": "teror",
+    "sl": "teror",
+    "sv": "terror",
+    "tr": "terör",
+    "uk": "терор",
+    "zh": "恐怖"
+  },
+  "verses": [
+    "jeremiah 49:24:4"
+  ]
+}

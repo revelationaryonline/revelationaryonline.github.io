@@ -1,0 +1,42 @@
+{
+  "number": "H903",
+  "language": "hebrew",
+  "transliteration": "Bigthâʼ",
+  "pronunciation": "big-thaw'",
+  "definition": "Bigtha, a eunuch of Xerxes",
+  "kjvTranslation": "Bigtha.",
+  "translations": {
+    "bg": "Бигта, евнух на Ксеркс",
+    "cs": "Bigtha, Xerxův eunuch",
+    "da": "Bigtha, en af Xerxes' eunukker",
+    "de": "Bigtha, ein Eunuch von Xerxes",
+    "el": "Bigtha, ευνούχος του Ξέρξη",
+    "es": "Bigtha, un eunuco de Jerjes",
+    "et": "Bigtha, Kserxese eunuhh",
+    "fi": "Bigtha, Kserkseksen eunukki, -",
+    "fr": "Bigtha, eunuque de Xerxès",
+    "hu": "Bigtha, Xerxész eunuchja",
+    "id": "Bigtha, seorang kasim dari Xerxes",
+    "it": "Bigtha, un eunuco di Serse",
+    "ja": "クセルクセスの宦官ビグタ",
+    "ko": "크세르크세스의 환관, 빅타",
+    "lt": "Bigta, Kserkso eunuchas",
+    "lv": "Bigta, Kserksa eunukss",
+    "nb": "Bigtha, en evnukk av Xerxes",
+    "nl": "Bigtha, een eunuch van Xerxes",
+    "pl": "Bigtha, eunuch Kserksesa",
+    "pt": "Bigtha, um eunuco de Xerxes",
+    "ro": "Bigtha, un eunuc al lui Xerxes",
+    "ru": "Бигта, евнух Ксеркса",
+    "sk": "Bigtha, Xerxov eunuch",
+    "sl": "Bigta, Kserksov evnuh",
+    "sv": "Bigtha, en eunuck hos Xerxes",
+    "tr": "Bigtha, Xerxes'in haremağası",
+    "uk": "Бігта, євнух Ксеркса",
+    "zh": "薛西斯的太监比格塔"
+  },
+  "hebrew": "בִּגְתָא",
+  "verses": [
+    "esther 1:10:10"
+  ]
+}

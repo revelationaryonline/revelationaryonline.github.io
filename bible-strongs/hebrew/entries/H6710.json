@@ -1,0 +1,42 @@
+{
+  "number": "H6710",
+  "language": "hebrew",
+  "transliteration": "tsachtsâchâh",
+  "pronunciation": "tsakh-tsaw-khaw'",
+  "definition": "a dry place, i.e. desert",
+  "kjvTranslation": "drought.",
+  "hebrew": "צַחְצָחָה",
+  "translations": {
+    "bg": "сухо място, т.е. пустиня",
+    "cs": "suché místo, tj. poušť",
+    "da": "et tørt sted, f.eks. en ørken",
+    "de": "ein trockener Ort, d.h. eine Wüste",
+    "el": "ξηρό μέρος, δηλαδή έρημος",
+    "es": "un lugar seco, es decir, desierto",
+    "et": "kuiv koht, s.t. kõrb",
+    "fi": "kuiva paikka eli autiomaa",
+    "fr": "un lieu sec, c'est-à-dire un désert",
+    "hu": "egy száraz hely, azaz sivatag",
+    "id": "tempat yang kering, yaitu gurun pasir",
+    "it": "un luogo secco, cioè un deserto",
+    "ja": "砂漠",
+    "ko": "건조한 장소(예: 사막)",
+    "lt": "sausa vieta, t. y. dykuma",
+    "lv": "sausa vieta, t.i., tuksnesis",
+    "nb": "et tørt sted, f.eks. ørken",
+    "nl": "een droge plaats, d.w.z. woestijn",
+    "pl": "suche miejsce, tj. pustynia",
+    "pt": "um lugar seco, ou seja, deserto",
+    "ro": "un loc uscat, adică deșert",
+    "ru": "сухое место, т.е. пустыня",
+    "sk": "suché miesto, t. j. púšť",
+    "sl": "suh kraj, tj. puščava",
+    "sv": "en torr plats, d.v.s. öken",
+    "tr": "kuru bir yer, yani çöl",
+    "uk": "сухе місце, тобто пустеля",
+    "zh": "干地"
+  },
+  "verses": [
+    "isaiah 58:11:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H263",
+  "language": "hebrew",
+  "transliteration": "ʼachăvâh",
+  "pronunciation": "akh-av-aw'",
+  "definition": "solution (of riddles)",
+  "kjvTranslation": "showing.",
+  "translations": {
+    "bg": "решение (на загадки)",
+    "cs": "řešení (hádanek)",
+    "da": "løsning (af gåder)",
+    "de": "lösung (von Rätseln)",
+    "el": "λύση (αινιγμάτων)",
+    "es": "solución (de acertijos)",
+    "et": "(mõistatuste) lahendus",
+    "fi": "ratkaisu (arvoituksiin)",
+    "fr": "solution (d'énigmes)",
+    "hu": "(rejtvények) megoldása",
+    "id": "solusi (dari teka-teki)",
+    "it": "soluzione (di enigmi)",
+    "ja": "ときあかし",
+    "ko": "(수수께끼의) 솔루션",
+    "lt": "(mįslių) sprendimas",
+    "lv": "risinājums (mīklu)",
+    "nb": "løsning (av gåter)",
+    "nl": "oplossing (van raadsels)",
+    "pl": "rozwiązanie (zagadki)",
+    "pt": "solução (de enigmas)",
+    "ro": "soluție (de ghicitori)",
+    "ru": "решение (загадок)",
+    "sk": "riešenie (hádaniek)",
+    "sl": "rešitev (uganke)",
+    "sv": "lösning (av gåtor)",
+    "tr": "çözüm (bilmecelerin)",
+    "uk": "розгадка (загадок)",
+    "zh": "谜底"
+  },
+  "hebrew": "אַחֲוָה",
+  "verses": [
+    "daniel 5:12:9"
+  ]
+}

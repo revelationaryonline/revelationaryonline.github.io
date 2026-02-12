@@ -1,0 +1,43 @@
+{
+  "number": "H958",
+  "language": "hebrew",
+  "transliteration": "bâzâʼ",
+  "pronunciation": "baw-zaw'",
+  "definition": "probably to cleave",
+  "kjvTranslation": "spoil.",
+  "translations": {
+    "bg": "вероятно да се разцепи",
+    "cs": "pravděpodobně k rozštěpení",
+    "da": "sandsynligvis til at kløve",
+    "de": "wahrscheinlich zu spalten",
+    "el": "πιθανόν να διασπαστεί",
+    "es": "probablemente para escindir",
+    "et": "tõenäoliselt lõhkuda",
+    "fi": "luultavasti pilkkoa",
+    "fr": "probablement de se cliver",
+    "hu": "valószínűleg szétválasztani",
+    "id": "mungkin untuk membelah",
+    "it": "probabilmente per tagliare",
+    "ja": "おそらく薙ぎ払う",
+    "ko": "아마도 쪼개기 위해",
+    "lt": "tikriausiai suskilti",
+    "lv": "iespējams, lai sašķeltu",
+    "nb": "sannsynligvis til å kløyve",
+    "nl": "waarschijnlijk om te splijten",
+    "pl": "prawdopodobnie do rozszczepienia",
+    "pt": "provavelmente para fender",
+    "ro": "probabil să se desprindă",
+    "ru": "возможно, расщепить",
+    "sk": "pravdepodobne rozštiepiť",
+    "sl": "najverjetneje razcepiti",
+    "sv": "förmodligen att klyva",
+    "tr": "muhtemelen ayrılmak için",
+    "uk": "ймовірно, щоб розколоти",
+    "zh": "大有可能"
+  },
+  "hebrew": "בָּזָא",
+  "verses": [
+    "isaiah 18:2:26",
+    "isaiah 18:7:19"
+  ]
+}

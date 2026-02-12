@@ -1,0 +1,42 @@
+{
+  "number": "H7546",
+  "language": "hebrew",
+  "transliteration": "raqqâch",
+  "pronunciation": "rak-kawkh'",
+  "definition": "a male perfumer",
+  "kjvTranslation": "apothecary.",
+  "hebrew": "רַקָּח",
+  "translations": {
+    "bg": "парфюмерист от мъжки пол",
+    "cs": "mužský parfumér",
+    "da": "en mandlig parfumeur",
+    "de": "ein männlicher Parfümeur",
+    "el": "ένας άνδρας αρωματοποιός",
+    "es": "un perfumista masculino",
+    "et": "meesparfümeer",
+    "fi": "miespuolinen hajuvesimies",
+    "fr": "un parfumeur masculin",
+    "hu": "férfi parfümkészítő",
+    "id": "parfum pria",
+    "it": "un profumiere maschio",
+    "ja": "男性調香師",
+    "ko": "남성 조향사",
+    "lt": "vyriškos lyties parfumeris",
+    "lv": "vīriešu dzimuma parfimērists",
+    "nb": "en mannlig parfymør",
+    "nl": "een mannelijke parfumeur",
+    "pl": "perfumiarz płci męskiej",
+    "pt": "um perfumista masculino",
+    "ro": "un parfumier de sex masculin",
+    "ru": "мужчина-парфюмер",
+    "sk": "mužský parfumér",
+    "sl": "moški parfumer",
+    "sv": "en manlig parfymör",
+    "tr": "bir erkek parfümcü",
+    "uk": "чоловік-парфумер",
+    "zh": "香水男"
+  },
+  "verses": [
+    "nehemiah 3:8:12"
+  ]
+}

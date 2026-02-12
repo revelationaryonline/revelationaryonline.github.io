@@ -1,0 +1,42 @@
+{
+  "number": "H2159",
+  "language": "hebrew",
+  "transliteration": "zâmîyr",
+  "pronunciation": "zaw-meer'",
+  "definition": "a twig (as pruned)",
+  "kjvTranslation": "branch.",
+  "translations": {
+    "bg": "клонче (подрязано)",
+    "cs": "větvička (ořezaná)",
+    "da": "en kvist (som beskæres)",
+    "de": "ein Zweig (wie beschnitten)",
+    "el": "ένα κλαδί (όπως κλαδεύεται)",
+    "es": "una ramita (como podada)",
+    "et": "okas (nagu kärbitud)",
+    "fi": "oksa (karsittu)",
+    "fr": "un rameau (tel que taillé)",
+    "hu": "egy gally (metszett)",
+    "id": "ranting (seperti yang dipangkas)",
+    "it": "un ramoscello (come potato)",
+    "ja": "小枝",
+    "ko": "나뭇가지(가지치기한 상태)",
+    "lt": "šakelė (nupjauta)",
+    "lv": "zariņš (apgriezts)",
+    "nb": "en kvist (som beskjæres)",
+    "nl": "een takje (zoals gesnoeid)",
+    "pl": "gałązka (przycięta)",
+    "pt": "um ramo (podado)",
+    "ro": "o creangă (tăiată)",
+    "ru": "веточка (обрезанная)",
+    "sk": "vetvička (orezaná)",
+    "sl": "vejica (obrezana)",
+    "sv": "en kvist (som beskärs)",
+    "tr": "bir dal (budanmış olarak)",
+    "uk": "гілочка (в обрізаному вигляді)",
+    "zh": "枝条"
+  },
+  "hebrew": "זָמִיר",
+  "verses": [
+    "solomon 2:12:4"
+  ]
+}

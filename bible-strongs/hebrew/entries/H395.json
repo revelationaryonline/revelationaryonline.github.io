@@ -1,0 +1,42 @@
+{
+  "number": "H395",
+  "language": "hebrew",
+  "transliteration": "ʼakzᵉrîyûwth",
+  "pronunciation": "ak-ze-ree-ooth'",
+  "definition": "fierceness",
+  "kjvTranslation": "cruel.",
+  "translations": {
+    "bg": "свирепост",
+    "cs": "zuřivost",
+    "da": "voldsomhed",
+    "de": "grimmigkeit",
+    "el": "αγριότητα",
+    "es": "ferocidad",
+    "et": "ägedus",
+    "fi": "hurjuus",
+    "fr": "férocité",
+    "hu": "hevesség",
+    "id": "keganasan",
+    "it": "ferocia",
+    "ja": "剽悍",
+    "ko": "치열함",
+    "lt": "nuožmumas",
+    "lv": "niknums",
+    "nb": "voldsomhet",
+    "nl": "felheid",
+    "pl": "zaciekłość",
+    "pt": "ferocidade",
+    "ro": "ferocitate",
+    "ru": "свирепость",
+    "sk": "zúrivosť",
+    "sl": "ognjevitost",
+    "sv": "våldsamhet",
+    "tr": "vahşilik",
+    "uk": "запеклість",
+    "zh": "凶猛"
+  },
+  "hebrew": "אַכְזְרִיּוּת",
+  "verses": [
+    "proverbs 27:4:0"
+  ]
+}

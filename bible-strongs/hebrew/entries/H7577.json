@@ -1,0 +1,42 @@
+{
+  "number": "H7577",
+  "language": "hebrew",
+  "transliteration": "rᵉthuqâh",
+  "pronunciation": "reth-oo-kaw'",
+  "definition": "something fastened, i.e. a chain",
+  "kjvTranslation": "chain.",
+  "hebrew": "רְתֻקָה",
+  "translations": {
+    "bg": "нещо закрепено, напр. верига",
+    "cs": "něco připevněného, např. řetěz",
+    "da": "noget fastgjort, f.eks. en kæde",
+    "de": "etwas Befestigtes, z. B. eine Kette",
+    "el": "κάτι στερεωμένο, π.χ. μια αλυσίδα",
+    "es": "algo sujeto, por ejemplo, una cadena",
+    "et": "midagi kinnitatud, st kett",
+    "fi": "jotain kiinnitettyä, esim. ketju",
+    "fr": "quelque chose d'attaché, par exemple une chaîne",
+    "hu": "valami rögzített, pl. egy lánc",
+    "id": "sesuatu yang diikat, yaitu rantai",
+    "it": "qualcosa di fissato, ad esempio una catena",
+    "ja": "鎖",
+    "ko": "고정된 무언가, 즉 체인",
+    "lt": "ką nors pritvirtinti, t. y. grandinę",
+    "lv": "kaut kas piestiprināts, t.i., ķēde",
+    "nb": "noe som er festet, f.eks. en kjetting",
+    "nl": "iets dat vastzit, bijvoorbeeld een ketting",
+    "pl": "coś przymocowanego, np. łańcuch",
+    "pt": "algo preso, ou seja, uma corrente",
+    "ro": "ceva fixat, de exemplu un lanț",
+    "ru": "что-то скрепленное, т.е. цепь",
+    "sk": "niečo pripevnené, napr. reťaz",
+    "sl": "nekaj pritrjenega, npr. veriga",
+    "sv": "något fastgjort, t.ex. en kedja",
+    "tr": "bağlanmış bir şey, örneğin bir zincir",
+    "uk": "щось прикріплене, наприклад, ланцюг",
+    "zh": "锁链"
+  },
+  "verses": [
+    "isaiah 40:19:6"
+  ]
+}

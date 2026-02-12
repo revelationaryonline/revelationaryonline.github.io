@@ -1,0 +1,43 @@
+{
+  "number": "H1762",
+  "language": "hebrew",
+  "transliteration": "dᵉchîy",
+  "pronunciation": "deh-khee'",
+  "definition": "a push, i.e. (by implication) a fall",
+  "kjvTranslation": "falling.",
+  "translations": {
+    "bg": "бутане, т.е. (по подразбиране) падане",
+    "cs": "strčení, tj. (implicitně) pád",
+    "da": "et skub, dvs. (underforstået) et fald",
+    "de": "ein Stoß, d.h. (implizit) ein Sturz",
+    "el": "μια ώθηση, δηλαδή (κατ' επέκταση) μια πτώση",
+    "es": "un empujón, es decir (implícitamente) una caída",
+    "et": "tõuge, st (kaudselt) kukkumine",
+    "fi": "työntö, eli (epäsuorasti) putoaminen",
+    "fr": "une poussée, c'est-à-dire (implicitement) une chute",
+    "hu": "egy lökés, azaz (értelemszerűen) egy esés",
+    "id": "dorongan, yaitu (dengan implikasi) jatuh",
+    "it": "una spinta, cioè (per implicazione) una caduta",
+    "ja": "おしたおし",
+    "ko": "밀기, 즉 (암시적으로) 넘어짐",
+    "lt": "stūmimas, t. y. (netiesiogiai) kritimas",
+    "lv": "grūdiens, t. i., (netieši) kritiens",
+    "nb": "et dytt, dvs. (underforstått) et fall",
+    "nl": "een duw, d.w.z. (impliciet) een val",
+    "pl": "pchnięcie, tj. (w domyśle) upadek",
+    "pt": "um empurrão, ou seja, (implicitamente) uma queda",
+    "ro": "o împingere, adică (implicit) o cădere",
+    "ru": "толчок, т.е. (по косвенным признакам) падение",
+    "sk": "tlačenie, t. j. (implicitne) pád",
+    "sl": "potisk, tj. (implicitno) padec",
+    "sv": "en knuff, d.v.s. (underförstått) ett fall",
+    "tr": "bir itme, yani (ima yoluyla) bir düşme",
+    "uk": "поштовх, тобто (за підтекстом) падіння",
+    "zh": "推，即（暗示）摔倒"
+  },
+  "hebrew": "דְּחִי",
+  "verses": [
+    "psalms 56:14:6",
+    "psalms 116:8:10"
+  ]
+}

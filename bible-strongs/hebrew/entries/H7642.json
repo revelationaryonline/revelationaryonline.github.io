@@ -1,0 +1,42 @@
+{
+  "number": "H7642",
+  "language": "hebrew",
+  "transliteration": "shablûwl",
+  "pronunciation": "shab-lool'",
+  "definition": "a snail (as if floating in its own slime)",
+  "kjvTranslation": "snail.",
+  "hebrew": "שַׁבְלוּל",
+  "translations": {
+    "bg": "охлюв (сякаш плува в собствената си слуз)",
+    "cs": "hlemýžď (jako by plaval ve vlastním slizu)",
+    "da": "en snegl (som om den flyder i sit eget slim)",
+    "de": "eine Schnecke (als würde sie in ihrem eigenen Schleim schwimmen)",
+    "el": "ένα σαλιγκάρι (σαν να επιπλέει στη γλίτσα του)",
+    "es": "un caracol (como flotando en su propia baba)",
+    "et": "tigu (justkui ujuks oma limas)",
+    "fi": "etana (ikään kuin kelluisi omassa limassaan)",
+    "fr": "un escargot (comme s'il flottait dans sa propre bave)",
+    "hu": "csiga (mintha a saját nyálkájában úszna)",
+    "id": "siput (seolah-olah mengambang di dalam lendirnya sendiri)",
+    "it": "una lumaca (come se galleggiasse nella sua stessa melma)",
+    "ja": "かたつむり",
+    "ko": "달팽이(마치 자신의 점액에 떠 있는 것처럼)",
+    "lt": "sraigė (tarsi plūduriuojanti savo gleivėse)",
+    "lv": "gliemezis (it kā peldētu savās dūņās)",
+    "nb": "en snegl (som om den flyter i sitt eget slim)",
+    "nl": "een slak (alsof hij in zijn eigen slijm drijft)",
+    "pl": "ślimak (jakby pływał we własnym śluzie)",
+    "pt": "um caracol (como se estivesse a flutuar no seu próprio lodo)",
+    "ro": "un melc (ca și cum ar pluti în propria sa mâzgă)",
+    "ru": "улитка (как будто плавает в собственной слизи)",
+    "sk": "slimák (akoby plával vo vlastnom hliene)",
+    "sl": "polž (kot bi plaval v lastni sluzi)",
+    "sv": "en snigel (som om den flyter i sitt eget slem)",
+    "tr": "bir salyangoz (sanki kendi balçığı içinde yüzüyormuş gibi)",
+    "uk": "равлик (ніби плаваючий у власному слизу)",
+    "zh": "蜗牛"
+  },
+  "verses": [
+    "psalms 58:9:1"
+  ]
+}

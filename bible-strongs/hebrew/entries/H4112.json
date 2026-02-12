@@ -1,0 +1,43 @@
+{
+  "number": "H4112",
+  "language": "hebrew",
+  "transliteration": "mahălummâh",
+  "pronunciation": "mah-hal-oom-maw'",
+  "definition": "a blow",
+  "kjvTranslation": "stripe, stroke.",
+  "hebrew": "מַהֲלֻמָּה",
+  "translations": {
+    "bg": "удар",
+    "cs": "úder",
+    "da": "et slag",
+    "de": "ein Schlag",
+    "el": "ένα χτύπημα",
+    "es": "un golpe",
+    "et": "löök",
+    "fi": "isku",
+    "fr": "un coup",
+    "hu": "egy csapás",
+    "id": "pukulan",
+    "it": "un colpo",
+    "ja": "一撃",
+    "ko": "타격",
+    "lt": "smūgis",
+    "lv": "trieciens",
+    "nb": "et slag",
+    "nl": "een slag",
+    "pl": "cios",
+    "pt": "um golpe",
+    "ro": "o lovitură",
+    "ru": "удар",
+    "sk": "úder",
+    "sl": "udarec",
+    "sv": "ett slag",
+    "tr": "bir darbe",
+    "uk": "удар",
+    "zh": "打击"
+  },
+  "verses": [
+    "proverbs 18:6:5",
+    "proverbs 19:29:3"
+  ]
+}

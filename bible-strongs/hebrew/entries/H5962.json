@@ -1,0 +1,42 @@
+{
+  "number": "H5962",
+  "language": "hebrew",
+  "transliteration": "ʻAlmîy",
+  "pronunciation": "al-mee'",
+  "definition": "an Elamite or inhabitant of Elam",
+  "kjvTranslation": "Elamite.",
+  "hebrew": "עַלְמִי",
+  "translations": {
+    "bg": "еламит или жител на Елам",
+    "cs": "elamita nebo obyvatel Elamu",
+    "da": "en elamit eller indbygger i Elam",
+    "de": "ein Elamiter oder Einwohner von Elam",
+    "el": "ελαμίτης ή κάτοικος του Ελάμ",
+    "es": "elamita o habitante de Elam",
+    "et": "elamlane või Elami elanik",
+    "fi": "elamilainen tai Elamin asukas",
+    "fr": "un Elamite ou un habitant de l'Elam",
+    "hu": "elámi vagy elámi lakos",
+    "id": "orang Elam atau penduduk Elam",
+    "it": "un elamita o un abitante dell'Elam",
+    "ja": "エラム人またはエラムの住民",
+    "ko": "엘람인 또는 엘람 거주자",
+    "lt": "elamitas arba Elamo gyventojas",
+    "lv": "elamietis vai Elama iedzīvotājs",
+    "nb": "en elamitt eller innbygger i Elam",
+    "nl": "een Elamiet of inwoner van Elam",
+    "pl": "elamita lub mieszkaniec Elamu",
+    "pt": "um elamita ou habitante de Elão",
+    "ro": "un elamit sau un locuitor al Elamului",
+    "ru": "эламит или житель Элама",
+    "sk": "elamčan alebo obyvateľ Elamu",
+    "sl": "elamec ali prebivalec Elama",
+    "sv": "en elamit eller invånare i Elam",
+    "tr": "bir Elamlı veya Elam'da yaşayan",
+    "uk": "еламітом або жителем Еламу",
+    "zh": "埃兰人或埃兰居民"
+  },
+  "verses": [
+    "ezra 4:9:18"
+  ]
+}

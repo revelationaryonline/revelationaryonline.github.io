@@ -1,0 +1,43 @@
+{
+  "number": "H206",
+  "language": "hebrew",
+  "transliteration": "ʼÂven",
+  "pronunciation": "aw'-ven",
+  "definition": "Aven, the contemptuous synonym of three places, one in Coele-Syria, one in Egypt (On), and one in Palestine (Bethel)",
+  "kjvTranslation": "Aven. See also H204 (אוֹן), H1007 (בֵּית אָוֶן).",
+  "translations": {
+    "bg": "Авен, презрителен синоним на три места, едно в Сирия, едно в Египет (Он) и едно в Палестина (Ветил)",
+    "cs": "Aven, opovržlivé synonymum tří míst, jednoho v Coele-Sýrii, jednoho v Egyptě (On) a jednoho v Palestině (Bethel)",
+    "da": "Aven, det foragtelige synonym for tre steder, et i Coele-Syrien, et i Egypten (On) og et i Palæstina (Bethel)",
+    "de": "Aven, das verächtliche Synonym für drei Orte, einen in Coele-Syrien, einen in Ägypten (On) und einen in Palästina (Bethel)",
+    "el": "Αβεν, το περιφρονητικό συνώνυμο τριών τόπων, ενός στην Κοιλάδα της Συρίας, ενός στην Αίγυπτο (Ον) και ενός στην Παλαιστίνη (Βαιθήλ)",
+    "es": "Aven, sinónimo despectivo de tres lugares, uno en Coele-Siria, otro en Egipto (On) y otro en Palestina (Betel)",
+    "et": "Aven, kolme koha põlglik sünonüüm, üks Kose-Süürias, üks Egiptuses (On) ja üks Palestiinas (Betel)",
+    "fi": "Aven, kolmen paikan halventava synonyymi, yksi Kööle-Syyriassa, yksi Egyptissä (On) ja yksi Palestiinassa (Betel)",
+    "fr": "Aven, synonyme méprisant de trois lieux, l'un en Cœlé-Syrie, l'autre en Égypte (On) et le dernier en Palestine (Bethel)",
+    "hu": "Aven, három hely megvető szinonimája, egy Kóel-Szíriában, egy Egyiptomban (On) és egy Palesztinában (Bétel)",
+    "id": "Aven, sinonim yang menghina dari tiga tempat, satu di Coele-Suriah, satu di Mesir (On), dan satu di Palestina (Betel)",
+    "it": "Aven, sinonimo spregiativo di tre luoghi, uno in Coele-Siria, uno in Egitto (On) e uno in Palestina (Bethel)",
+    "ja": "アヴェンとは、コエレ・シリアにある地名、エジプトにある地名（オン）、パレスチナにある地名（ベテル）の3つの地名の蔑称である。",
+    "ko": "코엘레-시리아, 이집트(온), 팔레스타인(베델) 세 곳의 경멸적인 동의어인 '아벤(Aven)'",
+    "lt": "Avenas - paniekinantis trijų vietovių sinonimas: vienos iš jų - Coele-Sirijoje, kitos - Egipte (On) ir trečios - Palestinoje (Betelis)",
+    "lv": "Aven - nicinošs sinonīms trim vietām, no kurām viena atrodas Koēlsīrijā, otra Ēģiptē (On) un trešā Palestīnā (Bētela)",
+    "nb": "Aven, det foraktelige synonymet til tre steder, ett i Coele-Syria, ett i Egypt (On) og ett i Palestina (Betel)",
+    "nl": "Aven, het minachtende synoniem van drie plaatsen, één in Coele-Syrië, één in Egypte (On) en één in Palestina (Bethel)",
+    "pl": "Aven, pogardliwy synonim trzech miejsc, jednego w Coele-Syrii, jednego w Egipcie (On) i jednego w Palestynie (Betel)",
+    "pt": "Aven, sinónimo desdenhoso de três lugares, um na Coele-Síria, um no Egito (On) e um na Palestina (Betel)",
+    "ro": "Aven, sinonimul disprețuitor a trei locuri, unul în Coele-Siria, unul în Egipt (On) și unul în Palestina (Betel)",
+    "ru": "Авен, презрительный синоним трех мест, одного в Коэле-Сирии, одного в Египте (Он) и одного в Палестине (Вефиль)",
+    "sk": "Aven, opovržlivé synonymum troch miest, jedného v Kórei, jedného v Egypte (On) a jedného v Palestíne (Bethel)",
+    "sl": "Aven, prezirljiv sinonim za tri kraje, enega v Coele-Siriji, enega v Egiptu (On) in enega v Palestini (Bethel)",
+    "sv": "Aven, den föraktfulla synonymen för tre platser, en i Coele-Syrien, en i Egypten (On) och en i Palestina (Bethel)",
+    "tr": "Aven, biri Koel-Suriye'de, biri Mısır'da (On) ve biri de Filistin'de (Beytel) olmak üzere üç yerin aşağılayıcı eşanlamlısı",
+    "uk": "Авен, презирливий синонім трьох місць, одного в Коелі-Сирії, одного в Єгипті (Он) і одного в Палестині (Бетел)",
+    "zh": "阿文，三个地方的轻蔑同义词，一个在叙利亚，一个在埃及（安），一个在巴勒斯坦（伯特利）。"
+  },
+  "hebrew": "אָוֶן",
+  "verses": [
+    "ezekiel 30:17:1",
+    "amos 1:5:6"
+  ]
+}

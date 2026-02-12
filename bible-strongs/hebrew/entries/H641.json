@@ -1,0 +1,42 @@
+{
+  "number": "H641",
+  "language": "hebrew",
+  "transliteration": "ʼÊphôd",
+  "pronunciation": "ay-fode'",
+  "definition": "Ephod, an Israelite",
+  "kjvTranslation": "Ephod.",
+  "translations": {
+    "bg": "Ефод, израилтянин",
+    "cs": "Efod, Izraelita",
+    "da": "Ephod, en israelit",
+    "de": "Ephod, ein Israelit",
+    "el": "Ephod, ένας Ισραηλίτης",
+    "es": "Efod, un israelita",
+    "et": "Ephod, iisraellane",
+    "fi": "Ephod, israelilainen",
+    "fr": "Ephod, Israélite",
+    "hu": "Ephod, egy izraelita",
+    "id": "Efod, seorang Israel",
+    "it": "Ephod, un israelita",
+    "ja": "イスラエル人エフォド",
+    "ko": "이스라엘인 에봇",
+    "lt": "Efodas, izraelitas",
+    "lv": "Efods, izraēlietis",
+    "nb": "Ephod, en israelitt",
+    "nl": "Efod, een Israëliet",
+    "pl": "Efod, Izraelita",
+    "pt": "Éfode, israelita",
+    "ro": "Epod, un israelit",
+    "ru": "Эфод, израильтянин",
+    "sk": "Efód, Izraelita",
+    "sl": "Efod, Izraelec",
+    "sv": "Efod, en israelit",
+    "tr": "Efod, bir İsrailli",
+    "uk": "Ефод, ізраїльтянин",
+    "zh": "以弗得，以色列人"
+  },
+  "hebrew": "אֵפֹד",
+  "verses": [
+    "numbers 34:23:8"
+  ]
+}

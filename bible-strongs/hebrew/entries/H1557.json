@@ -1,0 +1,42 @@
+{
+  "number": "H1557",
+  "language": "hebrew",
+  "transliteration": "gâlâl",
+  "pronunciation": "gaw-lawl'",
+  "definition": "dung (as in balls)",
+  "kjvTranslation": "dung.",
+  "translations": {
+    "bg": "тор (като топчета)",
+    "cs": "hnůj (jako koule)",
+    "da": "gødning (som i kugler)",
+    "de": "dung (wie in Eiern)",
+    "el": "κοπριά (όπως στις μπάλες)",
+    "es": "estiércol (como en bolas)",
+    "et": "sõnnik (nagu pallid)",
+    "fi": "lanta (kuten pallot)",
+    "fr": "bouse (comme dans les boules)",
+    "hu": "trágya (mint a golyókban)",
+    "id": "kotoran (seperti dalam bola)",
+    "it": "sterco (come le palle)",
+    "ja": "くそたれ",
+    "ko": "똥(공처럼)",
+    "lt": "mėšlas (kaip rutuliukai)",
+    "lv": "mēsli (kā bumbiņas)",
+    "nb": "møkk (som i baller)",
+    "nl": "mest (als in ballen)",
+    "pl": "łajno (jak w kulkach)",
+    "pt": "estrume (como em bolas)",
+    "ro": "dung (ca în balls)",
+    "ru": "навоз (в виде шариков)",
+    "sk": "hnoj (ako gule)",
+    "sl": "gnoj (kot kroglice)",
+    "sv": "dynga (som i bollar)",
+    "tr": "gübre (toplarda olduğu gibi)",
+    "uk": "гній (у вигляді кульок)",
+    "zh": "粪球"
+  },
+  "hebrew": "גָּלָל",
+  "verses": [
+    "firstKings 14:10:20"
+  ]
+}

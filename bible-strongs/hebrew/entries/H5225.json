@@ -1,0 +1,42 @@
+{
+  "number": "H5225",
+  "language": "hebrew",
+  "transliteration": "Nâkôwn",
+  "pronunciation": "naw-kone'",
+  "definition": "Nakon, probably an Israelite",
+  "kjvTranslation": "Nachon.",
+  "hebrew": "נָכוֹן",
+  "translations": {
+    "bg": "Након, вероятно израилтянин",
+    "cs": "Nakon, pravděpodobně Izraelita",
+    "da": "Nakon, sandsynligvis en israelit",
+    "de": "Nakon, wahrscheinlich ein Israelit",
+    "el": "Nakon, πιθανώς Ισραηλίτης",
+    "es": "Nakon, probablemente israelita",
+    "et": "Nakon, tõenäoliselt iisraellane",
+    "fi": "Nakon, luultavasti israelilainen",
+    "fr": "Nakon, probablement israélite",
+    "hu": "Nakon, valószínűleg izraelita",
+    "id": "Nakon, mungkin orang Israel",
+    "it": "Nakon, probabilmente un israelita",
+    "ja": "ナコン、おそらくイスラエル人",
+    "ko": "나콘, 아마도 이스라엘인",
+    "lt": "Nakonas, tikriausiai izraelitas",
+    "lv": "Nakons, iespējams, izraēlietis",
+    "nb": "Nakon, sannsynligvis en israelitt",
+    "nl": "Nakon, waarschijnlijk een Israëliet",
+    "pl": "Nakon, prawdopodobnie Izraelita",
+    "pt": "Nakon, provavelmente um israelita",
+    "ro": "Nakon, probabil un israelit",
+    "ru": "Након, вероятно, израильтянин",
+    "sk": "Nakon, pravdepodobne Izraelita",
+    "sl": "Nakon, verjetno Izraelec",
+    "sv": "Nakon, troligen en israelit",
+    "tr": "Nakon, muhtemelen bir İsrailli",
+    "uk": "Након, ймовірно, ізраїльтянин",
+    "zh": "纳孔，可能是以色列人"
+  },
+  "verses": [
+    "secondSamuel 6:6:3"
+  ]
+}

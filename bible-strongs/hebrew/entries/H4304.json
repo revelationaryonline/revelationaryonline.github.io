@@ -1,0 +1,43 @@
+{
+  "number": "H4304",
+  "language": "hebrew",
+  "transliteration": "miṭpachath",
+  "pronunciation": "mit-pakh'-ath",
+  "definition": "a wide cloak (for a woman)",
+  "kjvTranslation": "vail, wimple.",
+  "hebrew": "מִטְפַּחַת",
+  "translations": {
+    "bg": "широко наметало (за жена)",
+    "cs": "široký plášť (pro ženu)",
+    "da": "en bred kappe (til en kvinde)",
+    "de": "einen weiten Mantel (für eine Frau)",
+    "el": "έναν φαρδύ μανδύα (για μια γυναίκα)",
+    "es": "un manto ancho (para una mujer)",
+    "et": "lai mantel (naisele)",
+    "fi": "leveä viitta (naiselle)",
+    "fr": "un manteau large (pour une femme)",
+    "hu": "széles köpeny (nőnek)",
+    "id": "jubah lebar (untuk wanita)",
+    "it": "un ampio mantello (per una donna)",
+    "ja": "広衣",
+    "ko": "넓은 망토(여성용)",
+    "lt": "platus apsiaustas (moteriai)",
+    "lv": "plats apmetnis (sievietei)",
+    "nb": "en bred kappe (for en kvinne)",
+    "nl": "een wijde mantel (voor een vrouw)",
+    "pl": "szeroki płaszcz (dla kobiety)",
+    "pt": "um manto largo (para uma mulher)",
+    "ro": "o mantie largă (pentru o femeie)",
+    "ru": "широкий плащ (для женщины)",
+    "sk": "široký plášť (pre ženu)",
+    "sl": "širok plašč (za žensko)",
+    "sv": "en bred kappa (för en kvinna)",
+    "tr": "geniş bir pelerin (bir kadın için)",
+    "uk": "широкий плащ (для жінки)",
+    "zh": "宽衣"
+  },
+  "verses": [
+    "ruth 3:15:2",
+    "isaiah 3:22:2"
+  ]
+}

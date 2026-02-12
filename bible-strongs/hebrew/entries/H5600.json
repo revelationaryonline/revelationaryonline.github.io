@@ -1,0 +1,42 @@
+{
+  "number": "H5600",
+  "language": "hebrew",
+  "transliteration": "çᵉphîynâh",
+  "pronunciation": "sef-ee-naw'",
+  "definition": "a (sea-going) vessel (as ceiled with a deck)",
+  "kjvTranslation": "ship.",
+  "hebrew": "סְפִינָה",
+  "translations": {
+    "bg": "(морски) плавателен съд (с палуба)",
+    "cs": "(námořní) plavidlo (s palubou)",
+    "da": "et (havgående) fartøj (som er dækket med et dæk)",
+    "de": "ein (seegängiges) Schiff (mit einem Deck)",
+    "el": "ένα (θαλασσινό) σκάφος (με κατάστρωμα)",
+    "es": "una embarcación (marítima) (con cubierta)",
+    "et": "(merelaev) (nagu kaetud tekiga)",
+    "fi": "(meri)alus (kannella varustettu)",
+    "fr": "un navire (de mer) (comme plafonné avec un pont)",
+    "hu": "(tengerjáró) hajó (mint fedélzettel ellátott)",
+    "id": "sebuah kapal (kapal laut) (seperti yang memiliki dek)",
+    "it": "un'imbarcazione (marittima) (con un ponte di coperta)",
+    "ja": "甲板船",
+    "ko": "(항해용) 선박(갑판으로 천장이 있는 경우)",
+    "lt": "(jūrų) laivas (su deniu)",
+    "lv": "(jūras) kuģis (ar klāju)",
+    "nb": "et (sjøgående) fartøy (med dekk)",
+    "nl": "een (zeevarend) vaartuig (zoals met een dek)",
+    "pl": "statek (morski) (z pokładem)",
+    "pt": "uma embarcação (de mar) (com um convés)",
+    "ro": "o navă (maritimă) (cu punte)",
+    "ru": "(мореходное) судно (с палубой)",
+    "sk": "(námorné) plavidlo (s palubou)",
+    "sl": "(morsko) plovilo (s krovom)",
+    "sv": "ett (sjögående) fartyg (som tak med däck)",
+    "tr": "(denizde giden) bir gemi (güverte ile örtülü olarak)",
+    "uk": "(морське) судно (у вигляді стелі з палубою)",
+    "zh": "海船"
+  },
+  "verses": [
+    "jonah 1:5:19"
+  ]
+}

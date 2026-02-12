@@ -1,0 +1,42 @@
+{
+  "number": "H1848",
+  "language": "hebrew",
+  "transliteration": "dophîy",
+  "pronunciation": "dof'-ee",
+  "definition": "a stumbling-block",
+  "kjvTranslation": "slanderest.",
+  "translations": {
+    "bg": "препъни-камък",
+    "cs": "kámen úrazu",
+    "da": "en snublesten",
+    "de": "ein Stolperstein",
+    "el": "ένα εμπόδιο",
+    "es": "un obstáculo",
+    "et": "komistuskivi",
+    "fi": "kompastuskivi",
+    "fr": "une pierre d'achoppement",
+    "hu": "egy buktató",
+    "id": "batu sandungan",
+    "it": "un ostacolo",
+    "ja": "躓き",
+    "ko": "걸림돌",
+    "lt": "suklupimo kliūtis",
+    "lv": "klupšanas akmens",
+    "nb": "en snublestein",
+    "nl": "een struikelblok",
+    "pl": "przeszkoda",
+    "pt": "uma pedra de tropeço",
+    "ro": "o piatră de poticnire",
+    "ru": "камень преткновения",
+    "sk": "kameň úrazu",
+    "sl": "kamen spotike",
+    "sv": "en stötesten",
+    "tr": "tökezleten bir engel",
+    "uk": "камінь спотикання",
+    "zh": "绊脚石"
+  },
+  "hebrew": "דׇּפִי",
+  "verses": [
+    "psalms 50:20:6"
+  ]
+}

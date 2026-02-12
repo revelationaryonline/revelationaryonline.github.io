@@ -1,0 +1,42 @@
+{
+  "number": "H547",
+  "language": "hebrew",
+  "transliteration": "ʼômᵉnâh",
+  "pronunciation": "om-me-naw'",
+  "definition": "a column",
+  "kjvTranslation": "pillar.",
+  "translations": {
+    "bg": "колона",
+    "cs": "sloupec",
+    "da": "en søjle",
+    "de": "eine Spalte",
+    "el": "μια στήλη",
+    "es": "una columna",
+    "et": "veerg",
+    "fi": "sarake",
+    "fr": "une colonne",
+    "hu": "oszlop",
+    "id": "kolom",
+    "it": "una colonna",
+    "ja": "一列",
+    "ko": "열",
+    "lt": "stulpelis",
+    "lv": "a sleja",
+    "nb": "en kolonne",
+    "nl": "een kolom",
+    "pl": "kolumna",
+    "pt": "uma coluna",
+    "ro": "o coloană",
+    "ru": "колонка",
+    "sk": "stĺpec",
+    "sl": "stolpec",
+    "sv": "en kolumn",
+    "tr": "bir sütun",
+    "uk": "стовпчик",
+    "zh": "专栏"
+  },
+  "hebrew": "אֹמְנָה",
+  "verses": [
+    "secondKings 18:16:9"
+  ]
+}

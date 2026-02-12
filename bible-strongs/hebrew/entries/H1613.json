@@ -1,0 +1,42 @@
+{
+  "number": "H1613",
+  "language": "hebrew",
+  "transliteration": "gôpher",
+  "pronunciation": "go'-fer",
+  "definition": "a kind of tree or wood (as used for building), apparently the cypress",
+  "kjvTranslation": "gopher.",
+  "translations": {
+    "bg": "вид дърво или дървесина (използвана в строителството), очевидно кипарис",
+    "cs": "druh stromu nebo dřeva (používaného ve stavebnictví), zřejmě cypřiš",
+    "da": "en slags træ eller træ (som bruges til byggeri), tilsyneladende cypressen",
+    "de": "eine Baumart oder ein Holz (wie es für den Bau verwendet wird), offenbar die Zypresse",
+    "el": "είδος δέντρου ή ξύλου (που χρησιμοποιείται για οικοδομές), προφανώς το κυπαρίσσι",
+    "es": "un tipo de árbol o madera (utilizado para la construcción), aparentemente el ciprés",
+    "et": "mingi puu või puit (nagu seda kasutatakse ehitamiseks), ilmselt küpressid",
+    "fi": "puulaji tai puu (jota käytetään rakentamiseen), ilmeisesti sypressi",
+    "fr": "une sorte d'arbre ou de bois (utilisé pour la construction), apparemment le cyprès",
+    "hu": "fafajta vagy fa (építésre használt), nyilvánvalóan a ciprusfa",
+    "id": "sejenis pohon atau kayu (seperti yang digunakan untuk bangunan), rupanya pohon cemara",
+    "it": "un tipo di albero o di legno (usato per l'edilizia), apparentemente il cipresso",
+    "ja": "ヒノキ",
+    "ko": "나무 또는 나무의 일종 (건축에 사용되는), 분명히 사이프러스",
+    "lt": "medis arba mediena (naudojama statyboms), matyt, kiparisas",
+    "lv": "koks vai koks (ko izmanto celtniecībā), šķiet, ciprese",
+    "nb": "et slags tre eller trevirke (som brukes til bygging), tilsynelatende sypress",
+    "nl": "een soort boom of hout (zoals gebruikt voor de bouw), blijkbaar de cipres",
+    "pl": "rodzaj drzewa lub drewna (używanego w budownictwie), najwyraźniej cyprys",
+    "pt": "uma espécie de árvore ou madeira (utilizada na construção), aparentemente o cipreste",
+    "ro": "un fel de copac sau de lemn (folosit pentru construcții), aparent chirpiciul",
+    "ru": "вид дерева или древесины (используемой для строительства), по-видимому, кипарис",
+    "sk": "druh stromu alebo dreva (používaného na stavbu), zrejme cyprus",
+    "sl": "vrsta drevesa ali lesa (ki se uporablja v gradbeništvu), očitno cipresa",
+    "sv": "ett slags träd eller trä (som används för att bygga), tydligen cypress",
+    "tr": "bir tür ağaç veya odun (inşaat için kullanılan), görünüşe göre selvi",
+    "uk": "вид дерева або деревина (використовується для будівництва), очевидно, кипарис",
+    "zh": "一种树木或木材（用于建筑），显然是柏树"
+  },
+  "hebrew": "גֹּפֶר",
+  "verses": [
+    "genesis 6:14:4"
+  ]
+}

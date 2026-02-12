@@ -1,0 +1,42 @@
+{
+  "number": "H1738",
+  "language": "hebrew",
+  "transliteration": "dâvâh",
+  "pronunciation": "daw-vaw'",
+  "definition": "to be sick (as if in menstruation)",
+  "kjvTranslation": "infirmity.",
+  "translations": {
+    "bg": "да съм болен (като при менструация)",
+    "cs": "být nemocný (jako při menstruaci)",
+    "da": "at være syg (som ved menstruation)",
+    "de": "krank sein (wie bei der Menstruation)",
+    "el": "να είναι άρρωστη (σαν να έχει έμμηνο ρύση)",
+    "es": "estar enfermo (como en la menstruación)",
+    "et": "olla haige (nagu menstruatsiooni ajal)",
+    "fi": "olla sairas (ikään kuin kuukautisten aikana)",
+    "fr": "être malade (comme en période de menstruation)",
+    "hu": "betegnek lenni (mintha menstruálna)",
+    "id": "sakit (seperti saat menstruasi)",
+    "it": "essere malato (come se avesse le mestruazioni)",
+    "ja": "月経がある",
+    "ko": "아프다(생리 중인 것처럼)",
+    "lt": "sirgti (tarsi menstruacijų metu)",
+    "lv": "būt slims (kā menstruāciju laikā)",
+    "nb": "å være syk (som ved menstruasjon)",
+    "nl": "ziek zijn (alsof je ongesteld bent)",
+    "pl": "być chorym (jak podczas menstruacji)",
+    "pt": "estar doente (como se estivesse a menstruar)",
+    "ro": "a fi bolnav (ca în timpul menstruației)",
+    "ru": "быть больным (как при менструации)",
+    "sk": "byť chorý (ako pri menštruácii)",
+    "sl": "biti bolan (kot pri menstruaciji)",
+    "sv": "att vara sjuk (som vid menstruation)",
+    "tr": "hasta olmak (adet dönemindeymiş gibi)",
+    "uk": "нудити (як під час менструації)",
+    "zh": "瘥瘨"
+  },
+  "hebrew": "דָּוָה",
+  "verses": [
+    "leviticus 12:2:15"
+  ]
+}

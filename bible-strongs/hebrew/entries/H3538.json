@@ -1,0 +1,42 @@
+{
+  "number": "H3538",
+  "language": "hebrew",
+  "transliteration": "kᵉdab",
+  "pronunciation": "ked-ab'",
+  "definition": "false",
+  "kjvTranslation": "lying.",
+  "translations": {
+    "bg": "фалшив",
+    "cs": "false",
+    "da": "falsk",
+    "de": "falsch",
+    "el": "false",
+    "es": "falso",
+    "et": "vale",
+    "fi": "väärä",
+    "fr": "faux",
+    "hu": "hamis",
+    "id": "salah",
+    "it": "falso",
+    "ja": "擬似",
+    "ko": "false",
+    "lt": "klaidinga",
+    "lv": "viltus",
+    "nb": "falsk",
+    "nl": "vals",
+    "pl": "fałszywy",
+    "pt": "falso",
+    "ro": "fals",
+    "ru": "ложь",
+    "sk": "nepravdivé",
+    "sl": "lažno",
+    "sv": "falska",
+    "tr": "yanlış",
+    "uk": "фальшивий",
+    "zh": "错误"
+  },
+  "hebrew": "כְּדַב",
+  "verses": [
+    "daniel 2:9:9"
+  ]
+}

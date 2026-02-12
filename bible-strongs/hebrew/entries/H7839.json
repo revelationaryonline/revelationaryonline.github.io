@@ -1,0 +1,42 @@
+{
+  "number": "H7839",
+  "language": "hebrew",
+  "transliteration": "shachărûwth",
+  "pronunciation": "shakh-ar-ooth'",
+  "definition": "a dawning, i.e. (figuratively) juvenescence",
+  "kjvTranslation": "youth.",
+  "hebrew": "שַׁחֲרוּת",
+  "translations": {
+    "bg": "зазоряване, т.е. (образно) младост",
+    "cs": "svítání, tj. (přeneseně) mladistvost",
+    "da": "et daggry, dvs. (i overført betydning) ungdommelighed",
+    "de": "eine Morgendämmerung, d.h. (im übertragenen Sinne) die Jugendlichkeit",
+    "el": "μια αυγή, δηλαδή (μεταφορικά) η νεανική ηλικία",
+    "es": "un amanecer, es decir (en sentido figurado) la juventud",
+    "et": "koidik, st (piltlikult öeldes) noorukiea",
+    "fi": "aamunkoitto, eli (kuvaannollisesti) nuoruusvuosi",
+    "fr": "l'aube, c'est-à-dire (au sens figuré) la juvénescence",
+    "hu": "egy hajnal, azaz (átvitt értelemben) a fiatalkor",
+    "id": "fajar, yaitu (secara kiasan) masa remaja",
+    "it": "un'alba, cioè (in senso figurato) la giovinezza",
+    "ja": "黎明期",
+    "ko": "여명기, 즉 (비유적으로) 젊음",
+    "lt": "aušra, t. y. (perkeltine prasme) jaunystė",
+    "lv": "rītausma, t. i., (pārnestā nozīmē) jaunības vecums",
+    "nb": "en gryende, dvs. (i overført betydning) ungdommelig tilværelse",
+    "nl": "een dageraad, d.w.z. (figuurlijk) jeugdigheid",
+    "pl": "świt, tj. (w przenośni) młodość",
+    "pt": "um amanhecer, ou seja, (figurativamente) a juvenescência",
+    "ro": "un răsărit, adică (la figurat) tinerețea",
+    "ru": "рассвет, т.е. (фигурально) юность",
+    "sk": "úsvit, t. j. (obrazne) mladosť",
+    "sl": "zora, tj. (v prenesenem pomenu) mladost",
+    "sv": "en gryning, d.v.s. (bildligt talat) juvenescens",
+    "tr": "bir şafak vakti, yani (mecazi olarak) gençleşme",
+    "uk": "світанок, тобто (образно) юність",
+    "zh": "曙光，即（比喻）少年时代"
+  },
+  "verses": [
+    "ecclesiastes 11:10:8"
+  ]
+}

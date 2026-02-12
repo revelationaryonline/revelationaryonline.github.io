@@ -1,0 +1,43 @@
+{
+  "number": "H4038",
+  "language": "hebrew",
+  "transliteration": "maggâl",
+  "pronunciation": "mag-gawl'",
+  "definition": "a sickle",
+  "kjvTranslation": "sickle.",
+  "hebrew": "מַגָּל",
+  "translations": {
+    "bg": "сърп",
+    "cs": "srp",
+    "da": "et segl",
+    "de": "eine Sichel",
+    "el": "δρεπάνι",
+    "es": "una hoz",
+    "et": "sirp",
+    "fi": "sirppi",
+    "fr": "une faucille",
+    "hu": "sarló",
+    "id": "sabit",
+    "it": "una falce",
+    "ja": "鎌",
+    "ko": "낫",
+    "lt": "serpantą",
+    "lv": "sirpis",
+    "nb": "en sigd",
+    "nl": "een sikkel",
+    "pl": "sierp",
+    "pt": "uma foice",
+    "ro": "o seceră",
+    "ru": "серп",
+    "sk": "srp",
+    "sl": "srp",
+    "sv": "en skära",
+    "tr": "bir orak",
+    "uk": "серп",
+    "zh": "铚"
+  },
+  "verses": [
+    "jeremiah 50:16:4",
+    "joel 4:13:1"
+  ]
+}

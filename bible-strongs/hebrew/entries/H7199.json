@@ -1,0 +1,42 @@
+{
+  "number": "H7199",
+  "language": "hebrew",
+  "transliteration": "qashshâth",
+  "pronunciation": "kash-shawth'",
+  "definition": "a bowman",
+  "kjvTranslation": "[idiom] archer. r",
+  "hebrew": "קַשָּׁת",
+  "translations": {
+    "bg": "стрелец с лък",
+    "cs": "lukostřelec",
+    "da": "en bueskytte",
+    "de": "ein Bogenschütze",
+    "el": "ένας τοξότης",
+    "es": "un arquero",
+    "et": "vibumees",
+    "fi": "jousimies",
+    "fr": "un archer",
+    "hu": "egy íjász",
+    "id": "seorang bowman",
+    "it": "un arciere",
+    "ja": "弓手",
+    "ko": "활잡이",
+    "lt": "lankininkas",
+    "lv": "lokmetinātājs",
+    "nb": "en bueskytter",
+    "nl": "een boogschutter",
+    "pl": "łucznik",
+    "pt": "um arqueiro",
+    "ro": "un arcaș",
+    "ru": "боцман",
+    "sk": "lukostrelca",
+    "sl": "lokostrelec",
+    "sv": "en bågskytt",
+    "tr": "bir okçu",
+    "uk": "лучник",
+    "zh": "鞠躬者"
+  },
+  "verses": [
+    "genesis 21:20:9"
+  ]
+}

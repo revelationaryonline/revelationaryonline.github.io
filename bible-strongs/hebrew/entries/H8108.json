@@ -1,0 +1,42 @@
+{
+  "number": "H8108",
+  "language": "hebrew",
+  "transliteration": "shomrâh",
+  "pronunciation": "shom-raw'",
+  "definition": "watchfulness",
+  "kjvTranslation": "watch.",
+  "hebrew": "שׇׁמְרָה",
+  "translations": {
+    "bg": "бдителност",
+    "cs": "bdělost",
+    "da": "vagtsomhed",
+    "de": "wachsamkeit",
+    "el": "επαγρύπνηση",
+    "es": "vigilancia",
+    "et": "valvsus",
+    "fi": "valppaus",
+    "fr": "vigilance",
+    "hu": "éberség",
+    "id": "kewaspadaan",
+    "it": "vigilanza",
+    "ja": "心遣い",
+    "ko": "주의",
+    "lt": "budrumas",
+    "lv": "modrība",
+    "nb": "årvåkenhet",
+    "nl": "waakzaamheid",
+    "pl": "czujność",
+    "pt": "vigilância",
+    "ro": "vigilență",
+    "ru": "бдительность",
+    "sk": "bdelosť",
+    "sl": "budnost",
+    "sv": "vaksamhet",
+    "tr": "uyanıklık",
+    "uk": "пильність",
+    "zh": "警惕性"
+  },
+  "verses": [
+    "psalms 141:3:2"
+  ]
+}

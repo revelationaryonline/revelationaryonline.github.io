@@ -1,0 +1,43 @@
+{
+  "number": "H8037",
+  "language": "hebrew",
+  "transliteration": "Shammâʼ",
+  "pronunciation": "sham-maw'",
+  "definition": "Shamma, an Israelite",
+  "kjvTranslation": "Shamma.",
+  "hebrew": "שַׁמָּא",
+  "translations": {
+    "bg": "Шама, израилтянин",
+    "cs": "Šamma, Izraelita",
+    "da": "Shamma, en israelit",
+    "de": "Schamma, ein Israelit",
+    "el": "Shamma, ένας Ισραηλίτης",
+    "es": "Shamma, israelita",
+    "et": "Shamma, iisraellane",
+    "fi": "Shamma, israelilainen",
+    "fr": "Shamma, Israélite",
+    "hu": "Shamma, egy izraelita",
+    "id": "Shamma, seorang Israel",
+    "it": "Shamma, un israelita",
+    "ja": "イスラエル人シャンマ",
+    "ko": "이스라엘인 샴마",
+    "lt": "Šamma, izraelitas",
+    "lv": "Šamma, izraēlietis",
+    "nb": "Shamma, en israelitt",
+    "nl": "Shamma, een Israëliet",
+    "pl": "Szamma, Izraelita",
+    "pt": "Shamma, um israelita",
+    "ro": "Shamma, un israelit",
+    "ru": "Шамма, израильтянин",
+    "sk": "Šamma, Izraelita",
+    "sl": "Šamma, Izraelec",
+    "sv": "Shamma, en israelit",
+    "tr": "Shamma, bir İsrailli",
+    "uk": "Шамма, ізраїльтянка",
+    "zh": "以色列人沙马"
+  },
+  "verses": [
+    "secondSamuel 23:11:1",
+    "firstChronicles 7:37:2"
+  ]
+}

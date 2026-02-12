@@ -1,0 +1,42 @@
+{
+  "number": "H7500",
+  "language": "hebrew",
+  "transliteration": "riphʼûwth",
+  "pronunciation": "rif-ooth'",
+  "definition": "a cure",
+  "kjvTranslation": "health.",
+  "hebrew": "רִפְאוּת",
+  "translations": {
+    "bg": "лек",
+    "cs": "lék",
+    "da": "en kur",
+    "de": "ein Heilmittel",
+    "el": "μια θεραπεία",
+    "es": "una cura",
+    "et": "ravi",
+    "fi": "parannuskeino",
+    "fr": "une cure",
+    "hu": "gyógymód",
+    "id": "obat",
+    "it": "una cura",
+    "ja": "治療法",
+    "ko": "치료",
+    "lt": "vaistas",
+    "lv": "izārstēt",
+    "nb": "en kur",
+    "nl": "genezing",
+    "pl": "lekarstwo",
+    "pt": "uma cura",
+    "ro": "o cură",
+    "ru": "лекарство",
+    "sk": "liek",
+    "sl": "zdravilo",
+    "sv": "ett botemedel",
+    "tr": "bir tedavi",
+    "uk": "ліки",
+    "zh": "治疗"
+  },
+  "verses": [
+    "proverbs 3:8:0"
+  ]
+}

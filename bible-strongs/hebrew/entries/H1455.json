@@ -1,0 +1,42 @@
+{
+  "number": "H1455",
+  "language": "hebrew",
+  "transliteration": "gâhâh",
+  "pronunciation": "gaw-haw'",
+  "definition": "to remove (a bandage from a wound, i.e. heal it)",
+  "kjvTranslation": "cure.",
+  "translations": {
+    "bg": "да се премахне (превръзка от рана, т.е. да се излекува)",
+    "cs": "odstranit (obvaz z rány, tj. zahojit ji)",
+    "da": "at fjerne (en bandage fra et sår, dvs. helbrede det)",
+    "de": "(einen Verband von einer Wunde zu entfernen, d. h. sie zu heilen)",
+    "el": "να αφαιρέσετε (έναν επίδεσμο από μια πληγή, δηλαδή να την επουλώσετε)",
+    "es": "quitar (una venda de una herida, es decir, curarla)",
+    "et": "eemaldada (side haavast, st tervendada seda)",
+    "fi": "poistaa (sidos haavasta, eli parantaa sen)",
+    "fr": "retirer (un pansement d'une plaie, c'est-à-dire la guérir)",
+    "hu": "eltávolítani (a kötést egy sebből, azaz begyógyítani)",
+    "id": "untuk melepaskan (perban dari luka, yaitu menyembuhkannya)",
+    "it": "rimuovere (una benda da una ferita, cioè guarirla)",
+    "ja": "包帯を取る",
+    "ko": "제거하다(상처에서 붕대 제거, 즉 치료하다)",
+    "lt": "nuimti (tvarstį nuo žaizdos, t. y. ją užgydyti)",
+    "lv": "noņemt (pārsēju no brūces, t.i., izārstēt to)",
+    "nb": "å fjerne (en bandasje fra et sår, dvs. lege det)",
+    "nl": "(een verband van een wond verwijderen, d.w.z. genezen)",
+    "pl": "usunąć (bandaż z rany, tj. wyleczyć ją)",
+    "pt": "retirar (uma ligadura de uma ferida, ou seja, curá-la)",
+    "ro": "a îndepărta (un bandaj de pe o rană, adică a o vindeca)",
+    "ru": "снимать (повязку с раны, т.е. заживлять ее)",
+    "sk": "odstrániť (obväz z rany, t. j. zahojiť ju)",
+    "sl": "odstraniti (povoj z rane, tj. zaceliti rano)",
+    "sv": "att ta bort (ett bandage från ett sår, dvs. läka det)",
+    "tr": "(bir yaradan bir bandajı çıkarmak, yani yarayı iyileştirmek)",
+    "uk": "зняти (пов'язку з рани, тобто загоїти її)",
+    "zh": "拆线"
+  },
+  "hebrew": "גָּהָה",
+  "verses": [
+    "hosea 5:13:21"
+  ]
+}

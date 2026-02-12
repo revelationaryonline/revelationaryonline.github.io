@@ -1,0 +1,43 @@
+{
+  "number": "H4144",
+  "language": "hebrew",
+  "transliteration": "môwçâd",
+  "pronunciation": "mo-sawd'",
+  "definition": "a foundation",
+  "kjvTranslation": "foundation.",
+  "hebrew": "מוֹסָד",
+  "translations": {
+    "bg": "основа",
+    "cs": "nadace",
+    "da": "et fundament",
+    "de": "eine Stiftung",
+    "el": "ένα ίδρυμα",
+    "es": "una fundación",
+    "et": "sihtasutus",
+    "fi": "perusta",
+    "fr": "une fondation",
+    "hu": "egy alapítvány",
+    "id": "sebuah yayasan",
+    "it": "una fondazione",
+    "ja": "財団",
+    "ko": "기초",
+    "lt": "pamatas",
+    "lv": "pamats",
+    "nb": "en stiftelse",
+    "nl": "een stichting",
+    "pl": "fundacja",
+    "pt": "uma fundação",
+    "ro": "o fundație",
+    "ru": "фундамент",
+    "sk": "základ",
+    "sl": "temelj",
+    "sv": "en stiftelse",
+    "tr": "bir vakıf",
+    "uk": "фундамент",
+    "zh": "奠基石"
+  },
+  "verses": [
+    "psalms 82:5:8",
+    "proverbs 8:29:8"
+  ]
+}

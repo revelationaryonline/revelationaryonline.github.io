@@ -1,0 +1,42 @@
+{
+  "number": "H111",
+  "language": "hebrew",
+  "transliteration": "ʼĂdad",
+  "pronunciation": "ad-ad'",
+  "definition": "Adad (or Hadad), an Edomite",
+  "kjvTranslation": "Hadad.",
+  "translations": {
+    "bg": "Адад (или Хадад), едомски гражданин",
+    "cs": "Adad (nebo Hadad), Edomita",
+    "da": "Adad (eller Hadad), en edomit",
+    "de": "Adad (oder Hadad), ein Edomiter",
+    "el": "Adad (ή Hadad), ένας Εδομίτης",
+    "es": "Adad (o Hadad), edomita",
+    "et": "Adad (või Hadad), edomitlane",
+    "fi": "Adad (tai Hadad), edomilainen",
+    "fr": "Adad (ou Hadad), un Edomite",
+    "hu": "Adad (vagy Hadad), egy edomita",
+    "id": "Adad (atau Hadad), seorang Edom",
+    "it": "Adad (o Hadad), un edomita",
+    "ja": "アダド（またはハダド）、エドム人",
+    "ko": "아다드(또는 하다드), 에돔인",
+    "lt": "Adadas (arba Hadadas), edomitas",
+    "lv": "Adads (vai Hadads), edomietis",
+    "nb": "Adad (eller Hadad), en edomitt",
+    "nl": "Adad (of Hadad), een Edomiet",
+    "pl": "Adad (lub Hadad), Edomita",
+    "pt": "Adad (ou Hadad), um edomita",
+    "ro": "Adad (sau Hadad), un edomit",
+    "ru": "Адад (или Хадад), эдомит",
+    "sk": "Adad (alebo Hadad), Edomita",
+    "sl": "Adad (ali Hadad), Edomec",
+    "sv": "Adad (eller Hadad), en edomit",
+    "tr": "Adad (ya da Hadad), bir Edomlu",
+    "uk": "Адад (або Хадад), едоміт",
+    "zh": "阿达德（或哈达德），以东人"
+  },
+  "hebrew": "אֲדַד",
+  "verses": [
+    "firstKings 11:17:1"
+  ]
+}

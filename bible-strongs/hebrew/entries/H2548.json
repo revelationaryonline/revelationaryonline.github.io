@@ -1,0 +1,42 @@
+{
+  "number": "H2548",
+  "language": "hebrew",
+  "transliteration": "châmîyts",
+  "pronunciation": "khaw-meets'",
+  "definition": "seasoned, i.e. salt provender",
+  "kjvTranslation": "clean.",
+  "translations": {
+    "bg": "подправена, т.е. солена храна",
+    "cs": "ochucené, tj. solené proviantní maso",
+    "da": "krydret, dvs. saltet foder",
+    "de": "gewürzt, d.h. Salzproviant",
+    "el": "καρυκευμένο, δηλαδή αλατισμένο προζύμι",
+    "es": "sazonada, es decir, salada",
+    "et": "maitsestatud, s.t. soolaga toiduaine",
+    "fi": "maustettu, eli suolalla maustettu elintarvike",
+    "fr": "assaisonné, c'est-à-dire de la provende salée",
+    "hu": "fűszerezett, azaz sózott élelmiszer",
+    "id": "dibumbui, yaitu pemberi garam",
+    "it": "stagionata, cioè provvista di sale",
+    "ja": "加塩",
+    "ko": "양념, 즉 소금 프로벤더",
+    "lt": "pagardinta, t. y. sūria provanso mėsa",
+    "lv": "ar garšvielām, t. i., sālītu lopbarību",
+    "nb": "krydret, dvs. saltet proviant",
+    "nl": "gekruid, d.w.z. gezouten voer",
+    "pl": "przyprawiona, tj. słona pasza",
+    "pt": "temperado, ou seja, provisão de sal",
+    "ro": "condimentat, adică provender sărat",
+    "ru": "приправленный, т.е. соленый провиант",
+    "sk": "ochutený, t. j. slaný syr",
+    "sl": "začinjeno, tj. slano živilo",
+    "sv": "kryddad, dvs. salt proveniens",
+    "tr": "baharatlı, yani tuzlu provender",
+    "uk": "приправлений, тобто провізор солі",
+    "zh": "盐腌"
+  },
+  "hebrew": "חָמִיץ",
+  "verses": [
+    "isaiah 30:24:5"
+  ]
+}

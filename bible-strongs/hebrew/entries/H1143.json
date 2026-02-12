@@ -1,0 +1,43 @@
+{
+  "number": "H1143",
+  "language": "hebrew",
+  "transliteration": "bênayim",
+  "pronunciation": "bay-nah'-yim",
+  "definition": "a double interval, i.e. the space between two armies",
+  "kjvTranslation": "[phrase] champion.",
+  "translations": {
+    "bg": "двоен интервал, т.е. пространството между две армии",
+    "cs": "dvojitý interval, tj. prostor mezi dvěma armádami",
+    "da": "et dobbelt interval, dvs. afstanden mellem to hære",
+    "de": "ein doppelter Abstand, d. h. der Raum zwischen zwei Armeen",
+    "el": "ένα διπλό διάστημα, δηλαδή το διάστημα μεταξύ δύο στρατών",
+    "es": "un intervalo doble, es decir, el espacio entre dos ejércitos",
+    "et": "topeltintervall, st kahe armee vaheline ruum",
+    "fi": "kaksinkertainen väli, eli kahden armeijan välinen tila",
+    "fr": "un double intervalle, c'est-à-dire l'espace entre deux armées",
+    "hu": "kettős intervallum, azaz a két hadsereg közötti távolság",
+    "id": "interval ganda, yaitu ruang antara dua pasukan",
+    "it": "un doppio intervallo, cioè lo spazio tra due eserciti",
+    "ja": "にじゅうかん",
+    "ko": "이중 간격, 즉 두 군대 사이의 공간",
+    "lt": "dvigubas intervalas, t. y. tarpas tarp dviejų armijų",
+    "lv": "divkāršs intervāls, t. i., attālums starp divām armijām",
+    "nb": "et dobbeltintervall, dvs. avstanden mellom to hærer",
+    "nl": "een dubbel interval, d.w.z. de ruimte tussen twee legers",
+    "pl": "podwójny odstęp, tj. przestrzeń między dwiema armiami",
+    "pt": "um intervalo duplo, ou seja, o espaço entre dois exércitos",
+    "ro": "un interval dublu, adică spațiul dintre două armate",
+    "ru": "двойной интервал, т.е. пространство между двумя армиями",
+    "sk": "dvojitý interval, t. j. priestor medzi dvoma armádami",
+    "sl": "dvojni interval, tj. prostor med dvema vojskama",
+    "sv": "ett dubbelt intervall, dvs. utrymmet mellan två arméer",
+    "tr": "bir çift aralık, yani iki ordu arasındaki boşluk",
+    "uk": "подвійний інтервал, тобто простір між двома арміями",
+    "zh": "两军间隔"
+  },
+  "hebrew": "בֵּנַיִם",
+  "verses": [
+    "firstSamuel 17:4:2",
+    "firstSamuel 17:23:5"
+  ]
+}

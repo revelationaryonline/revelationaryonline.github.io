@@ -1,0 +1,42 @@
+{
+  "number": "H4706",
+  "language": "hebrew",
+  "transliteration": "Mitsʻâr",
+  "pronunciation": "mits-awr'",
+  "definition": "Mitsar, a peak of Lebanon",
+  "kjvTranslation": "Mizar.",
+  "hebrew": "מִצְעָר",
+  "translations": {
+    "bg": "Мицар, връх в Ливан",
+    "cs": "Mitsar, vrchol Libanonu",
+    "da": "Mitsar, en bjergtop i Libanon",
+    "de": "Mitsar, ein Gipfel des Libanon",
+    "el": "Mitsar, μια κορυφή του Λιβάνου",
+    "es": "Mitsar, un pico del Líbano",
+    "et": "Mitsar, Liibanoni tipp",
+    "fi": "Mitsar, Libanonin huippu",
+    "fr": "Mitsar, un sommet du Liban",
+    "hu": "Mitsar, Libanon egyik csúcsa",
+    "id": "Mitsar, sebuah puncak di Lebanon",
+    "it": "Mitsar, una cima del Libano",
+    "ja": "レバノンのピーク、ミツァル",
+    "ko": "레바논의 봉우리, 미차르",
+    "lt": "Mitsaras, Libano viršūnė",
+    "lv": "Mitsar, Libānas virsotne",
+    "nb": "Mitsar, en topp i Libanon",
+    "nl": "Mitsar, een piek in Libanon",
+    "pl": "Mitsar, szczyt w Libanie",
+    "pt": "Mitsar, um pico do Líbano",
+    "ro": "Mitsar, un vârf al Libanului",
+    "ru": "Мицар, вершина Ливана",
+    "sk": "Mitsar, vrchol Libanonu",
+    "sl": "Mitsar, vrh Libanona",
+    "sv": "Mitsar, en topp i Libanon",
+    "tr": "Mitsar, Lübnan'ın bir zirvesi",
+    "uk": "Міцар, вершина Лівану",
+    "zh": "米萨尔峰"
+  },
+  "verses": [
+    "psalms 42:7:11"
+  ]
+}

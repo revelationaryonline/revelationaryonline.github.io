@@ -1,0 +1,42 @@
+{
+  "number": "H5097",
+  "language": "hebrew",
+  "transliteration": "nahălôl",
+  "pronunciation": "nah-hal-ole'",
+  "definition": "pasture",
+  "kjvTranslation": "bush.",
+  "hebrew": "נַהֲלֹל",
+  "translations": {
+    "bg": "пасище",
+    "cs": "pastviny",
+    "da": "græsgange",
+    "de": "weide",
+    "el": "βοσκότοπος",
+    "es": "pastos",
+    "et": "karjamaa",
+    "fi": "laidun",
+    "fr": "pâturage",
+    "hu": "legelő",
+    "id": "padang rumput",
+    "it": "pascolo",
+    "ja": "牧草地",
+    "ko": "목초지",
+    "lt": "ganykla",
+    "lv": "ganības",
+    "nb": "beitemark",
+    "nl": "weide",
+    "pl": "pastwisko",
+    "pt": "pastagem",
+    "ro": "pășune",
+    "ru": "пастбище",
+    "sk": "pastviny",
+    "sl": "pašnik",
+    "sv": "betesmark",
+    "tr": "mera",
+    "uk": "пасовище",
+    "zh": "草场"
+  },
+  "verses": [
+    "isaiah 7:19:10"
+  ]
+}

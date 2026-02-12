@@ -1,0 +1,42 @@
+{
+  "number": "H2271",
+  "language": "hebrew",
+  "transliteration": "chabbâr",
+  "pronunciation": "khab-bawr'",
+  "definition": "a partner",
+  "kjvTranslation": "companion.",
+  "translations": {
+    "bg": "партньор",
+    "cs": "partner",
+    "da": "en partner",
+    "de": "ein Partner",
+    "el": "ένας εταίρος",
+    "es": "un socio",
+    "et": "partner",
+    "fi": "kumppani",
+    "fr": "un partenaire",
+    "hu": "partner",
+    "id": "mitra",
+    "it": "un partner",
+    "ja": "パートナー",
+    "ko": "파트너",
+    "lt": "partneris",
+    "lv": "partneris",
+    "nb": "en partner",
+    "nl": "een partner",
+    "pl": "partner",
+    "pt": "um parceiro",
+    "ro": "un partener",
+    "ru": "партнёр",
+    "sk": "partner",
+    "sl": "partner",
+    "sv": "en partner",
+    "tr": "bir ortak",
+    "uk": "партнером",
+    "zh": "伙伴"
+  },
+  "hebrew": "חַבָּר",
+  "verses": [
+    "job 40:30:2"
+  ]
+}

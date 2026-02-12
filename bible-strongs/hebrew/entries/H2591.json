@@ -1,0 +1,43 @@
+{
+  "number": "H2591",
+  "language": "hebrew",
+  "transliteration": "chinṭâʼ",
+  "pronunciation": "khint-taw'",
+  "definition": "wheat",
+  "kjvTranslation": "wheat.",
+  "translations": {
+    "bg": "пшеница",
+    "cs": "pšenice",
+    "da": "hvede",
+    "de": "weizen",
+    "el": "σιτάρι",
+    "es": "trigo",
+    "et": "nisu",
+    "fi": "vehnä",
+    "fr": "blé",
+    "hu": "búza",
+    "id": "gandum",
+    "it": "grano",
+    "ja": "小麦",
+    "ko": "밀",
+    "lt": "kviečiai",
+    "lv": "kvieši",
+    "nb": "hvete",
+    "nl": "tarwe",
+    "pl": "pszenica",
+    "pt": "trigo",
+    "ro": "grâu",
+    "ru": "пшеница",
+    "sk": "pšenica",
+    "sl": "pšenica",
+    "sv": "vete",
+    "tr": "buğday",
+    "uk": "пшениця",
+    "zh": "小麦色"
+  },
+  "hebrew": "חִנְטָא",
+  "verses": [
+    "ezra 6:9:9",
+    "ezra 7:22:5"
+  ]
+}

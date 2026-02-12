@@ -1,0 +1,42 @@
+{
+  "number": "H2665",
+  "language": "hebrew",
+  "transliteration": "chêphes",
+  "pronunciation": "khay'-fes",
+  "definition": "something covert, i.e. a trick",
+  "kjvTranslation": "search.",
+  "translations": {
+    "bg": "нещо тайно, т.е. трик",
+    "cs": "něco skrytého, tj. trik",
+    "da": "noget hemmeligt, f.eks. et trick",
+    "de": "etwas Verdecktes, d.h. ein Trick",
+    "el": "κάτι κρυφό, δηλαδή ένα τέχνασμα",
+    "es": "algo encubierto, es decir, un truco",
+    "et": "midagi varjatud, s.t. trikk",
+    "fi": "jotakin salattua, eli temppuilu",
+    "fr": "quelque chose de secret, c'est-à-dire une ruse",
+    "hu": "valami rejtett, azaz trükkös dolog",
+    "id": "sesuatu yang terselubung, yaitu tipuan",
+    "it": "qualcosa di nascosto, cioè un trucco",
+    "ja": "トリック",
+    "ko": "은밀한 것, 즉 속임수",
+    "lt": "kažkas slapto, t. y. apgaulė",
+    "lv": "kaut kas slēpts, t.i., triks",
+    "nb": "noe skjult, dvs. et triks",
+    "nl": "iets heimelijks, d.w.z. een truc",
+    "pl": "coś ukrytego, np. podstęp",
+    "pt": "algo dissimulado, ou seja, um truque",
+    "ro": "ceva ascuns, adică un truc",
+    "ru": "нечто тайное, т.е. хитрость",
+    "sk": "niečo skryté, t. j. trik",
+    "sl": "nekaj prikritega, tj. zvijača",
+    "sv": "något dolt, t.ex. ett trick",
+    "tr": "gizli bir şey, yani bir hile",
+    "uk": "щось приховане, тобто трюк",
+    "zh": "障眼法"
+  },
+  "hebrew": "חֵפֶשׂ",
+  "verses": [
+    "psalms 64:7:3"
+  ]
+}

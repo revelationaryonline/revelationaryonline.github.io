@@ -1,0 +1,42 @@
+{
+  "number": "H7220",
+  "language": "hebrew",
+  "transliteration": "Rôʼsh",
+  "pronunciation": "roshe",
+  "definition": "Rosh, the name of an Israelite and of a foreign nation",
+  "kjvTranslation": "Rosh.",
+  "hebrew": "רֹאשׁ",
+  "translations": {
+    "bg": "Рош - име на израилтянин и на чужд народ",
+    "cs": "Roš, jméno Izraelce a cizího národa",
+    "da": "Rosh, navnet på en israelit og på en fremmed nation",
+    "de": "Rosh, der Name eines Israeliten und einer fremden Nation",
+    "el": "Rosh, το όνομα ενός Ισραηλίτη και ενός ξένου έθνους",
+    "es": "Rosh, nombre de un israelita y de una nación extranjera",
+    "et": "Rosh, iisraellase ja võõra rahva nimi",
+    "fi": "Rosh, israelilaisen ja vieraan kansan nimi",
+    "fr": "Rosh, nom d'un Israélite et d'une nation étrangère",
+    "hu": "Rosh, egy izraelita és egy idegen nép neve",
+    "id": "Rosh, nama orang Israel dan bangsa asing",
+    "it": "Rosh, nome di un israelita e di una nazione straniera",
+    "ja": "ロッシュ、イスラエル人と異民族の名前",
+    "ko": "로쉬, 이스라엘인이자 외국인의 이름",
+    "lt": "Roš - izraelito ir svetimos tautos vardas",
+    "lv": "Rosh, izraēliešu un sveštautas vārds",
+    "nb": "Rosh, navnet på en israelitt og på en fremmed nasjon",
+    "nl": "Rosh, de naam van een Israëliet en van een vreemde natie",
+    "pl": "Rosh, imię Izraelity i obcego narodu",
+    "pt": "Rosh, nome de um israelita e de uma nação estrangeira",
+    "ro": "Rosh, numele unui israelit și al unei națiuni străine",
+    "ru": "Рош - имя израильтянина и иноземного народа",
+    "sk": "Roš, meno Izraelitu a cudzieho národa",
+    "sl": "Roš, ime Izraelca in tujega naroda",
+    "sv": "Rosh, namnet på en israelit och på en utländsk nation",
+    "tr": "Roş, bir İsraillinin ve yabancı bir ulusun adı",
+    "uk": "Рош - ім'я ізраїльтянина та іноземного народу",
+    "zh": "罗什，以色列人和外国的名字"
+  },
+  "verses": [
+    "genesis 46:21:8"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1236",
+  "language": "hebrew",
+  "transliteration": "biqʻâʼ",
+  "pronunciation": "bik-aw'",
+  "definition": "{properly, a split, i.e. a wide level valley between mountains}",
+  "kjvTranslation": "plain.",
+  "translations": {
+    "bg": "{правилно, разклон, т.е. широка равна долина между планини}",
+    "cs": "{správně rozsedlina, tj. široké rovinaté údolí mezi horami}",
+    "da": "{rigtigt, en splittelse, dvs. en bred, flad dal mellem bjerge}",
+    "de": "{richtig: eine Kluft, d.h. ein breites ebenes Tal zwischen Bergen}",
+    "el": "{ορθώς, μια σχισμή, δηλαδή μια ευρεία επίπεδη κοιλάδα ανάμεσα σε βουνά}",
+    "es": "{propiamente, una división, es decir, un amplio valle llano entre montañas}",
+    "et": "{täpsemalt öeldes lõhe, st lai tasane org mägede vahel}",
+    "fi": "{täsmällisesti: halkio, eli laaja tasainen laakso vuorten välissä}",
+    "fr": "{correspondamment, une fente, c'est-à-dire une vallée large et plate entre des montagnes}",
+    "hu": "{helyesen: hasadék, azaz egy hegyek közötti széles, sík völgy}",
+    "id": "{secara harfiah, sebuah celah, yaitu lembah yang lebar di antara gunung-gunung}",
+    "it": "{propriamente, una spaccatura, cioè un'ampia valle pianeggiante tra le montagne}",
+    "ja": "{正しくは分かれ目、つまり山と山の間の広い平らな谷}。",
+    "ko": "{올바르게는 산 사이의 넓은 평평한 골짜기, 즉 분할}",
+    "lt": "{tiksliai - tarpeklis, t. y. platus lygus slėnis tarp kalnų}",
+    "lv": "{pareizi - sadalījums, t.i., plaša līdzena ieleja starp kalniem}",
+    "nb": "{riktig, en splittelse, dvs. en bred, flat dal mellom fjell}",
+    "nl": "{juist, een splitsing, d.w.z. een brede vlakke vallei tussen bergen}",
+    "pl": "{właściwie rozłam, tj. szeroka równa dolina między górami}",
+    "pt": "{propriamente, uma divisão, ou seja, um vale largo e plano entre montanhas}",
+    "ro": "{propriu spus, o spărtură, adică o vale lată între munți}",
+    "ru": "{правильно - раскол, т.е. широкая ровная долина между горами}",
+    "sk": "{správne rozvodie, t. j. široké rovinaté údolie medzi horami}",
+    "sl": "{pravilno, razcep, tj. široka ravna dolina med gorami}",
+    "sv": "{riktigt, en delning, dvs. en bred plan dalgång mellan berg}",
+    "tr": "{doğrusu, bir yarık, yani dağlar arasında geniş düz bir vadi}",
+    "uk": "{правильно, розщелина, тобто широка рівна долина між горами}",
+    "zh": "{准确地说，是一个裂口，即山脉之间宽阔平坦的山谷}。"
+  },
+  "hebrew": "בִּקְעָא",
+  "verses": [
+    "daniel 3:1:13"
+  ]
+}

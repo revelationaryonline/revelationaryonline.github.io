@@ -1,0 +1,42 @@
+{
+  "number": "H4739",
+  "language": "hebrew",
+  "transliteration": "Mâqats",
+  "pronunciation": "maw-kats'",
+  "definition": "Makats, a place in Palestine",
+  "kjvTranslation": "Makaz.",
+  "hebrew": "מָקַץ",
+  "translations": {
+    "bg": "Makats, място в Палестина",
+    "cs": "Makats, místo v Palestině",
+    "da": "Makats, et sted i Palæstina",
+    "de": "Makats, ein Ort in Palästina",
+    "el": "Makats, τόπος στην Παλαιστίνη",
+    "es": "Makats, un lugar en Palestina",
+    "et": "Makats, koht Palestiinas",
+    "fi": "Makats, paikka Palestiinassa",
+    "fr": "Makats, localité de Palestine",
+    "hu": "Makats, egy hely Palesztinában",
+    "id": "Makats, sebuah tempat di Palestina",
+    "it": "Makats, località della Palestina",
+    "ja": "マカッツ、パレスチナの地名",
+    "ko": "팔레스타인의 마카츠, 팔레스타인의 한 장소",
+    "lt": "Makats, vietovė Palestinoje",
+    "lv": "Makats, vieta Palestīnā",
+    "nb": "Makats, et sted i Palestina",
+    "nl": "Makats, een plaats in Palestina",
+    "pl": "Makats, miejsce w Palestynie",
+    "pt": "Makats, um lugar na Palestina",
+    "ro": "Makats, un loc în Palestina",
+    "ru": "Макац, место в Палестине",
+    "sk": "Makats, miesto v Palestíne",
+    "sl": "Makats, kraj v Palestini",
+    "sv": "Makats, en plats i Palestina",
+    "tr": "Makats, Filistin'de bir yer",
+    "uk": "Макац, місце в Палестині",
+    "zh": "马卡茨"
+  },
+  "verses": [
+    "firstKings 4:9:2"
+  ]
+}

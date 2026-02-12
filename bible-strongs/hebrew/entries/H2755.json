@@ -1,0 +1,43 @@
+{
+  "number": "H2755",
+  "language": "hebrew",
+  "transliteration": "chărêy-yôwnîym",
+  "pronunciation": "khar-ay'-yo-neem'",
+  "definition": "excrements of doves {or a vegetable}",
+  "kjvTranslation": "doves' dung.",
+  "translations": {
+    "bg": "екскременти от гълъби {или зеленчук}",
+    "cs": "holubí exkrementy {nebo zelenina}",
+    "da": "ekskrementer fra duer {eller en grøntsag}",
+    "de": "exkremente von Tauben {oder ein Gemüse}",
+    "el": "περιττώματα περιστεριών {ή ένα λαχανικό}",
+    "es": "excrementos de palomas {o un vegetal}",
+    "et": "tuvide väljaheited {või köögivilja}",
+    "fi": "kyyhkysen ulosteet {tai vihannes}",
+    "fr": "excréments de colombes {ou d'un légume}",
+    "hu": "galambok ürüléke {vagy egy zöldség}",
+    "id": "kotoran burung merpati {atau sayuran}",
+    "it": "escrementi di colombe {o di un vegetale}",
+    "ja": "鳩の糞｛または野菜｝。",
+    "ko": "비둘기 {또는 채소}의 배설물",
+    "lt": "balandžių ekskrementai {arba daržovės}",
+    "lv": "baložu ekskrementi {vai dārzeņu}",
+    "nb": "ekskrementer av duer {eller en grønnsak}",
+    "nl": "uitwerpselen van duiven {of een groente}",
+    "pl": "odchody gołębi {lub warzyw}",
+    "pt": "excrementos de pombas {ou de um vegetal}",
+    "ro": "excremente de porumbei {sau o legumă}",
+    "ru": "экскременты голубей {или овощ}",
+    "sk": "výkaly holubov {alebo zeleniny}",
+    "sl": "golobji iztrebki {ali zelenjava}",
+    "sv": "exkrementer från duvor {eller en grönsak}",
+    "tr": "güvercin dışkısı {ya da bir sebze}",
+    "uk": "екскременти голубів {або овочі}",
+    "zh": "鸽粪（或一种蔬菜）"
+  },
+  "hebrew": "חֲרֵי־יוֹנִים",
+  "verses": [
+    "secondKings 6:25:15",
+    "secondKings 18:27:21"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7011",
+  "language": "hebrew",
+  "transliteration": "qayâm",
+  "pronunciation": "kah-yawm'",
+  "definition": "permanent (as rising firmly)",
+  "kjvTranslation": "stedfast, sure.",
+  "hebrew": "קַיָּם",
+  "translations": {
+    "bg": "постоянна (като твърдо нарастваща)",
+    "cs": "trvalý (jako pevně stoupající)",
+    "da": "permanent (som stående fast)",
+    "de": "dauerhaft (wie feststehend)",
+    "el": "μόνιμο (ως σταθερά ανερχόμενο)",
+    "es": "permanente (como levantarse firmemente)",
+    "et": "püsiv (nagu kindlalt tõusev)",
+    "fi": "pysyvä (kiinteästi nouseva)",
+    "fr": "permanent (comme s'élevant fermement)",
+    "hu": "állandó (szilárdan emelkedő)",
+    "id": "permanen (seperti naik dengan kuat)",
+    "it": "permanente (in quanto innalzato saldamente)",
+    "ja": "えいきゅうふめつ",
+    "ko": "영구(단단히 상승)",
+    "lt": "nuolatinis (kaip tvirtai kylantis)",
+    "lv": "pastāvīgs (kā stingri augošs)",
+    "nb": "permanent (som å reise seg fast)",
+    "nl": "permanent (als stevig opgaand)",
+    "pl": "trwały (jako mocno rosnący)",
+    "pt": "permanente (como se levantando firmemente)",
+    "ro": "permanent (as rising firmly)",
+    "ru": "постоянный (как поднимающийся вверх)",
+    "sk": "trvalý (ako pevne stúpajúci)",
+    "sl": "trajno (kot trdno naraščajoče)",
+    "sv": "permanent (som stående fast)",
+    "tr": "kalıcı (sıkıca yükselen olarak)",
+    "uk": "постійний (як такий, що постійно зростає)",
+    "zh": "永久"
+  },
+  "verses": [
+    "daniel 4:23:9",
+    "daniel 6:27:21"
+  ]
+}

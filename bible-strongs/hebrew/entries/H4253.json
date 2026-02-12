@@ -1,0 +1,43 @@
+{
+  "number": "H4253",
+  "language": "hebrew",
+  "transliteration": "machlâphâh",
+  "pronunciation": "makh-law-faw'",
+  "definition": "a ringlet of hair (as gliding over each other)",
+  "kjvTranslation": "lock.",
+  "hebrew": "מַחְלָפָה",
+  "translations": {
+    "bg": "пръстен от коса (при плъзгане един по друг)",
+    "cs": "pramínek vlasů (jak po sobě kloužou)",
+    "da": "en krans af hår (som glider over hinanden)",
+    "de": "eine Haarlocke (wie übereinander gleitend)",
+    "el": "ένα δαχτυλίδι από μαλλιά (όπως γλιστράει το ένα πάνω στο άλλο)",
+    "es": "un tirabuzón de pelo (como deslizándose uno sobre otro)",
+    "et": "juuksepahmakas (nagu libisevad üksteise kohal)",
+    "fi": "hiusrengas (kuin liukuvat toistensa yli)",
+    "fr": "un anneau de cheveux (comme s'ils glissaient l'un sur l'autre)",
+    "hu": "egy hajfürt (mintha egymáson siklanának)",
+    "id": "sehelai rambut (seperti meluncur di atas satu sama lain)",
+    "it": "una ciocca di capelli (come se scivolasse l'una sull'altra)",
+    "ja": "りんもうのけ",
+    "ko": "머리카락 고리(서로 미끄러지듯)",
+    "lt": "plaukų kuokštas (kaip slenkantis vienas per kitą)",
+    "lv": "matu plūksna (kā slīdot viens pār otru)",
+    "nb": "en hårkrans (som glir over hverandre)",
+    "nl": "een haarkrans (als over elkaar glijdend)",
+    "pl": "kosmyk włosów (przesuwający się po sobie)",
+    "pt": "um anel de cabelo (como se deslizasse um sobre o outro)",
+    "ro": "un smoc de păr (ca alunecând unul peste celălalt)",
+    "ru": "колечко волос (как бы скользя друг по другу)",
+    "sk": "prstenec vlasov (ako sa kĺžu po sebe)",
+    "sl": "šop las (kot drsenje drug čez drugega)",
+    "sv": "en hårslinga (som glider över varandra)",
+    "tr": "bir saç halkası (birbirinin üzerinden kayar gibi)",
+    "uk": "кільце з волосся (як би ковзає одне по одному)",
+    "zh": "发晕"
+  },
+  "verses": [
+    "judges 16:13:21",
+    "judges 16:19:8"
+  ]
+}

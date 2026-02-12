@@ -1,0 +1,43 @@
+{
+  "number": "H7913",
+  "language": "hebrew",
+  "transliteration": "shâkêach",
+  "pronunciation": "shaw-kay'-akh",
+  "definition": "oblivious",
+  "kjvTranslation": "forget.",
+  "hebrew": "שָׁכֵחַ",
+  "translations": {
+    "bg": "забравен",
+    "cs": "zapomnětlivý",
+    "da": "glemsom",
+    "de": "selbstvergessen",
+    "el": "oblivious",
+    "es": "inconsciente",
+    "et": "oblivious",
+    "fi": "unelias",
+    "fr": "inconscient",
+    "hu": "feledékeny",
+    "id": "tidak sadar",
+    "it": "ignaro",
+    "ja": "わすれがち",
+    "ko": "망각",
+    "lt": "užmirštas",
+    "lv": "aizmāršīgs",
+    "nb": "uvitende",
+    "nl": "vergeetachtig",
+    "pl": "nieświadomy",
+    "pt": "alheio",
+    "ro": "inconștient",
+    "ru": "забывчивый",
+    "sk": "zabudnutý",
+    "sl": "pozabljiv",
+    "sv": "glömsk",
+    "tr": "habersiz",
+    "uk": "забув",
+    "zh": "无视"
+  },
+  "verses": [
+    "psalms 9:18:5",
+    "isaiah 65:11:3"
+  ]
+}

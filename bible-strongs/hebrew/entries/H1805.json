@@ -1,0 +1,43 @@
+{
+  "number": "H1805",
+  "language": "hebrew",
+  "transliteration": "dᵉlîy",
+  "pronunciation": "del-ee'",
+  "definition": "a pail or jar (for drawing water)",
+  "kjvTranslation": "bucket.",
+  "translations": {
+    "bg": "кофа или буркан (за вадене на вода)",
+    "cs": "kbelík nebo nádobu (na nabírání vody)",
+    "da": "en spand eller krukke (til at hente vand i)",
+    "de": "einen Eimer oder Krug (zum Schöpfen von Wasser)",
+    "el": "έναν κουβά ή ένα βάζο (για την άντληση νερού)",
+    "es": "un cubo o una jarra (para sacar agua)",
+    "et": "ämber või purk (vee võtmiseks)",
+    "fi": "ämpäri tai purkki (vedenottoa varten)",
+    "fr": "un seau ou une jarre (pour puiser de l'eau)",
+    "hu": "egy vödör vagy edény (a vízfelvételhez)",
+    "id": "ember atau toples (untuk menimba air)",
+    "it": "un secchio o un barattolo (per attingere acqua)",
+    "ja": "みずおけ",
+    "ko": "통 또는 항아리(물 길어오기용)",
+    "lt": "kibirą arba stiklainį (vandeniui semti)",
+    "lv": "spainis vai burka (ūdens ņemšanai)",
+    "nb": "et spann eller en krukke (for å hente vann)",
+    "nl": "een emmer of kruik (om water uit te putten)",
+    "pl": "wiadro lub słoik (do czerpania wody)",
+    "pt": "um balde ou um jarro (para tirar água)",
+    "ro": "o găleată sau un borcan (pentru extragerea apei)",
+    "ru": "ведро или кувшин (для забора воды)",
+    "sk": "vedro alebo nádobu (na čerpanie vody)",
+    "sl": "vedro ali kozarec (za črpanje vode)",
+    "sv": "en hink eller burk (för att hämta vatten)",
+    "tr": "bir kova veya kavanoz (su çekmek için)",
+    "uk": "відро або банку (для набору води)",
+    "zh": "汲水桶"
+  },
+  "hebrew": "דְּלִי",
+  "verses": [
+    "numbers 24:7:2",
+    "isaiah 40:15:3"
+  ]
+}

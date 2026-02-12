@@ -1,0 +1,43 @@
+{
+  "number": "H6590",
+  "language": "hebrew",
+  "transliteration": "pᵉshar",
+  "pronunciation": "pesh-ar'",
+  "definition": "to interpret",
+  "kjvTranslation": "make (interpretations), interpreting.",
+  "hebrew": "פְּשַׁר",
+  "translations": {
+    "bg": "да тълкува",
+    "cs": "interpretovat",
+    "da": "at fortolke",
+    "de": "zu interpretieren",
+    "el": "να ερμηνεύσει",
+    "es": "interpretar",
+    "et": "tõlgendada",
+    "fi": "tulkita",
+    "fr": "interpréter",
+    "hu": "értelmezni",
+    "id": "untuk menafsirkan",
+    "it": "interpretare",
+    "ja": "解釈する",
+    "ko": "해석하려면",
+    "lt": "aiškinti",
+    "lv": "interpretēt",
+    "nb": "å tolke",
+    "nl": "interpreteren",
+    "pl": "interpretować",
+    "pt": "para interpretar",
+    "ro": "pentru a interpreta",
+    "ru": "интерпретировать",
+    "sk": "interpretovať",
+    "sl": "razlagati",
+    "sv": "att tolka",
+    "tr": "yorumlamak için",
+    "uk": "перекладати",
+    "zh": "以解释"
+  },
+  "verses": [
+    "daniel 5:12:7",
+    "daniel 5:16:8"
+  ]
+}

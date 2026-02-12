@@ -1,0 +1,43 @@
+{
+  "number": "H6374",
+  "language": "hebrew",
+  "transliteration": "pîyphîyâh",
+  "pronunciation": "pee-fee-yaw'",
+  "definition": "an edge or tooth",
+  "kjvTranslation": "tooth, [idiom] two-edged.",
+  "hebrew": "פִּיפִיָּה",
+  "translations": {
+    "bg": "ръб или зъб",
+    "cs": "hrana nebo zub",
+    "da": "en kant eller en tand",
+    "de": "eine Kante oder ein Zahn",
+    "el": "μια άκρη ή ένα δόντι",
+    "es": "un borde o diente",
+    "et": "serv või hammas",
+    "fi": "reuna tai hammas",
+    "fr": "une arête ou une dent",
+    "hu": "egy él vagy fog",
+    "id": "tepi atau gigi",
+    "it": "un bordo o un dente",
+    "ja": "は",
+    "ko": "가장자리 또는 치아",
+    "lt": "briauna arba dantis",
+    "lv": "mala vai zobs",
+    "nb": "en kant eller tann",
+    "nl": "een rand of tand",
+    "pl": "krawędź lub ząb",
+    "pt": "uma aresta ou dente",
+    "ro": "o margine sau un dinte",
+    "ru": "край или зуб",
+    "sk": "hrana alebo zub",
+    "sl": "rob ali zob",
+    "sv": "en kant eller tand",
+    "tr": "bir kenar veya diş",
+    "uk": "кромка або зуб",
+    "zh": "齿"
+  },
+  "verses": [
+    "psalms 149:6:4",
+    "isaiah 41:15:6"
+  ]
+}

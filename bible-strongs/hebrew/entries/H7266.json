@@ -1,0 +1,42 @@
+{
+  "number": "H7266",
+  "language": "hebrew",
+  "transliteration": "rᵉgaz",
+  "pronunciation": "reg-az'",
+  "definition": "violent anger",
+  "kjvTranslation": "rage.",
+  "hebrew": "רְגַז",
+  "translations": {
+    "bg": "силен гняв",
+    "cs": "prudký hněv",
+    "da": "voldsom vrede",
+    "de": "heftige Wut",
+    "el": "βίαιος θυμός",
+    "es": "ira violenta",
+    "et": "vägivaldne viha",
+    "fi": "väkivaltainen viha",
+    "fr": "colère violente",
+    "hu": "heves düh",
+    "id": "kemarahan yang hebat",
+    "it": "rabbia violenta",
+    "ja": "赫怒",
+    "ko": "폭력적인 분노",
+    "lt": "smurtinis pyktis",
+    "lv": "vardarbīgas dusmas",
+    "nb": "voldsomt sinne",
+    "nl": "gewelddadige woede",
+    "pl": "gwałtowny gniew",
+    "pt": "raiva violenta",
+    "ro": "furie violentă",
+    "ru": "сильный гнев",
+    "sk": "prudký hnev",
+    "sl": "silovita jeza",
+    "sv": "våldsam ilska",
+    "tr": "şiddetli öfke",
+    "uk": "жорстокий гнів",
+    "zh": "暴怒"
+  },
+  "verses": [
+    "daniel 3:13:2"
+  ]
+}

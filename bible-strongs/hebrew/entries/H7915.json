@@ -1,0 +1,42 @@
+{
+  "number": "H7915",
+  "language": "hebrew",
+  "transliteration": "sakkîyn",
+  "pronunciation": "sak-keen'",
+  "definition": "a knife (as pointed or edged)",
+  "kjvTranslation": "knife.",
+  "hebrew": "שַׂכִּין",
+  "translations": {
+    "bg": "нож (заострен или с острие)",
+    "cs": "nůž (špičatý nebo s ostřím)",
+    "da": "en kniv (som spids eller kantet)",
+    "de": "ein Messer (als spitz oder scharfkantig)",
+    "el": "ένα μαχαίρι (με αιχμή ή άκρη)",
+    "es": "un cuchillo (con punta o filo)",
+    "et": "nuga (terav või teravikuga)",
+    "fi": "veitsi (teräväkärkinen tai särmikäs)",
+    "fr": "un couteau (pointu ou tranchant)",
+    "hu": "kés (hegyes vagy éles)",
+    "id": "pisau (seperti runcing atau bermata)",
+    "it": "un coltello (a punta o a spigolo)",
+    "ja": "ぼうちょう",
+    "ko": "칼(뾰족하거나 날이 있는 것)",
+    "lt": "peilis (smailus arba su briaunomis)",
+    "lv": "nazis (ar asām vai asām malām)",
+    "nb": "en kniv (som spiss eller kantet)",
+    "nl": "een mes (als puntig of gekant)",
+    "pl": "nóż (zaostrzony lub z ostrzem)",
+    "pt": "uma faca (de ponta ou de gume)",
+    "ro": "un cuțit (ascuțit sau tăios)",
+    "ru": "нож (заостренный или острый)",
+    "sk": "nôž (ako špicatý alebo ostrý)",
+    "sl": "nož (s konico ali robom)",
+    "sv": "en kniv (som spetsig eller eggad)",
+    "tr": "bir bıçak (sivri uçlu veya kenarlı olarak)",
+    "uk": "ніж (гострий або загострений)",
+    "zh": "刀"
+  },
+  "verses": [
+    "proverbs 23:2:1"
+  ]
+}

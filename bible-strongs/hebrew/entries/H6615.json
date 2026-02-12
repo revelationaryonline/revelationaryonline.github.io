@@ -1,0 +1,42 @@
+{
+  "number": "H6615",
+  "language": "hebrew",
+  "transliteration": "pᵉthayûwth",
+  "pronunciation": "peth-ah-yooth'",
+  "definition": "silliness (i.e. seducibility)",
+  "kjvTranslation": "simple.",
+  "hebrew": "פְּתַיּוּת",
+  "translations": {
+    "bg": "глупост (т.е. съблазнителност)",
+    "cs": "hloupost (tj. svůdnost)",
+    "da": "fjollethed (dvs. forførbarhed)",
+    "de": "dummheit (d.h. Verführbarkeit)",
+    "el": "ανοησία (δηλ. αποπλανησιμότητα)",
+    "es": "estulticia (es decir, seducibilidad)",
+    "et": "rumalus (st. võrgutavus)",
+    "fi": "hölmöys (ts. vietteliäisyys)",
+    "fr": "la sottise (c'est-à-dire la séductibilité)",
+    "hu": "butaság (azaz csábíthatóság)",
+    "id": "kekonyolan (yaitu rayuan)",
+    "it": "stupidità (cioè seducibilità)",
+    "ja": "くだらなさ",
+    "ko": "어리석음(즉, 유혹성)",
+    "lt": "kvailumas (t. y. įtaigumas)",
+    "lv": "muļķīgums (t.i., vilcināšanās)",
+    "nb": "dumhet (dvs. forførbarhet)",
+    "nl": "dwaasheid (d.w.z. verleidelijkheid)",
+    "pl": "głupkowatość (tj. uwodzicielskość)",
+    "pt": "tolice (ou seja, seducibilidade)",
+    "ro": "prostie (i.e. seducibilitate)",
+    "ru": "глупость (т.е. соблазнительность)",
+    "sk": "hlúposť (t. j. zvodnosť)",
+    "sl": "neumnost (tj. zapeljivost)",
+    "sv": "dumhet (d.v.s. förledande)",
+    "tr": "aptallık (yani baştan çıkarılabilirlik)",
+    "uk": "дурість (тобто спокусливість)",
+    "zh": "傻气"
+  },
+  "verses": [
+    "proverbs 9:13:3"
+  ]
+}

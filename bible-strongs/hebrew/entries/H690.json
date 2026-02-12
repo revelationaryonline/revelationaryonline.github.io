@@ -1,0 +1,42 @@
+{
+  "number": "H690",
+  "language": "hebrew",
+  "transliteration": "ʼărâʼ",
+  "pronunciation": "ar-aw'",
+  "definition": "Ara, an Israelite",
+  "kjvTranslation": "Ara.",
+  "translations": {
+    "bg": "Ара, израилтянин",
+    "cs": "Ara, Izraelita",
+    "da": "Ara, en israelit",
+    "de": "Ara, ein Israelit",
+    "el": "Ara, ένας Ισραηλίτης",
+    "es": "Ara, israelita",
+    "et": "Ara, iisraellane",
+    "fi": "Ara, israelilainen",
+    "fr": "Ara, Israélite",
+    "hu": "Ara, egy izraelita",
+    "id": "Ara, seorang Israel",
+    "it": "Ara, un israelita",
+    "ja": "アラ、イスラエル人",
+    "ko": "이스라엘인 아라",
+    "lt": "Ara, izraelitas",
+    "lv": "Ara, izraēlietis",
+    "nb": "Ara, en israelitt",
+    "nl": "Ara, een Israëliet",
+    "pl": "Ara, Izraelita",
+    "pt": "Ara, um israelita",
+    "ro": "Ara, un israelit",
+    "ru": "Ара, израильтянин",
+    "sk": "Ara, Izraelita",
+    "sl": "Ara, Izraelec",
+    "sv": "Ara, en israelit",
+    "tr": "Ara, bir İsrailli",
+    "uk": "Ара, ізраїльтянин",
+    "zh": "以色列人阿拉"
+  },
+  "hebrew": "אֲרָא",
+  "verses": [
+    "firstChronicles 7:38:4"
+  ]
+}

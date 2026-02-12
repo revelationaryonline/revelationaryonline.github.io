@@ -1,0 +1,42 @@
+{
+  "number": "H3210",
+  "language": "hebrew",
+  "transliteration": "Yâlôwn",
+  "pronunciation": "yaw-lone'",
+  "definition": "Jalon, an Israelite",
+  "kjvTranslation": "Jalon.",
+  "translations": {
+    "bg": "Ялон, израилтянин",
+    "cs": "Jalon, Izraelita",
+    "da": "Jalon, en israelit",
+    "de": "Jalon, ein Israelit",
+    "el": "Jalon, ένας Ισραηλίτης",
+    "es": "Jalón, israelita",
+    "et": "Jalon, iisraellane",
+    "fi": "Jalon, israelilainen",
+    "fr": "Jalon, Israélite",
+    "hu": "Jalon, egy izraelita",
+    "id": "Jalon, seorang Israel",
+    "it": "Jalon, un israelita",
+    "ja": "イスラエル人ジャロン",
+    "ko": "이스라엘인, 얄론",
+    "lt": "Jalonas, izraelitas",
+    "lv": "Jalons, izraēlietis",
+    "nb": "Jalon, en israelitt",
+    "nl": "Jalon, een Israëliet",
+    "pl": "Jalon, Izraelita",
+    "pt": "Jalon, um israelita",
+    "ro": "Jalon, un israelit",
+    "ru": "Иалон, израильтянин",
+    "sk": "Jalon, Izraelita",
+    "sl": "Jalon, Izraelec",
+    "sv": "Jalon, en israelit",
+    "tr": "Jalon, bir İsrailli",
+    "uk": "Ялон, ізраїльтянин",
+    "zh": "以色列人雅隆"
+  },
+  "hebrew": "יָלוֹן",
+  "verses": [
+    "firstChronicles 4:17:5"
+  ]
+}

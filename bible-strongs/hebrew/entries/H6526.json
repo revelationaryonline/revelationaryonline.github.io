@@ -1,0 +1,42 @@
+{
+  "number": "H6526",
+  "language": "hebrew",
+  "transliteration": "pirchach",
+  "pronunciation": "pir-khakh'",
+  "definition": "progeny, i.e. a brood",
+  "kjvTranslation": "youth.",
+  "hebrew": "פִּרְחַח",
+  "translations": {
+    "bg": "потомство, т.е. рожба",
+    "cs": "potomstvo, tj. potomstvo",
+    "da": "afkom, dvs. en yngel",
+    "de": "nachkommenschaft, d.h. eine Brut",
+    "el": "απόγονος, δηλαδή γόνος",
+    "es": "progenie, es decir, una cría",
+    "et": "järeltulija, st. pesakond",
+    "fi": "jälkeläinen, eli siitoseläin",
+    "fr": "une progéniture, c'est-à-dire une couvée",
+    "hu": "utód, azaz egy utód",
+    "id": "keturunan, yaitu induk",
+    "it": "progenie, cioè una nidiata",
+    "ja": "子孫",
+    "ko": "자손, 즉 무리",
+    "lt": "palikuonys, t. y. palikuonys",
+    "lv": "pēcnācēji, t. i., pēcnācēji",
+    "nb": "avkom, dvs. en avkomskull",
+    "nl": "nageslacht, d.w.z. een broedsel",
+    "pl": "potomstwo, tj. potomstwo",
+    "pt": "descendência, ou seja, uma ninhada",
+    "ro": "progenitură, adică un pui",
+    "ru": "потомство, т.е. выводок",
+    "sk": "potomstvo, t. j. potomstvo",
+    "sl": "potomstvo, tj. potomstvo",
+    "sv": "avkomma, d.v.s. en avkomma",
+    "tr": "döl, yani bir yavru",
+    "uk": "потомство, тобто виводок",
+    "zh": "后代，即一窝孩子"
+  },
+  "verses": [
+    "job 30:12:2"
+  ]
+}

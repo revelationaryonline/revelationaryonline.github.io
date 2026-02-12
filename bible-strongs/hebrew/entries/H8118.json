@@ -1,0 +1,42 @@
+{
+  "number": "H8118",
+  "language": "hebrew",
+  "transliteration": "Shômrônîy",
+  "pronunciation": "sho-mer-o-nee'",
+  "definition": "a Shomeronite (collectively) or inhabitants of Shomeron",
+  "kjvTranslation": "Samaritans.",
+  "hebrew": "שֹׁמרֹנִי",
+  "translations": {
+    "bg": "шомеронец (колективно) или жители на Шомерон",
+    "cs": "a Shomeronite (souhrnně) nebo obyvatelé Shomeronu",
+    "da": "en shomeronit (kollektivt) eller indbyggere i Shomeron",
+    "de": "ein Shomeronit (kollektiv) oder Einwohner von Shomeron",
+    "el": "shomeronite (συλλογικά) ή κάτοικοι του Shomeron",
+    "es": "un shomeronita (colectivamente) o habitantes de Shomeron",
+    "et": "shomeronlased (kollektiivselt) või Shomeroni elanikud",
+    "fi": "shomeronilaiset (kollektiivisesti) tai shomeronilaiset asukkaat",
+    "fr": "un Shomeronite (collectivement) ou des habitants de Shomeron",
+    "hu": "shomeroniták (együttesen) vagy shomeroni lakosok",
+    "id": "seorang Shomeronite (secara kolektif) atau penduduk Shomeron",
+    "it": "uno shomeronita (collettivamente) o abitanti di Shomeron",
+    "ja": "ショメロン人（総称）またはショメロンの住民",
+    "ko": "쇼메론인(총칭) 또는 쇼메론의 거주자",
+    "lt": "šomeroniečiai (bendrai) arba Šomerono gyventojai",
+    "lv": "šomeronieši (kopā) vai Šomeronas iedzīvotāji",
+    "nb": "en shomeronitt (kollektivt) eller innbyggere i Shomeron",
+    "nl": "een Shomeroniet (collectief) of inwoners van Shomeron",
+    "pl": "shomeronite (łącznie) lub mieszkańcy Shomeron",
+    "pt": "um Shomeronita (coletivamente) ou habitantes de Shomeron",
+    "ro": "un Shomeronite (colectiv) sau locuitori din Shomeron",
+    "ru": "шомеронец (вместе) или жители Шомерона",
+    "sk": "šomerončania (spoločne) alebo obyvatelia Šomeronu",
+    "sl": "šomeronci (skupaj) ali prebivalci Šomerona",
+    "sv": "en Shomeronite (kollektivt) eller invånare i Shomeron",
+    "tr": "bir Shomeronlu (topluca) veya Shomeron sakinleri",
+    "uk": "шомеронці (колективно) або жителі Шомерона",
+    "zh": "一个 Shomeronite（集体）或 Shomeron 居民"
+  },
+  "verses": [
+    "secondKings 17:29:10"
+  ]
+}

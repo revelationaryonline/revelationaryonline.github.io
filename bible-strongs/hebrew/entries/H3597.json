@@ -1,0 +1,42 @@
+{
+  "number": "H3597",
+  "language": "hebrew",
+  "transliteration": "kêylaph",
+  "pronunciation": "kay-laf'",
+  "definition": "a club or sledge-hammer",
+  "kjvTranslation": "hammer.",
+  "translations": {
+    "bg": "бухалка или чук",
+    "cs": "palice nebo kladivo",
+    "da": "en kølle eller forhammer",
+    "de": "ein Knüppel oder Vorschlaghammer",
+    "el": "ρόπαλο ή σφυρί",
+    "es": "un garrote o mazo",
+    "et": "nui või haamer",
+    "fi": "maila tai moukari",
+    "fr": "une massue ou un marteau de forgeron",
+    "hu": "bunkósbot vagy kalapács",
+    "id": "tongkat atau palu luncur",
+    "it": "una mazza o un martello da slitta",
+    "ja": "こん棒",
+    "ko": "클럽 또는 쇠망치",
+    "lt": "lazda arba kūjis",
+    "lv": "nūja vai veseris",
+    "nb": "en klubbe eller sledehammer",
+    "nl": "een knuppel of moker",
+    "pl": "kij lub młot kowalski",
+    "pt": "uma clava ou marreta",
+    "ro": "o bâtă sau un baros",
+    "ru": "дубина или кувалда",
+    "sk": "palica alebo kladivo",
+    "sl": "palica ali kladivo",
+    "sv": "en klubba eller slägga",
+    "tr": "bir sopa veya balyoz",
+    "uk": "кийок або кувалду",
+    "zh": "锤"
+  },
+  "hebrew": "כֵּילַף",
+  "verses": [
+    "psalms 74:6:5"
+  ]
+}

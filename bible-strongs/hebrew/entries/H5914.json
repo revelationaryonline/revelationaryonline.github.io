@@ -1,0 +1,43 @@
+{
+  "number": "H5914",
+  "language": "hebrew",
+  "transliteration": "ʻekeç",
+  "pronunciation": "eh'-kes",
+  "definition": "a fetter; hence, an anklet",
+  "kjvTranslation": "stocks, tinkling ornament.",
+  "hebrew": "עֶכֶס",
+  "translations": {
+    "bg": "окови; оттук - гривна",
+    "cs": "pouto; tedy nákotník",
+    "da": "en lænke; derfor en fodlænke",
+    "de": "eine Fessel; daher ein Fußkettchen",
+    "el": "ένα δέσιμο- ως εκ τούτου, ένα βραχιόλι αστραγάλου",
+    "es": "un grillete; de ahí, una tobillera",
+    "et": "kinnitus; seega jalarihm",
+    "fi": "kahle; siis nilkkapanta",
+    "fr": "une entrave ; d'où un bracelet de cheville",
+    "hu": "bilincs; ezért bokaperec",
+    "id": "belenggu; karenanya, gelang kaki",
+    "it": "una pastoia; quindi, una cavigliera",
+    "ja": "アンクレット",
+    "ko": "족쇄; 따라서 발찌",
+    "lt": "apyrankė; taigi, kulkšnies apyrankė",
+    "lv": "aproce; tātad - potītes aproce",
+    "nb": "en lenke; derav en fotlenke",
+    "nl": "een riem; vandaar, een enkelband",
+    "pl": "okucie; stąd bransoletka na kostkę",
+    "pt": "um grilhão; portanto, uma tornozeleira",
+    "ro": "o cătușă; prin urmare, o brățară de gleznă",
+    "ru": "путы; отсюда браслет",
+    "sk": "okov; teda náramok",
+    "sl": "okov; zato gležnjar",
+    "sv": "en boja; därav en fotboja",
+    "tr": "bir pranga; dolayısıyla bir halhal",
+    "uk": "кайдани; звідси - браслет",
+    "zh": "脚镣；因此，脚链"
+  },
+  "verses": [
+    "proverbs 7:22:7",
+    "isaiah 3:18:6"
+  ]
+}

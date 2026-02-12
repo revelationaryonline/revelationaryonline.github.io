@@ -1,0 +1,43 @@
+{
+  "number": "H8373",
+  "language": "hebrew",
+  "transliteration": "tâʼab",
+  "pronunciation": "taw-ab'",
+  "definition": "to desire",
+  "kjvTranslation": "long.",
+  "hebrew": "תָּאַב",
+  "translations": {
+    "bg": "да желае",
+    "cs": "toužit",
+    "da": "at ønske",
+    "de": "zu wünschen",
+    "el": "να επιθυμώ",
+    "es": "desear",
+    "et": "soovida",
+    "fi": "haluta",
+    "fr": "désirer",
+    "hu": "vágyakozni",
+    "id": "untuk keinginan",
+    "it": "desiderare",
+    "ja": "欲する",
+    "ko": "욕망에",
+    "lt": "norėti",
+    "lv": "vēlēties",
+    "nb": "å ønske",
+    "nl": "te verlangen",
+    "pl": "pragnąć",
+    "pt": "desejar",
+    "ro": "să dorească",
+    "ru": "желать",
+    "sk": "túžiť",
+    "sl": "želeti si",
+    "sv": "att önska",
+    "tr": "arzu etmek",
+    "uk": "бажати",
+    "zh": "希望"
+  },
+  "verses": [
+    "psalms 119:40:1",
+    "psalms 119:174:0"
+  ]
+}

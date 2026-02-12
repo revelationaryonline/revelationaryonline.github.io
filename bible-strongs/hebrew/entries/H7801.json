@@ -1,0 +1,42 @@
+{
+  "number": "H7801",
+  "language": "hebrew",
+  "transliteration": "Shûwshankîy",
+  "pronunciation": "shoo-shan-kee'",
+  "definition": "a Shushankite (collectively) or inhabitants of some unknown place in Assyrian",
+  "kjvTranslation": "Susanchites.",
+  "hebrew": "שׁוּשַׁנְכִי",
+  "translations": {
+    "bg": "шушанките (колективно) или жители на някакво неизвестно място в асирийската област",
+    "cs": "šušánkovci (souhrnně) nebo obyvatelé neznámého místa v Asýrii",
+    "da": "en shushankit (kollektivt) eller indbyggere fra et ukendt sted i Assyrien",
+    "de": "ein Shushankite (kollektiv) oder Bewohner eines unbekannten Ortes in Assyrien",
+    "el": "shushankite (συλλογικά) ή κάτοικοι κάποιου άγνωστου τόπου στην Ασσυρία",
+    "es": "un shushankita (colectivamente) o habitantes de algún lugar desconocido de Asiria",
+    "et": "šušankiit (kollektiivselt) või mõne tundmatu assüüria paiga elanikud",
+    "fi": "shushankite (kollektiivisesti) tai jonkin tuntemattoman paikan asukkaat Assyriassa",
+    "fr": "un Shushankite (collectivement) ou des habitants d'un lieu inconnu en Assyrien",
+    "hu": "egy sushankita (kollektíven) vagy egy ismeretlen asszíriai hely lakói",
+    "id": "orang Shushanki (secara kolektif) atau penduduk dari suatu tempat yang tidak diketahui di Asyur",
+    "it": "uno Shushankita (collettivamente) o abitanti di qualche luogo sconosciuto in Assiria",
+    "ja": "シュシャンク人（総称）、またはアッシリアの未知の場所の住民",
+    "ko": "슈산카이트 (총칭) 또는 아시리아의 알려지지 않은 장소의 주민들",
+    "lt": "šušankitų (bendrai) arba nežinomos asirų vietovės gyventojai",
+    "lv": "šušankieši (kopā) vai kādas nezināmas vietas iedzīvotāji asīriešu valodā",
+    "nb": "en shushankitt (kollektivt) eller innbyggere på et ukjent sted i assyrisk",
+    "nl": "een Shushankiet (collectief) of inwoners van een onbekende plaats in het Assyrisch",
+    "pl": "szuszankitów (łącznie) lub mieszkańców jakiegoś nieznanego miejsca w Asyrii",
+    "pt": "um shushankita (coletivamente) ou habitantes de um lugar desconhecido em assírio",
+    "ro": "un Shushankite (colectiv) sau locuitori ai unui loc necunoscut în Assyrian",
+    "ru": "шушанкиты (в совокупности) или жители какого-то неизвестного места в Ассирии",
+    "sk": "šušankovia (spoločne) alebo obyvatelia nejakého neznámeho miesta v asýrčine",
+    "sl": "šušankiti (skupaj) ali prebivalci nekega neznanega kraja v asirščini",
+    "sv": "en Shushankite (kollektivt) eller invånare på någon okänd plats i assyriska",
+    "tr": "bir Şuşanklı (topluca) veya Asurca'da bilinmeyen bir yerin sakinleri",
+    "uk": "шушанкіти (колективно) або жителі якогось невідомого місця на ассирійській мові",
+    "zh": "一个书香门第（集体）或亚述某个不知名地方的居民"
+  },
+  "verses": [
+    "ezra 4:9:15"
+  ]
+}

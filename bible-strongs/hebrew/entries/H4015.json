@@ -1,0 +1,43 @@
+{
+  "number": "H4015",
+  "language": "hebrew",
+  "transliteration": "mibrâch",
+  "pronunciation": "mib-rawkh'",
+  "definition": "a refugee",
+  "kjvTranslation": "fugitive.",
+  "hebrew": "מִבְרָח",
+  "translations": {
+    "bg": "бежанец",
+    "cs": "uprchlík",
+    "da": "en flygtning",
+    "de": "ein Flüchtling",
+    "el": "ένας πρόσφυγας",
+    "es": "un refugiado",
+    "et": "pagulane",
+    "fi": "pakolainen",
+    "fr": "un réfugié",
+    "hu": "egy menekült",
+    "id": "seorang pengungsi",
+    "it": "un rifugiato",
+    "ja": "難民",
+    "ko": "난민",
+    "lt": "pabėgėlis",
+    "lv": "bēglis",
+    "nb": "en flyktning",
+    "nl": "een vluchteling",
+    "pl": "uchodźca",
+    "pt": "um refugiado",
+    "ro": "un refugiat",
+    "ru": "беженец",
+    "sk": "utečenec",
+    "sl": "begunec",
+    "sv": "en flykting",
+    "tr": "bir mülteci",
+    "uk": "біженець",
+    "zh": "逃难者"
+  },
+  "verses": [
+    "ezekiel 17:21:2",
+    "ezekiel 17:21:3"
+  ]
+}

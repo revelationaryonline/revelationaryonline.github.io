@@ -1,0 +1,42 @@
+{
+  "number": "H1852",
+  "language": "hebrew",
+  "transliteration": "dôq",
+  "pronunciation": "doke",
+  "definition": "something crumbling, i.e. fine (as a thin cloth)",
+  "kjvTranslation": "curtain.",
+  "translations": {
+    "bg": "нещо, което се троши, т.е. е фино (като тънък плат)",
+    "cs": "něco drobivého, tj. jemného (jako tenká látka)",
+    "da": "noget, der smuldrer, dvs. er fint (som et tyndt klæde)",
+    "de": "etwas Krümeliges, d.h. Feines (wie ein dünner Stoff)",
+    "el": "κάτι που θρυμματίζεται, δηλαδή είναι λεπτό (όπως ένα λεπτό ύφασμα)",
+    "es": "algo que se desmorona, es decir, fino (como una tela fina)",
+    "et": "midagi murenevat, s.t. peenikest (nagu õhuke riie)",
+    "fi": "jotain murenevaa, eli hienoa (kuten ohut kangas)",
+    "fr": "quelque chose qui s'effrite, c'est-à-dire qui est fin (comme un tissu fin)",
+    "hu": "valami omlós, azaz finom (mint egy vékony szövet)",
+    "id": "sesuatu yang mudah hancur, yaitu halus (seperti kain tipis)",
+    "it": "qualcosa che si sbriciola, cioè fine (come un tessuto sottile)",
+    "ja": "ほろほろ",
+    "ko": "부서지는 것, 즉 미세한 것(얇은 천처럼)",
+    "lt": "kažkas trupa, t. y. yra plonas (kaip plonas audinys)",
+    "lv": "kaut kas drupināms, t.i., smalks (kā plāns audums)",
+    "nb": "noe som smuldrer opp, dvs. er fint (som et tynt tøystykke)",
+    "nl": "iets dat verkruimelt, d.w.z. fijn is (als een dunne stof)",
+    "pl": "coś się kruszy, tj. jest cienkie (jak cienka tkanina)",
+    "pt": "algo que se desfaz, ou seja, fino (como um tecido fino)",
+    "ro": "ceva sfărâmicios, adică fin (ca o pânză subțire)",
+    "ru": "что-то крошащееся, т.е. тонкое (как тонкая ткань)",
+    "sk": "niečo drobivé, t. j. jemné (ako tenká látka)",
+    "sl": "nekaj drobljivega, tj. finega (kot tanka tkanina)",
+    "sv": "något som smulas sönder, dvs. är fint (som en tunn duk)",
+    "tr": "ufalanan bir şey, yani ince (ince bir kumaş gibi)",
+    "uk": "щось, що кришиться, тобто тонке (як тонка тканина)",
+    "zh": "细碎的东西"
+  },
+  "hebrew": "דֹּק",
+  "verses": [
+    "isaiah 40:22:7"
+  ]
+}

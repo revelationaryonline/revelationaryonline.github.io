@@ -1,0 +1,43 @@
+{
+  "number": "H8004",
+  "language": "hebrew",
+  "transliteration": "Shâlêm",
+  "pronunciation": "shaw-lame'",
+  "definition": "Shalem, an early name of Jerusalem",
+  "kjvTranslation": "Salem.",
+  "hebrew": "שָׁלֵם",
+  "translations": {
+    "bg": "Шалем, ранно име на Йерусалим",
+    "cs": "Šalem, rané jméno Jeruzaléma",
+    "da": "Shalem, et tidligt navn på Jerusalem",
+    "de": "Shalem, ein früher Name von Jerusalem",
+    "el": "Shalem, ένα πρώιμο όνομα της Ιερουσαλήμ",
+    "es": "Shalem, antiguo nombre de Jerusalén",
+    "et": "Shalem, Jeruusalemma varane nimi",
+    "fi": "Shalem, Jerusalemin varhainen nimi",
+    "fr": "Shalem, un nom ancien de Jérusalem",
+    "hu": "Shalem, Jeruzsálem korai neve",
+    "id": "Shalem, nama awal Yerusalem",
+    "it": "Shalem, un antico nome di Gerusalemme",
+    "ja": "シャレム、エルサレムの初期の呼称",
+    "ko": "예루살렘의 초기 이름, 샬렘",
+    "lt": "Šalemas, ankstyvasis Jeruzalės pavadinimas",
+    "lv": "Šalem, agrīns Jeruzalemes nosaukums",
+    "nb": "Shalem, et tidlig navn på Jerusalem",
+    "nl": "Shalem, een vroege naam van Jeruzalem",
+    "pl": "Shalem, wczesna nazwa Jerozolimy",
+    "pt": "Shalem, um nome antigo de Jerusalém",
+    "ro": "Shalem, un nume vechi al Ierusalimului",
+    "ru": "Шалем, раннее название Иерусалима",
+    "sk": "Shalem, skorý názov Jeruzalema",
+    "sl": "Shalem, zgodnje ime Jeruzalema",
+    "sv": "Shalem, ett tidigt namn på Jerusalem",
+    "tr": "Şalem, Kudüs'ün eski bir adı",
+    "uk": "Шалем, давня назва Єрусалиму",
+    "zh": "沙勒姆"
+  },
+  "verses": [
+    "genesis 14:18:3",
+    "psalms 76:3:1"
+  ]
+}

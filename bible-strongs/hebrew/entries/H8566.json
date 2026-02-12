@@ -1,0 +1,43 @@
+{
+  "number": "H8566",
+  "language": "hebrew",
+  "transliteration": "tânâh",
+  "pronunciation": "taw-naw'",
+  "definition": "to present (a mercenary inducement), i.e. bargain with (a harlot)",
+  "kjvTranslation": "hire.",
+  "hebrew": "תָּנָה",
+  "translations": {
+    "bg": "да представи (меркантилна подбуда), т.е. да се пазари с (блудница)",
+    "cs": "předložit (námezdní pobídku), tj. smlouvat s (nevěstkou)",
+    "da": "at præsentere (en lejemorderisk tilskyndelse), dvs. forhandle med (en skøge)",
+    "de": "(einen gewinnbringenden Anreiz) zu bieten, d.h. mit (einer Hure) zu verhandeln",
+    "el": "να παρουσιάσετε (ένα μισθολογικό κίνητρο), δηλ. να διαπραγματευτείτε με (μια πόρνη)",
+    "es": "presentar (un incentivo mercenario), es decir, negociar con (una ramera)",
+    "et": "esitada (palgasõltuvust), s.t. kaubelda (hooraga)",
+    "fi": "esittää (palkkasoturimainen houkutuskeino), ts. tehdä kauppaa (huoran) kanssa",
+    "fr": "présenter (une incitation mercantile), c'est-à-dire négocier avec (une prostituée)",
+    "hu": "előadni (zsoldos ösztönzést), azaz alkudozni (egy szajhával)",
+    "id": "untuk menyajikan (bujukan tentara bayaran), yaitu tawar-menawar dengan (pelacur)",
+    "it": "presentare (un incentivo mercenario), cioè contrattare con (una prostituta)",
+    "ja": "を差し出す、つまり（娼婦と）交渉する。",
+    "ko": "선물(용병 유인), 즉 (창녀와) 흥정하는 것",
+    "lt": "pateikti (merkantilinį įkalbinėjimą), t. y. derėtis su (paleistuve)",
+    "lv": "uzrādīt (algotu pamudinājumu), t.i., kaulēties ar (netiklību)",
+    "nb": "å presentere (en leiesoldat), dvs. forhandle med (en skjøge)",
+    "nl": "om (een huurling) te presenteren, d.w.z. onderhandelen met (een hoer)",
+    "pl": "przedstawić (najemną zachętę), tj. targować się z (nierządnicą)",
+    "pt": "apresentar (um incentivo mercenário), ou seja, negociar com (uma prostituta)",
+    "ro": "să prezinte (un stimulent mercantil), adică să negocieze cu (o curvă)",
+    "ru": "преподносить (корыстное побуждение), т.е. торговаться с (блудницей)",
+    "sk": "predložiť (námezdnú ponuku), t. j. vyjednávať s (neviestkou)",
+    "sl": "predstaviti (kupčijsko spodbudo), tj. pogajati se s (prešuštnico)",
+    "sv": "att presentera (en legosoldats incitament), dvs. förhandla med (en sköka)",
+    "tr": "(paralı bir teşvik) sunmak, yani (bir fahişeyle) pazarlık etmek",
+    "uk": "давати (корисливу винагороду), тобто торгуватися з (блудницею)",
+    "zh": "提出（市侩的诱惑），即与（妓女）讨价还价"
+  },
+  "verses": [
+    "hosea 8:9:8",
+    "hosea 8:10:2"
+  ]
+}

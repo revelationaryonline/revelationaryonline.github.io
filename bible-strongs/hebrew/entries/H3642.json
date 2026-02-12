@@ -1,0 +1,42 @@
+{
+  "number": "H3642",
+  "language": "hebrew",
+  "transliteration": "kâmahh",
+  "pronunciation": "kaw-mah",
+  "definition": "to pine after",
+  "kjvTranslation": "long.",
+  "translations": {
+    "bg": "да се бориш след",
+    "cs": "po borovici",
+    "da": "at længes efter",
+    "de": "zu schmachten nach",
+    "el": "για να πεθάνω μετά",
+    "es": "para suspirar por",
+    "et": "männi pärast",
+    "fi": "murehtia",
+    "fr": "de se faire désirer",
+    "hu": "hogy utána fáradjon",
+    "id": "untuk pinus setelah",
+    "it": "per struggersi dopo",
+    "ja": "後を追う",
+    "ko": "다음에 소나무",
+    "lt": "pušis po",
+    "lv": "pēc tam, kad",
+    "nb": "å lengte etter",
+    "nl": "om naar te verlangen",
+    "pl": "do sosny po",
+    "pt": "para pinar",
+    "ro": "să tânjească după",
+    "ru": "тосковать после",
+    "sk": "na borovicu po",
+    "sl": "da bi se po njem zgledovali",
+    "sv": "att längta efter",
+    "tr": "sonra çam",
+    "uk": "щоб сумувати за ним",
+    "zh": "耿耿于怀"
+  },
+  "hebrew": "כָּמַהּ",
+  "verses": [
+    "psalms 63:2:7"
+  ]
+}

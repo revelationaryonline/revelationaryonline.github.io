@@ -1,0 +1,42 @@
+{
+  "number": "H336",
+  "language": "hebrew",
+  "transliteration": "ʼîy",
+  "pronunciation": "ee",
+  "definition": "not",
+  "kjvTranslation": "island (Job 22:30).",
+  "translations": {
+    "bg": "не",
+    "cs": "ne",
+    "da": "ikke",
+    "de": "nicht",
+    "el": "όχι",
+    "es": "no",
+    "et": "mitte",
+    "fi": "ei",
+    "fr": "pas",
+    "hu": "nem",
+    "id": "tidak",
+    "it": "non",
+    "ja": "ない",
+    "ko": "not",
+    "lt": "ne",
+    "lv": "ne",
+    "nb": "ikke",
+    "nl": "niet",
+    "pl": "nie",
+    "pt": "não",
+    "ro": "nu",
+    "ru": "не",
+    "sk": "nie",
+    "sl": "ne",
+    "sv": "inte",
+    "tr": "değil",
+    "uk": "не",
+    "zh": "不"
+  },
+  "hebrew": "אִי",
+  "verses": [
+    "job 22:30:1"
+  ]
+}

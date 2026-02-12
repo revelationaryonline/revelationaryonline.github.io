@@ -1,0 +1,43 @@
+{
+  "number": "H5403",
+  "language": "hebrew",
+  "transliteration": "nᵉshar",
+  "pronunciation": "nesh-ar'",
+  "definition": "an eagle",
+  "kjvTranslation": "eagle.",
+  "hebrew": "נְשַׁר",
+  "translations": {
+    "bg": "орел",
+    "cs": "orel",
+    "da": "en ørn",
+    "de": "ein Adler",
+    "el": "ένας αετός",
+    "es": "un águila",
+    "et": "kotkas",
+    "fi": "kotka",
+    "fr": "un aigle",
+    "hu": "egy sas",
+    "id": "seekor elang",
+    "it": "un'aquila",
+    "ja": "鷲",
+    "ko": "독수리",
+    "lt": "erelis",
+    "lv": "ērglis",
+    "nb": "en ørn",
+    "nl": "een adelaar",
+    "pl": "orzeł",
+    "pt": "uma águia",
+    "ro": "un vultur",
+    "ru": "орёл",
+    "sk": "orol",
+    "sl": "orel",
+    "sv": "en örn",
+    "tr": "bir kartal",
+    "uk": "орел",
+    "zh": "苍鹰"
+  },
+  "verses": [
+    "daniel 4:30:19",
+    "daniel 7:4:4"
+  ]
+}

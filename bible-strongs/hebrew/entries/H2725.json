@@ -1,0 +1,42 @@
+{
+  "number": "H2725",
+  "language": "hebrew",
+  "transliteration": "chărâbôwn",
+  "pronunciation": "khar-aw-bone'",
+  "definition": "parching heat",
+  "kjvTranslation": "drought.",
+  "translations": {
+    "bg": "изпепеляваща топлина",
+    "cs": "spalující žár",
+    "da": "brændende varme",
+    "de": "brütende Hitze",
+    "el": "καύσωνας",
+    "es": "calor abrasador",
+    "et": "kõrvetav kuumus",
+    "fi": "polttava kuumuus",
+    "fr": "chaleur torride",
+    "hu": "perzselő hőség",
+    "id": "panas yang mengering",
+    "it": "calore parching",
+    "ja": "枯燥熱",
+    "ko": "데우기 열",
+    "lt": "deginantis karštis",
+    "lv": "dedzinošs karstums",
+    "nb": "stekende varme",
+    "nl": "verzengende hitte",
+    "pl": "parujące ciepło",
+    "pt": "calor abrasador",
+    "ro": "căldură parșivă",
+    "ru": "палящий жар",
+    "sk": "spaľujúce teplo",
+    "sl": "pekoča vročina",
+    "sv": "förbrännande värme",
+    "tr": "kavurucu sıcaklık",
+    "uk": "палюча спека",
+    "zh": "灼热"
+  },
+  "hebrew": "חֲרָבוֹן",
+  "verses": [
+    "psalms 32:4:8"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H920",
+  "language": "hebrew",
+  "transliteration": "Bidqar",
+  "pronunciation": "bid-car'",
+  "definition": "Bidkar, an Israelite",
+  "kjvTranslation": "Bidkar.",
+  "translations": {
+    "bg": "Бидкар, израилтянин",
+    "cs": "Bidkar, Izraelita",
+    "da": "Bidkar, en israelit",
+    "de": "Bidkar, ein Israelit",
+    "el": "Bidkar, ένας Ισραηλίτης",
+    "es": "Bidkar, israelita",
+    "et": "Bidkar, iisraellane",
+    "fi": "Bidkar, israelilainen",
+    "fr": "Bidkar, Israélite",
+    "hu": "Bidkar, izraelita",
+    "id": "Bidkar, seorang Israel",
+    "it": "Bidkar, un israelita",
+    "ja": "イスラエル人ビドカール",
+    "ko": "이스라엘인 비드카르",
+    "lt": "Bidkaras, izraelitas",
+    "lv": "Bidkars, izraēlietis",
+    "nb": "Bidkar, en israelitt",
+    "nl": "Bidkar, een Israëliet",
+    "pl": "Bidkar, Izraelita",
+    "pt": "Bidkar, israelita",
+    "ro": "Bidkar, un israelit",
+    "ru": "Бидкар, израильтянин",
+    "sk": "Bidkar, Izraelita",
+    "sl": "Bidkar, Izraelec",
+    "sv": "Bidkar, en israelit",
+    "tr": "Bidkar, bir İsrailli",
+    "uk": "Бідкар, ізраїльтянин",
+    "zh": "比德卡尔，以色列人"
+  },
+  "hebrew": "בִּדְקַר",
+  "verses": [
+    "secondKings 9:25:2"
+  ]
+}

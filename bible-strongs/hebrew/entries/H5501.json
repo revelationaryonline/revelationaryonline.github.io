@@ -1,0 +1,42 @@
+{
+  "number": "H5501",
+  "language": "hebrew",
+  "transliteration": "çᵉchîy",
+  "pronunciation": "seh-khee'",
+  "definition": "refuse (as swept off)",
+  "kjvTranslation": "offscouring.",
+  "hebrew": "סְחִי",
+  "translations": {
+    "bg": "да се откаже (като се измете)",
+    "cs": "odpad (jako smetený)",
+    "da": "affald (som fejes væk)",
+    "de": "abfall (wie weggefegt)",
+    "el": "απορρίμματα (όπως σκουπίζονται)",
+    "es": "desecho (como barrido)",
+    "et": "prügi (nagu maha pühitud)",
+    "fi": "jätteet (pyyhittynä pois)",
+    "fr": "refuser (comme balayé)",
+    "hu": "hulladék (mint lesöpört hulladék)",
+    "id": "menolak (seperti tersapu)",
+    "it": "rifiuti (come spazzati via)",
+    "ja": "はらう",
+    "ko": "거부(쓸어버림)",
+    "lt": "atsisakyti (kaip nušluoti)",
+    "lv": "atkritumi (noslaucīti)",
+    "nb": "avfall (som feies bort)",
+    "nl": "afval (zoals afgeveegd)",
+    "pl": "odpady (jako zmiecione)",
+    "pt": "resíduos (tal como varridos)",
+    "ro": "a refuza (ca măturat)",
+    "ru": "отбрасывать (как сметать)",
+    "sk": "odpad (ako zmetený)",
+    "sl": "zavreči (kot pometeno)",
+    "sv": "vägra (som sopas bort)",
+    "tr": "çöp (süpürülmüş olarak)",
+    "uk": "сміття (зметене)",
+    "zh": "扫落"
+  },
+  "verses": [
+    "lamentations 3:45:0"
+  ]
+}

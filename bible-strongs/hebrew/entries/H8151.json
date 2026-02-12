@@ -1,0 +1,42 @@
+{
+  "number": "H8151",
+  "language": "hebrew",
+  "transliteration": "shânaç",
+  "pronunciation": "shaw-nas'",
+  "definition": "to compress (with a belt)",
+  "kjvTranslation": "gird up.",
+  "hebrew": "שָׁנַס",
+  "translations": {
+    "bg": "да се компресира (с ремък)",
+    "cs": "stlačovat (pomocí pásu)",
+    "da": "at komprimere (med et bælte)",
+    "de": "zusammendrücken (mit einem Gürtel)",
+    "el": "να συμπιέσετε (με ιμάντα)",
+    "es": "comprimir (con un cinturón)",
+    "et": "kokku suruda (vööga)",
+    "fi": "puristaa (hihnalla)",
+    "fr": "comprimer (avec une ceinture)",
+    "hu": "összenyomni (övvel)",
+    "id": "untuk mengompres (dengan sabuk)",
+    "it": "comprimere (con una cintura)",
+    "ja": "ベルトで圧縮する",
+    "ko": "압축(벨트 사용)",
+    "lt": "suspausti (diržu)",
+    "lv": "saspiest (ar jostu)",
+    "nb": "å komprimere (med et belte)",
+    "nl": "samenpersen (met een riem)",
+    "pl": "ściskać (za pomocą paska)",
+    "pt": "comprimir (com um cinto)",
+    "ro": "a comprima (cu o curea)",
+    "ru": "сжимать (с помощью ремня)",
+    "sk": "stláčať (pomocou pásu)",
+    "sl": "stisniti (z jermenom)",
+    "sv": "att komprimera (med ett bälte)",
+    "tr": "sıkıştırmak (bir kayış ile)",
+    "uk": "стискати (за допомогою ременя)",
+    "zh": "压紧"
+  },
+  "verses": [
+    "firstKings 18:46:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8406",
+  "language": "hebrew",
+  "transliteration": "tᵉbar",
+  "pronunciation": "teb-ar'",
+  "definition": "to be fragile (figuratively)",
+  "kjvTranslation": "broken.",
+  "hebrew": "תְּבַר",
+  "translations": {
+    "bg": "да бъде крехък (в преносен смисъл)",
+    "cs": "být křehký (obrazně)",
+    "da": "at være skrøbelig (i overført betydning)",
+    "de": "zerbrechlich zu sein (im übertragenen Sinne)",
+    "el": "να είσαι εύθραυστος (μεταφορικά)",
+    "es": "ser frágil (en sentido figurado)",
+    "et": "olla habras (piltlikult öeldes)",
+    "fi": "olla hauras (kuvaannollisesti)",
+    "fr": "être fragile (au sens figuré)",
+    "hu": "törékeny (átvitt értelemben)",
+    "id": "menjadi rapuh (secara kiasan)",
+    "it": "essere fragile (in senso figurato)",
+    "ja": "もろい",
+    "ko": "연약하다(비유적으로)",
+    "lt": "būti trapus (perkeltine prasme)",
+    "lv": "būt trauslam (pārnestā nozīmē)",
+    "nb": "å være skjør (i overført betydning)",
+    "nl": "breekbaar zijn (figuurlijk)",
+    "pl": "być kruchym (w przenośni)",
+    "pt": "ser frágil (em sentido figurado)",
+    "ro": "a fi fragil (la figurat)",
+    "ru": "быть хрупким (фигурально)",
+    "sk": "byť krehký (obrazne)",
+    "sl": "biti krhek (v prenesenem pomenu)",
+    "sv": "att vara ömtålig (bildligt talat)",
+    "tr": "kırılgan olmak (mecazi olarak)",
+    "uk": "бути крихким (образно)",
+    "zh": "易碎"
+  },
+  "verses": [
+    "daniel 2:42:15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4107",
+  "language": "hebrew",
+  "transliteration": "mâhal",
+  "pronunciation": "maw-hal'",
+  "definition": "properly, to cut down or reduce, i.e. by implication, to adulterate",
+  "kjvTranslation": "mixed.",
+  "hebrew": "מָהַל",
+  "translations": {
+    "bg": "правилно, да се намали или редуцира, т.е. по подразбиране, да се фалшифицира",
+    "cs": "správně, snížit nebo omezit, tj. implicitně, zfalšovat",
+    "da": "korrekt, at skære ned eller reducere, dvs. underforstået, at forfalske",
+    "de": "richtig, zu kürzen oder zu reduzieren, d.h. implizit, zu verfälschen",
+    "el": "σωστά, να περικόπτω ή να μειώνω, δηλαδή να νοθεύω",
+    "es": "propiamente, recortar o reducir, es decir, implícitamente, adulterar",
+    "et": "õigesti, kärpida või vähendada, s.t. kaudselt võltsida",
+    "fi": "oikein, vähentää tai pienentää, toisin sanoen epäsuorasti vääristää",
+    "fr": "proprement dit, réduire ou diminuer, c'est-à-dire, implicitement, falsifier",
+    "hu": "megfelelően, csökkenteni vagy csökkenteni, azaz értelemszerűen meghamisítani",
+    "id": "benar, untuk mengurangi atau mengurangi, yaitu dengan implikasi, untuk memalsukan",
+    "it": "propriamente, tagliare o ridurre, cioè, per implicazione, adulterare",
+    "ja": "正しくは、削ったり減らしたりすること、つまり暗に不純物を入れることだ",
+    "ko": "적절하게, 줄이거나 줄이기 위해, 즉 암시적으로, 간음하기 위해",
+    "lt": "tinkamai, sumažinti arba sumažinti, t. y. netiesiogiai, suklastoti",
+    "lv": "pareizi - samazināt vai samazināt, t. i., netieši - falsificēt",
+    "nb": "riktig, å kutte ned eller redusere, dvs. underforstått, å forfalske",
+    "nl": "op de juiste manier verminderen, d.w.z. bij implicatie, vervalsing",
+    "pl": "prawidłowo, zmniejszyć lub zredukować, tj. w domyśle, zafałszować",
+    "pt": "propriamente dito, cortar ou reduzir, ou seja, implicitamente, adulterar",
+    "ro": "propriu-zis, a tăia sau a reduce, adică, implicit, a falsifica",
+    "ru": "правильно, сокращать или уменьшать, т.е., по косвенным признакам, фальсифицировать",
+    "sk": "správne, znížiť alebo zredukovať, t. j. implicitne, sfalšovať",
+    "sl": "pravilno, zmanjšati ali zmanjšati, tj. implicitno, ponarediti",
+    "sv": "korrekt, att skära ner eller reducera, dvs. underförstått, att förfalska",
+    "tr": "uygun şekilde, kesmek veya azaltmak, yani ima yoluyla, tağşiş etmek",
+    "uk": "правильно, скорочувати або зменшувати, тобто, по суті, фальсифікувати",
+    "zh": "适当地，削减或减少，即暗示掺假"
+  },
+  "verses": [
+    "isaiah 1:22:4"
+  ]
+}

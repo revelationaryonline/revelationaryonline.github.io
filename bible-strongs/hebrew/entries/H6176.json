@@ -1,0 +1,43 @@
+{
+  "number": "H6176",
+  "language": "hebrew",
+  "transliteration": "ʻărôwʻêr",
+  "pronunciation": "ar-o-ayr'",
+  "definition": "a juniper (from its nudity of situation)",
+  "kjvTranslation": "health.",
+  "hebrew": "עֲרוֹעֵר",
+  "translations": {
+    "bg": "хвойна (от голотата на положението ѝ)",
+    "cs": "jalovec (z jeho nahoty situace)",
+    "da": "en enebær (på grund af dens nøgne situation)",
+    "de": "ein Wacholder (von seiner Nacktheit der Lage)",
+    "el": "μια άρκευθος (από τη γυμνότητα της κατάστασής της)",
+    "es": "un enebro (por su desnudez de situación)",
+    "et": "kadakas (oma alastioleva olukorra tõttu)",
+    "fi": "kataja (sen alastomuudesta johtuen)",
+    "fr": "un genévrier (du fait de sa nudité de situation)",
+    "hu": "boróka (a helyzet meztelenségéből adódóan)",
+    "id": "juniper (dari ketelanjangan situasinya)",
+    "it": "un ginepro (dalla sua nudità di situazione)",
+    "ja": "ジュニパー",
+    "ko": "주니퍼(상황의 누드에서)",
+    "lt": "kadagys (dėl nuogos padėties)",
+    "lv": "kadiķis (no tā stāvokļa kailuma)",
+    "nb": "enebær (på grunn av sin nakne situasjon)",
+    "nl": "een jeneverbes (van zijn naakte situatie)",
+    "pl": "jałowiec (ze względu na nagość sytuacji)",
+    "pt": "um zimbro (pela sua nudez de situação)",
+    "ro": "un ienupăr (din cauza nudității situației sale)",
+    "ru": "можжевельник (из-за его наготы)",
+    "sk": "borievka (z jej nahoty situácie)",
+    "sl": "brinjevec (zaradi svoje golega položaja)",
+    "sv": "en enbär (från dess nakenhet i situationen)",
+    "tr": "bir ardıç (durumunun çıplaklığından)",
+    "uk": "ялівець (через оголеність ситуації)",
+    "zh": "杜松"
+  },
+  "verses": [
+    "jeremiah 17:6:1",
+    "jeremiah 48:6:4"
+  ]
+}

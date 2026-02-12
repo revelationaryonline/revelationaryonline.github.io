@@ -1,0 +1,43 @@
+{
+  "number": "H2185",
+  "language": "hebrew",
+  "transliteration": "zônôwth",
+  "pronunciation": "zo-noth'",
+  "definition": "harlots",
+  "kjvTranslation": "armour.",
+  "translations": {
+    "bg": "блудници",
+    "cs": "harlots",
+    "da": "skøger",
+    "de": "huren",
+    "el": "harlots",
+    "es": "rameras",
+    "et": "hoorad",
+    "fi": "harlots",
+    "fr": "harlots",
+    "hu": "szajhák",
+    "id": "pelacur",
+    "it": "arlecchini",
+    "ja": "遊女",
+    "ko": "창녀",
+    "lt": "harlots",
+    "lv": "blēži",
+    "nb": "skøger",
+    "nl": "harlots",
+    "pl": "nierządnice",
+    "pt": "prostitutas",
+    "ro": "harlots",
+    "ru": "harlots",
+    "sk": "neviestky",
+    "sl": "harlots",
+    "sv": "harlots",
+    "tr": "fahişeler",
+    "uk": "блудниці",
+    "zh": "妓女"
+  },
+  "hebrew": "זֹנוֹת",
+  "verses": [
+    "firstKings 3:16:4",
+    "firstKings 22:38:10"
+  ]
+}

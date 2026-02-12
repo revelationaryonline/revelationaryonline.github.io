@@ -1,0 +1,43 @@
+{
+  "number": "H6546",
+  "language": "hebrew",
+  "transliteration": "parʻâh",
+  "pronunciation": "par-aw'",
+  "definition": "leadership (plural concretely, leaders)",
+  "kjvTranslation": "[phrase] avenging, revenge.",
+  "hebrew": "פַּרְעָה",
+  "translations": {
+    "bg": "лидерство (конкретно множествено число, лидери)",
+    "cs": "vedení (v množném čísle konkrétně vedoucí)",
+    "da": "lederskab (konkret flertal, ledere)",
+    "de": "führung (Plural konkret, Führer)",
+    "el": "ηγεσία (πληθυντικός συγκεκριμένος, ηγέτες)",
+    "es": "liderazgo (plural concreto, líderes)",
+    "et": "juhtimine (mitmuses konkreetselt juhid)",
+    "fi": "johtajuus (monikko konkreettisesti, johtajat)",
+    "fr": "leadership (pluriel concret, leaders)",
+    "hu": "vezetés (többes számban konkrétan, vezetők)",
+    "id": "kepemimpinan (secara konkret, jamak, pemimpin)",
+    "it": "leadership (plurale concreto, leader)",
+    "ja": "指導者",
+    "ko": "리더십(복수형, 구체적으로 리더)",
+    "lt": "lyderystė (daugiskaita konkrečiai, lyderiai)",
+    "lv": "vadība (daudzskaitlī konkrēti, līderi)",
+    "nb": "lederskap (flertall, konkret, ledere)",
+    "nl": "leiderschap (meervoud concreet, leiders)",
+    "pl": "przywództwo (liczba mnoga konkretnie, przywódcy)",
+    "pt": "liderança (plural, concretamente, líderes)",
+    "ro": "conducere (plural concret, lideri)",
+    "ru": "лидерство (множественное число, конкретное число, лидеры)",
+    "sk": "vodcovstvo (v množnom čísle konkrétne vodcovia)",
+    "sl": "vodstvo (v množini konkretno, vodje)",
+    "sv": "ledarskap (plural konkret, ledare)",
+    "tr": "liderlik (somut olarak çoğul, liderler)",
+    "uk": "лідерство (у множині, конкретно, лідери)",
+    "zh": "领导"
+  },
+  "verses": [
+    "deuteronomy 32:42:10",
+    "judges 5:2:1"
+  ]
+}

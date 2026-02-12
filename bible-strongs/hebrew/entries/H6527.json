@@ -1,0 +1,42 @@
+{
+  "number": "H6527",
+  "language": "hebrew",
+  "transliteration": "pâraṭ",
+  "pronunciation": "paw-rat'",
+  "definition": "to scatter words, i.e. prate (or hum)",
+  "kjvTranslation": "chant.",
+  "hebrew": "פָּרַט",
+  "translations": {
+    "bg": "да разпръсквам думи, т.е. да бъбря (или бръщолевя)",
+    "cs": "rozhazovat slova, tj. žvanit (nebo hučet)",
+    "da": "at sprede ord, dvs. pludre (eller nynne)",
+    "de": "worte verstreuen, d.h. plappern (oder brummen)",
+    "el": "να σκορπίζω λόγια, δηλαδή να φλυαρώ (ή να βουρκώνω)",
+    "es": "esparcir palabras, es decir, parlotear (o canturrear)",
+    "et": "hajutada sõnu, s.t. lobiseda (või sumada)",
+    "fi": "hajottaa sanoja, eli höpöttää (tai hyräillä)",
+    "fr": "se répandre en paroles, c'est-à-dire prêcher (ou fredonner)",
+    "hu": "szavakat szórni, azaz fecsegni (vagy hümmögni)",
+    "id": "untuk menyebarkan kata-kata, yaitu prate (atau bersenandung)",
+    "it": "spargere parole, cioè parlare a vanvera (o canticchiare)",
+    "ja": "言葉を振りまく",
+    "ko": "단어를 흩뿌리다, 즉 프레이트(또는 흥얼거림)",
+    "lt": "skleisti žodžius, t. y. kalbėti (arba bambėti)",
+    "lv": "izkliegt vārdus, t.i., runāt (vai bļaustīties)",
+    "nb": "å spre ord, dvs. prate (eller nynne)",
+    "nl": "woorden rondstrooien, d.w.z. kletsen (of brommen)",
+    "pl": "rozrzucać słowa, tj. dumać (lub nucić)",
+    "pt": "espalhar palavras, ou seja, tagarelar (ou cantarolar)",
+    "ro": "a împrăștia cuvinte, adică a lălăi (sau a fredona)",
+    "ru": "разбрасываться словами, т.е. говорить (или говорить)",
+    "sk": "rozhadzovať slová, t. j. rozprávať (alebo húkať)",
+    "sl": "raztresati besede, tj. razglabljati (ali brbotati)",
+    "sv": "att sprida ord, d.v.s. prate (eller humma)",
+    "tr": "kelimeleri saçmak, yani gevezelik etmek (veya mırıldanmak)",
+    "uk": "розкидати слова, тобто бубоніти (або гудіти)",
+    "zh": "侃大山"
+  },
+  "verses": [
+    "amos 6:5:0"
+  ]
+}

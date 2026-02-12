@@ -1,0 +1,42 @@
+{
+  "number": "H2908",
+  "language": "hebrew",
+  "transliteration": "ṭᵉvâth",
+  "pronunciation": "tev-awth'",
+  "definition": "hunger (as twisting)",
+  "kjvTranslation": "fasting.",
+  "translations": {
+    "bg": "глад (като усукване)",
+    "cs": "hlad (jako kroucení)",
+    "da": "sult (som at vride sig)",
+    "de": "hunger (als Verdrehung)",
+    "el": "πείνα (ως συστροφή)",
+    "es": "hambre (como torsión)",
+    "et": "nälg (nagu väänamine)",
+    "fi": "nälkä (kuten vääntäminen)",
+    "fr": "la faim (comme la torsion)",
+    "hu": "éhség (mint csavarodás)",
+    "id": "kelaparan (seperti memutar)",
+    "it": "fame (come torsione)",
+    "ja": "くうふく",
+    "ko": "굶주림(비틀림)",
+    "lt": "badas (kaip sukimasis)",
+    "lv": "izsalkums (kā vērpjot)",
+    "nb": "sult (som vridning)",
+    "nl": "honger (zoals draaien)",
+    "pl": "głód (jako skręcanie)",
+    "pt": "fome (como torcer)",
+    "ro": "foame (ca răsucire)",
+    "ru": "голод (как скручивание)",
+    "sk": "hlad (ako krútenie)",
+    "sl": "lakota (kot zvijanje)",
+    "sv": "hunger (som vridning)",
+    "tr": "açlık (bükülme olarak)",
+    "uk": "голод (як скручування)",
+    "zh": "饥饿"
+  },
+  "hebrew": "טְוָת",
+  "verses": [
+    "daniel 6:19:5"
+  ]
+}

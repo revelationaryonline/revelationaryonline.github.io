@@ -1,0 +1,42 @@
+{
+  "number": "H5438",
+  "language": "hebrew",
+  "transliteration": "çibbâh",
+  "pronunciation": "sib-baw'",
+  "definition": "a (providential) turn (of affairs)",
+  "kjvTranslation": "cause.",
+  "hebrew": "סִבָּה",
+  "translations": {
+    "bg": "(провиденциален) обрат (на събитията)",
+    "cs": "(prozřetelnostní) obrat (událostí)",
+    "da": "en (forsynets) vending (af tingene)",
+    "de": "eine (vorhersehbare) Wendung (der Dinge)",
+    "el": "μια (προνοητική) τροπή (των πραγμάτων)",
+    "es": "un giro (providencial) de los acontecimientos",
+    "et": "(ettenägelik) pööre (asjades)",
+    "fi": "(kaitselmuksellinen) käänne (asioissa)",
+    "fr": "un tournant (providentiel)",
+    "hu": "(gondviselésszerű) fordulat (az ügyekben)",
+    "id": "giliran (takdir) (urusan)",
+    "it": "una svolta (provvidenziale)",
+    "ja": "てんい",
+    "ko": "(섭리적인) (일의) 차례",
+    "lt": "(apvaizdos) posūkis",
+    "lv": "(providenciāls) pavērsiens (lietās)",
+    "nb": "en (forsynsmessig) vending (av saker)",
+    "nl": "een (voorzienige) wending (van zaken)",
+    "pl": "(opatrznościowy) obrót (spraw)",
+    "pt": "uma reviravolta (providencial)",
+    "ro": "o întorsătură (providențială) (de situație)",
+    "ru": "(провиденциальный) поворот (дела)",
+    "sk": "(prozreteľnostný) obrat (vo veciach)",
+    "sl": "(previdnostni) preobrat",
+    "sv": "en (försynens) vändning (av saker och ting)",
+    "tr": "(işlerin) (ilahi) bir dönüşü",
+    "uk": "(провидіння) поворот (справ)",
+    "zh": "转机"
+  },
+  "verses": [
+    "firstKings 12:15:7"
+  ]
+}

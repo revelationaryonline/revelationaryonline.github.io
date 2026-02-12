@@ -1,0 +1,43 @@
+{
+  "number": "H1063",
+  "language": "hebrew",
+  "transliteration": "bikkûwrâh",
+  "pronunciation": "bik-koo-raw'",
+  "definition": "the early fig",
+  "kjvTranslation": "firstripe (fruit).",
+  "translations": {
+    "bg": "ранната смокиня",
+    "cs": "raný fík",
+    "da": "den tidlige figen",
+    "de": "die frühe Feige",
+    "el": "το πρώιμο σύκο",
+    "es": "el higo temprano",
+    "et": "varajane viigimari",
+    "fi": "varhainen viikuna",
+    "fr": "la figue précoce",
+    "hu": "a korai füge",
+    "id": "ara awal",
+    "it": "il fico precoce",
+    "ja": "いちじく",
+    "ko": "초기 무화과",
+    "lt": "ankstyvosios figos",
+    "lv": "agrīnās vīģes",
+    "nb": "den tidlige fiken",
+    "nl": "de vroege vijg",
+    "pl": "wczesna figa",
+    "pt": "o figo da Índia",
+    "ro": "smochinul timpuriu",
+    "ru": "ранний инжир",
+    "sk": "skoré figy",
+    "sl": "zgodnja figa",
+    "sv": "det tidiga fikonet",
+    "tr": "erken incir",
+    "uk": "ранній інжир",
+    "zh": "雏菊"
+  },
+  "hebrew": "בִּכּוּרָה",
+  "verses": [
+    "hosea 9:10:4",
+    "micah 7:1:11"
+  ]
+}

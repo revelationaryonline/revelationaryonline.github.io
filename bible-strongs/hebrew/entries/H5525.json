@@ -1,0 +1,42 @@
+{
+  "number": "H5525",
+  "language": "hebrew",
+  "transliteration": "Çukkîy",
+  "pronunciation": "sook-kee'",
+  "definition": "a Sukkite, or inhabitant of some place near Egypt (i.e. hut-dwellers)",
+  "kjvTranslation": "Sukkiims.",
+  "hebrew": "סֻכִּי",
+  "translations": {
+    "bg": "сукит или жител на някое място близо до Египет (т.е. обитатели на колиби)",
+    "cs": "sukkita neboli obyvatel nějakého místa poblíž Egypta (tj. obyvatel chýší)",
+    "da": "en sukkit eller indbygger et sted i nærheden af Egypten (dvs. hyttebeboere)",
+    "de": "ein Sukkit oder ein Bewohner eines Ortes in der Nähe von Ägypten (d.h. Hüttenbewohner)",
+    "el": "σουκίτης ή κάτοικος κάποιου τόπου κοντά στην Αίγυπτο (δηλαδή κάτοικοι καλύβων)",
+    "es": "un suceo, o habitante de algún lugar cercano a Egipto (es decir, habitantes de chozas)",
+    "et": "sukkit ehk mingi Egiptuse lähedase koha elanik (s.t. hütte-elanikud)",
+    "fi": "sukkilainen eli jonkin Egyptin lähistöllä sijaitsevan paikan asukas (eli hyttiasukkaat)",
+    "fr": "un Sukkite, ou un habitant d'un lieu proche de l'Égypte (c'est-à-dire des habitants de huttes)",
+    "hu": "szukita, vagy Egyiptomhoz közeli hely lakója (azaz kunyhólakó)",
+    "id": "seorang Sukkite, atau penghuni suatu tempat di dekat Mesir (yaitu penghuni gubuk)",
+    "it": "un Sukkita, o un abitante di qualche luogo vicino all'Egitto (cioè un abitante di capanne)",
+    "ja": "スクカイト、つまりエジプト近郊の住民（つまり小屋の住人）",
+    "ko": "수카이트 또는 이집트 인근 지역 주민(예: 오두막 거주자)",
+    "lt": "sukkitas arba kokios nors vietos netoli Egipto gyventojas (t. y. namelių gyventojas)",
+    "lv": "sukkīts jeb kādas vietas iedzīvotājs netālu no Ēģiptes (t.i., būdas iemītnieki)",
+    "nb": "en sukkitt, eller innbygger på et sted i nærheten av Egypt (dvs. hyttebeboere)",
+    "nl": "een Sukkiet, of inwoner van een plaats in de buurt van Egypte (d.w.z. hutbewoners)",
+    "pl": "sukkita lub mieszkaniec jakiegoś miejsca w pobliżu Egiptu (tj. mieszkaniec szałasu)",
+    "pt": "um sukkite, ou habitante de um lugar perto do Egito (ou seja, habitantes de cabanas)",
+    "ro": "un Sukkite, sau locuitor al unui loc de lângă Egipt (adică locuitori ai colibelor)",
+    "ru": "суккит, или житель какого-либо места вблизи Египта (т.е. обитатель шалашей)",
+    "sk": "sukkita alebo obyvateľ nejakého miesta v blízkosti Egypta (t. j. obyvatelia chatrčí)",
+    "sl": "sukkita ali prebivalec nekega kraja v bližini Egipta (tj. prebivalec koče)",
+    "sv": "en sukkit, eller invånare på någon plats nära Egypten (dvs. hyddinvånare)",
+    "tr": "bir Sukkite ya da Mısır'a yakın bir yerde yaşayanlar (yani kulübede yaşayanlar)",
+    "uk": "сукіт, або житель якогось місця поблизу Єгипту (тобто жителі халуп)",
+    "zh": "苏基特人，或埃及附近某个地方的居民（即茅屋居民）"
+  },
+  "verses": [
+    "secondChronicles 12:3:14"
+  ]
+}

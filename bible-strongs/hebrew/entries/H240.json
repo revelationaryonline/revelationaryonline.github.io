@@ -1,0 +1,42 @@
+{
+  "number": "H240",
+  "language": "hebrew",
+  "transliteration": "ʼâzên",
+  "pronunciation": "aw-zane'",
+  "definition": "a spade or paddle (as having a broad end)",
+  "kjvTranslation": "weapon.",
+  "translations": {
+    "bg": "лопата или гребло (с широк край)",
+    "cs": "rýč nebo pádlo (se širokým koncem)",
+    "da": "en spade eller pagaj (som har en bred ende)",
+    "de": "ein Spaten oder Paddel (mit einem breiten Ende)",
+    "el": "ένα φτυάρι ή κουπί (που έχει φαρδύ άκρο)",
+    "es": "una pala (con un extremo ancho)",
+    "et": "labidas või labidas (nagu laia otsaga)",
+    "fi": "lapio tai mela (jolla on leveä pää)",
+    "fr": "une bêche ou une pagaie (comme ayant une extrémité large)",
+    "hu": "ásó vagy lapát (széles végű)",
+    "id": "sekop atau dayung (karena memiliki ujung yang lebar)",
+    "it": "una vanga o una paletta (come se avesse un'estremità larga)",
+    "ja": "鋤",
+    "ko": "스페이드 또는 패들(끝이 넓은 것)",
+    "lt": "kastuvas arba irklas (plačiu galu)",
+    "lv": "lāpsta vai airis (ar platu galu)",
+    "nb": "en spade eller padle (som har en bred ende)",
+    "nl": "een spade of peddel (met een breed uiteinde)",
+    "pl": "łopata lub wiosło (z szerokim końcem)",
+    "pt": "uma pá ou remo (com uma extremidade larga)",
+    "ro": "o lopată sau o paletă (ca având un capăt lat)",
+    "ru": "лопата или весло (с широким концом)",
+    "sk": "rýľ alebo pádlo (so širokým koncom)",
+    "sl": "lopata ali veslo (s širokim koncem)",
+    "sv": "en spade eller paddel (som har en bred ände)",
+    "tr": "bir kürek veya kürek (geniş bir uca sahip olarak)",
+    "uk": "лопата або весло (з широким кінцем)",
+    "zh": "锹"
+  },
+  "hebrew": "אָזֵן",
+  "verses": [
+    "deuteronomy 23:14:4"
+  ]
+}

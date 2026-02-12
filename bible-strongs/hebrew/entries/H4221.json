@@ -1,0 +1,42 @@
+{
+  "number": "H4221",
+  "language": "hebrew",
+  "transliteration": "môach",
+  "pronunciation": "mo'-akh",
+  "definition": "fat, i.e. marrow",
+  "kjvTranslation": "marrow.",
+  "hebrew": "מֹחַ",
+  "translations": {
+    "bg": "мазнини, т.е. костен мозък",
+    "cs": "tuk, tj. dřeň",
+    "da": "fedt, dvs. marv",
+    "de": "fett, d.h. Knochenmark",
+    "el": "λίπος, δηλ. μυελό των οστών",
+    "es": "grasa, es decir, médula",
+    "et": "rasv, st luuüdi",
+    "fi": "rasva eli luuydin",
+    "fr": "la graisse, c'est-à-dire la moelle",
+    "hu": "zsír, azaz csontvelő",
+    "id": "lemak, yaitu sumsum",
+    "it": "grasso, cioè midollo",
+    "ja": "脂肪、すなわち骨髄",
+    "ko": "지방, 즉 골수",
+    "lt": "riebalai, t. y. kaulų čiulpai",
+    "lv": "tauki, t. i., smadzenes",
+    "nb": "fett, dvs. marg",
+    "nl": "vet, d.w.z. merg",
+    "pl": "tłuszcz, tj. szpik",
+    "pt": "gordura, ou seja, medula",
+    "ro": "grăsime, adică măduvă",
+    "ru": "жир, т.е. костный мозг",
+    "sk": "tuk, t. j. dreň",
+    "sl": "maščoba, tj. kostni mozeg",
+    "sv": "fett, t.ex. märg",
+    "tr": "yağ, yani ilik",
+    "uk": "жир, тобто кістковий мозок",
+    "zh": "脂肪，即骨髓"
+  },
+  "verses": [
+    "job 21:24:3"
+  ]
+}

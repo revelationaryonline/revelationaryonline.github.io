@@ -1,0 +1,42 @@
+{
+  "number": "H510",
+  "language": "hebrew",
+  "transliteration": "ʼalqûwm",
+  "pronunciation": "al-koom'",
+  "definition": "a non-rising (i.e. resistlessness)",
+  "kjvTranslation": "no rising up.",
+  "translations": {
+    "bg": "невъзвишеност (т.е. несъпротива)",
+    "cs": "nevzestup (tj. neodolnost)",
+    "da": "en ikke-stigning (dvs. modstandsløshed)",
+    "de": "ein Nichtaufstehen (d.h. Widerstandslosigkeit)",
+    "el": "μια μη-ανύψωση (δηλ. αντίσταση)",
+    "es": "un no-levantamiento (es decir, resistencia)",
+    "et": "mittekõndimine (st vastupanu)",
+    "fi": "nousemattomuus (eli vastustamattomuus)",
+    "fr": "une non-élévation (c'est-à-dire une absence de résistance)",
+    "hu": "a fel nem emelkedés (azaz az ellenállás hiánya)",
+    "id": "yang tidak naik (yaitu tidak dapat menolak)",
+    "it": "un'assenza di ascesa (cioè di resistenza)",
+    "ja": "不起",
+    "ko": "상승하지 않음(즉, 저항하지 않음)",
+    "lt": "nesikėlimas (t. y. nesipriešinimas)",
+    "lv": "nepakļaušanās (t.i., bez pretestības)",
+    "nb": "en ikke-oppstandelse (dvs. motstandsløshet)",
+    "nl": "een niet-opstaan (d.w.z. weerstand)",
+    "pl": "brak wznoszenia się (tj. brak oporu)",
+    "pt": "a não subida (ou seja, a falta de resistência)",
+    "ro": "o lipsă de creștere (adică rezistență)",
+    "ru": "невосхождение (т.е. невосприимчивость)",
+    "sk": "nevstávanie (t. j. neodolnosť)",
+    "sl": "ne-vzpon (tj. neodzivnost)",
+    "sv": "en icke-stigande (dvs. motståndlöshet)",
+    "tr": "yükselmeme (yani dirençsizlik)",
+    "uk": "непідкорення (тобто беззахисність)",
+    "zh": "不崛起"
+  },
+  "hebrew": "אַלְקוּם",
+  "verses": [
+    "proverbs 30:31:5"
+  ]
+}

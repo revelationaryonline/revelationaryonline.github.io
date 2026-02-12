@@ -1,0 +1,43 @@
+{
+  "number": "H4364",
+  "language": "hebrew",
+  "transliteration": "makmâr",
+  "pronunciation": "mak-mawr'",
+  "definition": "a (hunter's) net (as dark from concealment)",
+  "kjvTranslation": "net.",
+  "hebrew": "מַכְמָר",
+  "translations": {
+    "bg": "(ловна) мрежа (като тъмна от укритие)",
+    "cs": "(lovecká) síť (jako tmavá z úkrytu)",
+    "da": "et (jæger)net (som mørke fra skjul)",
+    "de": "ein (Jäger-)Netz (als Dunkelheit aus Versteck)",
+    "el": "ένα δίχτυ (κυνηγού) (ως σκοτεινό από την απόκρυψη)",
+    "es": "una red (de cazador) (como la oscuridad de la ocultación)",
+    "et": "(jahimehe) võrk (nagu pimedas peitusest)",
+    "fi": "(metsästäjän) verkko (pimeänä kätköstä)",
+    "fr": "un filet (de chasseur) (comme obscur de la dissimulation)",
+    "hu": "egy (vadász)háló (mint a rejtőzködésből származó sötétség)",
+    "id": "jaring (pemburu) (gelap karena tersembunyi)",
+    "it": "una rete (da cacciatore) (come oscuramento da occultamento)",
+    "ja": "やみあみ",
+    "ko": "(사냥꾼의) 그물(은폐로 인해 어두워짐)",
+    "lt": "(medžiotojo) tinklas (kaip tamsus nuo pasislėpimo)",
+    "lv": "(mednieku) tīkls (kā tumšs no slēptuves)",
+    "nb": "et (jeger)nett (som mørke fra skjul)",
+    "nl": "een (jagers)net (als donker vanuit verhulling)",
+    "pl": "sieć (myśliwska) (jako ciemność z ukrycia)",
+    "pt": "uma rede (de caçador) (como escuridão da ocultação)",
+    "ro": "o plasă (de vânător) (ca întuneric din ascunzătoare)",
+    "ru": "сеть (охотничья) (как темное укрытие)",
+    "sk": "(lovecká) sieť (ako tma z úkrytu)",
+    "sl": "(lovska) mreža (kot tema iz skrivališča)",
+    "sv": "ett (jägarens) nät (som mörkt från döljande)",
+    "tr": "bir (avcının) ağı (gizlenmeden karanlık olarak)",
+    "uk": "(мисливська) сітка (темна від приховування)",
+    "zh": "猎网"
+  },
+  "verses": [
+    "psalms 141:10:1",
+    "isaiah 51:20:7"
+  ]
+}

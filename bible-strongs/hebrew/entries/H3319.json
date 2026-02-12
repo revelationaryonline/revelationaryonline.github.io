@@ -1,0 +1,42 @@
+{
+  "number": "H3319",
+  "language": "hebrew",
+  "transliteration": "yᵉtsâʼ",
+  "pronunciation": "yets-aw'",
+  "definition": "{to go (causatively, bring) out, in a great variety of applications, literally and figuratively, direct and proxim.}",
+  "kjvTranslation": "finish.",
+  "translations": {
+    "bg": "{да излезеш (каузативно, да изведеш), в голямо разнообразие от приложения, буквално и преносно, директно и проксимално.}",
+    "cs": "{jít (kauzativně, vyvést), v nejrůznějších aplikacích, doslova i obrazně, přímo i proximativně.}",
+    "da": "{at gå (kausalt, bringe) ud, i en lang række anvendelser, bogstaveligt og i overført betydning, direkte og proksimalt}",
+    "de": "{hinausgehen (kausativ, bringen), in einer Vielzahl von Anwendungen, wörtlich und bildlich, direkt und proximal.}",
+    "el": "{βγαίνω (αιτιωδώς, φέρνω) έξω, σε μια μεγάλη ποικιλία εφαρμογών, κυριολεκτικά και μεταφορικά, άμεσα και προσεγγιστικά}",
+    "es": "{salir (causativamente, traer) fuera, en una gran variedad de aplicaciones, literal y figuradamente, directo y próximo.}",
+    "et": "{välja minna (põhjuslikult, tuua), väga erinevates rakendustes, sõna-sõnalt ja ülekantud tähenduses, otse ja lähedalt.}",
+    "fi": "{mennä (kausatiivisesti, tuoda) ulos, monissa eri sovellutuksissa, kirjaimellisesti ja kuvaannollisesti, suoraan ja lähelle.}",
+    "fr": "{pour aller (causativement, amener) dehors, dans une grande variété d'applications, littéralement et figurativement, directes et proximales}",
+    "hu": "{kimenni (ok-okozati úton, kivinni), a legkülönbözőbb alkalmazásokban, szó szerint és átvitt értelemben, közvetlenül és közelebbről.}",
+    "id": "{mengeluarkan (secara kausal, membawa) keluar, dalam berbagai macam aplikasi, secara harfiah dan kiasan, langsung dan dekat}",
+    "it": "{andare (causativamente, portare) fuori, in una grande varietà di applicazioni, in senso letterale e figurato, diretto e prossimo.}",
+    "ja": "{文字通りでも比喩的でも、直接でも近接でも、さまざまな用途で使われる。",
+    "ko": "{가다(인과적으로, 가져오다)}는 문자 그대로나 비유적으로, 직접적으로나 근사적으로 매우 다양한 용도로 사용됩니다",
+    "lt": "{išeiti (priežastingai, išvesti), labai įvairiai vartojamas tiesiogine ir perkeltine prasme, tiesiogiai ir netiesiogiai.}",
+    "lv": "{iziet (cēloņsakarīgi, izvest), ļoti dažādos lietojumos, burtiski un pārnestā nozīmē, tiešā un tuvākā nozīmē.}",
+    "nb": "{å gå (kausativt, bringe) ut, i en rekke ulike anvendelser, bokstavelig og billedlig, direkte og proksimalt}",
+    "nl": "{naar buiten gaan (causatief, brengen), in een grote verscheidenheid van toepassingen, letterlijk en figuurlijk, direct en nabij.}",
+    "pl": "{wyjść (przyczynowo, wyprowadzić), w wielu różnych zastosowaniach, dosłownie i w przenośni, bezpośrednio i proksemicznie}",
+    "pt": "(ir (causativamente, trazer) para fora, numa grande variedade de aplicações, literal e figurativamente, direto e próximo)",
+    "ro": "{to go (causatively, bring) out, într-o mare varietate de aplicații, la propriu și la figurat, direct și proxim.}",
+    "ru": "{выходить (причинно, приносить) наружу, в самых разнообразных применениях, в буквальном и переносном смысле, прямом и приблизительном}",
+    "sk": "{vychádzať (kauzatívne, vynášať), vo veľkom množstve aplikácií, doslovne i obrazne, priamo i proximitne.}",
+    "sl": "{izhajati (vzročno, prinašati), v najrazličnejših uporabah, dobesedno in v prenesenem pomenu, neposredno in približek.}",
+    "sv": "{att gå (kausativt, föra) ut, i en mängd olika tillämpningar, bokstavligt och bildligt, direkt och proximalt.}",
+    "tr": "{gitmek (nedensel olarak, getirmek), çok çeşitli uygulamalarda, gerçek ve mecazi olarak, doğrudan ve yakın.}",
+    "uk": "{виходити (причинно, виводити) назовні, у найрізноманітніших застосуваннях, у прямому і переносному значенні, прямому і наближеному}",
+    "zh": "{去（因果关系，带）出来，在字面和比喻、直接和近似等多种应用中}。"
+  },
+  "hebrew": "יְצָא",
+  "verses": [
+    "ezra 6:15:0"
+  ]
+}

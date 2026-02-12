@@ -1,0 +1,42 @@
+{
+  "number": "H5325",
+  "language": "hebrew",
+  "transliteration": "nitstsâb",
+  "pronunciation": "nits-twawb'",
+  "definition": "fixed, i.e. a handle",
+  "kjvTranslation": "haft.",
+  "hebrew": "נִצָּב",
+  "translations": {
+    "bg": "фиксирана, т.е. дръжка",
+    "cs": "pevný, tj. rukojeť",
+    "da": "fast, dvs. et håndtag",
+    "de": "fest, d.h. ein Griff",
+    "el": "σταθερή, δηλαδή μια λαβή",
+    "es": "fijo, es decir, un mango",
+    "et": "fikseeritud, st käepide",
+    "fi": "kiinteä, eli kahva",
+    "fr": "fixe, c'est-à-dire une poignée",
+    "hu": "rögzített, azaz fogantyú",
+    "id": "tetap, yaitu pegangan",
+    "it": "fisso, cioè una maniglia",
+    "ja": "固定、つまりハンドル",
+    "ko": "고정, 즉 핸들",
+    "lt": "fiksuota, t. y. rankena",
+    "lv": "fiksēts, t. i., rokturis",
+    "nb": "fast, dvs. et håndtak",
+    "nl": "vast, d.w.z. een handvat",
+    "pl": "stały, tj. uchwyt",
+    "pt": "fixo, ou seja, uma pega",
+    "ro": "fix, adică un mâner",
+    "ru": "фиксированный, т.е. ручка",
+    "sk": "pevná, t. j. rukoväť",
+    "sl": "fiksni, tj. ročaj",
+    "sv": "fast, d.v.s. ett handtag",
+    "tr": "sabit, yani bir tutamak",
+    "uk": "фіксовану, тобто ручку",
+    "zh": "固定"
+  },
+  "verses": [
+    "judges 3:22:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7828",
+  "language": "hebrew",
+  "transliteration": "shachaph",
+  "pronunciation": "shakh'-af",
+  "definition": "the gull (as thin)",
+  "kjvTranslation": "cuckoo.",
+  "hebrew": "שַׁחַף",
+  "translations": {
+    "bg": "чайката (като тънка)",
+    "cs": "racek (jako tenký)",
+    "da": "mågen (som tynd)",
+    "de": "die Möwe (als dünn)",
+    "el": "ο γλάρος (ως λεπτός)",
+    "es": "la gaviota (como delgada)",
+    "et": "kajakas (kui õhuke)",
+    "fi": "lokki (laihana)",
+    "fr": "le goéland (en tant que maigre)",
+    "hu": "a sirály (mint vékony)",
+    "id": "burung camar (setipis mungkin)",
+    "it": "il gabbiano (come sottile)",
+    "ja": "鴎",
+    "ko": "갈매기(얇게)",
+    "lt": "racka (kaip plona)",
+    "lv": "kaija (kā plāna)",
+    "nb": "måken (som tynn)",
+    "nl": "de meeuw (als dun)",
+    "pl": "mewa (jako cienka)",
+    "pt": "a gaivota (como magro)",
+    "ro": "pescărușul (ca subțire)",
+    "ru": "чайка (как худой)",
+    "sk": "čajka (ako tenká)",
+    "sl": "galeb (kot tanek)",
+    "sv": "måsen (som tunn)",
+    "tr": "martı (ince olarak)",
+    "uk": "чайка (така ж тонка)",
+    "zh": "鸥"
+  },
+  "verses": [
+    "leviticus 11:16:6",
+    "deuteronomy 14:15:6"
+  ]
+}

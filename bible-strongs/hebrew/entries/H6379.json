@@ -1,0 +1,42 @@
+{
+  "number": "H6379",
+  "language": "hebrew",
+  "transliteration": "pâkâh",
+  "pronunciation": "paw-kaw'",
+  "definition": "to pour",
+  "kjvTranslation": "run out.",
+  "hebrew": "פָּכָה",
+  "translations": {
+    "bg": "да се излива",
+    "cs": "nalít",
+    "da": "til at hælde",
+    "de": "zu gießen",
+    "el": "για να χύσω",
+    "es": "verter",
+    "et": "valada",
+    "fi": "kaataa",
+    "fr": "verser",
+    "hu": "önteni",
+    "id": "untuk menuangkan",
+    "it": "versare",
+    "ja": "注ぐ",
+    "ko": "붓다",
+    "lt": "pilti",
+    "lv": "ieliet",
+    "nb": "å helle",
+    "nl": "om te gieten",
+    "pl": "wlać",
+    "pt": "para verter",
+    "ro": "pentru a turna",
+    "ru": "наливать",
+    "sk": "naliať",
+    "sl": "nalivati",
+    "sv": "att hälla",
+    "tr": "dökmek için",
+    "uk": "щоб налити",
+    "zh": "倾泻"
+  },
+  "verses": [
+    "ezekiel 47:2:15"
+  ]
+}

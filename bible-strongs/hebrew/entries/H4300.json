@@ -1,0 +1,42 @@
+{
+  "number": "H4300",
+  "language": "hebrew",
+  "transliteration": "mᵉṭîyl",
+  "pronunciation": "met-eel'",
+  "definition": "an iron bar (as forged)",
+  "kjvTranslation": "bar.",
+  "hebrew": "מְטִיל",
+  "translations": {
+    "bg": "железен прът (изкован)",
+    "cs": "železná tyč (kovaná)",
+    "da": "en jernstang (som smedet)",
+    "de": "eine Eisenstange (wie geschmiedet)",
+    "el": "μια σιδερένια ράβδος (σφυρηλατημένη)",
+    "es": "una barra de hierro (como forjada)",
+    "et": "raudvarras (sepistatud)",
+    "fi": "rautatanko (taottu)",
+    "fr": "une barre de fer (forgée)",
+    "hu": "vasrúd (kovácsoltvas)",
+    "id": "batang besi (seperti yang ditempa)",
+    "it": "una barra di ferro (forgiata)",
+    "ja": "鉄筋",
+    "ko": "철봉(단조)",
+    "lt": "geležies strypas (kaltinis)",
+    "lv": "dzelzs stienis (kā kalts)",
+    "nb": "en jernstang (som smidd)",
+    "nl": "een ijzeren staaf (zoals gesmeed)",
+    "pl": "pręt żelazny (kuty)",
+    "pt": "uma barra de ferro (tal como forjada)",
+    "ro": "o bară de fier (ca forjată)",
+    "ru": "железный прут (кованый)",
+    "sk": "železná tyč (kovaná)",
+    "sl": "železna palica (kovana)",
+    "sv": "en järnstång (som smidd)",
+    "tr": "bir demir çubuk (dövülmüş olarak)",
+    "uk": "залізний прут (як кований)",
+    "zh": "铁棒"
+  },
+  "verses": [
+    "job 40:18:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H396",
+  "language": "hebrew",
+  "transliteration": "ʼăkîylâh",
+  "pronunciation": "ak-ee-law'",
+  "definition": "something eatable, i.e. food",
+  "kjvTranslation": "meat.",
+  "translations": {
+    "bg": "нещо, което може да се яде, т.е. храна",
+    "cs": "něco, co se dá jíst, tj. jídlo",
+    "da": "noget spiseligt, dvs. mad",
+    "de": "etwas Essbares, d.h. Lebensmittel",
+    "el": "κάτι φαγώσιμο, δηλαδή φαγητό",
+    "es": "algo comestible, es decir, comida",
+    "et": "midagi söödavat, st toitu",
+    "fi": "jotakin syötävää eli ruokaa",
+    "fr": "quelque chose de mangeable, c'est-à-dire de la nourriture",
+    "hu": "valami ehető, azaz élelmiszer",
+    "id": "sesuatu yang dapat dimakan, yaitu makanan",
+    "it": "qualcosa di mangiabile, cioè cibo",
+    "ja": "食べられるもの",
+    "ko": "먹을 수 있는 것, 즉 음식",
+    "lt": "ką nors valgomo, t. y. maistą",
+    "lv": "kaut kas ēdams, t. i., pārtika",
+    "nb": "noe spiselig, dvs. mat",
+    "nl": "iets eetbaars, d.w.z. voedsel",
+    "pl": "coś nadającego się do jedzenia, tj. żywność",
+    "pt": "algo comestível, ou seja, comida",
+    "ro": "ceva comestibil, adică mâncare",
+    "ru": "что-то съедобное, т.е. еда",
+    "sk": "niečo jedlé, t. j. jedlo",
+    "sl": "nekaj užitnega, tj. hrana",
+    "sv": "något ätbart, t.ex. mat",
+    "tr": "yenilebilir bir şey, yani yiyecek",
+    "uk": "щось їстівне, тобто їжу",
+    "zh": "可食用的东西，即食物"
+  },
+  "hebrew": "אֲכִילָה",
+  "verses": [
+    "firstKings 19:8:5"
+  ]
+}

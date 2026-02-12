@@ -1,0 +1,42 @@
+{
+  "number": "H4110",
+  "language": "hebrew",
+  "transliteration": "mahălâl",
+  "pronunciation": "mah-hal-awl'",
+  "definition": "fame",
+  "kjvTranslation": "praise.",
+  "hebrew": "מַהֲלָל",
+  "translations": {
+    "bg": "слава",
+    "cs": "sláva",
+    "da": "berømmelse",
+    "de": "ruhm",
+    "el": "φήμη",
+    "es": "fama",
+    "et": "kuulsus",
+    "fi": "maine",
+    "fr": "notoriété",
+    "hu": "hírnév",
+    "id": "ketenaran",
+    "it": "fama",
+    "ja": "名声",
+    "ko": "명성",
+    "lt": "šlovė",
+    "lv": "slava",
+    "nb": "berømmelse",
+    "nl": "roem",
+    "pl": "sława",
+    "pt": "fama",
+    "ro": "faimă",
+    "ru": "слава",
+    "sk": "sláva",
+    "sl": "slava",
+    "sv": "berömmelse",
+    "tr": "şöhret",
+    "uk": "слава",
+    "zh": "名声"
+  },
+  "verses": [
+    "proverbs 27:21:6"
+  ]
+}

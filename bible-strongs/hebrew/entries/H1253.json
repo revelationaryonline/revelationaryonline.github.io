@@ -1,0 +1,43 @@
+{
+  "number": "H1253",
+  "language": "hebrew",
+  "transliteration": "bôr",
+  "pronunciation": "bore",
+  "definition": "vegetable lye (from its cleansing); used as a soap forwashing, or a flux formetals",
+  "kjvTranslation": "[idiom] never so, purely.",
+  "translations": {
+    "bg": "растителна луга (от почистването ѝ); използва се като сапун за пране или като флюс за формиране на метали",
+    "cs": "rostlinný louh (od jeho čištění); používá se jako mýdlo na praní nebo tavidlo pro výrobu kovů",
+    "da": "vegetabilsk lud (fra dens rensning); bruges som sæbe til vask eller som flusmiddel til metaller",
+    "de": "pflanzliche Lauge (aus der Reinigung); wird als Waschseife oder Flussmittel für Metalle verwendet",
+    "el": "φυτική αλισίβα (από τον καθαρισμό της)- χρησιμοποιείται ως σαπούνι για το πλύσιμο ή ως ροή για τα φορμέταλλα",
+    "es": "lejía vegetal (de su limpieza); se utiliza como jabón para lavar, o como fundente de formetales",
+    "et": "taimne leelis (selle puhastamiseks); kasutatakse seebina pesemiseks või vooluvahenditena",
+    "fi": "kasvislipeä (sen puhdistusaineesta); käytetään saippualla pesuun tai juoksevana aineena",
+    "fr": "lessive végétale (du fait qu'elle nettoie) ; utilisée comme savon pour le lavage ou comme fondant pour les métaux",
+    "hu": "növényi lúg (tisztítószer); mosószappanként vagy folyósítószerként használják",
+    "id": "alkali nabati (dari pembersihannya); digunakan sebagai sabun untuk mencuci, atau formalin fluks",
+    "it": "liscivia vegetale (dal suo potere detergente); usata come sapone per il lavaggio o come fondente per i metalli",
+    "ja": "灰汁石鹸",
+    "ko": "식물성 잿물 (클렌징에서); 비누로 사용되거나 플럭스 포메탈로 사용됩니다",
+    "lt": "augalinis šarmas (nuo jo valymo); naudojamas kaip skalbiamasis muilas arba fliusas",
+    "lv": "augu sārms (no tā attīrīšanas); izmanto kā ziepes mazgāšanai vai saturošu vielu šķidrumam",
+    "nb": "vegetabilsk lut (fra rensing); brukes som såpe til vasking, eller som flussmiddel for metaller",
+    "nl": "plantaardige loog (van de reiniging); gebruikt als zeep voor het wassen, of als vloeimiddel voor metalen",
+    "pl": "ług roślinny (od jego oczyszczania); stosowany jako mydło do prania lub topnik do formowania metali",
+    "pt": "lixívia vegetal (por ser limpa); utilizada como sabão para lavar roupa ou como fundente de metais",
+    "ro": "leșie vegetală (de la curățarea sa); utilizată ca săpun pentru spălare sau ca fondant pentru metale",
+    "ru": "растительная щелочь (от cleansing); используется как мыло для стирки, или флюс для формирования металлов",
+    "sk": "rastlinný lúh (z jeho čistenia); používa sa ako mydlo na pranie alebo ako tavidlo",
+    "sl": "rastlinski lug (zaradi čiščenja); uporablja se kot milo za pranje ali topilo za kovine",
+    "sv": "vegetabilisk lut (från dess rengörande verkan); används som tvål för tvättning eller som flussmedel för formetaller",
+    "tr": "bitkisel kül suyu (temizleyiciliğinden); yıkama için sabun veya metaller için eritici olarak kullanılır",
+    "uk": "рослинний луг (від його очищення); використовується як мило для прання, або як флюс для металів",
+    "zh": "植物碱；用作洗涤肥皂或金属助熔剂"
+  },
+  "hebrew": "בֹּר",
+  "verses": [
+    "job 9:30:6",
+    "isaiah 1:25:4"
+  ]
+}

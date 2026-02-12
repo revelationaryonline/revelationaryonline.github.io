@@ -1,0 +1,42 @@
+{
+  "number": "H3891",
+  "language": "hebrew",
+  "transliteration": "lᵉzûwth",
+  "pronunciation": "lez-ooth'",
+  "definition": "perverseness",
+  "kjvTranslation": "perverse.",
+  "hebrew": "לְזוּת",
+  "translations": {
+    "bg": "извратеност",
+    "cs": "zvrácenost",
+    "da": "perversitet",
+    "de": "perversität",
+    "el": "διαστροφή",
+    "es": "perversidad",
+    "et": "perverssus",
+    "fi": "perverssiys",
+    "fr": "perversité",
+    "hu": "perverzitás",
+    "id": "penyimpangan",
+    "it": "perversione",
+    "ja": "横車",
+    "ko": "비뚤어짐",
+    "lt": "iškrypėliškumas",
+    "lv": "perversitāte",
+    "nb": "perversitet",
+    "nl": "perversiteit",
+    "pl": "przewrotność",
+    "pt": "perversidade",
+    "ro": "perversitate",
+    "ru": "извращение",
+    "sk": "zvrátenosť",
+    "sl": "sprevrženost",
+    "sv": "perversitet",
+    "tr": "sapkınlık",
+    "uk": "збоченість",
+    "zh": "变态"
+  },
+  "verses": [
+    "proverbs 4:24:4"
+  ]
+}

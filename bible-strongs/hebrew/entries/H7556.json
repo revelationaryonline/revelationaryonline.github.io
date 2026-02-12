@@ -1,0 +1,42 @@
+{
+  "number": "H7556",
+  "language": "hebrew",
+  "transliteration": "râqaq",
+  "pronunciation": "raw-kak'",
+  "definition": "to spit",
+  "kjvTranslation": "spit.",
+  "hebrew": "רָקַק",
+  "translations": {
+    "bg": "да плюеш",
+    "cs": "plivat",
+    "da": "at spytte",
+    "de": "zu spucken",
+    "el": "να φτύνω",
+    "es": "escupir",
+    "et": "sülitada",
+    "fi": "sylkeä",
+    "fr": "cracher",
+    "hu": "köpni",
+    "id": "untuk meludah",
+    "it": "sputare",
+    "ja": "ツバを吐く",
+    "ko": "침을 뱉다",
+    "lt": "spjaudyti",
+    "lv": "spļaut",
+    "nb": "å spytte",
+    "nl": "spuwen",
+    "pl": "pluć",
+    "pt": "cuspir",
+    "ro": "să scuipe",
+    "ru": "плеваться",
+    "sk": "pľuť",
+    "sl": "pljuvati",
+    "sv": "att spotta",
+    "tr": "tükürmek için",
+    "uk": "сплюнути",
+    "zh": "吐痰"
+  },
+  "verses": [
+    "leviticus 15:8:1"
+  ]
+}

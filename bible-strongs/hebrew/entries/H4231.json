@@ -1,0 +1,42 @@
+{
+  "number": "H4231",
+  "language": "hebrew",
+  "transliteration": "mâchôwz",
+  "pronunciation": "maw-khoze'",
+  "definition": "a harbor (as shut in by the shore)",
+  "kjvTranslation": "haven.",
+  "hebrew": "מָחוֹז",
+  "translations": {
+    "bg": "пристанище (като затворено от брега)",
+    "cs": "přístav (uzavřený u břehu)",
+    "da": "en havn (som er lukket inde ved kysten)",
+    "de": "ein Hafen (wie von der Küste eingeschlossen)",
+    "el": "ένα λιμάνι (όπως κλείνεται από την ακτή)",
+    "es": "un puerto (como cerrado por la orilla)",
+    "et": "sadam (nagu kalda ääres suletud)",
+    "fi": "satama (rantaan suljettuna)",
+    "fr": "un port (comme fermé par le rivage)",
+    "hu": "kikötő (mint a parttól elzárt kikötő)",
+    "id": "pelabuhan (seperti yang tertutup di tepi pantai)",
+    "it": "un porto (come chiuso dalla riva)",
+    "ja": "寄港地",
+    "ko": "항구(해안에 의해 폐쇄된 상태)",
+    "lt": "uostas (kaip uždaras prie kranto)",
+    "lv": "osta (kā piekrastē noslēgta)",
+    "nb": "en havn (som stengt inne ved kysten)",
+    "nl": "een haven (als ingesloten door de kust)",
+    "pl": "port (zamknięty przy brzegu)",
+    "pt": "um porto (fechado pela costa)",
+    "ro": "un port (ca închis de țărm)",
+    "ru": "гавань (закрытая берегом)",
+    "sk": "prístav (uzavretý pri brehu)",
+    "sl": "pristanišče (zaprto ob obali)",
+    "sv": "en hamn (som stängs in av kusten)",
+    "tr": "bir liman (kıyı tarafından kapatılmış olarak)",
+    "uk": "гавань (як закрита берегом)",
+    "zh": "港湾"
+  },
+  "verses": [
+    "psalms 107:30:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7282",
+  "language": "hebrew",
+  "transliteration": "râgêaʻ",
+  "pronunciation": "raw-gay'-ah",
+  "definition": "restful, i.e. peaceable",
+  "kjvTranslation": "that are quiet.",
+  "hebrew": "רָגֵעַ",
+  "translations": {
+    "bg": "спокоен, т.е. мирен",
+    "cs": "klidný, tj. mírumilovný",
+    "da": "afslappende, dvs. fredfyldt",
+    "de": "erholsam, d.h. friedfertig",
+    "el": "ξεκούραστο, δηλαδή ειρηνικό",
+    "es": "tranquilo, es decir, pacífico",
+    "et": "rahulik, st rahulik",
+    "fi": "levollinen eli rauhallinen",
+    "fr": "reposant, c'est-à-dire pacifique",
+    "hu": "nyugodt, azaz békés",
+    "id": "tenang, yaitu damai",
+    "it": "riposante, cioè pacifico",
+    "ja": "安らか",
+    "ko": "편안한, 즉 평화로운",
+    "lt": "ramus, t. y. taikus",
+    "lv": "mierīgs, t. i., miermīlīgs",
+    "nb": "avslappende, dvs. fredelig",
+    "nl": "rustgevend, d.w.z. vredig",
+    "pl": "spokojny, tj. pokojowy",
+    "pt": "repousante, ou seja, pacífico",
+    "ro": "odihnitor, adică liniștit",
+    "ru": "спокойный, т.е. мирный",
+    "sk": "pokojný, t. j. mierumilovný",
+    "sl": "miren, tj. miroljuben",
+    "sv": "vilsam, d.v.s. fridfull",
+    "tr": "dinlendirici, yani huzurlu",
+    "uk": "спокійний, тобто мирний",
+    "zh": "安宁"
+  },
+  "verses": [
+    "psalms 35:20:5"
+  ]
+}

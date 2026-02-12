@@ -1,0 +1,43 @@
+{
+  "number": "H849",
+  "language": "hebrew",
+  "transliteration": "ʼeshtaddûwr",
+  "pronunciation": "esh-tad-dure'",
+  "definition": "rebellion",
+  "kjvTranslation": "sedition.",
+  "translations": {
+    "bg": "бунт",
+    "cs": "vzpoura",
+    "da": "oprør",
+    "de": "rebellion",
+    "el": "εξέγερση",
+    "es": "rebelión",
+    "et": "mässu",
+    "fi": "kapina",
+    "fr": "rébellion",
+    "hu": "lázadás",
+    "id": "pemberontakan",
+    "it": "ribellione",
+    "ja": "反乱",
+    "ko": "반란",
+    "lt": "sukilimas",
+    "lv": "sacelšanās",
+    "nb": "opprør",
+    "nl": "opstand",
+    "pl": "bunt",
+    "pt": "rebelião",
+    "ro": "rebeliune",
+    "ru": "восстание",
+    "sk": "vzbura",
+    "sl": "upor",
+    "sv": "uppror",
+    "tr": "i̇SYAN",
+    "uk": "бунт",
+    "zh": "暴动"
+  },
+  "hebrew": "אֶשְׁתַּדּוּר",
+  "verses": [
+    "ezra 4:15:18",
+    "ezra 4:19:15"
+  ]
+}

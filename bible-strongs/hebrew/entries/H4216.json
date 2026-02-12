@@ -1,0 +1,42 @@
+{
+  "number": "H4216",
+  "language": "hebrew",
+  "transliteration": "mazzârâh",
+  "pronunciation": "maz-zaw-raw'",
+  "definition": "some noted constellation (only in the plural), perhaps collectively, the zodiac",
+  "kjvTranslation": "Mazzoroth. Compare H4208 (מַזָּלָה).",
+  "hebrew": "מַזָּרָה",
+  "translations": {
+    "bg": "някое отбелязано съзвездие (само в множествено число), може би общо, зодиака",
+    "cs": "nějaké známé souhvězdí (pouze v množném čísle), možná souhrnně zvěrokruh",
+    "da": "nogle kendte konstellationer (kun i flertal), måske samlet, dyrekredsen",
+    "de": "eine bekannte Konstellation (nur im Plural), vielleicht auch der Tierkreis als Ganzes",
+    "el": "κάποιος αξιοσημείωτος αστερισμός (μόνο στον πληθυντικό), ίσως συλλογικά, ο ζωδιακός κύκλος",
+    "es": "alguna constelación señalada (sólo en plural), tal vez colectivamente, el zodíaco",
+    "et": "mõni tähistaevas tähistaevas (ainult mitmuses), võib-olla kollektiivselt, sodiaagis",
+    "fi": "jokin tunnettu tähtikuvio (vain monikossa), ehkä kollektiivisesti, eläinradan tähdistö",
+    "fr": "une constellation notée (uniquement au pluriel), peut-être collectivement, le zodiaque",
+    "hu": "valamilyen ismert csillagkép (csak többes számban), esetleg együttesen az állatövi csillagképek",
+    "id": "beberapa rasi bintang yang terkenal (hanya dalam bentuk jamak), mungkin secara kolektif, zodiak",
+    "it": "qualche costellazione nota (solo al plurale), forse collettivamente, lo zodiaco",
+    "ja": "注目の星座（複数形のみ）、おそらくまとめて黄道帯",
+    "ko": "일부 유명한 별자리(복수형만 해당), 아마도 총칭하여 황도대일 것입니다",
+    "lt": "koks nors pažymėtas žvaigždynas (tik daugiskaita), galbūt bendrai Zodiakas",
+    "lv": "kāds ievērojams zvaigznājs (tikai daudzskaitlī), varbūt kopā - zodiaks",
+    "nb": "noen kjente stjernebilder (bare i flertall), kanskje samlet, dyrekretsen",
+    "nl": "een of ander genoteerd sterrenbeeld (alleen in het meervoud), misschien collectief, de dierenriem",
+    "pl": "jakiś zauważony gwiazdozbiór (tylko w liczbie mnogiej), być może zbiorczo, zodiak",
+    "pt": "alguma constelação notável (apenas no plural), talvez coletivamente, o zodíaco",
+    "ro": "unele constelații remarcate (numai la plural), poate în mod colectiv, zodiacul",
+    "ru": "некоторое отмеченное созвездие (только во множественном числе), возможно, в совокупности - зодиак",
+    "sk": "nejaké známe súhvezdie (len v množnom čísle), možno spoločne, zverokruh",
+    "sl": "neko znano ozvezdje (samo v množini), morda skupno, zodiak",
+    "sv": "någon känd konstellation (endast i plural), kanske kollektivt, zodiaken",
+    "tr": "bazı takımyıldızlar (sadece çoğul olarak), belki de toplu olarak zodyak",
+    "uk": "якесь відоме сузір'я (тільки у множині), можливо, разом - зодіак",
+    "zh": "一些著名的星座（仅为复数），也许统称为黄道十二宫"
+  },
+  "verses": [
+    "job 38:32:1"
+  ]
+}

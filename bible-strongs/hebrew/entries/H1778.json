@@ -1,0 +1,43 @@
+{
+  "number": "H1778",
+  "language": "hebrew",
+  "transliteration": "dîyn",
+  "pronunciation": "deen",
+  "definition": "to judge",
+  "kjvTranslation": "judge.",
+  "translations": {
+    "bg": "да съди",
+    "cs": "posuzovat",
+    "da": "at dømme",
+    "de": "zu beurteilen",
+    "el": "να κρίνουμε",
+    "es": "juzgar",
+    "et": "kohtunikuks",
+    "fi": "tuomitsemaan",
+    "fr": "juger",
+    "hu": "ítélkezni",
+    "id": "untuk menilai",
+    "it": "giudicare",
+    "ja": "判断する",
+    "ko": "판단하기",
+    "lt": "vertinti",
+    "lv": "spriest",
+    "nb": "å dømme",
+    "nl": "oordelen",
+    "pl": "oceniać",
+    "pt": "para julgar",
+    "ro": "să judece",
+    "ru": "судить",
+    "sk": "posudzovať",
+    "sl": "soditi",
+    "sv": "att döma",
+    "tr": "yargılamak için",
+    "uk": "щоб судити",
+    "zh": "来判断"
+  },
+  "hebrew": "דִּין",
+  "verses": [
+    "ezra 7:25:11",
+    "ezra 7:25:12"
+  ]
+}

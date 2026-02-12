@@ -1,0 +1,43 @@
+{
+  "number": "H8250",
+  "language": "hebrew",
+  "transliteration": "shiqqûwy",
+  "pronunciation": "shik-koo'-ee",
+  "definition": "a beverage; moisture, i.e. (figuratively) refreshment",
+  "kjvTranslation": "drink, marrow.",
+  "hebrew": "שִׁקּוּי",
+  "translations": {
+    "bg": "напитка; влага, т.е. (в преносен смисъл) освежаване",
+    "cs": "nápoj; vlhkost, tj. (přeneseně) osvěžení",
+    "da": "en drik; fugt, dvs. (i overført betydning) forfriskning",
+    "de": "ein Getränk; Feuchtigkeit, d. h. (im übertragenen Sinne) Erfrischung",
+    "el": "ποτό- υγρασία, δηλαδή (μεταφορικά) αναψυκτικό",
+    "es": "una bebida; humedad, es decir (en sentido figurado) refresco",
+    "et": "jook; niiskus, st (piltlikult öeldes) virgutamine",
+    "fi": "juoma; kosteus eli (kuvaannollisesti) virvoitusjuoma",
+    "fr": "une boisson ; de l'humidité, c'est-à-dire (au sens figuré) un rafraîchissement",
+    "hu": "ital; nedvesség, azaz (átvitt értelemben) felfrissülés",
+    "id": "minuman; kelembapan, yaitu penyegaran (secara kiasan)",
+    "it": "una bevanda; l'umidità, cioè (in senso figurato) il ristoro",
+    "ja": "飲料；水分、すなわち（比喩的に）リフレッシュメント",
+    "ko": "음료; 수분, 즉 (비유적으로) 다과류",
+    "lt": "gėrimas; drėgmė, t. y. (perkeltine prasme) atgaiva",
+    "lv": "dzēriens; mitrums, t. i., (pārnestā nozīmē) atspirdzinājums",
+    "nb": "en drikk; fuktighet, dvs. (i overført betydning) forfriskning",
+    "nl": "een drank; vocht, d.w.z. (figuurlijk) verfrissing",
+    "pl": "napój; wilgoć, tj. (w przenośni) orzeźwienie",
+    "pt": "uma bebida; humidade, ou seja (figurativamente) um refresco",
+    "ro": "o băutură; umiditate, adică (la figurat) răcorire",
+    "ru": "напиток; влага, т.е. (фигурально) освежение",
+    "sk": "nápoj; vlhkosť, t. j. (v prenesenom význame) osvieženie",
+    "sl": "pijača; vlaga, tj. (v prenesenem pomenu) osvežitev",
+    "sv": "en dryck; fukt, dvs. (bildligt talat) förfriskning",
+    "tr": "bir içecek; nem, yani (mecazi olarak) ferahlık",
+    "uk": "напій; волога, тобто (образно) освіження",
+    "zh": "饮料；水分，即（比喻）提神剂"
+  },
+  "verses": [
+    "proverbs 3:8:3",
+    "hosea 2:7:16"
+  ]
+}

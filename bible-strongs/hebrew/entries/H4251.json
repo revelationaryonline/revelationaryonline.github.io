@@ -1,0 +1,43 @@
+{
+  "number": "H4251",
+  "language": "hebrew",
+  "transliteration": "machluy",
+  "pronunciation": "makh-loo'-ee",
+  "definition": "a disease",
+  "kjvTranslation": "disease.",
+  "hebrew": "מַחְלֻי",
+  "translations": {
+    "bg": "заболяване",
+    "cs": "nemoc",
+    "da": "en sygdom",
+    "de": "eine Krankheit",
+    "el": "μια ασθένεια",
+    "es": "una enfermedad",
+    "et": "haigus",
+    "fi": "sairaus",
+    "fr": "une maladie",
+    "hu": "betegség",
+    "id": "penyakit",
+    "it": "una malattia",
+    "ja": "病気",
+    "ko": "질병",
+    "lt": "liga",
+    "lv": "slimība",
+    "nb": "en sykdom",
+    "nl": "een ziekte",
+    "pl": "choroba",
+    "pt": "uma doença",
+    "ro": "o boală",
+    "ru": "болезнь",
+    "sk": "choroba",
+    "sl": "bolezen",
+    "sv": "en sjukdom",
+    "tr": "bir hastalık",
+    "uk": "хвороба",
+    "zh": "疾病"
+  },
+  "verses": [
+    "secondChronicles 24:25:5",
+    "secondChronicles 24:25:6"
+  ]
+}

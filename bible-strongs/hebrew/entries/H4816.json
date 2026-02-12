@@ -1,0 +1,42 @@
+{
+  "number": "H4816",
+  "language": "hebrew",
+  "transliteration": "môrek",
+  "pronunciation": "mo'-rek",
+  "definition": "softness, i.e. (figuratively) fear",
+  "kjvTranslation": "faintness.",
+  "hebrew": "מֹרֶךְ",
+  "translations": {
+    "bg": "мекота, т.е. (в преносен смисъл) страх",
+    "cs": "měkkost, tj. (přeneseně) strach",
+    "da": "blødhed, dvs. (i overført betydning) frygt",
+    "de": "weichheit, d.h. (im übertragenen Sinne) Angst",
+    "el": "απαλότητα, δηλαδή (μεταφορικά) φόβος",
+    "es": "blandura, es decir (en sentido figurado) miedo",
+    "et": "pehmus, st (piltlikult öeldes) kartus",
+    "fi": "pehmeys, eli (kuvaannollisesti) pelko",
+    "fr": "la douceur, c'est-à-dire la peur (au sens figuré)",
+    "hu": "puhaság, azaz (átvitt értelemben) a félelem",
+    "id": "kelembutan, yaitu (secara kiasan) rasa takut",
+    "it": "morbidezza, cioè (in senso figurato) paura",
+    "ja": "弱気",
+    "ko": "부드러움, 즉 (비유적으로) 두려움",
+    "lt": "minkštumas, t. y. (perkeltine prasme) baimė",
+    "lv": "maigums, t.i., (pārnestā nozīmē) bailes",
+    "nb": "mykhet, dvs. (i overført betydning) frykt",
+    "nl": "zachtheid, d.w.z. (figuurlijk) angst",
+    "pl": "miękkość, tj. (w przenośni) strach",
+    "pt": "suavidade, ou seja, (figurativamente) medo",
+    "ro": "moliciune, adică (la figurat) frică",
+    "ru": "мягкость, т.е. (фигурально) страх",
+    "sk": "mäkkosť, t. j. (obrazne) strach",
+    "sl": "mehkoba, tj. (v prenesenem pomenu) strah",
+    "sv": "mjukhet, dvs. (bildligt talat) rädsla",
+    "tr": "yumuşaklık, yani (mecazi olarak) korku",
+    "uk": "м'якість, тобто (образно) страх",
+    "zh": "柔，即（比喻）恐惧"
+  },
+  "verses": [
+    "leviticus 26:36:3"
+  ]
+}

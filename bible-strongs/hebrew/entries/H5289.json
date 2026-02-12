@@ -1,0 +1,42 @@
+{
+  "number": "H5289",
+  "language": "hebrew",
+  "transliteration": "naʻar",
+  "pronunciation": "nah'-ar",
+  "definition": "a wanderer",
+  "kjvTranslation": "young one.",
+  "hebrew": "נַעַר",
+  "translations": {
+    "bg": "скитник",
+    "cs": "poutník",
+    "da": "en vandrer",
+    "de": "ein Wanderer",
+    "el": "ένας περιπλανώμενος",
+    "es": "un vagabundo",
+    "et": "rändur",
+    "fi": "vaeltaja",
+    "fr": "un vagabond",
+    "hu": "egy vándor",
+    "id": "seorang pengembara",
+    "it": "un vagabondo",
+    "ja": "放浪者",
+    "ko": "방랑자",
+    "lt": "klajūnas",
+    "lv": "klejotājs",
+    "nb": "en vandrer",
+    "nl": "een zwerver",
+    "pl": "wędrowiec",
+    "pt": "um vagabundo",
+    "ro": "un vagabond",
+    "ru": "странник",
+    "sk": "pútnik",
+    "sl": "popotnik",
+    "sv": "en vandrare",
+    "tr": "bir gezgin",
+    "uk": "мандрівник",
+    "zh": "漂泊者"
+  },
+  "verses": [
+    "zechariah 11:16:9"
+  ]
+}

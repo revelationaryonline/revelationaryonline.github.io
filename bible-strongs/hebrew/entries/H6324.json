@@ -1,0 +1,42 @@
+{
+  "number": "H6324",
+  "language": "hebrew",
+  "transliteration": "Pûwnîy",
+  "pronunciation": "poo-nee'",
+  "definition": "a Punite (collectively) or descendants of an unknown Pun",
+  "kjvTranslation": "Punites.",
+  "hebrew": "פּוּנִי",
+  "translations": {
+    "bg": "пунит (колективно) или потомци на неизвестен пунит",
+    "cs": "punite (společně) nebo potomci neznámého Punite",
+    "da": "en Punite (kollektivt) eller efterkommere af en ukendt Pun",
+    "de": "ein Punit (kollektiv) oder Nachkommen eines unbekannten Pun",
+    "el": "ένας Punite (συλλογικά) ή απόγονοι ενός άγνωστου Pun",
+    "es": "un Punite (colectivamente) o descendientes de un Pun desconocido",
+    "et": "punite (kollektiivselt) või tundmatu Punite järeltulijad",
+    "fi": "punite (kollektiivisesti) tai tuntemattoman Punin jälkeläiset",
+    "fr": "un Punite (collectivement) ou des descendants d'un Pun inconnu",
+    "hu": "egy punita (kollektíven) vagy egy ismeretlen pun leszármazottai",
+    "id": "seorang Punite (secara kolektif) atau keturunan dari Pun yang tidak dikenal",
+    "it": "un Punite (collettivamente) o discendenti di un Pun sconosciuto",
+    "ja": "プナイト（総称）、または未知のプナイトの子孫",
+    "ko": "(총칭하여) 말장난 또는 알 수 없는 말장난의 자손",
+    "lt": "punitas (bendrai) arba nežinomo Punito palikuonys",
+    "lv": "punīti (kopā) vai nezināma punīta pēcteči",
+    "nb": "en punitt (kollektivt) eller etterkommere av en ukjent pun",
+    "nl": "een Punite (collectief) of afstammelingen van een onbekende Pun",
+    "pl": "punita (łącznie) lub potomkowie nieznanego Punita",
+    "pt": "um Punita (coletivamente) ou descendentes de um Punita desconhecido",
+    "ro": "un Punite (colectiv) sau descendenți ai unui Pun necunoscut",
+    "ru": "пуниты (все вместе) или потомки неизвестного пунита",
+    "sk": "punita (spoločne) alebo potomkovia neznámeho Punitu",
+    "sl": "punita (skupaj) ali potomci neznanega Punita",
+    "sv": "en Punite (kollektivt) eller ättlingar till en okänd Pun",
+    "tr": "bir Punite (topluca) veya bilinmeyen bir Pun'un soyundan gelenler",
+    "uk": "пуніта (колективно) або нащадків невідомого Пуніта",
+    "zh": "一个 Punite（集体）或一个未知 Pun 的后裔"
+  },
+  "verses": [
+    "numbers 26:23:8"
+  ]
+}

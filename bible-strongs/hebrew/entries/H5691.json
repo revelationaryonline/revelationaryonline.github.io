@@ -1,0 +1,42 @@
+{
+  "number": "H5691",
+  "language": "hebrew",
+  "transliteration": "ʻăgâbâh",
+  "pronunciation": "ag-aw-baw'",
+  "definition": "love (abstractly), i.e. amorousness",
+  "kjvTranslation": "inordinate love.",
+  "hebrew": "עֲגָבָה",
+  "translations": {
+    "bg": "любов (абстрактно), т.е. влюбеност",
+    "cs": "láska (abstraktně), tj. zamilovanost",
+    "da": "kærlighed (abstrakt), dvs. forelskelse",
+    "de": "liebe (abstrakt), d.h. Verliebtheit",
+    "el": "αγάπη (αφηρημένα), δηλ. έρωτας",
+    "es": "amor (en abstracto), es decir, amorosidad",
+    "et": "armastus (abstraktselt), s.t. armumine",
+    "fi": "rakkaus (abstraktisti), ts. rakastuneisuus",
+    "fr": "l'amour (abstrait), c'est-à-dire l'amourette",
+    "hu": "szerelem (elvontan), azaz szerelemszeretet",
+    "id": "cinta (secara abstrak), yaitu asmara",
+    "it": "amore (astrattamente), cioè amoralità",
+    "ja": "あいじょう",
+    "ko": "사랑(추상적으로), 즉 사랑스러움",
+    "lt": "meilė (abstrakčiai), t. y. įsimylėjimas",
+    "lv": "mīlestība (abstrakti), t.i., mīlība",
+    "nb": "kjærlighet (abstrakt), dvs. amorøsitet",
+    "nl": "liefde (abstract), d.w.z. amoureusheid",
+    "pl": "miłość (abstrakcyjnie), tj. amoralność",
+    "pt": "amor (abstratamente), ou seja, amorosidade",
+    "ro": "iubire (abstractă), adică iubire",
+    "ru": "любовь (абстрактно), т.е. влюбленность",
+    "sk": "láska (abstraktne), t. j. zamilovanosť",
+    "sl": "ljubezen (abstraktno), tj. zaljubljenost",
+    "sv": "kärlek (abstrakt), d.v.s. förälskelse",
+    "tr": "sevgi (soyut olarak), yani aşk",
+    "uk": "любов (абстрактно), тобто закоханість",
+    "zh": "爱情"
+  },
+  "verses": [
+    "ezekiel 23:11:4"
+  ]
+}

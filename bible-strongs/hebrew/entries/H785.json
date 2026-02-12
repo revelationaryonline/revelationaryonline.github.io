@@ -1,0 +1,42 @@
+{
+  "number": "H785",
+  "language": "hebrew",
+  "transliteration": "ʼêsh",
+  "pronunciation": "aysh",
+  "definition": "{fire (literally or figuratively)}",
+  "kjvTranslation": "flame.",
+  "translations": {
+    "bg": "{огън (в буквален или преносен смисъл)}",
+    "cs": "{požár (doslova nebo obrazně)}",
+    "da": "{ild (bogstaveligt eller i overført betydning)}",
+    "de": "{Feuer (wörtlich oder im übertragenen Sinne)}",
+    "el": "{φωτιά (κυριολεκτικά ή μεταφορικά)}",
+    "es": "{fuego (literal o figurado)}",
+    "et": "{tuli (sõna otseses või ülekantud tähenduses)}",
+    "fi": "{tuli (kirjaimellisesti tai kuvaannollisesti)}",
+    "fr": "{feu (au sens propre ou figuré)}",
+    "hu": "{tűz (szó szerint vagy átvitt értelemben)}",
+    "id": "{api (secara harfiah atau kiasan)}",
+    "it": "{Fuoco (letteralmente o in senso figurato)",
+    "ja": "火（文字通りの意味でも比喩的な意味でも）}。",
+    "ko": "{불(문자 그대로 또는 비유적으로)}",
+    "lt": "{ugnis (tiesiogine ar perkeltine prasme)}",
+    "lv": "{uguns (burtiski vai pārnestā nozīmē)}",
+    "nb": "{ild (bokstavelig eller i overført betydning)}",
+    "nl": "{vuur (letterlijk of figuurlijk)}",
+    "pl": "{ogień (dosłownie lub w przenośni)}",
+    "pt": "{fogo (literal ou figurativamente)}",
+    "ro": "{foc (la propriu sau la figurat)}",
+    "ru": "{огонь (в прямом или переносном смысле)}",
+    "sk": "{požiar (doslovne alebo obrazne)}",
+    "sl": "{ogenj (dobesedno ali v prenesenem pomenu)}",
+    "sv": "{eld (bokstavligen eller bildligt talat)}",
+    "tr": "{ateş (gerçek veya mecazi)}",
+    "uk": "{вогонь (у прямому чи переносному значенні)",
+    "zh": "{火（字面或比喻）}"
+  },
+  "hebrew": "אֵשׁ",
+  "verses": [
+    "daniel 7:11:20"
+  ]
+}

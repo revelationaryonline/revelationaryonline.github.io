@@ -1,0 +1,42 @@
+{
+  "number": "H1636",
+  "language": "hebrew",
+  "transliteration": "Garmîy",
+  "pronunciation": "gar-mee'",
+  "definition": "bony, i.e. strong",
+  "kjvTranslation": "Garmite.",
+  "translations": {
+    "bg": "костен, т.е. силен",
+    "cs": "kostnatý, tj. silný",
+    "da": "knoglet, dvs. stærk",
+    "de": "knochig, d.h. stark",
+    "el": "οστέινος, δηλαδή ισχυρός",
+    "es": "óseo, es decir, fuerte",
+    "et": "kondine, st tugev",
+    "fi": "luinen, eli vahva",
+    "fr": "osseux, c'est-à-dire fort",
+    "hu": "csontos, azaz erős",
+    "id": "bertulang, yaitu kuat",
+    "it": "ossuto, cioè forte",
+    "ja": "骨太",
+    "ko": "뼈, 즉 강한",
+    "lt": "kaulinis, t. y. stiprus",
+    "lv": "kaulains, t. i., spēcīgs",
+    "nb": "benete, dvs. sterk",
+    "nl": "benig, d.w.z. sterk",
+    "pl": "kościsty, tj. silny",
+    "pt": "ósseo, ou seja, forte",
+    "ro": "osoase, adică puternice",
+    "ru": "костлявый, т.е. сильный",
+    "sk": "kostnatý, t. j. silný",
+    "sl": "koščen, tj. močan",
+    "sv": "benig, d.v.s. stark",
+    "tr": "kemikli, yani güçlü",
+    "uk": "кістлявий, тобто сильний",
+    "zh": "骨质"
+  },
+  "hebrew": "גַּרְמִי",
+  "verses": [
+    "firstChronicles 4:19:7"
+  ]
+}

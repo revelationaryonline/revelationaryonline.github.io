@@ -1,0 +1,42 @@
+{
+  "number": "H1312",
+  "language": "hebrew",
+  "transliteration": "Bishlâm",
+  "pronunciation": "bish-lawm'",
+  "definition": "Bishlam, a Persian",
+  "kjvTranslation": "Bishlam.",
+  "translations": {
+    "bg": "Бишлам, персийски език",
+    "cs": "Bishlam, perský",
+    "da": "Bishlam, en persisk",
+    "de": "Bishlam, ein persischer",
+    "el": "Bishlam, ένας Πέρσης",
+    "es": "Bishlam, un persa",
+    "et": "Bishlam, pärsiapärane",
+    "fi": "Bishlam, persialainen",
+    "fr": "Bishlam, un Persan",
+    "hu": "Bishlam, egy perzsa",
+    "id": "Bishlam, seorang Persia",
+    "it": "Bishlam, un persiano",
+    "ja": "ビシュラム、ペルシア語",
+    "ko": "페르시아인 비슬람",
+    "lt": "Bišlamas, persų",
+    "lv": "Bishlam, persiešu",
+    "nb": "Bishlam, en persisk",
+    "nl": "Bishlam, een Perzische",
+    "pl": "Bishlam, perski",
+    "pt": "Bishlam, um persa",
+    "ro": "Bishlam, un persan",
+    "ru": "Бишлам, персидский",
+    "sk": "Bishlam, perzský",
+    "sl": "Bishlam, perzijski",
+    "sv": "Bishlam, en persisk",
+    "tr": "Bişlam, bir Farsça",
+    "uk": "Бішлам, перс",
+    "zh": "比什拉姆"
+  },
+  "hebrew": "בִּשְׁלָם",
+  "verses": [
+    "ezra 4:7:3"
+  ]
+}

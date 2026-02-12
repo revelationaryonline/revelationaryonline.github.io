@@ -1,0 +1,42 @@
+{
+  "number": "H5213",
+  "language": "hebrew",
+  "transliteration": "nîytsôwts",
+  "pronunciation": "nee-tsotes'",
+  "definition": "a spark",
+  "kjvTranslation": "spark.",
+  "hebrew": "נִיצוֹץ",
+  "translations": {
+    "bg": "искра",
+    "cs": "jiskra",
+    "da": "en gnist",
+    "de": "ein Funke",
+    "el": "μια σπίθα",
+    "es": "una chispa",
+    "et": "säde",
+    "fi": "kipinä",
+    "fr": "une étincelle",
+    "hu": "egy szikra",
+    "id": "percikan",
+    "it": "una scintilla",
+    "ja": "火花",
+    "ko": "스파크",
+    "lt": "kibirkštis",
+    "lv": "dzirkstele",
+    "nb": "en gnist",
+    "nl": "een vonk",
+    "pl": "iskra",
+    "pt": "uma faísca",
+    "ro": "o scânteie",
+    "ru": "искра",
+    "sk": "iskra",
+    "sl": "iskrica",
+    "sv": "en gnista",
+    "tr": "bir kıvılcım",
+    "uk": "іскру",
+    "zh": "火花"
+  },
+  "verses": [
+    "isaiah 1:31:4"
+  ]
+}

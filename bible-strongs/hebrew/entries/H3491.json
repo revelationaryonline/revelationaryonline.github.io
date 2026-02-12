@@ -1,0 +1,42 @@
+{
+  "number": "H3491",
+  "language": "hebrew",
+  "transliteration": "yâthûwr",
+  "pronunciation": "yaw-thoor'",
+  "definition": "properly, what is left, i.e. (by implication) a gleaning",
+  "kjvTranslation": "range.",
+  "translations": {
+    "bg": "правилно, това, което е останало, т.е. (по подразбиране) събиране",
+    "cs": "správně, co zbylo, tj. (implicitně) sběr",
+    "da": "korrekt, hvad der er tilbage, dvs. (underforstået) en indsamling",
+    "de": "das, was übrig bleibt, d. h. (implizit) eine Nachlese",
+    "el": "σωστά, ό,τι έχει απομείνει, δηλ. (κατ' επέκταση) ένα μάζεμα",
+    "es": "propiamente, lo que queda, es decir (implícitamente) un espigado",
+    "et": "korralikult, mis on jäänud, st (kaudselt) kogutud",
+    "fi": "oikein, mitä jää jäljelle, eli (implisiittisesti) keräilyä",
+    "fr": "proprement dit, ce qui reste, c'est-à-dire (implicitement) un glanage",
+    "hu": "megfelelően, ami megmaradt, azaz (értelemszerűen) egy gyűjtés",
+    "id": "benar, apa yang tersisa, yaitu (dengan implikasi) sebuah pemungutan",
+    "it": "propriamente, ciò che è rimasto, cioè (per implicazione) una raccolta",
+    "ja": "つまり、（暗黙の了解として）残されたもの、つまり \"収穫 \"である。",
+    "ko": "제대로 말하면, 남은 것, 즉 (암시 적으로) 채집",
+    "lt": "tinkamai, tai, kas liko, t. y. (netiesiogiai) rinkimas",
+    "lv": "pareizi, tas, kas ir palicis, t. i., (netieši), vākšana",
+    "nb": "riktig, det som er igjen, dvs. (underforstått) en innhøsting",
+    "nl": "op de juiste manier, wat overblijft, d.w.z. (impliciet) een sprokkeling",
+    "pl": "właściwie to, co pozostało, tj. (w domyśle) zbieranie",
+    "pt": "propriamente dito, o que resta, ou seja, (implicitamente) uma respiga",
+    "ro": "propriu-zis, ceea ce rămâne, adică (implicit) o culegere",
+    "ru": "правильно, то, что осталось, т.е. (по косвенным признакам) уборка",
+    "sk": "správne, čo zostalo, t. j. (implicitne) zber",
+    "sl": "pravilno, kar je ostalo, tj. (implicitno) nabiranje",
+    "sv": "korrekt, det som är kvar, dvs. (underförstått) en rensning",
+    "tr": "doğru bir şekilde, geriye kalan şey, yani (ima yoluyla) bir toplama",
+    "uk": "власне, те, що залишилося, тобто (імпліцитно) зведення",
+    "zh": "正确地说，是剩下的东西，即（暗指）拾取的东西"
+  },
+  "hebrew": "יָתוּר",
+  "verses": [
+    "job 39:8:0"
+  ]
+}

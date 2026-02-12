@@ -1,0 +1,42 @@
+{
+  "number": "H7221",
+  "language": "hebrew",
+  "transliteration": "riʼshâh",
+  "pronunciation": "ree-shaw'",
+  "definition": "a beginning",
+  "kjvTranslation": "beginning.",
+  "hebrew": "רִאשָׁה",
+  "translations": {
+    "bg": "начало",
+    "cs": "začátek",
+    "da": "en begyndelse",
+    "de": "ein Anfang",
+    "el": "μια αρχή",
+    "es": "un comienzo",
+    "et": "algus",
+    "fi": "alku",
+    "fr": "un début",
+    "hu": "a kezdet",
+    "id": "sebuah permulaan",
+    "it": "un inizio",
+    "ja": "始まり",
+    "ko": "시작",
+    "lt": "pradžia",
+    "lv": "sākums",
+    "nb": "en begynnelse",
+    "nl": "een begin",
+    "pl": "początek",
+    "pt": "um começo",
+    "ro": "un început",
+    "ru": "начало",
+    "sk": "začiatok",
+    "sl": "začetek",
+    "sv": "en början",
+    "tr": "bir başlangıç",
+    "uk": "початок",
+    "zh": "开端"
+  },
+  "verses": [
+    "ezekiel 36:11:10"
+  ]
+}

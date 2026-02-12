@@ -1,0 +1,42 @@
+{
+  "number": "H7372",
+  "language": "hebrew",
+  "transliteration": "râṭab",
+  "pronunciation": "raw-tab'",
+  "definition": "to be moist",
+  "kjvTranslation": "be wet.",
+  "hebrew": "רָטַב",
+  "translations": {
+    "bg": "да е влажен",
+    "cs": "být vlhký",
+    "da": "at være fugtig",
+    "de": "feucht zu sein",
+    "el": "να είναι υγρό",
+    "es": "estar húmedo",
+    "et": "olla niiske",
+    "fi": "olla kostea",
+    "fr": "être humide",
+    "hu": "hogy nedves legyen",
+    "id": "menjadi lembab",
+    "it": "essere umido",
+    "ja": "しっとりする",
+    "ko": "촉촉한",
+    "lt": "būti drėgnas",
+    "lv": "būt mitram",
+    "nb": "å være fuktig",
+    "nl": "om vochtig te zijn",
+    "pl": "być wilgotnym",
+    "pt": "ser húmido",
+    "ro": "să fie umed",
+    "ru": "быть влажным",
+    "sk": "byť vlhký",
+    "sl": "biti vlažen",
+    "sv": "att vara fuktig",
+    "tr": "nemli olmak",
+    "uk": "бути вологим",
+    "zh": "湿润"
+  },
+  "verses": [
+    "job 24:8:2"
+  ]
+}

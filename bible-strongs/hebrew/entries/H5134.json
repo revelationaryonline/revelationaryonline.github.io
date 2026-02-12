@@ -1,0 +1,42 @@
+{
+  "number": "H5134",
+  "language": "hebrew",
+  "transliteration": "nûwq",
+  "pronunciation": "nook",
+  "definition": "to suckle",
+  "kjvTranslation": "nurse.",
+  "hebrew": "נוּק",
+  "translations": {
+    "bg": "да смуче",
+    "cs": "sát",
+    "da": "at amme",
+    "de": "zu säugen",
+    "el": "να θηλάσει",
+    "es": "mamar",
+    "et": "imetada",
+    "fi": "imemään",
+    "fr": "téter",
+    "hu": "szopni",
+    "id": "untuk menyusui",
+    "it": "allattare",
+    "ja": "乳を吸う",
+    "ko": "젖을 빨다",
+    "lt": "čiulpti",
+    "lv": "sūkāt",
+    "nb": "å amme",
+    "nl": "om te zogen",
+    "pl": "ssać",
+    "pt": "para mamar",
+    "ro": "să sugă",
+    "ru": "сосать",
+    "sk": "cicať",
+    "sl": "sesati",
+    "sv": "att suga",
+    "tr": "emzirmek için",
+    "uk": "смоктати",
+    "zh": "哺乳"
+  },
+  "verses": [
+    "exodus 2:9:17"
+  ]
+}

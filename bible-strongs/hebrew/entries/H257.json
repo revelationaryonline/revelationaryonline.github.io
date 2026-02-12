@@ -1,0 +1,42 @@
+{
+  "number": "H257",
+  "language": "hebrew",
+  "transliteration": "ʼAchbân",
+  "pronunciation": "akh-bawn'",
+  "definition": "Achban, an Israelite",
+  "kjvTranslation": "Ahban.",
+  "translations": {
+    "bg": "Ахбан, израилтянин",
+    "cs": "Achban, Izraelita",
+    "da": "Achban, en israelit",
+    "de": "Achban, ein Israelit",
+    "el": "Αχβάν, Ισραηλίτης",
+    "es": "Acbán, israelita",
+    "et": "Achban, iisraellane",
+    "fi": "Akban, israelilainen",
+    "fr": "Achban, Israélite",
+    "hu": "Achbán, izraelita",
+    "id": "Achban, seorang Israel",
+    "it": "Achban, un israelita",
+    "ja": "アハバン イスラエル人",
+    "ko": "이스라엘인, 아흐반",
+    "lt": "Achbanas, izraelitas",
+    "lv": "Ahbans, izraēlietis",
+    "nb": "Achban, en israelitt",
+    "nl": "Achban, een Israëliet",
+    "pl": "Achban, Izraelita",
+    "pt": "Acbã, israelita",
+    "ro": "Achban, un israelit",
+    "ru": "Ахбан, израильтянин",
+    "sk": "Achban, Izraelita",
+    "sl": "Achban, Izraelec",
+    "sv": "Achban, en israelit",
+    "tr": "Achban, bir İsrailli",
+    "uk": "Ахбан, ізраїльтянин",
+    "zh": "亚班，以色列人"
+  },
+  "hebrew": "אַחְבָן",
+  "verses": [
+    "firstChronicles 2:29:7"
+  ]
+}

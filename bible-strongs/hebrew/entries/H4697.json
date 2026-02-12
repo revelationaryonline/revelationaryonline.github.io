@@ -1,0 +1,42 @@
+{
+  "number": "H4697",
+  "language": "hebrew",
+  "transliteration": "mitschâh",
+  "pronunciation": "mits-khaw'",
+  "definition": "a shinpiece of armor (as prominent), only plural",
+  "kjvTranslation": "greaves.",
+  "hebrew": "מִצְחָה",
+  "translations": {
+    "bg": "елемент от бронята (като видна), само че в множествено число",
+    "cs": "brnění na holeni (jako prominentní), pouze v množném čísle",
+    "da": "et skinnebensstykke af rustning (som fremtrædende), kun i flertal",
+    "de": "ein Schienbeinpanzer (wie auffällig), nur Plural",
+    "el": "μια πανοπλία (ως προεξέχουσα), μόνο στον πληθυντικό αριθμό",
+    "es": "una espinillera de armadura (como prominente), sólo que en plural",
+    "et": "säärelõiked (kui silmapaistev), ainult mitmuses",
+    "fi": "säärisuojus (kuten näkyvä), vain monikossa",
+    "fr": "un tibia d'armure (comme proéminent), seulement au pluriel",
+    "hu": "a sípcsont páncél (mint a kiemelkedő), csak többes számban",
+    "id": "baju zirah (yang menonjol), hanya jamak",
+    "it": "un'armatura (come quella di spicco), solo al plurale",
+    "ja": "鎧のすね当て（目立つように）、複数形のみ",
+    "ko": "갑옷의 정강이 조각(눈에 띄는 것), 복수형만 가능",
+    "lt": "blauzdinių šarvų dalis (kaip išskirtinė), tik daugiskaita",
+    "lv": "bruņu gabals (kā redzams), tikai daudzskaitlī",
+    "nb": "en skinnrustning (som fremtredende), bare flertall",
+    "nl": "een harnasstuk (als prominent), alleen meervoud",
+    "pl": "nagolennik zbroi (jako widoczny), tylko liczba mnoga",
+    "pt": "uma peça de armadura (como proeminente), apenas no plural",
+    "ro": "o piesă de armură (ca proeminent), numai plural",
+    "ru": "голенище доспеха (как выдающееся), только во множественном числе",
+    "sk": "pancier na holeň (ako prominentný), len v množnom čísle",
+    "sl": "oklep (kot vidni), le da v množini",
+    "sv": "ett benstycke av rustning (som framträdande), endast plural",
+    "tr": "bir zırh parçası (belirgin olarak), sadece çoğul",
+    "uk": "гомілкова частина обладунку (як видатна), тільки множина",
+    "zh": "胫甲（突出），仅为复数"
+  },
+  "verses": [
+    "firstSamuel 17:6:0"
+  ]
+}

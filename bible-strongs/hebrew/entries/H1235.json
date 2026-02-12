@@ -1,0 +1,43 @@
+{
+  "number": "H1235",
+  "language": "hebrew",
+  "transliteration": "beqaʻ",
+  "pronunciation": "beh'-kah",
+  "definition": "a section (half) of ashekel, i.e. a beka (a weight and a coin)",
+  "kjvTranslation": "bekah, half a shekel.",
+  "translations": {
+    "bg": "част (половинка) от ашекел, т.е. бека (тежест и монета)",
+    "cs": "část (polovina) ašeku, tj. beka (závaží a mince)",
+    "da": "en del (en halv) af en ashekel, dvs. en beka (en vægt og en mønt)",
+    "de": "ein halber Aschekel, d. h. eine Beka (ein Gewicht und eine Münze)",
+    "el": "ένα τμήμα (μισό) ασκέλ, δηλαδή ένα μπέκα (ένα βάρος και ένα νόμισμα)",
+    "es": "una sección (media) de ashekel, es decir, una beka (un peso y una moneda)",
+    "et": "osa (pool) asheklist, s.t. beka (kaal ja münt)",
+    "fi": "osa (puolikas) ashekeliä eli beka (paino ja kolikko)",
+    "fr": "une section (moitié) d'ashekel, c'est-à-dire un beka (un poids et une pièce)",
+    "hu": "egy asekel egy része (fele), azaz egy beka (egy súly és egy érme)",
+    "id": "satu bagian (setengah) dari ashekel, yaitu beka (sebuah timbangan dan koin)",
+    "it": "una sezione (metà) di ashekel, cioè una beka (un peso e una moneta)",
+    "ja": "アシェケルの一節（半分）、すなわちベカ（分銅と硬貨）一枚",
+    "ko": "아셰켈의 한 부분(절반), 즉 베카(무게와 동전)",
+    "lt": "dalis (pusė) ašekelio, t. y. beka (svoris ir moneta)",
+    "lv": "ašehekla daļa (puse), t. i., beka (svars un monēta)",
+    "nb": "en seksjon (en halv ashekel), dvs. en beka (en vekt og en mynt)",
+    "nl": "een deel (de helft) van een ashekel, d.w.z. een beka (een gewicht en een munt)",
+    "pl": "część (połowa) aszkela, tj. beka (waga i moneta)",
+    "pt": "uma secção (metade) de um ashekel, ou seja, um beka (um peso e uma moeda)",
+    "ro": "o secțiune (jumătate) de ashekel, adică o beka (o greutate și o monedă)",
+    "ru": "часть (половина) ашкеля, т.е. бека (вес и монета)",
+    "sk": "časť (polovica) ašeka, t. j. beka (závažie a minca)",
+    "sl": "del (polovica) ašekla, tj. beka (utež in kovanec)",
+    "sv": "en del (en halv) av en ashekel, dvs. en beka (en vikt och ett mynt)",
+    "tr": "aşekelin bir bölümü (yarısı), yani bir beka (bir ağırlık ve bir sikke)",
+    "uk": "частина (половина) ашкеля, тобто бека (гиря і монета)",
+    "zh": "一段（半段）阿舍克勒，即一个贝卡（一个砝码和一个硬币）"
+  },
+  "hebrew": "בֶּקַע",
+  "verses": [
+    "genesis 24:22:9",
+    "exodus 38:26:0"
+  ]
+}

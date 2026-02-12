@@ -1,0 +1,43 @@
+{
+  "number": "H1741",
+  "language": "hebrew",
+  "transliteration": "dᵉvay",
+  "pronunciation": "dev-ah'ee",
+  "definition": "sickness; figuratively, loathing",
+  "kjvTranslation": "languishing, sorrowful.",
+  "translations": {
+    "bg": "болест; в преносен смисъл - отвращение",
+    "cs": "nemoc; v přeneseném významu, odpor",
+    "da": "sygdom; i overført betydning, afsky",
+    "de": "krankheit; im übertragenen Sinne: Abscheu",
+    "el": "ασθένεια- μεταφορικά, απέχθεια",
+    "es": "enfermedad; en sentido figurado, aversión",
+    "et": "haigus; piltlikult öeldes, vastikustunne",
+    "fi": "sairaus; kuvaannollisesti, inhoaminen",
+    "fr": "maladie ; au sens figuré, dégoût",
+    "hu": "betegség; átvitt értelemben: utálat",
+    "id": "penyakit; secara kiasan, kebencian",
+    "it": "malattia; in senso figurato, disgusto",
+    "ja": "病気；比喩的には嫌悪",
+    "ko": "질병; 비유적으로, 혐오감",
+    "lt": "liga; perkeltine prasme - neapykanta",
+    "lv": "slimība; pārnestā nozīmē - riebums",
+    "nb": "sykdom; i overført betydning, avsky",
+    "nl": "ziekte; figuurlijk, afkeer",
+    "pl": "choroba; w przenośni wstręt",
+    "pt": "doença; no sentido figurado, aversão",
+    "ro": "boală; la figurat, aversiune",
+    "ru": "болезнь; в переносном смысле - отвращение",
+    "sk": "choroba; v prenesenom význame odpor",
+    "sl": "bolezen; v prenesenem pomenu, sovraštvo",
+    "sv": "sjukdom; bildligt talat, avsky",
+    "tr": "hastalık; mecazi olarak, nefret",
+    "uk": "хвороба; образно - огида",
+    "zh": "病态；比喻厌恶"
+  },
+  "hebrew": "דְּוַי",
+  "verses": [
+    "job 6:7:4",
+    "psalms 41:4:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1989",
+  "language": "hebrew",
+  "transliteration": "halmûwth",
+  "pronunciation": "hal-mooth'",
+  "definition": "a hammer (or mallet)",
+  "kjvTranslation": "hammer.",
+  "translations": {
+    "bg": "чук (или чукче)",
+    "cs": "kladivo (nebo palička)",
+    "da": "en hammer (eller mukkert)",
+    "de": "einen Hammer (oder Schlegel)",
+    "el": "ένα σφυρί (ή σφυρί)",
+    "es": "un martillo (o mazo)",
+    "et": "vasar (või haamer)",
+    "fi": "vasara (tai moukari)",
+    "fr": "un marteau (ou un maillet)",
+    "hu": "kalapács (vagy kalapács)",
+    "id": "palu (atau palu)",
+    "it": "un martello (o mazzuolo)",
+    "ja": "ハンマー",
+    "ko": "망치(또는 망치)",
+    "lt": "plaktukas (arba plaktukas)",
+    "lv": "āmurs (vai āmurs)",
+    "nb": "en hammer (eller klubbe)",
+    "nl": "een hamer (of moker)",
+    "pl": "młotek (lub młotek)",
+    "pt": "um martelo (ou maço)",
+    "ro": "un ciocan (sau maț)",
+    "ru": "молоток (или киянка)",
+    "sk": "kladivo (alebo palička)",
+    "sl": "kladivo (ali palico)",
+    "sv": "en hammare (eller klubba)",
+    "tr": "bir çekiç (veya tokmak)",
+    "uk": "молоток (або киянка)",
+    "zh": "锤子"
+  },
+  "hebrew": "הַלְמוּת",
+  "verses": [
+    "judges 5:26:4"
+  ]
+}

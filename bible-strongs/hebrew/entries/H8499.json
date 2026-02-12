@@ -1,0 +1,42 @@
+{
+  "number": "H8499",
+  "language": "hebrew",
+  "transliteration": "tᵉkûwnâh",
+  "pronunciation": "tek-oo-naw'",
+  "definition": "something arranged or fixed, i.e. a place",
+  "kjvTranslation": "seat.",
+  "hebrew": "תְּכוּנָה",
+  "translations": {
+    "bg": "нещо подредено или фиксирано, напр. място",
+    "cs": "něco uspořádaného nebo pevného, např. místo",
+    "da": "noget arrangeret eller fast, f.eks. et sted",
+    "de": "etwas Geordnetes oder Festes, z. B. ein Ort",
+    "el": "κάτι οργανωμένο ή σταθερό, π.χ. ένας τόπος",
+    "es": "algo dispuesto o fijo, es decir, un lugar",
+    "et": "midagi korraldatud või fikseeritud, s.t. koht",
+    "fi": "jotakin järjestettyä tai kiinteää, esim. paikka",
+    "fr": "quelque chose d'arrangé ou de fixe, c'est-à-dire un lieu",
+    "hu": "valami rendezett vagy rögzített, pl. egy hely",
+    "id": "sesuatu yang diatur atau diperbaiki, yaitu tempat",
+    "it": "qualcosa di sistemato o fisso, ad esempio un luogo",
+    "ja": "定置",
+    "ko": "배열되거나 고정된 어떤 것, 즉 장소",
+    "lt": "kažkas sutvarkyto ar nustatyto, t. y. vieta",
+    "lv": "kaut kas sakārtots vai fiksēts, piemēram, vieta",
+    "nb": "noe ordnet eller fast, f.eks. et sted",
+    "nl": "iets geregeld of vastgelegd, bijvoorbeeld een plaats",
+    "pl": "coś zaaranżowanego lub ustalonego, np. miejsce",
+    "pt": "algo organizado ou fixo, ou seja, um lugar",
+    "ro": "ceva aranjat sau fixat, de exemplu un loc",
+    "ru": "что-то расположенное или фиксированное, т.е. место",
+    "sk": "niečo usporiadané alebo pevné, napr. miesto",
+    "sl": "nekaj, kar je urejeno ali določeno, npr. kraj",
+    "sv": "något som är arrangerat eller fast, t.ex. en plats",
+    "tr": "düzenlenmiş veya sabitlenmiş bir şey, örneğin bir yer",
+    "uk": "щось влаштоване або зафіксоване, тобто місце",
+    "zh": "地点"
+  },
+  "verses": [
+    "job 23:3:6"
+  ]
+}

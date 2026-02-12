@@ -1,0 +1,42 @@
+{
+  "number": "H4215",
+  "language": "hebrew",
+  "transliteration": "mᵉzâreh",
+  "pronunciation": "mez-aw-reh'",
+  "definition": "properly, a scatterer, i.e. the north wind (as dispersing clouds; only in plural)",
+  "kjvTranslation": "north.",
+  "hebrew": "מְזָרֶה",
+  "translations": {
+    "bg": "правилно, разпръсквач, т.е. северният вятър (като разпръсква облаци; само в множествено число)",
+    "cs": "správně rozptylovač, tj. severní vítr (jako rozháněč mraků; pouze v množném čísle)",
+    "da": "korrekt, en spreder, dvs. nordenvinden (som spreder skyer; kun i flertal)",
+    "de": "richtig: ein Streuer, d.h. der Nordwind (als Wolkenverdränger; nur im Plural)",
+    "el": "σωστά, ένας διασκορπιστής, δηλαδή ο βόρειος άνεμος (όπως διασκορπίζει τα σύννεφα- μόνο στον πληθυντικό)",
+    "es": "propiamente, un dispersor, es decir, el viento del norte (como dispersador de nubes; sólo en plural)",
+    "et": "õigesti, hajutaja, s.t. põhjatuul (kui pilvede hajutaja; ainult mitmuses)",
+    "fi": "oikein, hajottaja, eli pohjoistuuli (pilviä hajottava; vain monikossa)",
+    "fr": "proprement, un disperseur, c'est-à-dire le vent du nord (comme dispersant les nuages ; seulement au pluriel)",
+    "hu": "helyesen, szórványos, azaz az északi szél (mint a felhők szétoszlatója; csak többes számban)",
+    "id": "secara tepat, penyebar, yaitu angin utara (sebagai penyebar awan; hanya dalam bentuk jamak)",
+    "it": "propriamente, un dispersore, cioè il vento del nord (che disperde le nuvole; solo al plurale)",
+    "ja": "散人",
+    "ko": "올바르게는 산란자, 즉 북풍(흩어지는 구름으로, 복수형으로만 사용됨)",
+    "lt": "taisyklingai - sklaidytojas, t. y. šiaurės vėjas (kaip debesų sklaidytojas; tik daugiskaita)",
+    "lv": "pareizi - izkliedētājs, t.i., ziemeļu vējš (kā mākoņu izkliedētājs; tikai daudzskaitlī)",
+    "nb": "egentlig, en spreder, dvs. nordavinden (som skyer; bare i flertall)",
+    "nl": "goed, een verstrooier, d.w.z. de noordenwind (als verspreider van wolken; alleen in het meervoud)",
+    "pl": "właściwie, rozpraszacz, tj. północny wiatr (jako rozpraszający chmury; tylko w liczbie mnogiej)",
+    "pt": "propriamente, um dispersor, ou seja, o vento norte (como dispersando nuvens; apenas no plural)",
+    "ro": "propriu-zis, un împrăștiator, adică vântul de nord (ca împrăștiind norii; numai la plural)",
+    "ru": "правильно, рассеиватель, т.е. северный ветер (разгоняющий облака; только во множественном числе)",
+    "sk": "správne rozptyľovač, t. j. severný vietor (ako rozháňač oblakov; len v množnom čísle)",
+    "sl": "pravilno, razpršilec, tj. severni veter (kot razpršilec oblakov; samo v množini)",
+    "sv": "korrekt, en spridare, dvs. nordanvinden (som skingrar moln; endast i plural)",
+    "tr": "uygun olarak, bir dağıtıcı, yani kuzey rüzgarı (bulutları dağıtırken; sadece çoğul olarak)",
+    "uk": "власне, розсіювач, тобто північний вітер (як той, що розганяє хмари; тільки у множині)",
+    "zh": "散者，即北风（吹散云层；只有复数才有）"
+  },
+  "verses": [
+    "job 37:9:4"
+  ]
+}

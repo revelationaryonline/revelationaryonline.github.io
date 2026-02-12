@@ -1,0 +1,43 @@
+{
+  "number": "H6563",
+  "language": "hebrew",
+  "transliteration": "pereq",
+  "pronunciation": "peh'-rek",
+  "definition": "rapine; also a fork (in roads)",
+  "kjvTranslation": "crossway, robbery.",
+  "hebrew": "פֶּרֶק",
+  "translations": {
+    "bg": "rapine; също разклонение (на пътища)",
+    "cs": "rapine; také rozcestí (na cestách)",
+    "da": "voldtægt; også en gaffel (i veje)",
+    "de": "vergewaltigung; auch eine Gabelung (in Straßen)",
+    "el": "βιασμός, επίσης διακλάδωση (σε δρόμους)",
+    "es": "rapiña; también una bifurcación (en los caminos)",
+    "et": "rapine; ka hargnemine (teedel)",
+    "fi": "rapine; myös tienhaara (teiden haarautuminen)",
+    "fr": "rapine ; également fourche (dans les routes)",
+    "hu": "rapine; valamint egy elágazás (az utakban)",
+    "id": "rapine; juga pertigaan (di jalan)",
+    "it": "rapina; anche una biforcazione (nelle strade)",
+    "ja": "分かれ道",
+    "ko": "라피네; 또한 갈림길(도로에서)",
+    "lt": "rapine; taip pat išsišakojimas (keliuose)",
+    "lv": "rapine; arī sazarojums (uz ceļiem)",
+    "nb": "voldtekt; også en gaffel (i veier)",
+    "nl": "ravijn; ook een splitsing (in wegen)",
+    "pl": "gwałt; także rozwidlenie (dróg)",
+    "pt": "rapina; também uma bifurcação (em estradas)",
+    "ro": "rapină; de asemenea, o bifurcație (în drumuri)",
+    "ru": "насильственный; также развилка (на дорогах)",
+    "sk": "rapine; tiež vidlica (na cestách)",
+    "sl": "rapine; tudi razpotje (na cestah)",
+    "sv": "ravin; även en gaffel (i vägar)",
+    "tr": "tecavüz; ayrıca bir çatal (yollarda)",
+    "uk": "ріпак; також розвилка (на дорогах)",
+    "zh": "岔路口"
+  },
+  "verses": [
+    "obadiah 1:14:3",
+    "nahum 3:1:5"
+  ]
+}

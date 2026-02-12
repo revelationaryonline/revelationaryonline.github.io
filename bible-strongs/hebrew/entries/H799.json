@@ -1,0 +1,42 @@
+{
+  "number": "H799",
+  "language": "hebrew",
+  "transliteration": "ʼeshdâth",
+  "pronunciation": "esh-dawth'",
+  "definition": "a fire-law",
+  "kjvTranslation": "fiery law.",
+  "translations": {
+    "bg": "противопожарен закон",
+    "cs": "požární zákon",
+    "da": "en brandlov",
+    "de": "ein Brandschutzgesetz",
+    "el": "νόμος περί πυρκαγιάς",
+    "es": "una ley contra incendios",
+    "et": "tulekahju-õigus",
+    "fi": "palolaki",
+    "fr": "une loi anti-incendie",
+    "hu": "tűzvédelmi törvény",
+    "id": "hukum kebakaran",
+    "it": "una legge antincendio",
+    "ja": "火気厳禁",
+    "ko": "화재 관련 법률",
+    "lt": "priešgaisrinis įstatymas",
+    "lv": "ugunsdrošības likums",
+    "nb": "en brannlov",
+    "nl": "een brandwet",
+    "pl": "prawo przeciwpożarowe",
+    "pt": "uma lei contra incêndios",
+    "ro": "o lege privind incendiile",
+    "ru": "закон о пожарах",
+    "sk": "požiarny zákon",
+    "sl": "požarno pravo",
+    "sv": "en brandlag",
+    "tr": "bir yangın kanunu",
+    "uk": "протипожежний закон",
+    "zh": "消防法"
+  },
+  "hebrew": "אֶשְׁדָּת",
+  "verses": [
+    "deuteronomy 33:2:14"
+  ]
+}

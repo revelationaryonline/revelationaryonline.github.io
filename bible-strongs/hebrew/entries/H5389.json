@@ -1,0 +1,42 @@
+{
+  "number": "H5389",
+  "language": "hebrew",
+  "transliteration": "nâshîyn",
+  "pronunciation": "naw-sheen'",
+  "definition": "{a man}",
+  "kjvTranslation": "women.",
+  "hebrew": "נָשִׁין",
+  "translations": {
+    "bg": "{човек}",
+    "cs": "{člověk}",
+    "da": "{En mand}",
+    "de": "(ein Mann)",
+    "el": "(ένας άνδρας)",
+    "es": "{un hombre}",
+    "et": "(mees)",
+    "fi": "{y:i}Mies",
+    "fr": "{un homme}",
+    "hu": "{a férfi}",
+    "id": "[seorang pria]",
+    "it": "{Un uomo}",
+    "ja": "男",
+    "ko": "{남자}",
+    "lt": "{žmogus}",
+    "lv": "{cilvēks}",
+    "nb": "{En mann}",
+    "nl": "{Een man.}",
+    "pl": "{człowiek}",
+    "pt": "{Um homem}",
+    "ro": "{un om}",
+    "ru": "{мужчина}",
+    "sk": "{človek}",
+    "sl": "{človek}",
+    "sv": "{En man.}",
+    "tr": "{bir adam}",
+    "uk": "{Я знаю, що це не так.}",
+    "zh": "{一个人}"
+  },
+  "verses": [
+    "daniel 6:25:15"
+  ]
+}

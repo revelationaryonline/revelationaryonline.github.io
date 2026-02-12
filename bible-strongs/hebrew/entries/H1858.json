@@ -1,0 +1,42 @@
+{
+  "number": "H1858",
+  "language": "hebrew",
+  "transliteration": "dar",
+  "pronunciation": "dar",
+  "definition": "properly, a pearl (from its sheen as rapidly turned); by analogy, pearl-stone, i.e. mother-of-pearl or alabaster",
+  "kjvTranslation": "[idiom] white.",
+  "translations": {
+    "bg": "правилно, перла (от блясъка ѝ, когато бързо се завърта); по аналогия, перлен камък, т.е. перлена майка или алабастър",
+    "cs": "správně perla (podle lesku, který se rychle otáčí); analogicky perleťový kámen, tj. perleť nebo alabastr",
+    "da": "korrekt, en perle (fra dens glans, når den hurtigt vendes); analogt, perlesten, dvs. perlemor eller alabast",
+    "de": "richtig: eine Perle (wegen ihres Glanzes, der sich schnell dreht); analog dazu Perlenstein, d.h. Perlmutt oder Alabaster",
+    "el": "σωστά, μαργαριτάρι (από τη λάμψη του καθώς γυρίζει γρήγορα)- κατ' αναλογία, μαργαριταρόπετρα, δηλαδή μαργαριταρένια ή αλάβαστρο",
+    "es": "propiamente, una perla (por su brillo al girar rápidamente); por analogía, piedra perla, es decir, nácar o alabastro",
+    "et": "õigemini pärl (selle kiirelt pööratud sära järgi); analoogia järgi pärlkivi, st pärlmutter või alabaster",
+    "fi": "oikeastaan helmi (sen kiilto nopeasti kääntyessään); vastaavasti helmikivi eli helmiäiskivi tai alabasteri",
+    "fr": "proprement, une perle (en raison de son éclat lorsqu'elle tourne rapidement) ; par analogie, la pierre perlière, c'est-à-dire la nacre ou l'albâtre",
+    "hu": "helyesen: gyöngy (a csillogása miatt, ahogy gyorsan forog); ennek analógiájára: gyöngykő, azaz gyöngyház vagy alabástrom",
+    "id": "secara tepat, mutiara (dari kilauannya yang berubah dengan cepat); dengan analogi, batu mutiara, yaitu mutiara atau pualam",
+    "it": "propriamente, una perla (dalla sua lucentezza quando si trasforma rapidamente); per analogia, pietra perla, cioè madreperla o alabastro",
+    "ja": "真珠; 類義語として、真珠の石、すなわち真珠母またはアラバスター。",
+    "ko": "적절하게는 진주 (빠르게 회전하는 광택에서); 비유하자면 진주석, 즉 진주 또는 설화 석고",
+    "lt": "taisyklingai - perlas (nuo jo blizgesio, kai jis greitai apsitraukia); pagal analogiją - perlų akmuo, t. y. perlamutras arba alabastras",
+    "lv": "pareizi - perlamutrs (pēc tā spīduma, kad tas strauji griežas); pēc analoģijas - pērļu akmens, t.i., perlamutrs vai alabastrs",
+    "nb": "egentlig, en perle (fra dens glans når den raskt vendes); analogt, perlestein, dvs. perlemor eller alabast",
+    "nl": "naar behoren, een parel (van zijn glans als snel gedraaid); naar analogie, parelsteen, d.w.z. paarlemoer of albast",
+    "pl": "właściwie perła (od jej połysku, gdy szybko się obraca); przez analogię, kamień perłowy, tj. masa perłowa lub alabaster",
+    "pt": "propriamente dito, uma pérola (devido ao seu brilho quando se transforma rapidamente); por analogia, pedra-pérola, isto é, madrepérola ou alabastro",
+    "ro": "în mod corespunzător, o perlă (de la strălucirea sa când se transformă rapid); prin analogie, piatră perlată, adică nucă de perle sau alabastru",
+    "ru": "правильно, жемчужина (от ее блеска при быстром вращении); по аналогии, жемчужный камень, т.е. перламутр или алебастр",
+    "sk": "správne perla (podľa jej lesku, keď sa rýchlo otáča); analogicky perlový kameň, t. j. perleť alebo alabaster",
+    "sl": "pravilno, biser (zaradi leska, ki se hitro obrača); po analogiji, biserni kamen, tj. bisernica ali alabaster",
+    "sv": "egentligen en pärla (från dess glans när den snabbt vändes); analogt med pärlsten, dvs. pärlemor eller alabaster",
+    "tr": "uygun olarak, inci (hızla dönerken parlaklığından); benzetme yoluyla, inci taşı, yani sedef veya kaymaktaşı",
+    "uk": "власне, перлина (від блиску при швидкому обертанні); за аналогією, перламутровий камінь, тобто перламутр або алебастр",
+    "zh": "珍珠（从其快速转动时的光泽）；以此类推，珍珠石，即珍珠母或石膏"
+  },
+  "hebrew": "דַּר",
+  "verses": [
+    "esther 1:6:19"
+  ]
+}

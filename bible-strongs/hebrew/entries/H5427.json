@@ -1,0 +1,43 @@
+{
+  "number": "H5427",
+  "language": "hebrew",
+  "transliteration": "nether",
+  "pronunciation": "neh'-ther",
+  "definition": "mineral potash (so called from effervescing with acid)",
+  "kjvTranslation": "nitre.",
+  "hebrew": "נֶתֶר",
+  "translations": {
+    "bg": "минерален калий (наречен така, защото ефервесцира с киселина)",
+    "cs": "minerální potaš (nazývá se tak podle toho, že šumí kyselinou)",
+    "da": "mineralsk potaske (kaldes sådan, fordi den bruser med syre)",
+    "de": "mineralkali (so genannt wegen des Aufbrausens mit Säure)",
+    "el": "ορυκτό ποτάσας (που ονομάζεται έτσι επειδή αναβράζει με οξύ)",
+    "es": "potasa mineral (llamada así por efervescencia con ácido)",
+    "et": "mineraalne kaaliumkarbonaat (nimetatakse nii happega pritsimisest)",
+    "fi": "kivennäiskali (nimeltään hapon kanssa poreileva kalimaasälpä)",
+    "fr": "potasse minérale (appelée ainsi parce qu'elle est effervescente avec l'acide)",
+    "hu": "ásványi kálium (savval történő pezsgésről nevezik így)",
+    "id": "mineral kalium (disebut juga dari penguapan dengan asam)",
+    "it": "potassa minerale (così chiamata perché effervescente con l'acido)",
+    "ja": "カリ石",
+    "ko": "미네랄 칼륨(산과 함께 발포하는 것에서 유래)",
+    "lt": "mineralinis kalio druska (taip vadinama dėl to, kad išsipurškia su rūgštimi)",
+    "lv": "minerālkalcija (tā to sauc, jo tā izkūst ar skābi)",
+    "nb": "mineralsk pottaske (kalt så fordi den bruser med syre)",
+    "nl": "mineraal kaliumchloride (zo genoemd omdat het bruist met zuur)",
+    "pl": "mineralny potaż (tak zwany od musowania kwasem)",
+    "pt": "potassa mineral (assim chamada por efervescer com ácido)",
+    "ro": "potasă minerală (denumită astfel din cauza efervescenței cu acid)",
+    "ru": "минеральный поташ (названный так из-за шипения с кислотой)",
+    "sk": "minerálna potaš (nazývaná tak podľa toho, že šumí s kyselinou)",
+    "sl": "mineralna pepelika (tako se imenuje zaradi šumečega delovanja kisline)",
+    "sv": "mineralisk pottaska (kallas så för att den brusar med syra)",
+    "tr": "mineral potas (asitle efervesan hale getirildiği için böyle adlandırılır)",
+    "uk": "мінеральне калійне добриво (назване так через шипучість кислотою)",
+    "zh": "矿钾肥"
+  },
+  "verses": [
+    "proverbs 25:20:6",
+    "jeremiah 2:22:3"
+  ]
+}

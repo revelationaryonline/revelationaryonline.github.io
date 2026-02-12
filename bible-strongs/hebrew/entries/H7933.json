@@ -1,0 +1,42 @@
+{
+  "number": "H7933",
+  "language": "hebrew",
+  "transliteration": "sheken",
+  "pronunciation": "sheh'-ken",
+  "definition": "a residence",
+  "kjvTranslation": "habitation.",
+  "hebrew": "שֶׁכֶן",
+  "translations": {
+    "bg": "резиденция",
+    "cs": "rezidence",
+    "da": "en bolig",
+    "de": "eine Residenz",
+    "el": "μια κατοικία",
+    "es": "una residencia",
+    "et": "elukoht",
+    "fi": "asuinpaikka",
+    "fr": "une résidence",
+    "hu": "lakóhely",
+    "id": "tempat tinggal",
+    "it": "una residenza",
+    "ja": "住居",
+    "ko": "거주지",
+    "lt": "rezidencija",
+    "lv": "rezidence",
+    "nb": "en bolig",
+    "nl": "een woning",
+    "pl": "miejsce zamieszkania",
+    "pt": "uma residência",
+    "ro": "o reședință",
+    "ru": "резиденция",
+    "sk": "rezidencia",
+    "sl": "bivališče",
+    "sv": "en bostad",
+    "tr": "bir rezidans",
+    "uk": "резиденція",
+    "zh": "居"
+  },
+  "verses": [
+    "deuteronomy 12:5:14"
+  ]
+}

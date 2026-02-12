@@ -1,0 +1,42 @@
+{
+  "number": "H5395",
+  "language": "hebrew",
+  "transliteration": "nâsham",
+  "pronunciation": "naw-sham'",
+  "definition": "properly, to blow away, i.e. destroy",
+  "kjvTranslation": "destroy.",
+  "hebrew": "נָשַׁם",
+  "translations": {
+    "bg": "правилно, да се издуха, т.е. да се унищожи",
+    "cs": "správně odfouknout, tj. zničit",
+    "da": "korrekt, at blæse væk, dvs. ødelægge",
+    "de": "richtig: wegblasen, d.h. zerstören",
+    "el": "σωστά, να φυσήξει μακριά, δηλ. να καταστρέψει",
+    "es": "propiamente, volar, es decir, destruir",
+    "et": "õigesti, ära puhuda, st hävitada",
+    "fi": "kunnolla, puhaltaa pois, eli tuhota",
+    "fr": "proprement, souffler, c'est-à-dire détruire",
+    "hu": "helyesen, elfújni, azaz elpusztítani",
+    "id": "dengan benar, untuk menerbangkan, yaitu menghancurkan",
+    "it": "propriamente, soffiare via, cioè distruggere",
+    "ja": "正しくは、吹き飛ばす、つまり破壊する",
+    "ko": "제대로, 날려버리다, 즉 파괴하다",
+    "lt": "tinkamai - išnešioti, t. y. sunaikinti",
+    "lv": "pareizi - izpūst, t.i., iznīcināt",
+    "nb": "riktig, å blåse bort, dvs. ødelegge",
+    "nl": "goed, wegblazen, d.w.z. vernietigen",
+    "pl": "prawidłowo, zdmuchnąć, tj. zniszczyć",
+    "pt": "propriamente, soprar, ou seja, destruir",
+    "ro": "în mod corespunzător, a sufla departe, adică a distruge",
+    "ru": "правильно, сдуть, т.е. уничтожить",
+    "sk": "správne, odfúknuť, t. j. zničiť",
+    "sl": "pravilno, odpihniti, tj. uničiti",
+    "sv": "korrekt, att blåsa bort, dvs. förstöra",
+    "tr": "doğru şekilde, uçurmak, yani yok etmek",
+    "uk": "правильно, здути, тобто знищити",
+    "zh": "正确地，吹走，即摧毁"
+  },
+  "verses": [
+    "isaiah 42:14:6"
+  ]
+}

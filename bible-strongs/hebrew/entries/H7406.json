@@ -1,0 +1,42 @@
+{
+  "number": "H7406",
+  "language": "hebrew",
+  "transliteration": "rekeç",
+  "pronunciation": "reh'-kes",
+  "definition": "a mountain ridge (as of tied summits)",
+  "kjvTranslation": "rough place.",
+  "hebrew": "רֶכֶס",
+  "translations": {
+    "bg": "планински хребет (като на свързани върхове)",
+    "cs": "horský hřeben (jako z vázaných vrcholů)",
+    "da": "en bjergryg (som af bundne toppe)",
+    "de": "ein Gebirgskamm (ab gebundenen Gipfeln)",
+    "el": "μια κορυφογραμμή βουνού (όπως οι ισόπεδες κορυφές)",
+    "es": "una cresta montañosa (a partir de cumbres empatadas)",
+    "et": "mäeharju (nagu seotud tippude puhul)",
+    "fi": "vuorenharju (kuten sidotut huiput)",
+    "fr": "une crête de montagne (à partir de sommets liés)",
+    "hu": "hegygerinc (mint a kötött csúcsok)",
+    "id": "punggungan gunung (pada puncak yang terikat)",
+    "it": "una cresta di montagna (come di cime legate)",
+    "ja": "嶺",
+    "ko": "산 능선(동점 정상 기준)",
+    "lt": "kalnų keteros (kaip susietų viršūnių)",
+    "lv": "kalnu grēda (kā no saistītām virsotnēm)",
+    "nb": "en fjellrygg (som av bundne topper)",
+    "nl": "een bergrug (als van gebonden toppen)",
+    "pl": "grzbiet górski (jako związany szczyt)",
+    "pt": "uma crista de montanha (a partir de cumes ligados)",
+    "ro": "o creastă de munte (ca de vârfuri legate)",
+    "ru": "горный хребет (в виде связанных вершин)",
+    "sk": "horský hrebeň (ako z viazaných vrcholov)",
+    "sl": "gorski greben (kot vezani vrhovi)",
+    "sv": "en bergsrygg (från och med bundna toppar)",
+    "tr": "bir dağ sırtı (bağlı zirveler itibariyle)",
+    "uk": "гірський хребет (за кількістю зв'язаних вершин)",
+    "zh": "岭"
+  },
+  "verses": [
+    "isaiah 40:4:10"
+  ]
+}

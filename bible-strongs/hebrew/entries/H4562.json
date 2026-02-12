@@ -1,0 +1,42 @@
+{
+  "number": "H4562",
+  "language": "hebrew",
+  "transliteration": "mâçôreth",
+  "pronunciation": "maw-so'-reth",
+  "definition": "a band",
+  "kjvTranslation": "bond.",
+  "hebrew": "מָסֹרֶת",
+  "verses": [
+    "ezekiel 20:37:6"
+  ],
+  "translations": {
+    "bg": "група",
+    "cs": "kapela",
+    "da": "et band",
+    "de": "eine Band",
+    "el": "μια μπάντα",
+    "es": "una banda",
+    "et": "bänd",
+    "fi": "yhtye",
+    "fr": "un groupe",
+    "hu": "egy zenekar",
+    "id": "sebuah band",
+    "it": "una banda",
+    "ja": "バンド",
+    "ko": "밴드",
+    "lt": "grupė",
+    "lv": "grupa",
+    "nb": "et band",
+    "nl": "een band",
+    "pl": "zespół",
+    "pt": "uma banda",
+    "ro": "o bandă",
+    "ru": "группа",
+    "sk": "kapela",
+    "sl": "skupina",
+    "sv": "ett band",
+    "tr": "bir grup",
+    "uk": "гурт",
+    "zh": "乐队"
+  }
+}

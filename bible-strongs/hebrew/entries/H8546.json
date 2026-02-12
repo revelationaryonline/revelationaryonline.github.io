@@ -1,0 +1,43 @@
+{
+  "number": "H8546",
+  "language": "hebrew",
+  "transliteration": "tᵉmûwthâh",
+  "pronunciation": "tem-oo-thaw'",
+  "definition": "execution (as a doom)",
+  "kjvTranslation": "death, die.",
+  "hebrew": "תְּמוּתָה",
+  "translations": {
+    "bg": "изпълнение (като гибел)",
+    "cs": "provedení (jako zkáza)",
+    "da": "henrettelse (som en undergang)",
+    "de": "hinrichtung (als Verhängnis)",
+    "el": "εκτέλεση (ως καταδίκη)",
+    "es": "ejecución (como condena)",
+    "et": "täitmine (kui hukkamõistmine)",
+    "fi": "teloitus (tuomiona)",
+    "fr": "l'exécution (en tant que condamnation)",
+    "hu": "kivégzés (mint ítélet)",
+    "id": "eksekusi (sebagai malapetaka)",
+    "it": "esecuzione (come condanna)",
+    "ja": "処刑",
+    "ko": "실행(운명)",
+    "lt": "vykdymas (kaip pražūtis)",
+    "lv": "izpilde (kā bojāeja)",
+    "nb": "henrettelse (som en undergang)",
+    "nl": "executie (als straf)",
+    "pl": "egzekucja (jako zagłada)",
+    "pt": "execução (como uma desgraça)",
+    "ro": "execuție (ca o condamnare)",
+    "ru": "казнь (в качестве оброка)",
+    "sk": "vykonanie (ako odsúdenie)",
+    "sl": "izvedba (kot obsodba)",
+    "sv": "avrättning (som ett domslut)",
+    "tr": "infaz (bir kıyamet olarak)",
+    "uk": "страта (як приреченість)",
+    "zh": "处决"
+  },
+  "verses": [
+    "psalms 79:11:8",
+    "psalms 102:21:5"
+  ]
+}

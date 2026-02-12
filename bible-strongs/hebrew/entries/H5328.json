@@ -1,0 +1,43 @@
+{
+  "number": "H5328",
+  "language": "hebrew",
+  "transliteration": "nitstsâh",
+  "pronunciation": "nits-tsaw'",
+  "definition": "a blossom",
+  "kjvTranslation": "flower.",
+  "hebrew": "נִצָּה",
+  "translations": {
+    "bg": "цвете",
+    "cs": "květ",
+    "da": "en blomst",
+    "de": "eine Blüte",
+    "el": "ένα άνθος",
+    "es": "una flor",
+    "et": "õis",
+    "fi": "kukka",
+    "fr": "une fleur",
+    "hu": "egy virág",
+    "id": "mekar",
+    "it": "un fiore",
+    "ja": "一輪の花",
+    "ko": "꽃",
+    "lt": "žiedas",
+    "lv": "zieds",
+    "nb": "en blomst",
+    "nl": "een bloesem",
+    "pl": "kwiat",
+    "pt": "uma flor",
+    "ro": "o floare",
+    "ru": "цветок",
+    "sk": "kvet",
+    "sl": "cvet",
+    "sv": "en blomma",
+    "tr": "bir çiçek",
+    "uk": "цвітіння",
+    "zh": "花开"
+  },
+  "verses": [
+    "job 15:33:5",
+    "isaiah 18:5:8"
+  ]
+}

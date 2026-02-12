@@ -1,0 +1,42 @@
+{
+  "number": "H7963",
+  "language": "hebrew",
+  "transliteration": "shᵉlêvâh",
+  "pronunciation": "shel-ay-vaw'",
+  "definition": "safety",
+  "kjvTranslation": "tranquillity. See also H7961 (שָׁלֵו).",
+  "hebrew": "שְׁלֵוָה",
+  "translations": {
+    "bg": "безопасност",
+    "cs": "bezpečnost",
+    "da": "sikkerhed",
+    "de": "sicherheit",
+    "el": "ασφάλεια",
+    "es": "seguridad",
+    "et": "ohutus",
+    "fi": "turvallisuus",
+    "fr": "la sécurité",
+    "hu": "biztonság",
+    "id": "keamanan",
+    "it": "sicurezza",
+    "ja": "安全性",
+    "ko": "안전",
+    "lt": "sauga",
+    "lv": "drošība",
+    "nb": "sikkerhet",
+    "nl": "veiligheid",
+    "pl": "bezpieczeństwo",
+    "pt": "segurança",
+    "ro": "siguranță",
+    "ru": "безопасность",
+    "sk": "bezpečnosť",
+    "sl": "varnost",
+    "sv": "säkerhet",
+    "tr": "güvenlik",
+    "uk": "безпека",
+    "zh": "安全"
+  },
+  "verses": [
+    "daniel 4:24:16"
+  ]
+}

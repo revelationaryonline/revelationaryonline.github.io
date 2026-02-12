@@ -1,0 +1,42 @@
+{
+  "number": "H7477",
+  "language": "hebrew",
+  "transliteration": "râʻal",
+  "pronunciation": "raw-al'",
+  "definition": "to reel, i.e. (figuratively) to brandish",
+  "kjvTranslation": "terribly shake.",
+  "hebrew": "רָעַל",
+  "translations": {
+    "bg": "да навивам, т.е. (образно) да размахвам",
+    "cs": "navíjet, tj. (přeneseně) ohánět se",
+    "da": "at rulle, dvs. (i overført betydning) at svinge sig i luften",
+    "de": "taumeln, d.h. (im übertragenen Sinne) schwenken",
+    "el": "να τυλίγεις, δηλαδή (μεταφορικά) να επιδεικνύεις",
+    "es": "enrollar, es decir (en sentido figurado) blandir",
+    "et": "rullida, st (piltlikult) markeerida",
+    "fi": "rullata, eli (kuvaannollisesti) heilutella",
+    "fr": "de faire des moulinets, c'est-à-dire (au sens figuré) de brandir",
+    "hu": "tekerni, azaz (átvitt értelemben) meglengetni",
+    "id": "to reel, yaitu (secara kiasan) mengacungkan",
+    "it": "sventolare, ovvero (in senso figurato) brandire",
+    "ja": "巻き取る、すなわち（比喩的に）振り回す",
+    "ko": "감다, 즉 (비유적으로) 휘두르다",
+    "lt": "sukti, t. y. (perkeltine prasme) demonstruoti",
+    "lv": "uzvilkt, t.i., (pārnestā nozīmē) izvilkt",
+    "nb": "å spole, dvs. (i overført betydning) å svinge",
+    "nl": "oprollen, d.w.z. (figuurlijk) zwaaien",
+    "pl": "to reel, tj. (w przenośni) brandzlować się",
+    "pt": "enrolar, ou seja (em sentido figurado) brandir",
+    "ro": "to reel, adică (la figurat) a flutura",
+    "ru": "размахивать, т.е. (фигурально) бренчать",
+    "sk": "navíjať, t. j. (v prenesenom význame) oháňať sa",
+    "sl": "navijati, tj. (v prenesenem pomenu) razkazovati",
+    "sv": "att rulla, dvs. (bildligt talat) att brännmärka",
+    "tr": "sarmak, yani (mecazi olarak) dağlamak",
+    "uk": "розкручувати, тобто (образно) виставляти напоказ",
+    "zh": "挥舞卷轴"
+  },
+  "verses": [
+    "nahum 2:4:12"
+  ]
+}

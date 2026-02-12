@@ -1,0 +1,42 @@
+{
+  "number": "H5280",
+  "language": "hebrew",
+  "transliteration": "Naʻămîy",
+  "pronunciation": "nah-am-ee'",
+  "definition": "a Naamanite, or descendant of Naaman (collectively)",
+  "kjvTranslation": "Naamites.",
+  "hebrew": "נַעֲמִי",
+  "translations": {
+    "bg": "нааманец или потомък на Нааман (колективно)",
+    "cs": "naamánec nebo Naamánův potomek (společně)",
+    "da": "en Naamanit eller efterkommer af Naaman (kollektivt)",
+    "de": "ein Naamaniter oder ein Nachkomme Naamans (kollektiv)",
+    "el": "νααμανίτης ή απόγονος του Νααμάν (συλλογικά)",
+    "es": "un naamanita, o descendiente de Naamán (colectivamente)",
+    "et": "naamanist või Naamani järeltulija (kollektiivselt)",
+    "fi": "naamanilainen tai Naamanin jälkeläinen (kollektiivisesti)",
+    "fr": "un Naamanite ou un descendant de Naaman (collectivement)",
+    "hu": "naamánita, vagy Naámán leszármazottja (együttesen)",
+    "id": "orang Naaman, atau keturunan Naaman (secara kolektif)",
+    "it": "un Naamanita o un discendente di Naaman (collettivamente)",
+    "ja": "ナアマン人、またはナアマンの子孫（総称）",
+    "ko": "나아만인 또는 나아만의 후손(총칭)",
+    "lt": "naamanas arba Naamano palikuonis (bendrai)",
+    "lv": "naamanietis vai Naamana pēcnācējs (kopā)",
+    "nb": "en Naamanitt, eller en etterkommer av Naaman (kollektivt)",
+    "nl": "een Naamaniet, of afstammeling van Naaman (gezamenlijk)",
+    "pl": "naamanita lub potomek Naamana (łącznie)",
+    "pt": "um naamanita, ou descendente de Naamã (coletivamente)",
+    "ro": "un naamanit sau descendent al lui Naaman (colectiv)",
+    "ru": "нааманец или потомок Наамана (в совокупности)",
+    "sk": "naamánec alebo Naamánov potomok (spoločne)",
+    "sl": "naamanec ali Naamanov potomec (skupaj)",
+    "sv": "en Naamanit, eller ättling till Naaman (kollektivt)",
+    "tr": "bir Naamanlı ya da Naaman'ın soyundan gelen (topluca)",
+    "uk": "нааманець або нащадок Наамана (збірно)",
+    "zh": "乃缦人，或乃缦的后裔（统称）"
+  },
+  "verses": [
+    "numbers 26:40:9"
+  ]
+}

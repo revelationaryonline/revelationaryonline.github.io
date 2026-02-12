@@ -1,0 +1,43 @@
+{
+  "number": "H618",
+  "language": "hebrew",
+  "transliteration": "ʼâçâm",
+  "pronunciation": "aw-sawm'",
+  "definition": "a storehouse (only in the plural)",
+  "kjvTranslation": "barn, storehouse.",
+  "translations": {
+    "bg": "склад (само в множествено число)",
+    "cs": "skladiště (pouze v množném čísle)",
+    "da": "et forrådskammer (kun i flertal)",
+    "de": "ein Lagerhaus (nur im Plural)",
+    "el": "αποθήκη (μόνο στον πληθυντικό)",
+    "es": "un almacén (sólo en plural)",
+    "et": "ladu (ainult mitmuses)",
+    "fi": "varasto (vain monikossa)",
+    "fr": "un entrepôt (uniquement au pluriel)",
+    "hu": "raktár (csak többes számban)",
+    "id": "gudang (hanya dalam bentuk jamak)",
+    "it": "un magazzino (solo al plurale)",
+    "ja": "倉",
+    "ko": "창고(복수형만 해당)",
+    "lt": "sandėlis (tik daugiskaita)",
+    "lv": "noliktava (tikai daudzskaitlī)",
+    "nb": "et lagerhus (bare i flertall)",
+    "nl": "een opslagplaats (alleen in het meervoud)",
+    "pl": "magazyn (tylko w liczbie mnogiej)",
+    "pt": "um armazém (apenas no plural)",
+    "ro": "o magazie (numai la plural)",
+    "ru": "хранилище (только во множественном числе)",
+    "sk": "sklad (len v množnom čísle)",
+    "sl": "skladišče (samo v množini)",
+    "sv": "ett förrådshus (endast i plural)",
+    "tr": "bir depo (sadece çoğul olarak)",
+    "uk": "сховище (тільки у множині)",
+    "zh": "库房"
+  },
+  "hebrew": "אָסָם",
+  "verses": [
+    "deuteronomy 28:8:5",
+    "proverbs 3:10:1"
+  ]
+}

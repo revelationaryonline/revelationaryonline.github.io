@@ -1,0 +1,42 @@
+{
+  "number": "H1399",
+  "language": "hebrew",
+  "transliteration": "gᵉbar",
+  "pronunciation": "gheb-ar'",
+  "definition": "a person",
+  "kjvTranslation": "man.",
+  "translations": {
+    "bg": "лице",
+    "cs": "osoba",
+    "da": "en person",
+    "de": "eine Person",
+    "el": "ένα άτομο",
+    "es": "una persona",
+    "et": "inimene",
+    "fi": "henkilö",
+    "fr": "une personne",
+    "hu": "egy személy",
+    "id": "seseorang",
+    "it": "una persona",
+    "ja": "一人",
+    "ko": "사람",
+    "lt": "asmuo",
+    "lv": "persona",
+    "nb": "en person",
+    "nl": "een persoon",
+    "pl": "osoba",
+    "pt": "uma pessoa",
+    "ro": "o persoană",
+    "ru": "человек",
+    "sk": "osoba",
+    "sl": "oseba",
+    "sv": "en person",
+    "tr": "bir kişi",
+    "uk": "людина",
+    "zh": "一个人"
+  },
+  "hebrew": "גְּבַר",
+  "verses": [
+    "psalms 18:26:4"
+  ]
+}

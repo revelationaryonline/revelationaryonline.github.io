@@ -1,0 +1,42 @@
+{
+  "number": "H7608",
+  "language": "hebrew",
+  "transliteration": "shaʼărâh",
+  "pronunciation": "shah-ar-aw'",
+  "definition": "female kindred by blood",
+  "kjvTranslation": "near kinswomen.",
+  "hebrew": "שַׁאֲרָה",
+  "translations": {
+    "bg": "женско кръвно родство",
+    "cs": "ženské příbuzenstvo",
+    "da": "kvindelig slægtning af blod",
+    "de": "weibliche Blutsverwandte",
+    "el": "θηλυκή συγγένεια εξ αίματος",
+    "es": "parentesco femenino por consanguinidad",
+    "et": "naissugulased veresugulased",
+    "fi": "naispuolinen verisukulainen",
+    "fr": "femme apparentée par le sang",
+    "hu": "vér szerinti női rokonok",
+    "id": "perempuan yang memiliki hubungan darah",
+    "it": "parenti di sesso femminile per sangue",
+    "ja": "女系",
+    "ko": "혈연으로 맺어진 여성 종족",
+    "lt": "moteriškos giminystės ryšiais susiję asmenys",
+    "lv": "sieviešu dzimtas radinieki pēc asinsradniecības",
+    "nb": "kvinnelig slektning av blod",
+    "nl": "vrouwelijke bloedverwanten",
+    "pl": "kobiety spokrewnione przez krew",
+    "pt": "parentesco de sangue feminino",
+    "ro": "rudă de sânge de sex feminin",
+    "ru": "женщина, родственная по крови",
+    "sk": "ženské pokrvné príbuzenstvo",
+    "sl": "žensko sorodstvo po krvi",
+    "sv": "kvinnlig släkting genom blodsband",
+    "tr": "kan bağı olan kadın akraba",
+    "uk": "жінка, споріднена по крові",
+    "zh": "嫡女"
+  },
+  "verses": [
+    "leviticus 18:17:15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6653",
+  "language": "hebrew",
+  "transliteration": "tsebeth",
+  "pronunciation": "tseh'-beth",
+  "definition": "a lock of stalks",
+  "kjvTranslation": "handful.",
+  "hebrew": "צֶבֶת",
+  "translations": {
+    "bg": "снопче стъбла",
+    "cs": "zámek stonků",
+    "da": "en lås af stilke",
+    "de": "eine Schleife aus Stängeln",
+    "el": "μια κλειδαριά από μίσχους",
+    "es": "un mechón de tallos",
+    "et": "varte lukk",
+    "fi": "varsien lukko",
+    "fr": "une mèche de tiges",
+    "hu": "egy tincset a szárakból",
+    "id": "seikat tangkai",
+    "it": "una ciocca di steli",
+    "ja": "茎の束",
+    "ko": "줄기 한 자루",
+    "lt": "stiebų pluoštas",
+    "lv": "kātiņu ķekars",
+    "nb": "en lås av stilker",
+    "nl": "een lok stengels",
+    "pl": "blokada łodyg",
+    "pt": "uma mecha de talos",
+    "ro": "un lacăt de tulpini",
+    "ru": "локон стеблей",
+    "sk": "zámotok stoniek",
+    "sl": "šop stebel",
+    "sv": "ett lock av stjälkar",
+    "tr": "bir tutam sap",
+    "uk": "пасмо стебел",
+    "zh": "秆绺"
+  },
+  "verses": [
+    "ruth 2:16:5"
+  ]
+}

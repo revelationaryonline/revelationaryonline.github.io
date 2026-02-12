@@ -1,0 +1,42 @@
+{
+  "number": "H951",
+  "language": "hebrew",
+  "transliteration": "bôwqêr",
+  "pronunciation": "bo-kare'",
+  "definition": "a cattle-tender",
+  "kjvTranslation": "herdman.",
+  "translations": {
+    "bg": "скотовъдец",
+    "cs": "chovatel dobytka",
+    "da": "en kvægavler",
+    "de": "ein Viehzüchter",
+    "el": "ένας κτηνοτρόφος",
+    "es": "un ganadero",
+    "et": "karjakasvataja",
+    "fi": "karjanhoitaja",
+    "fr": "un gardien de bétail",
+    "hu": "egy marhapásztor",
+    "id": "seorang pengolah ternak",
+    "it": "un allevatore di bestiame",
+    "ja": "牛飼い",
+    "ko": "가축 입찰",
+    "lt": "galvijų augintojas",
+    "lv": "lopu audzētājs",
+    "nb": "en kvegdriver",
+    "nl": "een veehouder",
+    "pl": "poganiacz bydła",
+    "pt": "um criador de gado",
+    "ro": "un îngrijitor de vite",
+    "ru": "скотовод",
+    "sk": "chovateľ dobytka",
+    "sl": "govedorejec",
+    "sv": "en boskapsskötare",
+    "tr": "bir sığır tüccarı",
+    "uk": "тендер на велику рогату худобу",
+    "zh": "牧牛人"
+  },
+  "hebrew": "בּוֹקֵר",
+  "verses": [
+    "amos 7:14:13"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7873",
+  "language": "hebrew",
+  "transliteration": "sîyg",
+  "pronunciation": "seeg",
+  "definition": "a withdrawal (into a private place)",
+  "kjvTranslation": "pursuing.",
+  "hebrew": "שִׂיג",
+  "translations": {
+    "bg": "оттегляне (на частно място)",
+    "cs": "stažení (do soukromí)",
+    "da": "en tilbagetrækning (til et privat sted)",
+    "de": "einen Rückzug (an einen privaten Ort)",
+    "el": "απόσυρση (σε ιδιωτικό χώρο)",
+    "es": "una retirada (a un lugar privado)",
+    "et": "tagasitõmbumine (privaatsesse kohta)",
+    "fi": "vetäytyminen (yksityiseen paikkaan)",
+    "fr": "un retrait (dans un lieu privé)",
+    "hu": "visszavonulás (egy magánterületre)",
+    "id": "penarikan diri (ke tempat pribadi)",
+    "it": "un ritiro (in un luogo privato)",
+    "ja": "引き籠もり",
+    "ko": "(사적인 장소로의) 인출",
+    "lt": "pasitraukimas (į privačią vietą)",
+    "lv": "aiziešana (uz privātu vietu)",
+    "nb": "en tilbaketrekning (til et privat sted)",
+    "nl": "een terugtrekking (naar een privéplek)",
+    "pl": "wycofanie się (do prywatnego miejsca)",
+    "pt": "uma retirada (para um local privado)",
+    "ro": "o retragere (într-un loc privat)",
+    "ru": "уход (в укромное место)",
+    "sk": "stiahnutie sa (do súkromia)",
+    "sl": "umik (v zasebni prostor)",
+    "sv": "ett tillbakadragande (till en privat plats)",
+    "tr": "(özel bir yere) çekilme",
+    "uk": "виведення (у приватне місце)",
+    "zh": "退隐"
+  },
+  "verses": [
+    "firstKings 18:27:15"
+  ]
+}

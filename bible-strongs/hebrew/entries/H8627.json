@@ -1,0 +1,42 @@
+{
+  "number": "H8627",
+  "language": "hebrew",
+  "transliteration": "tᵉqan",
+  "pronunciation": "tek-an'",
+  "definition": "to straighten up, i.e. confirm",
+  "kjvTranslation": "establish.",
+  "hebrew": "תְּקַן",
+  "translations": {
+    "bg": "да се изправи, т.е. да потвърди",
+    "cs": "narovnat, tj. potvrdit",
+    "da": "at rette sig op, dvs. bekræfte",
+    "de": "aufzurichten, d.h. zu bestätigen",
+    "el": "να ισιώσει, δηλαδή να επιβεβαιώσει",
+    "es": "enderezar, es decir, confirmar",
+    "et": "sirgendada, s.t. kinnitada",
+    "fi": "suoristamaan, eli vahvistamaan..",
+    "fr": "redresser, c'est-à-dire confirmer",
+    "hu": "hogy kiegyenesedjen, azaz megerősítse",
+    "id": "untuk meluruskan, yaitu mengkonfirmasi",
+    "it": "raddrizzare, cioè confermare",
+    "ja": "をまっすぐにする。",
+    "ko": "곧게 펴기, 즉 확인을 위해",
+    "lt": "ištiesinti, t. y. patvirtinti",
+    "lv": "iztaisnot, t. i., apstiprināt",
+    "nb": "å rette seg opp, dvs. bekrefte",
+    "nl": "rechtzetten, d.w.z. bevestigen",
+    "pl": "wyprostować się, tj. potwierdzić",
+    "pt": "para endireitar, ou seja, confirmar",
+    "ro": "a se îndrepta, adică a confirma",
+    "ru": "выпрямиться, т.е. подтвердить",
+    "sk": "narovnať, t. j. potvrdiť",
+    "sl": "izravnati, tj. potrditi",
+    "sv": "att räta upp, d.v.s. bekräfta",
+    "tr": "düzeltmek, yani onaylamak",
+    "uk": "виправити, тобто підтвердити",
+    "zh": "直，即确认"
+  },
+  "verses": [
+    "daniel 4:33:17"
+  ]
+}

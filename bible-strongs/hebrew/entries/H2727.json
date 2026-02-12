@@ -1,0 +1,42 @@
+{
+  "number": "H2727",
+  "language": "hebrew",
+  "transliteration": "chârag",
+  "pronunciation": "khaw-rag'",
+  "definition": "properly, to leap suddenly, i.e. (by implication) to be dismayed",
+  "kjvTranslation": "be afraid.",
+  "translations": {
+    "bg": "правилно, да скочи внезапно, т.е. (по подразбиране) да се уплаши",
+    "cs": "správně, náhle vyskočit, tj. (implicitně) být zděšen",
+    "da": "korrekt, at springe pludseligt, dvs. (underforstået) at blive forfærdet",
+    "de": "richtig: plötzlich aufspringen, d.h. (implizit) bestürzt sein",
+    "el": "σωστά, να πηδήξω ξαφνικά, δηλαδή (με υπονοούμενο) να τρομάξω",
+    "es": "propiamente, saltar de repente, es decir (implícitamente) estar consternado",
+    "et": "õigesti, hüpata äkki, st (kaudselt) ehmatada",
+    "fi": "oikein, hyppäämään yhtäkkiä, eli (implisiittisesti) kauhistumaan",
+    "fr": "proprement, bondir soudainement, c'est-à-dire (implicitement) être consterné",
+    "hu": "helyesen, hirtelen ugrani, azaz (értelemszerűen) megdöbbenni",
+    "id": "dengan benar, untuk melompat secara tiba-tiba, yaitu (dengan implikasi) menjadi kecewa",
+    "it": "propriamente, balzare all'improvviso, cioè (per implicazione) essere sgomento",
+    "ja": "正しくは、突然跳躍する、すなわち（暗に）狼狽する",
+    "ko": "적절하게, 갑자기 도약하다, 즉 (암시 적으로) 당황하다",
+    "lt": "tinkamai, staiga pašokti, t. y. (netiesiogiai) išsigąsti",
+    "lv": "pareizi, pēkšņi lēkt, t.i., (netieši) izbīties",
+    "nb": "riktig, å hoppe plutselig, dvs. (underforstått) å bli forferdet",
+    "nl": "op de juiste manier, plotseling springen, d.w.z. (impliciet) ontsteld zijn",
+    "pl": "prawidłowo, nagle skoczyć, tj. (w domyśle) być przerażonym",
+    "pt": "corretamente, saltar de repente, ou seja, (implicitamente) ficar desanimado",
+    "ro": "corect, a sări brusc, adică (implicit) a fi consternat",
+    "ru": "правильно, внезапно вскочить, т.е. (по косвенным признакам) быть встревоженным",
+    "sk": "správne, náhle vyskočiť, t. j. (implicitne) zdesiť sa",
+    "sl": "pravilno, nenadoma poskočiti, tj. (implicitno) se zgroziti",
+    "sv": "korrekt, att hoppa plötsligt, dvs. (underförstått) att bli bestört",
+    "tr": "uygun şekilde, aniden sıçramak, yani (ima yoluyla) dehşete düşmek",
+    "uk": "власне, несподівано стрибнути, тобто (за змістом) злякатися",
+    "zh": "适当地，突然跃起，即（暗示）受到惊吓"
+  },
+  "hebrew": "חָרַג",
+  "verses": [
+    "psalms 18:46:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7846",
+  "language": "hebrew",
+  "transliteration": "sêṭ",
+  "pronunciation": "sayte",
+  "definition": "a departure from right, i.e. sin",
+  "kjvTranslation": "revolter, that turn aside.",
+  "hebrew": "שֵׂט",
+  "translations": {
+    "bg": "отклонение от правото, т.е. грях",
+    "cs": "odklon od práva, tj. hřích",
+    "da": "en afvigelse fra det rigtige, dvs. synd",
+    "de": "eine Abweichung vom Recht, d.h. Sünde",
+    "el": "μια απόκλιση από το σωστό, δηλ. αμαρτία",
+    "es": "una desviación del bien, es decir, el pecado",
+    "et": "õigusest kõrvalekaldumine, s.t. patt",
+    "fi": "oikeasta poikkeaminen eli synti",
+    "fr": "un écart par rapport au droit, c'est-à-dire un péché",
+    "hu": "a jogtól való eltérés, azaz a bűn",
+    "id": "penyimpangan dari yang benar, yaitu dosa",
+    "it": "l'allontanamento dal diritto, cioè il peccato",
+    "ja": "つみ",
+    "ko": "옳음에서 벗어난 일탈, 즉 죄악",
+    "lt": "nukrypimas nuo teisės, t. y. nuodėmė",
+    "lv": "novirze no pareizā, t.i., grēks",
+    "nb": "et avvik fra det rette, dvs. synd",
+    "nl": "een afwijking van het recht, d.w.z. zonde",
+    "pl": "odejście od prawa, tj. grzech",
+    "pt": "um desvio do direito, ou seja, o pecado",
+    "ro": "o abatere de la bine, adică păcatul",
+    "ru": "отклонение от нормы, т.е. грех",
+    "sk": "odklon od práva, t. j. hriech",
+    "sl": "odmik od pravice, tj. greh",
+    "sv": "en avvikelse från det rätta, dvs. synd",
+    "tr": "doğruluktan ayrılma, yani günah",
+    "uk": "відхід від добра, тобто гріх",
+    "zh": "背离正义，即罪恶"
+  },
+  "verses": [
+    "hosea 5:2:1"
+  ]
+}

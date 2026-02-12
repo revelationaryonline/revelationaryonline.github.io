@@ -1,0 +1,43 @@
+{
+  "number": "H1386",
+  "language": "hebrew",
+  "transliteration": "gabnôn",
+  "pronunciation": "gab-nohn'",
+  "definition": "a hump or peak of hills",
+  "kjvTranslation": "high.",
+  "translations": {
+    "bg": "гърбица или връх на хълм",
+    "cs": "pahorek nebo vrchol kopce",
+    "da": "en pukkel eller top af bakker",
+    "de": "ein Hügel oder eine Kuppe von Hügeln",
+    "el": "μια καμπούρα ή μια κορυφή λόφων",
+    "es": "una joroba o cima de colinas",
+    "et": "küngaste kühm või tipp",
+    "fi": "kukkuloiden kumpu tai huippu",
+    "fr": "une bosse ou un sommet de colline",
+    "hu": "dombok púpja vagy csúcsa",
+    "id": "punuk atau puncak bukit",
+    "it": "un dosso o un picco di colline",
+    "ja": "こぶ",
+    "ko": "언덕의 고개 또는 봉우리",
+    "lt": "kalvų kalva arba viršūnė",
+    "lv": "pauguraina vai kalnaina virsotne",
+    "nb": "en pukkel eller topp av åser",
+    "nl": "een bult of piek van heuvels",
+    "pl": "garb lub szczyt wzgórza",
+    "pt": "uma lomba ou pico de colinas",
+    "ro": "o cocoașă sau un vârf de deal",
+    "ru": "горб или вершина холма",
+    "sk": "pahorok alebo vrchol kopca",
+    "sl": "grbina ali vrh hriba",
+    "sv": "en puckel eller topp av kullar",
+    "tr": "tepelerin bir tümseği veya zirvesi",
+    "uk": "пагорб або вершина пагорбів",
+    "zh": "厜"
+  },
+  "hebrew": "גַּבְנֹן",
+  "verses": [
+    "psalms 68:16:5",
+    "psalms 68:17:3"
+  ]
+}

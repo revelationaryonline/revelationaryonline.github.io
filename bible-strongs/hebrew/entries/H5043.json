@@ -1,0 +1,42 @@
+{
+  "number": "H5043",
+  "language": "hebrew",
+  "transliteration": "nebrᵉshâʼ",
+  "pronunciation": "neb-reh-shaw'",
+  "definition": "a light; plural (collectively) a chandelier",
+  "kjvTranslation": "candlestick.",
+  "hebrew": "נֶבְרְשָׁא",
+  "translations": {
+    "bg": "светлина; множествено число (събирателно) полилей",
+    "cs": "světlo; množné číslo (souhrnně) lustr",
+    "da": "et lys; flertal (kollektivt) en lysekrone",
+    "de": "eine Leuchte; Plural (gemeinsam) ein Kronleuchter",
+    "el": "ένα φως- πληθυντικός (συλλογικά) ένας πολυέλαιος",
+    "es": "una luz; plural (colectivamente) una lámpara de araña",
+    "et": "valgusti; mitmuses (kollektiivselt) lühtri; mitmuses (kollektiivselt) lühtri",
+    "fi": "valaisin; monikko (yhteisnimitys) kattokruunu",
+    "fr": "un luminaire ; au pluriel (collectivement) un lustre",
+    "hu": "lámpa; többes számban (együttesen) csillár",
+    "id": "cahaya; jamak (secara kolektif) lampu gantung",
+    "it": "una luce; plurale (collettivamente) un lampadario",
+    "ja": "照明；複数（総称して）シャンデリア",
+    "ko": "조명; 복수형(총칭) 샹들리에",
+    "lt": "šviestuvas; daugiskaita (bendrai) liustra",
+    "lv": "gaisma; daudzskaitlī (kopā) lustra",
+    "nb": "et lys; flertall (kollektivt) en lysekrone",
+    "nl": "een lamp; meervoud (collectief) een kroonluchter",
+    "pl": "światło; liczba mnoga (łącznie) żyrandol",
+    "pt": "um candeeiro; no plural (coletivamente) um candelabro",
+    "ro": "o lumină; plural (colectiv) un candelabru",
+    "ru": "светильник; множественное число (в совокупности) люстра",
+    "sk": "svetlo; množné číslo (spolu) luster",
+    "sl": "luč; množina (skupaj) lestenec",
+    "sv": "en lampa; plural (kollektivt) en ljuskrona",
+    "tr": "bir ışık; çoğul (toplu olarak) bir avize",
+    "uk": "світло; множина (збірне) люстра",
+    "zh": "一盏灯；复数（统称）一盏吊灯"
+  },
+  "verses": [
+    "daniel 5:5:10"
+  ]
+}

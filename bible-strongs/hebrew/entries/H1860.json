@@ -1,0 +1,43 @@
+{
+  "number": "H1860",
+  "language": "hebrew",
+  "transliteration": "dᵉrâʼôwn",
+  "pronunciation": "der-aw-one'",
+  "definition": "an object of aversion",
+  "kjvTranslation": "abhorring, contempt.",
+  "translations": {
+    "bg": "обект на отвращение",
+    "cs": "objekt averze",
+    "da": "et objekt af aversion",
+    "de": "ein Objekt der Abneigung",
+    "el": "ένα αντικείμενο αποστροφής",
+    "es": "un objeto de aversión",
+    "et": "vastumeelsuse objekt",
+    "fi": "vastenmielisyyden kohde",
+    "fr": "un objet d'aversion",
+    "hu": "az ellenszenv tárgya",
+    "id": "objek yang tidak disukai",
+    "it": "un oggetto di avversione",
+    "ja": "嫌悪の対象",
+    "ko": "혐오의 대상",
+    "lt": "neapykantos objektas",
+    "lv": "nepatikas objekts",
+    "nb": "et objekt som vekker aversjon",
+    "nl": "een voorwerp van afkeer",
+    "pl": "obiekt niechęci",
+    "pt": "um objeto de aversão",
+    "ro": "un obiect de aversiune",
+    "ru": "объект отвращения",
+    "sk": "objekt averzie",
+    "sl": "predmet averzije",
+    "sv": "ett föremål för aversion",
+    "tr": "bir nefret nesnesi",
+    "uk": "об'єкт відрази",
+    "zh": "厌恶物"
+  },
+  "hebrew": "דְּרָאוֹן",
+  "verses": [
+    "isaiah 66:24:14",
+    "daniel 12:2:10"
+  ]
+}

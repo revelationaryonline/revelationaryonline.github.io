@@ -1,0 +1,43 @@
+{
+  "number": "H7576",
+  "language": "hebrew",
+  "transliteration": "râthaq",
+  "pronunciation": "raw-thak'",
+  "definition": "to fasten",
+  "kjvTranslation": "bind.",
+  "hebrew": "רָתַק",
+  "translations": {
+    "bg": "да закрепвате",
+    "cs": "k upevnění",
+    "da": "til at fastgøre",
+    "de": "zum Befestigen",
+    "el": "για να στερεώσετε",
+    "es": "para sujetar",
+    "et": "kinnitada",
+    "fi": "kiinnittää",
+    "fr": "pour fixer",
+    "hu": "rögzíteni",
+    "id": "untuk mengencangkan",
+    "it": "per fissare",
+    "ja": "締める",
+    "ko": "고정하려면",
+    "lt": "pritvirtinti",
+    "lv": "piestiprināt",
+    "nb": "for å feste",
+    "nl": "vastmaken",
+    "pl": "do mocowania",
+    "pt": "para fixar",
+    "ro": "pentru a fixa",
+    "ru": "закрепить",
+    "sk": "na upevnenie",
+    "sl": "za pritrditev",
+    "sv": "för att fästa",
+    "tr": "bağlamak için",
+    "uk": "щоб пристебнути",
+    "zh": "紧固"
+  },
+  "verses": [
+    "ecclesiastes 12:6:4",
+    "nahum 3:10:17"
+  ]
+}

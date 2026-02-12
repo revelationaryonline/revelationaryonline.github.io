@@ -1,0 +1,42 @@
+{
+  "number": "H6199",
+  "language": "hebrew",
+  "transliteration": "ʻarʻâr",
+  "pronunciation": "ar-awr'",
+  "definition": "naked, i.e. (figuratively) poor",
+  "kjvTranslation": "destitute. See also H6176 (עֲרוֹעֵר).",
+  "hebrew": "עַרעָר",
+  "translations": {
+    "bg": "гол, т.е. (в преносен смисъл) беден",
+    "cs": "nahý, tj. (obrazně) chudý",
+    "da": "nøgen, dvs. (i overført betydning) fattig",
+    "de": "nackt, d.h. (im übertragenen Sinne) arm",
+    "el": "γυμνός, δηλαδή (μεταφορικά) φτωχός",
+    "es": "desnudo, es decir (figuradamente) pobre",
+    "et": "alasti, st (piltlikult öeldes) vaesed",
+    "fi": "alasti, eli (kuvaannollisesti) köyhä",
+    "fr": "nu, c'est-à-dire pauvre (au sens figuré)",
+    "hu": "meztelen, azaz (átvitt értelemben) szegény",
+    "id": "telanjang, yaitu (secara kiasan) miskin",
+    "it": "nudo, cioè (in senso figurato) povero",
+    "ja": "裸一貫",
+    "ko": "벌거벗은, 즉 (비유적으로) 가난함",
+    "lt": "nuogas, t. y. (perkeltine prasme) neturtingas",
+    "lv": "kails, t. i., (pārnestā nozīmē) nabadzīgs",
+    "nb": "naken, dvs. (i overført betydning) fattig",
+    "nl": "naakt, d.w.z. (figuurlijk) arm",
+    "pl": "nagi, tj. (w przenośni) biedny",
+    "pt": "nu, ou seja, (figurativamente) pobre",
+    "ro": "gol, adică (la figurat) sărac",
+    "ru": "голый, т.е. (образно) бедный",
+    "sk": "nahý, t. j. (obrazne) chudobný",
+    "sl": "goli, tj. (v prenesenem pomenu) revni",
+    "sv": "naken, d.v.s. (bildligt talat) fattig",
+    "tr": "çıplak, yani (mecazi anlamda) yoksul",
+    "uk": "голі, тобто (образно) бідні",
+    "zh": "赤贫"
+  },
+  "verses": [
+    "psalms 102:18:3"
+  ]
+}

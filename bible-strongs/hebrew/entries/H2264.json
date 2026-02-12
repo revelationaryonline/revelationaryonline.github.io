@@ -1,0 +1,43 @@
+{
+  "number": "H2264",
+  "language": "hebrew",
+  "transliteration": "chibbuq",
+  "pronunciation": "khib-book'",
+  "definition": "a clasping of the hands (in idleness)",
+  "kjvTranslation": "fold.",
+  "translations": {
+    "bg": "стискане на ръцете (при безделие)",
+    "cs": "sepnutí rukou (při nečinnosti)",
+    "da": "en foldning af hænderne (i lediggang)",
+    "de": "das Falten der Hände (beim Nichtstun)",
+    "el": "ένα σφίξιμο των χεριών (στην αδράνεια)",
+    "es": "un apretón de manos (en la ociosidad)",
+    "et": "käte kokkuklammerdamine (tegevusetuses)",
+    "fi": "käsien yhteenlyönti (joutilaisuudessa)",
+    "fr": "un serrement des mains (dans l'oisiveté)",
+    "hu": "a kezek összekulcsolása (tétlenségben)",
+    "id": "menggenggam tangan (dalam kemalasan)",
+    "it": "un intreccio di mani (in ozio)",
+    "ja": "合掌",
+    "ko": "손을 깍지 낀 상태(유휴 상태)",
+    "lt": "rankų susikabinimas (neveiklumo metu)",
+    "lv": "roku saspiešana (dīkstāves laikā)",
+    "nb": "en knytting av hendene (i lediggang)",
+    "nl": "een ineenkrimpen van de handen (in luiheid)",
+    "pl": "zaciśnięcie rąk (w bezczynności)",
+    "pt": "um apertar de mãos (na ociosidade)",
+    "ro": "o strângere a mâinilor (în lene)",
+    "ru": "сцепление рук (в безделье)",
+    "sk": "spínanie rúk (pri nečinnosti)",
+    "sl": "stiskanje rok (v brezdelju)",
+    "sv": "en knäppning av händerna (i sysslolöshet)",
+    "tr": "ellerin kenetlenmesi (tembellik içinde)",
+    "uk": "зчеплення рук (у неробстві)",
+    "zh": "合掌"
+  },
+  "hebrew": "חִבֻּק",
+  "verses": [
+    "proverbs 6:10:5",
+    "proverbs 24:33:5"
+  ]
+}

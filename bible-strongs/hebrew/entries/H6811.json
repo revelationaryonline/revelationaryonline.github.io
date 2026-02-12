@@ -1,0 +1,42 @@
+{
+  "number": "H6811",
+  "language": "hebrew",
+  "transliteration": "Tsâʻîyr",
+  "pronunciation": "tsaw-eer'",
+  "definition": "Tsair, a place in Idumaea",
+  "kjvTranslation": "Zair.",
+  "hebrew": "צָעִיר",
+  "translations": {
+    "bg": "Цаир, място в Идумея",
+    "cs": "Tsair, místo v Idumeji",
+    "da": "Tsair, et sted i Idumæa",
+    "de": "Tsair, ein Ort in Idumäa",
+    "el": "Τσαΐρ, τόπος στην Ιδουμαία",
+    "es": "Tsair, un lugar en Idumea",
+    "et": "Tsair, koht Idumaal",
+    "fi": "Tsair, paikka Idumaassa",
+    "fr": "Tsaïr, localité de l'Idumée",
+    "hu": "Tsair, egy hely Idumaiában",
+    "id": "Tsair, sebuah tempat di Idumaea",
+    "it": "Tsair, località dell'Idumea",
+    "ja": "イドメアの地名、ツァイール",
+    "ko": "차르, 이두마에아의 한 장소",
+    "lt": "Tsair, vietovė Idumėjoje",
+    "lv": "Tsair, vieta Idumejā",
+    "nb": "Tsair, et sted i Idumaea",
+    "nl": "Tsair, een plaats in Idumaea",
+    "pl": "Tsair, miejsce w Idumei",
+    "pt": "Tsair, um lugar na Iduméia",
+    "ro": "Tsair, un loc în Idumaea",
+    "ru": "Цаир, место в Идумее",
+    "sk": "Tsair, miesto v Idumei",
+    "sl": "Tsair, kraj v Idumeji",
+    "sv": "Tsair, en plats i Idumaea",
+    "tr": "Tsair, Idumaea'da bir yer",
+    "uk": "Цаїр, місце в Ідумеї",
+    "zh": "Tsair，Idumaea 的一个地方"
+  },
+  "verses": [
+    "secondKings 8:21:2"
+  ]
+}

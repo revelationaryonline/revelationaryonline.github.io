@@ -1,0 +1,42 @@
+{
+  "number": "H856",
+  "language": "hebrew",
+  "transliteration": "ʼEthbaʻal",
+  "pronunciation": "eth-bah'-al",
+  "definition": "Ethbaal, a Phoenician king",
+  "kjvTranslation": "Ethbaal.",
+  "translations": {
+    "bg": "Етбаал, финикийски цар",
+    "cs": "Ethbaal, fénický král",
+    "da": "Ethbaal, en fønikisk konge",
+    "de": "Ethbaal, ein phönizischer König",
+    "el": "Ethbaal, ένας φοινικικός βασιλιάς",
+    "es": "Ethbaal, rey fenicio",
+    "et": "Ethbaal, foiniiklasest kuningas",
+    "fi": "Ethbaal, foinikialainen kuningas",
+    "fr": "Ethbaal, roi phénicien",
+    "hu": "Ethbaal, föníciai király",
+    "id": "Ethbaal, seorang raja Fenisia",
+    "it": "Ethbaal, un re fenicio",
+    "ja": "フェニキア王エスバアル",
+    "ko": "페니키아 왕 에트바알",
+    "lt": "Etbaalas, finikiečių karalius",
+    "lv": "Etbaals, feniķiešu ķēniņš",
+    "nb": "Ethbaal, en fønikisk konge",
+    "nl": "Ethbaal, een Fenicische koning",
+    "pl": "Ethbaal, fenicki król",
+    "pt": "Ethbaal, um rei fenício",
+    "ro": "Ethbaal, un rege fenician",
+    "ru": "Этбаал, финикийский царь",
+    "sk": "Ethbaal, fenický kráľ",
+    "sl": "Ethbaal, feničanski kralj",
+    "sv": "Ethbaal, en fenicisk kung",
+    "tr": "Ethbaal, Fenike kralı",
+    "uk": "Етбаал, фінікійський цар",
+    "zh": "伊斯巴尔"
+  },
+  "hebrew": "אֶתְבַּעַל",
+  "verses": [
+    "firstKings 16:31:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H472",
+  "language": "hebrew",
+  "transliteration": "ʼĔlîyshebaʻ",
+  "pronunciation": "el-ee-sheh'-bah",
+  "definition": "Elisheba, the wife of Aaron",
+  "kjvTranslation": "Elisheba.",
+  "translations": {
+    "bg": "Елисавета, жената на Аарон",
+    "cs": "Elíšeba, manželka Áronova",
+    "da": "Elisheba, Arons kone",
+    "de": "Elisheba, die Frau Aarons",
+    "el": "Ελισάβετ, η σύζυγος του Ααρών",
+    "es": "Elisheba, esposa de Aarón",
+    "et": "Eliisabale, Aaroni naisele",
+    "fi": "Elisaban, Aaronin vaimon",
+    "fr": "Elisheba, femme d'Aaron",
+    "hu": "Elisheba, Áron felesége",
+    "id": "Eliseba, istri Harun",
+    "it": "Elisheba, moglie di Aronne",
+    "ja": "アロンの妻エリシェバ",
+    "ko": "엘리세바, 아론의 아내",
+    "lt": "Elišeba, Aarono žmona",
+    "lv": "Elizeba, Ārona sieva",
+    "nb": "Elisheba, Arons kone",
+    "nl": "Elisheba, de vrouw van Aäron",
+    "pl": "Elisheba, żona Aarona",
+    "pt": "Eliseba, mulher de Aarão",
+    "ro": "Elisheba, soția lui Aaron",
+    "ru": "Елишева, жена Аарона",
+    "sk": "Elizeba, manželka Áronova",
+    "sl": "Elizeba, Aronova žena",
+    "sv": "Elisheba, Arons hustru",
+    "tr": "Elisheba, Harun'un karısı",
+    "uk": "Єлисавета, дружина Аарона",
+    "zh": "亚伦的妻子以利示巴"
+  },
+  "hebrew": "אֱלִישֶׁבַע",
+  "verses": [
+    "exodus 6:23:3"
+  ]
+}

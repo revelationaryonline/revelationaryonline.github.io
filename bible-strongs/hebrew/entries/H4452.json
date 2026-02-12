@@ -1,0 +1,42 @@
+{
+  "number": "H4452",
+  "language": "hebrew",
+  "transliteration": "mâlats",
+  "pronunciation": "maw-lats'",
+  "definition": "to be smooth, i.e. (figuratively) pleasant",
+  "kjvTranslation": "be sweet.",
+  "hebrew": "מָלַץ",
+  "translations": {
+    "bg": "да бъде гладко, т.е. (в преносен смисъл) приятно",
+    "cs": "být hladký, tj. (obrazně) příjemný",
+    "da": "at være glat, dvs. (i overført betydning) behagelig",
+    "de": "glatt, d.h. (im übertragenen Sinne) angenehm sein",
+    "el": "να είναι ομαλή, δηλαδή (μεταφορικά) ευχάριστη",
+    "es": "ser suave, es decir (figuradamente) agradable",
+    "et": "olla sujuv, st (piltlikult) meeldiv",
+    "fi": "olla sileä, eli (kuvaannollisesti) miellyttävä",
+    "fr": "être lisse, c'est-à-dire (au sens figuré) agréable",
+    "hu": "simának, azaz (átvitt értelemben) kellemesnek lenni",
+    "id": "menjadi halus, yaitu (secara kiasan) menyenangkan",
+    "it": "essere liscio, cioè (in senso figurato) piacevole",
+    "ja": "滑らかであること、すなわち（比喩的に）心地よいこと",
+    "ko": "매끄럽다, 즉 (비유적으로) 유쾌하다",
+    "lt": "būti švelnus, t. y. (perkeltine prasme) malonus",
+    "lv": "būt gludam, t.i. (pārnestā nozīmē) patīkamam",
+    "nb": "å være glatt, dvs. (i overført betydning) behagelig",
+    "nl": "glad zijn, d.w.z. (figuurlijk) aangenaam",
+    "pl": "być gładkim, tj. (w przenośni) przyjemnym",
+    "pt": "ser suave, ou seja, (figurativamente) agradável",
+    "ro": "a fi neted, adică (la figurat) plăcut",
+    "ru": "быть гладким, т.е. (фигурально) приятным",
+    "sk": "byť hladký, t. j. (obrazne) príjemný",
+    "sl": "biti gladek, tj. (v prenesenem pomenu) prijeten",
+    "sv": "att vara smidig, dvs. (bildligt talat) behaglig",
+    "tr": "pürüzsüz olmak, yani (mecazi olarak) hoş olmak",
+    "uk": "бути гладким, тобто (образно) приємним",
+    "zh": "顺畅，即（比喻）令人愉快"
+  },
+  "verses": [
+    "psalms 119:103:1"
+  ]
+}

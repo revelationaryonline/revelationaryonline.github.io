@@ -1,0 +1,42 @@
+{
+  "number": "H2402",
+  "language": "hebrew",
+  "transliteration": "chaṭṭâʼâh",
+  "pronunciation": "khat-taw-aw'",
+  "definition": "an offence, and the penalty or sacrifice forit",
+  "kjvTranslation": "sin (offering).",
+  "translations": {
+    "bg": "престъпление, както и наказанието или жертвата за него",
+    "cs": "trestný čin a trest nebo oběť za něj",
+    "da": "en lovovertrædelse, og straffen eller offeret for den",
+    "de": "eine Straftat und die Strafe oder das Opfer für sie",
+    "el": "ένα αδίκημα, και η ποινή ή η θυσία γι' αυτό",
+    "es": "un delito, y la pena o sacrificio por ello",
+    "et": "süütegu ja selle eest määratud karistus või ohver",
+    "fi": "rikos, ja rangaistus tai uhraus siitä",
+    "fr": "une infraction, et la peine ou le sacrifice qui la sanctionne",
+    "hu": "bűncselekmény, és az ezért járó büntetés vagy áldozat",
+    "id": "pelanggaran, dan hukuman atau pengorbanan untuk itu",
+    "it": "un reato, e la pena o il sacrificio per esso",
+    "ja": "違反行為と、それに対する刑罰または犠牲",
+    "ko": "위반, 그리고 그에 대한 처벌 또는 희생",
+    "lt": "nusikaltimas ir bausmė ar auka už jį",
+    "lv": "pārkāpums, un sods vai upuris par to",
+    "nb": "en lovovertredelse, og straffen eller offeret for den",
+    "nl": "een overtreding en de straf of opoffering ervoor",
+    "pl": "przestępstwo, a kara lub ofiara za nie",
+    "pt": "uma infração, bem como a pena ou o sacrifício por ela",
+    "ro": "o infracțiune, precum și pedeapsa sau sacrificiul pentru aceasta",
+    "ru": "преступление, а также наказание или жертва за него",
+    "sk": "trestný čin a trest alebo obeť zaň",
+    "sl": "prekršek in kazen ali žrtev zanj",
+    "sv": "ett brott, och straffet eller offret för det",
+    "tr": "bir suç ve bunun cezası ya da kurbanı",
+    "uk": "злочин, і покарання або жертва за нього",
+    "zh": "罪行，以及对罪行的惩罚或牺牲"
+  },
+  "hebrew": "חַטָּאָה",
+  "verses": [
+    "ezra 6:17:15"
+  ]
+}

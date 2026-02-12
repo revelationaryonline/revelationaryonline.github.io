@@ -1,0 +1,42 @@
+{
+  "number": "H7424",
+  "language": "hebrew",
+  "transliteration": "rammâk",
+  "pronunciation": "ram-mawk'",
+  "definition": "a brood mare",
+  "kjvTranslation": "dromedary.",
+  "hebrew": "רַמָּךְ",
+  "translations": {
+    "bg": "разплодна кобила",
+    "cs": "chovná klisna",
+    "da": "en avlshoppe",
+    "de": "eine Zuchtstute",
+    "el": "μια φοράδα αναπαραγωγής",
+    "es": "una yegua de cría",
+    "et": "aretuskari",
+    "fi": "siittotamma",
+    "fr": "une poulinière",
+    "hu": "egy tenyészkanca",
+    "id": "seekor induk kuda",
+    "it": "una fattrice",
+    "ja": "繁殖牝馬",
+    "ko": "암말",
+    "lt": "veislinė kumelė",
+    "lv": "vaislas ķēve",
+    "nb": "en avlshoppe",
+    "nl": "een fokmerrie",
+    "pl": "klacz hodowlana",
+    "pt": "uma égua de criação",
+    "ro": "o iapă reproducătoare",
+    "ru": "племенная кобыла",
+    "sk": "chovná kobyla",
+    "sl": "plemenska kobila",
+    "sv": "ett avelssto",
+    "tr": "bir damızlık kısrak",
+    "uk": "племінна кобила",
+    "zh": "后备母马"
+  },
+  "verses": [
+    "esther 8:10:16"
+  ]
+}

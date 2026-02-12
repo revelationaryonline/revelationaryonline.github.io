@@ -1,0 +1,42 @@
+{
+  "number": "H5967",
+  "language": "hebrew",
+  "transliteration": "ʻălaʻ",
+  "pronunciation": "al-ah'",
+  "definition": "a rib",
+  "kjvTranslation": "rib.",
+  "hebrew": "עֲלַע",
+  "translations": {
+    "bg": "ребро",
+    "cs": "žebro",
+    "da": "en ribbe",
+    "de": "eine Rippe",
+    "el": "ένα πλευρό",
+    "es": "una costilla",
+    "et": "ribi",
+    "fi": "kylkiluu",
+    "fr": "une côte",
+    "hu": "egy bordát",
+    "id": "tulang rusuk",
+    "it": "una costola",
+    "ja": "あばら骨",
+    "ko": "갈비",
+    "lt": "šonkaulis",
+    "lv": "ribas",
+    "nb": "en ribbe",
+    "nl": "een rib",
+    "pl": "żebro",
+    "pt": "uma costela",
+    "ro": "o coastă",
+    "ru": "ребро",
+    "sk": "rebro",
+    "sl": "rebro",
+    "sv": "en ribba",
+    "tr": "bir kaburga",
+    "uk": "ребро",
+    "zh": "肋骨"
+  },
+  "verses": [
+    "daniel 7:5:10"
+  ]
+}

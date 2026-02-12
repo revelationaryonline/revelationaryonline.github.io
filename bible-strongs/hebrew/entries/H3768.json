@@ -1,0 +1,42 @@
+{
+  "number": "H3768",
+  "language": "hebrew",
+  "transliteration": "karpaç",
+  "pronunciation": "kar-pas'",
+  "definition": "byssus or fine vegetable wool",
+  "kjvTranslation": "green.",
+  "hebrew": "כַּרְפַּס",
+  "translations": {
+    "bg": "байц или фина растителна вълна",
+    "cs": "byssus nebo jemná rostlinná vlna",
+    "da": "byssus eller fin vegetabilsk uld",
+    "de": "byssus oder feine Pflanzenwolle",
+    "el": "βύσσος ή λεπτό φυτικό μαλλί",
+    "es": "biso o lana vegetal fina",
+    "et": "byssus või peen taimne vill",
+    "fi": "byssus tai hieno kasvivilla",
+    "fr": "byssus ou laine végétale fine",
+    "hu": "byssus vagy finom növényi gyapjú",
+    "id": "byssus atau wol nabati halus",
+    "it": "bisso o lana vegetale fine",
+    "ja": "ビサスまたは上質の植物性ウール",
+    "ko": "바이수스 또는 고급 식물성 양모",
+    "lt": "byssus arba plona augalinė vilna",
+    "lv": "bižuss vai smalka augu vilna",
+    "nb": "byssus eller fin vegetabilsk ull",
+    "nl": "byssus of fijne plantaardige wol",
+    "pl": "bisior lub delikatna wełna roślinna",
+    "pt": "bisso ou lã vegetal fina",
+    "ro": "byssus sau lână vegetală fină",
+    "ru": "байсус или тонкая растительная шерсть",
+    "sk": "byssus alebo jemná rastlinná vlna",
+    "sl": "bišus ali fina rastlinska volna",
+    "sv": "byssus eller fin vegetabilisk ull",
+    "tr": "byssus veya ince bitkisel yün",
+    "uk": "біссус або тонка рослинна шерсть",
+    "zh": "苔或细羊毛"
+  },
+  "verses": [
+    "esther 1:6:1"
+  ]
+}

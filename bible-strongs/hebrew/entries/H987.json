@@ -1,0 +1,42 @@
+{
+  "number": "H987",
+  "language": "hebrew",
+  "transliteration": "baṭṭuchôwth",
+  "pronunciation": "bat-too-khoth'",
+  "definition": "security",
+  "kjvTranslation": "secure.",
+  "translations": {
+    "bg": "сигурност",
+    "cs": "zabezpečení",
+    "da": "sikkerhed",
+    "de": "sicherheit",
+    "el": "ασφάλεια",
+    "es": "seguridad",
+    "et": "turvalisus",
+    "fi": "turvallisuus",
+    "fr": "sécurité",
+    "hu": "biztonság",
+    "id": "keamanan",
+    "it": "sicurezza",
+    "ja": "セキュリティ",
+    "ko": "보안",
+    "lt": "saugumas",
+    "lv": "drošība",
+    "nb": "sikkerhet",
+    "nl": "beveiliging",
+    "pl": "bezpieczeństwo",
+    "pt": "segurança",
+    "ro": "securitate",
+    "ru": "безопасность",
+    "sk": "zabezpečenie",
+    "sl": "varnost",
+    "sv": "säkerhet",
+    "tr": "güvenlik",
+    "uk": "безпека",
+    "zh": "安全"
+  },
+  "hebrew": "בַּטֻּחוֹת",
+  "verses": [
+    "job 12:6:3"
+  ]
+}

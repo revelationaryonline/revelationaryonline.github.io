@@ -1,0 +1,42 @@
+{
+  "number": "H4752",
+  "language": "hebrew",
+  "transliteration": "mar",
+  "pronunciation": "mar",
+  "definition": "a drop",
+  "kjvTranslation": "drop.",
+  "hebrew": "מַר",
+  "translations": {
+    "bg": "капка",
+    "cs": "kapka",
+    "da": "en dråbe",
+    "de": "ein Tropfen",
+    "el": "μια σταγόνα",
+    "es": "una gota",
+    "et": "tilk",
+    "fi": "tippa",
+    "fr": "une goutte",
+    "hu": "egy csepp",
+    "id": "setetes",
+    "it": "una goccia",
+    "ja": "水滴",
+    "ko": "한 방울",
+    "lt": "lašas",
+    "lv": "piliens",
+    "nb": "en dråpe",
+    "nl": "een druppel",
+    "pl": "kropla",
+    "pt": "uma gota",
+    "ro": "o picătură",
+    "ru": "капля",
+    "sk": "kvapka",
+    "sl": "kapljica",
+    "sv": "en droppe",
+    "tr": "bir damla",
+    "uk": "краплину",
+    "zh": "渧"
+  },
+  "verses": [
+    "isaiah 40:15:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3997",
+  "language": "hebrew",
+  "transliteration": "mᵉbôwʼâh",
+  "pronunciation": "meb-o-aw'",
+  "definition": "a haven",
+  "kjvTranslation": "entry.",
+  "hebrew": "מְבוֹאָה",
+  "translations": {
+    "bg": "убежище",
+    "cs": "útočiště",
+    "da": "et fristed",
+    "de": "ein Hafen",
+    "el": "ένα καταφύγιο",
+    "es": "un refugio",
+    "et": "varjupaik",
+    "fi": "turvapaikka",
+    "fr": "un refuge",
+    "hu": "egy menedék",
+    "id": "surga",
+    "it": "un rifugio",
+    "ja": "避難所",
+    "ko": "안식처",
+    "lt": "prieglobstis",
+    "lv": "patvērums",
+    "nb": "et fristed",
+    "nl": "een toevluchtsoord",
+    "pl": "przystań",
+    "pt": "um refúgio",
+    "ro": "un paradis",
+    "ru": "пристанище",
+    "sk": "útočisko",
+    "sl": "zatočišče",
+    "sv": "en fristad",
+    "tr": "bir cennet",
+    "uk": "притулок",
+    "zh": "天堂"
+  },
+  "verses": [
+    "ezekiel 27:3:5"
+  ]
+}

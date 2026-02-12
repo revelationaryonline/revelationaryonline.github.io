@@ -1,0 +1,42 @@
+{
+  "number": "H7871",
+  "language": "hebrew",
+  "transliteration": "shîybâh",
+  "pronunciation": "shee-baw'",
+  "definition": "residence",
+  "kjvTranslation": "while...lay.",
+  "hebrew": "שִׁיבָה",
+  "translations": {
+    "bg": "резиденция",
+    "cs": "rezidence",
+    "da": "bolig",
+    "de": "aufenthalt",
+    "el": "κατοικία",
+    "es": "residencia",
+    "et": "elukoht",
+    "fi": "asuinpaikka",
+    "fr": "résidence",
+    "hu": "lakóhely",
+    "id": "tempat tinggal",
+    "it": "residenza",
+    "ja": "レジデンス",
+    "ko": "거주지",
+    "lt": "gyvenamoji vieta",
+    "lv": "dzīvesvieta",
+    "nb": "bolig",
+    "nl": "residentie",
+    "pl": "miejsce zamieszkania",
+    "pt": "residência",
+    "ro": "reședință",
+    "ru": "место жительства",
+    "sk": "bydlisko",
+    "sl": "rezidenca",
+    "sv": "bostad",
+    "tr": "ikamet",
+    "uk": "місце проживання",
+    "zh": "居住地"
+  },
+  "verses": [
+    "secondSamuel 19:33:10"
+  ]
+}

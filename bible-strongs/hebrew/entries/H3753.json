@@ -1,0 +1,42 @@
+{
+  "number": "H3753",
+  "language": "hebrew",
+  "transliteration": "karkârâh",
+  "pronunciation": "kar-kaw-raw'",
+  "definition": "a dromedary (from its rapid motion as if dancing)",
+  "kjvTranslation": "swift beast.",
+  "hebrew": "כַּרְכָּרָה",
+  "translations": {
+    "bg": "дромедар (от бързото му движение, сякаш танцува)",
+    "cs": "dromedár (podle rychlého pohybu, jako by tančil)",
+    "da": "en dromedar (fra dens hurtige bevægelser, som om den dansede)",
+    "de": "ein Dromedar (wegen seiner schnellen Bewegung, als ob es tanzen würde)",
+    "el": "δρομέας (από τη γρήγορη κίνησή του σαν να χορεύει)",
+    "es": "un dromedario (por su movimiento rápido como si bailara)",
+    "et": "dromedar (selle kiirest liikumisest, nagu tantsiks)",
+    "fi": "dromedaari (sen nopeasta liikkeestä kuin tanssisi)",
+    "fr": "un dromadaire (d'après son mouvement rapide comme s'il dansait)",
+    "hu": "dromedár (gyors, táncoló mozgása miatt)",
+    "id": "kuda dromedaris (dari gerakannya yang cepat seperti menari)",
+    "it": "un dromedario (dal suo movimento rapido come se danzasse)",
+    "ja": "ひとこぶらくだ",
+    "ko": "단봉마(춤을 추는 듯한 빠른 움직임에서 유래)",
+    "lt": "dromedaras (dėl greito judėjimo, tarsi šokdamas)",
+    "lv": "dromedārs (no tā straujās kustības, it kā dejotu)",
+    "nb": "en dromedar (fra dens raske bevegelse som om den danser)",
+    "nl": "een dromedaris (van zijn snelle beweging alsof hij danst)",
+    "pl": "dromader (od jego szybkiego ruchu, jakby tańczył)",
+    "pt": "um dromedário (pelo seu movimento rápido como se estivesse a dançar)",
+    "ro": "un dromader (de la mișcarea sa rapidă, ca și cum ar dansa)",
+    "ru": "дромадер (от его быстрого движения, как будто танцует)",
+    "sk": "dromedár (podľa rýchleho pohybu, akoby tancoval)",
+    "sl": "dromedar (zaradi hitrega gibanja, kot da bi plesal)",
+    "sv": "en dromedar (från dess snabba rörelse som om den dansade)",
+    "tr": "tek hörgüçlü at (dans eder gibi hızlı hareketinden)",
+    "uk": "дромедар (від його швидкого руху, ніби танцюючого)",
+    "zh": "单峰驼"
+  },
+  "verses": [
+    "isaiah 66:20:12"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2488",
+  "language": "hebrew",
+  "transliteration": "chălîytsâh",
+  "pronunciation": "khal-ee-tsaw'",
+  "definition": "spoil",
+  "kjvTranslation": "armour.",
+  "translations": {
+    "bg": "разваляне на",
+    "cs": "kazit",
+    "da": "ødelægge",
+    "de": "verderben",
+    "el": "spoil",
+    "es": "echar a perder",
+    "et": "rikkuda",
+    "fi": "pilata",
+    "fr": "gâcher",
+    "hu": "elrontani",
+    "id": "merusak",
+    "it": "rovinare",
+    "ja": "台無しにする",
+    "ko": "스포일",
+    "lt": "sugadinti",
+    "lv": "sabojāt",
+    "nb": "ødelegge",
+    "nl": "bederven",
+    "pl": "psuć",
+    "pt": "estragar",
+    "ro": "strica",
+    "ru": "испортить",
+    "sk": "kaziť",
+    "sl": "pokvari",
+    "sv": "förstöra",
+    "tr": "yağma",
+    "uk": "псувати",
+    "zh": "宠坏"
+  },
+  "hebrew": "חֲלִיצָה",
+  "verses": [
+    "judges 14:19:12",
+    "secondSamuel 2:21:17"
+  ]
+}

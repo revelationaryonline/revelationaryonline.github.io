@@ -1,0 +1,42 @@
+{
+  "number": "H4825",
+  "language": "hebrew",
+  "transliteration": "Mereç",
+  "pronunciation": "meh'-res",
+  "definition": "Meres, a Persian",
+  "kjvTranslation": "Meres.",
+  "hebrew": "מֶרֶס",
+  "translations": {
+    "bg": "Мерес, персиец",
+    "cs": "Meres, Peršan",
+    "da": "Meres, en perser",
+    "de": "Meres, ein Perser",
+    "el": "Meres, ένας Πέρσης",
+    "es": "Meres, un persa",
+    "et": "Meres, pärsia päritolu",
+    "fi": "Meres, persialainen",
+    "fr": "Meres, un Persan",
+    "hu": "Meres, egy perzsa",
+    "id": "Meres, seorang Persia",
+    "it": "Meres, un persiano",
+    "ja": "ペルシャ人のメレス",
+    "ko": "메레스, 페르시아인",
+    "lt": "Meresas, persas",
+    "lv": "Meres, persiešu",
+    "nb": "Meres, en persisk",
+    "nl": "Meres, een Perzische",
+    "pl": "Meres, perski",
+    "pt": "Meres, um persa",
+    "ro": "Meres, un persan",
+    "ru": "Мерес, перс",
+    "sk": "Meres, perzský",
+    "sl": "Meres, Perzijec",
+    "sv": "Meres, en persisk",
+    "tr": "Meres, bir İranlı",
+    "uk": "Мерес, перс",
+    "zh": "梅勒斯，波斯人"
+  },
+  "verses": [
+    "esther 1:14:6"
+  ]
+}

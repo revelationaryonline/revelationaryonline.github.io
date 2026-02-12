@@ -1,0 +1,42 @@
+{
+  "number": "H7333",
+  "language": "hebrew",
+  "transliteration": "râzôwn",
+  "pronunciation": "raw-zone'",
+  "definition": "a dignitary",
+  "kjvTranslation": "prince.",
+  "hebrew": "רָזוֹן",
+  "translations": {
+    "bg": "високопоставен служител",
+    "cs": "hodnostář",
+    "da": "en dignitær",
+    "de": "ein Würdenträger",
+    "el": "ένας αξιωματούχος",
+    "es": "un dignatario",
+    "et": "väärikas isik",
+    "fi": "arvohenkilö",
+    "fr": "un dignitaire",
+    "hu": "egy méltóságos",
+    "id": "seorang yang berwibawa",
+    "it": "un dignitario",
+    "ja": "要人",
+    "ko": "고위 인사",
+    "lt": "aukštas pareigūnas",
+    "lv": "augsta amatpersona",
+    "nb": "en dignitær",
+    "nl": "een hoogwaardigheidsbekleder",
+    "pl": "dygnitarz",
+    "pt": "um dignitário",
+    "ro": "un demnitar",
+    "ru": "сановник",
+    "sk": "hodnostár",
+    "sl": "dostojanstvenik",
+    "sv": "en dignitär",
+    "tr": "bir devlet adamı",
+    "uk": "високопоставлена особа",
+    "zh": "显贵"
+  },
+  "verses": [
+    "proverbs 14:28:7"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5170",
+  "language": "hebrew",
+  "transliteration": "nachar",
+  "pronunciation": "nakh'-ar",
+  "definition": "a snorting",
+  "kjvTranslation": "nostrils, snorting.",
+  "hebrew": "נַחַר",
+  "translations": {
+    "bg": "хъркане",
+    "cs": "chrčení",
+    "da": "en fnysen",
+    "de": "ein Schnauben",
+    "el": "ένα ρουθούνισμα",
+    "es": "un resoplido",
+    "et": "norskamine",
+    "fi": "räkiminen",
+    "fr": "un grognement",
+    "hu": "egy horkantás",
+    "id": "mendengus",
+    "it": "uno sbuffo",
+    "ja": "鼻息",
+    "ko": "킁킁거리는",
+    "lt": "knarkimas",
+    "lv": "šņākšana",
+    "nb": "en fnysing",
+    "nl": "een briesend",
+    "pl": "parsknięcie",
+    "pt": "um resfolegar",
+    "ro": "un sforăit",
+    "ru": "фырканье",
+    "sk": "chrčanie",
+    "sl": "smrčanje",
+    "sv": "en snarkning",
+    "tr": "bir horultu",
+    "uk": "пихкання",
+    "zh": "哼声"
+  },
+  "verses": [
+    "job 39:20:3",
+    "jeremiah 8:16:2"
+  ]
+}

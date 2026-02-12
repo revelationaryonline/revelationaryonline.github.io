@@ -1,0 +1,42 @@
+{
+  "number": "H4577",
+  "language": "hebrew",
+  "transliteration": "mᵉʻâh",
+  "pronunciation": "meh-aw'",
+  "definition": "only in plural the bowels",
+  "kjvTranslation": "belly.",
+  "hebrew": "מְעָה",
+  "verses": [
+    "daniel 2:32:10"
+  ],
+  "translations": {
+    "bg": "само в множествено число на червата",
+    "cs": "pouze v množném čísle střev",
+    "da": "kun i flertal tarmene",
+    "de": "nur im Plural die Eingeweide",
+    "el": "μόνο στον πληθυντικό των εντέρων",
+    "es": "sólo en plural los intestinos",
+    "et": "ainult mitmuses soolestik",
+    "fi": "vain monikossa suolet",
+    "fr": "seulement au pluriel les intestins",
+    "hu": "csak többes számban a belek",
+    "id": "hanya dalam bentuk jamak perut",
+    "it": "solo al plurale le viscere",
+    "ja": "複数回のみ",
+    "ko": "복수로만 장",
+    "lt": "tik į daugybinį žarnyną",
+    "lv": "tikai daudzkārtējā zarnas",
+    "nb": "bare i flertall tarmene",
+    "nl": "alleen in meervoud de darmen",
+    "pl": "tylko w liczbie mnogiej jelita",
+    "pt": "apenas no plural os intestinos",
+    "ro": "numai la plural în intestine",
+    "ru": "только во множественном числе кишечника",
+    "sk": "len v množnom čísle črevá",
+    "sl": "le v množičnem črevesju",
+    "sv": "endast i plural tarmarna",
+    "tr": "sadece çoğul bağırsaklarda",
+    "uk": "тільки у множині кишки",
+    "zh": "大腹便便"
+  }
+}

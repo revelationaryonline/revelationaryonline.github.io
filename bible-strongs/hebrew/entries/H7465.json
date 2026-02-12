@@ -1,0 +1,42 @@
+{
+  "number": "H7465",
+  "language": "hebrew",
+  "transliteration": "rôʻâh",
+  "pronunciation": "ro-aw'",
+  "definition": "breakage",
+  "kjvTranslation": "broken, utterly.",
+  "hebrew": "רֹעָה",
+  "translations": {
+    "bg": "счупване",
+    "cs": "rozbití",
+    "da": "brud",
+    "de": "bruch",
+    "el": "θραύση",
+    "es": "rotura",
+    "et": "purunemine",
+    "fi": "rikkoutuminen",
+    "fr": "rupture",
+    "hu": "törés",
+    "id": "kerusakan",
+    "it": "rottura",
+    "ja": "破損",
+    "ko": "파손",
+    "lt": "lūžis",
+    "lv": "lūzums",
+    "nb": "brudd",
+    "nl": "breuk",
+    "pl": "pęknięcie",
+    "pt": "quebra",
+    "ro": "rupere",
+    "ru": "поломка",
+    "sk": "rozbitie",
+    "sl": "zlom",
+    "sv": "brott",
+    "tr": "kırılma",
+    "uk": "поломка",
+    "zh": "破损"
+  },
+  "verses": [
+    "proverbs 25:19:1"
+  ]
+}

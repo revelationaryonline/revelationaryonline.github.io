@@ -1,0 +1,43 @@
+{
+  "number": "H8162",
+  "language": "hebrew",
+  "transliteration": "shaʻaṭnêz",
+  "pronunciation": "shah-at-naze'",
+  "definition": "linsey-woolsey, i.e. cloth of linen and wool carded and spun together",
+  "kjvTranslation": "garment of divers sorts, linen and wollen.",
+  "hebrew": "שַׁעַטְנֵז",
+  "translations": {
+    "bg": "лен-вълна, т.е. плат от лен и вълна, кардирани и изпредени заедно",
+    "cs": "lněná vlna, tj. tkanina ze lnu a vlny, mykaná a spřádaná dohromady",
+    "da": "linsey-woolsey, dvs. stof af hør og uld, der er kartet og spundet sammen",
+    "de": "leinen-Wolle-Seele, d. h. Gewebe aus Leinen und Wolle, die gekrempelt und zusammengesponnen werden",
+    "el": "λινό-μαλλί, δηλαδή ύφασμα από λινό και μαλλί που έχει λαναριστεί και έχει κλωστεί μαζί",
+    "es": "linsey-woolsey, es decir, tejido de lino y lana cardados e hilados juntos",
+    "et": "linase- ja villane riie, st kraasitud ja kokku ketratud lina- ja villane riie",
+    "fi": "pellavavillakangas eli pellava- ja villakangas, joka on karstattu ja kehrätty yhteen",
+    "fr": "linsey-woolsey, c'est-à-dire le tissu de lin et de laine cardé et filé ensemble",
+    "hu": "lenvászon-gyapjú, azaz lenből és gyapjúból készült, kártolt és összeforgatott szövet",
+    "id": "linsey-woolsey, yaitu kain linen dan wol yang dikarduskan dan dipintal bersama",
+    "it": "linsey-woolsey, cioè tessuto di lino e lana cardato e filato insieme",
+    "ja": "リンジーウールージー",
+    "ko": "린시-울시, 즉 린넨과 양모를 카딩하고 함께 방적하여 만든 옷감",
+    "lt": "linas ir vilna, t. y. iš lino ir vilnos sukarštas ir kartu verptas audinys",
+    "lv": "lins-vilna, t. i., lina un vilnas audums, kas ir kārsts un vērpts kopā",
+    "nb": "linsey-ullsey, dvs. tøy av lin og ull som er kardet og spunnet sammen",
+    "nl": "linsey-woolsey, d.w.z. weefsel van linnen en wol, samen gekaard en gesponnen",
+    "pl": "lniano-wełniana, tj. tkanina z lnu i wełny zgrzeblona i przędzona razem",
+    "pt": "linho e lã, isto é, tecido de linho e lã cardado e fiado em conjunto",
+    "ro": "linsey-woolsey, adică țesătură din in și lână cardate și filate împreună",
+    "ru": "льняно-шерстяная ткань, т.е. ткань из льна и шерсти, соединенных кардочесанием и прядением",
+    "sk": "ľanovo-vlnená tkanina, t. j. tkanina z ľanu a vlny, mykaná a spriadaná spolu",
+    "sl": "platno iz lanu in volne, tj. blago iz lanu in volne, mikano in spredeno skupaj",
+    "sv": "linsey-woolsey, dvs. tyg av linne och ull som kardats och spunnits tillsammans",
+    "tr": "linsey-woolsey, yani taranmış ve birlikte eğrilmiş keten ve yün kumaş",
+    "uk": "лляно-вовняна, тобто тканина з льону та вовни, прочесана та сплетена разом",
+    "zh": "亚麻-羊毛织物，即亚麻和羊毛梳理后纺在一起的织物"
+  },
+  "verses": [
+    "leviticus 19:19:13",
+    "deuteronomy 22:11:2"
+  ]
+}

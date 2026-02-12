@@ -1,0 +1,42 @@
+{
+  "number": "H3154",
+  "language": "hebrew",
+  "transliteration": "yezaʻ",
+  "pronunciation": "yeh'-zah",
+  "definition": "sweat, i.e. (by implication) a sweating dress",
+  "kjvTranslation": "any thing that causeth sweat.",
+  "translations": {
+    "bg": "пот, т.е. (по подразбиране) потна рокля",
+    "cs": "pot, tj. (implicitně) potící se šaty",
+    "da": "sved, dvs. (underforstået) en svedende kjole",
+    "de": "schweiß, d.h. (implizit) ein schwitzendes Kleid",
+    "el": "ιδρώτας, δηλ. (κατ' επέκταση) φόρεμα που ιδρώνει",
+    "es": "sudor, es decir (por implicación) un vestido sudoroso",
+    "et": "higi, st (kaudselt) higistav kleit",
+    "fi": "hiki, eli (implisiittisesti) hikinen mekko",
+    "fr": "la sueur, c'est-à-dire (par implication) une robe qui transpire",
+    "hu": "izzadság, azaz (értelemszerűen) izzadó ruha",
+    "id": "berkeringat, yaitu (dengan implikasi) gaun yang berkeringat",
+    "it": "sudore, cioè (per implicazione) un abito che suda",
+    "ja": "汗をかく、つまり（暗に）汗をかいた服を着る",
+    "ko": "땀, 즉 (암시적으로) 땀이 나는 드레스",
+    "lt": "prakaitas, t. y. (netiesiogiai) prakaituojanti suknelė",
+    "lv": "sviedri, t.i. (netieši) svīst kleita",
+    "nb": "svette, dvs. (underforstått) en svett kjole",
+    "nl": "zweet, d.w.z. (impliciet) een zwetende jurk",
+    "pl": "pot, tj. (w domyśle) pocąca się sukienka",
+    "pt": "suor, ou seja, (implicitamente) um vestido suado",
+    "ro": "sudoare, adică (implicit) o rochie care transpiră",
+    "ru": "пот, т.е. (по косвенным признакам) потное платье",
+    "sk": "pot, t. j. (implicitne) potiace sa šaty",
+    "sl": "znoj, tj. (implicitno) znojna obleka",
+    "sv": "svett, d.v.s. (underförstått) en svettande klänning",
+    "tr": "ter, yani (ima yoluyla) terleyen bir elbise",
+    "uk": "піт, тобто (за підтекстом) сукня, що потіє",
+    "zh": "汗衫"
+  },
+  "hebrew": "יֶזַע",
+  "verses": [
+    "ezekiel 44:18:12"
+  ]
+}

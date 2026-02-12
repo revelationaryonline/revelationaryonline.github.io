@@ -1,0 +1,42 @@
+{
+  "number": "H5685",
+  "language": "hebrew",
+  "transliteration": "ʻâbash",
+  "pronunciation": "aw-bash'",
+  "definition": "to dry up",
+  "kjvTranslation": "be rotten.",
+  "hebrew": "עָבַשׁ",
+  "translations": {
+    "bg": "да изсъхне",
+    "cs": "vyschnout",
+    "da": "at tørre ud",
+    "de": "zu vertrocknen",
+    "el": "να στεγνώσει",
+    "es": "secarse",
+    "et": "kuivama",
+    "fi": "kuivumaan",
+    "fr": "se dessécher",
+    "hu": "kiszáradni",
+    "id": "untuk mengeringkan",
+    "it": "asciugarsi",
+    "ja": "乾く",
+    "ko": "말리다",
+    "lt": "išdžiūti",
+    "lv": "izžūt",
+    "nb": "å tørke inn",
+    "nl": "opdrogen",
+    "pl": "wyschnąć",
+    "pt": "secar",
+    "ro": "să se usuce",
+    "ru": "высыхать",
+    "sk": "vyschnúť",
+    "sl": "izsušiti",
+    "sv": "att torka upp",
+    "tr": "kurumak için",
+    "uk": "щоб висохнути",
+    "zh": "干涸"
+  },
+  "verses": [
+    "joel 1:17:0"
+  ]
+}

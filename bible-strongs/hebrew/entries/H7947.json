@@ -1,0 +1,43 @@
+{
+  "number": "H7947",
+  "language": "hebrew",
+  "transliteration": "shâlab",
+  "pronunciation": "shaw-lab'",
+  "definition": "to space off; intensive (evenly) to make equidistant",
+  "kjvTranslation": "equally distant, set in order.",
+  "hebrew": "שָׁלַב",
+  "translations": {
+    "bg": "да се отдалечи; интензивно (равномерно) да се направи на еднакво разстояние",
+    "cs": "oddělovat; intenzivně (rovnoměrně) vyrovnávat vzdálenosti",
+    "da": "at skabe afstand; intensiv (jævn) at skabe lige stor afstand",
+    "de": "absetzen; intensiv (gleichmäßig) gleichmäßig absetzen",
+    "el": "να χωρίζετε, να κάνετε (ομοιόμορφα) ίσες αποστάσεις",
+    "es": "espaciar; intensivo (uniformemente) hacer equidistante",
+    "et": "kaugemale paigutada; intensiivne (ühtlaselt) teha võrdselt kaugeleulatuvaks",
+    "fi": "erottaa toisistaan; intensiivinen (tasaisesti) tehdä yhtä kaukana toisistaan",
+    "fr": "espacer ; intensif (uniformément) rendre équidistant",
+    "hu": "egymástól távol; intenzíven (egyenletesen) egyenlő távolságra tenni",
+    "id": "untuk memberi jarak; intensif (merata) untuk membuat jarak yang sama",
+    "it": "distanziare; intensivo (uniformemente) rendere equidistante",
+    "ja": "間隔を空ける；（均等に）集中的に等距離にする",
+    "ko": "간격 띄우기; 집중(균등하게) 등거리 만들기",
+    "lt": "atsiskirti; intensyviai (tolygiai) išlyginti",
+    "lv": "attālināt; intensīvi (vienmērīgi) izlīdzināt",
+    "nb": "å holde avstand; intensiv (jevnt) å gjøre like langt fra hverandre",
+    "nl": "afstand houden; intensief (gelijkmatig) om afstand te maken",
+    "pl": "oddzielać; intensywny (równomierny), aby był w równej odległości",
+    "pt": "espaçar; intensivo (uniformemente) tornar equidistante",
+    "ro": "a distanța; intensiv (uniform) a face echidistant",
+    "ru": "отстоять друг от друга; интенсивный (равномерный), сделать равноудаленным",
+    "sk": "oddeliť; intenzívne (rovnomerne) vyrovnať",
+    "sl": "razmakniti; intenzivno (enakomerno) izenačiti",
+    "sv": "att avskilja; intensiv (jämnt) att göra likadant avstånd",
+    "tr": "aralık bırakmak; yoğun (eşit olarak) eşit uzaklıkta yapmak",
+    "uk": "віддаляти; інтенсивно (рівномірно) робити рівновіддаленим",
+    "zh": "等距"
+  },
+  "verses": [
+    "exodus 26:17:4",
+    "exodus 36:22:4"
+  ]
+}

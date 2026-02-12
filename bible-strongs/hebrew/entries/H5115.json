@@ -1,0 +1,43 @@
+{
+  "number": "H5115",
+  "language": "hebrew",
+  "transliteration": "nâvâh",
+  "pronunciation": "naw-vaw'",
+  "definition": "to rest (as at home); causatively (through the implied idea of beauty ), to celebrate (with praises)",
+  "kjvTranslation": "keept at home, prepare an habitation.",
+  "hebrew": "נָוָה",
+  "translations": {
+    "bg": "да си почивам (като у дома); в каузативност (чрез подразбиращата се идея за красота) - да празнувам (с похвали)",
+    "cs": "odpočívat (jako doma); kauzativně (prostřednictvím implicitní představy krásy ), oslavovat (chválou)",
+    "da": "at hvile (som hjemme); kausalt (gennem den underforståede idé om skønhed), at fejre (med lovprisninger)",
+    "de": "ausruhen (wie zu Hause); kausal (durch die implizierte Vorstellung von Schönheit), feiern (mit Lobpreisungen)",
+    "el": "να ξεκουραστώ (όπως στο σπίτι), αιτιωδώς (μέσω της υπονοούμενης ιδέας της ομορφιάς), να γιορτάσω (με επαίνους)",
+    "es": "descansar (como en casa); causativamente (a través de la idea implícita de belleza ), celebrar (con alabanzas)",
+    "et": "puhata (nagu kodus); põhjuslikult (ilu kaudse mõtte kaudu), tähistada (kiitusega)",
+    "fi": "levätä (kuten kotona); kausatiivisesti (kauneuden implisiittisen ajatuksen kautta), juhlia (ylistämällä)",
+    "fr": "se reposer (comme à la maison) ; causativement (par l'idée implicite de beauté), célébrer (avec des louanges)",
+    "hu": "pihenni (mint otthon); kauzatív értelemben (a szépség implikált gondolatán keresztül), ünnepelni (dicsérettel)",
+    "id": "untuk beristirahat (seperti di rumah); secara kausatif (melalui ide keindahan yang tersirat), untuk merayakan (dengan pujian)",
+    "it": "riposare (come a casa); causalmente (attraverso l'idea implicita di bellezza), celebrare (con lodi)",
+    "ja": "(家で)休息する；(美の暗示を通じて)因果的に、(褒めて)祝う",
+    "ko": "휴식하다 (집에서와 같이); 인과 적으로 (아름다움에 대한 암시 적 아이디어를 통해 ), 축하하다 (칭찬과 함께)",
+    "lt": "ilsėtis (kaip namie); priežastiniu būdu (per numanomą grožio idėją), švęsti (su pagyrimais)",
+    "lv": "atpūsties (kā mājās); cēloņsakarīgi (ar netiešo skaistuma jēdzienu ), svinēt (ar uzslavām)",
+    "nb": "å hvile (som hjemme); kausativt (gjennom den underforståtte ideen om skjønnhet), å feire (med lovprisninger)",
+    "nl": "om uit te rusten (zoals thuis); causatief (door het impliciete idee van schoonheid), om te vieren (met lofprijzingen)",
+    "pl": "odpoczywać (jak w domu); przyczynowo (poprzez dorozumianą ideę piękna), świętować (z pochwałami)",
+    "pt": "descansar (como em casa); causativamente (através da ideia implícita de beleza), celebrar (com louvores)",
+    "ro": "a se odihni (ca acasă); cauzal (prin ideea implicită de frumusețe ), a sărbători (cu laude)",
+    "ru": "отдыхать (как дома); каузативно (через подразумеваемую идею красоты), праздновать (с похвалами)",
+    "sk": "odpočívať (ako doma); kauzatívne (prostredníctvom implicitnej myšlienky krásy ), oslavovať (chválou)",
+    "sl": "počivati (kot doma); vzročno (z implicitno idejo lepote), slaviti (s hvalnicami)",
+    "sv": "att vila (som hemma); kausativt (genom den underförstådda idén om skönhet ), att fira (med beröm)",
+    "tr": "(evde olduğu gibi) dinlenmek; nedensel olarak (ima edilen güzellik fikri aracılığıyla), (övgülerle) kutlamak",
+    "uk": "відпочивати (як вдома); каузально (через імпліцитну ідею краси), святкувати (з похвалами)",
+    "zh": "休息（如在家中）；因代词（通过隐含的美之意），庆祝（赞美）"
+  },
+  "verses": [
+    "exodus 15:2:8",
+    "habakkuk 2:5:7"
+  ]
+}

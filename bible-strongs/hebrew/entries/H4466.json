@@ -1,0 +1,42 @@
+{
+  "number": "H4466",
+  "language": "hebrew",
+  "transliteration": "mimkereth",
+  "pronunciation": "mim-keh'-reth",
+  "definition": "a sale",
+  "kjvTranslation": "[phrase] sold as.",
+  "hebrew": "מִמְכֶּרֶת",
+  "verses": [
+    "leviticus 25:42:10"
+  ],
+  "translations": {
+    "bg": "продажба",
+    "cs": "prodej",
+    "da": "et salg",
+    "de": "ein Verkauf",
+    "el": "μια πώληση",
+    "es": "una venta",
+    "et": "müük",
+    "fi": "myynti",
+    "fr": "une vente",
+    "hu": "eladás",
+    "id": "penjualan",
+    "it": "una vendita",
+    "ja": "セール",
+    "ko": "판매",
+    "lt": "pardavimas",
+    "lv": "pārdošana",
+    "nb": "et salg",
+    "nl": "een verkoop",
+    "pl": "sprzedaż",
+    "pt": "uma venda",
+    "ro": "o vânzare",
+    "ru": "распродажа",
+    "sk": "predaj",
+    "sl": "prodaja",
+    "sv": "en försäljning",
+    "tr": "bir satış",
+    "uk": "розпродаж",
+    "zh": "销售"
+  }
+}

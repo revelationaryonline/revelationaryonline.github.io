@@ -1,0 +1,43 @@
+{
+  "number": "H5618",
+  "language": "hebrew",
+  "transliteration": "Çôphereth",
+  "pronunciation": "so-feh'-reth",
+  "definition": "Sophereth, a temple servant",
+  "kjvTranslation": "Sophereth.",
+  "hebrew": "סֹפֶרֶת",
+  "translations": {
+    "bg": "Соферет, служител на храма",
+    "cs": "Soferet, chrámová služebnice",
+    "da": "Sophereth, en tempeltjener",
+    "de": "Sophereth, eine Tempeldienerin",
+    "el": "Sophereth, μια υπηρέτρια του ναού",
+    "es": "Sophereth, una sirvienta del templo",
+    "et": "Sophereth, templi teenija",
+    "fi": "Sophereth, temppelin palvelija",
+    "fr": "Sophereth, serviteur du temple",
+    "hu": "Sophereth, egy templomi szolga",
+    "id": "Sophereth, seorang pelayan bait suci",
+    "it": "Sophereth, un servitore del tempio",
+    "ja": "ソフィアス、神殿の使用人",
+    "ko": "성전 하인 소페레스",
+    "lt": "Soferetas, šventyklos tarnas",
+    "lv": "Soferets, tempļa kalps",
+    "nb": "Sophereth, en tempeltjener",
+    "nl": "Sophereth, een tempeldienaar",
+    "pl": "Sophereth, sługa świątynny",
+    "pt": "Sophereth, um servo do templo",
+    "ro": "Sophereth, un slujitor al templului",
+    "ru": "Соферет, служительница храма",
+    "sk": "Sophereth, chrámový sluha",
+    "sl": "Sophereth, tempeljski služabnik",
+    "sv": "Sophereth, en tjänare i templet",
+    "tr": "Sophereth, bir tapınak hizmetkarı",
+    "uk": "Соферет, служниця храму",
+    "zh": "神庙仆人索菲莉思"
+  },
+  "verses": [
+    "ezra 2:55:6",
+    "nehemiah 7:57:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5169",
+  "language": "hebrew",
+  "transliteration": "nâchats",
+  "pronunciation": "naw-khats'",
+  "definition": "to be urgent",
+  "kjvTranslation": "require haste.",
+  "hebrew": "נָחַץ",
+  "translations": {
+    "bg": "да бъде спешно",
+    "cs": "být naléhavý",
+    "da": "at være presserende",
+    "de": "dringend zu sein",
+    "el": "να είναι επείγον",
+    "es": "ser urgente",
+    "et": "olema kiireloomuline",
+    "fi": "olla kiireellinen",
+    "fr": "être urgent",
+    "hu": "sürgősnek kell lennie",
+    "id": "menjadi mendesak",
+    "it": "essere urgente",
+    "ja": "急を要する",
+    "ko": "긴급한 경우",
+    "lt": "būti skubiai",
+    "lv": "būt steidzamam",
+    "nb": "å være presserende",
+    "nl": "dringend zijn",
+    "pl": "być pilnym",
+    "pt": "ser urgente",
+    "ro": "să fie urgent",
+    "ru": "быть срочным",
+    "sk": "byť naliehavé",
+    "sl": "biti nujen",
+    "sv": "att vara brådskande",
+    "tr": "acil olmak",
+    "uk": "бути терміновим",
+    "zh": "急待"
+  },
+  "verses": [
+    "firstSamuel 21:9:23"
+  ]
+}

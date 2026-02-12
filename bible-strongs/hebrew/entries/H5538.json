@@ -1,0 +1,42 @@
+{
+  "number": "H5538",
+  "language": "hebrew",
+  "transliteration": "Çillâʼ",
+  "pronunciation": "sil-law'",
+  "definition": "Silla, a place in Jerusalem",
+  "kjvTranslation": "Silla.",
+  "hebrew": "סִלָּא",
+  "translations": {
+    "bg": "Сила, място в Йерусалим",
+    "cs": "Silla, místo v Jeruzalémě",
+    "da": "Silla, et sted i Jerusalem",
+    "de": "Silla, ein Ort in Jerusalem",
+    "el": "Silla, τόπος στην Ιερουσαλήμ",
+    "es": "Silla, un lugar en Jerusalén",
+    "et": "Silla, koht Jeruusalemmas",
+    "fi": "Silla, paikka Jerusalemissa",
+    "fr": "Silla, localité de Jérusalem",
+    "hu": "Silla, egy hely Jeruzsálemben",
+    "id": "Silla, sebuah tempat di Yerusalem",
+    "it": "Silla, località di Gerusalemme",
+    "ja": "エルサレムの新羅",
+    "ko": "신라, 예루살렘의 한 장소",
+    "lt": "Silla, vietovė Jeruzalėje",
+    "lv": "Silla, vieta Jeruzalemē",
+    "nb": "Silla, et sted i Jerusalem",
+    "nl": "Silla, een plaats in Jeruzalem",
+    "pl": "Silla, miejsce w Jerozolimie",
+    "pt": "Silla, um lugar em Jerusalém",
+    "ro": "Silla, un loc în Ierusalim",
+    "ru": "Силла, местечко в Иерусалиме",
+    "sk": "Silla, miesto v Jeruzaleme",
+    "sl": "Silla, kraj v Jeruzalemu",
+    "sv": "Silla, en plats i Jerusalem",
+    "tr": "Silla, Kudüs'te bir yer",
+    "uk": "Сілла, місце в Єрусалимі",
+    "zh": "新罗"
+  },
+  "verses": [
+    "secondKings 12:21:10"
+  ]
+}

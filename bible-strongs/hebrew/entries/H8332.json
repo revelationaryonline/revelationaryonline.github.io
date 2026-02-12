@@ -1,0 +1,43 @@
+{
+  "number": "H8332",
+  "language": "hebrew",
+  "transliteration": "shᵉrôshûw",
+  "pronunciation": "sher-o-shoo'",
+  "definition": "eradication, i.e. (figuratively) exile",
+  "kjvTranslation": "banishment.",
+  "hebrew": "שְׁרֹשׁוּ",
+  "translations": {
+    "bg": "изкореняване, т.е. (в преносен смисъл) изгнание",
+    "cs": "vymýcení, tj. (obrazně) vyhnání",
+    "da": "udryddelse, dvs. (i overført betydning) eksil",
+    "de": "ausrottung, d. h. (im übertragenen Sinne) Verbannung",
+    "el": "εξάλειψη, δηλαδή (μεταφορικά) εξορία",
+    "es": "erradicación, es decir (en sentido figurado) exilio",
+    "et": "likvideerimine, st (piltlikult öeldes) pagendus",
+    "fi": "hävittäminen eli (kuvaannollisesti) karkottaminen",
+    "fr": "l'éradication, c'est-à-dire (au sens figuré) l'exil",
+    "hu": "kiirtás, azaz (átvitt értelemben) száműzetés",
+    "id": "pemberantasan, yaitu pengasingan (secara kiasan)",
+    "it": "sradicamento, cioè esilio (in senso figurato)",
+    "ja": "流刑",
+    "ko": "근절, 즉 (비유적으로) 망명",
+    "lt": "išnaikinimas, t. y. (perkeltine prasme) tremtis",
+    "lv": "izskaušana, t.i., (pārnestā nozīmē) izsūtīšana",
+    "nb": "utryddelse, dvs. (i overført betydning) landsforvisning",
+    "nl": "uitroeiing, d.w.z. (figuurlijk) verbanning",
+    "pl": "wykorzenienie, tj. (w przenośni) wygnanie",
+    "pt": "erradicação, ou seja, exílio (em sentido figurado)",
+    "ro": "eradicare, adică (la figurat) exil",
+    "ru": "искоренение, т.е. (образно) изгнание",
+    "sk": "vykorenenie, t. j. (obrazne) vyhnanstvo",
+    "sl": "izkoreninjenje, tj. (v prenesenem pomenu) izgnanstvo",
+    "sv": "utrotning, dvs. (bildligt talat) landsflykt",
+    "tr": "yok etme, yani (mecazi anlamda) sürgün",
+    "uk": "викорінення, тобто (образно) вигнання",
+    "zh": "铲除，即（比喻）流放"
+  },
+  "verses": [
+    "ezra 7:26:19",
+    "ezra 7:26:20"
+  ]
+}

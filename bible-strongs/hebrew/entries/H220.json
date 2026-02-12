@@ -1,0 +1,42 @@
+{
+  "number": "H220",
+  "language": "hebrew",
+  "transliteration": "ʼăvêrâh",
+  "pronunciation": "av-ay-raw'",
+  "definition": "a stall",
+  "kjvTranslation": "cote.",
+  "translations": {
+    "bg": "сергия",
+    "cs": "stánek",
+    "da": "en bås",
+    "de": "ein Verkaufsstand",
+    "el": "ένα περίπτερο",
+    "es": "un puesto",
+    "et": "kiosk",
+    "fi": "kioski",
+    "fr": "un étalage",
+    "hu": "egy bódé",
+    "id": "sebuah kios",
+    "it": "una bancarella",
+    "ja": "屋台",
+    "ko": "노점",
+    "lt": "prekyvietė",
+    "lv": "kabīne",
+    "nb": "en bås",
+    "nl": "een kraam",
+    "pl": "stoisko",
+    "pt": "uma banca",
+    "ro": "o tarabă",
+    "ru": "ларёк",
+    "sk": "stánok",
+    "sl": "stojnica",
+    "sv": "en stall",
+    "tr": "bir durak",
+    "uk": "кіоск",
+    "zh": "摊位"
+  },
+  "hebrew": "אֲוֵרָה",
+  "verses": [
+    "secondChronicles 32:28:10"
+  ]
+}

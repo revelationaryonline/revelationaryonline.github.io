@@ -1,0 +1,42 @@
+{
+  "number": "H3780",
+  "language": "hebrew",
+  "transliteration": "kâsâh",
+  "pronunciation": "kaw-saw'",
+  "definition": "to grow fat (i.e. be covered with flesh)",
+  "kjvTranslation": "be covered. Compare H3680 (כָּסָה).",
+  "hebrew": "כָּשָׂה",
+  "translations": {
+    "bg": "да надебелява (т.е. да се покрива с месо)",
+    "cs": "ztloustnout (tj. být pokrytý masem)",
+    "da": "at blive fed (dvs. blive dækket af kød)",
+    "de": "fett werden (d. h. mit Fleisch bedeckt sein)",
+    "el": "να παχύνει (δηλ. να καλυφθεί με σάρκα)",
+    "es": "engordar (es decir, cubrirse de carne)",
+    "et": "rasvaseks muutuda (st. olla kaetud lihaga)",
+    "fi": "lihoa (eli olla lihan peitossa)",
+    "fr": "grossir (c'est-à-dire se couvrir de chair)",
+    "hu": "meghízni (azaz hússal borítva lenni)",
+    "id": "menjadi gemuk (yaitu ditutupi dengan daging)",
+    "it": "ingrassare (cioè ricoprirsi di carne)",
+    "ja": "太る",
+    "ko": "살이 찌는 것(즉, 살로 덮이는 것)",
+    "lt": "riebaluotis (t. y. apaugti mėsa)",
+    "lv": "aptaukoties (t.i., apaugt ar miesu)",
+    "nb": "å bli fet (dvs. bli dekket av kjøtt)",
+    "nl": "vet worden (d.w.z. bedekt worden met vlees)",
+    "pl": "obrosnąć tłuszczem (tj. pokryć się ciałem)",
+    "pt": "engordar (ou seja, ficar coberto de carne)",
+    "ro": "să se îngrașe (i.e. să fie acoperit cu carne)",
+    "ru": "растолстеть (т.е. покрыться плотью)",
+    "sk": "tlústnuť (t. j. byť pokrytý mäsom)",
+    "sl": "se zrediti (tj. biti obložen z mesom)",
+    "sv": "att bli fet (d.v.s. bli täckt av kött)",
+    "tr": "yağlanmak (yani etle kaplanmak)",
+    "uk": "жиріти (тобто покриватися плоттю)",
+    "zh": "长肉"
+  },
+  "verses": [
+    "deuteronomy 32:15:5"
+  ]
+}

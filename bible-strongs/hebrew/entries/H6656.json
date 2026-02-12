@@ -1,0 +1,42 @@
+{
+  "number": "H6656",
+  "language": "hebrew",
+  "transliteration": "tsᵉdâʼ",
+  "pronunciation": "tsed-aw'",
+  "definition": "a (sinister) design",
+  "kjvTranslation": "true.",
+  "hebrew": "צְדָא",
+  "translations": {
+    "bg": "(зловещ) дизайн",
+    "cs": "(zlověstný) design",
+    "da": "et (uhyggeligt) design",
+    "de": "ein (unheimliches) Design",
+    "el": "ένα (σκοτεινό) σχέδιο",
+    "es": "un diseño (siniestro)",
+    "et": "(kurjakuulutav) kavand",
+    "fi": "(pahaenteinen) suunnitelma",
+    "fr": "une conception (sinistre)",
+    "hu": "egy (baljós) terv",
+    "id": "desain yang (menyeramkan)",
+    "it": "un disegno (sinistro)",
+    "ja": "奸計",
+    "ko": "(불길한) 디자인",
+    "lt": "(grėsmingas) dizainas",
+    "lv": "(draudīgs) dizains",
+    "nb": "et (uhyggelig) design",
+    "nl": "een (sinister) ontwerp",
+    "pl": "(złowieszczy) projekt",
+    "pt": "um projeto (sinistro)",
+    "ro": "un design (sinistru)",
+    "ru": "(зловещий) дизайн",
+    "sk": "(zlovestný) dizajn",
+    "sl": "(zlovešči) načrt",
+    "sv": "en (olycksbådande) design",
+    "tr": "(uğursuz) bir tasarım",
+    "uk": "(зловісний) дизайн",
+    "zh": "设计"
+  },
+  "verses": [
+    "daniel 3:14:4"
+  ]
+}

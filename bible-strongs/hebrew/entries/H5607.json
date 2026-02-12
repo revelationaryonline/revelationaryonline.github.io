@@ -1,0 +1,43 @@
+{
+  "number": "H5607",
+  "language": "hebrew",
+  "transliteration": "çêpheq",
+  "pronunciation": "say'-fek",
+  "definition": "chastisement; also satiety",
+  "kjvTranslation": "stroke, sufficiency.",
+  "hebrew": "סֵפֶק",
+  "translations": {
+    "bg": "наказание; също и ситост",
+    "cs": "trest; také nasycení",
+    "da": "tugt; også mæthed",
+    "de": "züchtigung; auch Sättigung",
+    "el": "τιμωρία- επίσης κορεσμός",
+    "es": "castigo; también saciedad",
+    "et": "karistus; ka küllastumine",
+    "fi": "kuritus; myös kylläisyys",
+    "fr": "châtiment ; également satiété",
+    "hu": "fenyítés; továbbá jóllakottság",
+    "id": "hajaran; juga rasa kenyang",
+    "it": "castigo; anche sazietà",
+    "ja": "懲らしめ；また満腹",
+    "ko": "징계; 또한 포만감",
+    "lt": "bausmė; taip pat sotumas",
+    "lv": "sods; arī sātīgums",
+    "nb": "tukt; også metthetsfølelse",
+    "nl": "kastijding; ook verzadiging",
+    "pl": "karcenie; również sytość",
+    "pt": "castigo; também saciedade",
+    "ro": "pedeapsă; de asemenea, sațietate",
+    "ru": "наказание; также пресыщение",
+    "sk": "trest; tiež nasýtenie",
+    "sl": "kazen; tudi sitost",
+    "sv": "tuktan; även mättnad",
+    "tr": "azap; ayrıca tokluk",
+    "uk": "покарання; також насичення",
+    "zh": "责罚；还有饱食"
+  },
+  "verses": [
+    "job 20:22:1",
+    "job 36:18:4"
+  ]
+}

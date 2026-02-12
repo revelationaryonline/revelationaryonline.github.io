@@ -1,0 +1,42 @@
+{
+  "number": "H2661",
+  "language": "hebrew",
+  "transliteration": "chăphôr",
+  "pronunciation": "khaf-ore'",
+  "definition": "a burrower, i.e. probably a rat",
+  "kjvTranslation": "[phrase] mole.",
+  "translations": {
+    "bg": "гмуркач, т.е. вероятно плъх",
+    "cs": "norník, tj. pravděpodobně krysa",
+    "da": "en graver, dvs. sandsynligvis en rotte",
+    "de": "ein Höhlenforscher, d.h. wahrscheinlich eine Ratte",
+    "el": "ένα λαγούμι, δηλαδή πιθανότατα ένας αρουραίος",
+    "es": "un excavador, es decir, probablemente una rata",
+    "et": "mao, st tõenäoliselt rott",
+    "fi": "kaivautuja, eli luultavasti rotta",
+    "fr": "un fouisseur, c'est-à-dire probablement un rat",
+    "hu": "ásó, azaz valószínűleg patkány",
+    "id": "seekor penggali lubang, yaitu mungkin seekor tikus",
+    "it": "un tanaio, cioè probabilmente un ratto",
+    "ja": "穴掘り、つまりおそらくネズミ",
+    "ko": "굴착기, 즉 쥐일 가능성이 높습니다",
+    "lt": "kasa, t. y. tikriausiai žiurkė",
+    "lv": "kaskotājs, t. i., iespējams, žurka",
+    "nb": "en graver, dvs. sannsynligvis en rotte",
+    "nl": "een graver, d.w.z. waarschijnlijk een rat",
+    "pl": "nornik, tj. prawdopodobnie szczur",
+    "pt": "um escavador, ou seja, provavelmente um rato",
+    "ro": "un scormonitor, adică probabil un șobolan",
+    "ru": "нору, то есть, вероятно, крысу",
+    "sk": "hrabáč, t. j. pravdepodobne potkan",
+    "sl": "grobar, tj. verjetno podgana",
+    "sv": "en grävare, d.v.s. förmodligen en råtta",
+    "tr": "bir yuvacı, yani muhtemelen bir sıçan",
+    "uk": "риє нори, тобто, ймовірно, щур",
+    "zh": "穴居人，即可能是老鼠"
+  },
+  "hebrew": "חֲפֹר",
+  "verses": [
+    "isaiah 2:20:14"
+  ]
+}

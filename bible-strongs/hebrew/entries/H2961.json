@@ -1,0 +1,43 @@
+{
+  "number": "H2961",
+  "language": "hebrew",
+  "transliteration": "ṭârîy",
+  "pronunciation": "taw-ree'",
+  "definition": "properly, dripping; hence, fresh (i.e. recently made such)",
+  "kjvTranslation": "new, putrefying.",
+  "translations": {
+    "bg": "правилно, капещо; следователно, прясно (т.е. наскоро направено такова)",
+    "cs": "správně, kapající; tedy čerstvý (tj. nedávno vyrobený)",
+    "da": "korrekt, dryppende; derfor frisk (dvs. for nylig fremstillet sådan)",
+    "de": "richtig, tropfend; daher frisch (d.h. vor kurzem so gemacht)",
+    "el": "σωστά, στάζει- ως εκ τούτου, φρέσκο (δηλ. πρόσφατα φτιαγμένο τέτοιο)",
+    "es": "propiamente, goteando; por lo tanto, fresco (es decir, recién hecho tal)",
+    "et": "korralikult, tilkuv; seega värske (s.t. hiljuti tehtud selline)",
+    "fi": "kunnolla, tippuva; siis tuore (ts. äskettäin tehty sellainen)",
+    "fr": "proprement, goutte à goutte ; d'où, frais (c'est-à-dire récemment fabriqué)",
+    "hu": "megfelelően, csepegtetve; ezért friss (azaz nemrég készült)",
+    "id": "benar, menetes; karenanya, segar (yaitu baru saja dibuat)",
+    "it": "propriamente, sgocciolante; quindi, fresco (cioè reso tale di recente)",
+    "ja": "だから、新鮮な（つまり、最近作られた）。",
+    "ko": "적절하게, 물방울이 떨어지는, 따라서 신선한 (즉, 최근에 만든)",
+    "lt": "tinkamai, lašantis; taigi šviežias (t. y. neseniai pagamintas)",
+    "lv": "pareizi, pilināms; tātad svaigs (t. i., nesen gatavots)",
+    "nb": "riktig, dryppende; derav fersk (dvs. nylig laget slik)",
+    "nl": "goed, druipend; dus vers (d.w.z. onlangs gemaakt)",
+    "pl": "właściwie, kapiący; stąd, świeży (tj. niedawno zrobiony)",
+    "pt": "propriamente dito, pingando; portanto, fresco (ou seja, feito recentemente)",
+    "ro": "în mod corespunzător, picurat; prin urmare, proaspăt (adică recent făcut astfel)",
+    "ru": "правильно, капать; следовательно, свежий (т.е. недавно сделанный)",
+    "sk": "správne, kvapkajúci; teda čerstvý (t. j. nedávno vyrobený)",
+    "sl": "pravilno, kapljajoče; torej sveže (tj. pred kratkim narejeno)",
+    "sv": "korrekt, droppande; därmed färsk (dvs. nyligen tillverkad sådan)",
+    "tr": "düzgün, damlayan; dolayısıyla taze (yani yakın zamanda böyle yapılmış)",
+    "uk": "правильно, капає; отже, свіжий (тобто нещодавно зроблений)",
+    "zh": "适当地，滴；因此，新鲜的（即最近做的这样的）"
+  },
+  "hebrew": "טָרִי",
+  "verses": [
+    "judges 15:15:3",
+    "isaiah 1:6:10"
+  ]
+}

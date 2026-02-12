@@ -1,0 +1,43 @@
+{
+  "number": "H7330",
+  "language": "hebrew",
+  "transliteration": "râzeh",
+  "pronunciation": "raw-zeh'",
+  "definition": "thin",
+  "kjvTranslation": "lean.",
+  "hebrew": "רָזֶה",
+  "translations": {
+    "bg": "тънък",
+    "cs": "tenké",
+    "da": "tynd",
+    "de": "dünn",
+    "el": "λεπτό",
+    "es": "fino",
+    "et": "õhuke",
+    "fi": "ohut",
+    "fr": "mince",
+    "hu": "vékony",
+    "id": "tipis",
+    "it": "sottile",
+    "ja": "薄い",
+    "ko": "thin",
+    "lt": "plonas",
+    "lv": "plāns",
+    "nb": "tynn",
+    "nl": "dun",
+    "pl": "cienki",
+    "pt": "fino",
+    "ro": "subțire",
+    "ru": "тонкий",
+    "sk": "tenké",
+    "sl": "tanek",
+    "sv": "tunn",
+    "tr": "ince",
+    "uk": "тонкий",
+    "zh": "薄"
+  },
+  "verses": [
+    "numbers 13:20:5",
+    "ezekiel 34:20:14"
+  ]
+}

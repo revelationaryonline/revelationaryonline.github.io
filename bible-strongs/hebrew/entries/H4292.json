@@ -1,0 +1,42 @@
+{
+  "number": "H4292",
+  "language": "hebrew",
+  "transliteration": "maṭʼăṭêʼ",
+  "pronunciation": "mat-at-ay'",
+  "definition": "a broom (as removing dirt (compare English 'to dust', i.e. remove dust))",
+  "kjvTranslation": "besom.",
+  "hebrew": "מַטְאֲטֵא",
+  "translations": {
+    "bg": "метла (за отстраняване на мръсотия (сравни с английското \"to dust\", т.е. отстранявам прах))",
+    "cs": "koště (jako odstraňování nečistot (srovnej anglické \"to dust\", tj. odstraňovat prach))",
+    "da": "en kost (som fjerner snavs (sammenlign engelsk 'to dust', dvs. fjerne støv))",
+    "de": "ein Besen (zum Entfernen von Schmutz (vgl. englisch 'to dust', d.h. Staub entfernen))",
+    "el": "μια σκούπα (για την απομάκρυνση της βρωμιάς (συγκρίνετε το αγγλικό 'to dust', δηλαδή την απομάκρυνση της σκόνης))",
+    "es": "una escoba (para quitar la suciedad (compárese con \"to dust\", es decir, quitar el polvo))",
+    "et": "luud (nagu mustuse eemaldamine (võrdle inglise keeles 'to dust', st tolmu eemaldamine))",
+    "fi": "luuta (lian poistamiseen (vrt. englanniksi 'to dust', eli pölyn poistamiseen))",
+    "fr": "un balai (pour enlever la saleté (comparer à l'anglais \"to dust\", c'est-à-dire enlever la poussière))",
+    "hu": "seprű (a szennyeződés eltávolítására (vö. angol 'to dust', azaz portalanítani))",
+    "id": "sapu (untuk membersihkan kotoran (bandingkan dengan bahasa Inggris 'to dust', yaitu membersihkan debu))",
+    "it": "una scopa (per rimuovere lo sporco (confronta l'inglese \"to dust\", cioè rimuovere la polvere))",
+    "ja": "ほうき",
+    "ko": "빗자루(먼지를 제거하는 것(영어의 '먼지'와 비교, 즉 먼지 제거))",
+    "lt": "šluota (nešvarumams šalinti (palyginkite anglišką \"to dust\", t. y. šalinti dulkes))",
+    "lv": "slota (netīrumu noņemšanai (sal. angļu valodas 'to dust', t.i., noņemt putekļus))",
+    "nb": "en kost (som fjerner skitt (sammenlign engelsk 'to dust', dvs. fjerne støv))",
+    "nl": "een bezem (om vuil te verwijderen (vergelijk Engels 'to dust', d.w.z. stof verwijderen))",
+    "pl": "miotła (do usuwania brudu (porównaj angielskie \"to dust\", tj. usuwać kurz))",
+    "pt": "uma vassoura (para remover a sujidade (comparar com \"to dust\", ou seja, remover o pó))",
+    "ro": "o mătură (pentru a îndepărta murdăria (a se compara cu engleza \"to dust\", adică a îndepărta praful))",
+    "ru": "метла (для удаления грязи (сравните английское \"to dust\", т.е. удалять пыль))",
+    "sk": "metla (na odstraňovanie nečistôt (porovnaj anglické \"to dust\", t. j. odstraňovať prach))",
+    "sl": "metla (za odstranjevanje umazanije (primerjaj angleški 'to dust', tj. odstraniti prah))",
+    "sv": "en kvast (för att ta bort smuts (jämför engelska \"to dust\", dvs. ta bort damm))",
+    "tr": "bir süpürge (kiri temizlemek için (İngilizce 'to dust' ile karşılaştırın, yani tozu temizlemek))",
+    "uk": "віник (для видалення бруду (порівняйте з англійським \"to dust\", тобто видаляти пил))",
+    "zh": "扫帚（如除去灰尘（比较英语的 \"to dust\"，即除去灰尘））"
+  },
+  "verses": [
+    "isaiah 14:23:6"
+  ]
+}

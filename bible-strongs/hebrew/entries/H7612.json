@@ -1,0 +1,42 @@
+{
+  "number": "H7612",
+  "language": "hebrew",
+  "transliteration": "shêʼth",
+  "pronunciation": "shayth",
+  "definition": "devastation",
+  "kjvTranslation": "desolation.",
+  "hebrew": "שֵׁאת",
+  "translations": {
+    "bg": "опустошение",
+    "cs": "devastace",
+    "da": "ødelæggelse",
+    "de": "verwüstung",
+    "el": "καταστροφή",
+    "es": "devastación",
+    "et": "häving",
+    "fi": "tuho",
+    "fr": "dévastation",
+    "hu": "pusztulás",
+    "id": "kehancuran",
+    "it": "devastazione",
+    "ja": "荒廃",
+    "ko": "황폐화",
+    "lt": "niokojimas",
+    "lv": "postījumi",
+    "nb": "ødeleggelse",
+    "nl": "verwoesting",
+    "pl": "zniszczenie",
+    "pt": "devastação",
+    "ro": "devastare",
+    "ru": "опустошение",
+    "sk": "devastácia",
+    "sl": "opustošenje",
+    "sv": "förödelse",
+    "tr": "yıkım",
+    "uk": "розруха",
+    "zh": "惨状"
+  },
+  "verses": [
+    "lamentations 3:47:4"
+  ]
+}

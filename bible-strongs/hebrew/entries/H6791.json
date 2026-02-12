@@ -1,0 +1,43 @@
+{
+  "number": "H6791",
+  "language": "hebrew",
+  "transliteration": "tsên",
+  "pronunciation": "tsane",
+  "definition": "a thorn; hence, a cactus-hedge",
+  "kjvTranslation": "thorn.",
+  "hebrew": "צֵן",
+  "translations": {
+    "bg": "трън; оттук - кактусов венец",
+    "cs": "trn; odtud kaktusový hřeben",
+    "da": "en torn; derfor en kaktus-hæk",
+    "de": "ein Dorn; daher eine Kaktushecke",
+    "el": "ένα αγκάθι- ως εκ τούτου, ένας κάκτος με φραγκοστάφυλο",
+    "es": "una espina; por lo tanto, un seto de cactus",
+    "et": "okas; seega kaktuseheide",
+    "fi": "piikki; siis kaktuspensaikko",
+    "fr": "une épine ; d'où une haie de cactus",
+    "hu": "tüske; ezért kaktuszos sövény",
+    "id": "duri; oleh karena itu, pagar kaktus",
+    "it": "una spina; quindi, un cactus-edicola",
+    "ja": "とげ、つまりサボテンヘッジ",
+    "ko": "가시; 따라서 선인장 울타리",
+    "lt": "dyglys; taigi, kaktuso keteros",
+    "lv": "ērkšķis, tātad - kaktusa dadzis",
+    "nb": "en torn; derav en kaktushekk",
+    "nl": "een doorn; vandaar, een cactushaag",
+    "pl": "cierń; stąd, kaktusowy żywopłot",
+    "pt": "um espinho; portanto, um cato-espinho",
+    "ro": "un spin; prin urmare, un cactus-hedge",
+    "ru": "колючка; отсюда - кактусовый хедж",
+    "sk": "tŕň; preto kaktusový hrot",
+    "sl": "trn; od tod kaktusov greben",
+    "sv": "en tagg; därav en kaktushäck",
+    "tr": "bir diken; dolayısıyla, bir kaktüs-dikeni",
+    "uk": "колючка; отже, кактусова огорожа",
+    "zh": "刺；因此是仙人掌刺"
+  },
+  "verses": [
+    "job 5:5:5",
+    "proverbs 22:5:0"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4373",
+  "language": "hebrew",
+  "transliteration": "mikçâh",
+  "pronunciation": "mik-saw'",
+  "definition": "an enumeration; by implication, a valuation",
+  "kjvTranslation": "number, worth.",
+  "hebrew": "מִכְסָה",
+  "translations": {
+    "bg": "изброяване; по подразбиране - оценка",
+    "cs": "výčet; implicitně ocenění",
+    "da": "en opremsning; underforstået, en værdiansættelse",
+    "de": "eine Aufzählung; implizit auch eine Bewertung",
+    "el": "μια απαρίθμηση- κατ' επέκταση, μια αποτίμηση",
+    "es": "una enumeración; implícitamente, una valoración",
+    "et": "loendamist; kaudselt ka hindamist",
+    "fi": "luetteleminen; implisiittisesti arvottaminen",
+    "fr": "une énumération ; par voie de conséquence, une évaluation",
+    "hu": "egy felsorolás; következésképpen egy értékelés",
+    "id": "sebuah pencacahan; dengan implikasi, sebuah penilaian",
+    "it": "un'enumerazione; per implicazione, una valutazione",
+    "ja": "列挙、暗黙のうちに評価",
+    "ko": "열거형; 암시적으로, 가치 평가",
+    "lt": "išvardijimas; iš to išplaukia, kad vertinimas",
+    "lv": "uzskaitījums; netieši - vērtējums",
+    "nb": "en oppregning; underforstått, en verdivurdering",
+    "nl": "een opsomming; bij implicatie, een waardering",
+    "pl": "wyliczenie; w domyśle wycena",
+    "pt": "uma enumeração; por implicação, uma avaliação",
+    "ro": "o enumerare; implicit, o evaluare",
+    "ru": "перечисление; по косвенным признакам, оценка",
+    "sk": "výpočet; implicitne ocenenie",
+    "sl": "naštevanje; implicitno vrednotenje",
+    "sv": "en uppräkning; underförstått, en värdering",
+    "tr": "bir numaralandırma; dolaylı olarak, bir değerleme",
+    "uk": "перерахування; за імплікацією - оцінка",
+    "zh": "一一列举；言下之意，估价"
+  },
+  "verses": [
+    "exodus 12:4:11",
+    "leviticus 27:23:4"
+  ]
+}

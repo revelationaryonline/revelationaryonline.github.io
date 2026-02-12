@@ -1,0 +1,43 @@
+{
+  "number": "H7405",
+  "language": "hebrew",
+  "transliteration": "râkaç",
+  "pronunciation": "raw-kas'",
+  "definition": "to tie",
+  "kjvTranslation": "bind.",
+  "hebrew": "רָכַס",
+  "translations": {
+    "bg": "да се завърже",
+    "cs": "svázat",
+    "da": "til at binde",
+    "de": "zu binden",
+    "el": "να δέσει",
+    "es": "para atar",
+    "et": "siduda",
+    "fi": "sitoa",
+    "fr": "pour attacher",
+    "hu": "megkötni",
+    "id": "untuk mengikat",
+    "it": "per legare",
+    "ja": "結ぶ",
+    "ko": "동점",
+    "lt": "susieti",
+    "lv": "sasiet",
+    "nb": "å knytte",
+    "nl": "vastbinden",
+    "pl": "wiązać",
+    "pt": "para amarrar",
+    "ro": "pentru a lega",
+    "ru": "завязывать",
+    "sk": "zviazať",
+    "sl": "zavezati",
+    "sv": "att binda",
+    "tr": "bağlamak için",
+    "uk": "щоб зв'язати",
+    "zh": "绑"
+  },
+  "verses": [
+    "exodus 28:28:0",
+    "exodus 39:21:0"
+  ]
+}

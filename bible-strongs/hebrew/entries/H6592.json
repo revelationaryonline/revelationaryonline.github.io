@@ -1,0 +1,42 @@
+{
+  "number": "H6592",
+  "language": "hebrew",
+  "transliteration": "pêsher",
+  "pronunciation": "pay'-sher",
+  "definition": "{an interpretation}",
+  "kjvTranslation": "interpretation.",
+  "hebrew": "פֵּשֶׁר",
+  "translations": {
+    "bg": "{тълкуване}",
+    "cs": "{výklad}",
+    "da": "{En fortolkning}",
+    "de": "{eine Interpretation}",
+    "el": "{μια ερμηνεία}",
+    "es": "{una interpretación}",
+    "et": "{tõlge}",
+    "fi": "{tulkinta}",
+    "fr": "{une interprétation}",
+    "hu": "{egy értelmezés}",
+    "id": "[sebuah interpretasi]",
+    "it": "{un'interpretazione}",
+    "ja": "解釈",
+    "ko": "{해석}",
+    "lt": "{interpretacija}",
+    "lv": "{interpretācija}",
+    "nb": "{en tolkning}",
+    "nl": "{een interpretatie}",
+    "pl": "{interpretacja}",
+    "pt": "{Uma interpretação}",
+    "ro": "{o interpretare}",
+    "ru": "{интерпретация}",
+    "sk": "{interpretácia}",
+    "sl": "{razlaga}",
+    "sv": "{en tolkning}",
+    "tr": "{bir yorum}",
+    "uk": "{Я не знаю, що це таке, але я знаю, що це таке.}",
+    "zh": "{一种解释}"
+  },
+  "verses": [
+    "ecclesiastes 8:1:4"
+  ]
+}

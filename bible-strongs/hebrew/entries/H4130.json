@@ -1,0 +1,42 @@
+{
+  "number": "H4130",
+  "language": "hebrew",
+  "transliteration": "môwdaʻath",
+  "pronunciation": "mo-dah'-ath",
+  "definition": "acquaintance",
+  "kjvTranslation": "kindred.",
+  "hebrew": "מוֹדַעַת",
+  "translations": {
+    "bg": "запознанство",
+    "cs": "seznámení",
+    "da": "bekendtskab",
+    "de": "bekanntschaft",
+    "el": "γνωριμία",
+    "es": "conocido",
+    "et": "tuttav",
+    "fi": "tuttavuus",
+    "fr": "connaissance",
+    "hu": "ismeretség",
+    "id": "kenalan",
+    "it": "conoscente",
+    "ja": "知り合い",
+    "ko": "지인",
+    "lt": "pažintis",
+    "lv": "iepazīšanās",
+    "nb": "bekjentskap",
+    "nl": "kennis",
+    "pl": "znajomość",
+    "pt": "conhecimento",
+    "ro": "cunoștință",
+    "ru": "знакомство",
+    "sk": "zoznámenie",
+    "sl": "poznanstvo",
+    "sv": "bekantskap",
+    "tr": "tanıdık",
+    "uk": "знайомство",
+    "zh": "相识"
+  },
+  "verses": [
+    "ruth 3:2:3"
+  ]
+}

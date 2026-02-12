@@ -1,0 +1,42 @@
+{
+  "number": "H6219",
+  "language": "hebrew",
+  "transliteration": "ʻâshôwth",
+  "pronunciation": "aw-shoth'",
+  "definition": "shining, i.e. polished",
+  "kjvTranslation": "bright.",
+  "hebrew": "עָשׁוֹת",
+  "translations": {
+    "bg": "блестящи, т.е. полирани",
+    "cs": "lesklé, tj. vyleštěné",
+    "da": "skinnende, dvs. poleret",
+    "de": "glänzend, d.h. poliert",
+    "el": "γυαλιστερή, δηλαδή στιλβωμένη",
+    "es": "brillante, es decir, pulido",
+    "et": "läikiv, st poleeritud",
+    "fi": "kiiltävä eli kiillotettu",
+    "fr": "brillant, c'est-à-dire poli",
+    "hu": "fényes, azaz polírozott",
+    "id": "bersinar, yaitu dipoles",
+    "it": "lucida, cioè levigata",
+    "ja": "シャイニング",
+    "ko": "빛나는, 즉 광택이 나는",
+    "lt": "blizgantis, t. y. poliruotas",
+    "lv": "spīdošs, t. i., pulēts",
+    "nb": "skinnende, dvs. polert",
+    "nl": "glanzend, d.w.z. gepolijst",
+    "pl": "błyszczący, tj. wypolerowany",
+    "pt": "brilhante, ou seja, polido",
+    "ro": "strălucitor, adică lustruit",
+    "ru": "блестящий, т.е. отполированный",
+    "sk": "lesklé, t. j. vyleštené",
+    "sl": "sijoče, tj. polirane",
+    "sv": "glänsande, dvs. polerad",
+    "tr": "parlayan, yani cilalanmış",
+    "uk": "блискучий, тобто відполірований",
+    "zh": "抛光"
+  },
+  "verses": [
+    "ezekiel 27:19:6"
+  ]
+}

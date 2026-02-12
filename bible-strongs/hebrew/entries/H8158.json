@@ -1,0 +1,42 @@
+{
+  "number": "H8158",
+  "language": "hebrew",
+  "transliteration": "shâçaph",
+  "pronunciation": "shaw-saf'",
+  "definition": "to cut in pieces, i.e. slaughter",
+  "kjvTranslation": "hew in pieces.",
+  "hebrew": "שָׁסַף",
+  "translations": {
+    "bg": "да се нареже на парчета, т.е. да се заколи",
+    "cs": "rozřezat na kusy, tj. porazit",
+    "da": "at skære i stykker, dvs. slagte",
+    "de": "in Stücke zu schneiden, d.h. zu schlachten",
+    "el": "κόβω σε κομμάτια, δηλ. σφάζω",
+    "es": "cortar en pedazos, es decir, sacrificar",
+    "et": "tükeldada, s.t. tappa",
+    "fi": "leikata paloiksi, eli teurastaa",
+    "fr": "couper en morceaux, c'est-à-dire abattre",
+    "hu": "feldarabolni, azaz levágni",
+    "id": "untuk memotong-motong, yaitu penyembelihan",
+    "it": "tagliare a pezzi, cioè macellare",
+    "ja": "切り刻む、つまり屠殺する",
+    "ko": "조각으로 자르다, 즉 도살하다",
+    "lt": "supjaustyti gabalais, t. y. paskersti",
+    "lv": "sagriezt gabalos, t.i., nokaut",
+    "nb": "å skjære i stykker, dvs. slakte",
+    "nl": "in stukken snijden, d.w.z. slachten",
+    "pl": "pociąć na kawałki, tj. ubić",
+    "pt": "cortar em pedaços, ou seja, abater",
+    "ro": "a tăia în bucăți, adică a măcelări",
+    "ru": "разрезать на части, т.е. зарезать",
+    "sk": "rozrezať na kúsky, t. j. zabiť",
+    "sl": "razrezati na kose, tj. zaklati",
+    "sv": "att skära i bitar, dvs. slakta",
+    "tr": "parçalara ayırmak, yani katletmek",
+    "uk": "розрізати на шматки, тобто забій",
+    "zh": "切块，即屠宰"
+  },
+  "verses": [
+    "firstSamuel 15:33:10"
+  ]
+}

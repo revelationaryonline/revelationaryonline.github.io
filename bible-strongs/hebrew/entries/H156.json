@@ -1,0 +1,42 @@
+{
+  "number": "H156",
+  "language": "hebrew",
+  "transliteration": "ʼâdash",
+  "pronunciation": "aw-dash'",
+  "definition": "to tread out (grain)",
+  "kjvTranslation": "thresh.",
+  "translations": {
+    "bg": "да изтъпче (зърно)",
+    "cs": "vydupat (obilí)",
+    "da": "at træde ud (korn)",
+    "de": "(Getreide) auszutreten",
+    "el": "να πατήσω (σιτάρι)",
+    "es": "pisar (grano)",
+    "et": "välja tallata (vilja)",
+    "fi": "polkea (vilja)",
+    "fr": "fouler (le grain)",
+    "hu": "kitaposni (gabonát)",
+    "id": "untuk menginjak (biji-bijian)",
+    "it": "calpestare (grano)",
+    "ja": "踏み出す",
+    "ko": "밟다(곡물)",
+    "lt": "iššukuoti (grūdus)",
+    "lv": "izravēt (graudus)",
+    "nb": "å tråkke ut (korn)",
+    "nl": "uitlopen (graan)",
+    "pl": "wydeptać (ziarno)",
+    "pt": "pisar (grão)",
+    "ro": "a călca în picioare (cereale)",
+    "ru": "вытаптывать (зерно)",
+    "sk": "vydupať (obilie)",
+    "sl": "izluščiti (žito)",
+    "sv": "att trampa ut (spannmål)",
+    "tr": "(tahıl) çıkarmak için",
+    "uk": "витоптати (зерно)",
+    "zh": "攘"
+  },
+  "hebrew": "אָדַשׁ",
+  "verses": [
+    "isaiah 28:28:5"
+  ]
+}

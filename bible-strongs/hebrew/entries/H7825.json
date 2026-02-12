@@ -1,0 +1,43 @@
+{
+  "number": "H7825",
+  "language": "hebrew",
+  "transliteration": "shᵉchîyth",
+  "pronunciation": "shekh-eeth'",
+  "definition": "a pit-fall (literally or figuratively)",
+  "kjvTranslation": "destruction, pit.",
+  "hebrew": "שְׁחִית",
+  "translations": {
+    "bg": "падане в пропаст (буквално или преносно)",
+    "cs": "pád do jámy (doslova nebo obrazně)",
+    "da": "et fald (bogstaveligt eller i overført betydning)",
+    "de": "ein Absturz (wörtlich oder im übertragenen Sinne)",
+    "el": "πτώση (κυριολεκτικά ή μεταφορικά)",
+    "es": "una caída en picado (literal o figuradamente)",
+    "et": "kukkumine (sõna otseses või ülekantud tähenduses)",
+    "fi": "putoaminen kuiluun (kirjaimellisesti tai kuvaannollisesti)",
+    "fr": "une chute (au sens propre ou figuré)",
+    "hu": "zuhanás (szó szerint vagy átvitt értelemben)",
+    "id": "sebuah jurang (secara harfiah atau kiasan)",
+    "it": "una caduta nel vuoto (in senso letterale o figurato)",
+    "ja": "奈落の底",
+    "ko": "함정(문자 그대로 또는 비유적으로)",
+    "lt": "kritimas į duobę (tiesiogine ar perkeltine prasme)",
+    "lv": "kritiens (tiešā vai pārnestā nozīmē)",
+    "nb": "et fall (bokstavelig eller i overført betydning)",
+    "nl": "een valkuil (letterlijk of figuurlijk)",
+    "pl": "upadek z wysokości (dosłownie lub w przenośni)",
+    "pt": "uma queda de um poço (literal ou figurativamente)",
+    "ro": "o cădere în prăpastie (la propriu sau la figurat)",
+    "ru": "падение в яму (в прямом или переносном смысле)",
+    "sk": "pád do priepasti (doslovne alebo obrazne)",
+    "sl": "padec v jamo (dobesedno ali v prenesenem pomenu)",
+    "sv": "en fallgrop (bokstavligt eller bildligt talat)",
+    "tr": "bir çukura düşme (gerçek veya mecazi anlamda)",
+    "uk": "пастка (в прямому чи переносному сенсі)",
+    "zh": "万丈深渊"
+  },
+  "verses": [
+    "psalms 107:20:4",
+    "lamentations 4:20:5"
+  ]
+}

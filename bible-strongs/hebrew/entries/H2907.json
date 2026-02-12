@@ -1,0 +1,42 @@
+{
+  "number": "H2907",
+  "language": "hebrew",
+  "transliteration": "ṭûws",
+  "pronunciation": "toos",
+  "definition": "to pounce as a bird of prey",
+  "kjvTranslation": "haste.",
+  "translations": {
+    "bg": "да се хвърли като хищна птица",
+    "cs": "vrhnout se jako dravý pták",
+    "da": "at springe som en rovfugl",
+    "de": "wie ein Raubvogel zuzuschlagen",
+    "el": "να ορμήσει σαν αρπακτικό πουλί",
+    "es": "abalanzarse como un ave rapaz",
+    "et": "hüpata nagu röövlind",
+    "fi": "hyökätä kuin petolintu",
+    "fr": "bondir comme un oiseau de proie",
+    "hu": "ragadozó madárként lecsapni",
+    "id": "menerkam sebagai burung pemangsa",
+    "it": "balzare come un uccello da preda",
+    "ja": "猛禽類のように飛びかかる",
+    "ko": "맹금류처럼 날아오르다",
+    "lt": "lėkti kaip plėšrus paukštis",
+    "lv": "mesties kā plēsīgs putns",
+    "nb": "å kaste seg ned som en rovfugl",
+    "nl": "bespringen als een roofvogel",
+    "pl": "skoczyć jak drapieżny ptak",
+    "pt": "atacar como uma ave de rapina",
+    "ro": "a sări ca o pasăre de pradă",
+    "ru": "набрасываться, как хищная птица",
+    "sk": "vrhnúť sa ako dravý vták",
+    "sl": "vrteti se kot ptica roparica",
+    "sv": "att kasta sig som en rovfågel",
+    "tr": "yırtıcı bir kuş gibi saldırmak",
+    "uk": "накинутися, як хижий птах",
+    "zh": "猛鸷"
+  },
+  "hebrew": "טוּשׂ",
+  "verses": [
+    "job 9:26:5"
+  ]
+}

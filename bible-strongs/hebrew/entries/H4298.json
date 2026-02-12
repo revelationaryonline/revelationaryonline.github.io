@@ -1,0 +1,42 @@
+{
+  "number": "H4298",
+  "language": "hebrew",
+  "transliteration": "muṭṭâh",
+  "pronunciation": "moot-taw'",
+  "definition": "expansion",
+  "kjvTranslation": "stretching out.",
+  "hebrew": "מֻטָּה",
+  "translations": {
+    "bg": "разширение",
+    "cs": "rozšíření",
+    "da": "udvidelse",
+    "de": "erweiterung",
+    "el": "επέκταση",
+    "es": "expansión",
+    "et": "laienemine",
+    "fi": "laajennus",
+    "fr": "l'expansion",
+    "hu": "bővítés",
+    "id": "ekspansi",
+    "it": "espansione",
+    "ja": "拡大",
+    "ko": "확장",
+    "lt": "plėtra",
+    "lv": "paplašinājums",
+    "nb": "utvidelse",
+    "nl": "uitbreiding",
+    "pl": "ekspansja",
+    "pt": "expansão",
+    "ro": "extindere",
+    "ru": "расширение",
+    "sk": "rozšírenie",
+    "sl": "razširitev",
+    "sv": "expansion",
+    "tr": "genişleme",
+    "uk": "розширення",
+    "zh": "扩大"
+  },
+  "verses": [
+    "isaiah 8:8:8"
+  ]
+}

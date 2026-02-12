@@ -1,0 +1,43 @@
+{
+  "number": "H6794",
+  "language": "hebrew",
+  "transliteration": "tsinnûwr",
+  "pronunciation": "tsin-noor'",
+  "definition": "a culvert",
+  "kjvTranslation": "gutter, water-spout.",
+  "hebrew": "צִנּוּר",
+  "translations": {
+    "bg": "водосток",
+    "cs": "propustek",
+    "da": "en kulvert",
+    "de": "einen Durchlass",
+    "el": "έναν αγωγό",
+    "es": "una alcantarilla",
+    "et": "duktor",
+    "fi": "sulkuputki",
+    "fr": "un ponceau",
+    "hu": "egy áteresz",
+    "id": "gorong-gorong",
+    "it": "un canale di scolo",
+    "ja": "暗渠",
+    "ko": "암거",
+    "lt": "pralaidą",
+    "lv": "caurteka",
+    "nb": "en kulvert",
+    "nl": "een duiker",
+    "pl": "przepust",
+    "pt": "um bueiro",
+    "ro": "o canalizare",
+    "ru": "водопропускная труба",
+    "sk": "priepust",
+    "sl": "prepust",
+    "sv": "en kulvert",
+    "tr": "bir menfez",
+    "uk": "водопропускна труба",
+    "zh": "涵洞"
+  },
+  "verses": [
+    "secondSamuel 5:8:8",
+    "psalms 42:8:5"
+  ]
+}

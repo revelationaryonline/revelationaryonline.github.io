@@ -1,0 +1,42 @@
+{
+  "number": "H2943",
+  "language": "hebrew",
+  "transliteration": "ṭâʻan",
+  "pronunciation": "taw-an'",
+  "definition": "to load a beast",
+  "kjvTranslation": "lade.",
+  "translations": {
+    "bg": "да зареждате звяр",
+    "cs": "naložit zvíře",
+    "da": "at laste et dyr",
+    "de": "ein Tier zu laden",
+    "el": "για να φορτώσετε ένα θηρίο",
+    "es": "cargar una bestia",
+    "et": "looma laadimiseks",
+    "fi": "lastata peto",
+    "fr": "charger une bête",
+    "hu": "egy vadállat megrakodásához",
+    "id": "untuk memuat binatang buas",
+    "it": "per caricare una bestia",
+    "ja": "獣に荷物を積む",
+    "ko": "짐승에 짐을 싣다",
+    "lt": "pakrauti žvėrį",
+    "lv": "ielādēt zvēru",
+    "nb": "for å laste et dyr",
+    "nl": "om een beest te laden",
+    "pl": "aby załadować bestię",
+    "pt": "para carregar uma besta",
+    "ro": "pentru a încărca o bestie",
+    "ru": "зарядить зверя",
+    "sk": "načítať zviera",
+    "sl": "za nalaganje zveri",
+    "sv": "för att lasta en best",
+    "tr": "bir canavarı yüklemek için",
+    "uk": "щоб завантажити звіра",
+    "zh": "装兽"
+  },
+  "hebrew": "טָעַן",
+  "verses": [
+    "genesis 45:17:9"
+  ]
+}

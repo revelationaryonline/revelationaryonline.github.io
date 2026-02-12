@@ -1,0 +1,43 @@
+{
+  "number": "H3393",
+  "language": "hebrew",
+  "transliteration": "yᵉrach",
+  "pronunciation": "yeh-rakh'",
+  "definition": "a month",
+  "kjvTranslation": "month.",
+  "translations": {
+    "bg": "един месец",
+    "cs": "měsíc",
+    "da": "en måned",
+    "de": "einen Monat",
+    "el": "ένα μήνα",
+    "es": "al mes",
+    "et": "kuu",
+    "fi": "kuukausi",
+    "fr": "un mois",
+    "hu": "egy hónap",
+    "id": "sebulan",
+    "it": "un mese",
+    "ja": "ひと月",
+    "ko": "한 달",
+    "lt": "per mėnesį",
+    "lv": "mēnesī",
+    "nb": "en måned",
+    "nl": "een maand",
+    "pl": "miesiąc",
+    "pt": "um mês",
+    "ro": "o lună",
+    "ru": "месяц",
+    "sk": "mesiac",
+    "sl": "mesec dni",
+    "sv": "en månad",
+    "tr": "bir ay",
+    "uk": "на місяць",
+    "zh": "一个月"
+  },
+  "hebrew": "יְרַח",
+  "verses": [
+    "ezra 6:15:6",
+    "daniel 4:26:1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H6864",
+  "language": "hebrew",
+  "transliteration": "tsôr",
+  "pronunciation": "tsore",
+  "definition": "a stone (as if pressed hard or to a point); (by implication, of use) a knife",
+  "kjvTranslation": "flint, sharp stone.",
+  "hebrew": "צֹר",
+  "translations": {
+    "bg": "камък (като притиснат силно или до край); (по подразбиране, за употреба) нож",
+    "cs": "kámen (jako by byl silně stlačen nebo vybroušen); (implicitně, z užití) nůž",
+    "da": "en sten (som om den er presset hårdt eller til en spids); (underforstået, til brug) en kniv",
+    "de": "ein Stein (wie hart oder spitz gepresst); (implizit, für den Gebrauch) ein Messer",
+    "el": "μια πέτρα (σαν να πιέζεται σκληρά ή να φτάνει σε σημείο), (εννοείται, για χρήση) ένα μαχαίρι",
+    "es": "una piedra (como si se presionara con fuerza o hasta una punta); (por implicación, de uso) un cuchillo",
+    "et": "kivi (nagu kõvasti või teravaks pressitud); (kaudselt, kasutamisel) nuga",
+    "fi": "kivi (kovaksi tai kärjeksi painettu); (implisiittisesti, käytön osalta) veitsi",
+    "fr": "une pierre (comme si elle était pressée fortement ou jusqu'à une pointe) ; (par implication, d'utilisation) un couteau",
+    "hu": "kő (mintha keményre vagy hegyesre nyomták volna); (értelemszerűen, a használat során) kés",
+    "id": "batu (seolah-olah ditekan dengan keras atau sampai ke suatu titik); (dengan implikasi, penggunaan) pisau",
+    "it": "una pietra (come se fosse premuta con forza o a punta); (per implicazione, d'uso) un coltello",
+    "ja": "きりいし",
+    "ko": "돌(세게 누르거나 뾰족하게 누른 것처럼); (암시적으로, 사용의 의미) 칼",
+    "lt": "akmuo (tarsi stipriai suspaustas ar įspaustas); (pagal paskirtį) peilis",
+    "lv": "akmeni (it kā stipri vai līdz galam piespiestu); (netieši, lietojot) nazi; (netieši, lietojot) nazi",
+    "nb": "en stein (som om den er presset hardt eller til en spiss); (underforstått, til bruk) en kniv",
+    "nl": "een steen (als hard of tot een punt gedrukt); (impliciet, van gebruik) een mes",
+    "pl": "kamień (jakby mocno wciśnięty lub w szpic); (w domyśle, użytkowy) nóż",
+    "pt": "uma pedra (como se pressionada com força ou até um ponto); (por implicação, de uso) uma faca",
+    "ro": "o piatră (ca și cum ar fi presată tare sau la un punct); (implicit, de utilizare) un cuțit",
+    "ru": "камень (как при сильном нажатии или до острия); (по смыслу, по применению) нож",
+    "sk": "kameň (akoby silno stlačený alebo vybrúsený); (v zmysle použitia) nôž",
+    "sl": "kamen (kot da je močno stisnjen ali naperjen); (implicitno, za uporabo) nož",
+    "sv": "en sten (som om den tryckts hårt eller till en spets); (underförstått, vid användning) en kniv",
+    "tr": "bir taş (sertçe veya bir noktaya bastırılmış gibi); (ima yoluyla, kullanım) bir bıçak",
+    "uk": "камінь (наче сильно притиснутий або притиснутий до точки); (непрямо, про використання) ніж",
+    "zh": "石头；刀子"
+  },
+  "verses": [
+    "exodus 4:25:2",
+    "ezekiel 3:9:2"
+  ]
+}

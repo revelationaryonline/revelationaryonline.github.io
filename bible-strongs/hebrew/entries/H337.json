@@ -1,0 +1,43 @@
+{
+  "number": "H337",
+  "language": "hebrew",
+  "transliteration": "ʼîy",
+  "pronunciation": "ee",
+  "definition": "alas!",
+  "kjvTranslation": "woe.",
+  "translations": {
+    "bg": "уви!",
+    "cs": "bohužel!",
+    "da": "ak og ve!",
+    "de": "ach!",
+    "el": "αλίμονο!",
+    "es": "¡ay!",
+    "et": "paraku!",
+    "fi": "valitettavasti!",
+    "fr": "hélas !",
+    "hu": "sajnos!",
+    "id": "sayang sekali!",
+    "it": "ahimè!",
+    "ja": "残念だ！",
+    "ko": "아아!",
+    "lt": "deja!",
+    "lv": "diemžēl!",
+    "nb": "akk!",
+    "nl": "helaas!",
+    "pl": "niestety!",
+    "pt": "infelizmente!",
+    "ro": "vai!",
+    "ru": "увы!",
+    "sk": "žiaľ!",
+    "sl": "žal!",
+    "sv": "ack!",
+    "tr": "ne yazık ki!",
+    "uk": "на жаль!",
+    "zh": "唉"
+  },
+  "hebrew": "אִי",
+  "verses": [
+    "ecclesiastes 4:10:7",
+    "ecclesiastes 10:16:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2325",
+  "language": "hebrew",
+  "transliteration": "chûwb",
+  "pronunciation": "khoob",
+  "definition": "properly, perhaps to tie, i.e. (figuratively and reflexively) to owe, or (by implication) to forfeit",
+  "kjvTranslation": "make endanger.",
+  "translations": {
+    "bg": "правилно, може би да се обвърже, т.е. (в преносен и рефлексивен смисъл) да се дължи или (по подразбиране) да се изгуби",
+    "cs": "správně snad vázat, tj. (přeneseně a reflexivně) dlužit, nebo (implicitně) propadnout",
+    "da": "korrekt, måske at binde, dvs. (billedligt og refleksivt) at skylde, eller (underforstået) at fortabe",
+    "de": "richtig, vielleicht zu binden, d.h. (bildlich und reflexiv) zu schulden, oder (implizit) zu verfallen",
+    "el": "σωστά, ίσως να δεσμεύω, δηλαδή (μεταφορικά και αντανακλαστικά) να χρωστάω, ή (κατ' επέκταση) να χάνω",
+    "es": "propiamente, tal vez atar, es decir (figurada y reflexivamente) deber, o (implícitamente) perder",
+    "et": "õigesti, ehk siduda, st (piltlikult ja refleksiivselt) võlgu või (kaudselt) kaotama",
+    "fi": "oikein, ehkä sitoa, eli (kuvaannollisesti ja refleksiivisesti) olla velkaa tai (epäsuorasti) menettää",
+    "fr": "proprement, peut-être pour lier, c'est-à-dire (au sens figuré et réflexif) pour devoir, ou (implicitement) pour perdre",
+    "hu": "helyesen, talán kötni, azaz (átvitt értelemben és reflexíven) tartozni, vagy (értelemszerűen) elveszíteni",
+    "id": "dengan benar, mungkin untuk mengikat, yaitu (secara kiasan dan refleks) berhutang, atau (dengan implikasi) kehilangan",
+    "it": "propriamente, forse, legare, cioè (in senso figurato e riflessivo) essere in debito, o (per implicazione) incamerare",
+    "ja": "つまり（比喩的、反射的に）借りを作る、あるいは（暗に）没収する",
+    "ko": "적절하게, 아마도 묶다, 즉 (비유적으로 그리고 반사적으로) 빚을 지다, 또는 (암시 적으로) 몰수하다",
+    "lt": "tinkamai, galbūt surišti, t. y. (perkeltine ir grįžtamąja prasme) būti skolingam arba (netiesiogiai) prarasti",
+    "lv": "pareizi, iespējams, sasaistīt, t.i., (pārnestā un refleksīvā nozīmē) būt parādā vai (netieši) zaudēt",
+    "nb": "egentlig, kanskje å binde, dvs. (billedlig og refleksivt) å skylde, eller (underforstått) å miste",
+    "nl": "goed, misschien vastbinden, d.w.z. (figuurlijk en reflexief) verschuldigd zijn, of (impliciet) verbeuren",
+    "pl": "prawidłowo, być może wiązać, tj. (w przenośni i odruchowo) być winnym lub (w domyśle) przepadać",
+    "pt": "propriamente, talvez amarrar, ou seja (em sentido figurado e reflexivo) dever, ou (implicitamente) perder",
+    "ro": "în mod corespunzător, poate să lege, adică (figurativ și reflexiv) să datoreze sau (implicit) să piardă",
+    "ru": "правильно, возможно, связывать, т.е. (фигурально и рефлекторно) быть обязанным или (по косвенным признакам) конфисковать",
+    "sk": "správne, možno zviazať, t. j. (prenesene a reflexívne) dlhovať alebo (implicitne) prepadnúť",
+    "sl": "pravilno, morda vezati, tj. (v prenesenem pomenu in refleksivno) dolgovati ali (implicitno) izgubiti",
+    "sv": "korrekt, kanske att binda, dvs. (bildligt och reflexivt) att vara skyldig eller (underförstått) att förverka",
+    "tr": "uygun şekilde, belki de bağlamak, yani (mecazi ve refleks olarak) borçlu olmak veya (ima yoluyla) kaybetmek",
+    "uk": "правильно, можливо, зв'язати, тобто (образно і рефлексивно) заборгувати, або (непрямо) втратити",
+    "zh": "正确地说，也许是绑，即（比喻和反身）欠，或（暗示）没收"
+  },
+  "hebrew": "חוּב",
+  "verses": [
+    "daniel 1:10:25"
+  ]
+}

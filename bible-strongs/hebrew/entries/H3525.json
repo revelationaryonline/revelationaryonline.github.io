@@ -1,0 +1,43 @@
+{
+  "number": "H3525",
+  "language": "hebrew",
+  "transliteration": "kebel",
+  "pronunciation": "keh'-bel",
+  "definition": "a fetter",
+  "kjvTranslation": "fetter.",
+  "translations": {
+    "bg": "окови",
+    "cs": "pouta",
+    "da": "en fælde",
+    "de": "eine Fessel",
+    "el": "μια δέστρα",
+    "es": "un grillete",
+    "et": "fikseerija",
+    "fi": "kahlitseminen",
+    "fr": "une entrave",
+    "hu": "egy bilincs",
+    "id": "belenggu",
+    "it": "una pastoia",
+    "ja": "足枷",
+    "ko": "족쇄",
+    "lt": "pančiai",
+    "lv": "važas",
+    "nb": "en lenke",
+    "nl": "een boeien",
+    "pl": "okowy",
+    "pt": "um grilhão",
+    "ro": "un lanț",
+    "ru": "путы",
+    "sk": "putá",
+    "sl": "okov",
+    "sv": "en boja",
+    "tr": "bir pranga",
+    "uk": "кайдани",
+    "zh": "釱"
+  },
+  "hebrew": "כֶּבֶל",
+  "verses": [
+    "psalms 105:18:1",
+    "psalms 149:8:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1678",
+  "language": "hebrew",
+  "transliteration": "dôb",
+  "pronunciation": "dobe",
+  "definition": "{the bear (as slow)}",
+  "kjvTranslation": "bear.",
+  "translations": {
+    "bg": "{мечката (бавно)}",
+    "cs": "{medvěd (jako pomalý)}",
+    "da": "{bjørnen (som langsom)}",
+    "de": "(der Bär (als langsam)}",
+    "el": "{Η αρκούδα (ως αργή)",
+    "es": "{el oso (como lento)}",
+    "et": "{Karu (nagu aeglane)}",
+    "fi": "{Karhu (hidas)",
+    "fr": "{l'ours (comme lent)}",
+    "hu": "{A medve (lassú)",
+    "id": "(beruang (selambat-lambatnya)",
+    "it": "{L'orso (come lento)",
+    "ja": "{クマは（遅い）}。",
+    "ko": "{곰(느린)}",
+    "lt": "{milžinas (kaip lėtas)}",
+    "lv": "{lācis (kā lēns)}",
+    "nb": "{bjørnen (som langsom)}",
+    "nl": "{de beer (als langzaam)}",
+    "pl": "{Niedźwiedź (jako powolny)}",
+    "pt": "{o urso (como lento)",
+    "ro": "{ursul (ca încet)}",
+    "ru": "{медведь (как медленно)}",
+    "sk": "{medveď (ako pomalý)}",
+    "sl": "{medved (počasi)",
+    "sv": "{björnen (som långsam)}",
+    "tr": "{Ayı (yavaş olarak)}",
+    "uk": "{Ведмідь (так само повільно)",
+    "zh": "{fn华文楷体fs121cH0080FFi1}"
+  },
+  "hebrew": "דֹּב",
+  "verses": [
+    "daniel 7:5:5"
+  ]
+}

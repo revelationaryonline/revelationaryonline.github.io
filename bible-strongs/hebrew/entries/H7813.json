@@ -1,0 +1,42 @@
+{
+  "number": "H7813",
+  "language": "hebrew",
+  "transliteration": "sâchûw",
+  "pronunciation": "saw'-khoo",
+  "definition": "a pond (for swimming)",
+  "kjvTranslation": "to swim in.",
+  "hebrew": "שָׂחוּ",
+  "translations": {
+    "bg": "езеро (за плуване)",
+    "cs": "rybník (ke koupání)",
+    "da": "en dam (til at svømme i)",
+    "de": "einen Teich (zum Schwimmen)",
+    "el": "μια λίμνη (για κολύμπι)",
+    "es": "un estanque (para nadar)",
+    "et": "tiik (ujumiseks)",
+    "fi": "lampi (uintia varten)",
+    "fr": "un étang (pour la baignade)",
+    "hu": "egy tó (úszásra)",
+    "id": "kolam (untuk berenang)",
+    "it": "uno stagno (per nuotare)",
+    "ja": "いけ",
+    "ko": "연못(수영용)",
+    "lt": "tvenkinys (maudynėms)",
+    "lv": "dīķis (peldēšanai)",
+    "nb": "en dam (for svømming)",
+    "nl": "een vijver (om in te zwemmen)",
+    "pl": "staw (do pływania)",
+    "pt": "uma lagoa (para nadar)",
+    "ro": "un iaz (pentru înot)",
+    "ru": "пруд (для купания)",
+    "sk": "rybník (na kúpanie)",
+    "sl": "ribnik (za kopanje)",
+    "sv": "en damm (för simning)",
+    "tr": "bir gölet (yüzmek için)",
+    "uk": "ставок (для купання)",
+    "zh": "池塘"
+  },
+  "verses": [
+    "ezekiel 47:5:11"
+  ]
+}

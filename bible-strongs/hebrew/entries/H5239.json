@@ -1,0 +1,42 @@
+{
+  "number": "H5239",
+  "language": "hebrew",
+  "transliteration": "nâlâh",
+  "pronunciation": "naw-law'",
+  "definition": "to complete",
+  "kjvTranslation": "make an end.",
+  "hebrew": "נָלָה",
+  "translations": {
+    "bg": "да завършите",
+    "cs": "dokončit",
+    "da": "for at fuldføre",
+    "de": "zu vervollständigen",
+    "el": "για να ολοκληρωθεί",
+    "es": "para completar",
+    "et": "lõpule viia",
+    "fi": "loppuun",
+    "fr": "pour compléter",
+    "hu": "befejezni",
+    "id": "untuk menyelesaikan",
+    "it": "per completare",
+    "ja": "完了する",
+    "ko": "완료하려면",
+    "lt": "užbaigti",
+    "lv": "pabeigt",
+    "nb": "for å fullføre",
+    "nl": "voltooien",
+    "pl": "zakończyć",
+    "pt": "para completar",
+    "ro": "pentru a finaliza",
+    "ru": "завершить",
+    "sk": "dokončiť",
+    "sl": "za dokončanje",
+    "sv": "för att slutföra",
+    "tr": "tamamlamak için",
+    "uk": "завершити",
+    "zh": "完成"
+  },
+  "verses": [
+    "isaiah 33:1:12"
+  ]
+}

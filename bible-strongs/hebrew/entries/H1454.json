@@ -1,0 +1,42 @@
+{
+  "number": "H1454",
+  "language": "hebrew",
+  "transliteration": "gêh",
+  "pronunciation": "gay",
+  "definition": "this",
+  "kjvTranslation": "this.",
+  "translations": {
+    "bg": "този",
+    "cs": "tento",
+    "da": "dette",
+    "de": "diese",
+    "el": "αυτό το",
+    "es": "este",
+    "et": "see",
+    "fi": "tämä",
+    "fr": "cette",
+    "hu": "ez",
+    "id": "ini",
+    "it": "questo",
+    "ja": "これ",
+    "ko": "이",
+    "lt": "šis",
+    "lv": "šis",
+    "nb": "dette",
+    "nl": "deze",
+    "pl": "to",
+    "pt": "este",
+    "ro": "aceasta",
+    "ru": "это",
+    "sk": "tento",
+    "sl": "ta",
+    "sv": "detta",
+    "tr": "bu",
+    "uk": "це",
+    "zh": "此"
+  },
+  "hebrew": "גֵּה",
+  "verses": [
+    "ezekiel 47:13:4"
+  ]
+}

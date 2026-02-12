@@ -1,0 +1,42 @@
+{
+  "number": "H5888",
+  "language": "hebrew",
+  "transliteration": "ʻâyêph",
+  "pronunciation": "aw-yafe'",
+  "definition": "to languish",
+  "kjvTranslation": "be wearied.",
+  "hebrew": "עָיֵף",
+  "translations": {
+    "bg": "да затъва",
+    "cs": "chřadnout",
+    "da": "at sygne hen",
+    "de": "zu schmachten",
+    "el": "να μαραζώσει",
+    "es": "languidecer",
+    "et": "igatsema",
+    "fi": "kuihtua",
+    "fr": "languir",
+    "hu": "elsorvadni",
+    "id": "untuk merana",
+    "it": "languire",
+    "ja": "なだめる",
+    "ko": "쇠약해지다",
+    "lt": "vargti",
+    "lv": "novārtā",
+    "nb": "å sygne hen",
+    "nl": "wegkwijnen",
+    "pl": "marnieć",
+    "pt": "definhar",
+    "ro": "să lâncezească",
+    "ru": "томиться",
+    "sk": "chradnúť",
+    "sl": "zamujati",
+    "sv": "att försmäkta",
+    "tr": "çürümek",
+    "uk": "знемагати",
+    "zh": "煎熬"
+  },
+  "verses": [
+    "jeremiah 4:31:16"
+  ]
+}

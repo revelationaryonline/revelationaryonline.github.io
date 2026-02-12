@@ -1,0 +1,43 @@
+{
+  "number": "H6029",
+  "language": "hebrew",
+  "transliteration": "ʻânad",
+  "pronunciation": "aw-nad'",
+  "definition": "to lace fast",
+  "kjvTranslation": "bind, tie.",
+  "hebrew": "עָנַד",
+  "translations": {
+    "bg": "да зашивате бързо",
+    "cs": "rychle šněrovat",
+    "da": "at snøre hurtigt",
+    "de": "schnell zu schnüren",
+    "el": "για να δέσετε γρήγορα",
+    "es": "encaje rápido",
+    "et": "kiiresti pitsida",
+    "fi": "nauhoittaa nopeasti",
+    "fr": "à lacer rapidement",
+    "hu": "a gyors fűzéshez",
+    "id": "untuk renda cepat",
+    "it": "per allacciare velocemente",
+    "ja": "レースが速い",
+    "ko": "빠른 레이스",
+    "lt": "greitai susirišti nėrinius",
+    "lv": "ātri mežģīnes",
+    "nb": "å snøre fast",
+    "nl": "om snel te rijgen",
+    "pl": "do szybkiego sznurowania",
+    "pt": "para atar rapidamente",
+    "ro": "pentru a lega rapid",
+    "ru": "быстро зашнуровать",
+    "sk": "rýchlo zašnurovať",
+    "sl": "za hitro zavezovanje čipk",
+    "sv": "att snöra fast",
+    "tr": "hızlı bağlamak için",
+    "uk": "швидко зашнурувати",
+    "zh": "系紧"
+  },
+  "verses": [
+    "job 31:36:5",
+    "proverbs 6:21:4"
+  ]
+}

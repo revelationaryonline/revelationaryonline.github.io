@@ -1,0 +1,42 @@
+{
+  "number": "H6451",
+  "language": "hebrew",
+  "transliteration": "piççâh",
+  "pronunciation": "pis-saw'",
+  "definition": "expansion, i.e. abundance",
+  "kjvTranslation": "handful.",
+  "hebrew": "פִּסָּה",
+  "translations": {
+    "bg": "разширяване, т.е. изобилие",
+    "cs": "expanze, tj. hojnost",
+    "da": "ekspansion, dvs. overflod",
+    "de": "expansion, d.h. Fülle",
+    "el": "επέκταση, δηλαδή αφθονία",
+    "es": "expansión, es decir, abundancia",
+    "et": "laienemine, st arvukus",
+    "fi": "laajeneminen, eli runsaus",
+    "fr": "l'expansion, c'est-à-dire l'abondance",
+    "hu": "terjeszkedés, azaz bőség",
+    "id": "ekspansi, yaitu kelimpahan",
+    "it": "espansione, cioè abbondanza",
+    "ja": "拡大、すなわち豊かさ",
+    "ko": "확장, 즉 풍요로움",
+    "lt": "plėtra, t. y. gausa",
+    "lv": "paplašināšanās, t. i., pārpilnība",
+    "nb": "ekspansjon, dvs. overflod",
+    "nl": "expansie, d.w.z. overvloed",
+    "pl": "ekspansja, tj. obfitość",
+    "pt": "expansão, ou seja, abundância",
+    "ro": "expansiune, adică abundență",
+    "ru": "расширение, т.е. изобилие",
+    "sk": "expanzia, t. j. početnosť",
+    "sl": "razširitev, tj. obilje",
+    "sv": "expansion, d.v.s. överflöd",
+    "tr": "genişleme, yani bolluk",
+    "uk": "експансія, тобто достаток",
+    "zh": "扩展，即丰度"
+  },
+  "verses": [
+    "psalms 72:16:1"
+  ]
+}

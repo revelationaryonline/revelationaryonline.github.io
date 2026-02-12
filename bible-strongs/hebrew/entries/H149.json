@@ -1,0 +1,42 @@
+{
+  "number": "H149",
+  "language": "hebrew",
+  "transliteration": "ʼadrazdâʼ",
+  "pronunciation": "ad-raz-daw'",
+  "definition": "quickly or carefully",
+  "kjvTranslation": "diligently.",
+  "translations": {
+    "bg": "бързо или внимателно",
+    "cs": "rychle nebo opatrně",
+    "da": "hurtigt eller omhyggeligt",
+    "de": "schnell oder sorgfältig",
+    "el": "γρήγορα ή προσεκτικά",
+    "es": "rápida o cuidadosamente",
+    "et": "kiiresti või ettevaatlikult",
+    "fi": "nopeasti tai varovasti",
+    "fr": "rapidement ou prudemment",
+    "hu": "gyorsan vagy óvatosan",
+    "id": "dengan cepat atau hati-hati",
+    "it": "rapidamente o con attenzione",
+    "ja": "てっとりばやく",
+    "ko": "빠르게 또는 신중하게",
+    "lt": "greitai arba atsargiai",
+    "lv": "ātri vai uzmanīgi",
+    "nb": "raskt eller forsiktig",
+    "nl": "snel of voorzichtig",
+    "pl": "szybko lub ostrożnie",
+    "pt": "rapidamente ou com cuidado",
+    "ro": "rapid sau cu atenție",
+    "ru": "быстро или осторожно",
+    "sk": "rýchlo alebo opatrne",
+    "sl": "hitro ali previdno",
+    "sv": "snabbt eller försiktigt",
+    "tr": "hızlı veya dikkatli",
+    "uk": "швидко або обережно",
+    "zh": "或快或慢"
+  },
+  "hebrew": "אַדְרַזְדָּא",
+  "verses": [
+    "ezra 7:23:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3237",
+  "language": "hebrew",
+  "transliteration": "yâmash",
+  "pronunciation": "yaw-mash'",
+  "definition": "to touch",
+  "kjvTranslation": "feel.",
+  "translations": {
+    "bg": "да докосвате",
+    "cs": "dotýkat se",
+    "da": "at røre ved",
+    "de": "zum Anfassen",
+    "el": "να αγγίξει",
+    "es": "tocar",
+    "et": "puudutada",
+    "fi": "koskettaa",
+    "fr": "pour toucher",
+    "hu": "megérinteni",
+    "id": "untuk menyentuh",
+    "it": "toccare",
+    "ja": "触れる",
+    "ko": "터치",
+    "lt": "paliesti",
+    "lv": "pieskarties",
+    "nb": "å ta på",
+    "nl": "aanraken",
+    "pl": "dotykać",
+    "pt": "para tocar",
+    "ro": "pentru a atinge",
+    "ru": "прикасаться",
+    "sk": "dotýkať sa",
+    "sl": "dotakniti se",
+    "sv": "för att röra",
+    "tr": "dokunmak için",
+    "uk": "доторкнутися",
+    "zh": "触摸"
+  },
+  "hebrew": "יָמַשׁ",
+  "verses": [
+    "judges 16:26:8"
+  ]
+}

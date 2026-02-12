@@ -1,0 +1,43 @@
+{
+  "number": "H7809",
+  "language": "hebrew",
+  "transliteration": "shâchad",
+  "pronunciation": "shaw-khad'",
+  "definition": "to donate, i.e. bribe",
+  "kjvTranslation": "hire, give a reward.",
+  "hebrew": "שָׁחַד",
+  "translations": {
+    "bg": "да дарявам, т.е. да давам подкуп",
+    "cs": "darovat, tj. podplatit",
+    "da": "at donere, dvs. bestikke",
+    "de": "zu spenden, d.h. zu bestechen",
+    "el": "να δωρίσετε, δηλαδή να δωροδοκήσετε",
+    "es": "donar, es decir, sobornar",
+    "et": "annetada, st altkäemaksu anda",
+    "fi": "lahjoittaa, eli lahjoa",
+    "fr": "faire un don, c'est-à-dire verser un pot-de-vin",
+    "hu": "adományozni, azaz megvesztegetni",
+    "id": "untuk menyumbang, yaitu menyuap",
+    "it": "donare, ovvero corrompere",
+    "ja": "寄付する、つまり賄賂を贈る",
+    "ko": "기부, 즉 뇌물",
+    "lt": "dovanoti, t. y. duoti kyšį",
+    "lv": "ziedot, t.i., dot kukuli",
+    "nb": "å donere, dvs. bestikke",
+    "nl": "doneren, d.w.z. omkopen",
+    "pl": "darowizna, tj. łapówka",
+    "pt": "doar, ou seja, subornar",
+    "ro": "a dona, adică a mitui",
+    "ru": "пожертвовать, т.е. дать взятку",
+    "sk": "darovať, t. j. podplatiť",
+    "sl": "darovati, tj. podkupovati",
+    "sv": "att donera, d.v.s. muta",
+    "tr": "bağış yapmak, yani rüşvet vermek",
+    "uk": "пожертвувати, тобто дати хабар",
+    "zh": "捐赠，即贿赂"
+  },
+  "verses": [
+    "job 6:22:5",
+    "ezekiel 16:33:10"
+  ]
+}

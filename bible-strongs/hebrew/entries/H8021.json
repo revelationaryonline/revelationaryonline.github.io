@@ -1,0 +1,42 @@
+{
+  "number": "H8021",
+  "language": "hebrew",
+  "transliteration": "shalmôn",
+  "pronunciation": "shal-mone'",
+  "definition": "a bribe",
+  "kjvTranslation": "reward.",
+  "hebrew": "שַׁלְמֹן",
+  "translations": {
+    "bg": "подкуп",
+    "cs": "úplatek",
+    "da": "en bestikkelse",
+    "de": "eine Bestechung",
+    "el": "δωροδοκία",
+    "es": "un soborno",
+    "et": "altkäemaksu",
+    "fi": "lahjus",
+    "fr": "un pot-de-vin",
+    "hu": "kenőpénz",
+    "id": "suap",
+    "it": "una tangente",
+    "ja": "賄賂",
+    "ko": "뇌물",
+    "lt": "kyšis",
+    "lv": "kukuli",
+    "nb": "en bestikkelse",
+    "nl": "smeergeld",
+    "pl": "łapówka",
+    "pt": "um suborno",
+    "ro": "o mită",
+    "ru": "взятка",
+    "sk": "úplatok",
+    "sl": "podkupnina",
+    "sv": "en muta",
+    "tr": "bir rüşvet",
+    "uk": "хабар",
+    "zh": "贿赂"
+  },
+  "verses": [
+    "isaiah 1:23:8"
+  ]
+}

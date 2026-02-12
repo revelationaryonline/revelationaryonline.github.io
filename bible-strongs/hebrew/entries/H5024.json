@@ -1,0 +1,42 @@
+{
+  "number": "H5024",
+  "language": "hebrew",
+  "transliteration": "nâbach",
+  "pronunciation": "naw-bakh'",
+  "definition": "to bark (as a dog)",
+  "kjvTranslation": "bark.",
+  "hebrew": "נָבַח",
+  "translations": {
+    "bg": "да лае (като куче)",
+    "cs": "štěkat (jako pes)",
+    "da": "at gø (som en hund)",
+    "de": "bellen (wie ein Hund)",
+    "el": "να γαβγίζει (σαν σκύλος)",
+    "es": "ladrar (como un perro)",
+    "et": "haukuma (nagu koer)",
+    "fi": "haukkua (kuten koira)",
+    "fr": "aboyer (comme un chien)",
+    "hu": "ugatni (mint egy kutya)",
+    "id": "menggonggong (sebagai anjing)",
+    "it": "abbaiare (come un cane)",
+    "ja": "吠える",
+    "ko": "짖다(개처럼)",
+    "lt": "loti (kaip šuo)",
+    "lv": "laukt (kā suns)",
+    "nb": "å bjeffe (som en hund)",
+    "nl": "blaffen (als een hond)",
+    "pl": "szczekać (jak pies)",
+    "pt": "ladrar (como um cão)",
+    "ro": "să latre (ca un câine)",
+    "ru": "лаять (как собака)",
+    "sk": "štekať (ako pes)",
+    "sl": "lajati (kot pes)",
+    "sv": "att skälla (som en hund)",
+    "tr": "havlamak (bir köpek gibi)",
+    "uk": "гавкати (як собака)",
+    "zh": "吠"
+  },
+  "verses": [
+    "isaiah 56:10:11"
+  ]
+}

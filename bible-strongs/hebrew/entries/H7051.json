@@ -1,0 +1,42 @@
+{
+  "number": "H7051",
+  "language": "hebrew",
+  "transliteration": "qallâʻ",
+  "pronunciation": "kal-law'",
+  "definition": "a slinger",
+  "kjvTranslation": "slinger.",
+  "hebrew": "קַלָּע",
+  "translations": {
+    "bg": "прашкар",
+    "cs": "slinger",
+    "da": "en slynge",
+    "de": "ein Schleuderer",
+    "el": "ένας σφεντόνα",
+    "es": "un hondero",
+    "et": "vedaja",
+    "fi": "slinger",
+    "fr": "un frondeur",
+    "hu": "egy dobógép",
+    "id": "seorang pengayun",
+    "it": "un fromboliere",
+    "ja": "スリンガー",
+    "ko": "슬링거",
+    "lt": "slinger",
+    "lv": "slinger",
+    "nb": "en slynge",
+    "nl": "een slinger",
+    "pl": "procarz",
+    "pt": "um atirador",
+    "ro": "un slinger",
+    "ru": "стропальщик",
+    "sk": "slinger",
+    "sl": "slinger",
+    "sv": "en slungare",
+    "tr": "bir sapancı",
+    "uk": "слінгер",
+    "zh": "吊杆"
+  },
+  "verses": [
+    "secondKings 3:25:23"
+  ]
+}

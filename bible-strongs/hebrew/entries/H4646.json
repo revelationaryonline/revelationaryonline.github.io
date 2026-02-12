@@ -1,0 +1,42 @@
+{
+  "number": "H4646",
+  "language": "hebrew",
+  "transliteration": "mappâch",
+  "pronunciation": "map-pawkh'",
+  "definition": "a breathing out (of life), i.e. expiring",
+  "kjvTranslation": "giving up.",
+  "hebrew": "מַפָּח",
+  "verses": [
+    "job 11:20:7"
+  ],
+  "translations": {
+    "bg": "издишване (на живота), т.е. изтичане",
+    "cs": "vydechnutí (života), tj. vyprchání",
+    "da": "en udånding (af livet), dvs. at uddø",
+    "de": "ein Ausatmen (des Lebens), d.h. ein Erlöschen",
+    "el": "η εκπνοή (της ζωής), δηλαδή η εκπνοή",
+    "es": "una exhalación (de la vida), es decir, expirar",
+    "et": "väljahingamine (elu), st lõppemine",
+    "fi": "(elämän) sammuminen, eli päättyminen",
+    "fr": "l'expiration (de la vie), c'est-à-dire la fin de la vie",
+    "hu": "(élet) kifújása, azaz megszűnése",
+    "id": "menghembuskan nafas terakhir (kehidupan), yaitu berakhir",
+    "it": "un'espirazione (della vita), cioè l'estinzione",
+    "ja": "息絶え",
+    "ko": "(생명의) 숨을 내쉬는 것, 즉 만료되는 것",
+    "lt": "gyvybės iškvėpimas, t. y. išnykimas",
+    "lv": "(dzīves) izelpošana, t. i., izzušana",
+    "nb": "en utpusting (av livet), dvs. å utdø",
+    "nl": "een uitademing (van het leven), d.w.z. verstrijken",
+    "pl": "wygaśnięcie (życia), tj. wygaśnięcie",
+    "pt": "um expirar (da vida), ou seja, expirar",
+    "ro": "o expirație (a vieții), adică expirarea",
+    "ru": "выдох (из жизни), т.е. истечение",
+    "sk": "vydýchnutie (života), t. j. vyprchanie",
+    "sl": "izdihovanje (življenja), tj. iztekanje",
+    "sv": "en utandning (av liv), dvs. att dö ut",
+    "tr": "(yaşamdan) nefes alma, yani sona erme",
+    "uk": "видих (життя), тобто закінчення",
+    "zh": "寿终正寝"
+  }
+}

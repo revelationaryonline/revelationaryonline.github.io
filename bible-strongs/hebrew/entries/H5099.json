@@ -1,0 +1,43 @@
+{
+  "number": "H5099",
+  "language": "hebrew",
+  "transliteration": "naham",
+  "pronunciation": "nah'-ham",
+  "definition": "a snarl",
+  "kjvTranslation": "roaring.",
+  "hebrew": "נַהַם",
+  "translations": {
+    "bg": "ръмжене",
+    "cs": "vrčení",
+    "da": "en snerren",
+    "de": "ein Knurren",
+    "el": "ένα γρύλισμα",
+    "es": "un gruñido",
+    "et": "mürtsatus",
+    "fi": "räksytys",
+    "fr": "un grognement",
+    "hu": "egy vicsorgás",
+    "id": "menggeram",
+    "it": "un ringhio",
+    "ja": "唸り",
+    "ko": "으르렁거림",
+    "lt": "riaumojimas",
+    "lv": "rūkšana",
+    "nb": "et snerr",
+    "nl": "een grom",
+    "pl": "warknięcie",
+    "pt": "um rosnado",
+    "ro": "un mârâit",
+    "ru": "рычание",
+    "sk": "vrčanie",
+    "sl": "ropotanje",
+    "sv": "en morrning",
+    "tr": "bir hırıltı",
+    "uk": "гарчання",
+    "zh": "咆哮"
+  },
+  "verses": [
+    "proverbs 19:12:0",
+    "proverbs 20:2:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7315",
+  "language": "hebrew",
+  "transliteration": "rôwm",
+  "pronunciation": "rome",
+  "definition": "elevation, i.e. (adverbially) aloft",
+  "kjvTranslation": "on high.",
+  "hebrew": "רוֹם",
+  "translations": {
+    "bg": "издигане, т.е. (наречие) нагоре",
+    "cs": "výškový, tj. (příslovečně) vznosný",
+    "da": "højde, dvs. (adverbielt) højt oppe",
+    "de": "höhe, d.h. (adverbial) in der Luft",
+    "el": "ανύψωση, δηλαδή (επιρρηματικά) ψηλά",
+    "es": "elevación, es decir (adverbialmente) en alto",
+    "et": "kõrgus, s.t. (adverbiaalselt) kõrgelennuline",
+    "fi": "kohoaminen, eli (adverbiaalisesti) korkealla",
+    "fr": "l'élévation, c'est-à-dire (adverbialement) l'altitude",
+    "hu": "magasság, azaz (határozószóval) magasan",
+    "id": "ketinggian, yaitu (secara adverbial) tinggi",
+    "it": "elevazione, cioè (in senso avverbiale) in alto",
+    "ja": "上昇",
+    "ko": "고도, 즉 (부사적으로) 높낮이",
+    "lt": "aukštis, t. y. (su prieveiksmine reikšme) aukštai",
+    "lv": "pacēlums, t.i., (apstākļa vārds) augstumā",
+    "nb": "høyde, dvs. (adverbialt) høyt oppe",
+    "nl": "elevatie, d.w.z. (bijwoordelijk) aloft",
+    "pl": "wzniesienie, tj. (przysłówkowo) w górę",
+    "pt": "elevação, ou seja, (adverbialmente) no alto",
+    "ro": "elevație, adică (adverbial) înălțare",
+    "ru": "возвышение, т.е. (наречие) \"крыша",
+    "sk": "vzostup, t. j. (príslovkové) vznášanie sa",
+    "sl": "višina, tj. (prislovno) v višino",
+    "sv": "upphöjd, dvs. (adverbiellt) högt upp",
+    "tr": "yükselme, yani (zarf olarak) havada",
+    "uk": "висота, тобто (прислівниково) вгорі",
+    "zh": "高处"
+  },
+  "verses": [
+    "habakkuk 3:10:9"
+  ]
+}

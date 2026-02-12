@@ -1,0 +1,43 @@
+{
+  "number": "H6638",
+  "language": "hebrew",
+  "transliteration": "tsâbâh",
+  "pronunciation": "tsaw-baw'",
+  "definition": "to amass, i.e. grow turgid; specifically, to array an army against",
+  "kjvTranslation": "fight swell.",
+  "hebrew": "צָבָה",
+  "translations": {
+    "bg": "да се натрупва, т.е. да се разраства; по-конкретно, да се организира армия срещу",
+    "cs": "shromažďovat, tj. zvětšovat se; konkrétně sešikovat armádu proti",
+    "da": "at samle sig, dvs. vokse op; specifikt at opstille en hær mod",
+    "de": "anhäufen, d.h. anschwellen; insbesondere ein Heer aufstellen gegen",
+    "el": "συσσωρεύω, δηλ. διογκώνω- συγκεκριμένα, παρατάσσω έναν στρατό εναντίον",
+    "es": "amontonar, es decir, crecer turgente; en concreto, formar un ejército contra",
+    "et": "koguneda, s.t. paisuda; täpsemalt, koondada armee vastu",
+    "fi": "kasautua, eli kasvaa paisuvaksi; erityisesti, koota armeijaa vastaan",
+    "fr": "s'accumuler, c'est-à-dire se développer ; en particulier, déployer une armée contre une autre",
+    "hu": "felhalmozni, azaz felduzzasztani; különösen egy hadsereg felsorakoztatása ellen",
+    "id": "untuk mengumpulkan, yaitu tumbuh turgid; khususnya, untuk menyusun pasukan untuk melawan",
+    "it": "ammassare, cioè far crescere il turgore; nello specifico, schierare un esercito contro",
+    "ja": "を集めること、すなわち、徒長させること；具体的には、軍隊を整列させて対抗すること。",
+    "ko": "모이다, 즉 거칠어지다; 특히 군대를 배치하다",
+    "lt": "kaupti, t. y. didėti; konkrečiai, sutelkti kariuomenę prieš",
+    "lv": "sakopot, t.i., uzkrāt, t.i., palielināties; īpaši, sakārtot armiju pret",
+    "nb": "å samle, dvs. vokse seg svulmende; spesielt å samle en hær mot",
+    "nl": "verzamelen, d.w.z. opzwellen; specifiek, een leger opstellen tegen",
+    "pl": "gromadzić się, tj. rosnąć w siłę; w szczególności ustawiać armię przeciwko",
+    "pt": "acumular, isto é, tornarse túrgido; especificamente, armar um exército contra",
+    "ro": "a aduna, adică a se înmulți; în special, a alinia o armată împotriva",
+    "ru": "накапливаться, т.е. расти; в частности, формировать армию против",
+    "sk": "zhromažďovať, t. j. zväčšovať sa; konkrétne, postaviť armádu proti",
+    "sl": "zbrati, tj. povečati moč; natančneje, sestaviti vojsko proti",
+    "sv": "att samla, dvs. växa till sig; särskilt att ställa upp en armé mot",
+    "tr": "yığmak, yani büyümek; özellikle, bir orduyu karşı tarafa dizmek",
+    "uk": "накопичуватися, тобто ставати пухким; зокрема, збирати армію проти",
+    "zh": "集结，即壮大；具体地说，排列军队对抗"
+  },
+  "verses": [
+    "numbers 5:22:5",
+    "numbers 5:27:14"
+  ]
+}

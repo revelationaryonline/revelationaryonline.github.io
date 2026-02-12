@@ -1,0 +1,42 @@
+{
+  "number": "H4593",
+  "language": "hebrew",
+  "transliteration": "mâʻôṭ",
+  "pronunciation": "maw-ote'",
+  "definition": "thinned (as to the edge), i.e. sharp",
+  "kjvTranslation": "wrapped up.",
+  "hebrew": "מָעֹט",
+  "verses": [
+    "ezekiel 21:20:14"
+  ],
+  "translations": {
+    "bg": "изтънен (до ръба), т.е. остър",
+    "cs": "ztenčené (až k okraji), tj. ostré",
+    "da": "udtyndet (til kanten), dvs. skarp",
+    "de": "ausgedünnt (bis zum Rand), d.h. scharf",
+    "el": "αραιωμένο (ως προς την άκρη), δηλαδή αιχμηρό",
+    "es": "adelgazado (en cuanto al borde), es decir, afilado",
+    "et": "õhendatud (serva suhtes), s.t. teravad",
+    "fi": "ohennettu (reunoiltaan), eli terävä",
+    "fr": "aminci (au niveau du bord), c'est-à-dire tranchant",
+    "hu": "elvékonyított (a szélét tekintve), azaz éles",
+    "id": "menipis (seperti ke tepi), yaitu tajam",
+    "it": "assottigliato (fino all'orlo), cioè tagliente",
+    "ja": "鋭角的",
+    "ko": "얇아짐 (가장자리), 즉 날카로움",
+    "lt": "plonas (krašto atžvilgiu), t. y. aštrus",
+    "lv": "plānas (līdz malai), t. i., asas",
+    "nb": "tynnet (til kanten), dvs. skarp",
+    "nl": "uitgedund (als aan de rand), d.w.z. scherp",
+    "pl": "przerzedzony (co do krawędzi), tj. ostry",
+    "pt": "afilado (quanto ao bordo), ou seja, aguçado",
+    "ro": "subțiat (la margine), adică ascuțit",
+    "ru": "истонченный (по краю), т.е. острый",
+    "sk": "zúžené (až po okraj), t. j. ostré",
+    "sl": "tanjši (do roba), tj. oster",
+    "sv": "tunnare (till kanten), d.v.s. vass",
+    "tr": "inceltilmiş (kenara doğru), yani keskin",
+    "uk": "стоншений (до краю), тобто гострий",
+    "zh": "削薄，即锋利"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1567",
+  "language": "hebrew",
+  "transliteration": "Galʻêd",
+  "pronunciation": "gal-ade'",
+  "definition": "Galed, a memorial cairn East of the Jordan",
+  "kjvTranslation": "Galeed.",
+  "translations": {
+    "bg": "Галед, възпоменателна могила на изток от Йордан",
+    "cs": "Galed, pamětní mohyla východně od Jordánu",
+    "da": "Galed, en mindevarde øst for Jordan",
+    "de": "Galed, ein Gedenkstein östlich des Jordans",
+    "el": "Galed, ένας μνημειακός σωρός ανατολικά του Ιορδάνη",
+    "es": "Galed, un mojón conmemorativo al este del Jordán",
+    "et": "Galed, mälestuskivi Jordani jõest ida pool",
+    "fi": "Galed, muistokivi Jordanin itäpuolella",
+    "fr": "Galed, un cairn commémoratif à l'est du Jourdain",
+    "hu": "Galed, egy emlékmű a Jordántól keletre",
+    "id": "Galed, sebuah tugu peringatan di sebelah timur Sungai Yordan",
+    "it": "Galed, un tumulo commemorativo ad est del Giordano",
+    "ja": "ガレド、ヨルダン東部の記念ケルン",
+    "ko": "요르단 동쪽의 기념 케른, 갈레드",
+    "lt": "Galedas, paminklinis kalnelis į rytus nuo Jordano",
+    "lv": "Galed, piemiņas kapulauks uz austrumiem no Jordānas",
+    "nb": "Galed, en minnestein øst for Jordan",
+    "nl": "Galed, een gedenksteen ten oosten van de Jordaan",
+    "pl": "Galed, kopiec pamięci na wschód od Jordanu",
+    "pt": "Galed, um monte de pedras memorial a leste do Jordão",
+    "ro": "Galed, un cairn memorial la est de Iordan",
+    "ru": "Галед, памятный кирн к востоку от Иордана",
+    "sk": "Galed, pamätná mohyla východne od Jordánu",
+    "sl": "Galed, spominsko obeležje vzhodno od Jordana",
+    "sv": "Galed, ett minnesröse öster om Jordanfloden",
+    "tr": "Galed, Ürdün'ün doğusunda bir anma çukuru",
+    "uk": "Галед, меморіальний камінь на схід від Йордану",
+    "zh": "加莱德，约旦河东的一座纪念碑"
+  },
+  "hebrew": "גַּלְעֵד",
+  "verses": [
+    "genesis 31:47:8",
+    "genesis 31:48:12"
+  ]
+}

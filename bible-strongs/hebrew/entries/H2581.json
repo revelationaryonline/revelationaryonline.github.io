@@ -1,0 +1,42 @@
+{
+  "number": "H2581",
+  "language": "hebrew",
+  "transliteration": "Chên",
+  "pronunciation": "khane",
+  "definition": "Chen, a figurative name for an Israelite",
+  "kjvTranslation": "Hen.",
+  "translations": {
+    "bg": "Чен - преносно име на израилтянин",
+    "cs": "Chen, obrazné jméno pro Izraelce",
+    "da": "Chen, et billedligt navn for en israelit",
+    "de": "Chen, ein bildlicher Name für einen Israeliten",
+    "el": "Chen, ένα μεταφορικό όνομα για έναν Ισραηλίτη",
+    "es": "Chen, nombre figurado de un israelita",
+    "et": "Chen, iisraellase kujundlik nimi",
+    "fi": "Chen, kuvaannollinen nimi israelilaiselle",
+    "fr": "Chen, nom figuré d'un Israélite",
+    "hu": "Chen, egy izraelita képletes neve",
+    "id": "Chen, nama kiasan untuk orang Israel",
+    "it": "Chen, nome figurato di un israelita",
+    "ja": "チェン、イスラエル人の比喩的な名前",
+    "ko": "첸, 이스라엘인을 비유적으로 이르는 이름",
+    "lt": "Chen - vaizdingas izraelito vardas",
+    "lv": "Chen - tēlains izraēliešu vārds",
+    "nb": "Chen, et billedlig navn på en israelitt",
+    "nl": "Chen, een figuurlijke naam voor een Israëliet",
+    "pl": "Chen, przenośne imię Izraelity",
+    "pt": "Chen, nome figurativo de um israelita",
+    "ro": "Chen, un nume figurat pentru un israelit",
+    "ru": "Чен - образное название израильтянина",
+    "sk": "Chen, obrazné meno pre Izraelitu",
+    "sl": "Chen, figurativno ime za Izraelca",
+    "sv": "Chen, ett bildligt namn för en israelit",
+    "tr": "Chen, bir İsrailli için mecazi bir isim",
+    "uk": "Чен - образне ім'я ізраїльтянина",
+    "zh": "陈，一个以色列人的绰号"
+  },
+  "hebrew": "חֵן",
+  "verses": [
+    "zechariah 6:14:5"
+  ]
+}

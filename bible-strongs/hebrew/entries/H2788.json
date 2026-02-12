@@ -1,0 +1,42 @@
+{
+  "number": "H2788",
+  "language": "hebrew",
+  "transliteration": "chârêr",
+  "pronunciation": "khaw-rare'",
+  "definition": "arid",
+  "kjvTranslation": "parched place.",
+  "translations": {
+    "bg": "сух",
+    "cs": "arid",
+    "da": "tør",
+    "de": "arid",
+    "el": "άγονη",
+    "es": "árido",
+    "et": "arid",
+    "fi": "kuivaa",
+    "fr": "aride",
+    "hu": "száraz",
+    "id": "gersang",
+    "it": "arido",
+    "ja": "乾燥",
+    "ko": "arid",
+    "lt": "sausringas",
+    "lv": "arid",
+    "nb": "tørt",
+    "nl": "dor",
+    "pl": "jałowy",
+    "pt": "árido",
+    "ro": "aride",
+    "ru": "засушливый",
+    "sk": "vyprahnutá",
+    "sl": "suha",
+    "sv": "torrt",
+    "tr": "kurak",
+    "uk": "сухий",
+    "zh": "旱地"
+  },
+  "hebrew": "חָרֵר",
+  "verses": [
+    "jeremiah 17:6:9"
+  ]
+}

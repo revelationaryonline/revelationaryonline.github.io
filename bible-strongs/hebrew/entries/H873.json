@@ -1,0 +1,43 @@
+{
+  "number": "H873",
+  "language": "hebrew",
+  "transliteration": "biʼûwsh",
+  "pronunciation": "be-oosh'",
+  "definition": "wicked",
+  "kjvTranslation": "bad.",
+  "translations": {
+    "bg": "зъл",
+    "cs": "wicked",
+    "da": "ondskabsfuld",
+    "de": "böse",
+    "el": "wicked",
+    "es": "malvado",
+    "et": "kuri",
+    "fi": "wicked",
+    "fr": "méchant",
+    "hu": "gonosz",
+    "id": "jahat",
+    "it": "malvagio",
+    "ja": "邪悪",
+    "ko": "wicked",
+    "lt": "piktas",
+    "lv": "ļaunais",
+    "nb": "ondskapsfull",
+    "nl": "verdorven",
+    "pl": "zły",
+    "pt": "perverso",
+    "ro": "rău",
+    "ru": "злой",
+    "sk": "wicked",
+    "sl": "wicked",
+    "sv": "ondskefull",
+    "tr": "kötü",
+    "uk": "нечестивий",
+    "zh": "恶人"
+  },
+  "hebrew": "בִּאוּשׁ",
+  "verses": [
+    "ezra 4:12:14",
+    "ezra 4:12:15"
+  ]
+}

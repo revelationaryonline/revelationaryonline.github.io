@@ -1,0 +1,43 @@
+{
+  "number": "H4391",
+  "language": "hebrew",
+  "transliteration": "mᵉlâʼ",
+  "pronunciation": "mel-aw'",
+  "definition": "to fill",
+  "kjvTranslation": "fill, be full.",
+  "hebrew": "מְלָא",
+  "translations": {
+    "bg": "да запълни",
+    "cs": "vyplnit",
+    "da": "til at fylde",
+    "de": "zu füllen",
+    "el": "για να γεμίσει",
+    "es": "llenar",
+    "et": "täita",
+    "fi": "täyttämään",
+    "fr": "à remplir",
+    "hu": "kitölteni",
+    "id": "untuk mengisi",
+    "it": "per riempire",
+    "ja": "埋める",
+    "ko": "채우려면",
+    "lt": "užpildyti",
+    "lv": "aizpildīt",
+    "nb": "for å fylle",
+    "nl": "vullen",
+    "pl": "do wypełnienia",
+    "pt": "para preencher",
+    "ro": "pentru a umple",
+    "ru": "заполнять",
+    "sk": "na vyplnenie",
+    "sl": "za polnjenje",
+    "sv": "att fylla",
+    "tr": "doldurmak için",
+    "uk": "щоб заповнити",
+    "zh": "填补"
+  },
+  "verses": [
+    "daniel 2:35:28",
+    "daniel 3:19:2"
+  ]
+}

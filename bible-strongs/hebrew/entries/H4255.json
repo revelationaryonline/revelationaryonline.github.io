@@ -1,0 +1,42 @@
+{
+  "number": "H4255",
+  "language": "hebrew",
+  "transliteration": "machlᵉqâh",
+  "pronunciation": "makh-lek-aw'",
+  "definition": "a section (of the Levites)",
+  "kjvTranslation": "course.",
+  "hebrew": "מַחְלְקָה",
+  "translations": {
+    "bg": "една част (от левитите)",
+    "cs": "oddíl (levitů)",
+    "da": "en afdeling (af levitterne)",
+    "de": "eine Abteilung (der Leviten)",
+    "el": "ένα τμήμα (των Λευιτών)",
+    "es": "una sección (de los levitas)",
+    "et": "osa (leviitidest)",
+    "fi": "osa (leeviläisistä)",
+    "fr": "une section (des Lévites)",
+    "hu": "egy rész (a léviták)",
+    "id": "satu bagian (dari suku Lewi)",
+    "it": "una sezione (dei Leviti)",
+    "ja": "レビ人の一団",
+    "ko": "(레위인의) 섹션",
+    "lt": "dalis (levitų)",
+    "lv": "daļa (no levītiem)",
+    "nb": "en avdeling (av levittene)",
+    "nl": "een afdeling (van de Levieten)",
+    "pl": "sekcja (Lewitów)",
+    "pt": "uma secção (dos levitas)",
+    "ro": "o parte (din leviți)",
+    "ru": "часть (левитов)",
+    "sk": "časť (levitov)",
+    "sl": "del (levitov)",
+    "sv": "en avdelning (av leviterna)",
+    "tr": "(Levililerin) bir bölümü",
+    "uk": "відділ (левітів)",
+    "zh": "利未人的一部分"
+  },
+  "verses": [
+    "ezra 6:18:4"
+  ]
+}

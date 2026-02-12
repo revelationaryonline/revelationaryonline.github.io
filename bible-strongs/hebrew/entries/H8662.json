@@ -1,0 +1,42 @@
+{
+  "number": "H8662",
+  "language": "hebrew",
+  "transliteration": "Tartâq",
+  "pronunciation": "tar-tawk'",
+  "definition": "Tartak, a deity of the Avvites",
+  "kjvTranslation": "Tartak.",
+  "hebrew": "תַּרְתָּק",
+  "translations": {
+    "bg": "Тартак, божество на авитите",
+    "cs": "Tartak, božstvo Avvitů",
+    "da": "Tartak, en guddom hos avvitterne",
+    "de": "Tartak, eine Gottheit der Avviten",
+    "el": "Tartak, μια θεότητα των Avvites",
+    "es": "Tartak, deidad de los Avvitas",
+    "et": "Tartak, avvitide jumalus",
+    "fi": "Tartak, avviittien jumaluus",
+    "fr": "Tartak, divinité des Avvites",
+    "hu": "Tartak, az avviták istensége",
+    "id": "Tartak, dewa bangsa Avvites",
+    "it": "Tartak, divinità degli Avviti",
+    "ja": "タルタク、アヴバイトの神",
+    "ko": "아비이트의 신, 타르타크",
+    "lt": "Tartakas, avitų dievybė",
+    "lv": "Tartaks, avītu dievība",
+    "nb": "Tartak, en guddom hos avvittene",
+    "nl": "Tartak, een godheid van de Avvieten",
+    "pl": "Tartak, bóstwo Awitów",
+    "pt": "Tartak, uma divindade dos Avvitas",
+    "ro": "Tartak, o zeitate a Avviților",
+    "ru": "Тартак, божество аввитов",
+    "sk": "Tartak, božstvo Avvitov",
+    "sl": "Tartak, božanstvo Avvitov",
+    "sv": "Tartak, en gud hos avviterna",
+    "tr": "Tartak, Avvitlerin bir tanrısı",
+    "uk": "Тартак, божество аввитів",
+    "zh": "塔尔塔克"
+  },
+  "verses": [
+    "secondKings 17:31:4"
+  ]
+}

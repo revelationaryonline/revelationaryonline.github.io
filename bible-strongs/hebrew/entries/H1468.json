@@ -1,0 +1,43 @@
+{
+  "number": "H1468",
+  "language": "hebrew",
+  "transliteration": "gûwz",
+  "pronunciation": "gooz",
+  "definition": "properly, to shear off; but used only in the (figuratively) sense of passing rapidly",
+  "kjvTranslation": "bring, cut off.",
+  "translations": {
+    "bg": "правилно, срязвам; но се използва само в преносен смисъл за бързо преминаване",
+    "cs": "správně střihnout, ale používá se pouze ve významu (přeneseně) rychle projít",
+    "da": "korrekt, at klippe af; men bruges kun i (overført) betydning af at passere hurtigt",
+    "de": "richtig: abschneiden; aber nur im (übertragenen) Sinne des schnellen Vorbeiziehens verwendet",
+    "el": "σωστά, αποκόπτω, αλλά χρησιμοποιείται μόνο με την (μεταφορική) έννοια του γρήγορου περάσματος",
+    "es": "propiamente, cortar; pero usado sólo en el sentido (figurado) de pasar rápidamente",
+    "et": "õigesti, ära lõigata; kuid kasutatakse ainult (ülekantud tähenduses) kiiresti möödumise tähenduses",
+    "fi": "oikein, katkaista; mutta käytetään vain (kuvaannollisesti) nopeasti kulkevassa merkityksessä",
+    "fr": "proprement, cisailler ; mais utilisé uniquement dans le sens (figuré) de passer rapidement",
+    "hu": "helyesen: levágni; de csak (átvitt értelemben) a gyors elmúlás értelmében használatos",
+    "id": "benar, untuk memotong; tetapi hanya digunakan dalam arti (kiasan) melewati dengan cepat",
+    "it": "propriamente, tagliare; ma usato solo nel senso (figurato) di passare rapidamente",
+    "ja": "正しくは「切り離す」だが、（比喩的に）急速に通り過ぎるという意味でのみ使われる。",
+    "ko": "적절하게, 깎다; 그러나 (비유적으로) 빠르게 지나간다는 의미로만 사용됩니다",
+    "lt": "taisyklingai - nupjauti, bet vartojamas tik (perkeltine prasme) kaip greitai praeinantis",
+    "lv": "pareizi - nogriezt, bet tiek lietots tikai (pārnestā) nozīmē - strauji pāriet",
+    "nb": "egentlig, å skjære av; men brukes bare i betydningen (i overført betydning) å passere raskt",
+    "nl": "naar behoren, afschuiven; maar alleen gebruikt in de (figuurlijke) betekenis van snel passeren",
+    "pl": "prawidłowo, odciąć; ale używane tylko w (przenośnym) znaczeniu szybkiego przejścia",
+    "pt": "propriamente, cortar; mas usado apenas no sentido (figurado) de passar rapidamente",
+    "ro": "propriu-zis, a tăia; dar folosit numai în sensul (figurat) de a trece rapid",
+    "ru": "правильно, срезать; но используется только в (переносном) значении быстро проходить",
+    "sk": "správne strihať, ale používa sa len v prenesenom význame rýchlo prechádzať",
+    "sl": "pravilno, odrezati, vendar se uporablja le v (prenesenem) pomenu hitrega prehajanja",
+    "sv": "korrekt, att klippa av; men används endast i (bildlig) mening av att passera snabbt",
+    "tr": "doğru olarak, kesip koparmak; ancak sadece (mecazi olarak) hızla geçmek anlamında kullanılır",
+    "uk": "власне, зрізати; але вживається лише в (переносному) значенні швидко проходити",
+    "zh": "剪断；但仅用于（比喻）快速通过的意思"
+  },
+  "hebrew": "גּוּז",
+  "verses": [
+    "numbers 11:31:4",
+    "psalms 90:10:13"
+  ]
+}

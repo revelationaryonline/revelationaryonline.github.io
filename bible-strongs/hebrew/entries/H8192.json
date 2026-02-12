@@ -1,0 +1,43 @@
+{
+  "number": "H8192",
+  "language": "hebrew",
+  "transliteration": "shâphâh",
+  "pronunciation": "shaw-faw'",
+  "definition": "to abrade, i.e. bare",
+  "kjvTranslation": "high, stick out.",
+  "hebrew": "שָׁפָה",
+  "translations": {
+    "bg": "да се изтърка, т.е. да се оголи",
+    "cs": "obrušovat, tj. obnažovat",
+    "da": "at slibe, dvs. blotte",
+    "de": "abschleifen, d.h. entblößen",
+    "el": "να γδέρνω, δηλαδή να απογυμνώνω",
+    "es": "desgastar, es decir, desnudar",
+    "et": "hõõruda, s.t. paljastada",
+    "fi": "hioa, eli paljastaa",
+    "fr": "abraser, c'est-à-dire mettre à nu",
+    "hu": "lecsiszolni, azaz lecsupaszítani",
+    "id": "untuk mengikis, yaitu telanjang",
+    "it": "abradere, cioè spogliare",
+    "ja": "磨り減らす",
+    "ko": "마모하다, 즉 맨손으로",
+    "lt": "nudažyti, t. y. apnuoginti",
+    "lv": "noslīpēt, t.i., atkailināt",
+    "nb": "å slipe, dvs. blottlegge",
+    "nl": "schuren, d.w.z. kaalmaken",
+    "pl": "ścierać, tj. obnażać",
+    "pt": "esfolar, ou seja, desnudar",
+    "ro": "a abrada, adică a dezbrăca",
+    "ru": "стирать, т.е. обнажать",
+    "sk": "obrusovať, t. j. obnažovať",
+    "sl": "obrusiti, tj. razgaliti",
+    "sv": "slipa, d.v.s. blottlägga",
+    "tr": "aşındırmak, yani çıplak bırakmak",
+    "uk": "шліфувати, тобто оголювати",
+    "zh": "磨损，即裸露"
+  },
+  "verses": [
+    "job 33:21:4",
+    "isaiah 13:2:2"
+  ]
+}

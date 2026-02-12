@@ -1,0 +1,43 @@
+{
+  "number": "H8376",
+  "language": "hebrew",
+  "transliteration": "tâʼâh",
+  "pronunciation": "taw-aw'",
+  "definition": "to mark off, i.e. (intensively) designate",
+  "kjvTranslation": "point out.",
+  "hebrew": "תָּאָה",
+  "translations": {
+    "bg": "да се отметне, т.е. (интензивно) да се обозначи",
+    "cs": "označovat, tj. (intenzivně) označovat",
+    "da": "at markere, dvs. (intensivt) udpege",
+    "de": "abgrenzen, d.h. (intensiv) bezeichnen",
+    "el": "να επισημάνω, δηλαδή (εντατικά) να ορίσω",
+    "es": "delimitar, es decir, designar (intensivamente)",
+    "et": "ära tähistada, st (intensiivselt) tähistada",
+    "fi": "merkitä, eli (intensiivisesti) nimetä",
+    "fr": "marquer, c'est-à-dire désigner (intensivement)",
+    "hu": "megjelölni, azaz (intenzíven) kijelölni",
+    "id": "untuk menandai, yaitu (secara intensif) menunjuk",
+    "it": "delimitare, cioè (intensamente) designare",
+    "ja": "マークする、つまり（集中的に）指定する",
+    "ko": "표시, 즉 (집중적으로) 지정하려면",
+    "lt": "pažymėti, t. y. (intensyviai) skirti",
+    "lv": "norobežot, t.i., (intensīvi) apzīmēt",
+    "nb": "å markere, dvs. (intensivt) utpeke",
+    "nl": "afzetten, d.w.z. (intensief) aanwijzen",
+    "pl": "oznaczać, tj. (intensywnie) wyznaczać",
+    "pt": "marcar, ou seja, designar (intensivamente)",
+    "ro": "a marca, adică (intensiv) a desemna",
+    "ru": "отмечать, т.е. (интенсивно) обозначать",
+    "sk": "označiť, t. j. (intenzívne) označiť",
+    "sl": "označiti, tj. (intenzivno) označiti",
+    "sv": "att markera, dvs. (intensivt) utse",
+    "tr": "işaretlemek, yani (yoğun bir şekilde) belirlemek",
+    "uk": "відмічати, тобто (інтенсивно) позначати",
+    "zh": "划定，即（集中）指定"
+  },
+  "verses": [
+    "numbers 34:7:8",
+    "numbers 34:8:2"
+  ]
+}

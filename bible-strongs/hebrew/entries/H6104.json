@@ -1,0 +1,42 @@
+{
+  "number": "H6104",
+  "language": "hebrew",
+  "transliteration": "ʻatslûwth",
+  "pronunciation": "ats-looth'",
+  "definition": "indolence",
+  "kjvTranslation": "idleness.",
+  "hebrew": "עַצְלוּת",
+  "translations": {
+    "bg": "нехайство",
+    "cs": "indolence",
+    "da": "indolence",
+    "de": "indolenz",
+    "el": "νωθρότητα",
+    "es": "indolencia",
+    "et": "saamatus",
+    "fi": "velttous",
+    "fr": "indolence",
+    "hu": "indolence",
+    "id": "kemalasan",
+    "it": "indolenza",
+    "ja": "ぶしょう",
+    "ko": "나태함",
+    "lt": "nevalyvumas",
+    "lv": "bezdarbība",
+    "nb": "sløvhet",
+    "nl": "indolentie",
+    "pl": "indolencja",
+    "pt": "indolência",
+    "ro": "indolență",
+    "ru": "безделье",
+    "sk": "indolencia",
+    "sl": "nedejavnost",
+    "sv": "lättja",
+    "tr": "tembellik",
+    "uk": "лінощі",
+    "zh": "怠惰"
+  },
+  "verses": [
+    "proverbs 31:27:4"
+  ]
+}

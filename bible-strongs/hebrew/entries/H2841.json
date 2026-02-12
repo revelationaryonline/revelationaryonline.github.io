@@ -1,0 +1,42 @@
+{
+  "number": "H2841",
+  "language": "hebrew",
+  "transliteration": "chashrâh",
+  "pronunciation": "khash-raw'",
+  "definition": "properly, a combination or gathering, i.e. of watery clouds",
+  "kjvTranslation": "dark.",
+  "translations": {
+    "bg": "правилно, комбинация или събиране, напр. на водни облаци",
+    "cs": "správně kombinace nebo shromáždění, tj. vodních mraků",
+    "da": "korrekt, en kombination eller samling, f.eks. af vandige skyer",
+    "de": "richtig, eine Kombination oder Ansammlung, z.B. von Wasserwolken",
+    "el": "κατάλληλα, ένας συνδυασμός ή μια συγκέντρωση, π.χ. από υδαρή σύννεφα",
+    "es": "propiamente, una combinación o reunión, es decir, de nubes acuosas",
+    "et": "õigesti, kombinatsioon või kogunemine, s.t. vesipilvedest",
+    "fi": "oikein, yhdistelmä tai kokoontuminen, esim. vesipilviä",
+    "fr": "proprement, une combinaison ou un rassemblement, par exemple de nuages aqueux",
+    "hu": "megfelelően, egy kombináció vagy gyülekezés, pl. vizes felhőkből álló felhők",
+    "id": "dengan benar, kombinasi atau kumpulan, yaitu awan berair",
+    "it": "propriamente, una combinazione o un assembramento, per esempio di nubi acquose",
+    "ja": "正しくは、水のような雲の組み合わせや集まり",
+    "ko": "적절하게는 물구름의 조합 또는 집합을 의미합니다",
+    "lt": "tinkamai, derinys arba susitelkimas, t. y. vandeningų debesų",
+    "lv": "pareizi, kombinācija vai pulcēšanās, t.i., ūdens mākoņu apvienojums",
+    "nb": "egentlig, en kombinasjon eller samling, f.eks. av vannholdige skyer",
+    "nl": "goed, een combinatie of verzameling, d.w.z. van waterige wolken",
+    "pl": "prawidłowo, połączenie lub zgromadzenie, np. wodnistych chmur",
+    "pt": "propriamente dito, uma combinação ou reunião, isto é, de nuvens aquosas",
+    "ro": "în mod corespunzător, o combinație sau o adunare, de exemplu, de nori apoși",
+    "ru": "правильно, сочетание или скопление, например, водянистых облаков",
+    "sk": "správne, kombinácia alebo zhromaždenie, t. j. vodných oblakov",
+    "sl": "pravilno, kombinacija ali skupek, npr. vodnih oblakov",
+    "sv": "en kombination eller ansamling, t.ex. av vattenmoln",
+    "tr": "düzgün bir şekilde, bir kombinasyon veya toplanma, örneğin sulu bulutlar",
+    "uk": "власне, поєднання або скупчення, тобто водянистих хмар",
+    "zh": "正确地说，是一种组合或聚集，即水云的组合或聚集"
+  },
+  "hebrew": "חַשְׁרָה",
+  "verses": [
+    "secondSamuel 22:12:4"
+  ]
+}

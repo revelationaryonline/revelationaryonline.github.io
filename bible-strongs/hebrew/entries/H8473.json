@@ -1,0 +1,43 @@
+{
+  "number": "H8473",
+  "language": "hebrew",
+  "transliteration": "tachărâʼ",
+  "pronunciation": "takh-ar-aw'",
+  "definition": "a linen corslet (as white or hollow)",
+  "kjvTranslation": "habergeon.",
+  "hebrew": "תַּחֲרָא",
+  "translations": {
+    "bg": "ленен корсаж (бял или кух)",
+    "cs": "plátěný korzet (bílý nebo dutý)",
+    "da": "et hørkorset (som hvidt eller hult)",
+    "de": "ein Leinenkorsett (als weißes oder hohles Mieder)",
+    "el": "ένα λινό κορσέ (λευκό ή κούφιο)",
+    "es": "un corsé de lino (como blanco o hueco)",
+    "et": "linane korsett (valge või õõnes)",
+    "fi": "pellavakorsetti (valkoinen tai ontto)",
+    "fr": "un corset en lin (blanc ou creux)",
+    "hu": "egy vászon fűző (fehér vagy üreges)",
+    "id": "korslet linen (berwarna putih atau berongga)",
+    "it": "un corpetto di lino (bianco o bianco-canapa)",
+    "ja": "リネンのコルセット（白または中空）",
+    "ko": "린넨 코르셋(흰색 또는 속이 비어 있는 것)",
+    "lt": "lininis korsetas (baltas arba tuščiaviduris)",
+    "lv": "lina korsetes (baltas vai dobas)",
+    "nb": "et korsett av lin (som hvitt eller hult)",
+    "nl": "een linnen korset (als wit of hol)",
+    "pl": "lniany gorset (biały lub pusty)",
+    "pt": "um corpete de linho (branco ou oco)",
+    "ro": "o corsetă din in (albă sau goală)",
+    "ru": "льняной корсет (белый или полый)",
+    "sk": "ľanový korzet (biely alebo dutý)",
+    "sl": "platneni korzet (bel ali votel)",
+    "sv": "en korsett av linne (vit eller ihålig)",
+    "tr": "keten bir korse (beyaz veya içi boş olarak)",
+    "uk": "лляний корсет (білий або порожнистий)",
+    "zh": "白色或镂空的亚麻胸衣"
+  },
+  "verses": [
+    "exodus 28:32:11",
+    "exodus 39:23:4"
+  ]
+}

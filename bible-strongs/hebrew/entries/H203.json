@@ -1,0 +1,42 @@
+{
+  "number": "H203",
+  "language": "hebrew",
+  "transliteration": "ʼÔwn",
+  "pronunciation": "one",
+  "definition": "On, an Israelite",
+  "kjvTranslation": "On.",
+  "translations": {
+    "bg": "Он, израилтянин",
+    "cs": "On, Izraelita",
+    "da": "On, en israelit",
+    "de": "On, ein Israelit",
+    "el": "On, ένας Ισραηλίτης",
+    "es": "On, un israelita",
+    "et": "On, iisraellane",
+    "fi": "On, israelilainen",
+    "fr": "On, un Israélite",
+    "hu": "On, egy izraelita",
+    "id": "Pada, seorang Israel",
+    "it": "Su, un israelita",
+    "ja": "イスラエル人",
+    "ko": "온, 이스라엘인",
+    "lt": "On, izraelitas",
+    "lv": "On, izraēlietis",
+    "nb": "On, en israelitt",
+    "nl": "Op, een Israëliet",
+    "pl": "On, Izraelita",
+    "pt": "On, um israelita",
+    "ro": "On, un israelit",
+    "ru": "Он, израильтянин",
+    "sk": "On, Izraelita",
+    "sl": "On, Izraelec",
+    "sv": "On, en israelit",
+    "tr": "On, bir İsrailli",
+    "uk": "На, ізраїльтянин",
+    "zh": "以色列人安"
+  },
+  "hebrew": "אוֹן",
+  "verses": [
+    "numbers 16:1:12"
+  ]
+}

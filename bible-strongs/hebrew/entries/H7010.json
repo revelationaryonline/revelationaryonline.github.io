@@ -1,0 +1,43 @@
+{
+  "number": "H7010",
+  "language": "hebrew",
+  "transliteration": "qᵉyâm",
+  "pronunciation": "keh-yawm'",
+  "definition": "an edict (as arising in law)",
+  "kjvTranslation": "decree, statute.",
+  "hebrew": "קְיָם",
+  "translations": {
+    "bg": "указ (произтичащ от закона)",
+    "cs": "nařízení (vyplývající z práva)",
+    "da": "et påbud (som opstår i loven)",
+    "de": "ein Erlass (wie er im Gesetz steht)",
+    "el": "ένα διάταγμα (όπως προκύπτει από το νόμο)",
+    "es": "un edicto (como surgido en la ley)",
+    "et": "käskkiri (mis tuleneb seadusest)",
+    "fi": "(oikeudellinen) määräys",
+    "fr": "un décret (d'ordre juridique)",
+    "hu": "rendelet (mint a jogban keletkező)",
+    "id": "dekrit (sebagaimana yang timbul dalam hukum)",
+    "it": "un editto (come quello derivante dalla legge)",
+    "ja": "勅令",
+    "ko": "칙령(법률에서 발생하는 경우)",
+    "lt": "įsakymas (teisinis)",
+    "lv": "rīkojums (kas izriet no likuma)",
+    "nb": "et påbud (som oppstår i loven)",
+    "nl": "een decreet (zoals voortvloeiend uit de wet)",
+    "pl": "edykt (wynikający z prawa)",
+    "pt": "um édito (de direito)",
+    "ro": "un edict (în sensul legii)",
+    "ru": "указ (как вытекающий из закона)",
+    "sk": "nariadenie (vyplývajúce zo zákona)",
+    "sl": "odlok (ki izhaja iz zakona)",
+    "sv": "ett påbud (som uppstår i lag)",
+    "tr": "bir ferman (hukukta ortaya çıktığı şekliyle)",
+    "uk": "указ (як такий, що випливає із закону)",
+    "zh": "敕令"
+  },
+  "verses": [
+    "daniel 6:8:9",
+    "daniel 6:16:17"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2634",
+  "language": "hebrew",
+  "transliteration": "châçôn",
+  "pronunciation": "khaw-sone'",
+  "definition": "powerful",
+  "kjvTranslation": "strong.",
+  "translations": {
+    "bg": "мощен",
+    "cs": "výkonný",
+    "da": "kraftfuld",
+    "de": "leistungsstarke",
+    "el": "ισχυρό",
+    "es": "potente",
+    "et": "võimas",
+    "fi": "tehokas",
+    "fr": "puissant",
+    "hu": "erős",
+    "id": "kuat",
+    "it": "potente",
+    "ja": "パワフル",
+    "ko": "강력한",
+    "lt": "galingas",
+    "lv": "jaudīgs",
+    "nb": "kraftig",
+    "nl": "krachtig",
+    "pl": "potężny",
+    "pt": "poderoso",
+    "ro": "puternic",
+    "ru": "мощный",
+    "sk": "výkonný",
+    "sl": "zmogljiv",
+    "sv": "kraftfull",
+    "tr": "güçlü",
+    "uk": "потужний",
+    "zh": "强大"
+  },
+  "hebrew": "חָסֹן",
+  "verses": [
+    "isaiah 1:31:1",
+    "amos 2:9:9"
+  ]
+}

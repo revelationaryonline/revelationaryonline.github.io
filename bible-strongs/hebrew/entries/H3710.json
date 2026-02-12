@@ -1,0 +1,43 @@
+{
+  "number": "H3710",
+  "language": "hebrew",
+  "transliteration": "kêph",
+  "pronunciation": "kafe",
+  "definition": "a hollow rock",
+  "kjvTranslation": "rock.",
+  "translations": {
+    "bg": "куха скала",
+    "cs": "dutá skála",
+    "da": "en hul sten",
+    "de": "ein hohler Felsen",
+    "el": "ένας κούφιος βράχος",
+    "es": "una roca hueca",
+    "et": "õõnes kivi",
+    "fi": "ontto kivi",
+    "fr": "un rocher creux",
+    "hu": "egy üreges szikla",
+    "id": "batu berongga",
+    "it": "una roccia cava",
+    "ja": "くぼ岩",
+    "ko": "속이 빈 바위",
+    "lt": "tuščiaviduris akmuo",
+    "lv": "dobi iezis",
+    "nb": "en hul stein",
+    "nl": "een holle rots",
+    "pl": "wydrążona skała",
+    "pt": "uma rocha oca",
+    "ro": "o stâncă goală",
+    "ru": "полая скала",
+    "sk": "dutá skala",
+    "sl": "votla skala",
+    "sv": "en ihålig klippa",
+    "tr": "içi boş bir kaya",
+    "uk": "порожниста скеля",
+    "zh": "枵腹"
+  },
+  "hebrew": "כֵּף",
+  "verses": [
+    "job 30:6:5",
+    "jeremiah 4:29:9"
+  ]
+}

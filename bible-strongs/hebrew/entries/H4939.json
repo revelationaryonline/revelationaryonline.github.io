@@ -1,0 +1,42 @@
+{
+  "number": "H4939",
+  "language": "hebrew",
+  "transliteration": "mispâch",
+  "pronunciation": "mis-pawkh'",
+  "definition": "slaughter",
+  "kjvTranslation": "oppression.",
+  "hebrew": "מִשְׂפָּח",
+  "translations": {
+    "bg": "клане",
+    "cs": "porážka",
+    "da": "slagtning",
+    "de": "schlachtung",
+    "el": "σφαγή",
+    "es": "matanza",
+    "et": "tapmine",
+    "fi": "teurastus",
+    "fr": "abattage",
+    "hu": "mészárlás",
+    "id": "pembantaian",
+    "it": "massacro",
+    "ja": "屠殺",
+    "ko": "도살",
+    "lt": "skerdykla",
+    "lv": "kaušana",
+    "nb": "slakting",
+    "nl": "slachten",
+    "pl": "ubój",
+    "pt": "abate",
+    "ro": "măcel",
+    "ru": "убой",
+    "sk": "porážka",
+    "sl": "zakol",
+    "sv": "slakt",
+    "tr": "katliam",
+    "uk": "забій",
+    "zh": "宰杀"
+  },
+  "verses": [
+    "isaiah 5:7:13"
+  ]
+}

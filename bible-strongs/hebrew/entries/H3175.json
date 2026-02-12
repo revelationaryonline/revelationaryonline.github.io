@@ -1,0 +1,42 @@
+{
+  "number": "H3175",
+  "language": "hebrew",
+  "transliteration": "yâchîyl",
+  "pronunciation": "yaw-kheel'",
+  "definition": "expectant",
+  "kjvTranslation": "should hope.",
+  "translations": {
+    "bg": "очакване на",
+    "cs": "očekávaný",
+    "da": "forventningsfuld",
+    "de": "erwarten",
+    "el": "μέλλουσα",
+    "es": "expectante",
+    "et": "oodatav",
+    "fi": "odottava",
+    "fr": "en attente",
+    "hu": "várandós",
+    "id": "hamil",
+    "it": "in attesa",
+    "ja": "待望",
+    "ko": "기대",
+    "lt": "laukiantis",
+    "lv": "gaidāmā",
+    "nb": "forventningsfull",
+    "nl": "verwacht",
+    "pl": "oczekujący",
+    "pt": "expetante",
+    "ro": "în așteptare",
+    "ru": "ожидание",
+    "sk": "očakávaný",
+    "sl": "v pričakovanju",
+    "sv": "förväntansfull",
+    "tr": "bEKLEYEN",
+    "uk": "вагітна",
+    "zh": "期待"
+  },
+  "hebrew": "יָחִיל",
+  "verses": [
+    "lamentations 3:26:1"
+  ]
+}

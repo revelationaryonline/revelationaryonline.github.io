@@ -1,0 +1,42 @@
+{
+  "number": "H4914",
+  "language": "hebrew",
+  "transliteration": "mᵉshôl",
+  "pronunciation": "mesh-ol'",
+  "definition": "a satire",
+  "kjvTranslation": "byword.",
+  "hebrew": "מְשֹׁל",
+  "translations": {
+    "bg": "сатира",
+    "cs": "satira",
+    "da": "en satire",
+    "de": "eine Satire",
+    "el": "μια σάτιρα",
+    "es": "una sátira",
+    "et": "satiir",
+    "fi": "satiiri",
+    "fr": "une satire",
+    "hu": "szatíra",
+    "id": "sebuah sindiran",
+    "it": "una satira",
+    "ja": "風刺",
+    "ko": "풍자",
+    "lt": "satyra",
+    "lv": "satīra",
+    "nb": "en satire",
+    "nl": "een satire",
+    "pl": "satyra",
+    "pt": "uma sátira",
+    "ro": "o satiră",
+    "ru": "сатира",
+    "sk": "satira",
+    "sl": "satira",
+    "sv": "en satir",
+    "tr": "bir hiciv",
+    "uk": "сатира",
+    "zh": "讽刺"
+  },
+  "verses": [
+    "job 17:6:1"
+  ]
+}

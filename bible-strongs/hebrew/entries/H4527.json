@@ -1,0 +1,42 @@
+{
+  "number": "H4527",
+  "language": "hebrew",
+  "transliteration": "maççad",
+  "pronunciation": "mas-sad'",
+  "definition": "a foundation",
+  "kjvTranslation": "foundation.",
+  "hebrew": "מַסַּד",
+  "verses": [
+    "firstKings 7:9:10"
+  ],
+  "translations": {
+    "bg": "основа",
+    "cs": "nadace",
+    "da": "et fundament",
+    "de": "eine Stiftung",
+    "el": "ένα ίδρυμα",
+    "es": "una fundación",
+    "et": "sihtasutus",
+    "fi": "perusta",
+    "fr": "une fondation",
+    "hu": "egy alapítvány",
+    "id": "sebuah yayasan",
+    "it": "una fondazione",
+    "ja": "財団",
+    "ko": "기초",
+    "lt": "pamatas",
+    "lv": "pamats",
+    "nb": "en stiftelse",
+    "nl": "een stichting",
+    "pl": "fundacja",
+    "pt": "uma fundação",
+    "ro": "o fundație",
+    "ru": "фундамент",
+    "sk": "základ",
+    "sl": "temelj",
+    "sv": "en stiftelse",
+    "tr": "bir vakıf",
+    "uk": "фундамент",
+    "zh": "奠基石"
+  }
+}

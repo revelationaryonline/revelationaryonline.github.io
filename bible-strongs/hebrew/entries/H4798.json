@@ -1,0 +1,42 @@
+{
+  "number": "H4798",
+  "language": "hebrew",
+  "transliteration": "marzêach",
+  "pronunciation": "mar-zay'-akh",
+  "definition": "a cry, i.e. (of grief) a lamentation",
+  "kjvTranslation": "mourning.",
+  "hebrew": "מַרְזֵחַ",
+  "translations": {
+    "bg": "вик, т.е. (от скръб) плач",
+    "cs": "pláč, tj. (smutku) nářek",
+    "da": "et skrig, dvs. (af sorg) en klagesang",
+    "de": "ein Schrei, d.h. (aus Trauer) ein Klagelied",
+    "el": "κραυγή, δηλαδή (θρήνος) θρήνος",
+    "es": "un grito, es decir (de pena) un lamento",
+    "et": "nutmine, s.t. (leina) kaebus",
+    "fi": "huuto, eli (surun) valituslaulu",
+    "fr": "un cri, c'est-à-dire (de douleur) une lamentation",
+    "hu": "kiáltás, azaz (gyász)jajgatás",
+    "id": "tangisan, yaitu (kesedihan) ratapan",
+    "it": "un grido, cioè (di dolore) un lamento",
+    "ja": "なきごえ",
+    "ko": "외침, 즉 (슬픔의) 애도",
+    "lt": "šauksmas, t. y. (sielvarto) verksmas",
+    "lv": "sauciens, t.i., (skumju) raudāšana",
+    "nb": "et skrik, dvs. (av sorg) en klagesang",
+    "nl": "een schreeuw, d.w.z. (van verdriet) een klaagzang",
+    "pl": "płacz, tj. lament (z żalu)",
+    "pt": "um grito, ou seja, (de dor) uma lamentação",
+    "ro": "un strigăt, adică (de durere) o lamentație",
+    "ru": "плач, т.е. (от горя) причитание",
+    "sk": "plač, t. j. (smútok) nárek",
+    "sl": "jok, tj. (žalost) žalovanje",
+    "sv": "ett rop, dvs. (av sorg) en klagan",
+    "tr": "bir ağlama, yani (kederden) bir ağıt",
+    "uk": "плач, тобто (від горя) голосіння",
+    "zh": "哀号"
+  },
+  "verses": [
+    "jeremiah 16:5:7"
+  ]
+}

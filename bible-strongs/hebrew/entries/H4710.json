@@ -1,0 +1,42 @@
+{
+  "number": "H4710",
+  "language": "hebrew",
+  "transliteration": "mitspun",
+  "pronunciation": "mits-poon'",
+  "definition": "a secret (place or thing, perhaps, treasure)",
+  "kjvTranslation": "hidden thing.",
+  "hebrew": "מִצְפֻּן",
+  "translations": {
+    "bg": "тайна (място или вещ, може би съкровище)",
+    "cs": "tajemství (místo nebo věc, třeba poklad)",
+    "da": "en hemmelighed (sted eller ting, måske en skat)",
+    "de": "ein Geheimnis (Ort oder Sache, vielleicht ein Schatz)",
+    "el": "ένα μυστικό (μέρος ή πράγμα, ίσως, θησαυρός)",
+    "es": "un secreto (lugar o cosa, tal vez, tesoro)",
+    "et": "saladus (koht või asi, ehk aare)",
+    "fi": "salaisuus (paikka tai asia, ehkä aarre)",
+    "fr": "un secret (lieu ou chose, peut-être, trésor)",
+    "hu": "titok (hely vagy dolog, esetleg kincs)",
+    "id": "rahasia (tempat atau benda, mungkin, harta karun)",
+    "it": "un segreto (luogo o cosa, forse un tesoro)",
+    "ja": "ひみつ",
+    "ko": "비밀(장소 또는 물건, 아마도 보물)",
+    "lt": "paslaptis (vieta ar daiktas, galbūt lobis)",
+    "lv": "noslēpums (vieta vai lieta, iespējams, dārgums)",
+    "nb": "en hemmelighet (sted eller ting, kanskje en skatt)",
+    "nl": "een geheim (plaats of ding, misschien, schat)",
+    "pl": "sekret (miejsce lub rzecz, być może skarb)",
+    "pt": "um segredo (lugar ou coisa, talvez, um tesouro)",
+    "ro": "un secret (loc sau lucru, poate, comoară)",
+    "ru": "секрет (место или вещь, возможно, сокровище)",
+    "sk": "tajomstvo (miesto alebo vec, možno poklad)",
+    "sl": "skrivnost (kraj ali stvar, morda zaklad)",
+    "sv": "en hemlighet (plats eller sak, kanske, skatt)",
+    "tr": "bir sır (yer veya şey, belki de hazine)",
+    "uk": "таємниця (місце або річ, можливо, скарб)",
+    "zh": "秘密"
+  },
+  "verses": [
+    "obadiah 1:6:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H988",
+  "language": "hebrew",
+  "transliteration": "bâṭêl",
+  "pronunciation": "baw-tale'",
+  "definition": "to desist from labor",
+  "kjvTranslation": "cease.",
+  "translations": {
+    "bg": "да се откаже от работа",
+    "cs": "upustit od práce",
+    "da": "at afstå fra at arbejde",
+    "de": "die Arbeit zu unterlassen",
+    "el": "να απέχει από την εργασία",
+    "es": "desistir del trabajo",
+    "et": "loobuda töö tegemisest",
+    "fi": "luopumaan työstä",
+    "fr": "de cesser le travail",
+    "hu": "a munkától való tartózkodásra",
+    "id": "untuk berhenti bekerja",
+    "it": "desistere dal lavoro",
+    "ja": "労働をやめる",
+    "ko": "노동에서 벗어나기 위해",
+    "lt": "nutraukti darbą",
+    "lv": "atturēties no darba",
+    "nb": "å avstå fra arbeid",
+    "nl": "afzien van arbeid",
+    "pl": "zaprzestać pracy",
+    "pt": "desistir do trabalho",
+    "ro": "să renunțe la muncă",
+    "ru": "отказаться от работы",
+    "sk": "upustiť od práce",
+    "sl": "prenehati z delom",
+    "sv": "att avstå från arbete",
+    "tr": "çalışmaktan vazgeçmek",
+    "uk": "відмовитися від пологів",
+    "zh": "停止劳动"
+  },
+  "hebrew": "בָּטֵל",
+  "verses": [
+    "ecclesiastes 12:3:7"
+  ]
+}

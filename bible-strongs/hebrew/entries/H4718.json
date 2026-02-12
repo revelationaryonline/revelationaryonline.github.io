@@ -1,0 +1,43 @@
+{
+  "number": "H4718",
+  "language": "hebrew",
+  "transliteration": "maqqebeth",
+  "pronunciation": "mak-keh'-beth",
+  "definition": "properly, a perforator, i.e. a hammer (as piercing); also (intransitively) a perforation, i.e. a quarry",
+  "kjvTranslation": "hammer, hole.",
+  "hebrew": "מַקֶּבֶת",
+  "translations": {
+    "bg": "правилно, перфоратор, т.е. чук (като пробиващ); също (непреходно) перфорация, т.е. кариера",
+    "cs": "správně perforátor, tj. kladivo (jako průbojník); také (nepřechodně) perforace, tj. lom",
+    "da": "korrekt, en perforator, dvs. en hammer (som gennemborer); også (intransitivt) en perforering, dvs. et stenbrud",
+    "de": "richtig, ein Perforator, d.h. ein Hammer (als Durchschlag); auch (intransitiv) eine Perforation, d.h. ein Steinbruch",
+    "el": "σωστά, διάτρηση, δηλ. σφυρί (ως διατρητικό)- επίσης (ενδοτικά) διάτρηση, δηλ. λατομείο",
+    "es": "propiamente, un perforador, es decir, un martillo (como perforador); también (intransitivamente) una perforación, es decir, una cantera",
+    "et": "õigesti, perforeerija, s.t. haamer (kui läbilõikamine); ka (intransitiivselt) perforeerija, s.t. kaevandamine",
+    "fi": "oikein, rei'ittäjä eli vasara (lävistävänä); myös (epäsuorasti) rei'ittäjä eli louhinta",
+    "fr": "proprement, un perforateur, c'est-à-dire un marteau (pour percer) ; également (intransitivement) une perforation, c'est-à-dire une carrière",
+    "hu": "helyesen, perforátor, azaz kalapács (mint szúró); továbbá (átmenetileg) perforátor, azaz kőbánya",
+    "id": "benar, perforator, yaitu palu (seperti menusuk); juga (secara intransitif) perforasi, yaitu tambang",
+    "it": "propriamente, un perforatore, cioè un martello (che perfora); anche (intransitivamente) una perforazione, cioè una cava",
+    "ja": "正しくは、穿孔器、すなわち（突き刺すような）ハンマー。",
+    "ko": "적절하게, 천공기, 즉 망치 (피어싱으로); 또한 (과도적으로) 천공, 즉 채석장",
+    "lt": "taisyklingai - perforatorius, t. y. plaktukas (kaip perforatorius); taip pat (netarpiškai) perforacija, t. y. karjeras",
+    "lv": "pareizi - perforators, t.i., āmurs (kā caururbējs); arī (intranzitīvi) perforācija, t.i., karjers",
+    "nb": "egentlig en perforator, dvs. en hammer (som gjennomborer); også (intransitivt) en perforering, dvs. et steinbrudd",
+    "nl": "goed, een perforator, d.w.z. een hamer (als doorboring); ook (onovergankelijk) een perforatie, d.w.z. een groeve",
+    "pl": "właściwie perforator, tj. młotek (jako przebijak); także (nieprzejednanie) perforacja, tj. kamieniołom",
+    "pt": "propriamente dito, um perfurador, ou seja, um martelo (como perfurador); também (intransitivamente) uma perfuração, ou seja, uma pedreira",
+    "ro": "în mod propriu, un perforator, adică un ciocan (ca străpungere); de asemenea (intransitiv) o perforație, adică o carieră",
+    "ru": "правильно, перфоратор, т.е. молоток (как пробивающий); также (иносказательно) перфорация, т.е. каменоломня",
+    "sk": "správne perforátor, t. j. kladivo (ako prerážač); tiež (nepriechodne) perforácia, t. j. lom",
+    "sl": "pravilno, perforator, tj. kladivo (za prebadanje); tudi (intranzitivno) perforacija, tj. kamnolom",
+    "sv": "korrekt, en perforator, dvs. en hammare (som genomborrar); även (intransitivt) en perforering, dvs. ett stenbrott",
+    "tr": "uygun olarak, bir delici, yani bir çekiç (delici olarak); ayrıca (geçişsiz olarak) bir delik, yani bir taş ocağı",
+    "uk": "власне, перфоратор, тобто молоток (як проколювання); також (неперехідно) перфорація, тобто кар'єр",
+    "zh": "正确地说，穿孔机，即锤子（作为穿孔）；也（不正确地）穿孔，即采石场"
+  },
+  "verses": [
+    "judges 4:21:9",
+    "isaiah 51:1:11"
+  ]
+}

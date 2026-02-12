@@ -1,0 +1,42 @@
+{
+  "number": "H1761",
+  "language": "hebrew",
+  "transliteration": "dachăvâh",
+  "pronunciation": "dakh-av-aw'",
+  "definition": "probably a musical instrument (as being struck)",
+  "kjvTranslation": "instrument of music.",
+  "translations": {
+    "bg": "вероятно музикален инструмент (като ударен)",
+    "cs": "pravděpodobně hudební nástroj (jako úder)",
+    "da": "sandsynligvis et musikinstrument (som bliver slået an)",
+    "de": "wahrscheinlich ein Musikinstrument (wie es angeschlagen wird)",
+    "el": "πιθανότατα ένα μουσικό όργανο (όπως χτυπιέται)",
+    "es": "probablemente un instrumento musical (como ser golpeado)",
+    "et": "ilmselt muusikainstrument (nagu on löödud)",
+    "fi": "luultavasti soitin (koska sitä lyödään)",
+    "fr": "probablement un instrument de musique (comme s'il était frappé)",
+    "hu": "valószínűleg egy hangszer (ahogyan ütik)",
+    "id": "mungkin alat musik (seperti dipukul)",
+    "it": "probabilmente uno strumento musicale (come se fosse percosso)",
+    "ja": "おそらく楽器",
+    "ko": "아마도 악기일 것입니다(치는 것으로)",
+    "lt": "tikriausiai muzikos instrumentas (kaip mušamas)",
+    "lv": "iespējams, mūzikas instruments (kā sitaminstruments)",
+    "nb": "sannsynligvis et musikkinstrument (som blir slått på)",
+    "nl": "waarschijnlijk een muziekinstrument (als zijnde aangeslagen)",
+    "pl": "prawdopodobnie instrument muzyczny (jako instrument uderzany)",
+    "pt": "provavelmente um instrumento musical (como se estivesse a ser tocado)",
+    "ro": "probabil un instrument muzical (ca fiind lovit)",
+    "ru": "вероятно, музыкальный инструмент (как при ударе)",
+    "sk": "pravdepodobne hudobný nástroj (ako úder)",
+    "sl": "verjetno glasbeni instrument (kot udarca)",
+    "sv": "troligen ett musikinstrument (som slås an)",
+    "tr": "muhtemelen bir müzik aleti (vurulduğu gibi)",
+    "uk": "ймовірно, музичний інструмент (оскільки по ньому вдарили)",
+    "zh": "可能是乐器"
+  },
+  "hebrew": "דַּחֲוָה",
+  "verses": [
+    "daniel 6:19:6"
+  ]
+}

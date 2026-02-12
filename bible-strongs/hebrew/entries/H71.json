@@ -1,0 +1,42 @@
+{
+  "number": "H71",
+  "language": "hebrew",
+  "transliteration": "ʼĂbânâh",
+  "pronunciation": "ab-aw-naw'",
+  "definition": "Abanah, a river near Damascus",
+  "kjvTranslation": "Abana.",
+  "translations": {
+    "bg": "Абана, река близо до Дамаск",
+    "cs": "Abanah, řeka poblíž Damašku",
+    "da": "Abanah, en flod nær Damaskus",
+    "de": "Abanah, ein Fluss in der Nähe von Damaskus",
+    "el": "Abanah, ποταμός κοντά στη Δαμασκό",
+    "es": "Abanah, río cercano a Damasco",
+    "et": "Abanah, jõgi Damaskuse lähedal",
+    "fi": "Abanah, joki Damaskoksen lähellä",
+    "fr": "Abanah, rivière près de Damas",
+    "hu": "Abanah, egy folyó Damaszkusz közelében",
+    "id": "Abanah, sebuah sungai di dekat Damaskus",
+    "it": "Abanah, un fiume vicino a Damasco",
+    "ja": "アバナ（ダマスカス近郊の川",
+    "ko": "다마스쿠스 근처의 강, 아바나",
+    "lt": "Abana, upė netoli Damasko",
+    "lv": "Abanah, upe netālu no Damaskas",
+    "nb": "Abanah, en elv i nærheten av Damaskus",
+    "nl": "Abanah, een rivier bij Damascus",
+    "pl": "Abanah, rzeka w pobliżu Damaszku",
+    "pt": "Abanah, um rio perto de Damasco",
+    "ro": "Abanah, un râu de lângă Damasc",
+    "ru": "Абана, река близ Дамаска",
+    "sk": "Abanah, rieka pri Damasku",
+    "sl": "Abanah, reka v bližini Damaska",
+    "sv": "Abanah, en flod nära Damaskus",
+    "tr": "Abanah, Şam yakınlarında bir nehir",
+    "uk": "Абана, річка поблизу Дамаска",
+    "zh": "阿巴纳河"
+  },
+  "hebrew": "אֲבָנָה",
+  "verses": [
+    "secondKings 5:12:2"
+  ]
+}

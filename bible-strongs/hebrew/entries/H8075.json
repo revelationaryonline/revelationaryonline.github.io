@@ -1,0 +1,42 @@
+{
+  "number": "H8075",
+  "language": "hebrew",
+  "transliteration": "shᵉmam",
+  "pronunciation": "shem-am'",
+  "definition": "{to stun (or intransitively, grow numb), i.e. devastate or (figuratively) stupefy (both usually in a passive sense)}",
+  "kjvTranslation": "be astonied.",
+  "hebrew": "שְׁמַם",
+  "translations": {
+    "bg": "{да зашеметява (или в преносен смисъл, да изтръпва), т.е. да опустошава или (в преносен смисъл) да оглупява (и двете обикновено в пасивен смисъл)}",
+    "cs": "{ohromit (nebo v nepřeneseném významu otupit), tj. zdevastovat nebo (přeneseně) otupit (obojí obvykle v pasivním významu)}",
+    "da": "{at bedøve (eller intransitivt, blive følelsesløs), dvs. ødelægge eller (i overført betydning) bedøve (begge normalt i passiv betydning)}",
+    "de": "{betäuben (oder intransitiv, betäuben), d. h. verwüsten oder (im übertragenen Sinne) verblöden (beides meist im passiven Sinne)}",
+    "el": "{να ζαλίζω (ή ενδοιαστικά, να μουδιάζω), δηλαδή να καταστρέφω ή (μεταφορικά) να ζαλίζω (και τα δύο συνήθως με παθητική έννοια)}",
+    "es": "{aturdir (o intransitivamente, entumecer), es decir, devastar o (figuradamente) aturdir (ambos generalmente en sentido pasivo)}",
+    "et": "{tummutada (või intransitiivselt, tuimastada), s.t. laastada või (piltlikult) uimastada (mõlemad tavaliselt passiivses tähenduses)}",
+    "fi": "{tainnuttaa (tai intransitiivisesti, turruttaa), eli tuhota tai (kuvaannollisesti) tainnuttaa (molemmat yleensä passiivisessa merkityksessä)}",
+    "fr": "{pour assommer (ou intransitivement, rendre insensible), c'est-à-dire dévaster ou (au sens figuré) stupéfier (les deux généralement dans un sens passif)}",
+    "hu": "{elkábítani (vagy átvitt értelemben, elkábítani), azaz elpusztítani vagy (átvitt értelemben) elkábítani (mindkettő általában passzív értelemben)}",
+    "id": "{untuk membuat pingsan (atau secara intransitif, menjadi mati rasa), yaitu menghancurkan atau (secara kiasan) membuat pingsan (keduanya biasanya dalam arti pasif)}",
+    "it": "{stordirsi (o intransitivamente, intorpidirsi), cioè devastare o (in senso figurato) stupefare (entrambi di solito in senso passivo)}",
+    "ja": "{唖然とさせる（または内在的に麻痺させる）、つまり荒廃させるか（比喩的に）茫然自失させる（どちらも通常は受動的な意味で）}。",
+    "ko": "{기절시키다(또는 과도적으로, 무감각해지다), 즉 황폐화시키거나 (비유적으로) 기절시키다(둘 다 보통 수동적인 의미로)}",
+    "lt": "{apstulbinti (arba intranzityviai, apnuoginti), t. y. nuniokoti arba (perkeltine prasme) apstulbinti (dažniausiai pasyvia prasme) }",
+    "lv": "{apstulbināt (vai intranzitīvi, padarīt nejūtīgu), t. i., izpostīt vai (pārnestā nozīmē) apstulbināt (parasti pasīvā nozīmē)}",
+    "nb": "{bedøve (eller intransitivt, lamme), dvs. ødelegge eller (i overført betydning) bedøve (begge deler vanligvis i passiv betydning)}",
+    "nl": "{verdoven (of onovergankelijk, gevoelloos worden), d.w.z. verwoesten of (figuurlijk) bedwelmen (beide meestal in passieve zin)}",
+    "pl": "{ogłuszać (lub nieprzechodnie, otępiać), tj. dewastować lub (w przenośni) ogłupiać (oba zwykle w znaczeniu biernym)}",
+    "pt": "{to stun (or intransitively, grow numb), i.e. devastate or (figuratively) stupefy (both usually in a passive sense)}",
+    "ro": "{to stunning (or intransitively, grow numb), i.e. devastate or (figuratively) stupefy (both usually in a passive sense)}",
+    "ru": "{ошеломить (или интранзитивно - онеметь), т.е. опустошить или (образно) одурманить (оба обычно в пассивном смысле)}",
+    "sk": "{ohromiť (alebo v intranzitívnom zmysle otupiť), t. j. zdevastovať alebo (v prenesenom význame) otupiť (oboje zvyčajne v pasívnom význame)}",
+    "sl": "{okužiti (ali intranzitivno, otrpniti), tj. opustošiti ali (v prenesenem pomenu) omamiti (oboje običajno v pasivnem pomenu)}",
+    "sv": "{att bedöva (eller intransitivt, bli avtrubbad), dvs. förgöra eller (bildligt talat) förbluffa (båda vanligtvis i passiv mening)}",
+    "tr": "{sersemletmek (veya geçişsiz olarak uyuşturmak), yani yıkmak veya (mecazi olarak) sersemletmek (her ikisi de genellikle pasif anlamda)}",
+    "uk": "{приголомшити (або тимчасово, оніміти), тобто спустошити або (образно) одурманити (обидва, як правило, у пасивному значенні)}",
+    "zh": "{使人目瞪口呆（或变为麻木），即摧残或（比喻）使人目瞪口呆（两者通常都是被动意义上的）}。"
+  },
+  "verses": [
+    "daniel 4:16:5"
+  ]
+}

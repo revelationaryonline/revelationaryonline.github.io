@@ -1,0 +1,42 @@
+{
+  "number": "H7234",
+  "language": "hebrew",
+  "transliteration": "râbad",
+  "pronunciation": "raw-bad'",
+  "definition": "to spread",
+  "kjvTranslation": "deck.",
+  "hebrew": "רָבַד",
+  "translations": {
+    "bg": "да се разпространява",
+    "cs": "šířit",
+    "da": "for at sprede sig",
+    "de": "zu verbreiten",
+    "el": "να εξαπλωθεί",
+    "es": "difundir",
+    "et": "levitada",
+    "fi": "levittää",
+    "fr": "de se répandre",
+    "hu": "hogy elterjedjen",
+    "id": "untuk menyebar",
+    "it": "per diffondere",
+    "ja": "広める",
+    "ko": "확산",
+    "lt": "skleisti",
+    "lv": "izplatīties",
+    "nb": "for å spre",
+    "nl": "verspreiden",
+    "pl": "rozprzestrzeniać się",
+    "pt": "para difundir",
+    "ro": "să se răspândească",
+    "ru": "распространяться",
+    "sk": "šíriť",
+    "sl": "širiti",
+    "sv": "för att sprida",
+    "tr": "yaymak için",
+    "uk": "поширювати",
+    "zh": "传"
+  },
+  "verses": [
+    "proverbs 7:16:1"
+  ]
+}

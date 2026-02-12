@@ -1,0 +1,43 @@
+{
+  "number": "H2332",
+  "language": "hebrew",
+  "transliteration": "Chavvâh",
+  "pronunciation": "khav-vaw'",
+  "definition": "Chavvah (or Eve), the first woman",
+  "kjvTranslation": "Eve.",
+  "translations": {
+    "bg": "Чавва (или Ева), първата жена",
+    "cs": "Chavva (neboli Eva), první žena",
+    "da": "Chavvah (eller Eva), den første kvinde",
+    "de": "Chavvah (oder Eva), die erste Frau",
+    "el": "Chavvah (ή Εύα), η πρώτη γυναίκα",
+    "es": "Chavvah (o Eva), la primera mujer",
+    "et": "Chavvah (või Eeva), esimene naine",
+    "fi": "Chavvah (tai Eeva), ensimmäinen nainen",
+    "fr": "Chavvah (ou Eve), la première femme",
+    "hu": "Chavvah (vagy Éva), az első nő",
+    "id": "Chavvah (atau Hawa), wanita pertama",
+    "it": "Chavvah (o Eva), la prima donna",
+    "ja": "チャヴヴァ（イヴ）、最初の女性",
+    "ko": "최초의 여성, 차브바(또는 이브)",
+    "lt": "Chavva (arba Ieva), pirmoji moteris",
+    "lv": "Čavva (jeb Ieva), pirmā sieviete",
+    "nb": "Chavvah (eller Eva), den første kvinnen",
+    "nl": "Chavvah (of Eva), de eerste vrouw",
+    "pl": "Chavvah (lub Ewa), pierwsza kobieta",
+    "pt": "Chavvah (ou Eva), a primeira mulher",
+    "ro": "Chavvah (sau Eva), prima femeie",
+    "ru": "Шавва (или Ева), первая женщина",
+    "sk": "Chavva (alebo Eva), prvá žena",
+    "sl": "Chavvah (ali Eva), prva ženska",
+    "sv": "Chavvah (eller Eva), den första kvinnan",
+    "tr": "Chavvah (ya da Havva), ilk kadın",
+    "uk": "Хавва (або Єва), перша жінка",
+    "zh": "夏娃"
+  },
+  "hebrew": "חַוָּה",
+  "verses": [
+    "genesis 3:20:4",
+    "genesis 4:1:3"
+  ]
+}

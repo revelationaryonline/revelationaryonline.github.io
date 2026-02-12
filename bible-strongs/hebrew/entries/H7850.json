@@ -1,0 +1,42 @@
+{
+  "number": "H7850",
+  "language": "hebrew",
+  "transliteration": "shôṭêṭ",
+  "pronunciation": "sho-tate'",
+  "definition": "to flog; a goad",
+  "kjvTranslation": "scourge.",
+  "hebrew": "שֹׁטֵט",
+  "translations": {
+    "bg": "за бичуване; тояга",
+    "cs": "bičovat; bičík",
+    "da": "at piske; en pisk",
+    "de": "auspeitschen; ein Prügel",
+    "el": "να μαστιγώνει- ένα μαστίγιο",
+    "es": "azotar; un azote",
+    "et": "piitsutamine; piitsutamine",
+    "fi": "piiskata; piiskata",
+    "fr": "fouetter ; aiguillon",
+    "hu": "korbácsolás; korbács",
+    "id": "untuk mencambuk; tongkat",
+    "it": "fustigare; un pungolo",
+    "ja": "鞭で打つ",
+    "ko": "채찍질하다; 채찍",
+    "lt": "plakti rykštėmis",
+    "lv": "pēršana ar pātagu",
+    "nb": "å piske; en gapestokk",
+    "nl": "om te geselen; een goad",
+    "pl": "chłosta; kozioł",
+    "pt": "açoitar; um aguilhão",
+    "ro": "a biciui; un ghiont",
+    "ru": "выпороть; козёл",
+    "sk": "bičovať; bičovať",
+    "sl": "bičati; biča",
+    "sv": "att piska; en gadd",
+    "tr": "kırbaçlamak; bir sopa",
+    "uk": "шмагати батогом; батіг",
+    "zh": "笞"
+  },
+  "verses": [
+    "joshua 23:13:16"
+  ]
+}

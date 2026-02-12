@@ -1,0 +1,42 @@
+{
+  "number": "H5040",
+  "language": "hebrew",
+  "transliteration": "nablûwth",
+  "pronunciation": "nab-looth'",
+  "definition": "properly, disgrace, i.e. the (female) pudenda",
+  "kjvTranslation": "lewdness.",
+  "hebrew": "נַבְלוּת",
+  "translations": {
+    "bg": "правилно, позор, т.е. (женската) пуденда",
+    "cs": "správně hanba, tj. (ženská) pudenda",
+    "da": "korrekt, skændsel, dvs. den (kvindelige) pudenda",
+    "de": "richtig, Schande, d.h. die (weibliche) Pudenda",
+    "el": "σωστά, ντροπή, δηλ. η (γυναικεία) αιδοία",
+    "es": "propiamente, desgracia, es decir, la pudenda (femenina)",
+    "et": "korralikult, häbi, st (naise) häbemekk",
+    "fi": "oikein, häpeä, ts. (naisen) häpykarvoitus",
+    "fr": "proprement, la disgrâce, c'est-à-dire la pudenda (féminine)",
+    "hu": "helyesen, szégyen, azaz a (női) szeméremtest",
+    "id": "benar, aib, yaitu pudenda (perempuan)",
+    "it": "propriamente, disgrazia, cioè le pudenda (femminili)",
+    "ja": "恥部",
+    "ko": "제대로, 불명예, 즉 (여성) 푸덴다",
+    "lt": "tinkamai, gėda, t. y. (moteriškas) lytinis organas",
+    "lv": "pareizi, kauns, t.i., (sieviešu) pudenda",
+    "nb": "egentlig, skam, dvs. den (kvinnelige) pudenda",
+    "nl": "goed, schande, d.w.z. de (vrouwelijke) pudenda",
+    "pl": "właściwie, hańba, tj. (kobieca) pudenda",
+    "pt": "propriamente, desgraça, ou seja, a pudenda (feminina)",
+    "ro": "corect, rușine, adică pudenda (feminină)",
+    "ru": "правильно, позор, т.е. (женская) срамная часть тела",
+    "sk": "správne, hanba, t. j. (ženský) pudendum",
+    "sl": "pravilno, sramota, tj. (ženski) pudendum",
+    "sv": "korrekt, skam, dvs. den (kvinnliga) pudenda",
+    "tr": "uygun şekilde, utanç, yani (kadın) pudenda",
+    "uk": "власне, ганьба, тобто (жіноча) пуденда",
+    "zh": "辱，即（女性）下体"
+  },
+  "verses": [
+    "hosea 2:12:3"
+  ]
+}

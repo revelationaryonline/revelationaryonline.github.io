@@ -1,0 +1,42 @@
+{
+  "number": "H2433",
+  "language": "hebrew",
+  "transliteration": "chîyn",
+  "pronunciation": "kheen",
+  "definition": "beauty",
+  "kjvTranslation": "comely.",
+  "translations": {
+    "bg": "красота",
+    "cs": "krása",
+    "da": "skønhed",
+    "de": "schönheit",
+    "el": "ομορφιά",
+    "es": "belleza",
+    "et": "ilu",
+    "fi": "kauneus",
+    "fr": "beauté",
+    "hu": "szépség",
+    "id": "kecantikan",
+    "it": "bellezza",
+    "ja": "美",
+    "ko": "뷰티",
+    "lt": "grožis",
+    "lv": "skaistumkopšana",
+    "nb": "skjønnhet",
+    "nl": "schoonheid",
+    "pl": "piękno",
+    "pt": "beleza",
+    "ro": "frumusețe",
+    "ru": "красота",
+    "sk": "krása",
+    "sl": "lepota",
+    "sv": "skönhet",
+    "tr": "güzellik",
+    "uk": "краса",
+    "zh": "美景"
+  },
+  "hebrew": "חִין",
+  "verses": [
+    "job 41:4:6"
+  ]
+}

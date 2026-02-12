@@ -1,0 +1,42 @@
+{
+  "number": "H1977",
+  "language": "hebrew",
+  "transliteration": "hallêzûw",
+  "pronunciation": "hal-lay-zoo'",
+  "definition": "that",
+  "kjvTranslation": "this.",
+  "translations": {
+    "bg": "че",
+    "cs": "že",
+    "da": "at",
+    "de": "dass",
+    "el": "που",
+    "es": "que",
+    "et": "et",
+    "fi": "että",
+    "fr": "que",
+    "hu": "hogy",
+    "id": "bahwa",
+    "it": "che",
+    "ja": "その",
+    "ko": "그",
+    "lt": "kad",
+    "lv": "ka",
+    "nb": "at",
+    "nl": "dat",
+    "pl": "że",
+    "pt": "que",
+    "ro": "că",
+    "ru": "что",
+    "sk": "že",
+    "sl": "na spletni strani ",
+    "sv": "att",
+    "tr": "o",
+    "uk": "що",
+    "zh": "那"
+  },
+  "hebrew": "הַלֵּזוּ",
+  "verses": [
+    "ezekiel 36:35:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4721",
+  "language": "hebrew",
+  "transliteration": "maqhêl",
+  "pronunciation": "mak-hale'",
+  "definition": "an assembly",
+  "kjvTranslation": "congregation.",
+  "hebrew": "מַקְהֵל",
+  "translations": {
+    "bg": "сглобяване",
+    "cs": "sestava",
+    "da": "en forsamling",
+    "de": "eine Baugruppe",
+    "el": "μια συναρμολόγηση",
+    "es": "una asamblea",
+    "et": "kokkupanek",
+    "fi": "kokoonpano",
+    "fr": "une assemblée",
+    "hu": "egy gyülekezet",
+    "id": "perakitan",
+    "it": "un'assemblea",
+    "ja": "アセンブリー",
+    "ko": "어셈블리",
+    "lt": "surinkimas",
+    "lv": "montāža",
+    "nb": "en forsamling",
+    "nl": "een assemblage",
+    "pl": "montaż",
+    "pt": "um conjunto",
+    "ro": "un ansamblu",
+    "ru": "сборка",
+    "sk": "montáž",
+    "sl": "sestava",
+    "sv": "en församling",
+    "tr": "bir montaj",
+    "uk": "збори",
+    "zh": "一个大会"
+  },
+  "verses": [
+    "psalms 26:12:3",
+    "psalms 68:27:0"
+  ]
+}

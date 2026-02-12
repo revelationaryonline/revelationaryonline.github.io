@@ -1,0 +1,42 @@
+{
+  "number": "H4748",
+  "language": "hebrew",
+  "transliteration": "miqsheh",
+  "pronunciation": "mik-sheh'",
+  "definition": "something turned (rounded), i.e. a curl (of tresses)",
+  "kjvTranslation": "[idiom] well (set) hair.",
+  "hebrew": "מִקְשֶׁה",
+  "translations": {
+    "bg": "нещо завъртяно (закръглено), напр. къдрица (на косите)",
+    "cs": "něco zatočeného (zakulaceného), např. kadeř (vlasů)",
+    "da": "noget drejet (afrundet), f.eks. en krølle (på lokkerne)",
+    "de": "etwas Gedrehtes, z. B. eine Locke (von Locken)",
+    "el": "κάτι γυρισμένο (στρογγυλεμένο), π.χ. μια μπούκλα (από μπούκλες)",
+    "es": "algo girado (redondeado), por ejemplo, un rizo (de trenzas)",
+    "et": "midagi pööratud (ümardatud), s.t. lokk (lokid)",
+    "fi": "jotakin kääntynyttä (pyöristettyä), esim. kihara (tukka)",
+    "fr": "quelque chose de tourné (arrondi), par exemple une boucle (de cheveux)",
+    "hu": "valami elfordult (lekerekített), pl. egy fürt (a fürtökből)",
+    "id": "sesuatu yang diputar (dibulatkan), yaitu ikal (rambut)",
+    "it": "qualcosa di girato (arrotondato), ad esempio un ricciolo (di capelli)",
+    "ja": "くるり",
+    "ko": "무언가 (둥글게) 돌린 것, 즉 (머리카락의) 컬",
+    "lt": "kažkas susuktas (suapvalintas), t. y. garbana (plaukų)",
+    "lv": "kaut kas pagriezts (noapaļots), t.i., cirtas (matu cirtas)",
+    "nb": "noe snudd (avrundet), f.eks. en krøll (av lokker)",
+    "nl": "iets gedraaid (afgerond), bijv. een krul (van haar)",
+    "pl": "coś obróconego (zaokrąglonego), np. lok (włosów)",
+    "pt": "uma coisa virada (arredondada), ou seja, um caracol (de tranças)",
+    "ro": "ceva întors (rotunjit), de exemplu o buclă (de păr)",
+    "ru": "что-то повернутое (округлое), например, локон (локонов)",
+    "sk": "niečo zatočené (zaoblené), napr. kučera (vlasov)",
+    "sl": "nekaj zavitega (zaokroženega), npr. koder (las)",
+    "sv": "något vänt (rundat), t.ex. en lock (av lockar)",
+    "tr": "döndürülmüş (yuvarlaklaştırılmış) bir şey, örneğin (saçların) kıvrılması",
+    "uk": "щось закручене (заокруглене), тобто завиток (локонів)",
+    "zh": "卷发"
+  },
+  "verses": [
+    "isaiah 3:24:10"
+  ]
+}

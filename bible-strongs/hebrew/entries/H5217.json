@@ -1,0 +1,42 @@
+{
+  "number": "H5217",
+  "language": "hebrew",
+  "transliteration": "nâkâʼ",
+  "pronunciation": "naw-kaw'",
+  "definition": "to smite, i.e. drive away",
+  "kjvTranslation": "be viler.",
+  "hebrew": "נָכָא",
+  "translations": {
+    "bg": "да удари, т.е. да прогони",
+    "cs": "porazit, tj. odehnat",
+    "da": "at slå, dvs. drive væk",
+    "de": "zerschlagen, d.h. vertreiben",
+    "el": "να χτυπήσω, δηλαδή να διώξω μακριά",
+    "es": "golpear, es decir, ahuyentar",
+    "et": "lüüa, s.t. ära ajada",
+    "fi": "lyödä, ts. ajaa pois",
+    "fr": "pour frapper, c'est-à-dire chasser",
+    "hu": "lesújtani, azaz elűzni",
+    "id": "untuk memukul, yaitu mengusir",
+    "it": "colpire, cioè scacciare",
+    "ja": "打ちのめす、すなわち追い払う",
+    "ko": "치다, 즉 쫓아내다",
+    "lt": "sumušti, t. y. išvaryti",
+    "lv": "sasmiet, t.i., aizdzīt prom",
+    "nb": "å slå, dvs. drive bort",
+    "nl": "slaan, d.w.z. verdrijven",
+    "pl": "uderzyć, tj. przepędzić",
+    "pt": "ferir, ou seja, afastar",
+    "ro": "a lovi, adică a alunga",
+    "ru": "поражать, т.е. прогонять",
+    "sk": "poraziť, t. j. odohnať",
+    "sl": "udariti, tj. odgnati",
+    "sv": "att slå, d.v.s. driva bort",
+    "tr": "vurmak, yani uzaklaştırmak",
+    "uk": "вразити, тобто прогнати",
+    "zh": "击，即驱赶"
+  },
+  "verses": [
+    "job 30:8:6"
+  ]
+}

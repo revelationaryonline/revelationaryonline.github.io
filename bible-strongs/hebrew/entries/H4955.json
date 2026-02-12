@@ -1,0 +1,43 @@
+{
+  "number": "H4955",
+  "language": "hebrew",
+  "transliteration": "misrâphâh",
+  "pronunciation": "mis-raw-faw'",
+  "definition": "combustion, i.e. cremation (of a corpse), or calcination (of lime)",
+  "kjvTranslation": "burning.",
+  "hebrew": "מִשְׂרָפָה",
+  "translations": {
+    "bg": "изгаряне, т.е. кремация (на труп) или калциниране (на вар)",
+    "cs": "spalování, tj. kremace (mrtvoly) nebo kalcinace (vápna)",
+    "da": "forbrænding, dvs. kremering (af et lig) eller kalcinering (af kalk)",
+    "de": "verbrennung, d. h. Einäscherung (eines Leichnams) oder Kalzinierung (von Kalk)",
+    "el": "καύση, δηλ. αποτέφρωση (ενός πτώματος) ή πύρωση (ασβέστη)",
+    "es": "combustión, es decir, cremación (de un cadáver) o calcinación (de la cal)",
+    "et": "põletamine, st põletamine (surnukeha põletamine) või kaltsineerimine (lubja põletamine)",
+    "fi": "polttaminen eli polttaminen (ruumiin polttaminen) tai kalsinointi (kalkin polttaminen)",
+    "fr": "la combustion, c'est-à-dire la crémation (d'un cadavre) ou la calcination (de la chaux)",
+    "hu": "égetés, azaz hamvasztás (egy holttest elhamvasztása) vagy kalcinálás (mészégetés)",
+    "id": "pembakaran, yaitu kremasi (mayat), atau kalsinasi (kapur)",
+    "it": "combustione, cioè cremazione (di un cadavere), o calcinazione (della calce)",
+    "ja": "ばいしょう",
+    "ko": "연소, 즉 (시체의) 화장 또는 석회 소성(석회화)",
+    "lt": "deginimas, t. y. kremavimas (lavono) arba kalkinimas (kalkių)",
+    "lv": "sadedzināšana, t. i., kremēšana (līķa) vai kalcinēšana (kaļķu)",
+    "nb": "forbrenning, dvs. kremering (av et lik) eller kalsinering (av kalk)",
+    "nl": "verbranding, d.w.z. crematie (van een lijk) of calcinatie (van kalk)",
+    "pl": "spalanie, tj. kremacja (zwłok) lub kalcynacja (wapna)",
+    "pt": "combustão, ou seja, cremação (de um cadáver) ou calcinação (de cal)",
+    "ro": "ardere, adică incinerare (a unui cadavru) sau calcinare (a varului)",
+    "ru": "сжигание, т.е. кремация (трупа) или кальцинирование (извести)",
+    "sk": "spaľovanie, t. j. kremácia (mŕtvoly) alebo kalcinácia (vápna)",
+    "sl": "zgorevanje, tj. upepelitev (trupla) ali žganje (apna)",
+    "sv": "förbränning, t.ex. kremering (av ett lik) eller kalcinering (av kalk)",
+    "tr": "yanma, yani yakma (bir cesedin) veya kalsinasyon (kireç)",
+    "uk": "спалювання, тобто кремація (трупа) або кальцинація (вапна)",
+    "zh": "燃烧，即火化（尸体）或煅烧（石灰）"
+  },
+  "verses": [
+    "isaiah 33:12:2",
+    "jeremiah 34:5:2"
+  ]
+}

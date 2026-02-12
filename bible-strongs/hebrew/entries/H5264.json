@@ -1,0 +1,42 @@
+{
+  "number": "H5264",
+  "language": "hebrew",
+  "transliteration": "nâçaç",
+  "pronunciation": "naw-sas'",
+  "definition": "to raise a beacon",
+  "kjvTranslation": "lift up as an ensign.",
+  "hebrew": "נָסַס",
+  "translations": {
+    "bg": "да издигне фар",
+    "cs": "vztyčit maják",
+    "da": "at rejse et fyrtårn",
+    "de": "ein Leuchtfeuer zu errichten",
+    "el": "να υψώσει φάρο",
+    "es": "levantar un faro",
+    "et": "tõsta majakas",
+    "fi": "nostamaan majakan",
+    "fr": "pour élever une balise",
+    "hu": "jelzőfényt emelni",
+    "id": "untuk menaikkan suar",
+    "it": "per innalzare un faro",
+    "ja": "ビーコンを掲げる",
+    "ko": "비콘을 올리려면",
+    "lt": "iškelti švyturį",
+    "lv": "pacelt bāku",
+    "nb": "å reise et fyrtårn",
+    "nl": "een baken oprichten",
+    "pl": "podnieść latarnię morską",
+    "pt": "erguer um farol",
+    "ro": "să ridice un far",
+    "ru": "поднять маяк",
+    "sk": "vztýčiť maják",
+    "sl": "postaviti svetilnik",
+    "sv": "att resa en fyr",
+    "tr": "bir fener yükseltmek için",
+    "uk": "щоб підняти маяк",
+    "zh": "烽火连天"
+  },
+  "verses": [
+    "zechariah 9:16:10"
+  ]
+}

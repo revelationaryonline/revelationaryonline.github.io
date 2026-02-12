@@ -1,0 +1,42 @@
+{
+  "number": "H6192",
+  "language": "hebrew",
+  "transliteration": "ʻâram",
+  "pronunciation": "aw-ram'",
+  "definition": "to pile up",
+  "kjvTranslation": "gather together.",
+  "hebrew": "עָרַם",
+  "translations": {
+    "bg": "да се натрупва",
+    "cs": "hromadit",
+    "da": "at hobe sig op",
+    "de": "zu stapeln",
+    "el": "να συσσωρεύονται",
+    "es": "amontonar",
+    "et": "kuhjata",
+    "fi": "kasaantua",
+    "fr": "s'empiler",
+    "hu": "felhalmozódni",
+    "id": "untuk menumpuk",
+    "it": "accumulare",
+    "ja": "積み上げる",
+    "ko": "쌓다",
+    "lt": "kaupti",
+    "lv": "uzkrāt",
+    "nb": "til å hope seg opp",
+    "nl": "om op te stapelen",
+    "pl": "gromadzić się",
+    "pt": "acumular",
+    "ro": "să se acumuleze",
+    "ru": "накапливаться",
+    "sk": "hromadiť",
+    "sl": "kopičiti",
+    "sv": "att stapla upp",
+    "tr": "yığmak için",
+    "uk": "нагромаджувати",
+    "zh": "堆积如山"
+  },
+  "verses": [
+    "exodus 15:8:2"
+  ]
+}

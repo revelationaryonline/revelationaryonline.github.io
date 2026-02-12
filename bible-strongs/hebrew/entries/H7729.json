@@ -1,0 +1,42 @@
+{
+  "number": "H7729",
+  "language": "hebrew",
+  "transliteration": "shûwbâh",
+  "pronunciation": "shoo-baw'",
+  "definition": "a return",
+  "kjvTranslation": "returning.",
+  "hebrew": "שׁוּבָה",
+  "translations": {
+    "bg": "връщане",
+    "cs": "návrat",
+    "da": "et afkast",
+    "de": "eine Rückkehr",
+    "el": "μια επιστροφή",
+    "es": "una devolución",
+    "et": "tagasitulek",
+    "fi": "paluu",
+    "fr": "un retour",
+    "hu": "egy visszatérés",
+    "id": "pengembalian",
+    "it": "un ritorno",
+    "ja": "返品",
+    "ko": "반환",
+    "lt": "grąžinimas",
+    "lv": "atgriešanās",
+    "nb": "en retur",
+    "nl": "een terugkeer",
+    "pl": "zwrot",
+    "pt": "um retorno",
+    "ro": "o restituire",
+    "ru": "возвращение",
+    "sk": "návrat",
+    "sl": "vrnitev",
+    "sv": "en avkastning",
+    "tr": "bir dönüş",
+    "uk": "повернення",
+    "zh": "返回"
+  },
+  "verses": [
+    "isaiah 30:15:7"
+  ]
+}

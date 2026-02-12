@@ -1,0 +1,42 @@
+{
+  "number": "H3854",
+  "language": "hebrew",
+  "transliteration": "lahag",
+  "pronunciation": "lah'-hag",
+  "definition": "intense mental application",
+  "kjvTranslation": "study.",
+  "hebrew": "לַהַג",
+  "translations": {
+    "bg": "интензивно умствено приложение",
+    "cs": "intenzivní mentální aplikace",
+    "da": "intens mental anvendelse",
+    "de": "intensive geistige Beschäftigung",
+    "el": "έντονη νοητική εφαρμογή",
+    "es": "aplicación mental intensa",
+    "et": "intensiivne vaimne rakendamine",
+    "fi": "intensiivinen henkinen soveltaminen",
+    "fr": "application mentale intense",
+    "hu": "intenzív mentális alkalmazás",
+    "id": "aplikasi mental yang intens",
+    "it": "applicazione mentale intensa",
+    "ja": "激しいメンタル・アプリケーション",
+    "ko": "강렬한 정신적 응용",
+    "lt": "intensyvus protinis taikymas",
+    "lv": "intensīva garīga pielietošana",
+    "nb": "intens mental anvendelse",
+    "nl": "intensieve mentale toepassing",
+    "pl": "intensywne zastosowanie mentalne",
+    "pt": "aplicação mental intensa",
+    "ro": "aplicare mentală intensă",
+    "ru": "интенсивное умственное применение",
+    "sk": "intenzívne mentálne uplatnenie",
+    "sl": "intenzivna mentalna uporaba",
+    "sv": "intensiv mental tillämpning",
+    "tr": "yoğun zihinsel uygulama",
+    "uk": "інтенсивне розумове навантаження",
+    "zh": "强烈的心理应用"
+  },
+  "verses": [
+    "ecclesiastes 12:12:9"
+  ]
+}

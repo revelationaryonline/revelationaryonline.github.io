@@ -1,0 +1,42 @@
+{
+  "number": "H4228",
+  "language": "hebrew",
+  "transliteration": "machăgôreth",
+  "pronunciation": "makh-ag-o'-reth",
+  "definition": "a girdle",
+  "kjvTranslation": "girding.",
+  "hebrew": "מַחֲגֹרֶת",
+  "translations": {
+    "bg": "пояс",
+    "cs": "opasek",
+    "da": "et bælte",
+    "de": "hüftgürtel",
+    "el": "μια ζώνη",
+    "es": "una faja",
+    "et": "vöö",
+    "fi": "vyötärö",
+    "fr": "une ceinture",
+    "hu": "egy öv",
+    "id": "korset",
+    "it": "una cintura",
+    "ja": "ガードル",
+    "ko": "거들",
+    "lt": "diržas",
+    "lv": "josta",
+    "nb": "et hoftebelte",
+    "nl": "een gordel",
+    "pl": "pas",
+    "pt": "uma cinta",
+    "ro": "un brâu",
+    "ru": "пояс",
+    "sk": "opasok",
+    "sl": "pas",
+    "sv": "en gördel",
+    "tr": "bir kuşak",
+    "uk": "пояс",
+    "zh": "带子"
+  },
+  "verses": [
+    "isaiah 3:24:14"
+  ]
+}

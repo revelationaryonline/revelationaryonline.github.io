@@ -1,0 +1,43 @@
+{
+  "number": "H971",
+  "language": "hebrew",
+  "transliteration": "bachîyn",
+  "pronunciation": "bakh-een'",
+  "definition": "a watch-tower of besiegers",
+  "kjvTranslation": "tower.",
+  "translations": {
+    "bg": "наблюдателна кула на обсаждащите",
+    "cs": "strážní věž obléhatelů",
+    "da": "et vagttårn af belejrere",
+    "de": "ein Wachturm von Belagerern",
+    "el": "ένα παρατηρητήριο πολιορκητών",
+    "es": "una atalaya de sitiadores",
+    "et": "piirajate vahitorn",
+    "fi": "piirittäjien vartiotorni",
+    "fr": "une tour de guet des assiégeants",
+    "hu": "ostromlók őrtornya",
+    "id": "menara pengawas para pengepung",
+    "it": "una torre di guardia degli assedianti",
+    "ja": "包囲者の監視塔",
+    "ko": "포위망루",
+    "lt": "sargybinių bokštas",
+    "lv": "aplencēju sardzes tornis",
+    "nb": "et vakttårn av beleirere",
+    "nl": "een wachttoren van belegeraars",
+    "pl": "wieża strażnicza oblegających",
+    "pt": "uma torre de vigia de sitiantes",
+    "ro": "un turn de pază al asediatorilor",
+    "ru": "сторожевая башня осаждающих",
+    "sk": "strážna veža obliehateľov",
+    "sl": "stražni stolp oblegateljev",
+    "sv": "ett vakttorn av belägrare",
+    "tr": "kuşatmacıların gözetleme kulesi",
+    "uk": "сторожова вежа обложених",
+    "zh": "围城"
+  },
+  "hebrew": "בַּחִין",
+  "verses": [
+    "isaiah 23:13:11",
+    "isaiah 23:13:12"
+  ]
+}

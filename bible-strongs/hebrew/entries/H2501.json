@@ -1,0 +1,42 @@
+{
+  "number": "H2501",
+  "language": "hebrew",
+  "transliteration": "Cheleph",
+  "pronunciation": "kheh'lef",
+  "definition": "Cheleph, a place in Palestine",
+  "kjvTranslation": "Heleph.",
+  "translations": {
+    "bg": "Cheleph, място в Палестина",
+    "cs": "Cheleph, místo v Palestině",
+    "da": "Cheleph, et sted i Palæstina",
+    "de": "Cheleph, ein Ort in Palästina",
+    "el": "Cheleph, τόπος στην Παλαιστίνη",
+    "es": "Cheleph, un lugar en Palestina",
+    "et": "Cheleph, koht Palestiinas",
+    "fi": "Cheleph, paikka Palestiinassa",
+    "fr": "Cheleph, localité de Palestine",
+    "hu": "Cheleph, egy hely Palesztinában",
+    "id": "Cheleph, sebuah tempat di Palestina",
+    "it": "Cheleph, località della Palestina",
+    "ja": "パレスチナの地名、チェレフ",
+    "ko": "팔레스타인의 첼레프, 팔레스타인의 한 장소",
+    "lt": "Cheleph, vietovė Palestinoje",
+    "lv": "Cheleph, vieta Palestīnā",
+    "nb": "Cheleph, et sted i Palestina",
+    "nl": "Cheleph, een plaats in Palestina",
+    "pl": "Cheleph, miejscowość w Palestynie",
+    "pt": "Cheleph, um lugar na Palestina",
+    "ro": "Cheleph, un loc în Palestina",
+    "ru": "Хелеф, место в Палестине",
+    "sk": "Cheleph, miesto v Palestíne",
+    "sl": "Cheleph, kraj v Palestini",
+    "sv": "Cheleph, en plats i Palestina",
+    "tr": "Cheleph, Filistin'de bir yer",
+    "uk": "Челеф, місце в Палестині",
+    "zh": "哲勒夫"
+  },
+  "hebrew": "חֶלֶף",
+  "verses": [
+    "joshua 19:33:2"
+  ]
+}

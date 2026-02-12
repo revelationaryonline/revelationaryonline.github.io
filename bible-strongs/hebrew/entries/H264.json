@@ -1,0 +1,42 @@
+{
+  "number": "H264",
+  "language": "hebrew",
+  "transliteration": "ʼachăvâh",
+  "pronunciation": "akh-av-aw'",
+  "definition": "fraternity",
+  "kjvTranslation": "brotherhood.",
+  "translations": {
+    "bg": "братство",
+    "cs": "bratrstvo",
+    "da": "broderskab",
+    "de": "burschenschaft",
+    "el": "αδελφότητα",
+    "es": "fraternidad",
+    "et": "vennaskond",
+    "fi": "veljeys",
+    "fr": "fraternité",
+    "hu": "testvériség",
+    "id": "persaudaraan",
+    "it": "fraternità",
+    "ja": "友愛",
+    "ko": "형제애",
+    "lt": "brolija",
+    "lv": "brālība",
+    "nb": "brorskap",
+    "nl": "broederschap",
+    "pl": "bractwo",
+    "pt": "fraternidade",
+    "ro": "fraternitate",
+    "ru": "братство",
+    "sk": "bratstvo",
+    "sl": "bratovščina",
+    "sv": "brödraskap",
+    "tr": "kardeşlik",
+    "uk": "братство",
+    "zh": "兄弟会"
+  },
+  "hebrew": "אַחֲוָה",
+  "verses": [
+    "zechariah 11:14:8"
+  ]
+}

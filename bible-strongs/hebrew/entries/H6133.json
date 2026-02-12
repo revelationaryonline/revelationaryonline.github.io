@@ -1,0 +1,42 @@
+{
+  "number": "H6133",
+  "language": "hebrew",
+  "transliteration": "ʻêqer",
+  "pronunciation": "ay'-ker",
+  "definition": "figuratively, a transplanted person, i.e. naturalized citizen",
+  "kjvTranslation": "stock.",
+  "hebrew": "עֵקֶר",
+  "translations": {
+    "bg": "в преносен смисъл - трансплантиран човек, т.е. натурализиран гражданин",
+    "cs": "v přeneseném významu transplantovaný člověk, tj. naturalizovaný občan",
+    "da": "i overført betydning en transplanteret person, dvs. en naturaliseret borger",
+    "de": "im übertragenen Sinne eine transplantierte Person, d. h. ein eingebürgerter Bürger",
+    "el": "μεταφορικά, ένα μεταμοσχευμένο άτομο, δηλαδή ένας πολιτογραφημένος πολίτης",
+    "es": "en sentido figurado, una persona trasplantada, es decir, un ciudadano naturalizado",
+    "et": "piltlikult öeldes ümberasustatud isik, st naturaliseeritud kodanik",
+    "fi": "kuvaannollisesti, siirretty henkilö, ts. kansalaiseksi kansalaistettu kansalainen",
+    "fr": "au sens figuré, une personne transplantée, c'est-à-dire un citoyen naturalisé",
+    "hu": "átvitt értelemben egy átültetett személy, azaz honosított állampolgár",
+    "id": "secara kiasan, orang yang ditransplantasikan, yaitu warga negara yang dinaturalisasi",
+    "it": "in senso figurato, una persona trapiantata, cioè un cittadino naturalizzato",
+    "ja": "比喩的には、移植された人、つまり帰化人",
+    "ko": "비 유적으로, 이식 된 사람, 즉 귀화 시민",
+    "lt": "perkeltine prasme - persodintas asmuo, t. y. natūralizuotas pilietis",
+    "lv": "pārnestā nozīmē - pārvietots cilvēks, t. i., naturalizēts pilsonis",
+    "nb": "i overført betydning, en transplantert person, dvs. en naturalisert statsborger",
+    "nl": "figuurlijk, een getransplanteerde persoon, d.w.z. genaturaliseerde burger",
+    "pl": "w przenośni, osoba przeszczepiona, tj. naturalizowany obywatel",
+    "pt": "no sentido figurado, uma pessoa transplantada, ou seja, um cidadão naturalizado",
+    "ro": "la figurat, o persoană transplantată, adică un cetățean naturalizat",
+    "ru": "в переносном смысле - пересаженный человек, т.е. натурализованный гражданин",
+    "sk": "v prenesenom význame transplantovaný človek, t. j. naturalizovaný občan",
+    "sl": "v prenesenem pomenu, preseljena oseba, tj. naturalizirani državljan",
+    "sv": "bildligt talat, en transplanterad person, dvs. naturaliserad medborgare",
+    "tr": "mecazi anlamda, nakledilmiş bir kişi, yani vatandaşlığa kabul edilmiş bir vatandaş",
+    "uk": "образно кажучи, пересаджена людина, тобто натуралізований громадянин",
+    "zh": "移居者，即归化公民"
+  },
+  "verses": [
+    "leviticus 25:47:14"
+  ]
+}

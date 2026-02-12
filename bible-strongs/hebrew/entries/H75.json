@@ -1,0 +1,43 @@
+{
+  "number": "H75",
+  "language": "hebrew",
+  "transliteration": "ʼâbaç",
+  "pronunciation": "aw-bas'",
+  "definition": "to fodder",
+  "kjvTranslation": "fatted, stalled.",
+  "translations": {
+    "bg": "за фураж",
+    "cs": "na krmivo",
+    "da": "til foder",
+    "de": "zu Futterzwecken",
+    "el": "σε ζωοτροφές",
+    "es": "a forraje",
+    "et": "söödaks",
+    "fi": "rehuksi",
+    "fr": "au fourrage",
+    "hu": "takarmánynak",
+    "id": "untuk pakan ternak",
+    "it": "al foraggio",
+    "ja": "飼料に",
+    "ko": "사료로",
+    "lt": "pašarui",
+    "lv": "lopbarībai",
+    "nb": "til fôr",
+    "nl": "tot veevoeder",
+    "pl": "do paszy",
+    "pt": "para forragem",
+    "ro": "la furaje",
+    "ru": "на корм",
+    "sk": "na krmivo",
+    "sl": "za krmo",
+    "sv": "till foder",
+    "tr": "yem için",
+    "uk": "на корм",
+    "zh": "去草料"
+  },
+  "hebrew": "אָבַס",
+  "verses": [
+    "firstKings 5:3:13",
+    "proverbs 15:17:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H19",
+  "language": "hebrew",
+  "transliteration": "ʼibchâh",
+  "pronunciation": "ib-khaw'",
+  "definition": "brandishing of a sword",
+  "kjvTranslation": "point.",
+  "translations": {
+    "bg": "размахване на меч",
+    "cs": "ohánění se mečem",
+    "da": "svinger et sværd",
+    "de": "schwingen eines Schwertes",
+    "el": "επίδειξη σπαθιού",
+    "es": "blandiendo una espada",
+    "et": "mõõgaga vehklemine",
+    "fi": "miekan heiluttaminen",
+    "fr": "brandissement d'une épée",
+    "hu": "kardforgatás",
+    "id": "mengacungkan pedang",
+    "it": "brandire una spada",
+    "ja": "白刃一閃",
+    "ko": "칼 휘두르기",
+    "lt": "kalavijo demonstravimas",
+    "lv": "zobena izlikšana",
+    "nb": "svingende sverd",
+    "nl": "zwaaien met een zwaard",
+    "pl": "wymachiwanie mieczem",
+    "pt": "brandir uma espada",
+    "ro": "fluturarea unei săbii",
+    "ru": "бренчание меча",
+    "sk": "oháňanie sa mečom",
+    "sl": "razkazovanje meča",
+    "sv": "svingande av svärd",
+    "tr": "kılıç sallamak",
+    "uk": "розмахування мечем",
+    "zh": "挥剑"
+  },
+  "hebrew": "אִבְחָה",
+  "verses": [
+    "ezekiel 21:20:9"
+  ]
+}

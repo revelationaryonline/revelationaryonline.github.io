@@ -1,0 +1,42 @@
+{
+  "number": "H1317",
+  "language": "hebrew",
+  "transliteration": "boshnâh",
+  "pronunciation": "bosh-naw'",
+  "definition": "shamefulness",
+  "kjvTranslation": "shame.",
+  "translations": {
+    "bg": "срамност",
+    "cs": "ostudnost",
+    "da": "skamfuldhed",
+    "de": "schändlichkeit",
+    "el": "ντροπή",
+    "es": "vergüenza",
+    "et": "häbiväärsus",
+    "fi": "häpeällisyys",
+    "fr": "honte",
+    "hu": "szégyentelenség",
+    "id": "rasa malu",
+    "it": "vergogna",
+    "ja": "情けなさ",
+    "ko": "부끄러움",
+    "lt": "gėdingumas",
+    "lv": "kaunpilnība",
+    "nb": "skammelighet",
+    "nl": "schande",
+    "pl": "haniebność",
+    "pt": "vergonha",
+    "ro": "rușine",
+    "ru": "стыдливость",
+    "sk": "hanebnosť",
+    "sl": "sramota",
+    "sv": "skamlighet",
+    "tr": "utanç verici",
+    "uk": "ганебність",
+    "zh": "丑态"
+  },
+  "hebrew": "בׇּשְׁנָה",
+  "verses": [
+    "hosea 10:6:7"
+  ]
+}

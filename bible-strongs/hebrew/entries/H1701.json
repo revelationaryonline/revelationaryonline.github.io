@@ -1,0 +1,43 @@
+{
+  "number": "H1701",
+  "language": "hebrew",
+  "transliteration": "dibrâh",
+  "pronunciation": "dib-raw'",
+  "definition": "{a reason, suit or style}",
+  "kjvTranslation": "intent, sake.",
+  "translations": {
+    "bg": "{причина, костюм или стил}",
+    "cs": "{důvod, oblek nebo styl}",
+    "da": "{en grund, et jakkesæt eller en stil}",
+    "de": "{ein Grund, Anzug oder Stil}",
+    "el": "{ένας λόγος, ένα κοστούμι ή ένα στυλ}",
+    "es": "{una razón, traje o estilo}",
+    "et": "{põhjus, ülikond või stiil}",
+    "fi": "{syy, puku tai tyyli}",
+    "fr": "{une raison, un costume ou un style}",
+    "hu": "{egy ok, öltöny vagy stílus}",
+    "id": "(alasan, setelan atau gaya)",
+    "it": "{un motivo, un abito o uno stile}",
+    "ja": "{理由、スーツ、スタイル}。",
+    "ko": "{이유, 정장 또는 스타일}",
+    "lt": "{priežastis, kostiumas ar stilius}",
+    "lv": "{cēlonis, uzvalks vai stils}",
+    "nb": "{en grunn, dress eller stil}",
+    "nl": "{een reden, pak of stijl}",
+    "pl": "{powód, garnitur lub styl}",
+    "pt": "{uma razão, fato ou estilo}",
+    "ro": "{un motiv, costum sau stil}",
+    "ru": "{Повод, костюм или стиль.}",
+    "sk": "{dôvod, oblek alebo štýl}",
+    "sl": "{razlog, obleka ali slog}",
+    "sv": "{ett skäl, en kostym eller en stil}",
+    "tr": "{bir sebep, takım elbise veya stil}",
+    "uk": "{причина, костюм або стиль}",
+    "zh": "{一个理由、一套衣服或一种风格}"
+  },
+  "hebrew": "דִּבְרָה",
+  "verses": [
+    "daniel 2:30:15",
+    "daniel 4:14:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1536",
+  "language": "hebrew",
+  "transliteration": "gilgâl",
+  "pronunciation": "ghil-gawl'",
+  "definition": "{a wheel; by analogy, a whirlwind; also dust (as whirled)}",
+  "kjvTranslation": "wheel.",
+  "translations": {
+    "bg": "{колело; по аналогия - вихрушка; също и прах (като завихрен)}",
+    "cs": "{kolo; analogicky vichřice; také prach (jako vířený)}",
+    "da": "{et hjul; analogt hertil en hvirvelvind; også støv (som hvirvles op)}",
+    "de": "{ein Rad; in Analogie dazu ein Wirbelwind; auch Staub (wie aufgewirbelt)}",
+    "el": "{τροχός, κατ' αναλογία, ανεμοστρόβιλος, επίσης σκόνη (όπως στροβιλίζεται) }",
+    "es": "{una rueda; por analogía, un torbellino; también polvo (como arremolinado)}",
+    "et": "{ratas; analoogia järgi keeristorm; ka tolm (nagu keerutatud)}",
+    "fi": "{pyörä; analogisesti pyörremyrsky; myös pöly (pyöritettynä) }",
+    "fr": "{une roue ; par analogie, un tourbillon ; aussi la poussière (comme tourbillonnant) }",
+    "hu": "{kerék; ennek analógiájára forgószél; por is (mint örvénylő)}",
+    "id": "{roda; dengan analogi, angin puyuh; juga debu (seperti berputar-putar)}",
+    "it": "{una ruota; per analogia, un turbine; anche polvere (come turbine)}",
+    "ja": "{車輪；類似として、つむじ風；（渦巻きのような）塵も｝。",
+    "ko": "{바퀴, 비유하자면 회오리바람, 또한 먼지(소용돌이치는 것)}",
+    "lt": "{ ratas; pagal analogiją - viesulas; taip pat dulkės (suvirpintos) }",
+    "lv": "{ ritenis; pēc analoģijas - virpuļviesulis; arī putekļi (kā virpuļviesulis)}",
+    "nb": "{et hjul; analogt, en virvelvind; også støv (som virvles opp)}",
+    "nl": "{een wiel; naar analogie, een wervelwind; ook stof (als gewerveld)}",
+    "pl": "{koło; przez analogię, wicher; także pył (jako wirujący)}",
+    "pt": "{uma roda; por analogia, um remoinho; também pó (como remoído)}",
+    "ro": "{o roată; prin analogie, un vârtej de vânt; de asemenea praf (ca vârtej)}",
+    "ru": "{колесо; по аналогии - вихрь; также пыль (как вихрь)}",
+    "sk": "{koleso; analogicky víchor; tiež prach (ako vír)}",
+    "sl": "{kolo; po analogiji vihar; tudi prah (kot vrtinec)}",
+    "sv": "{ett hjul; analogt, en virvelvind; även damm (som virvlas)}",
+    "tr": "{bir tekerlek; benzetme yoluyla, bir kasırga; ayrıca toz (savrulmuş olarak)}",
+    "uk": "{колесо; за аналогією, вихор; також пил (як закручений)}",
+    "zh": "{车轮；类推为旋风；也指尘土（旋起的）}。"
+  },
+  "hebrew": "גִּלְגָּל",
+  "verses": [
+    "isaiah 28:28:8"
+  ]
+}

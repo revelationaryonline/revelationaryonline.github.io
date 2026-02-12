@@ -1,0 +1,42 @@
+{
+  "number": "H4596",
+  "language": "hebrew",
+  "transliteration": "mᵉʻîy",
+  "pronunciation": "meh-ee'",
+  "definition": "a pile of rubbish (as contorted), i.e. a ruin",
+  "kjvTranslation": "heap.",
+  "hebrew": "מְעִי",
+  "verses": [
+    "isaiah 17:1:7"
+  ],
+  "translations": {
+    "bg": "купчина боклук (изкривен), т.е. развалина",
+    "cs": "hromada odpadků (jako pokroucená), tj. ruina",
+    "da": "en bunke affald (som forvredet), dvs. en ruin",
+    "de": "ein Haufen Unrat (wie verdreht), d.h. eine Ruine",
+    "el": "ένας σωρός από σκουπίδια (ως παραμορφωμένα), δηλαδή ένα ερείπιο",
+    "es": "un montón de basura (como contorsionado), es decir, una ruina",
+    "et": "prügihunnik (nagu moonutatud), s.t. varemed",
+    "fi": "roskakasa (vääristyneenä) eli raunio",
+    "fr": "un amas d'ordures (comme contourné), c'est-à-dire une ruine",
+    "hu": "szemétkupac (mint torz), azaz romhalmaz",
+    "id": "tumpukan sampah (seperti yang dikontekskan), yaitu reruntuhan",
+    "it": "un mucchio di rifiuti (come contorto), cioè un rudere",
+    "ja": "屑の山",
+    "ko": "쓰레기 더미 (뒤틀린 상태), 즉 폐허",
+    "lt": "šiukšlių krūva (iškraipyta), t. y. griuvėsiai",
+    "lv": "atkritumu kaudze (kā izkropļota), t. i., drupas",
+    "nb": "en haug med søppel (som forvrengt), dvs. en ruin",
+    "nl": "een hoop rotzooi (zoals vervormd), d.w.z. een ruïne",
+    "pl": "kupa śmieci (jako zniekształcona), tj. ruina",
+    "pt": "um monte de lixo (contorcido), ou seja, uma ruína",
+    "ro": "o grămadă de gunoaie (contorsionate), adică o ruină",
+    "ru": "груда хлама (в искореженном виде), т.е. развалины",
+    "sk": "hromada odpadu (ako pokrčená), t. j. ruina",
+    "sl": "kup smeti (kot izkrivljenih), tj. ruševina",
+    "sv": "en hög med skräp (som förvriden), dvs. en ruin",
+    "tr": "bir çöp yığını (çarpıtılmış olarak), yani bir harabe",
+    "uk": "купа сміття (у спотвореному вигляді), тобто руїна",
+    "zh": "一堆废墟"
+  }
+}

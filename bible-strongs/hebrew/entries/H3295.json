@@ -1,0 +1,42 @@
+{
+  "number": "H3295",
+  "language": "hebrew",
+  "transliteration": "yaʻărâh",
+  "pronunciation": "yah-ar-aw'",
+  "definition": "{a copse of bushes; hence, a forest; hence, honey in the comb (as hived in trees)}",
+  "kjvTranslation": "(honey-) comb, forest.",
+  "translations": {
+    "bg": "{сбор от храсти; оттук - гора; оттук - мед в килийките (по дърветата)}",
+    "cs": "{hromada keřů; odtud les; odtud med v plástech (jako včelstvo na stromech)}",
+    "da": "{et krat af buske; derfor en skov; derfor honning i kammen (som i træer)}",
+    "de": "{ein Wäldchen aus Büschen; daher ein Wald; daher Honig in der Wabe (wie in Bäumen) }",
+    "el": "{μια συστάδα από θάμνους, εξ ου και δάσος, εξ ου και το μέλι στις κηρήθρες (ως κυψέλη σε δέντρα)}",
+    "es": "{un bosquecillo de arbustos; de ahí, un bosque; de ahí, miel en el panal (como colmena en los árboles)}",
+    "et": "{põõsastest koosnev põõsastik; seega mets; seega mesi kärgis (nagu puude sees)",
+    "fi": "{pensaikko; siis metsä; siis hunaja kammissa (kuten puissa) }",
+    "fr": "{un bosquet de buissons ; d'où une forêt ; d'où le miel dans le rayon (comme dans les arbres) }",
+    "hu": "{bokrokból álló bozótos; innen erdő; innen méz a méhsejtben (mint a fákon lévő méhsejtek)}",
+    "id": "{semak-semak; karenanya, hutan; karenanya, madu di sisir (seperti bersarang di pohon)}",
+    "it": "{un boschetto di arbusti; quindi, una foresta; quindi, il miele nel favo (come arboreo)}",
+    "ja": "{藪の雑木林、だから森、だから（木に巣くった）櫛の中の蜂蜜｝。",
+    "ko": "{수풀의 무리, 따라서 숲, 따라서 빗 속의 꿀(나무에 벌집처럼)}",
+    "lt": "{krūmų krūmas; taigi miškas; taigi medus koriuose (medžių koriuose)}",
+    "lv": "{krūmu birzs, tātad mežs, tātad medus slotiņās (koku stropos)}",
+    "nb": "{et kratt av busker; derav en skog; derav honning i kammen (som slynget i trær)}",
+    "nl": "{een bosje struiken; vandaar, een bos; vandaar, honing in de raat (als in bomen) }",
+    "pl": "{zagajnik krzewów; stąd las; stąd miód w plastrze (jak w ulach na drzewach)}",
+    "pt": "{um bosque de arbustos; daí, uma floresta; daí, mel no favo (como colhido em árvores)}",
+    "ro": "{un pâlc de tufișuri; de aici, o pădure; de aici, miere în fagure (ca în copaci)}",
+    "ru": "{копилка кустов; отсюда - лес; отсюда - мед в гребне (как в деревьях) }",
+    "sk": "{hŕba kríkov; odtiaľ les; odtiaľ med v plástoch (ako včelstvo na stromoch)}",
+    "sl": "{glavica grmovja; od tod gozd; od tod med v satju (na drevesih)}",
+    "sv": "{en dunge av buskar; därav en skog; därav honung i kammen (som i träd)}",
+    "tr": "{çalılardan oluşan bir çalılık; dolayısıyla, bir orman; dolayısıyla, petekteki bal (ağaçlarda kovan gibi)}",
+    "uk": "{кущі; звідси - ліс; звідси - мед у сотах (як у вуликах на деревах)}",
+    "zh": "{一片灌木丛；因此，一片森林；因此，蜂巢中的蜂蜜（如树上的蜂巢）}。"
+  },
+  "hebrew": "יַעֲרָה",
+  "verses": [
+    "firstSamuel 14:27:15"
+  ]
+}

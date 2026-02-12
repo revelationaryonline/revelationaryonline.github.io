@@ -1,0 +1,43 @@
+{
+  "number": "H106",
+  "language": "hebrew",
+  "transliteration": "ʼegrôph",
+  "pronunciation": "eg-rofe'",
+  "definition": "the clenched hand",
+  "kjvTranslation": "fist.",
+  "translations": {
+    "bg": "стиснатата ръка",
+    "cs": "sevřená ruka",
+    "da": "den knyttede hånd",
+    "de": "die geballte Hand",
+    "el": "το σφιγμένο χέρι",
+    "es": "la mano apretada",
+    "et": "kokkusurutud käsi",
+    "fi": "puristettu käsi",
+    "fr": "la main serrée",
+    "hu": "a szorított kéz",
+    "id": "tangan yang terkepal",
+    "it": "la mano stretta",
+    "ja": "握りしめた手",
+    "ko": "움켜쥔 손",
+    "lt": "suspausta ranka",
+    "lv": "saspiesta roka",
+    "nb": "den knyttede hånden",
+    "nl": "de gebalde hand",
+    "pl": "zaciśnięta dłoń",
+    "pt": "a mão cerrada",
+    "ro": "mâna încleștată",
+    "ru": "сжатая рука",
+    "sk": "zovretá ruka",
+    "sl": "stisnjena roka",
+    "sv": "den knutna handen",
+    "tr": "sıkılmış el",
+    "uk": "стиснута рука",
+    "zh": "紧握的手"
+  },
+  "hebrew": "אֶגְרֹף",
+  "verses": [
+    "exodus 21:18:9",
+    "isaiah 58:4:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3901",
+  "language": "hebrew",
+  "transliteration": "lâchem",
+  "pronunciation": "law-khem'",
+  "definition": "battle",
+  "kjvTranslation": "war.",
+  "hebrew": "לָחֶם",
+  "translations": {
+    "bg": "битка",
+    "cs": "bitva",
+    "da": "kamp",
+    "de": "schlacht",
+    "el": "μάχη",
+    "es": "batalla",
+    "et": "lahing",
+    "fi": "taistelu",
+    "fr": "bataille",
+    "hu": "csata",
+    "id": "pertempuran",
+    "it": "battaglia",
+    "ja": "戦い",
+    "ko": "전투",
+    "lt": "mūšis",
+    "lv": "kauja",
+    "nb": "kamp",
+    "nl": "slag",
+    "pl": "bitwa",
+    "pt": "batalha",
+    "ro": "luptă",
+    "ru": "битва",
+    "sk": "bitka",
+    "sl": "bitka",
+    "sv": "strid",
+    "tr": "savaş",
+    "uk": "битва",
+    "zh": "战役"
+  },
+  "verses": [
+    "judges 5:8:4"
+  ]
+}

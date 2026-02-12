@@ -1,0 +1,42 @@
+{
+  "number": "H358",
+  "language": "hebrew",
+  "transliteration": "ʼÊylôwn Bêyth Chânân",
+  "pronunciation": "ay-lone' bayth-chawnawn'",
+  "definition": "Elon of Beth-chanan, a place in Palestine",
+  "kjvTranslation": "Elon-bethhanan.",
+  "translations": {
+    "bg": "Елон от Вет-чанан, място в Палестина",
+    "cs": "Elon z Bét-chanánu, místo v Palestině",
+    "da": "Elon af Beth-chanan, et sted i Palæstina",
+    "de": "Elon von Beth-chanan, ein Ort in Palästina",
+    "el": "Elon of Beth-chanan, ένας τόπος στην Παλαιστίνη",
+    "es": "Elon de Beth-chanan, un lugar en Palestina",
+    "et": "Elon Beth-chananist, koht Palestiinas",
+    "fi": "Elon of Beth-chanan, paikka Palestiinassa",
+    "fr": "Elon de Beth-chanan, localité de Palestine",
+    "hu": "Elon of Beth-chanan, egy hely Palesztinában",
+    "id": "Elon dari Beth-chanan, sebuah tempat di Palestina",
+    "it": "Elon di Beth-chanan, località della Palestina",
+    "ja": "ベトチャナンのエロン、パレスチナの地名",
+    "ko": "팔레스타인의 벳-차난의 엘론",
+    "lt": "Elonas iš Betchanano, vietovė Palestinoje",
+    "lv": "Elon of Beth-chanan, vieta Palestīnā",
+    "nb": "Elon av Betchanan, et sted i Palestina",
+    "nl": "Elon of Beth-chanan, een plaats in Palestina",
+    "pl": "Elon z Beth-chanan, miejscowość w Palestynie",
+    "pt": "Elon de Beth-chanan, um lugar na Palestina",
+    "ro": "Elon of Beth-chanan, un loc în Palestina",
+    "ru": "Элон из Бет-Шанана, местечко в Палестине",
+    "sk": "Elon z Bét-chanánu, miesto v Palestíne",
+    "sl": "Elon iz Bet-chanana, kraj v Palestini",
+    "sv": "Elon av Beth-chanan, en plats i Palestina",
+    "tr": "Elon of Beth-chanan, Filistin'de bir yer",
+    "uk": "Елон з Бет-Чанан, місце в Палестині",
+    "zh": "伯沙南的埃隆"
+  },
+  "hebrew": "אֵילוֹן בֵּית חָנָן",
+  "verses": [
+    "firstKings 4:9:8"
+  ]
+}

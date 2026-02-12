@@ -1,0 +1,42 @@
+{
+  "number": "H2675",
+  "language": "hebrew",
+  "transliteration": "Châtsôwr Chădattâh",
+  "pronunciation": "khaw-tsore' khad-attaw'",
+  "definition": "new Chatsor, a place in Palestine",
+  "kjvTranslation": "Hazor, Hadattah (as if two places).",
+  "translations": {
+    "bg": "new Chatsor, място в Палестина",
+    "cs": "nový Chatsor, místo v Palestině",
+    "da": "nye Chatsor, et sted i Palæstina",
+    "de": "new Chatsor, ein Ort in Palästina",
+    "el": "νέο Chatsor, τόπος στην Παλαιστίνη",
+    "es": "nuevo Chatsor, un lugar en Palestina",
+    "et": "uus Chatsor, koht Palestiinas",
+    "fi": "uusi Chatsor, paikka Palestiinassa",
+    "fr": "nouveau Chatsor, localité de Palestine",
+    "hu": "új Chatsor, egy hely Palesztinában",
+    "id": "chatsor baru, sebuah tempat di Palestina",
+    "it": "nuovo Chatsor, località della Palestina",
+    "ja": "新パレスチナの地名Chatsor",
+    "ko": "팔레스타인의 새로운 장소, 샤소르",
+    "lt": "naujas Chatsoras, vietovė Palestinoje",
+    "lv": "jaunā Chatsor, vieta Palestīnā",
+    "nb": "nye Chatsor, et sted i Palestina",
+    "nl": "nieuw Chatsor, een plaats in Palestina",
+    "pl": "nowy Chatsor, miejscowość w Palestynie",
+    "pt": "novo Chatsor, um lugar na Palestina",
+    "ro": "new Chatsor, un loc în Palestina",
+    "ru": "новый Чацор, место в Палестине",
+    "sk": "nový Chatsor, miesto v Palestíne",
+    "sl": "novi Chatsor, kraj v Palestini",
+    "sv": "nya Chatsor, en plats i Palestina",
+    "tr": "yeni Chatsor, Filistin'de bir yer",
+    "uk": "новий Чацор, місце в Палестині",
+    "zh": "新查托尔"
+  },
+  "hebrew": "חָצוֹר חֲדַתָּה",
+  "verses": [
+    "joshua 15:25:1"
+  ]
+}

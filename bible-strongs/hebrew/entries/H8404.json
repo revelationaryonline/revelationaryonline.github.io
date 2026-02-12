@@ -1,0 +1,43 @@
+{
+  "number": "H8404",
+  "language": "hebrew",
+  "transliteration": "Tabʻêrâh",
+  "pronunciation": "tab-ay-raw'",
+  "definition": "Taberah, a place in the Desert",
+  "kjvTranslation": "Taberah.",
+  "hebrew": "תַּבְעֵרָה",
+  "translations": {
+    "bg": "Табера, място в пустинята",
+    "cs": "Tabera, místo v poušti",
+    "da": "Taberah, et sted i ørkenen",
+    "de": "Taberah, ein Ort in der Wüste",
+    "el": "Taberah, ένα μέρος στην έρημο",
+    "es": "Taberah, un lugar en el desierto",
+    "et": "Tabera, koht kõrbes",
+    "fi": "Taberah, paikka erämaassa",
+    "fr": "Taberah, un lieu dans le désert",
+    "hu": "Taberah, egy hely a sivatagban",
+    "id": "Taberah, sebuah tempat di Gurun Pasir",
+    "it": "Taberah, un luogo nel deserto",
+    "ja": "砂漠の地、タベラ",
+    "ko": "사막의 장소, 타베라",
+    "lt": "Tabera, vieta dykumoje",
+    "lv": "Tabera, vieta tuksnesī",
+    "nb": "Taberah, et sted i ørkenen",
+    "nl": "Taberah, een plaats in de woestijn",
+    "pl": "Taberah, miejsce na pustyni",
+    "pt": "Taberá, um lugar no deserto",
+    "ro": "Taberah, un loc în deșert",
+    "ru": "Табера, место в пустыне",
+    "sk": "Tabera, miesto v púšti",
+    "sl": "Tabera, kraj v puščavi",
+    "sv": "Taberah, en plats i öknen",
+    "tr": "Taberah, çölde bir yer",
+    "uk": "Табера, місце в пустелі",
+    "zh": "塔比拉"
+  },
+  "verses": [
+    "numbers 11:3:4",
+    "deuteronomy 9:22:0"
+  ]
+}

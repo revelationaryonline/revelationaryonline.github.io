@@ -1,0 +1,42 @@
+{
+  "number": "H1970",
+  "language": "hebrew",
+  "transliteration": "hâkar",
+  "pronunciation": "haw-kar'",
+  "definition": "to injure",
+  "kjvTranslation": "make self strange.",
+  "translations": {
+    "bg": "да нарани",
+    "cs": "zranit",
+    "da": "at skade",
+    "de": "zu verletzen",
+    "el": "να τραυματίσει",
+    "es": "herir",
+    "et": "vigastada",
+    "fi": "vahingoittaa",
+    "fr": "blesser",
+    "hu": "megsebezni",
+    "id": "untuk melukai",
+    "it": "ferire",
+    "ja": "傷つける",
+    "ko": "다치다",
+    "lt": "sužaloti",
+    "lv": "ievainot",
+    "nb": "å skade",
+    "nl": "verwonden",
+    "pl": "zranić",
+    "pt": "ferir",
+    "ro": "să rănească",
+    "ru": "пораниться",
+    "sk": "zraniť",
+    "sl": "poškodovati",
+    "sv": "att skada",
+    "tr": "yaralamak",
+    "uk": "щоб поранити",
+    "zh": "伤害"
+  },
+  "hebrew": "הָכַר",
+  "verses": [
+    "job 19:3:6"
+  ]
+}

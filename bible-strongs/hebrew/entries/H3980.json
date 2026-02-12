@@ -1,0 +1,43 @@
+{
+  "number": "H3980",
+  "language": "hebrew",
+  "transliteration": "maʼăkôleth",
+  "pronunciation": "mah-ak-o'-leth",
+  "definition": "something eaten (by fire), i.e. fuel",
+  "kjvTranslation": "fuel.",
+  "hebrew": "מַאֲכֹלֶת",
+  "translations": {
+    "bg": "нещо, което е изядено (от огъня), т.е. гориво",
+    "cs": "něco sežraného (ohněm), tj. palivo",
+    "da": "noget, der spises (af ild), dvs. brændstof",
+    "de": "etwas, das (vom Feuer) gefressen wird, d.h. Brennstoff",
+    "el": "κάτι που τρώγεται (από τη φωτιά), δηλαδή καύσιμο",
+    "es": "algo comido (por el fuego), es decir, combustible",
+    "et": "midagi (tule poolt) söödud, s.t. kütus",
+    "fi": "jotakin (tulen syömää) eli polttoainetta",
+    "fr": "ce qui est mangé (par le feu), c'est-à-dire le combustible",
+    "hu": "valami, amit (a tűz) megeszik, azaz tüzelőanyag",
+    "id": "sesuatu yang dimakan (oleh api), yaitu bahan bakar",
+    "it": "qualcosa che viene mangiato (dal fuoco), cioè il combustibile",
+    "ja": "火種",
+    "ko": "(불에 의해) 먹은 것, 즉 연료",
+    "lt": "ką nors, ką suvalgo (ugnis), t. y. kuras",
+    "lv": "kaut kas apēsts (uguns), t. i., degviela",
+    "nb": "noe som spises (av ild), dvs. brensel",
+    "nl": "iets dat (door vuur) wordt opgegeten, d.w.z. brandstof",
+    "pl": "coś zjedzonego (przez ogień), tj. paliwo",
+    "pt": "algo comido (pelo fogo), ou seja, combustível",
+    "ro": "ceva mâncat (de foc), adică combustibil",
+    "ru": "что-то съеденное (огнем), т.е. топливо",
+    "sk": "niečo, čo je pohlcované (ohňom), t. j. palivo",
+    "sl": "nekaj, kar požre (ogenj), tj. gorivo",
+    "sv": "något som äts upp (av eld), dvs. bränsle",
+    "tr": "(ateş tarafından) yenen bir şey, yani yakıt",
+    "uk": "щось з'їдене (вогнем), тобто паливо",
+    "zh": "被吃掉的东西，即燃料"
+  },
+  "verses": [
+    "isaiah 9:4:10",
+    "isaiah 9:18:7"
+  ]
+}

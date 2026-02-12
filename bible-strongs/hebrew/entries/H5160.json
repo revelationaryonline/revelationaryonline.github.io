@@ -1,0 +1,43 @@
+{
+  "number": "H5160",
+  "language": "hebrew",
+  "transliteration": "Nachălîyʼêl",
+  "pronunciation": "nakh-al-ee-ale'",
+  "definition": "Nachaliel, a place in the Desert",
+  "kjvTranslation": "Nahaliel.",
+  "hebrew": "נַחֲלִיאֵל",
+  "translations": {
+    "bg": "Нахалиел, място в пустинята",
+    "cs": "Nachaliel, místo v poušti",
+    "da": "Nachaliel, et sted i ørkenen",
+    "de": "Nachaliel, ein Ort in der Wüste",
+    "el": "Nachaliel, ένας τόπος στην έρημο",
+    "es": "Nachaliel, un lugar en el Desierto",
+    "et": "Nachaliel, koht kõrbes",
+    "fi": "Nachaliel, paikka erämaassa",
+    "fr": "Nachaliel, un lieu dans le désert",
+    "hu": "Nachaliel, egy hely a sivatagban",
+    "id": "Nachaliel, sebuah tempat di Gurun Pasir",
+    "it": "Nachaliel, un luogo nel deserto",
+    "ja": "砂漠の地、ナチャリエル",
+    "ko": "나칼리엘, 사막의 장소",
+    "lt": "Nachalielis, vietovė dykumoje",
+    "lv": "Nachaliel, vieta tuksnesī",
+    "nb": "Nachaliel, et sted i ørkenen",
+    "nl": "Nachaliel, een plaats in de woestijn",
+    "pl": "Nachaliel, miejsce na pustyni",
+    "pt": "Nachaliel, um lugar no deserto",
+    "ro": "Nachaliel, un loc în deșert",
+    "ru": "Нахалиэль, место в пустыне",
+    "sk": "Nachaliel, miesto v púšti",
+    "sl": "Nachaliel, kraj v puščavi",
+    "sv": "Nachaliel, en plats i öknen",
+    "tr": "Nachaliel, Çölde bir yer",
+    "uk": "Нахалієль, місце в пустелі",
+    "zh": "纳迦列，沙漠中的一个地方"
+  },
+  "verses": [
+    "numbers 21:19:1",
+    "numbers 21:19:2"
+  ]
+}

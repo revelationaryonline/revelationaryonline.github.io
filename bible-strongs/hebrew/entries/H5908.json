@@ -1,0 +1,43 @@
+{
+  "number": "H5908",
+  "language": "hebrew",
+  "transliteration": "ʻakkâbîysh",
+  "pronunciation": "ak-kaw-beesh'",
+  "definition": "a spider (as weaving a network)",
+  "kjvTranslation": "spider.",
+  "hebrew": "עַכָּבִישׁ",
+  "translations": {
+    "bg": "паяк (при плетене на мрежа)",
+    "cs": "pavouk (jako tkalcovský stav)",
+    "da": "en edderkop (som væver et netværk)",
+    "de": "eine Spinne (die ein Netz webt)",
+    "el": "μια αράχνη (όπως υφαίνει ένα δίκτυο)",
+    "es": "una araña (como tejiendo una red)",
+    "et": "ämblik (nagu võrku kududes)",
+    "fi": "hämähäkki (verkon kutojana)",
+    "fr": "une araignée (comme pour tisser un réseau)",
+    "hu": "pók (mint hálózatot szövő)",
+    "id": "laba-laba (seperti menenun jaringan)",
+    "it": "un ragno (che tesse una rete)",
+    "ja": "蜘蛛",
+    "ko": "거미(네트워크를 짜는 거미)",
+    "lt": "voras (audžiantis tinklą)",
+    "lv": "zirneklis (kā tīkla pinējs)",
+    "nb": "en edderkopp (som vever et nettverk)",
+    "nl": "een spin (als wever van een netwerk)",
+    "pl": "pająk (tkający sieć)",
+    "pt": "uma aranha (como se estivesse a tecer uma rede)",
+    "ro": "un păianjen (ca țesând o rețea)",
+    "ru": "паук (как плетущий сеть)",
+    "sk": "pavúk (ako tkanie siete)",
+    "sl": "pajek (pri tkanju omrežja)",
+    "sv": "en spindel (som väver ett nätverk)",
+    "tr": "bir örümcek (bir ağı dokurken)",
+    "uk": "павук (як плетіння мережі)",
+    "zh": "蛛网"
+  },
+  "verses": [
+    "job 8:14:4",
+    "isaiah 59:5:4"
+  ]
+}

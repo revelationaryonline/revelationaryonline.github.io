@@ -1,0 +1,42 @@
+{
+  "number": "H749",
+  "language": "hebrew",
+  "transliteration": "ʼărak",
+  "pronunciation": "ar-ak'",
+  "definition": "to suit",
+  "kjvTranslation": "be meet.",
+  "translations": {
+    "bg": "за да отговаря на",
+    "cs": "na míru",
+    "da": "til at passe",
+    "de": "passend zu",
+    "el": "για να ταιριάζει",
+    "es": "para adaptarse",
+    "et": "sobivaks",
+    "fi": "sopivaksi",
+    "fr": "pour s'adapter",
+    "hu": "hogy megfeleljen",
+    "id": "sesuai dengan",
+    "it": "per adattarsi",
+    "ja": "似合うように",
+    "ko": "정장",
+    "lt": "kad atitiktų",
+    "lv": "atbilstoši",
+    "nb": "for å passe",
+    "nl": "passend bij",
+    "pl": "pasować",
+    "pt": "para se adequar",
+    "ro": "pentru a se potrivi",
+    "ru": "подходить",
+    "sk": "na mieru",
+    "sl": "po meri",
+    "sv": "för att passa",
+    "tr": "uygun",
+    "uk": "щоб відповідати",
+    "zh": "适合"
+  },
+  "hebrew": "אֲרַךְ",
+  "verses": [
+    "ezra 4:14:10"
+  ]
+}

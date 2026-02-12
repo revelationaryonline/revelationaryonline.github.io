@@ -1,0 +1,42 @@
+{
+  "number": "H6498",
+  "language": "hebrew",
+  "transliteration": "paqquʻâh",
+  "pronunciation": "pak-koo-aw'",
+  "definition": "the wild cucumber (from splitting open to shed its seeds)",
+  "kjvTranslation": "gourd.",
+  "hebrew": "פַּקֻּעָה",
+  "translations": {
+    "bg": "дивата краставица (от разпукването, за да изхвърли семената си)",
+    "cs": "divoká okurka (od rozdělení, aby se zbavila semen)",
+    "da": "den vilde agurk (fra at sprække op for at smide sine frø)",
+    "de": "die wilde Gurke (vom Aufplatzen, um ihre Samen zu verlieren)",
+    "el": "το άγριο αγγούρι (που ανοίγει για να ρίξει τους σπόρους του)",
+    "es": "el pepino silvestre (por abrirse para soltar sus semillas)",
+    "et": "metskurgi (avanemisest, et oma seemneid välja lasta)",
+    "fi": "luonnonvarainen kurkku (halkeamasta auki siementensä irrottamiseksi)",
+    "fr": "le concombre sauvage (du fait qu'il s'ouvre pour répandre ses graines)",
+    "hu": "a vadon termő uborka (a magok felhasadásától)",
+    "id": "mentimun liar (dari membelah untuk mengeluarkan bijinya)",
+    "it": "il cetriolo selvatico (dalla spaccatura per liberare i semi)",
+    "ja": "やまきゅうり",
+    "ko": "야생 오이 (씨앗을 흘리기 위해 찢어지는 것)",
+    "lt": "laukinis agurkas (nuo skilinėjimo ir sėklų išbyrėjimo)",
+    "lv": "savvaļas gurķi (no šķelšanās, lai atbrīvotos no sēklām)",
+    "nb": "villagurken (fra å sprekke opp for å kaste frøene sine)",
+    "nl": "de wilde komkommer (van het opensplijten van de zaden)",
+    "pl": "dziki ogórek (od rozłupania w celu zrzucenia nasion)",
+    "pt": "o pepino selvagem (por se abrir para libertar as suas sementes)",
+    "ro": "castravetele sălbatic (de la despicarea sa pentru a-și vărsa semințele)",
+    "ru": "дикий огурец (от распускания, чтобы высыпать семена)",
+    "sk": "divoká uhorka (od rozpoltenia, aby sa zbavila semien)",
+    "sl": "divja kumara (od razpiranja, da se izloči seme)",
+    "sv": "den vilda gurkan (från att spricka upp för att kasta sina frön)",
+    "tr": "yabani salatalık (tohumlarını dökmek için yarılmasından)",
+    "uk": "дикий огірок (від розколювання, щоб скинути насіння)",
+    "zh": "野黄瓜"
+  },
+  "verses": [
+    "secondKings 4:39:11"
+  ]
+}

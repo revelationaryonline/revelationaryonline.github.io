@@ -1,0 +1,42 @@
+{
+  "number": "H848",
+  "language": "hebrew",
+  "transliteration": "ʼEshtâʼulîy",
+  "pronunciation": "esh-taw-oo-lee'",
+  "definition": "an Eshtaolite (collectively) or inhabitant of Eshtaol",
+  "kjvTranslation": "Eshtaulites.",
+  "translations": {
+    "bg": "ещаолец (колективно) или жител на Ещаол",
+    "cs": "eshtaolite (souhrnně) nebo obyvatel Eshtaolu",
+    "da": "en Eshtaolit (kollektivt) eller indbygger i Eshtaol",
+    "de": "ein Eshtaolite (kollektiv) oder Einwohner von Eshtaol",
+    "el": "εσταολίτης (συλλογικά) ή κάτοικος του Εσταόλ",
+    "es": "un eshtaolita (colectivamente) o habitante de Eshtaol",
+    "et": "eshtaoliit (kollektiivselt) või eshtaoli elanik",
+    "fi": "eshtaolilainen (kollektiivisesti) tai eshtaolilainen asukas",
+    "fr": "un Eshtaolite (collectivement) ou un habitant d'Eshtaol",
+    "hu": "esztolita (kollektív) vagy esztolita lakos",
+    "id": "seorang Eshtaolite (secara kolektif) atau penduduk Eshtaol",
+    "it": "un Eshtaolite (collettivamente) o un abitante di Eshtaol",
+    "ja": "エシュタオライト（総称）またはエシュタオルの住民",
+    "ko": "에쉬톨라이트(총칭) 또는 에쉬톨 거주자",
+    "lt": "eshtaolite (bendrai) arba Eshtaol gyventojas",
+    "lv": "eshtolietis (kopā) vai Eshtaol iedzīvotājs",
+    "nb": "en esjtaolitt (kollektivt) eller innbygger i Eshtaol",
+    "nl": "een Eshtaoliet (collectief) of inwoner van Eshtaol",
+    "pl": "esztaolit (łącznie) lub mieszkaniec Esztaolu",
+    "pt": "um Eshtaolita (coletivamente) ou habitante de Eshtaol",
+    "ro": "un eshtaolit (colectiv) sau locuitor al Eshtaol",
+    "ru": "эштаолец (собирательно) или житель Эштаола",
+    "sk": "eshtaolite (spoločne) alebo obyvateľ Eshtaolu",
+    "sl": "eshtaolite (skupaj) ali prebivalec Eshtaola",
+    "sv": "en Eshtaolite (kollektivt) eller invånare i Eshtaol",
+    "tr": "bir Eştaollu (topluca) veya Eştaol sakini",
+    "uk": "ештаольцем (збірно) або мешканцем Ештаолу",
+    "zh": "埃什陶尔人（统称）或埃什陶尔居民"
+  },
+  "hebrew": "אֶשְׁתָּאֻלִי",
+  "verses": [
+    "firstChronicles 2:53:10"
+  ]
+}

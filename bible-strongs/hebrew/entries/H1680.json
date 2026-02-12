@@ -1,0 +1,42 @@
+{
+  "number": "H1680",
+  "language": "hebrew",
+  "transliteration": "dâbab",
+  "pronunciation": "daw-bab'",
+  "definition": "to move slowly, i.e. glide",
+  "kjvTranslation": "cause to speak.",
+  "translations": {
+    "bg": "да се движи бавно, т.е. да се плъзга",
+    "cs": "pohybovat se pomalu, tj. klouzat",
+    "da": "at bevæge sig langsomt, dvs. glide",
+    "de": "sich langsam zu bewegen, d.h. zu gleiten",
+    "el": "να κινείστε αργά, δηλαδή να γλιστράτε",
+    "es": "desplazarse lentamente, es decir, deslizarse",
+    "et": "liikuda aeglaselt, st libisema",
+    "fi": "liikkua hitaasti eli liukua",
+    "fr": "se déplacer lentement, c'est-à-dire glisser",
+    "hu": "lassan mozogni, azaz siklani",
+    "id": "untuk bergerak secara perlahan, yaitu meluncur",
+    "it": "muoversi lentamente, ossia scivolare",
+    "ja": "ゆっくり動く、つまり滑る",
+    "ko": "천천히 움직이려면, 즉 활공하려면",
+    "lt": "lėtai judėti, t. y. slysti",
+    "lv": "lēni kustēties, t.i., slīdēt",
+    "nb": "å bevege seg sakte, dvs. gli",
+    "nl": "langzaam bewegen, d.w.z. glijden",
+    "pl": "poruszać się powoli, tj. szybować",
+    "pt": "mover-se lentamente, ou seja, deslizar",
+    "ro": "a se mișca încet, adică a aluneca",
+    "ru": "медленно двигаться, т.е. скользить",
+    "sk": "pohybovať sa pomaly, t. j. kĺzať sa",
+    "sl": "počasi se gibati, tj. drseti",
+    "sv": "att röra sig långsamt, dvs. glida",
+    "tr": "yavaş hareket etmek, yani süzülmek",
+    "uk": "рухатися повільно, тобто ковзати",
+    "zh": "缓慢移动，即滑行"
+  },
+  "hebrew": "דָּבַב",
+  "verses": [
+    "solomon 7:10:6"
+  ]
+}

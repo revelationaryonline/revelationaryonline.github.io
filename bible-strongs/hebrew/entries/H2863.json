@@ -1,0 +1,42 @@
+{
+  "number": "H2863",
+  "language": "hebrew",
+  "transliteration": "chetheph",
+  "pronunciation": "kheh'-thef",
+  "definition": "properly, rapine; figuratively, robbery",
+  "kjvTranslation": "prey.",
+  "translations": {
+    "bg": "в преносен смисъл - изнасилване; в преносен смисъл - грабеж",
+    "cs": "správně znásilnění; přeneseně loupež",
+    "da": "i egentlig forstand voldtægt; i overført betydning røveri",
+    "de": "im eigentlichen Sinne: Vergewaltigung; im übertragenen Sinne: Raub",
+    "el": "σωστά, βιασμός- μεταφορικά, ληστεία",
+    "es": "propiamente, rapiña; en sentido figurado, robo",
+    "et": "õigesti, röövimine; ülekantud tähenduses, röövimine",
+    "fi": "oikein, raiskaus; kuvaannollisesti, ryöstö",
+    "fr": "au sens propre, rapine ; au sens figuré, vol",
+    "hu": "helyesen: rablás; átvitt értelemben: rablás",
+    "id": "secara tepat, rapine; secara kiasan, perampokan",
+    "it": "propriamente, stupro; in senso figurato, rapina",
+    "ja": "強奪",
+    "ko": "제대로 말하면, 강간; 비유적으로 말하면, 강도",
+    "lt": "tinkamai - prievartavimas; perkeltine prasme - apiplėšimas",
+    "lv": "pareizi - izlaupīšana; pārnestā nozīmē - laupīšana",
+    "nb": "i egentlig forstand voldtekt; i overført betydning ran",
+    "nl": "op de juiste manier, verkrachting; figuurlijk, beroving",
+    "pl": "właściwie gwałt; w przenośni rabunek",
+    "pt": "propriamente, rapina; figurativamente, roubo",
+    "ro": "propriu-zis, violență; la figurat, jaf",
+    "ru": "правильно, насиловать; фигурально, грабить",
+    "sk": "správne, znásilnenie; obrazne, lúpež",
+    "sl": "v pravem pomenu besede posilstvo, v prenesenem pomenu pa rop",
+    "sv": "i egentlig mening, våldtäkt; i överförd bemärkelse, rån",
+    "tr": "gerçek anlamda tecavüz; mecazi anlamda soygun",
+    "uk": "власне, зґвалтування; образно - пограбування",
+    "zh": "奸；比喻抢劫"
+  },
+  "hebrew": "חֶתֶף",
+  "verses": [
+    "proverbs 23:28:2"
+  ]
+}

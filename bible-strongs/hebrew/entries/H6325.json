@@ -1,0 +1,43 @@
+{
+  "number": "H6325",
+  "language": "hebrew",
+  "transliteration": "Pûwnôn",
+  "pronunciation": "poo-none'",
+  "definition": "Punon, a place in the Desert",
+  "kjvTranslation": "Punon.",
+  "hebrew": "פּוּנֹן",
+  "translations": {
+    "bg": "Пунон, място в пустинята",
+    "cs": "Punon, místo v poušti",
+    "da": "Punon, et sted i ørkenen",
+    "de": "Punon, ein Ort in der Wüste",
+    "el": "Punon, ένα μέρος στην Έρημο",
+    "es": "Punon, un lugar en el desierto",
+    "et": "Punon, koht kõrbes",
+    "fi": "Punon, paikka erämaassa",
+    "fr": "Punon, un lieu dans le désert",
+    "hu": "Punon, egy hely a sivatagban",
+    "id": "Punon, sebuah tempat di Gurun Pasir",
+    "it": "Punon, un luogo nel deserto",
+    "ja": "砂漠の地プノン",
+    "ko": "푸논, 사막의 장소",
+    "lt": "Punonas, vieta dykumoje",
+    "lv": "Punon, vieta tuksnesī",
+    "nb": "Punon, et sted i ørkenen",
+    "nl": "Punon, een plaats in de woestijn",
+    "pl": "Punon, miejsce na pustyni",
+    "pt": "Punon, um lugar no deserto",
+    "ro": "Punon, un loc în deșert",
+    "ru": "Пунон, место в Пустыне",
+    "sk": "Punon, miesto v púšti",
+    "sl": "Punon, kraj v puščavi",
+    "sv": "Punon, en plats i öknen",
+    "tr": "Punon, Çölde bir yer",
+    "uk": "Пунон, місце в пустелі",
+    "zh": "普农"
+  },
+  "verses": [
+    "numbers 33:42:3",
+    "numbers 33:43:1"
+  ]
+}

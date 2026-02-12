@@ -1,0 +1,42 @@
+{
+  "number": "H8024",
+  "language": "hebrew",
+  "transliteration": "Shêlânîy",
+  "pronunciation": "shay-law-nee'",
+  "definition": "a Shelanite (collectively), or descendants of Shelah",
+  "kjvTranslation": "Shelanites.",
+  "hebrew": "שֵׁלָנִי",
+  "translations": {
+    "bg": "шеланит (колективно), или потомци на Шела",
+    "cs": "šelanité (souhrnně), neboli potomci Šelaha",
+    "da": "en shelanit (kollektivt), eller efterkommere af Shelah",
+    "de": "ein Schelaniter (kollektiv) oder ein Nachkomme von Schela",
+    "el": "σελανίτης (συλλογικά), ή απόγονοι του Σελάχ",
+    "es": "un shelanita (colectivamente), o descendientes de Shelah",
+    "et": "šelaniidid (kollektiivselt) ehk Šelahi järeltulijad",
+    "fi": "shelanilaiset (kollektiivisesti) eli Shelahin jälkeläiset",
+    "fr": "les Shelanites (collectivement), ou descendants de Shelah",
+    "hu": "selyaniták (együttesen), vagy Séláh leszármazottai",
+    "id": "orang Shelan (secara kolektif), atau keturunan Shelah",
+    "it": "uno Shelanita (collettivamente), o discendenti di Shelah",
+    "ja": "シェラナイト（総称）、すなわちシェラの子孫",
+    "ko": "셸라 사람(총칭) 또는 셸라의 후손",
+    "lt": "šelanitai (bendrai), arba Šelos palikuonys",
+    "lv": "šelanīti (kopā) jeb Šelahas pēcnācēji",
+    "nb": "en sjelanitt (kollektivt), eller etterkommere av Sjela",
+    "nl": "een Shelaniet (collectief), of afstammelingen van Shelah",
+    "pl": "szelanitów (łącznie) lub potomków Szelacha",
+    "pt": "um selanita (coletivamente), ou seja, os descendentes de Selá",
+    "ro": "șelaniți (colectiv), sau descendenți ai lui Șela",
+    "ru": "шеланиты (собирательно), или потомки Шелаха",
+    "sk": "šelanovci (spoločne) alebo potomkovia Šelaha",
+    "sl": "šelanit (skupaj) ali potomci Šeleje",
+    "sv": "en shelanit (kollektivt), eller ättlingar till Shelah",
+    "tr": "bir Şelanit (topluca) ya da Şelah'ın soyundan gelenler",
+    "uk": "шеланіт (спільно), або нащадки Шели",
+    "zh": "一个谢兰人（统称），或谢拉的后裔"
+  },
+  "verses": [
+    "numbers 26:20:6"
+  ]
+}

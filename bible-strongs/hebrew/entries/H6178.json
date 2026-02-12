@@ -1,0 +1,42 @@
+{
+  "number": "H6178",
+  "language": "hebrew",
+  "transliteration": "ʻârûwts",
+  "pronunciation": "aw-roots'",
+  "definition": "feared, i.e. (concretely) a horrible place or chasm",
+  "kjvTranslation": "cliffs.",
+  "hebrew": "עָרוּץ",
+  "translations": {
+    "bg": "страшно, т.е. (конкретно) ужасно място или пропаст",
+    "cs": "obávaný, tj. (konkrétně) strašlivé místo nebo propast",
+    "da": "frygtet, dvs. (konkret) et forfærdeligt sted eller en afgrund",
+    "de": "gefürchtet, d.h. (konkret) ein furchtbarer Ort oder Abgrund",
+    "el": "φοβόταν, δηλαδή (συγκεκριμένα) ένα φρικτό μέρος ή χάσμα",
+    "es": "temido, es decir (concretamente) un lugar horrible o un abismo",
+    "et": "kardetud, s.t. (konkreetselt) kohutav koht või kuristik",
+    "fi": "pelätty, eli (konkreettisesti) kauhea paikka tai kuilu",
+    "fr": "craint, c'est-à-dire (concrètement) un endroit horrible ou un gouffre",
+    "hu": "rettegett, azaz (konkrétan) egy szörnyű hely vagy szakadék",
+    "id": "ditakuti, yaitu (secara konkret) tempat atau jurang yang mengerikan",
+    "it": "temuto, cioè (concretamente) un luogo orribile o un abisso",
+    "ja": "恐い、すなわち（具体的には）恐ろしい場所や裂け目",
+    "ko": "두려움, 즉 (구체적으로) 끔찍한 장소 또는 틈새",
+    "lt": "baimė, t. y. (konkrečiai) baisi vieta ar bedugnė",
+    "lv": "bail, t.i. (konkrēti) briesmīga vieta vai bezdibenis",
+    "nb": "fryktet, dvs. (konkret) et forferdelig sted eller en avgrunn",
+    "nl": "gevreesd, d.w.z. (concreet) een afschuwelijke plaats of afgrond",
+    "pl": "strach, tj. (konkretnie) straszne miejsce lub przepaść",
+    "pt": "temido, isto é, (concretamente) um lugar horrível ou um abismo",
+    "ro": "de temut, adică (concret) un loc oribil sau o prăpastie",
+    "ru": "бояться, т.е. (конкретно) ужасное место или пропасть",
+    "sk": "obávaný, t. j. (konkrétne) hrozné miesto alebo priepasť",
+    "sl": "strah, tj. (konkretno) grozen kraj ali brezno",
+    "sv": "fruktade, dvs. (konkret) en hemsk plats eller avgrund",
+    "tr": "korkulan, yani (somut olarak) korkunç bir yer veya uçurum",
+    "uk": "страшний, тобто (конкретно) жахливе місце або прірва",
+    "zh": "可怕的，即（具体地说）一个可怕的地方或鸿沟"
+  },
+  "verses": [
+    "job 30:6:0"
+  ]
+}

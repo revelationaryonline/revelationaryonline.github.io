@@ -1,0 +1,42 @@
+{
+  "number": "H4833",
+  "language": "hebrew",
+  "transliteration": "mirpâs",
+  "pronunciation": "meer-paws'",
+  "definition": "muddled water",
+  "kjvTranslation": "that which...have fouled.",
+  "hebrew": "מִרְפָּשׂ",
+  "translations": {
+    "bg": "размътена вода",
+    "cs": "zakalená voda",
+    "da": "rørt vand",
+    "de": "trübes Wasser",
+    "el": "μπερδεμένο νερό",
+    "es": "agua embotellada",
+    "et": "segane vesi",
+    "fi": "sekoitettu vesi",
+    "fr": "eau trouble",
+    "hu": "zavaros víz",
+    "id": "air yang kacau",
+    "it": "acqua confusa",
+    "ja": "泥水",
+    "ko": "혼탁한 물",
+    "lt": "drumzlinas vanduo",
+    "lv": "duļķains ūdens",
+    "nb": "grumset vann",
+    "nl": "troebel water",
+    "pl": "zamulona woda",
+    "pt": "água turva",
+    "ro": "apă tulbure",
+    "ru": "грязная вода",
+    "sk": "zakalená voda",
+    "sl": "blatna voda",
+    "sv": "grumligt vatten",
+    "tr": "bulanık su",
+    "uk": "каламутна вода",
+    "zh": "糊涂水"
+  },
+  "verses": [
+    "ezekiel 34:19:4"
+  ]
+}

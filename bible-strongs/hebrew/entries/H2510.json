@@ -1,0 +1,43 @@
+{
+  "number": "H2510",
+  "language": "hebrew",
+  "transliteration": "Châlâq",
+  "pronunciation": "khaw-lawk'",
+  "definition": "Chalak, a mountain of Idumaea",
+  "kjvTranslation": "Halak.",
+  "translations": {
+    "bg": "Халак, планина в Идумея",
+    "cs": "Chalak, hora v Idumeji",
+    "da": "Chalak, et bjerg i Idumæa",
+    "de": "Chalak, ein Berg in Idumäa",
+    "el": "Chalak, ένα βουνό της Idumaea",
+    "es": "Chalak, una montaña de Idumea",
+    "et": "Chalak, mägi Idumaal",
+    "fi": "Chalak, vuori Idumaassa",
+    "fr": "Chalak, montagne d'Idumée",
+    "hu": "Chalak, Idumaea egyik hegye",
+    "id": "Chalak, sebuah gunung di Idumaea",
+    "it": "Chalak, una montagna dell'Idumea",
+    "ja": "イドゥメアの山、チャラク",
+    "ko": "이두매아의 산, 찰락",
+    "lt": "Chalakas, Idumėjos kalnas",
+    "lv": "Chalak, kalns Idumejā",
+    "nb": "Chalak, et fjell i Idumaea",
+    "nl": "Chalak, een berg van Idumaea",
+    "pl": "Chalak, góra w Idumei",
+    "pt": "Chalak, um monte da Iduméia",
+    "ro": "Chalak, un munte din Idumaea",
+    "ru": "Халак, гора в Идумее",
+    "sk": "Chalak, vrch v Idumei",
+    "sl": "Chalak, gora v Idumeji",
+    "sv": "Chalak, ett berg i Idumaea",
+    "tr": "Chalak, Idumaea'da bir dağ",
+    "uk": "Чалак, гора Ідумеї",
+    "zh": "查拉克"
+  },
+  "hebrew": "חָלָק",
+  "verses": [
+    "joshua 11:17:2",
+    "joshua 12:7:17"
+  ]
+}

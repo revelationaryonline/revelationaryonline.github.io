@@ -1,0 +1,42 @@
+{
+  "number": "H2305",
+  "language": "hebrew",
+  "transliteration": "chedvâh",
+  "pronunciation": "khed-vaw'",
+  "definition": "{rejoicing}",
+  "kjvTranslation": "joy.",
+  "translations": {
+    "bg": "{радвайки се}",
+    "cs": "{radostně}",
+    "da": "{Glæder sig}",
+    "de": "{Jubel}",
+    "el": "(χαίρεται)",
+    "es": "{regocijo}",
+    "et": "{rõõmustab}",
+    "fi": "(iloiten)",
+    "fr": "{réjouissance}",
+    "hu": "{örömködve}",
+    "id": "[bersukacita]",
+    "it": "{gioire}",
+    "ja": "{喜ぶ}。",
+    "ko": "{기쁨}",
+    "lt": "{Džiaugsmingai}",
+    "lv": "{priecājoties}",
+    "nb": "(jubler)",
+    "nl": "{Jubelend}",
+    "pl": "{radość}",
+    "pt": "{rejoicing}",
+    "ro": "{rejoicing}",
+    "ru": "{радуясь}",
+    "sk": "{radosť}",
+    "sl": "{radostno}",
+    "sv": "{Glädjande}",
+    "tr": "{sevinç}",
+    "uk": "{Я не хочу, щоб ви знали, що я тут.}",
+    "zh": "{欢庆}"
+  },
+  "hebrew": "חֶדְוָה",
+  "verses": [
+    "ezra 6:16:12"
+  ]
+}

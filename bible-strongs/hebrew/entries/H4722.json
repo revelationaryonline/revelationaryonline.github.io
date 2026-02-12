@@ -1,0 +1,43 @@
+{
+  "number": "H4722",
+  "language": "hebrew",
+  "transliteration": "Maqhêlôth",
+  "pronunciation": "mak-hay-loth'",
+  "definition": "Makheloth, a place in the Desert",
+  "kjvTranslation": "Makheloth.",
+  "hebrew": "מַקְהֵלֹת",
+  "translations": {
+    "bg": "Махелот, място в пустинята",
+    "cs": "Makheloth, místo v poušti",
+    "da": "Makheloth, et sted i ørkenen",
+    "de": "Makheloth, ein Ort in der Wüste",
+    "el": "Makheloth, ένα μέρος στην έρημο",
+    "es": "Makheloth, un lugar en el desierto",
+    "et": "Makheloth, koht kõrbes",
+    "fi": "Makheloth, paikka erämaassa",
+    "fr": "Makheloth, lieu dans le désert",
+    "hu": "Makheloth, egy hely a sivatagban",
+    "id": "Makheloth, sebuah tempat di Gurun Pasir",
+    "it": "Makheloth, un luogo nel deserto",
+    "ja": "砂漠の地マケロス",
+    "ko": "사막의 장소, 마헬로스",
+    "lt": "Makhelotas, vietovė dykumoje",
+    "lv": "Makheloth, vieta tuksnesī",
+    "nb": "Makheloth, et sted i ørkenen",
+    "nl": "Makheloth, een plaats in de woestijn",
+    "pl": "Makheloth, miejsce na pustyni",
+    "pt": "Makheloth, um lugar no deserto",
+    "ro": "Makheloth, un loc în deșert",
+    "ru": "Махелот, место в пустыне",
+    "sk": "Makheloth, miesto v púšti",
+    "sl": "Makheloth, kraj v puščavi",
+    "sv": "Makheloth, en plats i öknen",
+    "tr": "Makheloth, çölde bir yer",
+    "uk": "Махелот, місце в пустелі",
+    "zh": "马赫洛斯"
+  },
+  "verses": [
+    "numbers 33:25:3",
+    "numbers 33:26:1"
+  ]
+}

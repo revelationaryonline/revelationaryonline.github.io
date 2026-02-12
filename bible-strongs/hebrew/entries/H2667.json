@@ -1,0 +1,42 @@
+{
+  "number": "H2667",
+  "language": "hebrew",
+  "transliteration": "Chôphesh",
+  "pronunciation": "kho'-fesh",
+  "definition": "something spread loosely, i.e. a carpet",
+  "kjvTranslation": "precious.",
+  "translations": {
+    "bg": "нещо свободно разстлано, напр. килим",
+    "cs": "něco volně rozloženého, např. koberec",
+    "da": "noget, der ligger løst, f.eks. et tæppe",
+    "de": "etwas, das locker ausgebreitet ist, z. B. ein Teppich",
+    "el": "κάτι που απλώνεται χαλαρά, π.χ. ένα χαλί",
+    "es": "algo extendido sin apretar, por ejemplo, una alfombra",
+    "et": "midagi, mis on laiali laotatud, nt vaip",
+    "fi": "jotakin väljästi levitettyä, esim. matto",
+    "fr": "quelque chose d'étalé, par exemple un tapis",
+    "hu": "valami lazán kiterítve, pl. egy szőnyeg",
+    "id": "sesuatu yang tersebar secara longgar, misalnya karpet",
+    "it": "qualcosa che si stende in modo lasco, per esempio un tappeto",
+    "ja": "ほっかむり",
+    "ko": "느슨하게 펼쳐진 것(예: 카펫)",
+    "lt": "laisvai paskleistas daiktas, pvz., kilimas",
+    "lv": "kaut kas brīvi izklāts, piemēram, paklājs",
+    "nb": "noe som ligger løst ut, f.eks. et teppe",
+    "nl": "iets dat losjes is uitgespreid, bijvoorbeeld een tapijt",
+    "pl": "coś luźno rozłożonego, np. dywan",
+    "pt": "algo que se estende livremente, por exemplo, um tapete",
+    "ro": "ceva întins liber, de exemplu un covor",
+    "ru": "что-то свободно расстеленное, например, ковер",
+    "sk": "niečo voľne rozložené, napr. koberec",
+    "sl": "nekaj prosto razprostrtega, npr. preproga",
+    "sv": "något som ligger löst utbrett, t.ex. en matta",
+    "tr": "gevşekçe yayılmış bir şey, örneğin bir halı",
+    "uk": "щось вільно розстелене, наприклад, килим",
+    "zh": "松散的东西，如地毯"
+  },
+  "hebrew": "חֹפֶשׁ",
+  "verses": [
+    "ezekiel 27:20:3"
+  ]
+}

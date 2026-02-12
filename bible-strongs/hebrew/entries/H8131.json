@@ -1,0 +1,43 @@
+{
+  "number": "H8131",
+  "language": "hebrew",
+  "transliteration": "sᵉnêʼ",
+  "pronunciation": "sen-ay'",
+  "definition": "{to hate (personally)}",
+  "kjvTranslation": "hate.",
+  "hebrew": "שְׂנֵא",
+  "translations": {
+    "bg": "{да мразиш (лично)}",
+    "cs": "{nenávidět (osobně)}",
+    "da": "{at hade (personligt)}",
+    "de": "(persönlich)} zu hassen",
+    "el": "{να μισώ (προσωπικά)}",
+    "es": "{odiar (personalmente)}",
+    "et": "(isiklikult) vihkama)",
+    "fi": "{vihata (henkilökohtaisesti)",
+    "fr": "{pour détester (personnellement)}",
+    "hu": "{gyűlölni (személyesen)}",
+    "id": "(membenci (secara pribadi))",
+    "it": "{odiare (personalmente)",
+    "ja": "{個人的に）嫌いになる",
+    "ko": "{미워하다(개인적으로)}",
+    "lt": "{nepakęsti (asmeniškai)}",
+    "lv": "{neciest (personīgi)}",
+    "nb": "{å hate (personlig)}",
+    "nl": "{om (persoonlijk) te haten}",
+    "pl": "{nienawidzić (osobiście)}",
+    "pt": "{odiar (pessoalmente)",
+    "ro": "{a urî (personal)}",
+    "ru": "{ненавидеть (лично)}",
+    "sk": "{nenávidieť (osobne)}",
+    "sl": "(osebno) sovražiti",
+    "sv": "{att hata (personligen)}",
+    "tr": "{(kişisel olarak)} nefret etmek",
+    "uk": "{ненавидіти (особисто)",
+    "zh": "{恨（个人）}"
+  },
+  "verses": [
+    "daniel 4:16:24",
+    "daniel 4:16:25"
+  ]
+}

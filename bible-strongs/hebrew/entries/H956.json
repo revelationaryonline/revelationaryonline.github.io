@@ -1,0 +1,42 @@
+{
+  "number": "H956",
+  "language": "hebrew",
+  "transliteration": "bûwth",
+  "pronunciation": "booth",
+  "definition": "to lodge over night",
+  "kjvTranslation": "pass the night.",
+  "translations": {
+    "bg": "да пренощува",
+    "cs": "k přenocování",
+    "da": "at overnatte",
+    "de": "über Nacht zu übernachten",
+    "el": "για να μείνετε τη νύχτα",
+    "es": "pasar la noche",
+    "et": "ööbimiseks",
+    "fi": "majoittua yöksi",
+    "fr": "héberger pour la nuit",
+    "hu": "éjszakára elszállásolni",
+    "id": "untuk menginap semalam",
+    "it": "per alloggiare durante la notte",
+    "ja": "一晩泊まる",
+    "ko": "하룻밤 숙박",
+    "lt": "nakvoti per naktį",
+    "lv": "pārnakšņot",
+    "nb": "for å overnatte",
+    "nl": "om te overnachten",
+    "pl": "zatrzymać się na noc",
+    "pt": "passar a noite",
+    "ro": "a se caza peste noapte",
+    "ru": "переночевать",
+    "sk": "na prenocovanie",
+    "sl": "prenočiti",
+    "sv": "att bo över natten",
+    "tr": "gece konaklamak için",
+    "uk": "для ночівлі",
+    "zh": "留宿"
+  },
+  "hebrew": "בּוּת",
+  "verses": [
+    "daniel 6:19:4"
+  ]
+}

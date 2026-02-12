@@ -1,0 +1,42 @@
+{
+  "number": "H6033",
+  "language": "hebrew",
+  "transliteration": "ʻănâh",
+  "pronunciation": "an-aw'",
+  "definition": "{to depress literally or figuratively, transitive or intransitive (in various applications, as follows)}",
+  "kjvTranslation": "poor.",
+  "hebrew": "עֲנָה",
+  "translations": {
+    "bg": "{да потиска буквално или преносно, в преходен или непреходен смисъл (в различни приложения, както следва)}",
+    "cs": "{tlačit doslovně nebo obrazně, přechodník nebo nepřechodník (v různých aplikacích, jak je uvedeno níže)}",
+    "da": "{at trykke bogstaveligt eller i overført betydning, transitivt eller intransitivt (i forskellige anvendelser, som følger)}",
+    "de": "{wörtlich oder bildlich, transitiv oder intransitiv (in verschiedenen Anwendungen, wie folgt)}",
+    "el": "{καταθλίβω κυριολεκτικά ή μεταφορικά, μεταβατικά ή ενδοβατικά (σε διάφορες εφαρμογές, όπως παρακάτω)}",
+    "es": "{deprimir literal o figuradamente, transitivo o intransitivo (en varias aplicaciones, como sigue)}",
+    "et": "{sõnaliselt või ülekantud tähenduses, transitiivselt või intransitiivselt (erinevates rakendustes, järgmiselt)}",
+    "fi": "{lamaannuttaa kirjaimellisesti tai kuvaannollisesti, transitiivisesti tai intransitiivisesti (eri sovellutuksissa, kuten seuraavassa)}",
+    "fr": "{pour déprimer au sens propre ou figuré, transitif ou intransitif (dans diverses applications, comme suit)}",
+    "hu": "{szó szerint vagy átvitt értelemben, tranzitív vagy intranzitív (különböző alkalmazásokban, az alábbiak szerint)}",
+    "id": "{untuk menekan secara harfiah atau kiasan, transitif atau intransitif (dalam berbagai aplikasi, seperti berikut ini)}",
+    "it": "{deprimere in senso letterale o figurato, transitivo o intransitivo (in varie applicazioni, come di seguito)}",
+    "ja": "{文字通りの意味でも比喩的な意味でも、他動詞でも自動詞でも（以下のようにさまざまな用途で）落ち込ませる}。",
+    "ko": "{말 그대로 또는 비유적으로, 타동사 또는 자동사(다음과 같이 다양한 용도로 사용됨)}",
+    "lt": "{slopinti tiesiogine ar perkeltine prasme, pereinamuoju ar nepereinamuoju būdu (įvairiais atvejais, kaip nurodyta toliau)}",
+    "lv": "{nopiespiest burtiskā vai pārnestā nozīmē, pārejas vai nenoteiksmes formā (dažādos lietojumos, kā norādīts turpmāk)}",
+    "nb": "{å trykke ned, bokstavelig eller i overført betydning, transitiv eller intransitiv (i ulike anvendelser, som følger)}",
+    "nl": "{letterlijk of figuurlijk, transitief of intransitief (in verschillende toepassingen, zoals hieronder)}",
+    "pl": "{dosłownie lub w przenośni, przechodnie lub nieprzechodnie (w różnych zastosowaniach, jak poniżej)}",
+    "pt": "{deprimir literal ou figurativamente, transitivo ou intransitivo (em várias aplicações, como se segue)}",
+    "ro": "{a deprima la propriu sau la figurat, tranzitiv sau intranzitiv (în diverse aplicații, după cum urmează)}",
+    "ru": "{угнетать в буквальном или переносном смысле, переходный или непереходный (в различных применениях, как указано ниже)}",
+    "sk": "{tlačiť doslovne alebo obrazne, prechodník alebo prechodník (v rôznych aplikáciách, ako je uvedené nižšie)}",
+    "sl": "{domačiti dobesedno ali v prenesenem pomenu, prehodno ali neprehodno (v različnih uporabah, kot sledi)}",
+    "sv": "{att deprimera bokstavligen eller bildligt, transitivt eller intransitivt (i olika tillämpningar, enligt nedan)}",
+    "tr": "{kelimenin tam anlamıyla veya mecazi olarak, geçişli veya geçişsiz (aşağıdaki gibi çeşitli uygulamalarda)}",
+    "uk": "{пригнічувати в прямому чи переносному значенні, перехідному чи неперехідному (у різних застосуваннях, як показано нижче)}",
+    "zh": "{按字面或比喻、及物动词或不及物动词来压抑（在各种应用中，如下所示）}"
+  },
+  "verses": [
+    "daniel 4:24:12"
+  ]
+}

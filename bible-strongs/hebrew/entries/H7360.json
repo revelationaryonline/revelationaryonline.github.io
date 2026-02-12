@@ -1,0 +1,43 @@
+{
+  "number": "H7360",
+  "language": "hebrew",
+  "transliteration": "râchâm",
+  "pronunciation": "raw-khawm'",
+  "definition": "a kind of vulture (supposed to be tender towards its young)",
+  "kjvTranslation": "gier-eagle.",
+  "hebrew": "רָחָם",
+  "translations": {
+    "bg": "вид лешояд (за който се предполага, че е нежен към малките си)",
+    "cs": "druh supa (předpokládá se, že je něžný ke svým mláďatům)",
+    "da": "en slags grib (som formodes at være øm over for sine unger)",
+    "de": "eine Geierart (die zärtlich zu ihren Jungen sein soll)",
+    "el": "ένα είδος γύπα (υποτίθεται ότι είναι τρυφερό προς τα μικρά του)",
+    "es": "una especie de buitre (se supone que es tierno con sus crías)",
+    "et": "mingi kährikkoerakond (kes peaks olema oma poegade suhtes õrn)",
+    "fi": "korppikotka (jonka oletetaan olevan hellä poikasiaan kohtaan)",
+    "fr": "une sorte de vautour (censé être tendre envers ses petits)",
+    "hu": "egy keselyűfajta (állítólag gyengéd a kicsinyeihez)",
+    "id": "sejenis burung nasar (seharusnya lembut terhadap anak-anaknya)",
+    "it": "una specie di avvoltoio (che si suppone sia tenero con i suoi piccoli)",
+    "ja": "はげわし",
+    "ko": "독수리의 일종(새끼에게 부드러워야 함)",
+    "lt": "suopių rūšis (manoma, kad jie švelnūs savo jaunikliams)",
+    "lv": "grifu suga (domājams, ka tie ir maigi pret saviem mazuļiem)",
+    "nb": "en slags gribb (som skal være øm mot ungene sine)",
+    "nl": "een soort gier (wordt verondersteld teder te zijn voor zijn jongen)",
+    "pl": "rodzaj sępa (który powinien być czuły w stosunku do swoich młodych)",
+    "pt": "uma espécie de abutre (supostamente terno para com as crias)",
+    "ro": "un fel de vultur (presupus a fi tandru cu puii săi)",
+    "ru": "разновидность стервятника (должен быть нежным по отношению к своим птенцам)",
+    "sk": "druh supa (predpokladá sa, že je nežný voči svojim mláďatám)",
+    "sl": "vrsta supa (ki naj bi bil nežen do svojih mladičev)",
+    "sv": "en sorts gam (som ska vara ömsint mot sina ungar)",
+    "tr": "bir tür akbaba (yavrularına karşı şefkatli olduğu varsayılır)",
+    "uk": "різновид стерв'ятника (вважається, що він ніжний до свого потомства)",
+    "zh": "秃鹫"
+  },
+  "verses": [
+    "leviticus 11:18:5",
+    "deuteronomy 14:17:2"
+  ]
+}

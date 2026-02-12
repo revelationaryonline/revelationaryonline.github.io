@@ -1,0 +1,42 @@
+{
+  "number": "H6426",
+  "language": "hebrew",
+  "transliteration": "pâlats",
+  "pronunciation": "paw-lats'",
+  "definition": "properly, perhaps to rend, i.e. (by implication) to quiver",
+  "kjvTranslation": "tremble.",
+  "hebrew": "פָּלַץ",
+  "translations": {
+    "bg": "правилно, може би да се разкъса, т.е. (по подразбиране) да се разклати",
+    "cs": "správně, snad roztrhnout, tj. (implicitně) roztřást se",
+    "da": "korrekt, måske at rive, dvs. (underforstået) at skælve",
+    "de": "richtig, vielleicht zu zerreißen, d.h. (implizit) zu zittern",
+    "el": "σωστά, ίσως να σχίζει, δηλαδή (με την έννοια) να τρέμει",
+    "es": "propiamente, tal vez desgarrar, es decir (implícitamente) estremecer",
+    "et": "korralikult, ehk rebida, st (kaudselt) värisema",
+    "fi": "kunnolla, ehkä repiä, eli (epäsuorasti) värisemään",
+    "fr": "correctement, peut-être pour déchirer, c'est-à-dire (par implication) pour frémir",
+    "hu": "helyesen, talán meghasítani, azaz (értelemszerűen) megremegtetni",
+    "id": "dengan benar, mungkin untuk merobek, yaitu (dengan implikasi) menggetarkan",
+    "it": "propriamente detto, forse da strappare, cioè (per implicazione) da far tremare",
+    "ja": "正しくは、おそらく引き裂く、つまり（暗に）震え上がらせる",
+    "ko": "적절하게, 아마도 렌더링, 즉 (암시 적으로) 떨리는 것",
+    "lt": "tinkamai, galbūt, galbūt, kad išardyti, t. y. (netiesiogiai) drebėti",
+    "lv": "pareizi, iespējams, rend, t.i., (netieši) drebēt",
+    "nb": "riktig, kanskje å rive, dvs. (underforstått) å skjelve",
+    "nl": "goed, misschien om te scheuren, d.w.z. (impliciet) om te beven",
+    "pl": "prawidłowo, być może rozdzierać, tj. (w domyśle) drżeć",
+    "pt": "propriamente, talvez para rasgar, ou seja (implicitamente) para tremer",
+    "ro": "în mod corespunzător, poate pentru a rupe, adică (implicit) pentru a tremura",
+    "ru": "правильно, возможно, разрывать, т.е. (по косвенным признакам) дрожать",
+    "sk": "správne, možno roztrhnúť, t. j. (implicitne) rozochvieť",
+    "sl": "pravilno, morda raztrgati, tj. (implicitno) tresenje",
+    "sv": "korrekt, kanske att riva, dvs. (underförstått) att darra",
+    "tr": "düzgün bir şekilde, belki de parçalamak, yani (ima yoluyla) titretmek",
+    "uk": "правильно, можливо, to rend, тобто (за підтекстом) тремтіти",
+    "zh": "正确地说，也许是 \"撕裂\"，即（暗示）\"颤抖\"。"
+  },
+  "verses": [
+    "job 9:6:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5500",
+  "language": "hebrew",
+  "transliteration": "çâchâh",
+  "pronunciation": "saw-khaw'",
+  "definition": "to sweep away",
+  "kjvTranslation": "scrape.",
+  "hebrew": "סָחָה",
+  "translations": {
+    "bg": "да отмие",
+    "cs": "zamést",
+    "da": "at feje væk",
+    "de": "wegfegen",
+    "el": "να σαρώσει",
+    "es": "para barrer",
+    "et": "ära pühkida",
+    "fi": "pyyhkiä pois",
+    "fr": "balayer",
+    "hu": "elsöpörni",
+    "id": "untuk menyapu bersih",
+    "it": "spazzare via",
+    "ja": "一掃する",
+    "ko": "쓸어버리다",
+    "lt": "nušluoti",
+    "lv": "noslaucīt",
+    "nb": "å feie bort",
+    "nl": "om weg te vegen",
+    "pl": "zmiatać",
+    "pt": "para varrer",
+    "ro": "a mătura",
+    "ru": "сметать",
+    "sk": "zmietnuť",
+    "sl": "pomesti",
+    "sv": "att sopa bort",
+    "tr": "süpürmek için",
+    "uk": "щоб змести",
+    "zh": "扫除"
+  },
+  "verses": [
+    "ezekiel 26:4:5"
+  ]
+}

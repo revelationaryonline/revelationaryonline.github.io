@@ -1,0 +1,43 @@
+{
+  "number": "H4917",
+  "language": "hebrew",
+  "transliteration": "mishlachath",
+  "pronunciation": "mish-lakh'-ath",
+  "definition": "a mission, i.e. (abstractly and favorable) release, or (concretely and unfavorable) an army",
+  "kjvTranslation": "discharge, sending.",
+  "hebrew": "מִשְׁלַחַת",
+  "translations": {
+    "bg": "мисия, т.е. (абстрактно и благоприятно) освобождаване или (конкретно и неблагоприятно) армия",
+    "cs": "mise, tj. (abstraktně a příznivě) propuštění, nebo (konkrétně a nepříznivě) armáda",
+    "da": "en mission, dvs. (abstrakt og gunstigt) frigivelse eller (konkret og ugunstigt) en hær",
+    "de": "eine Mission, d.h. (abstrakt und günstig) die Befreiung, oder (konkret und ungünstig) eine Armee",
+    "el": "μια αποστολή, δηλαδή (αφηρημένα και ευνοϊκά) απελευθέρωση ή (συγκεκριμένα και δυσμενώς) ένας στρατός",
+    "es": "una misión, es decir (abstracta y favorable) la liberación, o (concreta y desfavorable) un ejército",
+    "et": "missioon, st (abstraktselt ja soodsalt) vabastamine või (konkreetselt ja ebasoodsalt) armee",
+    "fi": "tehtävä, eli (abstraktisti ja suotuisasti) vapauttaminen tai (konkreettisesti ja epäsuotuisasti) armeija",
+    "fr": "une mission, c'est-à-dire (abstraitement et favorablement) une libération, ou (concrètement et défavorablement) une armée",
+    "hu": "egy küldetés, azaz (elvontan és kedvezően) egy felszabadítás, vagy (konkrétan és kedvezőtlenül) egy hadsereg",
+    "id": "sebuah misi, yaitu (secara abstrak dan menguntungkan) pembebasan, atau (secara konkret dan tidak menguntungkan) tentara",
+    "it": "una missione, cioè (astrattamente e favorevolmente) la liberazione, o (concretamente e sfavorevolmente) un esercito",
+    "ja": "使命、すなわち（抽象的で有利な）釈放、または（具体的で不利な）軍隊",
+    "ko": "임무, 즉 (추상적이고 유리한) 석방 또는 (구체적이고 불리한) 군대",
+    "lt": "misija, t. y. (abstrakčiai ir palankiai) išlaisvinimas arba (konkrečiai ir nepalankiai) kariuomenė",
+    "lv": "misija, t.i., (abstrakti un labvēlīgi) atbrīvošana vai (konkrēti un nelabvēlīgi) armija",
+    "nb": "et oppdrag, dvs. (abstrakt og gunstig) løslatelse, eller (konkret og ugunstig) en hær",
+    "nl": "een missie, d.w.z. (abstract en gunstig) vrijlating, of (concreet en ongunstig) een leger",
+    "pl": "misja, tj. (abstrakcyjnie i korzystnie) uwolnienie lub (konkretnie i niekorzystnie) armia",
+    "pt": "uma missão, ou seja, (abstratamente e favorável) a libertação, ou (concretamente e desfavorável) um exército",
+    "ro": "o misiune, adică (abstract și favorabil) eliberarea, sau (concret și nefavorabil) o armată",
+    "ru": "миссия, т.е. (абстрактно и благоприятно) освобождение или (конкретно и неблагоприятно) армия",
+    "sk": "misia, t. j. (abstraktne a priaznivo) prepustenie, alebo (konkrétne a nepriaznivo) armáda",
+    "sl": "poslanstvo, tj. (abstraktno in ugodno) osvoboditev ali (konkretno in neugodno) vojska",
+    "sv": "ett uppdrag, d.v.s. (abstrakt och gynnsamt) frisläppande, eller (konkret och ogynnsamt) en armé",
+    "tr": "bir görev, yani (soyut ve olumlu olarak) serbest bırakma veya (somut ve olumsuz olarak) bir ordu",
+    "uk": "місія, тобто (абстрактно і сприятливо) звільнення, або (конкретно і несприятливо) армія",
+    "zh": "任务，即（抽象和有利的）释放，或（具体和不利的）军队"
+  },
+  "verses": [
+    "psalms 78:49:7",
+    "ecclesiastes 8:8:12"
+  ]
+}

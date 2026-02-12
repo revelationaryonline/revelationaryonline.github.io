@@ -1,0 +1,42 @@
+{
+  "number": "H832",
+  "language": "hebrew",
+  "transliteration": "ʼEshqᵉlôwnîy",
+  "pronunciation": "esh-kel-o-nee'",
+  "definition": "Ashkelonite (collectively) or inhabitant of Ashkelon",
+  "kjvTranslation": "Eshkalonites.",
+  "translations": {
+    "bg": "Ашкелонец (събирателно) или жител на Ашкелон",
+    "cs": "Aškelonec (souhrnně) nebo obyvatel Aškelonu",
+    "da": "Ashkelonit (kollektivt) eller indbygger i Ashkelon",
+    "de": "Ashkelonite (kollektiv) oder Einwohner von Ashkelon",
+    "el": "Ashkelonite (συλλογικά) ή κάτοικος της Ashkelon",
+    "es": "Ashkelonita (colectivamente) o habitante de Ashkelon",
+    "et": "Ashkelonite (kollektiivselt) või Ashkeloni elanikud",
+    "fi": "Ashkelonilainen (kollektiivisesti) tai Ashkelonin asukas",
+    "fr": "Ashkelonite (collectivement) ou habitant d'Ashkelon",
+    "hu": "Askelonita (kollektívan) vagy askeloni lakos",
+    "id": "Ashkelonite (secara kolektif) atau penduduk Ashkelon",
+    "it": "Ashkelonite (collettivamente) o abitante di Ashkelon",
+    "ja": "アシュケロン人（総称）またはアシュケロンの住民",
+    "ko": "아슈켈론인(총칭) 또는 아슈켈론의 주민",
+    "lt": "Ashkelonite (kolektyviai) arba Ashkelon gyventojas",
+    "lv": "Aškelonietis (kopā) vai Aškelonas iedzīvotājs",
+    "nb": "Ashkelonitt (kollektivt) eller innbygger i Ashkelon",
+    "nl": "Ashkeloniet (collectief) of inwoner van Ashkelon",
+    "pl": "Aszkelonczyk (łącznie) lub mieszkaniec Aszkelonu",
+    "pt": "Ashkelonite (coletivamente) ou habitante de Ashkelon",
+    "ro": "Ashkelonite (colectiv) sau locuitor din Ashkelon",
+    "ru": "Ашкелонец (собирательно) или житель Ашкелона",
+    "sk": "Aškelončan (spoločne) alebo obyvateľ Aškelonu",
+    "sl": "Aškelonec (skupno) ali prebivalec Aškelona",
+    "sv": "Ashkelonit (samlingsnamn) eller invånare i Ashkelon",
+    "tr": "Aşkelonlu (topluca) veya Aşkelon sakini",
+    "uk": "Ашкелонець (збірно) або мешканець Ашкелону",
+    "zh": "阿什凯隆人（统称）或阿什凯隆居民"
+  },
+  "hebrew": "אֶשְׁקְלוֹנִי",
+  "verses": [
+    "joshua 13:3:17"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8417",
+  "language": "hebrew",
+  "transliteration": "tohŏlâh",
+  "pronunciation": "to-hol-aw'",
+  "definition": "braggadocio, i.e. (by implication) fatuity",
+  "kjvTranslation": "folly.",
+  "hebrew": "תׇּהֳלָה",
+  "translations": {
+    "bg": "braggadocio, т.е. (по подразбиране) суетност",
+    "cs": "chvástání, tj. (implicitně) falešnost",
+    "da": "pral, dvs. (underforstået) dumdristighed",
+    "de": "angeberei, d. h. (implizit) Großspurigkeit",
+    "el": "κομπορρημοσύνη, δηλαδή (κατ' επέκταση) επιπολαιότητα",
+    "es": "braggadocio, es decir (implícitamente) fatuidad",
+    "et": "braggadocio, s.t. (kaudselt) pahelisus",
+    "fi": "kerskakulttuuri eli (epäsuorasti) hölmöily",
+    "fr": "la vantardise, c'est-à-dire (implicitement) la fatuité",
+    "hu": "hencegés, azaz (értelemszerűen) ostobaság",
+    "id": "braggadocio, yaitu (dengan implikasi) kebodohan",
+    "it": "millanteria, cioè (per implicazione) fatuità",
+    "ja": "大風呂敷",
+    "ko": "브라가도시오, 즉 (암시적으로) 피곤함",
+    "lt": "bragadocio, t. y. (netiesiogiai) lengvabūdiškumas",
+    "lv": "braggadocio, t.i. (netieši) iedomība",
+    "nb": "skryt, dvs. (underforstått) enfoldighet",
+    "nl": "opschepperij, d.w.z. (impliciet) vetheid",
+    "pl": "braggadocio, tj. (w domyśle) zaściankowość",
+    "pt": "braggadocio, ou seja, (implicitamente) fatuidade",
+    "ro": "braggadocio, adică (implicit) fatuitate",
+    "ru": "хвастовство, т.е. (по косвенным признакам) фатовство",
+    "sk": "chvastúnstvo, t. j. (implicitne) falošnosť",
+    "sl": "hvalisavost, tj. (implicitno) domišljavost",
+    "sv": "skrytsamhet, dvs. (underförstått) enfald",
+    "tr": "braggadocio, yani (ima yoluyla) şişmanlık",
+    "uk": "хвалькуватість, тобто (неявно) фатальність",
+    "zh": "浮夸"
+  },
+  "verses": [
+    "job 4:18:6"
+  ]
+}

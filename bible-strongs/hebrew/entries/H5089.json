@@ -1,0 +1,42 @@
+{
+  "number": "H5089",
+  "language": "hebrew",
+  "transliteration": "nôahh",
+  "pronunciation": "no'-ah",
+  "definition": "lamentation",
+  "kjvTranslation": "wailing.",
+  "hebrew": "נֹהַּ",
+  "translations": {
+    "bg": "оплакване",
+    "cs": "nářek",
+    "da": "klagesang",
+    "de": "klageschrift",
+    "el": "θρήνος",
+    "es": "lamento",
+    "et": "kaebus",
+    "fi": "valitusvirsi",
+    "fr": "lamentation",
+    "hu": "siralom",
+    "id": "ratapan",
+    "it": "lamentazione",
+    "ja": "嘆き",
+    "ko": "애도",
+    "lt": "lamentacija",
+    "lv": "lamentācija",
+    "nb": "klagesang",
+    "nl": "klaagzang",
+    "pl": "lament",
+    "pt": "lamentação",
+    "ro": "lamentare",
+    "ru": "плач",
+    "sk": "nárek",
+    "sl": "lamentacija",
+    "sv": "klagan",
+    "tr": "aĞIT",
+    "uk": "плач",
+    "zh": "哀叹"
+  },
+  "verses": [
+    "ezekiel 7:11:11"
+  ]
+}

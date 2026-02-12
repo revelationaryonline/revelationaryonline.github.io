@@ -1,0 +1,42 @@
+{
+  "number": "H6542",
+  "language": "hebrew",
+  "transliteration": "Parçîy",
+  "pronunciation": "par-see'",
+  "definition": "a Parsite (i.e. Persian), or inhabitant of Peres",
+  "kjvTranslation": "Persian.",
+  "hebrew": "פַּרְסִי",
+  "translations": {
+    "bg": "парсит (т.е. персиец) или жител на Перес",
+    "cs": "parsita (tj. Peršan) nebo obyvatel Peresu",
+    "da": "en parsit (dvs. perser) eller indbygger i Peres",
+    "de": "ein Parsit (d.h. Perser) oder Einwohner von Peres",
+    "el": "παρσίτης (δηλαδή Πέρσης), ή κάτοικος του Πέρες",
+    "es": "un parsi (es decir, persa), o habitante de Peres",
+    "et": "parsia (st pärsia) või Peresi elanik",
+    "fi": "parsilainen (eli persialainen) tai Peresin asukas",
+    "fr": "un Parsite (c'est-à-dire un Persan) ou un habitant de Peres",
+    "hu": "parszita (azaz perzsa), vagy Peresz lakója",
+    "id": "orang Parsi (yaitu Persia), atau penduduk Peres",
+    "it": "un parsita (cioè un persiano), o un abitante di Peres",
+    "ja": "パーシテ人、つまりペレスの住民",
+    "ko": "파르시트(즉, 페르시아인) 또는 페레스 거주자",
+    "lt": "parsietis (t. y. persas) arba Pereso gyventojas",
+    "lv": "parsietis (t. i., persietis) jeb Peres iedzīvotājs",
+    "nb": "en parsitt (dvs. perser), eller innbygger i Peres",
+    "nl": "een Parsite (d.w.z. Perziër), of inwoner van Peres",
+    "pl": "parsyta (tj. Pers) lub mieszkaniec Peres",
+    "pt": "um parsita (ou seja, persa), ou habitante de Peres",
+    "ro": "un parsite (adică persan) sau locuitor din Peres",
+    "ru": "парсит (т.е. перс), или житель Переса",
+    "sk": "parsita (t. j. Peržan) alebo obyvateľ Peresu",
+    "sl": "parsej (tj. Perzijec) ali prebivalec Peresa",
+    "sv": "en parsit (dvs. perser) eller invånare i Peres",
+    "tr": "bir Parsit (yani Pers) veya Peres sakini",
+    "uk": "парсит (тобто перс) або мешканець Переса",
+    "zh": "波斯人，或佩雷斯居民"
+  },
+  "verses": [
+    "nehemiah 12:22:13"
+  ]
+}

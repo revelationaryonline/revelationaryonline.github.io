@@ -1,0 +1,42 @@
+{
+  "number": "H6073",
+  "language": "hebrew",
+  "transliteration": "ʻŏpheʼ",
+  "pronunciation": "of-eh'",
+  "definition": "a bough (as covering the tree)",
+  "kjvTranslation": "branch.",
+  "hebrew": "עֳפֶא",
+  "translations": {
+    "bg": "клонка (като покриваща дървото)",
+    "cs": "větvička (jako pokrývka stromu)",
+    "da": "en gren (som dækker træet)",
+    "de": "ein Zweig (als Abdeckung des Baumes)",
+    "el": "ένα κλαδί (που καλύπτει το δέντρο)",
+    "es": "una rama (como cubriendo el árbol)",
+    "et": "oksa (nagu puu katmine)",
+    "fi": "oksa (joka peittää puun)",
+    "fr": "un rameau (qui recouvre l'arbre)",
+    "hu": "egy ág (mint a fa takarása)",
+    "id": "dahan (sebagai penutup pohon)",
+    "it": "un ramo (come copertura dell'albero)",
+    "ja": "梢",
+    "ko": "나뭇가지(나무를 덮는 용도로)",
+    "lt": "šaka (dengianti medį)",
+    "lv": "zariņš (kā koka segums)",
+    "nb": "en gren (som dekker treet)",
+    "nl": "een tak (als bedekking van de boom)",
+    "pl": "konar (pokrywający drzewo)",
+    "pt": "um ramo (que cobre a árvore)",
+    "ro": "o ramură (ca acoperind copacul)",
+    "ru": "ветвь (как покрытие дерева)",
+    "sk": "konár (ako pokrývajúci strom)",
+    "sl": "vejica (kot pokrov drevesa)",
+    "sv": "en kvist (som täcker trädet)",
+    "tr": "bir dal (ağacı kaplayan olarak)",
+    "uk": "гілка (як покриття для дерева)",
+    "zh": "桠"
+  },
+  "verses": [
+    "psalms 104:12:5"
+  ]
+}

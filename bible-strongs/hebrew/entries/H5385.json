@@ -1,0 +1,42 @@
+{
+  "number": "H5385",
+  "language": "hebrew",
+  "transliteration": "nᵉsûwʼâh",
+  "pronunciation": "nes-oo-aw'",
+  "definition": "something borne, i.e. a load",
+  "kjvTranslation": "carriage.",
+  "hebrew": "נְשׂוּאָה",
+  "translations": {
+    "bg": "нещо, което се носи, т.е. товар",
+    "cs": "něco neseného, tj. náklad",
+    "da": "noget, der bæres, f.eks. en last",
+    "de": "etwas, das getragen wird, z. B. eine Last",
+    "el": "κάτι που μεταφέρεται, π.χ. ένα φορτίο",
+    "es": "algo soportado, es decir, una carga",
+    "et": "midagi kantavat, st koormat",
+    "fi": "jotakin kannettavaa eli kuormaa",
+    "fr": "quelque chose de porté, c'est-à-dire une charge",
+    "hu": "valami hordozott, azaz egy teher",
+    "id": "sesuatu yang ditanggung, yaitu beban",
+    "it": "qualcosa che si porta dietro, ad esempio un carico",
+    "ja": "荷",
+    "ko": "부담하는 무언가, 즉 부하",
+    "lt": "nešamas daiktas, t. y. krovinys",
+    "lv": "kaut ko nestu, t.i., kravu",
+    "nb": "noe som bæres, f.eks. en last",
+    "nl": "iets dat gedragen wordt, d.w.z. een lading",
+    "pl": "coś niesionego, np. ładunek",
+    "pt": "algo suportado, ou seja, uma carga",
+    "ro": "ceva purtat, de exemplu o încărcătură",
+    "ru": "что-то переносимое, т.е. груз",
+    "sk": "niečo nesené, t. j. náklad",
+    "sl": "nekaj, kar se prenaša, tj. tovor",
+    "sv": "något som bärs, t.ex. en last",
+    "tr": "taşınan bir şey, yani bir yük",
+    "uk": "щось перенесене, тобто вантаж",
+    "zh": "载荷"
+  },
+  "verses": [
+    "isaiah 46:1:8"
+  ]
+}

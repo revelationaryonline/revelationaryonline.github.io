@@ -1,0 +1,42 @@
+{
+  "number": "H5796",
+  "language": "hebrew",
+  "transliteration": "ʻêz",
+  "pronunciation": "aze",
+  "definition": "{a she-goat (as strong), but masculine in plural (which also is used elliptically for goat's hair)}",
+  "kjvTranslation": "goat.",
+  "hebrew": "עֵז",
+  "translations": {
+    "bg": "{козела (както е силно), но в множествено число от мъжки род (което също се използва елиптично за козината на козата)}",
+    "cs": "{koza (jako silný), ale v množném čísle mužského rodu (což se také používá elipticky pro kozí srst)}",
+    "da": "{en hun-ged (som stærk), men maskulinum i flertal (som også bruges elliptisk om gedehår)}",
+    "de": "{ein Ziegenbock (wie stark), aber maskulin im Plural (der auch elliptisch für Ziegenhaar verwendet wird)}",
+    "el": "{μια κατσίκα (όπως το ισχυρό), αλλά αρσενικό στον πληθυντικό (το οποίο χρησιμοποιείται επίσης ελλειπτικά για το τρίχωμα της κατσίκας)}",
+    "es": "{una cabra (como fuerte), pero masculino en plural (que también se usa elípticamente para pelo de cabra)}",
+    "et": "{a she-goat (nagu strong), kuid mitmuses maskuliinsuses (mida kasutatakse ka elliptiliselt kitsekarva kohta)}",
+    "fi": "{a she-goat (kuten vahva), mutta monikossa maskuliininen (jota käytetään myös elliptisesti vuohenkarvasta)}",
+    "fr": "{une chèvre (comme fort), mais masculin au pluriel (qui est aussi utilisé elliptiquement pour le poil de chèvre)}",
+    "hu": "{a she-goat (mint erős), de többes számban hímnemű (amit szintén elliptikusan használnak a kecskeszőrre)}",
+    "id": "{kambing betina (kuat), tetapi maskulin dalam bentuk jamak (yang juga digunakan secara elips untuk bulu kambing)}",
+    "it": "{una capra (come forte), ma maschile al plurale (che è anche usato ellitticamente per il pelo di capra)}",
+    "ja": "{ヤギの毛を意味することもある）。",
+    "ko": "{암염소(강인함), 복수형(염소 털에도 타원형으로 사용됨)}",
+    "lt": "{ožka (kaip stipriosios giminės), bet vyriškosios giminės daugiskaitos forma (taip pat vartojama elipsiškai, kai kalbama apie ožkos plaukus)}",
+    "lv": "{koze (kā spēcīgs), bet vīriešu dzimtē daudzskaitlī (kas arī tiek lietots eliptiski attiecībā uz kazas matiem)}",
+    "nb": "{en hun-geit (som sterk), men maskulinum i flertall (som også brukes elliptisk om geitehår)}",
+    "nl": "{een geit (als sterk), maar mannelijk in het meervoud (wat ook elliptisch wordt gebruikt voor geitenhaar)}",
+    "pl": "{a she-goat (jako silny), ale męski w liczbie mnogiej (który jest również używany eliptycznie dla koziej sierści)}",
+    "pt": "{a she-goat (como strong), mas masculino no plural (que também é usado elipticamente para pelo de cabra)}",
+    "ro": "{a she-goat (la fel de puternic), dar masculin la plural (care este de asemenea folosit eliptic pentru păr de capră)}",
+    "ru": "{коза (как сильная), но мужского рода во множественном числе (которая также используется эллиптически для обозначения козьей шерсти)}",
+    "sk": "{koza (ako silné), ale v množnom čísle mužského rodu (ktoré sa tiež používa elipticky pre koziu srsť)}",
+    "sl": "{koza (kot močan), vendar v množini moškega spola (ki se eliptično uporablja tudi za kozjo dlako)}",
+    "sv": "{en getkvinna (som stark), men maskulinum i plural (som också används elliptiskt för gethår)}",
+    "tr": "{bir dişi keçi (güçlü olarak), ancak çoğul olarak eril (keçi kılı için de eliptik olarak kullanılır)}",
+    "uk": "{коза (як сильна), але чоловічого роду у множині (що також використовується еліптично для позначення козячого волосся)}",
+    "zh": "{一只母山羊（同 \"强\"），但复数为阳性（也可省略用于山羊毛）}"
+  },
+  "verses": [
+    "ezra 6:17:13"
+  ]
+}

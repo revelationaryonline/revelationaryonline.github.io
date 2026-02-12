@@ -1,0 +1,42 @@
+{
+  "number": "H2303",
+  "language": "hebrew",
+  "transliteration": "chaddûwd",
+  "pronunciation": "khad-dood'",
+  "definition": "a point",
+  "kjvTranslation": "sharp.",
+  "translations": {
+    "bg": "точка",
+    "cs": "bod",
+    "da": "et punkt",
+    "de": "ein Punkt",
+    "el": "ένα σημείο",
+    "es": "un punto",
+    "et": "punkt",
+    "fi": "piste",
+    "fr": "un point",
+    "hu": "egy pont",
+    "id": "satu poin",
+    "it": "un punto",
+    "ja": "一点",
+    "ko": "포인트",
+    "lt": "taškas",
+    "lv": "punkts",
+    "nb": "a poeng",
+    "nl": "een punt",
+    "pl": "punkt",
+    "pt": "um ponto",
+    "ro": "un punct",
+    "ru": "точка",
+    "sk": "bod",
+    "sl": "točka",
+    "sv": "en punkt",
+    "tr": "bir nokta",
+    "uk": "точка",
+    "zh": "一点"
+  },
+  "hebrew": "חַדּוּד",
+  "verses": [
+    "job 41:22:1"
+  ]
+}

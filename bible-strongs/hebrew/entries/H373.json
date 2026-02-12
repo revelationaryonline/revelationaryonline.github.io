@@ -1,0 +1,42 @@
+{
+  "number": "H373",
+  "language": "hebrew",
+  "transliteration": "ʼÎyʻezrîy",
+  "pronunciation": "ee-ez-ree'",
+  "definition": "an Iezrite or descendant of Iezer",
+  "kjvTranslation": "Jezerite.",
+  "translations": {
+    "bg": "иезрит или потомък на Изер",
+    "cs": "iezrit nebo Iezerův potomek",
+    "da": "en Iezrite eller efterkommer af Iezer",
+    "de": "ein Iezrit oder Nachkomme von Iezer",
+    "el": "ένας Ιεζρίτης ή απόγονος του Ιεζέρ",
+    "es": "iezerita o descendiente de Iezer",
+    "et": "iezriit või Iezeri järeltulija",
+    "fi": "iezriitti tai Iezerin jälkeläinen",
+    "fr": "iezrite ou descendant d'Iezer",
+    "hu": "iezrita vagy Iezer leszármazottja",
+    "id": "seorang Iezrite atau keturunan Iezer",
+    "it": "un Iezrito o un discendente di Iezer",
+    "ja": "イエズライト人またはイエゼルの子孫",
+    "ko": "이에즈라이트 또는 이에저의 후손",
+    "lt": "iezritas arba Iezerio palikuonis",
+    "lv": "iezrīts jeb Iezera pēcnācējs",
+    "nb": "en Iezrite eller etterkommer av Iezer",
+    "nl": "een Iezriet of afstammeling van Iezer",
+    "pl": "iezryt lub potomek Iezera",
+    "pt": "um Iezrita ou descendente de Iezer",
+    "ro": "un Iezrit sau descendent al lui Iezer",
+    "ru": "иезрит или потомок Иезера",
+    "sk": "iezrit alebo potomok Iezera",
+    "sl": "iezrit ali Iezerjev potomec",
+    "sv": "en Iezrite eller ättling till Iezer",
+    "tr": "bir Iezrite ya da Iezer'in soyundan",
+    "uk": "єзритом або нащадком Ієзера",
+    "zh": "伊泽尔后裔"
+  },
+  "hebrew": "אִיעֶזְרִי",
+  "verses": [
+    "numbers 26:30:5"
+  ]
+}

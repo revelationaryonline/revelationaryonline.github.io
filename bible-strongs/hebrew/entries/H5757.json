@@ -1,0 +1,43 @@
+{
+  "number": "H5757",
+  "language": "hebrew",
+  "transliteration": "ʻAvvîy",
+  "pronunciation": "av-vee'",
+  "definition": "an Avvite or native of Avvah (only plural)",
+  "kjvTranslation": "Avims, Avites.",
+  "hebrew": "עַוִּי",
+  "translations": {
+    "bg": "аввит или роден в Авва (само в множествено число)",
+    "cs": "avvit nebo rodák z Avvy (pouze množné číslo)",
+    "da": "en Avvite eller indfødt af Avvah (kun flertal)",
+    "de": "ein Avvite oder Eingeborener von Avvah (nur Plural)",
+    "el": "ένας Avvite ή γηγενής του Avvah (μόνο στον πληθυντικό)",
+    "es": "un Avvite o nativo de Avvah (sólo plural)",
+    "et": "avvite ehk Avva põliselanik (ainult mitmuses)",
+    "fi": "avvite tai Avvahin syntyperäinen (vain monikko)",
+    "fr": "un Avvite ou un natif d'Avvah (uniquement au pluriel)",
+    "hu": "avvita vagy Avvah bennszülöttje (csak többes számban)",
+    "id": "orang Avvite atau penduduk asli Avvah (hanya jamak)",
+    "it": "un Avvite o un nativo di Avvah (solo al plurale)",
+    "ja": "アヴバイトまたはアヴバ出身者（複数形のみ）",
+    "ko": "아바이트 또는 아바 출신(복수형만 해당)",
+    "lt": "avvite arba gimtoji Avvah (tik daugiskaita)",
+    "lv": "avvite vai Avvah (tikai daudzskaitlī)",
+    "nb": "en Avvite eller innfødt av Avvah (bare flertall)",
+    "nl": "een Avviet of oorspronkelijke bewoner van Avvah (alleen meervoud)",
+    "pl": "avvite lub pochodzący z Avvah (tylko liczba mnoga)",
+    "pt": "um Avvite ou nativo de Avvah (apenas no plural)",
+    "ro": "un Avvite sau originar din Avvah (numai plural)",
+    "ru": "аввитянин или выходец из Аввы (только во множественном числе)",
+    "sk": "avvit alebo rodák z Avvy (len v množnom čísle)",
+    "sl": "avvite ali Avvah (samo v množini)",
+    "sv": "en Avvite eller född i Avvah (endast plural)",
+    "tr": "bir Avvite veya Avvah yerlisi (sadece çoğul)",
+    "uk": "аввієць або уродженець Авви (тільки у множині)",
+    "zh": "阿瓦特人（仅复数）"
+  },
+  "verses": [
+    "joshua 13:3:20",
+    "secondKings 17:31:0"
+  ]
+}

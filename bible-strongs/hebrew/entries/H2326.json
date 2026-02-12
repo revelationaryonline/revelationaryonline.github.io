@@ -1,0 +1,42 @@
+{
+  "number": "H2326",
+  "language": "hebrew",
+  "transliteration": "chôwb",
+  "pronunciation": "khobe",
+  "definition": "debt",
+  "kjvTranslation": "debtor.",
+  "translations": {
+    "bg": "дълг",
+    "cs": "dluh",
+    "da": "gæld",
+    "de": "schulden",
+    "el": "χρέος",
+    "es": "deuda",
+    "et": "võlg",
+    "fi": "velka",
+    "fr": "dette",
+    "hu": "adósság",
+    "id": "utang",
+    "it": "debito",
+    "ja": "負債",
+    "ko": "부채",
+    "lt": "skola",
+    "lv": "parāds",
+    "nb": "gjeld",
+    "nl": "schuld",
+    "pl": "dług",
+    "pt": "dívida",
+    "ro": "datorie",
+    "ru": "долг",
+    "sk": "dlh",
+    "sl": "dolg",
+    "sv": "skuld",
+    "tr": "borç",
+    "uk": "борг",
+    "zh": "债务"
+  },
+  "hebrew": "חוֹב",
+  "verses": [
+    "ezekiel 18:7:4"
+  ]
+}

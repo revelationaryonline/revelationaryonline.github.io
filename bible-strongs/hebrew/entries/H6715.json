@@ -1,0 +1,42 @@
+{
+  "number": "H6715",
+  "language": "hebrew",
+  "transliteration": "tsâchôr",
+  "pronunciation": "tsaw-khore'",
+  "definition": "white",
+  "kjvTranslation": "white.",
+  "hebrew": "צָחֹר",
+  "translations": {
+    "bg": "бял",
+    "cs": "bílá",
+    "da": "hvid",
+    "de": "weiß",
+    "el": "λευκό",
+    "es": "blanco",
+    "et": "valge",
+    "fi": "valkoinen",
+    "fr": "blanc",
+    "hu": "fehér",
+    "id": "putih",
+    "it": "bianco",
+    "ja": "ホワイト",
+    "ko": "흰색",
+    "lt": "balta",
+    "lv": "balta",
+    "nb": "hvit",
+    "nl": "wit",
+    "pl": "biały",
+    "pt": "branco",
+    "ro": "alb",
+    "ru": "белый",
+    "sk": "biela",
+    "sl": "bela",
+    "sv": "vit",
+    "tr": "beyaz",
+    "uk": "білий",
+    "zh": "白色"
+  },
+  "verses": [
+    "judges 5:10:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2711",
+  "language": "hebrew",
+  "transliteration": "chêqeq",
+  "pronunciation": "khay'-kek",
+  "definition": "an enactment, a resolution",
+  "kjvTranslation": "decree, thought.",
+  "translations": {
+    "bg": "нормативен акт, резолюция",
+    "cs": "právní předpis, usnesení",
+    "da": "en vedtagelse, en beslutning",
+    "de": "ein Erlass, eine Entschließung",
+    "el": "ένα νομοθέτημα, ένα ψήφισμα",
+    "es": "una ley, una resolución",
+    "et": "õigusakt, resolutsioon",
+    "fi": "säädös, päätöslauselma",
+    "fr": "un acte législatif, une résolution",
+    "hu": "jogszabály, határozat",
+    "id": "sebuah peraturan, sebuah resolusi",
+    "it": "una legge, una risoluzione",
+    "ja": "制定案、決議案",
+    "ko": "제정, 결의안",
+    "lt": "teisės aktas, rezoliucija",
+    "lv": "tiesību akts, rezolūcija",
+    "nb": "en lov, en resolusjon",
+    "nl": "een besluit, een resolutie",
+    "pl": "akt prawny, rezolucja",
+    "pt": "um decreto-lei, uma resolução",
+    "ro": "un act legislativ, o rezoluție",
+    "ru": "указ, постановление",
+    "sk": "právny predpis, uznesenie",
+    "sl": "zakonski akt, resolucija",
+    "sv": "en lag, en resolution",
+    "tr": "bir kanun, bir karar",
+    "uk": "постанова, резолюція",
+    "zh": "法规、决议"
+  },
+  "hebrew": "חֵקֶק",
+  "verses": [
+    "judges 5:15:13",
+    "isaiah 10:1:2"
+  ]
+}

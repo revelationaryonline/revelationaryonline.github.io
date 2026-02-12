@@ -1,0 +1,43 @@
+{
+  "number": "H4707",
+  "language": "hebrew",
+  "transliteration": "mitspeh",
+  "pronunciation": "mits-peh'",
+  "definition": "an observatory, especially formilitary purposes",
+  "kjvTranslation": "watch tower.",
+  "hebrew": "מִצְפֶּה",
+  "translations": {
+    "bg": "обсерватория, особено за военни цели",
+    "cs": "pozorovatelna, zejména pro vojenské účely",
+    "da": "et observatorium, især til militære formål",
+    "de": "ein Observatorium, insbesondere für militärische Zwecke",
+    "el": "παρατηρητήριο, ιδίως για στρατιωτικούς σκοπούς",
+    "es": "un observatorio, especialmente con fines militares",
+    "et": "vaatluskeskus, eriti sõjalisel eesmärgil",
+    "fi": "observatorio, erityisesti sotilaallisiin tarkoituksiin",
+    "fr": "un observatoire, notamment à des fins militaires",
+    "hu": "obszervatórium, különösen katonai célokra",
+    "id": "sebuah observatorium, terutama untuk keperluan militer",
+    "it": "un osservatorio, soprattutto per scopi militari",
+    "ja": "天文台",
+    "ko": "전망대, 특히 군사적 목적",
+    "lt": "observatorija, ypač kariniams tikslams",
+    "lv": "observatorija, jo īpaši militāriem mērķiem",
+    "nb": "et observatorium, særlig for militære formål",
+    "nl": "een observatorium, vooral voor militaire doeleinden",
+    "pl": "obserwatorium, zwłaszcza do celów wojskowych",
+    "pt": "um observatório, especialmente para fins militares",
+    "ro": "un observator, în special în scopuri militare",
+    "ru": "обсерватория, особенно для военных целей",
+    "sk": "observatórium, najmä na vojenské účely",
+    "sl": "observatorij, zlasti v vojaške namene",
+    "sv": "ett observatorium, särskilt för militära ändamål",
+    "tr": "özellikle askeri amaçlı bir gözlemevi",
+    "uk": "обсерваторія, особливо військового призначення",
+    "zh": "观测站"
+  },
+  "verses": [
+    "secondChronicles 20:24:3",
+    "isaiah 21:8:3"
+  ]
+}

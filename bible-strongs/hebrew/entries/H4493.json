@@ -1,0 +1,42 @@
+{
+  "number": "H4493",
+  "language": "hebrew",
+  "transliteration": "mânôwd",
+  "pronunciation": "maw-node'",
+  "definition": "a nodding or toss (of the head in derision)",
+  "kjvTranslation": "shaking.",
+  "hebrew": "מָנוֹד",
+  "verses": [
+    "psalms 44:15:3"
+  ],
+  "translations": {
+    "bg": "кимване или подхвърляне (на главата в знак на присмех)",
+    "cs": "kývání hlavou nebo házení hlavou (s posměchem)",
+    "da": "et nik eller kast (af hovedet i hån)",
+    "de": "ein Nicken oder Werfen (des Kopfes in Spott)",
+    "el": "ένα νεύμα ή ένα πέταγμα (του κεφαλιού σε χλευασμό)",
+    "es": "una inclinación o sacudida (de la cabeza en señal de burla)",
+    "et": "noogutamine või pea viskamine (naeruvääristades)",
+    "fi": "nyökkäys tai pään heitto (pilkallisesti)",
+    "fr": "un hochement de tête (en signe de dérision)",
+    "hu": "bólintás vagy (gúnyos) fejdobás",
+    "id": "anggukan atau gelengan (kepala sebagai cemoohan)",
+    "it": "un cenno o un lancio (della testa in segno di scherno)",
+    "ja": "くくり",
+    "ko": "고개를 끄덕이거나 (조롱하는 의미로) 던지기",
+    "lt": "galvos linktelėjimas ar pasukiojimas (išjuokiant)",
+    "lv": "galvas mājiens vai metiens (ar izsmieklu)",
+    "nb": "et nikk eller kast (av hodet i hån)",
+    "nl": "knikken of gooien (van het hoofd in spot)",
+    "pl": "kiwanie lub rzucanie (głową w szyderstwie)",
+    "pt": "um aceno de cabeça ou um movimento de cabeça (de escárnio)",
+    "ro": "o înclinare a capului (în semn de batjocură)",
+    "ru": "кивание или запрокидывание (головы в насмешку)",
+    "sk": "kývanie hlavou alebo hádzanie hlavou (na posmech)",
+    "sl": "prikimavanje ali metanje glave (v posmeh)",
+    "sv": "en nickning eller kast (av huvudet i förlöjligande)",
+    "tr": "baş sallama veya savurma (alaycı bir şekilde başın sallanması)",
+    "uk": "кивок або підкидання (насмішкувате кивання головою)",
+    "zh": "嚯"
+  }
+}

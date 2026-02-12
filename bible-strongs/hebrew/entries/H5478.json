@@ -1,0 +1,42 @@
+{
+  "number": "H5478",
+  "language": "hebrew",
+  "transliteration": "çûwchâh",
+  "pronunciation": "soo-khaw'",
+  "definition": "something swept away, i.e. filth",
+  "kjvTranslation": "torn.",
+  "hebrew": "סוּחָה",
+  "translations": {
+    "bg": "нещо, което е отнесено, напр. мръсотия",
+    "cs": "něco zameteného, tj. špína",
+    "da": "noget, der er fejet væk, f.eks. snavs",
+    "de": "etwas weggefegtes, z.B. Dreck",
+    "el": "κάτι που παρασύρεται, π.χ. βρωμιά",
+    "es": "algo barrido, es decir, suciedad",
+    "et": "midagi, mis on ära pühitud, s.t. saasta",
+    "fi": "jotain pyyhittyä pois, esim. likaa",
+    "fr": "quelque chose de balayé, c'est-à-dire de la saleté",
+    "hu": "valami, amit lesöpörtek, pl. mocsok",
+    "id": "sesuatu yang tersapu, yaitu kotoran",
+    "it": "qualcosa che viene spazzato via, ad esempio la sporcizia",
+    "ja": "掃き清められたもの",
+    "ko": "쓸려 내려간 무언가, 즉 오물",
+    "lt": "ką nors nuvalyti, t. y. nešvarumus",
+    "lv": "kaut kas noslaucīts, t.i., netīrība",
+    "nb": "noe som er feid bort, f.eks. skitt",
+    "nl": "iets weggeveegd, d.w.z. vuiligheid",
+    "pl": "coś zmiecionego, np. brud",
+    "pt": "algo varrido, ou seja, sujidade",
+    "ro": "ceva măturat, de exemplu murdărie",
+    "ru": "что-то сметать, т.е. грязь",
+    "sk": "niečo zmetené, t. j. špina",
+    "sl": "nekaj pometenega, npr. umazanija",
+    "sv": "något som sopas bort, t.ex. smuts",
+    "tr": "süpürülen bir şey, yani pislik",
+    "uk": "щось зметено, тобто бруд",
+    "zh": "荡涤"
+  },
+  "verses": [
+    "isaiah 5:25:14"
+  ]
+}

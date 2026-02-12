@@ -1,0 +1,42 @@
+{
+  "number": "H1978",
+  "language": "hebrew",
+  "transliteration": "hâlîyk",
+  "pronunciation": "haw-leek'",
+  "definition": "a walk, i.e. (by implication) a step",
+  "kjvTranslation": "step.",
+  "translations": {
+    "bg": "разходка, т.е. (по подразбиране) стъпка",
+    "cs": "chůze, tj. (implicitně) krok",
+    "da": "en gåtur, dvs. (underforstået) et skridt",
+    "de": "ein Spaziergang, d. h. (implizit) ein Schritt",
+    "el": "ένας περίπατος, δηλαδή (κατ' επέκταση) ένα βήμα",
+    "es": "un paseo, es decir (por implicación) un paso",
+    "et": "jalutuskäik, s.t (kaudselt) samm",
+    "fi": "kävely, eli (implisiittisesti) askel",
+    "fr": "une marche, c'est-à-dire (par implication) un pas",
+    "hu": "egy séta, azaz (értelemszerűen) egy lépés",
+    "id": "berjalan, yaitu (dengan implikasi) satu langkah",
+    "it": "una passeggiata, cioè (per implicazione) un passo",
+    "ja": "歩く、つまり（暗に）一歩",
+    "ko": "걷기, 즉 (암시적으로) 걸음 수",
+    "lt": "vaikščiojimas, t. y. (netiesiogiai) žingsnis",
+    "lv": "pastaiga, t.i., (netieši) solis",
+    "nb": "en spasertur, dvs. (underforstått) et skritt",
+    "nl": "een wandeling, d.w.z. (impliciet) een stap",
+    "pl": "spacer, tj. (w domyśle) krok",
+    "pt": "um passeio, ou seja, (implicitamente) um passo",
+    "ro": "o plimbare, adică (implicit) un pas",
+    "ru": "прогулка, т.е. (по косвенным признакам) шаг",
+    "sk": "chôdza, t. j. (implicitne) krok",
+    "sl": "sprehod, tj. (implicitno) korak",
+    "sv": "en promenad, d.v.s. (underförstått) ett steg",
+    "tr": "bir yürüyüş, yani (ima yoluyla) bir adım",
+    "uk": "прогулянка, тобто (неявно) крок",
+    "zh": "行走，即（蕴含）一步"
+  },
+  "hebrew": "הָלִיךְ",
+  "verses": [
+    "job 29:6:1"
+  ]
+}

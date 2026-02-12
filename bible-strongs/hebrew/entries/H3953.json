@@ -1,0 +1,42 @@
+{
+  "number": "H3953",
+  "language": "hebrew",
+  "transliteration": "lâqash",
+  "pronunciation": "law-kash'",
+  "definition": "to gather the after crop",
+  "kjvTranslation": "gather.",
+  "hebrew": "לָקַשׁ",
+  "translations": {
+    "bg": "събиране на реколтата",
+    "cs": "sklízet úrodu po sklizni",
+    "da": "at samle efterafgrøden",
+    "de": "die Nachernte zu ernten",
+    "el": "για να μαζέψει τη σοδειά μετά τη σοδειά",
+    "es": "recoger la cosecha posterior",
+    "et": "pärast saagikoristust koguda",
+    "fi": "sadonkorjuun jälkeen",
+    "fr": "de récolter les produits de l'après récolte",
+    "hu": "az utótermés begyűjtése",
+    "id": "untuk mengumpulkan hasil panen",
+    "it": "per raccogliere il raccolto successivo",
+    "ja": "後作を集める",
+    "ko": "후작물을 수집하기 위해",
+    "lt": "surinkti derlių po derliaus nuėmimo",
+    "lv": "novākt pēcpļaujas ražu",
+    "nb": "for å høste inn etteravlingen",
+    "nl": "om de naoogst te verzamelen",
+    "pl": "do zbierania poplonów",
+    "pt": "para colher a colheita seguinte",
+    "ro": "pentru a strânge recolta ulterioară",
+    "ru": "собирать урожай",
+    "sk": "zbierať úrodu po zbere",
+    "sl": "pobiranje poljščin",
+    "sv": "för att samla in efterskörden",
+    "tr": "sonraki mahsulü toplamak için",
+    "uk": "для збору врожаю",
+    "zh": "收割庄稼"
+  },
+  "verses": [
+    "job 24:6:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1597",
+  "language": "hebrew",
+  "transliteration": "ginzak",
+  "pronunciation": "ghin-zak'",
+  "definition": "a treasury",
+  "kjvTranslation": "treasury.",
+  "translations": {
+    "bg": "съкровищница",
+    "cs": "pokladnice",
+    "da": "et skatkammer",
+    "de": "eine Schatzkammer",
+    "el": "ένα θησαυροφυλάκιο",
+    "es": "un tesoro",
+    "et": "riigikassa",
+    "fi": "valtiovarainministeriö",
+    "fr": "un trésor",
+    "hu": "egy kincstár",
+    "id": "perbendaharaan",
+    "it": "un tesoro",
+    "ja": "宝物庫",
+    "ko": "재무부",
+    "lt": "iždas",
+    "lv": "valsts kase",
+    "nb": "et skattkammer",
+    "nl": "een schatkist",
+    "pl": "skarbiec",
+    "pt": "uma tesouraria",
+    "ro": "o trezorerie",
+    "ru": "сокровищница",
+    "sk": "pokladnica",
+    "sl": "zakladnica",
+    "sv": "en skattkammare",
+    "tr": "bir hazine",
+    "uk": "скарбницю",
+    "zh": "国库"
+  },
+  "hebrew": "גִּנְזַךְ",
+  "verses": [
+    "firstChronicles 28:11:9"
+  ]
+}

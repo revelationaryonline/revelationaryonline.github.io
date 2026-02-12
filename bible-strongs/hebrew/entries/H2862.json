@@ -1,0 +1,42 @@
+{
+  "number": "H2862",
+  "language": "hebrew",
+  "transliteration": "châthaph",
+  "pronunciation": "khaw-thaf'",
+  "definition": "to clutch",
+  "kjvTranslation": "take away.",
+  "translations": {
+    "bg": "за съединител",
+    "cs": "na spojku",
+    "da": "til kobling",
+    "de": "zur Kupplung",
+    "el": "για συμπλέκτη",
+    "es": "al embrague",
+    "et": "sidurile",
+    "fi": "kytkimeen",
+    "fr": "pour embrayer",
+    "hu": "kuplunghoz",
+    "id": "ke kopling",
+    "it": "alla frizione",
+    "ja": "クラッチ",
+    "ko": "클러치",
+    "lt": "į sankabą",
+    "lv": "uz sajūgu",
+    "nb": "til clutch",
+    "nl": "naar koppeling",
+    "pl": "do sprzęgła",
+    "pt": "para embraiar",
+    "ro": "pentru a strânge",
+    "ru": "сжимать",
+    "sk": "na spojku",
+    "sl": "za sklopko",
+    "sv": "till koppling",
+    "tr": "debriyaja",
+    "uk": "зчепитися",
+    "zh": "对离合器"
+  },
+  "hebrew": "חָתַף",
+  "verses": [
+    "job 9:12:1"
+  ]
+}

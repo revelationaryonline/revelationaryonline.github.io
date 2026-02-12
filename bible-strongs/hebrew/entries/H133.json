@@ -1,0 +1,42 @@
+{
+  "number": "H133",
+  "language": "hebrew",
+  "transliteration": "ʼAdmâthâʼ",
+  "pronunciation": "ad-maw-thaw'",
+  "definition": "Admatha, a Persian nobleman",
+  "kjvTranslation": "Admatha.",
+  "translations": {
+    "bg": "Адмата, персийски благородник",
+    "cs": "Admatha, perský šlechtic",
+    "da": "Admatha, en persisk adelsmand",
+    "de": "Admatha, ein persischer Adliger",
+    "el": "Admatha, ένας Πέρσης ευγενής",
+    "es": "Admatha, noble persa",
+    "et": "Admatha, pärsia aadlik",
+    "fi": "Admatha, persialainen aatelismies, -",
+    "fr": "Admatha, noble perse",
+    "hu": "Admatha, egy perzsa nemes",
+    "id": "Admatha, seorang bangsawan Persia",
+    "it": "Admatha, un nobile persiano",
+    "ja": "ペルシャ貴族アドマタ",
+    "ko": "페르시아 귀족, 아드마타",
+    "lt": "Admata, persų didikas",
+    "lv": "Admata, persiešu muižnieks",
+    "nb": "Admatha, en persisk adelsmann",
+    "nl": "Admatha, een Perzische edelman",
+    "pl": "Admatha, perski szlachcic",
+    "pt": "Admatha, um nobre persa",
+    "ro": "Admatha, un nobil persan",
+    "ru": "Адмата, персидский дворянин",
+    "sk": "Admatha, perzský šľachtic",
+    "sl": "Admata, perzijski plemič",
+    "sv": "Admatha, en persisk adelsman",
+    "tr": "Admatha, bir Pers soylusu",
+    "uk": "Адмата, перський аристократ",
+    "zh": "阿德玛塔，波斯贵族"
+  },
+  "hebrew": "אַדְמָתָא",
+  "verses": [
+    "esther 1:14:4"
+  ]
+}

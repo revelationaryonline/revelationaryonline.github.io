@@ -1,0 +1,43 @@
+{
+  "number": "H4716",
+  "language": "hebrew",
+  "transliteration": "maq",
+  "pronunciation": "mak",
+  "definition": "properly, a melting, i.e. putridity",
+  "kjvTranslation": "rottenness, stink.",
+  "hebrew": "מַק",
+  "translations": {
+    "bg": "правилно, топене, т.е. гниене",
+    "cs": "správně tání, tj. hniloba",
+    "da": "korrekt, en smeltning, dvs. råddenskab",
+    "de": "richtig, eine Schmelze, d.h. Fäulnis",
+    "el": "σωστά, ένα λιώσιμο, δηλαδή μια σήψη",
+    "es": "propiamente, un derretimiento, es decir, putridez",
+    "et": "korralikult, sulamine, st mädanemine",
+    "fi": "kunnolla, sulaminen, eli mädäntyminen",
+    "fr": "proprement, une fonte, c'est-à-dire une putridité",
+    "hu": "megfelelően, olvadás, azaz rothadás",
+    "id": "benar, peleburan, yaitu kebusukan",
+    "it": "propriamente, uno scioglimento, cioè una putredine",
+    "ja": "正しくは溶ける、つまり腐敗する",
+    "ko": "제대로 말하면, 녹는, 즉 썩는 것",
+    "lt": "tinkamai, ištirpimas, t. y. puvimas",
+    "lv": "pareizi, kausēšana, t.i., pūšana",
+    "nb": "egentlig en smelting, dvs. forråtnelse",
+    "nl": "goed, een smelt, d.w.z. rotting",
+    "pl": "właściwie topienie, tj. gnicie",
+    "pt": "propriamente, uma fusão, ou seja, uma putrefação",
+    "ro": "în mod corespunzător, o topire, adică putreziciune",
+    "ru": "правильно, плавление, т.е. гниение",
+    "sk": "správne, topenie, t. j. hniloba",
+    "sl": "pravilno, taljenje, tj. gnitje",
+    "sv": "korrekt, en smältning, dvs. förruttnelse",
+    "tr": "düzgün bir şekilde, erime, yani kokuşma",
+    "uk": "власне, плавлення, тобто гниття",
+    "zh": "融化，即腐烂"
+  },
+  "verses": [
+    "isaiah 3:24:3",
+    "isaiah 5:24:9"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7056",
+  "language": "hebrew",
+  "transliteration": "Qâmôwn",
+  "pronunciation": "kaw-mone'",
+  "definition": "Kamon, a place East of the Jordan",
+  "kjvTranslation": "Camon.",
+  "hebrew": "קָמוֹן",
+  "translations": {
+    "bg": "Камон, място на изток от Йордан",
+    "cs": "Kamon, místo na východ od Jordánu",
+    "da": "Kamon, et sted øst for Jordan",
+    "de": "Kamon, ein Ort östlich des Jordans",
+    "el": "Καμόν, τόπος ανατολικά του Ιορδάνη",
+    "es": "Kamon, un lugar al este del Jordán",
+    "et": "Kamon, koht Jordani jõest ida pool",
+    "fi": "Kamon, paikka Jordanin itäpuolella",
+    "fr": "Kamon, lieu situé à l'est du Jourdain",
+    "hu": "Kamon, a Jordántól keletre fekvő hely",
+    "id": "Kamon, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Kamon, un luogo a est del Giordano",
+    "ja": "ヨルダンの東の地、カモン",
+    "ko": "요르단 동쪽의 카몬",
+    "lt": "Kamonas, vietovė į rytus nuo Jordano",
+    "lv": "Kamon, vieta uz austrumiem no Jordānas",
+    "nb": "Kamon, et sted øst for Jordan",
+    "nl": "Kamon, een plaats ten oosten van de Jordaan",
+    "pl": "Kamon, miejsce na wschód od Jordanu",
+    "pt": "Kamon, um lugar a leste do Jordão",
+    "ro": "Kamon, un loc la est de Iordan",
+    "ru": "Камон, место к востоку от Иордана",
+    "sk": "Kamon, miesto na východ od Jordánu",
+    "sl": "Kamon, kraj vzhodno od Jordana",
+    "sv": "Kamon, en plats öster om Jordanfloden",
+    "tr": "Kamon, Ürdün'ün doğusunda bir yer",
+    "uk": "Камон, місце на схід від Йордану",
+    "zh": "卡蒙"
+  },
+  "verses": [
+    "judges 10:5:3"
+  ]
+}

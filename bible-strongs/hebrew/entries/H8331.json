@@ -1,0 +1,42 @@
+{
+  "number": "H8331",
+  "language": "hebrew",
+  "transliteration": "sharshâh",
+  "pronunciation": "shar-shaw'",
+  "definition": "a chain (as rooted, i.e. linked)",
+  "kjvTranslation": "chain. Compare H8333 (שַׁרְשְׁרָה).",
+  "hebrew": "שַׁרְשָׁה",
+  "translations": {
+    "bg": "верига (като вкоренена, т.е. свързана)",
+    "cs": "řetězec (jako zakořeněný, tj. propojený)",
+    "da": "en kæde (som rodfæstet, dvs. forbundet)",
+    "de": "eine Kette (wie verwurzelt, d.h. verbunden)",
+    "el": "μια αλυσίδα (ως ριζωμένη, δηλαδή συνδεδεμένη)",
+    "es": "una cadena (como enraizada, es decir, enlazada)",
+    "et": "ahel (nagu juurdunud, st seotud)",
+    "fi": "ketju (juurtuneena, ts. toisiinsa kytkeytyneenä)",
+    "fr": "une chaîne (comme enracinée, c'est-à-dire liée)",
+    "hu": "lánc (mint gyökeres, azaz összekapcsolt)",
+    "id": "rantai (seperti berakar, yaitu terhubung)",
+    "it": "una catena (come radice, cioè collegata)",
+    "ja": "連鎖",
+    "ko": "체인(루팅된 상태, 즉 연결된 상태)",
+    "lt": "grandinė (su šaknimis, t. y. susieta)",
+    "lv": "ķēde (kā sakņota, t. i., saistīta)",
+    "nb": "en kjede (som rotfestet, dvs. knyttet sammen)",
+    "nl": "een keten (als geworteld, d.w.z. verbonden)",
+    "pl": "łańcuch (jako zakorzeniony, tj. połączony)",
+    "pt": "uma cadeia (como enraizada, ou seja, ligada)",
+    "ro": "un lanț (ca înrădăcinat, i.e. legat)",
+    "ru": "цепь (как корень, т.е. связанный)",
+    "sk": "reťazec (ako zakorenený, t. j. prepojený)",
+    "sl": "veriga (kot ukoreninjena, tj. povezana)",
+    "sv": "en kedja (som rotad, d.v.s. länkad)",
+    "tr": "bir zincir (köklü, yani bağlantılı olarak)",
+    "uk": "ланцюжок (як вкорінений, тобто пов'язаний)",
+    "zh": "连锁"
+  },
+  "verses": [
+    "exodus 28:22:3"
+  ]
+}

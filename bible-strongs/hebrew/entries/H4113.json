@@ -1,0 +1,42 @@
+{
+  "number": "H4113",
+  "language": "hebrew",
+  "transliteration": "mahămôrâh",
+  "pronunciation": "mah-ham-o-raw'",
+  "definition": "perhaps an abyss",
+  "kjvTranslation": "deep pit.",
+  "hebrew": "מַהֲמֹרָה",
+  "translations": {
+    "bg": "може би бездна",
+    "cs": "možná propast",
+    "da": "måske en afgrund",
+    "de": "vielleicht ein Abgrund",
+    "el": "ίσως μια άβυσσος",
+    "es": "tal vez un abismo",
+    "et": "võib-olla kuristik",
+    "fi": "ehkä kuilu",
+    "fr": "peut-être un abîme",
+    "hu": "talán egy szakadék",
+    "id": "mungkin sebuah jurang",
+    "it": "forse un abisso",
+    "ja": "おそらく奈落の底",
+    "ko": "아마도 심연",
+    "lt": "galbūt bedugnė",
+    "lv": "varbūt bezdibenis",
+    "nb": "kanskje en avgrunn",
+    "nl": "misschien een afgrond",
+    "pl": "być może otchłań",
+    "pt": "talvez um abismo",
+    "ro": "poate un abis",
+    "ru": "возможно, пропасть",
+    "sk": "možno priepasť",
+    "sl": "morda brezno",
+    "sv": "kanske en avgrund",
+    "tr": "belki de bir uçurum",
+    "uk": "можливо, прірву",
+    "zh": "如临深渊"
+  },
+  "verses": [
+    "psalms 140:11:6"
+  ]
+}

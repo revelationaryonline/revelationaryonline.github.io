@@ -1,0 +1,42 @@
+{
+  "number": "H153",
+  "language": "hebrew",
+  "transliteration": "ʼedrâʻ",
+  "pronunciation": "ed-raw'",
+  "definition": "an arm, i.e. (figuratively) power",
+  "kjvTranslation": "force.",
+  "translations": {
+    "bg": "ръка, т.е. (в преносен смисъл) сила",
+    "cs": "rameno, tj. (obrazně) moc",
+    "da": "en arm, dvs. (i overført betydning) magt",
+    "de": "ein Arm, d.h. (im übertragenen Sinne) Macht",
+    "el": "ένα χέρι, δηλαδή (μεταφορικά) δύναμη",
+    "es": "un brazo, es decir (en sentido figurado) el poder",
+    "et": "käsi, st (piltlikult öeldes) võim",
+    "fi": "käsivarsi, eli (kuvaannollisesti) voima",
+    "fr": "un bras, c'est-à-dire (au sens figuré) le pouvoir",
+    "hu": "egy kar, azaz (átvitt értelemben) hatalom",
+    "id": "lengan, yaitu (secara kiasan) kekuatan",
+    "it": "un braccio, cioè (in senso figurato) un potere",
+    "ja": "腕力",
+    "ko": "팔, 즉 (비유적으로) 힘",
+    "lt": "ranką, t. y. (perkeltine prasme) galią",
+    "lv": "roka, t.i., (pārnestā nozīmē) spēks",
+    "nb": "en arm, dvs. (i overført betydning) makt",
+    "nl": "een arm, d.w.z. (figuurlijk) macht",
+    "pl": "ramię, tj. (w przenośni) moc",
+    "pt": "um braço, ou seja, (figurativamente) poder",
+    "ro": "un braț, adică (la figurat) putere",
+    "ru": "рука, т.е. (фигурально) сила",
+    "sk": "rameno, t. j. (obrazne) moc",
+    "sl": "roka, tj. (v prenesenem pomenu) moč",
+    "sv": "en arm, dvs. (bildligt talat) makt",
+    "tr": "bir kol, yani (mecazi olarak) güç",
+    "uk": "рука, тобто (образно) сила",
+    "zh": "臂力"
+  },
+  "hebrew": "אֶדְרָע",
+  "verses": [
+    "ezra 4:23:22"
+  ]
+}

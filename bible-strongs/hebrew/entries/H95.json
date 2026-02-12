@@ -1,0 +1,42 @@
+{
+  "number": "H95",
+  "language": "hebrew",
+  "transliteration": "ʼăgôwrâh",
+  "pronunciation": "ag-o-raw'",
+  "definition": "properly, something gathered, i.e. perhaps a grain or berry; used only of a small (silver) coin",
+  "kjvTranslation": "piece (of) silver.",
+  "translations": {
+    "bg": "правилно, нещо събрано, т.е. може би зърно или плод; използва се само за малка (сребърна) монета",
+    "cs": "správně něco nasbíraného, tj. třeba zrno nebo bobule; používá se pouze pro malou (stříbrnou) minci",
+    "da": "egentlig noget indsamlet, dvs. måske et korn eller et bær; bruges kun om en lille (sølv)mønt",
+    "de": "richtig: etwas Gepflücktes, d. h. vielleicht ein Korn oder eine Beere; wird nur für eine kleine (Silber-)Münze verwendet",
+    "el": "σωστά, κάτι που έχει συγκεντρωθεί, δηλαδή ίσως ένα σιτάρι ή ένα μούρο- χρησιμοποιείται μόνο για ένα μικρό (ασημένιο) νόμισμα",
+    "es": "propiamente, algo recogido, es decir, tal vez un grano o una baya; usado sólo de una moneda pequeña (de plata)",
+    "et": "õigesti, midagi kogutud, st võib-olla tera või marja; kasutatakse ainult väikese (hõbe)mündi kohta",
+    "fi": "oikein, jotain kerättyä, esim. ehkä vilja tai marja; käytetään vain pienestä (hopea)kolikosta",
+    "fr": "proprement, quelque chose de cueilli, c'est-à-dire peut-être un grain ou une baie ; utilisé uniquement pour une petite pièce (d'argent)",
+    "hu": "helyesen, valami összegyűjtött dolog, azaz talán egy gabona vagy bogyó; csak kis (ezüst) érmére használatos",
+    "id": "benar, sesuatu yang dikumpulkan, misalnya, mungkin biji-bijian atau buah beri; hanya digunakan untuk koin kecil (perak)",
+    "it": "propriamente, qualcosa di raccolto, ad esempio un grano o una bacca; usato solo per una piccola moneta (d'argento)",
+    "ja": "正しくは、集めたもの、つまり穀物やベリー。",
+    "ko": "적절하게, 곡물이나 열매와 같이 모인 무언가; 작은 (은) 동전으로만 사용됩니다",
+    "lt": "tinkamai, kažkas surinktas, t. y. galbūt grūdas ar uoga; vartojama tik kalbant apie smulkią (sidabrinę) monetą",
+    "lv": "pareizi - kaut kas savākts, t. i., varbūt grauds vai oga; lietots tikai par nelielu (sudraba) monētu",
+    "nb": "egentlig, noe som er plukket, f.eks. kanskje et korn eller bær; brukes bare om en liten (sølv)mynt",
+    "nl": "goed, iets verzameld, d.w.z. misschien een graan of bes; alleen gebruikt voor een kleine (zilveren) munt",
+    "pl": "właściwie, coś zebranego, tj. być może ziarno lub jagoda; używane tylko w odniesieniu do małej (srebrnej) monety",
+    "pt": "propriamente, algo colhido, ou seja, talvez um grão ou uma baga; usado apenas para uma pequena moeda (de prata)",
+    "ro": "propriu-zis, ceva adunat, de exemplu, poate un bob sau o boabă; folosit numai pentru o monedă mică (de argint)",
+    "ru": "правильно, что-то собранное, т.е., возможно, зерно или ягода; используется только для обозначения мелкой (серебряной) монеты",
+    "sk": "správne, niečo nazbierané, t. j. možno zrno alebo bobule; používa sa len pre malú (striebornú) mincu",
+    "sl": "pravilno, nekaj nabranega, npr. zrnje ali jagoda; uporablja se le za majhen (srebrni) kovanec",
+    "sv": "i egentlig mening, något som samlats in, t.ex. kanske en säd eller ett bär; används endast om ett litet (silver)mynt",
+    "tr": "uygun olarak, toplanan bir şey, örneğin bir tahıl veya dut; sadece küçük bir (gümüş) para için kullanılır",
+    "uk": "власне, щось зібране, тобто, можливо, зерно або ягода; вживається тільки щодо дрібної (срібної) монети",
+    "zh": "收集的东西，即谷物或浆果；仅用于小（银）币"
+  },
+  "hebrew": "אֲגוֹרָה",
+  "verses": [
+    "firstSamuel 2:36:7"
+  ]
+}

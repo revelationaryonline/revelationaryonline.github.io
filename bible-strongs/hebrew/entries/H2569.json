@@ -1,0 +1,42 @@
+{
+  "number": "H2569",
+  "language": "hebrew",
+  "transliteration": "chômesh",
+  "pronunciation": "kho'-mesh",
+  "definition": "a fifth tax",
+  "kjvTranslation": "fifth participle",
+  "translations": {
+    "bg": "пети данък",
+    "cs": "pátá daň",
+    "da": "en femte skat",
+    "de": "eine fünfte Steuer",
+    "el": "ένας πέμπτος φόρος",
+    "es": "un quinto impuesto",
+    "et": "viies maks",
+    "fi": "viides vero",
+    "fr": "un cinquième impôt",
+    "hu": "egy ötödik adó",
+    "id": "pajak kelima",
+    "it": "una quinta tassa",
+    "ja": "第五税",
+    "ko": "다섯 번째 세금",
+    "lt": "penktasis mokestis",
+    "lv": "piektais nodoklis",
+    "nb": "en femte skatt",
+    "nl": "een vijfde belasting",
+    "pl": "piąty podatek",
+    "pt": "um quinto imposto",
+    "ro": "un al cincilea impozit",
+    "ru": "пятый налог",
+    "sk": "piata daň",
+    "sl": "peti davek",
+    "sv": "en femte skatt",
+    "tr": "beşinci bir vergi",
+    "uk": "п'ятий податок",
+    "zh": "第五税"
+  },
+  "hebrew": "חֹמֶשׁ",
+  "verses": [
+    "genesis 47:26:11"
+  ]
+}

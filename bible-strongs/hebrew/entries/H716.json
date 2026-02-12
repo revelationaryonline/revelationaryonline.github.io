@@ -1,0 +1,42 @@
+{
+  "number": "H716",
+  "language": "hebrew",
+  "transliteration": "ʼArdîy",
+  "pronunciation": "ar-dee",
+  "definition": "an Ardite (collectively) or descendant of Ard",
+  "kjvTranslation": "Ardites.",
+  "translations": {
+    "bg": "ардит (колективно) или потомък на Ард",
+    "cs": "ardite (souhrnně) nebo potomek Arda",
+    "da": "en Ardite (kollektivt) eller efterkommer af Ard",
+    "de": "ein Ardite (kollektiv) oder Nachkomme von Ard",
+    "el": "ένας Ardite (συλλογικά) ή απόγονος του Ard",
+    "es": "un Ardita (colectivamente) o descendiente de Ard",
+    "et": "ardiit (kollektiivselt) või Ardi järeltulija",
+    "fi": "ardiitti (kollektiivisesti) tai Ardin jälkeläinen",
+    "fr": "un Ardite (collectivement) ou un descendant d'Ard",
+    "hu": "ardita (kollektíven) vagy Ard leszármazottja",
+    "id": "seorang Ardite (secara kolektif) atau keturunan Ard",
+    "it": "un Ardito (collettivamente) o un discendente di Ard",
+    "ja": "アード人（総称）またはアードの子孫",
+    "ko": "아르디트(총칭) 또는 아르드의 후손",
+    "lt": "arditas (kolektyviai) arba Ardo palikuonis",
+    "lv": "ardietis (kopā) vai Arda pēcnācējs",
+    "nb": "en arditt (kollektivt) eller etterkommer av Ard",
+    "nl": "een Ardite (collectief) of afstammeling van Ard",
+    "pl": "ardyta (łącznie) lub potomek Arda",
+    "pt": "um Ardita (coletivamente) ou descendente de Ard",
+    "ro": "un Ardite (colectiv) sau descendent al lui Ard",
+    "ru": "ардиец (собирательно) или потомок Арда",
+    "sk": "ardite (spoločne) alebo potomok Arda",
+    "sl": "ardite (skupaj) ali potomec Arda",
+    "sv": "en Ardite (kollektivt) eller ättling till Ard",
+    "tr": "bir Ardite (topluca) veya Ard'ın soyundan gelen",
+    "uk": "ардіт (спільно) або нащадок ардів",
+    "zh": "阿尔达人"
+  },
+  "hebrew": "אַרְדִּי",
+  "verses": [
+    "numbers 26:40:6"
+  ]
+}

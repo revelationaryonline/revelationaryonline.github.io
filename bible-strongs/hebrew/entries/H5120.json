@@ -1,0 +1,42 @@
+{
+  "number": "H5120",
+  "language": "hebrew",
+  "transliteration": "nûwṭ",
+  "pronunciation": "noot",
+  "definition": "to quake",
+  "kjvTranslation": "be moved.",
+  "hebrew": "נוּט",
+  "translations": {
+    "bg": "да се тресе",
+    "cs": "zemětřesení",
+    "da": "at skælve",
+    "de": "zu beben",
+    "el": "να τρέμει",
+    "es": "temblar",
+    "et": "värisema",
+    "fi": "vapisemaan",
+    "fr": "de trembler",
+    "hu": "hogy megremegjen",
+    "id": "untuk gempa",
+    "it": "tremare",
+    "ja": "震える",
+    "ko": "지진에",
+    "lt": "drebėti",
+    "lv": "trīcēt",
+    "nb": "til å skjelve",
+    "nl": "beven",
+    "pl": "trzęsienie",
+    "pt": "tremer",
+    "ro": "să se cutremure",
+    "ru": "дрожать",
+    "sk": "zemetrasenie",
+    "sl": "potresati se",
+    "sv": "att skaka",
+    "tr": "sarsmak için",
+    "uk": "тремтіти",
+    "zh": "地震"
+  },
+  "verses": [
+    "psalms 99:1:6"
+  ]
+}

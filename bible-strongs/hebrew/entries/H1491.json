@@ -1,0 +1,42 @@
+{
+  "number": "H1491",
+  "language": "hebrew",
+  "transliteration": "gâzâh",
+  "pronunciation": "gaw-zaw'",
+  "definition": "to cut off, i.e. portion out",
+  "kjvTranslation": "take.",
+  "translations": {
+    "bg": "да се отреже, т.е. да се прекъсне",
+    "cs": "odříznout, tj. rozdělit",
+    "da": "at skære af, dvs. dele ud",
+    "de": "abschneiden, d.h. abtrennen",
+    "el": "να αποκόψετε, δηλαδή να μοιραστείτε",
+    "es": "cortar, es decir, porcionar",
+    "et": "ära lõigata, s.t. välja jagada",
+    "fi": "katkaista, toisin sanoen jakaa pois",
+    "fr": "de couper, c'est-à-dire d'écarter",
+    "hu": "levágni, azaz kivágni, azaz kiosztani",
+    "id": "untuk memotong, yaitu membagi-bagi",
+    "it": "tagliare, cioè tagliare in due",
+    "ja": "切り取る",
+    "ko": "잘라내다, 즉 부분적으로 잘라냅니다",
+    "lt": "nukirsti, t. y. padalyti",
+    "lv": "nogriezt, t.i., sadalīt, atdalīt",
+    "nb": "å skjære av, dvs. dele ut",
+    "nl": "afsnijden, d.w.z. uitdelen",
+    "pl": "odciąć, tj. porcjować",
+    "pt": "cortar, ou seja, repartir",
+    "ro": "a tăia, adică a porționa",
+    "ru": "отрезать, т.е. отделять",
+    "sk": "odrezať, t. j. oddeliť",
+    "sl": "odrezati, tj. odcepiti",
+    "sv": "att skära av, d.v.s. portionera ut",
+    "tr": "kesmek, yani ayırmak",
+    "uk": "відрізати, тобто виділити частину",
+    "zh": "切断，即分出"
+  },
+  "hebrew": "גָּזָה",
+  "verses": [
+    "psalms 71:6:6"
+  ]
+}

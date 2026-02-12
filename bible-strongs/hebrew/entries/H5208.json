@@ -1,0 +1,43 @@
+{
+  "number": "H5208",
+  "language": "hebrew",
+  "transliteration": "nîychôwach",
+  "pronunciation": "nee-kho'-akh",
+  "definition": "pleasure",
+  "kjvTranslation": "sweet odour (savour).",
+  "hebrew": "נִיחוֹחַ",
+  "translations": {
+    "bg": "удоволствие",
+    "cs": "potěšení",
+    "da": "glæde",
+    "de": "vergnügen",
+    "el": "ευχαρίστηση",
+    "es": "placer",
+    "et": "rõõm",
+    "fi": "ilo",
+    "fr": "plaisir",
+    "hu": "öröm",
+    "id": "kesenangan",
+    "it": "piacere",
+    "ja": "喜び",
+    "ko": "즐거움",
+    "lt": "malonumas",
+    "lv": "prieks",
+    "nb": "glede",
+    "nl": "plezier",
+    "pl": "przyjemność",
+    "pt": "prazer",
+    "ro": "plăcere",
+    "ru": "удовольствие",
+    "sk": "potešenie",
+    "sl": "užitek",
+    "sv": "glädje",
+    "tr": "zevk",
+    "uk": "задоволення",
+    "zh": "愉悦"
+  },
+  "verses": [
+    "ezra 6:10:3",
+    "daniel 2:46:9"
+  ]
+}

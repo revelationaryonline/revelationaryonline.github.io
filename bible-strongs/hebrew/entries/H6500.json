@@ -1,0 +1,42 @@
+{
+  "number": "H6500",
+  "language": "hebrew",
+  "transliteration": "pârâʼ",
+  "pronunciation": "paw-raw'",
+  "definition": "to bear fruit",
+  "kjvTranslation": "be fruitful.",
+  "hebrew": "פָּרָא",
+  "translations": {
+    "bg": "да дава плод",
+    "cs": "přinášet ovoce",
+    "da": "at bære frugt",
+    "de": "früchte zu tragen",
+    "el": "να αποδώσει καρπούς",
+    "es": "dar fruto",
+    "et": "kanda vilja",
+    "fi": "kantaa hedelmää",
+    "fr": "porter des fruits",
+    "hu": "gyümölcsöt teremni",
+    "id": "untuk menghasilkan buah",
+    "it": "dare frutti",
+    "ja": "実を結ぶ",
+    "ko": "열매를 맺다",
+    "lt": "duoti vaisių",
+    "lv": "nest augļus",
+    "nb": "å bære frukt",
+    "nl": "vrucht dragen",
+    "pl": "przynosić owoce",
+    "pt": "dar frutos",
+    "ro": "să dea roade",
+    "ru": "приносить плоды",
+    "sk": "prinášať ovocie",
+    "sl": "roditi sadove",
+    "sv": "att bära frukt",
+    "tr": "meyve vermek",
+    "uk": "щоб принести плід",
+    "zh": "结果"
+  },
+  "verses": [
+    "hosea 13:15:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7899",
+  "language": "hebrew",
+  "transliteration": "sêk",
+  "pronunciation": "sake",
+  "definition": "a brier (as of a hedge)",
+  "kjvTranslation": "prick.",
+  "hebrew": "שֵׂךְ",
+  "translations": {
+    "bg": "храст (на жив плет)",
+    "cs": "trn (jako u živého plotu)",
+    "da": "en busk (som i en hæk)",
+    "de": "ein Gebüsch (wie eine Hecke)",
+    "el": "ένα θάμνο (όπως ένας φράχτης)",
+    "es": "una zarza (como la de un seto)",
+    "et": "põõsas (nagu hekk)",
+    "fi": "pensasaita (kuten pensasaidassa)",
+    "fr": "une ronce (comme pour une haie)",
+    "hu": "bokor (mint egy sövény)",
+    "id": "pembatas (seperti pagar tanaman)",
+    "it": "un rovo (come in una siepe)",
+    "ja": "荊",
+    "ko": "장벽(헤지 기준)",
+    "lt": "uoga (kaip gyvatvorės)",
+    "lv": "krūmu (kā dzīvžogs)",
+    "nb": "en busk (som i en hekk)",
+    "nl": "een braam (als van een heg)",
+    "pl": "zadzior (jako żywopłot)",
+    "pt": "uma sarça (de uma sebe)",
+    "ro": "un brăduț (ca al unui gard viu)",
+    "ru": "кустарник (как в живой изгороди)",
+    "sk": "tŕň (ako živý plot)",
+    "sl": "grmičevje (pri živi meji)",
+    "sv": "ett bärris (som hos en häck)",
+    "tr": "bir çalı (çit gibi)",
+    "uk": "живопліт (як огорожа)",
+    "zh": "篱"
+  },
+  "verses": [
+    "numbers 33:55:11"
+  ]
+}

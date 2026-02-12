@@ -1,0 +1,42 @@
+{
+  "number": "H4516",
+  "language": "hebrew",
+  "transliteration": "manʻam",
+  "pronunciation": "man-am'",
+  "definition": "a delicacy",
+  "kjvTranslation": "dainty.",
+  "hebrew": "מַנְעַם",
+  "verses": [
+    "psalms 141:4:14"
+  ],
+  "translations": {
+    "bg": "деликатес",
+    "cs": "lahůdka",
+    "da": "en delikatesse",
+    "de": "eine Delikatesse",
+    "el": "μια λιχουδιά",
+    "es": "un manjar",
+    "et": "delikatess",
+    "fi": "herkku",
+    "fr": "un délice",
+    "hu": "csemege",
+    "id": "sebuah kelezatan",
+    "it": "una prelibatezza",
+    "ja": "珍味",
+    "ko": "진미",
+    "lt": "delikatesas",
+    "lv": "delikatese",
+    "nb": "en delikatesse",
+    "nl": "een delicatesse",
+    "pl": "przysmak",
+    "pt": "uma iguaria",
+    "ro": "o delicatesă",
+    "ru": "деликатес",
+    "sk": "pochúťka",
+    "sl": "poslastica",
+    "sv": "en delikatess",
+    "tr": "bir incelik",
+    "uk": "делікатес",
+    "zh": "炼珍"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H805",
+  "language": "hebrew",
+  "transliteration": "ʼĂshûwrîy",
+  "pronunciation": "ash-oo-ree'",
+  "definition": "an Ashurite (collectively) or inhabitant of Ashur, a district in Palestine",
+  "kjvTranslation": "Asshurim, Ashurites.",
+  "translations": {
+    "bg": "ашурит (колективно) или жител на Ашур, област в Палестина",
+    "cs": "ašurita (souhrnně) nebo obyvatel Aššuru, oblasti v Palestině",
+    "da": "en ashurit (kollektivt) eller indbygger i Ashur, et distrikt i Palæstina",
+    "de": "ein Aschurit (kollektiv) oder Einwohner von Aschur, einem Bezirk in Palästina",
+    "el": "ασουρίτης (συλλογικά) ή κάτοικος της Ασούρ, μιας περιοχής στην Παλαιστίνη",
+    "es": "ashurita (colectivamente) o habitante de Ashur, distrito de Palestina",
+    "et": "ashuriit (kollektiivselt) või Ashuri, Palestiinas asuva piirkonna elanik",
+    "fi": "ashurit (kollektiivisesti) tai Ashurin, Palestiinassa sijaitsevan alueen, asukas",
+    "fr": "un Ashurite (collectivement) ou un habitant d'Ashur, un district de Palestine",
+    "hu": "aszurita (kollektíven) vagy Ashur lakója, egy palesztinai körzetben",
+    "id": "orang Ashur (secara kolektif) atau penduduk Ashur, sebuah distrik di Palestina",
+    "it": "un ashurita (collettivamente) o un abitante di Ashur, un distretto in Palestina",
+    "ja": "アシュール人（総称）またはパレスチナの一地区アシュールの住民",
+    "ko": "팔레스타인의 한 지역인 아슈르의 아슈르인(총칭) 또는 거주자",
+    "lt": "ašurietis (kolektyviai) arba Ašūro, rajono Palestinoje, gyventojas",
+    "lv": "ašurietis (kopā) vai Ašūras, rajona Palestīnā, iedzīvotājs",
+    "nb": "en ashuritt (kollektivt) eller innbygger i Ashur, et distrikt i Palestina",
+    "nl": "een Ashuriet (collectief) of inwoner van Ashur, een district in Palestina",
+    "pl": "aszuryta (łącznie) lub mieszkaniec Aszur, okręgu w Palestynie",
+    "pt": "um Ashurite (coletivamente) ou habitante de Ashur, um distrito da Palestina",
+    "ro": "un ashurit (colectiv) sau locuitor din Ashur, un district din Palestina",
+    "ru": "ашурит (собирательно) или житель Ашура, района в Палестине",
+    "sk": "ašúrčan (kolektívne) alebo obyvateľ Aššúru, okresu v Palestíne",
+    "sl": "ašurit (kolektivno) ali prebivalec Ašurja, okrožja v Palestini",
+    "sv": "en ashurit (samlingsnamn) eller invånare i Ashur, ett distrikt i Palestina",
+    "tr": "aşurlu (topluca) ya da Filistin'de bir bölge olan Aşur'un sakini",
+    "uk": "ашурит (збірно) або житель Ашура, району в Палестині",
+    "zh": "阿舒尔人（统称）或巴勒斯坦阿舒尔地区的居民"
+  },
+  "hebrew": "אֲשׁוּרִי",
+  "verses": [
+    "genesis 25:3:9",
+    "secondSamuel 2:9:4"
+  ]
+}

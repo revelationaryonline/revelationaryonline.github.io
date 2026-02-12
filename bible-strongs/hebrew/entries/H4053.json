@@ -1,0 +1,42 @@
+{
+  "number": "H4053",
+  "language": "hebrew",
+  "transliteration": "migrâphâh",
+  "pronunciation": "mig-raw-faw'",
+  "definition": "something thrown off (by the spade), i.e. a clod",
+  "kjvTranslation": "clod.",
+  "hebrew": "מִגְרָפָה",
+  "translations": {
+    "bg": "нещо, което е изхвърлено (от лопатата), напр. буца",
+    "cs": "něco odhozeného (rýčem), např. hrouda",
+    "da": "noget, der kastes af (af spaden), f.eks. en klump",
+    "de": "etwas, das (durch den Spaten) abgeworfen wird, z. B. eine Scholle",
+    "el": "κάτι που πετιέται (από το φτυάρι), π.χ. ένας σβώλος",
+    "es": "algo arrojado (por la pala), es decir, un terrón",
+    "et": "midagi (labidaga) maha visatud, st klobu",
+    "fi": "jotakin (lapiolla) pois heitettyä, esim. möhkäle",
+    "fr": "ce qui est rejeté (par la bêche), c'est-à-dire une motte de terre",
+    "hu": "valami, amit (az ásó) ledobott, pl. egy rög",
+    "id": "sesuatu yang terlempar (oleh sekop), yaitu gumpalan",
+    "it": "qualcosa che viene gettato via (dalla vanga), ad esempio una zolla di terra",
+    "ja": "鋤き落としたもの",
+    "ko": "(스페이드에 의해) 던져진 것, 즉 덩어리",
+    "lt": "ką nors, ką kastuvas išmetė, t. y. grumstą",
+    "lv": "kaut kas (ar lāpstu) izmests, t. i., grauds",
+    "nb": "noe som kastes av (av spaden), f.eks. en jordklump",
+    "nl": "iets dat eraf wordt gegooid (door de spade), d.w.z. een kluit",
+    "pl": "coś odrzuconego (przez szpadel), np. gruda",
+    "pt": "algo que é atirado para fora (pela pá), ou seja, um torrão",
+    "ro": "ceva aruncat (de lopata), de exemplu un bulgăr",
+    "ru": "что-то отброшенное (лопатой), т.е. ком",
+    "sk": "niečo odhodené (rýľom), t. j. hrudka",
+    "sl": "nekaj, kar je bilo odrinjeno (z lopato), npr. gruda",
+    "sv": "något som kastas av (av spaden), t.ex. en klump",
+    "tr": "(kürekle) atılan bir şey, yani bir kesek",
+    "uk": "щось відкинуте (лопатою), тобто грудка",
+    "zh": "被铲掉的东西，即泥块"
+  },
+  "verses": [
+    "joel 1:17:3"
+  ]
+}

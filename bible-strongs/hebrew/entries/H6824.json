@@ -1,0 +1,42 @@
+{
+  "number": "H6824",
+  "language": "hebrew",
+  "transliteration": "tsâphâh",
+  "pronunciation": "tsaw-faw'",
+  "definition": "an inundation (as covering)",
+  "kjvTranslation": "[idiom] swimmest.",
+  "hebrew": "צָפָה",
+  "translations": {
+    "bg": "заливане (като покритие)",
+    "cs": "záplava (jako pokrývka)",
+    "da": "en oversvømmelse (som tildækning)",
+    "de": "eine Überschwemmung (als Abdeckung)",
+    "el": "πλημμύρα (ως κάλυψη)",
+    "es": "una inundación (como cobertura)",
+    "et": "üleujutus (kattena)",
+    "fi": "tulva (peittävänä)",
+    "fr": "une inondation (comme couverture)",
+    "hu": "elárasztás (mint borítás)",
+    "id": "genangan air (sebagai penutup)",
+    "it": "un'inondazione (come copertura)",
+    "ja": "打っ掛け",
+    "ko": "침수(덮개 역할)",
+    "lt": "užliejimas (kaip danga)",
+    "lv": "applūšana (kā pārklājums)",
+    "nb": "en oversvømmelse (som tildekking)",
+    "nl": "een overstroming (als bedekking)",
+    "pl": "zalanie (jako pokrycie)",
+    "pt": "uma inundação (como cobertura)",
+    "ro": "o inundare (ca acoperire)",
+    "ru": "затопление (как покрытие)",
+    "sk": "záplava (ako pokrývka)",
+    "sl": "poplava (kot pokrivanje)",
+    "sv": "en översvämning (som täckning)",
+    "tr": "bir su baskını (örtü olarak)",
+    "uk": "затоплення (як покриття)",
+    "zh": "淹没"
+  },
+  "verses": [
+    "ezekiel 32:6:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3737",
+  "language": "hebrew",
+  "transliteration": "karbᵉlâʼ",
+  "pronunciation": "kar-bel-aw'",
+  "definition": "a mantle",
+  "kjvTranslation": "hat.",
+  "translations": {
+    "bg": "мантия",
+    "cs": "plášť",
+    "da": "en kappe",
+    "de": "einen Mantel",
+    "el": "ένα μανδύα",
+    "es": "un manto",
+    "et": "mantel",
+    "fi": "vaippa",
+    "fr": "un manteau",
+    "hu": "egy köpeny",
+    "id": "mantel",
+    "it": "un mantello",
+    "ja": "マントル",
+    "ko": "맨틀",
+    "lt": "apsiaustas",
+    "lv": "apmetnis",
+    "nb": "en kappe",
+    "nl": "een mantel",
+    "pl": "płaszcz",
+    "pt": "um manto",
+    "ro": "o manta",
+    "ru": "мантия",
+    "sk": "plášť",
+    "sl": "plašč",
+    "sv": "en mantel",
+    "tr": "bir manto",
+    "uk": "мантію",
+    "zh": "衣钵"
+  },
+  "hebrew": "כַּרְבְּלָא",
+  "verses": [
+    "daniel 3:21:7"
+  ]
+}

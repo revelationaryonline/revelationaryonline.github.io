@@ -1,0 +1,42 @@
+{
+  "number": "H86",
+  "language": "hebrew",
+  "transliteration": "ʼabrêk",
+  "pronunciation": "ab-rake'",
+  "definition": "kneel",
+  "kjvTranslation": "bow the knee.",
+  "translations": {
+    "bg": "да коленичи",
+    "cs": "pokleknout",
+    "da": "knæle",
+    "de": "knien",
+    "el": "γονάτισε",
+    "es": "arrodillarse",
+    "et": "põlvili",
+    "fi": "polvistua",
+    "fr": "s'agenouiller",
+    "hu": "térdre",
+    "id": "berlutut",
+    "it": "inginocchiarsi",
+    "ja": "ひざまずく",
+    "ko": "무릎",
+    "lt": "atsiklaupti",
+    "lv": "piecelties uz ceļiem",
+    "nb": "knele",
+    "nl": "knielen",
+    "pl": "uklęknąć",
+    "pt": "ajoelhar-se",
+    "ro": "îngenunchează",
+    "ru": "преклонить колени",
+    "sk": "kľaknúť si",
+    "sl": "poklekniti",
+    "sv": "knäböja",
+    "tr": "dİZ ÇÖK",
+    "uk": "стань на коліна",
+    "zh": "跪下"
+  },
+  "hebrew": "אַבְרֵךְ",
+  "verses": [
+    "genesis 41:43:8"
+  ]
+}

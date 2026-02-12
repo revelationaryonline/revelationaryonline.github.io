@@ -1,0 +1,43 @@
+{
+  "number": "H8371",
+  "language": "hebrew",
+  "transliteration": "shâthath",
+  "pronunciation": "shaw-thath'",
+  "definition": "to place, i.e. array; reflex. to lie",
+  "kjvTranslation": "be laid, set. t",
+  "hebrew": "שָׁתַת",
+  "translations": {
+    "bg": "да поставям, т.е. да подреждам; reflex. да лежа",
+    "cs": "umístit, tj. uspořádat; reflex. ležet",
+    "da": "at placere, dvs. opstille; reflex. at ligge",
+    "de": "platzieren, d.h. anordnen; reflex. liegen",
+    "el": "να τοποθετήσετε, δηλ. διάταξη, αντανακλαστικό. να ξαπλώσετε",
+    "es": "colocar, es decir, disponer; reflejo. tumbarse",
+    "et": "paigutada, s.t. massiivi; refleks. lamada",
+    "fi": "sijoittaa, ts. järjestää; refleksiivinen. to lie",
+    "fr": "placer, c'est-à-dire disposer ; réflexe. coucher",
+    "hu": "elhelyezni, azaz felsorakoztatni; reflex. feküdni",
+    "id": "untuk menempatkan, yaitu susunan; refleks. berbohong",
+    "it": "collocare, cioè schierare; riflesso. giacere",
+    "ja": "を並べる。",
+    "ko": "배치하다, 즉 배열하다; 반사하다, 거짓말하다",
+    "lt": "įdėti, t. y. išdėstyti; reflex. gulėti",
+    "lv": "novietot, t. i., izvietot; reflex. gulēt",
+    "nb": "å plassere, dvs. oppstilling; refleks. å ligge",
+    "nl": "plaatsen, d.w.z. rangschikken; reflex. liggen",
+    "pl": "umieścić, tj. ułożyć; odruch. leżeć",
+    "pt": "colocar, ou seja, dispor; reflexo. deitar",
+    "ro": "a plasa, adică a aranja; reflex. a culca",
+    "ru": "размещать, т.е. расставлять; рефлекторно. лежать",
+    "sk": "umiestniť, t. j. rozmiestniť; reflex. ležať",
+    "sl": "postaviti, tj. razporediti; refleks. ležati",
+    "sv": "att placera, d.v.s. ställa upp; reflex. att ligga",
+    "tr": "yerleştirmek, yani dizmek; refleks. yalan söylemek",
+    "uk": "розміщувати, тобто масив; рефлекс. брехати",
+    "zh": "放置，即排列；反射。 躺卧"
+  },
+  "verses": [
+    "psalms 49:15:2",
+    "psalms 73:9:0"
+  ]
+}

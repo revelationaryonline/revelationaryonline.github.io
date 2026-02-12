@@ -1,0 +1,43 @@
+{
+  "number": "H2993",
+  "language": "hebrew",
+  "transliteration": "yâbâm",
+  "pronunciation": "yaw-bawm'",
+  "definition": "a brotherin-law",
+  "kjvTranslation": "husband's brother.",
+  "translations": {
+    "bg": "шурей",
+    "cs": "švagr",
+    "da": "en svoger",
+    "de": "einen Schwager",
+    "el": "έναν κουνιάδο",
+    "es": "un cuñado",
+    "et": "õemees",
+    "fi": "lanko",
+    "fr": "un beau-frère",
+    "hu": "egy sógor",
+    "id": "saudara ipar laki-laki",
+    "it": "un cognato",
+    "ja": "義理の兄弟",
+    "ko": "처남",
+    "lt": "svainis",
+    "lv": "svainis",
+    "nb": "en svoger",
+    "nl": "een zwager",
+    "pl": "szwagier",
+    "pt": "um cunhado",
+    "ro": "un cumnat",
+    "ru": "шурин",
+    "sk": "švagor",
+    "sl": "svak",
+    "sv": "en svåger",
+    "tr": "bir kayınbirader",
+    "uk": "свояк",
+    "zh": "姻亲"
+  },
+  "hebrew": "יָבָם",
+  "verses": [
+    "deuteronomy 25:5:17",
+    "deuteronomy 25:7:14"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1638",
+  "language": "hebrew",
+  "transliteration": "gâraç",
+  "pronunciation": "gaw-ras'",
+  "definition": "to crush; also (intransitively and figuratively) to dissolve",
+  "kjvTranslation": "break.",
+  "translations": {
+    "bg": "да се смачка; също така (в преносен и преносен смисъл) да се разтвори",
+    "cs": "rozdrtit; také (v přeneseném významu a přeneseně) rozpustit",
+    "da": "at knuse; også (intransitivt og i overført betydning) at opløse",
+    "de": "zermalmen; auch (intransitiv und bildlich) auflösen",
+    "el": "συνθλίβω- επίσης (ενδοιαστικά και μεταφορικά) διαλύω",
+    "es": "aplastar; también (intransitivamente y en sentido figurado) disolver",
+    "et": "purustada; ka (ingliskeelselt ja ülekantud tähenduses) lahustada",
+    "fi": "murskata; myös (väljästi ja kuvaannollisesti) liuottaa",
+    "fr": "écraser ; également (au sens intransitif et figuré) dissoudre",
+    "hu": "összezúzni; továbbá (átvitt értelemben és átvitt értelemben) feloldani",
+    "id": "menghancurkan; juga (secara intransitif dan kiasan) melarutkan",
+    "it": "schiacciare; anche (intransitivamente e figurativamente) dissolvere",
+    "ja": "を砕く；また、（内在的、比喩的に）溶かす",
+    "ko": "부수다; 또한 (비의미적으로 그리고 비 유적으로) 용해하다",
+    "lt": "sutraiškyti; taip pat (perkeltine ir perkeltine prasme) ištirpdyti",
+    "lv": "sasmalcināt; arī (nenoteiktā un pārnestā nozīmē) izšķīdināt",
+    "nb": "å knuse; også (intransitivt og i overført betydning) å oppløse",
+    "nl": "verpletteren; ook (transitief en figuurlijk) oplossen",
+    "pl": "zmiażdżyć; również (nieprzejednanie i w przenośni) rozpuścić",
+    "pt": "esmagar; também (intransitivamente e figurativamente) dissolver",
+    "ro": "a zdrobi; de asemenea (intransitiv și figurat) a dizolva",
+    "ru": "сокрушать; также (в переносном и непереносном смысле) растворять",
+    "sk": "rozdrviť; tiež (v prenesenom význame) rozpustiť",
+    "sl": "zdrobiti; tudi (v prenesenem in prenesenem pomenu) raztopiti",
+    "sv": "att krossa; även (intransitivt och bildligt) att lösa upp",
+    "tr": "ezmek; ayrıca (geçişsiz ve mecazi olarak) eritmek",
+    "uk": "розчавити; також (неперехідно і переносно) розчинити",
+    "zh": "碾碎；也（非直译和比喻）溶解"
+  },
+  "hebrew": "גָּרַס",
+  "verses": [
+    "psalms 119:20:0",
+    "lamentations 3:16:0"
+  ]
+}

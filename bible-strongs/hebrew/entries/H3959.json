@@ -1,0 +1,43 @@
+{
+  "number": "H3959",
+  "language": "hebrew",
+  "transliteration": "Leshem",
+  "pronunciation": "leh'-shem",
+  "definition": "Leshem, a place in Palestine",
+  "kjvTranslation": "Leshem.",
+  "hebrew": "לֶשֶׁם",
+  "translations": {
+    "bg": "Leshem, място в Палестина",
+    "cs": "Leshem, místo v Palestině",
+    "da": "Leshem, et sted i Palæstina",
+    "de": "Leshem, ein Ort in Palästina",
+    "el": "Leshem, τόπος στην Παλαιστίνη",
+    "es": "Leshem, un lugar en Palestina",
+    "et": "Leshem, koht Palestiinas",
+    "fi": "Leshem, paikka Palestiinassa",
+    "fr": "Leshem, localité de Palestine",
+    "hu": "Leshem, egy hely Palesztinában",
+    "id": "Leshem, sebuah tempat di Palestina",
+    "it": "Leshem, località della Palestina",
+    "ja": "パレスチナの地名、レシェム",
+    "ko": "레셈, 팔레스타인의 한 장소",
+    "lt": "Leshem, vietovė Palestinoje",
+    "lv": "Leshem, vieta Palestīnā",
+    "nb": "Leshem, et sted i Palestina",
+    "nl": "Leshem, een plaats in Palestina",
+    "pl": "Leshem, miejscowość w Palestynie",
+    "pt": "Leshem, um lugar na Palestina",
+    "ro": "Leshem, un loc în Palestina",
+    "ru": "Лешем, место в Палестине",
+    "sk": "Leshem, miesto v Palestíne",
+    "sl": "Leshem, kraj v Palestini",
+    "sv": "Leshem, en plats i Palestina",
+    "tr": "Leshem, Filistin'de bir yer",
+    "uk": "Лешем, місце в Палестині",
+    "zh": "莱西姆"
+  },
+  "verses": [
+    "joshua 19:47:10",
+    "joshua 19:47:22"
+  ]
+}

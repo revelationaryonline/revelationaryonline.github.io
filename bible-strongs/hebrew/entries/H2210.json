@@ -1,0 +1,43 @@
+{
+  "number": "H2210",
+  "language": "hebrew",
+  "transliteration": "zâqaph",
+  "pronunciation": "zaw-kaf'",
+  "definition": "to life, i.e. (figuratively) comfort",
+  "kjvTranslation": "raise (up).",
+  "translations": {
+    "bg": "за живот, т.е. (образно казано) за утеха",
+    "cs": "k životu, tj. (obrazně řečeno) k útěše",
+    "da": "til livet, dvs. (i overført betydning) trøst",
+    "de": "zum Leben, d.h. (im übertragenen Sinne) zum Trost",
+    "el": "στη ζωή, δηλαδή (μεταφορικά) άνεση",
+    "es": "a la vida, es decir (figuradamente) consuelo",
+    "et": "elule, st (piltlikult öeldes) mugavusele",
+    "fi": "elämään, eli (kuvaannollisesti) lohdutukseen",
+    "fr": "à la vie, c'est-à-dire (au sens figuré) au confort",
+    "hu": "az élethez, azaz (átvitt értelemben) vigaszhoz",
+    "id": "untuk hidup, yaitu (secara kiasan) kenyamanan",
+    "it": "alla vita, cioè (in senso figurato) conforto",
+    "ja": "人生に、つまり（比喩的に）慰めに",
+    "ko": "삶, 즉 (비유적으로) 편안함",
+    "lt": "į gyvenimą, t. y. (perkeltine prasme) paguoda",
+    "lv": "dzīvei, t.i., (pārnestā nozīmē) mierinājumam",
+    "nb": "til liv, dvs. (i overført betydning) trøst",
+    "nl": "tot leven, d.w.z. (figuurlijk) troost",
+    "pl": "do życia, tj. (w przenośni) komfort",
+    "pt": "à vida, ou seja, (figurativamente) conforto",
+    "ro": "la viață, adică (la figurat) confort",
+    "ru": "к жизни, т.е. (образно) к комфорту",
+    "sk": "k životu, t. j. (obrazne) k pohodliu",
+    "sl": "za življenje, tj. (v prenesenem pomenu) za tolažbo",
+    "sv": "till liv, dvs. (bildligt talat) tröst",
+    "tr": "hayata, yani (mecazi anlamda) rahatlığa",
+    "uk": "до життя, тобто (образно) до комфорту",
+    "zh": "生命，即（比喻）安慰"
+  },
+  "hebrew": "זָקַף",
+  "verses": [
+    "psalms 145:14:4",
+    "psalms 146:8:4"
+  ]
+}

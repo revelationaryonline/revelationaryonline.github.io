@@ -1,0 +1,42 @@
+{
+  "number": "H1743",
+  "language": "hebrew",
+  "transliteration": "dûwk",
+  "pronunciation": "dook",
+  "definition": "to bruise in a mortar",
+  "kjvTranslation": "beat.",
+  "translations": {
+    "bg": "да се натроши в хаванче",
+    "cs": "rozbíjet v hmoždíři",
+    "da": "at knuse i en morter",
+    "de": "in einem Mörser zerstampfen",
+    "el": "να μελανιάσει σε γουδί",
+    "es": "machacar en un mortero",
+    "et": "mörsis purustada",
+    "fi": "murskata morttelissa",
+    "fr": "de broyer dans un mortier",
+    "hu": "mozsárban törni",
+    "id": "untuk memar dalam lesung",
+    "it": "ammaccare in un mortaio",
+    "ja": "臼で叩く",
+    "ko": "절구에 멍이 들다",
+    "lt": "smulkinti skiediniu",
+    "lv": "sasmalcināt ar smalcinātāju",
+    "nb": "å knuse i en morter",
+    "nl": "kneuzen in een vijzel",
+    "pl": "rozbić w moździerzu",
+    "pt": "esmagar num almofariz",
+    "ro": "a zdrobi într-un mortar",
+    "ru": "растолочь в ступке",
+    "sk": "rozbiť v mažiari",
+    "sl": "zdrobiti v možnarju",
+    "sv": "att krossa i en mortel",
+    "tr": "havanda dövmek",
+    "uk": "розбити в ступі синяк",
+    "zh": "臼之"
+  },
+  "hebrew": "דּוּךְ",
+  "verses": [
+    "numbers 11:8:6"
+  ]
+}

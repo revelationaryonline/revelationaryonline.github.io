@@ -1,0 +1,42 @@
+{
+  "number": "H5156",
+  "language": "hebrew",
+  "transliteration": "nᵉchîyr",
+  "pronunciation": "nekh-eer'",
+  "definition": "a nostril",
+  "kjvTranslation": "(dual) nostrils.",
+  "hebrew": "נְחִיר",
+  "translations": {
+    "bg": "ноздра",
+    "cs": "nosní dírky",
+    "da": "et næsebor",
+    "de": "ein Nasenloch",
+    "el": "ένα ρουθούνι",
+    "es": "una fosa nasal",
+    "et": "ninasõõrmesse",
+    "fi": "sieraimen",
+    "fr": "une narine",
+    "hu": "egy orrlyuk",
+    "id": "lubang hidung",
+    "it": "una narice",
+    "ja": "鼻の穴",
+    "ko": "콧구멍",
+    "lt": "šnervė",
+    "lv": "nāsis",
+    "nb": "et nesebor",
+    "nl": "een neusgat",
+    "pl": "nozdrze",
+    "pt": "uma narina",
+    "ro": "o nară",
+    "ru": "ноздря",
+    "sk": "nosná dierka",
+    "sl": "nosnica",
+    "sv": "en näsborre",
+    "tr": "bir burun deliği",
+    "uk": "ніздря",
+    "zh": "鼻孔"
+  },
+  "verses": [
+    "job 41:12:0"
+  ]
+}

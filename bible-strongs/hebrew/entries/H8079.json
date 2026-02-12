@@ -1,0 +1,42 @@
+{
+  "number": "H8079",
+  "language": "hebrew",
+  "transliteration": "sᵉmâmîyth",
+  "pronunciation": "sem-aw-meeth'",
+  "definition": "a lizard (from the superstition of its noxiousness)",
+  "kjvTranslation": "spider.",
+  "hebrew": "שְׂמָמִית",
+  "translations": {
+    "bg": "гущер (от суеверието за неговата вредност)",
+    "cs": "ještěrka (z pověry o její škodlivosti)",
+    "da": "et firben (på grund af overtroen om, at det er skadeligt)",
+    "de": "eine Eidechse (wegen des Aberglaubens an ihre Schädlichkeit)",
+    "el": "μια σαύρα (από τη δεισιδαιμονία της βλαβερότητάς της)",
+    "es": "un lagarto (por la superstición de su nocividad)",
+    "et": "sisalik (ebausklikkusest, et ta on kahjulik)",
+    "fi": "lisko (taikauskon perusteella, jonka mukaan se on myrkyllinen)",
+    "fr": "un lézard (du fait de la superstition de sa nocivité)",
+    "hu": "gyík (a gyík ártalmas voltának babonájából)",
+    "id": "seekor kadal (dari takhayul akan bahaya yang ditimbulkannya)",
+    "it": "una lucertola (dalla superstizione della sua nocività)",
+    "ja": "とかげ",
+    "ko": "도마뱀(독성이 있다는 미신에서 유래)",
+    "lt": "driežas (iš prietarų apie jo kenksmingumą)",
+    "lv": "ķirzaka (no māņticības par tās kaitīgumu)",
+    "nb": "en øgle (fra overtroen om dens skadelighet)",
+    "nl": "een hagedis (van het bijgeloof van zijn schadelijkheid)",
+    "pl": "jaszczurka (z przesądu o jej szkodliwości)",
+    "pt": "um lagarto (devido à superstição da sua nocividade)",
+    "ro": "o șopârlă (din superstiția nocivității sale)",
+    "ru": "ящерица (из суеверия о ее вредоносности)",
+    "sk": "jašterica (z povery o jej škodlivosti)",
+    "sl": "kuščar (zaradi vraževerja o njegovi škodljivosti)",
+    "sv": "en ödla (från vidskepelsen om dess skadlighet)",
+    "tr": "bir kertenkele (zararlı olduğu batıl inancından)",
+    "uk": "ящірка (через забобон про її шкідливість)",
+    "zh": "蜥蜴（来自其邪恶的迷信）"
+  },
+  "verses": [
+    "proverbs 30:28:0"
+  ]
+}

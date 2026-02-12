@@ -1,0 +1,43 @@
+{
+  "number": "H2261",
+  "language": "hebrew",
+  "transliteration": "chăbatstseleth",
+  "pronunciation": "khab-ats-tseh'-leth",
+  "definition": "probably meadow-saffron",
+  "kjvTranslation": "rose.",
+  "translations": {
+    "bg": "вероятно ливаден шафран",
+    "cs": "pravděpodobně šafrán luční",
+    "da": "sandsynligvis eng-saffran",
+    "de": "wahrscheinlich Safranwiese",
+    "el": "πιθανώς λιβάδι-σαφράν",
+    "es": "probablemente azafrán de los prados",
+    "et": "tõenäoliselt niidusafrakoon",
+    "fi": "luultavasti niittysahrami",
+    "fr": "probablement le safran des prés",
+    "hu": "valószínűleg réti sáfrány",
+    "id": "mungkin padang rumput-kunyit",
+    "it": "probabilmente zafferano dei prati",
+    "ja": "おそらくメドウサフラン",
+    "ko": "아마 초원 사프란",
+    "lt": "tikriausiai pievinis šafranas",
+    "lv": "iespējams, pļavas safrāns",
+    "nb": "sannsynligvis engsaffran",
+    "nl": "waarschijnlijk veldsaffraan",
+    "pl": "prawdopodobnie szafran łąkowy",
+    "pt": "provavelmente açafrão-dos-prados",
+    "ro": "probabil șofran de pajiște",
+    "ru": "вероятно, луговой шафран",
+    "sk": "pravdepodobne šafran lúčny",
+    "sl": "verjetno travniški žafran",
+    "sv": "förmodligen ängsaffran",
+    "tr": "muhtemelen çayır safranı",
+    "uk": "ймовірно, луговий шафран",
+    "zh": "可能是绣线菊"
+  },
+  "hebrew": "חֲבַצֶּלֶת",
+  "verses": [
+    "solomon 2:1:1",
+    "isaiah 35:1:6"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2685",
+  "language": "hebrew",
+  "transliteration": "chătsaph",
+  "pronunciation": "khats-af'",
+  "definition": "properly, to shear or cut close; figuratively, to be severe",
+  "kjvTranslation": "hasty, be urgent.",
+  "translations": {
+    "bg": "правилно, срязвам или режа; преносно, строг",
+    "cs": "správně, stříhat nebo řezat; přeneseně, být přísný",
+    "da": "korrekt, at klippe eller skære tæt; i overført betydning, at være streng",
+    "de": "richtig: scheren oder schneiden; im übertragenen Sinne: streng sein",
+    "el": "κατάλληλα, να κόβετε ή να κόβετε στενά- μεταφορικά, να είστε αυστηρός",
+    "es": "propiamente, cizallar o cortar de cerca; figuradamente, ser severo",
+    "et": "õigesti, lõigata või lõigata tihedalt; piltlikult, olla karmi",
+    "fi": "oikein, leikata tai leikata läheltä; kuvaannollisesti, olla ankara",
+    "fr": "au sens propre, cisailler ou couper de près ; au sens figuré, être sévère",
+    "hu": "helyesen: nyírni vagy szorosan vágni; átvitt értelemben: szigorú lenni",
+    "id": "benar, untuk menggunting atau memotong dekat; secara kiasan, menjadi parah",
+    "it": "in senso proprio, tagliare o incidere da vicino; in senso figurato, essere severo",
+    "ja": "比喩的に、厳しくする。",
+    "ko": "적절하게, 가까이 깎거나 자르다; 비 유적으로, 심각하다",
+    "lt": "taisyklingai - griežtai kirpti arba pjauti; perkeltine prasme - būti griežtam",
+    "lv": "pareizi - griezt vai griezt cieši; pārnestā nozīmē - būt bargam",
+    "nb": "egentlig, å klippe eller skjære tett; i overført betydning, å være streng",
+    "nl": "op de juiste manier, dicht knippen of snijden; figuurlijk, streng zijn",
+    "pl": "prawidłowo, ścinać lub ciąć blisko; w przenośni, być surowym",
+    "pt": "propriamente dito, cortar ou cortar rente; figurativamente, ser severo",
+    "ro": "propriu-zis, a tăia sau a tăia strâns; la figurat, a fi sever",
+    "ru": "правильно, стричь или резать; фигурально, быть суровым",
+    "sk": "správne, strihať alebo strihať tesne; v prenesenom význame, byť prísny",
+    "sl": "pravilno, striči ali rezati; v prenesenem pomenu, biti strog",
+    "sv": "korrekt, att klippa eller skära nära; bildligt talat, att vara sträng",
+    "tr": "uygun olarak, kesmek veya yakından kesmek; mecazi olarak, şiddetli olmak",
+    "uk": "правильно, зрізати або обрізати близько; образно, бути суворим",
+    "zh": "剪，剪得很紧；比喻严厉"
+  },
+  "hebrew": "חֲצַף",
+  "verses": [
+    "daniel 2:15:9",
+    "daniel 3:22:7"
+  ]
+}

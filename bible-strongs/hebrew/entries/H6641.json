@@ -1,0 +1,42 @@
+{
+  "number": "H6641",
+  "language": "hebrew",
+  "transliteration": "tsâbûwaʻ",
+  "pronunciation": "tsaw-boo'-ah",
+  "definition": "dyed (in stripes), i.e. the hyena",
+  "kjvTranslation": "speckled.",
+  "hebrew": "צָבוּעַ",
+  "translations": {
+    "bg": "боядисани (на райета), т.е. хиената",
+    "cs": "obarvený (pruhy), tj. hyena",
+    "da": "farvet (i striber), dvs. hyænen",
+    "de": "gefärbt (in Streifen), d.h. die Hyäne",
+    "el": "βαμμένη (με ρίγες), δηλαδή η ύαινα",
+    "es": "teñido (a rayas), es decir, la hiena",
+    "et": "värvitud (triibuline), st. hiiu",
+    "fi": "värjätty (raidallinen), eli hyeena",
+    "fr": "teintée (en rayures), c'est-à-dire la hyène",
+    "hu": "festett (csíkos), azaz a hiéna",
+    "id": "dicelup (dalam garis-garis), yaitu hyena",
+    "it": "tinta (a strisce), cioè la iena",
+    "ja": "染め（ストライプ）、すなわちハイエナ",
+    "ko": "염색 (줄무늬), 즉 하이에나",
+    "lt": "dažytos (dryžiais), t. y. hiena",
+    "lv": "krāsots (svītrās), t. i., hiena",
+    "nb": "farget (i striper), dvs. hyenen",
+    "nl": "geverfd (in strepen), d.w.z. de hyena",
+    "pl": "barwiony (w paski), tj. hiena",
+    "pt": "tingida (de riscas), ou seja, a hiena",
+    "ro": "vopsite (în dungi), de exemplu hiena",
+    "ru": "окрашенный (в полоску), т.е. гиена",
+    "sk": "farbené (pruhované), t. j. hyena",
+    "sl": "obarvana (v črte), tj. hijena",
+    "sv": "färgad (i ränder), t.ex. hyena",
+    "tr": "boyalı (çizgili), yani sırtlan",
+    "uk": "пофарбована (у смужку), тобто гієна",
+    "zh": "鬣狗"
+  },
+  "verses": [
+    "jeremiah 12:9:1"
+  ]
+}

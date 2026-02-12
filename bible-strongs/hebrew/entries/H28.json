@@ -1,0 +1,43 @@
+{
+  "number": "H28",
+  "language": "hebrew",
+  "transliteration": "ʼĂbîydâʻ",
+  "pronunciation": "ab-ee-daw'",
+  "definition": "Abida, a son of Abraham by Keturah",
+  "kjvTranslation": "Abida, Abidah.",
+  "translations": {
+    "bg": "Абида, син на Авраам от Кетура",
+    "cs": "Abida, syn Abrahamův z Ketury",
+    "da": "Abida, en søn af Abraham og Ketura",
+    "de": "Abida, ein Sohn von Abraham und Keturah",
+    "el": "Abida, γιος του Αβραάμ από την Keturah",
+    "es": "Abida, hijo de Abraham con Cetura",
+    "et": "Abida, Aabrahami poeg Keturast",
+    "fi": "Abida, Aabrahamin poika Keturan kautta",
+    "fr": "Abida, fils d'Abraham par Keturah",
+    "hu": "Abida, Ábrahám fia Keturától",
+    "id": "Abida, anak Abraham dari Keturah",
+    "it": "Abida, figlio di Abramo da parte di Keturah",
+    "ja": "アブラハムとケトゥラとの間の子、アビダ",
+    "ko": "아브라함의 아들 아비다, 케투라의 아들",
+    "lt": "Abida, Abraomo sūnus iš Ketūros",
+    "lv": "Abida, Ābrahāma dēls no Keturas",
+    "nb": "Abida, en sønn av Abraham med Ketura",
+    "nl": "Abida, een zoon van Abraham door Keturah",
+    "pl": "Abida, syn Abrahama i Ketury",
+    "pt": "Abida, filho de Abraão com Quetura",
+    "ro": "Abida, un fiu al lui Avraam de Keturah",
+    "ru": "Абида, сын Авраама от Кетуры",
+    "sk": "Abida, syn Abraháma z Ketury",
+    "sl": "Abida, Abrahamov sin s Keturo",
+    "sv": "Abida, en son till Abraham med Keturah",
+    "tr": "Abida, İbrahim'in Keturah'tan olan oğlu",
+    "uk": "Авіда, син Авраама від Кетури",
+    "zh": "亚比达，亚伯拉罕与凯图拉所生之子"
+  },
+  "hebrew": "אֲבִידָע",
+  "verses": [
+    "genesis 25:4:5",
+    "firstChronicles 1:33:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H706",
+  "language": "hebrew",
+  "transliteration": "ʼarbaʻtayim",
+  "pronunciation": "ar-bah-tah'-yim",
+  "definition": "fourfold",
+  "kjvTranslation": "fourfold.",
+  "translations": {
+    "bg": "четирикратен",
+    "cs": "čtyřnásobný",
+    "da": "firedobbelt",
+    "de": "vierfache",
+    "el": "τετραπλό",
+    "es": "cuádruple",
+    "et": "neljakordne",
+    "fi": "nelinkertainen",
+    "fr": "quadruple",
+    "hu": "négyszeres",
+    "id": "empat kali lipat",
+    "it": "quadruplo",
+    "ja": "四重",
+    "ko": "4배",
+    "lt": "keturgubas",
+    "lv": "četrkāršs",
+    "nb": "firedobbelt",
+    "nl": "viervoudig",
+    "pl": "poczwórny",
+    "pt": "quádruplo",
+    "ro": "de patru ori",
+    "ru": "в четыре руки",
+    "sk": "štvornásobný",
+    "sl": "štirikratno",
+    "sv": "fyrfaldig",
+    "tr": "dört kat",
+    "uk": "в чотири рази",
+    "zh": "四倍"
+  },
+  "hebrew": "אַרְבַּעְתַּיִם",
+  "verses": [
+    "secondSamuel 12:6:3"
+  ]
+}

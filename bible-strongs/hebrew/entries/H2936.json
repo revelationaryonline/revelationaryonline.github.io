@@ -1,0 +1,42 @@
+{
+  "number": "H2936",
+  "language": "hebrew",
+  "transliteration": "ṭânaph",
+  "pronunciation": "taw-naf'",
+  "definition": "to soil",
+  "kjvTranslation": "defile.",
+  "translations": {
+    "bg": "към почвата",
+    "cs": "do půdy",
+    "da": "til jord",
+    "de": "zum Boden",
+    "el": "στο έδαφος",
+    "es": "al suelo",
+    "et": "pinnasele",
+    "fi": "maaperään",
+    "fr": "au sol",
+    "hu": "a talajhoz",
+    "id": "ke tanah",
+    "it": "al suolo",
+    "ja": "土に",
+    "ko": "토양에",
+    "lt": "į dirvožemį",
+    "lv": "uz augsni",
+    "nb": "til jord",
+    "nl": "naar bodem",
+    "pl": "do gleby",
+    "pt": "para o solo",
+    "ro": "la sol",
+    "ru": "на почву",
+    "sk": "do pôdy",
+    "sl": "v tla",
+    "sv": "till jord",
+    "tr": "toprağa",
+    "uk": "до ґрунту",
+    "zh": "土壤"
+  },
+  "hebrew": "טָנַף",
+  "verses": [
+    "solomon 5:3:9"
+  ]
+}

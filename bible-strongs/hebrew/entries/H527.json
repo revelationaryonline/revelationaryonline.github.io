@@ -1,0 +1,42 @@
+{
+  "number": "H527",
+  "language": "hebrew",
+  "transliteration": "ʼâmôwn",
+  "pronunciation": "aw-mone'",
+  "definition": "a throng of people",
+  "kjvTranslation": "multitude.",
+  "translations": {
+    "bg": "тълпа от хора",
+    "cs": "dav lidí",
+    "da": "et mylder af mennesker",
+    "de": "eine Schar von Menschen",
+    "el": "ένα πλήθος ανθρώπων",
+    "es": "una multitud de personas",
+    "et": "rahvahulk",
+    "fi": "ihmisjoukko",
+    "fr": "une foule de personnes",
+    "hu": "emberek tömege",
+    "id": "kerumunan orang",
+    "it": "una folla di persone",
+    "ja": "人だかり",
+    "ko": "수많은 사람들",
+    "lt": "žmonių minia",
+    "lv": "cilvēku pūlis",
+    "nb": "et mylder av mennesker",
+    "nl": "een menigte mensen",
+    "pl": "tłum ludzi",
+    "pt": "uma multidão de pessoas",
+    "ro": "o mulțime de oameni",
+    "ru": "толпа людей",
+    "sk": "dav ľudí",
+    "sl": "množica ljudi",
+    "sv": "en folksamling",
+    "tr": "bir insan kalabalığı",
+    "uk": "натовп людей",
+    "zh": "人山人海"
+  },
+  "hebrew": "אָמוֹן",
+  "verses": [
+    "jeremiah 52:15:16"
+  ]
+}

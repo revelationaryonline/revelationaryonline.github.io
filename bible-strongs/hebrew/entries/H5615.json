@@ -1,0 +1,42 @@
+{
+  "number": "H5615",
+  "language": "hebrew",
+  "transliteration": "çᵉphôrâh",
+  "pronunciation": "sef-o-raw'",
+  "definition": "a numeration",
+  "kjvTranslation": "number.",
+  "hebrew": "סְפֹרָה",
+  "translations": {
+    "bg": "бройка",
+    "cs": "číslování",
+    "da": "et tal",
+    "de": "eine Aufzählung",
+    "el": "μια αρίθμηση",
+    "es": "una numeración",
+    "et": "numeratsioon",
+    "fi": "numerointi",
+    "fr": "une numération",
+    "hu": "számozás",
+    "id": "sebuah angka",
+    "it": "una numerazione",
+    "ja": "数表現",
+    "ko": "숫자",
+    "lt": "skaičiavimas",
+    "lv": "skaitlis",
+    "nb": "en tallfesting",
+    "nl": "een getal",
+    "pl": "numeracja",
+    "pt": "uma numeração",
+    "ro": "o numerație",
+    "ru": "нумерация",
+    "sk": "číslovanie",
+    "sl": "številčenje",
+    "sv": "en siffra",
+    "tr": "bir numaralandırma",
+    "uk": "число",
+    "zh": "数词"
+  },
+  "verses": [
+    "psalms 71:15:9"
+  ]
+}

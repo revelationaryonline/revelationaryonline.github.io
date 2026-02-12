@@ -1,0 +1,43 @@
+{
+  "number": "H7072",
+  "language": "hebrew",
+  "transliteration": "qannôwʼ",
+  "pronunciation": "kan-no'",
+  "definition": "jealous or angry",
+  "kjvTranslation": "jealous.",
+  "hebrew": "קַנּוֹא",
+  "translations": {
+    "bg": "ревнив или гневен",
+    "cs": "žárlivý nebo rozzlobený",
+    "da": "jaloux eller vred",
+    "de": "eifersüchtig oder wütend",
+    "el": "ζηλιάρης ή θυμωμένος",
+    "es": "celoso o enfadado",
+    "et": "armukade või vihane",
+    "fi": "mustasukkainen tai vihainen",
+    "fr": "jaloux ou en colère",
+    "hu": "féltékeny vagy dühös",
+    "id": "cemburu atau marah",
+    "it": "geloso o arrabbiato",
+    "ja": "嫉妬や怒り",
+    "ko": "질투 또는 분노",
+    "lt": "pavydus ar piktas",
+    "lv": "greizsirdīgs vai dusmīgs",
+    "nb": "sjalu eller sint",
+    "nl": "jaloers of boos",
+    "pl": "zazdrosny lub zły",
+    "pt": "ciumento ou zangado",
+    "ro": "gelos sau furios",
+    "ru": "ревновать или злиться",
+    "sk": "žiarlivý alebo nahnevaný",
+    "sl": "ljubosumni ali jezni",
+    "sv": "svartsjuk eller arg",
+    "tr": "kıskanç veya kızgın",
+    "uk": "ревнують або зляться",
+    "zh": "妒"
+  },
+  "verses": [
+    "joshua 24:19:14",
+    "nahum 1:2:1"
+  ]
+}

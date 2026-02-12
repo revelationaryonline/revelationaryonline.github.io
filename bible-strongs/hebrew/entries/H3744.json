@@ -1,0 +1,42 @@
+{
+  "number": "H3744",
+  "language": "hebrew",
+  "transliteration": "kârôwz",
+  "pronunciation": "kaw-roze'",
+  "definition": "a herald",
+  "kjvTranslation": "herald.",
+  "translations": {
+    "bg": "вестител",
+    "cs": "zvěstovatel",
+    "da": "en herold",
+    "de": "ein Herold",
+    "el": "ένας κήρυκας",
+    "es": "un heraldo",
+    "et": "kuulutaja",
+    "fi": "sanansaattaja",
+    "fr": "un héraut",
+    "hu": "egy hírnök",
+    "id": "seorang pembawa berita",
+    "it": "un araldo",
+    "ja": "せんくしゃ",
+    "ko": "전령",
+    "lt": "pranašas",
+    "lv": "vēstnesis",
+    "nb": "en herold",
+    "nl": "een heraut",
+    "pl": "zwiastun",
+    "pt": "um arauto",
+    "ro": "un vestitor",
+    "ru": "глашатай",
+    "sk": "zvestovateľ",
+    "sl": "glasnik",
+    "sv": "en härold",
+    "tr": "bir haberci",
+    "uk": "вісника",
+    "zh": "领航员"
+  },
+  "hebrew": "כָּרוֹז",
+  "verses": [
+    "daniel 3:4:0"
+  ]
+}

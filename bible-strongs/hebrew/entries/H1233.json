@@ -1,0 +1,43 @@
+{
+  "number": "H1233",
+  "language": "hebrew",
+  "transliteration": "bᵉqîyaʻ",
+  "pronunciation": "bek-ee'-ah",
+  "definition": "a fissure",
+  "kjvTranslation": "breach, cleft.",
+  "translations": {
+    "bg": "пукнатина",
+    "cs": "trhlina",
+    "da": "en sprække",
+    "de": "ein Riss",
+    "el": "μια ρωγμή",
+    "es": "una fisura",
+    "et": "lõhe",
+    "fi": "halkeama",
+    "fr": "une fissure",
+    "hu": "egy hasadék",
+    "id": "sebuah celah",
+    "it": "una fessura",
+    "ja": "割れ目",
+    "ko": "균열",
+    "lt": "plyšys",
+    "lv": "plaisa",
+    "nb": "en sprekk",
+    "nl": "een spleet",
+    "pl": "szczelina",
+    "pt": "uma fissura",
+    "ro": "o fisură",
+    "ru": "трещина",
+    "sk": "trhlina",
+    "sl": "razpoka",
+    "sv": "en spricka",
+    "tr": "bir çatlak",
+    "uk": "тріщина",
+    "zh": "裂缝"
+  },
+  "hebrew": "בְּקִיעַ",
+  "verses": [
+    "isaiah 22:9:1",
+    "amos 6:11:10"
+  ]
+}

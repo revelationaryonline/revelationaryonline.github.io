@@ -1,0 +1,42 @@
+{
+  "number": "H8341",
+  "language": "hebrew",
+  "transliteration": "shâshâh",
+  "pronunciation": "shaw-shaw'",
+  "definition": "to sixth or divide into sixths",
+  "kjvTranslation": "give the sixth participle",
+  "hebrew": "שָׁשָׁה",
+  "translations": {
+    "bg": "да се разделя на шестици или шестици",
+    "cs": "rozdělit na šestiny nebo na šestiny",
+    "da": "at seksdele eller opdele i sjettedele",
+    "de": "sechsteln oder in Sechstel unterteilen",
+    "el": "να έκτησει ή να διαιρέσει σε έκτατα",
+    "es": "sextear o dividir en sextos",
+    "et": "kuuendikuks või kuuendikeks jagada",
+    "fi": "kuudestaa tai jakaa kuudesosiin",
+    "fr": "diviser en six ou en six",
+    "hu": "hatodolni vagy hatodokra osztani",
+    "id": "sampai seperenam atau bagi menjadi enam",
+    "it": "sestare o dividere in sesti",
+    "ja": "を6等分する",
+    "ko": "를 6등분하거나 6등분하여",
+    "lt": "dalyti į šeštadalius arba dalyti į šeštadalius",
+    "lv": "sadalīt sešdaļās vai dalīt sešdaļās",
+    "nb": "å seksdele eller dele i sjettedeler",
+    "nl": "in zessen verdelen",
+    "pl": "dzielić na szóste lub dzielić na szóste",
+    "pt": "dividir em sextos",
+    "ro": "a șasea sau a împărți în șesimi",
+    "ru": "шестой или делить на шестые части",
+    "sk": "delenie na šestiny alebo na šestiny",
+    "sl": "deliti na šestine ali šestine",
+    "sv": "att sexta eller dela upp i sjättedelar",
+    "tr": "altıda bir yapmak veya altıda birlere bölmek",
+    "uk": "до шостої або поділити на шості",
+    "zh": "六分"
+  },
+  "verses": [
+    "ezekiel 45:13:8"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2842",
+  "language": "hebrew",
+  "transliteration": "châshash",
+  "pronunciation": "khaw-shash'",
+  "definition": "dry grass",
+  "kjvTranslation": "chaff.",
+  "translations": {
+    "bg": "суха трева",
+    "cs": "suchá tráva",
+    "da": "tørt græs",
+    "de": "trockenes Gras",
+    "el": "ξηρό γρασίδι",
+    "es": "hierba seca",
+    "et": "kuiv rohi",
+    "fi": "kuiva ruoho",
+    "fr": "herbe sèche",
+    "hu": "száraz fű",
+    "id": "rumput kering",
+    "it": "erba secca",
+    "ja": "枯草",
+    "ko": "마른 잔디",
+    "lt": "sausa žolė",
+    "lv": "sausa zāle",
+    "nb": "tørt gress",
+    "nl": "droog gras",
+    "pl": "sucha trawa",
+    "pt": "erva seca",
+    "ro": "iarbă uscată",
+    "ru": "сухая трава",
+    "sk": "suchá tráva",
+    "sl": "suha trava",
+    "sv": "torrt gräs",
+    "tr": "kuru ot",
+    "uk": "суха трава",
+    "zh": "枯草"
+  },
+  "hebrew": "חָשַׁשׁ",
+  "verses": [
+    "isaiah 5:24:5",
+    "isaiah 33:11:1"
+  ]
+}

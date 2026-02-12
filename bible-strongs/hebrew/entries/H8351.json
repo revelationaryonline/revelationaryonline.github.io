@@ -1,0 +1,42 @@
+{
+  "number": "H8351",
+  "language": "hebrew",
+  "transliteration": "shêth",
+  "pronunciation": "shayth",
+  "definition": "tumult",
+  "kjvTranslation": "Sheth.",
+  "hebrew": "שֵׁת",
+  "translations": {
+    "bg": "вълнение",
+    "cs": "vřava",
+    "da": "tumult",
+    "de": "tumult",
+    "el": "αναταραχή",
+    "es": "tumulto",
+    "et": "tormi",
+    "fi": "myllerrys",
+    "fr": "tumulte",
+    "hu": "tumultus",
+    "id": "keributan",
+    "it": "tumulto",
+    "ja": "けんけんごうごう",
+    "ko": "tumult",
+    "lt": "sumaištis",
+    "lv": "vētra",
+    "nb": "tumult",
+    "nl": "tumult",
+    "pl": "tumult",
+    "pt": "tumulto",
+    "ro": "tumult",
+    "ru": "беспорядки",
+    "sk": "búrka",
+    "sl": "nemir",
+    "sv": "tumult",
+    "tr": "kargaşa",
+    "uk": "шум і гам",
+    "zh": "杂沓"
+  },
+  "verses": [
+    "numbers 24:17:18"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1017",
+  "language": "hebrew",
+  "transliteration": "Bêyth hâ-ʼĔlîy",
+  "pronunciation": "bayth haw-el-ee'",
+  "definition": "a Beth-elite, or inhabitant of Bethel",
+  "kjvTranslation": "Bethelite.",
+  "translations": {
+    "bg": "елит на Вит, или жител на Вител",
+    "cs": "betelský elita neboli obyvatel Bét-elu",
+    "da": "en Betel-elit eller indbygger i Betel",
+    "de": "ein Beth-Elit, oder Einwohner von Bethel",
+    "el": "ένας Βηθ-ελίτης, ή κάτοικος της Βηθήλ",
+    "es": "un Bet-elita, o habitante de Betel",
+    "et": "beeteli-eliit ehk Beeteli elanik",
+    "fi": "beeteliittiläinen tai Beetelin asukas",
+    "fr": "béthélite ou habitant de Béthel",
+    "hu": "egy bét-elit, vagy Bétel lakója",
+    "id": "seorang elit Bet, atau penduduk Betel",
+    "it": "un betelita, o abitante di Betel",
+    "ja": "ベテル人、またはベテルの住民",
+    "ko": "베스 엘리트, 또는 베델의 거주자",
+    "lt": "betelio elitas arba Betelio gyventojas",
+    "lv": "bētes elites jeb Bēteles iedzīvotājs",
+    "nb": "en Betel-elitt, eller innbygger i Betel",
+    "nl": "een Beth-eliet, of inwoner van Bethel",
+    "pl": "elita z Betel lub mieszkaniec Betel",
+    "pt": "um betelita, ou habitante de Betel",
+    "ro": "bet-elit sau locuitor din Betel",
+    "ru": "вифлеянин, или житель Вефиля",
+    "sk": "bét-elita alebo obyvateľ Betela",
+    "sl": "betovec ali prebivalec Betela",
+    "sv": "en Betel-elit, eller invånare i Betel",
+    "tr": "bir Beyt-elit ya da Beytel sakini",
+    "uk": "бет-еліта, або мешканець Бетелю",
+    "zh": "伯特利人，或伯特利的居民"
+  },
+  "hebrew": "בֵּית הָאֱלִי",
+  "verses": [
+    "firstKings 16:34:4"
+  ]
+}

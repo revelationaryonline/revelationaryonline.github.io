@@ -1,0 +1,42 @@
+{
+  "number": "H2915",
+  "language": "hebrew",
+  "transliteration": "ṭîyach",
+  "pronunciation": "tee'akh",
+  "definition": "mortar or plaster",
+  "kjvTranslation": "daubing.",
+  "translations": {
+    "bg": "хоросан или мазилка",
+    "cs": "malta nebo omítka",
+    "da": "mørtel eller puds",
+    "de": "mörtel oder Gips",
+    "el": "κονίαμα ή σοβάς",
+    "es": "mortero o yeso",
+    "et": "mördi või krohvi",
+    "fi": "laasti tai kipsi",
+    "fr": "mortier ou plâtre",
+    "hu": "habarcs vagy vakolat",
+    "id": "mortar atau plester",
+    "it": "malta o intonaco",
+    "ja": "漆喰",
+    "ko": "모르타르 또는 석고",
+    "lt": "skiedinys arba tinkas",
+    "lv": "java vai apmetums",
+    "nb": "mørtel eller puss",
+    "nl": "mortel of pleister",
+    "pl": "zaprawa lub tynk",
+    "pt": "argamassa ou reboco",
+    "ro": "mortar sau tencuială",
+    "ru": "раствор или штукатурка",
+    "sk": "malta alebo omietka",
+    "sl": "malta ali omet",
+    "sv": "murbruk eller puts",
+    "tr": "harç veya sıva",
+    "uk": "розчин або штукатурка",
+    "zh": "灰浆"
+  },
+  "hebrew": "טִיחַ",
+  "verses": [
+    "ezekiel 13:12:7"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H6196",
+  "language": "hebrew",
+  "transliteration": "ʻarmôwn",
+  "pronunciation": "ar-mone'",
+  "definition": "the plane tree (from its smooth and shed bark)",
+  "kjvTranslation": "chestnut tree.",
+  "hebrew": "עַרְמוֹן",
+  "translations": {
+    "bg": "платана (заради гладката му и лигава кора)",
+    "cs": "platan (podle hladké a loupavé kůry)",
+    "da": "platantræet (fra dets glatte og afskalede bark)",
+    "de": "die Platane (wegen ihrer glatten und geschälten Rinde)",
+    "el": "ο πλάτανος (από τον λείο και ξεφλουδισμένο φλοιό του)",
+    "es": "el plátano (por su corteza lisa y desprendida)",
+    "et": "plataan (selle sileda ja koorunud koore tõttu)",
+    "fi": "tasanko (sen sileästä ja irtoavasta kuoresta johtuen)",
+    "fr": "le platane (d'après son écorce lisse et mue)",
+    "hu": "a platánfa (sima és hámló kérgéről)",
+    "id": "pohon pesawat (dari kulitnya yang halus dan rontok)",
+    "it": "il platano (per la sua corteccia liscia e spelacchiata)",
+    "ja": "かんなのき",
+    "ko": "플라타너스 나무(매끄럽고 벗겨진 껍질에서 유래)",
+    "lt": "platanas (dėl lygios ir žievės)",
+    "lv": "platāns (pēc tā gludās un izliekušās mizas)",
+    "nb": "platantreet (fra den glatte og avfellende barken)",
+    "nl": "de plataan (van zijn gladde en afgeworpen schors)",
+    "pl": "platan (od jego gładkiej i łuszczącej się kory)",
+    "pt": "o plátano (devido à sua casca lisa e desprendida)",
+    "ro": "platan (de la scoarța sa netedă și uscată)",
+    "ru": "платан (из-за его гладкой и блестящей коры)",
+    "sk": "platan (podľa jeho hladkej a lúpavej kôry)",
+    "sl": "platana (zaradi gladkega in propadajočega lubja)",
+    "sv": "platanträdet (från dess släta och avskalade bark)",
+    "tr": "çınar ağacı (pürüzsüz ve dökülen kabuğundan)",
+    "uk": "платан (з його гладкої та блискучої кори)",
+    "zh": "梧桐树"
+  },
+  "verses": [
+    "genesis 30:37:7",
+    "ezekiel 31:8:10"
+  ]
+}

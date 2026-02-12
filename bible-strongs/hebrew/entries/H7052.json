@@ -1,0 +1,42 @@
+{
+  "number": "H7052",
+  "language": "hebrew",
+  "transliteration": "qᵉlôqêl",
+  "pronunciation": "kel-o-kale'",
+  "definition": "insubstantial",
+  "kjvTranslation": "light.",
+  "hebrew": "קְלֹקֵל",
+  "translations": {
+    "bg": "неосъществен",
+    "cs": "nepodstatné",
+    "da": "substansløs",
+    "de": "unbedeutend",
+    "el": "ανυπόστατο",
+    "es": "insustancial",
+    "et": "sisutühi",
+    "fi": "epäolennainen",
+    "fr": "insubstantiel",
+    "hu": "tartalmatlan",
+    "id": "tidak substansial",
+    "it": "inconsistente",
+    "ja": "実のない",
+    "ko": "실체 없음",
+    "lt": "nereikšmingas",
+    "lv": "nenozīmīgs",
+    "nb": "uvesentlig",
+    "nl": "onaanzienlijk",
+    "pl": "nieistotny",
+    "pt": "insubstancial",
+    "ro": "nesubstanțial",
+    "ru": "незначительный",
+    "sk": "nepodstatné",
+    "sl": "nepomemben",
+    "sv": "substanslös",
+    "tr": "asılsız",
+    "uk": "несуттєво",
+    "zh": "不实"
+  },
+  "verses": [
+    "numbers 21:5:17"
+  ]
+}

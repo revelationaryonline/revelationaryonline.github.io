@@ -1,0 +1,42 @@
+{
+  "number": "H1264",
+  "language": "hebrew",
+  "transliteration": "bᵉrôwm",
+  "pronunciation": "ber-ome'",
+  "definition": "damask (stuff of variegated thread)",
+  "kjvTranslation": "rich apparel.",
+  "translations": {
+    "bg": "дамаска (от разноцветни конци)",
+    "cs": "damašek (materiál z pestrých nití)",
+    "da": "damask (stof af spraglet tråd)",
+    "de": "damast (Stoff aus buntem Garn)",
+    "el": "damask (υλικό από ποικιλόχρωμη κλωστή)",
+    "es": "damasco (material de hilo abigarrado)",
+    "et": "damast (kirju lõngast)",
+    "fi": "damasti (kirjavaa lankaa)",
+    "fr": "damas (étoffe de fils bigarrés)",
+    "hu": "damaszt (tarka fonalból készült anyag)",
+    "id": "damask (bahan dari benang beraneka ragam)",
+    "it": "damasco (materiale di filo variegato)",
+    "ja": "ダマスク",
+    "ko": "다마스크(잡색의 실로 된 물건)",
+    "lt": "damaskas (iš įvairiaspalvių siūlų)",
+    "lv": "damaska (no raibiem diegiem)",
+    "nb": "damask (stoff av broket tråd)",
+    "nl": "damast (bonte draad)",
+    "pl": "adamaszek (materiał z różnobarwnej nici)",
+    "pt": "damasco (material de fio variegado)",
+    "ro": "damasc (material din fire variate)",
+    "ru": "дамаск (материал из разноцветных ниток)",
+    "sk": "damask (materiál z pestrých nití)",
+    "sl": "damašek (blago iz raznobarvnih niti)",
+    "sv": "damast (tyg av brokig tråd)",
+    "tr": "damask (alacalı iplik malzemesi)",
+    "uk": "дамаск (матеріал з різнокольорових ниток)",
+    "zh": "绫罗"
+  },
+  "hebrew": "בְּרוֹם",
+  "verses": [
+    "ezekiel 27:24:7"
+  ]
+}

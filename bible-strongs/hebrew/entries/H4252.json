@@ -1,0 +1,42 @@
+{
+  "number": "H4252",
+  "language": "hebrew",
+  "transliteration": "machălâph",
+  "pronunciation": "makh-al-awf'",
+  "definition": "a (sacrificial) knife (as gliding through the flesh)",
+  "kjvTranslation": "knife.",
+  "hebrew": "מַחֲלָף",
+  "translations": {
+    "bg": "(жертвен) нож (като се плъзга по плътта)",
+    "cs": "(obětní) nůž (jako klouzání po mase)",
+    "da": "en (offer)kniv (som glider gennem kødet)",
+    "de": "ein (Opfer-)Messer (wie durch das Fleisch gleitend)",
+    "el": "ένα (θυσιαστικό) μαχαίρι (που γλιστράει μέσα στη σάρκα)",
+    "es": "un cuchillo (de sacrificio) (como deslizándose a través de la carne)",
+    "et": "(ohvri)nuga (nagu libisemine läbi liha)",
+    "fi": "(uhri)veitsi (liukuu lihan läpi)",
+    "fr": "un couteau (sacrificiel) (comme glissant à travers la chair)",
+    "hu": "(áldozati) kés (mintha a húson keresztül siklana)",
+    "id": "pisau (pengorbanan) (seperti meluncur melalui daging)",
+    "it": "un coltello (sacrificale) (come se scivolasse attraverso la carne)",
+    "ja": "俎",
+    "ko": "(희생) 칼(살을 관통하는 것처럼)",
+    "lt": "(aukojimo) peilis (slystantis per mėsą)",
+    "lv": "(upurēšanas) nazis (kā slīd cauri miesai)",
+    "nb": "en (offer)kniv (som glir gjennom kjøttet)",
+    "nl": "een (offer)mes (als glijdend door het vlees)",
+    "pl": "nóż (ofiarny) (przesuwający się po ciele)",
+    "pt": "uma faca (de sacrifício) (como se estivesse a deslizar pela carne)",
+    "ro": "un cuțit (de sacrificiu) (ca alunecând prin carne)",
+    "ru": "(жертвенный) нож (как скользящий по плоти)",
+    "sk": "(obetný) nôž (ako kĺže po mäse)",
+    "sl": "(žrtveni) nož (kot drsenje po mesu)",
+    "sv": "en (offer)kniv (som glider genom köttet)",
+    "tr": "(kurbanlık) bir bıçak (etin içinden süzülürken)",
+    "uk": "(жертовний) ніж (як ковзання по плоті)",
+    "zh": "刀"
+  },
+  "verses": [
+    "ezra 1:9:8"
+  ]
+}

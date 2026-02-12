@@ -1,0 +1,42 @@
+{
+  "number": "H5432",
+  "language": "hebrew",
+  "transliteration": "çaʼçᵉʼâh",
+  "pronunciation": "sah-seh-aw'",
+  "definition": "measurement, i.e. moderation",
+  "kjvTranslation": "measure.",
+  "hebrew": "סַאסְּאָה",
+  "translations": {
+    "bg": "измерване, т.е. умереност",
+    "cs": "měření, tj. moderování",
+    "da": "måling, dvs. moderation",
+    "de": "messung, d.h. Moderation",
+    "el": "μέτρηση, δηλαδή μετριοπάθεια",
+    "es": "medición, es decir, moderación",
+    "et": "mõõtmine, st mõõdukus",
+    "fi": "mittaus eli kohtuullistaminen",
+    "fr": "la mesure, c'est-à-dire la modération",
+    "hu": "mérés, azaz mértékletesség",
+    "id": "pengukuran, yaitu moderasi",
+    "it": "misurazione, cioè moderazione",
+    "ja": "測定、すなわち中庸",
+    "ko": "측정, 즉 조절",
+    "lt": "matavimas, t. y. saikingumas",
+    "lv": "mērījumu, t.i., mērenību",
+    "nb": "måling, dvs. moderasjon",
+    "nl": "meting, d.w.z. matiging",
+    "pl": "pomiar, tj. moderacja",
+    "pt": "medição, ou seja, moderação",
+    "ro": "măsurare, adică moderare",
+    "ru": "измерение, т.е. умеренность",
+    "sk": "meranie, t. j. moderovanie",
+    "sl": "merjenje, tj. zmernost",
+    "sv": "mätning, d.v.s. måttfullhet",
+    "tr": "ölçüm, yani ılımlılık",
+    "uk": "вимірювання, тобто модерація",
+    "zh": "衡量，即适度"
+  },
+  "verses": [
+    "isaiah 27:8:0"
+  ]
+}

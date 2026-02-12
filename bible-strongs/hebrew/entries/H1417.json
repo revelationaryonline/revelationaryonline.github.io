@@ -1,0 +1,42 @@
+{
+  "number": "H1417",
+  "language": "hebrew",
+  "transliteration": "gᵉdûwd",
+  "pronunciation": "ghed-ood'",
+  "definition": "a furrow (as cut)",
+  "kjvTranslation": "furrow.",
+  "translations": {
+    "bg": "бразда (като разрез)",
+    "cs": "brázda (jako řez)",
+    "da": "en fure (som skåret)",
+    "de": "eine Furche (als Schnitt)",
+    "el": "ένα αυλάκι (όπως κόβεται)",
+    "es": "un surco (como corte)",
+    "et": "soon (nagu lõigatud)",
+    "fi": "uurre (leikattuna)",
+    "fr": "un sillon (comme coupé)",
+    "hu": "barázda (mint vágás)",
+    "id": "alur (seperti potongan)",
+    "it": "un solco (come taglio)",
+    "ja": "切り溝",
+    "ko": "고랑(잘라낸 것)",
+    "lt": "griovelis (kaip pjūvis)",
+    "lv": "rievs (kā griezums)",
+    "nb": "en fure (som skåret)",
+    "nl": "een groef",
+    "pl": "bruzda (jako cięcie)",
+    "pt": "um sulco (como um corte)",
+    "ro": "o brazdă (ca tăietură)",
+    "ru": "борозда (в виде разреза)",
+    "sk": "brázda (ako rez)",
+    "sl": "brazda (kot rez)",
+    "sv": "en fåra (som snitt)",
+    "tr": "bir karık (kesilmiş olarak)",
+    "uk": "борозна (як вирізати)",
+    "zh": "劙"
+  },
+  "hebrew": "גְּדוּד",
+  "verses": [
+    "jeremiah 48:37:10"
+  ]
+}

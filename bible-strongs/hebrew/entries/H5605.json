@@ -1,0 +1,42 @@
+{
+  "number": "H5605",
+  "language": "hebrew",
+  "transliteration": "çâphaph",
+  "pronunciation": "saw-faf'",
+  "definition": "to wait at the threshold",
+  "kjvTranslation": "be a doorkeeper.",
+  "hebrew": "סָפַף",
+  "translations": {
+    "bg": "да чака на прага",
+    "cs": "čekat na prahu",
+    "da": "at vente ved tærsklen",
+    "de": "an der Schwelle zu warten",
+    "el": "να περιμένει στο κατώφλι",
+    "es": "esperar en el umbral",
+    "et": "ootama lävepakul",
+    "fi": "odottaa kynnyksellä",
+    "fr": "d'attendre au seuil",
+    "hu": "várakozni a küszöbön",
+    "id": "untuk menunggu di ambang pintu",
+    "it": "attendere sulla soglia",
+    "ja": "敷居で待つ",
+    "ko": "임계값에서 기다리려면",
+    "lt": "laukti prie slenksčio",
+    "lv": "gaidīt pie sliekšņa",
+    "nb": "å vente på terskelen",
+    "nl": "om te wachten bij de drempel",
+    "pl": "czekać na progu",
+    "pt": "esperar no limiar",
+    "ro": "să aștepte la prag",
+    "ru": "ждать у порога",
+    "sk": "čakať na prahu",
+    "sl": "čakati na pragu",
+    "sv": "att vänta vid tröskeln",
+    "tr": "eşikte beklemek için",
+    "uk": "чекати на порозі",
+    "zh": "在门槛上等待"
+  },
+  "verses": [
+    "psalms 84:11:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7840",
+  "language": "hebrew",
+  "transliteration": "shᵉcharchôreth",
+  "pronunciation": "shekh-ar-kho'-reth",
+  "definition": "swarthy",
+  "kjvTranslation": "black.",
+  "hebrew": "שְׁחַרְחֹרֶת",
+  "translations": {
+    "bg": "рошав",
+    "cs": "swarthy",
+    "da": "mørkhåret",
+    "de": "swarthy",
+    "el": "swarthy",
+    "es": "moreno",
+    "et": "swarthy",
+    "fi": "swarthy",
+    "fr": "basané",
+    "hu": "swarthy",
+    "id": "berkulit gelap",
+    "it": "bruno",
+    "ja": "浅黒い",
+    "ko": "거무스름한",
+    "lt": "swarthy",
+    "lv": "swarthy",
+    "nb": "mørkhudet",
+    "nl": "zwartachtig",
+    "pl": "śniady",
+    "pt": "moreno",
+    "ro": "negru",
+    "ru": "смуглый",
+    "sk": "swarthy",
+    "sl": "swarthy",
+    "sv": "mörkhyad",
+    "tr": "esmer",
+    "uk": "смуглявий",
+    "zh": "黝黑"
+  },
+  "verses": [
+    "solomon 1:6:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3657",
+  "language": "hebrew",
+  "transliteration": "kannâh",
+  "pronunciation": "kaw-naw'",
+  "definition": "a plant (as set)",
+  "kjvTranslation": "[idiom] vineyard.",
+  "translations": {
+    "bg": "растение (като комплект)",
+    "cs": "rostlina (jako sada)",
+    "da": "en plante (som sæt)",
+    "de": "eine Pflanze (als Satz)",
+    "el": "ένα φυτό (ως σύνολο)",
+    "es": "una planta (como decorado)",
+    "et": "taim (komplektina)",
+    "fi": "kasvi (sarjana)",
+    "fr": "une plante (en tant qu'ensemble)",
+    "hu": "növény (mint készlet)",
+    "id": "sebuah tanaman (sebagaimana ditetapkan)",
+    "it": "una pianta (come set)",
+    "ja": "草木",
+    "ko": "식물(세트)",
+    "lt": "augalas (kaip rinkinys)",
+    "lv": "augs (kā komplekts)",
+    "nb": "en plante (som sett)",
+    "nl": "een plant (als set)",
+    "pl": "roślina (jako zestaw)",
+    "pt": "uma planta (como conjunto)",
+    "ro": "o plantă (ca set)",
+    "ru": "растение (в комплекте)",
+    "sk": "rastlina (ako súbor)",
+    "sl": "rastlina (kot set)",
+    "sv": "en växt (som uppsättning)",
+    "tr": "bir bitki (set olarak)",
+    "uk": "рослина (за бажанням)",
+    "zh": "株"
+  },
+  "hebrew": "כַּנָּה",
+  "verses": [
+    "psalms 80:16:0"
+  ]
+}

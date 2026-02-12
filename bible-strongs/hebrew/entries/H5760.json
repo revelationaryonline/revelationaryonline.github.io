@@ -1,0 +1,42 @@
+{
+  "number": "H5760",
+  "language": "hebrew",
+  "transliteration": "ʻăvîyl",
+  "pronunciation": "av-eel'",
+  "definition": "perverse (morally)",
+  "kjvTranslation": "ungodly.",
+  "hebrew": "עֲוִיל",
+  "translations": {
+    "bg": "перверзен (морално)",
+    "cs": "perverzní (morálně)",
+    "da": "pervers (moralsk)",
+    "de": "pervers (moralisch)",
+    "el": "διεστραμμένος (ηθικά)",
+    "es": "perverso (moralmente)",
+    "et": "perversne (moraalselt)",
+    "fi": "perverssi (moraalisesti)",
+    "fr": "pervers (moralement)",
+    "hu": "perverz (erkölcsileg)",
+    "id": "sesat (secara moral)",
+    "it": "perverso (moralmente)",
+    "ja": "ねいかん",
+    "ko": "비뚤어진(도덕적으로)",
+    "lt": "iškreiptas (moraliniu požiūriu)",
+    "lv": "perverss (morāli)",
+    "nb": "pervers (moralsk)",
+    "nl": "pervers (moreel)",
+    "pl": "perwersyjny (moralnie)",
+    "pt": "perverso (moralmente)",
+    "ro": "pervers (moral)",
+    "ru": "порочный (морально)",
+    "sk": "zvrátený (morálne)",
+    "sl": "sprevržen (moralno)",
+    "sv": "pervers (moraliskt)",
+    "tr": "sapkın (ahlaki olarak)",
+    "uk": "збочені (морально)",
+    "zh": "乖戾"
+  },
+  "verses": [
+    "job 16:11:3"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "number": "H3616",
+  "language": "hebrew",
+  "transliteration": "kâleh",
+  "pronunciation": "kaw-leh'",
+  "definition": "pining",
+  "kjvTranslation": "fail.",
+  "translations": {
+    "bg": "копнеж",
+    "cs": "stýskání",
+    "da": "længes",
+    "el": "pining",
+    "es": "suspirando",
+    "et": "pining",
+    "fi": "kipeä",
+    "fr": "pining",
+    "hu": "sóvárgó",
+    "id": "merindukan",
+    "it": "struggersi",
+    "ja": "杭打ち",
+    "ko": "피닝",
+    "lt": "piningas",
+    "lv": "pining",
+    "nb": "lengsel",
+    "nl": "pining",
+    "pl": "ból",
+    "pt": "lamentação",
+    "ro": "tânjire",
+    "ru": "тоска",
+    "sk": "pining",
+    "sl": "hrepenenje",
+    "sv": "pining",
+    "tr": "özlem",
+    "uk": "туга",
+    "zh": "憔悴"
+  },
+  "hebrew": "כָּלֶה",
+  "verses": [
+    "deuteronomy 28:32:7"
+  ]
+}

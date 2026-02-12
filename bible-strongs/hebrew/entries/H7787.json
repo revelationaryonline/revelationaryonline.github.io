@@ -1,0 +1,42 @@
+{
+  "number": "H7787",
+  "language": "hebrew",
+  "transliteration": "sûwr",
+  "pronunciation": "soor",
+  "definition": "to saw",
+  "kjvTranslation": "cut.",
+  "hebrew": "שׂוּר",
+  "translations": {
+    "bg": "да пили",
+    "cs": "na pilu",
+    "da": "at save",
+    "de": "zum Sägen",
+    "el": "για να πριονίσει",
+    "es": "para serrar",
+    "et": "saagida",
+    "fi": "sahaamaan",
+    "fr": "pour scier",
+    "hu": "fűrészelni",
+    "id": "untuk melihat",
+    "it": "per segare",
+    "ja": "ノコギリに",
+    "ko": "톱",
+    "lt": "pjauti",
+    "lv": "zāģēt",
+    "nb": "til sag",
+    "nl": "om te zagen",
+    "pl": "piła",
+    "pt": "para serrar",
+    "ro": "pentru ferăstrău",
+    "ru": "пилить",
+    "sk": "na pílu",
+    "sl": "žagati",
+    "sv": "till såg",
+    "tr": "testereye",
+    "uk": "пиляти",
+    "zh": "锯"
+  },
+  "verses": [
+    "firstChronicles 20:3:5"
+  ]
+}

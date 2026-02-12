@@ -1,0 +1,42 @@
+{
+  "number": "H2378",
+  "language": "hebrew",
+  "transliteration": "châzôwth",
+  "pronunciation": "khaw-zooth'",
+  "definition": "a revelation",
+  "kjvTranslation": "vision.",
+  "translations": {
+    "bg": "откровение",
+    "cs": "zjevení",
+    "da": "en åbenbaring",
+    "de": "eine Offenbarung",
+    "el": "μια αποκάλυψη",
+    "es": "una revelación",
+    "et": "ilmutus",
+    "fi": "ilmestys",
+    "fr": "une révélation",
+    "hu": "egy kinyilatkoztatás",
+    "id": "sebuah wahyu",
+    "it": "una rivelazione",
+    "ja": "お告げ",
+    "ko": "계시",
+    "lt": "apreiškimas",
+    "lv": "atklāsme",
+    "nb": "en åpenbaring",
+    "nl": "een openbaring",
+    "pl": "objawienie",
+    "pt": "uma revelação",
+    "ro": "o revelație",
+    "ru": "откровение",
+    "sk": "zjavenie",
+    "sl": "razodetje",
+    "sv": "en uppenbarelse",
+    "tr": "bir vahiy",
+    "uk": "одкровення",
+    "zh": "启示"
+  },
+  "hebrew": "חָזוֹת",
+  "verses": [
+    "secondChronicles 9:29:16"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H701",
+  "language": "hebrew",
+  "transliteration": "ʼArbîy",
+  "pronunciation": "ar-bee'",
+  "definition": "an Arbite or native of Arab",
+  "kjvTranslation": "Arbite.",
+  "translations": {
+    "bg": "арбит или родом от арабския свят",
+    "cs": "arbitský nebo arabský rodák",
+    "da": "en Arbite eller indfødt af arabisk",
+    "de": "ein Arbiter oder gebürtiger Araber",
+    "el": "ένας Arbite ή γηγενής των Αράβων",
+    "es": "un arbita o nativo de Arabia",
+    "et": "arbite ehk araabia päritolu",
+    "fi": "arbite tai kotoisin arabialaiselta",
+    "fr": "arbite ou originaire d'Arabie",
+    "hu": "egy arbita vagy arab őslakos",
+    "id": "seorang Arbite atau penduduk asli Arab",
+    "it": "un arbite o un nativo arabo",
+    "ja": "アラブ人",
+    "ko": "아르바이트 또는 아랍 출신",
+    "lt": "arbitas arba arabų kilmės asmuo",
+    "lv": "arbīts vai arābu izcelsmes",
+    "nb": "en Arbite eller innfødt av arabisk",
+    "nl": "een arbiet of inwoner van Arabië",
+    "pl": "arbita lub rodowity Arab",
+    "pt": "um Arbite ou nativo de Árabe",
+    "ro": "un Arbite sau un nativ arab",
+    "ru": "арбитр или выходец из арабского",
+    "sk": "arbit alebo rodený Arab",
+    "sl": "arbit ali domačin iz arabskega območja",
+    "sv": "en Arbite eller infödd arab",
+    "tr": "bir Arbite veya Arap yerlisi",
+    "uk": "арбітр або уродженець Арабської Республіки",
+    "zh": "阿拉伯人"
+  },
+  "hebrew": "אַרְבִּי",
+  "verses": [
+    "secondSamuel 23:35:4"
+  ]
+}

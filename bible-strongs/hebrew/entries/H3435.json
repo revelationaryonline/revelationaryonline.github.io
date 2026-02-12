@@ -1,0 +1,43 @@
+{
+  "number": "H3435",
+  "language": "hebrew",
+  "transliteration": "Yishbâq",
+  "pronunciation": "yish-bawk'",
+  "definition": "Jishbak, a son of Abraham",
+  "kjvTranslation": "Ishbak.",
+  "translations": {
+    "bg": "Йишбак, син на Авраам",
+    "cs": "Jišbak, syn Abrahamův",
+    "da": "Jishbak, en søn af Abraham",
+    "de": "Jischbak, ein Sohn Abrahams",
+    "el": "Ιισβάκ, γιος του Αβραάμ",
+    "es": "Jishbak, hijo de Abraham",
+    "et": "Jishbak, Aabrahami poeg",
+    "fi": "Jisbak, Aabrahamin poika",
+    "fr": "Jishbak, fils d'Abraham",
+    "hu": "Jiszbak, Ábrahám fia",
+    "id": "Yishbak, seorang putra Abraham",
+    "it": "Jishbak, figlio di Abramo",
+    "ja": "アブラハムの子ジシュバク",
+    "ko": "아브라함의 아들 지쉬박",
+    "lt": "Jišbakas, Abraomo sūnus",
+    "lv": "Jišbaks, Ābrahāma dēls",
+    "nb": "Jishbak, en sønn av Abraham",
+    "nl": "Jisbak, een zoon van Abraham",
+    "pl": "Jishbak, syn Abrahama",
+    "pt": "Jisbaque, filho de Abraão",
+    "ro": "Ișbak, un fiu al lui Avraam",
+    "ru": "Иишвак, сын Авраама",
+    "sk": "Jišbak, syn Abrahámov",
+    "sl": "Jišbak, Abrahamov sin",
+    "sv": "Jishbak, en son till Abraham",
+    "tr": "Jishbak, İbrahim'in oğlu",
+    "uk": "Їшбак, син Авраама",
+    "zh": "亚伯拉罕的儿子吉斯巴克"
+  },
+  "hebrew": "יִשְׁבָּק",
+  "verses": [
+    "genesis 25:2:11",
+    "firstChronicles 1:32:10"
+  ]
+}

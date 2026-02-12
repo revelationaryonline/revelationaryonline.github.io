@@ -1,0 +1,43 @@
+{
+  "number": "H6201",
+  "language": "hebrew",
+  "transliteration": "ʻâraph",
+  "pronunciation": "aw-raf'",
+  "definition": "to droop; hence, to drip",
+  "kjvTranslation": "drop (down).",
+  "hebrew": "עָרַף",
+  "translations": {
+    "bg": "да капе; оттам - да капе",
+    "cs": "kapat, tedy odkapávat",
+    "da": "at hænge; derfor at dryppe",
+    "de": "herabhängen; daher: tropfen",
+    "el": "να πέφτει, ως εκ τούτου, να στάζει",
+    "es": "caer; por lo tanto, gotear",
+    "et": "tilkuma; seega tilkuma",
+    "fi": "roikkua; siis tippua",
+    "fr": "s'affaisser, donc s'égoutter",
+    "hu": "csöpögni; tehát csöpögni",
+    "id": "terkulai; karenanya, menetes",
+    "it": "cadere; quindi, sgocciolare",
+    "ja": "垂れる。",
+    "ko": "처지다; 따라서 물방울이 떨어지다",
+    "lt": "lašėti; taigi, lašėti",
+    "lv": "noslīdēt; līdz ar to pilēt",
+    "nb": "å henge; derav å dryppe",
+    "nl": "laten vallen; vandaar, druipen",
+    "pl": "opadać; stąd, kapać",
+    "pt": "cair; portanto, pingar",
+    "ro": "să cadă; prin urmare, să picure",
+    "ru": "поникать; следовательно, капать",
+    "sk": "kvapkať; teda kvapkať",
+    "sl": "kapljati; torej kapljati",
+    "sv": "att hänga; därav att droppa",
+    "tr": "sarkmak; dolayısıyla damlamak",
+    "uk": "поникнути; отже, капати",
+    "zh": "下垂；因此，滴水"
+  },
+  "verses": [
+    "deuteronomy 32:2:0",
+    "deuteronomy 33:28:12"
+  ]
+}

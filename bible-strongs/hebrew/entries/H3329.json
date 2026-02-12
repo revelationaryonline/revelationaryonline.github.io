@@ -1,0 +1,43 @@
+{
+  "number": "H3329",
+  "language": "hebrew",
+  "transliteration": "yâtsîyʼ",
+  "pronunciation": "yaw-tsee'",
+  "definition": "issue, i.e. offspring",
+  "kjvTranslation": "those that came forth.",
+  "translations": {
+    "bg": "въпрос, т.е. потомство",
+    "cs": "vydání, tj. potomků",
+    "da": "spørgsmål, dvs. afkom",
+    "de": "thema, d.h. Nachkommen",
+    "el": "ζήτημα, δηλαδή απόγονοι",
+    "es": "cuestión, es decir, la descendencia",
+    "et": "küsimus, st järeltulijad",
+    "fi": "kysymys, eli jälkeläiset",
+    "fr": "c'est-à-dire la descendance",
+    "hu": "kérdés, azaz utódok",
+    "id": "masalah, yaitu keturunan",
+    "it": "questione, vale a dire la prole",
+    "ja": "問題、すなわち子孫",
+    "ko": "문제, 즉 자손",
+    "lt": "klausimas, t. y. palikuonys",
+    "lv": "jautājums, t. i., pēcnācēji",
+    "nb": "problem, dvs. avkom",
+    "nl": "kwestie, d.w.z. nakomelingen",
+    "pl": "kwestia, tj. potomstwo",
+    "pt": "questão, ou seja, a descendência",
+    "ro": "problemă, și anume descendența",
+    "ru": "вопрос, т.е. потомство",
+    "sk": "otázka, t. j. potomstvo",
+    "sl": "vprašanje, tj. potomstvo",
+    "sv": "fråga, dvs. avkomman",
+    "tr": "sorun, yani yavrular",
+    "uk": "питання, тобто потомство",
+    "zh": "问题，即后代"
+  },
+  "hebrew": "יָצִיא",
+  "verses": [
+    "secondChronicles 32:21:19",
+    "secondChronicles 32:21:20"
+  ]
+}

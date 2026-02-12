@@ -1,0 +1,42 @@
+{
+  "number": "H3534",
+  "language": "hebrew",
+  "transliteration": "kebesh",
+  "pronunciation": "keh'-besh",
+  "definition": "a footstool (as trodden upon)",
+  "kjvTranslation": "footstool.",
+  "translations": {
+    "bg": "подложка за крака (като стъпвана)",
+    "cs": "podnožka (jako pošlapaná)",
+    "da": "en fodskammel (som man træder på)",
+    "de": "ein Schemel (wie mit Füßen getreten)",
+    "el": "ένα υποπόδιο (όπως το πατούν)",
+    "es": "un escabel (como pisado)",
+    "et": "jalatugi (nagu tallatud)",
+    "fi": "jakkara (kuten tallattu)",
+    "fr": "un marchepied (comme si on le foulait)",
+    "hu": "egy zsámoly (mintha taposnák)",
+    "id": "tumpuan kaki (seperti yang diinjak)",
+    "it": "uno sgabello (come se fosse calpestato)",
+    "ja": "踏み台",
+    "ko": "발판(밟고 있는 상태)",
+    "lt": "pakojis (kaip ant kurio šlapinamasi)",
+    "lv": "pakājē (kā uz kāju pakāpiena)",
+    "nb": "en fotskammel (som tråkket på)",
+    "nl": "een voetbank (als vertreden)",
+    "pl": "podnóżek (jako deptany)",
+    "pt": "um escabelo (como se fosse pisado)",
+    "ro": "un taburet de picioare (călcat în picioare)",
+    "ru": "подножие (по которому ступают)",
+    "sk": "podnožka (ako pošliapaná)",
+    "sl": "podstavek za noge (teptan)",
+    "sv": "en fotpall (som man trampar på)",
+    "tr": "bir ayak taburesi (üzerine basılan)",
+    "uk": "табуретка для ніг (на яку наступили)",
+    "zh": "脚凳"
+  },
+  "hebrew": "כֶּבֶשׁ",
+  "verses": [
+    "secondChronicles 9:18:3"
+  ]
+}

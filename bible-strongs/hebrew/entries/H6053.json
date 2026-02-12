@@ -1,0 +1,42 @@
+{
+  "number": "H6053",
+  "language": "hebrew",
+  "transliteration": "ʻănânâh",
+  "pronunciation": "an-aw-naw'",
+  "definition": "cloudiness",
+  "kjvTranslation": "cloud.",
+  "hebrew": "עֲנָנָה",
+  "translations": {
+    "bg": "облачност",
+    "cs": "oblačnost",
+    "da": "uklarhed",
+    "de": "bewölkung",
+    "el": "θολούρα",
+    "es": "nubosidad",
+    "et": "pilvisus",
+    "fi": "sameus",
+    "fr": "nébulosité",
+    "hu": "felhőzet",
+    "id": "kekeruhan",
+    "it": "nuvolosità",
+    "ja": "曇り",
+    "ko": "흐림",
+    "lt": "debesuotumas",
+    "lv": "mākoņainība",
+    "nb": "uklarhet",
+    "nl": "troebelheid",
+    "pl": "zachmurzenie",
+    "pt": "nebulosidade",
+    "ro": "nebulozitate",
+    "ru": "облачность",
+    "sk": "oblačnosť",
+    "sl": "oblačnost",
+    "sv": "grumlighet",
+    "tr": "bulutluluk",
+    "uk": "хмарність",
+    "zh": "云雾"
+  },
+  "verses": [
+    "job 3:5:5"
+  ]
+}

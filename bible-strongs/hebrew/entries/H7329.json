@@ -1,0 +1,43 @@
+{
+  "number": "H7329",
+  "language": "hebrew",
+  "transliteration": "râzâh",
+  "pronunciation": "raw-zaw'",
+  "definition": "to emaciate, i.e. make (become) thin (literally or figuratively)",
+  "kjvTranslation": "famish, wax lean.",
+  "hebrew": "רָזָה",
+  "translations": {
+    "bg": "да се изтощи, т.е. да се разхубави (в буквален или преносен смисъл)",
+    "cs": "vyhubnout, tj. zhubnout (doslova nebo obrazně)",
+    "da": "at udmagre, dvs. gøre (blive) tynd (bogstaveligt eller i overført betydning)",
+    "de": "abmagern, d.h. dünn machen (wörtlich oder bildlich)",
+    "el": "να αδυνατίσει, δηλαδή να αδυνατίσει (κυριολεκτικά ή μεταφορικά)",
+    "es": "enflaquecer, es decir, adelgazar (literal o figuradamente)",
+    "et": "kõhnendada, st muuta (sõna otseses või ülekantud tähenduses) õhukeseks",
+    "fi": "laihduttaa, eli tehdä laihaksi (kirjaimellisesti tai kuvaannollisesti)",
+    "fr": "émacier, c'est-à-dire rendre (devenir) maigre (au sens propre ou au sens figuré)",
+    "hu": "lefogyasztani, azaz soványítani (szó szerint vagy átvitt értelemben)",
+    "id": "mengerdilkan, yaitu membuat (menjadi) kurus (secara harfiah atau kiasan)",
+    "it": "emaciarsi, cioè diventare magro (letteralmente o in senso figurato)",
+    "ja": "やせ細らせる",
+    "ko": "쇠약하게 하다, 즉 (문자 그대로 또는 비유적으로) 얇게 만들다(되다)",
+    "lt": "išsekinti, t. y. padaryti (tapti) plonu (tiesiogine ar perkeltine prasme)",
+    "lv": "novājināt, t.i., padarīt (kļūt) tievu (tiešā vai pārnestā nozīmē)",
+    "nb": "å avmagre, dvs. gjøre (bli) tynn (bokstavelig eller billedlig)",
+    "nl": "vermageren, d.w.z. dunner maken (letterlijk of figuurlijk)",
+    "pl": "wychudzić, tj. sprawić, że (stanie się) chudy (dosłownie lub w przenośni)",
+    "pt": "emaciar, ou seja, tornar (tornar-se) magro (literal ou figurativamente)",
+    "ro": "a emacia, adică a face (a deveni) slab (la propriu sau la figurat)",
+    "ru": "истощать, т.е. делать (становиться) худым (в прямом или переносном смысле)",
+    "sk": "vychudnúť, t. j. zoštíhliť (doslovne alebo obrazne)",
+    "sl": "osiromašiti, tj. postati vitek (dobesedno ali v prenesenem pomenu)",
+    "sv": "att avmagra, dvs. göra (bli) tunn (bokstavligt eller bildligt)",
+    "tr": "zayıflatmak, yani zayıflatmak (olmak) (gerçek veya mecazi anlamda)",
+    "uk": "виснажувати, тобто робити (ставати) худим (у прямому чи переносному значенні)",
+    "zh": "使人 \"消瘦\"。"
+  },
+  "verses": [
+    "isaiah 17:4:8",
+    "zephaniah 2:11:4"
+  ]
+}

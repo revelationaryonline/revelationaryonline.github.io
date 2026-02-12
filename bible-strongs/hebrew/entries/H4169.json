@@ -1,0 +1,42 @@
+{
+  "number": "H4169",
+  "language": "hebrew",
+  "transliteration": "môwqᵉdâh",
+  "pronunciation": "mo-ked-aw'",
+  "definition": "fuel",
+  "kjvTranslation": "burning.",
+  "hebrew": "מוֹקְדָה",
+  "translations": {
+    "bg": "гориво",
+    "cs": "palivo",
+    "da": "brændstof",
+    "de": "kraftstoff",
+    "el": "καύσιμα",
+    "es": "combustible",
+    "et": "kütus",
+    "fi": "polttoaine",
+    "fr": "carburant",
+    "hu": "üzemanyag",
+    "id": "bahan bakar",
+    "it": "carburante",
+    "ja": "燃料",
+    "ko": "연료",
+    "lt": "degalai",
+    "lv": "degviela",
+    "nb": "drivstoff",
+    "nl": "brandstof",
+    "pl": "paliwo",
+    "pt": "combustível",
+    "ro": "combustibil",
+    "ru": "топливо",
+    "sk": "palivo",
+    "sl": "gorivo",
+    "sv": "bränsle",
+    "tr": "yakıt",
+    "uk": "паливо",
+    "zh": "燃料"
+  },
+  "verses": [
+    "leviticus 6:2:12"
+  ]
+}

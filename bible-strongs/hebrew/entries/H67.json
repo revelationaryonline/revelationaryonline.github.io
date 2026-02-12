@@ -1,0 +1,42 @@
+{
+  "number": "H67",
+  "language": "hebrew",
+  "transliteration": "ʼÂbêl Mitsrayim",
+  "pronunciation": "aw-bale' mits-rah'-yim",
+  "definition": "Abel-Mitsrajim, a place in Palestine",
+  "kjvTranslation": "Abel-mizraim.",
+  "translations": {
+    "bg": "Abel-Mitsrajim, място в Палестина",
+    "cs": "Abel-Mitsrajim, místo v Palestině",
+    "da": "Abel-Mitsrajim, et sted i Palæstina",
+    "de": "Abel-Mitsrajim, ein Ort in Palästina",
+    "el": "Abel-Mitsrajim, τόπος στην Παλαιστίνη",
+    "es": "Abel-Mitsrajim, un lugar en Palestina",
+    "et": "Abel-Mitsrajim, koht Palestiinas",
+    "fi": "Abel-Mitsrajim, paikka Palestiinassa",
+    "fr": "Abel-Mitsrajim, localité de Palestine",
+    "hu": "Ábel-Mitsrajim, egy hely Palesztinában",
+    "id": "Abel-Mitsrajim, sebuah tempat di Palestina",
+    "it": "Abel-Mitsrajim, località della Palestina",
+    "ja": "アベル-ミツラジム、パレスチナの地名",
+    "ko": "아벨-미트라짐, 팔레스타인의 한 장소",
+    "lt": "Abel-Mitsrajim, vietovė Palestinoje",
+    "lv": "Abel-Mitsrajim, vieta Palestīnā",
+    "nb": "Abel-Mitsrajim, et sted i Palestina",
+    "nl": "Abel-Mitsrajim, een plaats in Palestina",
+    "pl": "Abel-Mitsrajim, miejscowość w Palestynie",
+    "pt": "Abel-Mitsrajim, um lugar na Palestina",
+    "ro": "Abel-Mitsrajim, un loc în Palestina",
+    "ru": "Авель-Мицрахим, место в Палестине",
+    "sk": "Abel-Mitsrajim, miesto v Palestíne",
+    "sl": "Abel-Mitsrajim, kraj v Palestini",
+    "sv": "Abel-Mitsrajim, en plats i Palestina",
+    "tr": "Abel-Mitsrajim, Filistin'de bir yer",
+    "uk": "Абель-Міцраджім, місце в Палестині",
+    "zh": "亚伯米特拉金"
+  },
+  "hebrew": "אָבֵל מִצְרַיִם",
+  "verses": [
+    "genesis 50:11:18"
+  ]
+}

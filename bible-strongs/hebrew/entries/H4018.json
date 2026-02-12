@@ -1,0 +1,42 @@
+{
+  "number": "H4018",
+  "language": "hebrew",
+  "transliteration": "mᵉbashshᵉlâh",
+  "pronunciation": "meb-ash-shel-aw'",
+  "definition": "a cooking hearth",
+  "kjvTranslation": "boiling-place.",
+  "hebrew": "מְבַשְּׁלָה",
+  "translations": {
+    "bg": "огнище за готвене",
+    "cs": "ohniště na vaření",
+    "da": "et ildsted til madlavning",
+    "de": "einen Kochherd",
+    "el": "εστία μαγειρέματος",
+    "es": "un hogar para cocinar",
+    "et": "toiduvalmistamise pliit",
+    "fi": "keittotaso",
+    "fr": "un foyer de cuisson",
+    "hu": "tűzhely",
+    "id": "perapian memasak",
+    "it": "un focolare di cottura",
+    "ja": "囲炉裏",
+    "ko": "요리 난로",
+    "lt": "maisto ruošimo židinys",
+    "lv": "ēdiena gatavošanas kamīns",
+    "nb": "et ildsted for matlaging",
+    "nl": "een kookhaard",
+    "pl": "palenisko do gotowania",
+    "pt": "uma lareira para cozinhar",
+    "ro": "o vatră de gătit",
+    "ru": "очаг для приготовления пищи",
+    "sk": "ohnisko na varenie",
+    "sl": "ognjišče za kuhanje",
+    "sv": "en härd för matlagning",
+    "tr": "bir pişirme ocağı",
+    "uk": "вогнище для приготування їжі",
+    "zh": "炉灶"
+  },
+  "verses": [
+    "ezekiel 46:23:5"
+  ]
+}

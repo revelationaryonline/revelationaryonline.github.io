@@ -1,0 +1,43 @@
+{
+  "number": "H62",
+  "language": "hebrew",
+  "transliteration": "ʼÂbêl Bêyth-Măʻakâh",
+  "pronunciation": "aw-bale' bayth ma-akaw'",
+  "definition": "Abel of Beth-maakah, a place in Palestine",
+  "kjvTranslation": "Abel-beth-maachah, Abel of Beth-maachah,",
+  "translations": {
+    "bg": "Авел от Бет-Мака, място в Палестина",
+    "cs": "Abel z Bét-maaky, místo v Palestině",
+    "da": "Abel fra Beth-maakah, et sted i Palæstina",
+    "de": "Abel von Beth-Maakah, ein Ort in Palästina",
+    "el": "Abel of Beth-maakah, ένας τόπος στην Παλαιστίνη",
+    "es": "Abel de Beth-maakah, un lugar en Palestina",
+    "et": "Abel Pet-Makast, koht Palestiinas",
+    "fi": "Abel of Beth-maakah, paikka Palestiinassa",
+    "fr": "Abel de Beth-maakah, localité de Palestine",
+    "hu": "Ábel Beth-Makahból, egy hely Palesztinában",
+    "id": "Habel dari Bet-maakah, sebuah tempat di Palestina",
+    "it": "Abel di Beth-maakah, località della Palestina",
+    "ja": "パレスチナの地名、ベトマカのアベル",
+    "ko": "팔레스타인의 벳-마아카, 벳-마카의 아벨",
+    "lt": "Abelis iš Bėt-Makos, vietovė Palestinoje",
+    "lv": "Ābels no Bētmaakas, vieta Palestīnā",
+    "nb": "Abel fra Bet-Maka, et sted i Palestina",
+    "nl": "Abel van Beth-maakah, een plaats in Palestina",
+    "pl": "Abel z Beth-maakah, miejsce w Palestynie",
+    "pt": "Abel de Bete-Maaca, um lugar na Palestina",
+    "ro": "Abel of Beth-maakah, un loc în Palestina",
+    "ru": "Авель из Бет-Маака, местечко в Палестине",
+    "sk": "Abel z Bet-maakah, miesto v Palestíne",
+    "sl": "Abel iz Betmaake, kraj v Palestini",
+    "sv": "Abel från Beth-maakah, en plats i Palestina",
+    "tr": "Filistin'de bir yer olan Beth-maakah'lı Abel",
+    "uk": "Авель з Бет-Мааки, місцевості в Палестині",
+    "zh": "伯玛喀的亚伯"
+  },
+  "hebrew": "אָבֵל בֵּית־מֲעַכָה",
+  "verses": [
+    "firstKings 15:20:23",
+    "secondKings 15:29:15"
+  ]
+}

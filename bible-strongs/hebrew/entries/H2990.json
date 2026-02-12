@@ -1,0 +1,42 @@
+{
+  "number": "H2990",
+  "language": "hebrew",
+  "transliteration": "yabbêl",
+  "pronunciation": "yab-bale'",
+  "definition": "having running sores",
+  "kjvTranslation": "wen.",
+  "translations": {
+    "bg": "с течащи рани",
+    "cs": "s běžícími vředy",
+    "da": "har løbende sår",
+    "de": "mit laufenden Wunden",
+    "el": "που έχει πληγές που τρέχουν",
+    "es": "tener úlceras de decúbito",
+    "et": "jooksvate haavandite olemasolu",
+    "fi": "joilla on juoksuhaavoja",
+    "fr": "avoir des plaies qui coulent",
+    "hu": "futó sebek",
+    "id": "memiliki luka yang sedang berjalan",
+    "it": "avere piaghe da decorso",
+    "ja": "ただれ",
+    "ko": "염증이 있는 경우",
+    "lt": "bėgančios žaizdos",
+    "lv": "tekošas čūlas",
+    "nb": "å ha løpende sår",
+    "nl": "doorligwonden hebben",
+    "pl": "posiadanie owrzodzeń",
+    "pt": "ter feridas de correr",
+    "ro": "având răni care curg",
+    "ru": "наличие запущенных язв",
+    "sk": "s bežeckými vredmi",
+    "sl": "tekoče rane",
+    "sv": "har löpande sår",
+    "tr": "akan yaralara sahip olmak",
+    "uk": "наявність пролежнів",
+    "zh": "流疮"
+  },
+  "hebrew": "יַבֵּל",
+  "verses": [
+    "leviticus 22:22:6"
+  ]
+}

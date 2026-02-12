@@ -1,0 +1,42 @@
+{
+  "number": "H3813",
+  "language": "hebrew",
+  "transliteration": "lâʼaṭ",
+  "pronunciation": "law-at'",
+  "definition": "to muffle",
+  "kjvTranslation": "cover.",
+  "hebrew": "לָאַט",
+  "translations": {
+    "bg": "да заглушава",
+    "cs": "tlumit",
+    "da": "til at dæmpe",
+    "de": "zu dämpfen",
+    "el": "για να σιγήσει",
+    "es": "amortiguar",
+    "et": "summutada",
+    "fi": "vaimentaa",
+    "fr": "étouffer",
+    "hu": "hogy tompítsa",
+    "id": "untuk meredam",
+    "it": "per smorzare",
+    "ja": "消音",
+    "ko": "머플",
+    "lt": "slopinti",
+    "lv": "apslāpēt",
+    "nb": "for å dempe",
+    "nl": "dempen",
+    "pl": "tłumić",
+    "pt": "abafar",
+    "ro": "a înăbuși",
+    "ru": "заглушать",
+    "sk": "tlmiť",
+    "sl": "dušiti",
+    "sv": "att muffla",
+    "tr": "boğmak için",
+    "uk": "щоб приглушити",
+    "zh": "消声"
+  },
+  "verses": [
+    "secondSamuel 19:5:1"
+  ]
+}

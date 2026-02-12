@@ -1,0 +1,42 @@
+{
+  "number": "H340",
+  "language": "hebrew",
+  "transliteration": "ʼâyab",
+  "pronunciation": "aw-yab'",
+  "definition": "to hate (as one of an opposite tribe or party); hence to be hostile",
+  "kjvTranslation": "be an enemy.",
+  "translations": {
+    "bg": "да мразя (като човек от противоположно племе или партия); следователно да бъда враждебен",
+    "cs": "nenávidět (jako příslušníka opačného kmene nebo strany); tedy být nepřátelský",
+    "da": "at hade (som en fra en modsat stamme eller et modsat parti); derfor at være fjendtlig",
+    "de": "hassen (als Angehöriger eines anderen Stammes oder einer anderen Partei); daher feindselig sein",
+    "el": "μισώ (ως μέλος αντίθετης φυλής ή κόμματος), άρα είμαι εχθρικός",
+    "es": "odiar (como a alguien de una tribu o partido opuesto); por lo tanto, ser hostil",
+    "et": "vihkama (kui vastandlikku hõimu või erakonda kuuluvat); seega olema vaenulik",
+    "fi": "vihata (vastakkaista heimoa tai puoluetta edustavaa); siis olla vihamielinen",
+    "fr": "détester (comme quelqu'un d'une tribu ou d'un parti opposé) ; donc être hostile",
+    "hu": "gyűlölni (mint az ellenkező törzshez vagy párthoz tartozót); ezért ellenségesnek lenni",
+    "id": "membenci (sebagai salah satu dari suku atau pihak yang berlawanan); karenanya memusuhi",
+    "it": "odiare (come uno di una tribù o di un partito opposto); quindi essere ostile",
+    "ja": "を憎む；ゆえに敵対する",
+    "ko": "(반대 부족이나 정파의 일원으로서) 미워하다; 따라서 적대적이다",
+    "lt": "neapkęsti (priešingos genties ar partijos atstovų); taigi būti priešiškai nusiteikusiam",
+    "lv": "ienīst (kā pretējās cilts vai partijas pārstāvi), tātad būt naidīgam",
+    "nb": "å hate (som en av motsatt stamme eller parti); derav å være fiendtlig innstilt",
+    "nl": "haten (als iemand van een tegenovergestelde stam of partij); vandaar vijandig zijn",
+    "pl": "nienawidzić (jako kogoś z przeciwnego plemienia lub partii); stąd być wrogim",
+    "pt": "odiar (como alguém de uma tribo ou partido oposto); portanto, ser hostil",
+    "ro": "a urî (ca pe cineva din tribul sau partidul opus); prin urmare, a fi ostil",
+    "ru": "ненавидеть (как представителя противоположного племени или партии); следовательно, быть враждебным",
+    "sk": "nenávidieť (ako príslušníka opačného kmeňa alebo strany); teda byť nepriateľský",
+    "sl": "sovražiti (kot pripadnika nasprotnega plemena ali stranke); torej biti sovražen",
+    "sv": "att hata (som en av en motsatt stam eller ett parti); därmed att vara fientlig",
+    "tr": "nefret etmek (karşıt bir kabile veya partiden biri olarak); dolayısıyla düşman olmak",
+    "uk": "ненавидіти (як представника протилежного племені або партії); отже, бути ворожим",
+    "zh": "憎恨（作为异族或异党）；因此敌对"
+  },
+  "hebrew": "אָיַב",
+  "verses": [
+    "exodus 23:22:9"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7661",
+  "language": "hebrew",
+  "transliteration": "shâbâts",
+  "pronunciation": "shaw-bawts'",
+  "definition": "entanglement, i.e. (figuratively) perplexity",
+  "kjvTranslation": "anguish.",
+  "hebrew": "שָׁבָץ",
+  "translations": {
+    "bg": "заплитане, т.е. (в преносен смисъл) объркване",
+    "cs": "propletenost, tj. (obrazně) zmatek",
+    "da": "sammenfiltring, dvs. (i overført betydning) forvirring",
+    "de": "verstrickung, d.h. (im übertragenen Sinne) Ratlosigkeit",
+    "el": "μπέρδεμα, δηλαδή (μεταφορικά) αμηχανία",
+    "es": "enredo, es decir (en sentido figurado) perplejidad",
+    "et": "takerdumine, st (piltlikult öeldes) segadus",
+    "fi": "sekaannus eli (kuvaannollisesti) hämmennys",
+    "fr": "l'enchevêtrement, c'est-à-dire (au sens figuré) la perplexité",
+    "hu": "összefonódás, azaz (átvitt értelemben) tanácstalanság",
+    "id": "keterikatan, yaitu (secara kiasan) kebingungan",
+    "it": "groviglio, ovvero (in senso figurato) perplessità",
+    "ja": "もつれ",
+    "ko": "얽힘, 즉 (비유적으로) 당혹스러움",
+    "lt": "susipainiojimas, t. y. (perkeltine prasme) painiava",
+    "lv": "pārpratums, t.i., (pārnestā nozīmē) mulsums",
+    "nb": "sammenfiltring, dvs. (i overført betydning) forvirring",
+    "nl": "verstrikking, d.w.z. (figuurlijk) verwarring",
+    "pl": "splątanie, tj. (w przenośni) zakłopotanie",
+    "pt": "emaranhamento, ou seja, (figurativamente) perplexidade",
+    "ro": "încurcătură, adică (la figurat) perplexitate",
+    "ru": "запутанность, т.е. (фигурально) недоумение",
+    "sk": "zamotanosť, t. j. (obrazne) zmätok",
+    "sl": "zapletenost, tj. (v prenesenem pomenu) zmedenost",
+    "sv": "sammanflätning, dvs. (bildligt talat) förvirring",
+    "tr": "dolaşıklık, yani (mecazi olarak) şaşkınlık",
+    "uk": "заплутаність, тобто (образно) розгубленість",
+    "zh": "纠缠不清"
+  },
+  "verses": [
+    "secondSamuel 1:9:8"
+  ]
+}

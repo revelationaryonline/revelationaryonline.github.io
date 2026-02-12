@@ -1,0 +1,43 @@
+{
+  "number": "H252",
+  "language": "hebrew",
+  "transliteration": "ʼach",
+  "pronunciation": "akh",
+  "definition": "{a brother (used in the widest sense of literal relationship and metaphorical affinity or resemblance)}",
+  "kjvTranslation": "brother.",
+  "translations": {
+    "bg": "{брат (използва се в най-широк смисъл на буквална връзка и метафорична близост или прилика)}",
+    "cs": "{bratr (používá se v nejširším smyslu doslovného příbuzenského vztahu a metaforické příbuznosti nebo podobnosti) }",
+    "da": "{en bror (brugt i den bredeste betydning af bogstaveligt forhold og metaforisk affinitet eller lighed)}",
+    "de": "{ein Bruder (im weitesten Sinne der wörtlichen Beziehung und der metaphorischen Verwandtschaft oder Ähnlichkeit verwendet)}",
+    "el": "{αδελφός (χρησιμοποιείται με την ευρύτερη έννοια της κυριολεκτικής σχέσης και της μεταφορικής συγγένειας ή ομοιότητας)}",
+    "es": "{un hermano (usado en el sentido más amplio de relación literal y afinidad o semejanza metafórica)}",
+    "et": "{vend (kasutatakse sõna otseses mõttes ja metafoorselt suguluse või sarnasuse tähenduses)",
+    "fi": "{veli (käytetään laajimmassa merkityksessä kirjaimellisessa suhteessa ja metaforisessa sukulaisuudessa tai samankaltaisuudessa)}",
+    "fr": "{un frère (utilisé dans le sens le plus large de relation littérale et d'affinité ou de ressemblance métaphorique)}",
+    "hu": "{testvér (a szó szerinti rokonság és a metaforikus rokonság vagy hasonlóság legtágabb értelemben vett jelentése)",
+    "id": "{seorang saudara (digunakan dalam arti luas dari hubungan harfiah dan kedekatan atau kemiripan metaforis)}",
+    "it": "{un fratello (usato nel senso più ampio di relazione letterale e di affinità o somiglianza metaforica)}",
+    "ja": "{兄弟（文字どおりの関係と比喩的な親近感や類似性という最も広い意味で使われる）}。",
+    "ko": "{형제(문자 그대로의 관계와 은유적 친밀감 또는 닮았다는 가장 넓은 의미로 사용)}",
+    "lt": "{brolis (vartojamas plačiausia tiesioginio ryšio ir metaforinės giminystės ar panašumo prasme)",
+    "lv": "{brālis (lietots visplašākajā burtiskas radniecības un metaforiskas radniecības vai līdzības nozīmē)}",
+    "nb": "{en bror (brukt i den videste betydning av bokstavelig slektskap og metaforisk slektskap eller likhet)}",
+    "nl": "{een broer (gebruikt in de breedste zin van letterlijke relatie en metaforische verwantschap of gelijkenis)}",
+    "pl": "{brat (używany w najszerszym znaczeniu dosłownego związku i metaforycznego pokrewieństwa lub podobieństwa)}",
+    "pt": "{um irmão (usado no sentido mais amplo de relação literal e afinidade metafórica ou semelhança)}",
+    "ro": "{un frate (folosit în sensul cel mai larg de relație literală și afinitate sau asemănare metaforică)}",
+    "ru": "{брат (используется в самом широком смысле буквального родства и метафорической близости или сходства)}",
+    "sk": "{brat (použitý v najširšom zmysle doslovného vzťahu a metaforickej príbuznosti alebo podobnosti)",
+    "sl": "{brat (uporabljeno v najširšem pomenu dobesednega odnosa in metaforične sorodnosti ali podobnosti)",
+    "sv": "{en bror (används i den vidaste bemärkelsen av bokstavlig relation och metaforisk affinitet eller likhet)}",
+    "tr": "{kardeş (gerçek ilişki ve mecazi yakınlık veya benzerlik anlamında en geniş anlamda kullanılır)}",
+    "uk": "{брат (вживається в найширшому значенні буквального споріднення та метафоричної спорідненості чи подібності)}",
+    "zh": "{兄弟（用于最广义的字面关系和比喻的亲缘关系或相似之处）}。"
+  },
+  "hebrew": "אַח",
+  "verses": [
+    "ezra 7:18:5",
+    "ezra 7:18:6"
+  ]
+}

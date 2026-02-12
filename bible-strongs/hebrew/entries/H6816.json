@@ -1,0 +1,42 @@
+{
+  "number": "H6816",
+  "language": "hebrew",
+  "transliteration": "tsaʻtsuaʻ",
+  "pronunciation": "tsah-tsoo'-ah",
+  "definition": "sculpture",
+  "kjvTranslation": "image (work).",
+  "hebrew": "צַעְצֻעַ",
+  "translations": {
+    "bg": "скулптура",
+    "cs": "sochařství",
+    "da": "skulptur",
+    "de": "skulptur",
+    "el": "γλυπτική",
+    "es": "escultura",
+    "et": "skulptuur",
+    "fi": "veistos",
+    "fr": "sculpture",
+    "hu": "szobor",
+    "id": "patung",
+    "it": "scultura",
+    "ja": "彫刻",
+    "ko": "조각",
+    "lt": "skulptūra",
+    "lv": "skulptūra",
+    "nb": "skulptur",
+    "nl": "beeld",
+    "pl": "rzeźba",
+    "pt": "escultura",
+    "ro": "sculptură",
+    "ru": "скульптура",
+    "sk": "sochárstvo",
+    "sl": "kiparstvo",
+    "sv": "skulptur",
+    "tr": "heykel",
+    "uk": "скульптура",
+    "zh": "雕塑"
+  },
+  "verses": [
+    "secondChronicles 3:10:7"
+  ]
+}

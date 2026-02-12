@@ -1,0 +1,42 @@
+{
+  "number": "H3583",
+  "language": "hebrew",
+  "transliteration": "kâchal",
+  "pronunciation": "kaw-khal'",
+  "definition": "to paint (with stibium)",
+  "kjvTranslation": "paint.",
+  "translations": {
+    "bg": "да рисува (със стибиум)",
+    "cs": "malovat (stibiem)",
+    "da": "at male (med stibium)",
+    "de": "zu malen (mit Stibium)",
+    "el": "να ζωγραφίσει (με στίβιο)",
+    "es": "pintar (con estibio)",
+    "et": "värvida (stibiumiga)",
+    "fi": "maalata (stibiumilla)",
+    "fr": "peindre (avec du stibium)",
+    "hu": "festeni (stibiummal)",
+    "id": "untuk mengecat (dengan stibium)",
+    "it": "dipingere (con lo stibio)",
+    "ja": "塗る",
+    "ko": "페인트(스티비움 포함)",
+    "lt": "dažyti (stibija)",
+    "lv": "krāsot (ar stibiju)",
+    "nb": "å male (med stibium)",
+    "nl": "schilderen (met stibium)",
+    "pl": "malować (stibium)",
+    "pt": "pintar (com stibium)",
+    "ro": "a picta (cu stibium)",
+    "ru": "рисовать (с помощью стибиума)",
+    "sk": "maľovať (stibiom)",
+    "sl": "barvati (s stibijem)",
+    "sv": "att måla (med stibium)",
+    "tr": "boyamak (stibium ile)",
+    "uk": "пофарбувати (зі стибієм)",
+    "zh": "画"
+  },
+  "hebrew": "כָּחַל",
+  "verses": [
+    "ezekiel 23:40:14"
+  ]
+}

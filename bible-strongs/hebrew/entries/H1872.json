@@ -1,0 +1,42 @@
+{
+  "number": "H1872",
+  "language": "hebrew",
+  "transliteration": "dᵉraʻ",
+  "pronunciation": "der-aw'",
+  "definition": "an arm",
+  "kjvTranslation": "arm.",
+  "translations": {
+    "bg": "ръка",
+    "cs": "rameno",
+    "da": "en arm",
+    "de": "ein Arm",
+    "el": "ένα χέρι",
+    "es": "un brazo",
+    "et": "käsi",
+    "fi": "käsivarsi",
+    "fr": "un bras",
+    "hu": "egy kar",
+    "id": "lengan",
+    "it": "un braccio",
+    "ja": "腕",
+    "ko": "팔",
+    "lt": "ranka",
+    "lv": "roku",
+    "nb": "en arm",
+    "nl": "een arm",
+    "pl": "ramię",
+    "pt": "um braço",
+    "ro": "un braț",
+    "ru": "рука",
+    "sk": "rameno",
+    "sl": "roko",
+    "sv": "en arm",
+    "tr": "bir kol",
+    "uk": "руку",
+    "zh": "臂"
+  },
+  "hebrew": "דְּרַע",
+  "verses": [
+    "daniel 2:32:7"
+  ]
+}

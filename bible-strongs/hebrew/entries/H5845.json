@@ -1,0 +1,42 @@
+{
+  "number": "H5845",
+  "language": "hebrew",
+  "transliteration": "ʻăṭîyn",
+  "pronunciation": "at-een'",
+  "definition": "a receptacle (for milk, i.e. pail; figuratively, breast)",
+  "kjvTranslation": "breast.",
+  "hebrew": "עֲטִין",
+  "translations": {
+    "bg": "съд (за мляко, т.е. кофа; в преносен смисъл - гърда)",
+    "cs": "nádoba (na mléko, tj. vědro; přeneseně prs)",
+    "da": "en beholder (til mælk, dvs. spand; i overført betydning, bryst)",
+    "de": "ein Gefäß (für Milch, d.h. Eimer; im übertragenen Sinne: Brust)",
+    "el": "δοχείο (για το γάλα, δηλαδή κουβάς- μεταφορικά, στήθος)",
+    "es": "un recipiente (para la leche, es decir, cubo; en sentido figurado, pecho)",
+    "et": "anum (piima jaoks, st ämber; piltlikult öeldes rind)",
+    "fi": "astia (maidolle, eli ämpäri; kuvaannollisesti rinta)",
+    "fr": "un récipient (pour le lait, c'est-à-dire un seau ; au sens figuré, un sein)",
+    "hu": "edény (a tej számára, azaz vödör; átvitt értelemben: mell)",
+    "id": "wadah (untuk susu, yaitu ember; secara kiasan, payudara)",
+    "it": "recipiente (per il latte, cioè secchio; in senso figurato, seno)",
+    "ja": "桶",
+    "ko": "용기(우유통, 즉 통, 비유적으로 유방)",
+    "lt": "indas (pienui, t. y. kibiras; perkeltine prasme - krūtis)",
+    "lv": "trauks (pienam, t.i., spainītis; pārnestā nozīmē - krūts)",
+    "nb": "en beholder (for melk, dvs. spann; i overført betydning, bryst)",
+    "nl": "een houder (voor melk, d.w.z. emmer; figuurlijk, borst)",
+    "pl": "pojemnik (na mleko, tj. wiadro; w przenośni pierś)",
+    "pt": "um recipiente (para leite, isto é, balde; figurativamente, peito)",
+    "ro": "un recipient (pentru lapte, adică găleată; la figurat, sân)",
+    "ru": "сосуд (для молока, т.е. ведро; образно - грудь)",
+    "sk": "nádoba (na mlieko, t. j. vedro; v prenesenom význame prsník)",
+    "sl": "posoda (za mleko, tj. vedro; v prenesenem pomenu dojka)",
+    "sv": "en behållare (för mjölk, dvs. hink; bildligt, bröst)",
+    "tr": "bir kap (süt için, yani kova; mecazi olarak meme)",
+    "uk": "вмістилище (для молока, тобто відро; образно - груди)",
+    "zh": "贮乳器"
+  },
+  "verses": [
+    "job 21:24:0"
+  ]
+}

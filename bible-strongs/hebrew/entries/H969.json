@@ -1,0 +1,42 @@
+{
+  "number": "H969",
+  "language": "hebrew",
+  "transliteration": "bâchôwn",
+  "pronunciation": "baw-khone'",
+  "definition": "an assayer or metals",
+  "kjvTranslation": "tower.",
+  "translations": {
+    "bg": "оценител на метали",
+    "cs": "zkušebna kovů nebo kovodělníci",
+    "da": "en analysator eller metaller",
+    "de": "ein Prüfer oder Metallprüfer",
+    "el": "δοκιμαστής ή μέταλλα",
+    "es": "un ensayador o metales",
+    "et": "proovivõtja või metallide hindaja",
+    "fi": "malminmäärittäjä tai metallien arvioija",
+    "fr": "un assayeur ou des métaux",
+    "hu": "fémvizsgáló vagy fémek",
+    "id": "alat uji atau logam",
+    "it": "un saggiatore di metalli",
+    "ja": "きんぞくかい",
+    "ko": "분석기 또는 금속",
+    "lt": "assauer arba metalų vertintojas",
+    "lv": "metālzinātnieks vai metālists",
+    "nb": "en analysator eller metallsorterer",
+    "nl": "een assayer of metalen",
+    "pl": "rzeczoznawca lub metale",
+    "pt": "um ensaiador de metais",
+    "ro": "un evaluator de metale",
+    "ru": "пробирщик или металлы",
+    "sk": "skúšobňa kovov alebo kovy",
+    "sl": "preizkuševalec ali kovin",
+    "sv": "en bedömare av metaller",
+    "tr": "bir tahlilci veya metaller",
+    "uk": "пробірний аналізатор або метали",
+    "zh": "化验师"
+  },
+  "hebrew": "בָּחוֹן",
+  "verses": [
+    "jeremiah 6:27:0"
+  ]
+}

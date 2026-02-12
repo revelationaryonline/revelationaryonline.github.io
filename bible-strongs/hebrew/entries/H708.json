@@ -1,0 +1,43 @@
+{
+  "number": "H708",
+  "language": "hebrew",
+  "transliteration": "ʼereg",
+  "pronunciation": "eh'-reg",
+  "definition": "a weaving; a braid; also a shuttle",
+  "kjvTranslation": "beam, weaver's shuttle.",
+  "translations": {
+    "bg": "тъкане; плетка; също совалка",
+    "cs": "tkalcovský stav; pletenec; také člunkový stav",
+    "da": "en vævning; en fletning; også en skyttel",
+    "de": "ein Geflecht; ein Geflecht; auch ein Schiffchen",
+    "el": "ένα υφαντό, μια πλεξούδα, επίσης μια σαΐτα",
+    "es": "un tejido; una trenza; también una lanzadera",
+    "et": "kudumine; punutis; ka süstik",
+    "fi": "kudonta; punos; myös sukkula",
+    "fr": "un tissage ; une tresse ; également une navette",
+    "hu": "szövés; fonás; sikló is",
+    "id": "tenun; jalinan; juga pesawat ulang-alik",
+    "it": "un intreccio; una treccia; anche una navetta",
+    "ja": "織物; 組紐; また杼（ひ",
+    "ko": "직조; 땋음; 또한 셔틀",
+    "lt": "pynimas, pynimas, taip pat ir šatlas",
+    "lv": "pinums, pinums; arī šatls",
+    "nb": "en veving; en flette; også en skyttel",
+    "nl": "een weefwerk; een vlecht; ook een shuttle",
+    "pl": "tkanie; warkocz; również czółenko",
+    "pt": "uma tecelagem; uma trança; também uma lançadeira",
+    "ro": "o țesătură; o împletitură; de asemenea, o navetă",
+    "ru": "плетение; коса; также челнок",
+    "sk": "tkanie; pletenie; tiež čln",
+    "sl": "tkanje; pletenina; tudi čoln",
+    "sv": "en vävning; en fläta; även en skyttel",
+    "tr": "bir dokuma; bir örgü; ayrıca bir mekik",
+    "uk": "плетіння; коса; також човник",
+    "zh": "织；辫；梭"
+  },
+  "hebrew": "אֶרֶג",
+  "verses": [
+    "judges 16:14:12",
+    "job 7:6:3"
+  ]
+}

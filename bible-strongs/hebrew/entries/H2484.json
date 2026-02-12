@@ -1,0 +1,42 @@
+{
+  "number": "H2484",
+  "language": "hebrew",
+  "transliteration": "chelyâh",
+  "pronunciation": "khel-yaw'",
+  "definition": "a trinket",
+  "kjvTranslation": "jewel.",
+  "translations": {
+    "bg": "дрънкулка",
+    "cs": "cetka",
+    "da": "et smykke",
+    "de": "ein Schmuckstück",
+    "el": "ένα μπιχλιμπίδι",
+    "es": "una baratija",
+    "et": "nipsasja",
+    "fi": "rihkamaa",
+    "fr": "un bibelot",
+    "hu": "egy csecsebecse",
+    "id": "sebuah pernak-pernik",
+    "it": "un gingillo",
+    "ja": "小物",
+    "ko": "장신구",
+    "lt": "smulkmena",
+    "lv": "nieciņš",
+    "nb": "en pyntegjenstand",
+    "nl": "een snuisterij",
+    "pl": "drobiazg",
+    "pt": "uma bugiganga",
+    "ro": "un bibelou",
+    "ru": "безделушка",
+    "sk": "drobnosť",
+    "sl": "drobnarije",
+    "sv": "en prydnadssak",
+    "tr": "bir biblo",
+    "uk": "дрібничка",
+    "zh": "饰物"
+  },
+  "hebrew": "חֶלְיָה",
+  "verses": [
+    "hosea 2:15:10"
+  ]
+}

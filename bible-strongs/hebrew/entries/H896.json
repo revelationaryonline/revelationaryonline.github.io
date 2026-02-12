@@ -1,0 +1,42 @@
+{
+  "number": "H896",
+  "language": "hebrew",
+  "transliteration": "Bablîy",
+  "pronunciation": "bab-lee'",
+  "definition": "a Babylonian",
+  "kjvTranslation": "Babylonia.",
+  "translations": {
+    "bg": "вавилонец",
+    "cs": "babylonský",
+    "da": "en babylonier",
+    "de": "ein Babylonier",
+    "el": "ένας Βαβυλώνιος",
+    "es": "un babilonio",
+    "et": "babüloonia",
+    "fi": "babylonialainen",
+    "fr": "un Babylonien",
+    "hu": "egy babiloni",
+    "id": "seorang Babilonia",
+    "it": "un babilonese",
+    "ja": "バビロニア人",
+    "ko": "바빌로니아",
+    "lt": "babiloniečių",
+    "lv": "babiloniešu",
+    "nb": "en babylonsk",
+    "nl": "een Babylonische",
+    "pl": "babilończyk",
+    "pt": "um babilónio",
+    "ro": "un babilonian",
+    "ru": "вавилонянин",
+    "sk": "babylonský",
+    "sl": "babilonski",
+    "sv": "en babylonier",
+    "tr": "bir Babilli",
+    "uk": "вавилонянина",
+    "zh": "巴比伦人"
+  },
+  "hebrew": "בַּבְלִי",
+  "verses": [
+    "ezra 4:9:14"
+  ]
+}

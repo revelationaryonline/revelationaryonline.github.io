@@ -1,0 +1,42 @@
+{
+  "number": "H2866",
+  "language": "hebrew",
+  "transliteration": "chăthath",
+  "pronunciation": "khath-ath'",
+  "definition": "dismay",
+  "kjvTranslation": "casting down.",
+  "translations": {
+    "bg": "ужас",
+    "cs": "zděšení",
+    "da": "forfærdelse",
+    "de": "bestürzung",
+    "el": "απογοήτευση",
+    "es": "consternación",
+    "et": "ehmatus",
+    "fi": "tyrmistys",
+    "fr": "consternation",
+    "hu": "döbbenet",
+    "id": "cemas",
+    "it": "sgomento",
+    "ja": "狼狽",
+    "ko": "실망",
+    "lt": "siaubas",
+    "lv": "satraukums",
+    "nb": "forferdelse",
+    "nl": "ontzetting",
+    "pl": "konsternacja",
+    "pt": "consternação",
+    "ro": "consternare",
+    "ru": "ужас",
+    "sk": "zdesenie",
+    "sl": "zgroženost",
+    "sv": "bestörtning",
+    "tr": "dehşet",
+    "uk": "тривога",
+    "zh": "惊愕"
+  },
+  "hebrew": "חֲתַת",
+  "verses": [
+    "job 6:21:6"
+  ]
+}

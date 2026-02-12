@@ -1,0 +1,42 @@
+{
+  "number": "H3757",
+  "language": "hebrew",
+  "transliteration": "Karmîy",
+  "pronunciation": "kar-mee'",
+  "definition": "a Karmite or descendant of Karmi",
+  "kjvTranslation": "Carmites.",
+  "hebrew": "כַּרְמִי",
+  "translations": {
+    "bg": "кармит или потомък на Карми",
+    "cs": "karmita nebo potomek Karmiho",
+    "da": "en karmit eller efterkommer af Karmi",
+    "de": "ein Karmit oder Nachkomme von Karmi",
+    "el": "καρμίτης ή απόγονος του Καρμί",
+    "es": "un karmita o descendiente de Karmi",
+    "et": "karmiit või Karmi järeltulija",
+    "fi": "karmiitit tai Karmin jälkeläiset",
+    "fr": "un Karmite ou un descendant de Karmi",
+    "hu": "kármi leszármazottja vagy Kármi leszármazottja",
+    "id": "seorang Karmi atau keturunan Karmi",
+    "it": "un karmita o discendente di Karmi",
+    "ja": "カルミの子孫",
+    "ko": "카르마이트 또는 카르미의 후손",
+    "lt": "karmitas arba Karmi palikuonis",
+    "lv": "karmits jeb Karmi pēcnācējs",
+    "nb": "en karmitt eller etterkommer av Karmi",
+    "nl": "een karmiet of afstammeling van Karmi",
+    "pl": "karmita lub potomek Karmiego",
+    "pt": "um karmita ou descendente de Karmi",
+    "ro": "un Karmit sau descendent al lui Karmi",
+    "ru": "кармит или потомок Карми",
+    "sk": "karmita alebo potomok Karmiho",
+    "sl": "karmit ali potomec Karmija",
+    "sv": "en karmit eller ättling till Karmi",
+    "tr": "bir Karmite veya Karmi'nin soyundan gelen",
+    "uk": "кармітом або нащадком Кармі",
+    "zh": "卡米的后裔"
+  },
+  "verses": [
+    "numbers 26:6:5"
+  ]
+}

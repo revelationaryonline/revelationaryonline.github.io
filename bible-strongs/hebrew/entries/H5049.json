@@ -1,0 +1,42 @@
+{
+  "number": "H5049",
+  "language": "hebrew",
+  "transliteration": "neged",
+  "pronunciation": "neh'-ghed",
+  "definition": "opposite",
+  "kjvTranslation": "toward.",
+  "hebrew": "נֶגֶד",
+  "translations": {
+    "bg": "срещу",
+    "cs": "naproti",
+    "da": "modsat",
+    "de": "gegenüber",
+    "el": "απέναντι",
+    "es": "frente a",
+    "et": "vastaspool",
+    "fi": "vastapäätä",
+    "fr": "opposé",
+    "hu": "szemben",
+    "id": "berlawanan",
+    "it": "di fronte",
+    "ja": "反対",
+    "ko": "반대",
+    "lt": "priešais",
+    "lv": "pretī",
+    "nb": "motsatt",
+    "nl": "tegenover",
+    "pl": "naprzeciwko",
+    "pt": "oposto",
+    "ro": "opus",
+    "ru": "напротив",
+    "sk": "oproti",
+    "sl": "nasproti",
+    "sv": "motsatt",
+    "tr": "karşısında",
+    "uk": "навпаки",
+    "zh": "对面"
+  },
+  "verses": [
+    "daniel 6:11:12"
+  ]
+}

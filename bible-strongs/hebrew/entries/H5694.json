@@ -1,0 +1,43 @@
+{
+  "number": "H5694",
+  "language": "hebrew",
+  "transliteration": "ʻâgîyl",
+  "pronunciation": "aw-gheel'",
+  "definition": "something round, i.e. a ring (for the ears)",
+  "kjvTranslation": "earring.",
+  "hebrew": "עָגִיל",
+  "translations": {
+    "bg": "нещо кръгло, например пръстен (за ушите)",
+    "cs": "něco kulatého, např. kroužek (na uši)",
+    "da": "noget rundt, f.eks. en ring (til ørerne)",
+    "de": "etwas Rundes, z. B. einen Ring (für die Ohren)",
+    "el": "κάτι στρογγυλό, π.χ. ένα δαχτυλίδι (για τα αυτιά)",
+    "es": "algo redondo, es decir, un anillo (para las orejas)",
+    "et": "midagi ümmargust, s.t. rõngas (kõrvadele)",
+    "fi": "jotain pyöreää, esim. rengas (korville)",
+    "fr": "quelque chose de rond, par exemple un anneau (pour les oreilles)",
+    "hu": "valami kerek, pl. egy gyűrű (a fülnek)",
+    "id": "sesuatu yang berbentuk bulat, misalnya cincin (untuk telinga)",
+    "it": "qualcosa di rotondo, ad esempio un anello (per le orecchie)",
+    "ja": "丸いもの",
+    "ko": "둥근 것, 즉 반지(귀에 꽂는 것)",
+    "lt": "ką nors apvalaus, t. y. žiedą (ausims)",
+    "lv": "kaut kas apaļš, t. i., gredzens (ausīm)",
+    "nb": "noe rundt, f.eks. en ring (til ørene)",
+    "nl": "iets ronds, bijvoorbeeld een ring (voor de oren)",
+    "pl": "coś okrągłego, np. pierścień (dla uszu)",
+    "pt": "algo redondo, ou seja, um anel (para os ouvidos)",
+    "ro": "ceva rotund, de exemplu un inel (pentru urechi)",
+    "ru": "что-то круглое, например, кольцо (для ушей)",
+    "sk": "niečo okrúhle, t. j. krúžok (na uši)",
+    "sl": "nekaj okroglega, npr. obroč (za ušesa)",
+    "sv": "något runt, t.ex. en ring (för öronen)",
+    "tr": "yuvarlak bir şey, örneğin bir halka (kulaklar için)",
+    "uk": "щось кругле, тобто кільце (для вух)",
+    "zh": "圆环"
+  },
+  "verses": [
+    "numbers 31:50:12",
+    "ezekiel 16:12:4"
+  ]
+}

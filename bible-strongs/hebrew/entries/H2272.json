@@ -1,0 +1,42 @@
+{
+  "number": "H2272",
+  "language": "hebrew",
+  "transliteration": "chăbarburâh",
+  "pronunciation": "khab-ar-boo-raw'",
+  "definition": "a streak (like a line), as on the tiger",
+  "kjvTranslation": "spot.",
+  "translations": {
+    "bg": "ивица (като линия), като на тигъра",
+    "cs": "pruh (jako čára), jako na tygrovi",
+    "da": "en stribe (som en linje), som på tigeren",
+    "de": "ein Streifen (wie eine Linie), wie beim Tiger",
+    "el": "μια ραβδώσεις (σαν γραμμή), όπως στην τίγρη",
+    "es": "una raya (como una línea), como en el tigre",
+    "et": "triibu (nagu joon), nagu tiigrile",
+    "fi": "raita (kuin viiva), kuten tiikerillä",
+    "fr": "un trait (comme une ligne), comme sur le tigre",
+    "hu": "egy csík (mint egy vonal), mint a tigrisnél",
+    "id": "garis (seperti garis), seperti pada harimau",
+    "it": "una striscia (come una linea), come sulla tigre",
+    "ja": "虎斑",
+    "ko": "호랑이처럼 줄무늬(선과 같은)",
+    "lt": "brūkšnys (kaip linija), kaip ant tigro",
+    "lv": "svītra (kā līnija), kā uz tīģera",
+    "nb": "en stripe (som en linje), som på tigeren",
+    "nl": "een streep (als een lijn), zoals op de tijger",
+    "pl": "smuga (jak linia), jak na tygrysie",
+    "pt": "uma risca (como uma linha), como no tigre",
+    "ro": "o dungă (ca o linie), ca pe tigru",
+    "ru": "полоса (как линия), как на тигре",
+    "sk": "pruh (ako čiara), ako na tigrovi",
+    "sl": "proga (kot črta), kot na tigru",
+    "sv": "en strimma (som en linje), som på tigern",
+    "tr": "kaplanda olduğu gibi bir çizgi (çizgi gibi)",
+    "uk": "смуга (як лінія), як у тигра",
+    "zh": "虎纹"
+  },
+  "hebrew": "חֲבַרְבֻּרָה",
+  "verses": [
+    "jeremiah 13:23:4"
+  ]
+}

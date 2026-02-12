@@ -1,0 +1,42 @@
+{
+  "number": "H8652",
+  "language": "hebrew",
+  "transliteration": "târâʻ",
+  "pronunciation": "taw-raw'",
+  "definition": "a doorkeeper",
+  "kjvTranslation": "porter.",
+  "hebrew": "תָּרָע",
+  "translations": {
+    "bg": "пазач на вратата",
+    "cs": "vrátný",
+    "da": "en dørvogter",
+    "de": "ein Türhüter",
+    "el": "ένας θυρωρός",
+    "es": "un portero",
+    "et": "uksehoidja",
+    "fi": "ovenvartija",
+    "fr": "un portier",
+    "hu": "egy ajtónálló",
+    "id": "penjaga pintu",
+    "it": "un portiere",
+    "ja": "玄関番",
+    "ko": "문지기",
+    "lt": "durų sargas",
+    "lv": "durvju sargs",
+    "nb": "en dørvokter",
+    "nl": "een portier",
+    "pl": "odźwierny",
+    "pt": "um porteiro",
+    "ro": "un portar",
+    "ru": "привратник",
+    "sk": "vrátnik",
+    "sl": "vratar",
+    "sv": "en dörrvakt",
+    "tr": "bir kapıcı",
+    "uk": "швейцар",
+    "zh": "守门人"
+  },
+  "verses": [
+    "ezra 7:24:7"
+  ]
+}

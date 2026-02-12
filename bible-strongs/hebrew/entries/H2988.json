@@ -1,0 +1,43 @@
+{
+  "number": "H2988",
+  "language": "hebrew",
+  "transliteration": "yâbâl",
+  "pronunciation": "yaw-bawl'",
+  "definition": "a stream",
+  "kjvTranslation": "(water-) course, stream.",
+  "translations": {
+    "bg": "поток",
+    "cs": "proud",
+    "da": "en strøm",
+    "de": "ein Strom",
+    "el": "ένα ρεύμα",
+    "es": "una corriente",
+    "et": "voolu",
+    "fi": "virta",
+    "fr": "un flux",
+    "hu": "egy patak",
+    "id": "aliran",
+    "it": "un flusso",
+    "ja": "流れ",
+    "ko": "스트림",
+    "lt": "srautas",
+    "lv": "straume",
+    "nb": "en strøm",
+    "nl": "een stroom",
+    "pl": "strumień",
+    "pt": "um fluxo",
+    "ro": "un flux",
+    "ru": "поток",
+    "sk": "prúd",
+    "sl": "tok",
+    "sv": "en ström",
+    "tr": "bir dere",
+    "uk": "потік",
+    "zh": "一股"
+  },
+  "hebrew": "יָבָל",
+  "verses": [
+    "isaiah 30:25:10",
+    "isaiah 44:4:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2567",
+  "language": "hebrew",
+  "transliteration": "châmash",
+  "pronunciation": "khaw-mash'",
+  "definition": "to tax a fifth",
+  "kjvTranslation": "take up the fifth participle",
+  "translations": {
+    "bg": "да обложи с данък една пета",
+    "cs": "zdanit pětinu",
+    "da": "at beskatte en femtedel",
+    "de": "ein Fünftel zu besteuern",
+    "el": "να φορολογήσει το ένα πέμπτο",
+    "es": "gravar una quinta parte",
+    "et": "maksustada viiendik",
+    "fi": "verottaa viidesosa",
+    "fr": "de taxer un cinquième",
+    "hu": "megadóztatni egy ötödét",
+    "id": "untuk mengenakan pajak seperlima",
+    "it": "per tassare un quinto",
+    "ja": "5分の1に課税する",
+    "ko": "다섯 번째",
+    "lt": "apmokestinti penktadalį",
+    "lv": "aplikt ar nodokli piekto daļu",
+    "nb": "å skattlegge en femtedel",
+    "nl": "een vijfde te belasten",
+    "pl": "opodatkować jedną piątą",
+    "pt": "para tributar um quinto",
+    "ro": "să impoziteze o cincime",
+    "ru": "обложить налогом пятую часть",
+    "sk": "zdaniť pätinu",
+    "sl": "obdavčiti petino",
+    "sv": "att beskatta en femtedel",
+    "tr": "beşte birini vergilendirmek için",
+    "uk": "оподатковувати п'яту частину",
+    "zh": "征收五分之一"
+  },
+  "hebrew": "חָמַשׁ",
+  "verses": [
+    "genesis 41:34:6"
+  ]
+}

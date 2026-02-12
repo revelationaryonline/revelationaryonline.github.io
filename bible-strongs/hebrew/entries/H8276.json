@@ -1,0 +1,43 @@
+{
+  "number": "H8276",
+  "language": "hebrew",
+  "transliteration": "sârag",
+  "pronunciation": "saw-rag'",
+  "definition": "to intwine",
+  "kjvTranslation": "wrap together, wreath.",
+  "hebrew": "שָׂרַג",
+  "translations": {
+    "bg": "да се вплете",
+    "cs": "propojit",
+    "da": "at intvine",
+    "de": "ineinandergreifen zu lassen",
+    "el": "να συνυπάρχουν",
+    "es": "entrelazar",
+    "et": "kokku põimida",
+    "fi": "yhdistää",
+    "fr": "à mélanger",
+    "hu": "összefonódni",
+    "id": "untuk menjalin",
+    "it": "intrecciare",
+    "ja": "イントゥワイン",
+    "ko": "엮다",
+    "lt": "sujungti",
+    "lv": "savienot",
+    "nb": "å intwine",
+    "nl": "samensmelten",
+    "pl": "intwine",
+    "pt": "para entrelaçar",
+    "ro": "a împleti",
+    "ru": "переплетаться",
+    "sk": "na prepojenie",
+    "sl": "za prepletanje",
+    "sv": "till intwine",
+    "tr": "iç içe geçmek",
+    "uk": "переплестися",
+    "zh": "交织"
+  },
+  "verses": [
+    "job 40:17:7",
+    "lamentations 1:14:4"
+  ]
+}

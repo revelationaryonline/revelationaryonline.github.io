@@ -1,0 +1,42 @@
+{
+  "number": "H6609",
+  "language": "hebrew",
+  "transliteration": "pᵉthichâh",
+  "pronunciation": "peth-ee-khaw'",
+  "definition": "something opened, i.e. a drawn sword",
+  "kjvTranslation": "drawn sword.",
+  "hebrew": "פְּתִחָה",
+  "translations": {
+    "bg": "нещо отворено, напр. изваден меч",
+    "cs": "něco otevřeného, např. tasený meč",
+    "da": "noget, der er åbnet, f.eks. et trukket sværd",
+    "de": "etwas Geöffnetes, z. B. ein gezogenes Schwert",
+    "el": "κάτι ανοιχτό, π.χ. ένα τραβηγμένο σπαθί",
+    "es": "algo abierto, es decir, una espada desenvainada",
+    "et": "midagi avatud, st tõmmatud mõõk",
+    "fi": "jotakin avattua, esim. vedetty miekka",
+    "fr": "quelque chose d'ouvert, par exemple une épée dégainée",
+    "hu": "valami kinyílt, pl. egy kivont kard",
+    "id": "sesuatu yang terbuka, yaitu pedang yang terhunus",
+    "it": "qualcosa di aperto, ad esempio una spada sguainata",
+    "ja": "抜き身",
+    "ko": "무언가 열린 것, 즉 칼을 뽑은 것",
+    "lt": "kažkas atidarytas, t. y. ištrauktas kardas",
+    "lv": "kaut kas atvērts, t.i., izvilkts zobens",
+    "nb": "noe åpnet, f.eks. et trukket sverd",
+    "nl": "iets geopend, bijv. een getrokken zwaard",
+    "pl": "coś otwartego, np. wyciągnięty miecz",
+    "pt": "algo aberto, ou seja, uma espada desembainhada",
+    "ro": "ceva deschis, de exemplu o sabie scoasă",
+    "ru": "что-то открытое, т.е. нарисованный меч",
+    "sk": "niečo otvorené, t. j. vytasený meč",
+    "sl": "nekaj odprtega, npr. izvlečen meč",
+    "sv": "något som öppnas, t.ex. ett draget svärd",
+    "tr": "açılmış bir şey, örneğin çekilmiş bir kılıç",
+    "uk": "щось відкрилося, тобто витягнутий меч",
+    "zh": "打开的东西，即拔出的剑"
+  },
+  "verses": [
+    "psalms 55:22:9"
+  ]
+}

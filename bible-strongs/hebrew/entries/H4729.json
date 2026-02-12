@@ -1,0 +1,42 @@
+{
+  "number": "H4729",
+  "language": "hebrew",
+  "transliteration": "miqṭâr",
+  "pronunciation": "mik-tawr'",
+  "definition": "something to fume (incense) on i.e. a hearth place",
+  "kjvTranslation": "to burn...upon.",
+  "hebrew": "מִקְטָר",
+  "translations": {
+    "bg": "нещо, върху което да се дими (кади), т.е. място за огнище",
+    "cs": "něco, z čeho se kouří (kadidlo), tj. ohniště",
+    "da": "noget at ryge (røgelse) på, f.eks. et ildsted",
+    "de": "etwas zum Räuchern (Weihrauch), z. B. eine Feuerstelle",
+    "el": "κάτι για να καπνίζετε (θυμίαμα), π.χ. μια εστία",
+    "es": "algo sobre lo que humear (incienso), es decir, un hogar",
+    "et": "midagi, mille peal suitsutada (suitsutada), st. kaminaplats",
+    "fi": "jotain, jossa voi suitsuttaa (suitsuketta), esim. tulisija",
+    "fr": "quelque chose à enfumer (encens), c'est-à-dire un foyer",
+    "hu": "valami, amin füstölni (füstölni) lehet, pl. tűzhely",
+    "id": "sesuatu yang digunakan untuk mengepulkan asap (dupa), yaitu tempat perapian",
+    "it": "qualcosa su cui fumare (incenso), ad esempio un focolare",
+    "ja": "竈",
+    "ko": "연기를 내뿜는 것(향), 즉 난로 장소",
+    "lt": "kažkas, ant ko galima smilkyti, t. y. židinys",
+    "lv": "kaut kas, uz kā kūpināt (vīraku), t.i., ugunskura vieta",
+    "nb": "noe å røyke (røkelse) på, f.eks. et ildsted",
+    "nl": "iets om op te dampen (wierook) d.w.z. een haardplaats",
+    "pl": "coś do palenia (kadzidło), np. palenisko",
+    "pt": "algo sobre o qual se pode deitar fumo (incenso), ou seja, uma lareira",
+    "ro": "ceva pe care se fumează (tămâie), de exemplu o vatră",
+    "ru": "то, на чем можно воскурить (благовония), т.е. место для очага",
+    "sk": "niečo, z čoho sa dymí (kadidlo), t. j. ohnisko",
+    "sl": "nekaj, na čemer se kadi, npr. ognjišče",
+    "sv": "något att röka (rökelse) på, t.ex. en härdplats",
+    "tr": "üzerinde tütsü yapılacak bir şey, yani bir ocak yeri",
+    "uk": "щось, над чим можна кадити (пахощі), тобто місце для вогнища",
+    "zh": "熏炉"
+  },
+  "verses": [
+    "exodus 30:1:2"
+  ]
+}

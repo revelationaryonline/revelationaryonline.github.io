@@ -1,0 +1,42 @@
+{
+  "number": "H7859",
+  "language": "hebrew",
+  "transliteration": "shᵉṭar",
+  "pronunciation": "shet-ar'",
+  "definition": "a side",
+  "kjvTranslation": "side.",
+  "hebrew": "שְׁטַר",
+  "translations": {
+    "bg": "страна",
+    "cs": "strana",
+    "da": "en side",
+    "de": "eine Seite",
+    "el": "μια πλευρά",
+    "es": "un lado",
+    "et": "külg",
+    "fi": "puoli",
+    "fr": "un côté",
+    "hu": "egy oldal",
+    "id": "sebuah sisi",
+    "it": "a lato",
+    "ja": "側面",
+    "ko": "한 쪽",
+    "lt": "pusė",
+    "lv": "sānu",
+    "nb": "a side",
+    "nl": "een kant",
+    "pl": "strona",
+    "pt": "um lado",
+    "ro": "o parte",
+    "ru": "сторона",
+    "sk": "strana",
+    "sl": "stran",
+    "sv": "en sida",
+    "tr": "bir taraf",
+    "uk": "бік",
+    "zh": "一面"
+  },
+  "verses": [
+    "daniel 7:5:6"
+  ]
+}

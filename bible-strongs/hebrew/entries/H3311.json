@@ -1,0 +1,42 @@
+{
+  "number": "H3311",
+  "language": "hebrew",
+  "transliteration": "Yaphlêṭîy",
+  "pronunciation": "yaf-lay-tee'",
+  "definition": "a Japhletite or descendant of Japhlet",
+  "kjvTranslation": "Japhleti.",
+  "translations": {
+    "bg": "яфлетист или потомък на Яфлет",
+    "cs": "jafletovec nebo potomek Jafleta",
+    "da": "en japhletit eller efterkommer af Japhlet",
+    "de": "ein Japhletit oder Nachkomme von Japhlet",
+    "el": "japhletite ή απόγονος του Japhlet",
+    "es": "japhletita o descendiente de Japhlet",
+    "et": "jafletlane või jafleti järeltulija",
+    "fi": "jafletilainen tai jafletin jälkeläinen",
+    "fr": "un Japhletite ou un descendant de Japhlet",
+    "hu": "japhletita vagy Japhlet leszármazottja",
+    "id": "orang Japhlet atau keturunan Japhlet",
+    "it": "un Giafleto o un discendente di Giafleto",
+    "ja": "ヤフレット人またはヤフレットの子孫",
+    "ko": "자플렛족 또는 자플렛의 후손",
+    "lt": "jafletietis arba Jafleto palikuonis",
+    "lv": "jafletietis vai jafletiešu pēcnācējs",
+    "nb": "en jafletitt eller etterkommer av Jaflet",
+    "nl": "een Japhletiet of afstammeling van Japhlet",
+    "pl": "japhletite lub potomek Japhleta",
+    "pt": "um jafletita ou descendente de Jaflete",
+    "ro": "japhletită sau descendentă a lui Japhlet",
+    "ru": "иафлет или потомок Иафлета",
+    "sk": "jafletovec alebo Jafletov potomok",
+    "sl": "jafletovec ali Jafletov potomec",
+    "sv": "en Japhletite eller ättling till Japhlet",
+    "tr": "bir Japhletite veya Japhlet'in soyundan",
+    "uk": "яфлетієць або нащадок яфлетіїв",
+    "zh": "Japhlet人或Japhlet的后裔"
+  },
+  "hebrew": "יַפְלֵטִי",
+  "verses": [
+    "joshua 16:3:4"
+  ]
+}

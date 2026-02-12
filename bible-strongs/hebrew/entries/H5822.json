@@ -1,0 +1,43 @@
+{
+  "number": "H5822",
+  "language": "hebrew",
+  "transliteration": "ʻoznîyâh",
+  "pronunciation": "oz-nee-yaw'",
+  "definition": "probably the sea-eagle (from its strength)",
+  "kjvTranslation": "ospray.",
+  "hebrew": "עׇזְנִיָּה",
+  "translations": {
+    "bg": "вероятно морският орел (заради силата му)",
+    "cs": "pravděpodobně orel mořský (podle jeho síly)",
+    "da": "sandsynligvis havørnen (på grund af dens styrke)",
+    "de": "wahrscheinlich der Seeadler (von seiner Stärke her)",
+    "el": "πιθανώς ο θαλάσσιος αετός (από τη δύναμή του)",
+    "es": "probablemente el águila marina (por su fuerza)",
+    "et": "ilmselt merikotkas (oma tugevuse tõttu)",
+    "fi": "luultavasti merikotka (sen voimakkuuden perusteella)",
+    "fr": "probablement l'aigle de mer (en raison de sa force)",
+    "hu": "valószínűleg a tengeri sas (az erejéből adódóan)",
+    "id": "mungkin elang laut (dari kekuatannya)",
+    "it": "probabilmente l'aquila di mare (per la sua forza)",
+    "ja": "おそらく海鷲",
+    "ko": "아마도 바다 독수리(그 힘에서)",
+    "lt": "tikriausiai jūrinis erelis (dėl jo jėgos)",
+    "lv": "iespējams, jūras ērglis (pēc tā spēka)",
+    "nb": "sannsynligvis havørnen (på grunn av dens styrke)",
+    "nl": "waarschijnlijk de zeearend (vanwege zijn kracht)",
+    "pl": "prawdopodobnie orzeł morski (ze względu na swoją siłę)",
+    "pt": "provavelmente a águia-marinha (pela sua força)",
+    "ro": "probabil vulturul de mare (din cauza forței sale)",
+    "ru": "вероятно, морской орел (из-за его силы)",
+    "sk": "pravdepodobne orol morský (podľa jeho sily)",
+    "sl": "verjetno morski orel (zaradi njegove moči)",
+    "sv": "förmodligen havsörnen (på grund av dess styrka)",
+    "tr": "muhtemelen deniz kartalı (gücünden dolayı)",
+    "uk": "ймовірно, орлан (судячи з його сили)",
+    "zh": "可能是海鹰"
+  },
+  "verses": [
+    "leviticus 11:13:14",
+    "deuteronomy 14:12:7"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3697",
+  "language": "hebrew",
+  "transliteration": "kâçam",
+  "pronunciation": "kaw-sam'",
+  "definition": "to shear",
+  "kjvTranslation": "[idiom] only, poll. Compare H3765 (כִּרְסֵם).",
+  "translations": {
+    "bg": "да се срязва",
+    "cs": "ke střihu",
+    "da": "til at klippe",
+    "de": "zu scheren",
+    "el": "σε διάτμηση",
+    "es": "cizallar",
+    "et": "lõigata",
+    "fi": "leikkaukseen",
+    "fr": "de cisailler",
+    "hu": "nyírásra",
+    "id": "untuk geser",
+    "it": "al taglio",
+    "ja": "剪断する",
+    "ko": "전단",
+    "lt": "kirpti",
+    "lv": "griešanai",
+    "nb": "å skjære",
+    "nl": "om te knippen",
+    "pl": "do ścinania",
+    "pt": "para cisalhar",
+    "ro": "la forfecare",
+    "ru": "сдвигаться",
+    "sk": "na strihanie",
+    "sl": "za striženje",
+    "sv": "för att skjuta",
+    "tr": "kesmek için",
+    "uk": "щоб зрізати",
+    "zh": "剪切"
+  },
+  "hebrew": "כָּסַם",
+  "verses": [
+    "ezekiel 44:20:6",
+    "ezekiel 44:20:7"
+  ]
+}

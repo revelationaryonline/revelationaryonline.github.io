@@ -1,0 +1,42 @@
+{
+  "number": "H7544",
+  "language": "hebrew",
+  "transliteration": "reqach",
+  "pronunciation": "reh'-kakh",
+  "definition": "properly, perfumery, i.e. (by implication) spicery (for flavor)",
+  "kjvTranslation": "spiced.",
+  "hebrew": "רֶקַח",
+  "translations": {
+    "bg": "правилно, парфюмерия, т.е. (по подразбиране) подправки (за аромат)",
+    "cs": "správně parfumerie, tj. (implicitně) koření (pro chuť)",
+    "da": "korrekt, parfumeri, dvs. (underforstået) krydderi (for smag)",
+    "de": "richtig, Parfümerie, d.h. (implizit) Gewürzkunde (für Geschmack)",
+    "el": "σωστά, αρωματοποιία, δηλαδή (κατ' επέκταση) μπαχαρικό (για γεύση)",
+    "es": "propiamente, perfumería, es decir (implícitamente) especiería (para dar sabor)",
+    "et": "õigesti, parfümeeriat, st (kaudselt) vürtsitamist (maitsestamiseks)",
+    "fi": "oikein, hajuvesi, eli (implisiittisesti) mausteisuus (maun vuoksi)",
+    "fr": "proprement, parfumerie, c'est-à-dire (par implication) épicerie (pour la saveur)",
+    "hu": "megfelelően, parfüméria, azaz (értelemszerűen) fűszerészet (az ízesítés érdekében)",
+    "id": "benar, wewangian, yaitu (dengan implikasi) rempah-rempah (untuk rasa)",
+    "it": "propriamente, profumeria, cioè (per implicazione) spezieria (per il sapore)",
+    "ja": "正しくは、香水、すなわち（暗に）スパイス（風味付けのため）。",
+    "ko": "적절하게, 향료, 즉 (암시적으로) 매운맛(풍미용)",
+    "lt": "tinkamai, parfumerija, t. y. (netiesiogiai) prieskoniai (dėl skonio)",
+    "lv": "pareizi, parfimērija, t.i., (netieši) garšvielas (aromātam)",
+    "nb": "egentlig parfymeri, dvs. (underforstått) krydderi (for smak)",
+    "nl": "goed, parfumerie, d.w.z. (impliciet) kruiden (voor de smaak)",
+    "pl": "właściwie, perfumeria, tj. (w domyśle) pikantność (dla smaku)",
+    "pt": "propriamente dito, perfumaria, ou seja, (implicitamente) picante (para dar sabor)",
+    "ro": "propriu-zis, parfumerie, adică (implicit) spicerie (pentru aromă)",
+    "ru": "правильно, парфюмерия, т.е. (по косвенным признакам) пряность (для аромата)",
+    "sk": "správne, parfuméria, t. j. (implicitne) korenistika (pre chuť)",
+    "sl": "pravilno, parfumerija, tj. (implicitno) začimbe (za okus)",
+    "sv": "egentligen parfymeri, dvs. (underförstått) kryddning (för smak)",
+    "tr": "uygun şekilde, parfümeri, yani (ima yoluyla) baharatçılık (lezzet için)",
+    "uk": "власне, парфумерія, тобто (неявно) спеції (для аромату)",
+    "zh": "正确地说，香水，即（暗示）香料（调味）"
+  },
+  "verses": [
+    "solomon 8:2:8"
+  ]
+}

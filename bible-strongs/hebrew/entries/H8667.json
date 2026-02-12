@@ -1,0 +1,42 @@
+{
+  "number": "H8667",
+  "language": "hebrew",
+  "transliteration": "tᵉsûwmeth",
+  "pronunciation": "tes-oo-meth'",
+  "definition": "a deposit, i.e. pledging",
+  "kjvTranslation": "[phrase] fellowship.",
+  "hebrew": "תְּשׂוּמֶת",
+  "translations": {
+    "bg": "депозит, т.е. залог",
+    "cs": "vklad, tj. zástava",
+    "da": "et depositum, dvs. pantsætning",
+    "de": "ein Pfand, d.h. eine Verpfändung",
+    "el": "κατάθεση, δηλαδή δέσμευση",
+    "es": "un depósito, es decir, pignorar",
+    "et": "tagatisraha, s.t. pantimine",
+    "fi": "talletus eli panttaus",
+    "fr": "un dépôt, c'est-à-dire une mise en gage",
+    "hu": "letétbe helyezés, azaz zálogba adás",
+    "id": "deposito, yaitu menjaminkan",
+    "it": "un deposito, cioè la costituzione in pegno",
+    "ja": "保証金、すなわち質権",
+    "ko": "보증금, 즉 서약금",
+    "lt": "užstatas, t. y. įkeitimas",
+    "lv": "depozīts, t. i., ķīla",
+    "nb": "et depositum, dvs. pantsettelse",
+    "nl": "een waarborgsom, d.w.z. in pand geven",
+    "pl": "depozyt, tj. zastawienie",
+    "pt": "um depósito, ou seja, o penhor",
+    "ro": "un depozit, adică gajarea",
+    "ru": "депозит, т.е. залог",
+    "sk": "vklad, t. j. záložné právo",
+    "sl": "depozit, tj. zastavitev",
+    "sv": "en deposition, dvs. pantsättning",
+    "tr": "depozito, yani rehin verme",
+    "uk": "депозит, тобто заставу",
+    "zh": "存款，即质押"
+  },
+  "verses": [
+    "leviticus 5:21:10"
+  ]
+}

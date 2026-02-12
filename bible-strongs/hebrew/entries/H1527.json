@@ -1,0 +1,43 @@
+{
+  "number": "H1527",
+  "language": "hebrew",
+  "transliteration": "Gîynath",
+  "pronunciation": "ghee-nath'",
+  "definition": "Ginath, an Israelite",
+  "kjvTranslation": "Ginath.",
+  "translations": {
+    "bg": "Гинат, израилтянин",
+    "cs": "Ginat, Izraelita",
+    "da": "Ginath, en israelit",
+    "de": "Ginath, ein Israelit",
+    "el": "Ginath, ένας Ισραηλίτης",
+    "es": "Ginath, israelita",
+    "et": "Ginath, iisraellane",
+    "fi": "Ginat, israelilainen",
+    "fr": "Ginath, Israélite",
+    "hu": "Gináth, izraelita",
+    "id": "Ginath, seorang Israel",
+    "it": "Ginath, un israelita",
+    "ja": "ジナート イスラエル人",
+    "ko": "이스라엘인 기낫",
+    "lt": "Ginatas, izraelitas",
+    "lv": "Ginats, izraēlietis",
+    "nb": "Ginath, en israelitt",
+    "nl": "Ginath, een Israëliet",
+    "pl": "Ginath, Izraelita",
+    "pt": "Ginate, israelita",
+    "ro": "Ginath, un israelit",
+    "ru": "Гинат, израильтянин",
+    "sk": "Ginat, Izraelita",
+    "sl": "Ginat, Izraelec",
+    "sv": "Ginath, en israelit",
+    "tr": "Ginath, bir İsrailli",
+    "uk": "Гінат, ізраїльтянин",
+    "zh": "基纳特，以色列人"
+  },
+  "hebrew": "גִּינַת",
+  "verses": [
+    "firstKings 16:21:11",
+    "firstKings 16:22:11"
+  ]
+}

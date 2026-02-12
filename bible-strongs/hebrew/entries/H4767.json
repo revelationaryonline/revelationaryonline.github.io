@@ -1,0 +1,42 @@
+{
+  "number": "H4767",
+  "language": "hebrew",
+  "transliteration": "mirbâh",
+  "pronunciation": "meer-baw'",
+  "definition": "abundance, i.e. a great quantity",
+  "kjvTranslation": "much.",
+  "hebrew": "מִרְבָּה",
+  "translations": {
+    "bg": "изобилие, т.е. голямо количество",
+    "cs": "hojnost, tj. velké množství",
+    "da": "overflod, dvs. en stor mængde",
+    "de": "überfluss, d.h. eine große Menge",
+    "el": "αφθονία, δηλαδή μεγάλη ποσότητα",
+    "es": "abundancia, es decir, una gran cantidad",
+    "et": "arvukus, st suur kogus",
+    "fi": "runsaus eli suuri määrä",
+    "fr": "l'abondance, c'est-à-dire une grande quantité",
+    "hu": "bőség, azaz nagy mennyiség",
+    "id": "kelimpahan, yaitu jumlah yang banyak",
+    "it": "abbondanza, cioè una grande quantità",
+    "ja": "夥しい",
+    "ko": "풍요로움, 즉 많은 양의",
+    "lt": "gausa, t. y. didelis kiekis",
+    "lv": "pārpilnība, t.i., liels daudzums",
+    "nb": "overflod, dvs. en stor mengde",
+    "nl": "overvloed, d.w.z. een grote hoeveelheid",
+    "pl": "obfitość, tj. duża ilość",
+    "pt": "abundância, ou seja, uma grande quantidade",
+    "ro": "abundență, adică o cantitate mare",
+    "ru": "изобилие, т.е. большое количество",
+    "sk": "hojnosť, t. j. veľké množstvo",
+    "sl": "obilje, tj. velika količina",
+    "sv": "överflöd, d.v.s. en stor mängd",
+    "tr": "bolluk, yani büyük bir miktar",
+    "uk": "достаток, тобто велика кількість",
+    "zh": "丰，即大量"
+  },
+  "verses": [
+    "ezekiel 23:32:12"
+  ]
+}

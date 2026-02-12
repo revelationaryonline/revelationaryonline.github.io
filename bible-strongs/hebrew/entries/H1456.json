@@ -1,0 +1,42 @@
+{
+  "number": "H1456",
+  "language": "hebrew",
+  "transliteration": "gêhâh",
+  "pronunciation": "gay-haw'",
+  "definition": "a cure",
+  "kjvTranslation": "medicine.",
+  "translations": {
+    "bg": "лек",
+    "cs": "lék",
+    "da": "en kur",
+    "de": "ein Heilmittel",
+    "el": "μια θεραπεία",
+    "es": "una cura",
+    "et": "ravi",
+    "fi": "parannuskeino",
+    "fr": "une cure",
+    "hu": "gyógymód",
+    "id": "obat",
+    "it": "una cura",
+    "ja": "治療法",
+    "ko": "치료",
+    "lt": "vaistas",
+    "lv": "izārstēt",
+    "nb": "en kur",
+    "nl": "genezing",
+    "pl": "lekarstwo",
+    "pt": "uma cura",
+    "ro": "o cură",
+    "ru": "лекарство",
+    "sk": "liek",
+    "sl": "zdravilo",
+    "sv": "ett botemedel",
+    "tr": "bir tedavi",
+    "uk": "ліки",
+    "zh": "治疗"
+  },
+  "hebrew": "גֵּהָה",
+  "verses": [
+    "proverbs 17:22:3"
+  ]
+}

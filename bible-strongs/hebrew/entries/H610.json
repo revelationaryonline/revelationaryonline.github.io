@@ -1,0 +1,42 @@
+{
+  "number": "H610",
+  "language": "hebrew",
+  "transliteration": "ʼâçûwk",
+  "pronunciation": "aw-sook'",
+  "definition": "anointed, i.e. an oil-flask",
+  "kjvTranslation": "pot.",
+  "translations": {
+    "bg": "помазан, т.е. маслена чаша",
+    "cs": "pomazaný, tj. nádoba s olejem",
+    "da": "salvet, dvs. en olieflaske",
+    "de": "gesalbt, d.h. ein Ölfläschchen",
+    "el": "χρισμένο, δηλαδή μια φιάλη με λάδι",
+    "es": "ungido, es decir, un frasco de aceite",
+    "et": "võitud, st õlikolb",
+    "fi": "voideltu, eli öljypullo",
+    "fr": "oint, c'est-à-dire une fiole d'huile",
+    "hu": "felkent, azaz olajos flaska",
+    "id": "diurapi, yaitu labu minyak",
+    "it": "unto, cioè un flacone di olio",
+    "ja": "油注ぎ",
+    "ko": "기름 부음, 즉 기름병",
+    "lt": "pateptas, t. y. aliejaus indas",
+    "lv": "svaidīts, t.i., eļļas kolba",
+    "nb": "salvet, dvs. en oljeflaske",
+    "nl": "gezalfd, d.w.z. een olieflesje",
+    "pl": "namaszczony, tj. pojemnik na olej",
+    "pt": "ungido, ou seja, um frasco de óleo",
+    "ro": "uns, adică un vas cu ulei",
+    "ru": "помазанник, т.е. сосуд с маслом",
+    "sk": "pomazaný, t. j. nádoba s olejom",
+    "sl": "maziljenec, tj. posoda z oljem",
+    "sv": "smord, d.v.s. en oljeflaska",
+    "tr": "meshedilmiş, yani bir yağ tası",
+    "uk": "помазаник, тобто олійницю",
+    "zh": "受膏者，即油瓶"
+  },
+  "hebrew": "אָסוּךְ",
+  "verses": [
+    "secondKings 4:2:20"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1773",
+  "language": "hebrew",
+  "transliteration": "dᵉyôw",
+  "pronunciation": "deh-yo'",
+  "definition": "ink",
+  "kjvTranslation": "ink.",
+  "translations": {
+    "bg": "мастило",
+    "cs": "inkoust",
+    "da": "blæk",
+    "de": "tinte",
+    "el": "μελάνι",
+    "es": "tinta",
+    "et": "tint",
+    "fi": "muste",
+    "fr": "encre",
+    "hu": "tinta",
+    "id": "tinta",
+    "it": "inchiostro",
+    "ja": "インク",
+    "ko": "잉크",
+    "lt": "rašalas",
+    "lv": "tinte",
+    "nb": "blekk",
+    "nl": "inkt",
+    "pl": "atrament",
+    "pt": "tinta",
+    "ro": "cerneală",
+    "ru": "чернила",
+    "sk": "atrament",
+    "sl": "črnilo",
+    "sv": "bläck",
+    "tr": "mürekkep",
+    "uk": "чорнило",
+    "zh": "墨水"
+  },
+  "hebrew": "דְּיוֹ",
+  "verses": [
+    "jeremiah 36:18:14"
+  ]
+}

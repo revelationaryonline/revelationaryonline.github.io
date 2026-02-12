@@ -1,0 +1,42 @@
+{
+  "number": "H6350",
+  "language": "hebrew",
+  "transliteration": "pachăzûwth",
+  "pronunciation": "pakh-az-ooth'",
+  "definition": "frivolity",
+  "kjvTranslation": "lightness.",
+  "hebrew": "פַּחֲזוּת",
+  "translations": {
+    "bg": "фриволност",
+    "cs": "frivolita",
+    "da": "letsindighed",
+    "de": "leichtsinn",
+    "el": "επιπολαιότητα",
+    "es": "frivolidad",
+    "et": "kergemeelsus",
+    "fi": "kevytmielisyys",
+    "fr": "frivolité",
+    "hu": "frivolság",
+    "id": "kesembronoan",
+    "it": "frivolezza",
+    "ja": "浮華",
+    "ko": "경박함",
+    "lt": "lengvabūdiškumas",
+    "lv": "vieglprātība",
+    "nb": "lettsindighet",
+    "nl": "frivoliteit",
+    "pl": "frywolność",
+    "pt": "frivolidade",
+    "ro": "frivolitate",
+    "ru": "легкомысленность",
+    "sk": "frivolnosť",
+    "sl": "frivolnost",
+    "sv": "frivolitet",
+    "tr": "anlamsızlık",
+    "uk": "легковажність",
+    "zh": "浮气"
+  },
+  "verses": [
+    "jeremiah 23:32:12"
+  ]
+}

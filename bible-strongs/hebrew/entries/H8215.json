@@ -1,0 +1,42 @@
+{
+  "number": "H8215",
+  "language": "hebrew",
+  "transliteration": "shᵉphal",
+  "pronunciation": "shef-al'",
+  "definition": "low",
+  "kjvTranslation": "basest.",
+  "hebrew": "שְׁפַל",
+  "translations": {
+    "bg": "нисък",
+    "cs": "nízká",
+    "da": "lav",
+    "de": "niedrig",
+    "el": "χαμηλή",
+    "es": "bajo",
+    "et": "madal",
+    "fi": "alhainen",
+    "fr": "faible",
+    "hu": "alacsony",
+    "id": "rendah",
+    "it": "basso",
+    "ja": "ロー",
+    "ko": "낮음",
+    "lt": "mažas",
+    "lv": "zems",
+    "nb": "lav",
+    "nl": "laag",
+    "pl": "niski",
+    "pt": "baixo",
+    "ro": "scăzut",
+    "ru": "низкий",
+    "sk": "nízka",
+    "sl": "nizka",
+    "sv": "låg",
+    "tr": "düşük",
+    "uk": "низький",
+    "zh": "低"
+  },
+  "verses": [
+    "daniel 4:14:22"
+  ]
+}

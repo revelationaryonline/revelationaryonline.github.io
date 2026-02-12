@@ -1,0 +1,42 @@
+{
+  "number": "H2514",
+  "language": "hebrew",
+  "transliteration": "chălaqqâh",
+  "pronunciation": "khal-ak-kaw'",
+  "definition": "flattery",
+  "kjvTranslation": "flattery.",
+  "translations": {
+    "bg": "ласкателство",
+    "cs": "lichotky",
+    "da": "smiger",
+    "de": "schmeichelei",
+    "el": "κολακεία",
+    "es": "adulación",
+    "et": "meelitus",
+    "fi": "imartelu",
+    "fr": "flatterie",
+    "hu": "hízelgés",
+    "id": "sanjungan",
+    "it": "l'adulazione",
+    "ja": "お世辞",
+    "ko": "아첨",
+    "lt": "liaupsės",
+    "lv": "glaimojošs",
+    "nb": "smiger",
+    "nl": "vleierij",
+    "pl": "pochlebstwo",
+    "pt": "lisonja",
+    "ro": "lingușire",
+    "ru": "лесть",
+    "sk": "lichotenie",
+    "sl": "laskanje",
+    "sv": "smicker",
+    "tr": "dalkavukluk",
+    "uk": "лестощі",
+    "zh": "献媚"
+  },
+  "hebrew": "חֲלַקָּה",
+  "verses": [
+    "daniel 11:32:3"
+  ]
+}

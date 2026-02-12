@@ -1,0 +1,42 @@
+{
+  "number": "H668",
+  "language": "hebrew",
+  "transliteration": "ʼappiryôwn",
+  "pronunciation": "ap-pir-yone'",
+  "definition": "a palanquin",
+  "kjvTranslation": "chariot.",
+  "translations": {
+    "bg": "паланкин",
+    "cs": "palantír",
+    "da": "en palanquin",
+    "de": "eine Sänfte",
+    "el": "ένα παλανκίνο",
+    "es": "un palanquín",
+    "et": "paleokäru",
+    "fi": "kantotuoli",
+    "fr": "un palanquin",
+    "hu": "egy gyaloghintó",
+    "id": "tandu",
+    "it": "un palanchino",
+    "ja": "輿",
+    "ko": "가마",
+    "lt": "palankinas",
+    "lv": "palankīns",
+    "nb": "en palanquin",
+    "nl": "een draagstoel",
+    "pl": "palankin",
+    "pt": "um palanquim",
+    "ro": "un palanchin",
+    "ru": "паланкин",
+    "sk": "palán",
+    "sl": "palankin",
+    "sv": "en palankin",
+    "tr": "bir tahtırevan",
+    "uk": "паланкин",
+    "zh": "轿"
+  },
+  "hebrew": "אַפִּרְיוֹן",
+  "verses": [
+    "solomon 3:9:0"
+  ]
+}

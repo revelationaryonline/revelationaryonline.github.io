@@ -1,0 +1,42 @@
+{
+  "number": "H66",
+  "language": "hebrew",
+  "transliteration": "ʼAbêl Mayim",
+  "pronunciation": "aw-bale' mah'-yim",
+  "definition": "Abel-Majim, a place in Palestine",
+  "kjvTranslation": "Abel-maim.",
+  "translations": {
+    "bg": "Abel-Majim, място в Палестина",
+    "cs": "Abel-Majim, místo v Palestině",
+    "da": "Abel-Majim, et sted i Palæstina",
+    "de": "Abel-Majim, ein Ort in Palästina",
+    "el": "Abel-Majim, τόπος στην Παλαιστίνη",
+    "es": "Abel-Majim, un lugar de Palestina",
+    "et": "Abel-Majim, koht Palestiinas",
+    "fi": "Abel-Majim, paikka Palestiinassa",
+    "fr": "Abel-Majim, lieu en Palestine",
+    "hu": "Abel-Majim, egy hely Palesztinában",
+    "id": "Abel-Majim, sebuah tempat di Palestina",
+    "it": "Abel-Majim, un luogo in Palestina",
+    "ja": "アベル＝マジム（パレスチナの地名",
+    "ko": "팔레스타인의 아벨-마짐, 팔레스타인의 한 장소",
+    "lt": "Abel-Majim, vietovė Palestinoje",
+    "lv": "Abel-Majim, vieta Palestīnā",
+    "nb": "Abel-Majim, et sted i Palestina",
+    "nl": "Abel-Majim, een plaats in Palestina",
+    "pl": "Abel-Majim, miejscowość w Palestynie",
+    "pt": "Abel-Majim, um lugar na Palestina",
+    "ro": "Abel-Majim, un loc în Palestina",
+    "ru": "Абель-Маджим, местечко в Палестине",
+    "sk": "Abel-Majim, miesto v Palestíne",
+    "sl": "Abel-Majim, kraj v Palestini",
+    "sv": "Abel-Majim, en plats i Palestina",
+    "tr": "Abel-Majim, Filistin'de bir yer",
+    "uk": "Абель-Маджим, місце в Палестині",
+    "zh": "亚伯-马吉姆"
+  },
+  "hebrew": "אַבֵל מַיִם",
+  "verses": [
+    "secondChronicles 16:4:22"
+  ]
+}

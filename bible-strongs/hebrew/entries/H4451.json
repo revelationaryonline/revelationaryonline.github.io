@@ -1,0 +1,42 @@
+{
+  "number": "H4451",
+  "language": "hebrew",
+  "transliteration": "malmâd",
+  "pronunciation": "mal-mawd'",
+  "definition": "a goad for oxen",
+  "kjvTranslation": "goad.",
+  "hebrew": "מַלְמָד",
+  "translations": {
+    "bg": "тояга за воловете",
+    "cs": "bidlo pro voly",
+    "da": "en kæp i hjulet på okser",
+    "de": "ein Ansporn für Ochsen",
+    "el": "ένα αλεξίπτωτο για τα βόδια",
+    "es": "un aguijón para bueyes",
+    "et": "härgade jaoks mõeldud ajaviide",
+    "fi": "härkien vauhdittamiseen",
+    "fr": "un aiguillon pour les bœufs",
+    "hu": "ökörhajtás",
+    "id": "sebuah tongkat untuk lembu",
+    "it": "un pungolo per i buoi",
+    "ja": "牛追い",
+    "ko": "소를 위한 고드",
+    "lt": "jaučių vadeliojimo rykštė",
+    "lv": "gūsts vēršiem",
+    "nb": "en gås for okser",
+    "nl": "een goad voor ossen",
+    "pl": "kozioł dla wołów",
+    "pt": "um aguilhão para os bois",
+    "ro": "un stimulent pentru boi",
+    "ru": "повод для волов",
+    "sk": "bidlo pre voly",
+    "sl": "povodec za vole",
+    "sv": "en sporre för oxar",
+    "tr": "öküzler için bir sapan",
+    "uk": "козел для волів",
+    "zh": "辕"
+  },
+  "verses": [
+    "judges 3:31:11"
+  ]
+}

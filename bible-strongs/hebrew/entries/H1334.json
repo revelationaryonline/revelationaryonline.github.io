@@ -1,0 +1,43 @@
+{
+  "number": "H1334",
+  "language": "hebrew",
+  "transliteration": "bâthar",
+  "pronunciation": "baw-thar'",
+  "definition": "to chop up",
+  "kjvTranslation": "divide.",
+  "translations": {
+    "bg": "да нарязвате",
+    "cs": "rozsekat na kousky",
+    "da": "til at hugge op",
+    "de": "zu zerhacken",
+    "el": "για να τεμαχίσω",
+    "es": "trocear",
+    "et": "tükeldada",
+    "fi": "pilkkoa",
+    "fr": "hacher",
+    "hu": "feldarabolni",
+    "id": "untuk memotong",
+    "it": "per sminuzzare",
+    "ja": "刻む",
+    "ko": "잘게 자르다",
+    "lt": "susmulkinti",
+    "lv": "sasmalcināt",
+    "nb": "å hakke opp",
+    "nl": "fijnhakken",
+    "pl": "posiekać",
+    "pt": "para cortar",
+    "ro": "pentru a tăia în bucăți",
+    "ru": "нарезать",
+    "sk": "rozsekávať",
+    "sl": "sesekljati",
+    "sv": "att hugga upp",
+    "tr": "doğramak için",
+    "uk": "розрубати на шматки",
+    "zh": "砍"
+  },
+  "hebrew": "בָּתַר",
+  "verses": [
+    "genesis 15:10:5",
+    "genesis 15:10:16"
+  ]
+}

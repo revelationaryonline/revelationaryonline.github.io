@@ -1,0 +1,42 @@
+{
+  "number": "H5790",
+  "language": "hebrew",
+  "transliteration": "ʻûwth",
+  "pronunciation": "ooth",
+  "definition": "to hasten, i.e. succor",
+  "kjvTranslation": "speak in season.",
+  "hebrew": "עוּת",
+  "translations": {
+    "bg": "да се ускори, т.е. да се подпомогне",
+    "cs": "urychlit, tj. podpořit",
+    "da": "at skynde sig, dvs. hjælpe",
+    "de": "zu eilen, d.h. beizustehen",
+    "el": "να επισπεύδει, δηλαδή να συνδράμει",
+    "es": "apresurar, es decir, socorrer",
+    "et": "kiirendada, st abistada",
+    "fi": "kiirehtiä, ts. avustaa",
+    "fr": "pour hâter, c'est-à-dire aider",
+    "hu": "siettetni, azaz segíteni",
+    "id": "untuk mempercepat, yaitu menolong",
+    "it": "affrettare, cioè soccorrere",
+    "ja": "急がせる",
+    "ko": "서두르다, 즉 숙성하다",
+    "lt": "paskubinti, t. y. pagelbėti",
+    "lv": "paātrināt, t.i., palīdzēt",
+    "nb": "å fremskynde, dvs. hjelpe",
+    "nl": "versnellen, d.w.z. ondersteunen",
+    "pl": "przyspieszyć, tj. pomóc",
+    "pt": "apressar, ou seja, socorrer",
+    "ro": "a grăbi, adică a ajuta",
+    "ru": "спешить, т.е. помогать",
+    "sk": "urýchliť, t. j. pomôcť",
+    "sl": "pohiteti, tj. pomagati",
+    "sv": "att skynda på, dvs. hjälpa",
+    "tr": "hızlandırmak, yani yardım etmek",
+    "uk": "поспішати, тобто допомагати",
+    "zh": "催，即帮助"
+  },
+  "verses": [
+    "isaiah 50:4:7"
+  ]
+}

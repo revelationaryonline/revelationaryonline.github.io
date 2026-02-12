@@ -1,0 +1,42 @@
+{
+  "number": "H2944",
+  "language": "hebrew",
+  "transliteration": "ṭâʻan",
+  "pronunciation": "taw-an'",
+  "definition": "to stab",
+  "kjvTranslation": "thrust through.",
+  "translations": {
+    "bg": "да нанася удари с нож",
+    "cs": "bodnout",
+    "da": "at stikke",
+    "de": "zu stechen",
+    "el": "να μαχαιρώσω",
+    "es": "apuñalar",
+    "et": "torkida",
+    "fi": "puukottaa",
+    "fr": "poignarder",
+    "hu": "szúrni",
+    "id": "untuk menusuk",
+    "it": "pugnalare",
+    "ja": "刺す",
+    "ko": "찌르다",
+    "lt": "dūris peiliu",
+    "lv": "iedurt ar nazi",
+    "nb": "å stikke",
+    "nl": "steken",
+    "pl": "dźgnąć",
+    "pt": "esfaquear",
+    "ro": "a înjunghia",
+    "ru": "колоть",
+    "sk": "bodnúť",
+    "sl": "zabodati",
+    "sv": "att hugga",
+    "tr": "bıçaklamak için",
+    "uk": "щоб зарізати",
+    "zh": "刺"
+  },
+  "hebrew": "טָעַן",
+  "verses": [
+    "isaiah 14:19:7"
+  ]
+}

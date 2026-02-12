@@ -1,0 +1,43 @@
+{
+  "number": "H3951",
+  "language": "hebrew",
+  "transliteration": "leqeṭ",
+  "pronunciation": "leh'-ket",
+  "definition": "the gleaning",
+  "kjvTranslation": "gleaning.",
+  "hebrew": "לֶקֶט",
+  "translations": {
+    "bg": "събирането на реколтата",
+    "cs": "sběr",
+    "da": "indsamlingen",
+    "de": "die Nachlese",
+    "el": "το μάζεμα",
+    "es": "el espigado",
+    "et": "kogumine",
+    "fi": "keräys",
+    "fr": "le glanage",
+    "hu": "a gyűjtés",
+    "id": "pengumpulan",
+    "it": "la spigolatura",
+    "ja": "大掃除",
+    "ko": "수집",
+    "lt": "derliaus nuėmimas",
+    "lv": "vākšana",
+    "nb": "innhøstingen",
+    "nl": "het sprokkelen",
+    "pl": "zbieranie",
+    "pt": "a respiga",
+    "ro": "gletuirea",
+    "ru": "уборка",
+    "sk": "zber",
+    "sl": "pobiranje",
+    "sv": "rensningen",
+    "tr": "tOPLAMA",
+    "uk": "збирання",
+    "zh": "拾荒"
+  },
+  "verses": [
+    "leviticus 19:9:9",
+    "leviticus 23:22:9"
+  ]
+}

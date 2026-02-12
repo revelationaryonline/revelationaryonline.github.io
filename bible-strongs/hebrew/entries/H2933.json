@@ -1,0 +1,42 @@
+{
+  "number": "H2933",
+  "language": "hebrew",
+  "transliteration": "ṭâmâh",
+  "pronunciation": "taw-maw'",
+  "definition": "to be impure in a religious sense",
+  "kjvTranslation": "be defiled, be reputed vile.",
+  "translations": {
+    "bg": "да бъде нечист в религиозен смисъл",
+    "cs": "být nečistý v náboženském smyslu",
+    "da": "at være uren i religiøs forstand",
+    "de": "im religiösen Sinne unrein zu sein",
+    "el": "να είναι ακάθαρτος με θρησκευτική έννοια",
+    "es": "ser impuro en un sentido religioso",
+    "et": "olla usulises mõttes ebapuhas",
+    "fi": "olla epäpuhdas uskonnollisessa mielessä",
+    "fr": "être impur au sens religieux du terme",
+    "hu": "vallási értelemben tisztátalannak lenni",
+    "id": "menjadi tidak murni dalam pengertian agama",
+    "it": "essere impuro in senso religioso",
+    "ja": "宗教的に不浄であること",
+    "ko": "종교적 의미에서 불순하다",
+    "lt": "būti nešvariam religine prasme",
+    "lv": "būt netīram reliģiskā nozīmē",
+    "nb": "å være uren i religiøs forstand",
+    "nl": "onrein zijn in religieuze zin",
+    "pl": "być nieczystym w sensie religijnym",
+    "pt": "ser impuro num sentido religioso",
+    "ro": "a fi impur în sens religios",
+    "ru": "быть нечистым в религиозном смысле",
+    "sk": "byť nečistý v náboženskom zmysle",
+    "sl": "biti nečist v verskem smislu",
+    "sv": "att vara oren i religiös mening",
+    "tr": "dini anlamda saf olmamak",
+    "uk": "бути нечистим у релігійному сенсі",
+    "zh": "宗教意义上的不洁"
+  },
+  "hebrew": "טָמָה",
+  "verses": [
+    "job 18:3:3"
+  ]
+}

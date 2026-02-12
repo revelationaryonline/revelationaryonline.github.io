@@ -1,0 +1,42 @@
+{
+  "number": "H3593",
+  "language": "hebrew",
+  "transliteration": "kîydôwr",
+  "pronunciation": "kee-dore'",
+  "definition": "perhaps tumult",
+  "kjvTranslation": "battle.",
+  "translations": {
+    "bg": "може би вълнение",
+    "cs": "možná vřava",
+    "da": "måske tumult",
+    "de": "vielleicht Tumult",
+    "el": "ίσως αναταραχή",
+    "es": "quizás tumulto",
+    "et": "võib-olla tormi",
+    "fi": "ehkä myllerrystä",
+    "fr": "peut-être le tumulte",
+    "hu": "talán tumultus",
+    "id": "mungkin kekacauan",
+    "it": "forse tumulto",
+    "ja": "物騒",
+    "ko": "아마도 소란",
+    "lt": "galbūt sumaištis",
+    "lv": "varbūt nemieri",
+    "nb": "kanskje tumult",
+    "nl": "misschien tumult",
+    "pl": "być może tumult",
+    "pt": "talvez tumulto",
+    "ro": "poate tumult",
+    "ru": "возможно, беспорядки",
+    "sk": "možno nepokoj",
+    "sl": "morda nemir",
+    "sv": "kanske tumult",
+    "tr": "belki de kargaşa",
+    "uk": "можливо, буйство",
+    "zh": "许是动荡"
+  },
+  "hebrew": "כִּידוֹר",
+  "verses": [
+    "job 15:24:6"
+  ]
+}

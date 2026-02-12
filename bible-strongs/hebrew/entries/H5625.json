@@ -1,0 +1,42 @@
+{
+  "number": "H5625",
+  "language": "hebrew",
+  "transliteration": "Çardîy",
+  "pronunciation": "sar-dee'",
+  "definition": "a Seredite (collectively) or descendants of Sered",
+  "kjvTranslation": "Sardites.",
+  "hebrew": "סַרְדִּי",
+  "translations": {
+    "bg": "а Seredite (колективно) или потомци на Sered",
+    "cs": "a Seredite (společně) nebo potomci Seredů",
+    "da": "en seredit (kollektivt) eller efterkommere af Sered",
+    "de": "ein Seredit (kollektiv) oder Nachkommen von Sered",
+    "el": "seredite (συλλογικά) ή απόγονοι των Sered",
+    "es": "un Seredita (colectivamente) o descendientes de Sered",
+    "et": "seredite (kollektiivselt) või Seredi järeltulijad",
+    "fi": "seredit (kollektiivisesti) tai Seredin jälkeläiset",
+    "fr": "un Seredite (collectivement) ou des descendants de Sered",
+    "hu": "seredita (együttesen) vagy Sered leszármazottai",
+    "id": "orang Sered (secara kolektif) atau keturunan Sered",
+    "it": "un Seredite (collettivamente) o discendenti di Sered",
+    "ja": "セレド人（総称）またはセレドの子孫",
+    "ko": "세레디트(총칭) 또는 세레드의 후손",
+    "lt": "sereditas (bendrai) arba Seredų palikuonys",
+    "lv": "seredite (kopā) vai Seredas pēcteči",
+    "nb": "en Sereditt (kollektivt) eller etterkommere av Sered",
+    "nl": "een Seredite (collectief) of afstammelingen van Sered",
+    "pl": "seredytów (łącznie) lub potomków Seredów",
+    "pt": "um Seredita (coletivamente) ou descendentes de Sered",
+    "ro": "un Seredite (colectiv) sau descendenți ai Sered",
+    "ru": "середиты (все вместе) или потомки Середов",
+    "sk": "serediti (spoločne) alebo potomkovia Seredov",
+    "sl": "a Seredite (skupaj) ali potomci Seredov",
+    "sv": "a Seredite (kollektivt) eller ättlingar till Sered",
+    "tr": "bir Seredite (topluca) veya Sered'in soyundan gelenler",
+    "uk": "серединець (спільно) або нащадок Середа",
+    "zh": "塞雷德人（集体）或塞雷德人的后裔"
+  },
+  "verses": [
+    "numbers 26:26:5"
+  ]
+}

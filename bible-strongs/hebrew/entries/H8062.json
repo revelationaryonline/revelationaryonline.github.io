@@ -1,0 +1,42 @@
+{
+  "number": "H8062",
+  "language": "hebrew",
+  "transliteration": "Shᵉmîydâʻîy",
+  "pronunciation": "shem-ee-daw-ee'",
+  "definition": "a Shemidaite (collectively) or descendants of Shemida",
+  "kjvTranslation": "Shemidaites.",
+  "hebrew": "שְׁמִידָעִי",
+  "translations": {
+    "bg": "шемидаит (колективно) или потомци на Шемида",
+    "cs": "šemidové (souhrnně) nebo potomci Šemidy",
+    "da": "en shemidaite (kollektivt) eller efterkommere af Shemida",
+    "de": "ein Shemidaite (kollektiv) oder Nachkommen von Shemida",
+    "el": "ένας Σεμιδαίος (συλλογικά) ή απόγονοι του Σεμιδαίου",
+    "es": "un shemidaíta (colectivamente) o descendientes de Shemida",
+    "et": "semiidid (kollektiivselt) või semiidide järeltulijad",
+    "fi": "seemiläinen (kollektiivisesti) tai seemiläisten jälkeläiset",
+    "fr": "un Shemidaite (collectivement) ou des descendants de Shemida",
+    "hu": "sémidaita (kollektíven) vagy sémida leszármazottai",
+    "id": "orang Semida (secara kolektif) atau keturunan Semida",
+    "it": "uno Shemidaita (collettivamente) o discendenti di Shemida",
+    "ja": "セミダ人（総称）またはセミダの子孫",
+    "ko": "셰미다이트(총칭) 또는 셰미다의 후손",
+    "lt": "šemidai (bendrai) arba Šemidos palikuonys",
+    "lv": "šemidaīti (kopā) vai Šemidas pēcnācēji",
+    "nb": "en shemidaitt (kollektivt) eller etterkommere av Shemida",
+    "nl": "een Shemidaiet (collectief) of afstammelingen van Shemida",
+    "pl": "szemidaita (łącznie) lub potomkowie Szemidy",
+    "pt": "um Shemidaite (coletivamente) ou descendentes de Shemida",
+    "ro": "un shemidait (colectiv) sau descendenții lui Shemida",
+    "ru": "шемидаиты (собирательно) или потомки Шемиды",
+    "sk": "šemida (spoločne) alebo potomkovia Šemidy",
+    "sl": "šemidajec (skupaj) ali potomci Šemide",
+    "sv": "en shemidaite (kollektivt) eller ättlingar till shemida",
+    "tr": "bir Şemidalı (topluca) veya Şemidalıların soyundan gelenler",
+    "uk": "шемідайтом (разом) або нащадками Шеміди",
+    "zh": "示米达人（统称）或示米达的后裔"
+  },
+  "verses": [
+    "numbers 26:32:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5335",
+  "language": "hebrew",
+  "transliteration": "nᵉtsîyach",
+  "pronunciation": "nets-ee'-akh",
+  "definition": "Netsiach, a Temple-servant",
+  "kjvTranslation": "Neziah.",
+  "hebrew": "נְצִיחַ",
+  "translations": {
+    "bg": "Нециах, служител на храма",
+    "cs": "Netsiach, chrámový služebník",
+    "da": "Netsiach, en tempeltjener",
+    "de": "Netsiach, ein Tempeldiener",
+    "el": "Netsiach, ένας υπηρέτης του Ναού",
+    "es": "Netsiach, un sirviente del Templo",
+    "et": "Netsiach, templi teenija",
+    "fi": "Netsiach, temppelipalvelija",
+    "fr": "Netsiach, serviteur du Temple",
+    "hu": "Netsiach, egy templomi szolga",
+    "id": "Netsiach, seorang pelayan Bait Suci",
+    "it": "Netsiach, un servitore del Tempio",
+    "ja": "神殿に仕えるネツィアハ",
+    "ko": "성전의 종, 네시아흐",
+    "lt": "Netsiach, šventyklos tarnas",
+    "lv": "Netsiah, Tempļa kalps",
+    "nb": "Netsiach, en tempeltjener",
+    "nl": "Netsiach, een tempeldienaar",
+    "pl": "Netsiach, sługa świątynny",
+    "pt": "Netsiach, um servo do Templo",
+    "ro": "Netsiach, un slujitor al Templului",
+    "ru": "Нециах, служитель храма",
+    "sk": "Netsiach, chrámový sluha",
+    "sl": "Netsiach, tempeljski služabnik",
+    "sv": "Netsiach, en tjänare i templet",
+    "tr": "Netsiach, bir tapınak hizmetkarı",
+    "uk": "Нецах, служитель храму",
+    "zh": "圣殿仆人 Netsiach"
+  },
+  "verses": [
+    "ezra 2:54:1",
+    "nehemiah 7:56:1"
+  ]
+}

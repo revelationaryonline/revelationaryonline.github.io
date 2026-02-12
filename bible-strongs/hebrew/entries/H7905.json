@@ -1,0 +1,42 @@
+{
+  "number": "H7905",
+  "language": "hebrew",
+  "transliteration": "sukkâh",
+  "pronunciation": "sook-kaw'",
+  "definition": "a dart (as pointed like a thorn)",
+  "kjvTranslation": "barbed iron.",
+  "hebrew": "שֻׂכָּה",
+  "translations": {
+    "bg": "стрела (заострена като трън)",
+    "cs": "šipka (špičatá jako trn)",
+    "da": "en pil (spids som en torn)",
+    "de": "ein Pfeil (spitz wie ein Dorn)",
+    "el": "ένα βέλος (με αιχμή σαν αγκάθι)",
+    "es": "un dardo (puntiagudo como una espina)",
+    "et": "nool (terav nagu okas)",
+    "fi": "nuoli (terävä kuin piikki)",
+    "fr": "un dard (pointu comme une épine)",
+    "hu": "dárda (hegyes, mint egy tüske)",
+    "id": "anak panah (runcing seperti duri)",
+    "it": "un dardo (appuntito come una spina)",
+    "ja": "とげ",
+    "ko": "다트(가시처럼 뾰족한 것)",
+    "lt": "strėlė (smaili kaip dyglys)",
+    "lv": "šautriņa (kā ērkšķis)",
+    "nb": "en pil (spiss som en torn)",
+    "nl": "een pijl (puntig als een doorn)",
+    "pl": "strzałka (zaostrzona jak cierń)",
+    "pt": "um dardo (pontiagudo como um espinho)",
+    "ro": "o săgeată (ascuțită ca un ghimpe)",
+    "ru": "дротик (заостренный, как шип)",
+    "sk": "šípka (špicatá ako tŕň)",
+    "sl": "puščica (ki je ostra kot trn)",
+    "sv": "en pil (som spetsig som en tagg)",
+    "tr": "bir dart (diken gibi sivri)",
+    "uk": "дротик (загострений, як шип)",
+    "zh": "镖"
+  },
+  "verses": [
+    "job 40:31:1"
+  ]
+}

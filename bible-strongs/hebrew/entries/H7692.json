@@ -1,0 +1,43 @@
+{
+  "number": "H7692",
+  "language": "hebrew",
+  "transliteration": "shiggâyôwn",
+  "pronunciation": "shig-gaw-yone'",
+  "definition": "properly, aberration, i.e. (technically) a dithyramb or rambling poem",
+  "kjvTranslation": "Shiggaion, Shigionoth.",
+  "hebrew": "שִׁגָּיוֹן",
+  "translations": {
+    "bg": "правилно, отклонение, т.е. (технически) дитирамб или блуждаещо стихотворение",
+    "cs": "správně aberace, tj. (technicky) dithyramb nebo blábolivá báseň",
+    "da": "korrekt, afvigelse, dvs. (teknisk set) et dithyrambe eller vandrende digt",
+    "de": "richtig, Abweichung, d.h. (technisch) ein Dithyramb oder abschweifendes Gedicht",
+    "el": "σωστά, εκτροπή, δηλαδή (τεχνικά) διθύραμβος ή περιπλανώμενο ποίημα",
+    "es": "propiamente, aberración, es decir (técnicamente) un ditirambo o poema farragoso",
+    "et": "õigesti, aberratsioon, s.t. (tehniliselt) diktüürambi või rambivalguse luuletus",
+    "fi": "oikein, harha, eli (teknisesti) dithyrambi tai harhaileva runo",
+    "fr": "proprement, aberration, c'est-à-dire (techniquement) un dithyrambe ou un poème décousu",
+    "hu": "helyesen, aberráció, azaz (technikailag) dithyramb vagy kósza vers",
+    "id": "benar, penyimpangan, yaitu (secara teknis) dithyramb atau puisi bertele-tele",
+    "it": "propriamente, aberrazione, cioè (tecnicamente) un ditirambo o una poesia sconclusionata",
+    "ja": "正確には、逸脱、すなわち（厳密には）ディシランブまたはとりとめのない詩",
+    "ko": "정확하게는 수차, 즉 (기술적으로) 디티람 또는 횡설수설하는 시",
+    "lt": "tinkamai, aberacija, t. y. (techniniu požiūriu) ditirambas arba klaidžiojantis eilėraštis",
+    "lv": "pareizi, novirze, t.i., (tehniski) ditiramba jeb klejojošs dzejolis",
+    "nb": "egentlig, aberrasjon, dvs. (teknisk sett) et dithyrambe eller vandringsdikt",
+    "nl": "goed, dwaling, d.w.z. (technisch) een dithyramb of wijdlopig gedicht",
+    "pl": "właściwie aberracja, tj. (technicznie) dytyramb lub wiersz gawędziarski",
+    "pt": "propriamente dito, aberração, ou seja (tecnicamente) um ditirambo ou poema divagante",
+    "ro": "propriu-zis, aberație, adică (tehnic) un ditiramb sau un poem divagant",
+    "ru": "правильно, аберрация, т.е. (технически) дифирамб или бессвязное стихотворение",
+    "sk": "správne, aberácia, t. j. (technicky) dithyramb alebo bludná báseň",
+    "sl": "pravilno aberacija, tj. (tehnično) ditiramb ali brezdelna pesem",
+    "sv": "egentligen, avvikelse, dvs. (tekniskt) en dithyramber eller svävande dikt",
+    "tr": "uygun şekilde, sapma, yani (teknik olarak) bir dithyramb veya başıboş şiir",
+    "uk": "власне, аберація, тобто (технічно) дифірамб або безладний вірш",
+    "zh": "畸变，即（技术上）二律诗或漫游诗"
+  },
+  "verses": [
+    "psalms 7:1:0",
+    "habakkuk 3:1:4"
+  ]
+}

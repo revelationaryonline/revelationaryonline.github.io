@@ -1,0 +1,43 @@
+{
+  "number": "H7367",
+  "language": "hebrew",
+  "transliteration": "rachtsâh",
+  "pronunciation": "rakh-tsaw'",
+  "definition": "a bathing place",
+  "kjvTranslation": "washing.",
+  "hebrew": "רַחְצָה",
+  "translations": {
+    "bg": "място за къпане",
+    "cs": "místo ke koupání",
+    "da": "et badested",
+    "de": "ein Badeplatz",
+    "el": "ένα μέρος για κολύμπι",
+    "es": "un lugar de baño",
+    "et": "supluskoht",
+    "fi": "uimapaikka",
+    "fr": "un lieu de baignade",
+    "hu": "fürdőhely",
+    "id": "tempat pemandian",
+    "it": "un luogo di balneazione",
+    "ja": "浴場",
+    "ko": "목욕 장소",
+    "lt": "maudymosi vieta",
+    "lv": "peldvieta",
+    "nb": "en badeplass",
+    "nl": "een badplaats",
+    "pl": "kąpielisko",
+    "pt": "um local de banho",
+    "ro": "un loc de scăldat",
+    "ru": "место для купания",
+    "sk": "kúpalisko",
+    "sl": "kopališče",
+    "sv": "en badplats",
+    "tr": "bir banyo yeri",
+    "uk": "місце для купання",
+    "zh": "浴场"
+  },
+  "verses": [
+    "solomon 4:2:5",
+    "solomon 6:6:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2848",
+  "language": "hebrew",
+  "transliteration": "chittûwl",
+  "pronunciation": "khit-tool'",
+  "definition": "swathed, i.e. a bandage",
+  "kjvTranslation": "roller.",
+  "translations": {
+    "bg": "превързан, т.е. бинт",
+    "cs": "zavinutý, tj. obvaz",
+    "da": "svøbt, dvs. en bandage",
+    "de": "umwickelt, d.h. mit einem Verband versehen",
+    "el": "περιτυλιγμένος, δηλαδή επίδεσμος",
+    "es": "vendado, es decir, un vendaje",
+    "et": "mähitud, st. sidemega",
+    "fi": "swathed, eli sideharso",
+    "fr": "enrobé, c'est-à-dire un bandage",
+    "hu": "bekötözve, azaz kötés",
+    "id": "dibalut, yaitu perban",
+    "it": "fasciato, cioè una fasciatura",
+    "ja": "包帯を巻く",
+    "ko": "붕대, 즉 붕대를 감는 것",
+    "lt": "apsiaustas, t. y. tvarstis",
+    "lv": "apsaitēts, t. i., pārsējs",
+    "nb": "svøpt, dvs. en bandasje",
+    "nl": "gezwachteld, d.w.z. een verband",
+    "pl": "owinięty, tj. bandażem",
+    "pt": "enfaixado, ou seja, uma ligadura",
+    "ro": "înfășurat, adică un bandaj",
+    "ru": "наложенный, т.е. повязка",
+    "sk": "zavinutý, t. j. obväz",
+    "sl": "prevezan, tj. povoj",
+    "sv": "svept, d.v.s. ett bandage",
+    "tr": "kılıflı, yani bandajlı",
+    "uk": "перев'язка, тобто пов'язка",
+    "zh": "裹，即绷带"
+  },
+  "hebrew": "חִתּוּל",
+  "verses": [
+    "ezekiel 30:21:14"
+  ]
+}

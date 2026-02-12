@@ -1,0 +1,43 @@
+{
+  "number": "H7885",
+  "language": "hebrew",
+  "transliteration": "shayiṭ",
+  "pronunciation": "shay'-yit",
+  "definition": "an oar; a scourge (figuratively)",
+  "kjvTranslation": "oar, scourge.",
+  "hebrew": "שַׁיִט",
+  "translations": {
+    "bg": "гребло; бич (в преносен смисъл)",
+    "cs": "veslo; bič (přeneseně)",
+    "da": "en åre; en svøbe (i overført betydning)",
+    "de": "ein Ruder; eine Geißel (im übertragenen Sinne)",
+    "el": "κουπί- μαστίγιο (μεταφορικά)",
+    "es": "un remo; un azote (en sentido figurado)",
+    "et": "aer; nuhtlus (piltlikult)",
+    "fi": "airo; ruoska (kuvaannollisesti)",
+    "fr": "une rame ; un fléau (au sens figuré)",
+    "hu": "evező; ostor (átvitt értelemben)",
+    "id": "dayung; momok (secara kiasan)",
+    "it": "un remo; un flagello (in senso figurato)",
+    "ja": "オール",
+    "ko": "노; 채찍(비유적으로)",
+    "lt": "irklas; rykštė (perkeltine prasme)",
+    "lv": "airis; bičs (pārnestā nozīmē)",
+    "nb": "en åre; en svøpe (i overført betydning)",
+    "nl": "een roeispaan; een gesel (figuurlijk)",
+    "pl": "wiosło; plaga (w przenośni)",
+    "pt": "um remo; um flagelo (em sentido figurado)",
+    "ro": "o vâslă; un bici (la figurat)",
+    "ru": "весло; бич (фигурально)",
+    "sk": "veslo; bič (v prenesenom význame)",
+    "sl": "veslo; bič (v prenesenem pomenu)",
+    "sv": "en åra; en gissel (bildligt talat)",
+    "tr": "bir kürek; bir kırbaç (mecazi olarak)",
+    "uk": "весло; бич (образно)",
+    "zh": "舟楫"
+  },
+  "verses": [
+    "isaiah 28:15:10",
+    "isaiah 33:21:15"
+  ]
+}

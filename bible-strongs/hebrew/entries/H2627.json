@@ -1,0 +1,42 @@
+{
+  "number": "H2627",
+  "language": "hebrew",
+  "transliteration": "chaççîyr",
+  "pronunciation": "khas-seer'",
+  "definition": "deficient",
+  "kjvTranslation": "wanting.",
+  "translations": {
+    "bg": "недостатъчен",
+    "cs": "nedostatečné",
+    "da": "mangelfuld",
+    "de": "mangelhaft",
+    "el": "ανεπαρκής",
+    "es": "deficiente",
+    "et": "puudulikud",
+    "fi": "puutteellinen",
+    "fr": "déficient",
+    "hu": "hiányos",
+    "id": "kurang",
+    "it": "carente",
+    "ja": "希薄",
+    "ko": "결핍",
+    "lt": "trūkumas",
+    "lv": "nepilnīgs",
+    "nb": "mangelfull",
+    "nl": "deficiënt",
+    "pl": "niedobór",
+    "pt": "deficiente",
+    "ro": "deficient",
+    "ru": "недостаток",
+    "sk": "nedostatočné",
+    "sl": "pomanjkljivo",
+    "sv": "bristfällig",
+    "tr": "eksik",
+    "uk": "недостатній",
+    "zh": "脱销"
+  },
+  "hebrew": "חַסִּיר",
+  "verses": [
+    "daniel 5:27:4"
+  ]
+}

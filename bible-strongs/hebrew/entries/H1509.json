@@ -1,0 +1,42 @@
+{
+  "number": "H1509",
+  "language": "hebrew",
+  "transliteration": "gᵉzêrâh",
+  "pronunciation": "ghez-ay-raw'",
+  "definition": "a desert (as separated)",
+  "kjvTranslation": "not inhabited.",
+  "translations": {
+    "bg": "пустиня (като отделена)",
+    "cs": "poušť (jako oddělená)",
+    "da": "en ørken (som adskilt)",
+    "de": "eine Wüste (wie getrennt)",
+    "el": "μια έρημος (όπως διαχωρίζεται)",
+    "es": "un desierto (como separado)",
+    "et": "kõrb (eraldatuna)",
+    "fi": "erämaa (erotettuna)",
+    "fr": "un désert (comme séparé)",
+    "hu": "sivatag (elválasztva)",
+    "id": "gurun pasir (seperti yang dipisahkan)",
+    "it": "un deserto (come separato)",
+    "ja": "さばく",
+    "ko": "사막(별도)",
+    "lt": "dykuma (kaip atskirta)",
+    "lv": "tuksnesis (kā atdalīts)",
+    "nb": "en ørken (som adskilt)",
+    "nl": "een woestijn (als gescheiden)",
+    "pl": "pustynia (jako oddzielona)",
+    "pt": "um deserto (como separado)",
+    "ro": "un deșert (ca separat)",
+    "ru": "пустыня (как разделенная)",
+    "sk": "púšť (ako oddelená)",
+    "sl": "puščava (kot ločeno)",
+    "sv": "en öken (som separerad)",
+    "tr": "bir çöl (ayrılmış olarak)",
+    "uk": "пустеля (відокремлено)",
+    "zh": "漠"
+  },
+  "hebrew": "גְּזֵרָה",
+  "verses": [
+    "leviticus 16:22:8"
+  ]
+}

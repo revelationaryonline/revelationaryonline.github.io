@@ -1,0 +1,43 @@
+{
+  "number": "H6550",
+  "language": "hebrew",
+  "transliteration": "parʻôsh",
+  "pronunciation": "par-oshe'",
+  "definition": "a flea (as the isolated insect)",
+  "kjvTranslation": "flea.",
+  "hebrew": "פַּרְעֹשׁ",
+  "translations": {
+    "bg": "бълха (като отделно насекомо)",
+    "cs": "blecha (jako izolovaný hmyz)",
+    "da": "en loppe (som det isolerede insekt)",
+    "de": "ein Floh (als isoliertes Insekt)",
+    "el": "ένας ψύλλος (ως μεμονωμένο έντομο)",
+    "es": "una pulga (como insecto aislado)",
+    "et": "kirp (kui isoleeritud putukas)",
+    "fi": "kirppu (erillisenä hyönteisenä)",
+    "fr": "une puce (en tant qu'insecte isolé)",
+    "hu": "bolha (mint elszigetelt rovar)",
+    "id": "kutu (sebagai serangga yang terisolasi)",
+    "it": "una pulce (come insetto isolato)",
+    "ja": "蚤",
+    "ko": "벼룩(고립된 곤충으로)",
+    "lt": "blusa (kaip atskiras vabzdys)",
+    "lv": "blusa (kā atsevišķs kukaiņš)",
+    "nb": "en loppe (som det isolerte insektet)",
+    "nl": "een vlo (als het geïsoleerde insect)",
+    "pl": "pchła (jako izolowany owad)",
+    "pt": "uma pulga (como inseto isolado)",
+    "ro": "un purice (ca insectă izolată)",
+    "ru": "блоха (как изолированное насекомое)",
+    "sk": "blcha (ako izolovaný hmyz)",
+    "sl": "bolha (kot izolirana žuželka)",
+    "sv": "en loppa (som den isolerade insekten)",
+    "tr": "bir pire (izole edilmiş böcek olarak)",
+    "uk": "блохи (як ізольована комаха)",
+    "zh": "跳蚤"
+  },
+  "verses": [
+    "firstSamuel 24:15:13",
+    "firstSamuel 26:20:14"
+  ]
+}

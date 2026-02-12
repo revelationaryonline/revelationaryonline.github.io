@@ -1,0 +1,42 @@
+{
+  "number": "H8368",
+  "language": "hebrew",
+  "transliteration": "sâthar",
+  "pronunciation": "saw-thar'",
+  "definition": "to break out (as an eruption)",
+  "kjvTranslation": "have in (one's) secret parts.",
+  "hebrew": "שָׂתַר",
+  "translations": {
+    "bg": "да избухне (като изригване)",
+    "cs": "vypuknout (jako erupce)",
+    "da": "at bryde ud (som et udbrud)",
+    "de": "ausbrechen (wie eine Eruption)",
+    "el": "να ξεσπάσει (ως έκρηξη)",
+    "es": "estallar (como una erupción)",
+    "et": "puhkeda (purskena)",
+    "fi": "purkautua (purkauksena)",
+    "fr": "éclater (comme une éruption)",
+    "hu": "kitörni (mint egy kitörés)",
+    "id": "keluar (sebagai letusan)",
+    "it": "scoppiare (come un'eruzione)",
+    "ja": "噴火する",
+    "ko": "폭발(분출)",
+    "lt": "išsiveržti (kaip išsiveržimas)",
+    "lv": "izcelties (kā izvirdums)",
+    "nb": "å bryte ut (som et utbrudd)",
+    "nl": "uitbreken (als een uitbarsting)",
+    "pl": "wybuchnąć (jako erupcja)",
+    "pt": "irromper (como uma erupção)",
+    "ro": "a izbucni (ca o erupție)",
+    "ru": "вырываться наружу (в виде извержения)",
+    "sk": "vypuknúť (ako erupcia)",
+    "sl": "izbruhniti (kot izbruh)",
+    "sv": "att bryta ut (som en eruption)",
+    "tr": "patlamak (bir püskürme olarak)",
+    "uk": "спалахувати (як виверження)",
+    "zh": "爆发"
+  },
+  "verses": [
+    "firstSamuel 5:9:18"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H456",
+  "language": "hebrew",
+  "transliteration": "ʼĔlîychôreph",
+  "pronunciation": "el-ee-kho'-ref",
+  "definition": "Elichoreph, an Israelite",
+  "kjvTranslation": "Elihoreph.",
+  "translations": {
+    "bg": "Елихореф, израилтянин",
+    "cs": "Elichoref, Izraelita",
+    "da": "Elichoreph, en israelit",
+    "de": "Elichoreph, ein Israelit",
+    "el": "Elichoreph, ένας Ισραηλίτης",
+    "es": "Elichoreph, israelita",
+    "et": "Elichoreph, iisraellane",
+    "fi": "Elichoreph, israelilainen",
+    "fr": "Elichoreph, Israélite",
+    "hu": "Elichoreph, egy izraelita",
+    "id": "Elichoreph, seorang Israel",
+    "it": "Elichoreph, un israelita",
+    "ja": "イスラエル人エリコレフ",
+    "ko": "이스라엘인 엘리초레프",
+    "lt": "Elichorefas, izraelitas",
+    "lv": "Elichorefs, izraēlietis",
+    "nb": "Elichoreph, en israelitt",
+    "nl": "Elichoreph, een Israëliet",
+    "pl": "Elichoreph, Izraelita",
+    "pt": "Elichoreph, israelita",
+    "ro": "Elichoref, un israelit",
+    "ru": "Елихореф, израильтянин",
+    "sk": "Elichoref, Izraelita",
+    "sl": "Elichoreph, Izraelec",
+    "sv": "Elichoreph, en israelit",
+    "tr": "Elichoreph, bir İsrailli",
+    "uk": "Еліхореф, ізраїльтянин",
+    "zh": "以色列人以利哥勒夫"
+  },
+  "hebrew": "אֱלִיחֹרֶף",
+  "verses": [
+    "firstKings 4:3:0"
+  ]
+}

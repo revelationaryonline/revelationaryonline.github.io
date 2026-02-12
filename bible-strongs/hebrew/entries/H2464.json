@@ -1,0 +1,42 @@
+{
+  "number": "H2464",
+  "language": "hebrew",
+  "transliteration": "chelbᵉnâh",
+  "pronunciation": "khel-ben-aw'",
+  "definition": "galbanam, an odorous gum (as if fatty)",
+  "kjvTranslation": "galbanum.",
+  "translations": {
+    "bg": "галбанам, миризлива смола (като мазна)",
+    "cs": "galbanam, páchnoucí guma (jakoby mastná)",
+    "da": "galbanam, en lugtende gummi (som om den var fed)",
+    "de": "galbanam, ein wohlriechender Gummi (wie Fett)",
+    "el": "galbanam, ένα δύσοσμο κόμμι (σαν λιπαρό)",
+    "es": "galbanam, una goma olorosa (como grasa)",
+    "et": "galbanam, lõhnav kumm (nagu rasvane)",
+    "fi": "galbanami, hajuinen kumia (ikään kuin rasvainen)",
+    "fr": "le galbanam, une gomme odorante (comme grasse)",
+    "hu": "galbanám, szagos gumi (mintha zsíros lenne)",
+    "id": "galbanam, permen karet yang berbau (seperti berlemak)",
+    "it": "galbanam, una gomma odorosa (come se fosse grassa)",
+    "ja": "ガルバナム、（脂肪のような）臭いのあるガム",
+    "ko": "냄새가 나는 껌, 갈바남(지방이 많은 것처럼)",
+    "lt": "galbanamas, kvapni derva (tarsi riebalinė)",
+    "lv": "galbanams, smaržīga sveķainība (it kā taukaina)",
+    "nb": "galbanam, et luktende tyggegummi (som om det var fett)",
+    "nl": "galbanam, een geurige gom (als vet)",
+    "pl": "galbanam, guma zapachowa (jakby tłuszczowa)",
+    "pt": "galbanam, uma goma odorífera (como se fosse gordurosa)",
+    "ro": "galbanam, o gumă mirositoare (ca și cum ar fi grasă)",
+    "ru": "гальбанам, пахучая камедь (как будто жирная)",
+    "sk": "galbanam, voňavá guma (akoby mastná)",
+    "sl": "galbanam, guma z vonjem (kot bi bila mastna)",
+    "sv": "galbanam, ett luktande tuggummi (som om det vore fett)",
+    "tr": "galbanam, kokulu bir sakız (yağlı gibi)",
+    "uk": "гальбанам, пахуча жуйка (ніби жирна)",
+    "zh": "高良姜"
+  },
+  "hebrew": "חֶלְבְּנָה",
+  "verses": [
+    "exodus 30:34:9"
+  ]
+}

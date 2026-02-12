@@ -1,0 +1,42 @@
+{
+  "number": "H4530",
+  "language": "hebrew",
+  "transliteration": "miççâh",
+  "pronunciation": "mis-saw'",
+  "definition": "abundance, i.e. (adverbially) liberally",
+  "kjvTranslation": "tribute.",
+  "hebrew": "מִסָּה",
+  "verses": [
+    "deuteronomy 16:10:5"
+  ],
+  "translations": {
+    "bg": "изобилие, т.е. (наречие) либерално",
+    "cs": "hojně, tj. (příslovečně) liberálně",
+    "da": "overflod, dvs. (adverbialt) gavmildt",
+    "de": "reichlich, d.h. (adverbial) großzügig",
+    "el": "αφθονία, δηλαδή (επιρρηματικά) γενναιόδωρα",
+    "es": "abundancia, es decir (adverbialmente) liberalmente",
+    "et": "külluslikult, st (adverbiaalselt) vabalt",
+    "fi": "runsaasti, eli (adverbiaalisesti) runsaasti",
+    "fr": "l'abondance, c'est-à-dire (adverbialement) la libéralité",
+    "hu": "bőségesen, azaz (határozószóval) bőségesen",
+    "id": "kelimpahan, yaitu (secara adverbial) secara bebas",
+    "it": "abbondanza, cioè (avverbialmente) liberalmente",
+    "ja": "ふんだんに、すなわち（副詞的に）たっぷりと",
+    "ko": "풍요로움, 즉 (부사적으로) 자유롭게",
+    "lt": "gausiai, t. y. (prieveiksmingai) liberaliai",
+    "lv": "pārpilnība, t.i., (apstākļa vārds) liberāli",
+    "nb": "overflod, dvs. (adverbialt) rikelig",
+    "nl": "overvloedig, d.w.z. (bijwoordelijk) royaal",
+    "pl": "obfitość, tj. (przysłówkowo) liberalnie",
+    "pt": "abundância, ou seja, (adverbialmente) liberalmente",
+    "ro": "abundență, adică (adverbial) liber",
+    "ru": "изобильно, т.е. (наречие) либерально",
+    "sk": "hojnosť, t. j. (príslovkovo) liberálne",
+    "sl": "obilno, tj. (prislovno) liberalno",
+    "sv": "överflöd, d.v.s. (adverbiellt) frikostigt",
+    "tr": "bolluk, yani (zarf olarak) cömertçe",
+    "uk": "рясно, тобто (прислівниково) щедро",
+    "zh": "宽裕"
+  }
+}

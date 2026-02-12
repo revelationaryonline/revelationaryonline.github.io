@@ -1,0 +1,42 @@
+{
+  "number": "H1014",
+  "language": "hebrew",
+  "transliteration": "Bêyth Gâmûwl",
+  "pronunciation": "bayth gaw-mool'",
+  "definition": "Beth-Gamul, a place East of the Jordan",
+  "kjvTranslation": "Beth-gamul.",
+  "translations": {
+    "bg": "Вет-Гамул, място на изток от Йордан",
+    "cs": "Bét-Gamul, místo na východ od Jordánu",
+    "da": "Beth-Gamul, et sted øst for Jordan",
+    "de": "Beth-Gamul, ein Ort östlich des Jordans",
+    "el": "Βηθ-Γαμούλ, τόπος ανατολικά του Ιορδάνη",
+    "es": "Bet-Gamul, lugar al este del Jordán",
+    "et": "Bet-Gamul, koht Jordani jõest ida pool",
+    "fi": "Bet-Gamul, paikka Jordanin itäpuolella",
+    "fr": "Beth-Gamul, localité située à l'est du Jourdain",
+    "hu": "Bet-Gamul, a Jordántól keletre fekvő helység",
+    "id": "Beth-Gamul, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Beth-Gamul, località a est del Giordano",
+    "ja": "ベト＝ガムル、ヨルダンの東の地",
+    "ko": "요단강 동쪽의 벳-가물, 요단강 동쪽의 장소",
+    "lt": "Bėt-Gamulas, vietovė į rytus nuo Jordano",
+    "lv": "Beth-Gamul, vieta uz austrumiem no Jordānas",
+    "nb": "Bet-Gamul, et sted øst for Jordan",
+    "nl": "Beth-Gamul, een plaats ten oosten van de Jordaan",
+    "pl": "Beth-Gamul, miejsce na wschód od Jordanu",
+    "pt": "Bete-Gamul, um lugar a leste do Jordão",
+    "ro": "Beth-Gamul, un loc la est de Iordan",
+    "ru": "Бет-Гамул, место к востоку от Иордана",
+    "sk": "Bét-Gamul, miesto na východ od Jordánu",
+    "sl": "Beth-Gamul, kraj vzhodno od Jordana",
+    "sv": "Beth-Gamul, en plats öster om Jordanfloden",
+    "tr": "Beyt-Gamul, Ürdün'ün doğusunda bir yer",
+    "uk": "Бет-Гамул, місце на схід від Йордану",
+    "zh": "伯加穆尔，约旦河东的一个地方"
+  },
+  "hebrew": "בֵּית גָּמוּל",
+  "verses": [
+    "jeremiah 48:23:4"
+  ]
+}

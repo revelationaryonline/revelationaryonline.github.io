@@ -1,0 +1,42 @@
+{
+  "number": "H5593",
+  "language": "hebrew",
+  "transliteration": "Çaph",
+  "pronunciation": "saf",
+  "definition": "Saph, a Philistine",
+  "kjvTranslation": "Saph. Compare H5598 (סִפַּי).",
+  "hebrew": "סַף",
+  "translations": {
+    "bg": "Саф, филистимец",
+    "cs": "Sáf, Filištín",
+    "da": "Saph, en filister",
+    "de": "Saph, ein Philister",
+    "el": "Saph, ένας Φιλισταίος",
+    "es": "Saph, un filisteo",
+    "et": "Saph, vilistlane",
+    "fi": "Saph, filistealainen",
+    "fr": "Saph, un Philistin",
+    "hu": "Száf, egy filiszteus",
+    "id": "Saph, seorang Filistin",
+    "it": "Saph, un filisteo",
+    "ja": "ペリシテ人サフ",
+    "ko": "블레셋인 사프",
+    "lt": "Safas, filistinietis",
+    "lv": "Safs, filistietis",
+    "nb": "Saph, en filister",
+    "nl": "Saf, een Filistijn",
+    "pl": "Saph, Filistyn",
+    "pt": "Saph, um filisteu",
+    "ro": "Saph, un filistean",
+    "ru": "Саф, филистимлянин",
+    "sk": "Saf, Filištín",
+    "sl": "Saph, Filistejka",
+    "sv": "Saph, en filisté",
+    "tr": "Saph, bir Filistli",
+    "uk": "Саф, филистимлянин",
+    "zh": "非利士人萨弗"
+  },
+  "verses": [
+    "secondSamuel 21:18:14"
+  ]
+}

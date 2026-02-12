@@ -1,0 +1,42 @@
+{
+  "number": "H900",
+  "language": "hebrew",
+  "transliteration": "bôgᵉdôwth",
+  "pronunciation": "bohg-ed-ohth",
+  "definition": "treacheries",
+  "kjvTranslation": "treacherous.",
+  "translations": {
+    "bg": "предателства",
+    "cs": "zrady",
+    "da": "forræderier",
+    "de": "verrat",
+    "el": "προδοσίες",
+    "es": "traiciones",
+    "et": "reetmised",
+    "fi": "petokset",
+    "fr": "trahisons",
+    "hu": "árulások",
+    "id": "pengkhianatan",
+    "it": "tradimenti",
+    "ja": "悪逆",
+    "ko": "배신",
+    "lt": "išdavystės",
+    "lv": "nodevības",
+    "nb": "forræderier",
+    "nl": "verraad",
+    "pl": "zdrady",
+    "pt": "traições",
+    "ro": "trădări",
+    "ru": "предательства",
+    "sk": "zrady",
+    "sl": "izdajstva",
+    "sv": "förräderier",
+    "tr": "i̇hanetler",
+    "uk": "зради",
+    "zh": "奸诈"
+  },
+  "hebrew": "בֹּגְדוֹת",
+  "verses": [
+    "zephaniah 3:4:3"
+  ]
+}

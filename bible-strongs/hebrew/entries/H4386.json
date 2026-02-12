@@ -1,0 +1,42 @@
+{
+  "number": "H4386",
+  "language": "hebrew",
+  "transliteration": "mᵉkittâh",
+  "pronunciation": "mek-it-taw'",
+  "definition": "a fracture",
+  "kjvTranslation": "bursting.",
+  "hebrew": "מְכִתָּה",
+  "translations": {
+    "bg": "счупване",
+    "cs": "zlomenina",
+    "da": "et brud",
+    "de": "ein Bruch",
+    "el": "ένα κάταγμα",
+    "es": "una fractura",
+    "et": "murdumine",
+    "fi": "murtuma",
+    "fr": "une fracture",
+    "hu": "törés",
+    "id": "patah tulang",
+    "it": "una frattura",
+    "ja": "骨折",
+    "ko": "골절",
+    "lt": "lūžis",
+    "lv": "lūzums",
+    "nb": "et brudd",
+    "nl": "een breuk",
+    "pl": "złamanie",
+    "pt": "uma fratura",
+    "ro": "o fractură",
+    "ru": "перелом",
+    "sk": "zlomenina",
+    "sl": "zlom",
+    "sv": "en fraktur",
+    "tr": "bir kırık",
+    "uk": "перелом",
+    "zh": "骨折"
+  },
+  "verses": [
+    "isaiah 30:14:9"
+  ]
+}

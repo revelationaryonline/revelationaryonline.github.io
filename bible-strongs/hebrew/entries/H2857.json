@@ -1,0 +1,42 @@
+{
+  "number": "H2857",
+  "language": "hebrew",
+  "transliteration": "chătham",
+  "pronunciation": "khath-am'",
+  "definition": "to seal",
+  "kjvTranslation": "seal.",
+  "translations": {
+    "bg": "да се запечата",
+    "cs": "k utěsnění",
+    "da": "for at forsegle",
+    "de": "zu versiegeln",
+    "el": "να σφραγίσει",
+    "es": "para sellar",
+    "et": "pitseriga",
+    "fi": "sinetöidä",
+    "fr": "pour sceller",
+    "hu": "pecsételni",
+    "id": "untuk menyegel",
+    "it": "per sigillare",
+    "ja": "封印する",
+    "ko": "봉인하려면",
+    "lt": "užsandarinti",
+    "lv": "aizzīmogot",
+    "nb": "for å forsegle",
+    "nl": "verzegelen",
+    "pl": "uszczelnienie",
+    "pt": "para selar",
+    "ro": "pentru a sigila",
+    "ru": "запечатывать",
+    "sk": "na utesnenie",
+    "sl": "za tesnjenje",
+    "sv": "för att täta",
+    "tr": "mühürlemek için",
+    "uk": "запечатати",
+    "zh": "密封"
+  },
+  "hebrew": "חֲתַם",
+  "verses": [
+    "daniel 6:18:7"
+  ]
+}

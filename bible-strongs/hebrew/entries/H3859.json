@@ -1,0 +1,43 @@
+{
+  "number": "H3859",
+  "language": "hebrew",
+  "transliteration": "lâham",
+  "pronunciation": "law-ham'",
+  "definition": "properly, to burn in, i.e. (figuratively) to rankle",
+  "kjvTranslation": "wound.",
+  "hebrew": "לָהַם",
+  "translations": {
+    "bg": "правилно, да се нажежи, т.е. (образно казано) да се накърни",
+    "cs": "správně, pálit, tj. (obrazně) ranit",
+    "da": "korrekt, at brænde ind, dvs. (i overført betydning) at irritere",
+    "de": "richtig, einbrennen, d.h. (im übertragenen Sinne) ärgern",
+    "el": "σωστά, να καίγεται, δηλαδή (μεταφορικά) να ταλαιπωρεί",
+    "es": "propiamente, quemar, es decir (figuradamente) irritar",
+    "et": "õigesti, sisse põlema, st (piltlikult) sisse põlema",
+    "fi": "oikein, polttaa, eli (kuvaannollisesti) ärsyttää",
+    "fr": "proprement dit, brûler, c'est-à-dire (au sens figuré) se mettre au pied du mur",
+    "hu": "helyesen, beégetni, azaz (átvitt értelemben) beégetni",
+    "id": "dengan benar, untuk membakar, yaitu (secara kiasan) untuk mengacaukan",
+    "it": "propriamente, bruciare, cioè (in senso figurato) infastidire",
+    "ja": "を焼く、つまり（比喩的に）ランクルする。",
+    "ko": "적절하게, 태우다, 즉 (비유적으로) 불을 지르다",
+    "lt": "tinkamai, deginti, t. y. (perkeltine prasme) rangytis",
+    "lv": "pareizi, sadedzināt, t.i., (pārnestā nozīmē) iedzelt",
+    "nb": "egentlig, å brenne seg inn, dvs. (i overført betydning) å irritere",
+    "nl": "goed, inbranden, d.w.z. (figuurlijk) in de war brengen",
+    "pl": "właściwie, palić się, tj. (w przenośni) ranić",
+    "pt": "propriamente, queimar, ou seja (figurativamente) irritar",
+    "ro": "propriu-zis, a arde în, adică (la figurat) a stresa",
+    "ru": "правильно, сгорать, т.е. (фигурально) досаждать",
+    "sk": "správne, zapáliť, t. j. (obrazne) zaškatuľkovať",
+    "sl": "pravilno, zažgati, tj. (v prenesenem pomenu) zažgati",
+    "sv": "korrekt, att bränna in, d.v.s. (bildligt talat) att irritera",
+    "tr": "uygun bir şekilde, yakmak, yani (mecazi olarak) rencide etmek",
+    "uk": "власне, обпалювати, тобто (образно) жалити",
+    "zh": "灼烧，即（比喻）使人感到疼痛"
+  },
+  "verses": [
+    "proverbs 18:8:2",
+    "proverbs 26:22:2"
+  ]
+}

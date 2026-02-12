@@ -1,0 +1,43 @@
+{
+  "number": "H596",
+  "language": "hebrew",
+  "transliteration": "ʼânan",
+  "pronunciation": "aw-nan'",
+  "definition": "to mourn, i.e. complain",
+  "kjvTranslation": "complain.",
+  "translations": {
+    "bg": "да скърби, т.е. да се оплаква",
+    "cs": "truchlit, tj. stěžovat si",
+    "da": "at sørge, dvs. klage",
+    "de": "trauern, d.h. klagen",
+    "el": "να θρηνήσω, δηλαδή να παραπονεθώ",
+    "es": "lamentarse, es decir, quejarse",
+    "et": "leinata, s.t. kurta",
+    "fi": "surra, eli valittaa",
+    "fr": "se lamenter, c'est-à-dire se plaindre",
+    "hu": "gyászolni, azaz panaszkodni",
+    "id": "untuk berkabung, yaitu mengeluh",
+    "it": "piangere, cioè lamentarsi",
+    "ja": "嘆く",
+    "ko": "애도하다, 즉 불평하다",
+    "lt": "liūdėti, t. y. skųstis",
+    "lv": "sērot, t.i., sūdzēties",
+    "nb": "å sørge, dvs. klage",
+    "nl": "rouwen, d.w.z. klagen",
+    "pl": "opłakiwać, tj. narzekać",
+    "pt": "lamentar, ou seja, queixar-se",
+    "ro": "să jelească, adică să se plângă",
+    "ru": "оплакивать, т.е. жаловаться",
+    "sk": "smútiť, t. j. sťažovať sa",
+    "sl": "žalovati, tj. pritoževati se",
+    "sv": "att sörja, dvs. klaga",
+    "tr": "yas tutmak, yani şikayet etmek",
+    "uk": "оплакувати, тобто скаржитися",
+    "zh": "哀，即抱怨"
+  },
+  "hebrew": "אָנַן",
+  "verses": [
+    "numbers 11:1:2",
+    "lamentations 3:39:1"
+  ]
+}

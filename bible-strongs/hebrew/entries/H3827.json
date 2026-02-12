@@ -1,0 +1,42 @@
+{
+  "number": "H3827",
+  "language": "hebrew",
+  "transliteration": "labbâh",
+  "pronunciation": "lab-baw'",
+  "definition": "flame",
+  "kjvTranslation": "flame.",
+  "hebrew": "לַבָּה",
+  "translations": {
+    "bg": "пламък",
+    "cs": "plamen",
+    "da": "flamme",
+    "de": "flamme",
+    "el": "φλόγα",
+    "es": "llama",
+    "et": "leek",
+    "fi": "liekki",
+    "fr": "flamme",
+    "hu": "láng",
+    "id": "api",
+    "it": "fiamma",
+    "ja": "炎",
+    "ko": "불꽃",
+    "lt": "liepsna",
+    "lv": "liesma",
+    "nb": "flamme",
+    "nl": "vlam",
+    "pl": "płomień",
+    "pt": "chama",
+    "ro": "flacără",
+    "ru": "пламя",
+    "sk": "plameň",
+    "sl": "plamen",
+    "sv": "flamma",
+    "tr": "alev",
+    "uk": "полум'я",
+    "zh": "火焰"
+  },
+  "verses": [
+    "exodus 3:2:4"
+  ]
+}

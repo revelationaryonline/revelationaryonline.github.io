@@ -1,0 +1,42 @@
+{
+  "number": "H239",
+  "language": "hebrew",
+  "transliteration": "ʼâzan",
+  "pronunciation": "aw-zan'",
+  "definition": "to weigh, i.e. (figuratively) ponder",
+  "kjvTranslation": "give good heed.",
+  "translations": {
+    "bg": "да претегля, т.е. (образно) да обмисля",
+    "cs": "vážit, tj. (obrazně) uvažovat",
+    "da": "at veje, dvs. (i overført betydning) overveje",
+    "de": "abwägen, d.h. (im übertragenen Sinne) abwägen",
+    "el": "να ζυγίσει, δηλαδή (μεταφορικά) να σκεφτεί",
+    "es": "sopesar, es decir (en sentido figurado) reflexionar",
+    "et": "kaaluda, st (piltlikult öeldes) kaaluda",
+    "fi": "punnita, eli (kuvaannollisesti) miettiä",
+    "fr": "peser, c'est-à-dire (au sens figuré) réfléchir",
+    "hu": "mérlegelni, azaz (átvitt értelemben) mérlegelni",
+    "id": "menimbang, yaitu (secara kiasan) merenungkan",
+    "it": "pesare, cioè (in senso figurato) ponderare",
+    "ja": "秤にかける、つまり（比喩的に）熟考する",
+    "ko": "무게를 재다, 즉 (비유적으로) 숙고하다",
+    "lt": "pasverti, t. y. (perkeltine prasme) apsvarstyti",
+    "lv": "apsvērt, t.i., (pārnestā nozīmē) pārdomāt",
+    "nb": "å veie, dvs. (i overført betydning) gruble",
+    "nl": "afwegen, d.w.z. (figuurlijk) overdenken",
+    "pl": "ważyć, tj. (w przenośni) rozważać",
+    "pt": "pesar, ou seja, (figurativamente) ponderar",
+    "ro": "a cântări, adică (la figurat) a reflecta",
+    "ru": "взвешивать, т.е. (фигурально) размышлять",
+    "sk": "zvážiť, t. j. (obrazne) uvažovať",
+    "sl": "pretehtati, tj. (v prenesenem pomenu) razmisliti",
+    "sv": "att väga, dvs. (bildligt talat) fundera",
+    "tr": "tartmak, yani (mecazi olarak) düşünmek",
+    "uk": "зважувати, тобто (образно) обмірковувати",
+    "zh": "权衡，即（比喻）思索"
+  },
+  "hebrew": "אָזַן",
+  "verses": [
+    "ecclesiastes 12:9:9"
+  ]
+}

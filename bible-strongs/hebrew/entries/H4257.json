@@ -1,0 +1,43 @@
+{
+  "number": "H4257",
+  "language": "hebrew",
+  "transliteration": "machălath",
+  "pronunciation": "makh-al-ath'",
+  "definition": "'Machalath', probably the title (initial word) of a popular song",
+  "kjvTranslation": "Mahalath.",
+  "hebrew": "מַחֲלַת",
+  "translations": {
+    "bg": "\"Machalath\", вероятно заглавие (начална дума) на популярна песен",
+    "cs": "\"Machalath\", pravděpodobně název (počáteční slovo) populární písně",
+    "da": "'Machalath', sandsynligvis titlen (det første ord) på en populær sang",
+    "de": "machalath\", wahrscheinlich der Titel (Anfangswort) eines Volksliedes",
+    "el": "\"Machalath\", πιθανώς ο τίτλος (αρχική λέξη) ενός δημοφιλούς τραγουδιού",
+    "es": "machalath\", probablemente el título (palabra inicial) de una canción popular",
+    "et": "\"Machalath\", tõenäoliselt ühe populaarse laulu pealkiri (algussõna)",
+    "fi": "\"Machalath\", luultavasti suositun laulun nimi (alkusana)",
+    "fr": "machalath\", probablement le titre (mot initial) d'une chanson populaire",
+    "hu": "\"Machalath\", valószínűleg egy népszerű dal címe (kezdőszava)",
+    "id": "'Machalath', mungkin judul (kata awal) dari sebuah lagu populer",
+    "it": "machalath\", probabilmente il titolo (parola iniziale) di una canzone popolare",
+    "ja": "Machalath」、おそらく流行歌のタイトル（頭文字）であろう",
+    "ko": "'마칼라스', 아마도 대중가요의 제목(첫 단어)일 것입니다",
+    "lt": "\"Machalath\", tikriausiai populiarios dainos pavadinimas (pradinis žodis)",
+    "lv": "\"Machalath\", iespējams, populāras dziesmas nosaukums (sākuma vārds)",
+    "nb": "\"Machalath\", sannsynligvis tittelen (det første ordet) på en populær sang",
+    "nl": "machalath', waarschijnlijk de titel (beginwoord) van een populair liedje",
+    "pl": "\"Machalath\", prawdopodobnie tytuł (początkowe słowo) popularnej piosenki",
+    "pt": "\"Machalath\", provavelmente o título (palavra inicial) de uma canção popular",
+    "ro": "\"Machalath\", probabil titlul (cuvântul inițial) al unui cântec popular",
+    "ru": "'Machalath', вероятно, название (начальное слово) популярной песни",
+    "sk": "\"Machalath\", pravdepodobne názov (začiatočné slovo) populárnej piesne",
+    "sl": "\"Machalath\", verjetno naslov (začetna beseda) priljubljene pesmi",
+    "sv": "\"Machalath\", troligen titeln (första ordet) på en populär sång",
+    "tr": "'Machalath', muhtemelen popüler bir şarkının başlığı (ilk kelimesi)",
+    "uk": "\"Machalath\", ймовірно, назва (початкове слово) популярної пісні",
+    "zh": "Machalath\"，可能是一首流行歌曲的歌名（首字母）。"
+  },
+  "verses": [
+    "psalms 53:1:2",
+    "psalms 88:1:6"
+  ]
+}

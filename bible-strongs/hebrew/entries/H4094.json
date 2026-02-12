@@ -1,0 +1,42 @@
+{
+  "number": "H4094",
+  "language": "hebrew",
+  "transliteration": "madqârâh",
+  "pronunciation": "mad-kaw-raw'",
+  "definition": "a wound",
+  "kjvTranslation": "piercing.",
+  "hebrew": "מַדְקָרָה",
+  "translations": {
+    "bg": "рана",
+    "cs": "zranění",
+    "da": "et sår",
+    "de": "eine Wunde",
+    "el": "μια πληγή",
+    "es": "una herida",
+    "et": "haav",
+    "fi": "haava",
+    "fr": "une blessure",
+    "hu": "egy seb",
+    "id": "luka",
+    "it": "una ferita",
+    "ja": "傷",
+    "ko": "상처",
+    "lt": "žaizda",
+    "lv": "brūce",
+    "nb": "et sår",
+    "nl": "een wond",
+    "pl": "rana",
+    "pt": "uma ferida",
+    "ro": "o rană",
+    "ru": "рана",
+    "sk": "rana",
+    "sl": "rana",
+    "sv": "en sårskada",
+    "tr": "bir yara",
+    "uk": "рана",
+    "zh": "伤口"
+  },
+  "verses": [
+    "proverbs 12:18:2"
+  ]
+}

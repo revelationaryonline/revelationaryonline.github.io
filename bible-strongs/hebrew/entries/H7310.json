@@ -1,0 +1,43 @@
+{
+  "number": "H7310",
+  "language": "hebrew",
+  "transliteration": "rᵉvâyâh",
+  "pronunciation": "rev-aw-yaw'",
+  "definition": "satisfaction",
+  "kjvTranslation": "runneth over, wealthy.",
+  "hebrew": "רְוָיָה",
+  "translations": {
+    "bg": "удовлетворение",
+    "cs": "spokojenost",
+    "da": "tilfredshed",
+    "de": "zufriedenheit",
+    "el": "ικανοποίηση",
+    "es": "satisfacción",
+    "et": "rahulolu",
+    "fi": "tyytyväisyys",
+    "fr": "satisfaction",
+    "hu": "elégedettség",
+    "id": "kepuasan",
+    "it": "soddisfazione",
+    "ja": "満足",
+    "ko": "만족도",
+    "lt": "pasitenkinimas",
+    "lv": "apmierinātība",
+    "nb": "tilfredshet",
+    "nl": "tevredenheid",
+    "pl": "satysfakcja",
+    "pt": "satisfação",
+    "ro": "satisfacție",
+    "ru": "удовлетворение",
+    "sk": "spokojnosť",
+    "sl": "zadovoljstvo",
+    "sv": "tillfredsställelse",
+    "tr": "memnuniyet",
+    "uk": "задоволення",
+    "zh": "满意度"
+  },
+  "verses": [
+    "psalms 23:5:9",
+    "psalms 66:12:7"
+  ]
+}

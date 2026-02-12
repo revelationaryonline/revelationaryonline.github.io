@@ -1,0 +1,43 @@
+{
+  "number": "H334",
+  "language": "hebrew",
+  "transliteration": "ʼiṭṭêr",
+  "pronunciation": "it-tare'",
+  "definition": "shut up, i.e. impeded (as to the use of the right hand)",
+  "kjvTranslation": "[phrase] left-handed.",
+  "translations": {
+    "bg": "затворен, т.е. възпрепятстван (по отношение на използването на дясната ръка)",
+    "cs": "zavřený, tj. bránící v používání pravé ruky",
+    "da": "lukket, dvs. forhindret (i at bruge højre hånd)",
+    "de": "verschlossen, d.h. behindert (in Bezug auf den Gebrauch der rechten Hand)",
+    "el": "κλειστό, δηλαδή παρεμποδισμένο (όσον αφορά τη χρήση του δεξιού χεριού)",
+    "es": "cerrado, es decir, impedido (en cuanto al uso de la mano derecha)",
+    "et": "kinni, s.t. takistatud (parema käe kasutamise osas)",
+    "fi": "suljettu eli estetty (oikean käden käytön osalta)",
+    "fr": "enfermé, c'est-à-dire empêché (dans l'usage de la main droite)",
+    "hu": "elzárva, azaz akadályozva (a jobb kéz használatában)",
+    "id": "diam, yaitu terhalang (untuk penggunaan tangan kanan)",
+    "it": "chiudere, cioè impedire (l'uso della mano destra)",
+    "ja": "つまる",
+    "ko": "닥치다, 즉 방해하다(오른손 사용과 관련하여)",
+    "lt": "uždaryta, t. y. trukdanti (naudotis dešine ranka)",
+    "lv": "slēgts, t. i., traucēts (attiecībā uz labās rokas lietošanu)",
+    "nb": "stengt, dvs. hindret (i bruken av høyre hånd)",
+    "nl": "afgesloten, d.w.z. belemmerd (in het gebruik van de rechterhand)",
+    "pl": "zamknięty, tj. utrudniony (jeśli chodzi o użycie prawej ręki)",
+    "pt": "fechado, ou seja, impedido (quanto ao uso da mão direita)",
+    "ro": "închis, adică împiedicat (în ceea ce privește folosirea mâinii drepte)",
+    "ru": "закрывать, т.е. препятствовать (в использовании правой руки)",
+    "sk": "zatvorený, t. j. obmedzený (pokiaľ ide o používanie pravej ruky)",
+    "sl": "zaprta, tj. ovirana (pri uporabi desne roke)",
+    "sv": "stängd, d.v.s. hindrad (när det gäller användningen av höger hand)",
+    "tr": "kapatılmış, yani engellenmiş (sağ elin kullanımına ilişkin olarak)",
+    "uk": "замовкнути, тобто перешкоджати (щодо використання правої руки)",
+    "zh": "闭塞，即（在使用右手时）受到阻碍"
+  },
+  "hebrew": "אִטֵּר",
+  "verses": [
+    "judges 3:15:16",
+    "judges 20:16:7"
+  ]
+}

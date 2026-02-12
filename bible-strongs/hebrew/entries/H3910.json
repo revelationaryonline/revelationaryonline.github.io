@@ -1,0 +1,43 @@
+{
+  "number": "H3910",
+  "language": "hebrew",
+  "transliteration": "lôṭ",
+  "pronunciation": "lote",
+  "definition": "a gum (from its sticky nature), probably ladanum",
+  "kjvTranslation": "myrrh.",
+  "hebrew": "לֹט",
+  "translations": {
+    "bg": "гума (поради лепкавия ѝ характер), вероятно ladanum",
+    "cs": "guma (podle lepivosti), pravděpodobně ladanum",
+    "da": "en tyggegummi (fra dens klæbrige natur), sandsynligvis ladanum",
+    "de": "ein Gummi (aufgrund seiner klebrigen Beschaffenheit), wahrscheinlich Ladanum",
+    "el": "ένα κόμμι (λόγω της κολλώδους φύσης του), πιθανώς ladanum",
+    "es": "una goma (por su naturaleza pegajosa), probablemente ladanum",
+    "et": "kumm (kleepuvusest tulenevalt), tõenäoliselt ladanum",
+    "fi": "purukumi (sen tahmeasta luonteesta johtuen), luultavasti ladanum",
+    "fr": "une gomme (de par sa nature collante), probablement le ladanum",
+    "hu": "rágógumi (ragadós jellegéből adódóan), valószínűleg ladanum",
+    "id": "permen karet (dari sifatnya yang lengket), mungkin ladanum",
+    "it": "una gomma (dalla sua natura appiccicosa), probabilmente ladanum",
+    "ja": "ガム（その粘着性から）、おそらくラダナム",
+    "ko": "껌 (끈적 끈적한 특성으로 인해), 아마도 라다 눔",
+    "lt": "guma (dėl lipnumo), tikriausiai ladanum",
+    "lv": "gumija (lipīga), iespējams, ladanum",
+    "nb": "en tyggegummi (på grunn av sin klebrige natur), sannsynligvis ladanum",
+    "nl": "een gom (van kleverige aard), waarschijnlijk ladanum",
+    "pl": "guma (ze względu na jej lepką naturę), prawdopodobnie ladanum",
+    "pt": "uma goma (devido ao seu carácter pegajoso), provavelmente ladanum",
+    "ro": "o gumă (de la natura sa lipicioasă), probabil ladanum",
+    "ru": "камедь (из-за ее липкости), вероятно, ладанум",
+    "sk": "guma (podľa lepivosti), pravdepodobne ladanum",
+    "sl": "guma (zaradi lepljivosti), verjetno ladanum",
+    "sv": "ett tuggummi (från dess klibbiga natur), troligen ladanum",
+    "tr": "bir sakız (yapışkan yapısından dolayı), muhtemelen ladanum",
+    "uk": "жуйка (через її липку природу), ймовірно, ладанум",
+    "zh": "一种树胶（从其粘性来看），可能是杓胶"
+  },
+  "verses": [
+    "genesis 37:25:15",
+    "genesis 43:11:21"
+  ]
+}

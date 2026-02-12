@@ -1,0 +1,42 @@
+{
+  "number": "H999",
+  "language": "hebrew",
+  "transliteration": "bîynâh",
+  "pronunciation": "bee-naw'",
+  "definition": "{understanding}",
+  "kjvTranslation": "knowledge.",
+  "translations": {
+    "bg": "{разбиране}",
+    "cs": "{pochopení}",
+    "da": "{forståelse}",
+    "de": "{Verständnis}",
+    "el": "{κατανόηση}",
+    "es": "{comprensión}",
+    "et": "(mõistmine)",
+    "fi": "{Ymmärrys}",
+    "fr": "{compréhension}",
+    "hu": "{megértés}",
+    "id": "[pemahaman]",
+    "it": "{Comprensione}",
+    "ja": "{理解}。",
+    "ko": "{이해}",
+    "lt": "{supratimas}",
+    "lv": "{izpratne}",
+    "nb": "{forståelse}",
+    "nl": "{begrijpend}",
+    "pl": "{zrozumienie}",
+    "pt": "{Compreender}",
+    "ro": "{înțelegere}",
+    "ru": "{понимание}",
+    "sk": "{pochopenie}",
+    "sl": "{razumevanje}",
+    "sv": "{förståelse}",
+    "tr": "{anlamak}",
+    "uk": "{Розуміння.}",
+    "zh": "{理解｝"
+  },
+  "hebrew": "בִּינָה",
+  "verses": [
+    "daniel 2:21:13"
+  ]
+}

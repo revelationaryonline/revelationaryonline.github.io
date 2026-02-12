@@ -1,0 +1,42 @@
+{
+  "number": "H4595",
+  "language": "hebrew",
+  "transliteration": "maʻăṭâphâh",
+  "pronunciation": "mah-at-aw-faw'",
+  "definition": "a cloak",
+  "kjvTranslation": "mantle.",
+  "hebrew": "מַעֲטָפָה",
+  "verses": [
+    "isaiah 3:22:1"
+  ],
+  "translations": {
+    "bg": "наметало",
+    "cs": "plášť",
+    "da": "en kappe",
+    "de": "einen Mantel",
+    "el": "έναν μανδύα",
+    "es": "una capa",
+    "et": "mantel",
+    "fi": "viitta",
+    "fr": "une cape",
+    "hu": "egy köpeny",
+    "id": "jubah",
+    "it": "un mantello",
+    "ja": "外套",
+    "ko": "망토",
+    "lt": "apsiaustas",
+    "lv": "apmetnis",
+    "nb": "en kappe",
+    "nl": "een mantel",
+    "pl": "płaszcz",
+    "pt": "um manto",
+    "ro": "o mantie",
+    "ru": "плащ",
+    "sk": "plášť",
+    "sl": "plašč",
+    "sv": "en mantel",
+    "tr": "bir pelerin",
+    "uk": "плащ",
+    "zh": "披风"
+  }
+}

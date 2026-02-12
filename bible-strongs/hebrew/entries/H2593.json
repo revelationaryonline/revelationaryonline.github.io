@@ -1,0 +1,42 @@
+{
+  "number": "H2593",
+  "language": "hebrew",
+  "transliteration": "chânîyk",
+  "pronunciation": "kaw-neek'",
+  "definition": "initiated; i.e. practiced",
+  "kjvTranslation": "trained.",
+  "translations": {
+    "bg": "инициирани; т.е. практикувани",
+    "cs": "inicioval; tj. praktikoval",
+    "da": "igangsat; dvs. praktiseret",
+    "de": "initiiert; d.h. praktiziert",
+    "el": "ξεκίνησε, δηλαδή ασκήθηκε",
+    "es": "iniciado; es decir, practicado",
+    "et": "algatatud; st praktiseeritud",
+    "fi": "aloitettu; toisin sanoen harjoitettu",
+    "fr": "initié, c'est-à-dire pratiqué",
+    "hu": "kezdeményezett; azaz gyakorolt",
+    "id": "dimulai; yaitu dipraktikkan",
+    "it": "avviata, cioè praticata",
+    "ja": "練習した",
+    "ko": "시작됨; 즉, 실행됨",
+    "lt": "inicijuotas, t. y. praktikuojamas",
+    "lv": "uzsākts; t.i., praktizē",
+    "nb": "initiert; dvs. praktisert",
+    "nl": "geïnitieerd; d.w.z. beoefend",
+    "pl": "zainicjowane; tj. praktykowane",
+    "pt": "iniciado; ou seja, praticado",
+    "ro": "inițiat; adică practicat",
+    "ru": "инициированный; т.е. практикуемый",
+    "sk": "iniciované; t. j. praktizované",
+    "sl": "se je začel; tj. izvajal se je",
+    "sv": "initierad; dvs. praktiserad",
+    "tr": "başlatıldı; yani uygulandı",
+    "uk": "ініційовано; тобто практикується",
+    "zh": "启动；即实践"
+  },
+  "hebrew": "חָנִיךְ",
+  "verses": [
+    "genesis 14:14:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1299",
+  "language": "hebrew",
+  "transliteration": "bâraq",
+  "pronunciation": "baw-rak'",
+  "definition": "to lighten (lightning)",
+  "kjvTranslation": "cast forth.",
+  "translations": {
+    "bg": "да осветява (мълния)",
+    "cs": "odlehčit (blesk)",
+    "da": "at lysne (lyn)",
+    "de": "aufhellen (Blitz)",
+    "el": "να φωτίσει (αστραπή)",
+    "es": "iluminar (relámpago)",
+    "et": "valgustada (välk)",
+    "fi": "sytyttää (salama)",
+    "fr": "éclairer (foudre)",
+    "hu": "világítani (villám)",
+    "id": "untuk meringankan (kilat)",
+    "it": "schiarire (fulmine)",
+    "ja": "明るくなる",
+    "ko": "밝게 하다(번개)",
+    "lt": "apšviesti (žaibas)",
+    "lv": "izgaismot (zibens)",
+    "nb": "å lette (lyn)",
+    "nl": "verlichten (bliksem)",
+    "pl": "rozjaśnić (błyskawica)",
+    "pt": "clarear (relâmpago)",
+    "ro": "a lumina (fulgerul)",
+    "ru": "осветить (молнией)",
+    "sk": "odľahčiť (blesk)",
+    "sl": "osvetliti (strela)",
+    "sv": "att lätta (blixtnedslag)",
+    "tr": "aydınlatmak (şimşek)",
+    "uk": "освітлювати (блискавка)",
+    "zh": "点亮"
+  },
+  "hebrew": "בָּרַק",
+  "verses": [
+    "psalms 144:6:0"
+  ]
+}

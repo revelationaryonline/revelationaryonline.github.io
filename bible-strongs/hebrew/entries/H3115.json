@@ -1,0 +1,43 @@
+{
+  "number": "H3115",
+  "language": "hebrew",
+  "transliteration": "Yôwkebed",
+  "pronunciation": "yo-keh'-bed",
+  "definition": "Jokebed, the mother of Moses",
+  "kjvTranslation": "Jochebed.",
+  "translations": {
+    "bg": "Йокебед, майката на Мойсей",
+    "cs": "Jokebed, matka Mojžíšova",
+    "da": "Jokebed, Moses' mor",
+    "de": "Jokebed, die Mutter von Moses",
+    "el": "Jokebed, η μητέρα του Μωυσή",
+    "es": "Jokebed, la madre de Moisés",
+    "et": "Jokebed, Moosese ema",
+    "fi": "Jokebed, Mooseksen äiti",
+    "fr": "Jokebed, la mère de Moïse",
+    "hu": "Jokebed, Mózes anyja",
+    "id": "Jokebed, ibu dari Musa",
+    "it": "Jokebed, la madre di Mosè",
+    "ja": "モーセの母ヨケベド",
+    "ko": "모세의 어머니, 요게벳",
+    "lt": "Jokebed, Mozės motina",
+    "lv": "Jokebeda, Mozus māte",
+    "nb": "Jokebed, Moses' mor",
+    "nl": "Jokebed, de moeder van Mozes",
+    "pl": "Jokebed, matka Mojżesza",
+    "pt": "Joquebede, a mãe de Moisés",
+    "ro": "Jokebed, mama lui Moise",
+    "ru": "Иокеведа, мать Моисея",
+    "sk": "Jokebed, matka Mojžišova",
+    "sl": "Jokebed, Mojzesova mati",
+    "sv": "Jokebed, mor till Moses",
+    "tr": "Jokebed, Musa'nın annesi",
+    "uk": "Жартівниця, мати Мойсея",
+    "zh": "摩西的母亲约基别德"
+  },
+  "hebrew": "יוֹכֶבֶד",
+  "verses": [
+    "exodus 6:20:3",
+    "numbers 26:59:3"
+  ]
+}

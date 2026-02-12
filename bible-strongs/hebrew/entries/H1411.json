@@ -1,0 +1,43 @@
+{
+  "number": "H1411",
+  "language": "hebrew",
+  "transliteration": "gᵉdâbâr",
+  "pronunciation": "ghed-aw-bawr'",
+  "definition": "a treasurer",
+  "kjvTranslation": "treasurer.",
+  "translations": {
+    "bg": "касиер",
+    "cs": "pokladník",
+    "da": "en kasserer",
+    "de": "einen Schatzmeister",
+    "el": "έναν ταμία",
+    "es": "un tesorero",
+    "et": "varahoidja",
+    "fi": "rahastonhoitaja",
+    "fr": "un trésorier",
+    "hu": "egy pénztáros",
+    "id": "seorang bendahara",
+    "it": "un tesoriere",
+    "ja": "会計係",
+    "ko": "재무 담당자",
+    "lt": "iždininkas",
+    "lv": "kasieris",
+    "nb": "en kasserer",
+    "nl": "een penningmeester",
+    "pl": "skarbnik",
+    "pt": "um tesoureiro",
+    "ro": "un trezorier",
+    "ru": "казначей",
+    "sk": "pokladník",
+    "sl": "blagajnik",
+    "sv": "en kassör",
+    "tr": "bir haznedar",
+    "uk": "скарбник",
+    "zh": "司库"
+  },
+  "hebrew": "גְּדָבָר",
+  "verses": [
+    "daniel 3:2:8",
+    "daniel 3:3:6"
+  ]
+}

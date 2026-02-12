@@ -1,0 +1,42 @@
+{
+  "number": "H351",
+  "language": "hebrew",
+  "transliteration": "ʼêykôh",
+  "pronunciation": "ay-ko",
+  "definition": "where",
+  "kjvTranslation": "where.",
+  "translations": {
+    "bg": "където",
+    "cs": "kde",
+    "da": "hvor",
+    "de": "wobei",
+    "el": "όπου",
+    "es": "donde",
+    "et": "kus",
+    "fi": "jossa",
+    "fr": "où",
+    "hu": "ahol",
+    "id": "di mana",
+    "it": "dove",
+    "ja": "どこ",
+    "ko": "어디",
+    "lt": "kur",
+    "lv": "kur",
+    "nb": "hvor",
+    "nl": "waarbij",
+    "pl": "gdzie",
+    "pt": "onde",
+    "ro": "unde",
+    "ru": "где",
+    "sk": "kde",
+    "sl": "kjer je",
+    "sv": "där",
+    "tr": "nerede",
+    "uk": "де",
+    "zh": "其中"
+  },
+  "hebrew": "אֵיכֹה",
+  "verses": [
+    "secondKings 6:13:3"
+  ]
+}

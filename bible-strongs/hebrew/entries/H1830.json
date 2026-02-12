@@ -1,0 +1,43 @@
+{
+  "number": "H1830",
+  "language": "hebrew",
+  "transliteration": "dâmaʻ",
+  "pronunciation": "daw-mah'",
+  "definition": "to weep",
+  "kjvTranslation": "[idiom] sore, weep.",
+  "translations": {
+    "bg": "да плаче",
+    "cs": "plakat",
+    "da": "at græde",
+    "de": "zu weinen",
+    "el": "να κλαίω",
+    "es": "llorar",
+    "et": "nutma",
+    "fi": "itkeä",
+    "fr": "pleurer",
+    "hu": "sírni",
+    "id": "untuk menangis",
+    "it": "piangere",
+    "ja": "泣く",
+    "ko": "울다",
+    "lt": "verkti",
+    "lv": "raudāt",
+    "nb": "å gråte",
+    "nl": "huilen",
+    "pl": "płakać",
+    "pt": "chorar",
+    "ro": "să plângi",
+    "ru": "плакать",
+    "sk": "plakať",
+    "sl": "jokati",
+    "sv": "att gråta",
+    "tr": "ağlamak için",
+    "uk": "плакати",
+    "zh": "哭泣"
+  },
+  "hebrew": "דָּמַע",
+  "verses": [
+    "jeremiah 13:17:8",
+    "jeremiah 13:17:9"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5001",
+  "language": "hebrew",
+  "transliteration": "nâʼam",
+  "pronunciation": "naw-am'",
+  "definition": "properly, to whisper, i.e. (by implication) to utter as aoracle",
+  "kjvTranslation": "say.",
+  "hebrew": "נָאַם",
+  "translations": {
+    "bg": "правилно, да шепнеш, т.е. (по подразбиране) да изречеш като аоракъл",
+    "cs": "správně šeptat, tj. (implicitně) vyslovovat jako aorákulum",
+    "da": "korrekt, at hviske, dvs. (underforstået) at udtale sig som aorakel",
+    "de": "richtig: flüstern, d.h. (implizit) als Orakel aussprechen",
+    "el": "σωστά, να ψιθυρίζω, δηλαδή (κατ' επέκταση) να προφέρω ως αοράκι",
+    "es": "propiamente, susurrar, es decir (implícitamente) pronunciar como aoráculo",
+    "et": "õigesti, sosistada, s.t. (kaudselt) lausuda kui aoraaklit",
+    "fi": "oikein, kuiskata, eli (implisiittisesti) lausua kuin aorakkaa",
+    "fr": "proprement, chuchoter, c'est-à-dire (implicitement) prononcer comme un aoracle",
+    "hu": "helyesen, suttogni, azaz (értelemszerűen) aorákulumként kimondani",
+    "id": "benar, berbisik, yaitu (dengan implikasi) mengucapkan sebagai ramalan",
+    "it": "propriamente, bisbigliare, cioè (per implicazione) pronunciare come un aoracolo",
+    "ja": "正しくは、ささやくこと、つまり（暗に）アオラクルとして発すること",
+    "ko": "제대로, 속삭이다, 즉 (암시적으로) 오라클처럼 말하다",
+    "lt": "tinkamai, šnabždėti, t. y. (netiesiogiai) ištarti kaip aoraklį",
+    "lv": "pareizi - čukstēt, t.i., (netieši) izrunāt kā aorakls",
+    "nb": "egentlig, å hviske, dvs. (underforstått) å uttale som aorakel",
+    "nl": "naar behoren, fluisteren, d.w.z. (impliciet) uitspreken als een aorakel",
+    "pl": "prawidłowo, szeptać, tj. (w domyśle) wypowiadać jako aorakle",
+    "pt": "propriamente dito, sussurrar, ou seja, (implicitamente) proferir como um aoráculo",
+    "ro": "corect, a șopti, adică (implicit) a rosti ca aoracol",
+    "ru": "правильно, шептать, т.е. (по косвенным признакам) произносить как аоракул",
+    "sk": "správne, šepkať, t. j. (implicitne) vysloviť ako aorákulum",
+    "sl": "pravilno, šepetati, tj. (implicitno) izreči kot aorakel",
+    "sv": "korrekt, att viska, dvs. (underförstått) att yttra som aorakel",
+    "tr": "uygun şekilde, fısıldamak, yani (ima yoluyla) bir kehanet olarak söylemek",
+    "uk": "власне, шепотіти, тобто (за підтекстом) вимовляти як оракул",
+    "zh": "正确地说，\"耳语\"，即（含蓄地）说 \"oracle\"（咒语）。"
+  },
+  "verses": [
+    "jeremiah 23:31:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5192",
+  "language": "hebrew",
+  "transliteration": "nêṭel",
+  "pronunciation": "nay'-tel",
+  "definition": "a burden",
+  "kjvTranslation": "weighty.",
+  "hebrew": "נֵטֶל",
+  "translations": {
+    "bg": "тежест",
+    "cs": "břemeno",
+    "da": "en byrde",
+    "de": "eine Last",
+    "el": "ένα βάρος",
+    "es": "una carga",
+    "et": "koormus",
+    "fi": "taakka",
+    "fr": "un fardeau",
+    "hu": "teher",
+    "id": "beban",
+    "it": "un onere",
+    "ja": "足手まとい",
+    "ko": "부담",
+    "lt": "našta",
+    "lv": "slogs",
+    "nb": "en byrde",
+    "nl": "een last",
+    "pl": "obciążenie",
+    "pt": "um fardo",
+    "ro": "o povară",
+    "ru": "бремя",
+    "sk": "bremeno",
+    "sl": "breme",
+    "sv": "en börda",
+    "tr": "bir yük",
+    "uk": "тягарем",
+    "zh": "负担"
+  },
+  "verses": [
+    "proverbs 27:3:2"
+  ]
+}

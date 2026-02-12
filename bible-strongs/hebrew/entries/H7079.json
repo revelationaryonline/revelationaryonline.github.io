@@ -1,0 +1,43 @@
+{
+  "number": "H7079",
+  "language": "hebrew",
+  "transliteration": "Qᵉnâth",
+  "pronunciation": "ken-awth'",
+  "definition": "Kenath, a place East of the Jordan",
+  "kjvTranslation": "Kenath.",
+  "hebrew": "קְנָת",
+  "translations": {
+    "bg": "Кенат, място на изток от Йордан",
+    "cs": "Kenat, místo na východ od Jordánu",
+    "da": "Kenath, et sted øst for Jordan",
+    "de": "Kenath, ein Ort östlich des Jordans",
+    "el": "Κενάθ, τόπος ανατολικά του Ιορδάνη",
+    "es": "Kenath, un lugar al este del Jordán",
+    "et": "Kenath, koht Jordani jõest ida pool",
+    "fi": "Kenath, paikka Jordanin itäpuolella",
+    "fr": "Kenath, lieu situé à l'est du Jourdain",
+    "hu": "Kenáth, a Jordántól keletre fekvő hely",
+    "id": "Kenath, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Kenath, un luogo a est del Giordano",
+    "ja": "ケナス、ヨルダンの東の地",
+    "ko": "요단강 동쪽, 케나스",
+    "lt": "Kenatas, vietovė į rytus nuo Jordano",
+    "lv": "Kenath, vieta uz austrumiem no Jordānas",
+    "nb": "Kenath, et sted øst for Jordan",
+    "nl": "Kenath, een plaats ten oosten van de Jordaan",
+    "pl": "Kenath, miejsce na wschód od Jordanu",
+    "pt": "Quenate, um lugar a leste do Jordão",
+    "ro": "Kenath, un loc la est de Iordan",
+    "ru": "Кенаф, место к востоку от Иордана",
+    "sk": "Kenat, miesto na východ od Jordánu",
+    "sl": "Kenath, kraj vzhodno od Jordana",
+    "sv": "Kenath, en plats öster om Jordanfloden",
+    "tr": "Kenath, Ürdün'ün doğusunda bir yer",
+    "uk": "Кенат, місце на схід від Йордану",
+    "zh": "凯纳特，约旦河东的一个地方"
+  },
+  "verses": [
+    "numbers 32:42:4",
+    "firstChronicles 2:23:8"
+  ]
+}

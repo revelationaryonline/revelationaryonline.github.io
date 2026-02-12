@@ -1,0 +1,42 @@
+{
+  "number": "H7907",
+  "language": "hebrew",
+  "transliteration": "sekvîy",
+  "pronunciation": "sek-vee'",
+  "definition": "observant, i.e. (concretely) the mind",
+  "kjvTranslation": "heart.",
+  "hebrew": "שֶׂכְוִי",
+  "translations": {
+    "bg": "наблюдателен, т.е. (конкретно) умът",
+    "cs": "pozorující, tj. (konkrétně) mysl",
+    "da": "iagttagende, dvs. (konkret) sindet",
+    "de": "beobachtend, d.h. (konkret) der Verstand",
+    "el": "παρατηρητικός, δηλαδή (συγκεκριμένα) ο νους",
+    "es": "observante, es decir (concretamente) la mente",
+    "et": "vaatleja, st (konkreetselt) mõistus",
+    "fi": "tarkkaavainen, eli (konkreettisesti) mieli",
+    "fr": "observateur, c'est-à-dire (concrètement) l'esprit",
+    "hu": "megfigyelő, azaz (konkrétan) az elme",
+    "id": "jeli, yaitu (secara konkret) pikiran",
+    "it": "osservante, cioè (concretamente) la mente",
+    "ja": "観察者、すなわち（具体的には）心",
+    "ko": "관찰력, 즉 (구체적으로) 마음",
+    "lt": "pastabus, t. y. (konkrečiai) protas",
+    "lv": "uzmanīgs, t.i., (konkrēti) prāts",
+    "nb": "observant, dvs. (konkret) sinnet",
+    "nl": "opmerkzaam, d.w.z. (concreet) de geest",
+    "pl": "spostrzegawczy, tj. (konkretnie) umysł",
+    "pt": "observador, ou seja, (concretamente) a mente",
+    "ro": "observator, adică (concret) mintea",
+    "ru": "наблюдательный, т.е. (конкретно) ум",
+    "sk": "pozorný, t. j. (konkrétne) myseľ",
+    "sl": "pozoren, tj. (konkretno) um",
+    "sv": "observant, dvs. (konkret) sinnet",
+    "tr": "gözlemci, yani (somut olarak) zihin",
+    "uk": "спостережливий, тобто (конкретно) розум",
+    "zh": "观察者，即（具体地说）心灵"
+  },
+  "verses": [
+    "job 38:36:7"
+  ]
+}

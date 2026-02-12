@@ -1,0 +1,43 @@
+{
+  "number": "H7124",
+  "language": "hebrew",
+  "transliteration": "qôrêʼ",
+  "pronunciation": "ko-ray'",
+  "definition": "a caller, i.e. partridge (from its cry)",
+  "kjvTranslation": "partridge. See also H6981 (קוֹרֵא).",
+  "hebrew": "קֹרֵא",
+  "translations": {
+    "bg": "викач, например яребица (от вика ѝ)",
+    "cs": "volající, tj. koroptev (podle jejího křiku)",
+    "da": "en udråber, f.eks. agerhøne (fra dens skrig)",
+    "de": "ein Rufer, z. B. ein Rebhuhn (nach seinem Ruf)",
+    "el": "ένας καλεστής, π.χ. πέρδικα (από την κραυγή της)",
+    "es": "un llamador, es decir, perdiz (por su grito)",
+    "et": "helistaja, st. partane (tema hüüatusest)",
+    "fi": "huutaja, esim. peltopyy (sen huudosta)",
+    "fr": "un appelant, c'est-à-dire une perdrix (d'après son cri)",
+    "hu": "egy hívó, pl. partifecske (a kiáltásából)",
+    "id": "pemanggil, yaitu ayam hutan (dari teriakannya)",
+    "it": "un richiamo, ad esempio una pernice (dal suo verso)",
+    "ja": "鷓鴣",
+    "ko": "발신자, 즉 자고새(울음소리에서)",
+    "lt": "šauklys, t. y. kurapka (pagal jos šauksmą)",
+    "lv": "saucējs, t. i., gaileste (pēc tās sauciena)",
+    "nb": "en roper, f.eks. rapphøne (fra ropet)",
+    "nl": "een roeper, d.w.z. patrijs (van zijn roep)",
+    "pl": "wołacz, tj. kuropatwa (od jej krzyku)",
+    "pt": "um chamador, ou seja, a perdiz (pelo seu grito)",
+    "ro": "un chemător, de exemplu o potârniche (de la strigătul ei)",
+    "ru": "зовущий, т.е. куропатка (по ее крику)",
+    "sk": "volajúci, t. j. jarabica (podľa jej kriku)",
+    "sl": "klicatelj, npr. jerebica (po njenem kriku)",
+    "sv": "en utropare, t.ex. rapphöna (från dess läte)",
+    "tr": "bir çağırıcı, yani keklik (çığlığından)",
+    "uk": "крикун, тобто куріпка (від її крику)",
+    "zh": "鹧鸪"
+  },
+  "verses": [
+    "firstSamuel 26:20:18",
+    "jeremiah 17:11:0"
+  ]
+}

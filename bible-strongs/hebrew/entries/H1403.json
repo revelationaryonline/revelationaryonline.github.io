@@ -1,0 +1,43 @@
+{
+  "number": "H1403",
+  "language": "hebrew",
+  "transliteration": "Gabrîyʼêl",
+  "pronunciation": "gab-ree-ale'",
+  "definition": "Gabriel, an archangel",
+  "kjvTranslation": "Garbriel.",
+  "translations": {
+    "bg": "Гавраил, архангел",
+    "cs": "Gabriel, archanděl",
+    "da": "Gabriel, en ærkeengel",
+    "de": "Gabriel, ein Erzengel",
+    "el": "Γαβριήλ, αρχάγγελος",
+    "es": "Gabriel, un arcángel",
+    "et": "Peaingel Gabriel",
+    "fi": "Gabriel, arkkienkeli",
+    "fr": "Gabriel, un archange",
+    "hu": "Gábriel arkangyal",
+    "id": "Jibril, seorang malaikat agung",
+    "it": "Gabriele, un arcangelo",
+    "ja": "大天使ガブリエル",
+    "ko": "대천사 가브리엘",
+    "lt": "Gabrielius, arkangelas",
+    "lv": "Gabriēls, erceņģelis",
+    "nb": "Gabriel, en erkeengel",
+    "nl": "Gabriël, een aartsengel",
+    "pl": "Gabriel, archanioł",
+    "pt": "Gabriel, um arcanjo",
+    "ro": "Gabriel, un arhanghel",
+    "ru": "Гавриил, архангел",
+    "sk": "Gabriel, archanjel",
+    "sl": "Gabriel, nadangel",
+    "sv": "Gabriel, en ärkeängel",
+    "tr": "Cebrail, bir baş melek",
+    "uk": "Гавриїл, архангел",
+    "zh": "加百列"
+  },
+  "hebrew": "גַּבְרִיאֵל",
+  "verses": [
+    "daniel 8:16:7",
+    "daniel 9:21:5"
+  ]
+}

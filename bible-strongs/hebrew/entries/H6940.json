@@ -1,0 +1,42 @@
+{
+  "number": "H6940",
+  "language": "hebrew",
+  "transliteration": "qadrûwth",
+  "pronunciation": "kad-rooth'",
+  "definition": "duskiness",
+  "kjvTranslation": "blackness.",
+  "hebrew": "קַדְרוּת",
+  "translations": {
+    "bg": "сумрачност",
+    "cs": "soumrak",
+    "da": "skumring",
+    "de": "düsternis",
+    "el": "duskiness",
+    "es": "crepúsculo",
+    "et": "hämarus",
+    "fi": "hämäryys",
+    "fr": "crépuscule",
+    "hu": "szürkület",
+    "id": "duskiness",
+    "it": "crepuscolo",
+    "ja": "薄暗さ",
+    "ko": "황혼",
+    "lt": "sutemos",
+    "lv": "drūmums",
+    "nb": "skumring",
+    "nl": "schemerigheid",
+    "pl": "zmierzch",
+    "pt": "crepuscularidade",
+    "ro": "întunecare",
+    "ru": "сумрак",
+    "sk": "súmrak",
+    "sl": "mrakobnost",
+    "sv": "skymning",
+    "tr": "karanlik",
+    "uk": "сутінки",
+    "zh": "薄暮"
+  },
+  "verses": [
+    "isaiah 50:3:2"
+  ]
+}

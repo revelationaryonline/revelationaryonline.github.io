@@ -1,0 +1,42 @@
+{
+  "number": "H2355",
+  "language": "hebrew",
+  "transliteration": "chôwr",
+  "pronunciation": "khore",
+  "definition": "white linen",
+  "kjvTranslation": "network. Compare H2715 (חֹר).",
+  "translations": {
+    "bg": "бял лен",
+    "cs": "bílé plátno",
+    "da": "hvidt linned",
+    "de": "weiße Wäsche",
+    "el": "λευκό λινό",
+    "es": "lino blanco",
+    "et": "valge lina",
+    "fi": "valkoinen pellava",
+    "fr": "lin blanc",
+    "hu": "fehér vászon",
+    "id": "linen putih",
+    "it": "lino bianco",
+    "ja": "ホワイトリネン",
+    "ko": "화이트 린넨",
+    "lt": "baltas linas",
+    "lv": "balts lins",
+    "nb": "hvitt lin",
+    "nl": "wit linnen",
+    "pl": "biały len",
+    "pt": "linho branco",
+    "ro": "lenjerie albă",
+    "ru": "белый лён",
+    "sk": "biele plátno",
+    "sl": "belo platno",
+    "sv": "vitt linne",
+    "tr": "beyaz keten",
+    "uk": "біла білизна",
+    "zh": "白亚麻布"
+  },
+  "hebrew": "חוֹר",
+  "verses": [
+    "isaiah 19:9:5"
+  ]
+}

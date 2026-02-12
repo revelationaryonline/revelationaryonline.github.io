@@ -1,0 +1,42 @@
+{
+  "number": "H7053",
+  "language": "hebrew",
+  "transliteration": "qillᵉshôwn",
+  "pronunciation": "kil-lesh-one'",
+  "definition": "a prong, i.e. hay-fork",
+  "kjvTranslation": "fork.",
+  "hebrew": "קִלְּשׁוֹן",
+  "translations": {
+    "bg": "зъб, т.е. вилица за сено",
+    "cs": "hrot, tj. vidle na seno",
+    "da": "en spids, f.eks. en høtyv",
+    "de": "ein Zinken, z. B. eine Heugabel",
+    "el": "ένα πηρούνι, π.χ. πιρούνι από άχυρο",
+    "es": "una púa, es decir, una horquilla de heno",
+    "et": "sang, s.t. heinaküünla",
+    "fi": "piikki, eli heinähaarukka",
+    "fr": "une branche, c'est-à-dire une fourche de foin",
+    "hu": "egy tüske, pl. szénavilla",
+    "id": "cabang, yaitu garpu jerami",
+    "it": "una punta, cioè una forca da fieno",
+    "ja": "一枝、すなわち干し草フォーク",
+    "ko": "갈래, 즉 건초 갈퀴",
+    "lt": "dyglys, t. y. šieno šakė",
+    "lv": "zizlis, t.i., siena dakša",
+    "nb": "en spiss, f.eks. en høygaffel",
+    "nl": "een tand, bijv. hooivork",
+    "pl": "ząb, np. widelec do siana",
+    "pt": "um pino, ou seja, uma forquilha",
+    "ro": "a prong, adică furcă de fân",
+    "ru": "штырь, т.е. вилка сена",
+    "sk": "hrot, t. j. vidlica na seno",
+    "sl": "vilice, npr. vilice za seno",
+    "sv": "en gren, t.ex. en högaffel",
+    "tr": "bir çatal, yani saman çatalı",
+    "uk": "штир, тобто вила для сіна",
+    "zh": "杈"
+  },
+  "verses": [
+    "firstSamuel 13:21:6"
+  ]
+}

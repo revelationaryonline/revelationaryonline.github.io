@@ -1,0 +1,43 @@
+{
+  "number": "H8312",
+  "language": "hebrew",
+  "transliteration": "sarʻaph",
+  "pronunciation": "sar-af'",
+  "definition": "cogitation",
+  "kjvTranslation": "thought.",
+  "hebrew": "שַׂרְעַף",
+  "translations": {
+    "bg": "когитация",
+    "cs": "kogitace",
+    "da": "overvejelser",
+    "de": "nachdenken",
+    "el": "σκέψη",
+    "es": "cogitación",
+    "et": "mõtisklus",
+    "fi": "ajattelu",
+    "fr": "cogitation",
+    "hu": "gondolkodás",
+    "id": "kogitasi",
+    "it": "cogitazione",
+    "ja": "思考",
+    "ko": "코지테이션",
+    "lt": "kogitacija",
+    "lv": "kogitācija",
+    "nb": "grubling",
+    "nl": "overpeinzing",
+    "pl": "rozmyślanie",
+    "pt": "cogitação",
+    "ro": "cogitație",
+    "ru": "когитация",
+    "sk": "kogitácia",
+    "sl": "kogitacija",
+    "sv": "cogitation",
+    "tr": "cogitation",
+    "uk": "роздуми",
+    "zh": "思考"
+  },
+  "verses": [
+    "psalms 94:19:1",
+    "psalms 139:23:6"
+  ]
+}

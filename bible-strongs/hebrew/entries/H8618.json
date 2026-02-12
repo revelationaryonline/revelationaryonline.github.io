@@ -1,0 +1,42 @@
+{
+  "number": "H8618",
+  "language": "hebrew",
+  "transliteration": "tᵉqôwmêm",
+  "pronunciation": "tek-o-mame'",
+  "definition": "an opponent",
+  "kjvTranslation": "rise up against.",
+  "hebrew": "תְּקוֹמֵם",
+  "translations": {
+    "bg": "противник",
+    "cs": "soupeř",
+    "da": "en modstander",
+    "de": "ein Gegner",
+    "el": "έναν αντίπαλο",
+    "es": "un oponente",
+    "et": "vastane",
+    "fi": "vastustaja",
+    "fr": "un opposant",
+    "hu": "egy ellenfél",
+    "id": "lawan",
+    "it": "un avversario",
+    "ja": "対戦相手",
+    "ko": "상대",
+    "lt": "priešininkas",
+    "lv": "pretinieks",
+    "nb": "en motstander",
+    "nl": "een tegenstander",
+    "pl": "przeciwnik",
+    "pt": "um adversário",
+    "ro": "un adversar",
+    "ru": "противник",
+    "sk": "súpera",
+    "sl": "nasprotnik",
+    "sv": "en motståndare",
+    "tr": "bir rakip",
+    "uk": "опонента",
+    "zh": "敌手"
+  },
+  "verses": [
+    "psalms 139:21:4"
+  ]
+}

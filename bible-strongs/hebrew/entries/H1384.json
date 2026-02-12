@@ -1,0 +1,42 @@
+{
+  "number": "H1384",
+  "language": "hebrew",
+  "transliteration": "gibbên",
+  "pronunciation": "gib-bane'",
+  "definition": "hunch-backed",
+  "kjvTranslation": "crookbackt.",
+  "translations": {
+    "bg": "гърбав",
+    "cs": "hrbatý",
+    "da": "pukkelrygget",
+    "de": "bucklige",
+    "el": "hunch-backed",
+    "es": "jorobado",
+    "et": "hunch-backed",
+    "fi": "hunch-backed",
+    "fr": "bossu",
+    "hu": "púposhátú",
+    "id": "berpunggung bungkuk (hunch-backed)",
+    "it": "gobbo",
+    "ja": "猫背",
+    "ko": "직감 지원",
+    "lt": "garbanotasis",
+    "lv": "ar nārstu",
+    "nb": "pukkelrygget",
+    "nl": "gebochelde",
+    "pl": "garbaty",
+    "pt": "corcunda",
+    "ro": "cocoșat",
+    "ru": "горбоносый",
+    "sk": "hrbatý",
+    "sl": "grbasti",
+    "sv": "puckelryggig",
+    "tr": "kambur sırtlı",
+    "uk": "горбоносий",
+    "zh": "驼背"
+  },
+  "hebrew": "גִּבֵּן",
+  "verses": [
+    "leviticus 21:20:1"
+  ]
+}

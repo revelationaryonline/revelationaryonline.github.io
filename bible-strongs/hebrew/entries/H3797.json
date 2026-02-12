@@ -1,0 +1,43 @@
+{
+  "number": "H3797",
+  "language": "hebrew",
+  "transliteration": "kᵉthal",
+  "pronunciation": "keth-al'",
+  "definition": "{a wall (as gathering inmates)}",
+  "kjvTranslation": "wall.",
+  "hebrew": "כְּתַל",
+  "translations": {
+    "bg": "{стена (за събиране на затворници)}",
+    "cs": "{stěna (jako shromažďování vězňů)}",
+    "da": "{en mur (som samler indsatte)}",
+    "de": "{eine Mauer (als Ansammlung von Insassen)}",
+    "el": "{ένα τείχος (ως συγκέντρωση κρατουμένων)}",
+    "es": "{un muro (como reunir presos)}",
+    "et": "{seina (nagu kinnipeetavate kogumine)}",
+    "fi": "{seinä (vankien keräämiseen)..",
+    "fr": "{un mur (pour rassembler les détenus)}",
+    "hu": "{a fal (mint a rabok összegyűjtése)}",
+    "id": "{tembok (sebagai tempat berkumpulnya para narapidana)}",
+    "it": "{un muro (per raccogliere i detenuti)",
+    "ja": "壁（収容者を集めるための）}。",
+    "ko": "{벽(수감자를 모으는 역할)}",
+    "lt": "{siena (kaip kalinių surinkimo vieta)}",
+    "lv": "{siena (kā ieslodzīto pulcēšana)}",
+    "nb": "{en vegg (som samler innsatte)}",
+    "nl": "{een muur (als het verzamelen van gevangenen)}",
+    "pl": "{ściana (gromadząca więźniów)}",
+    "pt": "{um muro (para reunir reclusos)}",
+    "ro": "{un zid (pentru adunarea deținuților)}",
+    "ru": "{стена (при сборе заключенных)}",
+    "sk": "{stena (ako zhromažďovanie väzňov)}",
+    "sl": "{zid (kot zbirališče zapornikov)}",
+    "sv": "{en vägg (som samling för intagna)}",
+    "tr": "{bir duvar (mahkumları toplamak gibi)}",
+    "uk": "{стіна (як збір ув'язнених)}",
+    "zh": "{一堵墙（作为囚犯的聚集地）}"
+  },
+  "verses": [
+    "ezra 5:8:16",
+    "daniel 5:5:14"
+  ]
+}

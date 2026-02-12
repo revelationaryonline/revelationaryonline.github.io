@@ -1,0 +1,43 @@
+{
+  "number": "H248",
+  "language": "hebrew",
+  "transliteration": "ʼezrôwaʻ",
+  "pronunciation": "ez-ro'-a",
+  "definition": "the arm",
+  "kjvTranslation": "arm.",
+  "translations": {
+    "bg": "ръката",
+    "cs": "rameno",
+    "da": "armen",
+    "de": "der Arm",
+    "el": "το χέρι",
+    "es": "el brazo",
+    "et": "käsi",
+    "fi": "käsivarsi",
+    "fr": "le bras",
+    "hu": "a kar",
+    "id": "lengan",
+    "it": "il braccio",
+    "ja": "腕",
+    "ko": "팔",
+    "lt": "ranka",
+    "lv": "roku",
+    "nb": "armen",
+    "nl": "de arm",
+    "pl": "ramię",
+    "pt": "o braço",
+    "ro": "brațul",
+    "ru": "рука",
+    "sk": "rameno",
+    "sl": "roka",
+    "sv": "armen",
+    "tr": "kol",
+    "uk": "рука",
+    "zh": "手臂"
+  },
+  "hebrew": "אֶזְרוֹעַ",
+  "verses": [
+    "job 31:22:3",
+    "jeremiah 32:21:11"
+  ]
+}

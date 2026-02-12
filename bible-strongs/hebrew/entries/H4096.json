@@ -1,0 +1,42 @@
+{
+  "number": "H4096",
+  "language": "hebrew",
+  "transliteration": "midrâk",
+  "pronunciation": "mid-rawk'",
+  "definition": "a treading, i.e. a place for stepping on",
+  "kjvTranslation": "(foot-) breadth.",
+  "hebrew": "מִדְרָךְ",
+  "translations": {
+    "bg": "стъпало, т.е. място за стъпване",
+    "cs": "stupátko, tj. místo k našlapování",
+    "da": "en trædeflade, dvs. et sted at træde på",
+    "de": "eine Trittfläche, d.h. eine Stelle zum Betreten",
+    "el": "ένα πάτημα, δηλαδή ένα μέρος για πάτημα",
+    "es": "una pisada, es decir, un lugar para pisar",
+    "et": "astmik, s.t. koht, kuhu saab astuda",
+    "fi": "astinlauta eli paikka, johon voi astua",
+    "fr": "une marche, c'est-à-dire un endroit où l'on peut marcher",
+    "hu": "taposó, azaz taposásra alkalmas hely",
+    "id": "tempat menginjak, yaitu tempat untuk menginjak",
+    "it": "un calpestio, cioè un luogo da calpestare",
+    "ja": "踏み場",
+    "ko": "밟는 곳, 즉 밟는 장소",
+    "lt": "laiptelis, t. y. vieta, ant kurios galima šlapintis",
+    "lv": "pakāpiens, t. i., vieta, uz kuras var uzkāpt",
+    "nb": "en tråkkflate, dvs. et sted å tråkke på",
+    "nl": "een trede, d.w.z. een plaats om op te stappen",
+    "pl": "bieżnik, tj. miejsce, na które można nadepnąć",
+    "pt": "um piso, ou seja, um local para pisar",
+    "ro": "o treaptă, adică un loc pe care se calcă",
+    "ru": "протектор, т.е. место, на которое можно наступать",
+    "sk": "stúpadlo, t. j. miesto na šliapanie",
+    "sl": "stopnica, tj. mesto za stopanje",
+    "sv": "en trampyta, d.v.s. en plats att trampa på",
+    "tr": "bir basamak, yani üzerine basmak için bir yer",
+    "uk": "протектор, тобто місце, на яке можна наступити",
+    "zh": "踏步，即踩踏的地方"
+  },
+  "verses": [
+    "deuteronomy 2:5:9"
+  ]
+}

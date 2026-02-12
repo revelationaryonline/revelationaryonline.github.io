@@ -1,0 +1,42 @@
+{
+  "number": "H2357",
+  "language": "hebrew",
+  "transliteration": "châvar",
+  "pronunciation": "khaw-var'",
+  "definition": "to blanch (as with shame)",
+  "kjvTranslation": "wax pale.",
+  "translations": {
+    "bg": "да побледнее (от срам)",
+    "cs": "blednout (studem)",
+    "da": "at blive bleg (som af skam)",
+    "de": "bleich werden (wie vor Scham)",
+    "el": "να χλωμιάσω (από ντροπή)",
+    "es": "palidecer (de vergüenza)",
+    "et": "punastada (nagu häbistades)",
+    "fi": "punastua (kuten häpeästä)",
+    "fr": "blanchir (comme la honte)",
+    "hu": "elvörösödni (mint a szégyentől)",
+    "id": "memucat (seperti rasa malu)",
+    "it": "sbollentare (come per la vergogna)",
+    "ja": "羞じらう",
+    "ko": "(수치심과 마찬가지로) 데치다",
+    "lt": "išblukti (iš gėdos)",
+    "lv": "nobālēt (no kauna)",
+    "nb": "å blekne (som av skam)",
+    "nl": "blozen (als van schaamte)",
+    "pl": "blednąć (jak ze wstydu)",
+    "pt": "branquear (de vergonha)",
+    "ro": "a păli (ca de rușine)",
+    "ru": "покраснеть (от стыда)",
+    "sk": "blednúť (od hanby)",
+    "sl": "zbledeti (od sramu)",
+    "sv": "att blekna (som av skam)",
+    "tr": "ağarmak (utançla olduğu gibi)",
+    "uk": "бліднути (як від сорому)",
+    "zh": "脸红"
+  },
+  "hebrew": "חָוַר",
+  "verses": [
+    "isaiah 29:22:18"
+  ]
+}

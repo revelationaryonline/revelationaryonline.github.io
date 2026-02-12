@@ -1,0 +1,43 @@
+{
+  "number": "H5118",
+  "language": "hebrew",
+  "transliteration": "nûwach",
+  "pronunciation": "noo'-akh",
+  "definition": "quiet",
+  "kjvTranslation": "rest(-ed, -ing place).",
+  "hebrew": "נוּחַ",
+  "translations": {
+    "bg": "тихо",
+    "cs": "tichý",
+    "da": "stille og roligt",
+    "de": "leise",
+    "el": "ήσυχο",
+    "es": "tranquilo",
+    "et": "vaikne",
+    "fi": "hiljainen",
+    "fr": "calme",
+    "hu": "csendes",
+    "id": "tenang",
+    "it": "tranquillo",
+    "ja": "静か",
+    "ko": "조용한",
+    "lt": "tylus",
+    "lv": "klusā",
+    "nb": "stille",
+    "nl": "rustig",
+    "pl": "spokój",
+    "pt": "calmo",
+    "ro": "liniște",
+    "ru": "тихий",
+    "sk": "tichý",
+    "sl": "tiho",
+    "sv": "tyst",
+    "tr": "sessiz",
+    "uk": "тихо",
+    "zh": "安静"
+  },
+  "verses": [
+    "secondChronicles 6:41:4",
+    "esther 9:16:9"
+  ]
+}

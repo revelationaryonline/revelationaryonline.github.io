@@ -1,0 +1,43 @@
+{
+  "number": "H1894",
+  "language": "hebrew",
+  "transliteration": "hôben",
+  "pronunciation": "ho'-ben",
+  "definition": "ebony",
+  "kjvTranslation": "ebony.",
+  "translations": {
+    "bg": "абанос",
+    "cs": "ebenové dřevo",
+    "da": "ibenholt",
+    "de": "ebenholz",
+    "el": "έβενος",
+    "es": "ébano",
+    "et": "eebenipuu",
+    "fi": "eebenpuu",
+    "fr": "ébène",
+    "hu": "ébenfa",
+    "id": "eboni",
+    "it": "ebano",
+    "ja": "黒檀",
+    "ko": "흑단",
+    "lt": "juodmedis",
+    "lv": "melnkoks",
+    "nb": "ibenholt",
+    "nl": "ebbenhout",
+    "pl": "heban",
+    "pt": "ébano",
+    "ro": "abanos",
+    "ru": "черное дерево",
+    "sk": "ebenové drevo",
+    "sl": "ebenovina",
+    "sv": "ebenholts",
+    "tr": "abanoz",
+    "uk": "чорне дерево",
+    "zh": "乌木"
+  },
+  "hebrew": "הֹבֶן",
+  "verses": [
+    "ezekiel 27:15:9",
+    "ezekiel 27:15:10"
+  ]
+}

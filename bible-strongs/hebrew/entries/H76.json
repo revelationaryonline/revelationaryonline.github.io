@@ -1,0 +1,43 @@
+{
+  "number": "H76",
+  "language": "hebrew",
+  "transliteration": "ʼăbaʻbuʻâh",
+  "pronunciation": "ab-ah-boo-aw'",
+  "definition": "an inflammatory pustule (as eruption)",
+  "kjvTranslation": "blains.",
+  "translations": {
+    "bg": "възпалителна пустула (като изригване)",
+    "cs": "zánětlivý vřídek (jako erupce)",
+    "da": "en inflammatorisk pustel (som udbrud)",
+    "de": "eine entzündliche Pustel (als Eruption)",
+    "el": "μια φλεγμονώδης φλύκταινα (ως εξάνθημα)",
+    "es": "una pústula inflamatoria (como erupción)",
+    "et": "põletikuline pustuloos (kui purskamine)",
+    "fi": "tulehduksellinen märkärakkula (purkauksena)",
+    "fr": "une pustule inflammatoire (comme éruption)",
+    "hu": "gyulladásos pustula (mint kitörés)",
+    "id": "bintil yang meradang (seperti erupsi)",
+    "it": "una pustola infiammatoria (come eruzione)",
+    "ja": "炎症性膿疱（発疹として）",
+    "ko": "염증성 농포(분출성 농포)",
+    "lt": "uždegiminė pūslelė (kaip išsiveržimas)",
+    "lv": "iekaisuma pustula (kā izvirdums)",
+    "nb": "en betennelsesaktig pustel (som utbrudd)",
+    "nl": "een ontstekingspuist (als eruptie)",
+    "pl": "krosta zapalna (jako erupcja)",
+    "pt": "uma pústula inflamatória (como uma erupção)",
+    "ro": "o pustule inflamatorie (ca erupție)",
+    "ru": "воспалительная пустула (как высыпание)",
+    "sk": "zápalová pustula (ako erupcia)",
+    "sl": "vnetna pustula (kot erupcija)",
+    "sv": "en inflammatorisk pustel (som eruption)",
+    "tr": "iltihaplı bir püstül (erüpsiyon olarak)",
+    "uk": "запальний гнійничок (як висип)",
+    "zh": "炎性脓疱"
+  },
+  "hebrew": "אֲבַעְבֻּעָה",
+  "verses": [
+    "exodus 9:9:13",
+    "exodus 9:10:13"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2424",
+  "language": "hebrew",
+  "transliteration": "chayûwth",
+  "pronunciation": "khah-yooth'",
+  "definition": "life",
+  "kjvTranslation": "[idiom] living.",
+  "translations": {
+    "bg": "живот",
+    "cs": "life",
+    "da": "liv",
+    "de": "leben",
+    "el": "ζωή",
+    "es": "vida",
+    "et": "elu",
+    "fi": "elämä",
+    "fr": "vie",
+    "hu": "élet",
+    "id": "kehidupan",
+    "it": "vita",
+    "ja": "ライフ",
+    "ko": "생활",
+    "lt": "gyvenimas",
+    "lv": "dzīve",
+    "nb": "liv",
+    "nl": "leven",
+    "pl": "życie",
+    "pt": "vida",
+    "ro": "viață",
+    "ru": "жизнь",
+    "sk": "život",
+    "sl": "življenje",
+    "sv": "liv",
+    "tr": "hayat",
+    "uk": "життя",
+    "zh": "生活"
+  },
+  "hebrew": "חַיּוּת",
+  "verses": [
+    "secondSamuel 20:3:28"
+  ]
+}

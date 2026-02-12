@@ -1,0 +1,43 @@
+{
+  "number": "H6361",
+  "language": "hebrew",
+  "transliteration": "paṭṭîysh",
+  "pronunciation": "pat-teesh'",
+  "definition": "a gown (as if hammered out wide)",
+  "kjvTranslation": "hose.",
+  "hebrew": "פַּטִּישׁ",
+  "translations": {
+    "bg": "рокля (сякаш изкована на широка площ)",
+    "cs": "šaty (jako by byly vyraženy doširoka)",
+    "da": "en kjole (som om den er hamret ud i bredden)",
+    "de": "ein Kleid (als ob es weit ausgeschlagen wäre)",
+    "el": "ένα φόρεμα (σαν σφυρηλατημένο)",
+    "es": "una bata (como si se martillara a lo ancho)",
+    "et": "kleit (nagu oleks ta laialt välja haamritatud)",
+    "fi": "puku (ikään kuin vasaroitu leveäksi)",
+    "fr": "une robe (comme si elle était martelée en largeur)",
+    "hu": "egy köntös (mintha szélesre kalapálták volna)",
+    "id": "gaun (seolah-olah dipalu lebar-lebar)",
+    "it": "un camice (come se fosse stato martellato in largo)",
+    "ja": "ガウン",
+    "ko": "가운(망치로 두드려서 넓게 펼친 것처럼)",
+    "lt": "suknelė (tarsi iškalta plačiai)",
+    "lv": "kleita (it kā izkalta platumā)",
+    "nb": "en kjole (som om den er hamret ut bredt)",
+    "nl": "een toga (alsof hij wijd is uitgeslagen)",
+    "pl": "szlafrok (jakby wbijany szeroko)",
+    "pt": "uma bata (como se tivesse sido martelada de forma larga)",
+    "ro": "o rochie (ca și cum ar fi ciocănită larg)",
+    "ru": "платье (как будто выбито широким молотком)",
+    "sk": "šaty (akoby vybíjané doširoka)",
+    "sl": "obleka (kot bi bila na široko izklesana)",
+    "sv": "en klänning (som om den hamrats ut brett)",
+    "tr": "bir elbise (sanki genişçe dövülmüş gibi)",
+    "uk": "сукня (наче вибита назовні)",
+    "zh": "襴"
+  },
+  "verses": [
+    "daniel 3:21:5",
+    "daniel 3:21:6"
+  ]
+}

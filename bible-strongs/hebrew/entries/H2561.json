@@ -1,0 +1,42 @@
+{
+  "number": "H2561",
+  "language": "hebrew",
+  "transliteration": "chemer",
+  "pronunciation": "kheh'-mer",
+  "definition": "wine (as fermenting)",
+  "kjvTranslation": "[idiom] pure, red wine.",
+  "translations": {
+    "bg": "вино (при ферментация)",
+    "cs": "víno (jako kvasící)",
+    "da": "vin (som gæring)",
+    "de": "wein (als Gärung)",
+    "el": "κρασί (ως ζύμωση)",
+    "es": "vino (en fermentación)",
+    "et": "vein (käärivana)",
+    "fi": "viini (käymistilassa)",
+    "fr": "le vin (en tant que ferment)",
+    "hu": "bor (mint erjedő)",
+    "id": "anggur (seperti fermentasi)",
+    "it": "vino (come fermentazione)",
+    "ja": "ワイン",
+    "ko": "와인(발효 중)",
+    "lt": "vynas (kaip fermentuojantis)",
+    "lv": "vīns (kā rūgstošs)",
+    "nb": "vin (som gjæring)",
+    "nl": "wijn (als gistend)",
+    "pl": "wino (jako fermentujące)",
+    "pt": "vinho (em fermentação)",
+    "ro": "vin (ca fermentare)",
+    "ru": "вино (в процессе брожения)",
+    "sk": "víno (ako kvasiace)",
+    "sl": "vino (kot fermentacija)",
+    "sv": "vin (som jäser)",
+    "tr": "şarap (fermente olarak)",
+    "uk": "вино (у міру бродіння)",
+    "zh": "酒"
+  },
+  "hebrew": "חֶמֶר",
+  "verses": [
+    "deuteronomy 32:14:18"
+  ]
+}

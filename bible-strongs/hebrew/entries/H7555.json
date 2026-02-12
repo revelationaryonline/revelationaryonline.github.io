@@ -1,0 +1,42 @@
+{
+  "number": "H7555",
+  "language": "hebrew",
+  "transliteration": "riqquaʻ",
+  "pronunciation": "rik-koo'-ah",
+  "definition": "beaten out, i.e. a (metallic) plate",
+  "kjvTranslation": "broad.",
+  "hebrew": "רִקֻּעַ",
+  "translations": {
+    "bg": "избит, т.е. (метална) плоча",
+    "cs": "vytlučenou, tj. (kovovou) desku",
+    "da": "slået ud, dvs. en (metallisk) plade",
+    "de": "herausgeschlagen, d.h. eine (metallische) Platte",
+    "el": "χτυπημένη, δηλαδή μια (μεταλλική) πλάκα",
+    "es": "batido, es decir, una placa (metálica)",
+    "et": "välja pekstud, st (metallist) plaat",
+    "fi": "lyöty ulos, eli (metalli)levy",
+    "fr": "battue, c'est-à-dire une plaque (métallique)",
+    "hu": "kivert, azaz egy (fém) lemezt",
+    "id": "dipukuli, yaitu pelat (logam)",
+    "it": "battuto, ovvero una piastra (metallica)",
+    "ja": "金属板",
+    "ko": "구타, 즉 (금속) 접시",
+    "lt": "išmušta, t. y. (metalinė) plokštelė",
+    "lv": "izsists, t. i., (metāla) plāksne",
+    "nb": "slått ut, dvs. en (metallisk) plate",
+    "nl": "uitgeklopt, d.w.z. een (metalen) plaat",
+    "pl": "wybity, tj. płyta (metalowa)",
+    "pt": "batida, ou seja, uma placa (metálica)",
+    "ro": "bătut, adică o placă (metalică)",
+    "ru": "выбитый, т.е. (металлическая) пластина",
+    "sk": "vyrazená, t. j. (kovová) doska",
+    "sl": "izbit, tj. (kovinska) plošča",
+    "sv": "utslagen, d.v.s. en (metallisk) platta",
+    "tr": "dövülmüş, yani (metalik) bir plaka",
+    "uk": "вибита, тобто (металева) пластина",
+    "zh": "板材"
+  },
+  "verses": [
+    "numbers 17:3:7"
+  ]
+}

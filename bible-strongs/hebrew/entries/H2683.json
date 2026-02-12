@@ -1,0 +1,42 @@
+{
+  "number": "H2683",
+  "language": "hebrew",
+  "transliteration": "chêtsen",
+  "pronunciation": "khay'-tsen",
+  "definition": "the bosom (as comprised between the arms)",
+  "kjvTranslation": "bosom.",
+  "translations": {
+    "bg": "гърдите (като част от ръцете)",
+    "cs": "ňadra (mezi pažemi)",
+    "da": "brystet (som omfatter mellem armene)",
+    "de": "der Busen (zwischen den Armen)",
+    "el": "ο κόρφος (όπως περιλαμβάνεται μεταξύ των βραχιόνων)",
+    "es": "el pecho (como comprendido entre los brazos)",
+    "et": "rind (mis koosneb käte vahel)",
+    "fi": "rinta (käsivarsien välissä)",
+    "fr": "la poitrine (comprise entre les bras)",
+    "hu": "a kebel (a karok között)",
+    "id": "dada (seperti yang terdiri dari kedua lengan)",
+    "it": "il seno (come compreso tra le braccia)",
+    "ja": "胸部",
+    "ko": "가슴(양팔 사이로 구성된 부위)",
+    "lt": "krūtinė (tarp rankų)",
+    "lv": "krūtis (kas atrodas starp rokām)",
+    "nb": "brystet (som omfatter mellom armene)",
+    "nl": "de boezem (als bestaande uit tussen de armen)",
+    "pl": "łono (zawarte między ramionami)",
+    "pt": "o peito (compreendido entre os braços)",
+    "ro": "sânul (cuprins între brațe)",
+    "ru": "лоно (в смысле между руками)",
+    "sk": "prsia (ako súčasť medzi ramenami)",
+    "sl": "prsi (med rokami)",
+    "sv": "bröstet (som omfattar mellan armarna)",
+    "tr": "göğüs (kollar arasında yer alan)",
+    "uk": "груди (в частині між руками)",
+    "zh": "胸怀"
+  },
+  "hebrew": "חֵצֶן",
+  "verses": [
+    "psalms 129:7:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5311",
+  "language": "hebrew",
+  "transliteration": "nephets",
+  "pronunciation": "neh'-fets",
+  "definition": "a storm (as dispersing)",
+  "kjvTranslation": "scattering.",
+  "hebrew": "נֶפֶץ",
+  "translations": {
+    "bg": "буря (като разпръскване)",
+    "cs": "bouře (jako rozptylující se)",
+    "da": "en storm (som spreder sig)",
+    "de": "ein Sturm (als Auflockerung)",
+    "el": "καταιγίδα (ως διασπορά)",
+    "es": "una tormenta (como dispersarse)",
+    "et": "torm (nagu hajub)",
+    "fi": "myrsky (hajoava)",
+    "fr": "une tempête (comme se dispersant)",
+    "hu": "vihar (mint szétoszló)",
+    "id": "badai (seperti menyebar)",
+    "it": "una tempesta (come dispersione)",
+    "ja": "あらし",
+    "ko": "폭풍(흩어짐)",
+    "lt": "audra (kaip išsisklaidymas)",
+    "lv": "vētra (kā izkliedēšanās)",
+    "nb": "en storm (som oppløses)",
+    "nl": "een storm (als verspreidend)",
+    "pl": "burza (jako rozpraszająca się)",
+    "pt": "uma tempestade (como dispersão)",
+    "ro": "o furtună (ca dispersare)",
+    "ru": "буря (как рассеивающаяся)",
+    "sk": "búrka (ako rozptýlenie)",
+    "sl": "nevihta (kot razpršitev)",
+    "sv": "en storm (som sprider sig)",
+    "tr": "bir fırtına (dağılıyormuş gibi)",
+    "uk": "буря (як розсіювання)",
+    "zh": "烟消云散"
+  },
+  "verses": [
+    "isaiah 30:30:13"
+  ]
+}

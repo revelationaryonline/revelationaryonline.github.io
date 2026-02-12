@@ -1,0 +1,42 @@
+{
+  "number": "H7435",
+  "language": "hebrew",
+  "transliteration": "Râmâthîy",
+  "pronunciation": "raw-maw-thee'",
+  "definition": "a Ramathite or inhabitant of Ramah",
+  "kjvTranslation": "Ramathite.",
+  "hebrew": "רָמָתִי",
+  "translations": {
+    "bg": "раматец или жител на Рама",
+    "cs": "ramatejec nebo obyvatel Rámy",
+    "da": "en ramathit eller indbygger i Ramah",
+    "de": "ein Ramathiter oder Einwohner von Rama",
+    "el": "ραμαθίτης ή κάτοικος της Ράμα",
+    "es": "un ramatita o habitante de Ramah",
+    "et": "ramathiit või Rama elanik",
+    "fi": "ramatilainen tai Raman asukas",
+    "fr": "ramathite ou habitant de Ramah",
+    "hu": "ramathita vagy Ráma lakója",
+    "id": "seorang Ramathite atau penduduk Rama",
+    "it": "un Ramathite o un abitante di Ramah",
+    "ja": "ラマ人またはラマに住む人",
+    "ko": "라마이트 또는 라마 거주자",
+    "lt": "ramatietis arba Ramos gyventojas",
+    "lv": "ramatietis vai Ramas iedzīvotājs",
+    "nb": "en ramatitt eller innbygger i Rama",
+    "nl": "een Ramathiet of inwoner van Rama",
+    "pl": "ramatejczyk lub mieszkaniec Ramah",
+    "pt": "um Ramathite ou habitante de Ramah",
+    "ro": "un Ramathite sau locuitor din Ramah",
+    "ru": "рамафит или житель Рамы",
+    "sk": "ramatovec alebo obyvateľ Rámy",
+    "sl": "ramatejec ali prebivalec Rame",
+    "sv": "en ramathit eller invånare i Ramah",
+    "tr": "bir Ramathite ya da Ramah sakini",
+    "uk": "раматієць або житель Рами",
+    "zh": "拉玛人或拉玛居民"
+  },
+  "verses": [
+    "firstChronicles 27:27:3"
+  ]
+}

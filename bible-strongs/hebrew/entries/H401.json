@@ -1,0 +1,42 @@
+{
+  "number": "H401",
+  "language": "hebrew",
+  "transliteration": "ʼUkâl",
+  "pronunciation": "oo-kawl'",
+  "definition": "Ucal, a fancy name",
+  "kjvTranslation": "Ucal.",
+  "translations": {
+    "bg": "Ucal, фантастично име",
+    "cs": "Ucal, módní název",
+    "da": "Ucal, et fancy navn",
+    "de": "Ucal, ein ausgefallener Name",
+    "el": "Ucal, ένα φανταχτερό όνομα",
+    "es": "Ucal, un nombre elegante",
+    "et": "Ucal, väljamõeldud nimi",
+    "fi": "Ucal, hieno nimi",
+    "fr": "Ucal, un nom fantaisiste",
+    "hu": "Ucal, egy divatos név",
+    "id": "Ucal, sebuah nama yang mewah",
+    "it": "Ucal, un nome di fantasia",
+    "ja": "ユカル、その洒落た名前",
+    "ko": "Ucal, 멋진 이름",
+    "lt": "Ucal, išgalvotas pavadinimas",
+    "lv": "Ucal, iedomāts nosaukums",
+    "nb": "Ucal, et fancy navn",
+    "nl": "Ucal, een mooie naam",
+    "pl": "Ucal, fantazyjna nazwa",
+    "pt": "Ucal, um nome de fantasia",
+    "ro": "Ucal, un nume fantezist",
+    "ru": "Укал, причудливое название",
+    "sk": "Ucal, módny názov",
+    "sl": "Ucal, domiselno ime",
+    "sv": "Ucal, ett tjusigt namn",
+    "tr": "Ucal, süslü bir isim",
+    "uk": "Укал, вигадлива назва",
+    "zh": "乌卡尔，一个花名"
+  },
+  "hebrew": "אֻכָל",
+  "verses": [
+    "proverbs 30:1:9"
+  ]
+}

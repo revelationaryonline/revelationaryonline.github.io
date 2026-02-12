@@ -1,0 +1,43 @@
+{
+  "number": "H4580",
+  "language": "hebrew",
+  "transliteration": "mâʻôwg",
+  "pronunciation": "maw-ogue'",
+  "definition": "a cake of bread; parasite",
+  "kjvTranslation": "cake, feast.",
+  "hebrew": "מָעוֹג",
+  "verses": [
+    "firstKings 17:12:7",
+    "psalms 35:16:2"
+  ],
+  "translations": {
+    "bg": "питка хляб; паразит",
+    "cs": "chlebový koláč; parazit",
+    "da": "en kage af brød; parasit",
+    "de": "ein Brotkuchen; Parasit",
+    "el": "ένα κέικ ψωμιού- παράσιτο",
+    "es": "torta de pan; parásito",
+    "et": "leivakook; parasiit",
+    "fi": "leipäkakku; loinen",
+    "fr": "gâteau de pain ; parasite",
+    "hu": "kenyértorta; parazita",
+    "id": "kue dari roti; parasit",
+    "it": "una torta di pane; un parassita",
+    "ja": "寄生虫",
+    "ko": "빵 케이크; 기생충",
+    "lt": "duonos pyragas; parazitas",
+    "lv": "maizes kūka; parazīts",
+    "nb": "en brødkake; parasitt",
+    "nl": "een broodkoek; parasiet",
+    "pl": "placek chlebowy; pasożyt",
+    "pt": "um bolo de pão; parasita",
+    "ro": "o bucată de pâine; parazit",
+    "ru": "лепешка хлеба; паразит",
+    "sk": "chlebový koláč; parazit",
+    "sl": "kruh; parazit",
+    "sv": "en kaka av bröd; parasit",
+    "tr": "bir ekmek keki; parazit",
+    "uk": "коржик хліба; паразит",
+    "zh": "面包"
+  }
+}

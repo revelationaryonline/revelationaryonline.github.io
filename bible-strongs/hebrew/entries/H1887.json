@@ -1,0 +1,43 @@
+{
+  "number": "H1887",
+  "language": "hebrew",
+  "transliteration": "hêʼ",
+  "pronunciation": "hay",
+  "definition": "lo!",
+  "kjvTranslation": "behold, lo.",
+  "translations": {
+    "bg": "ето!",
+    "cs": "hle!",
+    "da": "se!",
+    "de": "siehe!",
+    "el": "ιδού!",
+    "es": "¡lo!",
+    "et": "loo!",
+    "fi": "kappas!",
+    "fr": "lo !",
+    "hu": "íme!",
+    "id": "lo!",
+    "it": "lo!",
+    "ja": "ロー",
+    "ko": "lo!",
+    "lt": "štai!",
+    "lv": "lūk!",
+    "nb": "se!",
+    "nl": "lo!",
+    "pl": "lo!",
+    "pt": "lo!",
+    "ro": "lo!",
+    "ru": "ло!",
+    "sk": "hľa!",
+    "sl": "lo!",
+    "sv": "lo!",
+    "tr": "lo!",
+    "uk": "ло!",
+    "zh": "lo！"
+  },
+  "hebrew": "הֵא",
+  "verses": [
+    "genesis 47:23:11",
+    "ezekiel 16:43:14"
+  ]
+}

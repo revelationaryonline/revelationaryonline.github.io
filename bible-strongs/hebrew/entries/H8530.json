@@ -1,0 +1,42 @@
+{
+  "number": "H8530",
+  "language": "hebrew",
+  "transliteration": "talpîyâh",
+  "pronunciation": "tal-pee-yaw'",
+  "definition": "something tall, i.e. (plural collective) slenderness",
+  "kjvTranslation": "armoury.",
+  "hebrew": "תַּלְפִּיָּה",
+  "translations": {
+    "bg": "нещо високо, т.е. (в множествено число) стройност",
+    "cs": "něco vysokého, tj. (množné číslo hromadné) štíhlost",
+    "da": "noget højt, dvs. (flertal kollektiv) slankhed",
+    "de": "etwas Hochgewachsenes, d.h. (Plural kollektiv) Schlankheit",
+    "el": "κάτι ψηλό, δηλ. (πληθυντικός συλλογικός αριθμός) λεπτότητα",
+    "es": "algo alto, es decir (plural colectivo) esbeltez",
+    "et": "midagi pikka, st (mitmuses kollektiivne) sihukest, st (mitmuses kollektiivne) sihukest",
+    "fi": "jotain pitkää, eli (monikossa kollektiivinen) hoikkuus",
+    "fr": "quelque chose de grand, c'est-à-dire (pluriel collectif) la sveltesse",
+    "hu": "valami magas, azaz (többes számban kollektív) karcsúság",
+    "id": "sesuatu yang tinggi, yaitu (jamak kolektif) kelangsingan",
+    "it": "qualcosa di alto, cioè (plurale collettivo) snellezza",
+    "ja": "背の高いもの、つまり（複数集合の）華奢なもの",
+    "ko": "키가 큰 것, 즉 (복수 집합) 날씬함",
+    "lt": "kažkas aukšto, t. y. (daugiskaitos kolektyvas) lieknumas",
+    "lv": "kaut kas augsts, t.i., (daudzskaitļa kolektīvs) slaidums",
+    "nb": "noe høyt, dvs. (flertall kollektiv) slankhet",
+    "nl": "iets lang, d.w.z. (meervoud collectief) slankheid",
+    "pl": "coś wysokiego, tj. (liczba mnoga zbiorowa) smukłość",
+    "pt": "algo alto, ou seja, (plural coletivo) esbeltez",
+    "ro": "ceva înalt, adică (plural colectiv) subțire",
+    "ru": "что-то высокое, т.е. (множественное число собирательное) стройность",
+    "sk": "niečo vysoké, t. j. (množné číslo kolektívne) štíhlosť",
+    "sl": "nekaj visokega, tj. vitkost (množina)",
+    "sv": "något långt, dvs. (plural kollektiv) slankhet",
+    "tr": "uzun bir şey, yani (çoğul kolektif) narinlik",
+    "uk": "щось високе, тобто (множина збірне) стрункість",
+    "zh": "高大的东西，即（复数集体）细长"
+  },
+  "verses": [
+    "solomon 4:4:4"
+  ]
+}

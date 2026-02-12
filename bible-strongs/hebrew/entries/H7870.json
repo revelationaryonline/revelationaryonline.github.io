@@ -1,0 +1,42 @@
+{
+  "number": "H7870",
+  "language": "hebrew",
+  "transliteration": "shîybâh",
+  "pronunciation": "shee-baw'",
+  "definition": "a return (of property)",
+  "kjvTranslation": "captivity.",
+  "hebrew": "שִׁיבָה",
+  "translations": {
+    "bg": "връщане (на собственост)",
+    "cs": "vrácení (majetku)",
+    "da": "et afkast (af ejendom)",
+    "de": "eine Rückgabe (von Eigentum)",
+    "el": "επιστροφή (περιουσίας)",
+    "es": "una devolución (de bienes)",
+    "et": "(vara) tagastamine",
+    "fi": "(omaisuuden) palautus",
+    "fr": "une restitution (de biens)",
+    "hu": "(vagyon) visszaszolgáltatása",
+    "id": "pengembalian (properti)",
+    "it": "una restituzione (di proprietà)",
+    "ja": "還付",
+    "ko": "(재산의) 반환",
+    "lt": "grąžinimas (turto)",
+    "lv": "(īpašuma) atdošana",
+    "nb": "en retur (av eiendom)",
+    "nl": "een teruggave (van eigendom)",
+    "pl": "zwrot (własności)",
+    "pt": "uma devolução (de bens)",
+    "ro": "o restituire (de bunuri)",
+    "ru": "возврат (имущества)",
+    "sk": "vrátenie (majetku)",
+    "sl": "vračilo (premoženja)",
+    "sv": "ett återlämnande (av egendom)",
+    "tr": "(mülkün) iadesi",
+    "uk": "повернення (майна)",
+    "zh": "返还"
+  },
+  "verses": [
+    "psalms 126:1:5"
+  ]
+}

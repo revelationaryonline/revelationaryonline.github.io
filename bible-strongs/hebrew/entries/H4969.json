@@ -1,0 +1,42 @@
+{
+  "number": "H4969",
+  "language": "hebrew",
+  "transliteration": "mâthach",
+  "pronunciation": "maw-thakh'",
+  "definition": "to stretch out",
+  "kjvTranslation": "spread out.",
+  "hebrew": "מָתַח",
+  "translations": {
+    "bg": "да се разтяга",
+    "cs": "roztahovat se",
+    "da": "at strække sig ud",
+    "de": "sich zu strecken",
+    "el": "να απλώνεται",
+    "es": "estirarse",
+    "et": "välja sirutada",
+    "fi": "venyttää",
+    "fr": "s'étirer",
+    "hu": "kinyújtózni",
+    "id": "untuk meregangkan tubuh",
+    "it": "per allungarsi",
+    "ja": "伸ばす",
+    "ko": "스트레칭",
+    "lt": "išsitempti",
+    "lv": "izstiepties",
+    "nb": "å strekke ut",
+    "nl": "uitstrekken",
+    "pl": "rozciągać się",
+    "pt": "estender-se",
+    "ro": "să se întindă",
+    "ru": "растягиваться",
+    "sk": "natiahnuť sa",
+    "sl": "se raztegniti",
+    "sv": "att sträcka ut",
+    "tr": "uzanmak için",
+    "uk": "щоб розтягнутися",
+    "zh": "伸展"
+  },
+  "verses": [
+    "isaiah 40:22:9"
+  ]
+}

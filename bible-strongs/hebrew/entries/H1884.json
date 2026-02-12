@@ -1,0 +1,43 @@
+{
+  "number": "H1884",
+  "language": "hebrew",
+  "transliteration": "dᵉthâbâr",
+  "pronunciation": "deth-aw-bawr'",
+  "definition": "meaning one skilled in law; a judge",
+  "kjvTranslation": "counsellor.",
+  "translations": {
+    "bg": "означава юрист; съдия",
+    "cs": "což znamená odborník v oblasti práva; soudce",
+    "da": "betyder en, der er dygtig til jura; en dommer",
+    "de": "einen Rechtskundigen; einen Richter",
+    "el": "που σημαίνει κάποιος ειδικευμένος στα νομικά- ένας δικαστής",
+    "es": "es decir, un experto en derecho; un juez",
+    "et": "mis tähendab õiguskasvatajat; kohtunik",
+    "fi": "joka tarkoittaa lakiin perehtynyttä henkilöä; tuomari",
+    "fr": "qui désigne une personne compétente en matière de droit ; un juge",
+    "hu": "azaz jogi szakértő; bíró",
+    "id": "yang berarti orang yang ahli dalam hukum; hakim",
+    "it": "che significa un esperto di diritto; un giudice",
+    "ja": "法律に長けた者、裁判官",
+    "ko": "법에 능숙한 사람, 판사",
+    "lt": "teisininkas, turintis teisinių žinių; teisėjas",
+    "lv": "tieslietu speciālists; tiesnesis",
+    "nb": "som betyr en som er dyktig i juss; en dommer",
+    "nl": "betekent iemand die bedreven is in de wet; een rechter",
+    "pl": "oznaczający osobę znającą się na prawie; sędzia",
+    "pt": "que significa um perito em direito; um juiz",
+    "ro": "adică o persoană care se pricepe la drept; un judecător",
+    "ru": "означающий знатока права; судью",
+    "sk": "čo znamená odborník v oblasti práva; sudca",
+    "sl": "ki pomeni osebo, veščo prava; sodnik",
+    "sv": "en person som är kunnig i juridik; en domare",
+    "tr": "hukuk konusunda uzman kişi anlamına gelir; bir yargıç",
+    "uk": "що означає той, хто має досвід у галузі права; суддя",
+    "zh": "指精通法律的人；法官"
+  },
+  "hebrew": "דְּתָבָר",
+  "verses": [
+    "daniel 3:2:9",
+    "daniel 3:3:7"
+  ]
+}

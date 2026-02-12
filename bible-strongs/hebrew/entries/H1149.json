@@ -1,0 +1,42 @@
+{
+  "number": "H1149",
+  "language": "hebrew",
+  "transliteration": "bᵉnaç",
+  "pronunciation": "ben-as'",
+  "definition": "to be enraged",
+  "kjvTranslation": "be angry.",
+  "translations": {
+    "bg": "да се разгневи",
+    "cs": "být rozzuřený",
+    "da": "at være rasende",
+    "de": "wütend sein",
+    "el": "να εξοργίζομαι",
+    "es": "enfurecerse",
+    "et": "olla vihane",
+    "fi": "raivostua",
+    "fr": "être en colère",
+    "hu": "dühösnek lenni",
+    "id": "menjadi marah",
+    "it": "essere infuriato",
+    "ja": "激怒する",
+    "ko": "분노하다",
+    "lt": "įsižeisti",
+    "lv": "dusmoties",
+    "nb": "å bli rasende",
+    "nl": "woedend zijn",
+    "pl": "być rozwścieczonym",
+    "pt": "ficar furioso",
+    "ro": "să fie furios",
+    "ru": "приходить в ярость",
+    "sk": "byť rozzúrený",
+    "sl": "biti razjarjen",
+    "sv": "att vara upprörd",
+    "tr": "öfkelenmek",
+    "uk": "бути розлюченим",
+    "zh": "着恼"
+  },
+  "hebrew": "בְּנַס",
+  "verses": [
+    "daniel 2:12:4"
+  ]
+}

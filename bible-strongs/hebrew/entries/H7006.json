@@ -1,0 +1,42 @@
+{
+  "number": "H7006",
+  "language": "hebrew",
+  "transliteration": "qâyâh",
+  "pronunciation": "kaw-yaw'",
+  "definition": "to vomit",
+  "kjvTranslation": "spue.",
+  "hebrew": "קָיָה",
+  "translations": {
+    "bg": "да повръщате",
+    "cs": "zvracet",
+    "da": "at kaste op",
+    "de": "zum Erbrechen",
+    "el": "να κάνω εμετό",
+    "es": "vomitar",
+    "et": "oksendada",
+    "fi": "oksentaa",
+    "fr": "vomir",
+    "hu": "hányni",
+    "id": "untuk muntah",
+    "it": "vomitare",
+    "ja": "吐く",
+    "ko": "구토",
+    "lt": "vemti",
+    "lv": "vemt",
+    "nb": "å kaste opp",
+    "nl": "braken",
+    "pl": "wymiotować",
+    "pt": "vomitar",
+    "ro": "să vomiți",
+    "ru": "вызывать рвоту",
+    "sk": "zvracať",
+    "sl": "bruhati",
+    "sv": "att kräkas",
+    "tr": "kusmak",
+    "uk": "до блювоти",
+    "zh": "呕吐"
+  },
+  "verses": [
+    "jeremiah 25:27:10"
+  ]
+}

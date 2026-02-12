@@ -1,0 +1,42 @@
+{
+  "number": "H3144",
+  "language": "hebrew",
+  "transliteration": "Yôwshâh",
+  "pronunciation": "yo-shaw'",
+  "definition": "Joshah, an Israelite",
+  "kjvTranslation": "Joshah.",
+  "translations": {
+    "bg": "Йоса, израилтянин",
+    "cs": "Jošach, Izraelita",
+    "da": "Joshah, en israelit",
+    "de": "Joscha, ein Israelit",
+    "el": "Joshah, ένας Ισραηλίτης",
+    "es": "Josah, israelita",
+    "et": "Joosa, iisraellane",
+    "fi": "Joosa, israelilainen",
+    "fr": "Josué, Israélite",
+    "hu": "Józsá, egy izraelita",
+    "id": "Yosua, seorang Israel",
+    "it": "Joshah, un israelita",
+    "ja": "イスラエル人ヨシャ",
+    "ko": "이스라엘인, 여호사",
+    "lt": "Jošachas, izraelitas",
+    "lv": "Jošahs, izraēlietis",
+    "nb": "Josva, en israelitt",
+    "nl": "Jodes, een Israëliet",
+    "pl": "Jozue, Izraelita",
+    "pt": "Josá, israelita",
+    "ro": "Joshah, un israelit",
+    "ru": "Иошах, израильтянин",
+    "sk": "Jošach, Izraelita",
+    "sl": "Jošah, Izraelec",
+    "sv": "Joshah, en israelit",
+    "tr": "Yeşah, bir İsrailli",
+    "uk": "Йоша, ізраїльтянин",
+    "zh": "约书亚，以色列人"
+  },
+  "hebrew": "יוֹשָׁה",
+  "verses": [
+    "firstChronicles 4:34:2"
+  ]
+}

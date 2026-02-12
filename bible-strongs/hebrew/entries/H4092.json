@@ -1,0 +1,42 @@
+{
+  "number": "H4092",
+  "language": "hebrew",
+  "transliteration": "Mᵉdânîy",
+  "pronunciation": "med-aw-nee'",
+  "definition": "{a Midjanite or descendant (native) of Midjan}",
+  "kjvTranslation": "Midianite.",
+  "hebrew": "מְדָנִי",
+  "translations": {
+    "bg": "{миджанец или потомък (родом от Миджан)",
+    "cs": "{Midjanita nebo potomek (rodák) z Midjánu}",
+    "da": "{en midjanit eller efterkommer (indfødt) af Midjan}",
+    "de": "{ein Midjaniter oder Nachkomme (gebürtig) von Midjan}",
+    "el": "{Μιντιανός ή απόγονος (γηγενής) του Μιντιανού}",
+    "es": "{un midjanita o descendiente (nativo) de Midjan}",
+    "et": "{Midjanlane või Midjani järeltulija (põliselanik)}",
+    "fi": "{Midjanilainen tai Midjanin jälkeläinen (kotoisin)}",
+    "fr": "{un Midjanite ou un descendant (natif) de Midjan}",
+    "hu": "{mindzsáni vagy midzsáni leszármazott (bennszülött)}",
+    "id": "{orang Midjan atau keturunan (asli) Midjan}",
+    "it": "{un midjanita o un discendente (nativo) di Midjan.}",
+    "ja": "{ミジャン人またはミジャンの子孫（出身）}。",
+    "ko": "{미드얀인 또는 미드얀의 후손(원주민)}",
+    "lt": "{midžanietis arba Midjano palikuonis (kilęs iš Midjano)",
+    "lv": "{mīdjanietis vai Midžānas pēcnācējs (dzimtā)",
+    "nb": "{en midjanitt eller etterkommer (innfødt) av Midjan}",
+    "nl": "{een Midjaniet of afstammeling (inwoner) van Midjan}",
+    "pl": "{Midżanita lub potomek (rodowity) Midżan}",
+    "pt": "{um midjanita ou descendente (nativo) de Midjan}",
+    "ro": "{un midjanit sau descendent (originar) din Midjan}",
+    "ru": "{миджанец или потомок (уроженец) Миджана}",
+    "sk": "{Midjanita alebo potomok (rodák) z Midjánu}",
+    "sl": "{Midjanec ali potomec (domačin) Midjana}",
+    "sv": "{en midjanit eller ättling (infödd) till Midjan}",
+    "tr": "{Midjan'lı ya da Midjan'ın soyundan gelen (yerli) biri}",
+    "uk": "{мідянин або нащадок (уродженець) Мідії.}",
+    "zh": "{米德让人或米德让的后裔（原住民）}。"
+  },
+  "verses": [
+    "genesis 37:36:0"
+  ]
+}

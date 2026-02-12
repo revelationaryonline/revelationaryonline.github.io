@@ -1,0 +1,42 @@
+{
+  "number": "H1685",
+  "language": "hebrew",
+  "transliteration": "dᵉbach",
+  "pronunciation": "deb-akh'",
+  "definition": "a sacrifice",
+  "kjvTranslation": "sacrifice.",
+  "translations": {
+    "bg": "жертвоприношение",
+    "cs": "oběť",
+    "da": "et offer",
+    "de": "ein Opfer",
+    "el": "μια θυσία",
+    "es": "un sacrificio",
+    "et": "ohverdus",
+    "fi": "uhri",
+    "fr": "un sacrifice",
+    "hu": "áldozat",
+    "id": "sebuah pengorbanan",
+    "it": "un sacrificio",
+    "ja": "生贄",
+    "ko": "희생",
+    "lt": "auka",
+    "lv": "upuris",
+    "nb": "et offer",
+    "nl": "een offer",
+    "pl": "poświęcenie",
+    "pt": "um sacrifício",
+    "ro": "un sacrificiu",
+    "ru": "жертвоприношение",
+    "sk": "obeť",
+    "sl": "žrtvovanje",
+    "sv": "ett offer",
+    "tr": "bir kurban",
+    "uk": "жертва",
+    "zh": "牺牲"
+  },
+  "hebrew": "דְּבַח",
+  "verses": [
+    "ezra 6:3:16"
+  ]
+}

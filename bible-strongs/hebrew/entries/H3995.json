@@ -1,0 +1,42 @@
+{
+  "number": "H3995",
+  "language": "hebrew",
+  "transliteration": "mibdâlâh",
+  "pronunciation": "mib-daw-law'",
+  "definition": "a separation, i.e. (concretely) a separate place",
+  "kjvTranslation": "separate.",
+  "hebrew": "מִבְדָּלָה",
+  "translations": {
+    "bg": "отделяне, т.е. (конкретно) отделно място",
+    "cs": "oddělení, tj. (konkrétně) oddělené místo",
+    "da": "en adskillelse, dvs. (konkret) et separat sted",
+    "de": "eine Trennung, d.h. (konkret) ein separater Ort",
+    "el": "ένας διαχωρισμός, δηλαδή (συγκεκριμένα) ένας ξεχωριστός τόπος",
+    "es": "una separación, es decir (concretamente) un lugar separado",
+    "et": "eraldatus, st (konkreetselt) eraldi koht",
+    "fi": "erottaminen eli (konkreettisesti) erillinen paikka",
+    "fr": "une séparation, c'est-à-dire (concrètement) un lieu séparé",
+    "hu": "elkülönítés, azaz (konkrétan) egy elkülönített hely",
+    "id": "pemisahan, yaitu (secara konkret) tempat yang terpisah",
+    "it": "una separazione, ossia (concretamente) un luogo separato",
+    "ja": "隔絶、すなわち（具体的には）別の場所",
+    "ko": "분리, 즉 (구체적으로) 분리된 장소",
+    "lt": "atskyrimas, t. y. (konkrečiai) atskira vieta",
+    "lv": "atdalīšana, t.i., (konkrēti) atsevišķa vieta",
+    "nb": "et skille, dvs. (konkret) et eget sted",
+    "nl": "een scheiding, d.w.z. (concreet) een aparte plaats",
+    "pl": "oddzielenie, tj. (konkretnie) oddzielne miejsce",
+    "pt": "uma separação, ou seja, (concretamente) um lugar separado",
+    "ro": "o separare, adică (concret) un loc separat",
+    "ru": "отделение, т.е. (конкретно) отдельное место",
+    "sk": "oddelenie, t. j. (konkrétne) samostatné miesto",
+    "sl": "ločitev, tj. (konkretno) ločen prostor",
+    "sv": "en separation, d.v.s. (konkret) en separat plats",
+    "tr": "bir ayrılık, yani (somut olarak) ayrı bir yer",
+    "uk": "відокремлення, тобто (конкретно) окреме місце",
+    "zh": "分隔，即（具体地说）一个单独的地方"
+  },
+  "verses": [
+    "joshua 16:9:1"
+  ]
+}

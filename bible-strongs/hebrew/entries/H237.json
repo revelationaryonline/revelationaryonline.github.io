@@ -1,0 +1,42 @@
+{
+  "number": "H237",
+  "language": "hebrew",
+  "transliteration": "ʼezel",
+  "pronunciation": "eh'-zel",
+  "definition": "Ezel, a memorial stone in Palestine",
+  "kjvTranslation": "Ezel.",
+  "translations": {
+    "bg": "Езел, паметен камък в Палестина",
+    "cs": "Ezel, pamětní kámen v Palestině",
+    "da": "Ezel, en mindesten i Palæstina",
+    "de": "Ezel, ein Gedenkstein in Palästina",
+    "el": "Ezel, μια πέτρα μνήμης στην Παλαιστίνη",
+    "es": "Ezel, una lápida en Palestina",
+    "et": "Ezel, mälestuskivi Palestiinas",
+    "fi": "Ezel, muistokivi Palestiinassa",
+    "fr": "Ezel, une pierre commémorative en Palestine",
+    "hu": "Ezel, egy emlékkő Palesztinában",
+    "id": "Ezel, sebuah batu peringatan di Palestina",
+    "it": "Ezel, un cippo commemorativo in Palestina",
+    "ja": "パレスチナの記念石「エゼル",
+    "ko": "팔레스타인의 기념비, 에젤",
+    "lt": "Ezel, paminklinis akmuo Palestinoje",
+    "lv": "Ezel, piemiņas akmens Palestīnā",
+    "nb": "Ezel, en minnestein i Palestina",
+    "nl": "Ezel, een gedenksteen in Palestina",
+    "pl": "Ezel, kamień pamiątkowy w Palestynie",
+    "pt": "Ezel, uma pedra memorial na Palestina",
+    "ro": "Ezel, o piatră memorială în Palestina",
+    "ru": "Эзель, памятный камень в Палестине",
+    "sk": "Ezel, pamätný kameň v Palestíne",
+    "sl": "Ezel, spominski kamen v Palestini",
+    "sv": "Ezel, en minnessten i Palestina",
+    "tr": "Ezel, Filistin'de bir anıt taşı",
+    "uk": "Езель, меморіальний камінь у Палестині",
+    "zh": "埃泽尔"
+  },
+  "hebrew": "אֶזֶל",
+  "verses": [
+    "firstSamuel 20:19:14"
+  ]
+}

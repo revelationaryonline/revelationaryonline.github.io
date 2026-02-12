@@ -1,0 +1,42 @@
+{
+  "number": "H4515",
+  "language": "hebrew",
+  "transliteration": "minʻâl",
+  "pronunciation": "man-awl'",
+  "definition": "a bolt",
+  "kjvTranslation": "shoe.",
+  "hebrew": "מִנְעָל",
+  "verses": [
+    "deuteronomy 33:25:2"
+  ],
+  "translations": {
+    "bg": "болт",
+    "cs": "šroub",
+    "da": "en bolt",
+    "de": "ein Bolzen",
+    "el": "ένα μπουλόνι",
+    "es": "un perno",
+    "et": "polt",
+    "fi": "pultti",
+    "fr": "un verrou",
+    "hu": "egy csavar",
+    "id": "baut",
+    "it": "un bullone",
+    "ja": "ボルト",
+    "ko": "볼트",
+    "lt": "varžtas",
+    "lv": "bultskrūve",
+    "nb": "en bolt",
+    "nl": "een bout",
+    "pl": "śruba",
+    "pt": "um parafuso",
+    "ro": "un bolț",
+    "ru": "болт",
+    "sk": "skrutka",
+    "sl": "vijak",
+    "sv": "en bult",
+    "tr": "bir cıvata",
+    "uk": "болт",
+    "zh": "螺栓"
+  }
+}

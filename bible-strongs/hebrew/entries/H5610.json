@@ -1,0 +1,42 @@
+{
+  "number": "H5610",
+  "language": "hebrew",
+  "transliteration": "çᵉphâr",
+  "pronunciation": "sef-awr'",
+  "definition": "a census",
+  "kjvTranslation": "numbering.",
+  "hebrew": "סְפָר",
+  "translations": {
+    "bg": "преброяване",
+    "cs": "sčítání lidu",
+    "da": "en folketælling",
+    "de": "eine Volkszählung",
+    "el": "μια απογραφή",
+    "es": "un censo",
+    "et": "rahvaloendus",
+    "fi": "väestönlaskenta",
+    "fr": "un recensement",
+    "hu": "a népszámlálás",
+    "id": "sensus",
+    "it": "un censimento",
+    "ja": "国勢調査",
+    "ko": "인구 조사",
+    "lt": "surašymas",
+    "lv": "tautas skaitīšana",
+    "nb": "en folketelling",
+    "nl": "een telling",
+    "pl": "spis",
+    "pt": "um recenseamento",
+    "ro": "un recensământ",
+    "ru": "перепись населения",
+    "sk": "sčítanie ľudu",
+    "sl": "popis prebivalstva",
+    "sv": "en folkräkning",
+    "tr": "bir nüfus sayımı",
+    "uk": "перепис населення",
+    "zh": "人口普查"
+  },
+  "verses": [
+    "secondChronicles 2:16:9"
+  ]
+}

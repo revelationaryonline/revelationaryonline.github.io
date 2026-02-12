@@ -1,0 +1,42 @@
+{
+  "number": "H2890",
+  "language": "hebrew",
+  "transliteration": "ṭᵉhôwr",
+  "pronunciation": "teh-hore'",
+  "definition": "purity",
+  "kjvTranslation": "pureness.",
+  "translations": {
+    "bg": "чистота",
+    "cs": "čistota",
+    "da": "renhed",
+    "de": "reinheit",
+    "el": "καθαρότητα",
+    "es": "pureza",
+    "et": "puhtus",
+    "fi": "puhtaus",
+    "fr": "pureté",
+    "hu": "tisztaság",
+    "id": "kemurnian",
+    "it": "purezza",
+    "ja": "純度",
+    "ko": "순도",
+    "lt": "grynumas",
+    "lv": "tīrība",
+    "nb": "renhet",
+    "nl": "zuiverheid",
+    "pl": "czystość",
+    "pt": "pureza",
+    "ro": "puritate",
+    "ru": "чистота",
+    "sk": "čistota",
+    "sl": "čistost",
+    "sv": "renhet",
+    "tr": "saflık",
+    "uk": "чистота",
+    "zh": "纯净度"
+  },
+  "hebrew": "טְהוֹר",
+  "verses": [
+    "habakkuk 1:13:0"
+  ]
+}

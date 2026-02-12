@@ -1,0 +1,42 @@
+{
+  "number": "H7012",
+  "language": "hebrew",
+  "transliteration": "qîymâh",
+  "pronunciation": "kee-maw'",
+  "definition": "an arising",
+  "kjvTranslation": "rising up.",
+  "hebrew": "קִימָה",
+  "translations": {
+    "bg": "възникване",
+    "cs": "vzniklé",
+    "da": "en opstået",
+    "de": "eine sich ergebende",
+    "el": "μια προκύπτουσα",
+    "es": "un surgimiento",
+    "et": "tekkiv",
+    "fi": "syntyvä",
+    "fr": "une naissance",
+    "hu": "egy felmerülő",
+    "id": "yang timbul",
+    "it": "un'insorgenza",
+    "ja": "発生",
+    "ko": "발생하는",
+    "lt": "atsiradęs",
+    "lv": "kas rodas",
+    "nb": "en som oppstår",
+    "nl": "een voortvloeiend",
+    "pl": "powstający",
+    "pt": "um surgimento",
+    "ro": "un rezultat",
+    "ru": "возникающий",
+    "sk": "vzniknutú",
+    "sl": "nastalo",
+    "sv": "en uppkommen",
+    "tr": "ortaya çıkan bir",
+    "uk": "що виникає",
+    "zh": "萌生"
+  },
+  "verses": [
+    "lamentations 3:63:1"
+  ]
+}

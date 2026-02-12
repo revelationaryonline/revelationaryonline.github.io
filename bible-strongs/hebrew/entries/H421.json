@@ -1,0 +1,42 @@
+{
+  "number": "H421",
+  "language": "hebrew",
+  "transliteration": "ʼâlâh",
+  "pronunciation": "aw-law'",
+  "definition": "to bewail",
+  "kjvTranslation": "lament.",
+  "translations": {
+    "bg": "да оплаквате",
+    "cs": "naříkat",
+    "da": "at beklage sig",
+    "de": "zu beklagen",
+    "el": "να θρηνήσω",
+    "es": "lamentar",
+    "et": "kurta",
+    "fi": "valittaa",
+    "fr": "se lamenter",
+    "hu": "siránkozni",
+    "id": "untuk meratap",
+    "it": "lamentarsi",
+    "ja": "嘆き悲しむ",
+    "ko": "통곡하다",
+    "lt": "apgailestauti",
+    "lv": "žēloties",
+    "nb": "å beklage",
+    "nl": "betreuren",
+    "pl": "ubolewać",
+    "pt": "lamentar",
+    "ro": "a deplânge",
+    "ru": "оплакивать",
+    "sk": "oplakávať",
+    "sl": "žalovati",
+    "sv": "att klaga",
+    "tr": "ağıt yakmak",
+    "uk": "плакати",
+    "zh": "哀叹"
+  },
+  "hebrew": "אָלָה",
+  "verses": [
+    "joel 1:8:0"
+  ]
+}

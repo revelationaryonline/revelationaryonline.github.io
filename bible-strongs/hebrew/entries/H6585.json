@@ -1,0 +1,42 @@
+{
+  "number": "H6585",
+  "language": "hebrew",
+  "transliteration": "pâsaʻ",
+  "pronunciation": "paw-sah'",
+  "definition": "to stride (from spreading the legs), i.e. rush upon",
+  "kjvTranslation": "go.",
+  "hebrew": "פָּשַׂע",
+  "translations": {
+    "bg": "да върви (от разгъване на краката), т.е. да се втурне",
+    "cs": "vykročit (od rozkročení nohou), tj. vrhnout se na ně",
+    "da": "at skride (ved at sprede benene), dvs. skynde sig på",
+    "de": "schreiten (vom Spreizen der Beine), d.h. herbeieilen",
+    "el": "να βηματίζω (από το άνοιγμα των ποδιών), δηλαδή να ορμάω",
+    "es": "dar zancadas (separando las piernas), es decir, precipitarse",
+    "et": "sammuda (jalad laiali), s.t. tormata peale",
+    "fi": "astua (jalkojen levittämisestä), eli rynnätä eteenpäin",
+    "fr": "de faire des foulées (en écartant les jambes), c'est-à-dire de s'élancer",
+    "hu": "lépkedni (a lábak szétvetésétől), azaz rohanni",
+    "id": "untuk melangkah (dari melebarkan kaki), yaitu terburu-buru",
+    "it": "camminare (allargando le gambe), cioè correre su di esso",
+    "ja": "またぐ",
+    "ko": "(다리를 벌리는 것에서) 보폭, 즉 돌진하다",
+    "lt": "žengti (išskėtus kojas), t. y. skubėti",
+    "lv": "soļot (no izstieptām kājām), t.i., mesties uz priekšu",
+    "nb": "å skride (fra å spre beina), dvs. skynde seg på",
+    "nl": "stappen (van het spreiden van de benen), d.w.z. zich haasten",
+    "pl": "kroczyć (od rozstawiania nóg), tj. pędzić",
+    "pt": "andar a passos largos (de pernas abertas), ou seja, apressar-se",
+    "ro": "a păși (din depărtarea picioarelor), adică a se grăbi",
+    "ru": "шагать (раздвигая ноги), т.е. мчаться",
+    "sk": "vykročiť (z rozkročenia nôh), t. j. vrhnúť sa na",
+    "sl": "korakati (z razkrečenimi nogami), tj. hiteti",
+    "sv": "att skrida (från att sprida benen), dvs. rusa på",
+    "tr": "adım atmak (bacakları açarak), yani acele etmek",
+    "uk": "крокувати (від розставляти ноги), тобто кидатися на",
+    "zh": "迈步，即冲上去"
+  },
+  "verses": [
+    "isaiah 27:4:8"
+  ]
+}

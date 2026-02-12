@@ -1,0 +1,42 @@
+{
+  "number": "H1990",
+  "language": "hebrew",
+  "transliteration": "Hâm",
+  "pronunciation": "hawm",
+  "definition": "Ham, a region of Palestine",
+  "kjvTranslation": "Ham.",
+  "translations": {
+    "bg": "Хам, област в Палестина",
+    "cs": "Ham, region v Palestině",
+    "da": "Ham, en region i Palæstina",
+    "de": "Ham, eine Region in Palästina",
+    "el": "Χαμ, περιοχή της Παλαιστίνης",
+    "es": "Ham, una región de Palestina",
+    "et": "Ham, Palestiina piirkond",
+    "fi": "Ham, alue Palestiinassa",
+    "fr": "Ham, région de Palestine",
+    "hu": "Ham, Palesztina egyik régiója",
+    "id": "Ham, sebuah wilayah di Palestina",
+    "it": "Ham, una regione della Palestina",
+    "ja": "ハム、パレスチナの一地方",
+    "ko": "팔레스타인의 한 지역, 함",
+    "lt": "Chamas, Palestinos regionas",
+    "lv": "Ham, Palestīnas reģions",
+    "nb": "Ham, en region i Palestina",
+    "nl": "Ham, een regio in Palestina",
+    "pl": "Ham, region w Palestynie",
+    "pt": "Ham, uma região da Palestina",
+    "ro": "Ham, o regiune din Palestina",
+    "ru": "Хам, область в Палестине",
+    "sk": "Ham, región Palestíny",
+    "sl": "Ham, regija v Palestini",
+    "sv": "Ham, en region i Palestina",
+    "tr": "Ham, Filistin'in bir bölgesi",
+    "uk": "Хам, регіон Палестини",
+    "zh": "哈姆"
+  },
+  "hebrew": "הָם",
+  "verses": [
+    "genesis 14:5:15"
+  ]
+}

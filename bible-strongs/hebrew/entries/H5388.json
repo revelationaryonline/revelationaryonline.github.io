@@ -1,0 +1,42 @@
+{
+  "number": "H5388",
+  "language": "hebrew",
+  "transliteration": "nᵉshîyâh",
+  "pronunciation": "nesh-ee-yaw'",
+  "definition": "oblivion",
+  "kjvTranslation": "forgetfulness.",
+  "hebrew": "נְשִׁיָּה",
+  "translations": {
+    "bg": "забрава",
+    "cs": "oblivion",
+    "da": "glemsel",
+    "de": "vergessen",
+    "el": "λήθη",
+    "es": "olvido",
+    "et": "oblivion",
+    "fi": "oblivion",
+    "fr": "oubli",
+    "hu": "feledés",
+    "id": "dilupakan",
+    "it": "oblio",
+    "ja": "忘却",
+    "ko": "망각",
+    "lt": "užmarštis",
+    "lv": "aizmiršana",
+    "nb": "glemsel",
+    "nl": "oblivion",
+    "pl": "zapomnienie",
+    "pt": "esquecimento",
+    "ro": "uitare",
+    "ru": "забвение",
+    "sk": "zabudnutie",
+    "sl": "pozaba",
+    "sv": "glömska",
+    "tr": "unutuluş",
+    "uk": "забуття",
+    "zh": "遗忘"
+  },
+  "verses": [
+    "psalms 88:13:5"
+  ]
+}

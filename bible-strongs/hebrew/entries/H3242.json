@@ -1,0 +1,42 @@
+{
+  "number": "H3242",
+  "language": "hebrew",
+  "transliteration": "yᵉnîyqâh",
+  "pronunciation": "yen-ee-kaw'",
+  "definition": "a sucker or sapling",
+  "kjvTranslation": "young twig.",
+  "translations": {
+    "bg": "издънка или фиданка",
+    "cs": "výhonek nebo stromek",
+    "da": "en sugekop eller en ungplante",
+    "de": "ein Sauger oder Schössling",
+    "el": "ένα κορόιδο ή ένα δενδρύλλιο",
+    "es": "un retoño o árbol joven",
+    "et": "imik või istik",
+    "fi": "imeväisikäinen tai taimi",
+    "fr": "un drageon ou une jeune pousse",
+    "hu": "szívócsemete vagy csemete",
+    "id": "pengisap atau anak pohon",
+    "it": "un pollone o un alberello",
+    "ja": "子苗",
+    "ko": "빨판 또는 묘목",
+    "lt": "atžala arba sodinukas",
+    "lv": "atvases vai stādiņi",
+    "nb": "en sugekopp eller en ungplante",
+    "nl": "een zuigeling of jonge boompjes",
+    "pl": "przyssawka lub drzewko",
+    "pt": "uma ventosa ou rebento",
+    "ro": "un sugaci sau un arbore tânăr",
+    "ru": "присоска или саженец",
+    "sk": "výhonok alebo stromček",
+    "sl": "poganjek ali drevesce",
+    "sv": "ett sugrör eller en planta",
+    "tr": "bir emici veya fidan",
+    "uk": "нащадок або саджанець",
+    "zh": "树苗"
+  },
+  "hebrew": "יְנִיקָה",
+  "verses": [
+    "ezekiel 17:4:2"
+  ]
+}

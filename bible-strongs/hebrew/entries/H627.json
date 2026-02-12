@@ -1,0 +1,42 @@
+{
+  "number": "H627",
+  "language": "hebrew",
+  "transliteration": "ʼăçuppâh",
+  "pronunciation": "as-up-paw'",
+  "definition": "a collection of (learned) men (only in the plural)",
+  "kjvTranslation": "assembly.",
+  "translations": {
+    "bg": "сбор от (учени) мъже (само в множествено число)",
+    "cs": "sbírka (učených) mužů (pouze v množném čísle)",
+    "da": "en samling af (lærde) mænd (kun i flertal)",
+    "de": "eine Sammlung von (gelehrten) Männern (nur im Plural)",
+    "el": "μια συλλογή (μορφωμένων) ανδρών (μόνο στον πληθυντικό)",
+    "es": "una colección de hombres (eruditos) (sólo en plural)",
+    "et": "(õppinud) meeste kogum (ainult mitmuses)",
+    "fi": "kokoelma (oppineita) miehiä (vain monikossa)",
+    "fr": "un groupe d'hommes (savants) (uniquement au pluriel)",
+    "hu": "(tanult) emberek gyűjteménye (csak többes számban)",
+    "id": "kumpulan pria (terpelajar) (hanya dalam bentuk jamak)",
+    "it": "un insieme di uomini (dotti) (solo al plurale)",
+    "ja": "連署",
+    "ko": "(배운) 남자들의 모임(복수형만 해당)",
+    "lt": "(mokytų) vyrų rinkinys (tik daugiskaita)",
+    "lv": "(izglītotu) vīriešu pulks (tikai daudzskaitlī)",
+    "nb": "en samling (lærde) menn (kun i flertall)",
+    "nl": "een verzameling (geleerde) mannen (alleen in het meervoud)",
+    "pl": "zbiór (uczonych) mężczyzn (tylko w liczbie mnogiej)",
+    "pt": "uma coleção de homens (cultos) (apenas no plural)",
+    "ro": "o colecție de oameni (învățați) (numai la plural)",
+    "ru": "собрание (ученых) людей (только во множественном числе)",
+    "sk": "súbor (učených) mužov (len v množnom čísle)",
+    "sl": "zbirka (učenih) ljudi (samo v množini)",
+    "sv": "en samling (lärda) män (endast i plural)",
+    "tr": "(bilgili) adamlar topluluğu (sadece çoğul olarak)",
+    "uk": "зібрання (вчених) чоловіків (тільки у множині)",
+    "zh": "学人荟萃"
+  },
+  "hebrew": "אֲסֻפָּה",
+  "verses": [
+    "ecclesiastes 12:11:6"
+  ]
+}

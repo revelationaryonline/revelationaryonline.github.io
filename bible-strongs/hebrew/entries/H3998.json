@@ -1,0 +1,43 @@
+{
+  "number": "H3998",
+  "language": "hebrew",
+  "transliteration": "mᵉbûwkâh",
+  "pronunciation": "meb-oo-kaw'",
+  "definition": "perplexity",
+  "kjvTranslation": "perplexity.",
+  "hebrew": "מְבוּכָה",
+  "translations": {
+    "bg": "недоумение",
+    "cs": "zmatek",
+    "da": "forvirring",
+    "de": "ratlosigkeit",
+    "el": "αμηχανία",
+    "es": "perplejidad",
+    "et": "hämming",
+    "fi": "hämmennys",
+    "fr": "perplexité",
+    "hu": "tanácstalanság",
+    "id": "kebingungan",
+    "it": "perplessità",
+    "ja": "当惑",
+    "ko": "당황스러움",
+    "lt": "sumišimas",
+    "lv": "neizpratne",
+    "nb": "forvirring",
+    "nl": "verbijstering",
+    "pl": "zakłopotanie",
+    "pt": "perplexidade",
+    "ro": "perplexitate",
+    "ru": "недоумение",
+    "sk": "zmätok",
+    "sl": "zmedenost",
+    "sv": "förvirring",
+    "tr": "şaşkınlık",
+    "uk": "здивування",
+    "zh": "迷茫"
+  },
+  "verses": [
+    "isaiah 22:5:4",
+    "micah 7:4:10"
+  ]
+}

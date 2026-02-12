@@ -1,0 +1,42 @@
+{
+  "number": "H1998",
+  "language": "hebrew",
+  "transliteration": "hemyâh",
+  "pronunciation": "hem-yaw'",
+  "definition": "sound",
+  "kjvTranslation": "noise.",
+  "translations": {
+    "bg": "звук",
+    "cs": "zvuk",
+    "da": "lyd",
+    "de": "klang",
+    "el": "ήχος",
+    "es": "sonido",
+    "et": "heli",
+    "fi": "ääni",
+    "fr": "son",
+    "hu": "hang",
+    "id": "suara",
+    "it": "suono",
+    "ja": "サウンド",
+    "ko": "소리",
+    "lt": "garsas",
+    "lv": "skaņa",
+    "nb": "lyd",
+    "nl": "geluid",
+    "pl": "dźwięk",
+    "pt": "sonoro",
+    "ro": "sunet",
+    "ru": "звук",
+    "sk": "zvuk",
+    "sl": "zvok",
+    "sv": "ljud",
+    "tr": "ses",
+    "uk": "звук",
+    "zh": "声音"
+  },
+  "hebrew": "הֶמְיָה",
+  "verses": [
+    "isaiah 14:11:3"
+  ]
+}

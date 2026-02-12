@@ -1,0 +1,42 @@
+{
+  "number": "H5823",
+  "language": "hebrew",
+  "transliteration": "ʻâzaq",
+  "pronunciation": "aw-zak'",
+  "definition": "to grub over",
+  "kjvTranslation": "fence about.",
+  "hebrew": "עָזַק",
+  "translations": {
+    "bg": "да се хранят",
+    "cs": "k přikrmování",
+    "da": "at æde sig igennem",
+    "de": "zu verzehren",
+    "el": "για να φάμε",
+    "es": "para comer",
+    "et": "grubida üle",
+    "fi": "mässäillä",
+    "fr": "à grignoter",
+    "hu": "hogy átrágjuk magunkat",
+    "id": "untuk mengunyah",
+    "it": "per mangiare",
+    "ja": "を食べる",
+    "ko": "갉아먹다",
+    "lt": "pasigardžiuoti",
+    "lv": "pārtērēt",
+    "nb": "til å spise over",
+    "nl": "om over te rooien",
+    "pl": "do żarcia",
+    "pt": "para comer",
+    "ro": "să se înfrupte",
+    "ru": "поесть",
+    "sk": "na prehltnutie",
+    "sl": "za grizljanje",
+    "sv": "att mumsa på",
+    "tr": "yemek için",
+    "uk": "щоб погризти",
+    "zh": "蛴螬"
+  },
+  "verses": [
+    "isaiah 5:2:0"
+  ]
+}

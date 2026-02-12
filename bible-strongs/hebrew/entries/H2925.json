@@ -1,0 +1,42 @@
+{
+  "number": "H2925",
+  "language": "hebrew",
+  "transliteration": "ṭalṭêlâh",
+  "pronunciation": "tal-tay-law'",
+  "definition": "overthrow or rejection",
+  "kjvTranslation": "captivity.",
+  "translations": {
+    "bg": "низвергване или отхвърляне",
+    "cs": "svržení nebo odmítnutí",
+    "da": "omstyrtelse eller afvisning",
+    "de": "umsturz oder Ablehnung",
+    "el": "ανατροπή ή απόρριψη",
+    "es": "derrocamiento o rechazo",
+    "et": "kukutamine või tagasilükkamine",
+    "fi": "kumoaminen tai hylkääminen",
+    "fr": "renversement ou rejet",
+    "hu": "megdöntés vagy elutasítás",
+    "id": "penggulingan atau penolakan",
+    "it": "rovesciamento o rifiuto",
+    "ja": "打倒",
+    "ko": "전복 또는 거부",
+    "lt": "nuvertimas arba atmetimas",
+    "lv": "gāšana vai noraidīšana",
+    "nb": "omstyrting eller avvisning",
+    "nl": "omverwerping of afwijzing",
+    "pl": "obalenie lub odrzucenie",
+    "pt": "derrube ou rejeição",
+    "ro": "răsturnare sau respingere",
+    "ru": "свержение или отказ",
+    "sk": "zvrhnutie alebo odmietnutie",
+    "sl": "strmoglavljenje ali zavrnitev",
+    "sv": "omkullkastning eller förkastande",
+    "tr": "devrilme veya reddedilme",
+    "uk": "повалення або відторгнення",
+    "zh": "倾覆"
+  },
+  "hebrew": "טַלְטֵלָה",
+  "verses": [
+    "isaiah 22:17:3"
+  ]
+}

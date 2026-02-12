@@ -1,0 +1,42 @@
+{
+  "number": "H3084",
+  "language": "hebrew",
+  "transliteration": "Yᵉhôwçêph",
+  "pronunciation": "yeh-ho-safe'",
+  "definition": "Jehoseph (i.e. Joseph), a son of Jacob",
+  "kjvTranslation": "Joseph.",
+  "translations": {
+    "bg": "Йехосеф (т.е. Йосиф), син на Яков",
+    "cs": "Jehosef (tj. Josef), syn Jákobův",
+    "da": "Jehoseph (dvs. Josef), en søn af Jakob",
+    "de": "Jehoseph (d. h. Joseph), ein Sohn Jakobs",
+    "el": "Ιωσήφ (δηλ. Ιωσήφ), γιος του Ιακώβ",
+    "es": "José, hijo de Jacob",
+    "et": "Joosep (st Joosep), Jaakobi poeg",
+    "fi": "Jooseph (eli Joosef), Jaakobin poika",
+    "fr": "Jehoseph (i.e. Joseph), fils de Jacob",
+    "hu": "Jehoseph (azaz József), Jákob fia",
+    "id": "Yusuf (yaitu Yusuf), seorang putra Yakub",
+    "it": "Giuseppe, figlio di Giacobbe",
+    "ja": "ヤコブの子ヨセフ",
+    "ko": "야곱의 아들, 여호셉(즉, 요셉)",
+    "lt": "Jokūbo sūnus Jehosefas (t. y. Juozapas)",
+    "lv": "Jēkaba dēls Jehosefs (t.i., Jāzeps)",
+    "nb": "Jehoseph (dvs. Josef), en sønn av Jakob",
+    "nl": "Jehoseph (Jozef), een zoon van Jakob",
+    "pl": "Jehoseph (tj. Józef), syn Jakuba",
+    "pt": "Jehoseph (ou seja, José), um filho de Jacob",
+    "ro": "Iosef (adică Iosif), fiul lui Iacov",
+    "ru": "Иехосиф (т.е. Иосиф), сын Иакова",
+    "sk": "Jehosef (t. j. Jozef), syn Jákobov",
+    "sl": "Jehosef (tj. Jožef), Jakobov sin",
+    "sv": "Jehoseph (dvs. Joseph), en son till Jakob",
+    "tr": "Yehoseph (yani Yusuf), Yakup'un oğlu",
+    "uk": "Йосип (тобто Йосип), син Якова",
+    "zh": "约瑟夫"
+  },
+  "hebrew": "יְהוֹסֵף",
+  "verses": [
+    "psalms 81:6:1"
+  ]
+}

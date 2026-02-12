@@ -1,0 +1,43 @@
+{
+  "number": "H7750",
+  "language": "hebrew",
+  "transliteration": "sûwṭ",
+  "pronunciation": "soot",
+  "definition": "to detrude, i.e. (intransitively and figuratively) become derelict (wrongly practise; namely, idolatry)",
+  "kjvTranslation": "turn aside to.",
+  "hebrew": "שׂוּט",
+  "translations": {
+    "bg": "да оскърбява, т.е. (в непреходно и преносно значение) да стане изоставен (да се практикува неправилно, а именно идолопоклонство)",
+    "cs": "poškodit, tj. (v přeneseném významu) stát se opuštěným (nesprávně praktikovat; konkrétně modloslužbu)",
+    "da": "at detrudere, dvs. (intransitivt og i overført betydning) blive forladt (fejlagtigt praktisere; nemlig afgudsdyrkelse)",
+    "de": "verderben, d.h. (intransitiv und bildlich) verkommen (falsch praktizieren; nämlich Götzendienst)",
+    "el": "να παραμελήσει, δηλαδή (ενδοτικά και μεταφορικά) να εγκαταλειφθεί (να ασκηθεί λανθασμένα, δηλαδή να ασκηθεί η ειδωλολατρία)",
+    "es": "perjudicar, es decir (intransitivamente y figuradamente) volverse negligente (practicar erróneamente; a saber, la idolatría)",
+    "et": "kahjustada, s.t. (ingliskeelselt ja ülekantud tähenduses) hüljatuda (valesti harrastada; nimelt ebajumalateenistus)",
+    "fi": "vahingoittaa, eli (epäsuorasti ja kuvaannollisesti) tulla ränsistyneeksi (harjoittaa väärin, nimittäin epäjumalanpalvelusta)",
+    "fr": "detrude, c'est-à-dire (au sens intransitif et figuré) de déréliction (pratique erronée ; notamment l'idolâtrie)",
+    "hu": "kárhoztatni, azaz (átvitt értelemben és átvitt értelemben) elhagyatottá válni (helytelenül gyakorolni; nevezetesen a bálványimádást)",
+    "id": "to detrude, yaitu (secara intransitif dan kiasan) menjadi terlantar (praktik yang salah, yaitu penyembahan berhala)",
+    "it": "deturpare, cioè (intransitivamente e figurativamente) diventare derelitto (praticare erroneamente; in particolare, l'idolatria)",
+    "ja": "堕落させる、すなわち（意味的に、比喩的に）廃人にする（間違って実践する；すなわち偶像崇拝）。",
+    "ko": "타락하다, 즉 (비의미적으로 그리고 비유적으로) 버림받다(잘못 행함, 즉 우상 숭배)",
+    "lt": "žaloti, t. y. (perkeltine ir perkeltine prasme) tapti apleistu (neteisingai praktikuoti; būtent stabmeldystę)",
+    "lv": "apgānīt, t.i., (netranzitīvi un pārnestā nozīmē) kļūt pamestam (nepareizi praktizēt, proti, elkdievību)",
+    "nb": "å forderve, dvs. (i overført betydning og i overført betydning) bli fordervet (feilaktig praktisere; nemlig avgudsdyrkelse)",
+    "nl": "detruderen, d.w.z. (onovergankelijk en figuurlijk) vervallen (ten onrechte beoefenen; namelijk afgoderij)",
+    "pl": "obrócić w niwecz, tj. (nieprzejednanie i w przenośni) stać się zaniedbanym (niewłaściwie praktykować; mianowicie bałwochwalstwo)",
+    "pt": "detruir, isto é, (intransitivamente e figurativamente) tornar-se abandonado (praticar incorretamente; nomeadamente, a idolatria)",
+    "ro": "to detrude, adică (intransitiv și figurat) a deveni derelict (a practica în mod greșit; anume, idolatria)",
+    "ru": "разрушать, т.е. (в переносном и интранзитивном смысле) становиться бесхозным (неправильно практиковать; а именно, идолопоклонство)",
+    "sk": "poškodiť, t. j. (v intranzitívnom a prenesenom význame) stať sa opusteným (nesprávne praktizovať; konkrétne modloslužbu)",
+    "sl": "razdreti, tj. (v prenesenem pomenu in v prenesenem pomenu) postati zapuščen (napačno prakticirati; in sicer malikovanje)",
+    "sv": "att fördärva, d.v.s. (intransitivt och bildligt) bli fördärvad (felaktigt utöva; nämligen avgudadyrkan)",
+    "tr": "bozmak, yani (geçişsiz ve mecazi olarak) sahipsiz kalmak (yanlış uygulama; yani putperestlik)",
+    "uk": "занепадати, тобто (у переносному значенні) ставати занедбаним (неправильно практикувати, а саме - ідолопоклонство)",
+    "zh": "detrude，即（非直译和比喻）变得荒废（错误地实行；即偶像崇拜）。"
+  },
+  "verses": [
+    "psalms 40:5:10",
+    "psalms 101:3:7"
+  ]
+}

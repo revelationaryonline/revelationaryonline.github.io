@@ -1,0 +1,42 @@
+{
+  "number": "H7190",
+  "language": "hebrew",
+  "transliteration": "qᵉshîy",
+  "pronunciation": "kesh-ee'",
+  "definition": "obstinacy",
+  "kjvTranslation": "stubbornness.",
+  "hebrew": "קְשִׁי",
+  "translations": {
+    "bg": "упоритост",
+    "cs": "tvrdohlavost",
+    "da": "stædighed",
+    "de": "hartnäckigkeit",
+    "el": "πείσμα",
+    "es": "obstinación",
+    "et": "kangekaelsus",
+    "fi": "itsepäisyys",
+    "fr": "obstination",
+    "hu": "makacsság",
+    "id": "ketegaran",
+    "it": "ostinazione",
+    "ja": "いじっぱり",
+    "ko": "고집",
+    "lt": "užsispyrimas",
+    "lv": "stūrgalvība",
+    "nb": "stahet",
+    "nl": "halsstarrigheid",
+    "pl": "upór",
+    "pt": "obstinação",
+    "ro": "încrâncenare",
+    "ru": "упрямство",
+    "sk": "tvrdohlavosť",
+    "sl": "trdovratnost",
+    "sv": "envishet",
+    "tr": "inatçılık",
+    "uk": "упертість",
+    "zh": "犟劲"
+  },
+  "verses": [
+    "deuteronomy 9:27:8"
+  ]
+}

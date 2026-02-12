@@ -1,0 +1,42 @@
+{
+  "number": "H4278",
+  "language": "hebrew",
+  "transliteration": "mechqâr",
+  "pronunciation": "mekh-kawr'",
+  "definition": "properly, scrutinized, i.e. (by implication) a recess",
+  "kjvTranslation": "deep place.",
+  "hebrew": "מֶחְקָר",
+  "translations": {
+    "bg": "надлежно, внимателно, т.е. (по подразбиране) прекъсване",
+    "cs": "řádně, kontrolována, tj. (implicitně) přestávka",
+    "da": "korrekt, undersøgt, dvs. (underforstået) en pause",
+    "de": "ordnungsgemäß geprüft werden, d.h. (implizit) eine Aussparung",
+    "el": "σωστά, εξεταζόμενο, δηλαδή (κατ' επέκταση) ένα διάλειμμα",
+    "es": "debidamente, escrutado, es decir (implícitamente) un receso",
+    "et": "korralikult, kontrollitakse, st (kaudselt) süveneb",
+    "fi": "kunnolla, tutkittu, eli (implisiittisesti) tauko",
+    "fr": "correctement, examinée, c'est-à-dire (implicitement) une suspension d'audience",
+    "hu": "megfelelően, megvizsgálva, azaz (értelemszerűen) szüneteltetéssel",
+    "id": "dengan benar, diteliti, yaitu (dengan implikasi) reses",
+    "it": "adeguatamente, scrutato, cioè (implicitamente) un recesso",
+    "ja": "つまり、（暗黙のうちに）休会となる。",
+    "ko": "제대로, 면밀히, 즉 (암시 적으로) 휴식 시간",
+    "lt": "tinkamai, kruopščiai, t. y. (netiesiogiai) pertrauka",
+    "lv": "pienācīgi, rūpīgi, t.i., (netieši) pārtraukums",
+    "nb": "skikkelig, gransket, dvs. (underforstått) en fordypning",
+    "nl": "naar behoren onderzocht, d.w.z. (impliciet) een reces",
+    "pl": "prawidłowo, zbadane, tj. (w domyśle) przerwa",
+    "pt": "corretamente, escrutinado, ou seja, (implicitamente) um intervalo",
+    "ro": "în mod corespunzător, examinată, adică (implicit) o pauză",
+    "ru": "надлежащим образом, тщательно, т.е. (по косвенным признакам) перерыв",
+    "sk": "riadne, kontrolované, t. j. (implicitne) prestávka",
+    "sl": "pravilno, natančno, tj. (implicitno) odmor",
+    "sv": "ordentligt, granskas, dvs. (underförstått) en paus",
+    "tr": "düzgün bir şekilde, incelenmiş, yani (ima yoluyla) bir ara",
+    "uk": "належним чином, ретельно вивчений, тобто (за підтекстом) поглиблення",
+    "zh": "适当、仔细审查，即（暗示）休会"
+  },
+  "verses": [
+    "psalms 95:4:2"
+  ]
+}

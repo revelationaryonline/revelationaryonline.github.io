@@ -1,0 +1,42 @@
+{
+  "number": "H2875",
+  "language": "hebrew",
+  "transliteration": "Ṭebach",
+  "pronunciation": "teh'-bakh",
+  "definition": "Tebach, the name of a Mesopotamian and of an Israelite",
+  "kjvTranslation": "Tebah.",
+  "translations": {
+    "bg": "Тебах, име на месопотамски и на израилтянин",
+    "cs": "Tebach, jméno Mezopotámce a Izraelce",
+    "da": "Tebach, navnet på en mesopotamier og en israelit",
+    "de": "Tebach, der Name eines Mesopotamiers und eines Israeliten",
+    "el": "Tebach, το όνομα ενός Μεσοποταμίτη και ενός Ισραηλίτη",
+    "es": "Tebach, nombre de un mesopotámico y de un israelita",
+    "et": "Tebach, Mesopotaamia ja iisraellase nimi",
+    "fi": "Tebach, mesopotamialaisen ja israelilaisen nimi",
+    "fr": "Tebach, nom d'un Mésopotamien et d'un Israélite",
+    "hu": "Tebach, egy mezopotámiai és egy izraelita neve",
+    "id": "Tebach, nama seorang Mesopotamia dan seorang Israel",
+    "it": "Tebach, nome di un mesopotamico e di un israelita",
+    "ja": "テバハはメソポタミア人とイスラエル人の名前。",
+    "ko": "테바흐, 메소포타미아인과 이스라엘인의 이름",
+    "lt": "Tebachas, mesopotamiečio ir izraelito vardas",
+    "lv": "Tebah, mezopotāmiešu un izraēliešu vārds",
+    "nb": "Tebach, navnet på en mesopotamier og en israelitt",
+    "nl": "Tebach, de naam van een Mesopotamiër en van een Israëliet",
+    "pl": "Tebach, imię mezopotamskie i izraelskie",
+    "pt": "Tebach, nome de um mesopotâmico e de um israelita",
+    "ro": "Tebach, numele unui mesopotamian și al unui israelit",
+    "ru": "Тебах, имя месопотамца и израильтянина",
+    "sk": "Tebach, meno Mezopotámčana a Izraelitu",
+    "sl": "Tebach, ime Mezopotamca in Izraelca",
+    "sv": "Tebach, namnet på en mesopotamier och på en israelit",
+    "tr": "Tebach, bir Mezopotamyalı ve bir İsraillinin adı",
+    "uk": "Тебах, ім'я месопотамця та ізраїльтянина",
+    "zh": "特巴赫，一个美索不达米亚人和一个以色列人的名字"
+  },
+  "hebrew": "טֶבַח",
+  "verses": [
+    "genesis 22:24:7"
+  ]
+}

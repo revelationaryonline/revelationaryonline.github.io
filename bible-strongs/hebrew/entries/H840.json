@@ -1,0 +1,42 @@
+{
+  "number": "H840",
+  "language": "hebrew",
+  "transliteration": "ʼĂsarʼêl",
+  "pronunciation": "as-ar-ale'",
+  "definition": "Asarel, an Israelite",
+  "kjvTranslation": "Asareel.",
+  "translations": {
+    "bg": "Асарел, израилтянин",
+    "cs": "Asarel, Izraelita",
+    "da": "Asarel, en israelit",
+    "de": "Asarel, ein Israelit",
+    "el": "Ασαρέλ, Ισραηλίτης",
+    "es": "Asarel, israelita",
+    "et": "Asarel, iisraellane",
+    "fi": "Asarel, israelilainen",
+    "fr": "Asarel, Israélite",
+    "hu": "Asarel, izraelita",
+    "id": "Asarel, seorang Israel",
+    "it": "Asarel, un israelita",
+    "ja": "イスラエル人アサレル",
+    "ko": "이스라엘인 아사렐",
+    "lt": "Asarelas, izraelitas",
+    "lv": "Asarels, izraēlietis",
+    "nb": "Asarel, en israelitt",
+    "nl": "Asarel, een Israëliet",
+    "pl": "Asarel, Izraelita",
+    "pt": "Asarel, israelita",
+    "ro": "Asarel, un israelit",
+    "ru": "Асарел, израильтянин",
+    "sk": "Asarel, Izraelita",
+    "sl": "Asarel, Izraelec",
+    "sv": "Asarel, en israelit",
+    "tr": "Asarel, bir İsrailli",
+    "uk": "Асарел, ізраїльтянин",
+    "zh": "亚撒利，以色列人"
+  },
+  "hebrew": "אֲשַׂרְאֵל",
+  "verses": [
+    "firstChronicles 4:16:5"
+  ]
+}

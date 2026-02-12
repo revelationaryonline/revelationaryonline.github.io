@@ -1,0 +1,42 @@
+{
+  "number": "H3586",
+  "language": "hebrew",
+  "transliteration": "kechâsh",
+  "pronunciation": "kekh-awsh'",
+  "definition": "faithless",
+  "kjvTranslation": "lying.",
+  "translations": {
+    "bg": "безверен",
+    "cs": "bezvěrec",
+    "da": "troløs",
+    "de": "treulos",
+    "el": "άπιστος",
+    "es": "infiel",
+    "et": "uskmatu",
+    "fi": "uskoton",
+    "fr": "infidèle",
+    "hu": "hitetlen",
+    "id": "tidak setia",
+    "it": "infedele",
+    "ja": "不実",
+    "ko": "믿음 없는",
+    "lt": "neištikimas",
+    "lv": "neticīgs",
+    "nb": "troløs",
+    "nl": "ontrouw",
+    "pl": "niewierny",
+    "pt": "infiel",
+    "ro": "necredincios",
+    "ru": "верный",
+    "sk": "bez viery",
+    "sl": "neverni",
+    "sv": "trolös",
+    "tr": "inançsız",
+    "uk": "невірний",
+    "zh": "无信仰"
+  },
+  "hebrew": "כֶּחָשׁ",
+  "verses": [
+    "isaiah 30:9:5"
+  ]
+}

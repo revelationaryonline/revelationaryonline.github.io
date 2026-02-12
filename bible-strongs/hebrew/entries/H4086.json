@@ -1,0 +1,42 @@
+{
+  "number": "H4086",
+  "language": "hebrew",
+  "transliteration": "Madmên",
+  "pronunciation": "mad-mane'",
+  "definition": "Madmen, a place in Palestine",
+  "kjvTranslation": "Madmen.",
+  "hebrew": "מַדְמֵן",
+  "translations": {
+    "bg": "Madmen, място в Палестина",
+    "cs": "Madmen, místo v Palestině",
+    "da": "Madmen, et sted i Palæstina",
+    "de": "Madmen, ein Ort in Palästina",
+    "el": "Madmen, ένα μέρος στην Παλαιστίνη",
+    "es": "Madmen, un lugar en Palestina",
+    "et": "Madmen, koht Palestiinas",
+    "fi": "Madmen, paikka Palestiinassa",
+    "fr": "Madmen, un lieu en Palestine",
+    "hu": "Madmen, egy hely Palesztinában",
+    "id": "Orang gila, sebuah tempat di Palestina",
+    "it": "Madmen, un luogo in Palestina",
+    "ja": "パレスチナ、マッドメン",
+    "ko": "매드맨, 팔레스타인의 한 장소",
+    "lt": "Madmen, vietovė Palestinoje",
+    "lv": "Madmen, vieta Palestīnā",
+    "nb": "Madmen, et sted i Palestina",
+    "nl": "Madmen, een plaats in Palestina",
+    "pl": "Madmen, miejsce w Palestynie",
+    "pt": "Loucos, um lugar na Palestina",
+    "ro": "Madmen, un loc în Palestina",
+    "ru": "Безумцы, место в Палестине",
+    "sk": "Madmen, miesto v Palestíne",
+    "sl": "Madmen, kraj v Palestini",
+    "sv": "Madmen, en plats i Palestina",
+    "tr": "Madmen, Filistin'de bir yer",
+    "uk": "Божевільні, місце в Палестині",
+    "zh": "狂人，巴勒斯坦的一个地方"
+  },
+  "verses": [
+    "jeremiah 48:2:12"
+  ]
+}

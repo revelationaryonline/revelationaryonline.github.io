@@ -1,0 +1,42 @@
+{
+  "number": "H2840",
+  "language": "hebrew",
+  "transliteration": "chishshur",
+  "pronunciation": "khish-shoor'",
+  "definition": "combined, i.e. the nave or hub of awheel (as holding the spokes together)",
+  "kjvTranslation": "spoke.",
+  "translations": {
+    "bg": "комбиниран, т.е. главината или главината на колелото (тъй като държи спиците заедно)",
+    "cs": "spojený, tj. hlava nebo náboj kola (jako držící paprsky pohromadě)",
+    "da": "kombineret, dvs. skibet eller navet på et hjul (som holder egerne sammen)",
+    "de": "kombiniert, d.h. das Schiff oder die Nabe eines Rades (als Zusammenhalt der Speichen)",
+    "el": "συνδυασμένο, δηλαδή το κεντρικό ή κομβικό μέρος ενός τροχού (καθώς συγκρατεί τις ακτίνες μαζί)",
+    "es": "combinado, es decir, la nave o el cubo de una rueda (como la celebración de los radios juntos)",
+    "et": "kombineeritud, s.t. rattakese või rattakese (mis hoiab spiraalid koos)",
+    "fi": "yhdistetty, ts. pyörän keskilaiva tai napa (joka pitää pyöränpyörät yhdessä)",
+    "fr": "combiné, c'est-à-dire la nef ou le moyeu d'une roue (comme tenant les rayons ensemble)",
+    "hu": "kombinált, azaz a kerék hajója vagy kerékagya (mint ami a küllőket összetartja)",
+    "id": "gabungan, yaitu bagian tengah atau hub dari roda (sebagai penahan jari-jari)",
+    "it": "combinato, ovvero la navata o il mozzo di una ruota (come se tenesse insieme i raggi)",
+    "ja": "轂",
+    "ko": "결합, 즉 어휠의 네브 또는 허브(스포크를 함께 고정하는 역할)",
+    "lt": "sujungtas, t. y. rato galvutė arba stebulė (kaip laikanti stipinus kartu)",
+    "lv": "apvienots, t. i., riteņa rumba vai rumba (kā spieķi turas kopā)",
+    "nb": "kombinert, dvs. navet på et hjul (som holder eikene sammen)",
+    "nl": "gecombineerd, d.w.z. het schip of de naaf van een wiel (als het samenhouden van de spaken)",
+    "pl": "połączony, tj. nawa lub piasta koła (jako trzymająca szprychy razem)",
+    "pt": "combinados, ou seja, a nave ou o cubo de uma roda (como se mantivesse os raios unidos)",
+    "ro": "combinat, adică nava sau butucul unei roți (ca și cum ar ține spițele împreună)",
+    "ru": "объединенный, т.е. неф или ступица колеса (как удерживающая спицы вместе)",
+    "sk": "spojený, t. j. náboj alebo náboj kolesa (ako drží špice pohromade)",
+    "sl": "združeni, tj. naveza ali pesto kolesa (ki drži špice skupaj)",
+    "sv": "kombinerad, dvs. navet eller navet på ett hjul (som håller ihop ekrarna)",
+    "tr": "birleşik, yani bir tekerleğin göbeği veya göbeği (jant tellerini bir arada tutan)",
+    "uk": "комбіновані, тобто цапфа або маточина маховика (як утримує спиці разом)",
+    "zh": "组合，即车轮的前轮或轮毂（将辐条固定在一起）"
+  },
+  "hebrew": "חִשֻּׁר",
+  "verses": [
+    "firstKings 7:33:8"
+  ]
+}

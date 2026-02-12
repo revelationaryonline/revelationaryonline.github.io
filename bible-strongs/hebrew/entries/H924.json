@@ -1,0 +1,42 @@
+{
+  "number": "H924",
+  "language": "hebrew",
+  "transliteration": "bᵉhîylûw",
+  "pronunciation": "be-hee-loo'",
+  "definition": "a hurry; only adverb, hastily",
+  "kjvTranslation": "in haste.",
+  "translations": {
+    "bg": "бързам; само наречие, бързам",
+    "cs": "spěch; pouze příslovce, spěšně",
+    "da": "en hast; kun adverbium, hastigt",
+    "de": "eilig; nur Adverb, hastig",
+    "el": "βιασύνη, μόνο επίρρημα, βιαστικά",
+    "es": "una prisa; sólo adverbio, apresuradamente",
+    "et": "kiire; ainult adverb, kiirustades",
+    "fi": "kiire; vain adverbi, hätäisesti",
+    "fr": "à la hâte ; seulement adverbe, à la hâte",
+    "hu": "sietség; csak határozószó, sietősen",
+    "id": "terburu-buru; hanya kata keterangan, buru-buru",
+    "it": "fretta; solo avverbio, frettolosamente",
+    "ja": "急ぎ足で；急いでという副詞のみ",
+    "ko": "서둘러; 부사, 서둘러만",
+    "lt": "skubėti; tik prieveiksmis, skubiai",
+    "lv": "steigā; tikai apstākļa vārds, steidzīgi",
+    "nb": "hastverk; bare adverb, raskt",
+    "nl": "haast; alleen bijwoord, haastig",
+    "pl": "pośpiech; tylko przysłówek, pośpiesznie",
+    "pt": "uma pressa; apenas advérbio, apressadamente",
+    "ro": "o grabă; doar adverb, în grabă",
+    "ru": "спешить; только наречие, поспешно",
+    "sk": "ponáhľať sa; len príslovka, narýchlo",
+    "sl": "hitenje; samo prislov, hlastno",
+    "sv": "bråttom; endast adverb, hastigt",
+    "tr": "acele; sadece zarf, aceleyle",
+    "uk": "поспіх; тільки прислівник, поспіхом",
+    "zh": "匆匆"
+  },
+  "hebrew": "בְּהִילוּ",
+  "verses": [
+    "ezra 4:23:16"
+  ]
+}

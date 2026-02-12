@@ -1,0 +1,42 @@
+{
+  "number": "H5206",
+  "language": "hebrew",
+  "transliteration": "nîydâh",
+  "pronunciation": "nee-daw'",
+  "definition": "removal, i.e. exile",
+  "kjvTranslation": "removed.",
+  "hebrew": "נִידָה",
+  "translations": {
+    "bg": "отстраняване, т.е. изгнание",
+    "cs": "odstranění, tj. vyhoštění",
+    "da": "fjernelse, dvs. eksil",
+    "de": "entfernung, d.h. Verbannung",
+    "el": "απομάκρυνση, δηλαδή εξορία",
+    "es": "destitución, es decir, exilio",
+    "et": "eemaldamine, st pagendus",
+    "fi": "poistaminen eli karkottaminen",
+    "fr": "l'éloignement, c'est-à-dire l'exil",
+    "hu": "eltávolítás, azaz száműzetés",
+    "id": "pemindahan, yaitu pengasingan",
+    "it": "allontanamento, cioè esilio",
+    "ja": "追放",
+    "ko": "제거, 즉 추방",
+    "lt": "pašalinimas, t. y. tremtis",
+    "lv": "izraidīšana, t. i., izsūtīšana",
+    "nb": "fjerning, dvs. landsforvisning",
+    "nl": "verwijdering, d.w.z. ballingschap",
+    "pl": "usunięcie, tj. wygnanie",
+    "pt": "remoção, ou seja, exílio",
+    "ro": "îndepărtare, adică exil",
+    "ru": "удаление, т.е. изгнание",
+    "sk": "odstránenie, t. j. vyhnanstvo",
+    "sl": "odstranitev, tj. izgnanstvo",
+    "sv": "avlägsnande, dvs. exil",
+    "tr": "uzaklaştırma, yani sürgün",
+    "uk": "виселення, тобто заслання",
+    "zh": "迁移，即流放"
+  },
+  "verses": [
+    "lamentations 1:8:5"
+  ]
+}

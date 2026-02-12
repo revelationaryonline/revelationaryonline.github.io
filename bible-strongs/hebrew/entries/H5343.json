@@ -1,0 +1,42 @@
+{
+  "number": "H5343",
+  "language": "hebrew",
+  "transliteration": "nᵉqêʼ",
+  "pronunciation": "nek-ay'",
+  "definition": "clean",
+  "kjvTranslation": "pure.",
+  "hebrew": "נְקֵא",
+  "translations": {
+    "bg": "чист",
+    "cs": "čistý",
+    "da": "ren",
+    "de": "sauber",
+    "el": "καθαρό",
+    "es": "limpiar",
+    "et": "puhas",
+    "fi": "puhdas",
+    "fr": "propre",
+    "hu": "tiszta",
+    "id": "bersih",
+    "it": "pulire",
+    "ja": "クリーン",
+    "ko": "clean",
+    "lt": "švarus",
+    "lv": "tīrs",
+    "nb": "ren",
+    "nl": "schoon",
+    "pl": "czysty",
+    "pt": "limpo",
+    "ro": "curat",
+    "ru": "чистый",
+    "sk": "čisté",
+    "sl": "clean",
+    "sv": "ren",
+    "tr": "temiz",
+    "uk": "чистий",
+    "zh": "清洗"
+  },
+  "verses": [
+    "daniel 7:9:15"
+  ]
+}

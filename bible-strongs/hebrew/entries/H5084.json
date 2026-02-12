@@ -1,0 +1,42 @@
+{
+  "number": "H5084",
+  "language": "hebrew",
+  "transliteration": "nâdân",
+  "pronunciation": "naw-dawn'",
+  "definition": "a sheath (of a sword)",
+  "kjvTranslation": "sheath.",
+  "hebrew": "נָדָן",
+  "translations": {
+    "bg": "ножница (на меч)",
+    "cs": "pochva (meče)",
+    "da": "en skede (til et sværd)",
+    "de": "eine Scheide (eines Schwertes)",
+    "el": "θήκη (σπαθιού)",
+    "es": "una vaina (de una espada)",
+    "et": "tupp (mõõga)",
+    "fi": "(miekan) tuppeen",
+    "fr": "un fourreau (d'épée)",
+    "hu": "hüvely (egy kardhoz)",
+    "id": "sarung (dari pedang)",
+    "it": "un fodero (di una spada)",
+    "ja": "さや",
+    "ko": "칼집(칼의 칼집)",
+    "lt": "makštis (kalavijui)",
+    "lv": "maksts (zobenam)",
+    "nb": "en slire (på et sverd)",
+    "nl": "een schede (van een zwaard)",
+    "pl": "pochwa (miecza)",
+    "pt": "uma bainha (de uma espada)",
+    "ro": "o teacă (de sabie)",
+    "ru": "ножны (для меча)",
+    "sk": "pošva (meča)",
+    "sl": "nožnica (za meč)",
+    "sv": "en slida (för ett svärd)",
+    "tr": "bir kılıf (bir kılıcın)",
+    "uk": "піхви (меча)",
+    "zh": "鞘"
+  },
+  "verses": [
+    "firstChronicles 21:27:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1306",
+  "language": "hebrew",
+  "transliteration": "Birshaʻ",
+  "pronunciation": "beer-shah'",
+  "definition": "Birsha, a king of Gomorrah",
+  "kjvTranslation": "Birsha.",
+  "translations": {
+    "bg": "Бирша, цар на Гомора",
+    "cs": "Birša, král Gomory",
+    "da": "Birsha, en konge af Gomorra",
+    "de": "Birscha, ein König von Gomorrah",
+    "el": "Birsha, βασιλιάς των Γόμορρα",
+    "es": "Birsha, rey de Gomorra",
+    "et": "Birsha, Gomorra kuningas",
+    "fi": "Birsha, Gomorran kuningas, -",
+    "fr": "Birsha, roi de Gomorrhe",
+    "hu": "Birsha, Gomorra királya",
+    "id": "Birsha, seorang raja Gomora",
+    "it": "Birsha, un re di Gomorra",
+    "ja": "ゴモラの王ビルシャ",
+    "ko": "고모라의 왕, 비르샤",
+    "lt": "Birša, Gomoros karalius",
+    "lv": "Birša, Gomoras karalis",
+    "nb": "Birsha, en konge av Gomorra",
+    "nl": "Birsha, een koning van Gomorra",
+    "pl": "Birsha, król Gomory",
+    "pt": "Birsha, rei de Gomorra",
+    "ro": "Birsha, un rege al Gomorei",
+    "ru": "Бирша, царь Гоморры",
+    "sk": "Birša, kráľ Gomory",
+    "sl": "Birša, kralj Gomore",
+    "sv": "Birsha, en kung av Gomorra",
+    "tr": "Birşa, Gomorra kralı",
+    "uk": "Бірша, цар Гоморри",
+    "zh": "蛾摩拉国王比尔沙"
+  },
+  "hebrew": "בִּרְשַׁע",
+  "verses": [
+    "genesis 14:2:7"
+  ]
+}

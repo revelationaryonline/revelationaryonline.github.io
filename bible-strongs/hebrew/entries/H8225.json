@@ -1,0 +1,42 @@
+{
+  "number": "H8225",
+  "language": "hebrew",
+  "transliteration": "Shiphmîy",
+  "pronunciation": "shif-mee'",
+  "definition": "a Shiphmite or inhabitant of Shepham",
+  "kjvTranslation": "Shiphmite.",
+  "hebrew": "שִׁפְמִי",
+  "translations": {
+    "bg": "шипманец или жител на Шефам",
+    "cs": "šifemec nebo obyvatel Šefámu",
+    "da": "en shiphmit eller indbygger i Shepham",
+    "de": "ein Shiphmite oder Einwohner von Shepham",
+    "el": "ένας Σιφμίτης ή κάτοικος του Σέφαμ",
+    "es": "un shipmita o habitante de Shepham",
+    "et": "šifamiit või Šefami elanik",
+    "fi": "shiphiläinen tai Shephamin asukas",
+    "fr": "un Shiphmite ou un habitant de Shepham",
+    "hu": "shiphmita vagy Shepham lakosa",
+    "id": "seorang Shiphmite atau penduduk Shepham",
+    "it": "uno Shiphmita o un abitante di Shepham",
+    "ja": "シファム人またはシファムの住民",
+    "ko": "쉽마이트 또는 셰팜의 주민",
+    "lt": "šifamietis arba Šefamo gyventojas",
+    "lv": "shiphmite vai Shepham iedzīvotājs",
+    "nb": "en skiphit eller innbygger i Shepham",
+    "nl": "een Shiphmiet of inwoner van Shepham",
+    "pl": "shiphmite lub mieszkaniec Shepham",
+    "pt": "um shiphmita ou habitante de Sefam",
+    "ro": "un Shiphmite sau locuitor din Shepham",
+    "ru": "шифмиец или житель Шефама",
+    "sk": "šífman alebo obyvateľ Šefámu",
+    "sl": "šifmec ali prebivalec Šefama",
+    "sv": "en Shiphmite eller invånare i Shepham",
+    "tr": "bir Shiphmite ya da Shepham sakini",
+    "uk": "шипхміт або мешканець Шефама",
+    "zh": "示法姆人或示法姆的居民"
+  },
+  "verses": [
+    "firstChronicles 27:27:9"
+  ]
+}

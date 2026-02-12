@@ -1,0 +1,42 @@
+{
+  "number": "H3126",
+  "language": "hebrew",
+  "transliteration": "yôwnêq",
+  "pronunciation": "yo-nake'",
+  "definition": "a sucker; hence, a twig (of a tree felled and sprouting)",
+  "kjvTranslation": "tender plant.",
+  "translations": {
+    "bg": "издънка; оттук - клонче (от отсечено и поникнало дърво)",
+    "cs": "výhonek; odtud větvička (stromu, který byl pokácen a vyrostl)",
+    "da": "en sugekop; derfor en kvist (af et træ, der er fældet og spirer)",
+    "de": "ein Ableger; daher ein Zweig (eines gefällten und austreibenden Baumes)",
+    "el": "ένα βλαστάρι, επομένως, ένα κλαδί (ενός δέντρου που κόπηκε και βλαστάνει)",
+    "es": "un retoño; de ahí, una ramita (de un árbol talado y que brota)",
+    "et": "imik; seega oksake (langetatud ja võrsunud puust)",
+    "fi": "imijä; siis (kaadetun ja versovan puun) oksa",
+    "fr": "un drageon ; par conséquent, une brindille (d'un arbre abattu et en train de germer)",
+    "hu": "szívócső; ezért egy (kivágott és kihajtott) fa gallya",
+    "id": "pengisap; karenanya, ranting (dari pohon yang ditebang dan bertunas)",
+    "it": "un pollone; quindi, un ramoscello (di un albero abbattuto e che sta germogliando)",
+    "ja": "小枝",
+    "ko": "빨판; 따라서 (쓰러져 싹이 트는 나무의) 나뭇가지",
+    "lt": "atžala, taigi, šakelė (nupjauto medžio, kuri išauga)",
+    "lv": "atvases, tātad (nocirsta un dīgstoša koka zariņš)",
+    "nb": "en sugekvist; derav en kvist (av et tre som er felt og spirer)",
+    "nl": "een uitloper; vandaar, een twijg (van een boom die geveld is en uitloopt)",
+    "pl": "przyssawka; stąd gałązka (ściętego i kiełkującego drzewa)",
+    "pt": "um rebento; portanto, um ramo (de uma árvore cortada e que brota)",
+    "ro": "un sugaci; prin urmare, o ramură (de copac doborât și înmugurit)",
+    "ru": "присоска; следовательно, веточка (срубленного и прорастающего дерева)",
+    "sk": "výhonok, teda vetvička (zo stromu, ktorý bol vyrúbaný a vyklíčil)",
+    "sl": "poganjek; od tod vejica (drevesa, ki je bila posekana in pognala poganjke)",
+    "sv": "en sugsnabel; därav en kvist (av ett träd som fällts och grott)",
+    "tr": "bir emici; dolayısıyla, bir dal (kesilmiş ve filizlenen bir ağacın)",
+    "uk": "присосок; отже, гілочка (про дерево, яке зрубали і воно проросло)",
+    "zh": "树枝（树木砍伐后萌发的枝条）。"
+  },
+  "hebrew": "יוֹנֵק",
+  "verses": [
+    "isaiah 53:2:1"
+  ]
+}

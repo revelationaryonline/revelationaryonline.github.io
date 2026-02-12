@@ -1,0 +1,42 @@
+{
+  "number": "H3280",
+  "language": "hebrew",
+  "transliteration": "yaʻălâh",
+  "pronunciation": "yah-al-aw'",
+  "definition": "{an ibex (as climbing)}",
+  "kjvTranslation": "roe.",
+  "translations": {
+    "bg": "{ибис (като катерене)}",
+    "cs": "{opice (jako horolezec)}",
+    "da": "{en stenbuk (som klatrer)}",
+    "de": "(ein Steinbock (als Kletterer)}",
+    "el": "{Ένας ιμπέκας (ως αναρριχητής)}",
+    "es": "{un íbice (como trepador)}",
+    "et": "{Kitsed (nagu ronimine)}",
+    "fi": "(kivisika (kiipeilevänä))}",
+    "fr": "{un bouquetin (en escalade)}",
+    "hu": "{egy kőszálibak (mint mászóka)",
+    "id": "(ibex (seperti memanjat)",
+    "it": "{uno stambecco (come arrampicata)",
+    "ja": "{アイベックス（登山用）｝。",
+    "ko": "{아이벡스 (등반 중)}",
+    "lt": "{a ibex (kaip laipiojimas)}",
+    "lv": "(kā kāpšana)} {a ibex (kā kāpšana)}",
+    "nb": "{en steinbukk (som klatrer)}",
+    "nl": "{een steenbok (als klimmer)}",
+    "pl": "{ibex (jako wspinacz)}",
+    "pt": "{um íbex (como trepar)}",
+    "ro": "{un ibex (ca alpinism)}",
+    "ru": "{козерог (при подъеме)",
+    "sk": "{opica (ako lezec)}",
+    "sl": "(kozorog (kot plezanje))",
+    "sv": "{en stenbock (som klättring)}",
+    "tr": "{bir dağ keçisi (tırmanırken)}",
+    "uk": "{гірський козел (як скелелаз)",
+    "zh": "{山羊（攀爬时）}"
+  },
+  "hebrew": "יַעֲלָה",
+  "verses": [
+    "proverbs 5:19:2"
+  ]
+}

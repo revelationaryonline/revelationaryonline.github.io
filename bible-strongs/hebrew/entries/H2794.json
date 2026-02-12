@@ -1,0 +1,43 @@
+{
+  "number": "H2794",
+  "language": "hebrew",
+  "transliteration": "chôrêsh",
+  "pronunciation": "kho-rashe'",
+  "definition": "a fabricator or mechanic",
+  "kjvTranslation": "artificer.",
+  "translations": {
+    "bg": "производител или механик",
+    "cs": "výrobce nebo mechanik",
+    "da": "en fabrikant eller mekaniker",
+    "de": "ein Fabrikant oder Mechaniker",
+    "el": "κατασκευαστής ή μηχανικός",
+    "es": "un fabricante o mecánico",
+    "et": "töötleja või mehaanik",
+    "fi": "valmistaja tai mekaanikko",
+    "fr": "un fabricant ou un mécanicien",
+    "hu": "egy gyártó vagy szerelő",
+    "id": "perakit atau mekanik",
+    "it": "un fabbricatore o un meccanico",
+    "ja": "機械工",
+    "ko": "제작자 또는 정비사",
+    "lt": "gamintojas arba mechanikas",
+    "lv": "izgatavotājs vai mehāniķis",
+    "nb": "en fabrikant eller mekaniker",
+    "nl": "een fabrikant of monteur",
+    "pl": "fabrykant lub mechanik",
+    "pt": "um fabricante ou mecânico",
+    "ro": "fabricant sau mecanic",
+    "ru": "фабрикант или механик",
+    "sk": "výrobca alebo mechanik",
+    "sl": "izdelovalec ali mehanik",
+    "sv": "en fabrikör eller mekaniker",
+    "tr": "bir fabrikatör veya tamirci",
+    "uk": "виробник або механік",
+    "zh": "技工"
+  },
+  "hebrew": "חֹרֵשׁ",
+  "verses": [
+    "genesis 4:22:9",
+    "firstKings 7:14:9"
+  ]
+}

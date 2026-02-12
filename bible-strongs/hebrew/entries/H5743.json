@@ -1,0 +1,42 @@
+{
+  "number": "H5743",
+  "language": "hebrew",
+  "transliteration": "ʻûwb",
+  "pronunciation": "oob",
+  "definition": "to be dense or dark, i.e. to becloud",
+  "kjvTranslation": "cover with a cloud.",
+  "hebrew": "עוּב",
+  "translations": {
+    "bg": "да е гъст или тъмен, т.е. да затъмнява",
+    "cs": "být hustý nebo tmavý, tj. zakrývat se",
+    "da": "at være tæt eller mørk, dvs. at være uklar",
+    "de": "dicht oder dunkel zu sein, d.h. zu verdunkeln",
+    "el": "να είναι πυκνό ή σκοτεινό, δηλαδή να θολώνει",
+    "es": "ser denso u oscuro, es decir, enturbiar",
+    "et": "olla tihe või tume, st hägune",
+    "fi": "olla tiheä tai pimeä, ts. hämärtää",
+    "fr": "d'être dense ou sombre, c'est-à-dire de s'obscurcir",
+    "hu": "sűrű vagy sötét lenni, azaz elhomályosítani",
+    "id": "menjadi pekat atau gelap, yaitu menjadi pekat",
+    "it": "essere denso o scuro, cioè offuscare",
+    "ja": "濃い、暗い、つまり曇らせる",
+    "ko": "조밀하거나 어둡다, 즉 흐리게 하다",
+    "lt": "būti tankus arba tamsus, t. y. užgožti",
+    "lv": "būt blīvs vai tumšs, t.i., aizēnoties",
+    "nb": "å være tett eller mørk, dvs. å være uoversiktlig",
+    "nl": "dicht of donker zijn, d.w.z. in de war raken",
+    "pl": "być gęstym lub ciemnym, tj. zachmurzonym",
+    "pt": "ser denso ou escuro, ou seja, turvo",
+    "ro": "a fi dens sau întunecat, adică a întuneca",
+    "ru": "быть плотным или темным, т.е. затуманиваться",
+    "sk": "byť hustý alebo tmavý, t. j. zahmlievať",
+    "sl": "biti gost ali temen, tj. zamegliti",
+    "sv": "att vara tät eller mörk, d.v.s. att skymma",
+    "tr": "yoğun veya karanlık olmak, yani bulanıklaşmak",
+    "uk": "бути густим або темним, тобто затьмарюватися",
+    "zh": "浓密或黑暗，即阴暗"
+  },
+  "verses": [
+    "lamentations 2:1:1"
+  ]
+}

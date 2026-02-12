@@ -1,0 +1,42 @@
+{
+  "number": "H8564",
+  "language": "hebrew",
+  "transliteration": "tamrûwr",
+  "pronunciation": "tam-roor'",
+  "definition": "an erection, i.e. pillar (probably for a guide-board)",
+  "kjvTranslation": "high heap.",
+  "hebrew": "תַּמְרוּר",
+  "translations": {
+    "bg": "издигане, т.е. стълб (вероятно за пътеводител)",
+    "cs": "vztyčený sloup (pravděpodobně pro vodicí tabuli)",
+    "da": "en erektion, dvs. en søjle (sandsynligvis til et vejviserskilt)",
+    "de": "eine Errichtung, d.h. eine Säule (wahrscheinlich für eine Hinweistafel)",
+    "el": "μια στήλη, δηλαδή ένας πυλώνας (πιθανότατα για μια πινακίδα καθοδήγησης)",
+    "es": "una erección, es decir, un pilar (probablemente para un tablero guía)",
+    "et": "püstitus, st sammas (ilmselt juhatuselaual)",
+    "fi": "pylväs (luultavasti opastetaulua varten)",
+    "fr": "une érection, c'est-à-dire un pilier (probablement pour un panneau d'orientation)",
+    "hu": "felállítás, azaz oszlop (valószínűleg egy útjelző tábla számára)",
+    "id": "ereksi, yaitu pilar (mungkin untuk papan pemandu)",
+    "it": "un'erezione, cioè un pilastro (probabilmente per un tabellone di guida)",
+    "ja": "立て柱",
+    "ko": "기둥, 즉 기둥(아마도 안내판용)",
+    "lt": "statinys, t. y. stulpas (tikriausiai gido lentos)",
+    "lv": "statnis, t.i., balsts (iespējams, ceļvedim)",
+    "nb": "en ereksjon, dvs. en søyle (sannsynligvis for et veiviserskilt)",
+    "nl": "een erectie, d.w.z. pilaar (waarschijnlijk voor een gidsbord)",
+    "pl": "wzniesienie, tj. słup (prawdopodobnie dla tablicy prowadzącej)",
+    "pt": "uma ereção, ou seja, um pilar (provavelmente para um painel de orientação)",
+    "ro": "o erecție, adică un stâlp (probabil pentru o placă de ghidaj)",
+    "ru": "возведение, т.е. столб (вероятно, для путеводной доски)",
+    "sk": "vztýčený stĺp (pravdepodobne pre vodiacu tabuľu)",
+    "sl": "postavitev, tj. steber (verjetno za usmerjevalno tablo)",
+    "sv": "en erektion, dvs. pelare (troligen för en vägvisare)",
+    "tr": "bir dikme, yani sütun (muhtemelen bir kılavuz pano için)",
+    "uk": "ерекція, тобто стовп (ймовірно, для напрямної дошки)",
+    "zh": "立柱"
+  },
+  "verses": [
+    "jeremiah 31:21:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7483",
+  "language": "hebrew",
+  "transliteration": "raʻmâh",
+  "pronunciation": "rah-maw'",
+  "definition": "the mane of a horse (as quivering in the wind)",
+  "kjvTranslation": "thunder.",
+  "hebrew": "רַעְמָה",
+  "translations": {
+    "bg": "гривата на кон (като трептяща от вятъра)",
+    "cs": "koňská hříva (chvějící se ve větru)",
+    "da": "en hests manke (som dirrer i vinden)",
+    "de": "die Mähne eines Pferdes (die im Wind zittert)",
+    "el": "η χαίτη ενός αλόγου (που τρέμει στον άνεμο)",
+    "es": "la crin de un caballo (como temblando al viento)",
+    "et": "hobuse mannetus (nagu tuule käes värisev)",
+    "fi": "hevosen harja (tuulessa värisevä)",
+    "fr": "la crinière d'un cheval (comme frémissant dans le vent)",
+    "hu": "a ló sörénye (mintha a szélben remegne)",
+    "id": "surai kuda (seperti bergetar tertiup angin)",
+    "it": "la criniera di un cavallo (come se tremasse al vento)",
+    "ja": "風鬣",
+    "ko": "말의 갈기(바람에 흔들리는 모습)",
+    "lt": "žirgo girios (kaip vėjo drebėjimas)",
+    "lv": "zirga krēpes (kā vēja šalkoņa)",
+    "nb": "manen til en hest (som dirrer i vinden)",
+    "nl": "de manen van een paard (als trillend in de wind)",
+    "pl": "grzywa konia (drżąca na wietrze)",
+    "pt": "a crina de um cavalo (como se estivesse a tremer ao vento)",
+    "ro": "coama unui cal (ca tremurând în vânt)",
+    "ru": "грива лошади (трепещущая на ветру)",
+    "sk": "hriva koňa (ako sa chveje vo vetre)",
+    "sl": "konjska griva (ki se trese v vetru)",
+    "sv": "manen på en häst (som darrar i vinden)",
+    "tr": "bir atın yelesi (rüzgarda titrerken)",
+    "uk": "грива коня (як тріпотіння на вітрі)",
+    "zh": "马鬃"
+  },
+  "verses": [
+    "job 39:19:5"
+  ]
+}

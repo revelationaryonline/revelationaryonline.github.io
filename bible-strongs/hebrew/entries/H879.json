@@ -1,0 +1,42 @@
+{
+  "number": "H879",
+  "language": "hebrew",
+  "transliteration": "Bᵉʼêr ʼÊlîym",
+  "pronunciation": "be-ayr' ay-leem'",
+  "definition": "Beer-Elim, a place in the Desert",
+  "kjvTranslation": "Beer-elim.",
+  "translations": {
+    "bg": "Беер-Елим, място в пустинята",
+    "cs": "Beer-Elim, místo v poušti",
+    "da": "Beer-Elim, et sted i ørkenen",
+    "de": "Beer-Elim, ein Ort in der Wüste",
+    "el": "Beer-Elim, ένα μέρος στην έρημο",
+    "es": "Beer-Elim, un lugar en el desierto",
+    "et": "Beer-Elim, koht kõrbes",
+    "fi": "Beer-Elim, paikka aavikolla",
+    "fr": "Beer-Elim, un lieu dans le désert",
+    "hu": "Beer-Elim, egy hely a sivatagban",
+    "id": "Beer-Elim, sebuah tempat di Gurun Pasir",
+    "it": "Beer-Elim, un luogo nel deserto",
+    "ja": "砂漠の地、ビア・エリム",
+    "ko": "비어-엘림, 사막의 장소",
+    "lt": "Beer-Elim, vieta dykumoje",
+    "lv": "Beer-Elim, vieta tuksnesī",
+    "nb": "Beer-Elim, et sted i ørkenen",
+    "nl": "Beer-Elim, een plaats in de woestijn",
+    "pl": "Beer-Elim, miejsce na pustyni",
+    "pt": "Beer-Elim, um lugar no deserto",
+    "ro": "Beer-Elim, un loc în deșert",
+    "ru": "Беер-Элим, место в пустыне",
+    "sk": "Beer-Elim, miesto v púšti",
+    "sl": "Beer-Elim, kraj v puščavi",
+    "sv": "Beer-Elim, en plats i öknen",
+    "tr": "Beer-Elim, Çölde bir yer",
+    "uk": "Беер-Елім, місце в пустелі",
+    "zh": "比尔艾林，沙漠中的一个地方"
+  },
+  "hebrew": "בְּאֵר אֵלִים",
+  "verses": [
+    "isaiah 15:8:10"
+  ]
+}

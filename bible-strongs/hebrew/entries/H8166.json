@@ -1,0 +1,43 @@
+{
+  "number": "H8166",
+  "language": "hebrew",
+  "transliteration": "sᵉʻîyrâh",
+  "pronunciation": "seh-ee-raw'",
+  "definition": "a she-goat",
+  "kjvTranslation": "kid.",
+  "hebrew": "שְׂעִירָה",
+  "translations": {
+    "bg": "коза",
+    "cs": "koza",
+    "da": "en hun-ged",
+    "de": "eine Ziege",
+    "el": "μια κατσίκα",
+    "es": "una cabra",
+    "et": "kitsetüdruk",
+    "fi": "naaraspuolinen vuohi",
+    "fr": "une chèvre",
+    "hu": "egy kecskebika",
+    "id": "seekor kambing betina",
+    "it": "una capra",
+    "ja": "雌山羊",
+    "ko": "암염소",
+    "lt": "ožka",
+    "lv": "kaza",
+    "nb": "en geitebukk",
+    "nl": "een geit",
+    "pl": "koza",
+    "pt": "uma cabra",
+    "ro": "o capră",
+    "ru": "коза",
+    "sk": "koza",
+    "sl": "koza",
+    "sv": "en honget",
+    "tr": "bir dişi keçi",
+    "uk": "козу",
+    "zh": "牝羊"
+  },
+  "verses": [
+    "leviticus 4:28:8",
+    "leviticus 5:6:13"
+  ]
+}

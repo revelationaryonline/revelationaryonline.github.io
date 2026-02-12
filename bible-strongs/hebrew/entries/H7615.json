@@ -1,0 +1,42 @@
+{
+  "number": "H7615",
+  "language": "hebrew",
+  "transliteration": "Shᵉbâʼîy",
+  "pronunciation": "sheb-aw-ee'",
+  "definition": "a Shebaite or descendant of Sheba",
+  "kjvTranslation": "Sabean.",
+  "hebrew": "שְׁבָאִי",
+  "translations": {
+    "bg": "сабаит или потомък на Саба",
+    "cs": "šebejský nebo potomek Šebejův",
+    "da": "en shebait eller efterkommer af Sheba",
+    "de": "ein Shebaite oder Nachkomme von Sheba",
+    "el": "απόγονος της Σεβά ή απόγονος της Σεβά",
+    "es": "sabaíta o descendiente de Saba",
+    "et": "šebalane või Šeba järeltulija",
+    "fi": "sabalainen tai Saban jälkeläinen",
+    "fr": "une Sabéenne ou une descendante de Saba",
+    "hu": "sábaita vagy Sába leszármazottja",
+    "id": "orang Sheba atau keturunan Sheba",
+    "it": "un Sabaita o un discendente di Saba",
+    "ja": "シバ人またはシバの子孫",
+    "ko": "셰바이트 또는 셰바의 후손",
+    "lt": "šebos palikuonis arba Šebos palikuonis",
+    "lv": "šebas pēcnācējs vai Šebas pēcnācējs",
+    "nb": "en sebaitt eller etterkommer av Saba",
+    "nl": "een Shebaite of afstammeling van Sheba",
+    "pl": "szebaita lub potomek Saby",
+    "pt": "um shebaita ou descendente de Sheba",
+    "ro": "un sabait sau descendent al lui Saba",
+    "ru": "шебаит или потомок Шебы",
+    "sk": "šebejovec alebo potomok Šebejovcov",
+    "sl": "šebejec ali potomec Sabe",
+    "sv": "en shebait eller ättling till Sheba",
+    "tr": "bir Saba'lı ya da Saba'nın soyundan",
+    "uk": "шеваїт або нащадок Шеви",
+    "zh": "示巴后裔"
+  },
+  "verses": [
+    "joel 4:8:9"
+  ]
+}

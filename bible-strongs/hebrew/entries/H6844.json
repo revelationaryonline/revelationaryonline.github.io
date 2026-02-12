@@ -1,0 +1,42 @@
+{
+  "number": "H6844",
+  "language": "hebrew",
+  "transliteration": "tsâphîyth",
+  "pronunciation": "tsaw-feeth'",
+  "definition": "a sentry",
+  "kjvTranslation": "watchtower.",
+  "hebrew": "צָפִית",
+  "translations": {
+    "bg": "часовой",
+    "cs": "hlídka",
+    "da": "en vagtpost",
+    "de": "eine Wache",
+    "el": "ένας φρουρός",
+    "es": "un centinela",
+    "et": "valvur",
+    "fi": "vartija",
+    "fr": "une sentinelle",
+    "hu": "egy őrszem",
+    "id": "penjaga",
+    "it": "una sentinella",
+    "ja": "衛兵",
+    "ko": "보초",
+    "lt": "sargybinis",
+    "lv": "sargs",
+    "nb": "en vaktpost",
+    "nl": "een schildwacht",
+    "pl": "wartownik",
+    "pt": "uma sentinela",
+    "ro": "o santinelă",
+    "ru": "часовой",
+    "sk": "strážca",
+    "sl": "stražar",
+    "sv": "en vaktpost",
+    "tr": "bir nöbetçi",
+    "uk": "вартовий",
+    "zh": "岗哨"
+  },
+  "verses": [
+    "isaiah 21:5:3"
+  ]
+}

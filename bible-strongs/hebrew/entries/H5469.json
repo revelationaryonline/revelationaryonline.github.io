@@ -1,0 +1,42 @@
+{
+  "number": "H5469",
+  "language": "hebrew",
+  "transliteration": "çahar",
+  "pronunciation": "cah'-har",
+  "definition": "roundness",
+  "kjvTranslation": "round.",
+  "hebrew": "סַהַר",
+  "translations": {
+    "bg": "закръгленост",
+    "cs": "zaoblení",
+    "da": "rundhed",
+    "de": "rundheit",
+    "el": "στρογγυλότητα",
+    "es": "redondez",
+    "et": "ümarus",
+    "fi": "pyöreys",
+    "fr": "rondeur",
+    "hu": "kerekesség",
+    "id": "kebulatan",
+    "it": "rotondità",
+    "ja": "丸み",
+    "ko": "원형",
+    "lt": "apvalumas",
+    "lv": "noapaļojums",
+    "nb": "rundhet",
+    "nl": "rondheid",
+    "pl": "zaokrąglenie",
+    "pt": "redondeza",
+    "ro": "rotunjime",
+    "ru": "округлость",
+    "sk": "zaoblenie",
+    "sl": "zaokroženost",
+    "sv": "rundhet",
+    "tr": "yuvarlaklık",
+    "uk": "округлість",
+    "zh": "圆度"
+  },
+  "verses": [
+    "solomon 7:3:2"
+  ]
+}

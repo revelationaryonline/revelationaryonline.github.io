@@ -1,0 +1,42 @@
+{
+  "number": "H7180",
+  "language": "hebrew",
+  "transliteration": "qishshuʼ",
+  "pronunciation": "kish-shoo'",
+  "definition": "a cucumber (from the difficulty of digestion)",
+  "kjvTranslation": "cucumber.",
+  "hebrew": "קִשֻּׁא",
+  "translations": {
+    "bg": "една краставица (от трудното храносмилане)",
+    "cs": "okurka (kvůli obtížnému trávení)",
+    "da": "en agurk (på grund af den svære fordøjelse)",
+    "de": "eine Gurke (wegen der Schwierigkeit der Verdauung)",
+    "el": "ένα αγγούρι (από τη δυσκολία της πέψης)",
+    "es": "un pepino (por la dificultad de digestión)",
+    "et": "kurk (seedimisraskustest)",
+    "fi": "kurkku (ruoansulatusvaikeuksien vuoksi)",
+    "fr": "un concombre (en raison de la difficulté de digestion)",
+    "hu": "egy uborka (az emésztési nehézségektől)",
+    "id": "mentimun (karena kesulitan pencernaan)",
+    "it": "un cetriolo (per la difficoltà di digestione)",
+    "ja": "キュウリ（消化の悪さから）",
+    "ko": "오이 (소화가 어려운 경우)",
+    "lt": "agurkas (nuo sunkumo virškinti)",
+    "lv": "gurķis (no gremošanas grūtībām)",
+    "nb": "en agurk (fra vanskeligheten med fordøyelsen)",
+    "nl": "een komkommer (vanwege de moeilijke spijsvertering)",
+    "pl": "ogórek (z powodu trudności w trawieniu)",
+    "pt": "um pepino (pela dificuldade de digestão)",
+    "ro": "un castravete (din cauza dificultății de digestie)",
+    "ru": "огурец (из-за сложности переваривания)",
+    "sk": "uhorka (z ťažkostí s trávením)",
+    "sl": "kumara (zaradi težje prebave)",
+    "sv": "en gurka (från svårigheten med matsmältningen)",
+    "tr": "bir salatalık (sindirim zorluğundan)",
+    "uk": "огірок (від утрудненого травлення)",
+    "zh": "黄瓜一根"
+  },
+  "verses": [
+    "numbers 11:5:8"
+  ]
+}

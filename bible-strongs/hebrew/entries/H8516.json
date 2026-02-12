@@ -1,0 +1,42 @@
+{
+  "number": "H8516",
+  "language": "hebrew",
+  "transliteration": "talbôsheth",
+  "pronunciation": "tal-bo'-sheth",
+  "definition": "a garment",
+  "kjvTranslation": "clothing.",
+  "hebrew": "תַּלְבֹּשֶׁת",
+  "translations": {
+    "bg": "облекло",
+    "cs": "oděv",
+    "da": "en beklædningsgenstand",
+    "de": "ein Kleidungsstück",
+    "el": "ένα ένδυμα",
+    "es": "una prenda",
+    "et": "rõivas",
+    "fi": "vaate",
+    "fr": "un vêtement",
+    "hu": "egy ruhadarab",
+    "id": "pakaian",
+    "it": "un indumento",
+    "ja": "衣",
+    "ko": "의복",
+    "lt": "drabužis",
+    "lv": "apģērbs",
+    "nb": "et plagg",
+    "nl": "een kledingstuk",
+    "pl": "ubiór",
+    "pt": "uma peça de vestuário",
+    "ro": "un articol de îmbrăcăminte",
+    "ru": "одежда",
+    "sk": "odev",
+    "sl": "oblačilo",
+    "sv": "ett klädesplagg",
+    "tr": "bir giysi",
+    "uk": "одяг",
+    "zh": "衣"
+  },
+  "verses": [
+    "isaiah 59:17:9"
+  ]
+}

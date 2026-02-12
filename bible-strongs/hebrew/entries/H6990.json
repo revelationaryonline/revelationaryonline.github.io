@@ -1,0 +1,42 @@
+{
+  "number": "H6990",
+  "language": "hebrew",
+  "transliteration": "qâṭaṭ",
+  "pronunciation": "kaw-tat'",
+  "definition": "to clip off, i.e. (figuratively) destroy",
+  "kjvTranslation": "be cut off.",
+  "hebrew": "קָטַט",
+  "translations": {
+    "bg": "да се отреже, т.е. да се унищожи (в преносен смисъл)",
+    "cs": "odstřihnout, tj. (obrazně) zničit",
+    "da": "at klippe af, dvs. (i overført betydning) ødelægge",
+    "de": "abschneiden, d.h. (im übertragenen Sinne) zerstören",
+    "el": "να κόψω, δηλαδή (μεταφορικά) να καταστρέψω",
+    "es": "cortar, es decir, destruir (en sentido figurado)",
+    "et": "ära lõigata, st (piltlikult öeldes) hävitada",
+    "fi": "leikata pois, eli (kuvaannollisesti) tuhota",
+    "fr": "couper, c'est-à-dire détruire (au sens figuré)",
+    "hu": "levágni, azaz (átvitt értelemben) elpusztítani",
+    "id": "untuk memotong, yaitu (secara kiasan) menghancurkan",
+    "it": "tagliare, cioè (in senso figurato) distruggere",
+    "ja": "切り取る、すなわち（比喩的に）破壊する",
+    "ko": "잘라내다, 즉 (비유적으로) 파괴하다",
+    "lt": "nukirpti, t. y. (perkeltine prasme) sunaikinti",
+    "lv": "nogriezt, t.i., (pārnestā nozīmē) iznīcināt",
+    "nb": "å klippe av, dvs. (i overført betydning) ødelegge",
+    "nl": "afknippen, d.w.z. (figuurlijk) vernietigen",
+    "pl": "odciąć, tj. (w przenośni) zniszczyć",
+    "pt": "cortar, ou seja, (figurativamente) destruir",
+    "ro": "a tăia, adică (la figurat) a distruge",
+    "ru": "отрезать, т.е. (фигурально) уничтожить",
+    "sk": "odstrihnúť, t. j. (obrazne) zničiť",
+    "sl": "odrezati, tj. (v prenesenem pomenu) uničiti",
+    "sv": "att klippa av, dvs. (bildligt talat) förstöra",
+    "tr": "kırpmak, yani (mecazi olarak) yok etmek",
+    "uk": "відрізати, тобто (образно) знищити",
+    "zh": "夹断，即（比喻）摧毁"
+  },
+  "verses": [
+    "job 8:14:1"
+  ]
+}

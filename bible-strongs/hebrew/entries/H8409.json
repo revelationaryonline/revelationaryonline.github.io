@@ -1,0 +1,42 @@
+{
+  "number": "H8409",
+  "language": "hebrew",
+  "transliteration": "tigrâh",
+  "pronunciation": "tig-raw'",
+  "definition": "strife, i.e. infliction",
+  "kjvTranslation": "blow.",
+  "hebrew": "תִּגְרָה",
+  "translations": {
+    "bg": "раздор, т.е. нанасяне на вреда",
+    "cs": "svár, tj. způsobení",
+    "da": "strid, dvs. påførelse af skade",
+    "de": "unfrieden, d.h. Zufügung",
+    "el": "διαμάχη, δηλαδή πρόκληση",
+    "es": "contienda, es decir, inflicción",
+    "et": "tüli, s.t. tekitamine",
+    "fi": "riita, ts. aiheuttaminen",
+    "fr": "le conflit, c'est-à-dire l'infliction",
+    "hu": "viszály, vagyis a harcok okozása",
+    "id": "perselisihan, yaitu penderitaan",
+    "it": "lotta, cioè inflizione",
+    "ja": "争い",
+    "ko": "분쟁, 즉 가혹 행위",
+    "lt": "nesantaika, t. y. užpuolimas",
+    "lv": "strīdi, t.i., nodarīšana",
+    "nb": "strid, dvs. påføring",
+    "nl": "strijd, d.w.z. toebrengen",
+    "pl": "spór, tj. zadawanie ciosów",
+    "pt": "contenda, ou seja, infligir",
+    "ro": "conflict, adică infliction",
+    "ru": "раздор, т.е. причинение",
+    "sk": "boj, t. j. spôsobenie",
+    "sl": "prepir, tj. povzročitev",
+    "sv": "strid, dvs. tillfogande",
+    "tr": "çekişme, yani eziyet",
+    "uk": "розбрат, тобто заподіяння",
+    "zh": "纷争，即侵害"
+  },
+  "verses": [
+    "psalms 39:11:3"
+  ]
+}

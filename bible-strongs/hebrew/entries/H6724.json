@@ -1,0 +1,43 @@
+{
+  "number": "H6724",
+  "language": "hebrew",
+  "transliteration": "tsîyôwn",
+  "pronunciation": "tsee-yone'",
+  "definition": "a desert",
+  "kjvTranslation": "dry place.",
+  "hebrew": "צִיוֹן",
+  "translations": {
+    "bg": "пустиня",
+    "cs": "poušť",
+    "da": "en ørken",
+    "de": "eine Wüste",
+    "el": "μια έρημος",
+    "es": "un desierto",
+    "et": "kõrb",
+    "fi": "erämaa",
+    "fr": "un désert",
+    "hu": "egy sivatag",
+    "id": "padang pasir",
+    "it": "un deserto",
+    "ja": "砂漠",
+    "ko": "사막",
+    "lt": "dykuma",
+    "lv": "tuksnesis",
+    "nb": "en ørken",
+    "nl": "een woestijn",
+    "pl": "pustynia",
+    "pt": "um deserto",
+    "ro": "un deșert",
+    "ru": "пустыня",
+    "sk": "púšť",
+    "sl": "puščava",
+    "sv": "en öken",
+    "tr": "bir çöl",
+    "uk": "пустеля",
+    "zh": "沙漠"
+  },
+  "verses": [
+    "isaiah 25:5:1",
+    "isaiah 32:2:8"
+  ]
+}

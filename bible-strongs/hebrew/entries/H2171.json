@@ -1,0 +1,42 @@
+{
+  "number": "H2171",
+  "language": "hebrew",
+  "transliteration": "zammâr",
+  "pronunciation": "zam-mawr'",
+  "definition": "an instrumental musician",
+  "kjvTranslation": "singer.",
+  "translations": {
+    "bg": "музикант-инструменталист",
+    "cs": "instrumentální hudebník",
+    "da": "en instrumentalmusiker",
+    "de": "ein Instrumentalmusiker",
+    "el": "μουσικός οργάνων",
+    "es": "músico instrumental",
+    "et": "instrumentaalmuusik",
+    "fi": "instrumentaalimuusikko",
+    "fr": "un musicien instrumentiste",
+    "hu": "hangszeres zenész",
+    "id": "seorang musisi instrumental",
+    "it": "un musicista strumentale",
+    "ja": "器楽奏者",
+    "ko": "악기 연주자",
+    "lt": "instrumentinės muzikos atlikėjas",
+    "lv": "instrumentālās mūzikas mūziķis",
+    "nb": "en instrumentalmusiker",
+    "nl": "een instrumentale muzikant",
+    "pl": "muzyk instrumentalista",
+    "pt": "um músico instrumental",
+    "ro": "un muzician instrumentist",
+    "ru": "музыкант-инструменталист",
+    "sk": "inštrumentálny hudobník",
+    "sl": "instrumentalni glasbenik",
+    "sv": "en instrumentalmusiker",
+    "tr": "bir enstrümantal müzisyen",
+    "uk": "інструментальний музикант",
+    "zh": "器乐演奏家"
+  },
+  "hebrew": "זַמָּר",
+  "verses": [
+    "ezra 7:24:6"
+  ]
+}

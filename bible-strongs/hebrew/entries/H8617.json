@@ -1,0 +1,42 @@
+{
+  "number": "H8617",
+  "language": "hebrew",
+  "transliteration": "tᵉqûwmâh",
+  "pronunciation": "tek-oo-maw'",
+  "definition": "resistfulness",
+  "kjvTranslation": "power to stand.",
+  "hebrew": "תְּקוּמָה",
+  "translations": {
+    "bg": "съпротивление",
+    "cs": "odolnost",
+    "da": "modstandsdygtighed",
+    "de": "widerstandsfähigkeit",
+    "el": "ανθεκτικότητα",
+    "es": "resistencia",
+    "et": "vastupanuvõime",
+    "fi": "vastarinta",
+    "fr": "résistance",
+    "hu": "ellenállás",
+    "id": "menolak",
+    "it": "resistenza",
+    "ja": "抵抗感",
+    "ko": "저항력",
+    "lt": "pasipriešinimas",
+    "lv": "pretestība",
+    "nb": "motstandsdyktighet",
+    "nl": "weerstand",
+    "pl": "oporność",
+    "pt": "resistência",
+    "ro": "rezistență",
+    "ru": "сопротивляемость",
+    "sk": "odolnosť",
+    "sl": "odpornost",
+    "sv": "motsträvighet",
+    "tr": "dirençlilik",
+    "uk": "стійкість",
+    "zh": "抵制"
+  },
+  "verses": [
+    "leviticus 26:37:10"
+  ]
+}

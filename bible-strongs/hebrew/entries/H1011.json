@@ -1,0 +1,42 @@
+{
+  "number": "H1011",
+  "language": "hebrew",
+  "transliteration": "Bêyth Birʼîy",
+  "pronunciation": "bayth bir-ee'",
+  "definition": "Beth-Biri, a place in Palestine",
+  "kjvTranslation": "Bethbirei.",
+  "translations": {
+    "bg": "Бет-Бири, място в Палестина",
+    "cs": "Beth-Biri, místo v Palestině",
+    "da": "Beth-Biri, et sted i Palæstina",
+    "de": "Beth-Biri, ein Ort in Palästina",
+    "el": "Beth-Biri, τόπος στην Παλαιστίνη",
+    "es": "Beth-Biri, un lugar en Palestina",
+    "et": "Beth-Biri, koht Palestiinas",
+    "fi": "Beth-Biri, paikka Palestiinassa",
+    "fr": "Beth-Biri, localité de Palestine",
+    "hu": "Beth-Biri, egy hely Palesztinában",
+    "id": "Beth-Biri, sebuah tempat di Palestina",
+    "it": "Beth-Biri, località della Palestina",
+    "ja": "パレスチナの地名、ベス・ビリ",
+    "ko": "팔레스타인의 벳비리, 팔레스타인의 한 장소",
+    "lt": "Bet-Biri, vietovė Palestinoje",
+    "lv": "Beth-Biri, vieta Palestīnā",
+    "nb": "Beth-Biri, et sted i Palestina",
+    "nl": "Beth-Biri, een plaats in Palestina",
+    "pl": "Beth-Biri, miejscowość w Palestynie",
+    "pt": "Beth-Biri, um lugar na Palestina",
+    "ro": "Beth-Biri, un loc în Palestina",
+    "ru": "Бет-Бири, место в Палестине",
+    "sk": "Beth-Biri, miesto v Palestíne",
+    "sl": "Beth-Biri, kraj v Palestini",
+    "sv": "Beth-Biri, en plats i Palestina",
+    "tr": "Beth-Biri, Filistin'de bir yer",
+    "uk": "Бет-Бірі, місце в Палестині",
+    "zh": "贝思比里"
+  },
+  "hebrew": "בֵּית בִּרְאִי",
+  "verses": [
+    "firstChronicles 4:31:5"
+  ]
+}

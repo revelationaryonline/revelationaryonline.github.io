@@ -1,0 +1,42 @@
+{
+  "number": "H2804",
+  "language": "hebrew",
+  "transliteration": "chăshab",
+  "pronunciation": "khash-ab'",
+  "definition": "to regard",
+  "kjvTranslation": "repute.",
+  "translations": {
+    "bg": "да се счита",
+    "cs": "brát ohled na",
+    "da": "at betragte",
+    "de": "zu beachten",
+    "el": "να θεωρούν",
+    "es": "considerar",
+    "et": "arvestada",
+    "fi": "pitää",
+    "fr": "considérer",
+    "hu": "tekintettel",
+    "id": "untuk menganggap",
+    "it": "considerare",
+    "ja": "尊重する",
+    "ko": "고려할",
+    "lt": "atsižvelgti į",
+    "lv": "ņemt vērā",
+    "nb": "med hensyn til",
+    "nl": "ten aanzien van",
+    "pl": "uwzględniać",
+    "pt": "para considerar",
+    "ro": "să ia în considerare",
+    "ru": "считать",
+    "sk": "brať do úvahy",
+    "sl": "upoštevati",
+    "sv": "att betrakta",
+    "tr": "dikkate almak",
+    "uk": "що стосується",
+    "zh": "视为"
+  },
+  "hebrew": "חֲשַׁב",
+  "verses": [
+    "daniel 4:32:5"
+  ]
+}

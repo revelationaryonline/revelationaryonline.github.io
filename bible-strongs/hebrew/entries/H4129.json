@@ -1,0 +1,43 @@
+{
+  "number": "H4129",
+  "language": "hebrew",
+  "transliteration": "môwdaʻ",
+  "pronunciation": "mo-dah'",
+  "definition": "an acquaintance",
+  "kjvTranslation": "kinswoman.",
+  "hebrew": "מוֹדַע",
+  "translations": {
+    "bg": "познат",
+    "cs": "známý",
+    "da": "en bekendt",
+    "de": "ein Bekannter",
+    "el": "ένας γνωστός",
+    "es": "un conocido",
+    "et": "tuttav",
+    "fi": "tuttava",
+    "fr": "une connaissance",
+    "hu": "egy ismerős",
+    "id": "seorang kenalan",
+    "it": "un conoscente",
+    "ja": "知人",
+    "ko": "지인",
+    "lt": "pažįstamas",
+    "lv": "paziņa",
+    "nb": "en bekjent",
+    "nl": "een kennis",
+    "pl": "znajomy",
+    "pt": "um conhecido",
+    "ro": "o cunoștință",
+    "ru": "знакомый",
+    "sk": "známosť",
+    "sl": "znanec",
+    "sv": "en bekant",
+    "tr": "bir tanıdık",
+    "uk": "знайомий",
+    "zh": "熟人"
+  },
+  "verses": [
+    "ruth 2:1:2",
+    "proverbs 7:4:4"
+  ]
+}

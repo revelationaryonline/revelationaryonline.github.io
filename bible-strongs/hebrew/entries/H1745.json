@@ -1,0 +1,43 @@
+{
+  "number": "H1745",
+  "language": "hebrew",
+  "transliteration": "dûwmâh",
+  "pronunciation": "doo-maw'",
+  "definition": "silence; figuratively, death",
+  "kjvTranslation": "silence.",
+  "translations": {
+    "bg": "мълчание; в преносен смисъл - смърт",
+    "cs": "ticho; přeneseně smrt",
+    "da": "stilhed; i overført betydning, død",
+    "de": "schweigen; im übertragenen Sinne, Tod",
+    "el": "σιωπή- μεταφορικά, θάνατος",
+    "es": "silencio; en sentido figurado, muerte",
+    "et": "vaikus; piltlikult öeldes, surm",
+    "fi": "hiljaisuus; kuvaannollisesti kuolema",
+    "fr": "le silence ; au sens figuré, la mort",
+    "hu": "csend; átvitt értelemben: halál",
+    "id": "keheningan; secara kiasan, kematian",
+    "it": "silenzio; in senso figurato, morte",
+    "ja": "比喩的に「死",
+    "ko": "침묵; 비유적으로 죽음",
+    "lt": "tyla; perkeltine prasme - mirtis",
+    "lv": "klusums; pārnestā nozīmē - nāve",
+    "nb": "stillhet; i overført betydning, døden",
+    "nl": "stilte; figuurlijk, dood",
+    "pl": "cisza; w przenośni śmierć",
+    "pt": "silêncio; figurativamente, morte",
+    "ro": "tăcere; la figurat, moarte",
+    "ru": "молчание; образно говоря, смерть",
+    "sk": "ticho; v prenesenom význame smrť",
+    "sl": "tišina; v prenesenem pomenu smrt",
+    "sv": "tystnad; bildligt talat, död",
+    "tr": "sessizlik; mecazi anlamda ölüm",
+    "uk": "тиша; образно - смерть",
+    "zh": "死亡"
+  },
+  "hebrew": "דּוּמָה",
+  "verses": [
+    "psalms 94:17:6",
+    "psalms 115:17:7"
+  ]
+}

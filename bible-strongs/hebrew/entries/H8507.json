@@ -1,0 +1,42 @@
+{
+  "number": "H8507",
+  "language": "hebrew",
+  "transliteration": "Tôken",
+  "pronunciation": "to'-ken",
+  "definition": "Token, a place in Palestine",
+  "kjvTranslation": "Tochen.",
+  "hebrew": "תֹּכֶן",
+  "translations": {
+    "bg": "Token, място в Палестина",
+    "cs": "Token, místo v Palestině",
+    "da": "Token, et sted i Palæstina",
+    "de": "Token, ein Ort in Palästina",
+    "el": "Token, τόπος στην Παλαιστίνη",
+    "es": "Token, un lugar en Palestina",
+    "et": "Token, koht Palestiinas",
+    "fi": "Token, paikka Palestiinassa",
+    "fr": "Token, localité de Palestine",
+    "hu": "Token, egy hely Palesztinában",
+    "id": "Token, sebuah tempat di Palestina",
+    "it": "Token, un luogo in Palestina",
+    "ja": "トーケン（パレスチナの地名",
+    "ko": "토큰, 팔레스타인의 한 장소",
+    "lt": "Token, vietovė Palestinoje",
+    "lv": "Token, vieta Palestīnā",
+    "nb": "Token, et sted i Palestina",
+    "nl": "Token, een plaats in Palestina",
+    "pl": "Token, miejscowość w Palestynie",
+    "pt": "Token, um lugar na Palestina",
+    "ro": "Token, un loc în Palestina",
+    "ru": "Токен, местечко в Палестине",
+    "sk": "Token, miesto v Palestíne",
+    "sl": "Token, kraj v Palestini",
+    "sv": "Token, en plats i Palestina",
+    "tr": "Token, Filistin'de bir yer",
+    "uk": "Токен, місце в Палестині",
+    "zh": "托肯"
+  },
+  "verses": [
+    "firstChronicles 4:32:4"
+  ]
+}

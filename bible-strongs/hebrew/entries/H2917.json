@@ -1,0 +1,43 @@
+{
+  "number": "H2917",
+  "language": "hebrew",
+  "transliteration": "ṭîyn",
+  "pronunciation": "teen",
+  "definition": "clay",
+  "kjvTranslation": "miry.",
+  "translations": {
+    "bg": "глина",
+    "cs": "hlína",
+    "da": "ler",
+    "de": "ton",
+    "el": "πηλός",
+    "es": "arcilla",
+    "et": "savi",
+    "fi": "savi",
+    "fr": "argile",
+    "hu": "agyag",
+    "id": "tanah liat",
+    "it": "argilla",
+    "ja": "粘土",
+    "ko": "클레이",
+    "lt": "molis",
+    "lv": "māls",
+    "nb": "leire",
+    "nl": "klei",
+    "pl": "glina",
+    "pt": "argila",
+    "ro": "argilă",
+    "ru": "глина",
+    "sk": "hlina",
+    "sl": "glina",
+    "sv": "lera",
+    "tr": "kİL",
+    "uk": "глина",
+    "zh": "粘土"
+  },
+  "hebrew": "טִין",
+  "verses": [
+    "daniel 2:41:28",
+    "daniel 2:43:6"
+  ]
+}

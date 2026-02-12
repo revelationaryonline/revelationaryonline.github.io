@@ -1,0 +1,42 @@
+{
+  "number": "H7558",
+  "language": "hebrew",
+  "transliteration": "rishyôwn",
+  "pronunciation": "rish-yone'",
+  "definition": "a permit",
+  "kjvTranslation": "grant.",
+  "hebrew": "רִשְׁיוֹן",
+  "translations": {
+    "bg": "разрешение",
+    "cs": "povolení",
+    "da": "en tilladelse",
+    "de": "eine Genehmigung",
+    "el": "μια άδεια",
+    "es": "un permiso",
+    "et": "luba",
+    "fi": "lupa",
+    "fr": "un permis",
+    "hu": "engedély",
+    "id": "izin",
+    "it": "un permesso",
+    "ja": "許可証",
+    "ko": "허가증",
+    "lt": "leidimas",
+    "lv": "atļauja",
+    "nb": "tillatelse",
+    "nl": "een vergunning",
+    "pl": "zezwolenie",
+    "pt": "uma autorização",
+    "ro": "un permis",
+    "ru": "разрешение",
+    "sk": "povolenie",
+    "sl": "dovoljenje",
+    "sv": "ett tillstånd",
+    "tr": "bir izin",
+    "uk": "дозвіл",
+    "zh": "许可证"
+  },
+  "verses": [
+    "ezra 3:7:17"
+  ]
+}

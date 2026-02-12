@@ -1,0 +1,42 @@
+{
+  "number": "H5552",
+  "language": "hebrew",
+  "transliteration": "çalçillâh",
+  "pronunciation": "sal-sil-law'",
+  "definition": "a twig (as pendulous)",
+  "kjvTranslation": "basket.",
+  "hebrew": "סַלְסִלָּה",
+  "translations": {
+    "bg": "клонче (като висящо)",
+    "cs": "větvička (jako převislá)",
+    "da": "en kvist (som hænger)",
+    "de": "ein Zweig (als Pendel)",
+    "el": "ένα κλαδί (ως κρεμαστό)",
+    "es": "una ramita (como colgante)",
+    "et": "okas (kui rippuv)",
+    "fi": "oksa (riippuvainen)",
+    "fr": "un rameau (comme pendulaire)",
+    "hu": "egy gally (mint függő)",
+    "id": "ranting (seperti terjumbai)",
+    "it": "un ramoscello (come pendulo)",
+    "ja": "小枝",
+    "ko": "나뭇가지(매달린 상태)",
+    "lt": "šakelė (kaip svyranti)",
+    "lv": "zariņš (kā svārsts)",
+    "nb": "en kvist (som hengende)",
+    "nl": "een takje (als hangend)",
+    "pl": "gałązka (jako zwisająca)",
+    "pt": "um ramo (como pendente)",
+    "ro": "o rămurică (ca pendul)",
+    "ru": "веточка (как маятник)",
+    "sk": "vetvička (ako previsnutá)",
+    "sl": "vejica (kot viseča)",
+    "sv": "en kvist (som hängande)",
+    "tr": "bir dal (sarkık olarak)",
+    "uk": "гілочка (як маятник)",
+    "zh": "楂"
+  },
+  "verses": [
+    "jeremiah 6:9:13"
+  ]
+}

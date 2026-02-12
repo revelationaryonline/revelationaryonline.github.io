@@ -1,0 +1,43 @@
+{
+  "number": "H6739",
+  "language": "hebrew",
+  "transliteration": "tsᵉlâʼ",
+  "pronunciation": "tsel-aw'",
+  "definition": "pray",
+  "kjvTranslation": "pray.",
+  "hebrew": "צְלָא",
+  "translations": {
+    "bg": "молете се",
+    "cs": "modlete se",
+    "da": "bede",
+    "de": "beten",
+    "el": "προσευχηθείτε",
+    "es": "reza",
+    "et": "palvetage",
+    "fi": "rukoile",
+    "fr": "prier",
+    "hu": "imádkozz",
+    "id": "berdoa",
+    "it": "pregare",
+    "ja": "祈る",
+    "ko": "기도",
+    "lt": "melstis",
+    "lv": "lūgties",
+    "nb": "be",
+    "nl": "bid",
+    "pl": "modlić się",
+    "pt": "rezar",
+    "ro": "rugați-vă",
+    "ru": "молиться",
+    "sk": "modlite sa",
+    "sl": "molitev",
+    "sv": "be",
+    "tr": "dua et",
+    "uk": "молитися",
+    "zh": "祷"
+  },
+  "verses": [
+    "ezra 6:10:6",
+    "daniel 6:11:21"
+  ]
+}

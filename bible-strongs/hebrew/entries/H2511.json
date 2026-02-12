@@ -1,0 +1,42 @@
+{
+  "number": "H2511",
+  "language": "hebrew",
+  "transliteration": "challâq",
+  "pronunciation": "khal-lawk'",
+  "definition": "smooth",
+  "kjvTranslation": "smooth.",
+  "translations": {
+    "bg": "гладка",
+    "cs": "hladký",
+    "da": "glat",
+    "de": "glatt",
+    "el": "ομαλή",
+    "es": "suave",
+    "et": "sujuv",
+    "fi": "sileä",
+    "fr": "lisse",
+    "hu": "sima",
+    "id": "halus",
+    "it": "liscio",
+    "ja": "スムース",
+    "ko": "매끄러운",
+    "lt": "sklandžiai",
+    "lv": "gluda",
+    "nb": "glatt",
+    "nl": "glad",
+    "pl": "gładki",
+    "pt": "suave",
+    "ro": "netedă",
+    "ru": "гладкий",
+    "sk": "hladký",
+    "sl": "gladko",
+    "sv": "smidig",
+    "tr": "pürüzsüz",
+    "uk": "гладкий",
+    "zh": "顺畅"
+  },
+  "hebrew": "חַלָּק",
+  "verses": [
+    "isaiah 57:6:0"
+  ]
+}

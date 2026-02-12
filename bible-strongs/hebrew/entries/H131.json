@@ -1,0 +1,43 @@
+{
+  "number": "H131",
+  "language": "hebrew",
+  "transliteration": "ʼĂdummîym",
+  "pronunciation": "ad-oom-meem'",
+  "definition": "Adummim, a pass in Palestine",
+  "kjvTranslation": "Adummim.",
+  "translations": {
+    "bg": "Адумим, проход в Палестина",
+    "cs": "Adummim, průsmyk v Palestině",
+    "da": "Adummim, et pas i Palæstina",
+    "de": "Adummim, ein Pass in Palästina",
+    "el": "Adummim, πέρασμα στην Παλαιστίνη",
+    "es": "Adummim, un paso en Palestina",
+    "et": "Adummim, pass Palestiinas",
+    "fi": "Adummim, sola Palestiinassa",
+    "fr": "Adummim, col en Palestine",
+    "hu": "Adummim, egy hágó Palesztinában",
+    "id": "Adummim, sebuah jalur di Palestina",
+    "it": "Adummim, un passo in Palestina",
+    "ja": "パレスチナの峠、アドゥンミム",
+    "ko": "팔레스타인의 고개, 아둠밈",
+    "lt": "Adummimas, perėja Palestinoje",
+    "lv": "Adummim, pāreja Palestīnā",
+    "nb": "Adummim, et pass i Palestina",
+    "nl": "Adummim, een pas in Palestina",
+    "pl": "Adummim, przełęcz w Palestynie",
+    "pt": "Adummim, um desfiladeiro na Palestina",
+    "ro": "Adummim, o trecătoare în Palestina",
+    "ru": "Адуммим, перевал в Палестине",
+    "sk": "Adummim, priesmyk v Palestíne",
+    "sl": "Adummim, prelaz v Palestini",
+    "sv": "Adummim, ett pass i Palestina",
+    "tr": "Adummim, Filistin'de bir geçit",
+    "uk": "Адуммім, перевал у Палестині",
+    "zh": "阿杜米姆"
+  },
+  "hebrew": "אֲדֻמִּים",
+  "verses": [
+    "joshua 15:7:12",
+    "joshua 18:17:11"
+  ]
+}

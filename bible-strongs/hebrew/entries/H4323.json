@@ -1,0 +1,42 @@
+{
+  "number": "H4323",
+  "language": "hebrew",
+  "transliteration": "mîykâl",
+  "pronunciation": "me-kawl'",
+  "definition": "properly, a container, i.e. a streamlet",
+  "kjvTranslation": "brook.",
+  "hebrew": "מִיכָל",
+  "translations": {
+    "bg": "правилно, контейнер, т.е. стриймлет",
+    "cs": "správně, kontejner, tj. streamlet",
+    "da": "korrekt, en container, dvs. en streamlet",
+    "de": "ein Container, d.h. ein Streamlet",
+    "el": "κατάλληλα, ένα δοχείο, δηλαδή ένα streamlet",
+    "es": "correctamente, un contenedor, es decir, un streamlet",
+    "et": "korralikult, konteiner, st streamlet",
+    "fi": "oikein, säiliö eli streamlet",
+    "fr": "proprement dit, un conteneur, c'est-à-dire un streamlet",
+    "hu": "megfelelően, egy konténer, azaz egy streamlet",
+    "id": "dengan benar, sebuah wadah, yaitu streamlet",
+    "it": "propriamente, un contenitore, cioè uno streamlet",
+    "ja": "正しく言えば、コンテナ、つまりストリームレットは",
+    "ko": "제대로 말하면 컨테이너, 즉 스트림렛입니다",
+    "lt": "tinkamai, konteinerį, t. y. srautinį paketą",
+    "lv": "pareizi, konteiners, t. i., straumīte",
+    "nb": "en beholder, dvs. en streamlet",
+    "nl": "op de juiste manier, een container, d.w.z. een streamlet",
+    "pl": "odpowiednio, kontener, tj. streamlet",
+    "pt": "corretamente, um contentor, ou seja, um streamlet",
+    "ro": "în mod corespunzător, un container, adică un streamlet",
+    "ru": "как следует, контейнер, то есть стример",
+    "sk": "správne, kontajner, t. j. streamlet",
+    "sl": "pravilno, zabojnik, tj. streamlet",
+    "sv": "en behållare, dvs. en streamlet",
+    "tr": "düzgün bir şekilde, bir konteyner, yani bir streamlet",
+    "uk": "власне, контейнер, тобто струмочок",
+    "zh": "一个容器，即一个小溪流"
+  },
+  "verses": [
+    "secondSamuel 17:20:14"
+  ]
+}

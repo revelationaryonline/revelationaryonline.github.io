@@ -1,0 +1,43 @@
+{
+  "number": "H7470",
+  "language": "hebrew",
+  "transliteration": "rᵉʻûwth",
+  "pronunciation": "reh-ooth'",
+  "definition": "desire",
+  "kjvTranslation": "pleasure, will.",
+  "hebrew": "רְעוּת",
+  "translations": {
+    "bg": "желание",
+    "cs": "touha",
+    "da": "ønske",
+    "de": "wunsch",
+    "el": "επιθυμία",
+    "es": "deseo",
+    "et": "soov",
+    "fi": "halu",
+    "fr": "désir",
+    "hu": "vágy",
+    "id": "keinginan",
+    "it": "desiderio",
+    "ja": "欲望",
+    "ko": "욕망",
+    "lt": "noras",
+    "lv": "vēlme",
+    "nb": "ønske",
+    "nl": "verlangen",
+    "pl": "pragnienie",
+    "pt": "desejo",
+    "ro": "dorință",
+    "ru": "желание",
+    "sk": "túžba",
+    "sl": "želja",
+    "sv": "önskan",
+    "tr": "arzu",
+    "uk": "бажання",
+    "zh": "希望"
+  },
+  "verses": [
+    "ezra 5:17:26",
+    "ezra 7:18:12"
+  ]
+}

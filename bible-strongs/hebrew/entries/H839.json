@@ -1,0 +1,42 @@
+{
+  "number": "H839",
+  "language": "hebrew",
+  "transliteration": "ʼăshur",
+  "pronunciation": "ash-oor'",
+  "definition": "the cedar tree or some other light elastic wood",
+  "kjvTranslation": "Ashurite.",
+  "translations": {
+    "bg": "кедровото дърво или друга лека еластична дървесина",
+    "cs": "cedr nebo jiné lehké pružné dřevo",
+    "da": "cedertræet eller et andet let elastisk træ",
+    "de": "zedernholz oder ein anderes leichtes, elastisches Holz",
+    "el": "ο κέδρος ή κάποιο άλλο ελαφρύ ελαστικό ξύλο",
+    "es": "el cedro u otra madera ligera y elástica",
+    "et": "seedripuu või mõni muu kerge elastne puit",
+    "fi": "setripuu tai jokin muu kevyt elastinen puu",
+    "fr": "le cèdre ou un autre bois léger et élastique",
+    "hu": "a cédrusfa vagy más könnyű, rugalmas fa",
+    "id": "pohon cedar atau kayu elastis ringan lainnya",
+    "it": "il cedro o un altro legno leggero ed elastico",
+    "ja": "杉の木か、その他の軽い弾力性のある木",
+    "ko": "삼나무 또는 기타 가볍고 탄성이 있는 목재",
+    "lt": "kedro medžio ar kitos lengvos elastingos medienos",
+    "lv": "ciedra koka vai kāda cita viegla elastīga koka",
+    "nb": "sedertre eller annet lett elastisk treverk",
+    "nl": "de cederboom of ander licht elastisch hout",
+    "pl": "drzewo cedrowe lub inne lekkie, elastyczne drewno",
+    "pt": "o cedro ou outra madeira leve e elástica",
+    "ro": "cedru sau alt lemn ușor elastic",
+    "ru": "кедровое дерево или другая легкая эластичная древесина",
+    "sk": "cédrové drevo alebo iné ľahké pružné drevo",
+    "sl": "cedre ali kakšnega drugega lahkega elastičnega lesa",
+    "sv": "cederträ eller något annat ljust elastiskt träslag",
+    "tr": "sedir ağacı ya da başka bir hafif elastik ahşap",
+    "uk": "кедр або інша легка еластична деревина",
+    "zh": "雪松或其他轻质弹性木材"
+  },
+  "hebrew": "אֲשֻׁר",
+  "verses": [
+    "ezekiel 27:6:8"
+  ]
+}

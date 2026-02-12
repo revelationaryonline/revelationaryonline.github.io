@@ -1,0 +1,43 @@
+{
+  "number": "H5296",
+  "language": "hebrew",
+  "transliteration": "nᵉʻôreth",
+  "pronunciation": "neh-o'-reth",
+  "definition": "something shaken out, i.e. tow (as the refuse of flax)",
+  "kjvTranslation": "tow.",
+  "hebrew": "נְעֹרֶת",
+  "translations": {
+    "bg": "нещо изтръгнато, т.е. издърпано (като отпадъците от лен)",
+    "cs": "něco vytřepaného, tj. odtaženého (jako zbytky lnu)",
+    "da": "noget, der er rystet ud, dvs. blår (som affald af hør)",
+    "de": "etwas Ausgeschütteltes, d.h. Werg (wie die Abfälle des Flachses)",
+    "el": "κάτι που ανακινείται, δηλ. ρυμουλκούμενο (όπως τα απορρίμματα του λιναριού)",
+    "es": "algo sacudido, es decir, estopa (como los desechos del lino)",
+    "et": "midagi välja raputatud, s.t. vedu (nagu linajäätmed)",
+    "fi": "jotakin ravistettua, ts. raahattua (kuten pellavan jätteet)",
+    "fr": "quelque chose de secoué, c'est-à-dire de l'étoupe (comme l'étoupe du lin)",
+    "hu": "valami kirázott, azaz vontatott dolog (mint a lenhulladék)",
+    "id": "sesuatu yang diguncang, yaitu derek (seperti sampah rami)",
+    "it": "qualcosa di scosso, cioè stoppa (come i residui del lino)",
+    "ja": "曳き出し",
+    "ko": "흔들린 무언가, 즉 견인 (아마의 쓰레기로서)",
+    "lt": "ką nors iškratyti, t. y. išvilkti (kaip linų atliekas)",
+    "lv": "kaut kas sakratīts, t.i., izkrāpēts (kā linu atkritumi)",
+    "nb": "noe som er ristet ut, f.eks. slep (som avfall av lin)",
+    "nl": "iets uitschudden, d.w.z. slepen (zoals het afval van vlas)",
+    "pl": "coś wytrząśniętego, tj. hol (jako odpad lnu)",
+    "pt": "algo sacudido, ou seja, estopa (como o refugo do linho)",
+    "ro": "ceva scuturat, adică remorcat (ca resturile de in)",
+    "ru": "что-то вытряхнутое, т.е. буксируемое (как отходы льна)",
+    "sk": "niečo vytrepané, t. j. odťah (ako odpad z ľanu)",
+    "sl": "nekaj, kar se stresa, tj. vleče (kot ostanki lanu)",
+    "sv": "något som skakas ut, dvs. släpa (som avfallet av lin)",
+    "tr": "çalkalanmış bir şey, yani çeki (keten çöpü gibi)",
+    "uk": "щось витрушене, тобто клоччя (як відходи льону)",
+    "zh": "甩出的东西，即拖（如亚麻的垃圾）"
+  },
+  "verses": [
+    "judges 16:9:15",
+    "isaiah 1:31:2"
+  ]
+}

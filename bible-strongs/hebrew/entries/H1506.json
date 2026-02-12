@@ -1,0 +1,43 @@
+{
+  "number": "H1506",
+  "language": "hebrew",
+  "transliteration": "gezer",
+  "pronunciation": "gheh'-zer",
+  "definition": "something cut off; a portion",
+  "kjvTranslation": "part, piece.",
+  "translations": {
+    "bg": "нещо отрязано; част",
+    "cs": "něco odříznutého; část",
+    "da": "noget afskåret; en del",
+    "de": "etwas Abgeschnittenes; ein Teil",
+    "el": "κάτι που έχει αποκοπεί- ένα τμήμα",
+    "es": "algo cortado; una porción",
+    "et": "midagi ära lõigatud; osa",
+    "fi": "jotain, joka on leikattu pois; osa",
+    "fr": "quelque chose de coupé ; une partie",
+    "hu": "valami levágott; egy rész",
+    "id": "sesuatu yang terputus; sebagian",
+    "it": "qualcosa di tagliato; una porzione",
+    "ja": "切れ端",
+    "ko": "잘린 것; 일부",
+    "lt": "ką nors atkirsti; dalis",
+    "lv": "kaut kas nogriezts; daļa",
+    "nb": "noe avskåret; en del",
+    "nl": "iets afgesneden; een deel",
+    "pl": "coś odciętego; część",
+    "pt": "algo cortado; uma porção",
+    "ro": "ceva tăiat; o porțiune",
+    "ru": "что-то отрезанное; часть",
+    "sk": "niečo odrezané; časť",
+    "sl": "nekaj odrezanega; del",
+    "sv": "något avskuret; en del",
+    "tr": "kesilmiş bir şey; bir kısım",
+    "uk": "щось відрізане; частина",
+    "zh": "部分"
+  },
+  "hebrew": "גֶּזֶר",
+  "verses": [
+    "genesis 15:17:13",
+    "psalms 136:13:3"
+  ]
+}

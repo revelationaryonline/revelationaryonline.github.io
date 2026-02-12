@@ -1,0 +1,42 @@
+{
+  "number": "H7632",
+  "language": "hebrew",
+  "transliteration": "shâbîyb",
+  "pronunciation": "shaw-beeb'",
+  "definition": "flame (as split into tongues)",
+  "kjvTranslation": "spark.",
+  "hebrew": "שָׁבִיב",
+  "translations": {
+    "bg": "пламък (като разделен на езици)",
+    "cs": "plamen (rozdělený na jazyky)",
+    "da": "flamme (som delt i tunger)",
+    "de": "flamme (wie in Zungen gespalten)",
+    "el": "φλόγα (όπως χωρίζεται σε γλώσσες)",
+    "es": "llama (como dividida en lenguas)",
+    "et": "leek (nagu keelteks jagatud)",
+    "fi": "liekki (kieliksi jakautuneena)",
+    "fr": "flamme (comme divisée en langues)",
+    "hu": "láng (nyelvekre osztva)",
+    "id": "nyala api (seperti terbelah menjadi lidah)",
+    "it": "fiamma (come divisa in lingue)",
+    "ja": "炎",
+    "ko": "불꽃(혀로 나뉜 모습)",
+    "lt": "liepsna (suskilusi į liežuvius)",
+    "lv": "liesma (kā sadalīta mēlēs)",
+    "nb": "flamme (som delt i tunger)",
+    "nl": "vlam (als gesplitst in tongen)",
+    "pl": "płomień (podzielony na języki)",
+    "pt": "chama (dividida em línguas)",
+    "ro": "flacără (ca împărțită în limbi)",
+    "ru": "пламя (разделенное на языки)",
+    "sk": "plameň (rozdelený na jazyky)",
+    "sl": "plamen (razcepljen na jezike)",
+    "sv": "flamma (som uppdelad i tungor)",
+    "tr": "alev (dillere ayrılmış olarak)",
+    "uk": "полум'я (розділене на язики)",
+    "zh": "火舌"
+  },
+  "verses": [
+    "job 18:5:6"
+  ]
+}

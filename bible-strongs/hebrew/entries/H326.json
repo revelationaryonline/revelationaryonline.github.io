@@ -1,0 +1,42 @@
+{
+  "number": "H326",
+  "language": "hebrew",
+  "transliteration": "ʼăchashtârîy",
+  "pronunciation": "akh-ash-taw-ree'",
+  "definition": "an achastarite (i.e. courier); the designation (rather than name) of an Israelite",
+  "kjvTranslation": "Haakashtari (includ. the article).",
+  "translations": {
+    "bg": "ахастарит (т.е. куриер); обозначение (а не име) на израилтянин",
+    "cs": "achastarita (tj. kurýr); označení (spíše než jméno) Izraelity",
+    "da": "en achastarit (dvs. kurer); betegnelsen (snarere end navnet) på en israelit",
+    "de": "ein Achastarit (d. h. ein Kurier); die Bezeichnung (und nicht der Name) eines Israeliten",
+    "el": "αχασταρίτης (δηλ. αγγελιοφόρος)- η ονομασία (και όχι το όνομα) ενός Ισραηλίτη",
+    "es": "un achastarita (es decir, mensajero); la designación (más que el nombre) de un israelita",
+    "et": "achastarite (st. kuller); israellase nimetus (mitte nimi)",
+    "fi": "achastarilainen (eli kuriiri); israelilaisen nimitys (pikemminkin kuin nimi)",
+    "fr": "un achastarite (c'est-à-dire un messager) ; la désignation (plutôt que le nom) d'un Israélite",
+    "hu": "achasztarita (azaz futár); egy izraelita elnevezése (és nem neve)",
+    "id": "seorang akastar (yaitu, kurir); sebutan (bukan nama) untuk orang Israel",
+    "it": "un achastarita (cioè un corriere); la designazione (piuttosto che il nome) di un Israelita",
+    "ja": "イスラエル人の呼称（名前ではなく）。",
+    "ko": "아차스타라이트(즉, 배달부); 이스라엘인의 명칭(이름이 아닌)을 가리키는 말입니다",
+    "lt": "achastaritas (t. y. kurjeris); izraelito pavadinimas (o ne vardas)",
+    "lv": "achastarīts (t. i., kurjers); izraēlieša apzīmējums (nevis vārds)",
+    "nb": "en achastaritt (dvs. kurer); betegnelsen (snarere enn navnet) på en israelitt",
+    "nl": "een achastariet (d.w.z. koerier); de benaming (in plaats van naam) van een Israëliet",
+    "pl": "achastaryta (tj. kurier); określenie (a nie imię) Izraelity",
+    "pt": "achastarita (ou seja, mensageiro); designação (e não nome) de um israelita",
+    "ro": "un achastarit (adică curier); denumirea (mai degrabă decât numele) unui israelit",
+    "ru": "ахастарит (т.е. курьер); обозначение (а не имя) израильтянина",
+    "sk": "achastarita (t. j. kuriér); označenie (skôr než meno) Izraelitu",
+    "sl": "achastarite (tj. kurir); oznaka (in ne ime) Izraelca",
+    "sv": "en achastarite (dvs. kurir); beteckningen (snarare än namnet) på en israelit",
+    "tr": "bir akastarit (yani kurye); bir İsraillinin (adından ziyade) tanımı",
+    "uk": "ахастарит (тобто кур'єр); позначення (а не ім'я) ізраїльтянина",
+    "zh": "achastarite（即信使）；以色列人的称谓（而不是名字）。"
+  },
+  "hebrew": "אֲחַשְׁתָּרִי",
+  "verses": [
+    "firstChronicles 4:6:10"
+  ]
+}

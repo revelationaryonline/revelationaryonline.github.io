@@ -1,0 +1,42 @@
+{
+  "number": "H6483",
+  "language": "hebrew",
+  "transliteration": "Pitstsêts",
+  "pronunciation": "pits-tsates'",
+  "definition": "Pitstsets, a priest",
+  "kjvTranslation": "Apses (including the article).",
+  "hebrew": "פִּצֵּץ",
+  "translations": {
+    "bg": "Питстец, свещеник",
+    "cs": "Pitstsets, kněz",
+    "da": "Pitstsets, en præst",
+    "de": "Pitstsets, ein Priester",
+    "el": "Pitstsets, ένας ιερέας",
+    "es": "Pitstsets, sacerdote",
+    "et": "Pitstsets, preester",
+    "fi": "Pitstsets, pappi",
+    "fr": "Pitstsets, un prêtre",
+    "hu": "Pitstsets, egy pap",
+    "id": "Pitstsets, seorang pendeta",
+    "it": "Pitstsets, un sacerdote",
+    "ja": "ピッツェッツ、司祭",
+    "ko": "사제, 핏츠셋",
+    "lt": "Pitstsets, kunigas",
+    "lv": "Pitstsets, priesteris",
+    "nb": "Pitstsets, en prest",
+    "nl": "Pitstsets, een priester",
+    "pl": "Pitstsets, ksiądz",
+    "pt": "Pitstsets, um padre",
+    "ro": "Pitstsets, un preot",
+    "ru": "Пиццет, священник",
+    "sk": "Pitstsets, kňaz",
+    "sl": "Pitstsets, duhovnik",
+    "sv": "Pitstsets, en präst",
+    "tr": "Pitstsets, bir rahip",
+    "uk": "Пітсець, священик",
+    "zh": "牧师 Pitstsets"
+  },
+  "verses": [
+    "firstChronicles 24:15:3"
+  ]
+}

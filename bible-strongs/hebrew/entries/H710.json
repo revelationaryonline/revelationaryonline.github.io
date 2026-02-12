@@ -1,0 +1,42 @@
+{
+  "number": "H710",
+  "language": "hebrew",
+  "transliteration": "ʼargᵉvân",
+  "pronunciation": "arg-ev-awn'",
+  "definition": "purple",
+  "kjvTranslation": "purple.",
+  "translations": {
+    "bg": "лилаво",
+    "cs": "fialová",
+    "da": "lilla",
+    "de": "lila",
+    "el": "μοβ",
+    "es": "morado",
+    "et": "lilla",
+    "fi": "violetti",
+    "fr": "pourpre",
+    "hu": "lila",
+    "id": "ungu",
+    "it": "viola",
+    "ja": "パープル",
+    "ko": "보라색",
+    "lt": "violetinė",
+    "lv": "violeta",
+    "nb": "lilla",
+    "nl": "paars",
+    "pl": "fioletowy",
+    "pt": "púrpura",
+    "ro": "violet",
+    "ru": "фиолетовый",
+    "sk": "fialová",
+    "sl": "vijolična",
+    "sv": "lila",
+    "tr": "mor",
+    "uk": "фіолетовий",
+    "zh": "紫色"
+  },
+  "hebrew": "אַרְגְּוָן",
+  "verses": [
+    "secondChronicles 2:6:10"
+  ]
+}

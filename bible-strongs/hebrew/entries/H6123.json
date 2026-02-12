@@ -1,0 +1,42 @@
+{
+  "number": "H6123",
+  "language": "hebrew",
+  "transliteration": "ʻâqad",
+  "pronunciation": "aw-kad'",
+  "definition": "to tie with thongs",
+  "kjvTranslation": "bind.",
+  "hebrew": "עָקַד",
+  "translations": {
+    "bg": "да се връзва с ремъци",
+    "cs": "vázat řemínky",
+    "da": "til at binde med g-streng",
+    "de": "zum Binden mit Riemen",
+    "el": "για να δέσετε με κορδόνια",
+    "es": "atar con correas",
+    "et": "siduda rihmadega",
+    "fi": "solmia tangoilla",
+    "fr": "attacher avec des lanières",
+    "hu": "tangával kötni",
+    "id": "untuk mengikat dengan tali",
+    "it": "da legare con i perizomi",
+    "ja": "トングで結ぶ",
+    "ko": "끈으로 묶기",
+    "lt": "rišti diržais",
+    "lv": "sasiet ar siksniņām",
+    "nb": "å binde med tanga",
+    "nl": "vastbinden met strings",
+    "pl": "do wiązania rzemieniami",
+    "pt": "para atar com tangas",
+    "ro": "a lega cu chingi",
+    "ru": "завязывать стринги",
+    "sk": "viazať remienkami",
+    "sl": "zavezati z jermeni",
+    "sv": "att binda med stringtrosor",
+    "tr": "tanga ile bağlamak için",
+    "uk": "підв'язати стрінгами",
+    "zh": "系带"
+  },
+  "verses": [
+    "genesis 22:9:15"
+  ]
+}

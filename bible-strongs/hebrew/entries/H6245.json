@@ -1,0 +1,43 @@
+{
+  "number": "H6245",
+  "language": "hebrew",
+  "transliteration": "ʻâshath",
+  "pronunciation": "aw-shath'",
+  "definition": "probably to be sleek, i.e. glossy; hence (through the idea of polishing) to excogitate (as if forming in the mind)",
+  "kjvTranslation": "shine, think.",
+  "hebrew": "עָשַׁת",
+  "translations": {
+    "bg": "вероятно да е гладко, т.е. лъскаво; оттам (чрез идеята за полиране) да възбужда (като че ли се формира в ума)",
+    "cs": "pravděpodobně být elegantní, tj. lesklý; odtud (prostřednictvím myšlenky leštění) exkognitovat (jako by se formoval v mysli)",
+    "da": "sandsynligvis at være glat, dvs. blank; derfor (gennem ideen om polering) at excogitere (som om det dannes i sindet)",
+    "de": "wahrscheinlich glatt, d.h. glänzend zu sein; daher (durch die Idee des Polierens) zu exogitieren (als ob man sich im Geist formt)",
+    "el": "πιθανόν να είναι λείο, δηλ. γυαλιστερό, άρα (μέσω της ιδέας του γυαλίσματος) να ξεχωρίζει (σαν να σχηματίζεται στο μυαλό)",
+    "es": "probablemente ser liso, es decir, brillante; de ahí (por la idea de pulir) excogitar (como si se formara en la mente)",
+    "et": "ilmselt olla sile, st läikiv; seega (poleerimise mõtte kaudu) erutama (justkui vaimus kujundama)",
+    "fi": "luultavasti olla sileä eli kiiltävä; siis (kiillottamisen ajatuksen kautta) kiillottaa (ikään kuin muodostaen mielessä)",
+    "fr": "probablement être lisse, c'est-à-dire brillant ; d'où (par l'idée de polissage) excogiter (comme s'il se formait dans l'esprit)",
+    "hu": "valószínűleg sikamlósnak, azaz fényesnek lenni; ezért (a polírozás gondolatán keresztül) excogitálni (mintha az elmében formálódna)",
+    "id": "mungkin untuk menjadi ramping, yaitu mengkilap; oleh karena itu (melalui ide memoles) untuk menggairahkan (seolah-olah terbentuk dalam pikiran)",
+    "it": "probabilmente essere lucido, cioè brillante; quindi (attraverso l'idea di lucidare) escogitare (come se si formasse nella mente)",
+    "ja": "つるつる、つまりつやつやであること、それゆえ（磨くという発想から）（心の中で形成されるように）エキソギートすること。",
+    "ko": "아마도 매끈한, 즉 광택이 나는 것; 따라서 (연마의 아이디어를 통해) 흥분하다 (마음 속에 형성되는 것처럼)",
+    "lt": "tikriausiai būti glotniam, t. y. blizgiam; iš čia (per poliravimo idėją) išgauti (tarsi formuoti mintyse)",
+    "lv": "iespējams, būt gludam, t.i., spīdīgam, tātad (ar ideju par pulēšanu) ekskogitēt (it kā veidotos prātā)",
+    "nb": "sannsynligvis å være glatt, dvs. blank; derav (gjennom ideen om polering) å eksogitere (som om det dannes i sinnet)",
+    "nl": "waarschijnlijk glad zijn, d.w.z. glanzend; vandaar (door het idee van polijsten) excogiteren (alsof het zich vormt in de geest)",
+    "pl": "prawdopodobnie być gładkim, tj. błyszczącym; stąd (poprzez ideę polerowania) ekscytować (jakby formując w umyśle)",
+    "pt": "provavelmente ser lustroso, ou seja, brilhante; daí (através da ideia de polir) excogitar (como se estivesse a formar na mente)",
+    "ro": "probabil a fi elegant, adică lucios; prin urmare (prin ideea de lustruire) a excogita (ca și cum s-ar forma în minte)",
+    "ru": "вероятно, быть гладким, т.е. блестящим; отсюда (через идею полировки) - excogitate (как бы формируя в уме)",
+    "sk": "pravdepodobne byť elegantný, t. j. lesklý; odtiaľ (prostredníctvom myšlienky leštenia) exkogitovať (akoby sa formoval v mysli)",
+    "sl": "verjetno biti gladek, tj. bleščeč; od tod (zaradi ideje o poliranju) izstopati (kot da bi se oblikoval v mislih)",
+    "sv": "troligen att vara elegant, dvs. glansig; följaktligen (genom idén om polering) att excogitera (som om det bildas i sinnet)",
+    "tr": "muhtemelen şık, yani parlak olmak; dolayısıyla (cilalama fikri aracılığıyla) heyecanlandırmak (sanki zihinde şekilleniyormuş gibi)",
+    "uk": "ймовірно, бути гладким, тобто глянцевим; отже (через ідею полірування), збуджувати (ніби формувати в уяві)",
+    "zh": "可能是光滑，即有光泽；因此（通过抛光的概念）激发（就像在头脑中形成一样）。"
+  },
+  "verses": [
+    "jeremiah 5:28:1",
+    "jonah 1:6:14"
+  ]
+}

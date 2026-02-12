@@ -1,0 +1,43 @@
+{
+  "number": "H1976",
+  "language": "hebrew",
+  "transliteration": "hallâzeh",
+  "pronunciation": "hal-law-zeh'",
+  "definition": "this very",
+  "kjvTranslation": "this.",
+  "translations": {
+    "bg": "този много",
+    "cs": "tento velmi",
+    "da": "denne meget",
+    "de": "diese sehr",
+    "el": "αυτό το πολύ",
+    "es": "este mismo",
+    "et": "see väga",
+    "fi": "tämä hyvin",
+    "fr": "ce très",
+    "hu": "ez a nagyon",
+    "id": "ini sangat",
+    "it": "questo molto",
+    "ja": "この",
+    "ko": "바로 이",
+    "lt": "tai labai",
+    "lv": "šo ļoti",
+    "nb": "dette veldig",
+    "nl": "deze zeer",
+    "pl": "to bardzo",
+    "pt": "este muito",
+    "ro": "acest foarte",
+    "ru": "этот самый",
+    "sk": "to veľmi",
+    "sl": "to zelo",
+    "sv": "denna mycket",
+    "tr": "bu çok",
+    "uk": "цей самий",
+    "zh": "这个非常"
+  },
+  "hebrew": "הַלָּזֶה",
+  "verses": [
+    "genesis 24:65:5",
+    "genesis 37:19:7"
+  ]
+}

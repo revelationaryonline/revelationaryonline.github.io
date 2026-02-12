@@ -1,0 +1,42 @@
+{
+  "number": "H4087",
+  "language": "hebrew",
+  "transliteration": "madmênâh",
+  "pronunciation": "mad-may-naw'",
+  "definition": "a dunghill",
+  "kjvTranslation": "dunghill.",
+  "hebrew": "מַדְמֵנָה",
+  "translations": {
+    "bg": "хълм сгурия",
+    "cs": "kopec hnoje",
+    "da": "en mødding",
+    "de": "ein Misthaufen",
+    "el": "μια κοπριά",
+    "es": "un estercolero",
+    "et": "sõnnikumägi",
+    "fi": "lantakumpu",
+    "fr": "un tas de fumier",
+    "hu": "trágyadomb",
+    "id": "sebuah bukit kotoran",
+    "it": "un letamaio",
+    "ja": "濠塚",
+    "ko": "던힐",
+    "lt": "dunghill",
+    "lv": "dunghill",
+    "nb": "en møkkahaug",
+    "nl": "een mesthoop",
+    "pl": "dunghill",
+    "pt": "um monturo",
+    "ro": "o dunghill",
+    "ru": "навоз",
+    "sk": "kopec hnoja",
+    "sl": "gnojišče",
+    "sv": "en dunghill",
+    "tr": "bir dunghill",
+    "uk": "підземелля",
+    "zh": "矮丘"
+  },
+  "verses": [
+    "isaiah 25:10:13"
+  ]
+}

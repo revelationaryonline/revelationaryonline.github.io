@@ -1,0 +1,42 @@
+{
+  "number": "H7361",
+  "language": "hebrew",
+  "transliteration": "rachămâh",
+  "pronunciation": "rakh-am-aw'",
+  "definition": "a maiden",
+  "kjvTranslation": "damsel.",
+  "hebrew": "רַחֲמָה",
+  "translations": {
+    "bg": "девойка",
+    "cs": "panna",
+    "da": "en jomfru",
+    "de": "eine Jungfrau",
+    "el": "μια παρθένα",
+    "es": "una doncella",
+    "et": "neiu",
+    "fi": "neito",
+    "fr": "une jeune fille",
+    "hu": "egy leány",
+    "id": "seorang gadis",
+    "it": "una fanciulla",
+    "ja": "乙女",
+    "ko": "처녀",
+    "lt": "mergina",
+    "lv": "jaunava",
+    "nb": "en jomfru",
+    "nl": "een meisje",
+    "pl": "panna",
+    "pt": "uma donzela",
+    "ro": "o fecioară",
+    "ru": "дева",
+    "sk": "dievča",
+    "sl": "dekle",
+    "sv": "en jungfru",
+    "tr": "bir bakire",
+    "uk": "дівиця",
+    "zh": "闺女"
+  },
+  "verses": [
+    "judges 5:30:5"
+  ]
+}

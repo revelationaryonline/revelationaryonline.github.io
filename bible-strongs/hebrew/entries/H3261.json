@@ -1,0 +1,42 @@
+{
+  "number": "H3261",
+  "language": "hebrew",
+  "transliteration": "yâʻâh",
+  "pronunciation": "yaw-aw'",
+  "definition": "to brush aside",
+  "kjvTranslation": "sweep away.",
+  "translations": {
+    "bg": "да се почисти настрани",
+    "cs": "odhrnout stranou",
+    "da": "til at børste til side",
+    "de": "zur Seite bürsten",
+    "el": "να παραμερίσουμε",
+    "es": "cepillar a un lado",
+    "et": "kõrvale jätta",
+    "fi": "sivuuttaa",
+    "fr": "à badigeonner",
+    "hu": "hogy félresöpörje",
+    "id": "untuk mengesampingkan",
+    "it": "per spazzolare da parte",
+    "ja": "脇に払う",
+    "ko": "을 눌러서",
+    "lt": "nušluostyti į šalį",
+    "lv": "slaucīt malas",
+    "nb": "å børste til side",
+    "nl": "aan de kant vegen",
+    "pl": "szczotkować na bok",
+    "pt": "para escovar à parte",
+    "ro": "pentru a peria deoparte",
+    "ru": "отложить кисть в сторону",
+    "sk": "vyčistiť bokom",
+    "sl": "za krtačenje na stran",
+    "sv": "att pensla åt sidan",
+    "tr": "bir kenara fırçalamak için",
+    "uk": "відмахнутися",
+    "zh": "置之不理"
+  },
+  "hebrew": "יָעָה",
+  "verses": [
+    "isaiah 28:17:5"
+  ]
+}

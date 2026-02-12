@@ -1,0 +1,43 @@
+{
+  "number": "H4220",
+  "language": "hebrew",
+  "transliteration": "mêach",
+  "pronunciation": "may'-akh",
+  "definition": "fat; figuratively, rich",
+  "kjvTranslation": "fatling (one).",
+  "hebrew": "מֵחַ",
+  "translations": {
+    "bg": "дебел; в преносен смисъл - богат",
+    "cs": "tučný; přeneseně bohatý",
+    "da": "fed; i overført betydning, rig",
+    "de": "fett; im übertragenen Sinne, reich",
+    "el": "παχύς- μεταφορικά, πλούσιος",
+    "es": "gordo; en sentido figurado, rico",
+    "et": "rasvane; piltlikult öeldes rikas",
+    "fi": "lihava; kuvaannollisesti rikas",
+    "fr": "gras ; au sens figuré, riche",
+    "hu": "kövér; átvitt értelemben gazdag",
+    "id": "gemuk; secara kiasan, kaya",
+    "it": "grasso; in senso figurato, ricco",
+    "ja": "比喩的に「金持ち",
+    "ko": "지방; 비유적으로 풍부한",
+    "lt": "riebus; perkeltine prasme - turtingas",
+    "lv": "trekns; pārnestā nozīmē - bagāts",
+    "nb": "fet; i overført betydning, rik",
+    "nl": "vet; figuurlijk, rijk",
+    "pl": "tłusty; w przenośni, bogaty",
+    "pt": "gordo; figurativamente, rico",
+    "ro": "gras; la figurat, bogat",
+    "ru": "толстый; образно говоря, богатый",
+    "sk": "tučný; v prenesenom význame bohatý",
+    "sl": "maščoben; v prenesenem pomenu, bogat",
+    "sv": "fet; bildligt talat, rik",
+    "tr": "şişman; mecazi olarak zengin",
+    "uk": "товстий; образно - багатий",
+    "zh": "肥美"
+  },
+  "verses": [
+    "psalms 66:15:1",
+    "isaiah 5:17:4"
+  ]
+}

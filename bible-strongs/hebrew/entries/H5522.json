@@ -1,0 +1,42 @@
+{
+  "number": "H5522",
+  "language": "hebrew",
+  "transliteration": "çikkûwth",
+  "pronunciation": "sik-kooth'",
+  "definition": "an (idolatrous) booth",
+  "kjvTranslation": "tabernacle.",
+  "hebrew": "סִכּוּת",
+  "translations": {
+    "bg": "(идолопоклонническа) будка",
+    "cs": "(modlářský) stánek",
+    "da": "en (afgudsdyrkende) bod",
+    "de": "ein (götzendienerischer) Stand",
+    "el": "ένα (ειδωλολατρικό) περίπτερο",
+    "es": "una caseta (idolátrica)",
+    "et": "(ebajumalateenistus)boks",
+    "fi": "(epäjumalanpalveluksen) koppi",
+    "fr": "un stand (idolâtre)",
+    "hu": "egy (bálványimádó) fülke",
+    "id": "sebuah bilik (penyembahan berhala)",
+    "it": "un chiosco (idolatrico)",
+    "ja": "ブース",
+    "ko": "(우상 숭배) 부스",
+    "lt": "(stabmeldiškas) stendas",
+    "lv": "(elku pielūdzēju) stends",
+    "nb": "en (avgudsdyrkende) bod",
+    "nl": "een (afgodische) stand",
+    "pl": "(bałwochwalcza) budka",
+    "pt": "uma cabina (idolátrica)",
+    "ro": "o cabină (idolatră)",
+    "ru": "(идолопоклонническая) будка",
+    "sk": "(modlársky) stánok",
+    "sl": "(malikovalska) stojnica",
+    "sv": "ett (avgudadyrkande) stånd",
+    "tr": "(putperest) bir kabin",
+    "uk": "(ідолопоклонницька) кабінка",
+    "zh": "亭"
+  },
+  "verses": [
+    "amos 5:26:2"
+  ]
+}

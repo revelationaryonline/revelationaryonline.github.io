@@ -1,0 +1,42 @@
+{
+  "number": "H3235",
+  "language": "hebrew",
+  "transliteration": "yâmar",
+  "pronunciation": "yaw-mar'",
+  "definition": "to exchange; by implication, to change places",
+  "kjvTranslation": "boast selves, change.",
+  "translations": {
+    "bg": "да се разменя; по подразбиране да се сменя мястото",
+    "cs": "vyměnit; implicitně vyměnit místo",
+    "da": "at udveksle; underforstået at skifte plads",
+    "de": "tauschen; implizit den Ort wechseln",
+    "el": "να ανταλλάσσετε- κατ' επέκταση, να αλλάζετε θέσεις",
+    "es": "intercambiar; implícitamente, cambiar de lugar",
+    "et": "vahetada; kaudselt, vahetada kohti",
+    "fi": "vaihtaa; implisiittisesti, vaihtaa paikkaa",
+    "fr": "échanger ; implicitement, changer de place",
+    "hu": "cserélni; értelemszerűen helyet cserélni",
+    "id": "untuk bertukar; dengan implikasi, untuk berpindah tempat",
+    "it": "scambiare; per implicazione, cambiare luogo",
+    "ja": "を交換する。",
+    "ko": "교환하다; 암시적으로, 장소를 바꾸다",
+    "lt": "pasikeisti; netiesiogiai - pasikeisti vietomis",
+    "lv": "apmainīties; netieši - apmainīties vietām",
+    "nb": "å bytte; underforstått, å bytte plass",
+    "nl": "ruilen; impliciet, van plaats verwisselen",
+    "pl": "wymieniać się; w domyśle, zamieniać się miejscami",
+    "pt": "trocar; por implicação, mudar de lugar",
+    "ro": "a schimba; implicit, a schimba locul",
+    "ru": "обмениваться; по смыслу - меняться местами",
+    "sk": "vymeniť; implicitne vymeniť miesto",
+    "sl": "zamenjati; posledično zamenjati mesto",
+    "sv": "att byta; underförstått, att byta plats",
+    "tr": "değiş tokuş etmek; ima yoluyla, yer değiştirmek",
+    "uk": "обмінюватися; підтекстом - мінятися місцями",
+    "zh": "交换；言下之意，换地方"
+  },
+  "hebrew": "יָמַר",
+  "verses": [
+    "isaiah 61:6:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7224",
+  "language": "hebrew",
+  "transliteration": "riʼshônîy",
+  "pronunciation": "ree-sho-nee'",
+  "definition": "first",
+  "kjvTranslation": "first.",
+  "hebrew": "רִאשֹׁנִי",
+  "translations": {
+    "bg": "първи",
+    "cs": "první",
+    "da": "først",
+    "de": "erste",
+    "el": "πρώτη",
+    "es": "primero",
+    "et": "esimene",
+    "fi": "ensimmäinen",
+    "fr": "premier",
+    "hu": "első",
+    "id": "pertama",
+    "it": "prima",
+    "ja": "第一",
+    "ko": "먼저",
+    "lt": "pirmasis",
+    "lv": "pirmais",
+    "nb": "først",
+    "nl": "eerste",
+    "pl": "pierwszy",
+    "pt": "primeiro",
+    "ro": "prima",
+    "ru": "первый",
+    "sk": "prvý",
+    "sl": "prvi",
+    "sv": "först",
+    "tr": "önce",
+    "uk": "спершу",
+    "zh": "第一次"
+  },
+  "verses": [
+    "jeremiah 25:1:18"
+  ]
+}

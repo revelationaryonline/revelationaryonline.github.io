@@ -1,0 +1,42 @@
+{
+  "number": "H7439",
+  "language": "hebrew",
+  "transliteration": "rânâh",
+  "pronunciation": "raw-naw'",
+  "definition": "to whiz",
+  "kjvTranslation": "rattle.",
+  "hebrew": "רָנָה",
+  "translations": {
+    "bg": "да свири",
+    "cs": "svištět",
+    "da": "at suse",
+    "de": "zu schwirren",
+    "el": "να σφυρίξει",
+    "es": "silbar",
+    "et": "vilistada",
+    "fi": "huiskia",
+    "fr": "de fouetter",
+    "hu": "zúzni",
+    "id": "untuk jagoan",
+    "it": "sfrecciare",
+    "ja": "ウィズ",
+    "ko": "to whiz",
+    "lt": "švilpti",
+    "lv": "svilpot",
+    "nb": "til å suse",
+    "nl": "om te zoemen",
+    "pl": "trzepotać",
+    "pt": "para bater",
+    "ro": "să fluiere",
+    "ru": "свистеть",
+    "sk": "svišťať",
+    "sl": "švigati",
+    "sv": "att svischa",
+    "tr": "vızıldamak için",
+    "uk": "щоб прошелестіти",
+    "zh": "呼啸而过"
+  },
+  "verses": [
+    "job 39:23:1"
+  ]
+}

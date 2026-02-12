@@ -1,0 +1,43 @@
+{
+  "number": "H5502",
+  "language": "hebrew",
+  "transliteration": "çâchaph",
+  "pronunciation": "saw-khaf'",
+  "definition": "to scrape off",
+  "kjvTranslation": "sweep (away).",
+  "hebrew": "סָחַף",
+  "translations": {
+    "bg": "да се остърже",
+    "cs": "seškrábat",
+    "da": "at skrabe af",
+    "de": "abkratzen",
+    "el": "να ξύσω",
+    "es": "para raspar",
+    "et": "maha kraapida",
+    "fi": "raaputtaa pois",
+    "fr": "gratter",
+    "hu": "lekaparni",
+    "id": "untuk mengikis",
+    "it": "raschiare via",
+    "ja": "削り取る",
+    "ko": "긁어내려면",
+    "lt": "nubraukti",
+    "lv": "nokasīt",
+    "nb": "å skrape av",
+    "nl": "afkrabben",
+    "pl": "zeskrobać",
+    "pt": "raspar",
+    "ro": "a răzui",
+    "ru": "соскабливать",
+    "sk": "zoškrabať",
+    "sl": "postrgati",
+    "sv": "att skrapa bort",
+    "tr": "kazımak için",
+    "uk": "щоб зішкребти",
+    "zh": "刮掉"
+  },
+  "verses": [
+    "proverbs 28:3:5",
+    "jeremiah 46:15:1"
+  ]
+}

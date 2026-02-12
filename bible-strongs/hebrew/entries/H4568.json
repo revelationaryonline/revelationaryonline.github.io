@@ -1,0 +1,42 @@
+{
+  "number": "H4568",
+  "language": "hebrew",
+  "transliteration": "maʻăbeh",
+  "pronunciation": "mah-ab-eh'",
+  "definition": "properly, compact (part of soil), i.e. loam",
+  "kjvTranslation": "clay.",
+  "hebrew": "מַעֲבֶה",
+  "verses": [
+    "firstKings 7:46:4"
+  ],
+  "translations": {
+    "bg": "правилно, уплътнено (част от почвата), т.е. глинесто",
+    "cs": "správně zhutnit (část půdy), tj. hlína",
+    "da": "korrekt, kompakt (en del af jorden), f.eks. lerjord",
+    "de": "richtig, kompakt (Teil des Bodens), d.h. Lehm",
+    "el": "κατάλληλα, συμπαγές (μέρος του εδάφους), π.χ. πηλός",
+    "es": "correctamente, compacta (parte del suelo), es decir, marga",
+    "et": "korralikult, tihendatud (osa mullast), st savi",
+    "fi": "kunnolla, tiivis (maaperän osa), esim. savi",
+    "fr": "correctement, compacter (partie du sol), c'est-à-dire le terreau",
+    "hu": "megfelelően, tömör (a talaj része), azaz vályog",
+    "id": "benar, padat (bagian dari tanah), yaitu lempung",
+    "it": "adeguatamente, compatta (parte del terreno), cioè terriccio",
+    "ja": "ロームなど（土壌の一部）を適切に圧縮する。",
+    "ko": "적절하고 콤팩트 한 (토양의 일부), 즉 양토",
+    "lt": "tinkamai sutankintas (dirvožemio dalis), t. y. priemolis",
+    "lv": "pareizi, kompakts (augsnes daļa), t.i., smilšmāls",
+    "nb": "riktig, kompakt (del av jordsmonnet), f.eks. leire",
+    "nl": "goed, compact (deel van de bodem), d.w.z. leem",
+    "pl": "odpowiednio zwarty (część gleby), tj. glina",
+    "pt": "compactar corretamente (parte do solo), ou seja, a argila",
+    "ro": "în mod corespunzător, compact (parte a solului), de exemplu argilă",
+    "ru": "правильно, уплотнить (часть почвы), т.е. суглинок",
+    "sk": "správne, kompaktné (časť pôdy), t. j. hlinité",
+    "sl": "pravilno, kompaktno (del tal), npr. ilovica",
+    "sv": "korrekt, komprimera (del av jord), t.ex. lerjord",
+    "tr": "düzgün, kompakt (toprağın bir parçası), yani balçık",
+    "uk": "власне, компактний (частина ґрунту), тобто суглинок",
+    "zh": "适当压实（土壤的一部分），即壤土"
+  }
+}

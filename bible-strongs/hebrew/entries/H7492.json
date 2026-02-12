@@ -1,0 +1,43 @@
+{
+  "number": "H7492",
+  "language": "hebrew",
+  "transliteration": "râʻats",
+  "pronunciation": "raw-ats'",
+  "definition": "to break in pieces; figuratively, harass",
+  "kjvTranslation": "dash in pieces, vex.",
+  "hebrew": "רָעַץ",
+  "translations": {
+    "bg": "да се разбие на парчета; в преносен смисъл - да се тормози",
+    "cs": "rozbít na kousky; přeneseně obtěžovat",
+    "da": "at bryde i stykker; i overført betydning, chikanere",
+    "de": "in Stücke brechen; im übertragenen Sinne: schikanieren",
+    "el": "να σπάσω σε κομμάτια- μεταφορικά, να παρενοχλήσω",
+    "es": "romper en pedazos; en sentido figurado, acosar",
+    "et": "purustada; piltlikult öeldes, ahistada",
+    "fi": "murskata palasiksi; kuvaannollisesti ahdistella",
+    "fr": "briser en morceaux ; au sens figuré, harceler",
+    "hu": "darabokra törni; átvitt értelemben: zaklatni",
+    "id": "untuk menghancurkan berkeping-keping; secara kiasan, melecehkan",
+    "it": "fare a pezzi; in senso figurato, molestare",
+    "ja": "バラバラにする；比喩的に、嫌がらせをする",
+    "ko": "조각으로 부수다, 비유적으로 괴롭히다",
+    "lt": "sudaužyti į gabalus; perkeltine prasme - persekioti",
+    "lv": "lauzt gabalos; pārnestā nozīmē - uzmācīties",
+    "nb": "å bryte i stykker; i overført betydning, trakassere",
+    "nl": "in stukken breken; figuurlijk, treiteren",
+    "pl": "połamać na kawałki; w przenośni, nękać",
+    "pt": "quebrar em pedaços; figurativamente, assediar",
+    "ro": "a sparge în bucăți; la figurat, a hărțui",
+    "ru": "разбивать на куски; образно говоря, изводить",
+    "sk": "rozbiť na kúsky; v prenesenom význame obťažovať",
+    "sl": "razbiti na koščke; v prenesenem pomenu nadlegovati",
+    "sv": "att bryta i bitar; bildligt talat, trakassera",
+    "tr": "parçalara ayırmak; mecazi olarak taciz etmek",
+    "uk": "розбивати на шматки; образно, переслідувати",
+    "zh": "破口大骂；比喻骚扰"
+  },
+  "verses": [
+    "exodus 15:6:6",
+    "judges 10:8:0"
+  ]
+}

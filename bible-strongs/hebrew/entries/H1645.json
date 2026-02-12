@@ -1,0 +1,42 @@
+{
+  "number": "H1645",
+  "language": "hebrew",
+  "transliteration": "geresh",
+  "pronunciation": "gheh'-resh",
+  "definition": "produce (as if expelled)",
+  "kjvTranslation": "put forth.",
+  "translations": {
+    "bg": "произвеждат (като че ли са изхвърлени)",
+    "cs": "produkovat (jakoby vyloučený)",
+    "da": "producere (som om det blev udstødt)",
+    "de": "produzieren (wie ausgestoßen)",
+    "el": "παράγει (σαν να αποβάλλεται)",
+    "es": "producir (como expulsado)",
+    "et": "toota (justkui välja ajada)",
+    "fi": "tuottaa (ikään kuin karkottaa)",
+    "fr": "produire (comme s'il était expulsé)",
+    "hu": "előállítani (mintha kiűznék)",
+    "id": "menghasilkan (seolah-olah dikeluarkan)",
+    "it": "produrre (come se fosse espulso)",
+    "ja": "出す",
+    "ko": "생산(추방된 것처럼)",
+    "lt": "gaminti (tarsi išstumti)",
+    "lv": "ražot (it kā izraidīts)",
+    "nb": "produsere (som om det er utstøtt)",
+    "nl": "produceren (als uitgezet)",
+    "pl": "produkować (jakby wydalać)",
+    "pt": "produzir (como se fosse expelido)",
+    "ro": "produce (ca și cum ar fi expulzat)",
+    "ru": "производить (как бы изгонять)",
+    "sk": "produkovať (akoby vylúčený)",
+    "sl": "proizvajajo (kot da bi jih izločili)",
+    "sv": "producera (som om det utvisades)",
+    "tr": "üretmek (dışarı atılmış gibi)",
+    "uk": "виробляти (наче вигнали)",
+    "zh": "潠"
+  },
+  "hebrew": "גֶּרֶשׁ",
+  "verses": [
+    "deuteronomy 33:14:4"
+  ]
+}

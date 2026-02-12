@@ -1,0 +1,42 @@
+{
+  "number": "H1784",
+  "language": "hebrew",
+  "transliteration": "Dîynay",
+  "pronunciation": "dee-nah'-ee",
+  "definition": "a Dinaite or inhabitant of some unknown Assyria province",
+  "kjvTranslation": "Dinaite.",
+  "translations": {
+    "bg": "динаец или жител на някаква неизвестна асирийска провинция",
+    "cs": "dinaita nebo obyvatel nějaké neznámé asyrské provincie",
+    "da": "en Dinait eller indbygger i en ukendt Assyrien-provins",
+    "de": "ein Dinait oder Bewohner einer unbekannten assyrischen Provinz",
+    "el": "ένας Ντιναΐτης ή κάτοικος κάποιας άγνωστης επαρχίας της Ασσυρίας",
+    "es": "un dinaíta o habitante de alguna provincia asiria desconocida",
+    "et": "dinait või mõne tundmatu Assüüria provintsi elanik",
+    "fi": "dinailainen tai jonkin tuntemattoman Assyrian maakunnan asukas",
+    "fr": "un Dinaïte ou un habitant d'une province inconnue d'Assyrie",
+    "hu": "dinaitaita vagy valamelyik ismeretlen asszíriai tartomány lakója",
+    "id": "seorang Dina atau penduduk dari provinsi Asyur yang tidak diketahui",
+    "it": "un dinaita o un abitante di una qualche provincia sconosciuta dell'Assiria",
+    "ja": "ディナ人、または未知のアッシリア州の住民",
+    "ko": "디나이트 또는 알려지지 않은 앗수르 지방의 거주자",
+    "lt": "dinaitas arba nežinomos Asirijos provincijos gyventojas",
+    "lv": "dinaīts vai kādas nezināmas Asīrijas provinces iedzīvotājs",
+    "nb": "en dinaitt eller innbygger i en ukjent assyrisk provins",
+    "nl": "een Dinaïet of inwoner van een onbekende provincie in Assyrië",
+    "pl": "dinaita lub mieszkaniec jakiejś nieznanej prowincji Asyrii",
+    "pt": "um dinaíta ou habitante de uma província desconhecida da Assíria",
+    "ro": "un Dinait sau locuitor al unei provincii necunoscute din Asiria",
+    "ru": "динаец или житель какой-то неизвестной провинции Ассирии",
+    "sk": "dinaita alebo obyvateľ neznámej asýrskej provincie",
+    "sl": "dinait ali prebivalec neke neznane asirske province",
+    "sv": "en Dinait eller invånare i någon okänd Assyrienprovins",
+    "tr": "bir Dina'lı ya da bilinmeyen bir Asur eyaletinin sakini",
+    "uk": "динаїт або житель якоїсь невідомої провінції Ассирії",
+    "zh": "迪纳人或不知名亚述省的居民"
+  },
+  "hebrew": "דִּינַי",
+  "verses": [
+    "ezra 4:9:8"
+  ]
+}

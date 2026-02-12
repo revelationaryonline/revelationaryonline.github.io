@@ -1,0 +1,42 @@
+{
+  "number": "H6434",
+  "language": "hebrew",
+  "transliteration": "pên",
+  "pronunciation": "pane",
+  "definition": "an angle (of a street or wall)",
+  "kjvTranslation": "corner.",
+  "hebrew": "פֵּן",
+  "translations": {
+    "bg": "ъгъл (на улица или стена)",
+    "cs": "úhel (ulice nebo zdi)",
+    "da": "en vinkel (på en gade eller en mur)",
+    "de": "ein Winkel (einer Straße oder Mauer)",
+    "el": "μια γωνία (ενός δρόμου ή ενός τοίχου)",
+    "es": "un ángulo (de una calle o muro)",
+    "et": "(tänava või seina) nurk",
+    "fi": "kulma (kadun tai seinän)",
+    "fr": "un angle (d'une rue ou d'un mur)",
+    "hu": "egy szög (egy utca vagy fal)",
+    "id": "sebuah sudut (jalan atau dinding)",
+    "it": "un angolo (di una strada o di un muro)",
+    "ja": "曲り角",
+    "ko": "(거리 또는 벽의) 각도",
+    "lt": "kampas (gatvės ar sienos)",
+    "lv": "leņķis (ielas vai sienas)",
+    "nb": "en vinkel (på en gate eller vegg)",
+    "nl": "een hoek (van een straat of muur)",
+    "pl": "kąt (ulicy lub ściany)",
+    "pt": "um ângulo (de uma rua ou muro)",
+    "ro": "un unghi (al unei străzi sau al unui zid)",
+    "ru": "угол (улицы или стены)",
+    "sk": "uhol (ulice alebo steny)",
+    "sl": "kot (ulice ali zidu)",
+    "sv": "en vinkel (på en gata eller vägg)",
+    "tr": "bir açı (bir caddenin veya duvarın)",
+    "uk": "кут (вулиці або стіни)",
+    "zh": "棱角"
+  },
+  "verses": [
+    "zechariah 14:10:19"
+  ]
+}

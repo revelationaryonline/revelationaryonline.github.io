@@ -1,0 +1,43 @@
+{
+  "number": "H3121",
+  "language": "hebrew",
+  "transliteration": "yâvên",
+  "pronunciation": "yaw-ven'",
+  "definition": "properly, dregs (as effervescing); hence, mud",
+  "kjvTranslation": "mire, miry.",
+  "translations": {
+    "bg": "правилно, утайка (като изстиваща); оттам - кал",
+    "cs": "správně střepy (jako šumící); odtud bahno",
+    "da": "korrekt, bundfald (som brusende); derfor mudder",
+    "de": "richtig, Bodensatz (wie Sprudel); daher Schlamm",
+    "el": "σωστά, κατακάθια (ως αναβράζοντα), άρα, λάσπη",
+    "es": "propiamente, posos (como efervescencia); de ahí, lodo",
+    "et": "õigesti, räbu (nagu pritsmed); seega, muda",
+    "fi": "oikein, roskat (kuten poreileva); siis muta",
+    "fr": "proprement, la lie (comme l'effervescence) ; d'où la boue",
+    "hu": "megfelelően, hordalék (mint pezsgő); ezért sár",
+    "id": "dengan benar, ampas (sebagai buih); karenanya, lumpur",
+    "it": "propriamente, feccia (come effervescente); quindi, fango",
+    "ja": "正しくは、（発泡するような）かす、したがって、泥",
+    "ko": "적절하게, 찌꺼기 (발포성); 따라서 진흙",
+    "lt": "tinkamai, nuosėdos (kaip putojančios); taigi, purvas",
+    "lv": "pareizi, nogulsnes (kā putojošs); līdz ar to dubļi",
+    "nb": "egentlig, bunnfall (som brusende); derav gjørme",
+    "nl": "goed, bezinksel (als bruisend); vandaar, modder",
+    "pl": "właściwie, resztki (jako musujące); stąd, błoto",
+    "pt": "propriamente, borras (como efervescentes); daí, lama",
+    "ro": "în mod corespunzător, reziduuri (ca efervescență); prin urmare, noroi",
+    "ru": "правильно, отбросы (как шипение); следовательно, грязь",
+    "sk": "správne, usadeniny (ako šumivý plyn); teda bahno",
+    "sl": "pravilno, ostanki (kot izcedek); od tod blato",
+    "sv": "korrekt, spillning (som brusande); följaktligen, lera",
+    "tr": "uygun şekilde, tortu (efervesan olarak); dolayısıyla, çamur",
+    "uk": "власне, бруд (як шипучий); отже, багнюка",
+    "zh": "渣滓（如泡腾片）；因此，淤泥"
+  },
+  "hebrew": "יָוֵן",
+  "verses": [
+    "psalms 40:3:4",
+    "psalms 69:3:1"
+  ]
+}

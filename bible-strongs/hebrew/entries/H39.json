@@ -1,0 +1,43 @@
+{
+  "number": "H39",
+  "language": "hebrew",
+  "transliteration": "ʼĂbîymâʼêl",
+  "pronunciation": "ab-ee-maw-ale'",
+  "definition": "Abimael, a son of Joktan",
+  "kjvTranslation": "Abimael.",
+  "translations": {
+    "bg": "Авимаил, син на Йоктан",
+    "cs": "Abimael, syn Joktanův",
+    "da": "Abimael, en søn af Joktan",
+    "de": "Abimael, ein Sohn des Joktan",
+    "el": "Αβιμαήλ, γιος του Ιωκτάν",
+    "es": "Abimael, hijo de Joktan",
+    "et": "Abimael, Joktani poeg",
+    "fi": "Abimael, Joktanin poika",
+    "fr": "Abimael, fils de Joktan",
+    "hu": "Abimael, Joktan fia",
+    "id": "Abimael, seorang putra Joktan",
+    "it": "Abimael, figlio di Joktan",
+    "ja": "ヨクタンの子アビマエル",
+    "ko": "족탄의 아들, 아비마엘",
+    "lt": "Abimaelis, Joktano sūnus",
+    "lv": "Abimaēls, Joktana dēls",
+    "nb": "Abimael, en sønn av Joktan",
+    "nl": "Abimael, een zoon van Joktan",
+    "pl": "Abimael, syn Joktana",
+    "pt": "Abimael, filho de Joctan",
+    "ro": "Abimael, fiul lui Ioctan",
+    "ru": "Авимаэль, сын Иоктана",
+    "sk": "Abimael, syn Joktánov",
+    "sl": "Abimael, Joktanov sin",
+    "sv": "Abimael, en son till Joktan",
+    "tr": "Abimael, Joktan'ın oğlu",
+    "uk": "Абімаель, син Йоктана",
+    "zh": "约坦的儿子亚比麦"
+  },
+  "hebrew": "אֲבִימָאֵל",
+  "verses": [
+    "genesis 10:28:3",
+    "firstChronicles 1:22:3"
+  ]
+}

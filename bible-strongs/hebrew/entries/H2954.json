@@ -1,0 +1,42 @@
+{
+  "number": "H2954",
+  "language": "hebrew",
+  "transliteration": "ṭâphash",
+  "pronunciation": "taw-fash'",
+  "definition": "properly, apparently to be thick; figuratively, to be stupid",
+  "kjvTranslation": "be fat.",
+  "translations": {
+    "bg": "правилно, навярно дебел; преносно, глупав",
+    "cs": "správně, zřejmě být tlustý; přeneseně, být hloupý",
+    "da": "korrekt, tilsyneladende at være tyk; i overført betydning, at være dum",
+    "de": "richtig, scheinbar dumm zu sein; im übertragenen Sinne, dumm zu sein",
+    "el": "σωστά, προφανώς να είσαι παχύς- μεταφορικά, να είσαι ηλίθιος",
+    "es": "propiamente, aparentemente ser grueso; figuradamente, ser estúpido",
+    "et": "õigesti, ilmselt olla paks; piltlikult, olla rumal",
+    "fi": "oikein, ilmeisesti olla paksu; kuvaannollisesti, olla tyhmä",
+    "fr": "au sens propre, apparemment être épais ; au sens figuré, être stupide",
+    "hu": "helyesen, látszólag vastagnak lenni; átvitt értelemben: hülyének lenni",
+    "id": "benar, rupanya menjadi tebal; secara kiasan, menjadi bodoh",
+    "it": "propriamente, apparentemente, essere stupido; in senso figurato, essere stupido",
+    "ja": "比喩的には、頭が悪いこと。",
+    "ko": "제대로, 명백히 두껍다; 비유적으로, 어리석다",
+    "lt": "taisyklingai, akivaizdžiai būti storas; perkeltine prasme, būti kvailas",
+    "lv": "pareizi, acīmredzami, būt biezam; pārnestā nozīmē - būt stulbam",
+    "nb": "egentlig, tilsynelatende å være tykk; i overført betydning, å være dum",
+    "nl": "correct, blijkbaar dik zijn; figuurlijk, dom zijn",
+    "pl": "właściwie, najwyraźniej być grubym; w przenośni, być głupim",
+    "pt": "propriamente, aparentemente ser grosso; figurativamente, ser estúpido",
+    "ro": "corect, aparent a fi gros; la figurat, a fi prost",
+    "ru": "правильно, видимо, быть толстым; фигурально, быть глупым",
+    "sk": "správne, zrejme byť hrubý; v prenesenom význame byť hlúpy",
+    "sl": "pravilno, očitno biti debel; preneseno, biti neumen",
+    "sv": "korrekt, tydligen att vara tjock; bildligt, att vara dum",
+    "tr": "gerçek anlamda, görünüşte kalın kafalı olmak; mecazi anlamda, aptal olmak",
+    "uk": "правильно, мабуть, бути товстим; переносно - бути дурним",
+    "zh": "讷于言而敏于行"
+  },
+  "hebrew": "טָפַשׁ",
+  "verses": [
+    "psalms 119:70:0"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2215",
+  "language": "hebrew",
+  "transliteration": "zârab",
+  "pronunciation": "zaw-rab'",
+  "definition": "to flow away",
+  "kjvTranslation": "wax warm.",
+  "translations": {
+    "bg": "да се оттече",
+    "cs": "odtékat",
+    "da": "at flyde væk",
+    "de": "abfließen",
+    "el": "να φύγει",
+    "es": "fluir",
+    "et": "ära voolata",
+    "fi": "virrata pois",
+    "fr": "s'écouler",
+    "hu": "hogy elfolyjon",
+    "id": "untuk mengalir pergi",
+    "it": "scorrere via",
+    "ja": "流れ去る",
+    "ko": "흐르다",
+    "lt": "nutekėti",
+    "lv": "aizplūst",
+    "nb": "å flyte bort",
+    "nl": "om weg te stromen",
+    "pl": "odpłynąć",
+    "pt": "fluir",
+    "ro": "să se scurgă",
+    "ru": "утекать",
+    "sk": "odtekať",
+    "sl": "odteči",
+    "sv": "att rinna bort",
+    "tr": "akıp gitmek için",
+    "uk": "витікати",
+    "zh": "流走"
+  },
+  "hebrew": "זָרַב",
+  "verses": [
+    "job 6:17:1"
+  ]
+}

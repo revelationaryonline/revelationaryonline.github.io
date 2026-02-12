@@ -1,0 +1,43 @@
+{
+  "number": "H7660",
+  "language": "hebrew",
+  "transliteration": "shâbats",
+  "pronunciation": "shaw-bats'",
+  "definition": "to interweave (colored) threads in squares; by implication (of reticulation) to inchase gems in gold",
+  "kjvTranslation": "embroider, set.",
+  "hebrew": "שָׁבַץ",
+  "translations": {
+    "bg": "да преплита (цветни) нишки в квадрати; по подразбиране (на ретикулация) да вплита скъпоценни камъни в злато",
+    "cs": "proplétat (barevné) nitě do čtverců; implicitně (síťování) inkasurovat drahokamy ve zlatě",
+    "da": "at flette (farvede) tråde sammen i firkanter; underforstået (af retikulation) at indfatte ædelstene i guld",
+    "de": "(farbige) Fäden in Vierecken verweben; im Sinne von (Netz) Edelsteine in Gold einflechten",
+    "el": "να πλέκεις (χρωματιστά) νήματα σε τετράγωνα- με την έννοια (της δικτυωτής πλέξης) να πλέκεις πολύτιμους λίθους σε χρυσό",
+    "es": "entretejer hilos (de colores) en cuadrados; por implicación (de reticulación) inchase gemas en oro",
+    "et": "põimida (värvilisi) niite ruutudeks; kaudselt (võrkkihtide) kullast kalliskivide sisse põimida",
+    "fi": "punoa (värillisiä) lankoja ruutuihin; implisiittisesti (verkkomuodostelmasta) punoa jalokiviä kultaan",
+    "fr": "entrelacer des fils (de couleur) en carrés ; par implication (de la réticulation) incruster des pierres précieuses dans de l'or",
+    "hu": "(színes) fonalakat négyzetekbe szőni; ezzel (a hálós szövés) drágaköveket aranyba illeszteni",
+    "id": "untuk menjalin benang (berwarna) dalam kotak; dengan implikasi (retikulasi) untuk meningkatkan permata dalam emas",
+    "it": "intrecciare fili (colorati) a quadretti; per implicazione (di reticolo) inchinare gemme in oro",
+    "ja": "色糸を正方形に織り交ぜる。",
+    "ko": "사각형으로 (유색) 실을 엮다; 암시 적으로 (망상) 보석을 금으로 인치하다",
+    "lt": "susipinti (spalvotus) siūlus į kvadratus; netiesiogiai (tinklelio) inkrustuoti brangakmenius į auksą",
+    "lv": "pārpīt (krāsainus) pavedienus kvadrātos; netieši (tīklojumu) ieaust dārgakmeņus zeltā",
+    "nb": "å veve (fargede) tråder i firkanter; underforstått (av retikulasjon) å innfatte edelstener i gull",
+    "nl": "(gekleurde) draden in vierkanten verweven; impliciet (van reticulatie) edelstenen in goud inchasen",
+    "pl": "przeplatać (kolorowe) nici w kwadraty; przez implikację (siatkówki) do inkrustowania klejnotów złotem",
+    "pt": "entrelaçar fios (coloridos) em quadrados; por implicação (de reticulação) entrelaçar pedras preciosas em ouro",
+    "ro": "a împleti fire (colorate) în pătrate; implicit (de reticulație) a ineca pietre prețioase în aur",
+    "ru": "переплетать (цветные) нити в квадраты; по косвенным признакам (о ретикуляции) инкрустировать драгоценные камни в золото",
+    "sk": "preplietať (farebné) nite do štvorcov; implicitne (sieťovanie) inkázovať drahokamy v zlate",
+    "sl": "prepletati (barvne) niti v kvadratih; implicitno (mreženje) inkasirati dragulje v zlatu",
+    "sv": "att väva samman (färgade) trådar i rutor; underförstått (av retikulering) att infatta ädelstenar i guld",
+    "tr": "(renkli) iplikleri kareler halinde örmek; ima yoluyla (retikülasyon) mücevherleri altınla birleştirmek",
+    "uk": "переплітати (кольорові) нитки в квадрати; за допомогою імплікації (сітчастості) інкрустувати дорогоцінні камені в золото",
+    "zh": "将（彩色）丝线交织成方形；暗示（网状）将宝石镶嵌在金子上"
+  },
+  "verses": [
+    "exodus 28:20:5",
+    "exodus 28:39:0"
+  ]
+}

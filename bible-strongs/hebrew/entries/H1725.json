@@ -1,0 +1,42 @@
+{
+  "number": "H1725",
+  "language": "hebrew",
+  "transliteration": "dâhar",
+  "pronunciation": "daw-har'",
+  "definition": "to curvet or move irregularly",
+  "kjvTranslation": "pause.",
+  "translations": {
+    "bg": "да се извива или движи неправилно",
+    "cs": "nepravidelně se zakřivovat nebo pohybovat",
+    "da": "at krumme eller bevæge sig uregelmæssigt",
+    "de": "sich krümmen oder unregelmäßig bewegen",
+    "el": "να καμπυλώνεται ή να κινείται ακανόνιστα",
+    "es": "curvarse o moverse irregularmente",
+    "et": "kõver või ebakorrapärane liikumine",
+    "fi": "kaartua tai liikkua epäsäännöllisesti",
+    "fr": "s'incurver ou se déplacer de façon irrégulière",
+    "hu": "szabálytalanul görbül vagy mozog",
+    "id": "melengkung atau bergerak tidak teratur",
+    "it": "curvare o muoversi in modo irregolare",
+    "ja": "不規則に曲がる、動く",
+    "ko": "구부러지거나 불규칙하게 움직이는 경우",
+    "lt": "išlenkti arba judėti netaisyklingai",
+    "lv": "izliekties vai kustēties neregulāri",
+    "nb": "å krumme eller bevege seg uregelmessig",
+    "nl": "buigen of onregelmatig bewegen",
+    "pl": "zakrzywiać lub poruszać się nieregularnie",
+    "pt": "curvar ou mover-se irregularmente",
+    "ro": "să se curbeze sau să se miște neregulat",
+    "ru": "изгибаться или двигаться неравномерно",
+    "sk": "nepravidelne sa zakrivovať alebo pohybovať",
+    "sl": "krivljenje ali nepravilno gibanje",
+    "sv": "att böja sig eller röra sig oregelbundet",
+    "tr": "kıvrılmak veya düzensiz hareket etmek",
+    "uk": "викривлятися або рухатися нерівномірно",
+    "zh": "不规则地弯曲或移动"
+  },
+  "hebrew": "דָּהַר",
+  "verses": [
+    "nahum 3:2:6"
+  ]
+}

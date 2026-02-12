@@ -1,0 +1,42 @@
+{
+  "number": "H1958",
+  "language": "hebrew",
+  "transliteration": "hîy",
+  "pronunciation": "he",
+  "definition": "lamentation",
+  "kjvTranslation": "woe. (For hiyr. See H1931 (הוּא), H1932 (הוּא).)",
+  "translations": {
+    "bg": "оплакване",
+    "cs": "nářek",
+    "da": "klagesang",
+    "de": "klageschrift",
+    "el": "θρήνος",
+    "es": "lamento",
+    "et": "kaebus",
+    "fi": "valitusvirsi",
+    "fr": "lamentation",
+    "hu": "siralom",
+    "id": "ratapan",
+    "it": "lamentazione",
+    "ja": "嘆き",
+    "ko": "애도",
+    "lt": "lamentacija",
+    "lv": "lamentācija",
+    "nb": "klagesang",
+    "nl": "klaagzang",
+    "pl": "lament",
+    "pt": "lamentação",
+    "ro": "lamentare",
+    "ru": "плач",
+    "sk": "nárek",
+    "sl": "lamentacija",
+    "sv": "klagan",
+    "tr": "aĞIT",
+    "uk": "плач",
+    "zh": "哀叹"
+  },
+  "hebrew": "הִי",
+  "verses": [
+    "ezekiel 2:10:11"
+  ]
+}

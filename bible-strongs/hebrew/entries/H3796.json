@@ -1,0 +1,42 @@
+{
+  "number": "H3796",
+  "language": "hebrew",
+  "transliteration": "kôthel",
+  "pronunciation": "ko'-thel",
+  "definition": "a wall (as gathering inmates)",
+  "kjvTranslation": "wall.",
+  "hebrew": "כֹּתֶל",
+  "translations": {
+    "bg": "стена (за събиране на затворници)",
+    "cs": "zeď (jako shromažďování vězňů)",
+    "da": "en mur (som samling af indsatte)",
+    "de": "eine Mauer (als Sammelstelle für Insassen)",
+    "el": "ένας τοίχος (ως χώρος συγκέντρωσης κρατουμένων)",
+    "es": "un muro (para reunir presos)",
+    "et": "seina (nagu kinnipeetavate kogumine)",
+    "fi": "seinä (kuten vankien kerääminen)",
+    "fr": "un mur (pour rassembler les détenus)",
+    "hu": "egy fal (mint a foglyok összegyűjtése)",
+    "id": "dinding (sebagai tempat berkumpulnya para narapidana)",
+    "it": "un muro (per raccogliere i detenuti)",
+    "ja": "壁",
+    "ko": "벽(수감자를 모으는 용도로)",
+    "lt": "siena (kaip kalinių surinkimo vieta)",
+    "lv": "siena (kā ieslodzīto pulcēšanās vieta)",
+    "nb": "en vegg (som samling av innsatte)",
+    "nl": "een muur (als verzamelplaats voor gevangenen)",
+    "pl": "ściana (gromadząca więźniów)",
+    "pt": "um muro (para reunir reclusos)",
+    "ro": "un zid (care adună deținuți)",
+    "ru": "стена (для сбора заключенных)",
+    "sk": "stena (ako zhromažďovanie väzňov)",
+    "sl": "stena (kot zbirališče zapornikov)",
+    "sv": "en vägg (som samling av interner)",
+    "tr": "bir duvar (mahkumları toplamak gibi)",
+    "uk": "стіна (як місце збору ув'язнених)",
+    "zh": "墙"
+  },
+  "verses": [
+    "solomon 2:9:10"
+  ]
+}

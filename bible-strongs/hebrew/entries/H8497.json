@@ -1,0 +1,42 @@
+{
+  "number": "H8497",
+  "language": "hebrew",
+  "transliteration": "tâkâh",
+  "pronunciation": "taw-kaw'",
+  "definition": "to strew, i.e. encamp",
+  "kjvTranslation": "sit down.",
+  "hebrew": "תָּכָה",
+  "translations": {
+    "bg": "да се разпъне, т.е. да се разположи на лагер",
+    "cs": "rozbít, tj. utábořit se",
+    "da": "at strø, dvs. slå lejr",
+    "de": "streuen, d.h. lagern",
+    "el": "να απλώσω, δηλαδή να κατασκηνώσω",
+    "es": "esparcir, es decir, acampar",
+    "et": "hajutada, s.t. laagritada",
+    "fi": "levittäytyä, eli leiriytyä",
+    "fr": "de s'étendre, c'est-à-dire de camper",
+    "hu": "szétszórni, azaz letáborozni",
+    "id": "untuk menabur, yaitu berkemah",
+    "it": "accamparsi, cioè accampare",
+    "ja": "張る、つまり野営する",
+    "ko": "던지다, 즉 야영하다",
+    "lt": "išsidėstyti, t. y. stovyklauti",
+    "lv": "izkliedēt, t.i., nometoties",
+    "nb": "å strø, dvs. slå leir",
+    "nl": "verspreiden, d.w.z. kamperen",
+    "pl": "rozciągać się, tj. obozować",
+    "pt": "estender, ou seja, acampar",
+    "ro": "a întinde, adică a tabăra",
+    "ru": "раскидывать, т.е. разбивать лагерь",
+    "sk": "rozložiť, t. j. utáboriť sa",
+    "sl": "razprostreti, tj. utaboriti se",
+    "sv": "att sträcka ut, dvs. slå läger",
+    "tr": "sermek, yani kamp kurmak",
+    "uk": "розбити табір, тобто отаборитися",
+    "zh": "扎营"
+  },
+  "verses": [
+    "deuteronomy 33:3:7"
+  ]
+}

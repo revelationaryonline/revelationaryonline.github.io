@@ -1,0 +1,42 @@
+{
+  "number": "H2668",
+  "language": "hebrew",
+  "transliteration": "chuphshâh",
+  "pronunciation": "khoof-shaw'",
+  "definition": "liberty (from slavery)",
+  "kjvTranslation": "freedom.",
+  "translations": {
+    "bg": "свобода (от робство)",
+    "cs": "svoboda (z otroctví)",
+    "da": "frihed (fra slaveri)",
+    "de": "freiheit (von der Sklaverei)",
+    "el": "ελευθερία (από τη δουλεία)",
+    "es": "libertad (de la esclavitud)",
+    "et": "vabadus (orjusest)",
+    "fi": "vapaus (orjuudesta)",
+    "fr": "liberté (de l'esclavage)",
+    "hu": "szabadság (a rabszolgaságból)",
+    "id": "kebebasan (dari perbudakan)",
+    "it": "libertà (dalla schiavitù)",
+    "ja": "奴隷解放",
+    "ko": "자유(노예제에서 벗어남)",
+    "lt": "laisvė (nuo vergijos)",
+    "lv": "brīvība (no verdzības)",
+    "nb": "frihet (fra slaveri)",
+    "nl": "vrijheid (van slavernij)",
+    "pl": "wolność (od niewolnictwa)",
+    "pt": "liberdade (da escravatura)",
+    "ro": "libertate (de la sclavie)",
+    "ru": "свобода (от рабства)",
+    "sk": "sloboda (z otroctva)",
+    "sl": "svoboda (iz suženjstva)",
+    "sv": "frihet (från slaveri)",
+    "tr": "özgürlük (kölelikten)",
+    "uk": "свобода (від рабства)",
+    "zh": "自由"
+  },
+  "hebrew": "חֻפְשָׁה",
+  "verses": [
+    "leviticus 19:20:15"
+  ]
+}

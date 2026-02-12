@@ -1,0 +1,42 @@
+{
+  "number": "H4661",
+  "language": "hebrew",
+  "transliteration": "mappêts",
+  "pronunciation": "map-pates'",
+  "definition": "a smiter, i.e. a war club",
+  "kjvTranslation": "battle ax.",
+  "hebrew": "מַפֵּץ",
+  "verses": [
+    "jeremiah 51:20:0"
+  ],
+  "translations": {
+    "bg": "бияч, т.е. бойна тояга",
+    "cs": "biják, tj. válečný kyj",
+    "da": "en smitter, dvs. en krigskølle",
+    "de": "ein Schläger, d.h. eine Kriegskeule",
+    "el": "ένα χτυπητήρι, δηλαδή ένα πολεμικό ρόπαλο",
+    "es": "a smiter, i.e. a war club",
+    "et": "smiter, s.t. sõjakepi",
+    "fi": "lyöntipeli, eli sotanuija",
+    "fr": "un frappeur, c'est-à-dire une massue de guerre",
+    "hu": "egy ütő, azaz egy harci bunkósbot",
+    "id": "sebuah smiter, yaitu tongkat perang",
+    "it": "una mazza da guerra, cioè un bastone da guerra",
+    "ja": "棍棒",
+    "ko": "스마이터, 즉 전쟁 클럽",
+    "lt": "smogtuvas, t. y. karo lazda",
+    "lv": "kaujinieks, t.i., kara nūja",
+    "nb": "en smiter, dvs. en krigsklubbe",
+    "nl": "een smijter, d.w.z. een oorlogsknots",
+    "pl": "bicz, tj. maczuga wojenna",
+    "pt": "um ferreiro, ou seja, um bastão de guerra",
+    "ro": "a smiter, adică o bâtă de război",
+    "ru": "поражающий, т.е. боевая дубина",
+    "sk": "bitkár, t. j. vojnový kyjak",
+    "sl": "ubijalec, tj. bojna palica",
+    "sv": "en smällare, dvs. en krigsklubba",
+    "tr": "bir vurucu, yani bir savaş sopası",
+    "uk": "смитер, тобто військовий клуб",
+    "zh": "锤"
+  }
+}

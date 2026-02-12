@@ -1,0 +1,42 @@
+{
+  "number": "H1646",
+  "language": "hebrew",
+  "transliteration": "gᵉrushâh",
+  "pronunciation": "gher-oo-shaw'",
+  "definition": "(abstractly) dispossession",
+  "kjvTranslation": "exaction.",
+  "translations": {
+    "bg": "(абстрактно) разпореждане с имущество",
+    "cs": "(abstraktně) vyvlastnění",
+    "da": "(abstrakt) afståelse af ejendom",
+    "de": "(abstrakt) Enteignung",
+    "el": "(αφηρημένα) απαλλοτρίωση",
+    "es": "desposesión (abstracta)",
+    "et": "(abstraktselt) võõrandamine",
+    "fi": "(abstraktisti) pakkolunastus",
+    "fr": "(abstraitement) dépossession",
+    "hu": "(elvontan) kisajátítás",
+    "id": "(secara abstrak) perampasan",
+    "it": "(astrattamente) spossessamento",
+    "ja": "収奪",
+    "ko": "(추상적으로) 소유권 박탈",
+    "lt": "(abstrakčiai) disponavimas",
+    "lv": "(abstrakti) atsavināšana",
+    "nb": "(abstrakt) ekspropriasjon",
+    "nl": "(abstract) onteigening",
+    "pl": "(abstrakcyjnie) wywłaszczenie",
+    "pt": "desapropriação (abstrata)",
+    "ro": "(abstract) deposedare",
+    "ru": "(абстрактно) лишение собственности",
+    "sk": "(abstraktne) vyvlastnenie",
+    "sl": "(abstraktno) razlastitev",
+    "sv": "(abstrakt) avhändande",
+    "tr": "(soyut olarak) mülksüzleştirme",
+    "uk": "(абстрактно) позбавлення права власності",
+    "zh": "剥夺"
+  },
+  "hebrew": "גְרֻשָׁה",
+  "verses": [
+    "ezekiel 45:9:15"
+  ]
+}

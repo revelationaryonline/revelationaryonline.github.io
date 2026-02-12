@@ -1,0 +1,42 @@
+{
+  "number": "H6276",
+  "language": "hebrew",
+  "transliteration": "ʻâthêq",
+  "pronunciation": "aw-thake'",
+  "definition": "antique, i.e. valued",
+  "kjvTranslation": "durable.",
+  "hebrew": "עָתֵק",
+  "translations": {
+    "bg": "антични, т.е. оценени",
+    "cs": "starožitné, tj. ceněné",
+    "da": "antik, dvs. værdsat",
+    "de": "antik, d.h. wertvoll",
+    "el": "αντίκα, δηλαδή αποτιμώμενη",
+    "es": "antiguo, es decir, valorado",
+    "et": "antiikne, st hinnatud",
+    "fi": "antiikkinen, eli arvostettu",
+    "fr": "antique, c'est-à-dire de valeur",
+    "hu": "antik, azaz értékes",
+    "id": "antik, yaitu bernilai",
+    "it": "antico, cioè valutato",
+    "ja": "アンティーク",
+    "ko": "골동품, 즉 가치 있는",
+    "lt": "antikvariniai, t. y. vertinami",
+    "lv": "antikvariāts, t. i., novērtēts",
+    "nb": "antikk, dvs. verdsatt",
+    "nl": "antiek, d.w.z. gewaardeerd",
+    "pl": "zabytkowe, tj. cenione",
+    "pt": "antigo, ou seja, valorizado",
+    "ro": "antic, adică valoros",
+    "ru": "антикварные, то есть ценные",
+    "sk": "starožitné, t. j. hodnotné",
+    "sl": "starinsko, tj. cenjeno",
+    "sv": "antik, d.v.s. värderad",
+    "tr": "antika, yani değerli",
+    "uk": "антикварні, тобто цінні",
+    "zh": "古董，即有价值的"
+  },
+  "verses": [
+    "proverbs 8:18:4"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3747",
+  "language": "hebrew",
+  "transliteration": "Kᵉrîyth",
+  "pronunciation": "ker-eeth'",
+  "definition": "Kerith, a brook of Palestine",
+  "kjvTranslation": "Cherith.",
+  "translations": {
+    "bg": "Керит, поток в Палестина",
+    "cs": "Kerith, palestinský potok",
+    "da": "Kerith, en bæk i Palæstina",
+    "de": "Kerith, ein Bach in Palästina",
+    "el": "Kerith, ένα ρυάκι της Παλαιστίνης",
+    "es": "Kerith, un arroyo de Palestina",
+    "et": "Kerith, Palestiina oja",
+    "fi": "Kerith, puro Palestiinassa",
+    "fr": "Kerith, un ruisseau de Palestine",
+    "hu": "Kerith, egy patak Palesztinában",
+    "id": "Kerith, sebuah sungai di Palestina",
+    "it": "Kerith, un ruscello della Palestina",
+    "ja": "パレスチナの小川ケリス",
+    "ko": "팔레스타인의 시냇물, 케리스",
+    "lt": "Keritas, Palestinos upelis",
+    "lv": "Kerith, Palestīnas strauts",
+    "nb": "Kerith, en bekk i Palestina",
+    "nl": "Kerith, een beek in Palestina",
+    "pl": "Kerith, strumień w Palestynie",
+    "pt": "Kerith, um riacho da Palestina",
+    "ro": "Kerith, un pârâu din Palestina",
+    "ru": "Керит, ручей в Палестине",
+    "sk": "Kerith, potok v Palestíne",
+    "sl": "Kerith, potok v Palestini",
+    "sv": "Kerith, en bäck i Palestina",
+    "tr": "Kerith, Filistin'in bir deresi",
+    "uk": "Керит, палестинський струмок",
+    "zh": "凯里斯"
+  },
+  "hebrew": "כְּרִית",
+  "verses": [
+    "firstKings 17:3:7",
+    "firstKings 17:5:7"
+  ]
+}

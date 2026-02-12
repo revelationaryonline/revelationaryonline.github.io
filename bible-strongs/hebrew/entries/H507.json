@@ -1,0 +1,42 @@
+{
+  "number": "H507",
+  "language": "hebrew",
+  "transliteration": "ʼEleph",
+  "pronunciation": "eh'-lef",
+  "definition": "Eleph, a place in Palestine",
+  "kjvTranslation": "Eleph.",
+  "translations": {
+    "bg": "Елеф, място в Палестина",
+    "cs": "Eleph, místo v Palestině",
+    "da": "Eleph, et sted i Palæstina",
+    "de": "Eleph, ein Ort in Palästina",
+    "el": "Eleph, ένας τόπος στην Παλαιστίνη",
+    "es": "Elef, un lugar en Palestina",
+    "et": "Eleph, koht Palestiinas",
+    "fi": "Eleph, paikka Palestiinassa",
+    "fr": "Eleph, localité de Palestine",
+    "hu": "Elef, egy hely Palesztinában",
+    "id": "Gajah, sebuah tempat di Palestina",
+    "it": "Eleph, località della Palestina",
+    "ja": "エレフ、パレスチナの地名",
+    "ko": "코끼리, 팔레스타인의 한 장소",
+    "lt": "Eleph, vietovė Palestinoje",
+    "lv": "Eleph, vieta Palestīnā",
+    "nb": "Eleph, et sted i Palestina",
+    "nl": "Eleph, een plaats in Palestina",
+    "pl": "Eleph, miejscowość w Palestynie",
+    "pt": "Eleph, um lugar na Palestina",
+    "ro": "Eleph, un loc în Palestina",
+    "ru": "Элеф, место в Палестине",
+    "sk": "Eleph, miesto v Palestíne",
+    "sl": "Eleph, kraj v Palestini",
+    "sv": "Eleph, en plats i Palestina",
+    "tr": "Eleph, Filistin'de bir yer",
+    "uk": "Елеф, місце в Палестині",
+    "zh": "埃勒夫"
+  },
+  "hebrew": "אֶלֶף",
+  "verses": [
+    "joshua 18:28:1"
+  ]
+}

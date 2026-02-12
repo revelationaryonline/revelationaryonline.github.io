@@ -1,0 +1,42 @@
+{
+  "number": "H4497",
+  "language": "hebrew",
+  "transliteration": "mânôwn",
+  "pronunciation": "maw-nohn'",
+  "definition": "a continuator, i.e. heir",
+  "kjvTranslation": "son.",
+  "hebrew": "מָנוֹן",
+  "verses": [
+    "proverbs 29:21:5"
+  ],
+  "translations": {
+    "bg": "продължител, т.е. наследник",
+    "cs": "pokračovatel, tj. dědic",
+    "da": "en fortsætter, dvs. en arving",
+    "de": "ein Fortsetzer, d.h. ein Erbe",
+    "el": "συνεχιστής, δηλαδή κληρονόμος",
+    "es": "un continuador, es decir, heredero",
+    "et": "jätkaja, s.t. pärija",
+    "fi": "jatkaja, eli perillinen",
+    "fr": "un continuateur, c'est-à-dire un héritier",
+    "hu": "egy folytató, azaz örökös",
+    "id": "penerus, yaitu ahli waris",
+    "it": "un continuatore, cioè un erede",
+    "ja": "継承者",
+    "ko": "승계인, 즉 상속인",
+    "lt": "tęsėjas, t. y. paveldėtojas",
+    "lv": "turpinātājs, t. i., mantinieks",
+    "nb": "en viderefører, dvs. en arving",
+    "nl": "een voortzetter, d.w.z. erfgenaam",
+    "pl": "kontynuator, tj. spadkobierca",
+    "pt": "um continuador, ou seja, um herdeiro",
+    "ro": "un continuator, adică un moștenitor",
+    "ru": "продолжатель, т.е. наследник",
+    "sk": "pokračovateľ, t. j. dedič",
+    "sl": "nadaljevalec, tj. dedič",
+    "sv": "en fortsättare, dvs. en arvtagare",
+    "tr": "bir devam ettirici, yani mirasçı",
+    "uk": "продовжувач, тобто спадкоємець",
+    "zh": "延续者，即继承人"
+  }
+}

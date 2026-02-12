@@ -1,0 +1,42 @@
+{
+  "number": "H6898",
+  "language": "hebrew",
+  "transliteration": "qubbâh",
+  "pronunciation": "koob-baw'",
+  "definition": "a pavilion (as a domed cavity)",
+  "kjvTranslation": "tent.",
+  "hebrew": "קֻבָּה",
+  "translations": {
+    "bg": "павилион (като куполна кухина)",
+    "cs": "pavilon (jako klenutá dutina)",
+    "da": "en pavillon (som et kuppelformet hulrum)",
+    "de": "ein Pavillon (als gewölbter Hohlraum)",
+    "el": "περίπτερο (ως θολωτή κοιλότητα)",
+    "es": "un pabellón (como una cavidad abovedada)",
+    "et": "paviljon (kui kuppelõõr)",
+    "fi": "paviljonki (kupolimaisena ontelona)",
+    "fr": "un pavillon (comme une cavité en forme de dôme)",
+    "hu": "pavilon (mint kupolás üreg)",
+    "id": "paviliun (sebagai rongga berkubah)",
+    "it": "un padiglione (come cavità a cupola)",
+    "ja": "亭",
+    "ko": "파빌리온(돔형 공동)",
+    "lt": "paviljonas (kaip kupolinė ertmė)",
+    "lv": "paviljons (kā kupolveida dobums)",
+    "nb": "en paviljong (som et kuppelformet hulrom)",
+    "nl": "een paviljoen (als een koepelvormige holte)",
+    "pl": "pawilon (jako wnęka z kopułą)",
+    "pt": "um pavilhão (como uma cavidade abobadada)",
+    "ro": "un pavilion (ca o cavitate domoală)",
+    "ru": "павильон (как куполообразная полость)",
+    "sk": "pavilón (ako kupolovitá dutina)",
+    "sl": "paviljon (kot kupolasta votlina)",
+    "sv": "en paviljong (som en kupolformad hålighet)",
+    "tr": "bir pavyon (kubbeli bir boşluk olarak)",
+    "uk": "павільйон (у вигляді куполоподібної порожнини)",
+    "zh": "穹窿"
+  },
+  "verses": [
+    "numbers 25:8:5"
+  ]
+}

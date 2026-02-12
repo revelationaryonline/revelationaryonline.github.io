@@ -1,0 +1,42 @@
+{
+  "number": "H7396",
+  "language": "hebrew",
+  "transliteration": "rikbâh",
+  "pronunciation": "rik-baw'",
+  "definition": "a chariot (collectively)",
+  "kjvTranslation": "chariots.",
+  "hebrew": "רִכְבָּה",
+  "translations": {
+    "bg": "колесница (колективно)",
+    "cs": "vůz (společně)",
+    "da": "en stridsvogn (kollektivt)",
+    "de": "ein Streitwagen (kollektiv)",
+    "el": "άρμα (συλλογικά)",
+    "es": "un carro (colectivamente)",
+    "et": "vanker (ühiselt)",
+    "fi": "vaunut (kollektiivisesti)",
+    "fr": "un char (collectivement)",
+    "hu": "szekér (együttesen)",
+    "id": "kereta kuda (secara kolektif)",
+    "it": "un carro (collettivamente)",
+    "ja": "戦車",
+    "ko": "전차(총칭)",
+    "lt": "vežimas (bendrai)",
+    "lv": "rati (kopā)",
+    "nb": "en stridsvogn (kollektivt)",
+    "nl": "een strijdwagen (collectief)",
+    "pl": "rydwan (łącznie)",
+    "pt": "uma carruagem (coletivamente)",
+    "ro": "un car (colectiv)",
+    "ru": "колесница (коллективно)",
+    "sk": "voz (spoločne)",
+    "sl": "voz (skupaj)",
+    "sv": "en vagn (kollektivt)",
+    "tr": "bir savaş arabası (topluca)",
+    "uk": "колісниця (спільно)",
+    "zh": "辌车"
+  },
+  "verses": [
+    "ezekiel 27:20:4"
+  ]
+}

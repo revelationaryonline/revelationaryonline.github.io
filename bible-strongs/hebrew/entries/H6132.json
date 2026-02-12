@@ -1,0 +1,43 @@
+{
+  "number": "H6132",
+  "language": "hebrew",
+  "transliteration": "ʻăqar",
+  "pronunciation": "ak-ar'",
+  "definition": "{to pluck up (especially by the roots); specifically, to hamstring; figuratively, to exterminate}",
+  "kjvTranslation": "pluck up by the roots.",
+  "hebrew": "עֲקַר",
+  "translations": {
+    "bg": "{да се изтръгне (особено от корените); по-конкретно, да се изтръгне; в преносен смисъл, да се изтреби}",
+    "cs": "{vyrvat (zvláště za kořeny); konkrétně zkracovat; přeneseně vyhubit}",
+    "da": "{at rykke op (især ved rødderne); specifikt at hæmme; i overført betydning at udrydde}",
+    "de": "{ausreißen (vor allem an den Wurzeln); insbesondere lähmen; im übertragenen Sinne ausrotten}",
+    "el": "{να ξεριζώνω (ιδίως από τις ρίζες), συγκεκριμένα, να ακινητοποιώ, μεταφορικά, να εξοντώνω}",
+    "es": "{arrancar (especialmente de raíz); en concreto, incapacitar; en sentido figurado, exterminar}",
+    "et": "{välja kiskuda (eriti juurte juures); eriti, takistada; ülekantud tähenduses, hävitada}",
+    "fi": "{Kiristää (erityisesti juurineen); erityisesti, kahlita; kuvaannollisesti, hävittää}",
+    "fr": "{arracher (surtout par les racines) ; spécifiquement, paralyser ; au sens figuré, exterminer}",
+    "hu": "{(különösen a gyökerénél fogva) kitépni; konkrétan: megnyomorítani; átvitt értelemben: kiirtani}",
+    "id": "{mencabut (terutama sampai ke akar-akarnya); secara khusus, melumpuhkan; secara kiasan, memusnahkan}",
+    "it": "{strappare (specialmente per le radici); in particolare, mettere in difficoltà; in senso figurato, sterminare.}",
+    "ja": "{特に根こそぎ）摘み取る；具体的にはハムストリングする；比喩的には駆除する}。",
+    "ko": "{뽑다(특히 뿌리를 뽑다); 구체적으로, 햄스트링; 비유적으로, 근절하다}",
+    "lt": "{išrauti (ypač su šaknimis); konkrečiai - išrauti; perkeltine prasme - išnaikinti}",
+    "lv": "{izraut (īpaši ar saknēm); īpaši, sagraut; pārnestā nozīmē - iznīcināt}",
+    "nb": "{å rykke opp (spesielt med røttene); spesifikt, å hamstrere; i overført betydning, å utrydde}",
+    "nl": "{opkroppen (vooral bij de wortels); specifiek, hinderen; figuurlijk, uitroeien}",
+    "pl": "{wyrwać (zwłaszcza z korzeniami); w szczególności utrudnić; w przenośni wytępić}",
+    "pt": "(arrancar (especialmente pela raiz); especificamente, entravar; figurativamente, exterminar)",
+    "ro": "{să smulgă (mai ales din rădăcini); în special, să împiedice; la figurat, să extermine}",
+    "ru": "{вырывать (особенно с корнем); конкретно, ущемлять; фигурально, истреблять}",
+    "sk": "{vytrhnúť (najmä za korene); konkrétne, vyrvať; v prenesenom význame, vyhubiť}",
+    "sl": "{iztrgati (zlasti za korenine); posebej, izruvati; v prenesenem pomenu, iztrebiti}",
+    "sv": "{att rycka upp (särskilt med rötterna); specifikt, att hämma; bildligt, att utrota}",
+    "tr": "(özellikle köklerinden) koparmak; özellikle, kösteklemek; mecazi olarak, yok etmek}",
+    "uk": "{виривати (особливо з корінням); зокрема, знищувати; образно - винищувати}",
+    "zh": "{拔除（特别是连根拔起）；具体地说，束缚；比喻消灭}。"
+  },
+  "verses": [
+    "daniel 7:8:14",
+    "daniel 7:8:15"
+  ]
+}

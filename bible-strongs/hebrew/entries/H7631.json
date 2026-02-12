@@ -1,0 +1,43 @@
+{
+  "number": "H7631",
+  "language": "hebrew",
+  "transliteration": "sᵉbîyb",
+  "pronunciation": "seb-eeb'",
+  "definition": "{flame (as split into tongues)}",
+  "kjvTranslation": "flame.",
+  "hebrew": "שְׂבִיב",
+  "translations": {
+    "bg": "{пламък (като разделен на езици)}",
+    "cs": "{plamen (jako rozdělený na jazyky)}",
+    "da": "{flamme (som delt i tunger)}",
+    "de": "{Flamme (wie in Zungen gespalten)}",
+    "el": "{φλόγα (όπως χωρίζεται σε γλώσσες)}",
+    "es": "{flama (como dividida en lenguas)}",
+    "et": "{Leek (nagu keelteks jagatud)}",
+    "fi": "{liekki (kieliksi jakautuneena)}",
+    "fr": "{flamme (comme divisée en langues)}",
+    "hu": "{láng (nyelvekre osztva)}",
+    "id": "{api (seperti terbelah menjadi beberapa lidah)}",
+    "it": "{fiamma (come se fosse divisa in lingue)",
+    "ja": "炎（舌に分かれるように）}}。",
+    "ko": "{불꽃(혀로 나뉜 모습)}",
+    "lt": "{plazdena (kaip suskilusi į liežuvius)}",
+    "lv": "{ liesmas (kā sadalītas mēlēs)}",
+    "nb": "{flamme (som delt i tunger)}",
+    "nl": "{vlammen (als gespleten in tongen)}",
+    "pl": "{płomień (podzielony na języki)}",
+    "pt": "{flamejar (como dividido em línguas)}",
+    "ro": "{flame (ca împărțit în limbi)}",
+    "ru": "{пламя (как раздвоение на языки)}",
+    "sk": "{plameň (ako rozdelený na jazyky)}",
+    "sl": "{plamen (kot razcepljen na jezike)}",
+    "sv": "{flamma (som uppdelad i tungor)}",
+    "tr": "{alev (dillere ayrılmış olarak)}",
+    "uk": "{полум'я (розділене на язики)",
+    "zh": "{火焰（分裂成舌头）}."
+  },
+  "verses": [
+    "daniel 3:22:21",
+    "daniel 7:9:17"
+  ]
+}

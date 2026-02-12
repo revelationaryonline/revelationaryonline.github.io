@@ -1,0 +1,42 @@
+{
+  "number": "H2223",
+  "language": "hebrew",
+  "transliteration": "zarzîyr",
+  "pronunciation": "zar-zeer'",
+  "definition": "properly, tightly girt, i.e. probably a racer, or some fleet animal (as being slender in the waist)",
+  "kjvTranslation": "[phrase] greyhound.",
+  "translations": {
+    "bg": "правилно, плътно препасан, т.е. вероятно състезател или някакво животно, което се движи с флот (тъй като е тънко в кръста)",
+    "cs": "správně, pevně opásaný, tj. pravděpodobně závodník nebo nějaké stíhací zvíře (jako štíhlé v pase)",
+    "da": "ordentligt, stramt bælte, dvs. sandsynligvis en væddeløber eller et fladt dyr (som er slank i taljen)",
+    "de": "richtig, eng umgürtet, d.h. wahrscheinlich ein Rennfahrer, oder ein flottes Tier (da schlank in der Taille)",
+    "el": "σωστά, σφιχτά περιζωσμένος, δηλαδή πιθανώς δρομέας ή κάποιο ζώο του στόλου (καθώς είναι λεπτό στη μέση)",
+    "es": "adecuadamente, ceñido, es decir, probablemente un corredor, o algún animal de flota (por ser esbelto de cintura)",
+    "et": "korralikult, tihedalt püksirihmaga, s.t. ilmselt võidusõitja või mõni laevastiku loom (kuna ta on vöökohalt sihvakas)",
+    "fi": "kunnolla, tiukasti vyötäröllä, eli luultavasti kilpaurheilija tai jokin laivaston eläin (koska se on vyötäröltään hoikka)",
+    "fr": "correctement, étroitement ceinturé, c'est-à-dire probablement un coureur ou un animal de flotte (comme étant élancé à la taille)",
+    "hu": "megfelelően, szorosan övezve, azaz valószínűleg egy versenyző, vagy valamilyen flotta állat (mivel derékban karcsú)",
+    "id": "benar, berpotongan ketat, yaitu mungkin pembalap, atau hewan armada (seperti ramping di bagian pinggang)",
+    "it": "propriamente detto, stretto in una cintura, cioè probabilmente un corridore o un animale da flotta (in quanto snello in vita)",
+    "ja": "ガタイのいい",
+    "ko": "제대로, 꽉 끼는 옷, 즉 아마도 레이서 또는 일부 함대 동물 (허리가 날씬한 것처럼)",
+    "lt": "tinkamai, tvirtai apsijuosęs, t. y. tikriausiai lenktynininkas arba koks nors laivyno gyvūnas (kaip lieknas liemens srityje)",
+    "lv": "pareizi, cieši apjozts, t.i., iespējams, sacīkšu braucējs vai kāds flotes dzīvnieks (jo ir slaids viduklī)",
+    "nb": "riktig, stramt belte, dvs. sannsynligvis en racer, eller et eller annet flott dyr (som å være slank i midjen)",
+    "nl": "goed, strak omgord, d.w.z. waarschijnlijk een racer, of een of ander vlootdier (als slank in de taille)",
+    "pl": "odpowiednio, ciasno opasany, tj. prawdopodobnie wyścigowiec lub jakieś zwierzę floty (jako smukły w talii)",
+    "pt": "propriamente dito, bem cingido, ou seja, provavelmente um corredor, ou um animal de frota (como sendo esguio na cintura)",
+    "ro": "în mod corespunzător, strâns în brâu, adică probabil un alergător sau un animal de flotă (ca fiind subțire în talie)",
+    "ru": "правильно, туго подпоясанный, т.е., вероятно, скакун или какое-либо флотоводческое животное (как стройное в талии)",
+    "sk": "správne, pevne opásaný, t. j. pravdepodobne pretekár alebo nejaké zviera (ako štíhle v páse)",
+    "sl": "pravilno, tesno opasan, tj. verjetno tekmovalec ali kakšna ladijska žival (kot vitka v pasu)",
+    "sv": "ordentligt, tätt omgjord, dvs. förmodligen en löpare eller något flott djur (som att vara smal i midjan)",
+    "tr": "düzgün, sıkıca kuşanmış, yani muhtemelen bir yarışçı ya da filo hayvanı (beli ince olduğu için)",
+    "uk": "правильно, туго підперезаний, тобто, ймовірно, гонщик, або якась тварина флоту (як струнка в талії)",
+    "zh": "适当地，紧紧地束腰，即可能是一个赛车手，或一些船队动物（因为腰部细长）"
+  },
+  "hebrew": "זַרְזִיר",
+  "verses": [
+    "proverbs 30:31:0"
+  ]
+}

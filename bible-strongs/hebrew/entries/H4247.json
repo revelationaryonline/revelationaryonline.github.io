@@ -1,0 +1,42 @@
+{
+  "number": "H4247",
+  "language": "hebrew",
+  "transliteration": "mᵉchillâh",
+  "pronunciation": "mekh-il-law'",
+  "definition": "a cavern (as if excavated)",
+  "kjvTranslation": "cave.",
+  "hebrew": "מְחִלָּה",
+  "translations": {
+    "bg": "пещера (като изкопана)",
+    "cs": "jeskyně (jakoby vyhloubená)",
+    "da": "en hule (som om den var udgravet)",
+    "de": "eine Kaverne (wie ausgegraben)",
+    "el": "ένα σπήλαιο (σαν να έχει ανασκαφεί)",
+    "es": "una caverna (como si estuviera excavada)",
+    "et": "koobas (nagu välja kaevatud)",
+    "fi": "luola (kuin kaivettu)",
+    "fr": "une caverne (comme si elle avait été creusée)",
+    "hu": "barlang (mintha ki lenne ásva)",
+    "id": "sebuah gua (seolah-olah digali)",
+    "it": "una caverna (come se fosse scavata)",
+    "ja": "掘っ建て小屋",
+    "ko": "동굴(마치 발굴된 것처럼)",
+    "lt": "urvas (tarsi iškastas)",
+    "lv": "alu (it kā izraktu)",
+    "nb": "en hule (som om den er utgravd)",
+    "nl": "een grot (als uitgegraven)",
+    "pl": "jaskinia (jakby wykopana)",
+    "pt": "uma caverna (como se fosse escavada)",
+    "ro": "o cavernă (ca și cum ar fi excavată)",
+    "ru": "пещера (как будто раскопанная)",
+    "sk": "jaskyňa (akoby vyhĺbená)",
+    "sl": "votlina (kot izkopana)",
+    "sv": "en grotta (som om den vore utgrävd)",
+    "tr": "bir mağara (kazılmış gibi)",
+    "uk": "печера (ніби розкопана)",
+    "zh": "洞穴"
+  },
+  "verses": [
+    "isaiah 2:19:3"
+  ]
+}

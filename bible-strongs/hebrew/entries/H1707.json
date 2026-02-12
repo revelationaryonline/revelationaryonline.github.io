@@ -1,0 +1,42 @@
+{
+  "number": "H1707",
+  "language": "hebrew",
+  "transliteration": "dabbesheth",
+  "pronunciation": "dab-beh'-sheth",
+  "definition": "a sticky mass, i.e. the hump of acamel",
+  "kjvTranslation": "hunch (of a camel).",
+  "translations": {
+    "bg": "лепкава маса, т.е. гърбица на акамела",
+    "cs": "lepkavá hmota, tj. hrb akamelu",
+    "da": "en klæbrig masse, dvs. en pukkel af akamel",
+    "de": "eine klebrige Masse, d.h. der Schmelzhöcker",
+    "el": "μια κολλώδης μάζα, δηλαδή η καμπούρα της ακαμέλης",
+    "es": "una masa pegajosa, es decir, la joroba de acamelo",
+    "et": "kleepuv mass, s.t. akameli kühmu",
+    "fi": "tahmea massa, ts. acamel-kumpu",
+    "fr": "une masse collante, c'est-à-dire la bosse de l'acamé",
+    "hu": "ragacsos massza, azaz a púp a pattanáson",
+    "id": "massa yang lengket, yaitu punuk akamel",
+    "it": "una massa appiccicosa, cioè la gobba dell'acamello",
+    "ja": "粘着性の塊、すなわちアカメルのこぶ",
+    "ko": "끈적 끈적한 덩어리, 즉 아카멜의 고비",
+    "lt": "lipni masė, t. y. akamelio kupra",
+    "lv": "lipīga masa, t. i., akameļa kupra forma",
+    "nb": "en klebrig masse, dvs. pukkelen av akamell",
+    "nl": "een kleverige massa, d.w.z. de acamelbult",
+    "pl": "lepka masa, tj. garb szkliwa",
+    "pt": "uma massa pegajosa, ou seja, a corcova do acamelo",
+    "ro": "o masă lipicioasă, și anume cocoașa de acamel",
+    "ru": "липкая масса, т.е. бугорок акамелы",
+    "sk": "lepkavá hmota, t. j. hrb akamelu",
+    "sl": "lepljiva masa, tj. grba akamela",
+    "sv": "en klibbig massa, t.ex. puckeln på akamelen",
+    "tr": "yapışkan bir kütle, yani akamel kamburu",
+    "uk": "липку масу, тобто горб акамелі",
+    "zh": "粘块，即驼峰釉"
+  },
+  "hebrew": "דַּבֶּשֶׁת",
+  "verses": [
+    "isaiah 30:6:18"
+  ]
+}

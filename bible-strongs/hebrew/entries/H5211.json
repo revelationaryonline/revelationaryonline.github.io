@@ -1,0 +1,42 @@
+{
+  "number": "H5211",
+  "language": "hebrew",
+  "transliteration": "nîyç",
+  "pronunciation": "neece",
+  "definition": "fugitive",
+  "kjvTranslation": "that fleeth.",
+  "hebrew": "נִיס",
+  "translations": {
+    "bg": "беглец",
+    "cs": "uprchlíci",
+    "da": "flygtning",
+    "de": "flüchtig",
+    "el": "φυγάδες",
+    "es": "fugitivo",
+    "et": "põgenik",
+    "fi": "karkulaiset",
+    "fr": "fugitif",
+    "hu": "szökevény",
+    "id": "buronan",
+    "it": "fuggitivo",
+    "ja": "逃亡者",
+    "ko": "도망자",
+    "lt": "bėglys",
+    "lv": "bēguļojošs",
+    "nb": "rømling",
+    "nl": "voortvluchtige",
+    "pl": "uciekinier",
+    "pt": "fugitivo",
+    "ro": "fugitiv",
+    "ru": "беглый",
+    "sk": "utečenec",
+    "sl": "pobegli",
+    "sv": "rymling",
+    "tr": "kAÇAK",
+    "uk": "утікач",
+    "zh": "逃犯"
+  },
+  "verses": [
+    "jeremiah 48:44:0"
+  ]
+}

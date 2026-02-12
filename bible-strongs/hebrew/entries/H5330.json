@@ -1,0 +1,42 @@
+{
+  "number": "H5330",
+  "language": "hebrew",
+  "transliteration": "nᵉtsach",
+  "pronunciation": "nets-akh'",
+  "definition": "to become chief",
+  "kjvTranslation": "be preferred.",
+  "hebrew": "נְצַח",
+  "translations": {
+    "bg": "да стане началник",
+    "cs": "se stal šéfem",
+    "da": "til at blive chef",
+    "de": "chef zu werden",
+    "el": "να γίνει αρχηγός",
+    "es": "para convertirse en jefe",
+    "et": "et saada juhatajaks",
+    "fi": "päälliköksi",
+    "fr": "devenir chef",
+    "hu": "hogy főnök legyen",
+    "id": "untuk menjadi kepala",
+    "it": "diventare capo",
+    "ja": "チーフになる",
+    "ko": "수석이 되려면",
+    "lt": "tapti vadovu",
+    "lv": "kļūt par vadītāju",
+    "nb": "til å bli sjef",
+    "nl": "om chef te worden",
+    "pl": "zostać szefem",
+    "pt": "para se tornar chefe",
+    "ro": "să devină șef",
+    "ru": "стать шефом",
+    "sk": "stať sa šéfom",
+    "sl": "postati vodja",
+    "sv": "att bli chef",
+    "tr": "şef olmak için",
+    "uk": "щоб стати шефом",
+    "zh": "升任"
+  },
+  "verses": [
+    "daniel 6:4:4"
+  ]
+}

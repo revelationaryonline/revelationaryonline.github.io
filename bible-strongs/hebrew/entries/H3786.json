@@ -1,0 +1,42 @@
+{
+  "number": "H3786",
+  "language": "hebrew",
+  "transliteration": "kashshâph",
+  "pronunciation": "kash-shawf'",
+  "definition": "a magician",
+  "kjvTranslation": "sorcerer.",
+  "hebrew": "כַּשָּׁף",
+  "translations": {
+    "bg": "магьосник",
+    "cs": "kouzelník",
+    "da": "en tryllekunstner",
+    "de": "ein Zauberer",
+    "el": "ένας μάγος",
+    "es": "un mago",
+    "et": "mustkunstnik",
+    "fi": "taikuri",
+    "fr": "un magicien",
+    "hu": "egy bűvész",
+    "id": "seorang pesulap",
+    "it": "un mago",
+    "ja": "魔術師",
+    "ko": "마술사",
+    "lt": "magas",
+    "lv": "burvis",
+    "nb": "en tryllekunstner",
+    "nl": "een goochelaar",
+    "pl": "magik",
+    "pt": "um mágico",
+    "ro": "un magician",
+    "ru": "фокусник",
+    "sk": "kúzelník",
+    "sl": "čarovnik",
+    "sv": "en trollkarl",
+    "tr": "bir sihirbaz",
+    "uk": "фокусник",
+    "zh": "魔术师"
+  },
+  "verses": [
+    "jeremiah 27:9:12"
+  ]
+}

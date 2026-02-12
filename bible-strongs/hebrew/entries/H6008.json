@@ -1,0 +1,42 @@
+{
+  "number": "H6008",
+  "language": "hebrew",
+  "transliteration": "ʻAmʻâd",
+  "pronunciation": "am-awd'",
+  "definition": "Amad, a place in Palestine",
+  "kjvTranslation": "Amad.",
+  "hebrew": "עַמְעָד",
+  "translations": {
+    "bg": "Amad, място в Палестина",
+    "cs": "Amad, místo v Palestině",
+    "da": "Amad, et sted i Palæstina",
+    "de": "Amad, ein Ort in Palästina",
+    "el": "Amad, τόπος στην Παλαιστίνη",
+    "es": "Amad, un lugar en Palestina",
+    "et": "Amad, koht Palestiinas",
+    "fi": "Amad, paikka Palestiinassa",
+    "fr": "Amad, localité de Palestine",
+    "hu": "Amad, egy hely Palesztinában",
+    "id": "Amad, sebuah tempat di Palestina",
+    "it": "Amad, località della Palestina",
+    "ja": "パレスチナの地名アマド",
+    "ko": "아마드, 팔레스타인의 한 장소",
+    "lt": "Amad, vietovė Palestinoje",
+    "lv": "Amad, vieta Palestīnā",
+    "nb": "Amad, et sted i Palestina",
+    "nl": "Amad, een plaats in Palestina",
+    "pl": "Amad, miejscowość w Palestynie",
+    "pt": "Amad, um lugar na Palestina",
+    "ro": "Amad, un loc în Palestina",
+    "ru": "Амад, местечко в Палестине",
+    "sk": "Amad, miesto v Palestíne",
+    "sl": "Amad, kraj v Palestini",
+    "sv": "Amad, en plats i Palestina",
+    "tr": "Amad, Filistin'de bir yer",
+    "uk": "Амад, місце в Палестині",
+    "zh": "阿马德"
+  },
+  "verses": [
+    "joshua 19:26:1"
+  ]
+}

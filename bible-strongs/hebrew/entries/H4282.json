@@ -1,0 +1,42 @@
+{
+  "number": "H4282",
+  "language": "hebrew",
+  "transliteration": "machăresheth",
+  "pronunciation": "makh-ar-eh'-sheth",
+  "definition": "probably a hoe",
+  "kjvTranslation": "share.",
+  "hebrew": "מַחֲרֶשֶׁת",
+  "translations": {
+    "bg": "вероятно мотика",
+    "cs": "pravděpodobně motyka",
+    "da": "sandsynligvis en luder",
+    "de": "wahrscheinlich eine Hacke",
+    "el": "πιθανώς μια σκαλιστή",
+    "es": "probablemente una azada",
+    "et": "tõenäoliselt haakekraam",
+    "fi": "luultavasti akka",
+    "fr": "probablement une pute",
+    "hu": "valószínűleg egy kapa",
+    "id": "mungkin cangkul",
+    "it": "probabilmente una zappa",
+    "ja": "おそらく鍬",
+    "ko": "아마도 괭이",
+    "lt": "tikriausiai motka",
+    "lv": "iespējams, kaplis",
+    "nb": "sannsynligvis en hakke",
+    "nl": "waarschijnlijk een schoffelaar",
+    "pl": "prawdopodobnie motyka",
+    "pt": "provavelmente uma enxada",
+    "ro": "probabil o târfă",
+    "ru": "вероятно, мотыга",
+    "sk": "pravdepodobne motyka",
+    "sl": "verjetno motika",
+    "sv": "förmodligen en häck",
+    "tr": "muhtemelen bir çapa",
+    "uk": "мабуть, мотика",
+    "zh": "可能是个锄头"
+  },
+  "verses": [
+    "firstSamuel 13:20:7"
+  ]
+}

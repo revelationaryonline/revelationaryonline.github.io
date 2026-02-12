@@ -1,0 +1,42 @@
+{
+  "number": "H5345",
+  "language": "hebrew",
+  "transliteration": "neqeb",
+  "pronunciation": "neh'keb",
+  "definition": "a bezel (for a gem)",
+  "kjvTranslation": "pipe.",
+  "hebrew": "נֶקֶב",
+  "translations": {
+    "bg": "рамка (за скъпоценен камък)",
+    "cs": "rámeček (pro drahokam)",
+    "da": "en ramme (til en ædelsten)",
+    "de": "eine Lünette (für einen Edelstein)",
+    "el": "μια στεφάνη (για έναν πολύτιμο λίθο)",
+    "es": "un bisel (para una gema)",
+    "et": "raam (kalliskivi jaoks)",
+    "fi": "kehys (jalokivelle)",
+    "fr": "une lunette (pour une pierre précieuse)",
+    "hu": "egy keret (egy drágakőhöz)",
+    "id": "bezel (untuk permata)",
+    "it": "una lunetta (per una gemma)",
+    "ja": "かべ",
+    "ko": "베젤(보석용)",
+    "lt": "apvadas (brangakmeniui)",
+    "lv": "ietvars (dārgakmenim)",
+    "nb": "en innfatning (for en edelsten)",
+    "nl": "een ring (voor een edelsteen)",
+    "pl": "ramka (dla klejnotu)",
+    "pt": "uma luneta (para uma pedra preciosa)",
+    "ro": "o lunetă (pentru o piatră prețioasă)",
+    "ru": "ободок (для драгоценного камня)",
+    "sk": "rámček (pre drahokam)",
+    "sl": "okvir (za dragulj)",
+    "sv": "en infattning (för en ädelsten)",
+    "tr": "bir çerçeve (bir mücevher için)",
+    "uk": "ободок (для дорогоцінного каменю)",
+    "zh": "表圈"
+  },
+  "verses": [
+    "ezekiel 28:13:20"
+  ]
+}

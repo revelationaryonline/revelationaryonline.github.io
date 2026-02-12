@@ -1,0 +1,43 @@
+{
+  "number": "H5630",
+  "language": "hebrew",
+  "transliteration": "çiryôn",
+  "pronunciation": "sir-yone'",
+  "definition": "a coat of mail",
+  "kjvTranslation": "brigandine.",
+  "hebrew": "סִרְיֹן",
+  "translations": {
+    "bg": "ризница",
+    "cs": "poštovní plášť",
+    "da": "en brynje",
+    "de": "ein Kettenhemd",
+    "el": "ένα πανωφόρι",
+    "es": "una cota de malla",
+    "et": "postimantel",
+    "fi": "postitakki",
+    "fr": "une cotte de mailles",
+    "hu": "postaköpeny",
+    "id": "sebuah surat",
+    "it": "un cappotto di posta",
+    "ja": "帷子",
+    "ko": "우편물 한 통",
+    "lt": "pašto rūbas",
+    "lv": "pasta mēteli",
+    "nb": "en brynje",
+    "nl": "een maliënkolder",
+    "pl": "płaszcz pocztowy",
+    "pt": "uma cota de malha",
+    "ro": "o haină de postav",
+    "ru": "почтовый плащ",
+    "sk": "poštový plášť",
+    "sl": "plašč",
+    "sv": "en vapenrock",
+    "tr": "bir kat posta",
+    "uk": "поштовий конверт",
+    "zh": "赍"
+  },
+  "verses": [
+    "jeremiah 46:4:9",
+    "jeremiah 51:3:7"
+  ]
+}

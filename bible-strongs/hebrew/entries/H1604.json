@@ -1,0 +1,42 @@
+{
+  "number": "H1604",
+  "language": "hebrew",
+  "transliteration": "gôʻal",
+  "pronunciation": "go'-al",
+  "definition": "abhorrence",
+  "kjvTranslation": "loathing.",
+  "translations": {
+    "bg": "отвращение",
+    "cs": "odpor",
+    "da": "afsky",
+    "de": "abscheu",
+    "el": "αποστροφή",
+    "es": "aversión",
+    "et": "vastumeelsus",
+    "fi": "inho",
+    "fr": "répugnance",
+    "hu": "utálat",
+    "id": "kebencian",
+    "it": "avversione",
+    "ja": "忌",
+    "ko": "혐오",
+    "lt": "pasibjaurėjimas",
+    "lv": "riebums",
+    "nb": "avsky",
+    "nl": "afschuw",
+    "pl": "odraza",
+    "pt": "aversão",
+    "ro": "oroare",
+    "ru": "отвращение",
+    "sk": "odpor",
+    "sl": "gnus",
+    "sv": "avsky",
+    "tr": "iğrençlik",
+    "uk": "відраза",
+    "zh": "憎恶"
+  },
+  "hebrew": "גֹּעַל",
+  "verses": [
+    "ezekiel 16:5:14"
+  ]
+}

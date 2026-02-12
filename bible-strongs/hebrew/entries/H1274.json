@@ -1,0 +1,42 @@
+{
+  "number": "H1274",
+  "language": "hebrew",
+  "transliteration": "bᵉrîy",
+  "pronunciation": "ber-ee'",
+  "definition": "fat",
+  "kjvTranslation": "fat.",
+  "translations": {
+    "bg": "мазнини",
+    "cs": "tuk",
+    "da": "fedt",
+    "de": "fett",
+    "el": "λίπος",
+    "es": "grasa",
+    "et": "rasva",
+    "fi": "rasva",
+    "fr": "gras",
+    "hu": "fat",
+    "id": "lemak",
+    "it": "grasso",
+    "ja": "脂肪",
+    "ko": "지방",
+    "lt": "riebalai",
+    "lv": "tauki",
+    "nb": "fett",
+    "nl": "vet",
+    "pl": "tłuszcz",
+    "pt": "gordo",
+    "ro": "grăsime",
+    "ru": "жир",
+    "sk": "tuk",
+    "sl": "maščobe",
+    "sv": "fett",
+    "tr": "şişman",
+    "uk": "жир",
+    "zh": "脂肪"
+  },
+  "hebrew": "בְּרִי",
+  "verses": [
+    "ezekiel 34:20:11"
+  ]
+}

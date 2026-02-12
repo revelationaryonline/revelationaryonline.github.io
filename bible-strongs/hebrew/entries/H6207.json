@@ -1,0 +1,43 @@
+{
+  "number": "H6207",
+  "language": "hebrew",
+  "transliteration": "ʻâraq",
+  "pronunciation": "aw-rak'",
+  "definition": "to gnaw, i.e. (figuratively) eat (by hyberbole); also (participle) a pain",
+  "kjvTranslation": "fleeing, sinew.",
+  "hebrew": "עָרַק",
+  "translations": {
+    "bg": "да се гризе, т.е. (преносно) да се яде (чрез хибербола); също (причастие) болка",
+    "cs": "hlodat, tj. (přeneseně) jíst (hyberbolem); také (příčestí) bolest",
+    "da": "at gnave, dvs. (i overført betydning) spise (ved hyberbole); også (participium) en smerte",
+    "de": "nagen, d.h. (bildlich) essen (durch hyberbole); auch (Partizip) ein Schmerz",
+    "el": "ροκανίζω, δηλ. (μεταφορικά) τρώω (με υβρεολόγιο)- επίσης (μετοχή) πόνος",
+    "es": "roer, es decir (figuradamente) comer (por hipérbole); también (participio) un dolor",
+    "et": "närida, s.t. (piltlikult) süüa (hyberbool); ka (partitsiip) valu",
+    "fi": "jyrsiä, eli (kuvaannollisesti) syödä (hyberboleilla); myös (partisiippi) kipuilu",
+    "fr": "ronger, c'est-à-dire (au sens figuré) manger (par hyberbole) ; également (participe) une douleur",
+    "hu": "rágni, azaz (átvitt értelemben) enni (hyberbole által); továbbá (participulus) fájdalom",
+    "id": "menggerogoti, yaitu (secara kiasan) memakan (dengan kiasan); juga (secara partikel) rasa sakit",
+    "it": "rosicchiare, cioè (in senso figurato) mangiare (da iberbole); anche (participio) un dolore",
+    "ja": "かじる、つまり（比喩的に）食べる（by hyberbole）；また（分詞）痛む",
+    "ko": "갉아 먹다, 즉 (비 유적으로) 먹다 (하이버 볼레로); 또한 (분사) 고통",
+    "lt": "graužti, t. y. (perkeltine prasme) valgyti (pagal hyberbole); taip pat (dalyvis) skausmas",
+    "lv": "grauzt, t.i., (pārnestā nozīmē) ēst (ar hyberbole); arī (divdabis) sāpes",
+    "nb": "å gnage, dvs. (billedlig) spise (av hyberbole); også (partisipp) en smerte",
+    "nl": "knagen, d.w.z. (figuurlijk) eten (door hyberbole); ook (deelwoord) pijn doen",
+    "pl": "gryźć, tj. (w przenośni) jeść (przez hyberbole); również (imiesłów) ból",
+    "pt": "roer, ou seja, (figurativamente) comer (por hyberbole); também (particípio) uma dor",
+    "ro": "a roade, adică (la figurat) a mânca (prin hiberbole); de asemenea (participiu) o durere",
+    "ru": "грызть, т.е. (фигурально) есть (от hyberbole); также (причастие) боль",
+    "sk": "žrať, t. j. (prenesene) jesť (podľa hyberbole); tiež (príčastie) bolesť",
+    "sl": "grizljati, tj. (v prenesenem pomenu) jesti (s hiberbole); tudi (deležnik) bolečina",
+    "sv": "att gnaga, d.v.s. (bildligt talat) äta (genom hyberbole); även (particip) en smärta",
+    "tr": "kemirmek, yani (mecazi olarak) yemek (hyberbole ile); ayrıca (katılımcı) bir acı",
+    "uk": "гризти, тобто (образно) їсти (за гіперболою); також (дієприкметник) біль",
+    "zh": "啃，即（比喻）吃（用hyberbole）；也是（分词）一种痛苦"
+  },
+  "verses": [
+    "job 30:3:3",
+    "job 30:17:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H648",
+  "language": "hebrew",
+  "transliteration": "ʼâphîyl",
+  "pronunciation": "aw-feel'",
+  "definition": "unripe",
+  "kjvTranslation": "not grown up.",
+  "translations": {
+    "bg": "неузрял",
+    "cs": "nezralé",
+    "da": "umoden",
+    "de": "unreif",
+    "el": "άγουρο",
+    "es": "inmaduro",
+    "et": "ebaküpsed",
+    "fi": "kypsymätön",
+    "fr": "pas mûr",
+    "hu": "éretlen",
+    "id": "mentah",
+    "it": "acerbo",
+    "ja": "青い",
+    "ko": "설익은",
+    "lt": "neprinokęs",
+    "lv": "nenogatavojies",
+    "nb": "umoden",
+    "nl": "onrijpe",
+    "pl": "niedojrzały",
+    "pt": "imaturo",
+    "ro": "necoapte",
+    "ru": "недозрелый",
+    "sk": "nezrelé",
+    "sl": "nezreli",
+    "sv": "omogen",
+    "tr": "olgunlaşmamış",
+    "uk": "недозрілий",
+    "zh": "未熟"
+  },
+  "hebrew": "אָפִיל",
+  "verses": [
+    "exodus 9:32:5"
+  ]
+}

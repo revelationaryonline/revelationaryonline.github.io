@@ -1,0 +1,42 @@
+{
+  "number": "H470",
+  "language": "hebrew",
+  "transliteration": "ʼĔlîyqâʼ",
+  "pronunciation": "el-ee-kaw'",
+  "definition": "Elika, an Israelite",
+  "kjvTranslation": "Elika.",
+  "translations": {
+    "bg": "Елика, израилтянка",
+    "cs": "Elika, Izraelita",
+    "da": "Elika, en israelit",
+    "de": "Elika, eine Israelitin",
+    "el": "Elika, μια Ισραηλίτισσα",
+    "es": "Elika, israelita",
+    "et": "Elika, iisraellane",
+    "fi": "Elika, israelilainen",
+    "fr": "Elika, Israélite",
+    "hu": "Elika, izraelita",
+    "id": "Elika, seorang Israel",
+    "it": "Elika, un israelita",
+    "ja": "イスラエル人エリカ",
+    "ko": "엘리카, 이스라엘인",
+    "lt": "Elika, izraelitas",
+    "lv": "Elika, izraēliete",
+    "nb": "Elika, en israelitt",
+    "nl": "Elika, een Israëliet",
+    "pl": "Elika, Izraelitka",
+    "pt": "Elika, um israelita",
+    "ro": "Elika, un israelit",
+    "ru": "Элика, израильтянка",
+    "sk": "Elika, Izraelita",
+    "sl": "Elika, Izraelka",
+    "sv": "Elika, en israelit",
+    "tr": "Elika, bir İsrailli",
+    "uk": "Еліка, ізраїльтянка",
+    "zh": "以色列人以利卡"
+  },
+  "hebrew": "אֱלִיקָא",
+  "verses": [
+    "secondSamuel 23:25:2"
+  ]
+}

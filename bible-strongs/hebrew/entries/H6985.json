@@ -1,0 +1,42 @@
+{
+  "number": "H6985",
+  "language": "hebrew",
+  "transliteration": "qaṭ",
+  "pronunciation": "kat",
+  "definition": "a little, i.e. (adverbially) merely",
+  "kjvTranslation": "very.",
+  "hebrew": "קַט",
+  "translations": {
+    "bg": "малко, т.е. (наречие) само",
+    "cs": "trochu, tj. (příslovečně) pouze",
+    "da": "lidt, dvs. (adverbielt) blot",
+    "de": "ein wenig, d.h. (adverbial) lediglich",
+    "el": "λίγο, δηλαδή (επιρρηματικά) απλώς",
+    "es": "un poco, es decir (adverbialmente) sólo",
+    "et": "natuke, st (adverbiaalselt) lihtsalt",
+    "fi": "vähän, eli (adverbiaalisesti) vain vähän",
+    "fr": "un peu, c'est-à-dire (adverbialement) simplement",
+    "hu": "egy kicsit, azaz (határozószóval) csupán",
+    "id": "sedikit, yaitu (secara adverbial) hanya",
+    "it": "un po', cioè (avverbialmente) semplicemente",
+    "ja": "たんに",
+    "ko": "조금, 즉 (부사적으로) 단순히",
+    "lt": "šiek tiek, t. y. (su prieveiksmine reikšme) tik",
+    "lv": "nedaudz, t.i., (apstākļa vārds) tikai",
+    "nb": "litt, dvs. (adverbialt) bare",
+    "nl": "een beetje, d.w.z. (bijwoordelijk) slechts",
+    "pl": "trochę, tj. (przysłówkowo) tylko",
+    "pt": "um pouco, ou seja, (adverbialmente) apenas",
+    "ro": "un pic, adică (adverbial) doar",
+    "ru": "немного, т.е. (наречие) всего лишь",
+    "sk": "trochu, t. j. (príslovkovo) len",
+    "sl": "malo, tj. (prislovno) zgolj",
+    "sv": "lite, d.v.s. (adverbiellt) bara",
+    "tr": "biraz, yani (zarf olarak) sadece",
+    "uk": "трохи, тобто (прислівниково) лише",
+    "zh": "稍许"
+  },
+  "verses": [
+    "ezekiel 16:47:7"
+  ]
+}

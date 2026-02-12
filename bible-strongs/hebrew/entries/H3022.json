@@ -1,0 +1,42 @@
+{
+  "number": "H3022",
+  "language": "hebrew",
+  "transliteration": "yâgâʻ",
+  "pronunciation": "yaw-gaw'",
+  "definition": "earnings (as the product of toil)",
+  "kjvTranslation": "that which he laboured for.",
+  "translations": {
+    "bg": "доходи (като продукт на труда)",
+    "cs": "výdělek (jako produkt práce)",
+    "da": "indtjening (som et produkt af arbejde)",
+    "de": "verdienst (als Produkt der Arbeit)",
+    "el": "τα κέρδη (ως προϊόν του μόχθου)",
+    "es": "ganancias (como producto del trabajo)",
+    "et": "sissetulek (kui töö tulemus)",
+    "fi": "ansiot (työn tuotteena)",
+    "fr": "les revenus (en tant que produit du travail)",
+    "hu": "jövedelem (mint a munka terméke)",
+    "id": "penghasilan (sebagai hasil kerja keras)",
+    "it": "guadagno (come prodotto della fatica)",
+    "ja": "かせぎだか",
+    "ko": "수입(노력의 산물)",
+    "lt": "uždarbis (kaip darbo rezultatas)",
+    "lv": "peļņa (kā darba produkts)",
+    "nb": "inntjening (som et produkt av arbeid)",
+    "nl": "inkomsten (als het product van zwoegen)",
+    "pl": "zarobki (jako produkt pracy)",
+    "pt": "rendimentos (como produto do trabalho)",
+    "ro": "venituri (ca produs al muncii)",
+    "ru": "заработок (как продукт труда)",
+    "sk": "zárobok (ako produkt práce)",
+    "sl": "zaslužek (kot rezultat dela)",
+    "sv": "inkomst (som produkten av arbete)",
+    "tr": "kazançlar (emeğin ürünü olarak)",
+    "uk": "заробіток (як продукт праці)",
+    "zh": "劳动所得"
+  },
+  "hebrew": "יָגָע",
+  "verses": [
+    "job 20:18:1"
+  ]
+}

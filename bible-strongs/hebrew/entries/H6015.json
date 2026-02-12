@@ -1,0 +1,42 @@
+{
+  "number": "H6015",
+  "language": "hebrew",
+  "transliteration": "ʻămar",
+  "pronunciation": "am-ar'",
+  "definition": "wool",
+  "kjvTranslation": "wool.",
+  "hebrew": "עֲמַר",
+  "translations": {
+    "bg": "вълна",
+    "cs": "vlna",
+    "da": "uld",
+    "de": "wolle",
+    "el": "μαλλί",
+    "es": "lana",
+    "et": "villa",
+    "fi": "villaa",
+    "fr": "laine",
+    "hu": "gyapjú",
+    "id": "wol",
+    "it": "lana",
+    "ja": "ウール",
+    "ko": "울",
+    "lt": "vilna",
+    "lv": "vilna",
+    "nb": "ull",
+    "nl": "wol",
+    "pl": "wełna",
+    "pt": "lã",
+    "ro": "lână",
+    "ru": "шерсть",
+    "sk": "vlna",
+    "sl": "volna",
+    "sv": "ull",
+    "tr": "yün",
+    "uk": "шерсть",
+    "zh": "羊毛"
+  },
+  "verses": [
+    "daniel 7:9:14"
+  ]
+}

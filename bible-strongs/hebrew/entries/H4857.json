@@ -1,0 +1,42 @@
+{
+  "number": "H4857",
+  "language": "hebrew",
+  "transliteration": "mashʼâb",
+  "pronunciation": "mash-awb'",
+  "definition": "a trough for cattle to drink from",
+  "kjvTranslation": "place of drawing water.",
+  "hebrew": "מַשְׁאָב",
+  "translations": {
+    "bg": "корито за пиене на добитъка",
+    "cs": "koryto, ze kterého pije dobytek",
+    "da": "et trug, som kvæg kan drikke af",
+    "de": "ein Trog, aus dem das Vieh trinken kann",
+    "el": "μια γούρνα για να πίνουν τα βοοειδή",
+    "es": "un abrevadero para que beba el ganado",
+    "et": "kraanikaussi, millest kariloomad joovad",
+    "fi": "kaukalo, josta karja juo",
+    "fr": "un abreuvoir pour le bétail",
+    "hu": "egy vályú, amelyből a szarvasmarhák isznak",
+    "id": "palung untuk tempat minum ternak",
+    "it": "un abbeveratoio per il bestiame",
+    "ja": "牛が水を飲むための桶",
+    "ko": "가축이 마실 수 있는 물통",
+    "lt": "lovys galvijams girdyti",
+    "lv": "izlietne, no kuras dzer lopi",
+    "nb": "et trau for kveg å drikke fra",
+    "nl": "een drinkbak voor vee",
+    "pl": "koryto do pojenia bydła",
+    "pt": "um bebedouro para o gado beber",
+    "ro": "o troacă din care să bea vitele",
+    "ru": "корыто для поения скота",
+    "sk": "žľab na pitie pre dobytok",
+    "sl": "korito, iz katerega pije živina",
+    "sv": "ett tråg för boskap att dricka ur",
+    "tr": "sığırların su içmesi için bir yalak",
+    "uk": "корито для худоби, з якого вона може пити",
+    "zh": "槽"
+  },
+  "verses": [
+    "judges 5:11:3"
+  ]
+}

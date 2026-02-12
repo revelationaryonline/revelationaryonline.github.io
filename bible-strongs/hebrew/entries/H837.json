@@ -1,0 +1,42 @@
+{
+  "number": "H837",
+  "language": "hebrew",
+  "transliteration": "ʼôsher",
+  "pronunciation": "o'-sher",
+  "definition": "happiness",
+  "kjvTranslation": "happy.",
+  "translations": {
+    "bg": "щастие",
+    "cs": "štěstí",
+    "da": "lykke",
+    "de": "glück",
+    "el": "ευτυχία",
+    "es": "felicidad",
+    "et": "õnne",
+    "fi": "onnellisuus",
+    "fr": "le bonheur",
+    "hu": "boldogság",
+    "id": "kebahagiaan",
+    "it": "felicità",
+    "ja": "幸福",
+    "ko": "행복",
+    "lt": "laimė",
+    "lv": "laime",
+    "nb": "lykke",
+    "nl": "geluk",
+    "pl": "szczęście",
+    "pt": "felicidade",
+    "ro": "fericire",
+    "ru": "счастье",
+    "sk": "šťastie",
+    "sl": "sreča",
+    "sv": "lycka",
+    "tr": "mutluluk",
+    "uk": "щастя",
+    "zh": "福"
+  },
+  "hebrew": "אֹשֶׁר",
+  "verses": [
+    "genesis 30:13:2"
+  ]
+}

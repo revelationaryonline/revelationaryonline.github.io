@@ -1,0 +1,42 @@
+{
+  "number": "H3777",
+  "language": "hebrew",
+  "transliteration": "Kesed",
+  "pronunciation": "keh'-sed",
+  "definition": "Kesed, a relative of Abraham",
+  "kjvTranslation": "Chesed.",
+  "hebrew": "כֶּשֶׂד",
+  "translations": {
+    "bg": "Кесед, роднина на Авраам",
+    "cs": "Kesed, Abrahamův příbuzný",
+    "da": "Kesed, en slægtning til Abraham",
+    "de": "Kesed, ein Verwandter von Abraham",
+    "el": "Kesed, συγγενής του Αβραάμ",
+    "es": "Kesed, pariente de Abraham",
+    "et": "Kesed, Aabrahami sugulane",
+    "fi": "Kesed, Aabrahamin sukulainen",
+    "fr": "Kesed, un parent d'Abraham",
+    "hu": "Kesed, Ábrahám rokona",
+    "id": "Kesed, seorang kerabat Abraham",
+    "it": "Kesed, un parente di Abramo",
+    "ja": "アブラハムの親戚ケセド",
+    "ko": "아브라함의 친척, 케세드",
+    "lt": "Kesedas, Abraomo giminaitis",
+    "lv": "Keseds, Ābrahāma radinieks",
+    "nb": "Kesed, en slektning av Abraham",
+    "nl": "Kesed, een familielid van Abraham",
+    "pl": "Kesed, krewny Abrahama",
+    "pt": "Kesed, um parente de Abraão",
+    "ro": "Kesed, o rudă a lui Avraam",
+    "ru": "Кесед, родственник Авраама",
+    "sk": "Kesed, príbuzný Abraháma",
+    "sl": "Kesed, Abrahamov sorodnik",
+    "sv": "Kesed, en släkting till Abraham",
+    "tr": "Kesed, İbrahim'in bir akrabası",
+    "uk": "Кесед, родич Авраама",
+    "zh": "亚伯拉罕的亲戚凯赛德"
+  },
+  "verses": [
+    "genesis 22:22:1"
+  ]
+}

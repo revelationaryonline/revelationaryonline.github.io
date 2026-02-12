@@ -1,0 +1,43 @@
+{
+  "number": "H4560",
+  "language": "hebrew",
+  "transliteration": "mâçar",
+  "pronunciation": "maw-sar'",
+  "definition": "to sunder, i.e. (transitively) set apart, or (reflex.) apostatize",
+  "kjvTranslation": "commit, deliver.",
+  "hebrew": "מָסַר",
+  "verses": [
+    "numbers 31:5:0",
+    "numbers 31:16:7"
+  ],
+  "translations": {
+    "bg": "да се отдели, т.е. (преходно) да се отдели или (рефлексивно) да отстъпи",
+    "cs": "oddělit, tj. (přechodně) oddělit, nebo (reflex.) odpadnout od víry",
+    "da": "at adskille, dvs. (transitivt) skille sig ud, eller (refleksivt) frafalde",
+    "de": "abspalten, d.h. (transitiv) abspalten, oder (reflex.) abtrünnig machen",
+    "el": "διαχωρίζω, δηλαδή (μεταβατικά) αποχωρίζομαι ή (αντανακλαστικά) αποστατώνομαι",
+    "es": "separar, es decir (transitivamente) apartar, o (reflex.) apostatar",
+    "et": "lahutada, s.t. (transitiivselt) eraldada või (refleksiivselt) lahku lüüa",
+    "fi": "irrottaa, eli (transitiivisesti) erottaa, tai (refleksiivisesti) luopua",
+    "fr": "séparer, c'est-à-dire (transitivement) mettre à part, ou (réflexe) apostasier",
+    "hu": "szétválasztani, azaz (átmenetileg) szétválasztani, vagy (reflexíven) hitehagyni",
+    "id": "to sunder, yaitu (secara transitif) memisahkan diri, atau (secara refleks.) murtad",
+    "it": "separare, cioè (transitivamente) separare, o (riflessivamente) apostatizzare",
+    "ja": "離反させる",
+    "ko": "햇볕에 타다, 즉 (일시적으로) 분리되거나 (반사적으로) 배교하다",
+    "lt": "atskirti, t. y. (pereinamuoju būdu) atsiskirti arba (reflex.) atkritimas",
+    "lv": "atdalīt, t.i., (pārejas laikā) atdalīt vai (reflekt.) atkrīt no Dieva",
+    "nb": "å splitte, dvs. (transitivt) skille ut, eller (refleksivt) frafalle",
+    "nl": "scheiden, d.w.z. (transitief) apart zetten, of (reflex.) afvallig worden",
+    "pl": "oddzielić, tj. (przejściowo) oddzielić lub (odruchowo) apostatyzować",
+    "pt": "separar, isto é, (transitivamente) separar, ou (reflexamente) apostatar",
+    "ro": "a despărți, adică (tranzitiv) a separa sau (reflex.) a apostazia",
+    "ru": "разделять, т.е. (транзитивно) отделять или (рефлекторно) отступничать",
+    "sk": "oddeliť, t. j. (prechodne) odlúčiť alebo (reflex.) odpadnúť",
+    "sl": "ločiti, tj. (prehodno) ločiti ali (refleksivno) odpadniti",
+    "sv": "att söndra, dvs. (transitivt) skilja ut, eller (reflex.) apostatisera",
+    "tr": "parçalamak, yani (geçişli olarak) ayırmak ya da (refleks olarak) dinden döndürmek",
+    "uk": "відлучатися, тобто (транзитивно) відокремлюватися, або (рефлекторно) відступничати",
+    "zh": "分离，即（暂时）分开，或（反射）叛教"
+  }
+}

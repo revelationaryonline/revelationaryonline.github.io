@@ -1,0 +1,42 @@
+{
+  "number": "H6733",
+  "language": "hebrew",
+  "transliteration": "tsîytsâh",
+  "pronunciation": "tsee-tsaw'",
+  "definition": "a flower",
+  "kjvTranslation": "flower.",
+  "hebrew": "צִיצָה",
+  "translations": {
+    "bg": "цвете",
+    "cs": "květina",
+    "da": "en blomst",
+    "de": "eine Blume",
+    "el": "ένα λουλούδι",
+    "es": "una flor",
+    "et": "lill",
+    "fi": "kukka",
+    "fr": "une fleur",
+    "hu": "egy virág",
+    "id": "sekuntum bunga",
+    "it": "un fiore",
+    "ja": "一輪の花",
+    "ko": "꽃",
+    "lt": "gėlė",
+    "lv": "zieds",
+    "nb": "en blomst",
+    "nl": "een bloem",
+    "pl": "kwiat",
+    "pt": "uma flor",
+    "ro": "o floare",
+    "ru": "цветок",
+    "sk": "kvetina",
+    "sl": "cvet",
+    "sv": "en blomma",
+    "tr": "bir çiçek",
+    "uk": "квітка",
+    "zh": "一朵花"
+  },
+  "verses": [
+    "isaiah 28:4:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7450",
+  "language": "hebrew",
+  "transliteration": "râçaç",
+  "pronunciation": "raw-sas'",
+  "definition": "to moisten (with drops)",
+  "kjvTranslation": "temper.",
+  "hebrew": "רָסַס",
+  "translations": {
+    "bg": "да се навлажнява (с капки)",
+    "cs": "zvlhčovat (kapkami)",
+    "da": "at fugte (med dråber)",
+    "de": "befeuchten (mit Tropfen)",
+    "el": "να υγραίνω (με σταγόνες)",
+    "es": "humedecer (con gotas)",
+    "et": "niisutada (tilkadega)",
+    "fi": "kostuttaa (pisaroilla)",
+    "fr": "humidifier (avec des gouttes)",
+    "hu": "megnedvesíteni (cseppekkel)",
+    "id": "untuk melembabkan (dengan tetes)",
+    "it": "inumidire (con gocce)",
+    "ja": "湿らせる",
+    "ko": "적시려면 (방울로)",
+    "lt": "sudrėkinti (lašais)",
+    "lv": "samitrināt (ar pilieniem)",
+    "nb": "å fukte (med dråper)",
+    "nl": "bevochtigen (met druppels)",
+    "pl": "nawilżać (kroplami)",
+    "pt": "humedecer (com gotas)",
+    "ro": "a umezi (cu picături)",
+    "ru": "увлажнять (каплями)",
+    "sk": "zvlhčiť (kvapkami)",
+    "sl": "navlažiti (s kapljicami)",
+    "sv": "att fukta (med droppar)",
+    "tr": "nemlendirmek (damlalarla)",
+    "uk": "зволожити (краплями)",
+    "zh": "濡"
+  },
+  "verses": [
+    "ezekiel 46:14:10"
+  ]
+}

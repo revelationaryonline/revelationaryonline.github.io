@@ -1,0 +1,42 @@
+{
+  "number": "H4335",
+  "language": "hebrew",
+  "transliteration": "Mêyshak",
+  "pronunciation": "may-shak'",
+  "definition": "Meshak, an Israelite",
+  "kjvTranslation": "Meshak.",
+  "hebrew": "מֵישַׁךְ",
+  "translations": {
+    "bg": "Мешак, израилтянин",
+    "cs": "Mešak, Izraelita",
+    "da": "Meshak, en israelit",
+    "de": "Meschak, ein Israelit",
+    "el": "Meshak, ένας Ισραηλίτης",
+    "es": "Mesac, israelita",
+    "et": "Meshak, iisraellane",
+    "fi": "Mesak, israelilainen",
+    "fr": "Meshak, Israélite",
+    "hu": "Meshak, egy izraelita",
+    "id": "Meshak, seorang Israel",
+    "it": "Meshak, un israelita",
+    "ja": "イスラエル人 メシャク",
+    "ko": "이스라엘인 메삭",
+    "lt": "Mešakas, izraelitas",
+    "lv": "Mešaks, izraēlietis",
+    "nb": "Mesjak, en israelitt",
+    "nl": "Meshak, een Israëliet",
+    "pl": "Meszak, Izraelita",
+    "pt": "Messaque, israelita",
+    "ro": "Meshak, un israelit",
+    "ru": "Мешак, израильтянин",
+    "sk": "Mešák, Izraelita",
+    "sl": "Mešak, Izraelec",
+    "sv": "Meshak, en israelit",
+    "tr": "Meşak, bir İsrailli",
+    "uk": "Мешак, ізраїльтянин",
+    "zh": "以色列人米沙克"
+  },
+  "verses": [
+    "daniel 1:7:11"
+  ]
+}

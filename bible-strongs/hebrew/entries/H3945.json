@@ -1,0 +1,42 @@
+{
+  "number": "H3945",
+  "language": "hebrew",
+  "transliteration": "lâtsats",
+  "pronunciation": "law-tsats'",
+  "definition": "to deride",
+  "kjvTranslation": "scorn.",
+  "hebrew": "לָצַץ",
+  "translations": {
+    "bg": "да се подиграва",
+    "cs": "zesměšňovat",
+    "da": "at håne",
+    "de": "zu verhöhnen",
+    "el": "να κοροϊδεύω",
+    "es": "burlarse",
+    "et": "mõnitada",
+    "fi": "pilkata",
+    "fr": "se moquer",
+    "hu": "gúnyolódni",
+    "id": "untuk mencemooh",
+    "it": "deridere",
+    "ja": "馬鹿にする",
+    "ko": "조롱하다",
+    "lt": "tyčiotis",
+    "lv": "izsmiet",
+    "nb": "å håne",
+    "nl": "bespotten",
+    "pl": "szydzić",
+    "pt": "ridicularizar",
+    "ro": "a lua în derâdere",
+    "ru": "насмехаться",
+    "sk": "posmievať sa",
+    "sl": "zasmehovati",
+    "sv": "att håna",
+    "tr": "alay etmek",
+    "uk": "висміювати",
+    "zh": "嘲笑"
+  },
+  "verses": [
+    "hosea 7:5:9"
+  ]
+}

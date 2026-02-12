@@ -1,0 +1,42 @@
+{
+  "number": "H6773",
+  "language": "hebrew",
+  "transliteration": "tsimʼâh",
+  "pronunciation": "tsim-aw'",
+  "definition": "thirst (figuratively, of libidinousnes)",
+  "kjvTranslation": "thirst.",
+  "hebrew": "צִמְאָה",
+  "translations": {
+    "bg": "жажда (в преносен смисъл, на либидоносност)",
+    "cs": "žízeň (přeneseně, libidinousnes)",
+    "da": "tørst (i overført betydning, af libidinøsitet)",
+    "de": "durst (im übertragenen Sinne, von Libidinousnes)",
+    "el": "δίψα (μεταφορικά, για λίμπιντο)",
+    "es": "sed (en sentido figurado, de libidinousnes)",
+    "et": "janu (piltlikult öeldes, libidinousnes)",
+    "fi": "jano (kuvaannollisesti, libidinousnes)",
+    "fr": "soif (au sens figuré, de libidinousnes)",
+    "hu": "szomjúság (átvitt értelemben, a libidinousnes)",
+    "id": "haus (secara kiasan, dari libidinousnes)",
+    "it": "sete (in senso figurato, di libidine)",
+    "ja": "渇き",
+    "ko": "갈증(비유적으로, 리비도닌의 갈증)",
+    "lt": "troškulys (perkeltine prasme, libidinousnes)",
+    "lv": "slāpes (pārnestā nozīmē, no libidinousnes)",
+    "nb": "tørst (i overført betydning, av libidinousnes)",
+    "nl": "dorst (figuurlijk, van libidineuze gevoelens)",
+    "pl": "pragnienie (w przenośni, libidinousnes)",
+    "pt": "sede (no sentido figurado, de libidinagem)",
+    "ro": "sete (la figurat, de libidinoșenie)",
+    "ru": "жажда (в переносном смысле, либидинозная)",
+    "sk": "smäd (v prenesenom význame, libidinousnes)",
+    "sl": "žeja (v prenesenem pomenu, libidinousnes)",
+    "sv": "törst (bildligt talat, av libidinousnes)",
+    "tr": "susuzluk (mecazi olarak, libidonun)",
+    "uk": "спраги (образно кажучи, лібідозності)",
+    "zh": "饥渴"
+  },
+  "verses": [
+    "jeremiah 2:25:5"
+  ]
+}

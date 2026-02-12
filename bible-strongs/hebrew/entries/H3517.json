@@ -1,0 +1,42 @@
+{
+  "number": "H3517",
+  "language": "hebrew",
+  "transliteration": "kᵉbêduth",
+  "pronunciation": "keb-ay-dooth'",
+  "definition": "difficulty",
+  "kjvTranslation": "[idiom] heavily.",
+  "translations": {
+    "bg": "трудност",
+    "cs": "obtížnost",
+    "da": "vanskeligheder",
+    "de": "schwierigkeit",
+    "el": "δυσκολία",
+    "es": "dificultad",
+    "et": "raskus",
+    "fi": "vaikeus",
+    "fr": "difficulté",
+    "hu": "nehézség",
+    "id": "kesulitan",
+    "it": "difficoltà",
+    "ja": "困難",
+    "ko": "난이도",
+    "lt": "sunkumai",
+    "lv": "grūtības",
+    "nb": "vanskeligheter",
+    "nl": "moeilijkheid",
+    "pl": "trudność",
+    "pt": "dificuldade",
+    "ro": "dificultate",
+    "ru": "трудности",
+    "sk": "obtiažnosť",
+    "sl": "težave",
+    "sv": "svårighet",
+    "tr": "zorluk",
+    "uk": "складність",
+    "zh": "难点"
+  },
+  "hebrew": "כְּבֵדֻת",
+  "verses": [
+    "exodus 14:25:5"
+  ]
+}

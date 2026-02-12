@@ -1,0 +1,42 @@
+{
+  "number": "H144",
+  "language": "hebrew",
+  "transliteration": "ʼĂdâr",
+  "pronunciation": "ad-awr'",
+  "definition": "{Adar, the 12th Hebrew month}",
+  "kjvTranslation": "Adar.",
+  "translations": {
+    "bg": "{Адар, дванадесетият еврейски месец}",
+    "cs": "{Adar, 12. hebrejský měsíc}",
+    "da": "{Adar, den 12. hebraiske måned}",
+    "de": "{Adar, der 12. hebräische Monat}",
+    "el": "{Adar, ο 12ος εβραϊκός μήνας}",
+    "es": "{Adar, el duodécimo mes hebreo}",
+    "et": "{Adar, 12. heebrea kuu}",
+    "fi": "{Adar, heprean 12. kuukausi}",
+    "fr": "{Adar, le 12e mois hébraïque}",
+    "hu": "{Adar, a 12. héber hónap}",
+    "id": "(Adar, bulan ke-12 dalam bahasa Ibrani)",
+    "it": "{Adar, il 12° mese ebraico.}",
+    "ja": "{アダル、ヘブライ語の12番目の月｝。",
+    "ko": "{아다르, 히브리 달 12번째}",
+    "lt": "{Adaras, 12-asis hebrajų mėnuo}",
+    "lv": "{Adar, 12. ebreju mēnesis}",
+    "nb": "{Adar, den 12. hebraiske måneden}",
+    "nl": "{Adar, de 12e Hebreeuwse maand}",
+    "pl": "{Adar, 12. miesiąc hebrajski}",
+    "pt": "{Adar, o 12º mês hebraico.}",
+    "ro": "{Adar, a 12-a lună ebraică}",
+    "ru": "{Адар, 12-й еврейский месяц}",
+    "sk": "{Adar, 12. hebrejský mesiac}",
+    "sl": "{Adar, 12. hebrejski mesec}",
+    "sv": "{Adar, den 12:e hebreiska månaden}",
+    "tr": "{Adar, 12. İbrani ayı}",
+    "uk": "{Адар, 12-й єврейський місяць.}",
+    "zh": "{阿达尔，希伯来第 12 个月}{阿达尔，希伯来第 12 个月}。"
+  },
+  "hebrew": "אֲדָר",
+  "verses": [
+    "ezra 6:15:7"
+  ]
+}

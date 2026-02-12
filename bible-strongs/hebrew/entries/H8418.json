@@ -1,0 +1,42 @@
+{
+  "number": "H8418",
+  "language": "hebrew",
+  "transliteration": "tahălukâh",
+  "pronunciation": "tah-hal-oo-kaw'",
+  "definition": "a procession",
+  "kjvTranslation": "[idiom] went.",
+  "hebrew": "תַּהֲלֻכָה",
+  "translations": {
+    "bg": "процесия",
+    "cs": "průvod",
+    "da": "et optog",
+    "de": "eine Prozession",
+    "el": "μια πομπή",
+    "es": "una procesión",
+    "et": "rongkäik",
+    "fi": "kulkue",
+    "fr": "un cortège",
+    "hu": "egy felvonulás",
+    "id": "sebuah prosesi",
+    "it": "una processione",
+    "ja": "行列",
+    "ko": "행렬",
+    "lt": "procesija",
+    "lv": "procesija",
+    "nb": "en prosesjon",
+    "nl": "een processie",
+    "pl": "procesja",
+    "pt": "uma procissão",
+    "ro": "o procesiune",
+    "ru": "процессия",
+    "sk": "sprievod",
+    "sl": "sprevod",
+    "sv": "en procession",
+    "tr": "bir tören alayı",
+    "uk": "процесія",
+    "zh": "游行"
+  },
+  "verses": [
+    "nehemiah 12:31:10"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H580",
+  "language": "hebrew",
+  "transliteration": "ʼănûw",
+  "pronunciation": "an-oo'",
+  "definition": "we",
+  "kjvTranslation": "we.",
+  "translations": {
+    "bg": "ние",
+    "cs": "my",
+    "da": "vi",
+    "de": "wir",
+    "el": "εμείς",
+    "es": "nosotros",
+    "et": "me",
+    "fi": "me",
+    "fr": "nous",
+    "hu": "mi",
+    "id": "kami",
+    "it": "noi",
+    "ja": "我々",
+    "ko": "우리",
+    "lt": "mes",
+    "lv": "mēs",
+    "nb": "vi",
+    "nl": "wij",
+    "pl": "my",
+    "pt": "nós",
+    "ro": "noi",
+    "ru": "мы",
+    "sk": "my",
+    "sl": "smo",
+    "sv": "vi",
+    "tr": "biz",
+    "uk": "ми",
+    "zh": "我们"
+  },
+  "hebrew": "אֲנוּ",
+  "verses": [
+    "jeremiah 42:6:8"
+  ]
+}

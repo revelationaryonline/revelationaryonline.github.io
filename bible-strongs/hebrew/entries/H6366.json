@@ -1,0 +1,42 @@
+{
+  "number": "H6366",
+  "language": "hebrew",
+  "transliteration": "pêyâh",
+  "pronunciation": "pay-aw'",
+  "definition": "an edge",
+  "kjvTranslation": "(two-) edge(-d).",
+  "hebrew": "פֵּיָה",
+  "translations": {
+    "bg": "ръб",
+    "cs": "okraj",
+    "da": "en kant",
+    "de": "eine Kante",
+    "el": "μια άκρη",
+    "es": "un borde",
+    "et": "serva",
+    "fi": "reuna",
+    "fr": "un bord",
+    "hu": "egy él",
+    "id": "keunggulan",
+    "it": "un bordo",
+    "ja": "端",
+    "ko": "가장자리",
+    "lt": "kraštas",
+    "lv": "mala",
+    "nb": "en kant",
+    "nl": "een rand",
+    "pl": "krawędź",
+    "pt": "uma aresta",
+    "ro": "o margine",
+    "ru": "край",
+    "sk": "okraj",
+    "sl": "rob",
+    "sv": "en kant",
+    "tr": "bir kenar",
+    "uk": "край",
+    "zh": "优势"
+  },
+  "verses": [
+    "judges 3:16:6"
+  ]
+}

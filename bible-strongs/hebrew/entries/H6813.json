@@ -1,0 +1,42 @@
+{
+  "number": "H6813",
+  "language": "hebrew",
+  "transliteration": "tsâʻan",
+  "pronunciation": "tsaw-an'",
+  "definition": "to load up (beasts), i.e. to migrate",
+  "kjvTranslation": "be taken down.",
+  "hebrew": "צָעַן",
+  "translations": {
+    "bg": "да се натоварят (животни), т.е. да мигрират",
+    "cs": "naložit (zvířata), tj. migrovat",
+    "da": "at læsse op (dyr), dvs. at vandre",
+    "de": "aufzuladen (Tiere), d.h. zu wandern",
+    "el": "να φορτώσετε (θηρία), δηλαδή να μεταναστεύσετε",
+    "es": "cargar (bestias), es decir, emigrar",
+    "et": "laadida (loomad), s.t. rännata",
+    "fi": "lastata (pedot), eli muuttaa",
+    "fr": "charger (les bêtes), c'est-à-dire migrer",
+    "hu": "felrakodni (állatok), azaz vándorolni",
+    "id": "untuk memuat (binatang), yaitu untuk bermigrasi",
+    "it": "caricare (bestie), cioè migrare",
+    "ja": "を積み込む、つまり移動する。",
+    "ko": "(짐승)을 싣다, 즉 마이그레이션하다",
+    "lt": "pakrauti (žvėris), t. y. migruoti",
+    "lv": "iekraut (zvērus), t. i., migrēt",
+    "nb": "å laste opp (dyr), dvs. å migrere",
+    "nl": "laden (beesten), d.w.z. migreren",
+    "pl": "załadować (bestie), tj. migrować",
+    "pt": "carregar (animais), ou seja, migrar",
+    "ro": "a încărca (fiarele), adică a migra",
+    "ru": "нагружать (зверей), т.е. мигрировать",
+    "sk": "naložiť (zvieratá), t. j. migrovať",
+    "sl": "naložiti (zveri), tj. preseliti se",
+    "sv": "att lasta på (djur), dvs. att migrera",
+    "tr": "(hayvanları) yüklemek, yani göç etmek",
+    "uk": "завантажуватися (звірами), тобто мігрувати",
+    "zh": "装载（野兽），即迁移"
+  },
+  "verses": [
+    "isaiah 33:20:11"
+  ]
+}

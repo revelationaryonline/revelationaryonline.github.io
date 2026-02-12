@@ -1,0 +1,42 @@
+{
+  "number": "H20",
+  "language": "hebrew",
+  "transliteration": "ʼăbaṭṭîyach",
+  "pronunciation": "ab-at-tee'-akh",
+  "definition": "a melon (only plural)",
+  "kjvTranslation": "melon.",
+  "translations": {
+    "bg": "пъпеш (само в множествено число)",
+    "cs": "meloun (pouze v množném čísle)",
+    "da": "en melon (kun i flertal)",
+    "de": "eine Melone (nur Plural)",
+    "el": "πεπόνι (μόνο στον πληθυντικό)",
+    "es": "un melón (sólo en plural)",
+    "et": "melon (ainult mitmuses)",
+    "fi": "meloni (vain monikko)",
+    "fr": "un melon (uniquement au pluriel)",
+    "hu": "dinnye (csak többes számban)",
+    "id": "sebuah melon (hanya jamak)",
+    "it": "un melone (solo al plurale)",
+    "ja": "メロン",
+    "ko": "멜론(복수형만 해당)",
+    "lt": "melionas (tik daugiskaita)",
+    "lv": "melone (tikai daudzskaitlī)",
+    "nb": "en melon (bare flertall)",
+    "nl": "een meloen (alleen meervoud)",
+    "pl": "melon (tylko liczba mnoga)",
+    "pt": "um melão (só no plural)",
+    "ro": "un pepene galben (numai la plural)",
+    "ru": "дыня (только во множественном числе)",
+    "sk": "melón (len v množnom čísle)",
+    "sl": "melona (samo v množini)",
+    "sv": "en melon (endast plural)",
+    "tr": "bir kavun (sadece çoğul)",
+    "uk": "диня (тільки у множині)",
+    "zh": "瓜"
+  },
+  "hebrew": "אֲבַטִּיחַ",
+  "verses": [
+    "numbers 11:5:10"
+  ]
+}

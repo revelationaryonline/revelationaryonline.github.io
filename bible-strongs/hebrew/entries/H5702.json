@@ -1,0 +1,42 @@
+{
+  "number": "H5702",
+  "language": "hebrew",
+  "transliteration": "ʻâgan",
+  "pronunciation": "aw-gan'",
+  "definition": "to debar, i.e. from marriage",
+  "kjvTranslation": "stay.",
+  "hebrew": "עָגַן",
+  "translations": {
+    "bg": "да забрани, т.е. да се откаже от брак",
+    "cs": "vyloučit, tj. z manželství",
+    "da": "at udelukke, dvs. fra ægteskab",
+    "de": "auszuschließen, d.h. von der Ehe auszuschließen",
+    "el": "να αποκλείσει, δηλαδή από το γάμο",
+    "es": "excluir, es decir, del matrimonio",
+    "et": "keelata, s.t. abielu sõlmimisest",
+    "fi": "kieltää, ts. avioliitosta kieltäytyä",
+    "fr": "d'exclure, c'est-à-dire de ne pas se marier",
+    "hu": "kitiltani, azaz a házasságból kizárni",
+    "id": "untuk mencekal, yaitu dari pernikahan",
+    "it": "escludere, cioè dal matrimonio",
+    "ja": "結婚を禁止する",
+    "ko": "금지, 즉 결혼을 금지하는 것",
+    "lt": "uždrausti, t. y. neleisti susituokti",
+    "lv": "atturēt, t.i., no laulības",
+    "nb": "å utestenge, dvs. fra ekteskap",
+    "nl": "verbieden, d.w.z. van het huwelijk",
+    "pl": "wykluczyć, tj. z małżeństwa",
+    "pt": "excluir, ou seja, do casamento",
+    "ro": "a interzice, de exemplu, căsătoria",
+    "ru": "запретить, т.е. отстранить от брака",
+    "sk": "vylúčiť, t. j. z manželstva",
+    "sl": "prepovedati, tj. izločiti iz zakonske zveze",
+    "sv": "att utesluta, t.ex. från äktenskap",
+    "tr": "uzaklaştırmak, yani evlilikten",
+    "uk": "заборонити, тобто від шлюбу",
+    "zh": "仳离"
+  },
+  "verses": [
+    "ruth 1:13:6"
+  ]
+}

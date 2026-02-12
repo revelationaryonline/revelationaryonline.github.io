@@ -1,0 +1,42 @@
+{
+  "number": "H4860",
+  "language": "hebrew",
+  "transliteration": "mashshâʼôwn",
+  "pronunciation": "mash-shaw-ohn'",
+  "definition": "dissimulation",
+  "kjvTranslation": "deceit.",
+  "hebrew": "מַשָּׁאוֹן",
+  "translations": {
+    "bg": "дисимулация",
+    "cs": "disimulace",
+    "da": "forstillelse",
+    "de": "dissimulation",
+    "el": "υποκρισία",
+    "es": "disimulación",
+    "et": "dissimulatsioon",
+    "fi": "dissimulaatio",
+    "fr": "dissimulation",
+    "hu": "disszimuláció",
+    "id": "disimulasi",
+    "it": "dissimulazione",
+    "ja": "譎詐",
+    "ko": "디시뮬레이션",
+    "lt": "disimuliacija",
+    "lv": "disimulācija",
+    "nb": "forstillelse",
+    "nl": "veinzerij",
+    "pl": "dysymulacja",
+    "pt": "dissimulação",
+    "ro": "disimulare",
+    "ru": "диссимуляция",
+    "sk": "disimulácia",
+    "sl": "disimulacija",
+    "sv": "förställning",
+    "tr": "dissimülasyon",
+    "uk": "дисимуляція",
+    "zh": "虚张声势"
+  },
+  "verses": [
+    "proverbs 26:26:2"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2928",
+  "language": "hebrew",
+  "transliteration": "Ṭelem",
+  "pronunciation": "teh'-lem",
+  "definition": "Telem, the name of a place in Idumaea, also of a temple doorkeeper",
+  "kjvTranslation": "Telem.",
+  "translations": {
+    "bg": "Телем, име на място в Идумея, също и на храмов вратар",
+    "cs": "Telem, jméno místa v Idumeji, také jméno chrámového vrátného",
+    "da": "Telem, navnet på et sted i Idumæa, også på en tempeldørvogter",
+    "de": "Telem, der Name eines Ortes in Idumäa, auch eines Tempeltürhüters",
+    "el": "Telem, το όνομα ενός τόπου στην Ιδουμαία, επίσης ενός θυρωρού ναού",
+    "es": "Telem, nombre de un lugar de Idumea, también de un portero de templo",
+    "et": "Telem, Idumaal asuva koha nimi, ka templi uksepidaja nimi",
+    "fi": "Telem, erään Idumaassa sijaitsevan paikan nimi, myös temppelin ovenvartijan nimi",
+    "fr": "Telem, nom d'un lieu en Idumée, et d'un portier de temple",
+    "hu": "Telem, egy idumai helység neve, egy templomi ajtónállóé is",
+    "id": "Telem, nama sebuah tempat di Idumaea, juga nama seorang penjaga pintu kuil",
+    "it": "Telem, nome di una località dell'Idumea e di un portinaio di un tempio",
+    "ja": "イドゥメアの地名テレム、神殿の門番の名前でもある。",
+    "ko": "텔렘, 이두매아에 있는 장소의 이름이자 사원 문지기의 이름이기도 합니다",
+    "lt": "Telem, vietovės Idumėjoje pavadinimas, taip pat šventyklos durininko vardas",
+    "lv": "Telem, vietas nosaukums Idumejā, arī tempļa durvju sargs",
+    "nb": "Telem, navnet på et sted i Idumæa, også på en dørvokter i tempelet",
+    "nl": "Telem, de naam van een plaats in Idumaea, ook van een tempelportier",
+    "pl": "Telem, nazwa miejsca w Idumei, również odźwiernego świątyni",
+    "pt": "Telem, nome de um lugar na Iduméia, também de um porteiro de templo",
+    "ro": "Telem, numele unui loc din Idumaea, de asemenea al unui portar de templu",
+    "ru": "Телем, название места в Идумее, а также привратника храма",
+    "sk": "Telem, názov miesta v Idumei, tiež meno chrámového vrátnika",
+    "sl": "Telem, ime kraja v Idumeji, tudi tempeljskega vratarja",
+    "sv": "Telem, namnet på en plats i Idumaea, även på en dörrvakt i templet",
+    "tr": "Telem, Idumaea'da bir yerin adı, ayrıca bir tapınak kapıcısının adı",
+    "uk": "Телема, назва місця в Ідумеї, а також храмового сторожа",
+    "zh": "特勒姆（Telem）是伊都马亚（Idumaea）的一个地名，也是一个寺庙看门人的名字。"
+  },
+  "hebrew": "טֶלֶם",
+  "verses": [
+    "joshua 15:24:1",
+    "ezra 10:24:6"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H754",
+  "language": "hebrew",
+  "transliteration": "ʼarkâʼ",
+  "pronunciation": "ar-kaw'",
+  "definition": "length",
+  "kjvTranslation": "lengthening, prolonged.",
+  "translations": {
+    "bg": "дължина",
+    "cs": "délka",
+    "da": "længde",
+    "de": "länge",
+    "el": "μήκος",
+    "es": "longitud",
+    "et": "pikkus",
+    "fi": "pituus",
+    "fr": "longueur",
+    "hu": "hossz",
+    "id": "panjang",
+    "it": "lunghezza",
+    "ja": "長さ",
+    "ko": "길이",
+    "lt": "ilgis",
+    "lv": "garums",
+    "nb": "lengde",
+    "nl": "lengte",
+    "pl": "długość",
+    "pt": "comprimento",
+    "ro": "lungime",
+    "ru": "длина",
+    "sk": "dĺžka",
+    "sl": "dolžina",
+    "sv": "längd",
+    "tr": "uzunluk",
+    "uk": "довжина",
+    "zh": "长度"
+  },
+  "hebrew": "אַרְכָּא",
+  "verses": [
+    "daniel 4:24:15",
+    "daniel 7:12:4"
+  ]
+}

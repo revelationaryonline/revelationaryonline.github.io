@@ -1,0 +1,42 @@
+{
+  "number": "H3977",
+  "language": "hebrew",
+  "transliteration": "môʼzên",
+  "pronunciation": "mo-zane'",
+  "definition": "{(only in the dual) a pair of scales}",
+  "kjvTranslation": "balances.",
+  "hebrew": "מֹאזֵן",
+  "translations": {
+    "bg": "{(само в дуала) чифт везни}",
+    "cs": "{(pouze v duálu) pár vah}",
+    "da": "{(kun i dualen) et par vægte}",
+    "de": "{(nur im Dual) ein Waagenpaar}",
+    "el": "{(μόνο στη δυαδική μορφή) ένα ζευγάρι ζυγαριές}",
+    "es": "{(sólo en el dual) un par de escamas}",
+    "et": "{(ainult duaalis) kaalupaar}",
+    "fi": "{(vain kaksoiskappaleessa) vaakapari}",
+    "fr": "{(uniquement dans la dualité) une paire de balances}",
+    "hu": "{(csak a duálban) egy pár mérleg}",
+    "id": "{(hanya dalam bentuk ganda) sepasang timbangan}",
+    "it": "(solo nel duale) un paio di bilance",
+    "ja": "一対の秤} {（デュアルでのみ）一対の秤}。",
+    "ko": "{(이중에서만) 한 쌍의 저울}",
+    "lt": "{(tik dvejybėje) svarstyklės}",
+    "lv": "{(tikai duālā) svaru pāri}",
+    "nb": "{(bare i dualen) et par vekter}",
+    "nl": "{(alleen in het duale) een weegschaalpaar}",
+    "pl": "{(tylko w dualu) para wag}",
+    "pt": "{(apenas no dual) um par de balanças}",
+    "ro": "{(numai în dual) o pereche de cântare}",
+    "ru": "{(только в дуале) пара весов}",
+    "sk": "{(len v duáli) pár váh}",
+    "sl": "{(samo v dvojini) par tehtnic}",
+    "sv": "{(endast i dualen) ett par vågar}",
+    "tr": "{(sadece ikilide) bir çift terazi}",
+    "uk": "{(тільки в дуалі) пара ваг}",
+    "zh": "{（仅在对偶中）一对天平}......"
+  },
+  "verses": [
+    "daniel 5:27:2"
+  ]
+}

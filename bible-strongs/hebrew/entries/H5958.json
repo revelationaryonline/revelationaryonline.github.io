@@ -1,0 +1,43 @@
+{
+  "number": "H5958",
+  "language": "hebrew",
+  "transliteration": "ʻelem",
+  "pronunciation": "eh'-lem",
+  "definition": "properly, something kept out of sight, i.e. a lad",
+  "kjvTranslation": "young man, stripling.",
+  "hebrew": "עֶלֶם",
+  "translations": {
+    "bg": "правилно, нещо, което не се вижда, т.е. момче",
+    "cs": "správně, něco, co není na očích, tj. chlapec",
+    "da": "korrekt, noget, der holdes ude af syne, dvs. en dreng",
+    "de": "richtig, etwas, das man nicht sehen kann, z.B. ein Junge",
+    "el": "σωστά, κάτι που κρατιέται μακριά από τα μάτια, δηλαδή ένα παλικάρι",
+    "es": "propiamente, algo que se mantiene fuera de la vista, es decir, un muchacho",
+    "et": "korralikult, midagi, mida hoitakse silmapiiril, s.t. poiss",
+    "fi": "kunnolla, jotakin, joka pidetään poissa näkyvistä, eli poika",
+    "fr": "proprement dit, quelque chose qui n'est pas visible, c'est-à-dire un garçon",
+    "hu": "rendesen, valami, amit nem lehet látni, azaz egy fiú..",
+    "id": "benar, sesuatu yang tidak terlihat, yaitu seorang anak laki-laki",
+    "it": "propriamente, qualcosa tenuto lontano dalla vista, cioè un ragazzo",
+    "ja": "正しくは、人目に触れないようにするもの、つまり若者だ",
+    "ko": "제대로 말하자면, 눈에 띄지 않는 무언가, 즉",
+    "lt": "tinkamai, ką nors, kas yra nematoma, t. y. vaikiną",
+    "lv": "pareizi, kaut kas tiek turēts no redzesloka, t.i., puisis",
+    "nb": "noe som holdes skjult, f.eks. en gutt",
+    "nl": "goed, iets dat uit het zicht wordt gehouden, d.w.z. een jongen",
+    "pl": "właściwie, coś trzymane poza zasięgiem wzroku, tj. chłopak",
+    "pt": "propriamente dito, algo mantido fora da vista, ou seja, um rapaz",
+    "ro": "în mod corespunzător, ceva ținut departe de vedere, de exemplu, un băiat",
+    "ru": "правильно, что-то скрытое от глаз, т.е. парень",
+    "sk": "správne, niečo, čo sa drží mimo dohľadu, t. j. chlapec",
+    "sl": "pravilno, nekaj, kar ni vidno, npr. fant",
+    "sv": "ordentligt, något som hålls utom synhåll, t.ex. en pojke",
+    "tr": "düzgün bir şekilde, gözden uzak tutulan bir şey, yani bir delikanlı",
+    "uk": "власне, те, що не потрапляло в поле зору, тобто хлопець",
+    "zh": "隐蔽的东西，即小伙子"
+  },
+  "verses": [
+    "firstSamuel 17:56:7",
+    "firstSamuel 20:22:3"
+  ]
+}

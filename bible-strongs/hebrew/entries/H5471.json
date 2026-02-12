@@ -1,0 +1,42 @@
+{
+  "number": "H5471",
+  "language": "hebrew",
+  "transliteration": "Çôwʼ",
+  "pronunciation": "so",
+  "definition": "So, an Egyptian king",
+  "kjvTranslation": "So.",
+  "hebrew": "סוֹא",
+  "translations": {
+    "bg": "И така, един египетски цар",
+    "cs": "Egyptský král",
+    "da": "Så en egyptisk konge",
+    "de": "Also, ein ägyptischer König",
+    "el": "Έτσι, ένας Αιγύπτιος βασιλιάς",
+    "es": "Entonces, un rey egipcio",
+    "et": "Niisiis, Egiptuse kuningas",
+    "fi": "Egyptiläinen kuningas",
+    "fr": "Ainsi, un roi égyptien",
+    "hu": "Tehát, egy egyiptomi király",
+    "id": "Jadi, seorang raja Mesir",
+    "it": "Così, un re egiziano",
+    "ja": "エジプトの王は",
+    "ko": "그래서 이집트 왕은",
+    "lt": "Taigi Egipto karalius",
+    "lv": "Tātad, Ēģiptes karalis",
+    "nb": "Så en egyptisk konge",
+    "nl": "Dus, een Egyptische koning",
+    "pl": "Tak więc egipski król",
+    "pt": "Então, um rei egípcio",
+    "ro": "Deci, un rege egiptean",
+    "ru": "Итак, египетский царь",
+    "sk": "Takže egyptský kráľ",
+    "sl": "Tako je egiptovski kralj",
+    "sv": "Så, en egyptisk kung",
+    "tr": "Yani, bir Mısır kralı",
+    "uk": "Отже, єгипетський цар",
+    "zh": "因此，埃及国王"
+  },
+  "verses": [
+    "secondKings 17:4:9"
+  ]
+}

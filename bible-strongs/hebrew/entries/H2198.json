@@ -1,0 +1,43 @@
+{
+  "number": "H2198",
+  "language": "hebrew",
+  "transliteration": "zâʻêph",
+  "pronunciation": "zaw-afe'",
+  "definition": "angry",
+  "kjvTranslation": "displeased.",
+  "translations": {
+    "bg": "ядосан",
+    "cs": "rozzlobený",
+    "da": "vred",
+    "de": "wütend",
+    "el": "θυμωμένος",
+    "es": "enfadado",
+    "et": "vihane",
+    "fi": "vihainen",
+    "fr": "en colère",
+    "hu": "dühös",
+    "id": "marah",
+    "it": "arrabbiato",
+    "ja": "腹立たしい",
+    "ko": "angry",
+    "lt": "piktas",
+    "lv": "dusmīgs",
+    "nb": "sint",
+    "nl": "boos",
+    "pl": "zły",
+    "pt": "zangado",
+    "ro": "furios",
+    "ru": "сердитый",
+    "sk": "nahnevaný",
+    "sl": "jezno",
+    "sv": "arg",
+    "tr": "kızgın",
+    "uk": "злий",
+    "zh": "气愤"
+  },
+  "hebrew": "זָעֵף",
+  "verses": [
+    "firstKings 20:43:6",
+    "firstKings 21:4:5"
+  ]
+}

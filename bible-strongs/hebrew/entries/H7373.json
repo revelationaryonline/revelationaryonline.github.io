@@ -1,0 +1,42 @@
+{
+  "number": "H7373",
+  "language": "hebrew",
+  "transliteration": "râṭôb",
+  "pronunciation": "raw-tobe'",
+  "definition": "moist (with sap)",
+  "kjvTranslation": "green.",
+  "hebrew": "רָטֹב",
+  "translations": {
+    "bg": "влажен (със сок)",
+    "cs": "vlhký (s mízou)",
+    "da": "fugtig (med saft)",
+    "de": "feucht (mit Saft)",
+    "el": "υγρό (με χυμό)",
+    "es": "húmedo (con savia)",
+    "et": "niiske (koos mahlaga)",
+    "fi": "kostea (mehua sisältävä)",
+    "fr": "humide (avec sève)",
+    "hu": "nedves (nedvességgel)",
+    "id": "lembab (dengan getah)",
+    "it": "umido (con linfa)",
+    "ja": "しっとり",
+    "ko": "촉촉한(수액 포함)",
+    "lt": "drėgnas (su sultimis)",
+    "lv": "mitrs (ar sulām)",
+    "nb": "fuktig (med saft)",
+    "nl": "vochtig (met sap)",
+    "pl": "wilgotny (z sokiem)",
+    "pt": "húmido (com seiva)",
+    "ro": "umed (cu sevă)",
+    "ru": "влажный (с соком)",
+    "sk": "vlhký (so šťavou)",
+    "sl": "vlažen (s sokovi)",
+    "sv": "fuktig (med sav)",
+    "tr": "nemli (özsu ile)",
+    "uk": "вологі (з соком)",
+    "zh": "湿润"
+  },
+  "verses": [
+    "job 8:16:0"
+  ]
+}

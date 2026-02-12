@@ -1,0 +1,42 @@
+{
+  "number": "H2211",
+  "language": "hebrew",
+  "transliteration": "zᵉqaph",
+  "pronunciation": "zek-af'",
+  "definition": "to hang, i.e. impale",
+  "kjvTranslation": "set up.",
+  "translations": {
+    "bg": "да се обеси, т.е. да се набие на кол",
+    "cs": "pověsit, tj. probodnout",
+    "da": "at hænge, dvs. spidde",
+    "de": "aufhängen, d.h. aufspießen",
+    "el": "να κρεμάσω, δηλαδή να παλουκώσω",
+    "es": "colgar, es decir, empalar",
+    "et": "riputada, s.t. piitsutada",
+    "fi": "hirttää, eli puukottaa",
+    "fr": "pendre, c'est-à-dire empaler",
+    "hu": "felakasztani, azaz felnyársalni",
+    "id": "menggantung, yaitu menusuk",
+    "it": "impiccare, cioè impalare",
+    "ja": "吊るす",
+    "ko": "매달다, 즉 찔리다",
+    "lt": "pakabinti, t. y. užkabinti",
+    "lv": "pakārt, t.i., uzlikt uz zoba",
+    "nb": "å henge, dvs. spidde",
+    "nl": "ophangen, d.w.z. spietsen",
+    "pl": "powiesić, tj. wbić na pal",
+    "pt": "enforcar, ou seja, empalar",
+    "ro": "a spânzura, adică a înjunghia",
+    "ru": "повесить, т.е. ударить",
+    "sk": "zavesiť, t. j. prebodnúť",
+    "sl": "obesiti, tj. prebosti",
+    "sv": "hänga, d.v.s. spetsa",
+    "tr": "asmak, yani kazığa oturtmak",
+    "uk": "повісити, тобто проколоти",
+    "zh": "绞死"
+  },
+  "hebrew": "זְקַף",
+  "verses": [
+    "ezra 6:11:14"
+  ]
+}

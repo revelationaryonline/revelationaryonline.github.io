@@ -1,0 +1,43 @@
+{
+  "number": "H6543",
+  "language": "hebrew",
+  "transliteration": "Parçîy",
+  "pronunciation": "par-see'",
+  "definition": "{a Parsite (i.e. Persian), or inhabitant of Peres}",
+  "kjvTranslation": "Persian.",
+  "hebrew": "פַּרְסִי",
+  "translations": {
+    "bg": "{парсит (т.е. персиец) или жител на Перес}",
+    "cs": "{Parsita (tj. Peršan) nebo obyvatel Peresu}",
+    "da": "{en parsit (dvs. perser) eller indbygger i Peres}",
+    "de": "{ein Parsit (d.h. Perser), oder Einwohner von Peres}",
+    "el": "{ένας Παρσίτης (δηλαδή Πέρσης), ή κάτοικος του Πέρες}",
+    "es": "{un Parsite (es decir, persa), o habitante de Peres}",
+    "et": "{parsiitlane (st pärslane) või Peresi elanik}",
+    "fi": "{parsilainen (eli persialainen) tai Peresin asukas}",
+    "fr": "{un Parsite (c'est-à-dire un Persan), ou un habitant de Peres}",
+    "hu": "{Párszita (azaz perzsa), vagy Peresz lakója}",
+    "id": "{orang Parsi (yaitu orang Persia), atau penduduk Peres}",
+    "it": "{un parsita (cioè un persiano), o un abitante di Peres.}",
+    "ja": "{ペルシア人、またはペレスの住民）。",
+    "ko": "{파르시트(즉, 페르시아인) 또는 페레스 주민}",
+    "lt": "{parsietis (t. y. persas) arba Pereso gyventojas}",
+    "lv": "{parsietis (t.i., persietis) jeb Peresas iedzīvotājs}",
+    "nb": "{en parsitt (dvs. perser), eller innbygger i Peres}",
+    "nl": "{een Parsite (d.w.z. Perziër), of inwoner van Peres}",
+    "pl": "{Parsyta (tj. Pers) lub mieszkaniec Peres}",
+    "pt": "{um parsita (ou seja, persa), ou habitante de Peres}",
+    "ro": "{un Parsite (adică persan), sau locuitor din Peres}",
+    "ru": "{Парсит (то есть перс), или житель Переса.}",
+    "sk": "{Parsita (t. j. Peržan) alebo obyvateľ Peresu}",
+    "sl": "{Parsej (tj. Perzijec) ali prebivalec Peresa}",
+    "sv": "{en parsit (dvs. perser) eller invånare i Peres}",
+    "tr": "{bir Parsit (yani Pers) ya da Peres sakini}",
+    "uk": "{Парсит (тобто перс), або мешканець Переса.}",
+    "zh": "{一个帕西人（即波斯人），或佩雷斯的居民}。"
+  },
+  "verses": [
+    "daniel 6:29:7",
+    "daniel 6:29:8"
+  ]
+}

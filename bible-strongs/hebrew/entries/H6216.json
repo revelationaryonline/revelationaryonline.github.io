@@ -1,0 +1,42 @@
+{
+  "number": "H6216",
+  "language": "hebrew",
+  "transliteration": "ʻâshôwq",
+  "pronunciation": "aw-shoke'",
+  "definition": "oppressive (as noun, a tyrant)",
+  "kjvTranslation": "oppressor.",
+  "hebrew": "עָשׁוֹק",
+  "translations": {
+    "bg": "деспотичен (като съществително, тиранин)",
+    "cs": "utlačovatelský (jako podstatné jméno, tyran)",
+    "da": "undertrykkende (som substantiv, en tyran)",
+    "de": "unterdrückerisch (als Substantiv, ein Tyrann)",
+    "el": "καταπιεστικός (ως ουσιαστικό, τύραννος)",
+    "es": "opresivo (como sustantivo, un tirano)",
+    "et": "rõhuv (kui nimisõna, türann)",
+    "fi": "sortava (substantiivina, tyranni)",
+    "fr": "oppressif (comme nom, un tyran)",
+    "hu": "elnyomó (mint főnév, zsarnok)",
+    "id": "menindas (sebagai kata benda, tiran)",
+    "it": "oppressivo (come sostantivo, un tiranno)",
+    "ja": "圧制的",
+    "ko": "억압적(명사, 폭군)",
+    "lt": "despotiškas (kaip daiktavardis, tironas)",
+    "lv": "despotisks (kā lietvārds, tirāns)",
+    "nb": "undertrykkende (som substantiv, en tyrann)",
+    "nl": "onderdrukkend (als zelfstandig naamwoord, een tiran)",
+    "pl": "opresyjny (jako rzeczownik, tyran)",
+    "pt": "opressivo (como substantivo, um tirano)",
+    "ro": "opresiv (ca substantiv, un tiran)",
+    "ru": "деспотичный (как существительное, тиран)",
+    "sk": "despotický (ako podstatné meno, tyran)",
+    "sl": "zatiralski (kot samostalnik, tiran)",
+    "sv": "förtryckande (som substantiv, en tyrann)",
+    "tr": "baskıcı (isim olarak, bir tiran)",
+    "uk": "деспотичний (як іменник, тиран)",
+    "zh": "暴君"
+  },
+  "verses": [
+    "jeremiah 22:3:9"
+  ]
+}

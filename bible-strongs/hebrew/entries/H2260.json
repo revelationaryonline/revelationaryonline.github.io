@@ -1,0 +1,42 @@
+{
+  "number": "H2260",
+  "language": "hebrew",
+  "transliteration": "chibbêl",
+  "pronunciation": "khib-bale'",
+  "definition": "a mast",
+  "kjvTranslation": "mast.",
+  "translations": {
+    "bg": "мачта",
+    "cs": "stožár",
+    "da": "en mast",
+    "de": "ein Mast",
+    "el": "κατάρτι",
+    "es": "un mástil",
+    "et": "mast",
+    "fi": "masto",
+    "fr": "un mât",
+    "hu": "egy árboc",
+    "id": "sebuah tiang",
+    "it": "un albero",
+    "ja": "マスト",
+    "ko": "마스트",
+    "lt": "stiebas",
+    "lv": "masts",
+    "nb": "en mast",
+    "nl": "een mast",
+    "pl": "maszt",
+    "pt": "um mastro",
+    "ro": "un catarg",
+    "ru": "мачта",
+    "sk": "stožiar",
+    "sl": "jambor",
+    "sv": "en mast",
+    "tr": "bir direk",
+    "uk": "щогла",
+    "zh": "桅杆"
+  },
+  "hebrew": "חִבֵּל",
+  "verses": [
+    "proverbs 23:34:6"
+  ]
+}

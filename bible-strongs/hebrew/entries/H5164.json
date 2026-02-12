@@ -1,0 +1,42 @@
+{
+  "number": "H5164",
+  "language": "hebrew",
+  "transliteration": "nôcham",
+  "pronunciation": "no'-kham",
+  "definition": "ruefulness, i.e. desistance",
+  "kjvTranslation": "repentance.",
+  "hebrew": "נֹחַם",
+  "translations": {
+    "bg": "разрушителност, т.е. отдръпване",
+    "cs": "ničemnost, tj. odpor",
+    "da": "angerfuldhed, dvs. afstandtagen",
+    "de": "reue, d.h. Widerstand",
+    "el": "μεταμέλεια, δηλ. αντίσταση",
+    "es": "arrepentimiento, es decir, desistimiento",
+    "et": "kahetsusväärsus, s.t. vastupanu",
+    "fi": "katumus, toisin sanoen vastarinta",
+    "fr": "la rudesse, c'est-à-dire la désistance",
+    "hu": "bűnbánat, azaz ellenállás",
+    "id": "penyesalan, yaitu menjauhkan diri",
+    "it": "rancore, ovvero desistenza",
+    "ja": "自暴自棄",
+    "ko": "후회, 즉 탈선",
+    "lt": "nusivylimas, t. y. pasipriešinimas",
+    "lv": "nožēlojamība, t.i., atturība",
+    "nb": "angerfullhet, dvs. motvilje",
+    "nl": "bedroefdheid, d.w.z. afkeer",
+    "pl": "niechęć, tj. opór",
+    "pt": "tristeza, ou seja, desistência",
+    "ro": "reticență, adică deznădejde",
+    "ru": "грубость, т.е. отчаяние",
+    "sk": "zúfalstvo, t. j. vzdor",
+    "sl": "razočaranje, tj. odpor",
+    "sv": "rättrådighet, dvs. motstånd",
+    "tr": "pişmanlık, yani vazgeçme",
+    "uk": "руйнівність, тобто відстороненість",
+    "zh": "悔恨，即抗拒"
+  },
+  "verses": [
+    "hosea 13:14:11"
+  ]
+}

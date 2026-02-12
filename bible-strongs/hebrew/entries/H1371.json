@@ -1,0 +1,42 @@
+{
+  "number": "H1371",
+  "language": "hebrew",
+  "transliteration": "gibbêach",
+  "pronunciation": "ghib-bay'-akh",
+  "definition": "bald in the forehead",
+  "kjvTranslation": "forehead bald.",
+  "translations": {
+    "bg": "плешивост на челото",
+    "cs": "lysina na čele",
+    "da": "skaldet i panden",
+    "de": "glatze an der Stirn",
+    "el": "φαλακρό στο μέτωπο",
+    "es": "calva en la frente",
+    "et": "kalju otsaesine",
+    "fi": "kalju otsa",
+    "fr": "chauve sur le front",
+    "hu": "kopasz a homlokán",
+    "id": "botak di dahi",
+    "it": "calvizie sulla fronte",
+    "ja": "額禿げ",
+    "ko": "이마 대머리",
+    "lt": "plikė ant kaktos",
+    "lv": "kails uz pieres",
+    "nb": "skallet i pannen",
+    "nl": "kaal op het voorhoofd",
+    "pl": "łysina na czole",
+    "pt": "careca na testa",
+    "ro": "chelie în frunte",
+    "ru": "лысина на лбу",
+    "sk": "plešina na čele",
+    "sl": "plešavost na čelu",
+    "sv": "skallig i pannan",
+    "tr": "alında kel",
+    "uk": "лисина на лобі",
+    "zh": "秃顶"
+  },
+  "hebrew": "גִּבֵּחַ",
+  "verses": [
+    "leviticus 13:41:5"
+  ]
+}

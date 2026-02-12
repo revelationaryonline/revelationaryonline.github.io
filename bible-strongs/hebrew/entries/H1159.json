@@ -1,0 +1,43 @@
+{
+  "number": "H1159",
+  "language": "hebrew",
+  "transliteration": "bâʻûw",
+  "pronunciation": "baw-oo'",
+  "definition": "a request",
+  "kjvTranslation": "petition.",
+  "translations": {
+    "bg": "искане",
+    "cs": "žádost",
+    "da": "en anmodning",
+    "de": "eine Anfrage",
+    "el": "ένα αίτημα",
+    "es": "una solicitud",
+    "et": "taotlus",
+    "fi": "pyyntö",
+    "fr": "une demande",
+    "hu": "egy kérés",
+    "id": "permintaan",
+    "it": "una richiesta",
+    "ja": "依頼",
+    "ko": "요청",
+    "lt": "prašymas",
+    "lv": "pieprasījums",
+    "nb": "en forespørsel",
+    "nl": "een verzoek",
+    "pl": "żądanie",
+    "pt": "um pedido",
+    "ro": "o cerere",
+    "ru": "запрос",
+    "sk": "žiadosť",
+    "sl": "prošnja",
+    "sv": "en begäran",
+    "tr": "bir istek",
+    "uk": "прохання",
+    "zh": "请求"
+  },
+  "hebrew": "בָּעוּ",
+  "verses": [
+    "daniel 6:8:17",
+    "daniel 6:14:27"
+  ]
+}

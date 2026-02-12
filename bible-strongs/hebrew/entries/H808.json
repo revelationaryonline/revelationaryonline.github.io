@@ -1,0 +1,42 @@
+{
+  "number": "H808",
+  "language": "hebrew",
+  "transliteration": "ʼâshîysh",
+  "pronunciation": "aw-sheesh'",
+  "definition": "a (ruined) foundation",
+  "kjvTranslation": "foundation.",
+  "translations": {
+    "bg": "(разрушена) основа",
+    "cs": "(zničený) základ",
+    "da": "et (ødelagt) fundament",
+    "de": "eine (ruinierte) Stiftung",
+    "el": "ένα (κατεστραμμένο) θεμέλιο",
+    "es": "una fundación (arruinada)",
+    "et": "(rikutud) vundament",
+    "fi": "(raunioitunut) perusta",
+    "fr": "une fondation (en ruine)",
+    "hu": "egy (romos) alapítvány",
+    "id": "fondasi (yang hancur)",
+    "it": "una fondazione (rovinata)",
+    "ja": "土台",
+    "ko": "(망가진) 재단",
+    "lt": "(sugriautas) pamatas",
+    "lv": "(sagrauts) pamats",
+    "nb": "et (ødelagt) fundament",
+    "nl": "een (verwoeste) fundering",
+    "pl": "(zrujnowany) fundament",
+    "pt": "uma fundação (em ruínas)",
+    "ro": "o fundație (ruinată)",
+    "ru": "(разрушенный) фундамент",
+    "sk": "(zničený) základ",
+    "sl": "(uničen) temelj",
+    "sv": "en (förstörd) grund",
+    "tr": "(yıkık) bir temel",
+    "uk": "(зруйнований) фундамент",
+    "zh": "基业"
+  },
+  "hebrew": "אָשִׁישׁ",
+  "verses": [
+    "isaiah 16:7:6"
+  ]
+}

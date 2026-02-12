@@ -1,0 +1,43 @@
+{
+  "number": "H1525",
+  "language": "hebrew",
+  "transliteration": "gîylâh",
+  "pronunciation": "ghee-law'",
+  "definition": "joy",
+  "kjvTranslation": "joy, rejoicing.",
+  "translations": {
+    "bg": "joy",
+    "cs": "joy",
+    "da": "glæde",
+    "de": "freude",
+    "el": "χαρά",
+    "es": "alegría",
+    "et": "rõõm",
+    "fi": "ilo",
+    "fr": "joie",
+    "hu": "joy",
+    "id": "sukacita",
+    "it": "gioia",
+    "ja": "喜び",
+    "ko": "기쁨",
+    "lt": "joy",
+    "lv": "prieks",
+    "nb": "glede",
+    "nl": "vreugde",
+    "pl": "radość",
+    "pt": "alegria",
+    "ro": "bucurie",
+    "ru": "радость",
+    "sk": "joy",
+    "sl": "joy",
+    "sv": "glädje",
+    "tr": "nEŞE",
+    "uk": "радість",
+    "zh": "快乐"
+  },
+  "hebrew": "גִּילָה",
+  "verses": [
+    "isaiah 35:2:4",
+    "isaiah 65:18:14"
+  ]
+}

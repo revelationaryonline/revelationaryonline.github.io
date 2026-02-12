@@ -1,0 +1,42 @@
+{
+  "number": "H7712",
+  "language": "hebrew",
+  "transliteration": "shᵉdar",
+  "pronunciation": "shed-ar'",
+  "definition": "to endeavor",
+  "kjvTranslation": "labour.",
+  "hebrew": "שְׁדַר",
+  "translations": {
+    "bg": "да полага усилия",
+    "cs": "snažit se",
+    "da": "at bestræbe sig på",
+    "de": "zu bemühen",
+    "el": "να προσπαθήσουμε",
+    "es": "esforzarse",
+    "et": "püüda",
+    "fi": "pyrkiä",
+    "fr": "s'efforcer",
+    "hu": "törekedni",
+    "id": "untuk berusaha",
+    "it": "sforzarsi",
+    "ja": "努力する",
+    "ko": "노력하기 위해",
+    "lt": "stengtis",
+    "lv": "censties",
+    "nb": "å forsøke",
+    "nl": "om te proberen",
+    "pl": "starać się",
+    "pt": "esforçar-se",
+    "ro": "să încerce",
+    "ru": "стремиться",
+    "sk": "snažiť sa",
+    "sl": "si prizadevati",
+    "sv": "att sträva",
+    "tr": "çabalamak için",
+    "uk": "докладати зусиль",
+    "zh": "致力于"
+  },
+  "verses": [
+    "daniel 6:15:17"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7512",
+  "language": "hebrew",
+  "transliteration": "rᵉphaç",
+  "pronunciation": "ref-as'",
+  "definition": "{to trample, i.e. prostrate}",
+  "kjvTranslation": "stamp.",
+  "hebrew": "רְפַס",
+  "translations": {
+    "bg": "{да стъпче, т.е. да се простре}",
+    "cs": "{pošlapat, tj. rozložit}",
+    "da": "{at trampe, dvs. lægge sig ned}",
+    "de": "(zertrampeln, d.h. sich niederwerfen)",
+    "el": "{Ποδοπατάω, δηλ. κατακλίνομαι}",
+    "es": "{pisotear, es decir, postrar}",
+    "et": "{tampida, st. maha trampida}",
+    "fi": "{Tallaamaan, eli maahan polkemaan}",
+    "fr": "{pour piétiner, c'est-à-dire prostrer}",
+    "hu": "{eltaposni, azaz leborulni}",
+    "id": "(menginjak-injak, yaitu bersujud)",
+    "it": "{calpestare, cioè prostrare}",
+    "ja": "{踏みつける、つまりひれ伏す}。",
+    "ko": "{밟다, 즉 엎드리다}",
+    "lt": "{išsišlapinti, t. y. nusileisti}",
+    "lv": "{Trampt, t.i., nogāzt}",
+    "nb": "{trampe, dvs. legge seg ned}",
+    "nl": "{vertrappen, d.w.z. prostreren}",
+    "pl": "{deptać, tj. obalać na ziemię}",
+    "pt": "{pisar, isto é, prostrar}",
+    "ro": "{să calce în picioare, adică să se prosterneze}",
+    "ru": "{попирать, т.е. попирать}",
+    "sk": "{pošliapať, t. j. vyčerpať}",
+    "sl": "{tolči, to je, da se razkorači}",
+    "sv": "{att trampa, d.v.s. lägga sig ner}",
+    "tr": "{çiğnemek, yani secde etmek}",
+    "uk": "[розтоптати, тобто розпростерти]",
+    "zh": "{践踏，即匍匐}。"
+  },
+  "verses": [
+    "daniel 7:7:24",
+    "daniel 7:19:25"
+  ]
+}

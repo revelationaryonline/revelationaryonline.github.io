@@ -1,0 +1,43 @@
+{
+  "number": "H8508",
+  "language": "hebrew",
+  "transliteration": "toknîyth",
+  "pronunciation": "tok-neeth'",
+  "definition": "admeasurement, i.e. consummation",
+  "kjvTranslation": "pattern, sum.",
+  "hebrew": "תׇּכְנִית",
+  "translations": {
+    "bg": "измерване, т.е. консумиране",
+    "cs": "měření, tj. konzumace",
+    "da": "opmåling, dvs. fuldbyrdelse",
+    "de": "vermessung, d.h. Vollendung",
+    "el": "μέτρηση, δηλαδή ολοκλήρωση",
+    "es": "medida, es decir, consumación",
+    "et": "admeasurement, s.t. täitumine",
+    "fi": "mittaaminen, ts. loppuunsaattaminen",
+    "fr": "la mesure, c'est-à-dire la consommation",
+    "hu": "mérés, azaz beteljesedés",
+    "id": "pengukuran, yaitu penyempurnaan",
+    "it": "misurazione, ovvero consumazione",
+    "ja": "測定、すなわち完了",
+    "ko": "광고 측정, 즉 완결성",
+    "lt": "admeasurement, t. y. vartojimas",
+    "lv": "mērīšana, t. i., consummation",
+    "nb": "måling, dvs. fullbyrdelse",
+    "nl": "meting, d.w.z. voltooiing",
+    "pl": "pomiar, tj. konsumpcja",
+    "pt": "medição, ou seja, consumação",
+    "ro": "măsurarea, adică consumarea",
+    "ru": "измерение, т.е. завершение",
+    "sk": "meranie, t. j. konzumácia",
+    "sl": "merjenje, tj. dovršitev",
+    "sv": "uppmätning, dvs. fullbordande",
+    "tr": "ölçme, yani tamamlama",
+    "uk": "вимірювання, тобто завершення",
+    "zh": "测量，即完成"
+  },
+  "verses": [
+    "ezekiel 28:12:15",
+    "ezekiel 43:10:13"
+  ]
+}

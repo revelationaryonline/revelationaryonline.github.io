@@ -1,0 +1,42 @@
+{
+  "number": "H4460",
+  "language": "hebrew",
+  "transliteration": "mammᵉgurâh",
+  "pronunciation": "mam-meg-oo-raw'",
+  "definition": "a granary",
+  "kjvTranslation": "barn.",
+  "hebrew": "מַמְּגֻרָה",
+  "translations": {
+    "bg": "зърнохранилище",
+    "cs": "sýpka",
+    "da": "et kornmagasin",
+    "de": "ein Getreidespeicher",
+    "el": "σιταποθήκη",
+    "es": "un granero",
+    "et": "viljahoidla",
+    "fi": "viljavarasto",
+    "fr": "un grenier",
+    "hu": "magtár",
+    "id": "lumbung",
+    "it": "un granaio",
+    "ja": "穀物倉",
+    "ko": "곡물 창고",
+    "lt": "grūdų sandėlis",
+    "lv": "klēts",
+    "nb": "et kornmagasin",
+    "nl": "een graanschuur",
+    "pl": "spichlerz",
+    "pt": "um celeiro",
+    "ro": "un hambar",
+    "ru": "зернохранилище",
+    "sk": "sýpka",
+    "sl": "kašča",
+    "sv": "ett sädesmagasin",
+    "tr": "bir tahıl ambarı",
+    "uk": "зерносховище",
+    "zh": "囷"
+  },
+  "verses": [
+    "joel 1:17:7"
+  ]
+}

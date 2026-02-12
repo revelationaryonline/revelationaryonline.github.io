@@ -1,0 +1,42 @@
+{
+  "number": "H5468",
+  "language": "hebrew",
+  "transliteration": "çeder",
+  "pronunciation": "seh'-der",
+  "definition": "order",
+  "kjvTranslation": "order.",
+  "hebrew": "סֶדֶר",
+  "translations": {
+    "bg": "поръчка",
+    "cs": "objednávka",
+    "da": "bestil",
+    "de": "bestellung",
+    "el": "παραγγελία",
+    "es": "pedir",
+    "et": "tellimus",
+    "fi": "tilaus",
+    "fr": "commande",
+    "hu": "megrendelés",
+    "id": "pesanan",
+    "it": "ordine",
+    "ja": "オーダー",
+    "ko": "주문",
+    "lt": "užsakymas",
+    "lv": "pasūtījums",
+    "nb": "rekkefølge",
+    "nl": "bestel",
+    "pl": "porządek",
+    "pt": "ordem",
+    "ro": "comandă",
+    "ru": "заказать",
+    "sk": "objednávka",
+    "sl": "naročite na ",
+    "sv": "ordning",
+    "tr": "sipariş",
+    "uk": "порядок",
+    "zh": "订单"
+  },
+  "verses": [
+    "job 10:22:6"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1510",
+  "language": "hebrew",
+  "transliteration": "gᵉzêrâh",
+  "pronunciation": "ghez-ay-raw'",
+  "definition": "a decree",
+  "kjvTranslation": "decree.",
+  "translations": {
+    "bg": "декрет",
+    "cs": "dekret",
+    "da": "et dekret",
+    "de": "ein Dekret",
+    "el": "ένα διάταγμα",
+    "es": "un decreto",
+    "et": "dekreet",
+    "fi": "asetus",
+    "fr": "un décret",
+    "hu": "egy rendelet",
+    "id": "surat keputusan",
+    "it": "un decreto",
+    "ja": "勅令",
+    "ko": "법령",
+    "lt": "dekretas",
+    "lv": "dekrēts",
+    "nb": "et dekret",
+    "nl": "een decreet",
+    "pl": "dekret",
+    "pt": "um decreto",
+    "ro": "un decret",
+    "ru": "указ",
+    "sk": "dekrét",
+    "sl": "odlok",
+    "sv": "ett dekret",
+    "tr": "bir kararname",
+    "uk": "указ",
+    "zh": "旨意"
+  },
+  "hebrew": "גְּזֵרָה",
+  "verses": [
+    "daniel 4:14:0",
+    "daniel 4:21:3"
+  ]
+}

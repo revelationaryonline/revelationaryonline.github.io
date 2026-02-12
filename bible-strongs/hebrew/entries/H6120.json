@@ -1,0 +1,42 @@
+{
+  "number": "H6120",
+  "language": "hebrew",
+  "transliteration": "ʻâqêb",
+  "pronunciation": "aw-kabe'",
+  "definition": "a lier in wait",
+  "kjvTranslation": "heel (by mistake for H6119 (עָקֵב)).",
+  "hebrew": "עָקֵב",
+  "translations": {
+    "bg": "лъжец в очакване",
+    "cs": "lhář na počkání",
+    "da": "en løgner på lur",
+    "de": "ein lauernder Lügner",
+    "el": "ένας ψεύτης σε αναμονή",
+    "es": "un mentiroso al acecho",
+    "et": "valetaja ootab",
+    "fi": "valehtelija odottamassa",
+    "fr": "un menteur à l'affût",
+    "hu": "egy hazug lesben áll",
+    "id": "seorang pembohong yang sedang menunggu",
+    "it": "un bugiardo in attesa",
+    "ja": "しらばっくれ",
+    "ko": "대기 중인 리어",
+    "lt": "melagis laukia",
+    "lv": "lamāšanās gaidot",
+    "nb": "en løgner på lur",
+    "nl": "een leugenaar op de loer",
+    "pl": "kłamca czeka",
+    "pt": "um mentiroso à espreita",
+    "ro": "un mincinos la pândă",
+    "ru": "лжец в ожидании",
+    "sk": "klamár na počkanie",
+    "sl": "lažnivec na čakanju",
+    "sv": "en lögnare i väntan",
+    "tr": "pusuda bekleyen bir yalancı",
+    "uk": "брехня в очікуванні",
+    "zh": "卧榻之侧岂容他人鼾睡"
+  },
+  "verses": [
+    "psalms 49:6:5"
+  ]
+}

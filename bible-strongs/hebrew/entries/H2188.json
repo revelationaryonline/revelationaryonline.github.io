@@ -1,0 +1,42 @@
+{
+  "number": "H2188",
+  "language": "hebrew",
+  "transliteration": "zêʻâh",
+  "pronunciation": "zay-aw'",
+  "definition": "perspiration",
+  "kjvTranslation": "sweat.",
+  "translations": {
+    "bg": "изпотяване",
+    "cs": "pot",
+    "da": "sved",
+    "de": "schwitzen",
+    "el": "εφίδρωση",
+    "es": "transpiración",
+    "et": "higistamine",
+    "fi": "hiki",
+    "fr": "transpiration",
+    "hu": "izzadás",
+    "id": "keringat",
+    "it": "sudorazione",
+    "ja": "汗",
+    "ko": "땀",
+    "lt": "prakaitas",
+    "lv": "svīšana",
+    "nb": "svette",
+    "nl": "transpiratie",
+    "pl": "pot",
+    "pt": "transpiração",
+    "ro": "transpirație",
+    "ru": "пот",
+    "sk": "potenie",
+    "sl": "znojenje",
+    "sv": "svettning",
+    "tr": "terleme",
+    "uk": "піт",
+    "zh": "汗液"
+  },
+  "hebrew": "זֵעָה",
+  "verses": [
+    "genesis 3:19:0"
+  ]
+}

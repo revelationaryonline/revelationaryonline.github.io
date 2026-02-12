@@ -1,0 +1,43 @@
+{
+  "number": "H6971",
+  "language": "hebrew",
+  "transliteration": "qôwph",
+  "pronunciation": "kofe",
+  "definition": "a monkey",
+  "kjvTranslation": "ape.",
+  "hebrew": "קוֹף",
+  "translations": {
+    "bg": "маймуна",
+    "cs": "opice",
+    "da": "en abe",
+    "de": "ein Affe",
+    "el": "μια μαϊμού",
+    "es": "un mono",
+    "et": "ahv",
+    "fi": "apina",
+    "fr": "un singe",
+    "hu": "egy majom",
+    "id": "seekor monyet",
+    "it": "una scimmia",
+    "ja": "猿",
+    "ko": "원숭이",
+    "lt": "beždžionė",
+    "lv": "pērtiķis",
+    "nb": "en ape",
+    "nl": "een aap",
+    "pl": "małpa",
+    "pt": "um macaco",
+    "ro": "o maimuță",
+    "ru": "обезьяна",
+    "sk": "opica",
+    "sl": "opica",
+    "sv": "en apa",
+    "tr": "bir maymun",
+    "uk": "мавпу",
+    "zh": "猴子"
+  },
+  "verses": [
+    "firstKings 10:22:18",
+    "secondChronicles 9:21:18"
+  ]
+}

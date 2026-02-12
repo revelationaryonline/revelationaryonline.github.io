@@ -1,0 +1,42 @@
+{
+  "number": "H8253",
+  "language": "hebrew",
+  "transliteration": "sheqeṭ",
+  "pronunciation": "sheh'-ket",
+  "definition": "tranquillity",
+  "kjvTranslation": "quietness.",
+  "hebrew": "שֶׁקֶט",
+  "translations": {
+    "bg": "спокойствие",
+    "cs": "klid",
+    "da": "ro",
+    "de": "beschaulichkeit",
+    "el": "ηρεμία",
+    "es": "tranquilidad",
+    "et": "rahulikkus",
+    "fi": "rauhallisuus",
+    "fr": "tranquillité",
+    "hu": "nyugalom",
+    "id": "ketenangan",
+    "it": "tranquillità",
+    "ja": "静謐",
+    "ko": "평온함",
+    "lt": "ramybė",
+    "lv": "klusums",
+    "nb": "ro",
+    "nl": "rust",
+    "pl": "spokój",
+    "pt": "tranquilidade",
+    "ro": "liniște",
+    "ru": "спокойствие",
+    "sk": "pokoj",
+    "sl": "spokojnost",
+    "sv": "lugn och ro",
+    "tr": "sÜKUNET",
+    "uk": "спокій",
+    "zh": "安宁"
+  },
+  "verses": [
+    "firstChronicles 22:9:18"
+  ]
+}

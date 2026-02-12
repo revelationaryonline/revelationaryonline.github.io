@@ -1,0 +1,42 @@
+{
+  "number": "H5588",
+  "language": "hebrew",
+  "transliteration": "çêʻêph",
+  "pronunciation": "say-afe'",
+  "definition": "divided (in mind), i.e. (concretely) a skeptic",
+  "kjvTranslation": "thought.",
+  "hebrew": "סֵעֵף",
+  "translations": {
+    "bg": "разделен (в съзнанието), т.е. (конкретно) скептик",
+    "cs": "rozdělený (v mysli), tj. (konkrétně) skeptik",
+    "da": "splittet (i tankerne), dvs. (konkret) en skeptiker",
+    "de": "geteilt (im Geiste), d.h. (konkret) ein Skeptiker",
+    "el": "διαιρεμένος (στο μυαλό), δηλαδή (συγκεκριμένα) σκεπτικιστής",
+    "es": "dividido (en mente), es decir (concretamente) un escéptico",
+    "et": "jagatud (meelest), s.t. (konkreetselt) skeptiline",
+    "fi": "jaettu (mielessä), eli (konkreettisesti) skeptikko",
+    "fr": "divisé (en esprit), c'est-à-dire (concrètement) sceptique",
+    "hu": "megosztott (elmében), azaz (konkrétan) szkeptikus",
+    "id": "terbagi (dalam pikiran), yaitu (secara konkret) skeptis",
+    "it": "diviso (nella mente), ovvero (concretamente) uno scettico",
+    "ja": "分裂した（心の中で）、つまり（具体的に）懐疑論者",
+    "ko": "분할 (염두에두고), 즉 (구체적으로) 회의론자",
+    "lt": "padalytas (mintyse), t. y. (konkrečiai) skeptikas",
+    "lv": "sadalīts (prātā), t.i., (konkrēti) skeptiķis",
+    "nb": "splittet (i tankene), dvs. (konkret) en skeptiker",
+    "nl": "verdeeld (in gedachten), d.w.z. (concreet) een scepticus",
+    "pl": "podzielony (w umyśle), tj. (konkretnie) sceptyk",
+    "pt": "dividido (na mente), ou seja, (concretamente) um cético",
+    "ro": "divizat (în minte), adică (concret) un sceptic",
+    "ru": "разделенный (в уме), т.е. (конкретно) скептик",
+    "sk": "rozdelený (v mysli), t. j. (konkrétne) skeptik",
+    "sl": "razdeljen (v mislih), tj. (konkretno) skeptik",
+    "sv": "delad (i sinnet), dvs. (konkret) en skeptiker",
+    "tr": "bölünmüş (zihinde), yani (somut olarak) bir şüpheci",
+    "uk": "розділений (в думках), тобто (конкретно) скептик",
+    "zh": "分裂（心中），即（具体地说）怀疑论者"
+  },
+  "verses": [
+    "psalms 119:113:0"
+  ]
+}

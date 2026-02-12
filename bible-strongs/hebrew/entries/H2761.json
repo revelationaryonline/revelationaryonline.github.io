@@ -1,0 +1,42 @@
+{
+  "number": "H2761",
+  "language": "hebrew",
+  "transliteration": "chărak",
+  "pronunciation": "khar-ak'",
+  "definition": "to scorch",
+  "kjvTranslation": "singe.",
+  "translations": {
+    "bg": "да изгори",
+    "cs": "spálit",
+    "da": "at brænde",
+    "de": "zu verbrennen",
+    "el": "να καίω",
+    "es": "chamuscar",
+    "et": "kõrvetada",
+    "fi": "polttaa",
+    "fr": "brûler",
+    "hu": "megperzselni",
+    "id": "untuk menghanguskan",
+    "it": "bruciare",
+    "ja": "焦がす",
+    "ko": "태우다",
+    "lt": "išdeginti",
+    "lv": "apdedzināt",
+    "nb": "å svi",
+    "nl": "verschroeien",
+    "pl": "przypalać",
+    "pt": "queimar",
+    "ro": "să ardă",
+    "ru": "обжечься",
+    "sk": "spáliť",
+    "sl": "sežgati",
+    "sv": "att bränna",
+    "tr": "kavurmak için",
+    "uk": "обпалювати",
+    "zh": "灼烧"
+  },
+  "hebrew": "חֲרַךְ",
+  "verses": [
+    "daniel 3:27:17"
+  ]
+}

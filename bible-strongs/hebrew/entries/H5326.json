@@ -1,0 +1,42 @@
+{
+  "number": "H5326",
+  "language": "hebrew",
+  "transliteration": "nitsbâh",
+  "pronunciation": "nits-baw'",
+  "definition": "fixedness, i.e. firmness",
+  "kjvTranslation": "strength.",
+  "hebrew": "נִצְבָּה",
+  "translations": {
+    "bg": "фиксираност, т.е. твърдост",
+    "cs": "stálost, tj. pevnost",
+    "da": "fasthed, dvs. fasthed",
+    "de": "unbeweglichkeit, d.h. Festigkeit",
+    "el": "σταθερότητα, δηλαδή σταθερότητα",
+    "es": "fijeza, es decir, firmeza",
+    "et": "fikseeritus, st kindlus",
+    "fi": "kiinteys eli lujuus",
+    "fr": "la fixité, c'est-à-dire la fermeté",
+    "hu": "rögzítettség, azaz szilárdság",
+    "id": "ketetapan, yaitu ketegasan",
+    "it": "fissità, cioè fermezza",
+    "ja": "固さ",
+    "ko": "고정성, 즉 견고함",
+    "lt": "pastovumas, t. y. tvirtumas",
+    "lv": "fiksitāte, t. i., stingrība",
+    "nb": "fasthet, dvs. fasthet",
+    "nl": "vastheid, d.w.z. stevigheid",
+    "pl": "stałość, tj. twardość",
+    "pt": "fixidez, ou seja, firmeza",
+    "ro": "fixitate, adică fermitate",
+    "ru": "неподвижность, т.е. твердость",
+    "sk": "stálosť, t. j. pevnosť",
+    "sl": "stalnost, tj. čvrstost",
+    "sv": "fasthet, d.v.s. fasthet",
+    "tr": "sabitlik, yani sağlamlık",
+    "uk": "фіксованість, тобто стійкість",
+    "zh": "定力"
+  },
+  "verses": [
+    "daniel 2:41:16"
+  ]
+}

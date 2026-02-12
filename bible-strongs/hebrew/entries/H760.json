@@ -1,0 +1,42 @@
+{
+  "number": "H760",
+  "language": "hebrew",
+  "transliteration": "ʼĂram Tsôwbâh",
+  "pronunciation": "ar-am' tso-baw'",
+  "definition": "Aram of Tsoba (or Coele-Syria)",
+  "kjvTranslation": "Aram-zobah.",
+  "translations": {
+    "bg": "Арам от Цоба (или Коелю-Сирия)",
+    "cs": "Aram z Tsoby (nebo Coele-Syrie)",
+    "da": "Aram af Tsoba (eller Coele-Syrien)",
+    "de": "Aram von Tsoba (oder Coele-Syrien)",
+    "el": "Aram of Tsoba (ή Coele-Syria)",
+    "es": "Aram de Tsoba (o Coele-Siria)",
+    "et": "Aram Tsoba (või Coele-Süüria)",
+    "fi": "Tsoban (tai Coele-Syyrian) Aram",
+    "fr": "Aram de Tsoba (ou Coele-Syria)",
+    "hu": "Tsoba Aram (vagy Coele-Szíria)",
+    "id": "Aram dari Tsoba (atau Coele-Suriah)",
+    "it": "Aram di Tsoba (o Coele-Siria)",
+    "ja": "ツォバのアラム（またはコエレ・シリア）",
+    "ko": "조바의 아람(또는 코엘레-시리아)",
+    "lt": "Aramas iš Cobos (arba Coele-Sirijos)",
+    "lv": "Arams no Tsobas (vai Coele-Sīrijas)",
+    "nb": "Aram av Tsoba (eller Coele-Syria)",
+    "nl": "Aram van Tsoba (of Coele-Syrië)",
+    "pl": "Aram z Tsoby (lub Coele-Syria)",
+    "pt": "Aram de Tsoba (ou Coele-Síria)",
+    "ro": "Aram din Tsoba (sau Coele-Syria)",
+    "ru": "Арам из Цоба (или Коэль-Сирии)",
+    "sk": "Aram z Tsoby (alebo Coele-Sýrie)",
+    "sl": "Aram iz Tsobe (ali Coele-Sirije)",
+    "sv": "Aram av Tsoba (eller Coele-Syrien)",
+    "tr": "Tsoba'lı Aram (veya Coele-Suriye)",
+    "uk": "Арам з Цоби (або Коеле-Сирія)",
+    "zh": "措巴的阿拉姆（或科尔-叙利亚）"
+  },
+  "hebrew": "אֲרַם צוֹבָה",
+  "verses": [
+    "psalms 60:2:6"
+  ]
+}

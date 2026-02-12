@@ -1,0 +1,43 @@
+{
+  "number": "H6928",
+  "language": "hebrew",
+  "transliteration": "qadmâh",
+  "pronunciation": "kad-maw'",
+  "definition": "former time",
+  "kjvTranslation": "afore(-time), ago.",
+  "hebrew": "קַדְמָה",
+  "translations": {
+    "bg": "предишно време",
+    "cs": "dřívější doba",
+    "da": "tidligere tid",
+    "de": "frühere Zeit",
+    "el": "προηγούμενος χρόνος",
+    "es": "tiempo pasado",
+    "et": "endine aeg",
+    "fi": "entinen aika",
+    "fr": "ancien temps",
+    "hu": "korábbi idő",
+    "id": "waktu sebelumnya",
+    "it": "tempo precedente",
+    "ja": "以前",
+    "ko": "이전 시간",
+    "lt": "buvęs laikas",
+    "lv": "iepriekšējais laiks",
+    "nb": "tidligere tid",
+    "nl": "vroegere tijd",
+    "pl": "poprzedni czas",
+    "pt": "tempo anterior",
+    "ro": "timpul trecut",
+    "ru": "прежнее время",
+    "sk": "bývalý čas",
+    "sl": "nekdanji čas",
+    "sv": "tidigare tid",
+    "tr": "eski zaman",
+    "uk": "колишній час",
+    "zh": "昔"
+  },
+  "verses": [
+    "ezra 5:11:16",
+    "daniel 6:11:31"
+  ]
+}

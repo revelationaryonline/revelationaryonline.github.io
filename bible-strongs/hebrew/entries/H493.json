@@ -1,0 +1,42 @@
+{
+  "number": "H493",
+  "language": "hebrew",
+  "transliteration": "ʼElnaʻam",
+  "pronunciation": "el-nah'-am",
+  "definition": "Elnaam, an Israelite",
+  "kjvTranslation": "Elnaam.",
+  "translations": {
+    "bg": "Елнаам, израилтянин",
+    "cs": "Elnaam, Izraelita",
+    "da": "Elnaam, en israelit",
+    "de": "Elnaam, ein Israelit",
+    "el": "Ελναάμ, Ισραηλίτης",
+    "es": "Elnaam, israelita",
+    "et": "Elnaam, iisraellane",
+    "fi": "Elnaam, israelilainen",
+    "fr": "Elnaam, Israélite",
+    "hu": "Elnaam, egy izraelita",
+    "id": "Elnaam, seorang Israel",
+    "it": "Elnaam, un israelita",
+    "ja": "イスラエル人 エルナーム",
+    "ko": "이스라엘인 엘나암",
+    "lt": "Elnaamas, izraelitas",
+    "lv": "Elnaams, izraēlietis",
+    "nb": "Elnaam, en israelitt",
+    "nl": "Elnaam, een Israëliet",
+    "pl": "Elnaam, Izraelita",
+    "pt": "Elnaão, israelita",
+    "ro": "Elnaam, un israelit",
+    "ru": "Елнаам, израильтянин",
+    "sk": "Elnaam, Izraelita",
+    "sl": "Elnaam, Izraelec",
+    "sv": "Elnaam, en israelit",
+    "tr": "Elnaam, bir İsrailli",
+    "uk": "Елнаам, ізраїльтянин",
+    "zh": "以利南，以色列人"
+  },
+  "hebrew": "אֶלְנַעַם",
+  "verses": [
+    "firstChronicles 11:46:5"
+  ]
+}

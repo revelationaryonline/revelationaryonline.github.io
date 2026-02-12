@@ -1,0 +1,43 @@
+{
+  "number": "H432",
+  "language": "hebrew",
+  "transliteration": "ʼillûw",
+  "pronunciation": "il-loo'",
+  "definition": "nay, i.e. (softened) if",
+  "kjvTranslation": "but if, yea though.",
+  "translations": {
+    "bg": "nay, т.е. (смекчено) ако",
+    "cs": "ne, tj. (změkčené), pokud",
+    "da": "nej, dvs. (opblødt) hvis",
+    "de": "nein, d.h. (abgeschwächt) wenn",
+    "el": "nay, δηλαδή (μαλακώσει) αν",
+    "es": "nay, es decir (suavizado) si",
+    "et": "nay, st (pehmendatud) kui",
+    "fi": "nay, eli (pehmennetty) jos",
+    "fr": "nay, c'est-à-dire (adouci) si",
+    "hu": "nay, azaz (lágyított) ha",
+    "id": "tidak, yaitu (dilunakkan) jika",
+    "it": "no, cioè (attenuato) se",
+    "ja": "いや、つまり、もし",
+    "ko": "아니요, 즉 (연화) 다음과 같은 경우",
+    "lt": "nay, t. y. (sušvelnintas), jei",
+    "lv": "nē, t.i., (mīkstināts), ja",
+    "nb": "nei, dvs. (oppmyket) hvis",
+    "nl": "neen, d.w.z. (verzacht) als",
+    "pl": "nie, tj. (złagodzone) jeśli",
+    "pt": "não, ou seja, (suavizado) se",
+    "ro": "nay, adică (îndulcit) dacă",
+    "ru": "нет, т.е. (смягченно) если",
+    "sk": "nie, t. j. (zmäkčené), ak",
+    "sl": "nay, tj. (zmehčano), če",
+    "sv": "nay, dvs. (uppmjukad) om",
+    "tr": "hayır, yani (yumuşatılmış) eğer",
+    "uk": "ні, тобто (пом'якшено) якщо",
+    "zh": "不，即（软化）如果"
+  },
+  "hebrew": "אִלּוּ",
+  "verses": [
+    "esther 7:4:7",
+    "ecclesiastes 6:6:0"
+  ]
+}

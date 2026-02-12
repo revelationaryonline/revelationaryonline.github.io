@@ -1,0 +1,43 @@
+{
+  "number": "H1226",
+  "language": "hebrew",
+  "transliteration": "batstsôreth",
+  "pronunciation": "bats-tso'-reth",
+  "definition": "restraint (of rain), i.e. drought",
+  "kjvTranslation": "dearth, drought.",
+  "translations": {
+    "bg": "ограничаване на дъжда, т.е. суша",
+    "cs": "omezení (deště), tj. sucho",
+    "da": "tilbageholdelse (af regn), dvs. tørke",
+    "de": "zurückhaltung (des Regens), d.h. Dürre",
+    "el": "συγκράτηση (της βροχής), δηλαδή ξηρασία",
+    "es": "restricción (de la lluvia), es decir, sequía",
+    "et": "(sademete) tagasihoidmine, st põud",
+    "fi": "(sateen) rajoittaminen eli kuivuus",
+    "fr": "la retenue (de la pluie), c'est-à-dire la sécheresse",
+    "hu": "(esőzés) visszatartása, azaz aszály",
+    "id": "menahan (hujan), yaitu kekeringan",
+    "it": "limitazione (delle piogge), cioè siccità",
+    "ja": "旱魃",
+    "ko": "(비의) 억제, 즉 가뭄",
+    "lt": "(lietaus) sulaikymas, t. y. sausra",
+    "lv": "(lietus) ierobežošana, t. i., sausums",
+    "nb": "tilbakeholdenhet (av regn), dvs. tørke",
+    "nl": "beperking (van regen), d.w.z. droogte",
+    "pl": "ograniczenie (deszczu), tj. susza",
+    "pt": "contenção (da chuva), ou seja, seca",
+    "ro": "reținere (a ploii), adică secetă",
+    "ru": "сдерживание (дождя), т.е. засуха",
+    "sk": "obmedzenie (dažďa), t. j. sucho",
+    "sl": "omejitev (dežja), tj. suša",
+    "sv": "återhållsamhet (av regn), dvs. torka",
+    "tr": "(yağmurun) kısıtlanması, yani kuraklık",
+    "uk": "стриманість (дощу), тобто посуха",
+    "zh": "亢旱"
+  },
+  "hebrew": "בַּצֹּרֶת",
+  "verses": [
+    "jeremiah 14:1:8",
+    "jeremiah 17:8:19"
+  ]
+}

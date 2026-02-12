@@ -1,0 +1,42 @@
+{
+  "number": "H5489",
+  "language": "hebrew",
+  "transliteration": "Çûwph",
+  "pronunciation": "soof",
+  "definition": "the Reed (Sea)",
+  "kjvTranslation": "Red Sea.",
+  "hebrew": "סוּף",
+  "translations": {
+    "bg": "рид (море)",
+    "cs": "rákosové moře",
+    "da": "siv (havet)",
+    "de": "das Schilf (Meer)",
+    "el": "το καλάμι (θάλασσα)",
+    "es": "el mar de caña",
+    "et": "reed (meri)",
+    "fi": "reed (meri)",
+    "fr": "la mer des Roseaux",
+    "hu": "a nádas (tenger)",
+    "id": "alang-alang (Laut)",
+    "it": "il Mar di Reed (mare)",
+    "ja": "葦の海",
+    "ko": "갈대 (바다)",
+    "lt": "nendrių jūra",
+    "lv": "niedru jūra",
+    "nb": "siv (havet)",
+    "nl": "de Rietzee",
+    "pl": "trzcina (Morze)",
+    "pt": "o Junco (Mar)",
+    "ro": "reed (Marea)",
+    "ru": "тростниковое (море)",
+    "sk": "rákosové more",
+    "sl": "trstičje (morje)",
+    "sv": "reed (havet)",
+    "tr": "reed (Deniz)",
+    "uk": "очерет (море)",
+    "zh": "芦荻海"
+  },
+  "verses": [
+    "deuteronomy 1:1:13"
+  ]
+}

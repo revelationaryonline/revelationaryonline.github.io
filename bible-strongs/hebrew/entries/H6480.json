@@ -1,0 +1,42 @@
+{
+  "number": "H6480",
+  "language": "hebrew",
+  "transliteration": "pâtsam",
+  "pronunciation": "paw-tsam'",
+  "definition": "to rend (by earthquake)",
+  "kjvTranslation": "break.",
+  "hebrew": "פָּצַם",
+  "translations": {
+    "bg": "да се разруши (от земетресение)",
+    "cs": "roztrhat (zemětřesením)",
+    "da": "at sønderrive (ved jordskælv)",
+    "de": "zerreißen (durch Erdbeben)",
+    "el": "να σχίσει (από σεισμό)",
+    "es": "desgarrar (por terremoto)",
+    "et": "(maavärinaga) lõhkuda",
+    "fi": "repiä (maanjäristyksellä)",
+    "fr": "déchirer (par un tremblement de terre)",
+    "hu": "(földrengés által) szétszaggatni",
+    "id": "untuk merobek (oleh gempa bumi)",
+    "it": "squarciare (con un terremoto)",
+    "ja": "切り裂く",
+    "ko": "렌더링(지진으로)",
+    "lt": "suplėšyti (dėl žemės drebėjimo)",
+    "lv": "sagraut (zemestrīcē)",
+    "nb": "å rive i stykker (ved jordskjelv)",
+    "nl": "scheuren (door aardbeving)",
+    "pl": "rozerwać (przez trzęsienie ziemi)",
+    "pt": "rasgar (por terramoto)",
+    "ro": "a rupe (prin cutremur)",
+    "ru": "разрывать (при землетрясении)",
+    "sk": "roztrhnúť (zemetrasením)",
+    "sl": "razbiti (s potresom)",
+    "sv": "att slitas sönder (av jordbävning)",
+    "tr": "(depremle) parçalamak",
+    "uk": "руйнувати (від землетрусу)",
+    "zh": "震裂"
+  },
+  "verses": [
+    "psalms 60:4:2"
+  ]
+}

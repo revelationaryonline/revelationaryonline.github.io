@@ -1,0 +1,42 @@
+{
+  "number": "H7369",
+  "language": "hebrew",
+  "transliteration": "râchêq",
+  "pronunciation": "raw-khake'",
+  "definition": "remote",
+  "kjvTranslation": "that are far.",
+  "hebrew": "רָחֵק",
+  "translations": {
+    "bg": "отдалечен",
+    "cs": "vzdálený",
+    "da": "fjerntliggende",
+    "de": "remote",
+    "el": "απομακρυσμένο",
+    "es": "remoto",
+    "et": "kaugjuhtimine",
+    "fi": "etäyhteys",
+    "fr": "à distance",
+    "hu": "távoli",
+    "id": "jarak jauh",
+    "it": "remoto",
+    "ja": "リモート",
+    "ko": "원격",
+    "lt": "nuotolinis",
+    "lv": "tālvadības pults",
+    "nb": "fjerntliggende",
+    "nl": "op afstand",
+    "pl": "zdalny",
+    "pt": "remoto",
+    "ro": "la distanță",
+    "ru": "удаленный",
+    "sk": "vzdialený",
+    "sl": "oddaljeni",
+    "sv": "fjärrkontroll",
+    "tr": "uzak",
+    "uk": "пульт",
+    "zh": "远程"
+  },
+  "verses": [
+    "psalms 73:27:2"
+  ]
+}

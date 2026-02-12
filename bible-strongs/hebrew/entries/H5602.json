@@ -1,0 +1,43 @@
+{
+  "number": "H5602",
+  "language": "hebrew",
+  "transliteration": "çêphel",
+  "pronunciation": "say'-fel",
+  "definition": "a basin (as deepened out)",
+  "kjvTranslation": "bowl, dish.",
+  "hebrew": "סֵפֶל",
+  "translations": {
+    "bg": "басейн (като издълбан)",
+    "cs": "pánev (prohloubená)",
+    "da": "et bassin (som uddybes)",
+    "de": "ein Becken (als Vertiefung)",
+    "el": "μια λεκάνη (όπως εμβαθύνεται)",
+    "es": "una cuenca (como profundizada)",
+    "et": "bassein (süvendatud kujul)",
+    "fi": "allas (syvennettynä)",
+    "fr": "un bassin (comme approfondi)",
+    "hu": "medence (mint mélyített)",
+    "id": "baskom (seperti yang diperdalam)",
+    "it": "un bacino (come approfondimento)",
+    "ja": "渕",
+    "ko": "대야(깊어진 상태)",
+    "lt": "baseinas (išgaubtas)",
+    "lv": "baseins (kā padziļināts)",
+    "nb": "et basseng (som utdypet)",
+    "nl": "een bassin (zoals uitgediept)",
+    "pl": "zbiornik (jako pogłębiony)",
+    "pt": "uma bacia (como aprofundada)",
+    "ro": "un bazin (ca adâncit)",
+    "ru": "бассейн (с углублением)",
+    "sk": "umývadlo (vyhĺbené)",
+    "sl": "bazen (poglobljen)",
+    "sv": "en bassäng (som fördjupas ut)",
+    "tr": "bir havza (derinleştirilmiş olarak)",
+    "uk": "тазик (у міру заглиблення)",
+    "zh": "浚"
+  },
+  "verses": [
+    "judges 5:25:4",
+    "judges 6:38:12"
+  ]
+}

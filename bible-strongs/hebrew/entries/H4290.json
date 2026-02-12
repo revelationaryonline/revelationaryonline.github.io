@@ -1,0 +1,43 @@
+{
+  "number": "H4290",
+  "language": "hebrew",
+  "transliteration": "machtereth",
+  "pronunciation": "makh-teh'-reth",
+  "definition": "a burglary; figuratively, unexpected examination",
+  "kjvTranslation": "breaking up, secret search.",
+  "hebrew": "מַחְתֶּרֶת",
+  "translations": {
+    "bg": "кражба с взлом; в преносен смисъл - неочаквана проверка",
+    "cs": "vloupání; přeneseně nečekaná prohlídka",
+    "da": "et indbrud; i overført betydning, uventet undersøgelse",
+    "de": "ein Einbruch; im übertragenen Sinne eine unerwartete Untersuchung",
+    "el": "διάρρηξη- μεταφορικά, απροσδόκητη εξέταση",
+    "es": "un robo; en sentido figurado, un examen inesperado",
+    "et": "sissemurdmine; piltlikult öeldes ootamatu uurimine",
+    "fi": "murto; kuvaannollisesti, odottamaton tarkastus",
+    "fr": "un cambriolage ; au sens figuré, un examen inopiné",
+    "hu": "betörés; átvitt értelemben: váratlan vizsgálat",
+    "id": "perampokan; secara kiasan, pemeriksaan yang tidak terduga",
+    "it": "un furto con scasso; in senso figurato, un esame inatteso",
+    "ja": "強盗、比喩的には予期せぬ検査",
+    "ko": "도둑질; 비유적으로, 예기치 않은 검사",
+    "lt": "įsilaužimas; perkeltine prasme - netikėtas patikrinimas",
+    "lv": "ielaušanās; pārnestā nozīmē - negaidīta pārbaude",
+    "nb": "et innbrudd; i overført betydning, uventet undersøkelse",
+    "nl": "een inbraak; figuurlijk, onverwacht onderzoek",
+    "pl": "włamanie; w przenośni niespodziewane badanie",
+    "pt": "um roubo; figurativamente, um exame inesperado",
+    "ro": "o spargere; la figurat, examinare neașteptată",
+    "ru": "кража со взломом; в переносном смысле - неожиданный осмотр",
+    "sk": "vlámanie; v prenesenom význame neočakávaná prehliadka",
+    "sl": "vlom; v prenesenem pomenu nepričakovani pregled",
+    "sv": "ett inbrott; bildligt talat, oväntad undersökning",
+    "tr": "bir hırsızlık; mecazi olarak, beklenmedik inceleme",
+    "uk": "крадіжка зі зломом; образно - несподівана перевірка",
+    "zh": "突检"
+  },
+  "verses": [
+    "exodus 22:1:1",
+    "jeremiah 2:34:8"
+  ]
+}

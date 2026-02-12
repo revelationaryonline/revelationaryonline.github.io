@@ -1,0 +1,42 @@
+{
+  "number": "H6661",
+  "language": "hebrew",
+  "transliteration": "Tsiddîym",
+  "pronunciation": "tsid-deem'",
+  "definition": "Tsiddim (with the article), a place in Palestine",
+  "kjvTranslation": "Ziddim.",
+  "hebrew": "צִדִּים",
+  "translations": {
+    "bg": "Tsiddim (със статията), място в Палестина",
+    "cs": "Tsiddim (s článkem), místo v Palestině",
+    "da": "Tsiddim (med artiklen), et sted i Palæstina",
+    "de": "Tsiddim (mit dem Artikel), ein Ort in Palästina",
+    "el": "Tsiddim (με το λήμμα), τόπος στην Παλαιστίνη",
+    "es": "Tsiddim (con el artículo), un lugar en Palestina",
+    "et": "Tsiddim (koos artikliga), koht Palestiinas",
+    "fi": "Tsiddim (artikkelin kanssa), paikka Palestiinassa",
+    "fr": "Tsiddim (avec l'article), localité de Palestine",
+    "hu": "Tsiddim (a cikkel együtt), egy hely Palesztinában",
+    "id": "Tsiddim (dengan artikel), sebuah tempat di Palestina",
+    "it": "Tsiddim (con l'articolo), località della Palestina",
+    "ja": "ツィディム（記事あり）、パレスチナの地名",
+    "ko": "치딤(기사 포함), 팔레스타인의 한 장소",
+    "lt": "Tsiddim (su straipsniu), vietovė Palestinoje",
+    "lv": "Tsiddim (ar rakstu), vieta Palestīnā",
+    "nb": "Tsiddim (med artikkelen), et sted i Palestina",
+    "nl": "Tsiddim (met het lidwoord), een plaats in Palestina",
+    "pl": "Tsiddim (z artykułem), miejscowość w Palestynie",
+    "pt": "Tsiddim (com o artigo), um lugar na Palestina",
+    "ro": "Tsiddim (cu articolul), un loc în Palestina",
+    "ru": "Циддим (с артиклем), местечко в Палестине",
+    "sk": "Tsiddim (s článkom), miesto v Palestíne",
+    "sl": "Tsiddim (s členom), kraj v Palestini",
+    "sv": "Tsiddim (med artikeln), en plats i Palestina",
+    "tr": "Tsiddim (makale ile), Filistin'de bir yer",
+    "uk": "Ціддім (з артиклем), місцевість у Палестині",
+    "zh": "梯丁"
+  },
+  "verses": [
+    "joshua 19:35:2"
+  ]
+}

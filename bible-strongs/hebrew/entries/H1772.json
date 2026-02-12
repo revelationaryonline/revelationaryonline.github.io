@@ -1,0 +1,43 @@
+{
+  "number": "H1772",
+  "language": "hebrew",
+  "transliteration": "dayâh",
+  "pronunciation": "dah-yaw'",
+  "definition": "a falcon (from its rapid flight)",
+  "kjvTranslation": "vulture.",
+  "translations": {
+    "bg": "сокол (от бързия му полет)",
+    "cs": "sokol (podle rychlého letu)",
+    "da": "en falk (fra dens hurtige flugt)",
+    "de": "ein Falke (durch seinen schnellen Flug)",
+    "el": "γεράκι (από το γρήγορο πέταγμά του)",
+    "es": "un halcón (por su vuelo rápido)",
+    "et": "haigur (tema kiirest lennust)",
+    "fi": "haukka (sen nopeasta lennosta)",
+    "fr": "un faucon (à cause de son vol rapide)",
+    "hu": "sólyom (gyors repüléséből)",
+    "id": "seekor elang (dari penerbangannya yang cepat)",
+    "it": "un falco (dal suo volo rapido)",
+    "ja": "はやぶさ",
+    "ko": "매(빠른 비행에서 유래)",
+    "lt": "sokolas (dėl greito skrydžio)",
+    "lv": "sokolis (no tā straujā lidojuma)",
+    "nb": "en falk (fra dens raske flukt)",
+    "nl": "een valk (van zijn snelle vlucht)",
+    "pl": "sokół (od jego szybkiego lotu)",
+    "pt": "um falcão (pelo seu voo rápido)",
+    "ro": "un șoim (de la zborul său rapid)",
+    "ru": "сокол (от его стремительного полета)",
+    "sk": "sokol (podľa rýchleho letu)",
+    "sl": "sokol (zaradi hitrega leta)",
+    "sv": "en falk (från dess snabba flykt)",
+    "tr": "bir şahin (hızlı uçuşundan)",
+    "uk": "сокола (від його швидкого польоту)",
+    "zh": "猎鹰"
+  },
+  "hebrew": "דַּיָּה",
+  "verses": [
+    "deuteronomy 14:13:3",
+    "isaiah 34:15:10"
+  ]
+}

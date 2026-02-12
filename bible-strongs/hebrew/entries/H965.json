@@ -1,0 +1,42 @@
+{
+  "number": "H965",
+  "language": "hebrew",
+  "transliteration": "bâzâq",
+  "pronunciation": "baw-zawk'",
+  "definition": "a flash of lightning",
+  "kjvTranslation": "flash of lightning.",
+  "translations": {
+    "bg": "светкавица",
+    "cs": "blesk",
+    "da": "et lynnedslag",
+    "de": "ein Geistesblitz",
+    "el": "μια αστραπή",
+    "es": "un relámpago",
+    "et": "välk",
+    "fi": "salamanisku",
+    "fr": "un éclair",
+    "hu": "egy villámcsapás",
+    "id": "kilatan petir",
+    "it": "un lampo di luce",
+    "ja": "稲妻一閃",
+    "ko": "번개처럼 번쩍이는",
+    "lt": "žaibo blyksnis",
+    "lv": "zibens spēriens",
+    "nb": "et lynglimt",
+    "nl": "een flits van bliksem",
+    "pl": "błysk pioruna",
+    "pt": "um relâmpago",
+    "ro": "un fulger",
+    "ru": "вспышка молнии",
+    "sk": "blesk",
+    "sl": "blisk strele",
+    "sv": "en blixt från klar himmel",
+    "tr": "bir şimşek çakması",
+    "uk": "спалах блискавки",
+    "zh": "电光火石"
+  },
+  "hebrew": "בָּזָק",
+  "verses": [
+    "ezekiel 1:14:4"
+  ]
+}

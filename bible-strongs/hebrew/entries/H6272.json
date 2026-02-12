@@ -1,0 +1,42 @@
+{
+  "number": "H6272",
+  "language": "hebrew",
+  "transliteration": "ʻâtham",
+  "pronunciation": "aw-tham",
+  "definition": "probably to glow, i.e. (figuratively) be desolated",
+  "kjvTranslation": "be darkened.",
+  "hebrew": "עָתַם",
+  "translations": {
+    "bg": "вероятно да се разгори, т.е. (в преносен смисъл) да бъде опустошен",
+    "cs": "pravděpodobně zářit, tj. (obrazně) být zpustošen",
+    "da": "sandsynligvis at gløde, dvs. (i overført betydning) blive lagt øde",
+    "de": "wahrscheinlich zu glühen, d.h. (bildlich) verödet zu sein",
+    "el": "πιθανόν να λάμψει, δηλαδή (μεταφορικά) να ερημώσει",
+    "es": "probablemente resplandecer, es decir (figuradamente) quedar desolado",
+    "et": "tõenäoliselt hõõguma, st (piltlikult) hüljendama",
+    "fi": "luultavasti hehkumaan, eli (kuvaannollisesti) autioitumaan",
+    "fr": "probablement de briller, c'est-à-dire (au sens figuré) d'être désolés",
+    "hu": "valószínűleg izzani, azaz (átvitt értelemben) elnéptelenedni",
+    "id": "mungkin bersinar, yaitu (secara kiasan) menjadi sunyi",
+    "it": "probabilmente per brillare, cioè (in senso figurato) essere desolato",
+    "ja": "おそらく光り輝く、つまり（比喩的に）荒廃する",
+    "ko": "아마도 빛을 발하다, 즉 (비유적으로) 황폐화되다",
+    "lt": "tikriausiai švytėti, t. y. (perkeltine prasme) būti apleistas",
+    "lv": "iespējams, ka spīdēt, t.i., (pārnestā nozīmē) tikt izpostītam",
+    "nb": "sannsynligvis til å gløde, dvs. (i overført betydning) bli lagt øde",
+    "nl": "waarschijnlijk gloeien, d.w.z. (figuurlijk) verlaten worden",
+    "pl": "prawdopodobnie świecić, tj. (w przenośni) być spustoszonym",
+    "pt": "provavelmente brilhar, ou seja, (figurativamente) ser desolado",
+    "ro": "probabil să strălucească, adică (la figurat) să fie pustiit",
+    "ru": "вероятно, светиться, т.е. (фигурально) быть опустошенным",
+    "sk": "pravdepodobne žiariť, t. j. (obrazne) byť opustený",
+    "sl": "verjetno zažareti, tj. (v prenesenem pomenu) biti opustošen",
+    "sv": "förmodligen att glöda, dvs. (bildligt talat) vara ödelagd",
+    "tr": "muhtemelen parlamak, yani (mecazi olarak) ıssızlaşmak",
+    "uk": "ймовірно, світитися, тобто (образно) бути спустошеним",
+    "zh": "可能会发光，即（比喻）被荒废"
+  },
+  "verses": [
+    "isaiah 9:18:3"
+  ]
+}

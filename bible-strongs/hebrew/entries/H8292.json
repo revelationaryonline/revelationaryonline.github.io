@@ -1,0 +1,43 @@
+{
+  "number": "H8292",
+  "language": "hebrew",
+  "transliteration": "shᵉrûwqâh",
+  "pronunciation": "sher-oo-kaw'",
+  "definition": "a whistling (in scorn); by analogy, a piping",
+  "kjvTranslation": "bleating, hissing.",
+  "hebrew": "שְׁרוּקָה",
+  "translations": {
+    "bg": "свиркане (подигравателно); по аналогия - свирене",
+    "cs": "hvízdání (v opovržení); analogicky pískání",
+    "da": "en fløjten (i hån); analogt en piben",
+    "de": "ein Pfeifen (zum Hohn); analog dazu ein Pfeifen",
+    "el": "ένα σφύριγμα (σε περιφρόνηση); κατ' αναλογία, ένα σφύριγμα",
+    "es": "un silbido (de desprecio); por analogía, un pitido",
+    "et": "vilistamine (põlgusega); analoogiliselt torupillitamine",
+    "fi": "vihellys (halveksunta); vastaavasti piippaaminen",
+    "fr": "un sifflement (de mépris) ; par analogie, un sifflement",
+    "hu": "fütyülés (gúnyosan); ennek analógiájára pipázás",
+    "id": "siulan (sebagai ejekan); dengan analogi, pipa",
+    "it": "un fischio (in segno di disprezzo); per analogia, una tubatura",
+    "ja": "口笛（軽蔑の意）；類語として、パイピング",
+    "ko": "휘파람 (경멸의 의미); 비유하자면, 배관",
+    "lt": "švilpimas (paniekinamai); analogiškai - pypsėjimas",
+    "lv": "svilpšana (nicinot); pēc analoģijas - pīpēšana",
+    "nb": "en plystring (i hån); analogt, en piping",
+    "nl": "een fluiten (in minachting); naar analogie, een pijpen",
+    "pl": "gwizdanie (z pogardą); przez analogię, piszczenie",
+    "pt": "um assobio (de escárnio); por analogia, um piparote",
+    "ro": "un fluierat (în batjocură); prin analogie, o piftie",
+    "ru": "свист (презрительный); по аналогии - пиликанье",
+    "sk": "pískanie (na opovrhnutie); analogicky píšťala",
+    "sl": "žvižganje (v posmeh); po analogiji piskanje",
+    "sv": "en vissling (i hån); analogt en pipning",
+    "tr": "ıslık çalma (küçümseme); benzer şekilde, boru çalma",
+    "uk": "свист (зневажливо); за аналогією - дудка",
+    "zh": "啧啧"
+  },
+  "verses": [
+    "judges 5:16:5",
+    "jeremiah 18:16:3"
+  ]
+}

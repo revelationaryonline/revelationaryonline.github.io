@@ -1,0 +1,42 @@
+{
+  "number": "H6044",
+  "language": "hebrew",
+  "transliteration": "ʻÂnîym",
+  "pronunciation": "aw-neem'",
+  "definition": "Anim, a place in Palestine",
+  "kjvTranslation": "Anim.",
+  "hebrew": "עָנִים",
+  "translations": {
+    "bg": "Anim, място в Палестина",
+    "cs": "Anim, místo v Palestině",
+    "da": "Anim, et sted i Palæstina",
+    "de": "Anim, ein Ort in Palästina",
+    "el": "Anim, ένας τόπος στην Παλαιστίνη",
+    "es": "Anim, un lugar de Palestina",
+    "et": "Anim, koht Palestiinas",
+    "fi": "Anim, paikka Palestiinassa",
+    "fr": "Anim, lieu en Palestine",
+    "hu": "Anim, egy hely Palesztinában",
+    "id": "Anim, sebuah tempat di Palestina",
+    "it": "Anim, una località della Palestina",
+    "ja": "パレスチナ",
+    "ko": "팔레스타인의 한 장소, 아님",
+    "lt": "Anim, vietovė Palestinoje",
+    "lv": "Anim, vieta Palestīnā",
+    "nb": "Anim, et sted i Palestina",
+    "nl": "Anim, een plaats in Palestina",
+    "pl": "Anim, miejsce w Palestynie",
+    "pt": "Anim, um lugar na Palestina",
+    "ro": "Anim, un loc în Palestina",
+    "ru": "Аним, место в Палестине",
+    "sk": "Anim, miesto v Palestíne",
+    "sl": "Anim, kraj v Palestini",
+    "sv": "Anim, en plats i Palestina",
+    "tr": "Anim, Filistin'de bir yer",
+    "uk": "Анім, місце в Палестині",
+    "zh": "阿尼姆"
+  },
+  "verses": [
+    "joshua 15:50:2"
+  ]
+}

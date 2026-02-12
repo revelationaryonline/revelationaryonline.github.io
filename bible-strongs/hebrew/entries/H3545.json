@@ -1,0 +1,42 @@
+{
+  "number": "H3545",
+  "language": "hebrew",
+  "transliteration": "kêhâh",
+  "pronunciation": "kay-haw'",
+  "definition": "properly, a weakening; figuratively, alleviation, i.e. cure",
+  "kjvTranslation": "healing.",
+  "translations": {
+    "bg": "правилно - отслабване; преносно - облекчаване, т.е. излекуване",
+    "cs": "správně oslabení; přeneseně zmírnění, tj. vyléčení",
+    "da": "korrekt, en svækkelse; i overført betydning, lindring, dvs. helbredelse",
+    "de": "im eigentlichen Sinne eine Schwächung; im übertragenen Sinne eine Linderung, d.h. Heilung",
+    "el": "σωστά, αποδυνάμωση- μεταφορικά, ανακούφιση, δηλαδή θεραπεία",
+    "es": "propiamente, un debilitamiento; figuradamente, alivio, es decir, cura",
+    "et": "õigesti, nõrgenemine; piltlikult, leevendamine, st ravimine",
+    "fi": "oikein, heikentäminen; kuvaannollisesti, lievitys, eli parannuskeino",
+    "fr": "au sens propre, un affaiblissement ; au sens figuré, un soulagement, c'est-à-dire une guérison",
+    "hu": "helyesen: gyengülés; átvitt értelemben: enyhülés, azaz gyógyulás",
+    "id": "benar, pelemahan; secara kiasan, keringanan, yaitu penyembuhan",
+    "it": "propriamente, un indebolimento; in senso figurato, un alleggerimento, cioè una cura",
+    "ja": "比喩的には、緩和、すなわち治療。",
+    "ko": "적절하게는 약화, 비유적으로 완화, 즉 치료",
+    "lt": "tinkamai - susilpnėjimas; perkeltine prasme - palengvinimas, t. y. išgydymas",
+    "lv": "pareizi - vājināšanās; pārnestā nozīmē - atvieglojums, t.i., izārstēšana",
+    "nb": "egentlig, en svekkelse; i overført betydning, lindring, dvs. helbredelse",
+    "nl": "op de juiste manier, een verzwakking; figuurlijk, verlichting, d.w.z. genezing",
+    "pl": "właściwie, osłabienie; w przenośni, złagodzenie, tj. wyleczenie",
+    "pt": "propriamente, um enfraquecimento; figurativamente, um alívio, ou seja, uma cura",
+    "ro": "propriu-zis, slăbire; la figurat, ameliorare, adică vindecare",
+    "ru": "правильно, ослабление; образно, облегчение, т.е. лечение",
+    "sk": "správne, oslabenie; obrazne, zmiernenie, t. j. vyliečenie",
+    "sl": "pravilno, oslabitev; preneseno, olajšanje, tj. ozdravitev",
+    "sv": "i egentlig mening en försvagning; bildligt talat en lindring, dvs. bot",
+    "tr": "gerçek anlamda zayıflatma; mecazi anlamda hafifletme, yani iyileştirme",
+    "uk": "власне, ослаблення; образно - полегшення, тобто лікування",
+    "zh": "削弱；比喻减轻，即治愈"
+  },
+  "hebrew": "כֵּהָה",
+  "verses": [
+    "nahum 3:19:1"
+  ]
+}

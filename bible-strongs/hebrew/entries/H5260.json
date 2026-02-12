@@ -1,0 +1,42 @@
+{
+  "number": "H5260",
+  "language": "hebrew",
+  "transliteration": "nᵉçak",
+  "pronunciation": "nes-ak'",
+  "definition": "to pour out a libation",
+  "kjvTranslation": "offer.",
+  "hebrew": "נְסַךְ",
+  "translations": {
+    "bg": "да излива възлияние",
+    "cs": "vylévat úlitbu",
+    "da": "at skænke en libation",
+    "de": "ein Trankopfer zu geben",
+    "el": "να χύσω σπονδή",
+    "es": "servir una libación",
+    "et": "valada libauudis",
+    "fi": "kaataa juoman",
+    "fr": "verser une libation",
+    "hu": "hogy kiöntsön egy italt",
+    "id": "untuk mencurahkan persembahan",
+    "it": "versare una libagione",
+    "ja": "酒を注ぐ",
+    "ko": "술을 따르다",
+    "lt": "išpilti atnašą",
+    "lv": "izliet dzērienu",
+    "nb": "å skjenke en drikk",
+    "nl": "een plengoffer uitschenken",
+    "pl": "wylać libację",
+    "pt": "servir uma libação",
+    "ro": "a turna o libație",
+    "ru": "возлиять",
+    "sk": "naliať úľavu",
+    "sl": "nalivati pijačo",
+    "sv": "att hälla ut en libation",
+    "tr": "içki dökmek için",
+    "uk": "щоб вилити напій",
+    "zh": "酹酒"
+  },
+  "verses": [
+    "daniel 2:46:11"
+  ]
+}

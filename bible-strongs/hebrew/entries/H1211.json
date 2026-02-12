@@ -1,0 +1,42 @@
+{
+  "number": "H1211",
+  "language": "hebrew",
+  "transliteration": "betsel",
+  "pronunciation": "beh'-tsel",
+  "definition": "an onion",
+  "kjvTranslation": "onion.",
+  "translations": {
+    "bg": "един лук",
+    "cs": "cibule",
+    "da": "et løg",
+    "de": "eine Zwiebel",
+    "el": "ένα κρεμμύδι",
+    "es": "una cebolla",
+    "et": "sibul",
+    "fi": "sipuli",
+    "fr": "un oignon",
+    "hu": "egy hagyma",
+    "id": "sebuah bawang",
+    "it": "una cipolla",
+    "ja": "たまねぎ",
+    "ko": "양파",
+    "lt": "svogūnas",
+    "lv": "sīpolu",
+    "nb": "en løk",
+    "nl": "een ui",
+    "pl": "cebula",
+    "pt": "uma cebola",
+    "ro": "o ceapă",
+    "ru": "луковица",
+    "sk": "cibuľa",
+    "sl": "čebula",
+    "sv": "en lök",
+    "tr": "bir soğan",
+    "uk": "цибулину",
+    "zh": "葱"
+  },
+  "hebrew": "בֶּצֶל",
+  "verses": [
+    "numbers 11:5:14"
+  ]
+}

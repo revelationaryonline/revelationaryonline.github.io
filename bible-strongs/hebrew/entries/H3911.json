@@ -1,0 +1,42 @@
+{
+  "number": "H3911",
+  "language": "hebrew",
+  "transliteration": "lᵉṭâʼâh",
+  "pronunciation": "let-aw-aw'",
+  "definition": "a kind of lizard (from its covert habits)",
+  "kjvTranslation": "lizard.",
+  "hebrew": "לְטָאָה",
+  "translations": {
+    "bg": "вид гущер (поради скритите му навици)",
+    "cs": "druh ještěra (podle jeho skrytých zvyků)",
+    "da": "en slags firben (ud fra dens skjulte vaner)",
+    "de": "eine Art Eidechse (aufgrund ihrer heimlichen Gewohnheiten)",
+    "el": "ένα είδος σαύρας (από τις κρυφές συνήθειές της)",
+    "es": "una especie de lagarto (por sus hábitos encubiertos)",
+    "et": "mingi sisalik (tema varjatud eluviisidest lähtuvalt)",
+    "fi": "eräänlainen lisko (sen salaisista tavoista johtuen)",
+    "fr": "une sorte de lézard (en raison de ses habitudes cachées)",
+    "hu": "egyfajta gyík (rejtőzködő szokásaiból adódóan)",
+    "id": "sejenis kadal (dari kebiasaannya yang tersembunyi)",
+    "it": "una specie di lucertola (dalle sue abitudini segrete)",
+    "ja": "トカゲの一種",
+    "ko": "도마뱀의 일종(은밀한 습성에서 유래)",
+    "lt": "driežo rūšis (dėl slaptų įpročių)",
+    "lv": "ķirzakas suga (pēc tās slēptajiem ieradumiem)",
+    "nb": "en slags øgle (på grunn av sine skjulte vaner)",
+    "nl": "een soort hagedis (vanwege zijn heimelijke gewoonten)",
+    "pl": "rodzaj jaszczurki (ze względu na jej ukryte zwyczaje)",
+    "pt": "uma espécie de lagarto (pelos seus hábitos ocultos)",
+    "ro": "un fel de șopârlă (din cauza obiceiurilor sale ascunse)",
+    "ru": "разновидность ящерицы (по ее скрытным повадкам)",
+    "sk": "druh jaštera (podľa jeho skrytých zvykov)",
+    "sl": "vrsta kuščarja (zaradi prikritih navad)",
+    "sv": "en slags ödla (från dess hemliga vanor)",
+    "tr": "bir tür kertenkele (gizli alışkanlıklarından)",
+    "uk": "різновид ящірки (за своїми прихованими звичками)",
+    "zh": "蟏蛸"
+  },
+  "verses": [
+    "leviticus 11:30:2"
+  ]
+}

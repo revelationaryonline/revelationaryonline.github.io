@@ -1,0 +1,42 @@
+{
+  "number": "H6935",
+  "language": "hebrew",
+  "transliteration": "Qadmônîy",
+  "pronunciation": "kad-mo-nee'",
+  "definition": "Kadmonite (collectively), the name of a tribe in Palestine",
+  "kjvTranslation": "Kadmonites.",
+  "hebrew": "קַדְמֹנִי",
+  "translations": {
+    "bg": "Кадмонит (колективно), име на племе в Палестина",
+    "cs": "Kadmonité (souhrnně), název kmene v Palestině",
+    "da": "Kadmonit (kollektivt), navnet på en stamme i Palæstina",
+    "de": "Kadmoniter (kollektiv), der Name eines Stammes in Palästina",
+    "el": "Καδμωνίτης (συλλογικά), το όνομα μιας φυλής στην Παλαιστίνη",
+    "es": "Cadmonita (colectivamente), nombre de una tribu de Palestina",
+    "et": "Kadmonite (kollektiivselt), ühe Palestiina hõimu nimi",
+    "fi": "Kadmonilaiset (kollektiivisesti), Palestiinassa asuvan heimon nimi",
+    "fr": "Kadmonite (collectivement), nom d'une tribu en Palestine",
+    "hu": "Kadmoniták (kollektívan), egy palesztinai törzs neve",
+    "id": "Kadmonite (secara kolektif), nama sebuah suku di Palestina",
+    "it": "Kadmonite (collettivamente), nome di una tribù della Palestina",
+    "ja": "カドモナイト（総称）、パレスチナの部族名",
+    "ko": "카드모나이트(총칭), 팔레스타인의 한 부족의 이름",
+    "lt": "Kadmonite (kolektyviai), Palestinos genties pavadinimas",
+    "lv": "Kadmonite (kolektīvi), cilts nosaukums Palestīnā",
+    "nb": "Kadmonitt (kollektivt), navnet på en stamme i Palestina",
+    "nl": "Kadmoniet (collectief), de naam van een stam in Palestina",
+    "pl": "Kadmonici (łącznie), nazwa plemienia w Palestynie",
+    "pt": "Kadmonita (coletivamente), nome de uma tribo da Palestina",
+    "ro": "Kadmoniți (colectiv), numele unui trib din Palestina",
+    "ru": "Кадмониты (собирательно), название племени в Палестине",
+    "sk": "Kadmoniti (hromadne), názov kmeňa v Palestíne",
+    "sl": "Kadmonit (kolektivno), ime plemena v Palestini",
+    "sv": "Kadmonit (kollektivt), namnet på en stam i Palestina",
+    "tr": "Kadmonit (topluca), Filistin'de bir kabilenin adı",
+    "uk": "Кадмоніти (збірно), назва племені в Палестині",
+    "zh": "卡德摩尼人（统称），巴勒斯坦一个部落的名称"
+  },
+  "verses": [
+    "genesis 15:19:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H1623",
+  "language": "hebrew",
+  "transliteration": "gârad",
+  "pronunciation": "gaw-rad'",
+  "definition": "to abrade",
+  "kjvTranslation": "scrape.",
+  "translations": {
+    "bg": "да се изтърка",
+    "cs": "obrušovat",
+    "da": "at slibe",
+    "de": "abschleifen",
+    "el": "να τρίβω",
+    "es": "desgastar",
+    "et": "hõõruda",
+    "fi": "kuluttaa",
+    "fr": "abraser",
+    "hu": "lehorzsolni",
+    "id": "untuk mengikis",
+    "it": "abradere",
+    "ja": "すり減らす",
+    "ko": "마모하다",
+    "lt": "šlifuoti",
+    "lv": "abrāzēt",
+    "nb": "å slipe",
+    "nl": "schuren",
+    "pl": "ścierać",
+    "pt": "para abrasar",
+    "ro": "a abrada",
+    "ru": "истирать",
+    "sk": "obrusovať",
+    "sl": "obrusiti",
+    "sv": "att slipa",
+    "tr": "aşındırmak",
+    "uk": "шліфувати",
+    "zh": "研磨"
+  },
+  "hebrew": "גָּרַד",
+  "verses": [
+    "job 2:8:3"
+  ]
+}

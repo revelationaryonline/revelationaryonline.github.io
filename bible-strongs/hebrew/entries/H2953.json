@@ -1,0 +1,43 @@
+{
+  "number": "H2953",
+  "language": "hebrew",
+  "transliteration": "ṭᵉphar",
+  "pronunciation": "tef-ar'",
+  "definition": "a finger-nail; also a hoof or claw",
+  "kjvTranslation": "nail.",
+  "translations": {
+    "bg": "нокът; също и копито или нокът",
+    "cs": "nehet; také kopyto nebo drápek",
+    "da": "en fingernegl; også en hov eller klo",
+    "de": "ein Fingernagel; auch ein Huf oder eine Klaue",
+    "el": "ένα νύχι δακτύλου- επίσης μια οπλή ή ένα νύχι",
+    "es": "una uña; también una pezuña o garra",
+    "et": "sõrmeküüs; ka sõõrik või küünis",
+    "fi": "sormenkynsi; myös sorkka tai kynsi",
+    "fr": "l'ongle d'un doigt ; également un sabot ou une griffe",
+    "hu": "ujjköröm; továbbá pata vagy karom",
+    "id": "kuku jari; juga kuku atau cakar",
+    "it": "un'unghia; anche uno zoccolo o un artiglio",
+    "ja": "指の爪；また、蹄または爪",
+    "ko": "손가락 손톱, 발굽 또는 발톱",
+    "lt": "piršto nagas; taip pat kanopa arba nagas",
+    "lv": "nagu; arī nags vai nags",
+    "nb": "en fingernegl; også en hov eller klo",
+    "nl": "een vingernagel; ook een hoef of klauw",
+    "pl": "paznokieć; również kopyto lub pazur",
+    "pt": "uma unha; também um casco ou uma garra",
+    "ro": "o unghie; de asemenea, o copită sau o gheară",
+    "ru": "ноготь пальца; также копыто или коготь",
+    "sk": "necht; tiež kopyto alebo pazúr",
+    "sl": "noht; tudi kopito ali krempelj",
+    "sv": "en fingernagel; även en hov eller klo",
+    "tr": "bir parmak tırnağı; ayrıca bir toynak veya pençe",
+    "uk": "ніготь на пальці; також копито або кіготь",
+    "zh": "指甲；也指蹄子或爪子"
+  },
+  "hebrew": "טְפַר",
+  "verses": [
+    "daniel 4:30:21",
+    "daniel 7:19:18"
+  ]
+}

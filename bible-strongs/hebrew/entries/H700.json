@@ -1,0 +1,42 @@
+{
+  "number": "H700",
+  "language": "hebrew",
+  "transliteration": "ʼĂrubbôwth",
+  "pronunciation": "ar-oob-both",
+  "definition": "Arubboth, a place in Palestine",
+  "kjvTranslation": "Aruboth.",
+  "translations": {
+    "bg": "Арубот, място в Палестина",
+    "cs": "Arubboth, místo v Palestině",
+    "da": "Arubboth, et sted i Palæstina",
+    "de": "Arubboth, ein Ort in Palästina",
+    "el": "Arubboth, ένας τόπος στην Παλαιστίνη",
+    "es": "Arubboth, un lugar en Palestina",
+    "et": "Arubboth, koht Palestiinas",
+    "fi": "Arubboth, paikka Palestiinassa",
+    "fr": "Arubboth, localité de Palestine",
+    "hu": "Arubboth, egy hely Palesztinában",
+    "id": "Arubboth, sebuah tempat di Palestina",
+    "it": "Arubboth, località della Palestina",
+    "ja": "パレスチナの地名Arubboth",
+    "ko": "팔레스타인의 아루보스, 팔레스타인의 한 장소",
+    "lt": "Arubbotas, vietovė Palestinoje",
+    "lv": "Arubboth, vieta Palestīnā",
+    "nb": "Arubboth, et sted i Palestina",
+    "nl": "Arubboth, een plaats in Palestina",
+    "pl": "Arubboth, miejsce w Palestynie",
+    "pt": "Arubboth, um lugar na Palestina",
+    "ro": "Arubboth, un loc în Palestina",
+    "ru": "Аруббот, место в Палестине",
+    "sk": "Arubboth, miesto v Palestíne",
+    "sl": "Arubboth, kraj v Palestini",
+    "sv": "Arubboth, en plats i Palestina",
+    "tr": "Arubboth, Filistin'de bir yer",
+    "uk": "Аруббот, місце в Палестині",
+    "zh": "阿鲁博斯"
+  },
+  "hebrew": "אֲרֻבּוֹת",
+  "verses": [
+    "firstKings 4:10:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2802",
+  "language": "hebrew",
+  "transliteration": "Chereth",
+  "pronunciation": "kheh'-reth",
+  "definition": "Chereth, a thicket in Palestine",
+  "kjvTranslation": "Hereth.",
+  "translations": {
+    "bg": "Херет, храсталак в Палестина",
+    "cs": "Cheret, houští v Palestině",
+    "da": "Chereth, et krat i Palæstina",
+    "de": "Chereth, ein Gebüsch in Palästina",
+    "el": "Χερέθ, ένας θάμνος στην Παλαιστίνη",
+    "es": "Chereth, un matorral en Palestina",
+    "et": "Chereth, põõsastik Palestiinas",
+    "fi": "Chereth, tiheikkö Palestiinassa",
+    "fr": "Chereth, un fourré en Palestine",
+    "hu": "Chereth, egy bozótos Palesztinában",
+    "id": "Chereth, sebuah semak belukar di Palestina",
+    "it": "Chereth, un boschetto in Palestina",
+    "ja": "パレスチナの雑木林、チェレス",
+    "ko": "팔레스타인의 덤불, 체레스",
+    "lt": "Cheretas, krūmynas Palestinoje",
+    "lv": "Chereth, biezoknis Palestīnā",
+    "nb": "Chereth, et kratt i Palestina",
+    "nl": "Chereth, een struik in Palestina",
+    "pl": "Chereth, zarośla w Palestynie",
+    "pt": "Chereth, um matagal na Palestina",
+    "ro": "Chereth, un tufiș în Palestina",
+    "ru": "Черет, заросли в Палестине",
+    "sk": "Chereth, húština v Palestíne",
+    "sl": "Chereth, grmičevje v Palestini",
+    "sv": "Chereth, en snårskog i Palestina",
+    "tr": "Chereth, Filistin'de bir çalılık",
+    "uk": "Черет, зарості в Палестині",
+    "zh": "切勒特"
+  },
+  "hebrew": "חֶרֶת",
+  "verses": [
+    "firstSamuel 22:5:17"
+  ]
+}

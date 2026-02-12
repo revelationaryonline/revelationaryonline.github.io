@@ -1,0 +1,42 @@
+{
+  "number": "H3410",
+  "language": "hebrew",
+  "transliteration": "yarkâʼ",
+  "pronunciation": "yar-kaw'",
+  "definition": "a thigh",
+  "kjvTranslation": "thigh.",
+  "translations": {
+    "bg": "бедро",
+    "cs": "stehno",
+    "da": "et lår",
+    "de": "ein Oberschenkel",
+    "el": "ένα μηρό",
+    "es": "un muslo",
+    "et": "reie",
+    "fi": "reisi",
+    "fr": "une cuisse",
+    "hu": "egy comb",
+    "id": "paha",
+    "it": "una coscia",
+    "ja": "腿",
+    "ko": "허벅지",
+    "lt": "šlaunį",
+    "lv": "augšstilbs",
+    "nb": "et lår",
+    "nl": "een dij",
+    "pl": "udo",
+    "pt": "uma coxa",
+    "ro": "o coapsă",
+    "ru": "бедро",
+    "sk": "stehno",
+    "sl": "stegno",
+    "sv": "ett lår",
+    "tr": "bir uyluk",
+    "uk": "стегно",
+    "zh": "髀"
+  },
+  "hebrew": "יַרְכָא",
+  "verses": [
+    "daniel 2:32:11"
+  ]
+}

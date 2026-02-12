@@ -1,0 +1,42 @@
+{
+  "number": "H7953",
+  "language": "hebrew",
+  "transliteration": "shâlâh",
+  "pronunciation": "shaw-law'",
+  "definition": "to draw out or off, i.e. remove (the soul by death)",
+  "kjvTranslation": "take away.",
+  "hebrew": "שָׁלָה",
+  "translations": {
+    "bg": "да изваждам или да отнемам, т.е. да премахвам (душата чрез смърт)",
+    "cs": "vytáhnout nebo odstranit, tj. odstranit (duši smrtí)",
+    "da": "at trække ud eller væk, dvs. fjerne (sjælen ved døden)",
+    "de": "herausziehen oder abziehen, d.h. entfernen (die Seele durch den Tod)",
+    "el": "βγάζω ή απομακρύνω, δηλ. αφαιρώ (την ψυχή με το θάνατο)",
+    "es": "extraer o sacar, es decir, quitar (el alma por la muerte)",
+    "et": "välja tõmmata või maha tõmmata, s.t. eemaldada (hinge surmaga)",
+    "fi": "vetää ulos tai pois, ts. poistaa (sielu kuoleman kautta)",
+    "fr": "retirer, c'est-à-dire enlever (l'âme par la mort)",
+    "hu": "kivonni vagy eltávolítani, azaz eltávolítani (a lelket a halál által)",
+    "id": "untuk menarik keluar atau mematikan, yaitu menghilangkan (jiwa dengan kematian)",
+    "it": "estrarre o allontanare, cioè togliere (l'anima con la morte)",
+    "ja": "抜き去る",
+    "ko": "끌어내다 또는 떼어내다, 즉 (죽음으로 영혼을) 제거하다",
+    "lt": "ištraukti, pašalinti, t. y. pašalinti (sielą per mirtį)",
+    "lv": "izvilkt vai izņemt, t.i., izņemt (dvēseli ar nāvi)",
+    "nb": "å trekke ut eller av, dvs. fjerne (sjelen ved døden)",
+    "nl": "naar buiten of naar buiten trekken, d.w.z. verwijderen (de ziel door de dood)",
+    "pl": "wyciągnąć lub odłączyć, tj. usunąć (duszę przez śmierć)",
+    "pt": "tirar, ou seja, remover (a alma pela morte)",
+    "ro": "a scoate sau a îndepărta, adică a îndepărta (sufletul prin moarte)",
+    "ru": "вытаскивать или удалять, т.е. удалять (душу через смерть)",
+    "sk": "vytiahnuť alebo odstrániť, t. j. odstrániť (dušu smrťou)",
+    "sl": "izvleči ali odstraniti, tj. odstraniti (dušo s smrtjo)",
+    "sv": "att dra ut eller av, dvs. ta bort (själen genom döden)",
+    "tr": "dışarı çekmek veya çıkarmak, yani (ölümle ruhu) uzaklaştırmak",
+    "uk": "витягувати або відривати, тобто видаляти (душу смертю)",
+    "zh": "抽出或抽离，即去除（死亡带来的灵魂）"
+  },
+  "verses": [
+    "job 27:8:7"
+  ]
+}

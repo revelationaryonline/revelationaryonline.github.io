@@ -1,0 +1,42 @@
+{
+  "number": "H1452",
+  "language": "hebrew",
+  "transliteration": "Gᵉdêrâthîy",
+  "pronunciation": "ghed-ay-raw-thee'",
+  "definition": "a Gederathite, or inhabitant of Gederah",
+  "kjvTranslation": "Gederathite.",
+  "translations": {
+    "bg": "гедератски жител, или жител на Гедера",
+    "cs": "gederatský neboli obyvatel Gedery",
+    "da": "en gederathit eller indbygger i Gederah",
+    "de": "ein Gederathiter oder Einwohner von Gederah",
+    "el": "ένας Γεδεραθίτης, ή κάτοικος της Γεδέρα",
+    "es": "un gederatí, o habitante de Gederah",
+    "et": "gederatlane ehk Gederahi elanik",
+    "fi": "gederatilainen tai Gederan asukas",
+    "fr": "gederathite ou habitant de Gederah",
+    "hu": "gederathita, vagy Gederah lakója",
+    "id": "seorang Gederat, atau penduduk Gederah",
+    "it": "un Gederathita, o un abitante di Gederah",
+    "ja": "ゲデラ人（ゲデラの住民",
+    "ko": "게데라 사람, 또는 게데라의 거주자",
+    "lt": "gederatietis arba Gederos gyventojas",
+    "lv": "ģederāts jeb Ģederas iedzīvotājs",
+    "nb": "en gederatitt, eller innbygger i Gedera",
+    "nl": "een Gederathiet, of inwoner van Gederah",
+    "pl": "gederatczyk lub mieszkaniec Gederah",
+    "pt": "um gederatita, ou habitante de Gederá",
+    "ro": "un gederathit sau locuitor din Gederah",
+    "ru": "гедератец, или житель Гедераха",
+    "sk": "gederatčan alebo obyvateľ Gedery",
+    "sl": "gederatec ali prebivalec Gederje",
+    "sv": "en Gederathit, eller invånare i Gederah",
+    "tr": "bir Gederathlı ya da Gederah sakini",
+    "uk": "гедератинець, або житель Гедера",
+    "zh": "吉达人，或吉达居民"
+  },
+  "hebrew": "גְּדֵרָתִי",
+  "verses": [
+    "firstChronicles 12:5:4"
+  ]
+}

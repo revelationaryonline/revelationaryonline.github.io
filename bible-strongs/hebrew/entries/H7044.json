@@ -1,0 +1,43 @@
+{
+  "number": "H7044",
+  "language": "hebrew",
+  "transliteration": "qâlâl",
+  "pronunciation": "kaw-lawl'",
+  "definition": "brightened (as if sharpened)",
+  "kjvTranslation": "burnished, polished.",
+  "hebrew": "קָלָל",
+  "translations": {
+    "bg": "изсветлен (като изострен)",
+    "cs": "rozjasněný (jakoby vybroušený)",
+    "da": "gjort lysere (som om den var skærpet)",
+    "de": "aufgehellt (als ob geschärft)",
+    "el": "λαμπρύνει (σαν να είναι ακονισμένο)",
+    "es": "abrillantado (como si estuviera afilado)",
+    "et": "heledamaks (nagu oleks teravdatud)",
+    "fi": "kirkastettu (ikään kuin teroitettu)",
+    "fr": "éclairci (comme s'il était aiguisé)",
+    "hu": "fényesített (mintha élesítettek volna)",
+    "id": "cerah (seolah-olah dipertajam)",
+    "it": "schiarito (come se fosse affilato)",
+    "ja": "研ぎ澄まされた",
+    "ko": "밝아짐(날카롭게 다듬은 듯)",
+    "lt": "ryškesnis (tarsi paryškintas)",
+    "lv": "izgaismots (kā asināts)",
+    "nb": "lysere (som om den er skjerpet)",
+    "nl": "opgehelderd (als geslepen)",
+    "pl": "rozjaśniony (jakby wyostrzony)",
+    "pt": "iluminado (como se fosse afiado)",
+    "ro": "luminat (ca și cum ar fi ascuțit)",
+    "ru": "осветленный (как бы заостренный)",
+    "sk": "rozjasnený (akoby nabrúsený)",
+    "sl": "razjasnjeno (kot da je izostreno)",
+    "sv": "upplyst (som om den skärpts)",
+    "tr": "parlatılmış (keskinleştirilmiş gibi)",
+    "uk": "освітлений (ніби загострений)",
+    "zh": "变亮"
+  },
+  "verses": [
+    "ezekiel 1:7:11",
+    "daniel 10:6:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6619",
+  "language": "hebrew",
+  "transliteration": "Pithôm",
+  "pronunciation": "pee-thome'",
+  "definition": "Pithom, a place in Egypt",
+  "kjvTranslation": "Pithom.",
+  "hebrew": "פִּתֹם",
+  "translations": {
+    "bg": "Питом, място в Египет",
+    "cs": "Pithom, místo v Egyptě",
+    "da": "Pithom, et sted i Egypten",
+    "de": "Pithom, ein Ort in Ägypten",
+    "el": "Pithom, τόπος στην Αίγυπτο",
+    "es": "Pithom, un lugar en Egipto",
+    "et": "Pithom, koht Egiptuses",
+    "fi": "Pithom, paikka Egyptissä",
+    "fr": "Pithom, localité d'Égypte",
+    "hu": "Pithom, egy hely Egyiptomban",
+    "id": "Pithom, sebuah tempat di Mesir",
+    "it": "Pithom, una località dell'Egitto",
+    "ja": "ピトム（エジプトの地名",
+    "ko": "이집트의 피톰, 이집트",
+    "lt": "Pithom, vietovė Egipte",
+    "lv": "Pithom, vieta Ēģiptē",
+    "nb": "Pithom, et sted i Egypt",
+    "nl": "Pithom, een plaats in Egypte",
+    "pl": "Pithom, miejsce w Egipcie",
+    "pt": "Pithom, um lugar no Egito",
+    "ro": "Pithom, un loc în Egipt",
+    "ru": "Питом, место в Египте",
+    "sk": "Pithom, miesto v Egypte",
+    "sl": "Pithom, kraj v Egiptu",
+    "sv": "Pithom, en plats i Egypten",
+    "tr": "Pithom, Mısır'da bir yer",
+    "uk": "Пітхом, місце в Єгипті",
+    "zh": "皮通"
+  },
+  "verses": [
+    "exodus 1:11:12"
+  ]
+}

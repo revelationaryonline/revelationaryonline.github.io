@@ -1,0 +1,42 @@
+{
+  "number": "H99",
+  "language": "hebrew",
+  "transliteration": "ʼâgêm",
+  "pronunciation": "aw-game'",
+  "definition": "figuratively, sad",
+  "kjvTranslation": "pond.",
+  "translations": {
+    "bg": "в преносен смисъл, тъжен",
+    "cs": "obrazně řečeno, smutný",
+    "da": "i overført betydning, trist",
+    "de": "bildlich gesprochen, traurig",
+    "el": "μεταφορικά, λυπημένος",
+    "es": "figuradamente, triste",
+    "et": "piltlikult öeldes, kurb",
+    "fi": "kuvaannollisesti, surullinen",
+    "fr": "au sens figuré, triste",
+    "hu": "átvitt értelemben, szomorú",
+    "id": "secara kiasan, sedih",
+    "it": "in senso figurato, triste",
+    "ja": "比喩的に、悲しい",
+    "ko": "비유적으로, 슬픈",
+    "lt": "perkeltine prasme, liūdna",
+    "lv": "pārnestā nozīmē, skumji",
+    "nb": "i overført betydning, trist",
+    "nl": "figuurlijk, verdrietig",
+    "pl": "w przenośni, smutny",
+    "pt": "em sentido figurado, triste",
+    "ro": "la figurat, trist",
+    "ru": "фигурально выражаясь, печальный",
+    "sk": "obrazne povedané, smutné",
+    "sl": "v prenesenem pomenu, žalostno",
+    "sv": "bildligt talat, ledsen",
+    "tr": "mecazi olarak, üzgün",
+    "uk": "образно кажучи, сумно",
+    "zh": "可叹"
+  },
+  "hebrew": "אָגֵם",
+  "verses": [
+    "isaiah 19:10:6"
+  ]
+}

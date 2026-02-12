@@ -1,0 +1,42 @@
+{
+  "number": "H8136",
+  "language": "hebrew",
+  "transliteration": "shinʼân",
+  "pronunciation": "shin-awn'",
+  "definition": "change, i.e. repetition",
+  "kjvTranslation": "[idiom] angels.",
+  "hebrew": "שִׁנְאָן",
+  "translations": {
+    "bg": "промяна, т.е. повторение",
+    "cs": "změna, tj. opakování",
+    "da": "forandring, dvs. gentagelse",
+    "de": "veränderung, d.h. Wiederholung",
+    "el": "αλλαγή, δηλαδή επανάληψη",
+    "es": "cambio, es decir, repetición",
+    "et": "muutus, st kordamine",
+    "fi": "muutos, eli toisto",
+    "fr": "le changement, c'est-à-dire la répétition",
+    "hu": "változás, azaz ismétlés",
+    "id": "perubahan, yaitu pengulangan",
+    "it": "cambiamento, cioè ripetizione",
+    "ja": "変化、すなわち繰り返し",
+    "ko": "변화, 즉 반복",
+    "lt": "pokytis, t. y. pasikartojimas",
+    "lv": "izmaiņas, t.i., atkārtošanās",
+    "nb": "endring, dvs. repetisjon",
+    "nl": "verandering, d.w.z. herhaling",
+    "pl": "zmiana, tj. powtórzenie",
+    "pt": "mudança, ou seja, repetição",
+    "ro": "schimbare, adică repetiție",
+    "ru": "изменение, т.е. повторение",
+    "sk": "zmena, t. j. opakovanie",
+    "sl": "sprememba, tj. ponavljanje",
+    "sv": "förändring, d.v.s. upprepning",
+    "tr": "değişim, yani tekrarlama",
+    "uk": "зміна, тобто повторення",
+    "zh": "变化，即重复"
+  },
+  "verses": [
+    "psalms 68:18:4"
+  ]
+}

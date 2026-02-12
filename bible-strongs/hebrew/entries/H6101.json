@@ -1,0 +1,42 @@
+{
+  "number": "H6101",
+  "language": "hebrew",
+  "transliteration": "ʻâtsal",
+  "pronunciation": "aw-tsal'",
+  "definition": "to lean idly, i.e. to be indolent or slack",
+  "kjvTranslation": "be slothful.",
+  "hebrew": "עָצַל",
+  "translations": {
+    "bg": "да бездействам, т.е. да бъда ленив или мързелив",
+    "cs": "nečinně se opírat, tj. být lhostejný nebo netečný",
+    "da": "at læne sig passivt tilbage, dvs. at være indolent eller slap",
+    "de": "sich untätig anlehnen, d. h. träge oder schlaff sein",
+    "el": "να ακουμπάς άπραγος, δηλαδή να είσαι νωθρός ή χαλαρός",
+    "es": "inclinarse ociosamente, es decir, ser indolente o flojo",
+    "et": "to lean idly, s.t. olla loid või lõtv",
+    "fi": "nojata joutilaana eli olla veltto tai löysä",
+    "fr": "s'adonner à l'oisiveté, c'est-à-dire à l'indolence ou au relâchement",
+    "hu": "tétlenül dőlni, azaz tétlen vagy lusta lenni",
+    "id": "untuk bermalas-malasan, yaitu bermalas-malasan atau bermalas-malasan",
+    "it": "oziare, cioè essere indolenti o svogliati",
+    "ja": "怠ける",
+    "ko": "게으르다, 즉 게으르거나 나태하다",
+    "lt": "būti neaktyviam, t. y. neaktyviam ar atsipalaidavusiam",
+    "lv": "bezdarbīgi, t.i., bezdarbīgi vai bezdarbīgi, t.i., bezdarbīgi vai bezdarbīgi",
+    "nb": "å lene seg tilbake, dvs. å være sløv eller slapp",
+    "nl": "niets doen, d.w.z. indolent of slap zijn",
+    "pl": "opierać się bezczynnie, tj. być leniwym lub opieszałym",
+    "pt": "estar inativo, ou seja, ser indolente ou frouxo",
+    "ro": "a se apleca fără să facă nimic, adică a fi indolent sau leneș",
+    "ru": "бездельничать, т.е. быть праздным или вялым",
+    "sk": "nečinne sa opierať, t. j. byť ľahostajný alebo nečinný",
+    "sl": "ležerno se naslanjati, tj. biti nedejaven ali lenoben",
+    "sv": "att luta sig tillbaka, d.v.s. att vara indolent eller slapp",
+    "tr": "boş durmak, yani tembel veya gevşek olmak",
+    "uk": "ледарювати, тобто бути лінивим або розслабленим",
+    "zh": "慵，即懒散或懈怠"
+  },
+  "verses": [
+    "judges 18:9:14"
+  ]
+}

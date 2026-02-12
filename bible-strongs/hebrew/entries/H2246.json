@@ -1,0 +1,43 @@
+{
+  "number": "H2246",
+  "language": "hebrew",
+  "transliteration": "Chôbâb",
+  "pronunciation": "kho-bawb'",
+  "definition": "Chobab, father-in-law of Moses",
+  "kjvTranslation": "Hobab.",
+  "translations": {
+    "bg": "Чобаб, тъст на Мойсей",
+    "cs": "Chobab, Mojžíšův tchán",
+    "da": "Chobab, Moses' svigerfar",
+    "de": "Chobab, Schwiegervater von Moses",
+    "el": "Chobab, πεθερός του Μωυσή",
+    "es": "Chobab, suegro de Moisés",
+    "et": "Chobab, Moosese ämm ja isa",
+    "fi": "Chobab, Mooseksen appi",
+    "fr": "Chobab, beau-père de Moïse",
+    "hu": "Chobab, Mózes apósa",
+    "id": "Chobab, ayah mertua Musa",
+    "it": "Chobab, suocero di Mosè",
+    "ja": "モーセの義父チョバブ",
+    "ko": "모세의 장인, 초밥",
+    "lt": "Chobabas, Mozės uošvis",
+    "lv": "Čobabs, Mozus tēvs un vīrs",
+    "nb": "Chobab, Moses' svigerfar",
+    "nl": "Chobab, schoonvader van Mozes",
+    "pl": "Chobab, teść Mojżesza",
+    "pt": "Chobab, sogro de Moisés",
+    "ro": "Chobab, socrul lui Moise",
+    "ru": "Чобаб, тесть Моисея",
+    "sk": "Chobab, Mojžišov svokor",
+    "sl": "Chobab, Mojzesov svak",
+    "sv": "Chobab, svärfar till Moses",
+    "tr": "Çobab, Musa'nın kayınpederi",
+    "uk": "Ховав, тесть Мойсея",
+    "zh": "乔巴，摩西的岳父"
+  },
+  "hebrew": "חֹבָב",
+  "verses": [
+    "numbers 10:29:2",
+    "judges 4:11:5"
+  ]
+}

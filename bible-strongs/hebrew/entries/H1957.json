@@ -1,0 +1,42 @@
+{
+  "number": "H1957",
+  "language": "hebrew",
+  "transliteration": "hâzâh",
+  "pronunciation": "haw-zaw'",
+  "definition": "to dream",
+  "kjvTranslation": "sleep.",
+  "translations": {
+    "bg": "да мечтаеш",
+    "cs": "snít",
+    "da": "at drømme",
+    "de": "zu träumen",
+    "el": "να ονειρεύομαι",
+    "es": "soñar",
+    "et": "unistada",
+    "fi": "unelmoida",
+    "fr": "rêver",
+    "hu": "álmodni",
+    "id": "untuk bermimpi",
+    "it": "sognare",
+    "ja": "夢を見る",
+    "ko": "꿈을 꾸다",
+    "lt": "svajoti",
+    "lv": "sapņot",
+    "nb": "å drømme",
+    "nl": "om te dromen",
+    "pl": "marzyć",
+    "pt": "para sonhar",
+    "ro": "să visezi",
+    "ru": "мечтать",
+    "sk": "snívať",
+    "sl": "sanjati",
+    "sv": "att drömma",
+    "tr": "hayal etmek",
+    "uk": "мріяти",
+    "zh": "做梦"
+  },
+  "hebrew": "הָזָה",
+  "verses": [
+    "isaiah 56:10:12"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2817",
+  "language": "hebrew",
+  "transliteration": "Chăsûwphâʼ",
+  "pronunciation": "khas-oo-faw'",
+  "definition": "Chasupha, one of the Nethinim",
+  "kjvTranslation": "Hashupha, Hasupha.",
+  "translations": {
+    "bg": "Хасуфа, един от нетините",
+    "cs": "Chasupha, jeden z Nethinimů",
+    "da": "Chasupha, en af nethinimerne",
+    "de": "Chasupha, einer der Nethinim",
+    "el": "Chasupha, ένας από τους Nethinim",
+    "es": "Chasupha, uno de los Nethinim",
+    "et": "Chasupha, üks Nethinimidest",
+    "fi": "Chasupha, yksi nethinimeistä",
+    "fr": "Chasupha, l'un des Nethinim",
+    "hu": "Chasupha, az egyik Nethinim",
+    "id": "Chasupha, salah satu dari Nethinim",
+    "it": "Chasupha, uno dei Nethinim",
+    "ja": "ネティニムの一人、チャスーファ",
+    "ko": "네티님 중 한 명, 차수파",
+    "lt": "Chasupha, vienas iš Nethinim",
+    "lv": "Chasupha, viens no Nethinim",
+    "nb": "Chasupha, en av nethinimene",
+    "nl": "Chasupha, een van de Nethinim",
+    "pl": "Chasupha, jeden z Nethinimów",
+    "pt": "Chasupha, um dos Nethinim",
+    "ro": "Chasupha, unul dintre Nethinim",
+    "ru": "Часуфа, один из нефиним",
+    "sk": "Chasupha, jeden z Nethinim",
+    "sl": "Chasupha, eden od Nethinimov",
+    "sv": "Chasupha, en av Nethinim",
+    "tr": "Chasupha, Nethinim'den biri",
+    "uk": "Часуфа, одна з нетінімів",
+    "zh": "查苏帕，奈提宁人之一"
+  },
+  "hebrew": "חֲשׂוּפָא",
+  "verses": [
+    "ezra 2:43:4",
+    "nehemiah 7:46:4"
+  ]
+}

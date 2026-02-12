@@ -1,0 +1,43 @@
+{
+  "number": "H4254",
+  "language": "hebrew",
+  "transliteration": "machălâtsâh",
+  "pronunciation": "makh-al-aw-tsaw'",
+  "definition": "a mantle (as easily drawn off)",
+  "kjvTranslation": "changeable suit of apparel, change of raiment.",
+  "hebrew": "מַחֲלָצָה",
+  "translations": {
+    "bg": "мантия (като лесно сваляща се)",
+    "cs": "plášť (jako snadno odnímatelný)",
+    "da": "en kappe (som let trækkes af)",
+    "de": "ein Mantel (wie leicht abgezogen)",
+    "el": "μανδύας (που αφαιρείται εύκολα)",
+    "es": "un manto (como fácilmente arrancado)",
+    "et": "mantel (nagu kergesti maha tõmmatud)",
+    "fi": "vaippa (helposti irtoava)",
+    "fr": "un manteau (qui se détache facilement)",
+    "hu": "köpeny (mint könnyen lehúzható)",
+    "id": "mantel (karena mudah ditarik)",
+    "it": "un manto (come facilmente asportabile)",
+    "ja": "マントル",
+    "ko": "맨틀(쉽게 벗겨지는 것)",
+    "lt": "apsiaustas (lengvai nuplėšiamas)",
+    "lv": "apmetnis (viegli noņemams)",
+    "nb": "en kappe (som lett trekkes av)",
+    "nl": "een mantel (zoals gemakkelijk afgetrokken)",
+    "pl": "płaszcz (łatwo ściągany)",
+    "pt": "um manto (que se retira facilmente)",
+    "ro": "o mantie (ca fiind ușor de scos)",
+    "ru": "мантия (как легко снимаемая)",
+    "sk": "plášť (ako sa ľahko sťahuje)",
+    "sl": "plašč (ki se zlahka odstrani)",
+    "sv": "en mantel (som lätt dras av)",
+    "tr": "bir örtü (kolayca çıkarıldığı gibi)",
+    "uk": "мантія (легко знімається)",
+    "zh": "衣钵"
+  },
+  "verses": [
+    "isaiah 3:22:0",
+    "zechariah 3:4:18"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6709",
+  "language": "hebrew",
+  "transliteration": "tsachănâh",
+  "pronunciation": "tsakh-an-aw'",
+  "definition": "stench",
+  "kjvTranslation": "ill savour.",
+  "hebrew": "צַחֲנָה",
+  "translations": {
+    "bg": "миризма",
+    "cs": "zápach",
+    "da": "stank",
+    "de": "gestank",
+    "el": "δυσωδία",
+    "es": "hedor",
+    "et": "hais",
+    "fi": "haju",
+    "fr": "puanteur",
+    "hu": "bűz",
+    "id": "bau busuk",
+    "it": "fetore",
+    "ja": "悪臭",
+    "ko": "악취",
+    "lt": "kvapas",
+    "lv": "smārds",
+    "nb": "stank",
+    "nl": "stank",
+    "pl": "smród",
+    "pt": "mau cheiro",
+    "ro": "duhoare",
+    "ru": "вонь",
+    "sk": "zápach",
+    "sl": "smrad",
+    "sv": "stank",
+    "tr": "pis koku",
+    "uk": "сморід",
+    "zh": "臭气"
+  },
+  "verses": [
+    "joel 2:20:21"
+  ]
+}

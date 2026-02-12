@@ -1,0 +1,42 @@
+{
+  "number": "H2854",
+  "language": "hebrew",
+  "transliteration": "chăthullâh",
+  "pronunciation": "khath-ool-law'",
+  "definition": "a swathing cloth (figuratively)",
+  "kjvTranslation": "swaddling band.",
+  "translations": {
+    "bg": "плат за покриване (в преносен смисъл)",
+    "cs": "plátno (v přeneseném významu)",
+    "da": "en svøbende klud (i overført betydning)",
+    "de": "ein Schwadtuch (im übertragenen Sinne)",
+    "el": "ένα πανί που στρώνει (μεταφορικά)",
+    "es": "un paño hilerador (en sentido figurado)",
+    "et": "rätik (piltlikult öeldes)",
+    "fi": "vannekangas (kuvaannollisesti)",
+    "fr": "une toile d'araignée (au sens figuré)",
+    "hu": "egy kendő (átvitt értelemben)",
+    "id": "kain pembungkus (secara kiasan)",
+    "it": "un telo che avvolge (in senso figurato)",
+    "ja": "はたおりもの",
+    "ko": "휘두르는 천(비유적으로)",
+    "lt": "audeklas (perkeltine prasme)",
+    "lv": "lupatu audums (pārnestā nozīmē)",
+    "nb": "et klede (i overført betydning)",
+    "nl": "een zwabberende doek (figuurlijk)",
+    "pl": "tkanina pokosowa (w przenośni)",
+    "pt": "um pano de cobertura (em sentido figurado)",
+    "ro": "o pânză de înfășat (la figurat)",
+    "ru": "полотнище (фигурально)",
+    "sk": "pokrovec (v prenesenom význame)",
+    "sl": "krpo za prelivanje (v prenesenem pomenu)",
+    "sv": "en svepande duk (bildligt talat)",
+    "tr": "bir örtü (mecazi olarak)",
+    "uk": "ганчірка для валків (образно)",
+    "zh": "蒯"
+  },
+  "hebrew": "חֲתֻלָּה",
+  "verses": [
+    "job 38:9:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5772",
+  "language": "hebrew",
+  "transliteration": "ʻôwnâh",
+  "pronunciation": "o-naw'",
+  "definition": "sexual (cohabitation)",
+  "kjvTranslation": "duty of marriage.",
+  "hebrew": "עוֹנָה",
+  "translations": {
+    "bg": "сексуални (съжителство)",
+    "cs": "sexuální (soužití)",
+    "da": "seksuelt (samliv)",
+    "de": "sexuell (Zusammenleben)",
+    "el": "σεξουαλική (συγκατοίκηση)",
+    "es": "sexual (cohabitación)",
+    "et": "seksuaalne (kooselu)",
+    "fi": "seksuaalinen (avoliitto)",
+    "fr": "sexuelle (cohabitation)",
+    "hu": "szexuális (együttélés)",
+    "id": "seksual (hidup bersama)",
+    "it": "sessuale (convivenza)",
+    "ja": "セクシャル",
+    "ko": "성적(동거)",
+    "lt": "seksualinis (bendras gyvenimas)",
+    "lv": "seksuālā (kopdzīve)",
+    "nb": "seksuell (samliv)",
+    "nl": "seksueel (samenwonen)",
+    "pl": "seksualne (konkubinat)",
+    "pt": "sexual (coabitação)",
+    "ro": "sexuală (coabitare)",
+    "ru": "сексуальный (сожительство)",
+    "sk": "sexuálne (spolužitie)",
+    "sl": "spolni (kohabitacija)",
+    "sv": "sexuell (samboförhållande)",
+    "tr": "cinsel (birlikte yaşama)",
+    "uk": "сексуальні (співжиття)",
+    "zh": "性（同居）"
+  },
+  "verses": [
+    "exodus 21:10:6"
+  ]
+}

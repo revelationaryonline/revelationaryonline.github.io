@@ -1,0 +1,42 @@
+{
+  "number": "H6230",
+  "language": "hebrew",
+  "transliteration": "ʻêseq",
+  "pronunciation": "ay'sek",
+  "definition": "strife",
+  "kjvTranslation": "Esek.",
+  "hebrew": "עֵשֶׂק",
+  "translations": {
+    "bg": "раздор",
+    "cs": "svár",
+    "da": "stridigheder",
+    "de": "streit",
+    "el": "διαμάχη",
+    "es": "conflicto",
+    "et": "tüli",
+    "fi": "riita",
+    "fr": "conflit",
+    "hu": "viszály",
+    "id": "perselisihan",
+    "it": "conflitto",
+    "ja": "争い",
+    "ko": "분쟁",
+    "lt": "nesantaika",
+    "lv": "strīdi",
+    "nb": "strid",
+    "nl": "strijd",
+    "pl": "walka",
+    "pt": "conflito",
+    "ro": "conflict",
+    "ru": "раздор",
+    "sk": "spor",
+    "sl": "spor",
+    "sv": "strid",
+    "tr": "çekişme",
+    "uk": "розбрат",
+    "zh": "纷争"
+  },
+  "verses": [
+    "genesis 26:20:12"
+  ]
+}

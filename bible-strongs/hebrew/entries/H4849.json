@@ -1,0 +1,42 @@
+{
+  "number": "H4849",
+  "language": "hebrew",
+  "transliteration": "mirshaʻath",
+  "pronunciation": "meer-shah'-ath",
+  "definition": "a female wicked doer",
+  "kjvTranslation": "wicked woman.",
+  "hebrew": "מִרְשַׁעַת",
+  "translations": {
+    "bg": "женски нечестивец",
+    "cs": "žena, která páchá zlobu",
+    "da": "en kvindelig ondskabsfuld gerningsmand",
+    "de": "eine Frau, die Böses tut",
+    "el": "μια γυναίκα που κάνει κακό",
+    "es": "una mujer malhechora",
+    "et": "naissoost kuri tegija",
+    "fi": "naispuolinen pahantekijä",
+    "fr": "une femme méchante",
+    "hu": "egy női gonosztevő",
+    "id": "seorang wanita pelaku kejahatan",
+    "it": "una donna malvagia",
+    "ja": "あくじょ",
+    "ko": "악행을 저지르는 여성",
+    "lt": "moteriškos lyties piktadarė",
+    "lv": "sieviete ļaundaris",
+    "nb": "en kvinnelig ugudelig gjerningsperson",
+    "nl": "een vrouwelijke boosdoener",
+    "pl": "kobieta czyniąca zło",
+    "pt": "uma mulher malvada",
+    "ro": "o femeie care face rău",
+    "ru": "женщина-злодейка",
+    "sk": "žena, ktorá pácha zlobu",
+    "sl": "ženska hudobnica",
+    "sv": "en kvinnlig ondsint gärningsman",
+    "tr": "kötü iş yapan bir kadın",
+    "uk": "жінка-злочинець",
+    "zh": "女恶人"
+  },
+  "verses": [
+    "secondChronicles 24:7:2"
+  ]
+}

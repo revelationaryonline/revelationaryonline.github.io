@@ -1,0 +1,42 @@
+{
+  "number": "H7444",
+  "language": "hebrew",
+  "transliteration": "rannên",
+  "pronunciation": "ran-nane'",
+  "definition": "shouting (for joy)",
+  "kjvTranslation": "singing.",
+  "hebrew": "רַנֵּן",
+  "translations": {
+    "bg": "викане (от радост)",
+    "cs": "křik (z radosti)",
+    "da": "råber (af glæde)",
+    "de": "schreien (vor Freude)",
+    "el": "φωνάζοντας (από χαρά)",
+    "es": "gritando (de alegría)",
+    "et": "karjumine (rõõmust)",
+    "fi": "huutaminen (ilosta)",
+    "fr": "crier (de joie)",
+    "hu": "kiabálás (az örömtől)",
+    "id": "berteriak (untuk kegembiraan)",
+    "it": "gridare (di gioia)",
+    "ja": "歓声",
+    "ko": "소리 지르기(기쁨을 위해)",
+    "lt": "šauksmas (iš džiaugsmo)",
+    "lv": "kliegšana (no prieka)",
+    "nb": "ropende (av glede)",
+    "nl": "schreeuwen (van vreugde)",
+    "pl": "krzyczeć (z radości)",
+    "pt": "gritar (de alegria)",
+    "ro": "strigând (de bucurie)",
+    "ru": "кричать (от радости)",
+    "sk": "kričanie (od radosti)",
+    "sl": "kričanje (od veselja)",
+    "sv": "skrikande (av glädje)",
+    "tr": "bağırmak (sevinç için)",
+    "uk": "крик (від радості)",
+    "zh": "呼喊"
+  },
+  "verses": [
+    "psalms 132:16:4"
+  ]
+}

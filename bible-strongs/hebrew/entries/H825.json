@@ -1,0 +1,43 @@
+{
+  "number": "H825",
+  "language": "hebrew",
+  "transliteration": "ʼashshâph",
+  "pronunciation": "ash-shawf'",
+  "definition": "a conjurer",
+  "kjvTranslation": "astrologer.",
+  "translations": {
+    "bg": "заклинател",
+    "cs": "kejklíř",
+    "da": "en tryllekunstner",
+    "de": "ein Zauberer",
+    "el": "ένας ταχυδακτυλουργός",
+    "es": "un prestidigitador",
+    "et": "võlur",
+    "fi": "taikuri",
+    "fr": "un prestidigitateur",
+    "hu": "egy varázsló",
+    "id": "seorang pesulap",
+    "it": "un prestigiatore",
+    "ja": "きじゅつし",
+    "ko": "요술사",
+    "lt": "burtininkas",
+    "lv": "burvis",
+    "nb": "en tryllekunstner",
+    "nl": "een goochelaar",
+    "pl": "zaklinacz",
+    "pt": "um conjurador",
+    "ro": "un prestidigitator",
+    "ru": "фокусник",
+    "sk": "kúzelník",
+    "sl": "čarovnik",
+    "sv": "en trollkarl",
+    "tr": "bir büyücü",
+    "uk": "фокусник",
+    "zh": "魔术师"
+  },
+  "hebrew": "אַשָּׁף",
+  "verses": [
+    "daniel 1:20:14",
+    "daniel 2:2:4"
+  ]
+}

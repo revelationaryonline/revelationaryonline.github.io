@@ -1,0 +1,43 @@
+{
+  "number": "H5765",
+  "language": "hebrew",
+  "transliteration": "ʻăval",
+  "pronunciation": "aw-val'",
+  "definition": "to distort (morally)",
+  "kjvTranslation": "deal unjustly, unrighteous.",
+  "hebrew": "עֲוַל",
+  "translations": {
+    "bg": "да изкривява (морално)",
+    "cs": "zkreslovat (morálně)",
+    "da": "at fordreje (moralsk)",
+    "de": "(moralisch) zu verzerren",
+    "el": "να διαστρεβλώνω (ηθικά)",
+    "es": "distorsionar (moralmente)",
+    "et": "moonutada (moraalselt)",
+    "fi": "vääristää (moraalisesti)",
+    "fr": "déformer (moralement)",
+    "hu": "eltorzítani (erkölcsileg)",
+    "id": "untuk mendistorsi (secara moral)",
+    "it": "distorcere (moralmente)",
+    "ja": "歪める",
+    "ko": "(도덕적으로) 왜곡하다",
+    "lt": "iškreipti (moraliai)",
+    "lv": "izkropļot (morāli)",
+    "nb": "å forvrenge (moralsk)",
+    "nl": "(moreel) vervormen",
+    "pl": "zniekształcać (moralnie)",
+    "pt": "distorcer (moralmente)",
+    "ro": "a denatura (moral)",
+    "ru": "искажать (морально)",
+    "sk": "narušiť (morálne)",
+    "sl": "izkrivljati (moralno)",
+    "sv": "att förvränga (moraliskt)",
+    "tr": "(ahlaki olarak) çarpıtmak",
+    "uk": "спотворювати (морально)",
+    "zh": "扭曲"
+  },
+  "verses": [
+    "psalms 71:4:5",
+    "isaiah 26:10:7"
+  ]
+}

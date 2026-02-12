@@ -1,0 +1,43 @@
+{
+  "number": "H7366",
+  "language": "hebrew",
+  "transliteration": "rachats",
+  "pronunciation": "rakh'-ats",
+  "definition": "a bath",
+  "kjvTranslation": "wash(-pot).",
+  "hebrew": "רַחַץ",
+  "translations": {
+    "bg": "баня",
+    "cs": "koupel",
+    "da": "et bad",
+    "de": "ein Bad",
+    "el": "ένα μπάνιο",
+    "es": "un baño",
+    "et": "vann",
+    "fi": "kylpyamme",
+    "fr": "un bain",
+    "hu": "egy fürdő",
+    "id": "mandi",
+    "it": "un bagno",
+    "ja": "水浴",
+    "ko": "목욕",
+    "lt": "vonia",
+    "lv": "vanna",
+    "nb": "et bad",
+    "nl": "een bad",
+    "pl": "kąpiel",
+    "pt": "um banho",
+    "ro": "o baie",
+    "ru": "ванна",
+    "sk": "kúpeľ",
+    "sl": "kopel",
+    "sv": "ett bad",
+    "tr": "bir banyo",
+    "uk": "ванну",
+    "zh": "浴缸"
+  },
+  "verses": [
+    "psalms 60:10:2",
+    "psalms 108:10:2"
+  ]
+}

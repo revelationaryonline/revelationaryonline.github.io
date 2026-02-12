@@ -1,0 +1,42 @@
+{
+  "number": "H5354",
+  "language": "hebrew",
+  "transliteration": "nâqaṭ",
+  "pronunciation": "naw-kat'",
+  "definition": "to loathe",
+  "kjvTranslation": "weary.",
+  "hebrew": "נָקַט",
+  "translations": {
+    "bg": "да се отвращава",
+    "cs": "nenávidět",
+    "da": "at afsky",
+    "de": "zu verabscheuen",
+    "el": "να απεχθάνομαι",
+    "es": "detestar",
+    "et": "vihkama",
+    "fi": "inhoamaan",
+    "fr": "détester",
+    "hu": "utálni",
+    "id": "untuk membenci",
+    "it": "detestare",
+    "ja": "大嫌い",
+    "ko": "혐오하다",
+    "lt": "neapkęsti",
+    "lv": "ienīst",
+    "nb": "å avsky",
+    "nl": "verafschuwen",
+    "pl": "nienawidzić",
+    "pt": "detestar",
+    "ro": "să deteste",
+    "ru": "ненавидеть",
+    "sk": "nenávidieť",
+    "sl": "sovražiti",
+    "sv": "att avsky",
+    "tr": "nefret etmek",
+    "uk": "ненавидіти",
+    "zh": "憎恶"
+  },
+  "verses": [
+    "job 10:1:0"
+  ]
+}

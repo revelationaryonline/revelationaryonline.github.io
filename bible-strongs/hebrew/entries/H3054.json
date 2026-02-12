@@ -1,0 +1,42 @@
+{
+  "number": "H3054",
+  "language": "hebrew",
+  "transliteration": "yâhad",
+  "pronunciation": "yaw-had'",
+  "definition": "to Judaize, i.e. become Jewish",
+  "kjvTranslation": "become Jews.",
+  "translations": {
+    "bg": "да се юдаизира, т.е. да стане евреин",
+    "cs": "judaizovat, tj. stát se Židem",
+    "da": "at judaisere, dvs. blive jødisk",
+    "de": "zu judaisieren, d.h. jüdisch zu werden",
+    "el": "να ιουδαϊστούν, δηλαδή να γίνουν Εβραίοι",
+    "es": "judaizarse, es decir, convertirse en judío",
+    "et": "judaiseeruda, st muutuda juudiks",
+    "fi": "juutalaistua eli tulla juutalaiseksi",
+    "fr": "judaïser, c'est-à-dire devenir juif",
+    "hu": "zsidósodni, azaz zsidóvá válni",
+    "id": "menjadi Yahudi, yaitu menjadi orang Yahudi",
+    "it": "giudaizzare, cioè diventare ebreo",
+    "ja": "ユダヤ化する、つまりユダヤ人になる",
+    "ko": "유대화하다, 즉 유대인이 되다",
+    "lt": "judaizuotis, t. y. tapti žydu",
+    "lv": "jūdaizēties, t.i., kļūt par ebreju",
+    "nb": "å judaisere, dvs. bli jøde",
+    "nl": "judaïseren, d.w.z. Joods worden",
+    "pl": "judaizować, tj. stać się Żydem",
+    "pt": "judaizar-se, ou seja, tornar-se judeu",
+    "ro": "a se iudaiza, adică a deveni evreu",
+    "ru": "иудаизироваться, т.е. стать евреем",
+    "sk": "judaizovať sa, t. j. stať sa Židom",
+    "sl": "judaizirati, tj. postati judovski",
+    "sv": "att judaisera, d.v.s. bli judisk",
+    "tr": "yahudileşmek, yani Yahudi olmak",
+    "uk": "юдаїзуватися, тобто стати євреєм",
+    "zh": "犹太化，即成为犹太人"
+  },
+  "hebrew": "יָהַד",
+  "verses": [
+    "esther 8:17:21"
+  ]
+}

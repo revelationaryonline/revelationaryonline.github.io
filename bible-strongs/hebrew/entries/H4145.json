@@ -1,0 +1,43 @@
+{
+  "number": "H4145",
+  "language": "hebrew",
+  "transliteration": "mûwçâdâh",
+  "pronunciation": "moo-saw-daw'",
+  "definition": "a foundation; figuratively, an appointment",
+  "kjvTranslation": "foundation, grounded. Compare H4328 (מְיֻסָּדָה).",
+  "hebrew": "מוּסָדָה",
+  "translations": {
+    "bg": "основа; в преносен смисъл - назначение",
+    "cs": "základ; přeneseně jmenování",
+    "da": "et fundament; i overført betydning en aftale",
+    "de": "ein Fundament; im übertragenen Sinne eine Ernennung",
+    "el": "ένα θεμέλιο- μεταφορικά, ένα ραντεβού",
+    "es": "un cimiento; en sentido figurado, una cita",
+    "et": "vundament; piltlikult öeldes kohtumine",
+    "fi": "perusta; kuvaannollisesti nimitys",
+    "fr": "une fondation ; au sens figuré, une nomination",
+    "hu": "egy alapítvány; átvitt értelemben egy kinevezés",
+    "id": "sebuah yayasan; secara kiasan, sebuah janji",
+    "it": "un fondamento; in senso figurato, un appuntamento",
+    "ja": "礎；比喩的には、任命",
+    "ko": "기초; 비유적으로, 약속",
+    "lt": "pamatas; perkeltine prasme - paskyrimas",
+    "lv": "pamats; pārnestā nozīmē - iecelšana",
+    "nb": "et fundament; i overført betydning, en avtale",
+    "nl": "een fundament; figuurlijk, een afspraak",
+    "pl": "fundament; w przenośni, spotkanie",
+    "pt": "uma fundação; figurativamente, uma nomeação",
+    "ro": "o fundație; la figurat, o programare",
+    "ru": "основание; образно говоря, назначение",
+    "sk": "základ; v prenesenom význame stretnutie",
+    "sl": "temelj; v prenesenem pomenu imenovanje",
+    "sv": "en grund; bildligt talat, ett möte",
+    "tr": "bir temel; mecazi anlamda bir atama",
+    "uk": "фундамент; образно кажучи, призначення",
+    "zh": "基业；约定"
+  },
+  "verses": [
+    "isaiah 30:32:4",
+    "ezekiel 41:8:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2644",
+  "language": "hebrew",
+  "transliteration": "châphâʼ",
+  "pronunciation": "khaw-faw'",
+  "definition": "properly, to cover, i.e. (in a sinister sense) to act covertly",
+  "kjvTranslation": "do secretly.",
+  "translations": {
+    "bg": "правилно, да прикривам, т.е. (в зловещ смисъл) да действам тайно",
+    "cs": "správně, zakrýt, tj. (ve zlověstném smyslu) jednat skrytě",
+    "da": "korrekt, at dække, dvs. (i en uhyggelig forstand) at handle i det skjulte",
+    "de": "richtig: verdecken, d.h. (in einem unheilvollen Sinn) verdeckt handeln",
+    "el": "σωστά, να καλύπτω, δηλαδή (με μια δυσοίωνη έννοια) να ενεργώ κρυφά",
+    "es": "propiamente, encubrir, es decir (en un sentido siniestro) actuar a escondidas",
+    "et": "õigesti, varjata, st (pahaendeliselt) tegutseda salaja",
+    "fi": "oikein, peittää, eli (pahaenteisessä mielessä) toimia salaa",
+    "fr": "proprement, couvrir, c'est-à-dire (dans un sens sinistre) agir secrètement",
+    "hu": "helyesen, fedezni, azaz (baljós értelemben) titokban cselekedni",
+    "id": "benar, untuk menutupi, yaitu (dalam arti jahat) untuk bertindak secara diam-diam",
+    "it": "propriamente, coprire, cioè (in senso sinistro) agire in modo occulto",
+    "ja": "正しくは、隠す、すなわち（不吉な意味で）隠密に行動する",
+    "ko": "적절하게, 은폐하다, 즉 (불길한 의미에서) 은밀하게 행동하다",
+    "lt": "tinkamai - pridengti, t. y. (grėsminga prasme) veikti slaptai",
+    "lv": "pareizi - piesegt, t.i., (draudīgā nozīmē) rīkoties slepeni",
+    "nb": "egentlig, å dekke over, dvs. (i en uhyggelig betydning) å opptre i det skjulte",
+    "nl": "goed, bedekken, d.w.z. (in een sinistere zin) heimelijk handelen",
+    "pl": "właściwie, przykrywać, tj. (w złowrogim sensie) działać potajemnie",
+    "pt": "propriamente, encobrir, ou seja (num sentido sinistro) atuar de forma dissimulada",
+    "ro": "corect, a acoperi, adică (într-un sens sinistru) a acționa pe ascuns",
+    "ru": "правильно, прикрывать, т.е. (в зловещем смысле) действовать тайно",
+    "sk": "správne, kryť, t. j. (v zlovestnom zmysle) konať tajne",
+    "sl": "pravilno, prikriti, tj. (v zloveščem smislu) prikrito delovati",
+    "sv": "korrekt, att dölja, dvs. (i en ondskefull mening) att agera i hemlighet",
+    "tr": "uygun şekilde, örtmek, yani (kötü anlamda) gizlice hareket etmek",
+    "uk": "власне, покривати, тобто (у зловісному сенсі) діяти таємно",
+    "zh": "正确地说，是掩护，即（在阴险的意义上）暗中行动"
+  },
+  "hebrew": "חָפָא",
+  "verses": [
+    "secondKings 17:9:0"
+  ]
+}

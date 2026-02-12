@@ -1,0 +1,42 @@
+{
+  "number": "H777",
+  "language": "hebrew",
+  "transliteration": "ʼartsâʼ",
+  "pronunciation": "ar-tsaw'",
+  "definition": "Artsa, an Israelite",
+  "kjvTranslation": "Arza.",
+  "translations": {
+    "bg": "Арца, израилтянин",
+    "cs": "Artsa, Izraelita",
+    "da": "Artsa, en israelit",
+    "de": "Artsa, ein Israelit",
+    "el": "Artsa, Ισραηλίτης",
+    "es": "Artsa, israelita",
+    "et": "Artsa, iisraellane",
+    "fi": "Artsa, israelilainen",
+    "fr": "Artsa, Israélite",
+    "hu": "Artsa, izraelita",
+    "id": "Artsa, seorang Israel",
+    "it": "Artsa, un israelita",
+    "ja": "イスラエル人アーツァ",
+    "ko": "이스라엘인, 아르사",
+    "lt": "Artsa, izraelitas",
+    "lv": "Artsa, izraēlietis",
+    "nb": "Artsa, en israelitt",
+    "nl": "Artsa, een Israëliet",
+    "pl": "Artsa, Izraelita",
+    "pt": "Artsa, israelita",
+    "ro": "Artsa, un israelit",
+    "ru": "Арца, израильтянин",
+    "sk": "Artsa, Izraelita",
+    "sl": "Artsa, Izraelec",
+    "sv": "Artsa, en israelit",
+    "tr": "Artsa, bir İsrailli",
+    "uk": "Арца, ізраїльтянин",
+    "zh": "以色列人阿尔沙"
+  },
+  "hebrew": "אַרְצָא",
+  "verses": [
+    "firstKings 16:9:12"
+  ]
+}

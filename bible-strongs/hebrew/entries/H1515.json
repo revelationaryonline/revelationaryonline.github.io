@@ -1,0 +1,43 @@
+{
+  "number": "H1515",
+  "language": "hebrew",
+  "transliteration": "Gachar",
+  "pronunciation": "gah'-khar",
+  "definition": "Gachar, one of the Nethinim",
+  "kjvTranslation": "Gahar.",
+  "translations": {
+    "bg": "Гачар, един от нетините",
+    "cs": "Gachar, jeden z Nethinimů",
+    "da": "Gachar, en af nethinimerne",
+    "de": "Gachar, einer der Nethinim",
+    "el": "Gachar, ένας από τους Nethinim",
+    "es": "Gachar, uno de los Nethinim",
+    "et": "Gachar, üks nethinidest",
+    "fi": "Gachar, yksi nethinimiläisistä",
+    "fr": "Gachar, l'un des Nethinim",
+    "hu": "Gachar, a Nethinim egyik tagja",
+    "id": "Gachar, salah satu anggota Nethinim",
+    "it": "Gachar, uno dei Nethinim",
+    "ja": "ネティニムの一人、ガチャール",
+    "ko": "네티님 중 한 명, 가차르",
+    "lt": "Gacharas, vienas iš Nethinimų",
+    "lv": "Gachar, viens no Nethinim",
+    "nb": "Gachar, en av nethinimene",
+    "nl": "Gachar, een van de Nethinim",
+    "pl": "Gachar, jeden z Nethinimów",
+    "pt": "Gachar, um dos Nethinim",
+    "ro": "Gachar, unul dintre Nethinim",
+    "ru": "Гахар, один из нефиним",
+    "sk": "Gachar, jeden z Nethinim",
+    "sl": "Gachar, eden od Nethinimov",
+    "sv": "Gachar, en av Nethinim",
+    "tr": "Gachar, Nethinim'den biri",
+    "uk": "Гахар, один з нефінімів",
+    "zh": "加查尔，奈西尼姆人之一"
+  },
+  "hebrew": "גַּחַר",
+  "verses": [
+    "ezra 2:47:3",
+    "nehemiah 7:49:5"
+  ]
+}

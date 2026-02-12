@@ -1,0 +1,43 @@
+{
+  "number": "H4454",
+  "language": "hebrew",
+  "transliteration": "mâlaq",
+  "pronunciation": "maw-lak'",
+  "definition": "to crack a joint; by implication, to wring the neck of afowl (without separating it)",
+  "kjvTranslation": "wring off.",
+  "hebrew": "מָלַק",
+  "translations": {
+    "bg": "да се счупи ставата; по подразбиране - да се извие шията на птица (без да се отделя)",
+    "cs": "prasknout kloub; implicitně zakroutit krkem ptáka (aniž by se oddělil)",
+    "da": "at knække et led; underforstået at vride halsen om på en fugl (uden at skille den ad)",
+    "de": "ein Gelenk knacken; damit ist gemeint, einem Geflügel den Hals zu drehen (ohne es zu trennen)",
+    "el": "να σπάσω μια άρθρωση- κατ' επέκταση, να στύψω το λαιμό ενός πουλιού (χωρίς να το χωρίσω)",
+    "es": "romper una articulación; por implicación, retorcer el cuello de un ave (sin separarla)",
+    "et": "lõhkuda liiges; kaudselt väänata linnu kaela (ilma seda eraldamata)",
+    "fi": "nivelen murtaminen; implisiittisesti, linnun kaulan vääntäminen (erottamatta sitä)",
+    "fr": "faire craquer une articulation ; par implication, tordre le cou d'une volaille (sans la séparer)",
+    "hu": "kitörni egy ízületet; ezzel együtt a szárnyas nyakát kitekerni (anélkül, hogy szétválasztanánk)",
+    "id": "untuk meretakkan sendi; sebagai implikasinya, meremas leher unggas (tanpa memisahkannya)",
+    "it": "rompere un'articolazione; per implicazione, tirare il collo di un uccello (senza separarlo)",
+    "ja": "関節にひびを入れる；暗に、（分離せずに）家禽の首を絞める。",
+    "ko": "관절에 균열을 내다; 암시적으로, (분리하지 않고) 새의 목을 짜다",
+    "lt": "sulaužyti sąnarį; netiesiogiai - išsukti paukščiui kaklą (jo neatskiriant)",
+    "lv": "salauzt locītavu; netieši - izkratīt putna kaklu (neatdalot to)",
+    "nb": "å knekke et ledd; underforstått, å vri halsen om på en fugl (uten å skille den)",
+    "nl": "een gewricht kraken; impliciet, de nek van een kip omdraaien (zonder hem te scheiden)",
+    "pl": "złamać staw; w domyśle, skręcić kark ptaka (bez rozdzielania go)",
+    "pt": "estalar uma articulação; por implicação, torcer o pescoço de uma ave (sem a separar)",
+    "ro": "a rupe o articulație; implicit, a stoarce gâtul unei păsări (fără a o despărți)",
+    "ru": "трещать по суставам; по смыслу - сворачивать шею птице (не разделяя ее)",
+    "sk": "prasknúť kĺb; implicitne vykrútiť krk vtáka (bez toho, aby sa oddelil)",
+    "sl": "zlomiti sklep; implicitno, zviti vrat kokoši (ne da bi jo ločil)",
+    "sv": "att knäcka en led; underförstått, att vrida nacken av en fågel (utan att skilja den åt)",
+    "tr": "bir eklemi çatlatmak; ima yoluyla, bir kuşun boynunu (ayırmadan) sıkmak",
+    "uk": "зламати суглоб; підтекстом - скрутити шию птиці (не відокремлюючи її)",
+    "zh": "拧断关节；暗指拧断家禽的脖子（不将其分开）。"
+  },
+  "verses": [
+    "leviticus 1:15:4",
+    "leviticus 5:8:9"
+  ]
+}

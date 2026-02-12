@@ -1,0 +1,43 @@
+{
+  "number": "H6294",
+  "language": "hebrew",
+  "transliteration": "pegaʻ",
+  "pronunciation": "peh'-gah",
+  "definition": "impact (casual)",
+  "kjvTranslation": "chance, occurent.",
+  "hebrew": "פֶּגַע",
+  "translations": {
+    "bg": "въздействие (случайно)",
+    "cs": "dopad (příležitostný)",
+    "da": "påvirkning (tilfældig)",
+    "de": "auswirkungen (gelegentlich)",
+    "el": "αντίκτυπο (περιστασιακός)",
+    "es": "impacto (casual)",
+    "et": "mõju (juhuslik)",
+    "fi": "vaikutus (satunnainen)",
+    "fr": "impact (occasionnel)",
+    "hu": "hatás (alkalmi)",
+    "id": "benturan (biasa)",
+    "it": "impatto (casuale)",
+    "ja": "インパクト",
+    "ko": "임팩트(캐주얼)",
+    "lt": "poveikis (atsitiktinis)",
+    "lv": "ietekme (gadījuma rakstura)",
+    "nb": "innvirkning (tilfeldig)",
+    "nl": "impact (toevallig)",
+    "pl": "wpływ (przypadkowy)",
+    "pt": "impacto (ocasional)",
+    "ro": "impact (ocazional)",
+    "ru": "воздействие (случайное)",
+    "sk": "dopad (príležitostný)",
+    "sl": "vpliv (priložnostni)",
+    "sv": "påverkan (tillfällig)",
+    "tr": "etki (gündelik)",
+    "uk": "вплив (випадковий)",
+    "zh": "影响"
+  },
+  "verses": [
+    "firstKings 5:18:9",
+    "ecclesiastes 9:11:25"
+  ]
+}

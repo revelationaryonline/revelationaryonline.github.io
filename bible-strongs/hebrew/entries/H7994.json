@@ -1,0 +1,43 @@
+{
+  "number": "H7994",
+  "language": "hebrew",
+  "transliteration": "shâlâk",
+  "pronunciation": "shaw-lawk'",
+  "definition": "bird of prey, usually thought to be the pelican (from casting itself into the sea)",
+  "kjvTranslation": "cormorant.",
+  "hebrew": "שָׁלָךְ",
+  "translations": {
+    "bg": "хищна птица, обикновено считана за пеликан (от хвърлянето в морето)",
+    "cs": "dravý pták, obvykle považovaný za pelikána (od vhození do moře)",
+    "da": "rovfugl, der normalt menes at være pelikanen (fra at kaste sig i havet)",
+    "de": "raubvogel, der gewöhnlich für den Pelikan gehalten wird (weil er sich ins Meer stürzt)",
+    "el": "αρπακτικό πουλί, συνήθως θεωρείται ότι είναι ο πελεκάνος (από το να ρίχνεται στη θάλασσα)",
+    "es": "ave de rapiña, normalmente se cree que es el pelícano (por echarse al mar)",
+    "et": "röövlind, tavaliselt arvatakse, et see on pelikan (merre heitmisest)",
+    "fi": "petolintu, yleensä pelikaani (heittäytyy mereen)",
+    "fr": "oiseau de proie, généralement considéré comme le pélican (du fait qu'il se jette dans la mer)",
+    "hu": "ragadozó madár, általában a pelikánnak gondolják (a tengerbe vetette magát)",
+    "id": "burung pemangsa, biasanya dianggap sebagai pelikan (karena menceburkan diri ke laut)",
+    "it": "uccello da preda, solitamente ritenuto il pellicano (per essersi gettato in mare)",
+    "ja": "ペリカン",
+    "ko": "일반적으로 펠리컨으로 생각되는 맹금류(바다에 몸을 던지는 것에서 유래)",
+    "lt": "plėšrusis paukštis, paprastai laikomas pelikanu (nuo išmetimo į jūrą)",
+    "lv": "plēsīgs putns, parasti tiek uzskatīts par pelikānu (no iemešanas jūrā)",
+    "nb": "rovfugl, vanligvis antatt å være pelikan (fra å kaste seg i havet)",
+    "nl": "roofvogel, waarvan meestal wordt gedacht dat het de pelikaan is (omdat hij zichzelf in zee werpt)",
+    "pl": "ptak drapieżny, zwykle uważany za pelikana (od wrzucenia się do morza)",
+    "pt": "ave de rapina, geralmente considerada como sendo o pelicano (por se lançar ao mar)",
+    "ro": "pasăre de pradă, considerată de obicei pelican (pentru că se aruncă în mare)",
+    "ru": "хищная птица, обычно считающаяся пеликаном (из-за того, что бросается в море)",
+    "sk": "dravý vták, zvyčajne považovaný za pelikána (z vrhania sa do mora)",
+    "sl": "ptica plenilka, običajno pelikan (zaradi metanja v morje)",
+    "sv": "rovfågel, brukar anses vara pelikan (från att ha kastat sig i havet)",
+    "tr": "genellikle pelikan olduğu düşünülen yırtıcı kuş (kendini denize atmasından)",
+    "uk": "хижий птах, зазвичай вважається пеліканом (від того, що кидається в море)",
+    "zh": "鹈鹕"
+  },
+  "verses": [
+    "leviticus 11:17:3",
+    "deuteronomy 14:17:4"
+  ]
+}

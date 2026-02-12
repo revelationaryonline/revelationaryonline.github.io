@@ -1,0 +1,42 @@
+{
+  "number": "H2819",
+  "language": "hebrew",
+  "transliteration": "chashchûwth",
+  "pronunciation": "khash-khooth'",
+  "definition": "necessity",
+  "kjvTranslation": "be needful.",
+  "translations": {
+    "bg": "необходимост",
+    "cs": "nutnost",
+    "da": "nødvendighed",
+    "de": "notwendigkeit",
+    "el": "αναγκαιότητα",
+    "es": "necesidad",
+    "et": "vajadus",
+    "fi": "välttämättömyys",
+    "fr": "nécessité",
+    "hu": "szükségesség",
+    "id": "kebutuhan",
+    "it": "necessità",
+    "ja": "必要性",
+    "ko": "필요성",
+    "lt": "būtinybė",
+    "lv": "nepieciešamība",
+    "nb": "nødvendighet",
+    "nl": "noodzaak",
+    "pl": "konieczność",
+    "pt": "necessidade",
+    "ro": "necesitate",
+    "ru": "необходимость",
+    "sk": "nevyhnutnosť",
+    "sl": "nujnost",
+    "sv": "nödvändighet",
+    "tr": "gereklilik",
+    "uk": "необхідність",
+    "zh": "必要性"
+  },
+  "hebrew": "חַשְׁחוּת",
+  "verses": [
+    "ezra 7:20:1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5349",
+  "language": "hebrew",
+  "transliteration": "nôqêd",
+  "pronunciation": "no-kade'",
+  "definition": "a spotter (of sheep or cattle), i.e. the owner or tender (who thus marks them)",
+  "kjvTranslation": "herdman, sheepmaster.",
+  "hebrew": "נֹקֵד",
+  "translations": {
+    "bg": "гледач (на овце или говеда), т.е. собственикът или търговецът (който ги маркира по този начин)",
+    "cs": "hlídač (ovcí nebo dobytka), tj. majitel nebo správce (který je takto označuje)",
+    "da": "en spotter (af får eller kvæg), dvs. ejeren eller udbyderen (som således mærker dem)",
+    "de": "ein Spotter (von Schafen oder Rindern), d. h. der Eigentümer oder Tender (der sie so markiert)",
+    "el": "spotter (των προβάτων ή των βοοειδών), δηλαδή ο ιδιοκτήτης ή ο προστάτης (που τα σημαδεύει με αυτόν τον τρόπο)",
+    "es": "un observador (de ovejas o ganado), es decir, el propietario o cuidador (que las marca)",
+    "et": "(lamba- või karja) märgistaja, st omanik või pidaja (kes neid seega märgistab)",
+    "fi": "(lampaiden tai karjan) merkitsijä, eli omistaja tai hoitaja (joka näin merkitsee lampaat tai karjan)",
+    "fr": "un guetteur (de moutons ou de bovins), c'est-à-dire le propriétaire ou l'adjudicataire (qui les marque ainsi)",
+    "hu": "a (juhok vagy szarvasmarhák) figyelője, azaz a tulajdonos vagy a gondozó (aki így jelöli őket)",
+    "id": "pengintai (domba atau sapi), yaitu pemilik atau penggembala (yang menandai mereka)",
+    "it": "un avvistatore (di pecore o di bestiame), cioè il proprietario o l'offerente (che così li marca)",
+    "ja": "目付け役",
+    "ko": "(양이나 소의) 목격자, 즉 소유자 또는 입찰자(따라서 표시를 하는 사람)",
+    "lt": "(avių ar galvijų) prižiūrėtojas, t. y. savininkas arba aukotojas (kuris jas ženklina)",
+    "lv": "(aitu vai liellopu) uzraugs, t. i., īpašnieks vai iznomātājs (kas tos marķē)",
+    "nb": "en spotter (av sauer eller storfe), dvs. eieren eller innbyderen (som dermed merker dem)",
+    "nl": "een spotter (van schapen of vee), d.w.z. de eigenaar of inschrijver (die ze dus markeert)",
+    "pl": "spotter (owiec lub bydła), tj. właściciel lub oferent (który w ten sposób je znakuje)",
+    "pt": "um observador (de ovelhas ou de gado), ou seja, o proprietário ou o adjudicatário (que os marca)",
+    "ro": "un observator (de oi sau de vite), adică proprietarul sau arendașul (care le marchează astfel)",
+    "ru": "засекатель (овец или скота), т.е. владелец или торговец (который таким образом их помечает)",
+    "sk": "pozorovateľ (oviec alebo hovädzieho dobytka), t. j. majiteľ alebo obstarávateľ (ktorý ich takto označuje)",
+    "sl": "opazovalec (ovc ali goveda), tj. lastnik ali ponudnik (ki jih tako označi)",
+    "sv": "en spotter (av får eller nötkreatur), dvs. ägaren eller anbudsgivaren (som på så sätt märker dem)",
+    "tr": "(koyun veya sığırların) gözcüsü, yani (onları işaretleyen) sahibi veya ihale sahibi",
+    "uk": "мітчика (овець або великої рогатої худоби), тобто власника або орендаря (який таким чином їх мітить)",
+    "zh": "打标人，即（给羊或牛打标的）主人或投标人"
+  },
+  "verses": [
+    "secondKings 3:4:4",
+    "amos 1:1:4"
+  ]
+}

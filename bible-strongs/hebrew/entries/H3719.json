@@ -1,0 +1,42 @@
+{
+  "number": "H3719",
+  "language": "hebrew",
+  "transliteration": "kâphan",
+  "pronunciation": "kaw-fan'",
+  "definition": "to bend",
+  "kjvTranslation": "bend.",
+  "translations": {
+    "bg": "да се огъва",
+    "cs": "ohýbat",
+    "da": "at bøje",
+    "de": "zu biegen",
+    "el": "να λυγίσει",
+    "es": "doblar",
+    "et": "painutada",
+    "fi": "taipua",
+    "fr": "plier",
+    "hu": "meghajolni",
+    "id": "untuk membungkuk",
+    "it": "piegare",
+    "ja": "曲げる",
+    "ko": "구부리다",
+    "lt": "lenkti",
+    "lv": "saliekt",
+    "nb": "å bøye",
+    "nl": "buigen",
+    "pl": "zginać",
+    "pt": "para dobrar",
+    "ro": "să se îndoaie",
+    "ru": "сгибаться",
+    "sk": "ohýbať",
+    "sl": "upogibanje",
+    "sv": "för att böja",
+    "tr": "bükmek için",
+    "uk": "зігнутись",
+    "zh": "弯曲"
+  },
+  "hebrew": "כָּפַן",
+  "verses": [
+    "ezekiel 17:7:11"
+  ]
+}

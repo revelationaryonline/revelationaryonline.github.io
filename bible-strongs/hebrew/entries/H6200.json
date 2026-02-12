@@ -1,0 +1,42 @@
+{
+  "number": "H6200",
+  "language": "hebrew",
+  "transliteration": "ʻĂrôʻêrîy",
+  "pronunciation": "ar-o-ay-ree'",
+  "definition": "an Aroerite or inhabitant of Aroer",
+  "kjvTranslation": "Aroerite.",
+  "hebrew": "עֲרֹעֵרִי",
+  "translations": {
+    "bg": "ароерец или жител на Ароер",
+    "cs": "aroerita nebo obyvatel Aroeru",
+    "da": "en aroerit eller indbygger i Aroer",
+    "de": "ein Aroerit oder Einwohner von Aroer",
+    "el": "αροερίτης ή κάτοικος της Αροέρ",
+    "es": "un aroerita o habitante de Aroer",
+    "et": "aroerlane või Aroeri elanik",
+    "fi": "aroerilainen tai Aroerin asukas",
+    "fr": "un Aroérite ou un habitant d'Aroer",
+    "hu": "aroerita vagy Aroer lakója",
+    "id": "seorang Aroerite atau penduduk Aroer",
+    "it": "un aroerita o un abitante di Aroer",
+    "ja": "アロエル人またはアロエルの住民",
+    "ko": "아로어인 또는 아로어 거주자",
+    "lt": "aroerietis arba Aroer gyventojas",
+    "lv": "aroerietis vai Aroeras iedzīvotājs",
+    "nb": "en aroeritt eller innbygger i Aroer",
+    "nl": "een Aroeriet of inwoner van Aroer",
+    "pl": "aroeryt lub mieszkaniec Aroer",
+    "pt": "um aroerita ou habitante de Aroer",
+    "ro": "aroerit sau locuitor din Aroer",
+    "ru": "ароэрец или житель Ароэра",
+    "sk": "aroerčan alebo obyvateľ Aroeru",
+    "sl": "aroerec ali prebivalec Aroera",
+    "sv": "en aroerit eller invånare i Aroer",
+    "tr": "bir Aroerite ya da Aroer sakini",
+    "uk": "ароерит або житель Ароеру",
+    "zh": "阿罗尔人或阿罗尔居民"
+  },
+  "verses": [
+    "firstChronicles 11:44:7"
+  ]
+}

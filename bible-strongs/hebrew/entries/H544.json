@@ -1,0 +1,42 @@
+{
+  "number": "H544",
+  "language": "hebrew",
+  "transliteration": "ʼômen",
+  "pronunciation": "oh-men'",
+  "definition": "verity",
+  "kjvTranslation": "truth.",
+  "translations": {
+    "bg": "истинност",
+    "cs": "verity",
+    "da": "sandhed",
+    "de": "verity",
+    "el": "αλήθεια",
+    "es": "verity",
+    "et": "tõde",
+    "fi": "totuus",
+    "fr": "véracité",
+    "hu": "valóság",
+    "id": "kebenaran",
+    "it": "veridicità",
+    "ja": "真偽",
+    "ko": "verity",
+    "lt": "tikrumas",
+    "lv": "verity",
+    "nb": "sannhet",
+    "nl": "echtheid",
+    "pl": "prawdziwość",
+    "pt": "veracidade",
+    "ro": "veridicitate",
+    "ru": "верити",
+    "sk": "pravdivosť",
+    "sl": "resničnost",
+    "sv": "sanning",
+    "tr": "verity",
+    "uk": "істину",
+    "zh": "真实性"
+  },
+  "hebrew": "אֹמֶן",
+  "verses": [
+    "isaiah 25:1:12"
+  ]
+}

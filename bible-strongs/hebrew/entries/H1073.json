@@ -1,0 +1,42 @@
+{
+  "number": "H1073",
+  "language": "hebrew",
+  "transliteration": "bakkurâh",
+  "pronunciation": "bak-koo-raw'",
+  "definition": "a first-ripe fig",
+  "kjvTranslation": "firstripe.",
+  "translations": {
+    "bg": "първа узряла смокиня",
+    "cs": "prvně dozrálý fík",
+    "da": "en førstemoden figen",
+    "de": "eine frühreife Feige",
+    "el": "ένα πρώιμο ώριμο σύκο",
+    "es": "un higo recién maduro",
+    "et": "esimest korda küpsenud viigimarju",
+    "fi": "ensikypsä viikuna",
+    "fr": "une figue mûre",
+    "hu": "egy első érésű füge",
+    "id": "buah ara yang baru matang",
+    "it": "un fico di prima maturazione",
+    "ja": "一熟いちじく",
+    "ko": "첫 익은 무화과",
+    "lt": "pirmą kartą prinokusios figos",
+    "lv": "pirmreizēji nogatavojušās vīģes",
+    "nb": "en førstemoden fiken",
+    "nl": "een eerst rijpe vijg",
+    "pl": "pierwsza dojrzała figa",
+    "pt": "um figo maduro",
+    "ro": "o smochină la prima coacere",
+    "ru": "фига первой спелости",
+    "sk": "prvozrelé figy",
+    "sl": "prezrelo figo",
+    "sv": "ett först moget fikon",
+    "tr": "ilk olgunlaşmış incir",
+    "uk": "першостиглий інжир",
+    "zh": "初熟果实"
+  },
+  "hebrew": "בַּכֻּרָה",
+  "verses": [
+    "jeremiah 24:2:6"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7082",
+  "language": "hebrew",
+  "transliteration": "qâçaç",
+  "pronunciation": "kaw-sas'",
+  "definition": "to lop off",
+  "kjvTranslation": "cut off.",
+  "hebrew": "קָסַס",
+  "translations": {
+    "bg": "да отрязвате",
+    "cs": "odříznout",
+    "da": "at skære af",
+    "de": "zum Abhacken",
+    "el": "για να κόψω",
+    "es": "cortar",
+    "et": "ära lõigata",
+    "fi": "katkaista",
+    "fr": "de couper",
+    "hu": "levágni",
+    "id": "untuk memotong",
+    "it": "tagliare",
+    "ja": "切り落とす",
+    "ko": "잘라내려면",
+    "lt": "nukirpti",
+    "lv": "nogriezt",
+    "nb": "å hugge av",
+    "nl": "afsnijden",
+    "pl": "odciąć",
+    "pt": "cortar",
+    "ro": "a tăia",
+    "ru": "отрезать",
+    "sk": "odstrihnúť",
+    "sl": "odrezati",
+    "sv": "att skära av",
+    "tr": "kesmek için",
+    "uk": "відрізати",
+    "zh": "砍掉"
+  },
+  "verses": [
+    "ezekiel 17:9:12"
+  ]
+}

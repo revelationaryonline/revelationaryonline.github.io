@@ -1,0 +1,42 @@
+{
+  "number": "H3937",
+  "language": "hebrew",
+  "transliteration": "lâʻaz",
+  "pronunciation": "law-az'",
+  "definition": "to speak in a foreign tongue",
+  "kjvTranslation": "strange language.",
+  "hebrew": "לָעַז",
+  "translations": {
+    "bg": "да говори на чужд език",
+    "cs": "mluvit cizím jazykem",
+    "da": "at tale på et fremmed sprog",
+    "de": "in einer fremden Sprache zu sprechen",
+    "el": "να μιλάτε σε ξένη γλώσσα",
+    "es": "hablar en una lengua extranjera",
+    "et": "rääkida võõrkeeles",
+    "fi": "puhua vieraalla kielellä",
+    "fr": "parler une langue étrangère",
+    "hu": "idegen nyelven beszélni",
+    "id": "berbicara dalam bahasa asing",
+    "it": "parlare in una lingua straniera",
+    "ja": "外国語で話す",
+    "ko": "외국어로 말하기",
+    "lt": "kalbėti užsienio kalba",
+    "lv": "runāt svešvalodā",
+    "nb": "å snakke på et fremmed språk",
+    "nl": "in een vreemde taal spreken",
+    "pl": "mówić w obcym języku",
+    "pt": "falar numa língua estrangeira",
+    "ro": "a vorbi într-o limbă străină",
+    "ru": "говорить на иностранном языке",
+    "sk": "hovoriť cudzím jazykom",
+    "sl": "govoriti v tujem jeziku",
+    "sv": "att tala på ett främmande språk",
+    "tr": "yabancı bir dilde konuşmak",
+    "uk": "розмовляти іноземною мовою",
+    "zh": "讲外语"
+  },
+  "verses": [
+    "psalms 114:1:6"
+  ]
+}

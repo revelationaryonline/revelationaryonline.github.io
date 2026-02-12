@@ -1,0 +1,42 @@
+{
+  "number": "H8063",
+  "language": "hebrew",
+  "transliteration": "sᵉmîykâh",
+  "pronunciation": "sem-ee-kaw'",
+  "definition": "a run (as sustaining the Oriental sitter)",
+  "kjvTranslation": "mantle.",
+  "hebrew": "שְׂמִיכָה",
+  "translations": {
+    "bg": "бягане (като поддържане на ориенталския седящ)",
+    "cs": "běh (jako udržování orientální sitter)",
+    "da": "et løb (som opretholder den orientalske sidder)",
+    "de": "einen Lauf (wie die Aufrechterhaltung des Oriental Sitter)",
+    "el": "ένα τρέξιμο (ως διατήρηση του ανατολίτη που κάθεται)",
+    "es": "una carrera (como sostener la sentada oriental)",
+    "et": "jooksu (nagu idamaise istuja säilitamine)",
+    "fi": "juoksu (kuten itämaisen istujan ylläpitäminen)",
+    "fr": "une course (en tant que soutien de la personne assise à l'orientale)",
+    "hu": "egy futás (mint a keleti ülők fenntartása)",
+    "id": "berlari (sebagai penopang pengasuh Oriental)",
+    "it": "una corsa (come sostenere il sitter orientale)",
+    "ja": "一本",
+    "ko": "달리기(동양인 시터 유지)",
+    "lt": "bėgimas (kaip rytietiškojo sėdinčiojo palaikymas)",
+    "lv": "skrējiens (kā uzturēt austrumu sitter)",
+    "nb": "et løp (som å opprettholde den orientalske sitter)",
+    "nl": "een aanloop (als ondersteuning van de oosterse sitter)",
+    "pl": "bieg (jako podtrzymanie orientalnej siadaczki)",
+    "pt": "uma corrida (como sustentar a pessoa que se senta no Oriente)",
+    "ro": "o alergare (ca sprijin pentru șezutul oriental)",
+    "ru": "бег (как поддержание восточного сидельца)",
+    "sk": "beh (ako udržiavanie orientálneho sedenia)",
+    "sl": "tek (kot vzdrževanje orientalskega sedeža)",
+    "sv": "en löpning (som upprätthåller den orientaliska sittaren)",
+    "tr": "bir koşu (Oryantal oturanı sürdürmek gibi)",
+    "uk": "біг (як підтримка східної няні)",
+    "zh": "奔走"
+  },
+  "verses": [
+    "judges 4:18:16"
+  ]
+}

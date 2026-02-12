@@ -1,0 +1,42 @@
+{
+  "number": "H689",
+  "language": "hebrew",
+  "transliteration": "ʼaqqôw",
+  "pronunciation": "ak-ko'",
+  "definition": "slender, i.e. the ibex",
+  "kjvTranslation": "wild goat.",
+  "translations": {
+    "bg": "тънък, т.е. козирогът",
+    "cs": "štíhlý, tj. kozorožec",
+    "da": "slank, f.eks. stenbukken",
+    "de": "schlank, z. B. der Steinbock",
+    "el": "λεπτός, δηλαδή ο ιππόκαμπος",
+    "es": "esbelta, es decir, la cabra montés",
+    "et": "sihvakas, s.t. kivikitsed",
+    "fi": "hoikka, esimerkiksi kivisika",
+    "fr": "svelte, c'est-à-dire le bouquetin",
+    "hu": "karcsú, pl. a kőszálibika",
+    "id": "ramping, yaitu ibex",
+    "it": "snello, ad esempio lo stambecco",
+    "ja": "スレンダー、つまりアイベックス",
+    "ko": "슬림, 즉 아이벡스",
+    "lt": "lieknas, t. y. ibex",
+    "lv": "slaids, t. i., staltbriedis",
+    "nb": "slank, f.eks. steinbukken",
+    "nl": "slank, d.w.z. de steenbok",
+    "pl": "smukły, tj. ibex",
+    "pt": "esguio, ou seja, o íbex",
+    "ro": "subțire, de exemplu ibexul",
+    "ru": "стройный, например, козерог",
+    "sk": "štíhly, t. j. kozorožec",
+    "sl": "vitek, npr. kozorog",
+    "sv": "smal, t.ex. stenbocken",
+    "tr": "ince, yani dağ keçisi",
+    "uk": "стрункий, тобто гірський козел",
+    "zh": "细长，即山羊"
+  },
+  "hebrew": "אַקּוֹ",
+  "verses": [
+    "deuteronomy 14:5:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3666",
+  "language": "hebrew",
+  "transliteration": "kinʻâh",
+  "pronunciation": "kin-aw'",
+  "definition": "a package",
+  "kjvTranslation": "wares.",
+  "translations": {
+    "bg": "пакет",
+    "cs": "balíček",
+    "da": "en pakke",
+    "de": "ein Paket",
+    "el": "ένα πακέτο",
+    "es": "un paquete",
+    "et": "pakett",
+    "fi": "paketti",
+    "fr": "un paquet",
+    "hu": "egy csomag",
+    "id": "satu paket",
+    "it": "un pacchetto",
+    "ja": "パッケージ",
+    "ko": "패키지",
+    "lt": "paketas",
+    "lv": "pakete",
+    "nb": "en pakke",
+    "nl": "een pakket",
+    "pl": "pakiet",
+    "pt": "um pacote",
+    "ro": "un pachet",
+    "ru": "пакет",
+    "sk": "balík",
+    "sl": "paket",
+    "sv": "ett paket",
+    "tr": "bir paket",
+    "uk": "пакунок",
+    "zh": "一个包裹"
+  },
+  "hebrew": "כִּנְעָה",
+  "verses": [
+    "jeremiah 10:17:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H828",
+  "language": "hebrew",
+  "transliteration": "ʼAshpᵉnaz",
+  "pronunciation": "ash-pen-az'",
+  "definition": "Ashpenaz, a Babylonian eunuch",
+  "kjvTranslation": "Ashpenaz.",
+  "translations": {
+    "bg": "Ашпеназ, вавилонски евнух",
+    "cs": "Ašpenaz, babylonský eunuch",
+    "da": "Ashpenaz, en babylonisk eunuk",
+    "de": "Aschpenas, ein babylonischer Eunuch",
+    "el": "Ashpenaz, Βαβυλώνιος ευνούχος",
+    "es": "Ashpenaz, un eunuco babilónico",
+    "et": "Ashpenaz, Babüloonia eunuhh",
+    "fi": "Ashpenaz, babylonialainen eunukki",
+    "fr": "Ashpenaz, eunuque babylonien",
+    "hu": "Ashpenaz, egy babilóniai eunuch",
+    "id": "Ashpenaz, seorang sida-sida Babilonia",
+    "it": "Ashpenaz, un eunuco babilonese",
+    "ja": "アシュペナズ、バビロニアの宦官",
+    "ko": "바빌로니아 환관 아슈페나즈",
+    "lt": "Ašpenazas, babiloniečių eunuchas",
+    "lv": "Ašpenazs, babiloniešu eunuks",
+    "nb": "Ashpenaz, en babylonsk evnukk",
+    "nl": "Ashpenaz, een Babylonische eunuch",
+    "pl": "Aszpenaz, babiloński eunuch",
+    "pt": "Aspenaz, um eunuco babilónico",
+    "ro": "Ashpenaz, un eunuc babilonian",
+    "ru": "Ашпеназ, вавилонский евнух",
+    "sk": "Ašpenaz, babylonský eunuch",
+    "sl": "Ašpenaz, babilonski evnuh",
+    "sv": "Ashpenaz, en eunuck från Babylonien",
+    "tr": "Aşpenaz, Babilli bir hadım",
+    "uk": "Ашпеназ, вавилонський євнух",
+    "zh": "巴比伦太监阿什佩纳兹"
+  },
+  "hebrew": "אַשְׁפְּנַז",
+  "verses": [
+    "daniel 1:3:2"
+  ]
+}

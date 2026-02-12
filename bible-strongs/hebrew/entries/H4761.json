@@ -1,0 +1,42 @@
+{
+  "number": "H4761",
+  "language": "hebrew",
+  "transliteration": "marʼâshâh",
+  "pronunciation": "mar-aw-shaw'",
+  "definition": "properly, headship, i.e. (plural for collective) dominion",
+  "kjvTranslation": "principality.",
+  "hebrew": "מַרְאָשָׁה",
+  "translations": {
+    "bg": "правилно, главенство, т.е. (множествено число за колективно) господство",
+    "cs": "správně hlava, tj. (množné číslo pro kolektivní) panství",
+    "da": "korrekt, lederskab, dvs. (flertal for kollektivt) herredømme",
+    "de": "richtig: Vorsteherschaft, d.h. (Plural für kollektive) Herrschaft",
+    "el": "σωστά, επικεφαλής, δηλαδή (πληθυντικός για συλλογική) κυριαρχία",
+    "es": "propiamente, jefatura, es decir (plural para colectivo) dominio",
+    "et": "õigesti, pea, s.t. (mitmuses kollektiivse) domineerimine",
+    "fi": "oikeastaan päämies, eli (monikossa kollektiivista) hallitsijuus",
+    "fr": "proprement dit, le rôle de chef, c'est-à-dire (au pluriel pour la collectivité) la domination",
+    "hu": "helyesen: fejedelemség, azaz (többes számban a kollektív) uralom",
+    "id": "secara tepat, kepemimpinan, yaitu (jamak untuk kekuasaan kolektif)",
+    "it": "propriamente, la direzione, cioè (al plurale per il collettivo) il dominio",
+    "ja": "正しくはヘッドシップ、すなわち（集合的な複数形の）支配権",
+    "ko": "적절하게, 머리 직분, 즉 (집단적) 지배권(복수형)",
+    "lt": "tinkamai, vadovavimas, t. y. (daugiskaita kolektyviniam) viešpatavimas",
+    "lv": "pareizi, galva, t.i., (daudzskaitlī kolektīvam) kundzība",
+    "nb": "egentlig, lederskap, dvs. (flertall for kollektivt) herredømme",
+    "nl": "op de juiste manier, hoofdschap, d.w.z. (meervoud voor collectief) heerschappij",
+    "pl": "właściwie, zwierzchnictwo, tj. (liczba mnoga dla zbiorowości) panowanie",
+    "pt": "propriamente, chefia, ou seja, domínio (plural para coletivo)",
+    "ro": "în mod corespunzător, conducere, adică (plural pentru colectiv) domnie",
+    "ru": "в правильном смысле, главенство, т.е. (множественное число для коллектива) господство",
+    "sk": "správne, hlava, t. j. (množné číslo pre kolektívne) panstvo",
+    "sl": "pravilno, vodstvo, tj. (množina za kolektivno) nadvlado",
+    "sv": "korrekt, huvudmannaskap, dvs. (plural för kollektiv) herravälde",
+    "tr": "uygun şekilde, reislik, yani (kolektif için çoğul) hakimiyet",
+    "uk": "власне, головування, тобто (у множині - колективне) панування",
+    "zh": "正确地说，\"头\"，即（复数表示集体）统治权"
+  },
+  "verses": [
+    "jeremiah 13:18:7"
+  ]
+}

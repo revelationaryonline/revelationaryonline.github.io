@@ -1,0 +1,42 @@
+{
+  "number": "H6254",
+  "language": "hebrew",
+  "transliteration": "ʻAshtᵉrâthîy",
+  "pronunciation": "ash-ter-aw-thee'",
+  "definition": "an Ashterathite or inhabitant of Ashtaroth",
+  "kjvTranslation": "Ashterathite.",
+  "hebrew": "עַשְׁתְּרָתִי",
+  "translations": {
+    "bg": "аштератинец или жител на Аштарот",
+    "cs": "ašteratský nebo Aštarotský obyvatel",
+    "da": "en ashterathit eller indbygger i Ashtaroth",
+    "de": "ein Aschterathiter oder Einwohner von Aschteroth",
+    "el": "ένας Ασθεραθίτης ή κάτοικος του Ασταρώθ",
+    "es": "un asterathita o habitante de Astarot",
+    "et": "ashterathi või Ashtarothi elanik",
+    "fi": "ashtarotin asukas tai asukas, joka asuu Ashtarotissa",
+    "fr": "un Ashterathite ou un habitant d'Ashtaroth",
+    "hu": "ashterathita vagy Ashtaroth lakója",
+    "id": "seorang Ashterat atau penduduk Ashtarot",
+    "it": "un ashterathita o un abitante di Ashtaroth",
+    "ja": "アシュタロト人またはアシュタロトの住人",
+    "ko": "애쉬테라스인 또는 애쉬타로스의 거주자",
+    "lt": "ašteratietis arba Aštaroto gyventojas",
+    "lv": "aštratietis vai Aštarta iedzīvotājs",
+    "nb": "en askteratitt eller innbygger i Ashtaroth",
+    "nl": "een Ashterathiet of inwoner van Ashtaroth",
+    "pl": "asztaratyta lub mieszkaniec Asztarot",
+    "pt": "um asteratita ou habitante de Astarote",
+    "ro": "un Ashterathite sau locuitor al Ashtaroth",
+    "ru": "аштератец или житель Аштарота",
+    "sk": "ašteratský alebo obyvateľ Aštarotu",
+    "sl": "ašteratovec ali prebivalec Aštarota",
+    "sv": "en ashterathit eller invånare i Ashtaroth",
+    "tr": "bir Aşteratit ya da Aştarot sakini",
+    "uk": "аштератієць або мешканець Аштарота",
+    "zh": "阿斯达罗人或阿斯达罗居民"
+  },
+  "verses": [
+    "firstChronicles 11:44:1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H528",
+  "language": "hebrew",
+  "transliteration": "ʼÂmôwn",
+  "pronunciation": "aw-mone'",
+  "definition": "Amon (i.e. Ammon or Amn), a deity of Egypt",
+  "kjvTranslation": "multitude, populous.",
+  "translations": {
+    "bg": "Амон (т.е. Амон или Амн), египетско божество",
+    "cs": "Amon (Ammon nebo Amn), egyptské božstvo",
+    "da": "Amon (dvs. Ammon eller Amn), en guddom i Egypten",
+    "de": "Amon (d.h. Ammon oder Amn), eine ägyptische Gottheit",
+    "el": "Amon (δηλ. Ammon ή Amn), θεότητα της Αιγύπτου",
+    "es": "Amón (es decir, Amón o Amn), divinidad de Egipto",
+    "et": "Amon (st Ammon või Amn), Egiptuse jumalus",
+    "fi": "Amon (eli Ammon tai Amn), egyptiläinen jumaluus",
+    "fr": "Amon (i.e. Ammon ou Amn), divinité égyptienne",
+    "hu": "Amon (azaz Ammon vagy Amn), egyiptomi istenség",
+    "id": "Amon (yaitu Amon atau Amn), dewa Mesir",
+    "it": "Amon (cioè Ammon o Amn), divinità dell'Egitto",
+    "ja": "アモン（＝アモンまたはアムン）、エジプトの神",
+    "ko": "아몬(암몬 또는 암른), 이집트의 신",
+    "lt": "Amonas (t. y. Amonas arba Amnas), Egipto dievybė",
+    "lv": "Amons (t.i., Amons vai Amns), Ēģiptes dievība",
+    "nb": "Amon (dvs. Ammon eller Amn), en guddom i Egypt",
+    "nl": "Amon (Ammon of Amn), een godheid van Egypte",
+    "pl": "Amon (tj. Ammon lub Amn), bóstwo Egiptu",
+    "pt": "Amon (ou seja, Amon ou Amn), uma divindade do Egito",
+    "ro": "Amon (i.e. Ammon sau Amn), o zeitate a Egiptului",
+    "ru": "Амон (т.е. Аммон или Амн), божество Египта",
+    "sk": "Amon (t. j. Amon alebo Amn), egyptské božstvo",
+    "sl": "Amon (tj. Amon ali Amn), egiptovsko božanstvo",
+    "sv": "Amon (dvs. Ammon eller Amn), en gudom i Egypten",
+    "tr": "Amon (yani Ammon veya Amn), Mısır'ın bir tanrısı",
+    "uk": "Амон (тобто Аммон або Амн), божество Єгипту",
+    "zh": "阿蒙"
+  },
+  "hebrew": "אָמוֹן",
+  "verses": [
+    "jeremiah 46:25:8",
+    "nahum 3:8:2"
+  ]
+}

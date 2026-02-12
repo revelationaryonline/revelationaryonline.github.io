@@ -1,0 +1,43 @@
+{
+  "number": "H6832",
+  "language": "hebrew",
+  "transliteration": "tsᵉphûwaʻ",
+  "pronunciation": "tsef-oo'-ah",
+  "definition": "excrement (as protruded)",
+  "kjvTranslation": "dung.",
+  "hebrew": "צְפוּעַ",
+  "translations": {
+    "bg": "екскременти (като изпъкнали)",
+    "cs": "exkrementy (jako vyčnívající)",
+    "da": "ekskrementer (som stikker ud)",
+    "de": "exkremente (wie herausgetreten)",
+    "el": "περιττώματα (όπως προεξέχουν)",
+    "es": "excrementos (como salientes)",
+    "et": "väljaheide (nagu väljaulatuv)",
+    "fi": "ulosteet (ulosteena)",
+    "fr": "excréments (en saillie)",
+    "hu": "ürülék (mint kiálló)",
+    "id": "kotoran (seperti yang menonjol)",
+    "it": "escrementi (come sporgenti)",
+    "ja": "べん",
+    "ko": "배설물(튀어나온 상태)",
+    "lt": "ekskrementai (kaip išsikišę)",
+    "lv": "izkārnījumi (kā izvirzīti)",
+    "nb": "ekskrementer (som stikker ut)",
+    "nl": "uitwerpselen (zoals uitgestoken)",
+    "pl": "odchody (jako wystające)",
+    "pt": "excremento (como saliente)",
+    "ro": "excremente (ca proeminent)",
+    "ru": "экскременты (в виде выпячивания)",
+    "sk": "exkrementy (ako vyčnievajúce)",
+    "sl": "iztrebki (kot izločki)",
+    "sv": "exkrement (som utstickande)",
+    "tr": "dışkı (çıkıntılı olarak)",
+    "uk": "екскременти (у вигляді випинання)",
+    "zh": "腯"
+  },
+  "verses": [
+    "ezekiel 4:15:6",
+    "ezekiel 4:15:7"
+  ]
+}

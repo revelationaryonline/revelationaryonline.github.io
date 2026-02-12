@@ -1,0 +1,42 @@
+{
+  "number": "H5463",
+  "language": "hebrew",
+  "transliteration": "çᵉgar",
+  "pronunciation": "seg-ar'",
+  "definition": "{to shut up; figuratively, to surrender}",
+  "kjvTranslation": "shut up.",
+  "hebrew": "סְגַר",
+  "translations": {
+    "bg": "{да се затвори; преносно, да се предаде}",
+    "cs": "{zavřít; přeneseně vzdát se}",
+    "da": "{at lukke af; i overført betydning at overgive sig}",
+    "de": "{zum Schweigen bringen; im übertragenen Sinne: aufgeben}",
+    "el": "{κλείνω, μεταφορικά, παραδίνομαι}",
+    "es": "{cerrarse; en sentido figurado, rendirse}",
+    "et": "{sulgeda; piltlikult öeldes, alla anda}",
+    "fi": "{sulkea; kuvaannollisesti, antautua}",
+    "fr": "{faire taire ; au sens figuré, faire céder}",
+    "hu": "{becsukni; átvitt értelemben, megadni magunkat}",
+    "id": "(untuk tutup mulut; secara kiasan, menyerah)",
+    "it": "{Chiudere; in senso figurato, arrendersi.}",
+    "ja": "{比喩的に、降伏する}。",
+    "ko": "{입 다물다, 비유적으로 항복하다}",
+    "lt": "{užsidaryti; perkeltine prasme - pasiduoti}",
+    "lv": "{noslēgt; pārnestā nozīmē - padoties}",
+    "nb": "{å holde kjeft; i overført betydning, å overgi seg}",
+    "nl": "{om op te sluiten; figuurlijk, over te geven}",
+    "pl": "{zamknąć się; w przenośni, poddać się}",
+    "pt": "{calar; figurativamente, render-se}",
+    "ro": "{pentru a închide; la figurat, a se preda}",
+    "ru": "{закрыться; образно говоря, сдаться}",
+    "sk": "{zamknúť sa; v prenesenom význame vzdať sa}",
+    "sl": "{zapreti; v prenesenem pomenu, predati se}",
+    "sv": "{att hålla tyst; bildligt, att ge upp}",
+    "tr": "{susturmak; mecazi olarak, teslim olmak}",
+    "uk": "{замовкнути; образно кажучи, здатися}",
+    "zh": "{闭嘴；比喻投降}"
+  },
+  "verses": [
+    "daniel 6:23:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H786",
+  "language": "hebrew",
+  "transliteration": "ʼish",
+  "pronunciation": "eesh",
+  "definition": "entity, used only adverbially, there is or are",
+  "kjvTranslation": "are there, none can. Compare H3426 (יֵשׁ).",
+  "translations": {
+    "bg": "единица, използвана само като наречие, има или са",
+    "cs": "entita, použitá pouze jako příslovečné určení, je nebo jsou",
+    "da": "enhed, bruges kun adverbielt, der er eller er",
+    "de": "einheit, nur adverbial verwendet, es gibt oder sind",
+    "el": "οντότητα, που χρησιμοποιείται μόνο επιρρηματικά, υπάρχει ή υπάρχουν",
+    "es": "entidad, utilizada sólo adverbialmente, hay o son",
+    "et": "üksus, mida kasutatakse ainult adverbiaalina, on või on",
+    "fi": "kokonaisuus, jota käytetään vain adverbiaalisesti, on tai ovat",
+    "fr": "entité, utilisée uniquement de manière adverbiale, il y a ou il y a",
+    "hu": "entitás, csak határozószóval használva, van vagy vannak",
+    "id": "entitas, hanya digunakan sebagai kata keterangan, ada atau adalah",
+    "it": "entità, usato solo in senso avverbiale, c'è o ci sono",
+    "ja": "副詞としてのみ使われる。",
+    "ko": "엔티티는 부사적으로만 사용되며, 존재하거나 있습니다",
+    "lt": "vienetas, vartojamas tik kaip prieveiksmis, yra arba yra",
+    "lv": "vienība, lietota tikai kā apstākļa vārds, ir vai ir",
+    "nb": "enhet, brukes bare adverbialt, det er eller er",
+    "nl": "entiteit, alleen bijwoordelijk gebruikt, er is of zijn",
+    "pl": "podmiot, używany tylko przysłówkowo, jest lub są",
+    "pt": "entidade, usado apenas adverbialmente, existe ou existem",
+    "ro": "entitate, utilizată numai adverbial, există sau sunt",
+    "ru": "сущность, используемая только в наречии, there is или are",
+    "sk": "entita, používaná len ako príslovkové určenie, je alebo sú",
+    "sl": "enota, ki se uporablja le v prislovih, je ali so",
+    "sv": "enhet, används endast adverbiellt, det finns eller är",
+    "tr": "varlık, sadece zarf olarak kullanılır, var veya vardır",
+    "uk": "сутність, що вживається тільки прислівниково, є або є",
+    "zh": "实体，仅用于副词，有或有"
+  },
+  "hebrew": "אִשׁ",
+  "verses": [
+    "secondSamuel 14:19:15",
+    "micah 6:10:1"
+  ]
+}

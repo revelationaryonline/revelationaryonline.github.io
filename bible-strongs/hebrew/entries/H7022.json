@@ -1,0 +1,42 @@
+{
+  "number": "H7022",
+  "language": "hebrew",
+  "transliteration": "qîyqâlôwn",
+  "pronunciation": "kee-kaw-lone'",
+  "definition": "intense disgrace",
+  "kjvTranslation": "shameful spewing.",
+  "hebrew": "קִיקָלוֹן",
+  "translations": {
+    "bg": "силен позор",
+    "cs": "silná potupa",
+    "da": "intens skændsel",
+    "de": "tiefe Schande",
+    "el": "έντονη ντροπή",
+    "es": "intensa desgracia",
+    "et": "intensiivne häbi",
+    "fi": "suuri häpeä",
+    "fr": "une disgrâce intense",
+    "hu": "nagy szégyen",
+    "id": "aib yang intens",
+    "it": "intensa disgrazia",
+    "ja": "辱め",
+    "ko": "극심한 수치심",
+    "lt": "didžiulė gėda",
+    "lv": "spēcīgs kauns",
+    "nb": "intens skam",
+    "nl": "intense schande",
+    "pl": "intensywna hańba",
+    "pt": "desgraça intensa",
+    "ro": "rușine intensă",
+    "ru": "глубокий позор",
+    "sk": "intenzívna hanba",
+    "sl": "huda sramota",
+    "sv": "intensiv skam",
+    "tr": "yoğun utanç",
+    "uk": "сильна ганьба",
+    "zh": "烈耻"
+  },
+  "verses": [
+    "habakkuk 2:16:12"
+  ]
+}

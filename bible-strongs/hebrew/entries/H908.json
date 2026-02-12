@@ -1,0 +1,43 @@
+{
+  "number": "H908",
+  "language": "hebrew",
+  "transliteration": "bâdâʼ",
+  "pronunciation": "baw-daw'",
+  "definition": "(figuratively) to invent",
+  "kjvTranslation": "devise, feign.",
+  "translations": {
+    "bg": "(в преносен смисъл) да измисля",
+    "cs": "(obrazně) vymýšlet",
+    "da": "(i overført betydning) at opfinde",
+    "de": "(im übertragenen Sinne) zu erfinden",
+    "el": "(μεταφορικά) να εφεύρει",
+    "es": "(en sentido figurado) inventar",
+    "et": "(piltlikult öeldes) leiutada",
+    "fi": "(kuvaannollisesti) keksiä",
+    "fr": "(au sens figuré) inventer",
+    "hu": "(átvitt értelemben) feltalálni",
+    "id": "(secara kiasan) untuk menciptakan",
+    "it": "(in senso figurato) inventare",
+    "ja": "(発明する",
+    "ko": "(비유적으로) 발명하기",
+    "lt": "(perkeltine prasme) išrasti",
+    "lv": "(pārnestā nozīmē) izgudrot",
+    "nb": "(i overført betydning) å finne opp",
+    "nl": "(figuurlijk) uitvinden",
+    "pl": "(w przenośni) wymyślać",
+    "pt": "(no sentido figurado) inventar",
+    "ro": "(la figurat) a inventa",
+    "ru": "(фигурально) изобретать",
+    "sk": "(obrazne) vymyslieť",
+    "sl": "(v prenesenem pomenu) izumiti",
+    "sv": "(bildligt talat) att uppfinna",
+    "tr": "(mecazi anlamda) icat etmek",
+    "uk": "(образно) вигадувати",
+    "zh": "发明"
+  },
+  "hebrew": "בָּדָא",
+  "verses": [
+    "firstKings 12:33:14",
+    "nehemiah 6:8:13"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4388",
+  "language": "hebrew",
+  "transliteration": "maktêsh",
+  "pronunciation": "mak-taysh'",
+  "definition": "a mortar; by analogy, a socket (of a tooth)",
+  "kjvTranslation": "hollow place, mortar.",
+  "hebrew": "מַכְתֵּשׁ",
+  "translations": {
+    "bg": "хоросан; по аналогия - гнездо (на зъб)",
+    "cs": "hmoždíř; obdobně zubní jamka (zubu)",
+    "da": "en morter; analogt hermed en tandstik (i en tand)",
+    "de": "ein Mörser; analog dazu eine Zahnhülse (eines Zahns)",
+    "el": "ένα κονίαμα- κατ' αναλογία, μια υποδοχή (ενός δοντιού)",
+    "es": "un mortero; por analogía, una cavidad (de un diente)",
+    "et": "mördi; analoogiliselt (hamba) pesa",
+    "fi": "laasti; analogisesti (hampaan) hylsy",
+    "fr": "mortier ; par analogie, alvéole (d'une dent)",
+    "hu": "habarcs; ennek analógiájára (a fogak) foglalata",
+    "id": "mortar; dengan analogi, soket (gigi)",
+    "it": "un mortaio; per analogia, una cavità (di un dente)",
+    "ja": "臼歯; 例えるなら（歯の）ソケット",
+    "ko": "모르타르; 비유하자면 (치아의) 소켓입니다",
+    "lt": "skiedinys; pagal analogiją - danties lizdas",
+    "lv": "java; pēc analoģijas - zobu ligzdiņš",
+    "nb": "en mørtel; analogt, en stikkontakt (av en tann)",
+    "nl": "een vijzel; naar analogie, een holte (van een tand)",
+    "pl": "moździerz; analogicznie, gniazdo (zęba)",
+    "pt": "uma argamassa; por analogia, um encaixe (de um dente)",
+    "ro": "un mortar; prin analogie, o cavitate (a unui dinte)",
+    "ru": "ступка; по аналогии - гнездо (зуба)",
+    "sk": "malta; analogicky zubná jamka (zubu)",
+    "sl": "malta; po analogiji zobni nastavek (zoba)",
+    "sv": "en mortel; analogt, ett uttag (av en tand)",
+    "tr": "bir harç; benzer şekilde, bir yuva (bir dişin)",
+    "uk": "ступка; за аналогією, лунка (зуба)",
+    "zh": "臼；以此类推，牙窝"
+  },
+  "verses": [
+    "judges 15:19:3",
+    "proverbs 27:22:4"
+  ]
+}

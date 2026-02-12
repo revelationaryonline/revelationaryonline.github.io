@@ -1,0 +1,43 @@
+{
+  "number": "H8107",
+  "language": "hebrew",
+  "transliteration": "shimmur",
+  "pronunciation": "shim-moor'",
+  "definition": "an observance",
+  "kjvTranslation": "[idiom] be (much) observed.",
+  "hebrew": "שִׁמֻּר",
+  "translations": {
+    "bg": "наблюдение",
+    "cs": "slavnostní událost",
+    "da": "en overholdelse",
+    "de": "eine Beobachtung",
+    "el": "μια παρατήρηση",
+    "es": "una observancia",
+    "et": "vaatlus",
+    "fi": "juhla",
+    "fr": "une observation",
+    "hu": "egy megfigyelés",
+    "id": "sebuah ketaatan",
+    "it": "un'osservanza",
+    "ja": "順法",
+    "ko": "준수",
+    "lt": "minėjimas",
+    "lv": "novērošana",
+    "nb": "en observans",
+    "nl": "een viering",
+    "pl": "obserwacja",
+    "pt": "uma observância",
+    "ro": "o observare",
+    "ru": "соблюдение",
+    "sk": "dodržiavanie",
+    "sl": "obred",
+    "sv": "en iakttagelse",
+    "tr": "bir gözlem",
+    "uk": "дотримання",
+    "zh": "观礼"
+  },
+  "verses": [
+    "exodus 12:42:1",
+    "exodus 12:42:11"
+  ]
+}

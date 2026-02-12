@@ -1,0 +1,42 @@
+{
+  "number": "H1684",
+  "language": "hebrew",
+  "transliteration": "dᵉbach",
+  "pronunciation": "deb-akh'",
+  "definition": "to sacrifice (an animal)",
+  "kjvTranslation": "offer (sacrifice).",
+  "translations": {
+    "bg": "да се принесе в жертва (животно)",
+    "cs": "obětovat (zvíře)",
+    "da": "at ofre (et dyr)",
+    "de": "(ein Tier) zu opfern",
+    "el": "να θυσιάσει (ένα ζώο)",
+    "es": "sacrificar (un animal)",
+    "et": "ohverdada (loom)",
+    "fi": "uhrata (eläin)",
+    "fr": "sacrifier (un animal)",
+    "hu": "feláldozni (egy állatot)",
+    "id": "untuk mengorbankan (hewan)",
+    "it": "sacrificare (un animale)",
+    "ja": "生贄に捧げる",
+    "ko": "희생하다 (동물)",
+    "lt": "aukoti (gyvūną)",
+    "lv": "upurēt (dzīvnieku)",
+    "nb": "å ofre (et dyr)",
+    "nl": "(een dier) offeren",
+    "pl": "poświęcić (zwierzę)",
+    "pt": "sacrificar (um animal)",
+    "ro": "a sacrifica (un animal)",
+    "ru": "приносить в жертву (животное)",
+    "sk": "obetovať (zviera)",
+    "sl": "žrtvovati (žival)",
+    "sv": "att offra (ett djur)",
+    "tr": "(bir hayvanı) kurban etmek",
+    "uk": "принести в жертву (тварину)",
+    "zh": "献祭"
+  },
+  "hebrew": "דְּבַח",
+  "verses": [
+    "ezra 6:3:15"
+  ]
+}

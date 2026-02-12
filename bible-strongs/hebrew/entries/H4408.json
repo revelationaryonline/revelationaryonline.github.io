@@ -1,0 +1,42 @@
+{
+  "number": "H4408",
+  "language": "hebrew",
+  "transliteration": "mallûwach",
+  "pronunciation": "mal-loo'-akh",
+  "definition": "sea-purslain (from its saltness)",
+  "kjvTranslation": "mallows.",
+  "hebrew": "מַלּוּחַ",
+  "translations": {
+    "bg": "морска кървавица (от солеността ѝ)",
+    "cs": "mořský purpura (od jeho slanosti)",
+    "da": "hav-purslain (fra dets salthed)",
+    "de": "meer-Purslain (von seiner Salzigkeit)",
+    "el": "sea-purslain (από την αλμύρα του)",
+    "es": "mar-purslain (por su salinidad)",
+    "et": "merepurslaine (selle soolasusest)",
+    "fi": "meripursolainen (sen suolaisuudesta)",
+    "fr": "l'économe de mer (du fait de sa salinité)",
+    "hu": "tengeri purslain (a sótartalmától)",
+    "id": "krokot laut (dari rasa asinnya)",
+    "it": "mare (dalla sua salinità)",
+    "ja": "シープルスレイン",
+    "ko": "씨 퍼슬린 (염분으로 인한)",
+    "lt": "sea-purslain (nuo sūrumo)",
+    "lv": "sea-purslain (no tās sāļuma)",
+    "nb": "sjøpurslain (fra sin saltholdighet)",
+    "nl": "zee-purslain (van de zoutheid)",
+    "pl": "portulaka morska (od jej słoności)",
+    "pt": "marinheiro (pela sua salinidade)",
+    "ro": "mare-purslain (de la salinitatea sa)",
+    "ru": "морской кошелек (от его солености)",
+    "sk": "morský perzan (od jeho slanosti)",
+    "sl": "morski prešeren (zaradi njegove slanosti)",
+    "sv": "havspurslain (från dess salthet)",
+    "tr": "sea-purslain (tuzluluğundan)",
+    "uk": "морський горошок (через його солоність)",
+    "zh": "海盐"
+  },
+  "verses": [
+    "job 30:4:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6821",
+  "language": "hebrew",
+  "transliteration": "tsâphad",
+  "pronunciation": "tsaw-fad'",
+  "definition": "to adhere",
+  "kjvTranslation": "cleave.",
+  "hebrew": "צָפַד",
+  "translations": {
+    "bg": "да се придържат",
+    "cs": "dodržovat",
+    "da": "til at klæbe",
+    "de": "zu haften",
+    "el": "να προσκολλάται",
+    "es": "adherirse",
+    "et": "kinni pidada",
+    "fi": "tarttua",
+    "fr": "adhérer",
+    "hu": "ragaszkodni",
+    "id": "untuk mematuhi",
+    "it": "aderire",
+    "ja": "付着する",
+    "ko": "준수하려면",
+    "lt": "laikytis",
+    "lv": "ievērot",
+    "nb": "å holde seg til",
+    "nl": "kleven",
+    "pl": "przylegać",
+    "pt": "para aderir",
+    "ro": "să adere",
+    "ru": "придерживаться",
+    "sk": "dodržiavať",
+    "sl": "se držati",
+    "sv": "för att hålla fast",
+    "tr": "bağlı kalmak için",
+    "uk": "дотримуватися",
+    "zh": "坚持"
+  },
+  "verses": [
+    "lamentations 4:8:6"
+  ]
+}

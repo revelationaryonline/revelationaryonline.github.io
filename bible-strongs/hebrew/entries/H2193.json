@@ -1,0 +1,42 @@
+{
+  "number": "H2193",
+  "language": "hebrew",
+  "transliteration": "zâʻak",
+  "pronunciation": "zaw-ak'",
+  "definition": "to extinguish",
+  "kjvTranslation": "be extinct.",
+  "translations": {
+    "bg": "да гаси",
+    "cs": "uhasit",
+    "da": "at slukke",
+    "de": "zum Erlöschen",
+    "el": "να σβήσει",
+    "es": "extinguir",
+    "et": "kustutada",
+    "fi": "sammuttaa",
+    "fr": "éteindre",
+    "hu": "kioltani",
+    "id": "untuk memadamkan",
+    "it": "estinguere",
+    "ja": "消す",
+    "ko": "소멸하려면",
+    "lt": "užgesinti",
+    "lv": "nodzēst",
+    "nb": "å slukke",
+    "nl": "doven",
+    "pl": "zgasić",
+    "pt": "extinguir",
+    "ro": "să stingă",
+    "ru": "гасить",
+    "sk": "uhasiť",
+    "sl": "ugasniti",
+    "sv": "för att släcka",
+    "tr": "söndürmek için",
+    "uk": "щоб загасити",
+    "zh": "熄灭"
+  },
+  "hebrew": "זָעַךְ",
+  "verses": [
+    "job 17:1:3"
+  ]
+}

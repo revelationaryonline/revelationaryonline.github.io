@@ -1,0 +1,42 @@
+{
+  "number": "H5506",
+  "language": "hebrew",
+  "transliteration": "çᵉchôrâh",
+  "pronunciation": "sekh-o-raw'",
+  "definition": "traffic",
+  "kjvTranslation": "merchandise.",
+  "hebrew": "סְחֹרָה",
+  "translations": {
+    "bg": "трафик",
+    "cs": "provoz",
+    "da": "trafik",
+    "de": "verkehr",
+    "el": "κυκλοφορία",
+    "es": "tráfico",
+    "et": "liiklus",
+    "fi": "liikenne",
+    "fr": "circulation",
+    "hu": "forgalom",
+    "id": "lalu lintas",
+    "it": "traffico",
+    "ja": "トラフィック",
+    "ko": "트래픽",
+    "lt": "eismas",
+    "lv": "satiksme",
+    "nb": "trafikk",
+    "nl": "verkeer",
+    "pl": "ruch",
+    "pt": "tráfego",
+    "ro": "trafic",
+    "ru": "трафик",
+    "sk": "prevádzka",
+    "sl": "promet",
+    "sv": "trafik",
+    "tr": "trafik",
+    "uk": "трафік",
+    "zh": "交通"
+  },
+  "verses": [
+    "ezekiel 27:15:5"
+  ]
+}

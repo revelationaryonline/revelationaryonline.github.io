@@ -1,0 +1,43 @@
+{
+  "number": "H5219",
+  "language": "hebrew",
+  "transliteration": "nᵉkôʼth",
+  "pronunciation": "nek-ohth'",
+  "definition": "properly, a smiting, i.e. (concretely) an aromatic gum (perhaps styrax) (as powdered)",
+  "kjvTranslation": "spicery(-ces).",
+  "hebrew": "נְכֹאת",
+  "translations": {
+    "bg": "правилно, поразяване, т.е. (конкретно) ароматна смола (може би стиракс) (на прах)",
+    "cs": "správně smítko, tj. (konkrétně) aromatická guma (snad styrax) (v prášku)",
+    "da": "korrekt, en smitning, dvs. (konkret) en aromatisk gummi (måske styrax) (som pulveriseret)",
+    "de": "richtigerweise, ein Schlagen, d.h. (konkret) ein aromatisches Gummi (vielleicht Styrax) (als Pulver)",
+    "el": "σωστά, ένα χτύπημα, δηλαδή (συγκεκριμένα) ένα αρωματικό κόμμι (ίσως στυράξ) (ως σκόνη)",
+    "es": "propiamente, un golpe, es decir (concretamente) una goma aromática (tal vez styrax) (en polvo)",
+    "et": "õigesti, smiting, s.t. (konkreetselt) aromaatne kumm (ehk styrax) (pulbrina)",
+    "fi": "oikein, isku, eli (konkreettisesti) aromaattinen purukumi (ehkä styrax) (jauheena)",
+    "fr": "proprement, une frappe, c'est-à-dire (concrètement) une gomme aromatique (peut-être du styrax) (en poudre)",
+    "hu": "megfelelően, egy ütés, azaz (konkrétan) egy aromás gumi (talán sztirol) (mint porított)",
+    "id": "benar, sebuah pemukulan, yaitu (secara konkret) permen karet aromatik (mungkin styrax) (sebagai bubuk)",
+    "it": "propriamente, un colpo, cioè (concretamente) una gomma aromatica (forse stirace) (come polvere)",
+    "ja": "正しくは、叩く、すなわち（具体的には）芳香族ガム（おそらくスチラックス）（粉末状として）",
+    "ko": "적절하게, 때리는 것, 즉 (구체적으로) 향기로운 껌 (아마도 스티 렉스) (가루로)",
+    "lt": "tinkamai - smūgis, t. y. (konkrečiai) aromatinė derva (galbūt stiraksas) (sumalta į miltelius)",
+    "lv": "pareizi - smitings, t. i., (konkrēti) aromātiskā sveķe (iespējams, stirakss) (pulvera veidā)",
+    "nb": "egentlig, en smitting, dvs. (konkret) en aromatisk gummi (kanskje styrax) (som pulverisert)",
+    "nl": "goed, een slag, d.w.z. (concreet) een aromatische gom (misschien styrax) (als poeder)",
+    "pl": "właściwie, uderzenie, tj. (konkretnie) aromatyczna guma (być może styraks) (jako sproszkowana)",
+    "pt": "propriamente dito, um golpe, ou seja (concretamente) uma goma aromática (talvez styrax) (em pó)",
+    "ro": "în mod corespunzător, o lovire, adică (concret) o gumă aromatică (poate styrax) (ca pudră)",
+    "ru": "надлежащим образом, сбивание, т.е. (конкретно) ароматическая камедь (возможно, стиракс) (в виде порошка)",
+    "sk": "správne, úder, t. j. (konkrétne) aromatická guma (možno styrax) (v prášku)",
+    "sl": "pravilno, udarjanje, tj. (konkretno) aromatična guma (morda stirax) (v prahu)",
+    "sv": "korrekt, en smäll, dvs. (konkret) ett aromatiskt gummi (kanske styrax) (som pulveriserat)",
+    "tr": "uygun şekilde, bir vuruş, yani (somut olarak) aromatik bir sakız (belki de styrax) (toz halinde)",
+    "uk": "власне, паління, тобто (конкретно) ароматична жуйка (можливо, стиракс) (у вигляді порошку)",
+    "zh": "熏，即（具体地说）芳香树胶（也许是苯乙烯）（粉末状）"
+  },
+  "verses": [
+    "genesis 37:25:13",
+    "genesis 43:11:20"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7517",
+  "language": "hebrew",
+  "transliteration": "repheth",
+  "pronunciation": "reh'-feth",
+  "definition": "a stall for cattle (from their resting there)",
+  "kjvTranslation": "stall.",
+  "hebrew": "רֶפֶת",
+  "translations": {
+    "bg": "обор за добитъка (от почивката му там)",
+    "cs": "stáj pro dobytek (od jeho odpočinku)",
+    "da": "en stald til kvæg (fra deres hvile der)",
+    "de": "ein Stall für Rinder (weil sie dort ruhen)",
+    "el": "στάβλος για τα βοοειδή (από την ανάπαυσή τους εκεί)",
+    "es": "un establo para el ganado (por descansar allí)",
+    "et": "karja laut (nende puhkamisest seal)",
+    "fi": "karjan karsina (koska karja lepää siellä)",
+    "fr": "une étable pour le bétail (du fait qu'il s'y repose)",
+    "hu": "marhaistálló (a marhák ott pihenésétől)",
+    "id": "kandang untuk ternak (untuk beristirahat di sana)",
+    "it": "una stalla per il bestiame (per il fatto che vi riposa)",
+    "ja": "牛小屋",
+    "ko": "소를 위한 마구간 (그곳에서 쉬는 것에서)",
+    "lt": "galvijų tvartas (nuo jų poilsio jame)",
+    "lv": "govju novietne (lai tur varētu atpūsties)",
+    "nb": "en stall for storfe (fra at de hviler der)",
+    "nl": "een stal voor vee (omdat ze daar rusten)",
+    "pl": "obora dla bydła (od ich odpoczynku tam)",
+    "pt": "um estábulo para o gado (pelo facto de aí repousar)",
+    "ro": "un grajd pentru vite (de la odihna lor acolo)",
+    "ru": "стойло для скота (от того, что он там отдыхает)",
+    "sk": "stajňa pre dobytok (od jeho odpočinku)",
+    "sl": "hlev za govedo (ker tam počiva)",
+    "sv": "ett bås för boskap (från att de vilar där)",
+    "tr": "sığırlar için bir ahır (orada dinlenmelerinden)",
+    "uk": "стійло для худоби (від її відпочинку там)",
+    "zh": "牛栏"
+  },
+  "verses": [
+    "habakkuk 3:17:19"
+  ]
+}

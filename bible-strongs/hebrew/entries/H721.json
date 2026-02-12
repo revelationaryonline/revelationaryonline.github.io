@@ -1,0 +1,43 @@
+{
+  "number": "H721",
+  "language": "hebrew",
+  "transliteration": "ʼArvâdîy",
+  "pronunciation": "ar-vaw-dee'",
+  "definition": "an Arvadite or citizen of Arvad",
+  "kjvTranslation": "Arvadite.",
+  "translations": {
+    "bg": "арвадиец или гражданин на Арвад",
+    "cs": "arvadita nebo občan Arvadu",
+    "da": "en arvadit eller borger i Arvad",
+    "de": "ein Arvaditer oder Bürger von Arvad",
+    "el": "αρβαντίτης ή πολίτης του Arvad",
+    "es": "un arvadita o ciudadano de Arvad",
+    "et": "arvadite või Arvadi kodanik",
+    "fi": "arvadilainen tai Arvadin kansalainen",
+    "fr": "un Arvadite ou un citoyen d'Arvad",
+    "hu": "arvadita vagy arvadi polgár",
+    "id": "orang Arvad atau warga negara Arvad",
+    "it": "un arvadese o un cittadino di Arvad",
+    "ja": "アルバド人またはアルバド市民",
+    "ko": "아르바드인 또는 아르바드 시민",
+    "lt": "arvadietis arba Arvados pilietis",
+    "lv": "arvadietis vai Arvadas pilsonis",
+    "nb": "en arvaditt eller borger av Arvad",
+    "nl": "een Arvadiet of inwoner van Arvad",
+    "pl": "arvadczyk lub obywatel Arvadu",
+    "pt": "um arvadita ou cidadão de Arvad",
+    "ro": "un arvadit sau cetățean al Arvadului",
+    "ru": "арвадиец или гражданин Арвада",
+    "sk": "arvadita alebo občan Arvadu",
+    "sl": "arvadijec ali državljan Arvadu",
+    "sv": "en arvadit eller medborgare i Arvad",
+    "tr": "bir Arvadlı veya Arvad vatandaşı",
+    "uk": "арвадієць або громадянин Арвада",
+    "zh": "阿瓦德人或阿瓦德公民"
+  },
+  "hebrew": "אַרְוָדִי",
+  "verses": [
+    "genesis 10:18:1",
+    "firstChronicles 1:16:1"
+  ]
+}

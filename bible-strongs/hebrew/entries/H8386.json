@@ -1,0 +1,43 @@
+{
+  "number": "H8386",
+  "language": "hebrew",
+  "transliteration": "taʼănîyâh",
+  "pronunciation": "tah-an-ee-yaw'",
+  "definition": "lamentation",
+  "kjvTranslation": "heaviness, mourning.",
+  "hebrew": "תַּאֲנִיָּה",
+  "translations": {
+    "bg": "оплакване",
+    "cs": "nářek",
+    "da": "klagesang",
+    "de": "klageschrift",
+    "el": "θρήνος",
+    "es": "lamento",
+    "et": "kaebus",
+    "fi": "valitusvirsi",
+    "fr": "lamentation",
+    "hu": "siralom",
+    "id": "ratapan",
+    "it": "lamentazione",
+    "ja": "嘆き",
+    "ko": "애도",
+    "lt": "lamentacija",
+    "lv": "lamentācija",
+    "nb": "klagesang",
+    "nl": "klaagzang",
+    "pl": "lament",
+    "pt": "lamentação",
+    "ro": "lamentare",
+    "ru": "плач",
+    "sk": "nárek",
+    "sl": "lamentacija",
+    "sv": "klagan",
+    "tr": "aĞIT",
+    "uk": "плач",
+    "zh": "哀叹"
+  },
+  "verses": [
+    "isaiah 29:2:3",
+    "lamentations 2:5:13"
+  ]
+}

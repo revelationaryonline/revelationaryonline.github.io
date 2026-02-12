@@ -1,0 +1,43 @@
+{
+  "number": "H5100",
+  "language": "hebrew",
+  "transliteration": "nᵉhâmâh",
+  "pronunciation": "neh-haw-maw'",
+  "definition": "snarling",
+  "kjvTranslation": "disquietness, roaring.",
+  "hebrew": "נְהָמָה",
+  "translations": {
+    "bg": "ръмжене",
+    "cs": "vrčící",
+    "da": "snerrende",
+    "de": "knurrend",
+    "el": "βρυχηθμός",
+    "es": "gruñendo",
+    "et": "räuskav",
+    "fi": "räkivä",
+    "fr": "grognement",
+    "hu": "vicsorgó",
+    "id": "menggeram",
+    "it": "ringhiando",
+    "ja": "いがみ合い",
+    "ko": "으르렁거림",
+    "lt": "riaumojimas",
+    "lv": "rēcošs",
+    "nb": "knurrende",
+    "nl": "brommend",
+    "pl": "warczenie",
+    "pt": "rosnando",
+    "ro": "mârâit",
+    "ru": "рычание",
+    "sk": "vrčanie",
+    "sl": "rjovenje",
+    "sv": "morrande",
+    "tr": "hırıltılı",
+    "uk": "гарчання",
+    "zh": "咆哮"
+  },
+  "verses": [
+    "psalms 38:9:5",
+    "isaiah 5:30:4"
+  ]
+}

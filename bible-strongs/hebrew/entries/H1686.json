@@ -1,0 +1,42 @@
+{
+  "number": "H1686",
+  "language": "hebrew",
+  "transliteration": "dibyôwn",
+  "pronunciation": "dib-yone'",
+  "definition": "probably some cheap vegetable, perhaps a bulbous root",
+  "kjvTranslation": "dove's dung.",
+  "translations": {
+    "bg": "вероятно някакъв евтин зеленчук, може би луковичен корен",
+    "cs": "pravděpodobně nějaká levná zelenina, možná cibulovitý kořen",
+    "da": "sandsynligvis en billig grøntsag, måske en pæreformet rod",
+    "de": "wahrscheinlich irgendein billiges Gemüse, vielleicht eine Zwiebelwurzel",
+    "el": "πιθανότατα κάποιο φτηνό λαχανικό, ίσως μια βολβώδης ρίζα",
+    "es": "probablemente algún vegetal barato, tal vez una raíz bulbosa",
+    "et": "ilmselt mingi odav köögivili, võib-olla sibulajuur",
+    "fi": "luultavasti jokin halpa vihannes, ehkä sipulijuuri",
+    "fr": "probablement un légume bon marché, peut-être une racine bulbeuse",
+    "hu": "valószínűleg valami olcsó zöldség, talán egy hagymás gyökér",
+    "id": "mungkin beberapa sayuran murah, mungkin akar berumbi",
+    "it": "probabilmente qualche verdura a buon mercato, forse una radice bulbosa",
+    "ja": "おそらく安い野菜、おそらく球根状の根",
+    "ko": "아마도 값싼 채소, 아마도 구근 뿌리 일 것입니다",
+    "lt": "tikriausiai kokia nors pigi daržovė, galbūt svogūninė šaknis",
+    "lv": "iespējams, kāds lēts dārzenis, varbūt sīpolu sakne",
+    "nb": "sannsynligvis en billig grønnsak, kanskje en pærerot",
+    "nl": "waarschijnlijk een goedkope groente, misschien een bolwortel",
+    "pl": "prawdopodobnie jakieś tanie warzywo, być może korzeń bulwy",
+    "pt": "provavelmente algum vegetal barato, talvez uma raiz bulbosa",
+    "ro": "probabil o legumă ieftină, poate o rădăcină bulboasă",
+    "ru": "вероятно, какой-то дешевый овощ, возможно, луковичный корень",
+    "sk": "pravdepodobne nejaká lacná zelenina, možno cibuľový koreň",
+    "sl": "verjetno kakšna poceni zelenjava, morda čebulasta korenina",
+    "sv": "förmodligen någon billig grönsak, kanske en lökrot",
+    "tr": "muhtemelen ucuz bir sebze, belki soğanlı bir kök",
+    "uk": "можливо, якийсь дешевий овоч, можливо, цибулинний корінь",
+    "zh": "可能是某种廉价蔬菜，也许是球根"
+  },
+  "hebrew": "דִּבְיוֹן",
+  "verses": [
+    "secondKings 6:25:17"
+  ]
+}

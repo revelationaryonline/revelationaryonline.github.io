@@ -1,0 +1,42 @@
+{
+  "number": "H952",
+  "language": "hebrew",
+  "transliteration": "bûwr",
+  "pronunciation": "boor",
+  "definition": "to bore, i.e. (figuratively) examine",
+  "kjvTranslation": "declare.",
+  "translations": {
+    "bg": "да отегчава, т.е. (в преносен смисъл) да изследва",
+    "cs": "nudit, tj. (přeneseně) zkoumat",
+    "da": "at kede sig, dvs. (i overført betydning) undersøge",
+    "de": "bohren, d.h. (im übertragenen Sinne) untersuchen",
+    "el": "να κουράζω, δηλαδή (μεταφορικά) να εξετάζω",
+    "es": "aburrir, es decir, examinar (en sentido figurado)",
+    "et": "igavleda, st (piltlikult) uurida",
+    "fi": "tylsistyttää, eli (kuvaannollisesti) tutkia",
+    "fr": "ennuyer, c'est-à-dire examiner (au sens figuré)",
+    "hu": "untatni, azaz (átvitt értelemben) megvizsgálni",
+    "id": "untuk menanggung, yaitu (secara kiasan) memeriksa",
+    "it": "annoiare, cioè (in senso figurato) esaminare",
+    "ja": "を退屈させる、つまり（比喩的に）調べる",
+    "ko": "보어, 즉 (비 유적으로) 검사하다",
+    "lt": "nuobodžiauti, t. y. (perkeltine prasme) tirti",
+    "lv": "apgrūtināt, t.i., (pārnestā nozīmē) pārbaudīt",
+    "nb": "å bore, dvs. (i overført betydning) undersøke",
+    "nl": "vervelen, d.w.z. (figuurlijk) onderzoeken",
+    "pl": "nudzić, tj. (w przenośni) badać",
+    "pt": "aborrecer, ou seja, (figurativamente) examinar",
+    "ro": "a plictisi, adică (la figurat) a examina",
+    "ru": "докучать, т.е. (фигурально) исследовать",
+    "sk": "nudiť, t. j. (obrazne) skúmať",
+    "sl": "utrujati, tj. (v prenesenem pomenu) preverjati",
+    "sv": "att tråka ut, dvs. (bildligt talat) undersöka",
+    "tr": "sıkmak, yani (mecazi olarak) incelemek",
+    "uk": "свердлити, тобто (образно) досліджувати",
+    "zh": "镗，即（比喻）检查"
+  },
+  "hebrew": "בּוּר",
+  "verses": [
+    "ecclesiastes 9:1:7"
+  ]
+}

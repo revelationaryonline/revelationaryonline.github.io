@@ -1,0 +1,42 @@
+{
+  "number": "H793",
+  "language": "hebrew",
+  "transliteration": "ʼeshed",
+  "pronunciation": "eh'-shed",
+  "definition": "an outpouring",
+  "kjvTranslation": "stream.",
+  "translations": {
+    "bg": "излияние",
+    "cs": "příval",
+    "da": "en udstrømning",
+    "de": "ein Erguss",
+    "el": "μια έκρηξη",
+    "es": "una efusión",
+    "et": "välja voolab",
+    "fi": "vuodatus",
+    "fr": "un déversement",
+    "hu": "kiáradás",
+    "id": "pencurahan",
+    "it": "un'effusione",
+    "ja": "ほとばしり",
+    "ko": "쏟아지는",
+    "lt": "išsiliejimas",
+    "lv": "izplūdums",
+    "nb": "en utgytelse",
+    "nl": "een uitstorting",
+    "pl": "wylew",
+    "pt": "uma efusão",
+    "ro": "o revărsare",
+    "ru": "излияние",
+    "sk": "vyliatie",
+    "sl": "izliv",
+    "sv": "en utgjutelse",
+    "tr": "bir taşkınlık",
+    "uk": "потік",
+    "zh": "汹涌澎湃"
+  },
+  "hebrew": "אֶשֶׁד",
+  "verses": [
+    "numbers 21:15:0"
+  ]
+}

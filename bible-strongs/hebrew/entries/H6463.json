@@ -1,0 +1,42 @@
+{
+  "number": "H6463",
+  "language": "hebrew",
+  "transliteration": "pâʻâh",
+  "pronunciation": "paw-aw'",
+  "definition": "to scream",
+  "kjvTranslation": "cry.",
+  "hebrew": "פָּעָה",
+  "translations": {
+    "bg": "да крещи",
+    "cs": "křičet",
+    "da": "at skrige",
+    "de": "zu schreien",
+    "el": "να ουρλιάζω",
+    "es": "gritar",
+    "et": "karjuda",
+    "fi": "huutamaan",
+    "fr": "de crier",
+    "hu": "hogy sikítson",
+    "id": "untuk berteriak",
+    "it": "urlare",
+    "ja": "叫ぶ",
+    "ko": "비명을 지르다",
+    "lt": "šaukti",
+    "lv": "kliegt",
+    "nb": "å skrike",
+    "nl": "om te schreeuwen",
+    "pl": "krzyczeć",
+    "pt": "para gritar",
+    "ro": "să țipi",
+    "ru": "кричать",
+    "sk": "kričať",
+    "sl": "kričati",
+    "sv": "att skrika",
+    "tr": "çığlık atmak için",
+    "uk": "кричати",
+    "zh": "尖叫"
+  },
+  "verses": [
+    "isaiah 42:14:5"
+  ]
+}

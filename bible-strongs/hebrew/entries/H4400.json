@@ -1,0 +1,42 @@
+{
+  "number": "H4400",
+  "language": "hebrew",
+  "transliteration": "malʼăkûwth",
+  "pronunciation": "mal-ak-ooth'",
+  "definition": "a message",
+  "kjvTranslation": "message.",
+  "hebrew": "מַלְאֲכוּת",
+  "translations": {
+    "bg": "съобщение",
+    "cs": "zpráva",
+    "da": "en besked",
+    "de": "eine Nachricht",
+    "el": "ένα μήνυμα",
+    "es": "un mensaje",
+    "et": "sõnum",
+    "fi": "viesti",
+    "fr": "un message",
+    "hu": "üzenet",
+    "id": "sebuah pesan",
+    "it": "un messaggio",
+    "ja": "メッセージ",
+    "ko": "메시지",
+    "lt": "žinutė",
+    "lv": "ziņa",
+    "nb": "en melding",
+    "nl": "een bericht",
+    "pl": "wiadomość",
+    "pt": "uma mensagem",
+    "ro": "un mesaj",
+    "ru": "сообщение",
+    "sk": "správa",
+    "sl": "sporočilo",
+    "sv": "ett meddelande",
+    "tr": "bir mesaj",
+    "uk": "повідомлення",
+    "zh": "留言"
+  },
+  "verses": [
+    "haggai 1:13:4"
+  ]
+}

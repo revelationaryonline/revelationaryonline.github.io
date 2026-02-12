@@ -1,0 +1,42 @@
+{
+  "number": "H4263",
+  "language": "hebrew",
+  "transliteration": "machmâl",
+  "pronunciation": "makh-mawl'",
+  "definition": "properly, sympathy;",
+  "kjvTranslation": "pitieth.",
+  "hebrew": "מַחְמָל",
+  "translations": {
+    "bg": "правилно, съчувствие;",
+    "cs": "správně, soucit;",
+    "da": "ordentligt, sympati;",
+    "de": "richtig, Sympathie;",
+    "el": "σωστά, συμπάθεια,",
+    "es": "apropiadamente, simpatía;",
+    "et": "korralikult, kaastunne;",
+    "fi": "kunnolla, myötätuntoa;",
+    "fr": "correctement, sympathie ;",
+    "hu": "rendesen, együttérzéssel;",
+    "id": "dengan benar, simpati;",
+    "it": "correttamente, la simpatia;",
+    "ja": "正しく、同情する；",
+    "ko": "제대로, 공감;",
+    "lt": "tinkamai, užuojauta;",
+    "lv": "pareizi, līdzjūtība;",
+    "nb": "riktig, sympati;",
+    "nl": "goed, sympathie;",
+    "pl": "prawidłowo, współczucie;",
+    "pt": "corretamente, simpatia;",
+    "ro": "corect, simpatie;",
+    "ru": "должным образом, сочувствие;",
+    "sk": "správne, súcit;",
+    "sl": "pravilno, sočutje;",
+    "sv": "ordentligt, sympatiskt;",
+    "tr": "düzgün, sempati;",
+    "uk": "правильно, співчуття;",
+    "zh": "适当的同情"
+  },
+  "verses": [
+    "ezekiel 24:21:15"
+  ]
+}

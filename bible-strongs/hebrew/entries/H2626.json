@@ -1,0 +1,42 @@
+{
+  "number": "H2626",
+  "language": "hebrew",
+  "transliteration": "chăçîyn",
+  "pronunciation": "khas-een'",
+  "definition": "properly, firm, i.e. (by implication) mighty",
+  "kjvTranslation": "strong.",
+  "translations": {
+    "bg": "правилно, твърдо, т.е. (по подразбиране) могъщо",
+    "cs": "správně, pevný, tj. (implicitně) mocný",
+    "da": "korrekt, fast, dvs. (underforstået) mægtig",
+    "de": "richtig, fest, d.h. (implizit) mächtig",
+    "el": "σωστά, σταθερά, δηλαδή (κατ' επέκταση) ισχυρά",
+    "es": "propiamente, firme, es decir (por implicación) poderoso",
+    "et": "korralikult, kindlalt, st (kaudselt) võimsalt",
+    "fi": "kunnolla, lujasti, eli (implisiittisesti) mahtava",
+    "fr": "correctement, ferme, c'est-à-dire (implicitement) puissant",
+    "hu": "megfelelően, határozottan, azaz (értelemszerűen) hatalmasan",
+    "id": "benar, tegas, yaitu (dengan implikasi) perkasa",
+    "it": "propriamente, ferma, cioè (per implicazione) possente",
+    "ja": "きちんと、しっかりと、つまり（暗に）強大に",
+    "ko": "적절하고, 확고하며, 즉 (암시적으로) 강력합니다",
+    "lt": "tinkamai, tvirtai, t. y. (netiesiogiai) galingai",
+    "lv": "pareizi, stingri, t.i., (netieši) vareni",
+    "nb": "riktig, fast, dvs. (underforstått) mektig",
+    "nl": "goed, stevig, d.w.z. (impliciet) machtig",
+    "pl": "właściwie, stanowczy, tj. (w domyśle) potężny",
+    "pt": "propriamente dito, firme, ou seja, (implicitamente) poderoso",
+    "ro": "corect, ferm, adică (implicit) puternic",
+    "ru": "правильно, твердо, т.е. (по косвенным признакам) могущественно",
+    "sk": "správne, pevný, t. j. (implicitne) mocný",
+    "sl": "pravilno, trdno, tj. (implicitno) mogočno",
+    "sv": "korrekt, fast, d.v.s. (underförstått) mäktig",
+    "tr": "düzgün, sağlam, yani (ima yoluyla) güçlü",
+    "uk": "правильно, міцно, тобто (за підтекстом) могутньо",
+    "zh": "正确、坚定，即（暗示）强大"
+  },
+  "hebrew": "חֲסִין",
+  "verses": [
+    "psalms 89:9:5"
+  ]
+}

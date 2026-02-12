@@ -1,0 +1,42 @@
+{
+  "number": "H4049",
+  "language": "hebrew",
+  "transliteration": "mᵉgar",
+  "pronunciation": "meg-ar'",
+  "definition": "to overthrow",
+  "kjvTranslation": "destroy.",
+  "hebrew": "מְגַר",
+  "translations": {
+    "bg": "да се срине",
+    "cs": "svrhnout",
+    "da": "at vælte",
+    "de": "zu stürzen",
+    "el": "να ανατρέψει",
+    "es": "derrocar",
+    "et": "kukutada",
+    "fi": "kaataa",
+    "fr": "renverser",
+    "hu": "megdönteni",
+    "id": "untuk menggulingkan",
+    "it": "rovesciare",
+    "ja": "打倒",
+    "ko": "전복하기 위해",
+    "lt": "nuversti",
+    "lv": "gāzt",
+    "nb": "å styrte",
+    "nl": "omverwerpen",
+    "pl": "obalić",
+    "pt": "para derrubar",
+    "ro": "a răsturna",
+    "ru": "свергнуть",
+    "sk": "zvrhnúť",
+    "sl": "strmoglaviti",
+    "sv": "att störta",
+    "tr": "devirmek için",
+    "uk": "щоб скинути",
+    "zh": "推翻"
+  },
+  "verses": [
+    "ezra 6:12:5"
+  ]
+}

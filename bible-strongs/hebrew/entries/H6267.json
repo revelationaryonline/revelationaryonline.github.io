@@ -1,0 +1,43 @@
+{
+  "number": "H6267",
+  "language": "hebrew",
+  "transliteration": "ʻattîyq",
+  "pronunciation": "at-teek'",
+  "definition": "removed, i.e. weaned; also antique",
+  "kjvTranslation": "ancient, drawn.",
+  "hebrew": "עַתִּיק",
+  "translations": {
+    "bg": "отстранен, т.е. отбит; също античен",
+    "cs": "odstraněn, tj. odstaven; také antický",
+    "da": "fjernet, dvs. fravænnet; også antik",
+    "de": "entfernt, d.h. entwöhnt; auch antik",
+    "el": "απομακρύνεται, δηλαδή απογαλακτίζεται- επίσης, αντίκες",
+    "es": "retirado, es decir, destetado; también antiguo",
+    "et": "eemaldatud, s.t. võõrutatud; ka antiikne",
+    "fi": "poistettu, eli vieroitettu; myös antiikkinen",
+    "fr": "enlevé, c'est-à-dire sevré ; également antique",
+    "hu": "eltávolították, azaz elválasztották; antikvitás is",
+    "id": "dihapus, yaitu disapih; juga antik",
+    "it": "rimosso, cioè svezzato; anche antico",
+    "ja": "を取り除く、つまり離乳させる。",
+    "ko": "제거, 즉 젖을 뗀; 또한 골동품",
+    "lt": "pašalintas, t. y. nujunkytas; taip pat antikvarinis",
+    "lv": "izņemts, t. i., atņemts; arī antikvārais",
+    "nb": "fjernet, dvs. avvent; også antikk",
+    "nl": "verwijderd, d.w.z. gespeend; ook antiek",
+    "pl": "usunięty, tj. odstawiony od piersi; również antyczny",
+    "pt": "retirado, ou seja, desmamado; também antigo",
+    "ro": "îndepărtat, adică înțărcat; de asemenea antic",
+    "ru": "удаленный, т.е. отнятый от груди; также старинный",
+    "sk": "odstránené, t. j. odstavené; tiež antické",
+    "sl": "odstranjen, tj. odstavljen; tudi antični",
+    "sv": "borttagen, dvs. avvänjd; även antik",
+    "tr": "çıkarılmış, yani sütten kesilmiş; ayrıca antika",
+    "uk": "вилучений, тобто відлучений від грудей; також антикварний",
+    "zh": "去掉，即断奶；也是古董"
+  },
+  "verses": [
+    "firstChronicles 4:22:11",
+    "isaiah 28:9:10"
+  ]
+}

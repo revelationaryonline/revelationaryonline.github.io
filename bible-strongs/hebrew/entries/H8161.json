@@ -1,0 +1,42 @@
+{
+  "number": "H8161",
+  "language": "hebrew",
+  "transliteration": "shaʻăṭâh",
+  "pronunciation": "shah'-at-aw",
+  "definition": "a clatter (of hoofs)",
+  "kjvTranslation": "stamping.",
+  "hebrew": "שַׁעֲטָה",
+  "translations": {
+    "bg": "тропот (на копита)",
+    "cs": "klapot (kopyt)",
+    "da": "en klapren (af hove)",
+    "de": "ein (Huf-)Getrappel",
+    "el": "ένας θόρυβος (από οπλές)",
+    "es": "un estruendo (de cascos)",
+    "et": "(kabja) klappimine",
+    "fi": "(kavioiden) kolina",
+    "fr": "un claquement (de sabots)",
+    "hu": "(paták csattogása)",
+    "id": "suara gemerincing (dari kuku)",
+    "it": "un rumore (di zoccoli)",
+    "ja": "ばしゃばしゃ",
+    "ko": "(발굽의) 삐걱거리는 소리",
+    "lt": "(kanopų kaukšėjimas)",
+    "lv": "(naglu) klaigāšana",
+    "nb": "en klapring (av hover)",
+    "nl": "een gekletter (van hoeven)",
+    "pl": "stukot (kopyt)",
+    "pt": "um barulho (de cascos)",
+    "ro": "un zgomot (de copite)",
+    "ru": "стук (копыт)",
+    "sk": "klepot (kopýt)",
+    "sl": "pokanje (kopit)",
+    "sv": "ett klapprande (av hovar)",
+    "tr": "bir takırtı (toynakların)",
+    "uk": "стукіт (копит)",
+    "zh": "哒"
+  },
+  "verses": [
+    "jeremiah 47:3:1"
+  ]
+}

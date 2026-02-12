@@ -1,0 +1,42 @@
+{
+  "number": "H7226",
+  "language": "hebrew",
+  "transliteration": "raʼăshôth",
+  "pronunciation": "rah-ash-oth'",
+  "definition": "a pillow (being for the head)",
+  "kjvTranslation": "bolster.",
+  "hebrew": "רַאֲשֹׁת",
+  "translations": {
+    "bg": "възглавница (за главата)",
+    "cs": "polštář (na hlavu)",
+    "da": "en pude (til hovedet)",
+    "de": "ein Kopfkissen (für den Kopf)",
+    "el": "ένα μαξιλάρι (για το κεφάλι)",
+    "es": "una almohada (para la cabeza)",
+    "et": "padi (pea jaoks)",
+    "fi": "tyyny (päähän)",
+    "fr": "un oreiller (pour la tête)",
+    "hu": "párna (a fejnek)",
+    "id": "bantal (untuk kepala)",
+    "it": "un cuscino (per la testa)",
+    "ja": "枕",
+    "ko": "베개(머리용)",
+    "lt": "pagalvė (galvai)",
+    "lv": "spilvens (galvai)",
+    "nb": "en pute (til hodet)",
+    "nl": "een kussen (voor het hoofd)",
+    "pl": "poduszka (przeznaczona na głowę)",
+    "pt": "uma almofada (para a cabeça)",
+    "ro": "o pernă (pentru cap)",
+    "ru": "подушка (для головы)",
+    "sk": "vankúš (na hlavu)",
+    "sl": "vzglavnik (za glavo)",
+    "sv": "en kudde (som är till för huvudet)",
+    "tr": "bir yastık (baş için olmak üzere)",
+    "uk": "подушка (для голови)",
+    "zh": "枕头"
+  },
+  "verses": [
+    "firstSamuel 26:12:7"
+  ]
+}

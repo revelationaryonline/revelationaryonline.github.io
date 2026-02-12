@@ -1,0 +1,42 @@
+{
+  "number": "H4613",
+  "language": "hebrew",
+  "transliteration": "moʻŏmâd",
+  "pronunciation": "moh-om-awd'",
+  "definition": "literally a foothold",
+  "kjvTranslation": "standing.",
+  "hebrew": "מׇעֳמָד",
+  "verses": [
+    "psalms 69:3:4"
+  ],
+  "translations": {
+    "bg": "буквално опора",
+    "cs": "doslova opěrný bod",
+    "da": "bogstaveligt talt et fodfæste",
+    "de": "buchstäblich einen Fuß in der Tür",
+    "el": "κυριολεκτικά ένα στήριγμα",
+    "es": "literalmente un punto de apoyo",
+    "et": "sõna otseses mõttes jalgealune",
+    "fi": "kirjaimellisesti jalansija",
+    "fr": "littéralement un point d'appui",
+    "hu": "szó szerint egy lábnyom",
+    "id": "secara harfiah adalah pijakan",
+    "it": "letteralmente un punto d'appoggio",
+    "ja": "足がかり",
+    "ko": "말 그대로 발판",
+    "lt": "tiesiogine prasme atramos taškas",
+    "lv": "burtiski kā atpazīšanas punkts",
+    "nb": "bokstavelig talt et fotfeste",
+    "nl": "letterlijk een houvast",
+    "pl": "dosłownie przyczółek",
+    "pt": "literalmente um ponto de apoio",
+    "ro": "literalmente un punct de sprijin",
+    "ru": "буквально плацдарм",
+    "sk": "doslova oporný bod",
+    "sl": "dobesedno opora",
+    "sv": "bokstavligen ett fotfäste",
+    "tr": "kelimenin tam anlamıyla bir dayanak",
+    "uk": "буквально точку опори",
+    "zh": "据点"
+  }
+}

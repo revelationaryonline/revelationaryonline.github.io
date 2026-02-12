@@ -1,0 +1,42 @@
+{
+  "number": "H1266",
+  "language": "hebrew",
+  "transliteration": "bᵉrôwth",
+  "pronunciation": "ber-oth'",
+  "definition": "the cypress (or some elastic tree)",
+  "kjvTranslation": "fir.",
+  "translations": {
+    "bg": "кипарисът (или друго еластично дърво)",
+    "cs": "cypřiš (nebo jiný pružný strom)",
+    "da": "cypressen (eller et andet elastisk træ)",
+    "de": "die Zypresse (oder ein anderer elastischer Baum)",
+    "el": "το κυπαρίσσι (ή κάποιο ελαστικό δέντρο)",
+    "es": "el ciprés (o algún árbol elástico)",
+    "et": "küpress (või mõni elastne puu)",
+    "fi": "sypressi (tai jokin kimmoisa puu)",
+    "fr": "le cyprès (ou un autre arbre élastique)",
+    "hu": "a ciprus (vagy valamilyen rugalmas fa)",
+    "id": "pohon cemara (atau pohon yang elastis)",
+    "it": "il cipresso (o qualche albero elastico)",
+    "ja": "ヒノキ",
+    "ko": "사이프러스(또는 탄력 있는 나무)",
+    "lt": "kiparisas (arba koks nors elastingas medis)",
+    "lv": "ciprese (vai kādā elastīgā kokā)",
+    "nb": "sypressen (eller et annet elastisk tre)",
+    "nl": "de cipres (of een andere elastische boom)",
+    "pl": "cyprys (lub inne elastyczne drzewo)",
+    "pt": "o cipreste (ou alguma árvore elástica)",
+    "ro": "chiparosul (sau alt copac elastic)",
+    "ru": "кипарис (или другое упругое дерево)",
+    "sk": "cyprus (alebo iný pružný strom)",
+    "sl": "ciprese (ali kakšnega elastičnega drevesa)",
+    "sv": "cypressen (eller något elastiskt träd)",
+    "tr": "selvi (veya bazı elastik ağaçlar)",
+    "uk": "кипарис (або інше еластичне дерево)",
+    "zh": "柏树"
+  },
+  "hebrew": "בְּרוֹת",
+  "verses": [
+    "solomon 1:17:5"
+  ]
+}

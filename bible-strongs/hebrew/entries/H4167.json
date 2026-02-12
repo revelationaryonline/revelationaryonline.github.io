@@ -1,0 +1,42 @@
+{
+  "number": "H4167",
+  "language": "hebrew",
+  "transliteration": "mûwq",
+  "pronunciation": "mook",
+  "definition": "to jeer, i.e. (intens.) blaspheme",
+  "kjvTranslation": "be corrupt.",
+  "hebrew": "מוּק",
+  "translations": {
+    "bg": "да се подигравам, т.е. (интензивно) да хуля",
+    "cs": "posmívat se, tj. (intens.) rouhat se",
+    "da": "at håne, dvs. (intens.) spotte",
+    "de": "spotten, d.h. (intens.) lästern",
+    "el": "χλευάζω, δηλαδή (εντατικά) βλασφημώ",
+    "es": "burlarse, es decir (intens.) blasfemar",
+    "et": "irvitada, st (intensiivselt) pilkata",
+    "fi": "pilkata, eli (inten.) pilkata",
+    "fr": "se moquer, c'est-à-dire (intens.) blasphémer",
+    "hu": "gúnyolódni, azaz (intenzíven) káromkodni",
+    "id": "mencemooh, yaitu (intens.) menghujat",
+    "it": "schernire, cioè (intens.) bestemmiare",
+    "ja": "嫉妬する、すなわち（強勢的に）冒涜する",
+    "ko": "환호하다, 즉 (강렬하게) 모독하다",
+    "lt": "šaipytis, t. y. (intensyviai) piktžodžiauti",
+    "lv": "ņirgāties, t.i., (intens.) zaimot",
+    "nb": "å spotte, dvs. (intens.) spotte",
+    "nl": "schimpen, d.w.z. (intens.) lasteren",
+    "pl": "szydzić, tj. (intensywnie) bluźnić",
+    "pt": "zombar, ou seja, (intens.) blasfemar",
+    "ro": "a batjocori, adică (intens.) a blasfemia",
+    "ru": "издеваться, т.е. (интенс.) богохульствовать",
+    "sk": "posmievať sa, t. j. (intenz.) rúhať sa",
+    "sl": "norčevati se, tj. (intenzivno) bogokletno",
+    "sv": "att håna, dvs. (intensivt) smäda",
+    "tr": "alay etmek, yani (yoğun olarak) küfretmek",
+    "uk": "висміювати, тобто (інтенсивно) богохульствувати",
+    "zh": "嘲笑，即（强烈的）亵渎"
+  },
+  "verses": [
+    "psalms 73:8:0"
+  ]
+}

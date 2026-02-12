@@ -1,0 +1,42 @@
+{
+  "number": "H1402",
+  "language": "hebrew",
+  "transliteration": "Gibbâr",
+  "pronunciation": "ghib-bawr'",
+  "definition": "Gibbar, an Israelite",
+  "kjvTranslation": "Gibbar.",
+  "translations": {
+    "bg": "Гибар, израилтянин",
+    "cs": "Gibbar, Izraelita",
+    "da": "Gibbar, en israelit",
+    "de": "Gibbar, ein Israelit",
+    "el": "Gibbar, ένας Ισραηλίτης",
+    "es": "Gibbar, israelita",
+    "et": "Gibbar, iisraellane",
+    "fi": "Gibbar, israelilainen",
+    "fr": "Gibbar, Israélite",
+    "hu": "Gibbar, egy izraelita",
+    "id": "Gibbar, seorang Israel",
+    "it": "Gibbar, un israelita",
+    "ja": "イスラエル人ギバル",
+    "ko": "이스라엘인 기브바",
+    "lt": "Gibaras, izraelitas",
+    "lv": "Gibars, izraēlietis",
+    "nb": "Gibbar, en israelitt",
+    "nl": "Gibbar, een Israëliet",
+    "pl": "Gibbar, Izraelita",
+    "pt": "Gibar, um israelita",
+    "ro": "Gibbar, un israelit",
+    "ru": "Гиббар, израильтянин",
+    "sk": "Gibbar, Izraelita",
+    "sl": "Gibbar, Izraelec",
+    "sv": "Gibbar, en israelit",
+    "tr": "Gibbar, bir İsrailli",
+    "uk": "Гіббар, ізраїльтянин",
+    "zh": "以色列人吉巴尔"
+  },
+  "hebrew": "גִּבָּר",
+  "verses": [
+    "ezra 2:20:1"
+  ]
+}

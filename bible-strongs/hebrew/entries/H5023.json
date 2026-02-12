@@ -1,0 +1,43 @@
+{
+  "number": "H5023",
+  "language": "hebrew",
+  "transliteration": "nᵉbizbâh",
+  "pronunciation": "neb-iz-baw'",
+  "definition": "a largess",
+  "kjvTranslation": "reward.",
+  "hebrew": "נְבִזְבָּה",
+  "translations": {
+    "bg": "щедрост",
+    "cs": "velkorysost",
+    "da": "en generøsitet",
+    "de": "eine Großzügigkeit",
+    "el": "μια γενναιοδωρία",
+    "es": "una limosna",
+    "et": "suursugusus",
+    "fi": "avokätisyys",
+    "fr": "une largesse",
+    "hu": "egy nagylelkűség",
+    "id": "sebuah kemurahan hati",
+    "it": "una generosità",
+    "ja": "おおばんぶるまい",
+    "ko": "큰",
+    "lt": "dosnumas",
+    "lv": "dāsnums",
+    "nb": "en gavmildhet",
+    "nl": "een vrijgevigheid",
+    "pl": "darowizna",
+    "pt": "uma generosidade",
+    "ro": "o generozitate",
+    "ru": "щедрость",
+    "sk": "veľkorysosť",
+    "sl": "velikodušnost",
+    "sv": "ett överdåd",
+    "tr": "bir cömertlik",
+    "uk": "щедрість",
+    "zh": "倾囊"
+  },
+  "verses": [
+    "daniel 2:6:5",
+    "daniel 5:17:9"
+  ]
+}

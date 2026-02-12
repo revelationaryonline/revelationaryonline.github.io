@@ -1,0 +1,42 @@
+{
+  "number": "H3589",
+  "language": "hebrew",
+  "transliteration": "kîyd",
+  "pronunciation": "keed",
+  "definition": "a crushing; figuratively, calamity",
+  "kjvTranslation": "destruction.",
+  "translations": {
+    "bg": "смазване; в преносен смисъл - бедствие",
+    "cs": "zdrcující; přeneseně neštěstí",
+    "da": "en knusning; i overført betydning, ulykke",
+    "de": "ein vernichtendes Ereignis; im übertragenen Sinne: ein Unglück",
+    "el": "συντριβή- μεταφορικά, συμφορά",
+    "es": "un aplastamiento; en sentido figurado, calamidad",
+    "et": "purustamine; piltlikult öeldes õnnetus",
+    "fi": "murskaaminen; kuvaannollisesti onnettomuus",
+    "fr": "un écrasement ; au sens figuré, une calamité",
+    "hu": "zúzás; átvitt értelemben: szerencsétlenség",
+    "id": "menghancurkan; secara kiasan, bencana",
+    "it": "una calamità; in senso figurato, una calamità",
+    "ja": "比喩的に、災難",
+    "ko": "짓밟다; 비유적으로, 재앙",
+    "lt": "sutriuškinimas; perkeltine prasme - nelaimė",
+    "lv": "satricinājums; pārnestā nozīmē - nelaime",
+    "nb": "en knusing; i overført betydning, ulykke",
+    "nl": "een verpletterende; figuurlijk, rampspoed",
+    "pl": "zmiażdżenie; w przenośni nieszczęście",
+    "pt": "um esmagamento; figurativamente, calamidade",
+    "ro": "o zdrobire; la figurat, calamitate",
+    "ru": "сокрушение; фигурально выражаясь, бедствие",
+    "sk": "zdrvenie; v prenesenom význame nešťastie",
+    "sl": "zdrobljenost; v prenesenem pomenu nesreča",
+    "sv": "en krossning; bildligt talat, olycka",
+    "tr": "bir ezilme; mecazi olarak, felaket",
+    "uk": "розгром; образно - катастрофа",
+    "zh": "灭顶之灾"
+  },
+  "hebrew": "כִּיד",
+  "verses": [
+    "job 21:20:3"
+  ]
+}

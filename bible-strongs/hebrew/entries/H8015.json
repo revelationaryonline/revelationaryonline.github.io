@@ -1,0 +1,42 @@
+{
+  "number": "H8015",
+  "language": "hebrew",
+  "transliteration": "Shᵉlômîy",
+  "pronunciation": "shel-o-mee'",
+  "definition": "Shelomi, an Israelite",
+  "kjvTranslation": "Shelomi.",
+  "hebrew": "שְׁלֹמִי",
+  "translations": {
+    "bg": "Шеломи, израилтянин",
+    "cs": "Šelomi, Izraelita",
+    "da": "Shelomi, en israelit",
+    "de": "Schelomi, ein Israelit",
+    "el": "Shelomi, Ισραηλίτης",
+    "es": "Shelomi, israelita",
+    "et": "Shelomi, iisraellane",
+    "fi": "Shelomi, israelilainen",
+    "fr": "Shelomi, Israélite",
+    "hu": "Shelomi, egy izraelita",
+    "id": "Shelomi, seorang warga Israel",
+    "it": "Shelomi, un israelita",
+    "ja": "イスラエル人シェロミ",
+    "ko": "이스라엘인, 셸로미",
+    "lt": "Shelomi, izraelitas",
+    "lv": "Šelomi, izraēlietis",
+    "nb": "Shelomi, en israelitt",
+    "nl": "Shelomi, een Israëliet",
+    "pl": "Shelomi, Izraelita",
+    "pt": "Shelomi, israelita",
+    "ro": "Shelomi, un israelit",
+    "ru": "Шеломи, израильтянин",
+    "sk": "Šelomi, Izraelita",
+    "sl": "Shelomi, Izraelec",
+    "sv": "Shelomi, en israelit",
+    "tr": "Şelomi, bir İsrailli",
+    "uk": "Шеломі, ізраїльтянка",
+    "zh": "以色列人谢洛米"
+  },
+  "verses": [
+    "numbers 34:27:6"
+  ]
+}

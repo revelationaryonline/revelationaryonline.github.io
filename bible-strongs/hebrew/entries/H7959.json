@@ -1,0 +1,42 @@
+{
+  "number": "H7959",
+  "language": "hebrew",
+  "transliteration": "shelev",
+  "pronunciation": "sheh'-lev",
+  "definition": "security",
+  "kjvTranslation": "prosperity.",
+  "hebrew": "שֶׁלֶו",
+  "translations": {
+    "bg": "сигурност",
+    "cs": "zabezpečení",
+    "da": "sikkerhed",
+    "de": "sicherheit",
+    "el": "ασφάλεια",
+    "es": "seguridad",
+    "et": "turvalisus",
+    "fi": "turvallisuus",
+    "fr": "sécurité",
+    "hu": "biztonság",
+    "id": "keamanan",
+    "it": "sicurezza",
+    "ja": "セキュリティ",
+    "ko": "보안",
+    "lt": "saugumas",
+    "lv": "drošība",
+    "nb": "sikkerhet",
+    "nl": "beveiliging",
+    "pl": "bezpieczeństwo",
+    "pt": "segurança",
+    "ro": "securitate",
+    "ru": "безопасность",
+    "sk": "zabezpečenie",
+    "sl": "varnost",
+    "sv": "säkerhet",
+    "tr": "güvenlik",
+    "uk": "безпека",
+    "zh": "安全"
+  },
+  "verses": [
+    "psalms 30:7:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4566",
+  "language": "hebrew",
+  "transliteration": "maʻbâd",
+  "pronunciation": "mah-bawd'",
+  "definition": "an act",
+  "kjvTranslation": "work.",
+  "hebrew": "מַעְבָּד",
+  "verses": [
+    "job 34:25:2"
+  ],
+  "translations": {
+    "bg": "действие",
+    "cs": "akt",
+    "da": "en handling",
+    "de": "eine Handlung",
+    "el": "μια πράξη",
+    "es": "un acto",
+    "et": "tegu",
+    "fi": "teko",
+    "fr": "un acte",
+    "hu": "egy aktus",
+    "id": "suatu tindakan",
+    "it": "un atto",
+    "ja": "行為",
+    "ko": "행위",
+    "lt": "veiksmas",
+    "lv": "akts",
+    "nb": "en handling",
+    "nl": "een daad",
+    "pl": "akt",
+    "pt": "um ato",
+    "ro": "un act",
+    "ru": "акт",
+    "sk": "akt",
+    "sl": "dejanje",
+    "sv": "en handling",
+    "tr": "bir eylem",
+    "uk": "вчинок",
+    "zh": "作为"
+  }
+}

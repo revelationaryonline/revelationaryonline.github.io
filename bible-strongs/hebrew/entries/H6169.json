@@ -1,0 +1,42 @@
+{
+  "number": "H6169",
+  "language": "hebrew",
+  "transliteration": "ʻârâh",
+  "pronunciation": "aw-raw'",
+  "definition": "a naked (i.e. level) plot",
+  "kjvTranslation": "paper reed.",
+  "hebrew": "עָרָה",
+  "translations": {
+    "bg": "гол (т.е. равен) участък",
+    "cs": "holý (tj. rovný) pozemek",
+    "da": "et nøgent (dvs. niveau) plot",
+    "de": "eine nackte (d. h. ebene) Fläche",
+    "el": "ένα γυμνό (δηλ. επίπεδο) διάγραμμα",
+    "es": "una parcela desnuda (es decir, nivelada)",
+    "et": "paljas (st tasane) maatükk",
+    "fi": "alaston (eli tasainen) juoni",
+    "fr": "un tracé nu (c'est-à-dire en niveau)",
+    "hu": "egy csupasz (azaz síkbeli) ábrázolás",
+    "id": "plot telanjang (yaitu level)",
+    "it": "un diagramma nudo (cioè a livelli)",
+    "ja": "裸のプロット",
+    "ko": "네이키드(즉, 레벨) 플롯",
+    "lt": "nuogas (t. y. lygus) sklypas",
+    "lv": "kails (t. i., līdzens) zemes gabals",
+    "nb": "et nakent (dvs. plant) plot",
+    "nl": "een kaal (d.w.z. vlak) perceel",
+    "pl": "nagi (tj. poziomy) wykres",
+    "pt": "um gráfico nu (ou seja, de nível)",
+    "ro": "un complot gol (adică de nivel)",
+    "ru": "голый (т.е. ровный) участок",
+    "sk": "holý (t. j. rovný) pozemok",
+    "sl": "goli (tj. nivojski) diagram",
+    "sv": "en naken (d.v.s. nivå) plot",
+    "tr": "çıplak (yani düz) bir çizim",
+    "uk": "гола (тобто рівна) ділянка",
+    "zh": "裸（即水平）图"
+  },
+  "verses": [
+    "isaiah 19:7:0"
+  ]
+}

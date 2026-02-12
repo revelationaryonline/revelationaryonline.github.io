@@ -1,0 +1,42 @@
+{
+  "number": "H4528",
+  "language": "hebrew",
+  "transliteration": "miçdᵉrôwn",
+  "pronunciation": "mis-der-ohn'",
+  "definition": "a colonnade or internal portico (from its rows of pillars)",
+  "kjvTranslation": "porch.",
+  "hebrew": "מִסְדְּרוֹן",
+  "verses": [
+    "judges 3:23:2"
+  ],
+  "translations": {
+    "bg": "колонада или вътрешен портик (от редиците колони)",
+    "cs": "kolonáda nebo vnitřní portikus (podle řady sloupů)",
+    "da": "en søjlegang eller indre portikus (fra dens rækker af søjler)",
+    "de": "eine Kolonnade oder ein innerer Säulengang (aufgrund seiner Säulenreihen)",
+    "el": "κιονοστοιχία ή εσωτερική στοά (από τις σειρές των κιόνων της)",
+    "es": "una columnata o pórtico interior (por sus hileras de pilares)",
+    "et": "kolonnaad või sisemine portikus (selle sammaste ridade järgi)",
+    "fi": "pylväskäytävä tai sisäpihan pylväikkö (pylväsrivien perusteella)",
+    "fr": "une colonnade ou un portique intérieur (du fait de ses rangées de piliers)",
+    "hu": "oszlopcsarnok vagy belső oszlopcsarnok (oszlopsoraiból)",
+    "id": "sebuah tiang penyangga atau serambi internal (dari deretan pilarnya)",
+    "it": "un colonnato o un portico interno (dalle sue file di pilastri)",
+    "ja": "列柱",
+    "ko": "콜로 네이드 또는 내부 현관(기둥 줄에서)",
+    "lt": "kolonada arba vidinis portikas (dėl kolonų eilių)",
+    "lv": "kolonāde vai iekšējais portiks (pēc kolonāžu rindām)",
+    "nb": "en søylegang eller innvendig portikus (fra søyleradene)",
+    "nl": "een zuilengalerij of binnenportiek (van de rijen pilaren)",
+    "pl": "kolumnada lub wewnętrzny portyk (z rzędów filarów)",
+    "pt": "uma colunata ou pórtico interior (pelas suas filas de pilares)",
+    "ro": "o colonadă sau un portic interior (de la rândurile sale de stâlpi)",
+    "ru": "колоннада или внутренний портик (по рядам колонн)",
+    "sk": "kolonáda alebo vnútorný portikus (podľa radu stĺpov)",
+    "sl": "kolonada ali notranji portik (zaradi vrste stebrov)",
+    "sv": "en kolonnad eller inre portik (från dess rader av pelare)",
+    "tr": "bir sütun dizisi veya iç revak (sütun sıralarından)",
+    "uk": "колонада або внутрішній портик (з її рядів колон)",
+    "zh": "柱廊"
+  }
+}

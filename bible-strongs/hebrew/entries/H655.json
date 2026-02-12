@@ -1,0 +1,42 @@
+{
+  "number": "H655",
+  "language": "hebrew",
+  "transliteration": "ʼôphen",
+  "pronunciation": "o'-fen",
+  "definition": "a turn, i.e. a season",
+  "kjvTranslation": "[phrase] fitly.",
+  "translations": {
+    "bg": "завой, т.е. сезон",
+    "cs": "obrat, tj. období",
+    "da": "en vending, dvs. en sæson",
+    "de": "eine Runde, d.h. eine Saison",
+    "el": "μια στροφή, δηλαδή μια εποχή",
+    "es": "una vuelta, es decir, una temporada",
+    "et": "kord, st hooaeg",
+    "fi": "vuoro eli kausi",
+    "fr": "un virage, c'est-à-dire une saison",
+    "hu": "egy fordulat, azaz egy évszak",
+    "id": "giliran, yaitu satu musim",
+    "it": "un turno, cioè una stagione",
+    "ja": "一回り",
+    "ko": "한 턴, 즉 시즌",
+    "lt": "posūkis, t. y. sezonas",
+    "lv": "pagrieziens, t.i., sezona",
+    "nb": "en sving, dvs. en sesong",
+    "nl": "een bocht, d.w.z. een seizoen",
+    "pl": "obrót, tj. sezon",
+    "pt": "uma viragem, ou seja, uma estação",
+    "ro": "un viraj, adică un sezon",
+    "ru": "поворот, т.е. сезон",
+    "sk": "obrat, t. j. obdobie",
+    "sl": "obrat, tj. sezona",
+    "sv": "ett varv, dvs. en säsong",
+    "tr": "bir dönüş, yani bir mevsim",
+    "uk": "черга, тобто сезон",
+    "zh": "一季"
+  },
+  "hebrew": "אֹפֶן",
+  "verses": [
+    "proverbs 25:11:7"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1287",
+  "language": "hebrew",
+  "transliteration": "bôrîyth",
+  "pronunciation": "bo-reeth'",
+  "definition": "vegetable alkali",
+  "kjvTranslation": "sope.",
+  "translations": {
+    "bg": "растителна алкална основа",
+    "cs": "rostlinné alkálie",
+    "da": "vegetabilsk alkali",
+    "de": "pflanzliches Alkali",
+    "el": "φυτικά αλκάλια",
+    "es": "álcali vegetal",
+    "et": "taimsed leelised",
+    "fi": "kasvialkali",
+    "fr": "alcali végétal",
+    "hu": "növényi lúg",
+    "id": "alkali nabati",
+    "it": "alcali vegetali",
+    "ja": "植物性アルカリ",
+    "ko": "식물성 알칼리",
+    "lt": "augalinis šarmas",
+    "lv": "augu sārms",
+    "nb": "vegetabilsk alkali",
+    "nl": "plantaardige alkali",
+    "pl": "alkalia roślinne",
+    "pt": "álcali vegetal",
+    "ro": "alcali vegetali",
+    "ru": "растительная щёлочь",
+    "sk": "rastlinné zásady",
+    "sl": "rastlinske alkalije",
+    "sv": "vegetabilisk alkali",
+    "tr": "bitkisel alkali",
+    "uk": "рослинний луг",
+    "zh": "植物碱"
+  },
+  "hebrew": "בֹּרִית",
+  "verses": [
+    "jeremiah 2:22:6",
+    "malachi 3:2:12"
+  ]
+}

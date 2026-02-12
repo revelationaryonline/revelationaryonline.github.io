@@ -1,0 +1,42 @@
+{
+  "number": "H6587",
+  "language": "hebrew",
+  "transliteration": "pesaʻ",
+  "pronunciation": "peh'-sah",
+  "definition": "a stride",
+  "kjvTranslation": "step.",
+  "hebrew": "פֶּשַׂע",
+  "translations": {
+    "bg": "крачка",
+    "cs": "krok",
+    "da": "et skridt",
+    "de": "ein Schritt",
+    "el": "ένα βήμα",
+    "es": "una zancada",
+    "et": "samm",
+    "fi": "askel",
+    "fr": "une foulée",
+    "hu": "egy lépés",
+    "id": "sebuah langkah",
+    "it": "una falcata",
+    "ja": "ひとあし",
+    "ko": "한 걸음",
+    "lt": "žingsnis",
+    "lv": "solis",
+    "nb": "et skritt",
+    "nl": "een pas",
+    "pl": "krok",
+    "pt": "um passo",
+    "ro": "un pas",
+    "ru": "шаг",
+    "sk": "krok",
+    "sl": "korak",
+    "sv": "ett steg",
+    "tr": "bir adım",
+    "uk": "крок",
+    "zh": "跨步"
+  },
+  "verses": [
+    "firstSamuel 20:3:24"
+  ]
+}

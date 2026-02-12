@@ -1,0 +1,43 @@
+{
+  "number": "H7059",
+  "language": "hebrew",
+  "transliteration": "qâmaṭ",
+  "pronunciation": "kaw-mat'",
+  "definition": "to pluck, i.e. destroy",
+  "kjvTranslation": "cut down, fill with wrinkles.",
+  "hebrew": "קָמַט",
+  "translations": {
+    "bg": "да изтръгва, т.е. да унищожава",
+    "cs": "oškubat, tj. zničit",
+    "da": "at plukke, dvs. ødelægge",
+    "de": "zu rupfen, d.h. zu zerstören",
+    "el": "να μαδήσει, δηλαδή να καταστρέψει",
+    "es": "arrancar, es decir, destruir",
+    "et": "noppida, st hävitada",
+    "fi": "nyppiä, eli tuhota",
+    "fr": "arracher, c'est-à-dire détruire",
+    "hu": "kitépni, azaz elpusztítani",
+    "id": "untuk memetik, yaitu menghancurkan",
+    "it": "spolpare, cioè distruggere",
+    "ja": "摘み取る、すなわち破壊する",
+    "ko": "뽑다, 즉 파괴하다",
+    "lt": "nuplėšti, t. y. sunaikinti",
+    "lv": "noplūkt, t.i., iznīcināt",
+    "nb": "å plukke, dvs. ødelegge",
+    "nl": "plukken, d.w.z. vernietigen",
+    "pl": "wyrwać, tj. zniszczyć",
+    "pt": "arrancar, ou seja, destruir",
+    "ro": "a smulge, adică a distruge",
+    "ru": "вырвать, т.е. уничтожить",
+    "sk": "ošklbať, t. j. zničiť",
+    "sl": "iztrgati, tj. uničiti",
+    "sv": "att plocka, dvs. förstöra",
+    "tr": "koparmak, yani yok etmek",
+    "uk": "зірвати, тобто знищити",
+    "zh": "摘，即摧毁"
+  },
+  "verses": [
+    "job 16:8:0",
+    "job 22:16:1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5690",
+  "language": "hebrew",
+  "transliteration": "ʻegeb",
+  "pronunciation": "eh'-gheb",
+  "definition": "love (concretely), i.e. amative words",
+  "kjvTranslation": "much love, very lovely.",
+  "hebrew": "עֶגֶב",
+  "translations": {
+    "bg": "любов (конкретно), т.е. думи за приятелство",
+    "cs": "láska (konkrétně), tj. milostná slova",
+    "da": "kærlighed (konkret), dvs. venskabelige ord",
+    "de": "liebe (konkret), d.h. freundschaftliche Worte",
+    "el": "αγάπη (συγκεκριμένα), δηλ. φιλικές λέξεις",
+    "es": "amor (concretamente), es decir, palabras amativas",
+    "et": "armastus (konkreetselt), s.t. amative sõnad",
+    "fi": "rakkaus (konkreettisesti), ts. ystävälliset sanat",
+    "fr": "l'amour (concrètement), c'est-à-dire les mots amatifs",
+    "hu": "szeretet (konkrétan), azaz szerelmes szavak",
+    "id": "cinta (secara konkret), yaitu kata-kata yang bersifat amatif",
+    "it": "amore (concretamente), vale a dire parole amatorie",
+    "ja": "あいことば",
+    "ko": "사랑(구체적으로), 즉 부사형 단어",
+    "lt": "meilė (konkrečiai), t. y. draugiški žodžiai",
+    "lv": "mīlestība (konkrēti), t.i., mīlestības vārdi",
+    "nb": "kjærlighet (konkret), dvs. vennskapelige ord",
+    "nl": "liefde (concreet), d.w.z. amative woorden",
+    "pl": "miłość (konkretnie), tj. słowa amatywne",
+    "pt": "amar (concretamente), ou seja, palavras amorosas",
+    "ro": "iubire (în mod concret), adică cuvinte amative",
+    "ru": "любить (конкретно), т.е. амативные слова",
+    "sk": "láska (konkrétne), t. j. priateľské slová",
+    "sl": "ljubezen (konkretno), tj. prijateljske besede",
+    "sv": "kärlek (konkret), d.v.s. vänskapliga ord",
+    "tr": "sevgi (somut olarak), yani dostane kelimeler",
+    "uk": "любов (конкретно), тобто пестливі слова",
+    "zh": "爱"
+  },
+  "verses": [
+    "ezekiel 33:31:14",
+    "ezekiel 33:32:3"
+  ]
+}

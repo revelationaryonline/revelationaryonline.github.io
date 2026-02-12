@@ -1,0 +1,42 @@
+{
+  "number": "H1960",
+  "language": "hebrew",
+  "transliteration": "huyᵉdâh",
+  "pronunciation": "hoo-yed-aw'",
+  "definition": "properly, an acclaim, i.e. a choir of singers",
+  "kjvTranslation": "thanksgiving.",
+  "translations": {
+    "bg": "правилно, акламация, т.е. хор от певци",
+    "cs": "správně chvalozpěv, tj. sbor zpěváků",
+    "da": "korrekt, en hyldest, dvs. et kor af sangere",
+    "de": "richtig, ein Beifall, d.h. ein Chor von Sängern",
+    "el": "σωστά, μια επευφημία, δηλαδή μια χορωδία τραγουδιστών",
+    "es": "propiamente, una aclamación, es decir, un coro de cantantes",
+    "et": "õigesti, aklaam, st lauljate koor",
+    "fi": "oikeastaan suosionosoitus, eli laulajien kuoro",
+    "fr": "proprement, une acclamation, c'est-à-dire un chœur de chanteurs",
+    "hu": "helyesen, egy énekkar, azaz énekesekből álló kórus",
+    "id": "dengan benar, sebuah pujian, yaitu paduan suara penyanyi",
+    "it": "propriamente, un'acclamazione, cioè un coro di cantori",
+    "ja": "正しくは、大喝采、すなわち合唱団",
+    "ko": "제대로 말하면, 찬사, 즉 가수들의 합창단입니다",
+    "lt": "tinkamai - akordas, t. y. dainininkų choras",
+    "lv": "pareizi - akordu, t. i., dziedātāju kori",
+    "nb": "egentlig en hyllest, dvs. et kor av sangere",
+    "nl": "goed, een toejuiching, d.w.z. een koor van zangers",
+    "pl": "właściwie, aklamacja, tj. chór śpiewaków",
+    "pt": "propriamente dito, uma aclamação, ou seja, um coro de cantores",
+    "ro": "corect, o aclamare, adică un cor de cântăreți",
+    "ru": "правильно, аплодисменты, т.е. хор певцов",
+    "sk": "správne, chválu, t. j. zbor spevákov",
+    "sl": "pravilno, aklamacija, tj. zbor pevcev",
+    "sv": "korrekt, en hyllning, dvs. en kör av sångare",
+    "tr": "uygun bir şekilde, bir alkış, yani şarkıcılardan oluşan bir koro",
+    "uk": "власне, аккламація, тобто хор співаків",
+    "zh": "唱诗班"
+  },
+  "hebrew": "הֻיְּדָה",
+  "verses": [
+    "nehemiah 12:8:8"
+  ]
+}

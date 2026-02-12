@@ -1,0 +1,42 @@
+{
+  "number": "H5319",
+  "language": "hebrew",
+  "transliteration": "naphtûwl",
+  "pronunciation": "naf-tool'",
+  "definition": "properly, wrestled; but used (in the plural) transitively, a struggle",
+  "kjvTranslation": "wrestling.",
+  "hebrew": "נַפְתּוּל",
+  "translations": {
+    "bg": "правилно - борех се; но в множествено число се използва преходно - борба",
+    "cs": "správně, zápasil; ale používá se (v množném čísle) přechodně, zápas",
+    "da": "korrekt, kæmpede; men bruges (i flertal) transitivt, en kamp",
+    "de": "richtig, gerungen; aber (im Plural) transitiv verwendet, ein Kampf",
+    "el": "σωστά, πάλεψε, αλλά χρησιμοποιείται (στον πληθυντικό) μεταβατικά, αγώνας",
+    "es": "propiamente, luchó; pero usado (en plural) transitivamente, una lucha",
+    "et": "õigesti, maadles; kuid kasutatakse (mitmuses) transitiivselt, võitlus",
+    "fi": "oikein, paini; mutta käytetään (monikossa) transitiivisesti, kamppailu",
+    "fr": "proprement, lutte ; mais utilisé (au pluriel) transitivement, un combat",
+    "hu": "helyesen: birkózott; de (többes számban) átmenetileg használták: küzdelem",
+    "id": "benar, bergulat; tetapi digunakan (dalam bentuk jamak) secara transitif, perjuangan",
+    "it": "propriamente, lottato; ma usato (al plurale) transitivamente, una lotta",
+    "ja": "正しくは、レスリング；しかし、（複数形で）推移的に使われる、闘争",
+    "ko": "적절하게, 레슬링; 그러나 (복수형) 과도적으로 사용, 투쟁",
+    "lt": "taisyklingai - kovojo; bet vartojamas (daugiskaitos forma) pereinamuoju būdu - kova",
+    "lv": "pareizi - cīnījās, bet lietots daudzskaitlī (daudzskaitlī) - cīņa",
+    "nb": "egentlig, kjempet; men brukt (i flertall) transitivt, en kamp",
+    "nl": "juist, worstelde; maar gebruikt (in het meervoud) transitief, een strijd",
+    "pl": "prawidłowo, wrestled; ale używane (w liczbie mnogiej) przejściowo, walka",
+    "pt": "propriamente, lutou; mas usado (no plural) transitivamente, uma luta",
+    "ro": "corect, luptat; dar folosit (la plural) tranzitiv, o luptă",
+    "ru": "правильно, боролся; но используется (во множественном числе) переходно, борьба",
+    "sk": "správne, zápasil; ale používa sa (v množnom čísle) prechodne, zápas",
+    "sl": "pravilno, boril se; v množini pa se uporablja prehodno, borba",
+    "sv": "i egentlig mening, brottades; men används (i plural) transitivt, en kamp",
+    "tr": "doğru olarak, güreşti; ancak (çoğul olarak) geçişli olarak, bir mücadele olarak kullanılır",
+    "uk": "правильно, боролися; але вживається (у множині) транзитивно - боротьба",
+    "zh": "正确地说，\"搏斗\"；但用于（复数）转义，\"挣扎\"。"
+  },
+  "verses": [
+    "genesis 30:8:2"
+  ]
+}

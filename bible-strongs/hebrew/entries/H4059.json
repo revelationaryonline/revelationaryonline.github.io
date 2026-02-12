@@ -1,0 +1,42 @@
+{
+  "number": "H4059",
+  "language": "hebrew",
+  "transliteration": "middad",
+  "pronunciation": "mid-dad'",
+  "definition": "flight",
+  "kjvTranslation": "be gone.",
+  "hebrew": "מִדַּד",
+  "translations": {
+    "bg": "полет",
+    "cs": "let",
+    "da": "flyvning",
+    "de": "flug",
+    "el": "πτήση",
+    "es": "vuelo",
+    "et": "lend",
+    "fi": "lento",
+    "fr": "vol",
+    "hu": "járat",
+    "id": "penerbangan",
+    "it": "volo",
+    "ja": "飛行",
+    "ko": "비행",
+    "lt": "skrydis",
+    "lv": "lidojums",
+    "nb": "fly",
+    "nl": "vlucht",
+    "pl": "lot",
+    "pt": "voo",
+    "ro": "zbor",
+    "ru": "рейс",
+    "sk": "let",
+    "sl": "let",
+    "sv": "flygning",
+    "tr": "uçuş",
+    "uk": "політ",
+    "zh": "飞行"
+  },
+  "verses": [
+    "job 7:4:5"
+  ]
+}

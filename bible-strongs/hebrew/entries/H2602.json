@@ -1,0 +1,42 @@
+{
+  "number": "H2602",
+  "language": "hebrew",
+  "transliteration": "chănâmâl",
+  "pronunciation": "khan-aw-mawl'",
+  "definition": "perhaps the aphis or plantlouse",
+  "kjvTranslation": "frost.",
+  "translations": {
+    "bg": "може би афис или плантатор",
+    "cs": "snad mšice nebo plané houby",
+    "da": "måske aphis eller plantlouse",
+    "de": "vielleicht die Aphis oder die Blatthenne",
+    "el": "ίσως η αφίδα ή το φυτόψαρο",
+    "es": "tal vez el pulgón o plantlouse",
+    "et": "võib-olla aphis või plantlouse",
+    "fi": "ehkä aphis tai plantlouse",
+    "fr": "peut-être l'aphis ou le lépidoptère",
+    "hu": "talán az aphis vagy a plantlouse",
+    "id": "mungkin aphis atau kutu daun",
+    "it": "forse l'afide o la pidocchiosa",
+    "ja": "おそらくアブラムシかオオタバコ",
+    "ko": "아마도 진딧물 또는 식물성",
+    "lt": "galbūt aphis arba augalinė pelėda",
+    "lv": "iespējams, ka aphis vai plantlouse",
+    "nb": "kanskje aphis eller plantlouse",
+    "nl": "misschien de bladluis",
+    "pl": "być może mszyca lub roślina",
+    "pt": "talvez o pulgão ou o piolho-de-planta",
+    "ro": "poate aphis sau plantlouse",
+    "ru": "возможно, тля или плантаторша",
+    "sk": "možno aphis alebo plantlouse",
+    "sl": "morda aphis ali plantlouse",
+    "sv": "kanske aphis eller plantlouse",
+    "tr": "belki aphis veya plantlouse",
+    "uk": "можливо, попелиця або рослинна попелиця",
+    "zh": "蚜虫"
+  },
+  "hebrew": "חֲנָמָל",
+  "verses": [
+    "psalms 78:47:4"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4108",
+  "language": "hebrew",
+  "transliteration": "mahlêk",
+  "pronunciation": "mah-lake'",
+  "definition": "a walking (plural collectively), i.e. access",
+  "kjvTranslation": "place to walk.",
+  "hebrew": "מַהְלֵךְ",
+  "translations": {
+    "bg": "а ходене (в множествено число), т.е. достъп",
+    "cs": "a chůze (v množném čísle společně), tj. přístup",
+    "da": "en gåtur (flertal kollektivt), dvs. adgang",
+    "de": "a walking (Plural kollektiv), d.h. Zugang",
+    "el": "ένα περπάτημα (πληθυντικός συλλογικά), δηλαδή πρόσβαση",
+    "es": "un paseo (plural colectivo), es decir, un acceso",
+    "et": "kõndimine (mitmuses kollektiivselt), s.t. juurdepääs",
+    "fi": "kävely (monikossa kollektiivisesti), eli kulkeminen",
+    "fr": "une marche (pluriel collectif), c'est-à-dire un accès",
+    "hu": "a járás (többes számban együttesen), azaz a hozzáférés",
+    "id": "berjalan kaki (jamak secara kolektif), yaitu akses",
+    "it": "un cammino (plurale collettivo), cioè un accesso",
+    "ja": "歩くこと（複数の総称）、すなわちアクセス",
+    "ko": "걷기(복수 집합), 즉 액세스",
+    "lt": "vaikščiojimas (daugiskaita kartu), t. y. prieiga",
+    "lv": "a pastaiga (daudzskaitlī kopā), t.i., piekļuve",
+    "nb": "en vandring (flertall kollektivt), dvs. tilgang",
+    "nl": "een wandeling (meervoud collectief), d.w.z. toegang",
+    "pl": "chodzenie (liczba mnoga łącznie), tj. dostęp",
+    "pt": "a walking (plural coletivo), ou seja, o acesso",
+    "ro": "o plimbare (plural colectiv), adică acces",
+    "ru": "хождение (множественное число в совокупности), т.е. доступ",
+    "sk": "chôdza (v množnom čísle spoločne), t. j. prístup",
+    "sl": "hojo (v množini skupaj), tj. dostop",
+    "sv": "en promenad (plural kollektivt), dvs. tillgång",
+    "tr": "bir yürüyüş (çoğul olarak topluca), yani erişim",
+    "uk": "прогулянка (у множині), тобто доступ",
+    "zh": "行走"
+  },
+  "verses": [
+    "zechariah 3:7:22"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H8281",
+  "language": "hebrew",
+  "transliteration": "shârâh",
+  "pronunciation": "shaw-raw'",
+  "definition": "to free",
+  "kjvTranslation": "direct.",
+  "hebrew": "שָׁרָה",
+  "translations": {
+    "bg": "да се освободи",
+    "cs": "na svobodu",
+    "da": "til fri",
+    "de": "zu befreien",
+    "el": "για να ελευθερώσει",
+    "es": "para liberar",
+    "et": "vabaks",
+    "fi": "vapauttaa",
+    "fr": "pour libérer",
+    "hu": "a szabad",
+    "id": "untuk membebaskan",
+    "it": "per liberare",
+    "ja": "無料",
+    "ko": "무료",
+    "lt": "į laisvę",
+    "lv": "lai atbrīvotu",
+    "nb": "til fri",
+    "nl": "vrij",
+    "pl": "za darmo",
+    "pt": "para libertar",
+    "ro": "la liber",
+    "ru": "освободить",
+    "sk": "na slobodu",
+    "sl": "da bi se osvobodili",
+    "sv": "till gratis",
+    "tr": "özgürlüğe",
+    "uk": "щоб звільнити",
+    "zh": "释放"
+  },
+  "verses": [
+    "jeremiah 15:11:5"
+  ]
+}

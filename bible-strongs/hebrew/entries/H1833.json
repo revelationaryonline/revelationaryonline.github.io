@@ -1,0 +1,42 @@
+{
+  "number": "H1833",
+  "language": "hebrew",
+  "transliteration": "dᵉmesheq",
+  "pronunciation": "dem-eh'-shek",
+  "definition": "damask (as a fabric of Damascus)",
+  "kjvTranslation": "in Damascus.",
+  "translations": {
+    "bg": "дамаска (като тъкан от Дамаск)",
+    "cs": "damašek (jako damašská tkanina)",
+    "da": "damask (som et stof fra Damaskus)",
+    "de": "damast (als Stoff aus Damaskus)",
+    "el": "damask (ως ύφασμα της Δαμασκού)",
+    "es": "damasco (como tejido de Damasco)",
+    "et": "damask (Damaskuse kangas)",
+    "fi": "damasti (Damaskoksen kangas)",
+    "fr": "damas (en tant que tissu de Damas)",
+    "hu": "damaszt (mint damaszkuszi szövet)",
+    "id": "damask (sebagai kain dari Damaskus)",
+    "it": "damasco (come tessuto di Damasco)",
+    "ja": "ダマスク",
+    "ko": "다마스크(다마스커스 직물)",
+    "lt": "damaskas (kaip Damasko audinys)",
+    "lv": "damaska (kā Damaskas audums)",
+    "nb": "damask (som et stoff fra Damaskus)",
+    "nl": "damast (als stof van Damascus)",
+    "pl": "adamaszek (jako tkanina z Damaszku)",
+    "pt": "damasco (como um tecido de Damasco)",
+    "ro": "damasc (ca țesătură din Damasc)",
+    "ru": "дамаск (как ткань из Дамаска)",
+    "sk": "damask (ako tkanina z Damasku)",
+    "sl": "damask (kot tkanina iz Damaska)",
+    "sv": "damast (som ett tyg från Damaskus)",
+    "tr": "damask (Şam kumaşı olarak)",
+    "uk": "дамаск (як тканина з Дамаску)",
+    "zh": "大马士革面料"
+  },
+  "hebrew": "דְּמֶשֶׁק",
+  "verses": [
+    "amos 3:12:21"
+  ]
+}

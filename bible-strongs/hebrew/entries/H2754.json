@@ -1,0 +1,43 @@
+{
+  "number": "H2754",
+  "language": "hebrew",
+  "transliteration": "chârîyṭ",
+  "pronunciation": "khaw-reet'",
+  "definition": "properly, cut out (or hollow), i.e. (by implication) a pocket",
+  "kjvTranslation": "bag, crisping pin.",
+  "translations": {
+    "bg": "правилно, изрязан (или кух), т.е. (по подразбиране) джоб",
+    "cs": "správně, vyříznutý (nebo dutý), tj. (implicitně) kapsa",
+    "da": "korrekt, skåret ud (eller udhulet), dvs. (underforstået) en lomme",
+    "de": "richtig, ausgeschnitten (oder ausgehöhlt), d.h. (implizit) eine Tasche",
+    "el": "κατάλληλα, κομμένο (ή κοίλο), δηλαδή (κατ' επέκταση) μια τσέπη",
+    "es": "propiamente, recortado (o hueco), es decir (implícitamente) un bolsillo",
+    "et": "korralikult, välja lõigatud (või õõnes), st (kaudselt) tasku",
+    "fi": "kunnolla, leikattu (tai ontto), eli (epäsuorasti) tasku",
+    "fr": "proprement, découpé (ou creux), c'est-à-dire (implicitement) une poche",
+    "hu": "megfelelően, kivágott (vagy üreges), azaz (értelemszerűen) zsebre vágott",
+    "id": "dengan benar, dipotong (atau dilubangi), yaitu (dengan implikasi) sebuah saku",
+    "it": "propriamente, tagliato (o incavato), cioè (per implicazione) una tasca",
+    "ja": "くりぬかれたポケット",
+    "ko": "적절하게 잘라내거나 (또는 속이 비어있는), 즉 (암시 적으로) 포켓",
+    "lt": "tinkamai, išpjautas (arba tuščiaviduris), t. y. (netiesiogiai) kišenė",
+    "lv": "pareizi, izgriezts (vai izdobts), t.i., (netieši) kabata",
+    "nb": "riktig, utskåret (eller hul), dvs. (underforstått) en lomme",
+    "nl": "goed, uitgesneden (of hol), d.w.z. (impliciet) een zak",
+    "pl": "prawidłowo, wycięty (lub wydrążony), tj. (w domyśle) kieszeń",
+    "pt": "propriamente dito, cortado (ou oco), ou seja, (implicitamente) um bolso",
+    "ro": "în mod corespunzător, decupat (sau golit), adică (implicit) un buzunar",
+    "ru": "правильно, вырезать (или выдолбить), т.е. (по смыслу) карман",
+    "sk": "správne, vyrezaný (alebo dutý), t. j. (implicitne) vrecko",
+    "sl": "pravilno, izrezano (ali votlo), tj. (implicitno) žep",
+    "sv": "korrekt, utskuren (eller ihålig), dvs. (underförstått) en ficka",
+    "tr": "düzgün, kesilmiş (veya içi boş), yani (ima yoluyla) bir cep",
+    "uk": "правильно, вирізати (або видовбати), тобто (неявно) кишеню",
+    "zh": "凿空，即（暗示）口袋"
+  },
+  "hebrew": "חָרִיט",
+  "verses": [
+    "secondKings 5:23:11",
+    "isaiah 3:22:3"
+  ]
+}

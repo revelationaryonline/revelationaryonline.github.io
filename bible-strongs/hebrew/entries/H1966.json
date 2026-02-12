@@ -1,0 +1,42 @@
+{
+  "number": "H1966",
+  "language": "hebrew",
+  "transliteration": "hêylêl",
+  "pronunciation": "hay-lale'",
+  "definition": "the morning-star",
+  "kjvTranslation": "lucifer.",
+  "translations": {
+    "bg": "утринната звезда",
+    "cs": "ranní hvězda",
+    "da": "morgenstjernen",
+    "de": "der Morgenstern",
+    "el": "το πρωινό αστέρι",
+    "es": "el lucero del alba",
+    "et": "hommikutäht",
+    "fi": "aamutähti",
+    "fr": "l'étoile du matin",
+    "hu": "a hajnalcsillag",
+    "id": "bintang pagi",
+    "it": "la stella del mattino",
+    "ja": "あけのほし",
+    "ko": "모닝스타",
+    "lt": "ryto žvaigždė",
+    "lv": "rīta zvaigzne",
+    "nb": "morgenstjernen",
+    "nl": "de morgenster",
+    "pl": "gwiazda poranna",
+    "pt": "a estrela da manhã",
+    "ro": "steaua dimineții",
+    "ru": "утренняя звезда",
+    "sk": "ranná hviezda",
+    "sl": "jutranja zvezda",
+    "sv": "morgonstjärnan",
+    "tr": "sabah yıldızı",
+    "uk": "ранкова зірка",
+    "zh": "晨星"
+  },
+  "hebrew": "הֵילֵל",
+  "verses": [
+    "isaiah 14:12:3"
+  ]
+}

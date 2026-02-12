@@ -1,0 +1,43 @@
+{
+  "number": "H8614",
+  "language": "hebrew",
+  "transliteration": "tiphtay",
+  "pronunciation": "tif-tah'-ee",
+  "definition": "judicial, i.e. a lawyer",
+  "kjvTranslation": "sheriff.",
+  "hebrew": "תִּפְתַּי",
+  "translations": {
+    "bg": "съдебен, т.е. адвокат",
+    "cs": "soudce, tj. právník",
+    "da": "juridisk, dvs. en advokat",
+    "de": "ein Jurist, d.h. ein Rechtsanwalt",
+    "el": "δικαστικός, δηλαδή δικηγόρος",
+    "es": "judicial, es decir, abogado",
+    "et": "kohtunik, st advokaat",
+    "fi": "oikeudellinen, eli asianajaja",
+    "fr": "judiciaire, c'est-à-dire un avocat",
+    "hu": "bíró, azaz ügyvéd",
+    "id": "yudisial, yaitu seorang pengacara",
+    "it": "giudiziario, cioè un avvocato",
+    "ja": "司法書士",
+    "ko": "사법, 즉 변호사",
+    "lt": "teisėjas, t. y. advokatas",
+    "lv": "tiesnesis, t.i., jurists",
+    "nb": "juridisk, dvs. en advokat",
+    "nl": "gerechtelijk, d.w.z. een advocaat",
+    "pl": "sądowy, tj. prawnik",
+    "pt": "judicial, ou seja, um advogado",
+    "ro": "judiciar, adică un avocat",
+    "ru": "судебный, т.е. адвокат",
+    "sk": "súdny, t. j. právnik",
+    "sl": "sodnik, tj. odvetnik",
+    "sv": "jurist, dvs. en advokat",
+    "tr": "adli, yani bir avukat",
+    "uk": "судовий, тобто адвокат",
+    "zh": "律师"
+  },
+  "verses": [
+    "daniel 3:2:10",
+    "daniel 3:3:8"
+  ]
+}

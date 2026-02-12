@@ -1,0 +1,43 @@
+{
+  "number": "H4482",
+  "language": "hebrew",
+  "transliteration": "mên",
+  "pronunciation": "mane",
+  "definition": "a musical chord (as parted into strings)",
+  "kjvTranslation": "in (the same) (Psalm 68:23), stringed instrument (Psalm 150:4), whereby (Psalm 45:8 (defective plural)).",
+  "hebrew": "מֵן",
+  "verses": [
+    "psalms 45:9:8",
+    "psalms 150:4:4"
+  ],
+  "translations": {
+    "bg": "музикален акорд (разделен на струни)",
+    "cs": "hudební akord (rozdělený na struny)",
+    "da": "en musikalsk akkord (som opdelt i strenge)",
+    "de": "ein musikalischer Akkord (wie in Saiten aufgeteilt)",
+    "el": "μια μουσική χορδή (όπως χωρίζεται σε χορδές)",
+    "es": "un acorde musical (dividido en cuerdas)",
+    "et": "muusikaline akord (nagu jagatud keeledeks)",
+    "fi": "musiikillinen sointu (jousiksi jaettuna)",
+    "fr": "un accord musical (divisé en cordes)",
+    "hu": "zenei akkord (húrra osztva)",
+    "id": "akor musik (seperti yang dibagi menjadi senar)",
+    "it": "un accordo musicale (suddiviso in corde)",
+    "ja": "弦",
+    "ko": "음악 코드(현으로 분리된 상태)",
+    "lt": "muzikinis akordas (suskirstytas į stygas)",
+    "lv": "muzikāls akords (sadalīts stīgām)",
+    "nb": "en musikalsk akkord (som delt inn i strenger)",
+    "nl": "een muzikaal akkoord (zoals verdeeld in snaren)",
+    "pl": "akord muzyczny (podzielony na struny)",
+    "pt": "um acorde musical (dividido em cordas)",
+    "ro": "un acord muzical (împărțit în corzi)",
+    "ru": "музыкальный аккорд (разделенный на струны)",
+    "sk": "hudobný akord (rozdelený na struny)",
+    "sl": "glasbeni akord (razdeljen na strune)",
+    "sv": "ett musikaliskt ackord (uppdelat i strängar)",
+    "tr": "bir müzik akoru (tellere ayrılmış olarak)",
+    "uk": "музичний акорд (розділений на струни)",
+    "zh": "和弦"
+  }
+}

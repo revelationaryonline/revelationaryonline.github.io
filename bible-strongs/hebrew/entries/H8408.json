@@ -1,0 +1,42 @@
+{
+  "number": "H8408",
+  "language": "hebrew",
+  "transliteration": "tagmûwl",
+  "pronunciation": "tag-mool'",
+  "definition": "a bestowment",
+  "kjvTranslation": "benefit.",
+  "hebrew": "תַּגְמוּל",
+  "translations": {
+    "bg": "дарение",
+    "cs": "obdarování",
+    "da": "en gave",
+    "de": "eine Verleihung",
+    "el": "μια δωρεά",
+    "es": "una donación",
+    "et": "annetus",
+    "fi": "lahjoitus",
+    "fr": "une dotation",
+    "hu": "adományozás",
+    "id": "sebuah anugerah",
+    "it": "un'elargizione",
+    "ja": "授かり物",
+    "ko": "증여",
+    "lt": "dovanojimas",
+    "lv": "dāvinājums",
+    "nb": "en gave",
+    "nl": "een schenking",
+    "pl": "nadanie",
+    "pt": "uma outorga",
+    "ro": "o bestowment",
+    "ru": "дарование",
+    "sk": "obdarovanie",
+    "sl": "obdarovanje",
+    "sv": "en gåva",
+    "tr": "bir bağış",
+    "uk": "дарунок",
+    "zh": "赠予"
+  },
+  "verses": [
+    "psalms 116:12:4"
+  ]
+}

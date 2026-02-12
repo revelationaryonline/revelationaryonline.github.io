@@ -1,0 +1,42 @@
+{
+  "number": "H7946",
+  "language": "hebrew",
+  "transliteration": "shalʼănân",
+  "pronunciation": "shal-an-awn'",
+  "definition": "tranquil",
+  "kjvTranslation": "being at ease.",
+  "hebrew": "שַׁלְאֲנָן",
+  "translations": {
+    "bg": "спокойно",
+    "cs": "klidné",
+    "da": "rolig",
+    "de": "beschaulich",
+    "el": "ήσυχο",
+    "es": "tranquilo",
+    "et": "rahulik",
+    "fi": "rauhallinen",
+    "fr": "tranquille",
+    "hu": "nyugodt",
+    "id": "tenang",
+    "it": "tranquillo",
+    "ja": "のどか",
+    "ko": "고요한",
+    "lt": "ramus",
+    "lv": "mierīgs",
+    "nb": "rolig",
+    "nl": "rustig",
+    "pl": "spokojny",
+    "pt": "tranquilo",
+    "ro": "liniștită",
+    "ru": "спокойный",
+    "sk": "pokojný",
+    "sl": "miren",
+    "sv": "lugn",
+    "tr": "sakin",
+    "uk": "спокійний",
+    "zh": "安宁"
+  },
+  "verses": [
+    "job 21:23:5"
+  ]
+}

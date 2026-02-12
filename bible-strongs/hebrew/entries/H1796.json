@@ -1,0 +1,42 @@
+{
+  "number": "H1796",
+  "language": "hebrew",
+  "transliteration": "dŏkîy",
+  "pronunciation": "dok-ee'",
+  "definition": "a dashing of surf",
+  "kjvTranslation": "wave.",
+  "translations": {
+    "bg": "прилив на вълни",
+    "cs": "příbojová vlna",
+    "da": "et strejf af bølger",
+    "de": "ein Hauch von Brandung",
+    "el": "ένα παφλασμό του κύματος",
+    "es": "un chapuzón de surf",
+    "et": "räigelt surfamine",
+    "fi": "räiskyvä aallokko",
+    "fr": "une vague de surf",
+    "hu": "egy kis szörfözés",
+    "id": "ombak yang gagah",
+    "it": "un'ondata di surf",
+    "ja": "波打ち際",
+    "ko": "대담한 서핑",
+    "lt": "banglenčių bangavimas",
+    "lv": "sērfošana",
+    "nb": "en brise av bølger",
+    "nl": "een streepje branding",
+    "pl": "odrobina surfingu",
+    "pt": "uma pitada de surf",
+    "ro": "un strop de surf",
+    "ru": "ливень прибоя",
+    "sk": "príbojová vlna",
+    "sl": "prelivanje surfa",
+    "sv": "en skur av vågor",
+    "tr": "bir sörf atılışı",
+    "uk": "лихий серфінг",
+    "zh": "潇洒"
+  },
+  "hebrew": "דֳּכִי",
+  "verses": [
+    "psalms 93:3:8"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5508",
+  "language": "hebrew",
+  "transliteration": "çôchêreth",
+  "pronunciation": "so-kheh'-reth",
+  "definition": "probably a (black) tile (or tessara) forlaying borders with",
+  "kjvTranslation": "black marble.",
+  "hebrew": "סֹחֵרֶת",
+  "translations": {
+    "bg": "вероятно (черна) керемида (или тесара), с която са облицовани границите",
+    "cs": "pravděpodobně (černá) dlaždice (nebo tessara), která obkládá hranice s",
+    "da": "sandsynligvis en (sort) flise (eller tessara), der lægger kanter med",
+    "de": "wahrscheinlich eine (schwarze) Fliese (oder Tessara), die Grenzen mit",
+    "el": "πιθανότατα ένα (μαύρο) κεραμίδι (ή tessara) που επενδύει τα σύνορα με",
+    "es": "probablemente un azulejo (o tessara) (negro) que forra los bordes con",
+    "et": "ilmselt (must) plaat (või tessara) forlaying piirid koos",
+    "fi": "luultavasti (musta) laatta (tai tessara) forlaying rajoja kanssa",
+    "fr": "probablement une tuile (ou tessara) (noire) dont les bordures sont incrustées de",
+    "hu": "valószínűleg egy (fekete) csempe (vagy tessara) forlaying határokkal",
+    "id": "mungkin ubin (hitam) (atau tessara) untuk meletakkan perbatasan dengan",
+    "it": "probabilmente una tegola (nera) (o tessara) con bordi a tarsia con",
+    "ja": "おそらく（黒い）タイル（またはテッサラ）で縁取りをしている。",
+    "ko": "아마도 (검은색) 타일(또는 테사라)로 테두리를 감싸는",
+    "lt": "tikriausiai (juoda) plytelė (arba tesara), kuria išklotos sienos su",
+    "lv": "iespējams, (melna) flīžu (vai tesāra), kas izklāta ar",
+    "nb": "sannsynligvis en (svart) flis (eller tessara) som legger kanter med",
+    "nl": "waarschijnlijk een (zwarte) tegel (of tessara) die randen inlegt met",
+    "pl": "prawdopodobnie (czarna) płytka (lub tessara) z obramowaniem z",
+    "pt": "provavelmente um azulejo (preto) (ou tessara) com bordos de revestimento com",
+    "ro": "probabil o țiglă (neagră) (sau tessara) cu margini de încrustare cu",
+    "ru": "вероятно, черная плитка (или тессара) для облицовки бордюров с",
+    "sk": "pravdepodobne (čierna) dlaždica (alebo tessara) s obložením hraníc",
+    "sl": "verjetno (črna) ploščica (ali tessara), ki je obložena z",
+    "sv": "förmodligen en (svart) kakelplatta (eller tessara) som förgyller gränserna med",
+    "tr": "muhtemelen (siyah) bir kiremit (veya tessara) ile kenarlıkların kaplanması",
+    "uk": "ймовірно, (чорна) плитка (або тессара) для облицювання бордюрів з",
+    "zh": "可能是（黑色的）瓦片（或瓷砖），镶嵌边框的是"
+  },
+  "verses": [
+    "esther 1:6:20"
+  ]
+}

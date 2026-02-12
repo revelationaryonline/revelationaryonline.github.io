@@ -1,0 +1,42 @@
+{
+  "number": "H7821",
+  "language": "hebrew",
+  "transliteration": "shᵉchîyṭâh",
+  "pronunciation": "shekh-ee-taw'",
+  "definition": "slaughter",
+  "kjvTranslation": "killing.",
+  "hebrew": "שְׁחִיטָה",
+  "translations": {
+    "bg": "клане",
+    "cs": "porážka",
+    "da": "slagtning",
+    "de": "schlachtung",
+    "el": "σφαγή",
+    "es": "matanza",
+    "et": "tapmine",
+    "fi": "teurastus",
+    "fr": "abattage",
+    "hu": "mészárlás",
+    "id": "pembantaian",
+    "it": "massacro",
+    "ja": "屠殺",
+    "ko": "도살",
+    "lt": "skerdykla",
+    "lv": "kaušana",
+    "nb": "slakting",
+    "nl": "slachten",
+    "pl": "ubój",
+    "pt": "abate",
+    "ro": "măcel",
+    "ru": "убой",
+    "sk": "porážka",
+    "sl": "zakol",
+    "sv": "slakt",
+    "tr": "katliam",
+    "uk": "забій",
+    "zh": "宰杀"
+  },
+  "verses": [
+    "secondChronicles 30:17:8"
+  ]
+}

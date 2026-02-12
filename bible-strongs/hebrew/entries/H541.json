@@ -1,0 +1,42 @@
+{
+  "number": "H541",
+  "language": "hebrew",
+  "transliteration": "ʼâman",
+  "pronunciation": "aw-man'",
+  "definition": "to take the right hand road",
+  "kjvTranslation": "turn to the right. See H539 (אָמַן).",
+  "translations": {
+    "bg": "да поемете по десния път",
+    "cs": "jít po pravé straně",
+    "da": "at tage vejen til højre",
+    "de": "den rechten Weg zu nehmen",
+    "el": "να πάρετε το δεξιό δρόμο",
+    "es": "tomar el camino de la derecha",
+    "et": "võtta parempoolne tee",
+    "fi": "kääntyä oikealle tielle",
+    "fr": "de prendre la route à droite",
+    "hu": "a jobb oldali útra térni",
+    "id": "untuk mengambil jalan sebelah kanan",
+    "it": "prendere la strada a destra",
+    "ja": "右の道を行く",
+    "ko": "오른쪽 길로 가려면",
+    "lt": "važiuoti dešiniuoju keliu",
+    "lv": "braukt pa labo ceļu",
+    "nb": "å ta veien til høyre",
+    "nl": "om de rechtse weg te nemen",
+    "pl": "jechać prawą drogą",
+    "pt": "para apanhar a estrada da direita",
+    "ro": "să ia drumul din dreapta",
+    "ru": "свернуть на правую дорогу",
+    "sk": "ísť po pravej strane cesty",
+    "sl": "izbrati desno cesto",
+    "sv": "att ta höger väg",
+    "tr": "sağ yoldan gitmek için",
+    "uk": "повернути праворуч на дорогу",
+    "zh": "走右边的路"
+  },
+  "hebrew": "אָמַן",
+  "verses": [
+    "isaiah 30:21:10"
+  ]
+}

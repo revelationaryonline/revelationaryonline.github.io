@@ -1,0 +1,42 @@
+{
+  "number": "H1724",
+  "language": "hebrew",
+  "transliteration": "dâham",
+  "pronunciation": "daw-ham'",
+  "definition": "to be dumb, i.e. (figuratively) dumbfounded",
+  "kjvTranslation": "astonished.",
+  "translations": {
+    "bg": "да онемее, т.е. (образно казано) да онемее",
+    "cs": "být němý, tj. (obrazně) ohromený",
+    "da": "at være stum, dvs. (i overført betydning) forbløffet",
+    "de": "stumm sein, d.h. (im übertragenen Sinne) verblüfft sein",
+    "el": "να είναι κανείς μουγκός, δηλαδή (μεταφορικά) να μένει άναυδος",
+    "es": "quedarse mudo, es decir (figuradamente) estupefacto",
+    "et": "olla rumal, st (piltlikult öeldes) rumalaks jäänud",
+    "fi": "olla mykkä, eli (kuvaannollisesti) mykistynyt",
+    "fr": "être muet, c'est-à-dire (au sens figuré) abasourdi",
+    "hu": "némának lenni, azaz (átvitt értelemben) elnémulni",
+    "id": "menjadi bodoh, yaitu (secara kiasan) tercengang",
+    "it": "essere muti, cioè (in senso figurato) stupefatti",
+    "ja": "唖然とする、つまり（比喩的に）呆然とする",
+    "ko": "멍청하다, 즉 (비유적으로) 멍청하다",
+    "lt": "būti nebyliu, t. y. (perkeltine prasme) apstulbusiu",
+    "lv": "būt stulbam, t.i., (pārnestā nozīmē) apstulbinātam",
+    "nb": "å være stum, dvs. (i overført betydning) stum av forbløffelse",
+    "nl": "stom zijn, d.w.z. (figuurlijk) stomverbaasd",
+    "pl": "być otępiałym, tj. (w przenośni) oszołomionym",
+    "pt": "ficar mudo, ou seja, (figurativamente) estupefacto",
+    "ro": "a fi mut, adică (la figurat) uimit",
+    "ru": "быть ошеломленным, т.е. (фигурально) ошарашенным",
+    "sk": "byť nemý, t. j. (obrazne) ohromený",
+    "sl": "biti neumen, tj. (v prenesenem pomenu) osupel",
+    "sv": "att vara stum, dvs. (bildligt talat) stum av förvåning",
+    "tr": "dilsiz olmak, yani (mecazi olarak) şaşkına dönmek",
+    "uk": "бути німим, тобто (образно) ошелешеним",
+    "zh": "目瞪口呆"
+  },
+  "hebrew": "דָּהַם",
+  "verses": [
+    "jeremiah 14:9:3"
+  ]
+}

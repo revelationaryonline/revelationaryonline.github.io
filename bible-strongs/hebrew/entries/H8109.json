@@ -1,0 +1,42 @@
+{
+  "number": "H8109",
+  "language": "hebrew",
+  "transliteration": "shᵉmurâh",
+  "pronunciation": "shem-oo-raw'",
+  "definition": "something guarded, i.e. an eye-lid",
+  "kjvTranslation": "waking.",
+  "hebrew": "שְׁמֻרָה",
+  "translations": {
+    "bg": "нещо защитено, напр. клепач на окото",
+    "cs": "něco chráněného, např. oční víčko",
+    "da": "noget beskyttet, f.eks. et øjenlåg",
+    "de": "etwas Bewachtes, z. B. ein Augenlid",
+    "el": "κάτι που φυλάσσεται, π.χ. ένα βλέφαρο",
+    "es": "algo guardado, por ejemplo, un párpado",
+    "et": "midagi valvatud, s.t. silmapilti",
+    "fi": "jotakin suojattua, esim. silmäluomi",
+    "fr": "quelque chose de protégé, par exemple une paupière",
+    "hu": "valami védett, pl. egy szemhéj",
+    "id": "sesuatu yang dijaga, misalnya kelopak mata",
+    "it": "qualcosa di protetto, ad esempio una palpebra",
+    "ja": "目隠し",
+    "ko": "보호되는 무언가, 예를 들어 눈꺼풀",
+    "lt": "ką nors saugomo, t. y. akies voką",
+    "lv": "kaut kas aizsargāts, t.i., acs plakstiņš",
+    "nb": "noe beskyttet, f.eks. et øyelokk",
+    "nl": "iets dat bewaakt wordt, bijv. een ooglid",
+    "pl": "coś strzeżonego, np. powieka",
+    "pt": "algo protegido, ou seja, uma pálpebra",
+    "ro": "ceva protejat, de exemplu un ochi",
+    "ru": "что-то охраняемое, т.е. веко",
+    "sk": "niečo strážené, napr. očné viečko",
+    "sl": "nekaj varovanega, npr. očesna veka",
+    "sv": "något som är skyddat, t.ex. ett ögonlock",
+    "tr": "korunan bir şey, örneğin bir göz kapağı",
+    "uk": "щось, що охороняється, наприклад, повіки",
+    "zh": "睑"
+  },
+  "verses": [
+    "psalms 77:5:1"
+  ]
+}

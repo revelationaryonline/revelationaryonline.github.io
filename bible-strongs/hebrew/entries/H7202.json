@@ -1,0 +1,42 @@
+{
+  "number": "H7202",
+  "language": "hebrew",
+  "transliteration": "râʼeh",
+  "pronunciation": "raw-eh'",
+  "definition": "seeing, i.e. experiencing",
+  "kjvTranslation": "see.",
+  "hebrew": "רָאֶה",
+  "translations": {
+    "bg": "да виждаш, т.е. да преживяваш",
+    "cs": "vidění, tj. prožívání",
+    "da": "at se, dvs. at opleve",
+    "de": "sehen, d.h. Erleben",
+    "el": "βλέποντας, δηλαδή βιώνοντας",
+    "es": "ver, es decir, experimentar",
+    "et": "nägemine, st kogemine",
+    "fi": "näkeminen eli kokeminen",
+    "fr": "voir, c'est-à-dire expérimenter",
+    "hu": "látás, azaz tapasztalás",
+    "id": "melihat, yaitu mengalami",
+    "it": "vedere, cioè sperimentare",
+    "ja": "シーイング",
+    "ko": "보는 것, 즉 경험하는 것",
+    "lt": "matyti, t. y. patirti",
+    "lv": "redzēt, t.i., piedzīvot",
+    "nb": "å se, dvs. å oppleve",
+    "nl": "zien, d.w.z. ervaren",
+    "pl": "widzenie, tj. doświadczanie",
+    "pt": "ver, ou seja, experimentar",
+    "ro": "a vedea, adică a experimenta",
+    "ru": "видеть, т.е. испытывать",
+    "sk": "videnie, t. j. prežívanie",
+    "sl": "videnje, tj. doživljanje",
+    "sv": "se, d.v.s. uppleva",
+    "tr": "görmek, yani deneyimlemek",
+    "uk": "бачити, тобто переживати",
+    "zh": "看到，即体验"
+  },
+  "verses": [
+    "job 10:15:10"
+  ]
+}

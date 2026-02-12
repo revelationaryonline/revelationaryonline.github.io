@@ -1,0 +1,42 @@
+{
+  "number": "H6968",
+  "language": "hebrew",
+  "transliteration": "qôwmᵉmîyûwth",
+  "pronunciation": "ko-mem-ee-yooth'",
+  "definition": "elevation, i.e. (adverbially) erectly (figuratively)",
+  "kjvTranslation": "upright.",
+  "hebrew": "קוֹמְמִיּוּת",
+  "translations": {
+    "bg": "издигане, т.е. (наречие) изправено (в преносен смисъл)",
+    "cs": "vznosně, tj. (příslovečně) vzpřímeně (přeneseně)",
+    "da": "højde, dvs. (adverbielt) oprejst (i overført betydning)",
+    "de": "erhabenheit, d.h. (adverbial) aufrecht (bildlich)",
+    "el": "ανύψωση, δηλαδή (επιρρηματικά) όρθια (μεταφορικά)",
+    "es": "elevación, es decir (adverbialmente) erguido (figuradamente)",
+    "et": "kõrgendamine, st (adverbiaalselt) püsti (ülekantud tähenduses)",
+    "fi": "kohoaminen, eli (adverbiaalisesti) pystyssä (kuvaannollisesti)",
+    "fr": "l'élévation, c'est-à-dire (adverbialement) l'érection (au sens figuré)",
+    "hu": "felemelkedés, azaz (határozószóval) felegyenesedve (átvitt értelemben)",
+    "id": "ketinggian, yaitu (secara adverbial) tegak (secara kiasan)",
+    "it": "elevazione, cioè (avverbialmente) in modo eretto (in senso figurato)",
+    "ja": "聳え立つ",
+    "ko": "고도, 즉 (부사적으로) 직립(비유적으로)",
+    "lt": "aukštai, t. y. (prieveiksmis) stačiai (perkeltine prasme)",
+    "lv": "pacēlums, t.i. (apstākļa vārds) stāvus (pārnestā nozīmē)",
+    "nb": "opphøyet, dvs. (adverbialt) oppreist (i overført betydning)",
+    "nl": "verheven, d.w.z. (bijwoordelijk) rechtop (figuurlijk)",
+    "pl": "wzniesienie, tj. (przysłówkowo) wyprostowany (w przenośni)",
+    "pt": "elevação, ou seja, (adverbialmente) ereto (figurativamente)",
+    "ro": "înălțare, adică (adverbial) vertical (figurat)",
+    "ru": "возвышение, т.е. (наречие) прямо (фигурально)",
+    "sk": "vyvýšenie, t. j. (príslovkovo) vzpriamene (v prenesenom význame)",
+    "sl": "vzvišenost, tj. (prislovno) pokončno (v prenesenem pomenu)",
+    "sv": "upphöjning, dvs. (adverbiellt) upprätt (bildligt)",
+    "tr": "yükselme, yani (zarf olarak) dik bir şekilde (mecazi olarak)",
+    "uk": "на висоті, тобто (прислівниково) прямо (образно)",
+    "zh": "直立"
+  },
+  "verses": [
+    "leviticus 26:13:16"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3938",
+  "language": "hebrew",
+  "transliteration": "lâʻaṭ",
+  "pronunciation": "law-at'",
+  "definition": "to swallow greedily; causatively, to feed",
+  "kjvTranslation": "feed.",
+  "hebrew": "לָעַט",
+  "translations": {
+    "bg": "да поглъщам жадно; в смисъл на причинна връзка, да се храня",
+    "cs": "hltavě polykat; kauzativně, krmit se",
+    "da": "at sluge grådigt; kausativt, at fodre",
+    "de": "gierig schlucken; kausal, füttern",
+    "el": "καταπίνω με απληστία- αιτιωδώς, ταΐζω",
+    "es": "tragar con avidez; causativamente, alimentar",
+    "et": "ahnelt alla neelata; põhjuslikult, sööta",
+    "fi": "niellä ahnaasti; kausatiivisesti, ruokkia",
+    "fr": "avaler goulûment ; causativement, nourrir",
+    "hu": "mohón nyelni; kauzálisan, etetni",
+    "id": "menelan dengan rakus; secara kausal, memberi makan",
+    "it": "ingurgitare avidamente; causalmente, nutrire",
+    "ja": "貪欲に飲み込む。",
+    "ko": "탐욕스럽게 삼키다; 원인적으로, 먹이다",
+    "lt": "godžiai nuryti; priežastingai, maitintis",
+    "lv": "alkatīgi norīt; cēloņsakarīgi - baroties",
+    "nb": "å svelge grådig; kausativt, å mate",
+    "nl": "gulzig slikken; causaal, voeden",
+    "pl": "połykać łapczywie; przyczynowo, karmić",
+    "pt": "engolir com avidez; causativamente, alimentar",
+    "ro": "a înghiți cu lăcomie; cauzal, a hrăni",
+    "ru": "жадно глотать; каузально, кормить",
+    "sk": "hltavo prehĺtať; kauzatívne, kŕmiť sa",
+    "sl": "lačno požirati; vzročno, hraniti se",
+    "sv": "att svälja girigt; kausativt, att mata",
+    "tr": "açgözlülükle yutmak; nedensel olarak, beslemek",
+    "uk": "жадібно ковтати; каузативно - годувати",
+    "zh": "贪婪地吞咽；因果地喂食"
+  },
+  "verses": [
+    "genesis 25:30:4"
+  ]
+}

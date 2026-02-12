@@ -1,0 +1,43 @@
+{
+  "number": "H739",
+  "language": "hebrew",
+  "transliteration": "ʼărîyʼêl",
+  "pronunciation": "ar-ee-ale'",
+  "definition": "lion of God; i.e. heroic",
+  "kjvTranslation": "lionlike men.",
+  "translations": {
+    "bg": "лъв на Бога; т.е. героичен",
+    "cs": "boží lev; tj. hrdinský",
+    "da": "guds løve; dvs. heroisk",
+    "de": "löwe Gottes; d.h. heldenhaft",
+    "el": "λιοντάρι του Θεού, δηλ. ηρωικό",
+    "es": "león de Dios; es decir, heroico",
+    "et": "jumala lõvi; s.t. kangelane",
+    "fi": "jumalan leijona; ts. sankarillinen",
+    "fr": "lion de Dieu, c'est-à-dire héroïque",
+    "hu": "isten oroszlánja; azaz hősies",
+    "id": "singa Allah; yaitu kepahlawanan",
+    "it": "leone di Dio; cioè eroico",
+    "ja": "神の獅子。",
+    "ko": "신의 사자; 즉, 영웅적인",
+    "lt": "dievo liūtas; t. y. didvyriškas",
+    "lv": "dieva lauva; t.i., varonīgs",
+    "nb": "guds løve; dvs. heroisk",
+    "nl": "leeuw van God; d.w.z. heldhaftig",
+    "pl": "lew boży; tj. bohaterski",
+    "pt": "leão de Deus; isto é, heroico",
+    "ro": "leu al lui Dumnezeu; adică eroic",
+    "ru": "лев Божий; т.е. героический",
+    "sk": "boží lev; t. j. hrdinský",
+    "sl": "božji lev; tj. junaški",
+    "sv": "guds lejon; d.v.s. heroisk",
+    "tr": "tanrı'nın aslanı; yani kahraman",
+    "uk": "лев Божий; тобто героїчний",
+    "zh": "神狮；即英雄"
+  },
+  "hebrew": "אֲרִיאֵל",
+  "verses": [
+    "secondSamuel 23:20:14",
+    "firstChronicles 11:22:14"
+  ]
+}

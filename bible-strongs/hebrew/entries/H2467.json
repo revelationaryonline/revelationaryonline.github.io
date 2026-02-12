@@ -1,0 +1,42 @@
+{
+  "number": "H2467",
+  "language": "hebrew",
+  "transliteration": "chôled",
+  "pronunciation": "kho'-led",
+  "definition": "a weasel (from its gliding motion)",
+  "kjvTranslation": "weasel.",
+  "translations": {
+    "bg": "ласка (заради плъзгащото ѝ движение)",
+    "cs": "lasička (podle klouzavého pohybu)",
+    "da": "en væsel (fra dens glidende bevægelse)",
+    "de": "ein Wiesel (aufgrund seiner gleitenden Bewegung)",
+    "el": "νυφίτσα (από την ολισθαίνουσα κίνησή της)",
+    "es": "una comadreja (por su movimiento de deslizamiento)",
+    "et": "nuhk (tema libisevast liikumisest lähtuvalt)",
+    "fi": "näätä (sen liukuliikkeestä)",
+    "fr": "une belette (d'après son mouvement de glissement)",
+    "hu": "menyét (sikló mozgása miatt)",
+    "id": "musang (dari gerakan meluncurnya)",
+    "it": "una donnola (dal suo movimento di planata)",
+    "ja": "鼬鼠",
+    "ko": "족제비(활강하는 동작에서)",
+    "lt": "lazdynas (dėl slystančio judesio)",
+    "lv": "lapsene (pēc tās slīdēšanas kustības)",
+    "nb": "en røyskatt (fra dens glidende bevegelse)",
+    "nl": "een wezel (van zijn glijdende beweging)",
+    "pl": "łasica (od jej ruchu ślizgowego)",
+    "pt": "uma doninha (pelo seu movimento de deslize)",
+    "ro": "o nevăstuică (de la mișcarea sa de alunecare)",
+    "ru": "ласка (по ее скользящему движению)",
+    "sk": "lasica (podľa kĺzavého pohybu)",
+    "sl": "podlasica (zaradi drsenja)",
+    "sv": "en vessla (från dess glidande rörelse)",
+    "tr": "bir gelincik (süzülme hareketinden)",
+    "uk": "ласка (від її ковзаючого руху)",
+    "zh": "黄鼠狼"
+  },
+  "hebrew": "חֹלֶד",
+  "verses": [
+    "leviticus 11:29:7"
+  ]
+}

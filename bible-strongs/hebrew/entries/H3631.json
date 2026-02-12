@@ -1,0 +1,43 @@
+{
+  "number": "H3631",
+  "language": "hebrew",
+  "transliteration": "killâyôwn",
+  "pronunciation": "kil-law-yone'",
+  "definition": "pining, destruction",
+  "kjvTranslation": "consumption, failing.",
+  "translations": {
+    "bg": "копнеж, разрушение",
+    "cs": "stesk, destrukce",
+    "da": "længsel, ødelæggelse",
+    "de": "sehnsucht, Zerstörung",
+    "el": "νοσταλγία, καταστροφή",
+    "es": "añoranza, destrucción",
+    "et": "igatsus, hävitamine",
+    "fi": "kaipuu, tuho",
+    "fr": "nostalgie, destruction",
+    "hu": "sóvárgás, pusztulás",
+    "id": "merindukan, kehancuran",
+    "it": "struggimento, distruzione",
+    "ja": "愁嘆、破滅",
+    "ko": "파인, 파괴",
+    "lt": "ilgesys, naikinimas",
+    "lv": "ilgas, iznīcināšana",
+    "nb": "lengsel, ødeleggelse",
+    "nl": "heimwee, vernietiging",
+    "pl": "tęsknota, zniszczenie",
+    "pt": "lamentação, destruição",
+    "ro": "tânjire, distrugere",
+    "ru": "тоска, разрушение",
+    "sk": "túžba, zničenie",
+    "sl": "hrepenenje, uničenje",
+    "sv": "längtan, förstörelse",
+    "tr": "özlem, yıkım",
+    "uk": "туга, руйнування",
+    "zh": "憔悴、毁灭"
+  },
+  "hebrew": "כִּלָּיוֹן",
+  "verses": [
+    "deuteronomy 28:65:15",
+    "isaiah 10:22:10"
+  ]
+}

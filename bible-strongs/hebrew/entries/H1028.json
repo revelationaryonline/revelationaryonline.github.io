@@ -1,0 +1,42 @@
+{
+  "number": "H1028",
+  "language": "hebrew",
+  "transliteration": "Bêyth hâ-Rân",
+  "pronunciation": "bayth haw-rawn'",
+  "definition": "Beth-ha-Ram, a place East of the Jordan",
+  "kjvTranslation": "Beth-haran.",
+  "translations": {
+    "bg": "Вет-ха-Рам, място на изток от Йордан",
+    "cs": "Bét-ha-Ram, místo na východ od Jordánu",
+    "da": "Beth-ha-Ram, et sted øst for Jordan",
+    "de": "Beth-ha-Ram, ein Ort östlich des Jordans",
+    "el": "Βηθ-χα-Ραμ, τόπος ανατολικά του Ιορδάνη",
+    "es": "Bet-ha-Ram, lugar al este del Jordán",
+    "et": "Bet-ha-Ram, koht Jordani jõest ida pool",
+    "fi": "Bet-ha-Ram, paikka Jordanin itäpuolella",
+    "fr": "Beth-ha-Ram, localité située à l'est du Jourdain",
+    "hu": "Beth-ha-Ram, a Jordántól keletre fekvő hely",
+    "id": "Beth-ha-Ram, sebuah tempat di sebelah timur Sungai Yordan",
+    "it": "Beth-ha-Ram, località a est del Giordano",
+    "ja": "ベト＝ハ＝ラム、ヨルダンの東の地",
+    "ko": "요단강 동쪽의 벧하람, 벧하람이란?",
+    "lt": "Betha-Ramas, vietovė į rytus nuo Jordano",
+    "lv": "Beth-ha-Ram, vieta uz austrumiem no Jordānas",
+    "nb": "Bet-ha-Ram, et sted øst for Jordan",
+    "nl": "Beth-ha-Ram, een plaats ten oosten van de Jordaan",
+    "pl": "Beth-ha-Ram, miejsce na wschód od Jordanu",
+    "pt": "Bete-Ha-Rão, um lugar a leste do Jordão",
+    "ro": "Beth-ha-Ram, un loc la est de Iordan",
+    "ru": "Бет-ха-Рам, место к востоку от Иордана",
+    "sk": "Bét-ha-Rám, miesto na východ od Jordánu",
+    "sl": "Beth-ha-Ram, kraj vzhodno od Jordana",
+    "sv": "Beth-ha-Ram, en plats öster om Jordanfloden",
+    "tr": "Beth-ha-Ram, Ürdün'ün doğusunda bir yer",
+    "uk": "Бет-ха-Рам, місце на схід від Йордану",
+    "zh": "伯哈拉姆，约旦河东的一个地方"
+  },
+  "hebrew": "בֵּית הָרָן",
+  "verses": [
+    "numbers 32:36:5"
+  ]
+}

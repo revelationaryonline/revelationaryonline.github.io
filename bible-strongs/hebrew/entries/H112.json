@@ -1,0 +1,43 @@
+{
+  "number": "H112",
+  "language": "hebrew",
+  "transliteration": "ʼIddôw",
+  "pronunciation": "id-do",
+  "definition": "Iddo, an Israelite",
+  "kjvTranslation": "Iddo.",
+  "translations": {
+    "bg": "Идо, израилтянин",
+    "cs": "Iddo, Izraelita",
+    "da": "Iddo, en israelit",
+    "de": "Iddo, ein Israelit",
+    "el": "Iddo, ένας Ισραηλίτης",
+    "es": "Iddo, israelita",
+    "et": "Iddo, iisraellane",
+    "fi": "Iddo, israelilainen",
+    "fr": "Iddo, Israélite",
+    "hu": "Iddo, izraelita",
+    "id": "Iddo, seorang Israel",
+    "it": "Iddo, un israelita",
+    "ja": "イスラエル人イド",
+    "ko": "이스라엘인, 이도",
+    "lt": "Iddo, izraelitas",
+    "lv": "Iddo, izraēlietis",
+    "nb": "Iddo, en israelitt",
+    "nl": "Iddo, een Israëliet",
+    "pl": "Iddo, Izraelita",
+    "pt": "Iddo, israelita",
+    "ro": "Iddo, un israelit",
+    "ru": "Иддо, израильтянин",
+    "sk": "Iddo, Izraelita",
+    "sl": "Iddo, Izraelec",
+    "sv": "Iddo, en israelit",
+    "tr": "Iddo, bir İsrailli",
+    "uk": "Іддо, ізраїльтянин",
+    "zh": "以色列人伊多"
+  },
+  "hebrew": "אִדּוֹ",
+  "verses": [
+    "ezra 8:17:4",
+    "ezra 8:17:13"
+  ]
+}

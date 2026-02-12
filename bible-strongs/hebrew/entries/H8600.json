@@ -1,0 +1,42 @@
+{
+  "number": "H8600",
+  "language": "hebrew",
+  "transliteration": "tᵉphôwtsâh",
+  "pronunciation": "tef-o-tsaw'",
+  "definition": "a dispersal",
+  "kjvTranslation": "dispersion.",
+  "hebrew": "תְּפוֹצָה",
+  "translations": {
+    "bg": "разпръскване",
+    "cs": "rozptýlení",
+    "da": "en spredning",
+    "de": "eine Ausbreitung",
+    "el": "μια διασπορά",
+    "es": "una dispersión",
+    "et": "hajutamine",
+    "fi": "hajaantuminen",
+    "fr": "une dispersion",
+    "hu": "szétszóródás",
+    "id": "penyebaran",
+    "it": "una dispersione",
+    "ja": "散開",
+    "ko": "분산",
+    "lt": "sklaida",
+    "lv": "izkliedēšana",
+    "nb": "en spredning",
+    "nl": "een verspreiding",
+    "pl": "rozproszenie",
+    "pt": "uma dispersão",
+    "ro": "o dispersie",
+    "ru": "рассеивание",
+    "sk": "rozptýlenie",
+    "sl": "razpršitev",
+    "sv": "en spridning",
+    "tr": "bir dağılma",
+    "uk": "розсіювання",
+    "zh": "扩散"
+  },
+  "verses": [
+    "jeremiah 25:34:10"
+  ]
+}

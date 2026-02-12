@@ -1,0 +1,42 @@
+{
+  "number": "H5936",
+  "language": "hebrew",
+  "transliteration": "ʻălûwqâh",
+  "pronunciation": "al-oo-kaw'",
+  "definition": "the leech",
+  "kjvTranslation": "horse-leech.",
+  "hebrew": "עֲלוּקָה",
+  "translations": {
+    "bg": "пиявицата",
+    "cs": "pijavice",
+    "da": "iglen",
+    "de": "der Blutegel",
+    "el": "η βδέλλα",
+    "es": "la sanguijuela",
+    "et": "iiveldaja",
+    "fi": "iilimato",
+    "fr": "la sangsue",
+    "hu": "a pióca",
+    "id": "lintah",
+    "it": "la sanguisuga",
+    "ja": "ヒル",
+    "ko": "거머리",
+    "lt": "pijokas",
+    "lv": "pīle",
+    "nb": "iglen",
+    "nl": "de bloedzuiger",
+    "pl": "pijawka",
+    "pt": "a sanguessuga",
+    "ro": "lipitoarea",
+    "ru": "пиявка",
+    "sk": "pijavica",
+    "sl": "pijavka",
+    "sv": "blodigeln",
+    "tr": "sülük",
+    "uk": "п'явка",
+    "zh": "蚂蚱"
+  },
+  "verses": [
+    "proverbs 30:15:0"
+  ]
+}

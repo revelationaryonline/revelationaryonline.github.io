@@ -1,0 +1,43 @@
+{
+  "number": "H419",
+  "language": "hebrew",
+  "transliteration": "ʼEldâd",
+  "pronunciation": "el-dad'",
+  "definition": "Eldad, an Israelite",
+  "kjvTranslation": "Eldad.",
+  "translations": {
+    "bg": "Елдад, израилтянин",
+    "cs": "Eldad, Izraelita",
+    "da": "Eldad, en israelit",
+    "de": "Eldad, ein Israelit",
+    "el": "Eldad, ένας Ισραηλίτης",
+    "es": "Eldad, israelita",
+    "et": "Eldad, iisraellane",
+    "fi": "Eldad, israelilainen",
+    "fr": "Eldad, un Israélite",
+    "hu": "Eldad, izraelita",
+    "id": "Eldad, seorang Israel",
+    "it": "Eldad, un israelita",
+    "ja": "イスラエル人エルダド",
+    "ko": "이스라엘인 엘다드",
+    "lt": "Eldadas, izraelitas",
+    "lv": "Eldads, izraēlietis",
+    "nb": "Eldad, en israelitt",
+    "nl": "Eldad, een Israëliet",
+    "pl": "Eldad, Izraelita",
+    "pt": "Eldad, um israelita",
+    "ro": "Eldad, un israelit",
+    "ru": "Эльдад, израильтянин",
+    "sk": "Eldad, Izraelita",
+    "sl": "Eldad, Izraelec",
+    "sv": "Eldad, en israelit",
+    "tr": "Eldad, bir İsrailli",
+    "uk": "Ельдад, ізраїльтянин",
+    "zh": "以色列人以达"
+  },
+  "hebrew": "אֶלְדָּד",
+  "verses": [
+    "numbers 11:26:6",
+    "numbers 11:27:5"
+  ]
+}

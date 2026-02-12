@@ -1,0 +1,42 @@
+{
+  "number": "H1467",
+  "language": "hebrew",
+  "transliteration": "gêvâh",
+  "pronunciation": "gay-vaw'",
+  "definition": "{exaltation; (figuratively) arrogance}",
+  "kjvTranslation": "pride.",
+  "translations": {
+    "bg": "{издигане; (в преносен смисъл) високомерие}",
+    "cs": "{vyvyšování; (přeneseně) arogance}",
+    "da": "{ophøjelse; (i overført betydning) arrogance}",
+    "de": "{Überheblichkeit; (im übertragenen Sinne) Arroganz}",
+    "el": "{υψωμένος, (μεταφορικά) αλαζονεία}",
+    "es": "{exaltación; (en sentido figurado) arrogancia}",
+    "et": "{kõrge; (piltlikult) ülbus}",
+    "fi": "{korostus; (kuvaannollisesti) ylimielisyys}",
+    "fr": "{exaltation ; (au sens figuré) arrogance}",
+    "hu": "{magasztosság; (átvitt értelemben) arrogancia}",
+    "id": "(meninggikan diri; (secara kiasan) kesombongan)",
+    "it": "{esaltazione; (in senso figurato) arroganza}",
+    "ja": "{高揚；（比喩的に）傲慢}。",
+    "ko": "{높임; (비유적으로) 오만함}",
+    "lt": "{išaukštinimas; (perkeltine prasme) arogancija}",
+    "lv": "{izcelšanās; (pārnestā nozīmē) augstprātība}",
+    "nb": "{opphøyelse; (i overført betydning) arroganse}",
+    "nl": "{verheffing; (figuurlijk) arrogantie}",
+    "pl": "{wywyższanie się; (w przenośni) arogancja}",
+    "pt": "{exaltação; (figurativamente) arrogância}",
+    "ro": "{exaltare; (la figurat) aroganță}",
+    "ru": "{превозношение; (образно) высокомерие}",
+    "sk": "{vyvyšovanie; (obrazne) arogancia}",
+    "sl": "{vzvišenost; (v prenesenem pomenu) aroganca}",
+    "sv": "{upphöjdhet; (bildligt) arrogans}",
+    "tr": "{yüceltme; (mecazi anlamda) kibir}",
+    "uk": "{піднесеність; (образно) зарозумілість}",
+    "zh": "{自高自大；（比喻）傲慢}。"
+  },
+  "hebrew": "גֵּוָה",
+  "verses": [
+    "daniel 4:34:16"
+  ]
+}

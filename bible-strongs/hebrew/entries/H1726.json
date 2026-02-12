@@ -1,0 +1,43 @@
+{
+  "number": "H1726",
+  "language": "hebrew",
+  "transliteration": "dahăhar",
+  "pronunciation": "dah-hah-har'",
+  "definition": "a gallop",
+  "kjvTranslation": "pransing.",
+  "translations": {
+    "bg": "галоп",
+    "cs": "cval",
+    "da": "en galop",
+    "de": "ein Galopp",
+    "el": "καλπασμός",
+    "es": "al galope",
+    "et": "galopp",
+    "fi": "laukka",
+    "fr": "un galop",
+    "hu": "galopp",
+    "id": "berpacu",
+    "it": "un galoppo",
+    "ja": "かけあし",
+    "ko": "질주",
+    "lt": "galopas",
+    "lv": "galops",
+    "nb": "en galopp",
+    "nl": "een galop",
+    "pl": "galop",
+    "pt": "um galope",
+    "ro": "un galop",
+    "ru": "галоп",
+    "sk": "galop",
+    "sl": "galop",
+    "sv": "en galopp",
+    "tr": "dörtnala",
+    "uk": "галопом",
+    "zh": "飞跑"
+  },
+  "hebrew": "דַּהֲהַר",
+  "verses": [
+    "judges 5:22:4",
+    "judges 5:22:5"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2684",
+  "language": "hebrew",
+  "transliteration": "chôtsen",
+  "pronunciation": "kho'tsen",
+  "definition": "{the bosom (as comprised between the arms)}",
+  "kjvTranslation": "arm, lap.",
+  "translations": {
+    "bg": "{гръдта (като част от ръцете)}",
+    "cs": "{hruď (jako část mezi pažemi)}",
+    "da": "{brystet (som omfatter mellem armene)}",
+    "de": "{der Busen (zwischen den Armen)}",
+    "el": "{ο κόρφος (όπως περιλαμβάνεται μεταξύ των χεριών)}",
+    "es": "{el pecho (como comprendido entre los brazos)}",
+    "et": "{Bossi (nagu see hõlmab käte vahel)}",
+    "fi": "{rintakehä (käsivarsien välissä) }",
+    "fr": "{la poitrine (comprise entre les bras)}",
+    "hu": "{a kebel (a karok között)",
+    "id": "(bagian dada (seperti yang terdiri dari kedua lengan)",
+    "it": "{il seno (come compreso tra le braccia)",
+    "ja": "{腕と腕の間にある胸元。",
+    "ko": "{가슴(팔 사이로 구성된 부분)}",
+    "lt": "{krūtinė (tarp rankų)",
+    "lv": "{kauls (kas atrodas starp rokām)}",
+    "nb": "{brystet (som omfatter mellom armene)}",
+    "nl": "{de boezem (als bestaande uit tussen de armen)}",
+    "pl": "{piersie (zawarte między ramionami)}",
+    "pt": "{o seio (como compreendido entre os braços)",
+    "ro": "{sânul (cuprins între brațe)}",
+    "ru": "{грудь (в смысле между руками)}",
+    "sk": "{prsia (ako sú obsiahnuté medzi ramenami)}",
+    "sl": "{preddverje (med rokami)",
+    "sv": "{skötet (som omfattar mellan armarna)}",
+    "tr": "{göğüs (kollar arasında kalan kısım)}",
+    "uk": "{груди (як між руками)}",
+    "zh": "{怀抱（包括两臂之间）}"
+  },
+  "hebrew": "חֹצֶן",
+  "verses": [
+    "nehemiah 5:13:1",
+    "isaiah 49:22:15"
+  ]
+}

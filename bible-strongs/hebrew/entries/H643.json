@@ -1,0 +1,42 @@
+{
+  "number": "H643",
+  "language": "hebrew",
+  "transliteration": "ʼappeden",
+  "pronunciation": "ap-peh'-den",
+  "definition": "a pavilion or palace-tent",
+  "kjvTranslation": "palace.",
+  "translations": {
+    "bg": "павилион или палатка-шатра",
+    "cs": "pavilon nebo palácový stan",
+    "da": "en pavillon eller et palads-telt",
+    "de": "einen Pavillon oder ein Palastzelt",
+    "el": "ένα περίπτερο ή ένα παλάτι-σκηνή",
+    "es": "un pabellón o tienda-palacio",
+    "et": "paviljon või palee-telk",
+    "fi": "paviljonki tai palatsiteltta",
+    "fr": "un pavillon ou une tente de palais",
+    "hu": "pavilon vagy palotasátor",
+    "id": "paviliun atau tenda istana",
+    "it": "un padiglione o un palazzo-tenda",
+    "ja": "仮殿",
+    "ko": "파빌리온 또는 궁전 텐트",
+    "lt": "paviljonas arba rūmų palapinė",
+    "lv": "paviljons vai pils telts",
+    "nb": "en paviljong eller et palass-telt",
+    "nl": "een paviljoen of paleistent",
+    "pl": "pawilon lub namiot pałacowy",
+    "pt": "um pavilhão ou tenda-palácio",
+    "ro": "un pavilion sau un cort de palat",
+    "ru": "павильон или палатка",
+    "sk": "pavilón alebo palácový stan",
+    "sl": "paviljon ali palača-šotor",
+    "sv": "en paviljong eller ett palats-tält",
+    "tr": "bir pavyon veya saray-çadır",
+    "uk": "павільйон або палац-намет",
+    "zh": "亭阁"
+  },
+  "hebrew": "אַפֶּדֶן",
+  "verses": [
+    "daniel 11:45:2"
+  ]
+}

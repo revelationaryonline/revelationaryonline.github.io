@@ -1,0 +1,43 @@
+{
+  "number": "H614",
+  "language": "hebrew",
+  "transliteration": "ʼâçîyph",
+  "pronunciation": "aw-seef'",
+  "definition": "gathered, i.e. (abstractly) a gathering in of crops",
+  "kjvTranslation": "ingathering.",
+  "translations": {
+    "bg": "събрани, т.е. (абстрактно) събиране на реколтата",
+    "cs": "shromážděné, tj. (abstraktně) shromáždění plodin",
+    "da": "indsamlet, dvs. (abstrakt) en indsamling af afgrøder",
+    "de": "geerntet, d.h. (abstrakt) ein Sammeln von Feldfrüchten",
+    "el": "συγκεντρωμένος, δηλαδή (αφηρημένα) μια συγκέντρωση καλλιεργειών",
+    "es": "recogido, es decir (en abstracto) una recogida de cosechas",
+    "et": "kogutud, st (abstraktselt) põllukultuuride kogumine",
+    "fi": "kerätty, eli (abstraktisti) sadon kerääminen",
+    "fr": "récolté, c'est-à-dire (abstraitement) un rassemblement de récoltes",
+    "hu": "összegyűjtött, azaz (elvontan) a termények begyűjtése",
+    "id": "dikumpulkan, yaitu (secara abstrak) pengumpulan hasil panen",
+    "it": "raccolto, cioè (astrattamente) una raccolta di colture",
+    "ja": "寄せ集め",
+    "ko": "모인, 즉 (추상적으로) 농작물이 모이는 것을 의미합니다",
+    "lt": "surinkti, t. y. (abstrakčiai) derliaus surinkimas",
+    "lv": "savākts, t. i., (abstrakti) ražas savākšana",
+    "nb": "samlet, dvs. (abstrakt) en innsamling av avlinger",
+    "nl": "verzameld, d.w.z. (abstract) een verzameling gewassen",
+    "pl": "zebrane, tj. (abstrakcyjnie) zbieranie plonów",
+    "pt": "colhido, ou seja, (abstratamente) uma colheita de culturas",
+    "ro": "adunat, adică (abstract) o adunare a recoltelor",
+    "ru": "собранный, т.е. (абстрактно) сбор урожая",
+    "sk": "zhromaždený, t. j. (abstraktne) zber plodín",
+    "sl": "zbrani, tj. (abstraktno) zbiranje pridelkov",
+    "sv": "insamlad, dvs. (abstrakt) en insamling av grödor",
+    "tr": "toplanmış, yani (soyut olarak) ekinlerin toplanması",
+    "uk": "зібрано, тобто (абстрактно) зібрано врожай",
+    "zh": "稼穑"
+  },
+  "hebrew": "אָסִיף",
+  "verses": [
+    "exodus 23:16:8",
+    "exodus 34:22:8"
+  ]
+}

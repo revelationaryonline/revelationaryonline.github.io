@@ -1,0 +1,42 @@
+{
+  "number": "H3740",
+  "language": "hebrew",
+  "transliteration": "kêrâh",
+  "pronunciation": "kay-raw'",
+  "definition": "a purchase",
+  "kjvTranslation": "provision.",
+  "translations": {
+    "bg": "покупка",
+    "cs": "nákup",
+    "da": "et køb",
+    "de": "ein Kauf",
+    "el": "μια αγορά",
+    "es": "una compra",
+    "et": "ostu",
+    "fi": "osto",
+    "fr": "un achat",
+    "hu": "vásárlás",
+    "id": "pembelian",
+    "it": "un acquisto",
+    "ja": "購入",
+    "ko": "구매",
+    "lt": "pirkimas",
+    "lv": "pirkums",
+    "nb": "et kjøp",
+    "nl": "een aankoop",
+    "pl": "zakup",
+    "pt": "uma compra",
+    "ro": "o achiziție",
+    "ru": "покупка",
+    "sk": "nákup",
+    "sl": "nakup",
+    "sv": "ett köp",
+    "tr": "bir satın alma",
+    "uk": "купівля",
+    "zh": "购买"
+  },
+  "hebrew": "כֵּרָה",
+  "verses": [
+    "secondKings 6:23:2"
+  ]
+}

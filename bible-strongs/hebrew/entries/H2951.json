@@ -1,0 +1,43 @@
+{
+  "number": "H2951",
+  "language": "hebrew",
+  "transliteration": "ṭiphçar",
+  "pronunciation": "tif-sar'",
+  "definition": "a military governor",
+  "kjvTranslation": "captain.",
+  "translations": {
+    "bg": "военен губернатор",
+    "cs": "vojenský guvernér",
+    "da": "en militær guvernør",
+    "de": "ein Militärgouverneur",
+    "el": "στρατιωτικός διοικητής",
+    "es": "un gobernador militar",
+    "et": "sõjaväe kuberner",
+    "fi": "sotilaskuvernööri",
+    "fr": "un gouverneur militaire",
+    "hu": "katonai kormányzó",
+    "id": "seorang gubernur militer",
+    "it": "un governatore militare",
+    "ja": "軍政長官",
+    "ko": "군 총독",
+    "lt": "karinis gubernatorius",
+    "lv": "militārais gubernators",
+    "nb": "en militær guvernør",
+    "nl": "een militaire gouverneur",
+    "pl": "gubernator wojskowy",
+    "pt": "um governador militar",
+    "ro": "un guvernator militar",
+    "ru": "военный губернатор",
+    "sk": "vojenský guvernér",
+    "sl": "vojaški guverner",
+    "sv": "en militär guvernör",
+    "tr": "askeri bir vali",
+    "uk": "військовий губернатор",
+    "zh": "太守"
+  },
+  "hebrew": "טִפְסַר",
+  "verses": [
+    "jeremiah 51:27:17",
+    "nahum 3:17:2"
+  ]
+}

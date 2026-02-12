@@ -1,0 +1,42 @@
+{
+  "number": "H4062",
+  "language": "hebrew",
+  "transliteration": "madhêbâh",
+  "pronunciation": "mad-hay-baw'",
+  "definition": "goldmaking, i.e. exactness",
+  "kjvTranslation": "golden city.",
+  "hebrew": "מַדְהֵבָה",
+  "translations": {
+    "bg": "златарство, т.е. точност",
+    "cs": "zlatnictví, tj. přesnost",
+    "da": "guldfremstilling, dvs. nøjagtighed",
+    "de": "goldschmiedekunst, d.h. Exaktheit",
+    "el": "χρυσοχοΐα, δηλαδή ακρίβεια",
+    "es": "orfebrería, es decir, exactitud",
+    "et": "kulla valmistamine, s.t. täpsus",
+    "fi": "kullanhuuhdonta, eli tarkkuus",
+    "fr": "l'orfèvrerie, c'est-à-dire la précision",
+    "hu": "aranyművesség, azaz pontosság",
+    "id": "pembuatan emas, yaitu ketepatan",
+    "it": "l'oreficeria, cioè l'esattezza",
+    "ja": "正確さ",
+    "ko": "금세공, 즉 정확성",
+    "lt": "auksakalystė, t. y. tikslumas",
+    "lv": "zeltkalšana, t.i., precizitāte",
+    "nb": "gullfremstilling, dvs. nøyaktighet",
+    "nl": "goud maken, d.w.z. exactheid",
+    "pl": "obróbka złota, tj. dokładność",
+    "pt": "ourivesaria, isto é, exatidão",
+    "ro": "aurire, adică exactitate",
+    "ru": "золотое дело, т.е. точность",
+    "sk": "zlatníctvo, t. j. presnosť",
+    "sl": "zlatarstvo, tj. natančnost",
+    "sv": "guldtillverkning, dvs. exakthet",
+    "tr": "altın yapımı, yani kesinlik",
+    "uk": "золотарство, тобто точність",
+    "zh": "炼金术"
+  },
+  "verses": [
+    "isaiah 14:4:11"
+  ]
+}

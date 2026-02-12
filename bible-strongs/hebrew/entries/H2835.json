@@ -1,0 +1,42 @@
+{
+  "number": "H2835",
+  "language": "hebrew",
+  "transliteration": "châsiph",
+  "pronunciation": "khaw-seef'",
+  "definition": "properly, drawn off, i.e. separated; hence, a small company (as divided from the rest)",
+  "kjvTranslation": "little flock.",
+  "translations": {
+    "bg": "правилно, откъснат, т.е. отделен; оттук - малка компания (отделена от останалите)",
+    "cs": "správně, oddělený, tj. oddělený; tedy malá společnost (jako oddělená od zbytku)",
+    "da": "korrekt, trukket ud, dvs. adskilt; derfor et lille selskab (som adskilt fra resten)",
+    "de": "richtig: abgezogen, d.h. abgetrennt; daher: eine kleine Gesellschaft (wie vom Rest getrennt)",
+    "el": "σωστά, αποσπάται, δηλ. διαχωρίζεται- ως εκ τούτου, μια μικρή εταιρεία (όπως διαχωρίζεται από την υπόλοιπη)",
+    "es": "propiamente, retirado, es decir, separado; de ahí, una pequeña compañía (como dividida del resto)",
+    "et": "õigesti, eraldatud, s.t. eraldatud; seega väike seltskond (nagu eraldatud teistest)",
+    "fi": "oikein, irrotettu, eli erotettu; siis pieni yhtiö (erotettuna muusta)",
+    "fr": "à proprement parler, détachée, c'est-à-dire séparée ; d'où une petite entreprise (comme divisée du reste)",
+    "hu": "megfelelően, leválasztva, azaz elkülönítve; ezért egy kis társaság (a többitől elkülönítve)",
+    "id": "benar, ditarik dari, yaitu dipisahkan; oleh karena itu, sebuah perusahaan kecil (seperti yang dipisahkan dari yang lain)",
+    "it": "propriamente, staccato, cioè separato; quindi, una piccola compagnia (come divisa dal resto)",
+    "ja": "を切り離すことから、（他から切り離された）小会社を指す。",
+    "ko": "적절하게, 분리된, 즉 분리된; 따라서 작은 회사(나머지와 분리된)",
+    "lt": "tinkamai, atskirtas, t. y. atskirtas; taigi, maža kompanija (atskirta nuo kitų)",
+    "lv": "pareizi, atdalīts, t.i., atdalīts; tātad, neliela kompānija (kā atdalīta no pārējās)",
+    "nb": "riktig, trukket ut, dvs. adskilt; derav, et lite selskap (som delt fra resten)",
+    "nl": "goed, afgetrokken, d.w.z. gescheiden; vandaar, een klein bedrijf (als gescheiden van de rest)",
+    "pl": "właściwie, odciągnięty, tj. oddzielony; stąd mała firma (jako oddzielona od reszty)",
+    "pt": "propriamente dito, retirado, ou seja, separado; portanto, uma pequena empresa (como dividida do resto)",
+    "ro": "în mod corespunzător, desprins, adică separat; prin urmare, o companie mică (ca divizată de restul)",
+    "ru": "правильно, отделенный, т.е. разделенный; следовательно, небольшая компания (как отделенная от остальных)",
+    "sk": "správne, oddelený, t. j. oddelený; teda malá spoločnosť (ako oddelená od ostatných)",
+    "sl": "pravilno, ločeno, tj. ločeno; torej majhna družba (ločena od ostalih)",
+    "sv": "korrekt, utdragen, dvs. separerad; därav ett litet företag (som skiljs från resten)",
+    "tr": "uygun şekilde, çekilmiş, yani ayrılmış; dolayısıyla, küçük bir şirket (diğerlerinden ayrılmış olarak)",
+    "uk": "власне, виокремлений, тобто відокремлений; отже, невелика компанія (відокремлена від решти)",
+    "zh": "适当地，抽出，即分开；因此，一个小公司（从其他公司中分出）"
+  },
+  "hebrew": "חָשִׂף",
+  "verses": [
+    "firstKings 20:27:11"
+  ]
+}

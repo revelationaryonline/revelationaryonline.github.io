@@ -1,0 +1,42 @@
+{
+  "number": "H7815",
+  "language": "hebrew",
+  "transliteration": "shᵉchôwr",
+  "pronunciation": "shekh-ore'",
+  "definition": "dinginess, i.e. perhaps soot",
+  "kjvTranslation": "coal.",
+  "hebrew": "שְׁחוֹר",
+  "translations": {
+    "bg": "зацапване, т.е. може би сажди",
+    "cs": "dinginess, tj. možná saze",
+    "da": "snavsethed, dvs. måske sod",
+    "de": "schmuddeligkeit, d.h. vielleicht Ruß",
+    "el": "βρωμιά, δηλαδή ίσως αιθάλη",
+    "es": "dinginess, es decir, tal vez hollín",
+    "et": "mustus, s.t. võib-olla tahma",
+    "fi": "likaisuus, eli ehkä noki",
+    "fr": "la présence de poussière, c'est-à-dire peut-être de suie",
+    "hu": "piszkosság, azaz talán korom",
+    "id": "dingin, yaitu mungkin jelaga",
+    "it": "opacità, ad esempio forse fuliggine",
+    "ja": "煤けた感じ",
+    "ko": "칙칙함, 즉 아마도 그을음",
+    "lt": "dingsėjimas, t. y. galbūt suodžiai",
+    "lv": "dinginess, t. i., iespējams, kvēpi",
+    "nb": "smussighet, dvs. kanskje sot",
+    "nl": "groezeligheid, d.w.z. misschien roet",
+    "pl": "zabrudzenia, tj. być może sadza",
+    "pt": "sujidade, ou seja, talvez fuligem",
+    "ro": "murdărie, de exemplu, poate funingine",
+    "ru": "загрязненность, т.е., возможно, сажа",
+    "sk": "dinginess, t. j. možno sadze",
+    "sl": "dinginess, tj. morda saje",
+    "sv": "smutsighet, dvs. kanske sot",
+    "tr": "pislik, yani belki de is",
+    "uk": "брудність, тобто, можливо, кіптява",
+    "zh": "灰尘"
+  },
+  "verses": [
+    "lamentations 4:8:1"
+  ]
+}

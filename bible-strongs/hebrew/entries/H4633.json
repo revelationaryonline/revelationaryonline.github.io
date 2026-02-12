@@ -1,0 +1,42 @@
+{
+  "number": "H4633",
+  "language": "hebrew",
+  "transliteration": "maʻărâk",
+  "pronunciation": "mah-ar-awk'",
+  "definition": "an arrangement, i.e. (figuratively) mental disposition",
+  "kjvTranslation": "preparation.",
+  "hebrew": "מַעֲרָךְ",
+  "verses": [
+    "proverbs 16:1:1"
+  ],
+  "translations": {
+    "bg": "подреденост, т.е. (в преносен смисъл) умствена нагласа",
+    "cs": "uspořádání, tj. (přeneseně) duševní dispozice",
+    "da": "et arrangement, dvs. (i overført betydning) en mental disposition",
+    "de": "eine Anordnung, d.h. (im übertragenen Sinne) eine geistige Disposition",
+    "el": "μια ρύθμιση, δηλαδή (μεταφορικά) μια ψυχική διάθεση",
+    "es": "una disposición, es decir (en sentido figurado) una disposición mental",
+    "et": "kokkulepe, st (piltlikult öeldes) vaimne dispositsioon",
+    "fi": "järjestely, eli (kuvaannollisesti) henkinen dispositio",
+    "fr": "un arrangement, c'est-à-dire (au sens figuré) une disposition mentale",
+    "hu": "egy elrendezés, azaz (átvitt értelemben) mentális diszpozíció",
+    "id": "pengaturan, yaitu (secara kiasan) disposisi mental",
+    "it": "una disposizione, cioè (in senso figurato) una disposizione mentale",
+    "ja": "はからい",
+    "ko": "배열, 즉 (비유적으로) 정신적 성향",
+    "lt": "susitarimas, t. y. (perkeltine prasme) psichinis nusiteikimas",
+    "lv": "izkārtojums, t.i., (pārnestā nozīmē) garīgais noskaņojums",
+    "nb": "en ordning, dvs. (i overført betydning) en mental disposisjon",
+    "nl": "een ordening, d.w.z. (figuurlijk) mentale dispositie",
+    "pl": "układ, tj. (w przenośni) dyspozycja umysłowa",
+    "pt": "uma disposição, isto é, (figurativamente) uma disposição mental",
+    "ro": "un aranjament, adică (la figurat) o dispoziție mentală",
+    "ru": "расположение, т.е. (образно) душевное расположение",
+    "sk": "usporiadanie, t. j. (obrazne) duševné rozpoloženie",
+    "sl": "ureditev, tj. (v prenesenem pomenu) miselna naravnanost",
+    "sv": "ett arrangemang, d.v.s. (bildligt talat) mental disposition",
+    "tr": "bir düzenleme, yani (mecazi olarak) zihinsel eğilim",
+    "uk": "аранжування, тобто (образно) ментальна диспозиція",
+    "zh": "一种安排，即（比喻）心理倾向"
+  }
+}

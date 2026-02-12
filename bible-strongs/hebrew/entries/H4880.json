@@ -1,0 +1,43 @@
+{
+  "number": "H4880",
+  "language": "hebrew",
+  "transliteration": "mâshôwṭ",
+  "pronunciation": "maw-shote'",
+  "definition": "an oar",
+  "kjvTranslation": "oar.",
+  "hebrew": "מָשׁוֹט",
+  "translations": {
+    "bg": "весло",
+    "cs": "veslo",
+    "da": "en åre",
+    "de": "ein Ruder",
+    "el": "ένα κουπί",
+    "es": "un remo",
+    "et": "sõuda",
+    "fi": "airo",
+    "fr": "un aviron",
+    "hu": "egy evező",
+    "id": "sebuah dayung",
+    "it": "un remo",
+    "ja": "オール",
+    "ko": "노",
+    "lt": "irklas",
+    "lv": "airis",
+    "nb": "en åre",
+    "nl": "een roeispaan",
+    "pl": "wiosło",
+    "pt": "um remo",
+    "ro": "o vâslă",
+    "ru": "весло",
+    "sk": "veslo",
+    "sl": "veslo",
+    "sv": "en åra",
+    "tr": "bir kürek",
+    "uk": "весло",
+    "zh": "桨"
+  },
+  "verses": [
+    "ezekiel 27:6:3",
+    "ezekiel 27:29:4"
+  ]
+}

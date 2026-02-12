@@ -1,0 +1,42 @@
+{
+  "number": "H5245",
+  "language": "hebrew",
+  "transliteration": "nᵉmar",
+  "pronunciation": "nem-ar'",
+  "definition": "{a leopard (from its stripes)}",
+  "kjvTranslation": "leopard.",
+  "hebrew": "נְמַר",
+  "translations": {
+    "bg": "{леопард (от шарките му)}",
+    "cs": "{leopard (podle pruhů)}",
+    "da": "{en leopard (fra dens striber)}",
+    "de": "(ein Leopard (wegen seiner Streifen)}",
+    "el": "{μια λεοπάρδαλη (από τις ρίγες της)}",
+    "es": "{un leopardo (por sus rayas)}",
+    "et": "{leopardi (tema triibudelt)}",
+    "fi": "{leopardi (raidoista)..",
+    "fr": "{un léopard (d'après ses rayures)}",
+    "hu": "{a leopárd (a csíkjairól)}",
+    "id": "(macan tutul (dari garis-garisnya))",
+    "it": "{un leopardo (dalle sue strisce)",
+    "ja": "豹（その縞模様から）}。",
+    "ko": "{표범(줄무늬에서)}",
+    "lt": "{leopardas (iš jo dryžių)}",
+    "lv": "{leopards (pēc tā svītrām)}",
+    "nb": "{en leopard (fra stripene)}",
+    "nl": "{een luipaard (van zijn strepen)}",
+    "pl": "{Lampart (od jego pasków)}",
+    "pt": "{um leopardo (pelas suas riscas)",
+    "ro": "{un leopard (de la dungile sale)}",
+    "ru": "{леопард (по его полосам)}",
+    "sk": "{leopard (podľa jeho pruhov)}",
+    "sl": "{leopard (po črtah)}",
+    "sv": "{en leopard (från dess ränder)}",
+    "tr": "{bir leopar (çizgilerinden)}",
+    "uk": "{леопард (від його смуг)",
+    "zh": "{豹子（从它的条纹）}"
+  },
+  "verses": [
+    "daniel 7:6:6"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H891",
+  "language": "hebrew",
+  "transliteration": "bᵉʼushîym",
+  "pronunciation": "be-oo-sheem'",
+  "definition": "poison-berries",
+  "kjvTranslation": "wild grapes.",
+  "translations": {
+    "bg": "отровни боровинки",
+    "cs": "jedovaté bobule",
+    "da": "giftbær",
+    "de": "giftbeeren",
+    "el": "δηλητηριώδη μούρα",
+    "es": "moras venenosas",
+    "et": "mürgised marjad",
+    "fi": "myrkkymarjat",
+    "fr": "baies vénéneuses",
+    "hu": "méregbogyó",
+    "id": "buah beri beracun",
+    "it": "bacche velenose",
+    "ja": "毒イチゴ",
+    "ko": "포이즌 베리",
+    "lt": "nuodingosios uogos",
+    "lv": "indes ogas",
+    "nb": "giftige bær",
+    "nl": "gifbessen",
+    "pl": "trujące jagody",
+    "pt": "bagas venenosas",
+    "ro": "afine otrăvitoare",
+    "ru": "ядовитые ягоды",
+    "sk": "jedovaté bobule",
+    "sl": "strupene jagode",
+    "sv": "giftiga bär",
+    "tr": "zehirli meyveler",
+    "uk": "отруйні ягоди",
+    "zh": "罂粟"
+  },
+  "hebrew": "בְּאֻשִׁים",
+  "verses": [
+    "isaiah 5:2:15",
+    "isaiah 5:4:12"
+  ]
+}

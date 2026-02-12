@@ -1,0 +1,42 @@
+{
+  "number": "H5396",
+  "language": "hebrew",
+  "transliteration": "nishmâʼ",
+  "pronunciation": "nish-maw'",
+  "definition": "vital breath",
+  "kjvTranslation": "breath.",
+  "hebrew": "נִשְׁמָא",
+  "translations": {
+    "bg": "жизнено дишане",
+    "cs": "vitální dech",
+    "da": "vitalt åndedræt",
+    "de": "lebensatem",
+    "el": "ζωτική αναπνοή",
+    "es": "aliento vital",
+    "et": "eluline hingamine",
+    "fi": "elintärkeä hengitys",
+    "fr": "souffle vital",
+    "hu": "éltető lélegzet",
+    "id": "napas vital",
+    "it": "respiro vitale",
+    "ja": "いき",
+    "ko": "생명력 있는 호흡",
+    "lt": "gyvybinis kvėpavimas",
+    "lv": "dzīvības elpa",
+    "nb": "livsviktig pust",
+    "nl": "vitale adem",
+    "pl": "witalny oddech",
+    "pt": "sopro vital",
+    "ro": "respirație vitală",
+    "ru": "жизненное дыхание",
+    "sk": "vitálny dych",
+    "sl": "vitalni dih",
+    "sv": "vital andning",
+    "tr": "yaşamsal nefes",
+    "uk": "життєвий подих",
+    "zh": "气"
+  },
+  "verses": [
+    "daniel 5:23:36"
+  ]
+}

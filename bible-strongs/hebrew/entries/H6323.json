@@ -1,0 +1,42 @@
+{
+  "number": "H6323",
+  "language": "hebrew",
+  "transliteration": "pûwn",
+  "pronunciation": "poon",
+  "definition": "be perplexed",
+  "kjvTranslation": "be distracted.",
+  "hebrew": "פּוּן",
+  "translations": {
+    "bg": "да бъдеш в недоумение",
+    "cs": "být zmatený",
+    "da": "være forvirret",
+    "de": "verblüfft sein",
+    "el": "μπερδεύομαι",
+    "es": "quedar perplejo",
+    "et": "olla hämmingus",
+    "fi": "olla ymmällään",
+    "fr": "être perplexe",
+    "hu": "zavarba jönni",
+    "id": "menjadi bingung",
+    "it": "essere perplesso",
+    "ja": "とまどう",
+    "ko": "당황하다",
+    "lt": "būti suglumęs",
+    "lv": "būt neizpratnē",
+    "nb": "være forvirret",
+    "nl": "verbijsterd zijn",
+    "pl": "być zakłopotanym",
+    "pt": "ficar perplexo",
+    "ro": "să fie perplex",
+    "ru": "быть в недоумении",
+    "sk": "byť zmätený",
+    "sl": "biti v zadregi",
+    "sv": "vara förbryllad",
+    "tr": "şaşkın olmak",
+    "uk": "бути спантеличеним",
+    "zh": "困惑不解"
+  },
+  "verses": [
+    "psalms 88:16:6"
+  ]
+}

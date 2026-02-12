@@ -1,0 +1,43 @@
+{
+  "number": "H1985",
+  "language": "hebrew",
+  "transliteration": "Hillêl",
+  "pronunciation": "hil-layl'",
+  "definition": "Hillel, an Israelite",
+  "kjvTranslation": "Hillel.",
+  "translations": {
+    "bg": "Хилел, израилтянин",
+    "cs": "Hillel, Izraelita",
+    "da": "Hillel, en israelit",
+    "de": "Hillel, ein Israelit",
+    "el": "Χίλλελ, Ισραηλίτης",
+    "es": "Hillel, un israelita",
+    "et": "Hillel, iisraellane",
+    "fi": "Hillel, israelilainen",
+    "fr": "Hillel, Israélite",
+    "hu": "Hillel, egy izraelita",
+    "id": "Hillel, seorang Israel",
+    "it": "Hillel, un israelita",
+    "ja": "イスラエル人ヒレル",
+    "ko": "이스라엘인 힐렐",
+    "lt": "Hilelis, izraelitas",
+    "lv": "Hillels, izraēlietis",
+    "nb": "Hillel, en israelitt",
+    "nl": "Hillel, een Israëliet",
+    "pl": "Hillel, Izraelita",
+    "pt": "Hillel, um israelita",
+    "ro": "Hillel, un israelit",
+    "ru": "Гиллель, израильтянин",
+    "sk": "Hillel, Izraelita",
+    "sl": "Hillel, Izraelec",
+    "sv": "Hillel, en israelit",
+    "tr": "Hillel, bir İsrailli",
+    "uk": "Гілель, ізраїльтянин",
+    "zh": "希勒尔，以色列人"
+  },
+  "hebrew": "הִלֵּל",
+  "verses": [
+    "judges 12:13:6",
+    "judges 12:15:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3053",
+  "language": "hebrew",
+  "transliteration": "yᵉhâb",
+  "pronunciation": "ye-hawb'",
+  "definition": "properly, what is given (by Providence), i.e. a lot",
+  "kjvTranslation": "burden.",
+  "translations": {
+    "bg": "правилно, това, което е дадено (от Провидението), т.е. много",
+    "cs": "správně, co je dáno (Prozřetelností), tj. hodně",
+    "da": "korrekt, hvad der er givet (af Forsynet), dvs. en masse",
+    "de": "richtig, was (von der Vorsehung) gegeben wird, d.h. eine Menge",
+    "el": "σωστά, αυτό που δίνεται (από την Πρόνοια), δηλαδή πολλά",
+    "es": "propiamente, lo que es dado (por la Providencia), es decir, mucho",
+    "et": "korralikult, mis on antud (Providence poolt), st palju",
+    "fi": "oikein, mitä on annettu (kaitselmuksen), eli paljon",
+    "fr": "proprement, ce qui est donné (par la Providence), c'est-à-dire beaucoup",
+    "hu": "rendesen, ami (a Gondviselés által) adott, azaz egy csomó",
+    "id": "benar, apa yang diberikan (oleh Providence), yaitu banyak",
+    "it": "propriamente, ciò che è dato (dalla Provvidenza), cioè molto",
+    "ja": "つまり、（摂理によって）与えられたもの、すなわち多くの",
+    "ko": "적절하게, (섭리에 의해) 주어진 것, 즉 많이",
+    "lt": "tinkamai, tai, kas duota (Apvaizdos), t. y. daug",
+    "lv": "pareizi, kas ir dots (Providence), t.i., daudz",
+    "nb": "riktig, det som er gitt (av Forsynet), dvs. mye",
+    "nl": "goed, wat gegeven is (door de Voorzienigheid), d.w.z. veel",
+    "pl": "właściwie to, co jest dane (przez Opatrzność), tj. dużo",
+    "pt": "propriamente dito, o que é dado (pela Providência), ou seja, muito",
+    "ro": "în mod corespunzător, ceea ce este dat (de Providență), adică o mulțime",
+    "ru": "правильно, то, что дано (Провидением), т.е. много",
+    "sk": "správne, čo je dané (Prozreteľnosťou), t. j. veľa",
+    "sl": "pravilno, kar je dano (s strani Providence), tj. veliko",
+    "sv": "korrekt, vad som ges (av försynen), dvs. mycket",
+    "tr": "doğru bir şekilde, (takdiri ilahi tarafından) verilen şey, yani çok",
+    "uk": "власне, те, що дано (Провидінням), тобто багато",
+    "zh": "正确地说，是（天意）赐予的，即大量的"
+  },
+  "hebrew": "יְהָב",
+  "verses": [
+    "psalms 55:23:3"
+  ]
+}

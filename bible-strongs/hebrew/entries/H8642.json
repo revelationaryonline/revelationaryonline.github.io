@@ -1,0 +1,42 @@
+{
+  "number": "H8642",
+  "language": "hebrew",
+  "transliteration": "tᵉrûwmîyâh",
+  "pronunciation": "ter-oo-mee-yaw'",
+  "definition": "a sacrificial offering",
+  "kjvTranslation": "oblation.",
+  "hebrew": "תְּרוּמִיָּה",
+  "translations": {
+    "bg": "жертвено приношение",
+    "cs": "obětní dar",
+    "da": "en offergave",
+    "de": "eine Opfergabe",
+    "el": "μια θυσιαστική προσφορά",
+    "es": "una ofrenda de sacrificio",
+    "et": "ohverdusohver",
+    "fi": "uhrilahja",
+    "fr": "une offrande sacrificielle",
+    "hu": "áldozati adomány",
+    "id": "persembahan kurban",
+    "it": "un'offerta sacrificale",
+    "ja": "犠牲の捧げ物",
+    "ko": "희생 제물",
+    "lt": "aukojimo auka",
+    "lv": "upurēšanas upuris",
+    "nb": "en offergave",
+    "nl": "een offerande",
+    "pl": "ofiara",
+    "pt": "uma oferta de sacrifício",
+    "ro": "o ofrandă de sacrificiu",
+    "ru": "жертвоприношение",
+    "sk": "obetný dar",
+    "sl": "žrtveno daritev",
+    "sv": "en offergåva",
+    "tr": "bir kurban sunusu",
+    "uk": "жертовне приношення",
+    "zh": "供奉"
+  },
+  "verses": [
+    "ezekiel 48:12:2"
+  ]
+}

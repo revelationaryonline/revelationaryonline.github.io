@@ -1,0 +1,42 @@
+{
+  "number": "H1915",
+  "language": "hebrew",
+  "transliteration": "hâdak",
+  "pronunciation": "haw-dak'",
+  "definition": "to crush with the foot",
+  "kjvTranslation": "tread down.",
+  "translations": {
+    "bg": "да се мачка с крак",
+    "cs": "drtit nohou",
+    "da": "at knuse med foden",
+    "de": "mit dem Fuß zertreten",
+    "el": "να συνθλίψει με το πόδι",
+    "es": "aplastar con el pie",
+    "et": "jalaga purustada",
+    "fi": "murskata jalalla",
+    "fr": "écraser avec le pied",
+    "hu": "a lábbal szétzúzni",
+    "id": "untuk menghancurkan dengan kaki",
+    "it": "schiacciare con il piede",
+    "ja": "足でつぶす",
+    "ko": "발로 부수다",
+    "lt": "sutraiškyti koja",
+    "lv": "saspiest ar kāju",
+    "nb": "å knuse med foten",
+    "nl": "met de voet pletten",
+    "pl": "zmiażdżyć stopą",
+    "pt": "esmagar com o pé",
+    "ro": "a strivi cu piciorul",
+    "ru": "раздавить ногой",
+    "sk": "drviť nohou",
+    "sl": "drobiti z nogo",
+    "sv": "att krossa med foten",
+    "tr": "ayakla ezmek",
+    "uk": "розчавити ногою",
+    "zh": "用脚踩"
+  },
+  "hebrew": "הָדַךְ",
+  "verses": [
+    "job 40:12:4"
+  ]
+}

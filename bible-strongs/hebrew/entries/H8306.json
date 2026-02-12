@@ -1,0 +1,42 @@
+{
+  "number": "H8306",
+  "language": "hebrew",
+  "transliteration": "shârîyr",
+  "pronunciation": "shaw-reer'",
+  "definition": "a cord, i.e. (by analogy) sinew",
+  "kjvTranslation": "navel.",
+  "hebrew": "שָׁרִיר",
+  "translations": {
+    "bg": "въже, т.е. (по аналогия) сухожилие",
+    "cs": "provaz, tj. (analogicky) šlacha",
+    "da": "en snor, dvs. (analogt) en sene",
+    "de": "eine Schnur, d.h. (analog) eine Sehne",
+    "el": "ένα σχοινί, δηλαδή (κατ' αναλογία) αγκάθι",
+    "es": "una cuerda, es decir (por analogía) un tendón",
+    "et": "nöör, st (analoogia alusel) nöör",
+    "fi": "johto, eli (analogisesti) jänne",
+    "fr": "une corde, c'est-à-dire (par analogie) un tendon",
+    "hu": "zsinór, azaz (analógia szerint) inak",
+    "id": "tali, yaitu (dengan analogi) urat",
+    "it": "una corda, cioè (per analogia) un tendine",
+    "ja": "すじ",
+    "ko": "코드, 즉 (비유하자면) 힘줄",
+    "lt": "virvė, t. y. (pagal analogiją) sausgyslė",
+    "lv": "aukla, t.i. (pēc analoģijas) cīpsla",
+    "nb": "en snor, dvs. (analogt) en sene",
+    "nl": "een koord, d.w.z. (naar analogie) pees",
+    "pl": "sznur, tj. (przez analogię) ścięgno",
+    "pt": "um cordão, ou seja, (por analogia) um tendão",
+    "ro": "un cordon, adică (prin analogie) un nerv",
+    "ru": "шнур, т.е. (по аналогии) сухожилие",
+    "sk": "povraz, t. j. (analogicky) šľacha",
+    "sl": "vrv, tj. (po analogiji) sukanec",
+    "sv": "en sträng, dvs. (i analogi) sena",
+    "tr": "bir kordon, yani (benzetme yoluyla) sinüs",
+    "uk": "шнур, тобто (за аналогією) сухожилля",
+    "zh": "绁"
+  },
+  "verses": [
+    "job 40:16:5"
+  ]
+}

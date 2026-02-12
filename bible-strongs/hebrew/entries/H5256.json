@@ -1,0 +1,42 @@
+{
+  "number": "H5256",
+  "language": "hebrew",
+  "transliteration": "nᵉçach",
+  "pronunciation": "nes-akh'",
+  "definition": "{to tear away}",
+  "kjvTranslation": "pull down.",
+  "hebrew": "נְסַח",
+  "translations": {
+    "bg": "{да се откъсне}",
+    "cs": "{odtrhnout}",
+    "da": "{at rive væk}",
+    "de": "(zum Wegreißen)",
+    "el": "(για να ξεκολλήσει)",
+    "es": "{para arrancar}",
+    "et": "{tõmmata ära}",
+    "fi": "(repiä pois)",
+    "fr": "{pour déchirer}",
+    "hu": "{tépni}",
+    "id": "[untuk merobek]",
+    "it": "{strappare via.}",
+    "ja": "{引き裂く｝",
+    "ko": "{찢어지다}",
+    "lt": "{atplėšti}",
+    "lv": "{noplēst}",
+    "nb": "{å rive bort}",
+    "nl": "{Wegscheuren.}",
+    "pl": "{do oderwania}",
+    "pt": "{para rasgar}",
+    "ro": "{to tear away}",
+    "ru": "{после отрыва}",
+    "sk": "{odtrhnúť}",
+    "sl": "{odtrgati}",
+    "sv": "{att riva bort}",
+    "tr": "{yırtmak için}",
+    "uk": "{Відірвися від мене.}",
+    "zh": "{fn华文楷体fs121cH0080FFi1}♪撕开♪"
+  },
+  "verses": [
+    "ezra 6:11:10"
+  ]
+}

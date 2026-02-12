@@ -1,0 +1,43 @@
+{
+  "number": "H7705",
+  "language": "hebrew",
+  "transliteration": "shiddâh",
+  "pronunciation": "shid-dah'",
+  "definition": "a wife (as mistress of the house)",
+  "kjvTranslation": "[idiom] all sorts, musical instrument.",
+  "hebrew": "שִׁדָּה",
+  "translations": {
+    "bg": "съпруга (като господарка на дома)",
+    "cs": "manželka (jako paní domu)",
+    "da": "en hustru (som husets frue)",
+    "de": "eine Ehefrau (als Herrin des Hauses)",
+    "el": "σύζυγος (ως κυρία του σπιτιού)",
+    "es": "una esposa (como señora de la casa)",
+    "et": "naine (kui maja perenaine)",
+    "fi": "vaimo (talon emäntänä)",
+    "fr": "une épouse (en tant que maîtresse de maison)",
+    "hu": "feleség (mint a ház úrnője)",
+    "id": "seorang istri (sebagai nyonya rumah)",
+    "it": "una moglie (come padrona di casa)",
+    "ja": "おくさん",
+    "ko": "아내(집안의 안주인)",
+    "lt": "žmona (kaip namų šeimininkė)",
+    "lv": "sieva (kā mājas saimniece)",
+    "nb": "en kone (som husets frue)",
+    "nl": "een vrouw (als vrouw des huizes)",
+    "pl": "żona (jako pani domu)",
+    "pt": "uma esposa (como dona da casa)",
+    "ro": "o soție (ca stăpână a casei)",
+    "ru": "жена (как хозяйка дома)",
+    "sk": "manželka (ako pani domu)",
+    "sl": "žena (kot gospodarica hiše)",
+    "sv": "en hustru (som husets härskarinna)",
+    "tr": "bir eş (evin hanımı olarak)",
+    "uk": "дружина (як господиня дому)",
+    "zh": "媳妇"
+  },
+  "verses": [
+    "ecclesiastes 2:8:15",
+    "ecclesiastes 2:8:16"
+  ]
+}

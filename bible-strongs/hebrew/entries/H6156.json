@@ -1,0 +1,43 @@
+{
+  "number": "H6156",
+  "language": "hebrew",
+  "transliteration": "ʻârêb",
+  "pronunciation": "aw-rabe'",
+  "definition": "pleasant",
+  "kjvTranslation": "sweet.",
+  "hebrew": "עָרֵב",
+  "translations": {
+    "bg": "приятен",
+    "cs": "příjemné",
+    "da": "behagelig",
+    "de": "angenehm",
+    "el": "ευχάριστο",
+    "es": "agradable",
+    "et": "meeldiv",
+    "fi": "miellyttävä",
+    "fr": "agréable",
+    "hu": "kellemes",
+    "id": "menyenangkan",
+    "it": "piacevole",
+    "ja": "心地よい",
+    "ko": "즐거운",
+    "lt": "malonus",
+    "lv": "patīkams",
+    "nb": "hyggelig",
+    "nl": "aangenaam",
+    "pl": "przyjemny",
+    "pt": "agradável",
+    "ro": "plăcut",
+    "ru": "приятный",
+    "sk": "príjemné",
+    "sl": "prijetno",
+    "sv": "trevlig",
+    "tr": "hoş",
+    "uk": "приємний",
+    "zh": "愉快"
+  },
+  "verses": [
+    "proverbs 20:17:0",
+    "solomon 2:14:13"
+  ]
+}

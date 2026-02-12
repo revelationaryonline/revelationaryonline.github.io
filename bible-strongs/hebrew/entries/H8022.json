@@ -1,0 +1,43 @@
+{
+  "number": "H8022",
+  "language": "hebrew",
+  "transliteration": "Shalmanʼeçer",
+  "pronunciation": "shal-man-eh'-ser",
+  "definition": "Shalmaneser, an Assyrian king",
+  "kjvTranslation": "Shalmaneser. Comp H8020 (שַׁלְמַן).",
+  "hebrew": "שַׁלְמַנְאֶסֶר",
+  "translations": {
+    "bg": "Шалманесър, асирийски цар",
+    "cs": "Šalmaneser, asyrský král",
+    "da": "Shalmaneser, en assyrisk konge",
+    "de": "Shalmaneser, ein assyrischer König",
+    "el": "Σαλμανέζερ, βασιλιάς της Ασσυρίας",
+    "es": "Salmanasar, rey asirio",
+    "et": "Assüüria kuningas Šalmaneser",
+    "fi": "Shalmaneser, assyrialainen kuningas",
+    "fr": "Shalmaneser, roi assyrien",
+    "hu": "Sálmánészer, asszír király",
+    "id": "Shalmaneser, seorang raja Asyur",
+    "it": "Shalmaneser, un re assiro",
+    "ja": "アッシリア王シャルマネセル",
+    "ko": "앗수르 왕 샬마네세르",
+    "lt": "Šalmaneseras, Asirijos karalius",
+    "lv": "Šalmanesers, asīriešu ķēniņš",
+    "nb": "Shalmaneser, en assyrisk konge",
+    "nl": "Shalmaneser, een Assyrische koning",
+    "pl": "Szalmaneser, król asyryjski",
+    "pt": "Salmaneser, um rei assírio",
+    "ro": "Shalmaneser, un rege asirian",
+    "ru": "Шалманесер, ассирийский царь",
+    "sk": "Šalmaneser, asýrsky kráľ",
+    "sl": "Šalmaneser, asirski kralj",
+    "sv": "Shalmaneser, en assyrisk kung",
+    "tr": "Şalmaneser, bir Asur kralı",
+    "uk": "Шалманесер, ассирійський цар",
+    "zh": "亚述国王沙尔马内塞"
+  },
+  "verses": [
+    "secondKings 17:3:2",
+    "secondKings 18:9:14"
+  ]
+}

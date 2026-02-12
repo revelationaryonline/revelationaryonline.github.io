@@ -1,0 +1,43 @@
+{
+  "number": "H2747",
+  "language": "hebrew",
+  "transliteration": "chereṭ",
+  "pronunciation": "kheh'-ret",
+  "definition": "a chisel or graver; also a style forwriting",
+  "kjvTranslation": "graving tool, pen.",
+  "translations": {
+    "bg": "длето или гравьор; също и стил за писане",
+    "cs": "dláto nebo hrobník; také styl psaní",
+    "da": "en mejsel eller graver; også en skrivestil",
+    "de": "ein Meißel oder Grabstichel; auch ein Schreibstil",
+    "el": "καλέμι ή γκραβούρα- επίσης ένα στυλ γραφής",
+    "es": "un cincel o buril; también un estilo para escribir",
+    "et": "tikker või graveerija; ka kirjutamise stiil",
+    "fi": "taltta tai taltta; myös kirjoitustyyli",
+    "fr": "un ciseau ou un graveur ; également un style d'écriture",
+    "hu": "véső vagy véső; az írás stílusa is",
+    "id": "pahat atau pemahat; juga gaya untuk menulis",
+    "it": "scalpello o bulino; anche uno stile per scrivere",
+    "ja": "ノミや彫刻刀。",
+    "ko": "끌 또는 조각칼; 또한 글씨체 스타일",
+    "lt": "kaltas arba kaplys; taip pat rašymo stilius",
+    "lv": "kalts vai gravieris; arī rakstīšanas stils",
+    "nb": "en meisel eller gravemaskin; også en stil for skriving",
+    "nl": "een beitel of graveur; ook een schrijfstijl",
+    "pl": "dłuto lub grawer; również styl pisania",
+    "pt": "um cinzel ou gravador; também um estilo de escrita",
+    "ro": "o daltă sau un gravor; de asemenea, un stil pentru scris",
+    "ru": "долото или гравер; также стиль для письма",
+    "sk": "dláto alebo hrobník; tiež štýl písania",
+    "sl": "dletom ali graverjem; tudi slog za pisanje",
+    "sv": "en mejsel eller graver; även en stil för skrivning",
+    "tr": "bir keski veya graver; ayrıca bir yazı stili",
+    "uk": "долото або гравера; також стиль написання",
+    "zh": "凿子或凿子；也是一种书写方式"
+  },
+  "hebrew": "חֶרֶט",
+  "verses": [
+    "exodus 32:4:4",
+    "isaiah 8:1:9"
+  ]
+}

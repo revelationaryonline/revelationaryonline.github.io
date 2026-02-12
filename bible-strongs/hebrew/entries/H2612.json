@@ -1,0 +1,42 @@
+{
+  "number": "H2612",
+  "language": "hebrew",
+  "transliteration": "chôneph",
+  "pronunciation": "kho'-nef",
+  "definition": "moral filth, i.e. wickedness",
+  "kjvTranslation": "hypocrisy.",
+  "translations": {
+    "bg": "морална мръсотия, т.е. нечестие",
+    "cs": "morální špína, tj. špatnost",
+    "da": "moralsk snavs, dvs. ondskab",
+    "de": "moralischer Unrat, d.h. Schlechtigkeit",
+    "el": "ηθική βρωμιά, δηλ. κακία",
+    "es": "suciedad moral, es decir, maldad",
+    "et": "moraalne rüve, s.t. kurjus",
+    "fi": "moraalinen saastaisuus eli pahuus",
+    "fr": "la saleté morale, c'est-à-dire la méchanceté",
+    "hu": "erkölcsi szenny, azaz gonoszság",
+    "id": "kekotoran moral, yaitu kejahatan",
+    "it": "la sporcizia morale, cioè la malvagità",
+    "ja": "穢れ",
+    "ko": "도덕적 오물, 즉 사악함",
+    "lt": "moralinis nešvarumas, t. y. nedorybė",
+    "lv": "morālā netīrība, t.i., ļaunums",
+    "nb": "moralsk skitt, dvs. ondskap",
+    "nl": "morele vuiligheid, d.w.z. slechtheid",
+    "pl": "brud moralny, tj. niegodziwość",
+    "pt": "sujidade moral, ou seja, maldade",
+    "ro": "murdăria morală, adică răutatea",
+    "ru": "моральная грязь, т.е. нечестие",
+    "sk": "morálna špina, t. j. bezbožnosť",
+    "sl": "moralna umazanija, tj. hudobija",
+    "sv": "moralisk smuts, d.v.s. ondska",
+    "tr": "ahlaki pislik, yani kötülük",
+    "uk": "моральний бруд, тобто нечестивість",
+    "zh": "道德污秽，即邪恶"
+  },
+  "hebrew": "חֹנֶף",
+  "verses": [
+    "isaiah 32:6:8"
+  ]
+}

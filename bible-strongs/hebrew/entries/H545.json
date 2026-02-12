@@ -1,0 +1,42 @@
+{
+  "number": "H545",
+  "language": "hebrew",
+  "transliteration": "ʼomnâh",
+  "pronunciation": "om-naw'",
+  "definition": "tutelage",
+  "kjvTranslation": "brought up.",
+  "translations": {
+    "bg": "попечителство",
+    "cs": "výuka",
+    "da": "vejledning",
+    "de": "vormundschaft",
+    "el": "κηδεμονία",
+    "es": "tutela",
+    "et": "eestkoste",
+    "fi": "holhous",
+    "fr": "tutelle",
+    "hu": "gyámság",
+    "id": "bimbingan",
+    "it": "tutela",
+    "ja": "しもん",
+    "ko": "튜터링",
+    "lt": "globa",
+    "lv": "aizbildnība",
+    "nb": "veiledning",
+    "nl": "voogdij",
+    "pl": "opieka",
+    "pt": "tutela",
+    "ro": "tutelă",
+    "ru": "опека",
+    "sk": "tútorstvo",
+    "sl": "tutorstvo",
+    "sv": "förmyndarskap",
+    "tr": "vesayet",
+    "uk": "опіка",
+    "zh": "教导"
+  },
+  "hebrew": "אׇמְנָה",
+  "verses": [
+    "esther 2:20:17"
+  ]
+}

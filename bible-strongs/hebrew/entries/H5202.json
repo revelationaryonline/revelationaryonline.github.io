@@ -1,0 +1,42 @@
+{
+  "number": "H5202",
+  "language": "hebrew",
+  "transliteration": "nᵉṭar",
+  "pronunciation": "net-ar'",
+  "definition": "to retain",
+  "kjvTranslation": "keep.",
+  "hebrew": "נְטַר",
+  "translations": {
+    "bg": "да запази",
+    "cs": "zachovat",
+    "da": "for at beholde",
+    "de": "zu behalten",
+    "el": "να διατηρήσει",
+    "es": "conservar",
+    "et": "säilitada",
+    "fi": "säilyttää",
+    "fr": "conserver",
+    "hu": "megtartani",
+    "id": "untuk mempertahankan",
+    "it": "mantenere",
+    "ja": "保持する",
+    "ko": "유지하려면",
+    "lt": "išlaikyti",
+    "lv": "saglabāt",
+    "nb": "for å beholde",
+    "nl": "behouden",
+    "pl": "zachować",
+    "pt": "para manter",
+    "ro": "pentru a păstra",
+    "ru": "сохранять",
+    "sk": "zachovať",
+    "sl": "obdržati",
+    "sv": "för att behålla",
+    "tr": "korumak için",
+    "uk": "щоб утримати",
+    "zh": "留住"
+  },
+  "verses": [
+    "daniel 7:28:15"
+  ]
+}

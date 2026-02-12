@@ -1,0 +1,42 @@
+{
+  "number": "H3102",
+  "language": "hebrew",
+  "transliteration": "Yôwb",
+  "pronunciation": "yobe",
+  "definition": "Job, an Israelite",
+  "kjvTranslation": "Job.",
+  "translations": {
+    "bg": "Йов, израилтянин",
+    "cs": "Jób, Izraelita",
+    "da": "Job, en israelit",
+    "de": "Hiob, ein Israelit",
+    "el": "Ιώβ, Ισραηλίτης",
+    "es": "Job, israelita",
+    "et": "Iiob, iisraellane",
+    "fi": "Job, israelilainen",
+    "fr": "Job, un Israélite",
+    "hu": "Jób, izraelita",
+    "id": "Ayub, seorang Israel",
+    "it": "Giobbe, un israelita",
+    "ja": "イスラエル人ヨブ",
+    "ko": "욥, 이스라엘 사람",
+    "lt": "Jobas, izraelitas",
+    "lv": "Ījabs, izraēlietis",
+    "nb": "Job, en israelitt",
+    "nl": "Job, een Israëliet",
+    "pl": "Hiob, Izraelita",
+    "pt": "Job, um israelita",
+    "ro": "Iov, un israelit",
+    "ru": "Иов, израильтянин",
+    "sk": "Jób, Izraelita",
+    "sl": "Job, Izraelec",
+    "sv": "Job, en israelit",
+    "tr": "Eyüp, bir İsrailli",
+    "uk": "Йов, ізраїльтянин",
+    "zh": "以色列人约伯"
+  },
+  "hebrew": "יוֹב",
+  "verses": [
+    "genesis 46:13:4"
+  ]
+}

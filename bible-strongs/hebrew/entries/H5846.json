@@ -1,0 +1,42 @@
+{
+  "number": "H5846",
+  "language": "hebrew",
+  "transliteration": "ʻăṭîyshâh",
+  "pronunciation": "at-ee-shaw'",
+  "definition": "sneezing",
+  "kjvTranslation": "sneezing.",
+  "hebrew": "עֲטִישָׁה",
+  "translations": {
+    "bg": "кихане",
+    "cs": "kýchání",
+    "da": "nyser",
+    "de": "niesen",
+    "el": "φτέρνισμα",
+    "es": "estornudos",
+    "et": "aevastamine",
+    "fi": "aivastelu",
+    "fr": "éternuement",
+    "hu": "tüsszentés",
+    "id": "bersin",
+    "it": "starnuti",
+    "ja": "くしゃみ",
+    "ko": "재채기",
+    "lt": "čiaudulys",
+    "lv": "šķaudīšana",
+    "nb": "nysing",
+    "nl": "niezen",
+    "pl": "kichanie",
+    "pt": "espirros",
+    "ro": "strănut",
+    "ru": "чихание",
+    "sk": "kýchanie",
+    "sl": "kihanje",
+    "sv": "nysningar",
+    "tr": "hapşırma",
+    "uk": "чхання",
+    "zh": "打喷嚏"
+  },
+  "verses": [
+    "job 41:10:0"
+  ]
+}

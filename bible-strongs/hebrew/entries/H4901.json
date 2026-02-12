@@ -1,0 +1,43 @@
+{
+  "number": "H4901",
+  "language": "hebrew",
+  "transliteration": "meshek",
+  "pronunciation": "meh'shek",
+  "definition": "a sowing; also a possession",
+  "kjvTranslation": "precious, price.",
+  "hebrew": "מֶשֶׁךְ",
+  "translations": {
+    "bg": "сеитба; също и притежание",
+    "cs": "výsev; také majetek",
+    "da": "en såning; også en besiddelse",
+    "de": "eine Aussaat; auch ein Besitz",
+    "el": "μια σπορά- επίσης μια κατοχή",
+    "es": "una siembra; también una posesión",
+    "et": "külvamine; ka valdus",
+    "fi": "kylvö; myös hallussapito",
+    "fr": "un ensemencement ; également une possession",
+    "hu": "vetés; birtoklás is",
+    "id": "sebuah penaburan; juga kepemilikan",
+    "it": "una semina; anche un possesso",
+    "ja": "種まき、また所有",
+    "ko": "파종; 또한 소유",
+    "lt": "sėja; taip pat nuosavybė",
+    "lv": "sējums; arī īpašums",
+    "nb": "en såing; også en besittelse",
+    "nl": "een zaaiing; ook een bezit",
+    "pl": "zasiew; również posiadanie",
+    "pt": "uma sementeira; também uma posse",
+    "ro": "o însămânțare; de asemenea, o posesie",
+    "ru": "посев; также владение",
+    "sk": "výsev; tiež vlastníctvo",
+    "sl": "setev; tudi posest",
+    "sv": "en sådd; även en besittning",
+    "tr": "bir ekim; ayrıca bir mülkiyet",
+    "uk": "посів; також володіння",
+    "zh": "播种；也是拥有"
+  },
+  "verses": [
+    "job 28:18:4",
+    "psalms 126:6:4"
+  ]
+}

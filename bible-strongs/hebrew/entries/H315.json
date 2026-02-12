@@ -1,0 +1,42 @@
+{
+  "number": "H315",
+  "language": "hebrew",
+  "transliteration": "ʼAchrach",
+  "pronunciation": "akh-rakh'",
+  "definition": "Achrach, an Israelite",
+  "kjvTranslation": "Aharah.",
+  "translations": {
+    "bg": "Ахрах, израилтянин",
+    "cs": "Achrach, Izraelita",
+    "da": "Achrach, en israelit",
+    "de": "Achrach, ein Israelit",
+    "el": "Achrach, Ισραηλίτης",
+    "es": "Achrach, israelita",
+    "et": "Achrach, iisraellane",
+    "fi": "Akhrak, israelilainen",
+    "fr": "Achrach, Israélite",
+    "hu": "Achrach, izraelita",
+    "id": "Achrach, seorang Israel",
+    "it": "Achrach, un israelita",
+    "ja": "イスラエル人アラク",
+    "ko": "이스라엘인 아크락",
+    "lt": "Achrachas, izraelitas",
+    "lv": "Ahrahs, izraēlietis",
+    "nb": "Achrach, en israelitt",
+    "nl": "Achrach, een Israëliet",
+    "pl": "Achrach, Izraelita",
+    "pt": "Achrach, israelita",
+    "ro": "Achrach, un israelit",
+    "ru": "Ахрах, израильтянин",
+    "sk": "Achrach, Izraelita",
+    "sl": "Achrach, Izraelec",
+    "sv": "Achrach, en israelit",
+    "tr": "Achrach, bir İsrailli",
+    "uk": "Ахрах, ізраїльтянин",
+    "zh": "亚迦拉，以色列人"
+  },
+  "hebrew": "אַחְרַח",
+  "verses": [
+    "firstChronicles 8:1:7"
+  ]
+}

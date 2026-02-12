@@ -1,0 +1,42 @@
+{
+  "number": "H5204",
+  "language": "hebrew",
+  "transliteration": "nîy",
+  "pronunciation": "nee",
+  "definition": "lamentation",
+  "kjvTranslation": "wailing.",
+  "hebrew": "נִי",
+  "translations": {
+    "bg": "оплакване",
+    "cs": "nářek",
+    "da": "klagesang",
+    "de": "klageschrift",
+    "el": "θρήνος",
+    "es": "lamento",
+    "et": "kaebus",
+    "fi": "valitusvirsi",
+    "fr": "lamentation",
+    "hu": "siralom",
+    "id": "ratapan",
+    "it": "lamentazione",
+    "ja": "嘆き",
+    "ko": "애도",
+    "lt": "lamentacija",
+    "lv": "lamentācija",
+    "nb": "klagesang",
+    "nl": "klaagzang",
+    "pl": "lament",
+    "pt": "lamentação",
+    "ro": "lamentare",
+    "ru": "плач",
+    "sk": "nárek",
+    "sl": "lamentacija",
+    "sv": "klagan",
+    "tr": "aĞIT",
+    "uk": "плач",
+    "zh": "哀叹"
+  },
+  "verses": [
+    "ezekiel 27:32:2"
+  ]
+}

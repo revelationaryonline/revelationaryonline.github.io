@@ -1,0 +1,42 @@
+{
+  "number": "H8477",
+  "language": "hebrew",
+  "transliteration": "Tachash",
+  "pronunciation": "takh'-ash",
+  "definition": "Tachash, a relative of Abraham",
+  "kjvTranslation": "Thahash.",
+  "hebrew": "תַּחַשׁ",
+  "translations": {
+    "bg": "Тахаш, роднина на Авраам",
+    "cs": "Tachaš, Abrahamův příbuzný",
+    "da": "Tachash, en slægtning til Abraham",
+    "de": "Tachasch, ein Verwandter von Abraham",
+    "el": "Tachash, συγγενής του Αβραάμ",
+    "es": "Tachash, pariente de Abraham",
+    "et": "Tachash, Aabrahami sugulane",
+    "fi": "Tachash, Aabrahamin sukulainen",
+    "fr": "Tachash, un parent d'Abraham",
+    "hu": "Tachash, Ábrahám rokona",
+    "id": "Tachash, seorang kerabat Abraham",
+    "it": "Tachash, un parente di Abramo",
+    "ja": "タチャシュ、アブラハムの親戚",
+    "ko": "아브라함의 친척, 타카시",
+    "lt": "Tachašas, Abraomo giminaitis",
+    "lv": "Tahašs, Ābrahāma radinieks",
+    "nb": "Tachash, en slektning av Abraham",
+    "nl": "Tachash, een familielid van Abraham",
+    "pl": "Tachasz, krewny Abrahama",
+    "pt": "Tachash, um parente de Abraão",
+    "ro": "Tașa, o rudă a lui Avraam",
+    "ru": "Тахаш, родственник Авраама",
+    "sk": "Tacháš, príbuzný Abraháma",
+    "sl": "Tahaš, Abrahamov sorodnik",
+    "sv": "Tachash, en släkting till Abraham",
+    "tr": "Tachash, İbrahim'in bir akrabası",
+    "uk": "Тахаш, родич Авраама",
+    "zh": "塔喀什，亚伯拉罕的亲戚"
+  },
+  "verses": [
+    "genesis 22:24:11"
+  ]
+}

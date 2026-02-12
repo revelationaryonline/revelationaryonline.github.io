@@ -1,0 +1,42 @@
+{
+  "number": "H89",
+  "language": "hebrew",
+  "transliteration": "ʼÂgêʼ",
+  "pronunciation": "aw-gay'",
+  "definition": "Age, an Israelite",
+  "kjvTranslation": "Agee.",
+  "translations": {
+    "bg": "Възраст, израилтянин",
+    "cs": "Věk, Izraelita",
+    "da": "Alder, en israelit",
+    "de": "Alter, ein Israelit",
+    "el": "Ηλικία, ένας Ισραηλίτης",
+    "es": "Edad, un israelita",
+    "et": "Vanus, iisraellane",
+    "fi": "Ikä, israelilainen",
+    "fr": "Âge, Israélite",
+    "hu": "Kor, izraelita",
+    "id": "Usia, seorang Israel",
+    "it": "Età, un israelita",
+    "ja": "イスラエル人エイジ",
+    "ko": "나이, 이스라엘인",
+    "lt": "Amžius, izraelitas",
+    "lv": "Age, izraēliešu",
+    "nb": "Alder, en israelitt",
+    "nl": "Leeftijd, een Israëliet",
+    "pl": "Wiek, Izraelita",
+    "pt": "Idade, um israelita",
+    "ro": "Vârsta, un israelit",
+    "ru": "Эйдж, израильтянин",
+    "sk": "Vek, Izraelita",
+    "sl": "Starost, Izraelec",
+    "sv": "Ålder, en israelit",
+    "tr": "Yaş, bir İsrailli",
+    "uk": "Вік, ізраїльтянин",
+    "zh": "年龄，以色列人"
+  },
+  "hebrew": "אָגֵא",
+  "verses": [
+    "secondSamuel 23:11:3"
+  ]
+}

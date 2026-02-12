@@ -1,0 +1,42 @@
+{
+  "number": "H2321",
+  "language": "hebrew",
+  "transliteration": "Chôdesh",
+  "pronunciation": "kho'-desh",
+  "definition": "Chodesh, an Israelitess",
+  "kjvTranslation": "Hodesh.",
+  "translations": {
+    "bg": "Ходеш, израилтянка",
+    "cs": "Chodeš, izraelitka",
+    "da": "Chodesh, en israelitinde",
+    "de": "Chodesh, eine Israelitin",
+    "el": "Chodesh, μια Ισραηλίτισσα",
+    "es": "Chodesh, una israelita",
+    "et": "Chodesh, iisraellanna",
+    "fi": "Chodesh, israelilaisnainen",
+    "fr": "Chodesh, une Israélite",
+    "hu": "Chodesh, egy izraelita nő",
+    "id": "Chodesh, seorang wanita Israel",
+    "it": "Chodesh, un'israelita",
+    "ja": "イスラエル人女性チョデシュ",
+    "ko": "이스라엘인 초데시",
+    "lt": "Chodeš, izraelietė",
+    "lv": "Hodeša, izraēliete",
+    "nb": "Chodesh, en israelittinne",
+    "nl": "Chodesh, een Israëlitische",
+    "pl": "Chodesh, Izraelitka",
+    "pt": "Chodesh, uma israelita",
+    "ro": "Chodesh, o israelită",
+    "ru": "Ходеш, израильтянка",
+    "sk": "Chodeš, izraelitka",
+    "sl": "Chodesh, Izraelka",
+    "sv": "Chodesh, en israelitinna",
+    "tr": "Chodesh, bir İsrailli kadın",
+    "uk": "Ходеш, ізраїльтянка",
+    "zh": "以色列女青年乔德什"
+  },
+  "hebrew": "חֹדֶשׁ",
+  "verses": [
+    "firstChronicles 8:9:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7108",
+  "language": "hebrew",
+  "transliteration": "qᵉtsaph",
+  "pronunciation": "kets-af'",
+  "definition": "to become enraged",
+  "kjvTranslation": "be furious.",
+  "hebrew": "קְצַף",
+  "translations": {
+    "bg": "да се разгневи",
+    "cs": "rozzuřit se",
+    "da": "at blive rasende",
+    "de": "wütend werden",
+    "el": "να εξοργιστώ",
+    "es": "enfurecerse",
+    "et": "vihastuda",
+    "fi": "raivostua",
+    "fr": "se mettre en colère",
+    "hu": "feldühödni",
+    "id": "menjadi marah",
+    "it": "infuriarsi",
+    "ja": "怒り狂う",
+    "ko": "분노하다",
+    "lt": "įsižeisti",
+    "lv": "sadusmoties",
+    "nb": "å bli rasende",
+    "nl": "woedend worden",
+    "pl": "stać się rozwścieczonym",
+    "pt": "ficar enfurecido",
+    "ro": "să devină furios",
+    "ru": "приходить в ярость",
+    "sk": "rozzúriť sa",
+    "sl": "razjeziti se",
+    "sv": "att bli upprörd",
+    "tr": "öfkelenmek",
+    "uk": "розлютитися",
+    "zh": "发怒"
+  },
+  "verses": [
+    "daniel 2:12:5"
+  ]
+}

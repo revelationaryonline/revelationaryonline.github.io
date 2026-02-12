@@ -1,0 +1,42 @@
+{
+  "number": "H7322",
+  "language": "hebrew",
+  "transliteration": "rûwph",
+  "pronunciation": "roof",
+  "definition": "properly, to triturate (in a mortar), i.e. (figuratively) to agitate (by concussion)",
+  "kjvTranslation": "tremble.",
+  "hebrew": "רוּף",
+  "translations": {
+    "bg": "правилно, да се тритира (в хоросан), т.е. (в преносен смисъл) да се разбърква (чрез сътресение)",
+    "cs": "správně triturovat (v hmoždíři), tj. (přeneseně) rozrušit (úderem)",
+    "da": "korrekt, at triturere (i en morter), dvs. (i overført betydning) at røre rundt (ved sammenstød)",
+    "de": "richtig: zerreiben (in einem Mörser), d.h. (bildlich) aufrühren (durch Erschütterung)",
+    "el": "κατάλληλα, να τριτώσει (σε γουδί), δηλαδή (μεταφορικά) να αναταράξει (με κρούση)",
+    "es": "propiamente, triturar (en un mortero), es decir (figuradamente) agitar (por conmoción)",
+    "et": "õigesti, tritrueerida (mürsuga), st (piltlikult) segada (põrgatamise teel)",
+    "fi": "oikein, trituroida (morttelissa), eli (kuvaannollisesti) sekoittaa (tärisyttämällä)",
+    "fr": "proprement, triturer (dans un mortier), c'est-à-dire (au sens figuré) agiter (par concussion)",
+    "hu": "helyesen, szétforgácsolni (mozsárban), azaz (átvitt értelemben) felkavarni (rázással)",
+    "id": "dengan benar, untuk menumbuk (dalam lesung), yaitu (secara kiasan) untuk mengagitasi (dengan gegar otak)",
+    "it": "propriamente, triturare (in un mortaio), cioè (in senso figurato) agitare (con una concussione)",
+    "ja": "擦る",
+    "ko": "적절하게, (절구에서) 분쇄하다, 즉 (비 유적으로) (뇌진탕으로) 동요하다",
+    "lt": "tinkamai, tritūruoti (skiedinyje), t. y. (perkeltine prasme) maišyti (smūgiuojant)",
+    "lv": "pareizi - triturēt (trīcināt), t.i., (pārnestā nozīmē) satricināt (ar triecienu)",
+    "nb": "egentlig, å triturere (i en morter), dvs. (i overført betydning) å røre om (ved hjernerystelse)",
+    "nl": "op de juiste manier tritureren (in een vijzel), d.w.z. (figuurlijk) roeren (door samenpersen)",
+    "pl": "prawidłowo, rozcierać (w moździerzu), tj. (w przenośni) mieszać (przez wstrząsanie)",
+    "pt": "propriamente dito, triturar (num almofariz), ou seja, (figurativamente) agitar (por concussão)",
+    "ro": "propriu-zis, a tritura (într-un mortar), adică (la figurat) a agita (prin concussiune)",
+    "ru": "правильно, третировать (в ступке), т.е. (фигурально) перемешивать (путем сотрясения)",
+    "sk": "správne, triturovať (v hmoždenke), t. j. (obrazne) rozrušiť (úderom)",
+    "sl": "pravilno, triturirati (v možnarju), tj. (v prenesenem pomenu) mešati (z udarci)",
+    "sv": "korrekt, att triturera (i en mortel), dvs. (bildligt) att röra om (genom sammanstötning)",
+    "tr": "uygun şekilde, (havanda) ezmek, yani (mecazi olarak) (sarsarak) çalkalamak",
+    "uk": "правильно - товкти (у ступі), тобто (образно) збовтувати (струсом)",
+    "zh": "正确地说，\"绊\"（在臼中），即（比喻）（通过震荡）搅拌"
+  },
+  "verses": [
+    "job 26:11:2"
+  ]
+}

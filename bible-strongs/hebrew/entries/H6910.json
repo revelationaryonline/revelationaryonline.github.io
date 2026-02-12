@@ -1,0 +1,42 @@
+{
+  "number": "H6910",
+  "language": "hebrew",
+  "transliteration": "qᵉbutsâh",
+  "pronunciation": "keb-oo-tsaw'",
+  "definition": "a hoard",
+  "kjvTranslation": "[idiom] gather.",
+  "hebrew": "קְבֻצָה",
+  "translations": {
+    "bg": "натрупване",
+    "cs": "hromada",
+    "da": "en skat",
+    "de": "ein Hort",
+    "el": "ένα θησαυρό",
+    "es": "un tesoro",
+    "et": "varandus",
+    "fi": "varasto",
+    "fr": "un magot",
+    "hu": "egy halom",
+    "id": "timbunan",
+    "it": "un mucchio",
+    "ja": "買いだめ",
+    "ko": "비축",
+    "lt": "sankaupos",
+    "lv": "krātuve",
+    "nb": "et lager",
+    "nl": "een schat",
+    "pl": "skarbiec",
+    "pt": "um tesouro",
+    "ro": "un tezaur",
+    "ru": "клад",
+    "sk": "zásoby",
+    "sl": "zaloga",
+    "sv": "ett förråd",
+    "tr": "bir istif",
+    "uk": "скарб",
+    "zh": "囤积"
+  },
+  "verses": [
+    "ezekiel 22:20:0"
+  ]
+}

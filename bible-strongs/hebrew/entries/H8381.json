@@ -1,0 +1,42 @@
+{
+  "number": "H8381",
+  "language": "hebrew",
+  "transliteration": "taʼălâh",
+  "pronunciation": "tah-al-aw'",
+  "definition": "an imprecation",
+  "kjvTranslation": "curse.",
+  "hebrew": "תַּאֲלָה",
+  "translations": {
+    "bg": "проклятие",
+    "cs": "provolání",
+    "da": "en forbandelse",
+    "de": "eine Verwünschung",
+    "el": "μια κατάκριση",
+    "es": "una imprecación",
+    "et": "ettekirjutus",
+    "fi": "kirosana",
+    "fr": "une imprécation",
+    "hu": "káromkodás",
+    "id": "sebuah impresi",
+    "it": "un'imprecazione",
+    "ja": "くげん",
+    "ko": "부정확성",
+    "lt": "priesakas",
+    "lv": "aizrādījums",
+    "nb": "en forbannelse",
+    "nl": "een vermaning",
+    "pl": "przekleństwo",
+    "pt": "uma imprecação",
+    "ro": "o imprecație",
+    "ru": "проклятие",
+    "sk": "prevolanie",
+    "sl": "kletvica",
+    "sv": "en förmaning",
+    "tr": "bir beddua",
+    "uk": "імпровізація",
+    "zh": "呒"
+  },
+  "verses": [
+    "lamentations 3:65:4"
+  ]
+}

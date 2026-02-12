@@ -1,0 +1,42 @@
+{
+  "number": "H1257",
+  "language": "hebrew",
+  "transliteration": "barbur",
+  "pronunciation": "bar-boor'",
+  "definition": "a fowl (as fattened on grain)",
+  "kjvTranslation": "fowl.",
+  "translations": {
+    "bg": "птица (угоявана със зърно)",
+    "cs": "drůbež (vykrmená obilím)",
+    "da": "en høne (som fedes op med korn)",
+    "de": "ein Geflügel (wie mit Getreide gemästet)",
+    "el": "ένα πουλί (όπως παχαίνει με σιτηρά)",
+    "es": "ave de corral (engordada con cereales)",
+    "et": "kana (nagu teraviljaga nuumatud)",
+    "fi": "(viljalla lihotettu) siipikarja",
+    "fr": "une volaille (engraissée au grain)",
+    "hu": "szárnyas (gabonával hizlalt)",
+    "id": "unggas (seperti yang digemukkan dengan biji-bijian)",
+    "it": "un pollo (ingrassato con i cereali)",
+    "ja": "餌鳥",
+    "ko": "닭(곡물을 먹고 살찐 상태)",
+    "lt": "paukštis (penimas grūdais)",
+    "lv": "putns (barots ar graudiem)",
+    "nb": "en høne (som fôres opp på korn)",
+    "nl": "een hoen (zoals vetgemest op graan)",
+    "pl": "ptactwo (tuczone na ziarnie)",
+    "pt": "uma galinha (engordada com cereais)",
+    "ro": "o pasăre (îngrășată cu cereale)",
+    "ru": "птица (откормленная на зерне)",
+    "sk": "hydina (vykrmovaná obilím)",
+    "sl": "kokoš (pitana z žitom)",
+    "sv": "en fågel (som gödts på spannmål)",
+    "tr": "bir kümes hayvanı (tahılla beslenmiş olarak)",
+    "uk": "птиця (відгодована на зерні)",
+    "zh": "膘鸡"
+  },
+  "hebrew": "בַּרְבֻּר",
+  "verses": [
+    "firstKings 5:3:12"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H5494",
+  "language": "hebrew",
+  "transliteration": "çûwr",
+  "pronunciation": "soor",
+  "definition": "turned off, i.e. deteriorated",
+  "kjvTranslation": "degenerate.",
+  "hebrew": "סוּר",
+  "translations": {
+    "bg": "изключени, т.е. влошени",
+    "cs": "vypnuté, tj. zhoršené",
+    "da": "slukket, dvs. forringet",
+    "de": "ausgeschaltet, d.h. verschlechtert",
+    "el": "απενεργοποιήθηκε, δηλ. επιδεινώθηκε",
+    "es": "apagado, es decir, deteriorado",
+    "et": "välja lülitatud, st halvenenud",
+    "fi": "sammutettu, eli huonontunut",
+    "fr": "éteint, c'est-à-dire détérioré",
+    "hu": "kikapcsolták, azaz romlott",
+    "id": "dimatikan, yaitu memburuk",
+    "it": "spenti, cioè deteriorati",
+    "ja": "オフになった、つまり劣化した",
+    "ko": "꺼짐, 즉 악화됨",
+    "lt": "išsijungė, t. y. pablogėjo",
+    "lv": "izslēgts, t. i., pasliktinājies",
+    "nb": "slått av, dvs. forringet",
+    "nl": "uitgeschakeld, d.w.z. verslechterd",
+    "pl": "wyłączony, tj. pogorszył się",
+    "pt": "desligado, ou seja, deteriorado",
+    "ro": "oprit, adică deteriorat",
+    "ru": "выключился, то есть испортился",
+    "sk": "vypnuté, t. j. zhoršené",
+    "sl": "izklopljena, tj. poslabšana",
+    "sv": "stängts av, d.v.s. försämrats",
+    "tr": "kapatıldı, yani bozuldu",
+    "uk": "вимкнувся, тобто погіршився",
+    "zh": "关闭，即恶化"
+  },
+  "verses": [
+    "jeremiah 2:21:9"
+  ]
+}

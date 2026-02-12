@@ -1,0 +1,42 @@
+{
+  "number": "H5336",
+  "language": "hebrew",
+  "transliteration": "nâtsîyr",
+  "pronunciation": "naw-tsere'",
+  "definition": "properly, conservative; but used passively, delivered",
+  "kjvTranslation": "preserved.",
+  "hebrew": "נָצִיר",
+  "translations": {
+    "bg": "правилно, консервативен; но използван пасивно, доставен",
+    "cs": "správně, konzervativní; ale používá se pasivně, dodané",
+    "da": "korrekt, konservativ; men brugt passivt, leveret",
+    "de": "richtig, konservativ; aber passiv verwendet, geliefert",
+    "el": "σωστά, συντηρητικό- αλλά χρησιμοποιείται παθητικά, παραδίδεται",
+    "es": "propiamente, conservador; pero usado pasivamente, entregado",
+    "et": "korralikult, konservatiivselt; kuid passiivselt kasutatuna, tarnitud",
+    "fi": "oikein, konservatiivinen; mutta passiivisesti käytettynä, toimitettu",
+    "fr": "proprement, conservateur ; mais utilisé passivement, délivré",
+    "hu": "megfelelően, konzervatív; de passzívan használva, szállított",
+    "id": "benar, konservatif; tetapi digunakan secara pasif, disampaikan",
+    "it": "propriamente, conservativo; ma usato passivamente, consegnato",
+    "ja": "正しくは保守的だが、受動的に使われる。",
+    "ko": "적절하고 보수적이지만 수동적으로 사용되며 전달됩니다",
+    "lt": "tinkamai, konservatyvus; bet vartojamas pasyviai, pristatytas",
+    "lv": "pareizi, konservatīvs; bet lietots pasīvi, piegādāts",
+    "nb": "riktig, konservativ; men brukt passivt, levert",
+    "nl": "goed, conservatief; maar passief gebruikt, geleverd",
+    "pl": "prawidłowo, konserwatywny; ale używany pasywnie, dostarczony",
+    "pt": "propriamente, conservador; mas usado passivamente, entregue",
+    "ro": "corect, conservator; dar folosit pasiv, livrat",
+    "ru": "правильно, консервативный; но употребляется в пассивном значении, доставляет",
+    "sk": "správne, konzervatívne; ale používa sa pasívne, dodané",
+    "sl": "pravilno, konservativno; vendar se uporablja pasivno, dostavljeno",
+    "sv": "korrekt, konservativ; men används passivt, levereras",
+    "tr": "düzgün, muhafazakar; ancak pasif olarak kullanılan, teslim",
+    "uk": "правильно, консервативно; але вживається пасивно, поставлено",
+    "zh": "正确地说，是保守的；但被动地使用，则是传递的"
+  },
+  "verses": [
+    "isaiah 49:6:9"
+  ]
+}

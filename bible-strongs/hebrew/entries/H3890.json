@@ -1,0 +1,42 @@
+{
+  "number": "H3890",
+  "language": "hebrew",
+  "transliteration": "lᵉvâth",
+  "pronunciation": "lev-awth'",
+  "definition": "properly, adhesion, i.e. (as preposition) with",
+  "kjvTranslation": "[idiom] thee.",
+  "hebrew": "לְוָת",
+  "translations": {
+    "bg": "правилно, прилепване, т.е. (като предлог) с",
+    "cs": "správně, přilnutí, tj. (jako předložka) s",
+    "da": "korrekt, vedhæftning, dvs. (som præposition) med",
+    "de": "richtig, Adhäsion, d.h. (als Präposition) mit",
+    "el": "σωστά, προσκόλληση, δηλαδή (ως πρόθεση) με",
+    "es": "propiamente, adhesión, es decir (como preposición) con",
+    "et": "korralikult, adhesioon, st (kui prepositsioon) koos",
+    "fi": "oikein, adheesio, eli (prepositiona) kanssa",
+    "fr": "proprement, l'adhésion, c'est-à-dire (en tant que préposition) avec",
+    "hu": "megfelelően, tapadás, azaz (mint prepozíció) a",
+    "id": "benar, adhesi, yaitu (sebagai preposisi) dengan",
+    "it": "propriamente, adesione, cioè (come preposizione) con",
+    "ja": "接着、すなわち（前置詞としての）接着を伴う",
+    "ko": "적절하게, 접착력, 즉 (전치사로서)와 함께",
+    "lt": "tinkamai, sukibimas, t. y. (kaip prieveiksmis) su",
+    "lv": "pareizi, adhēzija, t.i. (kā prievārds) ar",
+    "nb": "riktig, adhesjon, dvs. (som preposisjon) med",
+    "nl": "goed, hechting, d.w.z. (als voorzetsel) met",
+    "pl": "prawidłowo, przyczepność, tj. (jako przyimek) z",
+    "pt": "propriamente, adesão, ou seja, (como preposição) com",
+    "ro": "în mod corespunzător, adeziune, adică (ca prepoziție) cu",
+    "ru": "должным образом, сцепление, т.е. (как предлог) с",
+    "sk": "správne, priľnutie, t. j. (ako predložka) s",
+    "sl": "pravilno, prijemanje, tj. (kot prislov) z",
+    "sv": "korrekt, vidhäftning, d.v.s. (som preposition) med",
+    "tr": "uygun şekilde, yapışma, yani (edat olarak) ile",
+    "uk": "правильно, зчеплення, тобто (як прийменник) з",
+    "zh": "正确地，粘附，即（作为介词）与"
+  },
+  "verses": [
+    "ezra 4:12:8"
+  ]
+}

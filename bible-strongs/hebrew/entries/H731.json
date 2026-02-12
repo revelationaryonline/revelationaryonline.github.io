@@ -1,0 +1,42 @@
+{
+  "number": "H731",
+  "language": "hebrew",
+  "transliteration": "ʼarzâh",
+  "pronunciation": "ar-zaw'",
+  "definition": "cedar wainscoating",
+  "kjvTranslation": "cedar work.",
+  "translations": {
+    "bg": "кедрово покритие",
+    "cs": "cedrové nátěry",
+    "da": "cedertræsbelægning",
+    "de": "zedernholz-Wainscoating",
+    "el": "επίστρωση κέδρου",
+    "es": "revestimiento de cedro",
+    "et": "cedar wainscoating",
+    "fi": "cedar wainscoating",
+    "fr": "revêtement des eaux de cèdre",
+    "hu": "cédrusfa bevonat",
+    "id": "pelapis dinding dari kayu cedar",
+    "it": "rivestimento di cedro",
+    "ja": "シダーウェインスコーティング",
+    "ko": "삼나무 웨인스코팅",
+    "lt": "kedro danga",
+    "lv": "ciedra pārklājums",
+    "nb": "cedertre wainscoating",
+    "nl": "cedar betoncoating",
+    "pl": "boazeria cedrowa",
+    "pt": "revestimento de lã de cedro",
+    "ro": "cedru wainscoating",
+    "ru": "покрытие кедровой стеной",
+    "sk": "cédrový náter",
+    "sl": "premazovanje cedre",
+    "sv": "cederträ wainscoating",
+    "tr": "sedir kaplama",
+    "uk": "кедрова вагонка",
+    "zh": "红柏涂料"
+  },
+  "hebrew": "אַרְזָה",
+  "verses": [
+    "zephaniah 2:14:18"
+  ]
+}

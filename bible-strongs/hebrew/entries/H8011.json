@@ -1,0 +1,42 @@
+{
+  "number": "H8011",
+  "language": "hebrew",
+  "transliteration": "shillumâh",
+  "pronunciation": "shil-loo-maw'",
+  "definition": "retribution",
+  "kjvTranslation": "recompense.",
+  "hebrew": "שִׁלֻּמָה",
+  "translations": {
+    "bg": "възмездие",
+    "cs": "odplata",
+    "da": "gengældelse",
+    "de": "vergeltung",
+    "el": "αντίποινα",
+    "es": "retribución",
+    "et": "kättemaks",
+    "fi": "kosto",
+    "fr": "rétribution",
+    "hu": "megtorlás",
+    "id": "retribusi",
+    "it": "retribuzione",
+    "ja": "応報",
+    "ko": "보복",
+    "lt": "atpildas",
+    "lv": "atriebība",
+    "nb": "gjengjeldelse",
+    "nl": "vergelding",
+    "pl": "odpłata",
+    "pt": "retribuição",
+    "ro": "retribuție",
+    "ru": "возмездие",
+    "sk": "odplata",
+    "sl": "maščevanje",
+    "sv": "vedergällning",
+    "tr": "i̇NTİKAM",
+    "uk": "відплата",
+    "zh": "报复"
+  },
+  "verses": [
+    "psalms 91:8:3"
+  ]
+}

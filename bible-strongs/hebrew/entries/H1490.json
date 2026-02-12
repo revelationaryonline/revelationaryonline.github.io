@@ -1,0 +1,42 @@
+{
+  "number": "H1490",
+  "language": "hebrew",
+  "transliteration": "gizbâr",
+  "pronunciation": "ghiz-bawr'",
+  "definition": "{treasurer}",
+  "kjvTranslation": "treasurer.",
+  "translations": {
+    "bg": "{касиер}",
+    "cs": "{pokladník}",
+    "da": "{Kasserer}",
+    "de": "{Schatzmeister}",
+    "el": "{Ταμίας}",
+    "es": "{tesorero}",
+    "et": "{Kassapidaja}",
+    "fi": "(rahastonhoitaja)",
+    "fr": "{trésorier}",
+    "hu": "{kincstárnok}",
+    "id": "[bendahara]",
+    "it": "{Tesoriere}",
+    "ja": "{会計}。",
+    "ko": "{재무담당자}",
+    "lt": "{kasininkas}",
+    "lv": "{kasieris}",
+    "nb": "{kasserer}",
+    "nl": "{Penningmeester}",
+    "pl": "{skarbnik}",
+    "pt": "{treasurer}",
+    "ro": "{trezorier}",
+    "ru": "{казначей}",
+    "sk": "{pokladník}",
+    "sl": "{skrbnik}",
+    "sv": "{kassör}",
+    "tr": "{sayman}",
+    "uk": "{Скарбник.}",
+    "zh": "{财务主管｝"
+  },
+  "hebrew": "גִּזְבָּר",
+  "verses": [
+    "ezra 7:21:7"
+  ]
+}

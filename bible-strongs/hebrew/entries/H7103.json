@@ -1,0 +1,42 @@
+{
+  "number": "H7103",
+  "language": "hebrew",
+  "transliteration": "Qᵉtsîyʻâh",
+  "pronunciation": "kets-ee-aw'",
+  "definition": "Ketsiah, a daughter of Job",
+  "kjvTranslation": "Kezia.",
+  "hebrew": "קְצִיעָה",
+  "translations": {
+    "bg": "Кеция, дъщеря на Йов",
+    "cs": "Ketsia, dcera Jobova",
+    "da": "Ketsiah, en datter af Job",
+    "de": "Ketsija, eine Tochter Hiobs",
+    "el": "Ketsiah, κόρη του Ιώβ",
+    "es": "Ketsiah, hija de Job",
+    "et": "Ketsja, Iiobi tütar",
+    "fi": "Ketsia, Jobin tytär",
+    "fr": "Ketsiah, fille de Job",
+    "hu": "Ketsiah, Jób lánya",
+    "id": "Ketsiah, anak perempuan Ayub",
+    "it": "Ketsia, figlia di Giobbe",
+    "ja": "ヨブの娘ケツィア",
+    "ko": "욥의 딸 켓시야",
+    "lt": "Ketsija, Jobo duktė",
+    "lv": "Ketija, Ījaba meita",
+    "nb": "Ketsiah, en datter av Job",
+    "nl": "Ketsia, een dochter van Job",
+    "pl": "Ketsiah, córka Hioba",
+    "pt": "Ketsiah, uma filha de Job",
+    "ro": "Ketsiah, o fiică a lui Iov",
+    "ru": "Кеция, дочь Иова",
+    "sk": "Keciáša, dcéra Jóbova",
+    "sl": "Ketija, Jobova hči",
+    "sv": "Ketsiah, en dotter till Job",
+    "tr": "Ketsiah, Eyüp'ün kızı",
+    "uk": "Кетія, дочка Йова",
+    "zh": "凯西亚，约伯的女儿"
+  },
+  "verses": [
+    "job 42:14:6"
+  ]
+}

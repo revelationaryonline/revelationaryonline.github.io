@@ -1,0 +1,42 @@
+{
+  "number": "H8016",
+  "language": "hebrew",
+  "transliteration": "Shillêmîy",
+  "pronunciation": "shil-lay-mee'",
+  "definition": "a Shilemite (collectively) or descendants of Shillem",
+  "kjvTranslation": "Shillemites.",
+  "hebrew": "שִׁלֵּמִי",
+  "translations": {
+    "bg": "шилемци (колективно) или потомци на Шилем",
+    "cs": "šilemit (společně) nebo potomci Šillema",
+    "da": "en shilemit (kollektivt) eller efterkommere af Shillem",
+    "de": "ein Shilemite (kollektiv) oder Nachkommen von Shillem",
+    "el": "ένας Σιλεμίτης (συλλογικά) ή απόγονοι του Σιλεμίτη",
+    "es": "a Shilemita (colectivamente) o descendientes de Shillem",
+    "et": "šilemi (kollektiivselt) või Šillemi järeltulijad",
+    "fi": "shilemiläiset (kollektiivisesti) tai Shillemin jälkeläiset",
+    "fr": "un Shilemite (collectivement) ou des descendants de Shillem",
+    "hu": "shillem (kollektíven) vagy Shillem leszármazottai",
+    "id": "orang Silem (secara kolektif) atau keturunan Silem",
+    "it": "uno Shilemita (collettivamente) o discendenti di Shillem",
+    "ja": "シレム人（総称）またはシレムの子孫",
+    "ko": "실렘인(총칭) 또는 실렘의 후손",
+    "lt": "šilemas (bendrai) arba šilemo palikuonys",
+    "lv": "šilemīti (kopā) vai Šilema pēcteči",
+    "nb": "en shilemitt (kollektivt) eller etterkommere av Shillem",
+    "nl": "een Shilemiet (collectief) of afstammelingen van Shillem",
+    "pl": "shilemite (łącznie) lub potomkowie Shillem",
+    "pt": "um Shilemite (coletivamente) ou descendentes de Shillem",
+    "ro": "un Shilemite (colectiv) sau descendenți ai lui Shillem",
+    "ru": "шилемиты (совместно) или потомки Шиллема",
+    "sk": "šilemit (spoločne) alebo potomkovia Šillema",
+    "sl": "šilemci (skupaj) ali potomci Šilema",
+    "sv": "en Shilemite (kollektivt) eller ättlingar till Shillem",
+    "tr": "bir Shilemite (topluca) veya Shillem'in soyundan gelenler",
+    "uk": "шилемітом (разом) або нащадками Шилема",
+    "zh": "士林人（集体）或士林的后裔"
+  },
+  "verses": [
+    "numbers 26:49:5"
+  ]
+}

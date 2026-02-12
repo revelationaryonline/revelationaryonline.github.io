@@ -1,0 +1,43 @@
+{
+  "number": "H1325",
+  "language": "hebrew",
+  "transliteration": "bath",
+  "pronunciation": "bath",
+  "definition": "{a bath or Hebrew measure (as a means of division) of liquids}",
+  "kjvTranslation": "bath.",
+  "translations": {
+    "bg": "{баня или еврейска мярка (като средство за разделяне) за течности}",
+    "cs": "{koupel nebo hebrejská míra (jako prostředek k dělení) tekutin}",
+    "da": "{et bad eller et hebraisk mål (som et middel til opdeling) af væsker}",
+    "de": "{ein Bad oder hebräisches Maß (als Mittel zur Unterteilung) von Flüssigkeiten}",
+    "el": "{ένα λουτρό ή εβραϊκό μέτρο (ως μέσο διαίρεσης) υγρών}",
+    "es": "{un baño o medida hebrea (como medio de división) de líquidos}",
+    "et": "{vann või heebrea mõõt (kui vedelike jagamise vahend)}",
+    "fi": "{kylpyamme tai hepreankielinen nesteiden mitta (jakovälineenä)}",
+    "fr": "{un bain ou une mesure hébraïque (comme moyen de division) de liquides}",
+    "hu": "{folyadékok kádja vagy héber mérték (mint a folyadékok elosztásának eszköze)}",
+    "id": "(sebuah bak mandi atau ukuran Ibrani (sebagai alat pembagian) cairan)",
+    "it": "{bagno o misura ebraica (come mezzo di divisione) di liquidi}",
+    "ja": "{液体の浴槽またはヘブライ式計量器（分割の手段）}。",
+    "ko": "{액체의 목욕 또는 히브리어 측정(분할 수단)}",
+    "lt": "{vonia arba hebrajiškas skysčių matas (kaip padalijimo priemonė)}",
+    "lv": "{vanna vai ebreju mērs (kā šķidrumu sadalīšanas līdzeklis)}",
+    "nb": "{et bad eller hebraisk mål (som et middel til å dele) av væsker}",
+    "nl": "{een bad of Hebreeuwse maat (als verdelingsmiddel) voor vloeistoffen}",
+    "pl": "{wanna lub hebrajska miara (jako środek podziału) płynów}",
+    "pt": "{um banho ou medida hebraica (como meio de divisão) de líquidos}",
+    "ro": "{baie sau măsură ebraică (ca mijloc de împărțire) a lichidelor}",
+    "ru": "{ванна или ивритская мера (как средство разделения) жидкостей}",
+    "sk": "{kúpeľ alebo hebrejská miera (ako prostriedok delenia) tekutín}",
+    "sl": "{kopel ali hebrejska mera (kot sredstvo za delitev) za tekočine}",
+    "sv": "{ett badkar eller ett hebreiskt mått (som ett medel för uppdelning) av vätskor}",
+    "tr": "{bir banyo veya İbranice sıvı ölçüsü (bölme aracı olarak)}",
+    "uk": "{ванна або єврейська міра (як засіб поділу) рідин}",
+    "zh": "{浴盆或希伯来文中液体的度量衡（作为分割的手段）}。"
+  },
+  "hebrew": "בַּת",
+  "verses": [
+    "ezra 7:22:10",
+    "ezra 7:22:13"
+  ]
+}

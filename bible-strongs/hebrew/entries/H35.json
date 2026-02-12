@@ -1,0 +1,42 @@
+{
+  "number": "H35",
+  "language": "hebrew",
+  "transliteration": "ʼăbîyôwnâh",
+  "pronunciation": "ab-ee-yo-naw'",
+  "definition": "provocative of desire; the caper berry (from its stimulative taste)",
+  "kjvTranslation": "desire.",
+  "translations": {
+    "bg": "предизвикващ желание; каперс (заради стимулиращия му вкус)",
+    "cs": "provokující touhu; bobule kapary (podle povzbuzující chuti)",
+    "da": "provokerende for begæret; kapersbærret (fra dets stimulerende smag)",
+    "de": "das Verlangen anregend; die Kapernbeere (wegen ihres anregenden Geschmacks)",
+    "el": "το μούρο κάπαρης (από τη διεγερτική του γεύση)",
+    "es": "provocador del deseo; la alcaparra (por su sabor estimulante)",
+    "et": "iha äratav; kapsa marja (selle ergutavast maitsest)",
+    "fi": "himoa herättävä; kapriksimarja (sen stimuloivan maun vuoksi)",
+    "fr": "provocateur de désir ; le câprier (de par son goût stimulant)",
+    "hu": "vágyat gerjesztő; a kapribogyó (serkentő ízéből adódóan)",
+    "id": "provokatif dari hasrat; caper berry (dari rasanya yang merangsang)",
+    "it": "provocare il desiderio; la bacca di cappero (dal suo sapore stimolante)",
+    "ja": "ケーパーベリー",
+    "ko": "욕망을 자극하는 케이퍼 베리(자극적인 맛으로 인해)",
+    "lt": "provokuojančios geismą; kaparėlių uogos (dėl stimuliuojančio skonio)",
+    "lv": "provocē iekāri; kaperu ogas (no to stimulējošās garšas)",
+    "nb": "provoserende for begjæret; kapersbæret (på grunn av sin stimulerende smak)",
+    "nl": "die begeerte opwekt; de kapperbes (van zijn stimulerende smaak)",
+    "pl": "prowokujący pożądanie; jagoda kaparowa (od jej stymulującego smaku)",
+    "pt": "provocador de desejo; a alcaparra (pelo seu sabor estimulante)",
+    "ro": "provocatoare de dorință; boabele de capere (de la gustul lor stimulativ)",
+    "ru": "вызывающий желание; ягода каперсы (из-за ее возбуждающего вкуса)",
+    "sk": "provokujúce túžbu; bobule kapary (z ich stimulujúcej chuti)",
+    "sl": "vzbuja poželenje; jagode kaper (zaradi stimulativnega okusa)",
+    "sv": "framkallande av lust; kaprisbäret (från dess stimulerande smak)",
+    "tr": "arzu kışkırtıcı; kapari meyvesi (uyarıcı tadından dolayı)",
+    "uk": "провокує бажання; ягода каперсів (від її збудливого смаку)",
+    "zh": "撩人的欲望；海莓（来自其刺激的味道）"
+  },
+  "hebrew": "אֲבִיּוֹנָה",
+  "verses": [
+    "ecclesiastes 12:5:10"
+  ]
+}

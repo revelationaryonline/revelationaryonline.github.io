@@ -1,0 +1,42 @@
+{
+  "number": "H2447",
+  "language": "hebrew",
+  "transliteration": "chaklîyl",
+  "pronunciation": "khak-leel'",
+  "definition": "darkly flashing (only of the eyes); in a good sense, brilliant (as stimulated by wine)",
+  "kjvTranslation": "red.",
+  "translations": {
+    "bg": "тъмно блестящ (само за очите); в добрия смисъл на думата, блестящ (стимулиран от вино)",
+    "cs": "temně blikající (pouze oči); v dobrém smyslu brilantní (jako povzbuzený vínem)",
+    "da": "mørkt blinkende (kun for øjnene); i god forstand strålende (som stimuleret af vin)",
+    "de": "dunkel blinkend (nur für die Augen); im guten Sinne brillant (wie durch Wein angeregt)",
+    "el": "σκούρα αναβοσβήνει (μόνο των ματιών), με την καλή έννοια, λαμπερό (όπως διεγείρεται από το κρασί)",
+    "es": "oscuramente centelleante (sólo de los ojos); en el buen sentido, brillante (como estimulado por el vino)",
+    "et": "tumedalt vilkuv (ainult silmade); heas mõttes särav (nagu veini poolt stimuleeritud)",
+    "fi": "tummasti vilkkuva (vain silmissä); hyvässä mielessä loistava (viinin stimuloimana)",
+    "fr": "sombrement brillant (seulement pour les yeux) ; dans le bon sens, brillant (comme stimulé par le vin)",
+    "hu": "sötéten villogó (csak a szem); jó értelemben ragyogó (mint a bor által serkentett)",
+    "id": "berkedip gelap (hanya pada mata); dalam arti yang baik, cemerlang (seperti dirangsang oleh anggur)",
+    "it": "scuramente lampeggiante (solo degli occhi); in senso buono, brillante (come stimolato dal vino)",
+    "ja": "目が冴える",
+    "ko": "어둡게 깜박임 (눈만); 좋은 의미에서 빛나는 (와인에 의해 자극받은 것처럼)",
+    "lt": "tamsiai mirksintis (tik akyse); gerąja prasme - spindintis (stimuliuojamas vyno)",
+    "lv": "tumši mirgojošs (tikai acīs); labā nozīmē spožs (kā vīna stimulēts)",
+    "nb": "mørkt blinkende (bare for øynene); i god forstand, strålende (som stimulert av vin)",
+    "nl": "donker flikkerend (alleen van de ogen); in de goede zin, briljant (zoals gestimuleerd door wijn)",
+    "pl": "ciemno błyskający (tylko oczy); w dobrym znaczeniu, błyskotliwy (stymulowany przez wino)",
+    "pt": "escuramente cintilante (apenas nos olhos); no bom sentido, brilhante (estimulado pelo vinho)",
+    "ro": "cu strălucire întunecată (doar a ochilor); în sens bun, strălucitor (stimulat de vin)",
+    "ru": "темно-мигающий (только для глаз); в хорошем смысле блестящий (как стимулированный вином)",
+    "sk": "temne blikajúci (len oči); v dobrom zmysle slova brilantný (ako stimulovaný vínom)",
+    "sl": "temno bleščeč (samo za oči); v dobrem pomenu bleščeč (kot ga spodbuja vino)",
+    "sv": "mörkt blinkande (endast för ögonen); i god bemärkelse lysande (som stimulerad av vin)",
+    "tr": "karanlık bir şekilde parlayan (sadece gözlerin); iyi anlamda, parlak (şarap tarafından uyarıldığı gibi)",
+    "uk": "темно блискучий (тільки про очі); в хорошому сенсі, блискучий (під впливом вина)",
+    "zh": "炯炯有神；从好的方面说，炯炯有神（如酒的刺激）。"
+  },
+  "hebrew": "חַכְלִיל",
+  "verses": [
+    "genesis 49:12:0"
+  ]
+}

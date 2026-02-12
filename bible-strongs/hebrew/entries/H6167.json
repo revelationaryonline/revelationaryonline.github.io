@@ -1,0 +1,42 @@
+{
+  "number": "H6167",
+  "language": "hebrew",
+  "transliteration": "ʻărâd",
+  "pronunciation": "ar-awd'",
+  "definition": "an onager",
+  "kjvTranslation": "wild ass.",
+  "hebrew": "עֲרָד",
+  "translations": {
+    "bg": "управител на фирма",
+    "cs": "onger",
+    "da": "en onager",
+    "de": "ein Onager",
+    "el": "ένας onager",
+    "es": "un onagro",
+    "et": "onager",
+    "fi": "onager",
+    "fr": "un onager",
+    "hu": "egy onager",
+    "id": "seorang onager",
+    "it": "un onager",
+    "ja": "投石器",
+    "ko": "오나거",
+    "lt": "onger",
+    "lv": "onger",
+    "nb": "en onager",
+    "nl": "een onager",
+    "pl": "onager",
+    "pt": "um gestor",
+    "ro": "un onager",
+    "ru": "онагер",
+    "sk": "onger",
+    "sl": "onager",
+    "sv": "en onager",
+    "tr": "bir onager",
+    "uk": "вонагера",
+    "zh": "管理员"
+  },
+  "verses": [
+    "daniel 5:21:10"
+  ]
+}

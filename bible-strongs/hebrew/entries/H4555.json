@@ -1,0 +1,43 @@
+{
+  "number": "H4555",
+  "language": "hebrew",
+  "transliteration": "miçpâchâh",
+  "pronunciation": "mis-paw-khaw'",
+  "definition": "a veil (as spread out)",
+  "kjvTranslation": "kerchief.",
+  "hebrew": "מִסְפָּחָה",
+  "verses": [
+    "ezekiel 13:18:13",
+    "ezekiel 13:21:2"
+  ],
+  "translations": {
+    "bg": "завеса (разстлана)",
+    "cs": "závoj (jako rozprostřený)",
+    "da": "et slør (som spredes ud)",
+    "de": "ein Schleier (wie ausgebreitet)",
+    "el": "ένα πέπλο (όπως απλώνεται)",
+    "es": "un velo (como extendido)",
+    "et": "loor (nagu laiali)",
+    "fi": "verho (levitettynä)",
+    "fr": "un voile (comme étalé)",
+    "hu": "fátyol (mint kiterítve)",
+    "id": "kerudung (seperti yang dibentangkan)",
+    "it": "un velo (come se fosse steso)",
+    "ja": "垂れ幕",
+    "ko": "베일(펼쳐진 상태)",
+    "lt": "šydas (išskleistas)",
+    "lv": "plīvurs (kā izklāts)",
+    "nb": "et slør (som spres ut)",
+    "nl": "een sluier (zoals uitgespreid)",
+    "pl": "zasłona (rozłożona)",
+    "pt": "um véu (como um véu estendido)",
+    "ro": "un văl (ca întindere)",
+    "ru": "завеса (в расправленном виде)",
+    "sk": "závoj (ako rozprestretý)",
+    "sl": "tančica (razprta)",
+    "sv": "en slöja (som sprids ut)",
+    "tr": "bir örtü (yayılmış olarak)",
+    "uk": "фата (розстелена)",
+    "zh": "缦"
+  }
+}

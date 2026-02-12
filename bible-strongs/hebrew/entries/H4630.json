@@ -1,0 +1,42 @@
+{
+  "number": "H4630",
+  "language": "hebrew",
+  "transliteration": "maʻărâh",
+  "pronunciation": "mah-ar-aw'",
+  "definition": "an open spot",
+  "kjvTranslation": "army (from the margin).",
+  "hebrew": "מַעֲרָה",
+  "verses": [
+    "firstSamuel 17:23:11"
+  ],
+  "translations": {
+    "bg": "свободно място",
+    "cs": "volné místo",
+    "da": "en åben plads",
+    "de": "ein freier Platz",
+    "el": "ένα ελεύθερο σημείο",
+    "es": "una plaza libre",
+    "et": "vaba koht",
+    "fi": "avoin paikka",
+    "fr": "une place libre",
+    "hu": "egy szabad hely",
+    "id": "tempat terbuka",
+    "it": "un posto libero",
+    "ja": "空き",
+    "ko": "열린 공간",
+    "lt": "laisva vieta",
+    "lv": "brīva vieta",
+    "nb": "en ledig plass",
+    "nl": "een open plek",
+    "pl": "wolne miejsce",
+    "pt": "um lugar livre",
+    "ro": "un loc liber",
+    "ru": "свободное место",
+    "sk": "voľné miesto",
+    "sl": "prosto mesto",
+    "sv": "en öppen plats",
+    "tr": "açık bir nokta",
+    "uk": "вільне місце",
+    "zh": "空位"
+  }
+}

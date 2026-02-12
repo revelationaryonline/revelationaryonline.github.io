@@ -1,0 +1,42 @@
+{
+  "number": "H7930",
+  "language": "hebrew",
+  "transliteration": "Shikmîy",
+  "pronunciation": "shik-mee'",
+  "definition": "a Shikmite (collectively), or descendants of Shekem",
+  "kjvTranslation": "Shichemites.",
+  "hebrew": "שִׁכְמִי",
+  "translations": {
+    "bg": "шикмити (колективно) или потомци на Шекем",
+    "cs": "šikmitové (společně) nebo potomci Šekemů",
+    "da": "en shikmit (kollektivt), eller efterkommere af Shekem",
+    "de": "ein Schikmit (kollektiv), oder Nachkommen von Schekem",
+    "el": "shikmite (συλλογικά), ή απόγονοι του Shekem",
+    "es": "a Shikmite (colectivamente), o descendientes de Shekem",
+    "et": "šikmiidid (kollektiivselt) ehk Šekemi järeltulijad",
+    "fi": "shikmiitit (kollektiivisesti) tai shekemiläisten jälkeläiset",
+    "fr": "un Shikmite (collectivement), ou des descendants de Shekem",
+    "hu": "sikmiták (együttesen), vagy Sikem leszármazottai",
+    "id": "orang Simeon (secara kolektif), atau keturunan Simeon",
+    "it": "uno Shikmita (collettivamente), o discendenti di Shekem",
+    "ja": "シクム人（総称）、またはシェケムの子孫",
+    "ko": "시크마이트(총칭), 또는 셰켐의 후손",
+    "lt": "šikmitai (bendrai) arba Šekemo palikuonys",
+    "lv": "šikmīti (kopā) vai Šekema pēcteči",
+    "nb": "en shikmitt (kollektivt), eller etterkommere av Shekem",
+    "nl": "een Shikmiet (collectief), of afstammelingen van Shekem",
+    "pl": "shikmite (łącznie) lub potomkowie Shekem",
+    "pt": "um shikmita (coletivamente), ou descendentes de shekem",
+    "ro": "un Shikmite (colectiv), sau descendenți ai Shekem",
+    "ru": "шикмиты (совместно), или потомки Шекема",
+    "sk": "šikmiti (spoločne) alebo potomkovia Šekema",
+    "sl": "šikmiti (skupaj) ali potomci Šekemov",
+    "sv": "en Shikmite (kollektivt), eller ättlingar till Shekem",
+    "tr": "bir Şikmite (topluca) veya Şem'in soyundan gelenler",
+    "uk": "шикміти (разом) або нащадки Шекемів",
+    "zh": "希克米特人（集体），或谢克姆的后裔"
+  },
+  "verses": [
+    "numbers 26:31:5"
+  ]
+}

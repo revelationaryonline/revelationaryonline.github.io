@@ -1,0 +1,43 @@
+{
+  "number": "H6518",
+  "language": "hebrew",
+  "transliteration": "pârâz",
+  "pronunciation": "paw-rawz'",
+  "definition": "decide; a chieftain",
+  "kjvTranslation": "village.",
+  "hebrew": "פָּרָז",
+  "translations": {
+    "bg": "да решава; вожд",
+    "cs": "rozhodnout; náčelník",
+    "da": "beslutte; en høvding",
+    "de": "entscheiden; ein Häuptling",
+    "el": "αποφασίζει- ένας αρχηγός",
+    "es": "decidir; un jefe",
+    "et": "otsustada; pealik",
+    "fi": "päättää; päällikkö",
+    "fr": "décider ; un chef",
+    "hu": "dönteni; egy főnök",
+    "id": "memutuskan; kepala suku",
+    "it": "decidere; un capo tribù",
+    "ja": "酋長が決める",
+    "ko": "결정하다; 족장",
+    "lt": "nuspręsti; vadas",
+    "lv": "izlemt; priekšnieks",
+    "nb": "bestemme; en høvding",
+    "nl": "beslissen; een leider",
+    "pl": "decydować; wódz",
+    "pt": "decidir; um chefe",
+    "ro": "decide; o căpetenie",
+    "ru": "решать; вождь",
+    "sk": "rozhodnúť; náčelník",
+    "sl": "odloča; poglavar",
+    "sv": "besluta; en hövding",
+    "tr": "karar vermek; bir reis",
+    "uk": "вирішувати; отаман",
+    "zh": "酋长"
+  },
+  "verses": [
+    "habakkuk 3:14:3",
+    "habakkuk 3:14:4"
+  ]
+}

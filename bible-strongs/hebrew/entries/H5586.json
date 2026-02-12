@@ -1,0 +1,42 @@
+{
+  "number": "H5586",
+  "language": "hebrew",
+  "transliteration": "çâʻaph",
+  "pronunciation": "saw-af'",
+  "definition": "to disbranch (a tree)",
+  "kjvTranslation": "top.",
+  "hebrew": "סָעַף",
+  "translations": {
+    "bg": "да се разклони (дърво)",
+    "cs": "rozvětvit (strom)",
+    "da": "at afgrene (et træ)",
+    "de": "(einen Baum) zu entzweien",
+    "el": "να ξεκλαδώσεις (ένα δέντρο)",
+    "es": "desramar (un árbol)",
+    "et": "hargneda (puu) lahti (puu)",
+    "fi": "(puun) haaroittaminen",
+    "fr": "de se débrancher (d'un arbre)",
+    "hu": "(egy fa) leágazása",
+    "id": "untuk mencabut cabang (sebuah pohon)",
+    "it": "disboscare (un albero)",
+    "ja": "枝分かれさせる",
+    "ko": "분기하다(나무)",
+    "lt": "išsišakoti (medį)",
+    "lv": "atzarot (koku)",
+    "nb": "å forgrene seg (et tre)",
+    "nl": "onttakken (van een boom)",
+    "pl": "rozgałęziać (drzewo)",
+    "pt": "desramar (uma árvore)",
+    "ro": "a dezmembra (un copac)",
+    "ru": "распускать ветви (дерева)",
+    "sk": "rozvetviť (strom)",
+    "sl": "odcepiti (drevo)",
+    "sv": "att förgrena sig (ett träd)",
+    "tr": "(bir ağacı) dalından ayırmak",
+    "uk": "розгалужувати (дерево)",
+    "zh": "离枝"
+  },
+  "verses": [
+    "isaiah 10:33:4"
+  ]
+}

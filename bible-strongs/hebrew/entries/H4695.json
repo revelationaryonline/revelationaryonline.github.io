@@ -1,0 +1,42 @@
+{
+  "number": "H4695",
+  "language": "hebrew",
+  "transliteration": "matstsûwth",
+  "pronunciation": "mats-tsooth'",
+  "definition": "a quarrel",
+  "kjvTranslation": "that contended.",
+  "hebrew": "מַצּוּת",
+  "translations": {
+    "bg": "кавга",
+    "cs": "hádka",
+    "da": "et skænderi",
+    "de": "ein Streit",
+    "el": "μια διαμάχη",
+    "es": "una pelea",
+    "et": "tüli",
+    "fi": "riita",
+    "fr": "une querelle",
+    "hu": "veszekedés",
+    "id": "pertengkaran",
+    "it": "una lite",
+    "ja": "いいあらそい",
+    "ko": "다툼",
+    "lt": "ginčas",
+    "lv": "strīds",
+    "nb": "en krangel",
+    "nl": "een ruzie",
+    "pl": "kłótnia",
+    "pt": "uma discussão",
+    "ro": "o ceartă",
+    "ru": "ссора",
+    "sk": "hádka",
+    "sl": "prepir",
+    "sv": "ett gräl",
+    "tr": "bir kavga",
+    "uk": "сварка",
+    "zh": "争吵"
+  },
+  "verses": [
+    "isaiah 41:12:4"
+  ]
+}

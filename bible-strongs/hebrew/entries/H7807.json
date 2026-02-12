@@ -1,0 +1,42 @@
+{
+  "number": "H7807",
+  "language": "hebrew",
+  "transliteration": "shach",
+  "pronunciation": "shakh",
+  "definition": "sunk, i.e. downcast",
+  "kjvTranslation": "[phrase] humble.",
+  "hebrew": "שַׁח",
+  "translations": {
+    "bg": "потънал, т.е. наведен",
+    "cs": "potopený, tj. skleslý",
+    "da": "sunket, dvs. nedtrykt",
+    "de": "gesunken, d.h. niedergeschlagen",
+    "el": "βυθισμένος, δηλαδή καταβεβλημένος",
+    "es": "hundido, es decir, abatido",
+    "et": "uppunud, s.t. allapoole langenud",
+    "fi": "uponnut, ts. vajonnut",
+    "fr": "coulé, c'est-à-dire abattu",
+    "hu": "elsüllyedt, azaz levert",
+    "id": "tenggelam, yaitu murung",
+    "it": "affondato, cioè abbattuto",
+    "ja": "沈んだ",
+    "ko": "가라앉음, 즉 흐림",
+    "lt": "nuskendęs, t. y. nusileidęs",
+    "lv": "nogrimis, t. i., noslīcis",
+    "nb": "sunket, dvs. nedslått",
+    "nl": "gezonken, d.w.z. teneergeslagen",
+    "pl": "zatopiony, tj. przygnębiony",
+    "pt": "afundado, ou seja, abatido",
+    "ro": "scufundat, adică abătut",
+    "ru": "погруженный, т.е. опустившийся",
+    "sk": "potopený, t. j. skleslý",
+    "sl": "potopljen, tj. sklonjen",
+    "sv": "sänkt, dvs. nedstämd",
+    "tr": "batmış, yani çökmüş",
+    "uk": "зануреним, тобто опущеним",
+    "zh": "沉"
+  },
+  "verses": [
+    "job 22:29:4"
+  ]
+}

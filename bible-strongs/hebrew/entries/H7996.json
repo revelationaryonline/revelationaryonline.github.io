@@ -1,0 +1,42 @@
+{
+  "number": "H7996",
+  "language": "hebrew",
+  "transliteration": "Shalleketh",
+  "pronunciation": "shal-leh'-keth",
+  "definition": "Shalleketh, a gate in Jerusalem",
+  "kjvTranslation": "Shalleketh.",
+  "hebrew": "שַׁלֶּכֶת",
+  "translations": {
+    "bg": "Шалекет, порта в Ерусалим",
+    "cs": "Šalektet, brána v Jeruzalémě",
+    "da": "Shalleketh, en port i Jerusalem",
+    "de": "Shalleketh, ein Tor in Jerusalem",
+    "el": "Σαλεκέθ, πύλη στην Ιερουσαλήμ",
+    "es": "Shalleketh, una puerta en Jerusalén",
+    "et": "Shalleketh, värav Jeruusalemmas",
+    "fi": "Shalleketh, portti Jerusalemissa",
+    "fr": "Shalleketh, porte de Jérusalem",
+    "hu": "Salleketh, egy kapu Jeruzsálemben",
+    "id": "Shalleket, sebuah gerbang di Yerusalem",
+    "it": "Shalleketh, una porta di Gerusalemme",
+    "ja": "エルサレムの門、シャルレケス",
+    "ko": "예루살렘의 성문, 샬레케스",
+    "lt": "Šalleketas, vartai Jeruzalėje",
+    "lv": "Šallekets, vārti Jeruzalemē",
+    "nb": "Shalleketh, en port i Jerusalem",
+    "nl": "Shalleketh, een poort in Jeruzalem",
+    "pl": "Shalleketh, brama w Jerozolimie",
+    "pt": "Salete, porta de Jerusalém",
+    "ro": "Shalleketh, o poartă în Ierusalim",
+    "ru": "Шаллекет, ворота в Иерусалиме",
+    "sk": "Šalleket, brána v Jeruzaleme",
+    "sl": "Šalleket, vrata v Jeruzalemu",
+    "sv": "Shalleketh, en port i Jerusalem",
+    "tr": "Shalleketh, Yeruşalim'de bir kapı",
+    "uk": "Шаллекет, брама в Єрусалимі",
+    "zh": "沙勒凯斯，耶路撒冷的一个城门"
+  },
+  "verses": [
+    "firstChronicles 26:16:5"
+  ]
+}

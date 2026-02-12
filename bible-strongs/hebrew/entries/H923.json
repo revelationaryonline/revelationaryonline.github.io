@@ -1,0 +1,42 @@
+{
+  "number": "H923",
+  "language": "hebrew",
+  "transliteration": "bahaṭ",
+  "pronunciation": "bah'-hat",
+  "definition": "white marble or perhaps alabaster",
+  "kjvTranslation": "red (marble).",
+  "translations": {
+    "bg": "бял мрамор или може би алабастър",
+    "cs": "bílý mramor nebo snad alabastr",
+    "da": "hvid marmor eller måske alabast",
+    "de": "weißer Marmor oder vielleicht Alabaster",
+    "el": "λευκό μάρμαρο ή ίσως αλάβαστρο",
+    "es": "mármol blanco o quizás alabastro",
+    "et": "valge marmor või ehk alabastri",
+    "fi": "valkoinen marmori tai ehkä alabasteri",
+    "fr": "marbre blanc ou peut-être albâtre",
+    "hu": "fehér márvány vagy talán alabástrom",
+    "id": "marmer putih atau mungkin pualam",
+    "it": "marmo bianco o forse alabastro",
+    "ja": "白い大理石、あるいはアラバスター",
+    "ko": "흰색 대리석 또는 알라바스터",
+    "lt": "balto marmuro arba galbūt alebastro",
+    "lv": "balts marmors vai varbūt alabastrs",
+    "nb": "hvit marmor eller kanskje alabast",
+    "nl": "wit marmer of misschien albast",
+    "pl": "biały marmur lub alabaster",
+    "pt": "mármore branco ou talvez alabastro",
+    "ro": "marmură albă sau poate alabastru",
+    "ru": "белый мрамор или, возможно, алебастр",
+    "sk": "biely mramor alebo možno alabaster",
+    "sl": "beli marmor ali morda alabaster",
+    "sv": "vit marmor eller kanske alabaster",
+    "tr": "beyaz mermer veya belki kaymaktaşı",
+    "uk": "білий мармур або, можливо, алебастр",
+    "zh": "大理石"
+  },
+  "hebrew": "בַּהַט",
+  "verses": [
+    "esther 1:6:17"
+  ]
+}

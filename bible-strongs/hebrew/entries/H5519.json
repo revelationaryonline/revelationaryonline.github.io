@@ -1,0 +1,42 @@
+{
+  "number": "H5519",
+  "language": "hebrew",
+  "transliteration": "çâk",
+  "pronunciation": "sawk",
+  "definition": "properly, a thicket of men, i.e. a crowd",
+  "kjvTranslation": "multitude.",
+  "hebrew": "סָךְ",
+  "translations": {
+    "bg": "правилно, гъсталак от хора, т.е. тълпа",
+    "cs": "správně houšť lidí, tj. dav",
+    "da": "korrekt, et krat af mænd, dvs. en skare",
+    "de": "richtig: ein Dickicht von Männern, d.h. eine Menschenmenge",
+    "el": "σωστά, ένα πυκνό συστάδα ανθρώπων, δηλαδή ένα πλήθος",
+    "es": "propiamente, un matorral de hombres, es decir, una multitud",
+    "et": "õigesti, meestest koosnev tiheasustus, s.t. rahvahulk",
+    "fi": "oikeastaan, miesten tiheikkö, eli väkijoukko",
+    "fr": "proprement, un fourré d'hommes, c'est-à-dire une foule",
+    "hu": "helyesen, egy sűrű embertömeg, azaz egy tömeg",
+    "id": "dengan benar, rumpun manusia, yaitu kerumunan orang",
+    "it": "propriamente, una selva di uomini, cioè una folla",
+    "ja": "正しくは雑木林、つまり群衆",
+    "ko": "제대로 말하면, 남자들, 즉 군중의 덤불입니다",
+    "lt": "teisingai, žmonių gūžta, t. y. minia",
+    "lv": "pareizi, cilvēku biezoknis, t.i., pūlis",
+    "nb": "egentlig et kratt av menn, dvs. en folkemengde",
+    "nl": "goed, een woud van mannen, d.w.z. een menigte",
+    "pl": "właściwie, gąszcz ludzi, tj. tłum",
+    "pt": "propriamente dito, uma moita de homens, ou seja, uma multidão",
+    "ro": "în mod corespunzător, un desiș de oameni, adică o mulțime",
+    "ru": "правильно, чаща людей, т.е. толпа",
+    "sk": "správne, húštinu ľudí, t. j. dav",
+    "sl": "pravilno, gmota ljudi, tj. množica",
+    "sv": "korrekt, en snårskog av män, dvs. en folkmassa",
+    "tr": "düzgün bir şekilde, bir insan sürüsü, yani bir kalabalık",
+    "uk": "власне, зарості людей, тобто натовп",
+    "zh": "人丛，即人群"
+  },
+  "verses": [
+    "psalms 42:5:7"
+  ]
+}

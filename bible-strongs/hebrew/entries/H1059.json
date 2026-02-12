@@ -1,0 +1,42 @@
+{
+  "number": "H1059",
+  "language": "hebrew",
+  "transliteration": "bekeh",
+  "pronunciation": "beh'-keh",
+  "definition": "a weeping",
+  "kjvTranslation": "[idiom] sore.",
+  "translations": {
+    "bg": "плач",
+    "cs": "pláč",
+    "da": "en gråd",
+    "de": "ein Weinen",
+    "el": "ένα κλάμα",
+    "es": "un llanto",
+    "et": "nutmine",
+    "fi": "itku",
+    "fr": "un pleur",
+    "hu": "egy síró",
+    "id": "menangis",
+    "it": "un pianto",
+    "ja": "嗚咽",
+    "ko": "울음",
+    "lt": "verksmas",
+    "lv": "raudāšana",
+    "nb": "en gråtende",
+    "nl": "een geween",
+    "pl": "płacz",
+    "pt": "um choro",
+    "ro": "un plâns",
+    "ru": "плач",
+    "sk": "plač",
+    "sl": "jok",
+    "sv": "en gråtande",
+    "tr": "ağlayan",
+    "uk": "плач",
+    "zh": "哭声"
+  },
+  "hebrew": "בֶּכֶה",
+  "verses": [
+    "ezra 10:1:21"
+  ]
+}

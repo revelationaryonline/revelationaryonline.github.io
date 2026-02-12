@@ -1,0 +1,43 @@
+{
+  "number": "H7454",
+  "language": "hebrew",
+  "transliteration": "rêaʻ",
+  "pronunciation": "ray'-ah",
+  "definition": "a thought (as association of ideas)",
+  "kjvTranslation": "thought.",
+  "hebrew": "רֵעַ",
+  "translations": {
+    "bg": "мисъл (като асоциация от идеи)",
+    "cs": "myšlenka (jako spojení myšlenek)",
+    "da": "en tanke (som sammenstilling af ideer)",
+    "de": "ein Gedanke (als Assoziation von Ideen)",
+    "el": "μια σκέψη (ως ένωση ιδεών)",
+    "es": "un pensamiento (como asociación de ideas)",
+    "et": "mõte (kui ideede ühendus)",
+    "fi": "ajatus (ajatusten yhdistelmänä)",
+    "fr": "une pensée (en tant qu'association d'idées)",
+    "hu": "gondolat (mint gondolattársítás)",
+    "id": "sebuah pemikiran (sebagai asosiasi ide)",
+    "it": "un pensiero (come associazione di idee)",
+    "ja": "連想",
+    "ko": "생각(생각의 연관성)",
+    "lt": "mintis (kaip idėjų asociacija)",
+    "lv": "doma (kā ideju apvienojums)",
+    "nb": "en tanke (som en sammenstilling av ideer)",
+    "nl": "een gedachte (als vereniging van ideeën)",
+    "pl": "myśl (jako połączenie idei)",
+    "pt": "um pensamento (como associação de ideias)",
+    "ro": "un gând (ca asociere de idei)",
+    "ru": "мысль (как ассоциация идей)",
+    "sk": "myšlienka (ako spojenie myšlienok)",
+    "sl": "misel (kot združenje idej)",
+    "sv": "en tanke (som association av idéer)",
+    "tr": "bir düşünce (fikirlerin birleşimi olarak)",
+    "uk": "думка (як асоціація ідей)",
+    "zh": "思想"
+  },
+  "verses": [
+    "psalms 139:2:5",
+    "psalms 139:17:3"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H2405",
+  "language": "hebrew",
+  "transliteration": "chăṭubâh",
+  "pronunciation": "khat-oo-baw'",
+  "definition": "properly, a carving; hence, a tapestry (as figured)",
+  "kjvTranslation": "carved.",
+  "translations": {
+    "bg": "правилно, дърворезба; оттук и гоблен (като фигурален)",
+    "cs": "správně řezba; odtud gobelín (figurální)",
+    "da": "korrekt, en udskæring; derfor, et billedtæppe (som figureret)",
+    "de": "richtig: ein Schnitzwerk; daher: ein Wandteppich (wie ein Bildnis)",
+    "el": "σωστά, ένα σκάλισμα, άρα, μια ταπισερί (όπως απεικονίζεται)",
+    "es": "propiamente, una talla; de ahí, un tapiz (como figurado)",
+    "et": "õigesti, nikerdus; seega ka gobelään (nagu kujutatud)",
+    "fi": "oikein, veistos; siis kuvakudos (kuvioitu)",
+    "fr": "à proprement parler, une sculpture ; par conséquent, une tapisserie (telle qu'elle est figurée)",
+    "hu": "megfelelően, egy faragvány; ezért egy gobelin (mint ábrázolt)",
+    "id": "benar, ukiran; karenanya, permadani (seperti yang digambarkan)",
+    "it": "propriamente, un'incisione; quindi, un arazzo (come figura)",
+    "ja": "から、タペストリー（図案化されたもの）。",
+    "ko": "제대로 말하면 조각, 따라서 태피스트리(그림과 같이)",
+    "lt": "tinkamai - raižinys, taigi gobelenas (figūrinis)",
+    "lv": "pareizi - griezums, tātad gobelēns (kā figūra)",
+    "nb": "egentlig, en utskjæring; derav, en billedvev (som figur)",
+    "nl": "goed, een snijwerk; vandaar, een wandtapijt (zoals gefigureerd)",
+    "pl": "właściwie, rzeźba; stąd, gobelin (jako figura)",
+    "pt": "propriamente dito, um entalhe; portanto, uma tapeçaria (como figurado)",
+    "ro": "în mod corespunzător, o sculptură; prin urmare, o tapiserie (ca figurat)",
+    "ru": "правильно, резьба; отсюда, гобелен (с рисунком)",
+    "sk": "správne, rezba; odtiaľ gobelín (ako figúra)",
+    "sl": "pravilno, rezbarija; od tod tapiserija (kot figura)",
+    "sv": "i egentlig mening en snittyta; därav en gobeläng (som figur)",
+    "tr": "uygun şekilde, bir oyma; dolayısıyla, bir goblen (figürlü olarak)",
+    "uk": "власне, різьблення; отже, гобелен (як на малюнку)",
+    "zh": "雕刻；因此，织锦（如图）"
+  },
+  "hebrew": "חֲטֻבָה",
+  "verses": [
+    "proverbs 7:16:3"
+  ]
+}

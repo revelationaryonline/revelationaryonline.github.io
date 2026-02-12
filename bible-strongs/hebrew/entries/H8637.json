@@ -1,0 +1,42 @@
+{
+  "number": "H8637",
+  "language": "hebrew",
+  "transliteration": "tirgal",
+  "pronunciation": "teer-gal'",
+  "definition": "to cause to walk",
+  "kjvTranslation": "teach to go.",
+  "hebrew": "תִּרְגַּל",
+  "translations": {
+    "bg": "да накараш да вървиш",
+    "cs": "přimět k chůzi",
+    "da": "at få til at gå",
+    "de": "zum Laufen bringen",
+    "el": "να κάνω να περπατήσω",
+    "es": "hacer andar",
+    "et": "panna kõndima",
+    "fi": "saada kävelemään",
+    "fr": "faire marcher",
+    "hu": "járásra késztetni",
+    "id": "untuk menyebabkan berjalan",
+    "it": "far camminare",
+    "ja": "歩かせる",
+    "ko": "걸을 수 있도록",
+    "lt": "priversti vaikščioti",
+    "lv": "likt staigāt",
+    "nb": "å få til å gå",
+    "nl": "laten lopen",
+    "pl": "powodować chodzenie",
+    "pt": "fazer andar",
+    "ro": "a face să meargă",
+    "ru": "заставлять ходить",
+    "sk": "spôsobovať chôdzu",
+    "sl": "povzročiti hojo",
+    "sv": "att orsaka att gå",
+    "tr": "yürümeye neden olmak",
+    "uk": "щоб змусити ходити",
+    "zh": "使其行走"
+  },
+  "verses": [
+    "hosea 11:3:1"
+  ]
+}

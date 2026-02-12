@@ -1,0 +1,42 @@
+{
+  "number": "H5339",
+  "language": "hebrew",
+  "transliteration": "nitstsân",
+  "pronunciation": "nits-tsawn'",
+  "definition": "a blossom",
+  "kjvTranslation": "flower.",
+  "hebrew": "נִצָּן",
+  "translations": {
+    "bg": "цвете",
+    "cs": "květ",
+    "da": "en blomst",
+    "de": "eine Blüte",
+    "el": "ένα άνθος",
+    "es": "una flor",
+    "et": "õis",
+    "fi": "kukka",
+    "fr": "une fleur",
+    "hu": "egy virág",
+    "id": "mekar",
+    "it": "un fiore",
+    "ja": "一輪の花",
+    "ko": "꽃",
+    "lt": "žiedas",
+    "lv": "zieds",
+    "nb": "en blomst",
+    "nl": "een bloesem",
+    "pl": "kwiat",
+    "pt": "uma flor",
+    "ro": "o floare",
+    "ru": "цветок",
+    "sk": "kvet",
+    "sl": "cvet",
+    "sv": "en blomma",
+    "tr": "bir çiçek",
+    "uk": "цвітіння",
+    "zh": "花开"
+  },
+  "verses": [
+    "solomon 2:12:0"
+  ]
+}

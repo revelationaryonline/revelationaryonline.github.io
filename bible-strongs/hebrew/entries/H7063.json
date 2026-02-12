@@ -1,0 +1,42 @@
+{
+  "number": "H7063",
+  "language": "hebrew",
+  "transliteration": "qimmâshôwn",
+  "pronunciation": "kim-maw-shone'",
+  "definition": "a prickly plant",
+  "kjvTranslation": "thorn.",
+  "hebrew": "קִמָּשׁוֹן",
+  "translations": {
+    "bg": "бодливо растение",
+    "cs": "pichlavá rostlina",
+    "da": "en stikkende plante",
+    "de": "eine stachelige Pflanze",
+    "el": "ένα αγκαθωτό φυτό",
+    "es": "una planta espinosa",
+    "et": "okkaline taim",
+    "fi": "piikkinen kasvi",
+    "fr": "une plante piquante",
+    "hu": "tüskés növény",
+    "id": "tanaman berduri",
+    "it": "una pianta spinosa",
+    "ja": "刺のある植物",
+    "ko": "가시 식물",
+    "lt": "dygliuotas augalas",
+    "lv": "dzeloņains augs",
+    "nb": "en stikkende plante",
+    "nl": "een stekelige plant",
+    "pl": "kłująca roślina",
+    "pt": "uma planta espinhosa",
+    "ro": "o plantă înțepătoare",
+    "ru": "колючее растение",
+    "sk": "pichľavá rastlina",
+    "sl": "bodeča rastlina",
+    "sv": "en taggig växt",
+    "tr": "dikenli bir bitki",
+    "uk": "колюча рослина",
+    "zh": "柘"
+  },
+  "verses": [
+    "proverbs 24:31:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4989",
+  "language": "hebrew",
+  "transliteration": "Mithqâh",
+  "pronunciation": "mith-kaw'",
+  "definition": "Mithkah, a place in the Desert",
+  "kjvTranslation": "Mithcah.",
+  "hebrew": "מִתְקָה",
+  "translations": {
+    "bg": "Митка, място в пустинята",
+    "cs": "Mithka, místo v poušti",
+    "da": "Mithkah, et sted i ørkenen",
+    "de": "Mithkah, ein Ort in der Wüste",
+    "el": "Mithkah, ένας τόπος στην έρημο",
+    "es": "Mithkah, un lugar en el desierto",
+    "et": "Mithkah, koht kõrbes",
+    "fi": "Mithkah, paikka autiomaassa",
+    "fr": "Mithkah, un lieu dans le désert",
+    "hu": "Mithkah, egy hely a sivatagban",
+    "id": "Mithkah, sebuah tempat di Gurun Pasir",
+    "it": "Mithkah, un luogo nel deserto",
+    "ja": "砂漠の地、ミトカ",
+    "ko": "사막의 장소, 미트카",
+    "lt": "Mitka, vieta dykumoje",
+    "lv": "Mithkah, vieta tuksnesī",
+    "nb": "Mithkah, et sted i ørkenen",
+    "nl": "Mithkah, een plaats in de woestijn",
+    "pl": "Mithkah, miejsce na pustyni",
+    "pt": "Mithkah, um lugar no deserto",
+    "ro": "Mithkah, un loc în deșert",
+    "ru": "Митха, место в пустыне",
+    "sk": "Mithkah, miesto v púšti",
+    "sl": "Mitka, kraj v puščavi",
+    "sv": "Mithkah, en plats i öknen",
+    "tr": "Mithkah, Çölde bir yer",
+    "uk": "Мітка, місце в пустелі",
+    "zh": "米斯卡，沙漠中的一个地方"
+  },
+  "verses": [
+    "numbers 33:28:3",
+    "numbers 33:29:1"
+  ]
+}

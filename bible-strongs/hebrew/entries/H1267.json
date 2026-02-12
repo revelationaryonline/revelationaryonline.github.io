@@ -1,0 +1,42 @@
+{
+  "number": "H1267",
+  "language": "hebrew",
+  "transliteration": "bârûwth",
+  "pronunciation": "baw-rooth",
+  "definition": "food",
+  "kjvTranslation": "meat.",
+  "translations": {
+    "bg": "храна",
+    "cs": "potraviny",
+    "da": "mad",
+    "de": "lebensmittel",
+    "el": "τρόφιμα",
+    "es": "alimentos",
+    "et": "toit",
+    "fi": "ruoka",
+    "fr": "nourriture",
+    "hu": "élelmiszer",
+    "id": "makanan",
+    "it": "cibo",
+    "ja": "食品",
+    "ko": "음식",
+    "lt": "maistas",
+    "lv": "pārtika",
+    "nb": "mat",
+    "nl": "voedsel",
+    "pl": "jedzenie",
+    "pt": "alimentos",
+    "ro": "alimente",
+    "ru": "еда",
+    "sk": "potraviny",
+    "sl": "hrana",
+    "sv": "mat",
+    "tr": "yemek",
+    "uk": "їжа",
+    "zh": "食物"
+  },
+  "hebrew": "בָּרוּת",
+  "verses": [
+    "psalms 69:22:1"
+  ]
+}

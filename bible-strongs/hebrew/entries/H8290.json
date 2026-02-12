@@ -1,0 +1,42 @@
+{
+  "number": "H8290",
+  "language": "hebrew",
+  "transliteration": "Shârôwnîy",
+  "pronunciation": "shaw-ro-nee'",
+  "definition": "a Sharonite or inhabitant of Sharon",
+  "kjvTranslation": "Sharonite.",
+  "hebrew": "שָׁרוֹנִי",
+  "translations": {
+    "bg": "шаронец или жител на Шарон",
+    "cs": "šaronovec nebo obyvatel Šaronu",
+    "da": "en sharonit eller indbygger i Sharon",
+    "de": "ein Scharonit oder Einwohner von Scharon",
+    "el": "ένας Σαρονίτης ή κάτοικος της Σαρόν",
+    "es": "un sharonita o habitante de Sharon",
+    "et": "sharoni elanik või Sharoni elanik",
+    "fi": "sharonilainen tai Sharonin asukas",
+    "fr": "un Sharonite ou un habitant de Sharon",
+    "hu": "sharonita vagy sharoni lakos",
+    "id": "orang Sharon atau penduduk Sharon",
+    "it": "uno Sharonita o un abitante di Sharon",
+    "ja": "シャロン人またはシャロンの住民",
+    "ko": "샤론인 또는 샤론의 주민",
+    "lt": "šaronietis arba Šarono gyventojas",
+    "lv": "šaronietis jeb Šaronas iedzīvotājs",
+    "nb": "en Sharonitt eller innbygger i Sharon",
+    "nl": "een Sharoniet of inwoner van Sharon",
+    "pl": "szarończyk lub mieszkaniec Szaronu",
+    "pt": "sharonita ou habitante de Sharon",
+    "ro": "un Sharonit sau locuitor din Sharon",
+    "ru": "шаронец или житель Шарона",
+    "sk": "šarončan alebo obyvateľ Šaronu",
+    "sl": "šarončan ali prebivalec Šarona",
+    "sv": "en Sharonit eller invånare i Sharon",
+    "tr": "bir Şaronlu ya da Şaron'da yaşayan",
+    "uk": "шароніт або житель Шарона",
+    "zh": "沙龙人或沙龙居民"
+  },
+  "verses": [
+    "firstChronicles 27:29:6"
+  ]
+}

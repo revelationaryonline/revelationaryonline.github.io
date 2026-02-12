@@ -1,0 +1,42 @@
+{
+  "number": "H6114",
+  "language": "hebrew",
+  "transliteration": "ʻetser",
+  "pronunciation": "eh'-tser",
+  "definition": "restraint",
+  "kjvTranslation": "[phrase] magistrate.",
+  "hebrew": "עֶצֶר",
+  "translations": {
+    "bg": "ограничаване на движението",
+    "cs": "zádržný systém",
+    "da": "tilbageholdenhed",
+    "de": "zurückhaltung",
+    "el": "περιορισμός",
+    "es": "sujeción",
+    "et": "piirangud",
+    "fi": "rajoitus",
+    "fr": "contrainte",
+    "hu": "visszatartás",
+    "id": "menahan diri",
+    "it": "costrizione",
+    "ja": "拘束",
+    "ko": "구속",
+    "lt": "suvaržymas",
+    "lv": "ierobežojums",
+    "nb": "tilbakeholdenhet",
+    "nl": "terughoudendheid",
+    "pl": "powściągliwość",
+    "pt": "restrição",
+    "ro": "constrângere",
+    "ru": "сдерживание",
+    "sk": "obmedzenie pohybu",
+    "sl": "omejitev gibanja",
+    "sv": "återhållsamhet",
+    "tr": "kısıtlama",
+    "uk": "стриманість",
+    "zh": "克制"
+  },
+  "verses": [
+    "judges 18:7:21"
+  ]
+}

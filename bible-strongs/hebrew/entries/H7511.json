@@ -1,0 +1,43 @@
+{
+  "number": "H7511",
+  "language": "hebrew",
+  "transliteration": "râphaç",
+  "pronunciation": "raw-fas'",
+  "definition": "to trample, i.e. prostrate",
+  "kjvTranslation": "humble self, submit self.",
+  "hebrew": "רָפַס",
+  "translations": {
+    "bg": "да се тъпче, т.е. да се поваля",
+    "cs": "pošlapat, tj. rozdupat",
+    "da": "at trampe, dvs. lægge sig ned",
+    "de": "zertrampeln, d.h. sich niederwerfen",
+    "el": "να ποδοπατάτε, δηλ. να κατακρημνίζεστε",
+    "es": "pisotear, es decir, postrar",
+    "et": "trampida, st. maha trampida",
+    "fi": "talloa, eli polkea maahan..",
+    "fr": "piétiner, c'est-à-dire se prosterner",
+    "hu": "eltaposni, azaz leborulni",
+    "id": "menginjak-injak, yaitu bersujud",
+    "it": "calpestare, ovvero prostrare",
+    "ja": "踏みつける、すなわちひれ伏す",
+    "ko": "짓밟다, 즉 엎드리다",
+    "lt": "sutrypti, t. y. nusileisti",
+    "lv": "sapostīt, t.i., nogāzt uz zemes",
+    "nb": "å tråkke, dvs. legge seg ned",
+    "nl": "vertrappen, d.w.z. ter aarde werpen",
+    "pl": "deptać, tj. padać na ziemię",
+    "pt": "pisar, ou seja, prostrar-se",
+    "ro": "a călca în picioare, i.e. a se prosterna",
+    "ru": "топтать, т.е. попирать",
+    "sk": "pošliapať, t. j. vyčerpať",
+    "sl": "poteptati, tj. pokrčiti",
+    "sv": "att trampa, d.v.s. lägga sig ner",
+    "tr": "çiğnemek, yani secde etmek",
+    "uk": "топтати, тобто розпластуватися",
+    "zh": "践，即匍匐"
+  },
+  "verses": [
+    "psalms 68:31:7",
+    "proverbs 6:3:10"
+  ]
+}

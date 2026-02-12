@@ -1,0 +1,42 @@
+{
+  "number": "H4402",
+  "language": "hebrew",
+  "transliteration": "millêʼth",
+  "pronunciation": "mil-layth'",
+  "definition": "fulness, i.e. (concretely) a plump socket (of the eye)",
+  "kjvTranslation": "[idiom] fitly.",
+  "hebrew": "מִלֵּאת",
+  "translations": {
+    "bg": "пълнота, т.е. (конкретно) пухкава очна ямка (на окото)",
+    "cs": "plnost, tj. (konkrétně) plná oční jamka (oka)",
+    "da": "fylde, dvs. (konkret) en fyldig øjenhule",
+    "de": "fülle, d. h. (konkret) eine pralle Augenhöhle",
+    "el": "πληρότητα, δηλ. (συγκεκριμένα) μια παχιά κόγχη (του ματιού)",
+    "es": "plenitud, es decir (concretamente) una cuenca regordeta (del ojo)",
+    "et": "täituvus, s.t. (konkreetselt) punnis (silmapesa)",
+    "fi": "täyteys, eli (konkreettisesti) pullea (silmän) holkki",
+    "fr": "la plénitude, c'est-à-dire (concrètement) une orbite (de l'œil) bien remplie",
+    "hu": "fullness, azaz (konkrétan) egy dús szemgödör (a szem)",
+    "id": "kepenuhan, yaitu (secara konkret) soket (mata) yang montok",
+    "it": "pienezza, vale a dire (concretamente) una cavità (dell'occhio) abbondante",
+    "ja": "ふくよかさ、すなわち（具体的には）ふっくらとした眼窩",
+    "ko": "충만함, 즉 (구체적으로) 통통한 (눈의) 소켓",
+    "lt": "pilnumas, t. y. (konkrečiai) išsiplėtęs akies vyzdys",
+    "lv": "pilnība, t. i., (konkrēti) kupls acs kaktiņš",
+    "nb": "fylde, dvs. (konkret) en fyldig øyehule (i øyet)",
+    "nl": "volheid, d.w.z. (concreet) een mollige oogkas",
+    "pl": "pełnia, tj. (konkretnie) pulchny oczodół (oka)",
+    "pt": "plenitude, ou seja, (concretamente) uma cavidade (do olho) carnuda",
+    "ro": "plinătate, adică (concret) o cavitate (a ochiului) plină",
+    "ru": "полнота, т.е. (конкретно) пухлая глазница (глаза)",
+    "sk": "plnosť, t. j. (konkrétne) bacuľatá jamka (oka)",
+    "sl": "polnost, tj. (konkretno) polna očesna votlina",
+    "sv": "fyllighet, d.v.s. (konkret) en fyllig ögonhåla",
+    "tr": "dolgunluk, yani (somut olarak) dolgun bir çukur (göz)",
+    "uk": "повнота, тобто (конкретно) пухка очниця (ока)",
+    "zh": "丰满，即（具体地说）眼窝丰满"
+  },
+  "verses": [
+    "solomon 5:12:9"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5597",
+  "language": "hebrew",
+  "transliteration": "çappachath",
+  "pronunciation": "sap-pakh'-ath",
+  "definition": "the mange (as making the hair fall off)",
+  "kjvTranslation": "scab.",
+  "hebrew": "סַפַּחַת",
+  "translations": {
+    "bg": "манджата (като причиняваща опадане на косата)",
+    "cs": "svrab (jako způsobující vypadávání vlasů)",
+    "da": "skab (som får håret til at falde af)",
+    "de": "die Räude (als Ursache für das Ausfallen der Haare)",
+    "el": "την ψώρα (που κάνει τα μαλλιά να πέφτουν)",
+    "es": "la sarna (como hacer caer el pelo)",
+    "et": "sügelus (nagu karvade väljalangemine)",
+    "fi": "räkätauti (joka saa hiukset putoamaan)",
+    "fr": "la gale (qui fait tomber les cheveux)",
+    "hu": "a rühesség (mint a szőrhullás)",
+    "id": "kadas (seperti membuat rambut rontok)",
+    "it": "la scabbia (che fa cadere i capelli)",
+    "ja": "疥癬",
+    "ko": "머릿니(머리카락이 빠지는 것처럼)",
+    "lt": "kerpės (nuo kurių nuslenka plaukai)",
+    "lv": "kašķi (kā matu izkrišana)",
+    "nb": "skabb (som får håret til å falle av)",
+    "nl": "de schurft (waardoor het haar uitvalt)",
+    "pl": "świerzb (jako powodujący wypadanie włosów)",
+    "pt": "a sarna (que faz cair o pelo)",
+    "ro": "scabie (ca făcând părul să cadă)",
+    "ru": "мандраж (из-за которого выпадают волосы)",
+    "sk": "svrab (ako vypadávanie vlasov)",
+    "sl": "gobavost (zaradi katere izpadajo lasje)",
+    "sv": "skabb (som att få håret att falla av)",
+    "tr": "uyuz (saçların dökülmesine neden olarak)",
+    "uk": "лупа (через яку випадає волосся)",
+    "zh": "疥癣"
+  },
+  "verses": [
+    "leviticus 13:2:7",
+    "leviticus 14:56:1"
+  ]
+}

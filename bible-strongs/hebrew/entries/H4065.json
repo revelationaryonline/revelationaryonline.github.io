@@ -1,0 +1,42 @@
+{
+  "number": "H4065",
+  "language": "hebrew",
+  "transliteration": "maddûwach",
+  "pronunciation": "mad-doo'akh",
+  "definition": "seduction",
+  "kjvTranslation": "cause of banishment.",
+  "hebrew": "מַדּוּחַ",
+  "translations": {
+    "bg": "съблазняване",
+    "cs": "svádění",
+    "da": "forførelse",
+    "de": "verführung",
+    "el": "αποπλάνηση",
+    "es": "seducción",
+    "et": "võrgutamine",
+    "fi": "viettely",
+    "fr": "séduction",
+    "hu": "csábítás",
+    "id": "rayuan",
+    "it": "seduzione",
+    "ja": "誘惑",
+    "ko": "유혹",
+    "lt": "gundymas",
+    "lv": "pavedināšana",
+    "nb": "forførelse",
+    "nl": "verleiding",
+    "pl": "uwodzenie",
+    "pt": "sedução",
+    "ro": "seducție",
+    "ru": "соблазнение",
+    "sk": "zvádzanie",
+    "sl": "zapeljevanje",
+    "sv": "förförelse",
+    "tr": "baştan çıkarma",
+    "uk": "спокуса",
+    "zh": "奸淫"
+  },
+  "verses": [
+    "lamentations 2:14:16"
+  ]
+}

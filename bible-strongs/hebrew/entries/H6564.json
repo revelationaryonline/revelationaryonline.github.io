@@ -1,0 +1,42 @@
+{
+  "number": "H6564",
+  "language": "hebrew",
+  "transliteration": "pârâq",
+  "pronunciation": "paw-rawk'",
+  "definition": "soup (as full of crumbed meat)",
+  "kjvTranslation": "broth. See also H4832 (מַרְפֵּא).",
+  "hebrew": "פָּרָק",
+  "translations": {
+    "bg": "супа (като пълна с натрошено месо)",
+    "cs": "polévka (plná drceného masa)",
+    "da": "suppe (som er fuld af smuldret kød)",
+    "de": "suppe (wie voll mit zerkrümeltem Fleisch)",
+    "el": "σούπα (γεμάτη με ψιλοκομμένο κρέας)",
+    "es": "sopa (como llena de carne desmigada)",
+    "et": "suppi (nagu täis riivitud liha)",
+    "fi": "keitto (täynnä lihapaloja)",
+    "fr": "soupe (comme pleine de viande émiettée)",
+    "hu": "leves (mivel tele van húsdarabkákkal)",
+    "id": "sup (penuh dengan daging yang dihancurkan)",
+    "it": "zuppa (in quanto piena di carne sbriciolata)",
+    "ja": "スープ",
+    "ko": "수프(부스러기 고기가 가득한 상태)",
+    "lt": "sriuba (kaip pilna trupintos mėsos)",
+    "lv": "zupa (kā pilna ar drupinātu gaļu)",
+    "nb": "suppe (som full av smuldret kjøtt)",
+    "nl": "soep (als vol gekruimeld vlees)",
+    "pl": "zupa (jako pełna rozdrobnionego mięsa)",
+    "pt": "sopa (como cheia de carne esmigalhada)",
+    "ro": "supă (la fel de plină de carne sfărâmată)",
+    "ru": "суп (полный мясных крошек)",
+    "sk": "polievka (plná mäsových omrviniek)",
+    "sl": "juha (kot polna drobtinic mesa)",
+    "sv": "soppa (som full av smulat kött)",
+    "tr": "çorba (kırıntı etle dolu olarak)",
+    "uk": "суп (з великою кількістю м'ясних крихт)",
+    "zh": "羹"
+  },
+  "verses": [
+    "isaiah 65:4:7"
+  ]
+}

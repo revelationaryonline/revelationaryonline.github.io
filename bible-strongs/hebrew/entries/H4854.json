@@ -1,0 +1,43 @@
+{
+  "number": "H4854",
+  "language": "hebrew",
+  "transliteration": "Massâʼ",
+  "pronunciation": "mas-saw'",
+  "definition": "Massa, a son of Ishmael",
+  "kjvTranslation": "Massa.",
+  "hebrew": "מַשָּׂא",
+  "translations": {
+    "bg": "Маса, син на Исмаил",
+    "cs": "Massa, syn Izmaelův",
+    "da": "Massa, en søn af Ismael",
+    "de": "Massa, ein Sohn von Ismael",
+    "el": "Massa, γιος του Ισμαήλ",
+    "es": "Massa, hijo de Ismael",
+    "et": "Massa, Ismaeli poeg",
+    "fi": "Massa, Ismaelin poika",
+    "fr": "Massa, fils d'Ismaël",
+    "hu": "Massa, Izmael fia",
+    "id": "Massa, seorang putra Ismael",
+    "it": "Massa, figlio di Ismaele",
+    "ja": "イシュマエルの息子マサ",
+    "ko": "이스마엘의 아들, 마사",
+    "lt": "Massa, Izmaelio sūnus",
+    "lv": "Massa, Ismaēla dēls",
+    "nb": "Massa, en sønn av Ismael",
+    "nl": "Massa, een zoon van Ismaël",
+    "pl": "Massa, syn Ismaela",
+    "pt": "Massa, um filho de Ismael",
+    "ro": "Massa, un fiu al lui Ismael",
+    "ru": "Масса, сын Измаила",
+    "sk": "Massa, syn Izmaelov",
+    "sl": "Massa, Izmaelov sin",
+    "sv": "Massa, en son till Ishmael",
+    "tr": "Massa, İsmail'in oğlu",
+    "uk": "Маса, син Ізмаїла",
+    "zh": "以实玛利的儿子马萨"
+  },
+  "verses": [
+    "genesis 25:14:2",
+    "firstChronicles 1:30:2"
+  ]
+}

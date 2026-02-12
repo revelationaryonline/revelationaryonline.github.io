@@ -1,0 +1,42 @@
+{
+  "number": "H6243",
+  "language": "hebrew",
+  "transliteration": "ʻesrîyn",
+  "pronunciation": "es-reen'",
+  "definition": "{twenty; also (ordinal) twentieth}",
+  "kjvTranslation": "twenty.",
+  "hebrew": "עֶשְׂרִין",
+  "translations": {
+    "bg": "{двадесет; също (редно) двадесето}",
+    "cs": "{dvacátý; také (řádově) dvacátý}",
+    "da": "{tyve; også (ordinal) tyvende}",
+    "de": "{zwanzig; auch (ordinal) zwanzigste}",
+    "el": "{εικοστός, επίσης (τακτικός) εικοστός}",
+    "es": "{veinte; también (ordinal) vigésimo}",
+    "et": "{kümnes; ka (ordinaal) kahekümnes}",
+    "fi": "{kaksikymmentä; myös (järjestysluku) kahdeskymmenes}",
+    "fr": "{vingt ; également (ordinal) vingtième}",
+    "hu": "{húszas, vagy (rendi) huszadik}",
+    "id": "{dua puluh; juga (ordinal) kedua puluh}",
+    "it": "{Venti; anche (ordinale) ventesimo}",
+    "ja": "{twenty; (ordinal) twentieth}とも。",
+    "ko": "{20; 또한 (서수) 20}",
+    "lt": "{dvidešimtas; taip pat (eilės tvarka) dvidešimtas}",
+    "lv": "{divdesmitais; arī (kārtas) divdesmitais}",
+    "nb": "{tjue; også (ordinal) tjuende}",
+    "nl": "{twintig; ook (ordinaal) twintigste}",
+    "pl": "{dwudziesty; również (porządkowy) dwudziesty}",
+    "pt": "{vinte; também (ordinal) vigésimo}",
+    "ro": "{douăzeci; de asemenea (ordinal) douăzeci}",
+    "ru": "{двадцатый; также (порядковый) двадцатый}",
+    "sk": "{dvadsiaty; tiež (radový) dvadsiaty}",
+    "sl": "{dvajseti; tudi (vrstilni) dvajseti}",
+    "sv": "{tjugo; även (ordinal) tjugonde}",
+    "tr": "{yirmi; ayrıca (sıra) yirminci}",
+    "uk": "{двадцять; також (порядковий) двадцятий}",
+    "zh": "{二十；也是（序数）第二十}。"
+  },
+  "verses": [
+    "daniel 6:2:8"
+  ]
+}

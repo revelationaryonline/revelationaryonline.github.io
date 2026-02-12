@@ -1,0 +1,42 @@
+{
+  "number": "H6097",
+  "language": "hebrew",
+  "transliteration": "ʻêtsâh",
+  "pronunciation": "ay-tsaw'",
+  "definition": "timber",
+  "kjvTranslation": "trees.",
+  "hebrew": "עֵצָה",
+  "translations": {
+    "bg": "дървен материал",
+    "cs": "dřevo",
+    "da": "tømmer",
+    "de": "holz",
+    "el": "ξυλεία",
+    "es": "madera",
+    "et": "puit",
+    "fi": "puutavara",
+    "fr": "bois",
+    "hu": "fa",
+    "id": "kayu",
+    "it": "legname",
+    "ja": "木材",
+    "ko": "목재",
+    "lt": "mediena",
+    "lv": "kokmateriāli",
+    "nb": "tømmer",
+    "nl": "hout",
+    "pl": "drewno",
+    "pt": "madeira",
+    "ro": "lemn",
+    "ru": "древесина",
+    "sk": "drevo",
+    "sl": "les",
+    "sv": "timmer",
+    "tr": "kereste",
+    "uk": "деревина",
+    "zh": "木材"
+  },
+  "verses": [
+    "jeremiah 6:6:6"
+  ]
+}

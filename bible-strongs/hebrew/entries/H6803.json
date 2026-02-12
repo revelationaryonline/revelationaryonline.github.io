@@ -1,0 +1,42 @@
+{
+  "number": "H6803",
+  "language": "hebrew",
+  "transliteration": "tsintseneth",
+  "pronunciation": "tsin-tseh'-neth",
+  "definition": "a vase (probably a vial tapering at the top)",
+  "kjvTranslation": "pot.",
+  "hebrew": "צִנְצֶנֶת",
+  "translations": {
+    "bg": "ваза (вероятно заострена в горната си част чаша)",
+    "cs": "váza (pravděpodobně lahvička zužující se nahoře)",
+    "da": "en vase (sandsynligvis et hætteglas, der spidser til i toppen)",
+    "de": "eine Vase (wahrscheinlich ein sich nach oben verjüngendes Gefäß)",
+    "el": "ένα αγγείο (πιθανότατα ένα φιαλίδιο που στενεύει στην κορυφή)",
+    "es": "un jarrón (probablemente una ampolla que se estrecha en la parte superior)",
+    "et": "vaas (tõenäoliselt ülaosas kooniliseks muutuv vaas)",
+    "fi": "maljakko (luultavasti ylhäältä kapeneva maljakko)",
+    "fr": "un vase (probablement une fiole se rétrécissant au sommet)",
+    "hu": "egy váza (valószínűleg egy felül elvékonyodó fiola)",
+    "id": "sebuah vas (mungkin sebuah botol yang meruncing di bagian atas)",
+    "it": "un vaso (probabilmente una fiala che si assottiglia alla sommità)",
+    "ja": "花瓶（おそらく上部が細くなっている小瓶）",
+    "ko": "꽃병(아마도 윗부분이 가늘어지는 꽃병일 것입니다)",
+    "lt": "vaza (tikriausiai viršuje siaurėjantis buteliukas)",
+    "lv": "vāze (visticamāk, augšpusē sašaurināts flakons)",
+    "nb": "en vase (sannsynligvis en ampulle som smalner av på toppen)",
+    "nl": "een vaas (waarschijnlijk een aan de bovenkant taps toelopende flacon)",
+    "pl": "wazon (prawdopodobnie fiolka zwężająca się u góry)",
+    "pt": "um vaso (provavelmente um frasco afunilado no topo)",
+    "ro": "o vază (probabil un flacon conic la vârf)",
+    "ru": "ваза (вероятно, флакон, сужающийся кверху)",
+    "sk": "váza (pravdepodobne fľaša, ktorá sa na vrchole zužuje)",
+    "sl": "vazo (verjetno steklenico, ki se na vrhu zožuje)",
+    "sv": "en vas (troligen en flaska som smalnar av upptill)",
+    "tr": "bir vazo (muhtemelen tepesi sivrilen bir şişe)",
+    "uk": "ваза (ймовірно, флакон, що звужується вгорі)",
+    "zh": "花瓶"
+  },
+  "verses": [
+    "exodus 16:33:5"
+  ]
+}

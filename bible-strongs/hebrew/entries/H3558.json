@@ -1,0 +1,43 @@
+{
+  "number": "H3558",
+  "language": "hebrew",
+  "transliteration": "kûwmâz",
+  "pronunciation": "koo-mawz'",
+  "definition": "a jewel (probably gold beads)",
+  "kjvTranslation": "tablet.",
+  "translations": {
+    "bg": "бижу (вероятно златни мъниста)",
+    "cs": "šperk (pravděpodobně zlaté korálky)",
+    "da": "et smykke (sandsynligvis guldperler)",
+    "de": "ein Schmuckstück (wahrscheinlich Goldperlen)",
+    "el": "ένα κόσμημα (πιθανώς χρυσές χάντρες)",
+    "es": "una joya (probablemente cuentas de oro)",
+    "et": "juveel (tõenäoliselt kuldsed helmed)",
+    "fi": "koru (luultavasti kultahelmet)",
+    "fr": "un bijou (probablement des perles d'or)",
+    "hu": "egy ékszer (valószínűleg aranygyöngyök)",
+    "id": "sebuah permata (mungkin manik-manik emas)",
+    "it": "un gioiello (probabilmente perline d'oro)",
+    "ja": "宝石（おそらく金のビーズ）",
+    "ko": "보석(아마도 금구슬)",
+    "lt": "brangakmenis (tikriausiai aukso karoliukai)",
+    "lv": "dārgakmens (iespējams, zelta pērlītes)",
+    "nb": "et smykke (sannsynligvis gullperler)",
+    "nl": "een juweel (waarschijnlijk gouden kralen)",
+    "pl": "klejnot (prawdopodobnie złote koraliki)",
+    "pt": "uma joia (provavelmente contas de ouro)",
+    "ro": "o bijuterie (probabil mărgele de aur)",
+    "ru": "драгоценный камень (возможно, золотые бусины)",
+    "sk": "šperk (pravdepodobne zlaté korálky)",
+    "sl": "dragulj (verjetno zlate kroglice)",
+    "sv": "en juvel (troligen guldpärlor)",
+    "tr": "bir mücevher (muhtemelen altın boncuklar)",
+    "uk": "коштовність (ймовірно, золоті намистини)",
+    "zh": "宝石"
+  },
+  "hebrew": "כּוּמָז",
+  "verses": [
+    "exodus 35:22:11",
+    "numbers 31:50:13"
+  ]
+}

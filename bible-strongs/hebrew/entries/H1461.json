@@ -1,0 +1,42 @@
+{
+  "number": "H1461",
+  "language": "hebrew",
+  "transliteration": "gûwb",
+  "pronunciation": "goob",
+  "definition": "to dig",
+  "kjvTranslation": "husbandman.",
+  "translations": {
+    "bg": "да копаеш",
+    "cs": "kopat",
+    "da": "til at grave",
+    "de": "zum Graben",
+    "el": "να σκάψει",
+    "es": "cavar",
+    "et": "kaevata",
+    "fi": "kaivaa",
+    "fr": "pour creuser",
+    "hu": "ásni",
+    "id": "untuk menggali",
+    "it": "per scavare",
+    "ja": "掘る",
+    "ko": "파다",
+    "lt": "kasti",
+    "lv": "rakt",
+    "nb": "å grave",
+    "nl": "om te graven",
+    "pl": "kopać",
+    "pt": "para escavar",
+    "ro": "pentru a săpa",
+    "ru": "копать",
+    "sk": "kopať",
+    "sl": "kopati",
+    "sv": "för att gräva",
+    "tr": "kazmak için",
+    "uk": "копати",
+    "zh": "挖掘"
+  },
+  "hebrew": "גּוּב",
+  "verses": [
+    "secondKings 25:12:6"
+  ]
+}

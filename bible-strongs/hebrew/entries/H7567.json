@@ -1,0 +1,43 @@
+{
+  "number": "H7567",
+  "language": "hebrew",
+  "transliteration": "râshash",
+  "pronunciation": "raw-shash'",
+  "definition": "to demolish",
+  "kjvTranslation": "impoverish.",
+  "hebrew": "רָשַׁשׁ",
+  "translations": {
+    "bg": "да разрушава",
+    "cs": "demolovat",
+    "da": "at rive ned",
+    "de": "zum Abriss",
+    "el": "να κατεδαφίσει",
+    "es": "demoler",
+    "et": "lammutada",
+    "fi": "purkaa",
+    "fr": "démolir",
+    "hu": "lebontani",
+    "id": "untuk menghancurkan",
+    "it": "demolire",
+    "ja": "取り壊す",
+    "ko": "철거",
+    "lt": "griauti",
+    "lv": "nojaukt",
+    "nb": "å rive",
+    "nl": "slopen",
+    "pl": "wyburzyć",
+    "pt": "demolir",
+    "ro": "să demoleze",
+    "ru": "разрушать",
+    "sk": "demolovať",
+    "sl": "rušiti",
+    "sv": "att riva",
+    "tr": "yıkmak için",
+    "uk": "знести",
+    "zh": "拆除"
+  },
+  "verses": [
+    "jeremiah 5:17:12",
+    "malachi 1:4:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H8377",
+  "language": "hebrew",
+  "transliteration": "tᵉʼôw",
+  "pronunciation": "teh-o'",
+  "definition": "a species of antelope (probably from the white stripe on the cheek)",
+  "kjvTranslation": "wild bull (ox).",
+  "hebrew": "תְּאוֹ",
+  "translations": {
+    "bg": "вид антилопа (вероятно по бялата ивица на бузата)",
+    "cs": "druh antilopy (pravděpodobně podle bílého pruhu na tváři)",
+    "da": "en antilopeart (sandsynligvis fra den hvide stribe på kinden)",
+    "de": "eine Antilopenart (wahrscheinlich aufgrund des weißen Streifens auf der Wange)",
+    "el": "είδος αντιλόπης (πιθανώς από τη λευκή λωρίδα στο μάγουλο)",
+    "es": "una especie de antílope (probablemente por la raya blanca en la mejilla)",
+    "et": "antiloobi liik (tõenäoliselt valge triibu põsel)",
+    "fi": "antilooppilaji (luultavasti posken valkoisesta raidasta johtuen)",
+    "fr": "une espèce d'antilope (probablement d'après la bande blanche sur la joue)",
+    "hu": "egy antilopfaj (valószínűleg az arcán lévő fehér csíkról)",
+    "id": "spesies kijang (mungkin dari garis putih di pipi)",
+    "it": "specie di antilope (probabilmente dalla striscia bianca sulla guancia)",
+    "ja": "カモシカ属",
+    "ko": "영양의 한 종(뺨의 흰색 줄무늬에서 유래)",
+    "lt": "antilopių rūšis (tikriausiai pagal baltą juostelę ant skruosto)",
+    "lv": "antilopes suga (iespējams, pēc baltās svītras uz vaiga)",
+    "nb": "en antilopeart (sannsynligvis fra den hvite stripen på kinnet)",
+    "nl": "een antilopesoort (waarschijnlijk van de witte streep op de wang)",
+    "pl": "gatunek antylopy (prawdopodobnie od białego paska na policzku)",
+    "pt": "uma espécie de antílope (provavelmente devido à risca branca na face)",
+    "ro": "o specie de antilopă (probabil de la dunga albă de pe obraz)",
+    "ru": "вид антилоп (вероятно, по белой полосе на щеке)",
+    "sk": "druh antilopy (pravdepodobne podľa bieleho pruhu na tvári)",
+    "sl": "vrsta antilope (verjetno po beli črti na licu)",
+    "sv": "en art av antilop (troligen från den vita randen på kinden)",
+    "tr": "bir antilop türü (muhtemelen yanağındaki beyaz şeritten)",
+    "uk": "вид антилопи (ймовірно, через білу смужку на щоці)",
+    "zh": "羚羊"
+  },
+  "verses": [
+    "deuteronomy 14:5:5",
+    "isaiah 51:20:6"
+  ]
+}

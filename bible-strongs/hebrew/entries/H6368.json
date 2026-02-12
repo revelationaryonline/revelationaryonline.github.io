@@ -1,0 +1,43 @@
+{
+  "number": "H6368",
+  "language": "hebrew",
+  "transliteration": "pîyach",
+  "pronunciation": "pee'-akh",
+  "definition": "a powder (as easily puffed away), i.e. ashes or dust",
+  "kjvTranslation": "ashes.",
+  "hebrew": "פִּיחַ",
+  "translations": {
+    "bg": "прах (който лесно се издухва), т.е. пепел или прах",
+    "cs": "prášek (který se snadno rozfouká), tj. popel nebo prach",
+    "da": "et pulver (som let pustes væk), dvs. aske eller støv",
+    "de": "ein Pulver (wie leicht weggepustet), d.h. Asche oder Staub",
+    "el": "μια σκόνη (που ξεφουσκώνει εύκολα), δηλαδή στάχτη ή σκόνη",
+    "es": "un polvo (como el que se esparce fácilmente), es decir, cenizas o polvo",
+    "et": "pulber (nagu kergesti ära puhutud), s.t. tuhk või tolm",
+    "fi": "jauhe (joka on helposti puhallettavissa pois), ts. tuhka tai pöly",
+    "fr": "une poudre (facile à souffler), c'est-à-dire des cendres ou de la poussière",
+    "hu": "por (mint könnyen kifújható), azaz hamu vagy por",
+    "id": "bubuk (yang mudah mengembang), yaitu abu atau debu",
+    "it": "una polvere (come se fosse facilmente soffiata via), cioè cenere o polvere",
+    "ja": "ふんまつ",
+    "ko": "가루(쉽게 부풀어 오르는 것), 즉 재 또는 먼지",
+    "lt": "milteliai (lengvai išpurškiami), t. y. pelenai arba dulkės",
+    "lv": "pulveris (viegli izspūšams), t. i., pelni vai putekļi",
+    "nb": "et pulver (som lett pustes bort), dvs. aske eller støv",
+    "nl": "een poeder (zoals gemakkelijk weggeblazen), d.w.z. as of stof",
+    "pl": "proszek (łatwy do zdmuchnięcia), tj. popiół lub pył",
+    "pt": "um pó (que se esvai facilmente), ou seja, cinzas ou poeira",
+    "ro": "o pulbere (ca și cum ar fi ușor de suflat), adică cenușă sau praf",
+    "ru": "порошок (легко сдуваемый), т.е. пепел или пыль",
+    "sk": "prášok (ktorý sa ľahko rozfúka), t. j. popol alebo prach",
+    "sl": "prah (ki se zlahka razprši), tj. pepel ali prah",
+    "sv": "ett pulver (som lätt puffas bort), t.ex. aska eller damm",
+    "tr": "bir toz (kolayca üflenebilen), yani kül veya toz",
+    "uk": "порошок (який легко здувається), тобто попіл або пил",
+    "zh": "粉末"
+  },
+  "verses": [
+    "exodus 9:8:10",
+    "exodus 9:10:2"
+  ]
+}

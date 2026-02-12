@@ -1,0 +1,43 @@
+{
+  "number": "H1220",
+  "language": "hebrew",
+  "transliteration": "betser",
+  "pronunciation": "beh'-tser",
+  "definition": "strictly a clipping, i.e. gold (as dug out)",
+  "kjvTranslation": "gold defence.",
+  "translations": {
+    "bg": "стриктно изрезка, т.е. злато (като изкопано)",
+    "cs": "výhradně výstřižek, tj. zlato (vykopané)",
+    "da": "udelukkende et udklip, dvs. guld (som er gravet ud)",
+    "de": "ausschließlich ein Ausschnitt, d.h. Gold (wie ausgegraben)",
+    "el": "αυστηρά ένα απόκομμα, δηλ. χρυσός (όπως έχει ανασκαφεί)",
+    "es": "estrictamente un recorte, es decir, oro (como desenterrado)",
+    "et": "rangelt klipp, s.t. kuld (nagu välja kaevatud)",
+    "fi": "tiukasti ottaen leike, eli kulta (kaivettuna esiin)",
+    "fr": "strictement une coupure, c'est-à-dire de l'or (tel qu'il a été extrait)",
+    "hu": "szigorúan egy kivágás, azaz arany (mint kiásott)",
+    "id": "benar-benar kliping, yaitu emas (seperti yang digali)",
+    "it": "strettamente un ritaglio, cioè oro (come scavato)",
+    "ja": "切抜き",
+    "ko": "엄밀히 말하면 클리핑, 즉 금(파낸 상태)",
+    "lt": "tik iškarpa, t. y. auksas (kaip iškastas)",
+    "lv": "tikai izgriezums, t. i., zelts (kā izrakts)",
+    "nb": "strengt tatt et utklipp, dvs. gull (som gravd ut)",
+    "nl": "strikt een knipsel, d.w.z. goud (zoals uitgegraven)",
+    "pl": "ściśle wycinek, tj. złoto (jako wykopane)",
+    "pt": "estritamente um recorte, ou seja, ouro (tal como escavado)",
+    "ro": "strict o tăietură, adică aur (așa cum a fost săpat)",
+    "ru": "строго вырезка, т.е. золото (как выкопанное)",
+    "sk": "výlučne výstrižok, t. j. zlato (ako vykopané)",
+    "sl": "izključno izrez, tj. zlato (kot izkopano)",
+    "sv": "strikt ett klipp, dvs. guld (som grävts ut)",
+    "tr": "kesinlikle bir kırpıntı, yani altın (çıkarıldığı gibi)",
+    "uk": "суто обрізки, тобто золото (в тому вигляді, в якому його викопали)",
+    "zh": "掘金"
+  },
+  "hebrew": "בֶּצֶר",
+  "verses": [
+    "job 22:24:3",
+    "job 22:25:2"
+  ]
+}

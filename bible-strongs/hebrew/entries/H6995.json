@@ -1,0 +1,43 @@
+{
+  "number": "H6995",
+  "language": "hebrew",
+  "transliteration": "qôṭen",
+  "pronunciation": "ko'-ten",
+  "definition": "a pettiness, i.e. the little finger",
+  "kjvTranslation": "little finger.",
+  "hebrew": "קֹטֶן",
+  "translations": {
+    "bg": "дребнавост, т.е. малкият пръст",
+    "cs": "malichernost, tj. malíček",
+    "da": "en smålighed, dvs. lillefingeren",
+    "de": "eine Kleinlichkeit, d.h. der kleine Finger",
+    "el": "μια μικροπρέπεια, δηλαδή το μικρό δάχτυλο",
+    "es": "una mezquindad, es decir, el dedo meñique",
+    "et": "väiklus, st. väike sõrm",
+    "fi": "pikkumaisuus, eli pikkusormi",
+    "fr": "une mesquinerie, c'est-à-dire le petit doigt",
+    "hu": "a kicsinyesség, azaz a kisujj",
+    "id": "kepicikan, yaitu jari kelingking",
+    "it": "una meschinità, cioè il dito mignolo",
+    "ja": "小心、すなわち小指",
+    "ko": "새끼 손가락과 같은 사소한 것",
+    "lt": "smulkmeniškumas, t. y. mažasis pirštelis",
+    "lv": "sīkumainība, t.i., mazais pirkstiņš",
+    "nb": "en smålighet, dvs. lillefingeren",
+    "nl": "een kleinzieligheid, d.w.z. de pink",
+    "pl": "małostkowość, tj. mały palec",
+    "pt": "uma mesquinhez, ou seja, o dedo mindinho",
+    "ro": "o meschinărie, adică degetul mic",
+    "ru": "мелочность, т.е. мизинец",
+    "sk": "malichernosť, t. j. malíček",
+    "sl": "malenkost, tj. mali prst",
+    "sv": "en småaktighet, t.ex. lillfingret",
+    "tr": "küçüklük, yani küçük parmak",
+    "uk": "дрібниця, тобто мізинець",
+    "zh": "小指头"
+  },
+  "verses": [
+    "firstKings 12:10:25",
+    "secondChronicles 10:10:24"
+  ]
+}

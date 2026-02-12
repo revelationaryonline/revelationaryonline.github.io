@@ -1,0 +1,43 @@
+{
+  "number": "H6751",
+  "language": "hebrew",
+  "transliteration": "tsâlal",
+  "pronunciation": "tsaw-lal'",
+  "definition": "to shade, as twilight or an opaque object",
+  "kjvTranslation": "begin to be dark, shadowing.",
+  "hebrew": "צָלַל",
+  "translations": {
+    "bg": "да засенчва, като полумрак или непрозрачен предмет",
+    "cs": "zastínit, jako soumrak nebo neprůhledný předmět",
+    "da": "at skygge, som tusmørke eller et uigennemsigtigt objekt",
+    "de": "schattieren, wie Dämmerung oder ein undurchsichtiges Objekt",
+    "el": "σκιάζω, όπως το λυκόφως ή ένα αδιαφανές αντικείμενο",
+    "es": "dar sombra, como al crepúsculo o a un objeto opaco",
+    "et": "varjutada, nagu hämarik või läbipaistmatu objekt",
+    "fi": "varjostaa, kuten hämärää tai läpinäkymätöntä esinettä",
+    "fr": "ombrer, comme le crépuscule ou un objet opaque",
+    "hu": "árnyékolni, mint a szürkület vagy egy átláthatatlan tárgyat",
+    "id": "untuk menaungi, seperti senja atau objek buram",
+    "it": "ombreggiare, come il crepuscolo o un oggetto opaco",
+    "ja": "薄明かりや不透明なもののように陰にする",
+    "ko": "황혼이나 불투명한 물체처럼 그늘을 만들려면",
+    "lt": "užtemdyti, kaip sutemas arba nepermatomą objektą",
+    "lv": "aizēnot, piemēram, krēslas vai necaurspīdīgu objektu",
+    "nb": "å skygge, som skumring eller et ugjennomsiktig objekt",
+    "nl": "om schaduw te geven, zoals schemering of een ondoorzichtig object",
+    "pl": "zacieniać, jak zmierzch lub nieprzezroczysty obiekt",
+    "pt": "sombrear, como o crepúsculo ou um objeto opaco",
+    "ro": "a umbri, ca amurgul sau un obiect opac",
+    "ru": "затенять, например, сумерки или непрозрачный предмет",
+    "sk": "zatieniť, ako súmrak alebo nepriehľadný objekt",
+    "sl": "zasenčiti, kot somrak ali nepregleden predmet",
+    "sv": "att skugga, som skymning eller ett ogenomskinligt föremål",
+    "tr": "alacakaranlık veya opak bir nesne gibi gölgelendirmek",
+    "uk": "затінювати, як сутінки або непрозорий об'єкт",
+    "zh": "遮蔽，如暮色或不透明的物体"
+  },
+  "verses": [
+    "nehemiah 13:19:2",
+    "ezekiel 31:3:7"
+  ]
+}

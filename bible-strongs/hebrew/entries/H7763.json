@@ -1,0 +1,43 @@
+{
+  "number": "H7763",
+  "language": "hebrew",
+  "transliteration": "Shôwmêr",
+  "pronunciation": "sho-mare'",
+  "definition": "Shomer, the name of two Israelites",
+  "kjvTranslation": "Shomer.",
+  "hebrew": "שׁוֹמֵר",
+  "translations": {
+    "bg": "Шомер, името на двама израилтяни",
+    "cs": "Šomer, jméno dvou Izraelců",
+    "da": "Shomer, navnet på to israelitter",
+    "de": "Shomer, der Name von zwei Israeliten",
+    "el": "Shomer, το όνομα δύο Ισραηλιτών",
+    "es": "Shomer, nombre de dos israelitas",
+    "et": "Šomer, kahe iisraellase nimi",
+    "fi": "Shomer, kahden israelilaisen nimi",
+    "fr": "Shomer, le nom de deux Israélites",
+    "hu": "Shomer, két izraelita neve",
+    "id": "Shomer, nama dua orang Israel",
+    "it": "Shomer, il nome di due israeliti",
+    "ja": "ショーマー、2人のイスラエル人の名前",
+    "ko": "쇼메르, 두 이스라엘인의 이름",
+    "lt": "Šomeras, dviejų izraelitų vardas",
+    "lv": "Šomer, divu izraēliešu vārds",
+    "nb": "Shomer, navnet på to israelitter",
+    "nl": "Shomer, de naam van twee Israëlieten",
+    "pl": "Shomer, imię dwóch Izraelitów",
+    "pt": "Shomer, o nome de dois israelitas",
+    "ro": "Shomer, numele a doi israeliți",
+    "ru": "Шомер, имя двух израильтян",
+    "sk": "Šomer, meno dvoch Izraelitov",
+    "sl": "Šomer, ime dveh Izraelcev",
+    "sv": "Shomer, namnet på två israeliter",
+    "tr": "Şomer, iki İsraillinin adı",
+    "uk": "Шомер, ім'я двох ізраїльтян",
+    "zh": "舒默，两个以色列人的名字"
+  },
+  "verses": [
+    "secondKings 12:22:5",
+    "firstChronicles 7:32:5"
+  ]
+}

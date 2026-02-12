@@ -1,0 +1,43 @@
+{
+  "number": "H7890",
+  "language": "hebrew",
+  "transliteration": "shayin",
+  "pronunciation": "shah'-yin",
+  "definition": "urine",
+  "kjvTranslation": "piss.",
+  "hebrew": "שַׁיִן",
+  "translations": {
+    "bg": "урина",
+    "cs": "moč",
+    "da": "urin",
+    "de": "urin",
+    "el": "ούρα",
+    "es": "orina",
+    "et": "uriin",
+    "fi": "virtsa",
+    "fr": "l'urine",
+    "hu": "vizelet",
+    "id": "air seni",
+    "it": "urina",
+    "ja": "尿",
+    "ko": "소변",
+    "lt": "šlapimas",
+    "lv": "urīns",
+    "nb": "urin",
+    "nl": "urine",
+    "pl": "mocz",
+    "pt": "urina",
+    "ro": "urină",
+    "ru": "моча",
+    "sk": "moč",
+    "sl": "urin",
+    "sv": "urin",
+    "tr": "idrar",
+    "uk": "сеча",
+    "zh": "尿液"
+  },
+  "verses": [
+    "secondKings 18:27:25",
+    "isaiah 36:12:24"
+  ]
+}

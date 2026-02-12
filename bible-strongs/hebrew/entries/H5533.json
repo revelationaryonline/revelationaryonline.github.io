@@ -1,0 +1,43 @@
+{
+  "number": "H5533",
+  "language": "hebrew",
+  "transliteration": "çâkan",
+  "pronunciation": "saw-kan'",
+  "definition": "properly, to cut, i.e. damage; also to grow (causatively, make) poor",
+  "kjvTranslation": "endanger, impoverish.",
+  "hebrew": "סָכַן",
+  "translations": {
+    "bg": "правилно, да се реже, т.е. да се поврежда; също и да се разраства (в причинно-следствена връзка, да се обеднява)",
+    "cs": "správně, řezat, tj. poškozovat; také růst (kauzálně, dělat) chudé",
+    "da": "korrekt, at skære, dvs. beskadige; også at vokse (kausalt, gøre) fattig",
+    "de": "richtig, schneiden, d.h. beschädigen; auch wachsen (ursächlich, schlecht machen)",
+    "el": "σωστά, κόβω, δηλ. βλάπτω- επίσης, αναπτύσσω (αιτιωδώς, κάνω) φτωχούς",
+    "es": "propiamente, cortar, es decir, dañar; también empobrecer (causalmente, hacer)",
+    "et": "korralikult, lõigata, st kahjustada; ka kasvatada (põhjuslikult, teha) kehvaks",
+    "fi": "oikein, leikata, eli vahingoittaa; myös kasvaa (kausatiivisesti, tehdä) huonoksi",
+    "fr": "à proprement parler, couper, c'est-à-dire endommager ; également croître (causativement, rendre) pauvre",
+    "hu": "megfelelően, vágni, azaz károsítani; továbbá szegényt növeszteni (ok-okozati úton, szegényt csinálni)",
+    "id": "benar, untuk memotong, yaitu merusak; juga untuk tumbuh (secara kausal, membuat) miskin",
+    "it": "propriamente, tagliare, cioè danneggiare; anche crescere (causalmente, rendere) poveri",
+    "ja": "正しくは、「切る」、すなわち「傷つける」。",
+    "ko": "적절하게, 자르다, 즉 손상하다; 또한 성장하다 (원인 적으로, 만들다) 가난하다",
+    "lt": "tinkamai - pjauti, t. y. žaloti; taip pat augti (priežastingai, skursti)",
+    "lv": "pareizi, sagriezt, t. i., sabojāt; arī augt (cēloņsakarīgi, padarīt) nabadzīgu",
+    "nb": "egentlig, å kutte, dvs. skade; også å vokse (kausalt, gjøre) dårlig",
+    "nl": "goed, snijden, d.w.z. beschadigen; ook slecht worden (causatief, maken)",
+    "pl": "prawidłowo, ciąć, tj. uszkadzać; również rosnąć (przyczynowo, powodować) biedę",
+    "pt": "propriamente dito, cortar, ou seja, danificar; também fazer crescer (causativamente, tornar pobre)",
+    "ro": "corect, a tăia, adică a deteriora; de asemenea, a crește (cauzal, a face) sărac",
+    "ru": "правильно, резать, т.е. повреждать; также расти (каузально, делать) бедным",
+    "sk": "správne, znížiť, t. j. poškodiť; tiež pestovať (príčinne, robiť) chudobný",
+    "sl": "pravilno, rezati, tj. poškodovati; tudi rasti (vzročno, narediti) slabo",
+    "sv": "korrekt, att skära, dvs. skada; även att växa (kausalt, göra) fattig",
+    "tr": "uygun şekilde, kesmek, yani zarar vermek; ayrıca fakirleşmek (nedensel olarak, yapmak)",
+    "uk": "правильно, різати, тобто пошкоджувати; також вирощувати (спричиняти, робити) бідним",
+    "zh": "凿，即破坏；也指生长（因果关系，使）贫瘠"
+  },
+  "verses": [
+    "ecclesiastes 10:9:6",
+    "isaiah 40:20:0"
+  ]
+}

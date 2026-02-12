@@ -1,0 +1,42 @@
+{
+  "number": "H7808",
+  "language": "hebrew",
+  "transliteration": "sêach",
+  "pronunciation": "say'-akh",
+  "definition": "communion, i.e. (reflexively) meditation",
+  "kjvTranslation": "thought.",
+  "hebrew": "שֵׂחַ",
+  "translations": {
+    "bg": "общение, т.е. (рефлексивно) медитация",
+    "cs": "společenství, tj. (reflexivně) meditace",
+    "da": "fællesskab, dvs. (refleksivt) meditation",
+    "de": "gemeinschaft, d.h. (reflexiv) Meditation",
+    "el": "κοινωνία, δηλαδή (αντανακλαστικά) διαλογισμός",
+    "es": "comunión, es decir (reflexivamente) meditación",
+    "et": "osadus, st (refleksiivne) meditatsioon",
+    "fi": "yhteys, eli (refleksiivisesti) meditaatio",
+    "fr": "la communion, c'est-à-dire (par réflexe) la méditation",
+    "hu": "közösség, azaz (reflexszerűen) meditáció",
+    "id": "persekutuan, yaitu meditasi (secara refleks)",
+    "it": "comunione, cioè meditazione (di riflesso)",
+    "ja": "瞑想",
+    "ko": "친교, 즉 (반사적으로) 명상하기",
+    "lt": "bendrystė, t. y. (refleksyviai) meditacija",
+    "lv": "komūnija, t.i., (refleksīvi) meditācija",
+    "nb": "fellesskap, dvs. (refleksivt) meditasjon",
+    "nl": "gemeenschap, d.w.z. (reflexmatig) meditatie",
+    "pl": "komunia, tj. (refleksyjnie) medytacja",
+    "pt": "comunhão, ou seja, (reflexivamente) meditação",
+    "ro": "comuniune, adică (reflexiv) meditație",
+    "ru": "причастие, т.е. (рефлекторно) медитация",
+    "sk": "spoločenstvo, t. j. (reflexívne) meditácia",
+    "sl": "občestvo, tj. (refleksivno) meditacija",
+    "sv": "gemenskap, dvs. (reflexivt) meditation",
+    "tr": "komünyon, yani (refleks olarak) meditasyon",
+    "uk": "спілкування, тобто (рефлексивно) медитація",
+    "zh": "交融，即（反身）冥想"
+  },
+  "verses": [
+    "amos 4:13:9"
+  ]
+}

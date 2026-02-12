@@ -1,0 +1,41 @@
+{
+  "number": "H8360",
+  "language": "hebrew",
+  "transliteration": "shᵉthîyâh",
+  "pronunciation": "sheth-ee-yaw'",
+  "definition": "potation",
+  "kjvTranslation": "drinking.",
+  "hebrew": "שְׁתִיָּה",
+  "translations": {
+    "bg": "потация",
+    "cs": "potation",
+    "da": "potation",
+    "de": "potation",
+    "el": "potation",
+    "es": "potation",
+    "et": "potation",
+    "fi": "potation",
+    "fr": "potation",
+    "hu": "potation",
+    "id": "potasium",
+    "it": "potazione",
+    "ja": "加温",
+    "ko": "포션",
+    "lv": "potation",
+    "nb": "potasjon",
+    "nl": "potatie",
+    "pl": "potation",
+    "pt": "potação",
+    "ro": "poțiune",
+    "ru": "потенция",
+    "sk": "potation",
+    "sl": "potation",
+    "sv": "potatisering",
+    "tr": "potasyon",
+    "uk": "зцілення",
+    "zh": "浇灌"
+  },
+  "verses": [
+    "esther 1:8:0"
+  ]
+}

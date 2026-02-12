@@ -1,0 +1,42 @@
+{
+  "number": "H509",
+  "language": "hebrew",
+  "transliteration": "ʼâlats",
+  "pronunciation": "aw-lats'",
+  "definition": "to press",
+  "kjvTranslation": "urge.",
+  "translations": {
+    "bg": "за да натиснете",
+    "cs": "stisknout",
+    "da": "for at trykke på",
+    "de": "zu drücken",
+    "el": "για να πατήσετε",
+    "es": "pulsar",
+    "et": "vajutada",
+    "fi": "painaa",
+    "fr": "pour appuyer sur",
+    "hu": "megnyomni",
+    "id": "untuk menekan",
+    "it": "per premere",
+    "ja": "を押す",
+    "ko": "을 눌러",
+    "lt": "paspausti",
+    "lv": "nospiest",
+    "nb": "for å trykke på",
+    "nl": "om op te drukken",
+    "pl": "nacisnąć",
+    "pt": "para premir",
+    "ro": "pentru a apăsa",
+    "ru": "нажать",
+    "sk": "stlačiť",
+    "sl": "da pritisnete",
+    "sv": "för att trycka på",
+    "tr": "basmak için",
+    "uk": "натиснути",
+    "zh": "按下"
+  },
+  "hebrew": "אָלַץ",
+  "verses": [
+    "judges 16:16:7"
+  ]
+}

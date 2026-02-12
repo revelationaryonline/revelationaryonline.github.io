@@ -1,0 +1,43 @@
+{
+  "number": "H3180",
+  "language": "hebrew",
+  "transliteration": "yachmûwr",
+  "pronunciation": "yakh-moor'",
+  "definition": "a kind of deer",
+  "kjvTranslation": "fallow deer.",
+  "translations": {
+    "bg": "вид елен",
+    "cs": "druh jelena",
+    "da": "en slags hjort",
+    "de": "eine Art von Hirschen",
+    "el": "ένα είδος ελαφιού",
+    "es": "una especie de ciervo",
+    "et": "mingi hirv",
+    "fi": "eräänlainen peura",
+    "fr": "une sorte de cerf",
+    "hu": "egyfajta szarvas",
+    "id": "sejenis rusa",
+    "it": "una specie di cervo",
+    "ja": "鹿",
+    "ko": "사슴의 일종",
+    "lt": "elnių rūšis",
+    "lv": "briežu suga",
+    "nb": "en slags hjort",
+    "nl": "een soort hert",
+    "pl": "rodzaj jelenia",
+    "pt": "uma espécie de veado",
+    "ro": "un fel de căprioară",
+    "ru": "вид оленей",
+    "sk": "druh jeleňa",
+    "sl": "vrsta jelena",
+    "sv": "en typ av hjort",
+    "tr": "bir tür geyik",
+    "uk": "різновид оленя",
+    "zh": "猁"
+  },
+  "hebrew": "יַחְמוּר",
+  "verses": [
+    "deuteronomy 14:5:2",
+    "firstKings 5:3:11"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4995",
+  "language": "hebrew",
+  "transliteration": "nâʼ",
+  "pronunciation": "naw",
+  "definition": "properly, tough, i.e. uncooked (flesh)",
+  "kjvTranslation": "raw.",
+  "hebrew": "נָא",
+  "translations": {
+    "bg": "правилно, твърдо, т.е. неварено (месо)",
+    "cs": "správně, tvrdé, tj. tepelně neopracované (maso)",
+    "da": "ordentligt, sejt, dvs. ikke kogt (kød)",
+    "de": "richtig, zäh, d.h. ungekocht (Fleisch)",
+    "el": "σωστά, σκληρά, δηλαδή άψητα (σάρκα)",
+    "es": "correctamente, dura, es decir, sin cocer (carne)",
+    "et": "korralikult, kõva, st kuumtöötlemata (liha)",
+    "fi": "kunnolla, sitkeät, eli kypsentämättömät (liha)",
+    "fr": "correctement, durs, c'est-à-dire non cuits (chair)",
+    "hu": "rendesen, kemény, azaz nyers (hús)",
+    "id": "benar, keras, yaitu mentah (daging)",
+    "it": "correttamente, duro, cioè non cotto (carne)",
+    "ja": "ちゃんとした、かたい、つまり未加熱のもの（肉）",
+    "ko": "제대로, 질긴, 즉 익히지 않은 (살)",
+    "lt": "tinkamai, kietas, t. y. nevirtas (mėsa)",
+    "lv": "pareizi, stingrs, t. i., termiski neapstrādāts (gaļa)",
+    "nb": "skikkelig, seig, dvs. ukokt (kjøtt)",
+    "nl": "goed, taai, d.w.z. ongekookt (vlees)",
+    "pl": "prawidłowo, twardy, tj. niegotowany (miąższ)",
+    "pt": "propriamente dita, dura, ou seja, não cozinhada (carne)",
+    "ro": "în mod corespunzător, dură, adică negătită (carne)",
+    "ru": "правильно, жесткий, т.е. не прожаренный (мякоть)",
+    "sk": "správne, tvrdé, t. j. tepelne neupravené (mäso)",
+    "sl": "pravilno, trdo, tj. nekuhano (meso)",
+    "sv": "ordentligt, hård, dvs. okokt (kött)",
+    "tr": "düzgün, sert, yani pişmemiş (et)",
+    "uk": "правильно, жорстко, тобто сирим (м'якоть)",
+    "zh": "适当，坚韧，即未煮熟（肉）"
+  },
+  "verses": [
+    "exodus 12:9:3"
+  ]
+}

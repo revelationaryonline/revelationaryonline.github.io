@@ -1,0 +1,42 @@
+{
+  "number": "H3348",
+  "language": "hebrew",
+  "transliteration": "Yâqeh",
+  "pronunciation": "yaw-keh'",
+  "definition": "Jakeh, a symbolical name (for Solomon)",
+  "kjvTranslation": "Jakeh.",
+  "translations": {
+    "bg": "Якех, символично име (за Соломон)",
+    "cs": "Jakeh, symbolické jméno (pro Šalamouna)",
+    "da": "Jakeh, et symbolsk navn (for Salomon)",
+    "de": "Jakeh, ein symbolischer Name (für Salomo)",
+    "el": "Jakeh, ένα συμβολικό όνομα (για τον Σολομώντα)",
+    "es": "Jakeh, nombre simbólico (de Salomón)",
+    "et": "Jakeh, sümboolne nimi (Saalomoni jaoks)",
+    "fi": "Jakeh, symbolinen nimi (Salomolle)",
+    "fr": "Jakeh, un nom symbolique (pour Salomon)",
+    "hu": "Jakeh, egy szimbolikus név (Salamon számára)",
+    "id": "Jakeh, sebuah nama simbolis (untuk Salomo)",
+    "it": "Jakeh, un nome simbolico (per Salomone)",
+    "ja": "ヤケー、（ソロモンの）象徴的な名前",
+    "ko": "야케, 상징적인 이름(솔로몬의 이름)",
+    "lt": "Jakeh, simbolinis vardas (Saliamono)",
+    "lv": "Jakeh, simbolisks vārds (Zālamana vārdā)",
+    "nb": "Jakeh, et symbolsk navn (for Salomo)",
+    "nl": "Jakeh, een symbolische naam (voor Salomo)",
+    "pl": "Jakeh, symboliczne imię (dla Salomona)",
+    "pt": "Jakeh, um nome simbólico (para Salomão)",
+    "ro": "Jakeh, un nume simbolic (pentru Solomon)",
+    "ru": "Иакех, символическое имя (для Соломона)",
+    "sk": "Jakeh, symbolické meno (pre Šalamúna)",
+    "sl": "Jakeh, simbolično ime (za Salomona)",
+    "sv": "Jakeh, ett symboliskt namn (för Salomo)",
+    "tr": "Jakeh, sembolik bir isim (Süleyman için)",
+    "uk": "Яків, символічне ім'я (для Соломона)",
+    "zh": "雅各布"
+  },
+  "hebrew": "יָקֶה",
+  "verses": [
+    "proverbs 30:1:3"
+  ]
+}

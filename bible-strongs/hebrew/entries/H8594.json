@@ -1,0 +1,43 @@
+{
+  "number": "H8594",
+  "language": "hebrew",
+  "transliteration": "taʻărubâh",
+  "pronunciation": "tah-ar-oo-baw'",
+  "definition": "suretyship, i.e. (concretely) a pledge",
+  "kjvTranslation": "[phrase] hostage.",
+  "hebrew": "תַּעֲרֻבָה",
+  "translations": {
+    "bg": "поръчителство, т.е. (конкретно) залог",
+    "cs": "ručení, tj. (konkrétně) zástava",
+    "da": "kaution, dvs. (konkret) et pant",
+    "de": "bürgschaft, d.h. (konkret) ein Pfand",
+    "el": "εγγύηση, δηλαδή (συγκεκριμένα) ενέχυρο",
+    "es": "caución, es decir (concretamente) una prenda",
+    "et": "käendus, st (konkreetselt) pantimine",
+    "fi": "vakuus eli (konkreettisesti) pantti",
+    "fr": "le cautionnement, c'est-à-dire (concrètement) un gage",
+    "hu": "kezesség, azaz (konkrétan) zálogjog",
+    "id": "suretyship, yaitu (secara konkret) suatu jaminan",
+    "it": "fideiussione, cioè (concretamente) un pegno",
+    "ja": "質権",
+    "ko": "보증, 즉 (구체적으로) 서약서",
+    "lt": "laidavimas, t. y. (konkrečiai) įkeitimas",
+    "lv": "galvojums, t.i., (konkrēti) ķīla",
+    "nb": "kausjon, dvs. (konkret) et pant",
+    "nl": "borgstelling, d.w.z. (concreet) een onderpand",
+    "pl": "poręczenie, tj. (konkretnie) zastaw",
+    "pt": "caução, ou seja, (concretamente) um penhor",
+    "ro": "cauțiune, adică (concret) un gaj",
+    "ru": "поручительство, т.е. (в конкретном случае) залог",
+    "sk": "ručenie, t. j. (konkrétne) záložné právo",
+    "sl": "poroštvo, tj. (konkretno) zastava",
+    "sv": "borgensåtagande, d.v.s. (konkret) en pantsättning",
+    "tr": "kefalet, yani (somut olarak) bir rehin",
+    "uk": "поручительство, тобто (конкретно) застава",
+    "zh": "担保，即（具体地说）质押"
+  },
+  "verses": [
+    "secondKings 14:14:16",
+    "secondChronicles 25:24:18"
+  ]
+}

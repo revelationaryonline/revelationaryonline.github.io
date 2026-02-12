@@ -1,0 +1,42 @@
+{
+  "number": "H8009",
+  "language": "hebrew",
+  "transliteration": "Salmâh",
+  "pronunciation": "sal-maw'",
+  "definition": "Salmah, an Israelite",
+  "kjvTranslation": "Salmon. Compare H8012 (שַׂלְמוֹן).",
+  "hebrew": "שַׂלְמָה",
+  "translations": {
+    "bg": "Салма, израилтянка",
+    "cs": "Salma, Izraelita",
+    "da": "Salmah, en israelit",
+    "de": "Salmah, eine Israelitin",
+    "el": "Σαλμά, Ισραηλίτισσα",
+    "es": "Salmah, israelita",
+    "et": "Salmah, iisraellane",
+    "fi": "Salmah, israelilainen",
+    "fr": "Salmah, Israélite",
+    "hu": "Salmah, egy izraelita",
+    "id": "Salmah, seorang warga Israel",
+    "it": "Salmah, un'israelita",
+    "ja": "イスラエル人サルマ",
+    "ko": "이스라엘인 살마",
+    "lt": "Salma, izraelitas",
+    "lv": "Salmah, izraēlietis",
+    "nb": "Salmah, en israelitt",
+    "nl": "Salmah, een Israëliet",
+    "pl": "Salmah, Izraelitka",
+    "pt": "Salmah, israelita",
+    "ro": "Salmah, o israelită",
+    "ru": "Салма, израильтянка",
+    "sk": "Salma, Izraelita",
+    "sl": "Salmah, Izraelka",
+    "sv": "Salmah, en israelit",
+    "tr": "Salmah, bir İsrailli",
+    "uk": "Салма, ізраїльтянка",
+    "zh": "以色列人撒勒马"
+  },
+  "verses": [
+    "ruth 4:20:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H800",
+  "language": "hebrew",
+  "transliteration": "ʼeshshâh",
+  "pronunciation": "esh-shaw'",
+  "definition": "fire",
+  "kjvTranslation": "fire.",
+  "translations": {
+    "bg": "пожар",
+    "cs": "požár",
+    "da": "brand",
+    "de": "feuer",
+    "el": "πυρκαγιά",
+    "es": "fuego",
+    "et": "tulekahju",
+    "fi": "tulipalo",
+    "fr": "incendie",
+    "hu": "tűz",
+    "id": "api",
+    "it": "incendio",
+    "ja": "火災",
+    "ko": "fire",
+    "lt": "gaisras",
+    "lv": "ugunsgrēks",
+    "nb": "brann",
+    "nl": "brand",
+    "pl": "ogień",
+    "pt": "incêndio",
+    "ro": "foc",
+    "ru": "пожар",
+    "sk": "požiar",
+    "sl": "ogenj",
+    "sv": "brand",
+    "tr": "yangın",
+    "uk": "вогонь",
+    "zh": "抨击"
+  },
+  "hebrew": "אֶשָּׁה",
+  "verses": [
+    "jeremiah 6:29:2"
+  ]
+}

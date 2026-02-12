@@ -1,0 +1,43 @@
+{
+  "number": "H4668",
+  "language": "hebrew",
+  "transliteration": "maphtêach",
+  "pronunciation": "maf-tay'-akh",
+  "definition": "an opener, i.e. a key",
+  "kjvTranslation": "key.",
+  "hebrew": "מַפְתֵּחַ",
+  "translations": {
+    "bg": "отварящ механизъм, т.е. ключ",
+    "cs": "otvírák, tj. klíč",
+    "da": "en oplukker, dvs. en nøgle",
+    "de": "einen Öffner, d.h. einen Schlüssel",
+    "el": "ένα άνοιγμα, δηλαδή ένα κλειδί",
+    "es": "un abridor, es decir, una llave",
+    "et": "avaja, st võti",
+    "fi": "avaimen eli avaimen",
+    "fr": "un ouvreur, c'est-à-dire une clé",
+    "hu": "nyitószerkezet, azaz kulcs",
+    "id": "pembuka, yaitu sebuah kunci",
+    "it": "un'apertura, cioè una chiave",
+    "ja": "オープナー、すなわち鍵",
+    "ko": "오프너(예: 열쇠)",
+    "lt": "atidarymo įtaisas, t. y. raktas",
+    "lv": "atvērējs, t. i., atslēga",
+    "nb": "en åpner, dvs. en nøkkel",
+    "nl": "een opener, d.w.z. een sleutel",
+    "pl": "otwieracz, tj. klucz",
+    "pt": "um abridor, ou seja, uma chave",
+    "ro": "un deschizător, adică o cheie",
+    "ru": "открывалка, т.е. ключ",
+    "sk": "otvárač, t. j. kľúč",
+    "sl": "odpirač, tj. ključ",
+    "sv": "en öppnare, d.v.s. en nyckel",
+    "tr": "bir açıcı, yani bir anahtar",
+    "uk": "відкривач, тобто ключ",
+    "zh": "一把钥匙"
+  },
+  "verses": [
+    "judges 3:25:10",
+    "isaiah 22:22:1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H7263",
+  "language": "hebrew",
+  "transliteration": "regeb",
+  "pronunciation": "reh'-gheb",
+  "definition": "a lump of clay",
+  "kjvTranslation": "clod.",
+  "hebrew": "רֶגֶב",
+  "translations": {
+    "bg": "парче глина",
+    "cs": "hrouda hlíny",
+    "da": "en klump ler",
+    "de": "ein Klumpen Ton",
+    "el": "ένα κομμάτι πηλό",
+    "es": "un trozo de arcilla",
+    "et": "saviklots",
+    "fi": "savikimpale",
+    "fr": "un morceau d'argile",
+    "hu": "egy darab agyag",
+    "id": "segumpal tanah liat",
+    "it": "un pezzo di argilla",
+    "ja": "粘土の塊",
+    "ko": "점토 덩어리",
+    "lt": "molio gabalas",
+    "lv": "māla gabals",
+    "nb": "en klump leire",
+    "nl": "een klomp klei",
+    "pl": "bryła gliny",
+    "pt": "um pedaço de barro",
+    "ro": "o bucată de lut",
+    "ru": "комок глины",
+    "sk": "hrudka hliny",
+    "sl": "gomila gline",
+    "sv": "en klump av lera",
+    "tr": "bir parça kil",
+    "uk": "шматок глини",
+    "zh": "抟土"
+  },
+  "verses": [
+    "job 21:33:2",
+    "job 38:38:3"
+  ]
+}

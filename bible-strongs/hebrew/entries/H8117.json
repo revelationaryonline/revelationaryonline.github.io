@@ -1,0 +1,42 @@
+{
+  "number": "H8117",
+  "language": "hebrew",
+  "transliteration": "Shimrônîy",
+  "pronunciation": "shim-ro-nee'",
+  "definition": "a Shimronite (collectively) or descendants of Shimron",
+  "kjvTranslation": "Shimronites.",
+  "hebrew": "שִׁמְרֹנִי",
+  "translations": {
+    "bg": "шимронит (колективно) или потомци на Шимрон",
+    "cs": "šimronovci (souhrnně) nebo potomci Šimrona",
+    "da": "en shimronit (kollektivt) eller efterkommere af shimron",
+    "de": "ein Schimronit (kollektiv) oder Nachkommen von Schimron",
+    "el": "σιμρωνίτης (συλλογικά) ή απόγονοι του Σιμρών",
+    "es": "un Shimronita (colectivamente) o descendientes de Shimron",
+    "et": "shimroniit (kollektiivselt) või Shimroni järeltulijad",
+    "fi": "shimronilainen (kollektiivisesti) tai Shimronin jälkeläiset",
+    "fr": "un Shimronite (collectivement) ou des descendants de Shimron",
+    "hu": "símronita (együttesen) vagy símroni leszármazottak",
+    "id": "seorang Shimronite (secara kolektif) atau keturunan Shimron",
+    "it": "uno Shimronita (collettivamente) o discendenti di Shimron",
+    "ja": "シムロン人（総称）またはシムロンの子孫",
+    "ko": "시몬라이트(총칭) 또는 시몬의 후손",
+    "lt": "šimronitas (bendrai) arba Šimrono palikuonys",
+    "lv": "šimronietis (kopā) vai Šimrona pēcnācēji",
+    "nb": "en shimronitt (kollektivt) eller etterkommere av Shimron",
+    "nl": "een Shimroniet (collectief) of afstammelingen van Shimron",
+    "pl": "shimronite (łącznie) lub potomkowie Shimrona",
+    "pt": "um Shimronita (coletivamente) ou descendentes de Shimron",
+    "ro": "un șimronit (colectiv) sau descendenții lui Șimron",
+    "ru": "шимронит (собирательно) или потомки Шимрона",
+    "sk": "šimronovci (spoločne) alebo potomkovia Šimrona",
+    "sl": "šimronovec (skupaj) ali Šimronovi potomci",
+    "sv": "en Shimronit (kollektivt) eller ättlingar till Shimron",
+    "tr": "bir Şimronlu (topluca) veya Şimron'un soyundan gelenler",
+    "uk": "шимроніт (разом) або нащадки компанії Shimron",
+    "zh": "西姆龙人（统称）或西姆龙的后裔"
+  },
+  "verses": [
+    "numbers 26:24:5"
+  ]
+}

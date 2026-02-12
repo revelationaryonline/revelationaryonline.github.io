@@ -1,0 +1,43 @@
+{
+  "number": "H5589",
+  "language": "hebrew",
+  "transliteration": "çᵉʻappâh",
+  "pronunciation": "seh-ap-paw'",
+  "definition": "a twig",
+  "kjvTranslation": "bough, branch. Compare H5634 (סַרְעַפָּה).",
+  "hebrew": "סְעַפָּה",
+  "translations": {
+    "bg": "клонче",
+    "cs": "větvička",
+    "da": "en kvist",
+    "de": "ein Zweig",
+    "el": "ένα κλαδάκι",
+    "es": "una ramita",
+    "et": "oksa",
+    "fi": "oksa",
+    "fr": "une brindille",
+    "hu": "egy ág",
+    "id": "ranting",
+    "it": "un ramoscello",
+    "ja": "小枝",
+    "ko": "나뭇가지",
+    "lt": "šakelė",
+    "lv": "zariņš",
+    "nb": "en kvist",
+    "nl": "een twijg",
+    "pl": "gałązka",
+    "pt": "um galho",
+    "ro": "o rămurică",
+    "ru": "веточка",
+    "sk": "vetvička",
+    "sl": "vejica",
+    "sv": "en kvist",
+    "tr": "bir dal",
+    "uk": "гілочку",
+    "zh": "树枝"
+  },
+  "verses": [
+    "ezekiel 31:6:0",
+    "ezekiel 31:8:9"
+  ]
+}

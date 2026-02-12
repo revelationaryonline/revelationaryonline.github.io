@@ -1,0 +1,42 @@
+{
+  "number": "H3246",
+  "language": "hebrew",
+  "transliteration": "yᵉçud",
+  "pronunciation": "yes-ood'",
+  "definition": "a foundation (figuratively, i.e. beginning)",
+  "kjvTranslation": "[idiom] began.",
+  "translations": {
+    "bg": "основа (в преносен смисъл, т.е. начало)",
+    "cs": "základ (obrazně, tj. začátek)",
+    "da": "et fundament (i overført betydning, dvs. en begyndelse)",
+    "de": "ein Fundament (im übertragenen Sinne, d. h. ein Anfang)",
+    "el": "ένα θεμέλιο (μεταφορικά, δηλ. αρχή)",
+    "es": "un cimiento (en sentido figurado, es decir, el comienzo)",
+    "et": "vundament (piltlikult, st algus)",
+    "fi": "perusta (kuvaannollisesti, eli alku)",
+    "fr": "une fondation (au sens figuré, c'est-à-dire un début)",
+    "hu": "egy alapítvány (átvitt értelemben, azaz kezdet)",
+    "id": "sebuah fondasi (secara kiasan, yaitu permulaan)",
+    "it": "un fondamento (in senso figurato, cioè un inizio)",
+    "ja": "礎",
+    "ko": "기초(비유적으로, 즉 시작)",
+    "lt": "pamatas (perkeltine prasme, t. y. pradžia)",
+    "lv": "pamats (pārnestā nozīmē, t.i., sākums)",
+    "nb": "et fundament (i overført betydning, dvs. begynnelsen)",
+    "nl": "een fundament (figuurlijk, d.w.z. begin)",
+    "pl": "fundament (w przenośni, tj. początek)",
+    "pt": "um alicerce (em sentido figurado, ou seja, início)",
+    "ro": "o fundație (la figurat, adică un început)",
+    "ru": "основание (образно, т.е. начало)",
+    "sk": "základ (obrazne, t. j. začiatok)",
+    "sl": "temelj (v prenesenem pomenu, tj. začetek)",
+    "sv": "en grund (bildligt talat, dvs. början)",
+    "tr": "bir temel (mecazi olarak, yani başlangıç)",
+    "uk": "фундамент (у переносному значенні, тобто початок)",
+    "zh": "奠基"
+  },
+  "hebrew": "יְסֻד",
+  "verses": [
+    "ezra 7:9:5"
+  ]
+}

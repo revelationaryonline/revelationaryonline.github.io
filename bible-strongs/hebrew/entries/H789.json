@@ -1,0 +1,42 @@
+{
+  "number": "H789",
+  "language": "hebrew",
+  "transliteration": "ʼAshbêlîy",
+  "pronunciation": "ash-bay-lee'",
+  "definition": "an Ashbelite (collectively) or descendant of Ashbel",
+  "kjvTranslation": "Ashbelites.",
+  "translations": {
+    "bg": "ашбелит (колективно) или потомък на Ашбел",
+    "cs": "ashbelite (souhrnně) nebo Ashbelův potomek",
+    "da": "en ashbelit (kollektivt) eller efterkommer af Ashbel",
+    "de": "ein Ashbelite (kollektiv) oder Nachkomme von Ashbel",
+    "el": "ashbelite (συλλογικά) ή απόγονος του Ashbel",
+    "es": "ashbelita (colectivamente) o descendiente de Ashbel",
+    "et": "ashbelite (kollektiivselt) või Ashbeli järeltulija",
+    "fi": "ashbelilainen (kollektiivisesti) tai Ashbelin jälkeläinen",
+    "fr": "un Ashbelite (collectivement) ou un descendant d'Ashbel",
+    "hu": "ashbelita (kollektíven) vagy Ashbel leszármazottja",
+    "id": "orang Ashbel (secara kolektif) atau keturunan Ashbel",
+    "it": "un ashbelita (collettivamente) o un discendente di Ashbel",
+    "ja": "アシュベル人（総称）またはアシュベルの子孫",
+    "ko": "애쉬벨라이트(총칭) 또는 애쉬벨의 후손",
+    "lt": "ašbelitas (kolektyviai) arba Ašbelio palikuonis",
+    "lv": "ašbelīts (kopā) vai Ašbela pēcnācējs",
+    "nb": "en ashbelitt (kollektivt) eller etterkommer av Ashbel",
+    "nl": "een Ashbeliet (collectief) of afstammeling van Ashbel",
+    "pl": "ashbelita (łącznie) lub potomek Ashbela",
+    "pt": "um Ashbelita (coletivamente) ou descendente de Ashbel",
+    "ro": "un ashbelit (colectiv) sau descendent al lui Ashbel",
+    "ru": "ашбелит (собирательно) или потомок Ашбела",
+    "sk": "ašbelita (spoločne) alebo potomok Ašbela",
+    "sl": "ašbelit (kolektivno) ali Ašbelov potomec",
+    "sv": "en ashbelit (kollektivt) eller ättling till Ashbel",
+    "tr": "bir Ashbelite (topluca) veya Ashbel'in soyundan gelen",
+    "uk": "ашбелітом (у сукупності) або нащадком ашбелів",
+    "zh": "阿什贝尔人（Ashbel）的后裔"
+  },
+  "hebrew": "אַשְׁבֵּלִי",
+  "verses": [
+    "numbers 26:38:8"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H3357",
+  "language": "hebrew",
+  "transliteration": "yaqqîyr",
+  "pronunciation": "yak-keer'",
+  "definition": "precious",
+  "kjvTranslation": "dear.",
+  "translations": {
+    "bg": "скъпоценни",
+    "cs": "vzácné",
+    "da": "dyrebar",
+    "de": "wertvoll",
+    "el": "πολύτιμο",
+    "es": "precioso",
+    "et": "väärtuslik",
+    "fi": "arvokas",
+    "fr": "précieux",
+    "hu": "értékes",
+    "id": "berharga",
+    "it": "prezioso",
+    "ja": "貴重",
+    "ko": "소중한",
+    "lt": "brangakmenių",
+    "lv": "dārgakmeņi",
+    "nb": "dyrebar",
+    "nl": "kostbaar",
+    "pl": "cenny",
+    "pt": "precioso",
+    "ro": "prețioase",
+    "ru": "драгоценный",
+    "sk": "vzácne",
+    "sl": "dragoceni",
+    "sv": "dyrbar",
+    "tr": "değerli",
+    "uk": "дорогоцінний",
+    "zh": "贵"
+  },
+  "hebrew": "יַקִּיר",
+  "verses": [
+    "jeremiah 31:20:1"
+  ]
+}

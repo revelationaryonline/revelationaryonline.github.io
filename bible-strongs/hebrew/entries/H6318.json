@@ -1,0 +1,43 @@
+{
+  "number": "H6318",
+  "language": "hebrew",
+  "transliteration": "Pôwṭîyphar",
+  "pronunciation": "po-tee-far'",
+  "definition": "Potiphar, an Egyptian",
+  "kjvTranslation": "Potiphar.",
+  "hebrew": "פּוֹטִיפַר",
+  "translations": {
+    "bg": "Потифар, египтянин",
+    "cs": "Potifar, Egypťan",
+    "da": "Potifar, en egypter",
+    "de": "Potiphar, ein Ägypter",
+    "el": "Ποτίφαρ, ένας Αιγύπτιος",
+    "es": "Potifar, un egipcio",
+    "et": "Potifar, egiptlane",
+    "fi": "Potifar, egyptiläinen",
+    "fr": "Potiphar, un Égyptien",
+    "hu": "Potifár, egy egyiptomi",
+    "id": "Potifar, seorang warga Mesir",
+    "it": "Potifar, un egiziano",
+    "ja": "エジプト人ポティファル",
+    "ko": "이집트인 포티파르",
+    "lt": "Potifaras, egiptietis",
+    "lv": "Potifārs, ēģiptietis",
+    "nb": "Potifar, en egypter",
+    "nl": "Potifar, een Egyptenaar",
+    "pl": "Potifar, Egipcjanin",
+    "pt": "Potifar, um egípcio",
+    "ro": "Potiphar, un egiptean",
+    "ru": "Потифар, египтянин",
+    "sk": "Potifar, Egypťan",
+    "sl": "Potifarja, Egipčana",
+    "sv": "Potiphar, en egyptier",
+    "tr": "Potifar, bir Mısırlı",
+    "uk": "Потіфар, єгиптянин",
+    "zh": "埃及人波提乏"
+  },
+  "verses": [
+    "genesis 37:36:5",
+    "genesis 39:1:4"
+  ]
+}

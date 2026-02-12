@@ -1,0 +1,42 @@
+{
+  "number": "H2150",
+  "language": "hebrew",
+  "transliteration": "zalzal",
+  "pronunciation": "zal-zal'",
+  "definition": "tremulous, i.e. a twig",
+  "kjvTranslation": "sprig.",
+  "translations": {
+    "bg": "треперещ, т.е. клонче",
+    "cs": "třesoucí se, tj. větvička",
+    "da": "skælvende, dvs. en kvist",
+    "de": "zitternd, d.h. ein Zweig",
+    "el": "τρεμάμενο, δηλ. ένα κλαδί",
+    "es": "tembloroso, es decir, una ramita",
+    "et": "värisev, s.t. okas",
+    "fi": "vapiseva, ts. oksainen",
+    "fr": "tremblant, c'est-à-dire une brindille",
+    "hu": "remegő, azaz gallyas",
+    "id": "bergetar, yaitu ranting",
+    "it": "tremolante, cioè un ramoscello",
+    "ja": "小枝が震える",
+    "ko": "떨림, 즉 나뭇가지",
+    "lt": "drebantis, t. y. šakelė",
+    "lv": "drebulīgs, t.i., zariņš",
+    "nb": "skjelvende, dvs. en kvist",
+    "nl": "trillend, d.w.z. een takje",
+    "pl": "drżący, tj. gałązka",
+    "pt": "trémulo, ou seja, um ramo",
+    "ro": "tremurător, adică o creangă",
+    "ru": "трепетный, т.е. веточка",
+    "sk": "chvejivý, t. j. vetvička",
+    "sl": "trepetajoč, tj. vejica",
+    "sv": "darrande, t.ex. en kvist",
+    "tr": "titrek, yani bir dal",
+    "uk": "тремтливий, тобто гілочка",
+    "zh": "树枝"
+  },
+  "hebrew": "זַלְזַל",
+  "verses": [
+    "isaiah 18:5:10"
+  ]
+}

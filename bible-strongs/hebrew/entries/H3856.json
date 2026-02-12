@@ -1,0 +1,43 @@
+{
+  "number": "H3856",
+  "language": "hebrew",
+  "transliteration": "lâhahh",
+  "pronunciation": "law-hah'",
+  "definition": "to be rabid (figuratively, insane); also (from the exhaustion of frenzy) to languish",
+  "kjvTranslation": "faint, mad.",
+  "hebrew": "לָהַהּ",
+  "translations": {
+    "bg": "да съм бесен (в преносен смисъл, луд); също така (от изтощение от лудост) да изнемогвам",
+    "cs": "být vzteklý (přeneseně, šílený); také (z vyčerpání šílenství) chřadnout",
+    "da": "at være rasende (i overført betydning sindssyg); også (fra udmattelse af vanvid) at sygne hen",
+    "de": "rasend sein (im übertragenen Sinne, wahnsinnig); auch (aus der Erschöpfung des Rausches) schmachten",
+    "el": "λυσσάω (μεταφορικά, τρελός)- επίσης (από την εξάντληση της μανία) μαραζώνω",
+    "es": "estar rabioso (en sentido figurado, loco); también (por el agotamiento del frenesí) languidecer",
+    "et": "olla raevukas (piltlikult öeldes, hullumeelne); ka (raevu kurnatusest) igatseda",
+    "fi": "olla raivohullu (kuvaannollisesti, mielenvikainen); myös (raivon uupumuksesta) kuihtua",
+    "fr": "être enragé (au sens figuré, fou) ; aussi (de l'épuisement de la frénésie) languir",
+    "hu": "tombolni (átvitt értelemben őrültnek lenni); továbbá (az őrjöngés kimerültségétől) lankadni",
+    "id": "menjadi gila (secara kiasan, gila); juga (karena kelelahan hiruk pikuk) merana",
+    "it": "essere rabbioso (in senso figurato, folle); anche (dall'esaurimento della frenesia) languire",
+    "ja": "狂暴になる（比喩的に、正気を失う）；また（熱狂の疲れから）ぐったりする",
+    "ko": "광란하다 (비유적으로, 미치다); 또한 (광란의 피로로 인해) 쇠약 해지다",
+    "lt": "būti pasiutusiu (perkeltine prasme, bepročiu); taip pat (nuo pamišimo išsekimo) merdėti",
+    "lv": "būt trakulīgam (pārnestā nozīmē - neprātīgam); arī (no neprāta izsīkuma) novārgt",
+    "nb": "å være rabiat (i overført betydning, sinnssyk); også (fra utmattelsen av vanvidd) å sygne hen",
+    "nl": "hondsdol zijn (figuurlijk, krankzinnig); ook (van de uitputting van razernij) wegkwijnen",
+    "pl": "być wściekłym (w przenośni, szalonym); również (z wyczerpania szału) marnieć",
+    "pt": "ser raivoso (figurativamente, insano); também (pela exaustão do frenesim) definhar",
+    "ro": "a fi turbat (la figurat, nebun); de asemenea (din cauza epuizării freneziei) a lâncezi",
+    "ru": "быть бешеным (образно, безумным); также (от изнеможения от бешенства) томиться",
+    "sk": "byť zúrivý (obrazne, šialený); tiež (z vyčerpania šialenstva) chradnúť",
+    "sl": "biti besen (v prenesenem pomenu nor); tudi (zaradi izčrpanosti besa) hirati",
+    "sv": "att vara rabiat (bildligt talat, galen); också (från utmattning av frenesi) att försmäkta",
+    "tr": "kudurmak (mecazi olarak, delirmek); ayrıca (çılgınlığın tükenmesinden) çürümek",
+    "uk": "скаженіти (образно, божеволіти); також (від виснаження шаленства) знемагати",
+    "zh": "发狂（比喻精神失常）；也指（因狂热而精疲力竭）无精打采"
+  },
+  "verses": [
+    "genesis 47:13:8",
+    "proverbs 26:18:0"
+  ]
+}

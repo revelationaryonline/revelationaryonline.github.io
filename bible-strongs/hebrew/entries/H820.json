@@ -1,0 +1,42 @@
+{
+  "number": "H820",
+  "language": "hebrew",
+  "transliteration": "ʼashmân",
+  "pronunciation": "ash-mawn'",
+  "definition": "a fat-field",
+  "kjvTranslation": "desolate place.",
+  "translations": {
+    "bg": "мастно поле",
+    "cs": "tlusté pole",
+    "da": "et fedtfelt",
+    "de": "ein Fettfeld",
+    "el": "ένα λιπαρό πεδίο",
+    "es": "un campo de grasa",
+    "et": "rasvapõld",
+    "fi": "rasvakenttä",
+    "fr": "un champ de graisse",
+    "hu": "egy zsírmező",
+    "id": "ladang yang gemuk",
+    "it": "un campo di grasso",
+    "ja": "ファットフィールド",
+    "ko": "지방 필드",
+    "lt": "riebalinis laukas",
+    "lv": "tauku lauks",
+    "nb": "et fettfelt",
+    "nl": "een vetveld",
+    "pl": "pole tłuszczowe",
+    "pt": "um campo de gordura",
+    "ro": "un câmp gras",
+    "ru": "жировое поле",
+    "sk": "tukové pole",
+    "sl": "maščobno polje",
+    "sv": "ett fettfält",
+    "tr": "bir yağ alanı",
+    "uk": "жирове поле",
+    "zh": "胖场"
+  },
+  "hebrew": "אַשְׁמָן",
+  "verses": [
+    "isaiah 59:10:9"
+  ]
+}

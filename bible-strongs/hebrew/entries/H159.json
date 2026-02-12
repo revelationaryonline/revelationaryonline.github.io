@@ -1,0 +1,42 @@
+{
+  "number": "H159",
+  "language": "hebrew",
+  "transliteration": "ʼôhab",
+  "pronunciation": "o'-hab",
+  "definition": "{affection (in a good or a bad sense)}",
+  "kjvTranslation": "love.",
+  "translations": {
+    "bg": "{привързаност (в добър или лош смисъл)}",
+    "cs": "{náklonnost (v dobrém nebo špatném smyslu)}",
+    "da": "{tilknytning (i god eller dårlig forstand)}",
+    "de": "{Zuneigung (im guten oder schlechten Sinne)}",
+    "el": "{αγάπη (με την καλή ή την κακή έννοια)}",
+    "es": "{afecto (en el buen o mal sentido)}",
+    "et": "(heas või halvas mõttes)}",
+    "fi": "{mieltymys (hyvässä tai pahassa mielessä)}",
+    "fr": "{affection (dans le bon ou le mauvais sens)}",
+    "hu": "{szeretet (jó vagy rossz értelemben)}",
+    "id": "{kasih sayang (dalam arti yang baik atau buruk)}",
+    "it": "{affetto (in senso buono o cattivo)",
+    "ja": "{愛情（良い意味でも悪い意味でも）}。",
+    "ko": "{애정(좋은 의미 또는 나쁜 의미)}",
+    "lt": "{prielankumas (gerąja ar blogąja prasme)}",
+    "lv": "{mīlestība (labā vai sliktā nozīmē)}",
+    "nb": "{kjærlighet (i god eller dårlig forstand)}",
+    "nl": "{affectie (in goede of slechte zin)}",
+    "pl": "{uczucie (w dobrym lub złym sensie)}",
+    "pt": "{afeto (no bom ou no mau sentido)}",
+    "ro": "{afecțiune (într-un sens bun sau rău)}",
+    "ru": "{привязанность (в хорошем или плохом смысле)}",
+    "sk": "{náklonnosť (v dobrom alebo zlom zmysle)}",
+    "sl": "{naklonjenost (v dobrem ali slabem smislu)}",
+    "sv": "{tillgivenhet (i god eller dålig bemärkelse)}",
+    "tr": "{sevgi (iyi ya da kötü anlamda)}",
+    "uk": "{прихильність (у хорошому чи поганому сенсі)}",
+    "zh": "{感情（好或坏的意义）}......"
+  },
+  "hebrew": "אֹהַב",
+  "verses": [
+    "proverbs 7:18:6"
+  ]
+}

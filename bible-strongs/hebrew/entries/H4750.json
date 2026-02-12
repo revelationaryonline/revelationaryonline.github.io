@@ -1,0 +1,42 @@
+{
+  "number": "H4750",
+  "language": "hebrew",
+  "transliteration": "miqshâh",
+  "pronunciation": "mik-shaw'",
+  "definition": "literally a cucumbered field, i.e. a cucumber patch",
+  "kjvTranslation": "garden of cucumbers.",
+  "hebrew": "מִקְשָׁה",
+  "translations": {
+    "bg": "буквално поле с краставици, т.е. участък с краставици",
+    "cs": "doslova okurkové pole, tj. záhon s okurkami",
+    "da": "bogstaveligt talt en agurkemark, dvs. en agurkeplantage",
+    "de": "wörtlich ein Gurkenfeld, d. h. ein Gurkenbeet",
+    "el": "κυριολεκτικά ένα χωράφι με αγγούρια, δηλαδή ένα χωράφι με αγγούρια",
+    "es": "literalmente un campo de pepinos, es decir, una parcela de pepinos",
+    "et": "sõna otseses mõttes kurgipõld, s.t. kurgipõld",
+    "fi": "kirjaimellisesti kurkkupelto eli kurkkupelto",
+    "fr": "littéralement un champ de concombres, c'est-à-dire une parcelle de concombres",
+    "hu": "szó szerint uborkás mező, azaz uborkaföld",
+    "id": "secara harfiah berarti ladang mentimun, yaitu ladang mentimun",
+    "it": "letteralmente un campo di cetrioli, cioè un campo di cetrioli",
+    "ja": "キュウリ畑",
+    "ko": "말 그대로 오이 밭, 즉 오이밭입니다",
+    "lt": "tiesiogine prasme - agurkų laukas, t. y. agurkų laukas",
+    "lv": "burtiski gurķu lauks, t. i., gurķu lauks",
+    "nb": "bokstavelig talt en agurkåker, dvs. en agurkflekk",
+    "nl": "letterlijk een komkommerveld, d.w.z. een komkommerveld",
+    "pl": "dosłownie pole ogórkowe, tj. grządka ogórków",
+    "pt": "literalmente, um campo com pepinos, ou seja, uma plantação de pepinos",
+    "ro": "literal, un câmp cu castraveți, adică un lan de castraveți",
+    "ru": "буквально огуречное поле, т.е. огуречная грядка",
+    "sk": "doslova pole s uhorkami, t. j. záhon s uhorkami",
+    "sl": "dobesedno polje s kumarami, tj. gredica s kumarami",
+    "sv": "bokstavligen ett fält med gurka, dvs. en gurkplätt",
+    "tr": "kelimenin tam anlamıyla hıyarlı bir tarla, yani bir hıyar tarlası",
+    "uk": "буквально огіркове поле, тобто огіркова грядка",
+    "zh": "黄瓜地"
+  },
+  "verses": [
+    "isaiah 1:8:6"
+  ]
+}

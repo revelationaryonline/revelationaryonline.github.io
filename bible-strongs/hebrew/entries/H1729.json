@@ -1,0 +1,42 @@
+{
+  "number": "H1729",
+  "language": "hebrew",
+  "transliteration": "dûwgâh",
+  "pronunciation": "doo-gaw'",
+  "definition": "properly, fishery, i.e. a hook forfishing",
+  "kjvTranslation": "fish (hook).",
+  "translations": {
+    "bg": "правилно, риболов, т.е. кука за риболов",
+    "cs": "správně rybářství, tj. háček pro lov ryb",
+    "da": "korrekt, fiskeri, dvs. en krog til fiskeri",
+    "de": "richtig, Fischerei, d.h. ein Haken zum Fischen",
+    "el": "σωστά, αλιεία, δηλαδή ένα αγκίστρι για την αλιεία",
+    "es": "propiamente, pesca, es decir, un anzuelo para pescar",
+    "et": "korralikult, kalapüük, s.t. konks kalapüügiks",
+    "fi": "oikein, kalastus eli koukku kalastusta varten",
+    "fr": "proprement dit, la pêche, c'est-à-dire un hameçon pour la pêche",
+    "hu": "megfelelően, halászat, azaz egy horgot halászathoz",
+    "id": "perikanan yang benar, yaitu kail untuk memancing ikan",
+    "it": "propriamente, pesca, cioè un amo per pescare",
+    "ja": "つまり、釣り針である。",
+    "ko": "제대로 말하면 어업, 즉 낚싯바늘 낚시",
+    "lt": "tinkamai, žvejyba, t. y. kabliukas, skirtasžvejybai",
+    "lv": "pareizi, zvejniecība, t. i., āķis zvejai",
+    "nb": "riktig, fiskeri, dvs. en krok for fiske",
+    "nl": "goed, visserij, d.w.z. een haak voor het vissen",
+    "pl": "prawidłowo, łowisko, tj. hak do połowu ryb",
+    "pt": "propriamente dito, pescaria, ou seja, um anzol para pescar",
+    "ro": "corect, pescuit, adică un cârlig pentru pescuit",
+    "ru": "правильно, рыболовство, т.е. крючок для ловли рыбы",
+    "sk": "správne, rybárstvo, t. j. háčik na lov rýb",
+    "sl": "pravilno, ribolov, tj. trnek za ribolov",
+    "sv": "korrekt, fiske, dvs. en krok för att fiska",
+    "tr": "düzgün bir şekilde, balıkçılık, yani balık tutmak için bir kanca",
+    "uk": "власне, рибальство, тобто риболовля на гачок",
+    "zh": "正确地说，\"渔\"，即捕鱼的钩子"
+  },
+  "hebrew": "דּוּגָה",
+  "verses": [
+    "amos 4:2:14"
+  ]
+}

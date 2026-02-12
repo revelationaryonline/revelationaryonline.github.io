@@ -1,0 +1,42 @@
+{
+  "number": "H1919",
+  "language": "hebrew",
+  "transliteration": "Hădaççâh",
+  "pronunciation": "had-as-saw'",
+  "definition": "Hadassah (or Esther)",
+  "kjvTranslation": "Hadassah.",
+  "translations": {
+    "bg": "Хадаса (или Естер)",
+    "cs": "Hadaša (nebo Ester)",
+    "da": "Hadassah (eller Esther)",
+    "de": "Hadassah (oder Esther)",
+    "el": "Hadassah (ή Esther)",
+    "es": "Hadasa (o Esther)",
+    "et": "Hadassa (või Ester)",
+    "fi": "Hadassa (tai Ester)",
+    "fr": "Hadassah (ou Esther)",
+    "hu": "Hadassa (vagy Eszter)",
+    "id": "Hadassah (atau Ester)",
+    "it": "Hadassah (o Ester)",
+    "ja": "ハダサ（またはエステル）",
+    "ko": "하다사(또는 에스더)",
+    "lt": "Hadasa (arba Estera)",
+    "lv": "Hadaša (vai Estera)",
+    "nb": "Hadassah (eller Ester)",
+    "nl": "Hadassah (of Esther)",
+    "pl": "Hadassah (lub Esther)",
+    "pt": "Hadassah (ou Esther)",
+    "ro": "Hadassah (sau Esther)",
+    "ru": "Хадасса (или Эстер)",
+    "sk": "Hadassa (alebo Ester)",
+    "sl": "Hadasa (ali Ester)",
+    "sv": "Hadassah (eller Esther)",
+    "tr": "Hadassah (veya Ester)",
+    "uk": "Хадасса (або Естер)",
+    "zh": "哈大沙"
+  },
+  "hebrew": "הֲדַסָּה",
+  "verses": [
+    "esther 2:7:3"
+  ]
+}

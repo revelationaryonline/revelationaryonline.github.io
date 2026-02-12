@@ -1,0 +1,42 @@
+{
+  "number": "H489",
+  "language": "hebrew",
+  "transliteration": "ʼalmôn",
+  "pronunciation": "al-mone'",
+  "definition": "bereavement",
+  "kjvTranslation": "widowhood.",
+  "translations": {
+    "bg": "загуба на близък",
+    "cs": "pozůstalí",
+    "da": "sorg",
+    "de": "trauerfall",
+    "el": "πένθος",
+    "es": "duelo",
+    "et": "leinaseisak",
+    "fi": "suru",
+    "fr": "deuil",
+    "hu": "gyászoló",
+    "id": "berkabung",
+    "it": "lutto",
+    "ja": "死別",
+    "ko": "사별",
+    "lt": "netektis",
+    "lv": "apgādnieka zaudējuma gadījumā",
+    "nb": "sorg",
+    "nl": "rouw",
+    "pl": "żałoba",
+    "pt": "luto",
+    "ro": "doliu",
+    "ru": "тяжелая утрата",
+    "sk": "pozostalí",
+    "sl": "žalovanje",
+    "sv": "sorg",
+    "tr": "yAS",
+    "uk": "важка втрата",
+    "zh": "丧恸"
+  },
+  "hebrew": "אַלְמֹן",
+  "verses": [
+    "isaiah 47:9:8"
+  ]
+}

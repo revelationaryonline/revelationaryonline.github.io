@@ -1,0 +1,43 @@
+{
+  "number": "H7189",
+  "language": "hebrew",
+  "transliteration": "qôsheṭ",
+  "pronunciation": "ko'-shet",
+  "definition": "equity (as evenly weighed), i.e. reality",
+  "kjvTranslation": "truth.",
+  "hebrew": "קֹשֶׁט",
+  "translations": {
+    "bg": "справедливост (като равномерно претеглена), т.е. реалност",
+    "cs": "spravedlnost (rovnoměrně vážená), tj. skutečnost",
+    "da": "retfærdighed (som jævnt afvejet), dvs. virkelighed",
+    "de": "gerechtigkeit (als gleichmäßige Abwägung), d.h. Realität",
+    "el": "ισότητα (ως ισόρροπη στάθμιση), δηλαδή πραγματικότητα",
+    "es": "la equidad (en su justa medida), es decir, la realidad",
+    "et": "õiglus (kui ühtlaselt kaalutud), st tegelikkus",
+    "fi": "oikeudenmukaisuus (tasapuolisesti punnittuna), eli todellisuus",
+    "fr": "l'équité (comme un poids égal), c'est-à-dire la réalité",
+    "hu": "méltányosság (egyenlően mérlegelve), azaz a realitás",
+    "id": "ekuitas (sebagaimana ditimbang secara merata), yaitu kenyataan",
+    "it": "l'equità (in quanto pesata in modo uniforme), cioè la realtà",
+    "ja": "公平性、すなわち現実性",
+    "ko": "형평성(균등한 가중치), 즉 현실성",
+    "lt": "teisingumas (vienodai pasvertas), t. y. tikrovė",
+    "lv": "taisnīgums (kā vienmērīgi nosvērts), t. i., realitāte",
+    "nb": "rettferdighet (som jevnt veid), dvs. virkeligheten",
+    "nl": "billijkheid (zoals gelijk gewogen), d.w.z. realiteit",
+    "pl": "sprawiedliwość (jako równomiernie zważona), tj. rzeczywistość",
+    "pt": "equidade (como um peso igual), ou seja, realidade",
+    "ro": "echitate (cântărire egală), adică realitate",
+    "ru": "справедливость (как равномерное взвешивание), т.е. реальность",
+    "sk": "spravodlivosť (rovnomerne vážená), t. j. skutočnosť",
+    "sl": "pravičnost (kot enakomerno tehtanje), tj. resničnost",
+    "sv": "rättvisa (som jämnt vägda), dvs. verklighet",
+    "tr": "eşitlik (eşit şekilde tartılmış olarak), yani gerçeklik",
+    "uk": "справедливість (як рівномірно зважена), тобто реальність",
+    "zh": "公平（作为均匀的权衡），即现实"
+  },
+  "verses": [
+    "psalms 60:6:5",
+    "proverbs 22:21:1"
+  ]
+}

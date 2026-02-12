@@ -1,0 +1,43 @@
+{
+  "number": "H1502",
+  "language": "hebrew",
+  "transliteration": "Gazzâm",
+  "pronunciation": "gaz-zawm'",
+  "definition": "Gazzam, one of the Nethinim",
+  "kjvTranslation": "Gazzam.",
+  "translations": {
+    "bg": "Газам, един от Нетините",
+    "cs": "Gazzam, jeden z Nethinimů",
+    "da": "Gazzam, en af nethinimerne",
+    "de": "Gazzam, einer der Nethinim",
+    "el": "Gazzam, ένας από τους Nethinim",
+    "es": "Gazzam, uno de los Nethinim",
+    "et": "Gazzam, üks nethinimidest",
+    "fi": "Gazzam, yksi Nethinimistä..",
+    "fr": "Gazzam, l'un des Nethinim",
+    "hu": "Gazzam, az egyik nethinim",
+    "id": "Gazzam, salah satu anggota Nethinim",
+    "it": "Gazzam, uno dei Nethinim",
+    "ja": "ネティニムの一人、ガザム",
+    "ko": "네티님 중 한 명, 가잠",
+    "lt": "Gazzamas, vienas iš Nethinimų",
+    "lv": "Gazzams, viens no Nethinim",
+    "nb": "Gazzam, en av nethinimene",
+    "nl": "Gazzam, een van de Nethinim",
+    "pl": "Gazzam, jeden z Nethinimów",
+    "pt": "Gazzam, um dos Nethinim",
+    "ro": "Gazzam, unul dintre Nethinim",
+    "ru": "Газзам, один из нефиним",
+    "sk": "Gazzam, jeden z Nethinim",
+    "sl": "Gazzam, eden od Nethinimov",
+    "sv": "Gazzam, en av Nethinim",
+    "tr": "Gazzam, Nethinim'den biri",
+    "uk": "Газзам, один з нефінімів",
+    "zh": "加扎姆，奈西尼姆人之一"
+  },
+  "hebrew": "גַּזָּם",
+  "verses": [
+    "ezra 2:48:5",
+    "nehemiah 7:51:1"
+  ]
+}

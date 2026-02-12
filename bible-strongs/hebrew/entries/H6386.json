@@ -1,0 +1,42 @@
+{
+  "number": "H6386",
+  "language": "hebrew",
+  "transliteration": "pᵉlag",
+  "pronunciation": "pel-ag'",
+  "definition": "{to split (literally or figuratively)}",
+  "kjvTranslation": "divided.",
+  "hebrew": "פְּלַג",
+  "translations": {
+    "bg": "{да се раздели (буквално или преносно)}",
+    "cs": "{rozdělit (doslova nebo obrazně)}",
+    "da": "{at splitte (bogstaveligt eller i overført betydning)}",
+    "de": "(wörtlich oder im übertragenen Sinne) spalten",
+    "el": "(να χωρίσεις (κυριολεκτικά ή μεταφορικά))",
+    "es": "{partir (literal o figuradamente)}",
+    "et": "(sõna otseses või ülekantud tähenduses) jagada",
+    "fi": "(kirjaimellisesti tai kuvaannollisesti) jakaa",
+    "fr": "{séparer (au sens propre ou au sens figuré)}",
+    "hu": "(szó szerint vagy átvitt értelemben)}",
+    "id": "{membagi (secara harfiah atau kiasan)",
+    "it": "{dividere (letteralmente o in senso figurato)",
+    "ja": "{分割する（文字通りの意味でも比喩的な意味でも）}。",
+    "ko": "{분할하다(문자 그대로 또는 비유적으로)}",
+    "lt": "{skirti (tiesiogine ar perkeltine prasme)}",
+    "lv": "{šķelt (burtiski vai pārnestā nozīmē)}",
+    "nb": "{å splitte (bokstavelig eller billedlig)}",
+    "nl": "{om te splitsen (letterlijk of figuurlijk)}",
+    "pl": "{rozdzielić (dosłownie lub w przenośni)}",
+    "pt": "{dividir (literal ou figurativamente)}",
+    "ro": "{să despartă (la propriu sau la figurat)}",
+    "ru": "{разделить (в прямом или переносном смысле)}",
+    "sk": "{rozdeliť (doslova alebo obrazne)}",
+    "sl": "{razdeliti (dobesedno ali v prenesenem pomenu)}",
+    "sv": "{att dela (bokstavligen eller bildligt talat)}",
+    "tr": "{parçalamak (gerçek veya mecazi anlamda)}",
+    "uk": "{розколювати (в прямому чи переносному значенні)",
+    "zh": "{分裂（字面或比喻）}"
+  },
+  "verses": [
+    "daniel 2:41:13"
+  ]
+}

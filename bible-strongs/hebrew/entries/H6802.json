@@ -1,0 +1,42 @@
+{
+  "number": "H6802",
+  "language": "hebrew",
+  "transliteration": "tsᵉnêphâh",
+  "pronunciation": "tsen-ay-faw'",
+  "definition": "a ball",
+  "kjvTranslation": "[idiom] toss.",
+  "hebrew": "צְנֵפָה",
+  "translations": {
+    "bg": "топка",
+    "cs": "míč",
+    "da": "en bold",
+    "de": "eine Kugel",
+    "el": "μια μπάλα",
+    "es": "un balón",
+    "et": "pall",
+    "fi": "pallo",
+    "fr": "un ballon",
+    "hu": "egy labda",
+    "id": "sebuah bola",
+    "it": "una palla",
+    "ja": "ボール",
+    "ko": "공",
+    "lt": "kamuolys",
+    "lv": "bumba",
+    "nb": "en ball",
+    "nl": "een bal",
+    "pl": "piłka",
+    "pt": "uma bola",
+    "ro": "o minge",
+    "ru": "мяч",
+    "sk": "lopta",
+    "sl": "žoga",
+    "sv": "en boll",
+    "tr": "bir top",
+    "uk": "м'яч",
+    "zh": "球"
+  },
+  "verses": [
+    "isaiah 22:18:2"
+  ]
+}

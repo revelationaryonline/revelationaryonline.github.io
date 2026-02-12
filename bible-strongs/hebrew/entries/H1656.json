@@ -1,0 +1,42 @@
+{
+  "number": "H1656",
+  "language": "hebrew",
+  "transliteration": "gôshem",
+  "pronunciation": "go'-shem",
+  "definition": "{a shower}",
+  "kjvTranslation": "rained upon.",
+  "translations": {
+    "bg": "{душ}",
+    "cs": "{sprcha}",
+    "da": "{Et brusebad}",
+    "de": "(eine Dusche)",
+    "el": "(ένα ντους)",
+    "es": "{una ducha}",
+    "et": "(dušš)",
+    "fi": "{y:i}Suihku",
+    "fr": "{une douche}",
+    "hu": "{a zuhanyzó}",
+    "id": "[mandi]",
+    "it": "{Una doccia.}",
+    "ja": "{シャワー｝",
+    "ko": "{샤워}",
+    "lt": "{dušas}",
+    "lv": "{duša}",
+    "nb": "{En dusj}",
+    "nl": "{Een douche.}",
+    "pl": "{prysznic}",
+    "pt": "{Um duche}",
+    "ro": "{un duș}",
+    "ru": "{Душ}",
+    "sk": "{sprcha}",
+    "sl": "{tuširanje}",
+    "sv": "{En dusch}",
+    "tr": "{bir duş}",
+    "uk": "{Душ.}",
+    "zh": "{一场淋浴}"
+  },
+  "hebrew": "גֹּשֶׁם",
+  "verses": [
+    "ezekiel 22:24:10"
+  ]
+}

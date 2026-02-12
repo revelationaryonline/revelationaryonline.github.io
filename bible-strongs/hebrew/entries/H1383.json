@@ -1,0 +1,43 @@
+{
+  "number": "H1383",
+  "language": "hebrew",
+  "transliteration": "gabluth",
+  "pronunciation": "gab-looth'",
+  "definition": "a twisted chain or lace",
+  "kjvTranslation": "end.",
+  "translations": {
+    "bg": "усукана верига или дантела",
+    "cs": "kroucený řetízek nebo krajka",
+    "da": "en snoet kæde eller blonde",
+    "de": "eine gedrehte Kette oder Spitze",
+    "el": "μια στριφτή αλυσίδα ή δαντέλα",
+    "es": "una cadena o cordón retorcido",
+    "et": "keeratud kett või pits",
+    "fi": "kierretty ketju tai pitsi",
+    "fr": "une chaîne ou un lacet torsadé",
+    "hu": "csavart lánc vagy csipke",
+    "id": "rantai atau renda yang dipilin",
+    "it": "una catena o un laccio attorcigliato",
+    "ja": "ねじり鎖",
+    "ko": "꼬인 체인 또는 레이스",
+    "lt": "susukta grandinėlė arba nėriniai",
+    "lv": "vītā ķēde vai mežģīnes",
+    "nb": "en tvunnet kjede eller blonder",
+    "nl": "een gedraaide ketting of kant",
+    "pl": "skręcony łańcuszek lub koronka",
+    "pt": "uma corrente ou renda torcida",
+    "ro": "un lanț răsucit sau o dantelă",
+    "ru": "витая цепочка или шнурок",
+    "sk": "krútená reťaz alebo čipka",
+    "sl": "zavita veriga ali čipka",
+    "sv": "en tvinnad kedja eller spets",
+    "tr": "bükülmüş bir zincir veya dantel",
+    "uk": "кручений ланцюжок або шнурок",
+    "zh": "缭绕"
+  },
+  "hebrew": "גַּבְלֻת",
+  "verses": [
+    "exodus 28:22:4",
+    "exodus 39:15:4"
+  ]
+}

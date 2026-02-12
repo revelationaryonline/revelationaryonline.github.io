@@ -1,0 +1,42 @@
+{
+  "number": "H4790",
+  "language": "hebrew",
+  "transliteration": "mᵉrôwach",
+  "pronunciation": "mer-o-akh'",
+  "definition": "bruised, i.e. emasculated",
+  "kjvTranslation": "broken.",
+  "hebrew": "מְרוֹחַ",
+  "translations": {
+    "bg": "посинен, т.е. кастриран",
+    "cs": "pohmožděný, tj. vykastrovaný",
+    "da": "forslået, dvs. kastreret",
+    "de": "gequetscht, d.h. entmannt",
+    "el": "μελανιασμένος, δηλαδή ευνουχισμένος",
+    "es": "magullado, es decir, castrado",
+    "et": "muljutud, s.t. emaskulifitseeritud",
+    "fi": "mustelmilla, ts. heikentynyt..",
+    "fr": "meurtri, c'est-à-dire émasculé",
+    "hu": "zúzódások, azaz kisemmizés",
+    "id": "memar, yaitu dikebiri",
+    "it": "ammaccati, cioè evirati",
+    "ja": "打たれ弱い",
+    "ko": "멍든, 즉 남성화됨",
+    "lt": "sumuštas, t. y. nužmogintas",
+    "lv": "sasists, t.i., novājināts",
+    "nb": "forslått, dvs. kastrert",
+    "nl": "gekneusd, d.w.z. ontmand",
+    "pl": "posiniaczony, tj. obezwładniony",
+    "pt": "ferido, ou seja, emasculado",
+    "ro": "învinețit, adică emasculat",
+    "ru": "ушибленный, т.е. выхолощенный",
+    "sk": "pohmoždený, t. j. vykastrovaný",
+    "sl": "obtolčen, tj. osiromašen",
+    "sv": "blåslagen, dvs. kastrerad",
+    "tr": "zedelenmiş, yani iğdiş edilmiş",
+    "uk": "побиті, тобто вихолощені",
+    "zh": "伤痕累累，即被阉割"
+  },
+  "verses": [
+    "leviticus 21:20:12"
+  ]
+}

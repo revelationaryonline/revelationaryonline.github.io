@@ -1,0 +1,42 @@
+{
+  "number": "H388",
+  "language": "hebrew",
+  "transliteration": "ʼÊythânîym",
+  "pronunciation": "ay-thaw-neem'",
+  "definition": "Ethanim, the name of a month",
+  "kjvTranslation": "Ethanim.",
+  "translations": {
+    "bg": "Етаним, името на един месец",
+    "cs": "Ethanim, jméno měsíce",
+    "da": "Ethanim, navnet på en måned",
+    "de": "Ethanim, der Name eines Monats",
+    "el": "Ethanim, το όνομα ενός μήνα",
+    "es": "Ethanim, el nombre de un mes",
+    "et": "Ethanim, kuu nimi",
+    "fi": "Ethanim, kuukauden nimi",
+    "fr": "Ethanim, le nom d'un mois",
+    "hu": "Ethanim, egy hónap neve",
+    "id": "Ethanim, nama sebuah bulan",
+    "it": "Ethanim, il nome di un mese",
+    "ja": "月の名前「エタニム",
+    "ko": "에타님, 한 달의 이름",
+    "lt": "Etanimas, mėnesio pavadinimas",
+    "lv": "Ethanim, mēneša nosaukums",
+    "nb": "Ethanim, navnet på en måned",
+    "nl": "Ethanim, de naam van een maand",
+    "pl": "Ethanim, nazwa miesiąca",
+    "pt": "Ethanim, o nome de um mês",
+    "ro": "Ethanim, numele unei luni",
+    "ru": "Итаним, название месяца",
+    "sk": "Ethanim, názov mesiaca",
+    "sl": "Ethanim, ime meseca",
+    "sv": "Ethanim, namnet på en månad",
+    "tr": "Ethanim, bir ayın adı",
+    "uk": "Етанім, назва місяця",
+    "zh": "月名 Ethanim"
+  },
+  "hebrew": "אֵיתָנִים",
+  "verses": [
+    "firstKings 8:2:8"
+  ]
+}

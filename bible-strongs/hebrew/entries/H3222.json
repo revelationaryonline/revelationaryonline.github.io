@@ -1,0 +1,42 @@
+{
+  "number": "H3222",
+  "language": "hebrew",
+  "transliteration": "yêm",
+  "pronunciation": "yame",
+  "definition": "a warm spring",
+  "kjvTranslation": "mule.",
+  "translations": {
+    "bg": "топла пролет",
+    "cs": "teplé jaro",
+    "da": "et varmt forår",
+    "de": "ein warmer Frühling",
+    "el": "μια ζεστή άνοιξη",
+    "es": "una cálida primavera",
+    "et": "soe kevad",
+    "fi": "lämmin kevät",
+    "fr": "un printemps chaud",
+    "hu": "meleg tavasz",
+    "id": "musim semi yang hangat",
+    "it": "una calda primavera",
+    "ja": "暖かい春",
+    "ko": "따뜻한 봄",
+    "lt": "šiltas pavasaris",
+    "lv": "silts pavasaris",
+    "nb": "en varm vår",
+    "nl": "een warme lente",
+    "pl": "ciepła wiosna",
+    "pt": "uma primavera quente",
+    "ro": "o primăvară caldă",
+    "ru": "теплая весна",
+    "sk": "teplá jar",
+    "sl": "topla pomlad",
+    "sv": "en varm vår",
+    "tr": "ılık bir bahar",
+    "uk": "тепла весна",
+    "zh": "暖春"
+  },
+  "hebrew": "יֵם",
+  "verses": [
+    "genesis 36:24:10"
+  ]
+}

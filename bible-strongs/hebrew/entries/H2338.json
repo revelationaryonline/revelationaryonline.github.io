@@ -1,0 +1,42 @@
+{
+  "number": "H2338",
+  "language": "hebrew",
+  "transliteration": "chûwṭ",
+  "pronunciation": "khoot",
+  "definition": "to string together, i.e. (figuratively) to repair",
+  "kjvTranslation": "join.",
+  "translations": {
+    "bg": "да свързвам, т.е. (в преносен смисъл) да поправям",
+    "cs": "spojovat, tj. (přeneseně) opravovat",
+    "da": "at sætte sammen, dvs. (i overført betydning) at reparere",
+    "de": "zusammenfügen, d.h. (im übertragenen Sinne) reparieren",
+    "el": "συναρμολογώ, δηλ. (μεταφορικά) επισκευάζω",
+    "es": "ensartar, es decir (en sentido figurado) reparar",
+    "et": "kokku nöörida, st (piltlikult) parandada",
+    "fi": "naruilla yhteen, eli (kuvaannollisesti) korjata",
+    "fr": "pour réparer, c'est-à-dire (au sens figuré) pour réparer",
+    "hu": "összefűzni, azaz (átvitt értelemben) megjavítani",
+    "id": "untuk merangkai bersama, yaitu (secara kiasan) untuk memperbaiki",
+    "it": "mettere insieme le corde, cioè (in senso figurato) riparare",
+    "ja": "つなぎ合わせる、つまり（比喩的に）修理する",
+    "ko": "함께 묶다, 즉 (비유적으로) 수리하다",
+    "lt": "sujungti, t. y. (perkeltine prasme) pataisyti",
+    "lv": "savienot kopā, t.i., (pārnestā nozīmē) salabot",
+    "nb": "å sette sammen, dvs. (i overført betydning) å reparere",
+    "nl": "aan elkaar rijgen, d.w.z. (figuurlijk) repareren",
+    "pl": "połączyć, tj. (w przenośni) naprawić",
+    "pt": "ligar, ou seja, (figurativamente) reparar",
+    "ro": "a lega împreună, adică (la figurat) a repara",
+    "ru": "соединять, т.е. (фигурально) ремонтировать",
+    "sk": "spojiť, t. j. (v prenesenom význame) opraviť",
+    "sl": "povezati, tj. (v prenesenem pomenu) popraviti",
+    "sv": "att snöra ihop, dvs. (bildligt talat) att reparera",
+    "tr": "bir araya getirmek, yani (mecazi olarak) onarmak",
+    "uk": "зв'язати докупи, тобто (образно) відремонтувати",
+    "zh": "穿针引线，即（比喻）修补"
+  },
+  "hebrew": "חוּט",
+  "verses": [
+    "ezra 4:12:22"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H8591",
+  "language": "hebrew",
+  "transliteration": "tâʻaʻ",
+  "pronunciation": "taw-ah'",
+  "definition": "to cheat; by analogy, to maltreat",
+  "kjvTranslation": "deceive, misuse.",
+  "hebrew": "תָּעַע",
+  "translations": {
+    "bg": "да измамвам; по аналогия - да малтретирам",
+    "cs": "podvádět; obdobně špatně zacházet",
+    "da": "at snyde; analogt at mishandle",
+    "de": "betrügen; analog dazu: misshandeln",
+    "el": "εξαπατώ- κατ' αναλογία, κακομεταχειρίζομαι",
+    "es": "engañar; por analogía, maltratar",
+    "et": "petta; analoogia alusel väärkohelda",
+    "fi": "huijata; vastaavasti pahoinpidellä",
+    "fr": "tromper ; par analogie, maltraiter",
+    "hu": "becsapni; ennek analógiájára bántalmazni",
+    "id": "menipu; dengan analogi, menganiaya",
+    "it": "imbrogliare; per analogia, maltrattare",
+    "ja": "をだます；類推して、虐待する",
+    "ko": "속임수를 쓰다; 비유하자면, 학대하다",
+    "lt": "apgaudinėti; pagal analogiją - blogai elgtis",
+    "lv": "krāpt; pēc analoģijas - ļaunprātīgi izturēties",
+    "nb": "å lure; analogt, å mishandle",
+    "nl": "bedriegen; naar analogie, mishandelen",
+    "pl": "oszukiwać; przez analogię, maltretować",
+    "pt": "enganar; por analogia, maltratar",
+    "ro": "a înșela; prin analogie, a maltrata",
+    "ru": "обманывать; по аналогии - плохо обращаться",
+    "sk": "podvádzať; analogicky, zle zaobchádzať",
+    "sl": "goljufati; po analogiji zlorabljati",
+    "sv": "att lura; analogt att misshandla",
+    "tr": "aldatmak; benzetme yoluyla, kötü muamele etmek",
+    "uk": "обманювати; за аналогією, жорстоко поводитися",
+    "zh": "欺骗；以此类推，虐待"
+  },
+  "verses": [
+    "genesis 27:12:5",
+    "secondChronicles 36:16:6"
+  ]
+}

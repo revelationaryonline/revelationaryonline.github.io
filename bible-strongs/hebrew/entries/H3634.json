@@ -1,0 +1,43 @@
+{
+  "number": "H3634",
+  "language": "hebrew",
+  "transliteration": "kâlal",
+  "pronunciation": "kaw-lal'",
+  "definition": "to complete",
+  "kjvTranslation": "(make) perfect.",
+  "translations": {
+    "bg": "да завършите",
+    "cs": "dokončit",
+    "da": "for at fuldføre",
+    "de": "zu vervollständigen",
+    "el": "για να ολοκληρωθεί",
+    "es": "para completar",
+    "et": "lõpule viia",
+    "fi": "loppuun",
+    "fr": "pour compléter",
+    "hu": "befejezni",
+    "id": "untuk menyelesaikan",
+    "it": "per completare",
+    "ja": "完了する",
+    "ko": "완료하려면",
+    "lt": "užbaigti",
+    "lv": "pabeigt",
+    "nb": "for å fullføre",
+    "nl": "voltooien",
+    "pl": "zakończyć",
+    "pt": "para completar",
+    "ro": "pentru a finaliza",
+    "ru": "завершить",
+    "sk": "dokončiť",
+    "sl": "za dokončanje",
+    "sv": "för att slutföra",
+    "tr": "tamamlamak için",
+    "uk": "завершити",
+    "zh": "完成"
+  },
+  "hebrew": "כָּלַל",
+  "verses": [
+    "ezekiel 27:4:4",
+    "ezekiel 27:11:15"
+  ]
+}

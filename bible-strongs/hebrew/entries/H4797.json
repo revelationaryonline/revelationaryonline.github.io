@@ -1,0 +1,42 @@
+{
+  "number": "H4797",
+  "language": "hebrew",
+  "transliteration": "mirzach",
+  "pronunciation": "meer-zakh'",
+  "definition": "a cry, i.e. (of job), a revel",
+  "kjvTranslation": "banquet.",
+  "hebrew": "מִרְזַח",
+  "translations": {
+    "bg": "вик, т.е. (на работа), възклицание",
+    "cs": "výkřik, tj. (práce), zjevení",
+    "da": "et skrig, dvs. (af job), en åbenbaring",
+    "de": "ein Schrei, d.h. (von Beruf), ein Aufschrei",
+    "el": "μια κραυγή, δηλαδή (της εργασίας), ένα γλέντι",
+    "es": "un grito, es decir (de trabajo), un jolgorio",
+    "et": "hüüe, st (töö), revelatsioon",
+    "fi": "huuto, eli (työn) juhlinta",
+    "fr": "un cri, c'est-à-dire (de travail), une révélation",
+    "hu": "egy kiáltás, azaz (a munka), egy reveláció",
+    "id": "seruan, yaitu (pekerjaan), suatu kegembiraan",
+    "it": "un grido, cioè (di lavoro), un'esultanza",
+    "ja": "鬨の声",
+    "ko": "외침, 즉 (직업의), 계시",
+    "lt": "šauksmas, t. y. (darbo), šauksmas",
+    "lv": "sauciens, t.i., (darba), sajūsma",
+    "nb": "et skrik, dvs. (av jobb), en åpenbaring",
+    "nl": "een schreeuw, d.w.z. (van baan), een onthulling",
+    "pl": "krzyk, tj. (pracy), objawienie",
+    "pt": "um grito, ou seja, (de trabalho), uma revelação",
+    "ro": "un strigăt, adică (de muncă), o revelație",
+    "ru": "крик, т.е. (о работе), ликование",
+    "sk": "výkrik, t. j. (práce), zjavenie",
+    "sl": "krik, tj. (dela), razburjenje",
+    "sv": "ett rop, d.v.s. (av jobb), en uppenbarelse",
+    "tr": "bir çığlık, yani (işin), bir cümbüş",
+    "uk": "крик, тобто (про роботу), радість",
+    "zh": "狂欢"
+  },
+  "verses": [
+    "amos 6:7:6"
+  ]
+}

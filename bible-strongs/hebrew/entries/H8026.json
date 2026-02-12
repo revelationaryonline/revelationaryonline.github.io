@@ -1,0 +1,43 @@
+{
+  "number": "H8026",
+  "language": "hebrew",
+  "transliteration": "sheleph",
+  "pronunciation": "sheh'-lef",
+  "definition": "Sheleph, a son of Jokthan",
+  "kjvTranslation": "Sheleph.",
+  "hebrew": "שֶׁלֶף",
+  "translations": {
+    "bg": "Шелеф, син на Йоктан",
+    "cs": "Šeleph, syn Joktanův",
+    "da": "Sheleph, en søn af Jokthan",
+    "de": "Sheleph, ein Sohn von Jokthan",
+    "el": "Σελέφ, γιος του Γιόκθαν",
+    "es": "Sheleph, hijo de Jokthan",
+    "et": "Sheleph, Jokthani poeg",
+    "fi": "Sheleph, Jokthanin poika",
+    "fr": "Sheleph, fils de Jokthan",
+    "hu": "Sheleph, Jokthan fia",
+    "id": "Sheleph, putra Jokthan",
+    "it": "Sheleph, figlio di Jokthan",
+    "ja": "ヨクタンの子、シェレフ",
+    "ko": "조크탄의 아들, 셸프",
+    "lt": "Šelefas, Joktano sūnus",
+    "lv": "Šelefs, Joktana dēls",
+    "nb": "Sjelef, en sønn av Jokthan",
+    "nl": "Sheleph, een zoon van Jokthan",
+    "pl": "Sheleph, syn Jokthana",
+    "pt": "Selefe, filho de Joctan",
+    "ro": "Sheleph, fiul lui Jokthan",
+    "ru": "Шелеф, сын Иоктана",
+    "sk": "Šelef, syn Joktánov",
+    "sl": "Šelef, Joktanov sin",
+    "sv": "Sheleph, en son till Jokthan",
+    "tr": "Sheleph, Jokthan'ın oğlu",
+    "uk": "Шелеф, син Йоктана",
+    "zh": "舍勒弗，约克坦之子"
+  },
+  "verses": [
+    "genesis 10:26:5",
+    "firstChronicles 1:20:5"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H6708",
+  "language": "hebrew",
+  "transliteration": "tsᵉchîychîy",
+  "pronunciation": "tsekh-ee-khee'",
+  "definition": "bare spot, i.e. in the glaring sun",
+  "kjvTranslation": "higher place.",
+  "hebrew": "צְחִיחִי",
+  "translations": {
+    "bg": "на голо място, т.е. на яркото слънце",
+    "cs": "na holém místě, tj. na prudkém slunci",
+    "da": "bar plet, dvs. i den skarpe sol",
+    "de": "kahle Stelle, d.h. in der gleißenden Sonne",
+    "el": "γυμνό σημείο, δηλαδή στον εκτυφλωτικό ήλιο",
+    "es": "desnudo, es decir, bajo el sol deslumbrante",
+    "et": "paljas koht, st pimestava päikese käes",
+    "fi": "paljaalla paikalla, toisin sanoen paahtavassa auringossa",
+    "fr": "en pleine lumière, c'est-à-dire en plein soleil",
+    "hu": "csupaszon, azaz a tűző napon",
+    "id": "tempat kosong, yaitu di bawah sinar matahari yang menyilaukan",
+    "it": "a cielo aperto, cioè sotto il sole cocente",
+    "ja": "まぶしい太陽の下",
+    "ko": "맨몸, 즉 눈부신 태양 아래서",
+    "lt": "nuošalioje vietoje, t. y. šviečiant saulei",
+    "lv": "tukšā vietā, t.i., spožā saulē",
+    "nb": "bar flekk, dvs. i stekende sol",
+    "nl": "kale plek, d.w.z. in de felle zon",
+    "pl": "gołe miejsce, tj. w rażącym słońcu",
+    "pt": "à vista desarmada, ou seja, ao sol forte",
+    "ro": "pe loc gol, adică în soarele orbitor",
+    "ru": "на голом месте, то есть под палящим солнцем",
+    "sk": "na holom mieste, t. j. na žiarivom slnku",
+    "sl": "na golem mestu, tj. na žarečem soncu",
+    "sv": "bar fläck, dvs. i den bländande solen",
+    "tr": "çıplak nokta, yani parlayan güneşin altında",
+    "uk": "на відкритому місці, тобто під яскравим сонцем",
+    "zh": "光秃秃的地方，即在刺眼的阳光下"
+  },
+  "verses": [
+    "nehemiah 4:7:5"
+  ]
+}

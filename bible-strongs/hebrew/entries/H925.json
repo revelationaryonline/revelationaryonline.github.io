@@ -1,0 +1,42 @@
+{
+  "number": "H925",
+  "language": "hebrew",
+  "transliteration": "bâhîyr",
+  "pronunciation": "baw-here'",
+  "definition": "shining",
+  "kjvTranslation": "bright.",
+  "translations": {
+    "bg": "блестящ",
+    "cs": "zářící",
+    "da": "skinnende",
+    "de": "leuchtend",
+    "el": "λάμπει",
+    "es": "brillante",
+    "et": "särav",
+    "fi": "loistava",
+    "fr": "brillant",
+    "hu": "ragyogó",
+    "id": "bersinar",
+    "it": "splendente",
+    "ja": "シャイニング",
+    "ko": "빛나는",
+    "lt": "spindintis",
+    "lv": "spīdošs",
+    "nb": "skinnende",
+    "nl": "stralend",
+    "pl": "błyszczący",
+    "pt": "brilhante",
+    "ro": "strălucire",
+    "ru": "сияние",
+    "sk": "žiariace",
+    "sl": "sijajni",
+    "sv": "lysande",
+    "tr": "parlayan",
+    "uk": "сяючий",
+    "zh": "崭亮"
+  },
+  "hebrew": "בָּהִיר",
+  "verses": [
+    "job 37:21:4"
+  ]
+}

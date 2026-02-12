@@ -1,0 +1,42 @@
+{
+  "number": "H1906",
+  "language": "hebrew",
+  "transliteration": "hêd",
+  "pronunciation": "hade",
+  "definition": "a shout",
+  "kjvTranslation": "sounding again.",
+  "translations": {
+    "bg": "вик",
+    "cs": "výkřik",
+    "da": "et råb",
+    "de": "ein Schrei",
+    "el": "μια κραυγή",
+    "es": "un grito",
+    "et": "karjumine",
+    "fi": "huuto",
+    "fr": "un cri",
+    "hu": "egy kiáltás",
+    "id": "teriakan",
+    "it": "un grido",
+    "ja": "掛け声",
+    "ko": "외침",
+    "lt": "šauksmas",
+    "lv": "kliedziens",
+    "nb": "et rop",
+    "nl": "een schreeuw",
+    "pl": "krzyk",
+    "pt": "um grito",
+    "ro": "un strigăt",
+    "ru": "крик",
+    "sk": "výkrik",
+    "sl": "kričanje",
+    "sv": "ett rop",
+    "tr": "bir bağırış",
+    "uk": "крик",
+    "zh": "呼声"
+  },
+  "hebrew": "הֵד",
+  "verses": [
+    "ezekiel 7:7:11"
+  ]
+}

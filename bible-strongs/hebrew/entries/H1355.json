@@ -1,0 +1,43 @@
+{
+  "number": "H1355",
+  "language": "hebrew",
+  "transliteration": "gab",
+  "pronunciation": "gab",
+  "definition": "{the back (as rounded); by analogy, the top or rim, a boss, a vault, arch of eye, bulwarks, etc.}",
+  "kjvTranslation": "back.",
+  "translations": {
+    "bg": "{задната част (като закръглена); по аналогия - върхът или ръбът, главата, сводът, арката на окото, фалшбордовете и т.н.}",
+    "cs": "{zadní část (jako zaoblená); analogicky vrchol nebo okraj, vrchol, klenba, oblouk oka, valy atd.}",
+    "da": "{ryggen (som afrundet); analogt hermed toppen eller kanten, en boss, en hvælving, en øjenbue, bolværk osv.}",
+    "de": "{die Rückseite (wie gerundet); analog dazu die Spitze oder der Rand, ein Vorsprung, ein Gewölbe, ein Augenbogen, Bollwerke usw.}",
+    "el": "{το πίσω μέρος (ως στρογγυλεμένο)}, κατ' αναλογία, η κορυφή ή το χείλος, ένα ανώτερο σημείο, ένας θόλος, ένα τόξο ματιού, οι προμαχώνες κ.λπ.}",
+    "es": "{la parte posterior (como redondeada); por analogía, la parte superior o borde, un saliente, una bóveda, arco de ojo, baluartes, etc.}",
+    "et": "{tagakülg (nagu ümardatud); analoogia järgi ülemine osa või äär, ülemine osa, võlv, silmakaar, võlvkaar jne.}",
+    "fi": "{selkä (pyöristettynä); vastaavasti ylä- tai reunus, pomo, holvi, silmän kaari, luodit jne.}",
+    "fr": "{le dos (arrondi) ; par analogie, le sommet ou le bord, un bossage, une voûte, l'arc de l'œil, les pavois, etc.}",
+    "hu": "{a hát (mint lekerekített); analógia szerint a teteje vagy pereme, egy főnök, egy boltozat, egy szem ív, bástya stb.}",
+    "id": "{bagian belakang (seperti bulat); dengan analogi, bagian atas atau pelek, atasan, lemari besi, lengkungan mata, benteng, dll.}",
+    "it": "{il dorso (come arrotondato); per analogia, la parte superiore o il bordo, un capo, una volta, l'arco dell'occhio, i bastioni, ecc.}",
+    "ja": "(丸みを帯びた)背中; 例えるなら、頂上や縁、ボス、丸天井、目のアーチ、防波堤など｝。",
+    "ko": "{뒷면(둥근 모양), 비유하자면 상단 또는 테두리, 보스, 금고, 눈의 아치, 보루 등}입니다",
+    "lt": "{užpakalinė dalis (suapvalinta); analogiškai - viršūnė arba kraštas, viršūnė, skliautas, akiduobė, akiduobė, siena ir t. t.}",
+    "lv": "{ mugurpuse (kā noapaļota); pēc analoģijas - augšdaļa vai apmale, priekšgals, velve, acs arka, vaļņi utt.)",
+    "nb": "{baksiden (som avrundet); analogt, toppen eller kanten, en boss, et hvelv, en øyebue, bolverk osv.}",
+    "nl": "{de achterkant (als afgerond); naar analogie, de top of rand, een baas, een gewelf, oogboog, bolwerken, etc.}",
+    "pl": "{tył (jako zaokrąglony); przez analogię, szczyt lub krawędź, szef, sklepienie, łuk oka, nadburcia itp.}",
+    "pt": "{a parte de trás (como arredondada); por analogia, o topo ou a borda, uma saliência, uma abóbada, arco de olho, baluartes, etc.}",
+    "ro": "{dosul (ca rotunjire); prin analogie, vârful sau marginea, un șef, o boltă, un arc de ochi, bulwarks, etc.}",
+    "ru": "{задняя часть (как округлость); по аналогии, верх или обод, босс, свод, арка глаза, фальшборты и т.д.}",
+    "sk": "{zadná časť (ako zaoblená); analogicky vrchol alebo okraj, šéf, klenba, oblúk oka, výbežok atď.}",
+    "sl": "{hrbet (kot zaobljen); po analogiji vrh ali rob, vrh, obok, obok, očesni lok, obzidje itd.}",
+    "sv": "{baksidan (som rundad); analogt, toppen eller kanten, en boss, ett valv, ögonbåge, bulvaner etc.}",
+    "tr": "{arka (yuvarlatılmış olarak); benzetme yoluyla, üst veya kenar, bir çıkıntı, bir tonoz, göz kemeri, siper, vb.}",
+    "uk": "{задня частина (як заокруглена); за аналогією, верхівка або обідок, маківка, склепіння, арка, фальшборт і т. ін.}",
+    "zh": "{背面（如圆形）；以此类推，指顶部或边缘、顶盖、拱顶、眼弓、鼓形墙等}。"
+  },
+  "hebrew": "גַּב",
+  "verses": [
+    "daniel 7:6:13",
+    "daniel 7:6:14"
+  ]
+}

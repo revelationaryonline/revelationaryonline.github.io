@@ -1,0 +1,43 @@
+{
+  "number": "H6257",
+  "language": "hebrew",
+  "transliteration": "ʻâthad",
+  "pronunciation": "aw-thad'",
+  "definition": "to prepare",
+  "kjvTranslation": "make fit, be ready to become.",
+  "hebrew": "עָתַד",
+  "translations": {
+    "bg": "да се подготви",
+    "cs": "připravit",
+    "da": "for at forberede",
+    "de": "zur Vorbereitung",
+    "el": "να προετοιμάσει",
+    "es": "preparar",
+    "et": "ette valmistada",
+    "fi": "valmistella",
+    "fr": "préparer",
+    "hu": "felkészülni",
+    "id": "untuk mempersiapkan",
+    "it": "preparare",
+    "ja": "準備する",
+    "ko": "준비하려면",
+    "lt": "pasiruošti",
+    "lv": "sagatavot",
+    "nb": "for å forberede",
+    "nl": "voor te bereiden",
+    "pl": "przygotować",
+    "pt": "para preparar",
+    "ro": "pentru a pregăti",
+    "ru": "подготовиться",
+    "sk": "pripraviť",
+    "sl": "pripraviti",
+    "sv": "för att förbereda",
+    "tr": "hazırlamak için",
+    "uk": "підготувати",
+    "zh": "以备"
+  },
+  "verses": [
+    "job 15:28:8",
+    "proverbs 24:27:3"
+  ]
+}

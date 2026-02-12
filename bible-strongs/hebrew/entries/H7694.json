@@ -1,0 +1,43 @@
+{
+  "number": "H7694",
+  "language": "hebrew",
+  "transliteration": "shêgâl",
+  "pronunciation": "shay-gawl'",
+  "definition": "a queen (from cohabitation)",
+  "kjvTranslation": "queen.",
+  "hebrew": "שֵׁגָל",
+  "translations": {
+    "bg": "кралица (от съжителство)",
+    "cs": "královna (ze soužití)",
+    "da": "en dronning (fra samliv)",
+    "de": "eine Königin (aus dem Zusammenleben)",
+    "el": "μια βασίλισσα (από συγκατοίκηση)",
+    "es": "una reina (de convivencia)",
+    "et": "kuninganna (kooselust)",
+    "fi": "kuningatar (avoliitosta)",
+    "fr": "une reine (de la cohabitation)",
+    "hu": "királynő (együttélésből)",
+    "id": "seorang ratu (dari hidup bersama)",
+    "it": "una regina (dalla convivenza)",
+    "ja": "同棲女王",
+    "ko": "여왕(동거인 출신)",
+    "lt": "karalienė (iš bendro gyvenimo)",
+    "lv": "karaliene (no kopdzīves)",
+    "nb": "en dronning (fra samboerskap)",
+    "nl": "een koningin (van samenwonen)",
+    "pl": "królowa (z konkubinatu)",
+    "pt": "uma rainha (de coabitação)",
+    "ro": "o regină (din coabitare)",
+    "ru": "королева (от сожительства)",
+    "sk": "kráľovná (zo spolužitia)",
+    "sl": "kraljica (iz skupnega življenja)",
+    "sv": "en drottning (från samboförhållande)",
+    "tr": "bir kraliçe (birlikte yaşamaktan)",
+    "uk": "королева (від співжиття)",
+    "zh": "王后"
+  },
+  "verses": [
+    "nehemiah 2:6:3",
+    "psalms 45:10:4"
+  ]
+}

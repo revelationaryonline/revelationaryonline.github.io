@@ -1,0 +1,42 @@
+{
+  "number": "H1693",
+  "language": "hebrew",
+  "transliteration": "dᵉbaq",
+  "pronunciation": "deb-ak'",
+  "definition": "to stick to",
+  "kjvTranslation": "cleave.",
+  "translations": {
+    "bg": "да се придържате към",
+    "cs": "dodržovat",
+    "da": "at holde sig til",
+    "de": "einzuhalten",
+    "el": "να παραμείνει σε",
+    "es": "para atenerse a",
+    "et": "kinni pidada",
+    "fi": "noudattaa",
+    "fr": "s'en tenir à",
+    "hu": "ragaszkodni",
+    "id": "untuk tetap berpegang teguh pada",
+    "it": "di attenersi a",
+    "ja": "にこだわる",
+    "ko": "를 고수하기 위해",
+    "lt": "laikytis",
+    "lv": "pieturēties pie",
+    "nb": "å holde seg til",
+    "nl": "om vast te houden aan",
+    "pl": "trzymać się",
+    "pt": "para se manter",
+    "ro": "pentru a rămâne la",
+    "ru": "придерживаться",
+    "sk": "držať sa",
+    "sl": "da se držite",
+    "sv": "att hålla sig till",
+    "tr": "sadık kalmak için",
+    "uk": "дотримуватися",
+    "zh": "坚持"
+  },
+  "hebrew": "דְּבַק",
+  "verses": [
+    "daniel 2:43:13"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H6075",
+  "language": "hebrew",
+  "transliteration": "ʻâphal",
+  "pronunciation": "aw-fal'",
+  "definition": "to swell; figuratively, be elated",
+  "kjvTranslation": "be lifted up, presume.",
+  "hebrew": "עָפַל",
+  "translations": {
+    "bg": "да набъбне; в преносен смисъл - да бъде въодушевен",
+    "cs": "nabobtnat; přeneseně být nadšený",
+    "da": "at svulme op; i overført betydning at være opstemt",
+    "de": "anschwellen; im übertragenen Sinne beschwingt sein",
+    "el": "να διογκωθείτε, μεταφορικά, να είστε ενθουσιασμένοι",
+    "es": "hincharse; en sentido figurado, estar eufórico",
+    "et": "paisuda; piltlikult öeldes, olla rõõmsameelne",
+    "fi": "paisua; kuvaannollisesti, olla riemuissaan",
+    "fr": "se gonfler ; au sens figuré, être exalté",
+    "hu": "duzzadni; átvitt értelemben, feldobódni",
+    "id": "membengkak; secara kiasan, menjadi gembira",
+    "it": "gonfiarsi; in senso figurato, essere euforico",
+    "ja": "比喩的に、高揚する",
+    "ko": "부풀다; 비유적으로, 기뻐하다",
+    "lt": "išsipūsti; perkeltine prasme - būti pakylėtam",
+    "lv": "uzpūsties; pārnestā nozīmē - būt pacilātam",
+    "nb": "å svulme opp; i overført betydning, være opprømt",
+    "nl": "opzwellen; figuurlijk, opgetogen zijn",
+    "pl": "puchnąć; w przenośni, być podnieconym",
+    "pt": "inchar; figurativamente, ficar exultante",
+    "ro": "a se umfla; la figurat, a fi exaltat",
+    "ru": "раздуваться; фигурально выражаясь, приходить в восторг",
+    "sk": "opuchnúť; v prenesenom význame byť nadšený",
+    "sl": "nabrekniti; v prenesenem pomenu, biti navdušen",
+    "sv": "att svälla; bildligt talat, vara upprymd",
+    "tr": "şişmek; mecazi olarak, sevinçli olmak",
+    "uk": "набрякати; образно, бути піднесеним",
+    "zh": "膨胀；比喻兴高采烈"
+  },
+  "verses": [
+    "numbers 14:44:0",
+    "habakkuk 2:4:1"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4665",
+  "language": "hebrew",
+  "transliteration": "miphreqeth",
+  "pronunciation": "mif-reh'-keth",
+  "definition": "properly, a fracture, i.e. joint (vertebrae) of the neck",
+  "kjvTranslation": "neck.",
+  "hebrew": "מִפְרֶקֶת",
+  "translations": {
+    "bg": "правилно, фрактура, т.е. ставите (прешлените) на шията",
+    "cs": "správně, zlomenina, tj. kloub (obratle) krku",
+    "da": "korrekt, et brud, dvs. led (ryghvirvler) i nakken",
+    "de": "richtig, eine Fraktur, d.h. ein Gelenk (Wirbel) des Halses",
+    "el": "σωστά, ένα κάταγμα, δηλαδή άρθρωση (σπόνδυλος) του αυχένα",
+    "es": "correctamente, una fractura, es decir, la articulación (vértebras) del cuello",
+    "et": "korralikult, luumurd, s.t. liigese (selgroo) kaelaosa",
+    "fi": "oikein, murtuma, eli nivel (nikama) kaulan niskassa",
+    "fr": "proprement dit, une fracture, c'est-à-dire l'articulation (vertèbres) du cou",
+    "hu": "megfelelően, törés, azaz a nyak ízülete (csigolya)",
+    "id": "dengan benar, patah tulang, yaitu sendi (tulang belakang) leher",
+    "it": "propriamente, una frattura, cioè dell'articolazione (vertebra) del collo",
+    "ja": "正しくは骨折、つまり首の関節（椎骨）である。",
+    "ko": "제대로 말하면 목의 관절(척추) 골절입니다",
+    "lt": "tinkamai, lūžis, t. y. kaklo sąnario (slankstelių)",
+    "lv": "pareizi, lūzums, t. i., kakla locītavas (skriemeļi)",
+    "nb": "riktig, et brudd, dvs. ledd (ryggvirvler) i nakken",
+    "nl": "goed, een breuk, d.w.z. gewricht (wervels) van de nek",
+    "pl": "prawidłowo, złamanie, tj. staw (kręg) szyjny",
+    "pt": "propriamente dito, uma fratura, ou seja, uma articulação (vértebra) do pescoço",
+    "ro": "în mod corespunzător, o fractură, și anume articulația (vertebrele) gâtului",
+    "ru": "правильно, перелом, т.е. перелом сустава (позвонка) шеи",
+    "sk": "správne, zlomenina, t. j. kĺb (stavec) krku",
+    "sl": "pravilno, zlom, tj. sklep (vretenca) vratu",
+    "sv": "korrekt, en fraktur, t.ex. led (kotor) i nacken",
+    "tr": "uygun şekilde, bir kırık, yani boyun eklemi (omur)",
+    "uk": "власне, перелом, тобто суглоб (хребці) шиї",
+    "zh": "适当的骨折，即颈部关节（椎骨）骨折"
+  },
+  "verses": [
+    "firstSamuel 4:18:13"
+  ]
+}

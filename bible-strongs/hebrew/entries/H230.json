@@ -1,0 +1,43 @@
+{
+  "number": "H230",
+  "language": "hebrew",
+  "transliteration": "ʼăzâd",
+  "pronunciation": "az-zawd'",
+  "definition": "firm",
+  "kjvTranslation": "be gone.",
+  "translations": {
+    "bg": "фирма",
+    "cs": "firma",
+    "da": "fast",
+    "de": "firma",
+    "el": "επιχείρηση",
+    "es": "firme",
+    "et": "firma",
+    "fi": "yritys",
+    "fr": "ferme",
+    "hu": "cég",
+    "id": "perusahaan",
+    "it": "ditta",
+    "ja": "ファーム",
+    "ko": "firm",
+    "lt": "įmonė",
+    "lv": "firma",
+    "nb": "fast",
+    "nl": "firma",
+    "pl": "firma",
+    "pt": "empresa",
+    "ro": "firmă",
+    "ru": "фирма",
+    "sk": "firma",
+    "sl": "podjetje",
+    "sv": "företag",
+    "tr": "firma",
+    "uk": "твердий",
+    "zh": "坚实的"
+  },
+  "hebrew": "אֲזָד",
+  "verses": [
+    "daniel 2:5:7",
+    "daniel 2:8:16"
+  ]
+}

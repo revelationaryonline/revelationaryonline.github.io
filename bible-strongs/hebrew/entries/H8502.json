@@ -1,0 +1,42 @@
+{
+  "number": "H8502",
+  "language": "hebrew",
+  "transliteration": "tiklâh",
+  "pronunciation": "tik-law'",
+  "definition": "completeness",
+  "kjvTranslation": "perfection.",
+  "hebrew": "תִּכְלָה",
+  "translations": {
+    "bg": "пълнота",
+    "cs": "úplnost",
+    "da": "fuldstændighed",
+    "de": "vollständigkeit",
+    "el": "πληρότητα",
+    "es": "integridad",
+    "et": "täielikkus",
+    "fi": "täydellisyys",
+    "fr": "exhaustivité",
+    "hu": "teljesség",
+    "id": "kelengkapan",
+    "it": "completezza",
+    "ja": "完全性",
+    "ko": "완성도",
+    "lt": "išbaigtumas",
+    "lv": "pilnīgums",
+    "nb": "fullstendighet",
+    "nl": "volledigheid",
+    "pl": "kompletność",
+    "pt": "exaustividade",
+    "ro": "exhaustivitate",
+    "ru": "полнота",
+    "sk": "úplnosť",
+    "sl": "popolnost",
+    "sv": "fullständighet",
+    "tr": "bütünlük",
+    "uk": "повнота",
+    "zh": "完整性"
+  },
+  "verses": [
+    "psalms 119:96:1"
+  ]
+}

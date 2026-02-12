@@ -1,0 +1,42 @@
+{
+  "number": "H4746",
+  "language": "hebrew",
+  "transliteration": "mᵉqâreh",
+  "pronunciation": "mek-aw-reh'",
+  "definition": "properly, something meeting, i.e. a frame (of timbers)",
+  "kjvTranslation": "building.",
+  "hebrew": "מְקָרֶה",
+  "translations": {
+    "bg": "правилно, нещо, което се събира, например рамка (от дървен материал)",
+    "cs": "správně, něco, co se setkává, tj. rám (z trámů)",
+    "da": "korrekt, noget, der mødes, f.eks. en ramme (af tømmer)",
+    "de": "richtig, etwas, das sich trifft, d.h. ein Rahmen (aus Holz)",
+    "el": "σωστά, κάτι που συναντιέται, π.χ. ένα πλαίσιο (από ξύλα)",
+    "es": "propiamente, algo que se junta, es decir, un armazón (de maderas)",
+    "et": "korralikult, midagi, mis vastab, st (puiduraam)",
+    "fi": "kunnolla, jokin kohtaaminen, esim. (puiden) kehys",
+    "fr": "proprement, quelque chose de commun, c'est-à-dire un cadre (de bois)",
+    "hu": "megfelelően, valami találkozó, pl. egy (fából készült) keret",
+    "id": "benar, sesuatu yang bertemu, yaitu bingkai (dari kayu)",
+    "it": "propriamente, qualcosa che si riunisce, ad esempio un telaio (di travi)",
+    "ja": "逢い引き",
+    "ko": "제대로 말하면, 무언가를 만나는 것, 즉 (목재의) 프레임입니다",
+    "lt": "tinkamai, kažkas susitinkantis, t. y. rėmas (iš rąstų)",
+    "lv": "pareizi, kaut kas, kas satiekas, t.i., karkass (no kokmateriāliem)",
+    "nb": "egentlig, noe som møtes, f.eks. en ramme (av tømmer)",
+    "nl": "goed, iets dat samenkomt, d.w.z. een frame (van hout)",
+    "pl": "prawidłowo, coś łączącego, tj. rama (z drewna)",
+    "pt": "propriamente dito, uma reunião, ou seja, uma armação (de madeiras)",
+    "ro": "în mod corespunzător, ceva care se întâlnește, de exemplu un cadru (din bârne)",
+    "ru": "как следует, что-то встречающееся, т.е. рама (из брёвен)",
+    "sk": "správne, niečo, čo sa stretáva, t. j. rám (z dreva)",
+    "sl": "pravilno, nekaj, kar se stika, npr. okvir (iz lesa)",
+    "sv": "i egentlig mening, något som möts, t.ex. en ram (av timmer)",
+    "tr": "düzgün bir şekilde, bir araya gelen bir şey, örneğin bir çerçeve (ahşaptan)",
+    "uk": "власне, щось, що зустрічається, тобто каркас (з брусків)",
+    "zh": "桁架"
+  },
+  "verses": [
+    "ecclesiastes 10:18:2"
+  ]
+}

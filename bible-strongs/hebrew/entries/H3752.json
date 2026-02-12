@@ -1,0 +1,42 @@
+{
+  "number": "H3752",
+  "language": "hebrew",
+  "transliteration": "Karkaç",
+  "pronunciation": "kar-kas'",
+  "definition": "Karkas, a eunuch of Xerxes",
+  "kjvTranslation": "Carcas.",
+  "hebrew": "כַּרְכַּס",
+  "translations": {
+    "bg": "Каркас, евнух на Ксеркс",
+    "cs": "Karkas, Xerxův eunuch",
+    "da": "Karkas, en af Xerxes' eunukker",
+    "de": "Karkas, ein Eunuch von Xerxes",
+    "el": "Karkas, ευνούχος του Ξέρξη",
+    "es": "Karkas, un eunuco de Jerjes",
+    "et": "Karkas, Kserxese eunuhh",
+    "fi": "Karkas, Kserkseksen eunukki, -",
+    "fr": "Karkas, eunuque de Xerxès",
+    "hu": "Karkas, Xerxész eunuchja",
+    "id": "Karkas, seorang kasim dari Xerxes",
+    "it": "Karkas, un eunuco di Serse",
+    "ja": "クセルクセスの宦官カルカス",
+    "ko": "크세르크세스의 환관, 카르카스",
+    "lt": "Karkasas, Kserkso eunuchas",
+    "lv": "Karkass, Kserksa eunukss",
+    "nb": "Karkas, en evnukk av Xerxes",
+    "nl": "Karkas, een eunuch van Xerxes",
+    "pl": "Karkas, eunuch Kserksesa",
+    "pt": "Karkas, um eunuco de Xerxes",
+    "ro": "Karkas, un eunuc al lui Xerxes",
+    "ru": "Каркас, евнух Ксеркса",
+    "sk": "Karkas, Xerxov eunuch",
+    "sl": "Karkas, Kserksov evnuh",
+    "sv": "Karkas, en eunuck hos Xerxes",
+    "tr": "Karkas, Xerxes'in haremağası",
+    "uk": "Каркас, євнух Ксеркса",
+    "zh": "卡尔卡斯，薛西斯的宦官"
+  },
+  "verses": [
+    "esther 1:10:13"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H8490",
+  "language": "hebrew",
+  "transliteration": "tîymârâh",
+  "pronunciation": "tee-maw-raw'",
+  "definition": "a column, i.e. cloud",
+  "kjvTranslation": "pillar.",
+  "hebrew": "תִּימָרָה",
+  "translations": {
+    "bg": "колона, т.е. облак",
+    "cs": "sloupec, tj. mrak",
+    "da": "en kolonne, dvs. en sky",
+    "de": "eine Spalte, d.h. eine Wolke",
+    "el": "μια στήλη, δηλαδή ένα σύννεφο",
+    "es": "una columna, es decir, una nube",
+    "et": "veerg, st pilv",
+    "fi": "sarake eli pilvi",
+    "fr": "une colonne, c'est-à-dire un nuage",
+    "hu": "oszlop, azaz felhő",
+    "id": "kolom, yaitu awan",
+    "it": "una colonna, cioè una nuvola",
+    "ja": "カラム、すなわち雲",
+    "ko": "열, 즉 클라우드",
+    "lt": "stulpelį, t. y. debesį",
+    "lv": "kolonnu, t. i., mākoni",
+    "nb": "en kolonne, dvs. en sky",
+    "nl": "een kolom, d.w.z. wolk",
+    "pl": "kolumna, tj. chmura",
+    "pt": "uma coluna, ou seja, uma nuvem",
+    "ro": "o coloană, adică nor",
+    "ru": "колонна, т.е. облако",
+    "sk": "stĺpec, t. j. oblak",
+    "sl": "stolpec, tj. oblak",
+    "sv": "en kolumn, dvs. ett moln",
+    "tr": "bir sütun, yani bulut",
+    "uk": "стовпчик, тобто хмара",
+    "zh": "一列，即云"
+  },
+  "verses": [
+    "solomon 3:6:5",
+    "joel 3:3:6"
+  ]
+}

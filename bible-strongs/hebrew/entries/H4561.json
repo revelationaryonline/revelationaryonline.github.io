@@ -1,0 +1,42 @@
+{
+  "number": "H4561",
+  "language": "hebrew",
+  "transliteration": "môçâr",
+  "pronunciation": "mo-sawr'",
+  "definition": "admonition",
+  "kjvTranslation": "instruction.",
+  "hebrew": "מֹסָר",
+  "verses": [
+    "job 33:16:4"
+  ],
+  "translations": {
+    "bg": "наставление",
+    "cs": "napomenutí",
+    "da": "formaning",
+    "de": "abmahnung",
+    "el": "νουθεσία",
+    "es": "amonestación",
+    "et": "hoiatus",
+    "fi": "kehotus",
+    "fr": "avertissement",
+    "hu": "figyelmeztetés",
+    "id": "peringatan",
+    "it": "ammonizione",
+    "ja": "訓戒",
+    "ko": "훈계",
+    "lt": "pamokymas",
+    "lv": "pamācība",
+    "nb": "formaning",
+    "nl": "vermaning",
+    "pl": "napomnienie",
+    "pt": "admoestação",
+    "ro": "admonestare",
+    "ru": "наставление",
+    "sk": "napomenutie",
+    "sl": "opomin",
+    "sv": "förmaning",
+    "tr": "öğüt",
+    "uk": "застереження",
+    "zh": "训诫"
+  }
+}

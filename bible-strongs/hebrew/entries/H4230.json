@@ -1,0 +1,42 @@
+{
+  "number": "H4230",
+  "language": "hebrew",
+  "transliteration": "mᵉchûwgâh",
+  "pronunciation": "mekk-oo-gaw'",
+  "definition": "an instrument for marking a circle, i.e. compasses",
+  "kjvTranslation": "compass.",
+  "hebrew": "מְחוּגָה",
+  "translations": {
+    "bg": "инструмент за очертаване на кръг, например компас",
+    "cs": "nástroj pro vyznačení kružnice, tj. kompas",
+    "da": "et instrument til at markere en cirkel, f.eks. kompasser",
+    "de": "ein Instrument zur Markierung eines Kreises, z. B. ein Zirkel",
+    "el": "όργανο για τη χάραξη κύκλου, π.χ. πυξίδες",
+    "es": "un instrumento para marcar un círculo, es decir, compases",
+    "et": "instrument ringi tähistamiseks, st kompassid",
+    "fi": "väline ympyrän merkitsemiseen, esim. kompassit",
+    "fr": "un instrument permettant de tracer un cercle, par exemple un compas",
+    "hu": "a kör megjelölésére szolgáló eszköz, pl. iránytű",
+    "id": "instrumen untuk menandai lingkaran, yaitu kompas",
+    "it": "uno strumento per tracciare un cerchio, ad esempio il compasso",
+    "ja": "コンパス",
+    "ko": "원을 표시하는 도구(예: 나침반)",
+    "lt": "prietaisas apskritimui žymėti, t. y. kompasai",
+    "lv": "instruments apļa iezīmēšanai, t. i., kompasi",
+    "nb": "et instrument for å markere en sirkel, f.eks. kompass",
+    "nl": "een instrument om een cirkel te markeren, bijvoorbeeld een passer",
+    "pl": "przyrząd do zakreślania okręgu, np. kompas",
+    "pt": "um instrumento para marcar um círculo, ou seja, bússolas",
+    "ro": "un instrument pentru marcarea unui cerc, de exemplu compasul",
+    "ru": "инструмент для разметки круга, например, компас",
+    "sk": "nástroj na vyznačenie kruhu, t. j. kompas",
+    "sl": "instrument za označevanje kroga, npr. kompas",
+    "sv": "ett instrument för att markera en cirkel, t.ex. kompasser",
+    "tr": "bir daireyi işaretlemek için kullanılan bir alet, örneğin pusula",
+    "uk": "інструмент для позначення кола, тобто циркуль",
+    "zh": "圆规"
+  },
+  "verses": [
+    "isaiah 44:13:8"
+  ]
+}

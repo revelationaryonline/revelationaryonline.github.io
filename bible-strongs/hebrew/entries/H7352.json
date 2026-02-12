@@ -1,0 +1,42 @@
+{
+  "number": "H7352",
+  "language": "hebrew",
+  "transliteration": "rachîyq",
+  "pronunciation": "rakh-eek'",
+  "definition": "{remote, literally or figuratively, of place or time; specifically, precious; often used adverbially (with preposition)}",
+  "kjvTranslation": "far.",
+  "hebrew": "רַחִיק",
+  "translations": {
+    "bg": "{отдалечен, буквално или преносно, от място или време; по-специално, скъпоценен; често се използва като наречие (с предлог)}",
+    "cs": "{v doslovném nebo přeneseném významu od místa nebo času; konkrétně vzácný; často se používá příslovečně (s předložkou)}",
+    "da": "{fjern, bogstaveligt eller i overført betydning, af sted eller tid; specifikt, dyrebar; bruges ofte adverbielt (med præposition)}",
+    "de": "{entfernt, wörtlich oder bildlich, von Ort oder Zeit; speziell, kostbar; oft adverbial (mit Präposition) verwendet}",
+    "el": "{απομακρυσμένος, κυριολεκτικά ή μεταφορικά, του τόπου ή του χρόνου- ειδικά, πολύτιμος- συχνά χρησιμοποιείται επιρρηματικά (με πρόθεση)}",
+    "es": "{lejos, literal o figuradamente, de lugar o tiempo; específicamente, preciosos; a menudo usado adverbialmente (con preposición)}",
+    "et": "{kaugele, sõna-sõnalt või ülekantud tähenduses, koha või aja suhtes; eriti väärtuslik; sageli kasutatakse adverbiaalina (koos prepositsiooniga)}",
+    "fi": "{kaukana, kirjaimellisesti tai kuvaannollisesti, paikasta tai ajasta; erityisesti, arvokas; käytetään usein adverbiaalina (preposition kanssa)}",
+    "fr": "{éloigné, au sens propre ou figuré, du lieu ou du temps ; en particulier, précieux ; souvent utilisé de manière adverbiale (avec une préposition)}",
+    "hu": "{távol, szó szerint vagy átvitt értelemben, helytől vagy időtől; különösen értékes; gyakran határozószóként (prepozícióval) használatos}",
+    "id": "{terpencil, secara harfiah atau kiasan, dari tempat atau waktu; khususnya, berharga; sering digunakan sebagai kata keterangan (dengan kata depan)}",
+    "it": "{remoto, letteralmente o in senso figurato, di luogo o di tempo; in particolare, prezioso; spesso usato in senso avverbiale (con preposizione)}",
+    "ja": "{前置詞を伴って）副詞的に使われることが多い。",
+    "ko": "{원격, 문자 그대로 또는 비유적으로, 장소 또는 시간, 특히 소중한; 종종 부사(전치사 포함)로 사용됨}",
+    "lt": "{didelio atstumo, tiesiogine ar perkeltine prasme, vietos ar laiko atžvilgiu; konkrečiai, brangus; dažnai vartojamas kaip prieveiksmis (su prielinksniu)}",
+    "lv": "{attāls, burtiski vai pārnestā nozīmē, no vietas vai laika; īpaši, dārgs; bieži lietots ar apstākļa vārdu (ar prievārdu)}",
+    "nb": "{fjernt, bokstavelig eller billedlig, av sted eller tid; spesifikt, dyrebar; ofte brukt adverbialt (med preposisjon)}",
+    "nl": "{ver weg, letterlijk of figuurlijk, van plaats of tijd; specifiek, kostbaar; vaak bijwoordelijk gebruikt (met voorzetsel)}",
+    "pl": "{odległy, dosłownie lub w przenośni, miejsca lub czasu; w szczególności, cenny; często używany przysłówkowo (z przyimkiem)}",
+    "pt": "{remoto, literal ou figurativamente, de lugar ou tempo; especificamente, precioso; frequentemente usado adverbialmente (com preposição)}",
+    "ro": "{îndepărtat, la propriu sau la figurat, de loc sau de timp; specific, prețios; adesea folosit adverbial (cu prepoziție)}",
+    "ru": "{удаленный, буквально или фигурально, от места или времени; конкретно, драгоценный; часто используется наречие (с предлогом)}",
+    "sk": "{v doslovnom alebo prenesenom význame od miesta alebo času; konkrétne vzácny; často sa používa ako príslovka (s predložkou)}",
+    "sl": "{daleč, dobesedno ali v prenesenem pomenu, od kraja ali časa; zlasti dragocen; pogosto se uporablja kot prislov (s predpono)}",
+    "sv": "{fjernt, bokstavligen eller bildligt, från plats eller tid; specifikt, dyrbart; används ofta adverbiellt (med preposition)}",
+    "tr": "{uzak, gerçek veya mecazi anlamda, yer veya zaman; özellikle, değerli; genellikle zarf olarak kullanılır (edat ile)}",
+    "uk": "{віддалений, у прямому чи переносному значенні, від місця або часу; зокрема, дорогоцінний; часто вживається прислівниково (з прийменником)}",
+    "zh": "{\"遥远\"，字面意思或比喻意思，指地点或时间；特指珍贵；常用作副词（带介词）}。"
+  },
+  "verses": [
+    "ezra 6:6:12"
+  ]
+}

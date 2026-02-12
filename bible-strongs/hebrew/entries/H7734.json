@@ -1,0 +1,42 @@
+{
+  "number": "H7734",
+  "language": "hebrew",
+  "transliteration": "sûwg",
+  "pronunciation": "soog",
+  "definition": "to retreat",
+  "kjvTranslation": "turn back.",
+  "hebrew": "שׂוּג",
+  "translations": {
+    "bg": "да се оттегли",
+    "cs": "ustoupit",
+    "da": "at trække sig tilbage",
+    "de": "zum Rückzug",
+    "el": "να υποχωρήσει",
+    "es": "retirarse",
+    "et": "taganeda",
+    "fi": "vetäytyä",
+    "fr": "se retirer",
+    "hu": "visszavonulni",
+    "id": "untuk mundur",
+    "it": "ritirarsi",
+    "ja": "撤退する",
+    "ko": "후퇴",
+    "lt": "atsitraukti",
+    "lv": "atkāpties",
+    "nb": "å trekke seg tilbake",
+    "nl": "terugtrekken",
+    "pl": "wycofać się",
+    "pt": "retirar-se",
+    "ro": "să se retragă",
+    "ru": "отступать",
+    "sk": "ustúpiť",
+    "sl": "se umakniti",
+    "sv": "att dra sig tillbaka",
+    "tr": "geri çekilmek için",
+    "uk": "відступити",
+    "zh": "以退为进"
+  },
+  "verses": [
+    "secondSamuel 1:22:7"
+  ]
+}

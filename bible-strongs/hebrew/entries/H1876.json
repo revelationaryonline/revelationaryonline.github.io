@@ -1,0 +1,43 @@
+{
+  "number": "H1876",
+  "language": "hebrew",
+  "transliteration": "dâshâʼ",
+  "pronunciation": "daw-shaw'",
+  "definition": "to sprout",
+  "kjvTranslation": "bring forth, spring.",
+  "translations": {
+    "bg": "да покълне",
+    "cs": "vyklíčit",
+    "da": "til at spire",
+    "de": "zu sprießen",
+    "el": "να βλαστήσει",
+    "es": "brotar",
+    "et": "idanema",
+    "fi": "itää",
+    "fr": "germer",
+    "hu": "kicsírázni",
+    "id": "untuk tumbuh",
+    "it": "germogliare",
+    "ja": "芽を出す",
+    "ko": "싹을 틔우다",
+    "lt": "sudygti",
+    "lv": "izaugt",
+    "nb": "til å spire",
+    "nl": "ontkiemen",
+    "pl": "kiełkować",
+    "pt": "brotar",
+    "ro": "să încolțească",
+    "ru": "прорастать",
+    "sk": "klíčiť",
+    "sl": "kaliti",
+    "sv": "att gro",
+    "tr": "filizlenmek için",
+    "uk": "щоб прорости",
+    "zh": "发芽"
+  },
+  "hebrew": "דָּשָׁא",
+  "verses": [
+    "genesis 1:11:2",
+    "joel 2:22:5"
+  ]
+}

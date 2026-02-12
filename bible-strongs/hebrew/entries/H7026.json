@@ -1,0 +1,43 @@
+{
+  "number": "H7026",
+  "language": "hebrew",
+  "transliteration": "Qêyrôç",
+  "pronunciation": "kay-roce'",
+  "definition": "Keros, one of the Nethinim",
+  "kjvTranslation": "Keros.",
+  "hebrew": "קֵירֹס",
+  "translations": {
+    "bg": "Керос, един от нетините",
+    "cs": "Keros, jeden z Nethinimů",
+    "da": "Keros, en af nethinimerne",
+    "de": "Keros, einer der Nethinim",
+    "el": "Κέρος, ένας από τους Νεθινίμ",
+    "es": "Keros, uno de los Nethinim",
+    "et": "Keros, üks Nethinimidest",
+    "fi": "Keros, yksi Nethinim-heimon jäsenistä",
+    "fr": "Keros, l'un des Nethinim",
+    "hu": "Keros, a Nethinim egyik tagja",
+    "id": "Keros, salah satu dari Nethinim",
+    "it": "Keros, uno dei Nethinim",
+    "ja": "ネティニムの一人、ケロス",
+    "ko": "케로스, 네티님 중 한 명",
+    "lt": "Kerosas, vienas iš Nethinimų",
+    "lv": "Keros, viens no Nethinim",
+    "nb": "Keros, en av nethinimene",
+    "nl": "Keros, een van de Nethinim",
+    "pl": "Keros, jeden z Nethinimów",
+    "pt": "Keros, um dos Nethinim",
+    "ro": "Keros, unul dintre Nethinim",
+    "ru": "Керос, один из нефинимов",
+    "sk": "Keros, jeden z Nethinim",
+    "sl": "Keros, eden od Nethinimov",
+    "sv": "Keros, en av Nethinim",
+    "tr": "Keros, Nethinim'lerden biri",
+    "uk": "Керос, один з нетінімів",
+    "zh": "凯罗斯，奈西尼姆人之一"
+  },
+  "verses": [
+    "ezra 2:44:1",
+    "nehemiah 7:47:1"
+  ]
+}

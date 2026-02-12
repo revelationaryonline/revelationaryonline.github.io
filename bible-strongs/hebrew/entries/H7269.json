@@ -1,0 +1,42 @@
+{
+  "number": "H7269",
+  "language": "hebrew",
+  "transliteration": "rogzâh",
+  "pronunciation": "rog-zaw'",
+  "definition": "trepidation",
+  "kjvTranslation": "trembling.",
+  "hebrew": "רׇגְזָה",
+  "translations": {
+    "bg": "трепетно очакване",
+    "cs": "tréma",
+    "da": "bekymring",
+    "de": "beklemmung",
+    "el": "τρόμος",
+    "es": "inquietud",
+    "et": "ärevus",
+    "fi": "vapina",
+    "fr": "trépidation",
+    "hu": "remegés",
+    "id": "gentar",
+    "it": "trepidazione",
+    "ja": "脅え",
+    "ko": "떨림",
+    "lt": "baimė",
+    "lv": "satraukums",
+    "nb": "engstelse",
+    "nl": "schroom",
+    "pl": "trwoga",
+    "pt": "trepidação",
+    "ro": "trepidație",
+    "ru": "трепет",
+    "sk": "tréma",
+    "sl": "strah",
+    "sv": "bävan",
+    "tr": "kORKU",
+    "uk": "трепет",
+    "zh": "恐惧"
+  },
+  "verses": [
+    "ezekiel 12:18:6"
+  ]
+}

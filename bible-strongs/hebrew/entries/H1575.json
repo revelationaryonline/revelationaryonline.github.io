@@ -1,0 +1,42 @@
+{
+  "number": "H1575",
+  "language": "hebrew",
+  "transliteration": "gammâd",
+  "pronunciation": "gam-mawd'",
+  "definition": "a warrior (as grasping weapons)",
+  "kjvTranslation": "Gammadims.",
+  "translations": {
+    "bg": "воин (като хващащ оръжие)",
+    "cs": "bojovník (jako držící zbraně)",
+    "da": "en kriger (som griber om våben)",
+    "de": "ein Krieger (als Waffen ergreifend)",
+    "el": "ένας πολεμιστής (όπως πιάνει τα όπλα)",
+    "es": "un guerrero (como empuñando armas)",
+    "et": "sõdalane (nagu relvade haaramine)",
+    "fi": "soturi (aseisiin tarttuvana)",
+    "fr": "un guerrier (comme saisissant des armes)",
+    "hu": "egy harcos (mint a fegyverek megragadása)",
+    "id": "seorang pejuang (seperti menggenggam senjata)",
+    "it": "un guerriero (che impugna le armi)",
+    "ja": "さむらい",
+    "ko": "전사(무기를 잡는 역할)",
+    "lt": "karys (kaip griebia ginklus)",
+    "lv": "karavīrs (kā ieroču satveršana)",
+    "nb": "en kriger (som griper etter våpen)",
+    "nl": "een krijger (als het grijpen van wapens)",
+    "pl": "wojownik (chwytający za broń)",
+    "pt": "um guerreiro (como agarrar em armas)",
+    "ro": "un războinic (ca apucând arme)",
+    "ru": "воин (как хватающий оружие)",
+    "sk": "bojovník (ako uchopenie zbrane)",
+    "sl": "bojevnik (kot prijemanje orožja)",
+    "sv": "en krigare (som griper efter vapen)",
+    "tr": "bir savaşçı (silahları kavrayan olarak)",
+    "uk": "воїн (як такий, що хапається за зброю)",
+    "zh": "战士"
+  },
+  "hebrew": "גַּמָּד",
+  "verses": [
+    "ezekiel 27:11:6"
+  ]
+}

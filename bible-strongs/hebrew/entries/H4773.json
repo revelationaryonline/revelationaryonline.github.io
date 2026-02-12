@@ -1,0 +1,42 @@
+{
+  "number": "H4773",
+  "language": "hebrew",
+  "transliteration": "margêmâh",
+  "pronunciation": "mar-gay-maw'",
+  "definition": "a stone-heap",
+  "kjvTranslation": "sling.",
+  "hebrew": "מַרְגֵּמָה",
+  "translations": {
+    "bg": "купчина камъни",
+    "cs": "hromada kamení",
+    "da": "en stenbunke",
+    "de": "ein Steinhaufen",
+    "el": "ένας σωρός από πέτρες",
+    "es": "un montón de piedras",
+    "et": "kivihunnik",
+    "fi": "kivikasa",
+    "fr": "un tas de pierres",
+    "hu": "egy kőhalom",
+    "id": "tumpukan batu",
+    "it": "un cumulo di pietre",
+    "ja": "石積み",
+    "ko": "돌무더기",
+    "lt": "akmenų krūva",
+    "lv": "akmeņu kaudze",
+    "nb": "en steinhaug",
+    "nl": "een steenhoop",
+    "pl": "hałda kamieni",
+    "pt": "um monte de pedra",
+    "ro": "o movilă de piatră",
+    "ru": "каменная куча",
+    "sk": "hromada kameňov",
+    "sl": "kup kamenja",
+    "sv": "en stenhög",
+    "tr": "bir taş yığını",
+    "uk": "кам'яною купою",
+    "zh": "砢"
+  },
+  "verses": [
+    "proverbs 26:8:2"
+  ]
+}

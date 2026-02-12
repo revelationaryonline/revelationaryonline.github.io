@@ -1,0 +1,42 @@
+{
+  "number": "H3745",
+  "language": "hebrew",
+  "transliteration": "kᵉraz",
+  "pronunciation": "ker-az'",
+  "definition": "to proclaim",
+  "kjvTranslation": "make a proclamation.",
+  "translations": {
+    "bg": "да провъзгласява",
+    "cs": "vyhlásit",
+    "da": "for at proklamere",
+    "de": "zu verkünden",
+    "el": "να διακηρύξει",
+    "es": "proclamar",
+    "et": "kuulutada",
+    "fi": "julistaa",
+    "fr": "proclamer",
+    "hu": "hogy kihirdessük",
+    "id": "untuk menyatakan",
+    "it": "proclamare",
+    "ja": "宣言する",
+    "ko": "선언하기 위해",
+    "lt": "skelbti",
+    "lv": "pasludināt",
+    "nb": "å proklamere",
+    "nl": "verkondigen",
+    "pl": "ogłosić",
+    "pt": "para proclamar",
+    "ro": "să proclame",
+    "ru": "провозглашать",
+    "sk": "vyhlásiť",
+    "sl": "razglašati",
+    "sv": "att förkunna",
+    "tr": "ilan etmek için",
+    "uk": "проголосити",
+    "zh": "宣布"
+  },
+  "hebrew": "כְּרַז",
+  "verses": [
+    "daniel 5:29:12"
+  ]
+}

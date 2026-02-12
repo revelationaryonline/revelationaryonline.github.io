@@ -1,0 +1,43 @@
+{
+  "number": "H3720",
+  "language": "hebrew",
+  "transliteration": "kâphân",
+  "pronunciation": "kaw-fawn'",
+  "definition": "hunger (as making to stoop with emptiness and pain)",
+  "kjvTranslation": "famine.",
+  "translations": {
+    "bg": "глад (като принуждаване да се наведеш от празнота и болка)",
+    "cs": "hlad (jako nutkání sklonit se prázdnotou a bolestí)",
+    "da": "sult (som får en til at bøje sig af tomhed og smerte)",
+    "de": "hunger (wie das Bücken vor Leere und Schmerz)",
+    "el": "πείνα (που κάνει να σκύβεις από το κενό και τον πόνο)",
+    "es": "hambre (como hacer encorvarse con el vacío y el dolor)",
+    "et": "nälg (nagu tühjuse ja valuga kummardumine)",
+    "fi": "nälkä (joka tekee tyhjyydestä ja kivusta kyykistymisen)",
+    "fr": "la faim (qui fait s'abaisser avec le vide et la douleur)",
+    "hu": "éhség (ürességgel és fájdalommal való meggörnyedésre késztet)",
+    "id": "kelaparan (seperti membungkuk dengan kekosongan dan rasa sakit)",
+    "it": "fame (come se ci si dovesse abbassare con il vuoto e il dolore)",
+    "ja": "くうふく",
+    "ko": "배고픔 (공허함과 고통으로 몸을 구부리게 만드는 것)",
+    "lt": "alkis (verčiantis susilenkti nuo tuštumos ir skausmo)",
+    "lv": "izsalkums (kā liek slīkt tukšumam un sāpēm)",
+    "nb": "sult (som får en til å bøye seg av tomhet og smerte)",
+    "nl": "honger (als bukken van leegte en pijn)",
+    "pl": "głód (jako uczucie pustki i bólu)",
+    "pt": "fome (como que a fazer inclinar-se com o vazio e a dor)",
+    "ro": "foame (ca și cum ar face să se aplece cu goliciune și durere)",
+    "ru": "голод (заставляющий сгибаться от пустоты и боли)",
+    "sk": "hlad (ako sa skláňať s prázdnotou a bolesťou)",
+    "sl": "lakota (kot da bi se nagnil v praznino in bolečino)",
+    "sv": "hunger (som får en att böja sig av tomhet och smärta)",
+    "tr": "açlık (boşluk ve acı ile eğilmek gibi)",
+    "uk": "голод (як такий, що змушує згинатися від порожнечі та болю)",
+    "zh": "饥肠辘辘"
+  },
+  "hebrew": "כָּפָן",
+  "verses": [
+    "job 5:22:1",
+    "job 30:3:1"
+  ]
+}

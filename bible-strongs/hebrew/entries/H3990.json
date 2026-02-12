@@ -1,0 +1,42 @@
+{
+  "number": "H3990",
+  "language": "hebrew",
+  "transliteration": "maʼăphêl",
+  "pronunciation": "mah-af-ale'",
+  "definition": "something opaque",
+  "kjvTranslation": "darkness.",
+  "hebrew": "מַאֲפֵל",
+  "translations": {
+    "bg": "нещо непрозрачно",
+    "cs": "něco neprůhledného",
+    "da": "noget uigennemsigtigt",
+    "de": "etwas Undurchsichtiges",
+    "el": "κάτι αδιαφανές",
+    "es": "algo opaco",
+    "et": "midagi läbipaistmatut",
+    "fi": "jotain läpinäkymätöntä",
+    "fr": "quelque chose d'opaque",
+    "hu": "valami átlátszatlan",
+    "id": "sesuatu yang buram",
+    "it": "qualcosa di opaco",
+    "ja": "不透明なもの",
+    "ko": "불투명한 무언가",
+    "lt": "kažkas nepermatomo",
+    "lv": "kaut kas necaurspīdīgs",
+    "nb": "noe ugjennomsiktig",
+    "nl": "iets ondoorzichtigs",
+    "pl": "coś nieprzezroczystego",
+    "pt": "algo opaco",
+    "ro": "ceva opac",
+    "ru": "что-то непрозрачное",
+    "sk": "niečo nepriehľadné",
+    "sl": "nekaj neprozornega",
+    "sv": "något ogenomskinligt",
+    "tr": "opak bir şey",
+    "uk": "щось непрозоре",
+    "zh": "不透明"
+  },
+  "verses": [
+    "joshua 24:7:4"
+  ]
+}

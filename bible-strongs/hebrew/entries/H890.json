@@ -1,0 +1,42 @@
+{
+  "number": "H890",
+  "language": "hebrew",
+  "transliteration": "boʼshâh",
+  "pronunciation": "bosh-aw'",
+  "definition": "stink-weed or any other noxious or useless plant",
+  "kjvTranslation": "cockle.",
+  "translations": {
+    "bg": "смрадлика или друго вредно или безполезно растение",
+    "cs": "smrdutý plevel nebo jakákoli jiná škodlivá nebo neužitečná rostlina",
+    "da": "stinkende ukrudt eller enhver anden skadelig eller ubrugelig plante",
+    "de": "stinkekraut oder jede andere schädliche oder nutzlose Pflanze",
+    "el": "βρωμόχορτο ή οποιοδήποτε άλλο επιβλαβές ή άχρηστο φυτό",
+    "es": "hierba apestosa o cualquier otra planta nociva o inútil",
+    "et": "haisurohi või mõni muu kahjulik või kasutu taim",
+    "fi": "hajuheinä tai muu haitallinen tai hyödytön kasvi",
+    "fr": "le chiendent ou toute autre plante nuisible ou inutile",
+    "hu": "büdösfű vagy bármely más káros vagy haszontalan növény",
+    "id": "gulma bau atau tanaman berbahaya atau tidak berguna lainnya",
+    "it": "erba puzzolente o qualsiasi altra pianta nociva o inutile",
+    "ja": "臭草、その他有害または無用の植物",
+    "ko": "악취 잡초 또는 기타 해롭거나 쓸모없는 식물",
+    "lt": "smirdinčiosios piktžolės arba bet koks kitas kenksmingas ar nenaudingas augalas",
+    "lv": "smirdošā nezāle vai jebkurš cits kaitīgs vai nelietderīgs augs",
+    "nb": "stankgress eller andre skadelige eller unyttige planter",
+    "nl": "stinkkruid of andere schadelijke of nutteloze planten",
+    "pl": "chwastów cuchnących lub innych szkodliwych lub bezużytecznych roślin",
+    "pt": "erva-de-passarinho ou qualquer outra planta nociva ou inútil",
+    "ro": "buruiană urât mirositoare sau orice altă plantă nocivă sau inutilă",
+    "ru": "вонючая трава или любое другое вредное или бесполезное растение",
+    "sk": "smradľavá tráva alebo akákoľvek iná škodlivá alebo neužitočná rastlina",
+    "sl": "smrdljivi plevel ali katera koli druga škodljiva ali neuporabna rastlina",
+    "sv": "stinknäva eller någon annan skadlig eller värdelös växt",
+    "tr": "pis kokulu ot veya diğer zararlı veya yararsız bitkiler",
+    "uk": "смердючий бур'ян або будь-яка інша шкідлива або непотрібна рослина",
+    "zh": "臭鼬或任何其他有害或无用的植物"
+  },
+  "hebrew": "בׇּאְשָׁה",
+  "verses": [
+    "job 31:40:6"
+  ]
+}

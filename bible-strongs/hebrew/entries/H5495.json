@@ -1,0 +1,42 @@
+{
+  "number": "H5495",
+  "language": "hebrew",
+  "transliteration": "Çûwr",
+  "pronunciation": "soor",
+  "definition": "Sur, a gate of the temple",
+  "kjvTranslation": "Sur.",
+  "hebrew": "סוּר",
+  "translations": {
+    "bg": "Сур, порта на храма",
+    "cs": "Sur, brána chrámu",
+    "da": "Sur, en port til templet",
+    "de": "Sur, ein Tor des Tempels",
+    "el": "Sur, μια πύλη του ναού",
+    "es": "Sur, una puerta del templo",
+    "et": "Sur, templi värav",
+    "fi": "Sur, temppelin portti",
+    "fr": "Sur, une porte du temple",
+    "hu": "Sur, a templom egyik kapuja",
+    "id": "Sur, gerbang kuil",
+    "it": "Sur, una porta del tempio",
+    "ja": "スール、寺院の門",
+    "ko": "수르, 사원의 문",
+    "lt": "Sur, šventyklos vartai",
+    "lv": "Sur, tempļa vārti",
+    "nb": "Sur, en port til tempelet",
+    "nl": "Sur, een poort van de tempel",
+    "pl": "Sur, brama świątyni",
+    "pt": "Sur, uma porta do templo",
+    "ro": "Sur, o poartă a templului",
+    "ru": "Сур, ворота храма",
+    "sk": "Sur, brána chrámu",
+    "sl": "Sur, vrata templja",
+    "sv": "Sur, en port till templet",
+    "tr": "Sur, tapınağın bir kapısı",
+    "uk": "Сур, брама храму",
+    "zh": "苏尔"
+  },
+  "verses": [
+    "secondKings 11:6:2"
+  ]
+}

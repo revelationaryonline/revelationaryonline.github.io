@@ -1,0 +1,43 @@
+{
+  "number": "H7975",
+  "language": "hebrew",
+  "transliteration": "Shilôach",
+  "pronunciation": "shee-lo'-akh",
+  "definition": "Shiloach, a fountain of Jerusalem",
+  "kjvTranslation": "Shiloah, Siloah.",
+  "hebrew": "שִׁלֹחַ",
+  "translations": {
+    "bg": "Шилоах, извор в Ерусалим",
+    "cs": "Šiloach, jeruzalémský pramen",
+    "da": "Shiloach, et springvand i Jerusalem",
+    "de": "Schiloach, ein Brunnen in Jerusalem",
+    "el": "Shiloach, μια πηγή της Ιερουσαλήμ",
+    "es": "Shiloach, una fuente de Jerusalén",
+    "et": "Shiloach, Jeruusalemma purskkaev",
+    "fi": "Shiloach, Jerusalemin lähde",
+    "fr": "Shiloach, une fontaine de Jérusalem",
+    "hu": "Shiloach, Jeruzsálem egyik kútja",
+    "id": "Shiloach, air mancur Yerusalem",
+    "it": "Shiloach, una fontana di Gerusalemme",
+    "ja": "エルサレムの泉、シロアハ",
+    "ko": "예루살렘의 분수, 실로아치",
+    "lt": "Šiloachas, Jeruzalės šaltinis",
+    "lv": "Šiloahs, Jeruzalemes strūklaka",
+    "nb": "Shiloach, en fontene i Jerusalem",
+    "nl": "Shiloach, een fontein van Jeruzalem",
+    "pl": "Shiloach, fontanna w Jerozolimie",
+    "pt": "Shiloach, uma fonte de Jerusalém",
+    "ro": "Shiloach, o fântână din Ierusalim",
+    "ru": "Шилоах, фонтан в Иерусалиме",
+    "sk": "Šiloach, jeruzalemský prameň",
+    "sl": "Šiloah, jeruzalemski vodnjak",
+    "sv": "Shiloach, en fontän i Jerusalem",
+    "tr": "Shiloach, Kudüs'ün bir çeşmesi",
+    "uk": "Шилоах, єрусалимський фонтан",
+    "zh": "希洛阿克，耶路撒冷的喷泉"
+  },
+  "verses": [
+    "nehemiah 3:15:22",
+    "isaiah 8:6:7"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4470",
+  "language": "hebrew",
+  "transliteration": "memer",
+  "pronunciation": "meh'-mer",
+  "definition": "sorrow",
+  "kjvTranslation": "bitterness.",
+  "hebrew": "מֶמֶר",
+  "verses": [
+    "proverbs 17:25:4"
+  ],
+  "translations": {
+    "bg": "скръб",
+    "cs": "smutek",
+    "da": "sorg",
+    "de": "kummer",
+    "el": "θλίψη",
+    "es": "pena",
+    "et": "mure",
+    "fi": "suru",
+    "fr": "chagrin",
+    "hu": "bánat",
+    "id": "kesedihan",
+    "it": "dolore",
+    "ja": "悲しみ",
+    "ko": "슬픔",
+    "lt": "liūdesys",
+    "lv": "skumjas",
+    "nb": "sorg",
+    "nl": "verdriet",
+    "pl": "smutek",
+    "pt": "tristeza",
+    "ro": "tristețe",
+    "ru": "печаль",
+    "sk": "smútok",
+    "sl": "žalost",
+    "sv": "sorg",
+    "tr": "üzüntü",
+    "uk": "скорбота",
+    "zh": "悲伤"
+  }
+}

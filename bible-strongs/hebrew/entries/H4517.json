@@ -1,0 +1,42 @@
+{
+  "number": "H4517",
+  "language": "hebrew",
+  "transliteration": "mᵉnaʻnaʻ",
+  "pronunciation": "men-ah-ah'",
+  "definition": "a sistrum (so called from its rattling sound)",
+  "kjvTranslation": "cornet.",
+  "hebrew": "מְנַעְנַע",
+  "verses": [
+    "secondSamuel 6:5:13"
+  ],
+  "translations": {
+    "bg": "sistrum (наречен така заради дрънчащия си звук)",
+    "cs": "sistrum (nazývané tak podle chrastivého zvuku)",
+    "da": "et sistrum (kaldes sådan på grund af den raslende lyd)",
+    "de": "ein Sistrum (so genannt wegen seines rasselnden Geräuschs)",
+    "el": "sistrum (ονομάζεται έτσι από τον ήχο του κροταλίσματος)",
+    "es": "un sistro (llamado así por su sonido de traqueteo)",
+    "et": "sistrum (nimetatakse nii selle koliseva heli järgi)",
+    "fi": "sistrum (nimeltään koliseva ääni)",
+    "fr": "un sistre (appelé ainsi en raison du bruit qu'il fait)",
+    "hu": "sistrum (zörgő hangjáról kapta a nevét)",
+    "id": "sistrum (disebut demikian karena suaranya yang berderak)",
+    "it": "un sistro (così chiamato per il suo suono sferragliante)",
+    "ja": "ギシギシ",
+    "ko": "시스트럼(덜거덕거리는 소리에서 유래)",
+    "lt": "sistrumas (taip vadinamas dėl barškančio garso)",
+    "lv": "sistrum (tā to sauc, jo tas skan kā grabulis)",
+    "nb": "en sistrum (kalt sistrum på grunn av den skranglende lyden)",
+    "nl": "een sistrum (zo genoemd vanwege het ratelende geluid)",
+    "pl": "sistrum (nazywane tak od jego grzechoczącego dźwięku)",
+    "pt": "um sistrum (assim chamado devido ao seu som de chocalho)",
+    "ro": "un sistrum (numit astfel din cauza sunetului său de zăngănit)",
+    "ru": "систрум (названный так из-за своего дребезжащего звука)",
+    "sk": "sistrum (nazývané tak podľa chrastivého zvuku)",
+    "sl": "sistrum (tako se imenuje zaradi hreščečega zvoka)",
+    "sv": "ett sistrum (kallas så på grund av sitt rasslande ljud)",
+    "tr": "bir sistrum (çıngırak sesinden dolayı böyle adlandırılır)",
+    "uk": "систрум (названий так через свій брязкаючий звук)",
+    "zh": "响板"
+  }
+}

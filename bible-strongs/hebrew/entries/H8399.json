@@ -1,0 +1,42 @@
+{
+  "number": "H8399",
+  "language": "hebrew",
+  "transliteration": "tablîyth",
+  "pronunciation": "tab-leeth'",
+  "definition": "consumption",
+  "kjvTranslation": "destruction.",
+  "hebrew": "תַּבְלִית",
+  "translations": {
+    "bg": "потребление",
+    "cs": "spotřeba",
+    "da": "forbrug",
+    "de": "verbrauch",
+    "el": "κατανάλωση",
+    "es": "consumo",
+    "et": "tarbimine",
+    "fi": "kulutus",
+    "fr": "la consommation",
+    "hu": "fogyasztás",
+    "id": "konsumsi",
+    "it": "consumo",
+    "ja": "消費",
+    "ko": "소비",
+    "lt": "vartojimas",
+    "lv": "patēriņš",
+    "nb": "forbruk",
+    "nl": "verbruik",
+    "pl": "zużycie",
+    "pt": "consumo",
+    "ro": "consum",
+    "ru": "потребление",
+    "sk": "spotreba",
+    "sl": "poraba",
+    "sv": "konsumtion",
+    "tr": "tüketim",
+    "uk": "споживання",
+    "zh": "消费量"
+  },
+  "verses": [
+    "isaiah 10:25:8"
+  ]
+}

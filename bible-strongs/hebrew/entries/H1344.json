@@ -1,0 +1,42 @@
+{
+  "number": "H1344",
+  "language": "hebrew",
+  "transliteration": "gêʼâh",
+  "pronunciation": "gay-aw'",
+  "definition": "arrogance",
+  "kjvTranslation": "pride.",
+  "translations": {
+    "bg": "високомерие",
+    "cs": "arogance",
+    "da": "arrogance",
+    "de": "arroganz",
+    "el": "αλαζονεία",
+    "es": "arrogancia",
+    "et": "arrogantsus",
+    "fi": "ylimielisyys",
+    "fr": "arrogance",
+    "hu": "arrogancia",
+    "id": "kesombongan",
+    "it": "arroganza",
+    "ja": "傲慢",
+    "ko": "오만",
+    "lt": "arogancija",
+    "lv": "augstprātība",
+    "nb": "arroganse",
+    "nl": "arrogantie",
+    "pl": "arogancja",
+    "pt": "arrogância",
+    "ro": "aroganță",
+    "ru": "высокомерие",
+    "sk": "arogancia",
+    "sl": "aroganca",
+    "sv": "arrogans",
+    "tr": "kibir",
+    "uk": "зарозумілість",
+    "zh": "傲慢"
+  },
+  "hebrew": "גֵּאָה",
+  "verses": [
+    "proverbs 8:13:4"
+  ]
+}

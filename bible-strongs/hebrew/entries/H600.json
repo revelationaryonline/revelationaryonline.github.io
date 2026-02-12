@@ -1,0 +1,43 @@
+{
+  "number": "H600",
+  "language": "hebrew",
+  "transliteration": "ʼănaph",
+  "pronunciation": "an-af'",
+  "definition": "the face",
+  "kjvTranslation": "face, visage.",
+  "translations": {
+    "bg": "лицето",
+    "cs": "tvář",
+    "da": "ansigtet",
+    "de": "das Gesicht",
+    "el": "το πρόσωπο",
+    "es": "la cara",
+    "et": "nägu",
+    "fi": "kasvot",
+    "fr": "le visage",
+    "hu": "az arc",
+    "id": "wajah",
+    "it": "il volto",
+    "ja": "顔",
+    "ko": "얼굴",
+    "lt": "veidas",
+    "lv": "seja",
+    "nb": "ansiktet",
+    "nl": "het gezicht",
+    "pl": "twarz",
+    "pt": "o rosto",
+    "ro": "fața",
+    "ru": "лицо",
+    "sk": "tvár",
+    "sl": "obraz",
+    "sv": "ansiktet",
+    "tr": "yüz",
+    "uk": "обличчя",
+    "zh": "脸部"
+  },
+  "hebrew": "אֲנַף",
+  "verses": [
+    "daniel 2:46:5",
+    "daniel 3:19:5"
+  ]
+}

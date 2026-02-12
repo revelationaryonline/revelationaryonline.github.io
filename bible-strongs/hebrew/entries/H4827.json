@@ -1,0 +1,42 @@
+{
+  "number": "H4827",
+  "language": "hebrew",
+  "transliteration": "mêraʻ",
+  "pronunciation": "may-rah'",
+  "definition": "used as (abstract) noun, wickedness",
+  "kjvTranslation": "do mischief.",
+  "hebrew": "מֵרַע",
+  "translations": {
+    "bg": "използван като (абстрактно) съществително, wickedness",
+    "cs": "použitý jako (abstraktní) podstatné jméno, wickedness (špatnost)",
+    "da": "brugt som (abstrakt) substantiv, ondskab",
+    "de": "verwendet als (abstraktes) Substantiv, Schlechtigkeit",
+    "el": "χρησιμοποιείται ως (αφηρημένο) ουσιαστικό, wickedness",
+    "es": "usado como sustantivo (abstracto), maldad",
+    "et": "kasutatakse (abstraktse) nimisõnana, kurjus",
+    "fi": "käytetty (abstraktina) substantiivina, pahuus",
+    "fr": "utilisé comme nom (abstrait), méchanceté",
+    "hu": "(absztrakt) főnévként használt, gonoszság",
+    "id": "digunakan sebagai kata benda (abstrak), kejahatan",
+    "it": "usato come sostantivo (astratto), malvagità",
+    "ja": "悪",
+    "ko": "(추상) 명사, 사악함으로 사용됨",
+    "lt": "vartojamas kaip (abstraktus) daiktavardis, wickedness",
+    "lv": "lietots kā (abstrakts) lietvārds, ļaunums",
+    "nb": "brukt som (abstrakt) substantiv, ondskap",
+    "nl": "gebruikt als (abstract) zelfstandig naamwoord, goddeloosheid",
+    "pl": "używany jako (abstrakcyjny) rzeczownik, niegodziwość",
+    "pt": "usado como substantivo (abstrato), maldade",
+    "ro": "folosit ca substantiv (abstract), ticăloșie",
+    "ru": "используется как (абстрактное) существительное, нечестие",
+    "sk": "použité ako (abstraktné) podstatné meno, zloba",
+    "sl": "uporabljeno kot (abstraktni) samostalnik, wickedness",
+    "sv": "används som (abstrakt) substantiv, ondska",
+    "tr": "(soyut) isim olarak kullanılır, kötülük",
+    "uk": "вживається як (абстрактний) іменник, нечестя",
+    "zh": "恶"
+  },
+  "verses": [
+    "daniel 11:27:3"
+  ]
+}

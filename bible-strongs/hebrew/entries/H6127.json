@@ -1,0 +1,42 @@
+{
+  "number": "H6127",
+  "language": "hebrew",
+  "transliteration": "ʻâqal",
+  "pronunciation": "aw-kal'",
+  "definition": "to wrest",
+  "kjvTranslation": "wrong.",
+  "hebrew": "עָקַל",
+  "translations": {
+    "bg": "да се бори",
+    "cs": "vybojovat",
+    "da": "at bryde",
+    "de": "zu entreißen",
+    "el": "να αποσπάσει",
+    "es": "luchar",
+    "et": "võidelda",
+    "fi": "vääntää",
+    "fr": "pour lutter",
+    "hu": "hogy elszakítson",
+    "id": "untuk bergulat",
+    "it": "per strappare",
+    "ja": "レスリングに",
+    "ko": "레슬링",
+    "lt": "kovoti",
+    "lv": "cīnīties",
+    "nb": "å bryte",
+    "nl": "om te worstelen",
+    "pl": "zapasy",
+    "pt": "para lutar",
+    "ro": "să lupte",
+    "ru": "бороться",
+    "sk": "vybojovať",
+    "sl": "se boriti",
+    "sv": "att brottas",
+    "tr": "güreşmek için",
+    "uk": "щоб вирвати",
+    "zh": "角力"
+  },
+  "verses": [
+    "habakkuk 1:4:17"
+  ]
+}

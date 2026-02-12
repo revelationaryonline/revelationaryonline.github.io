@@ -1,0 +1,43 @@
+{
+  "number": "H8632",
+  "language": "hebrew",
+  "transliteration": "tᵉqôph",
+  "pronunciation": "tek-ofe'",
+  "definition": "power",
+  "kjvTranslation": "might, strength.",
+  "hebrew": "תְּקֹף",
+  "translations": {
+    "bg": "мощност",
+    "cs": "napájení",
+    "da": "magt",
+    "de": "macht",
+    "el": "ισχύς",
+    "es": "potencia",
+    "et": "võimsus",
+    "fi": "teho",
+    "fr": "pouvoir",
+    "hu": "hatalom",
+    "id": "kekuatan",
+    "it": "potenza",
+    "ja": "パワー",
+    "ko": "power",
+    "lt": "galia",
+    "lv": "jauda",
+    "nb": "kraft",
+    "nl": "stroom",
+    "pl": "moc",
+    "pt": "potência",
+    "ro": "putere",
+    "ru": "мощность",
+    "sk": "napájanie",
+    "sl": "moč",
+    "sv": "kraft",
+    "tr": "güç",
+    "uk": "сила",
+    "zh": "权力"
+  },
+  "verses": [
+    "daniel 2:37:9",
+    "daniel 4:27:13"
+  ]
+}

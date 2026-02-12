@@ -1,0 +1,43 @@
+{
+  "number": "H7388",
+  "language": "hebrew",
+  "transliteration": "rîyr",
+  "pronunciation": "reer",
+  "definition": "saliva; by resemblance, broth",
+  "kjvTranslation": "spittle, white (of an egg).",
+  "hebrew": "רִיר",
+  "translations": {
+    "bg": "слюнка; по подобие, бульон",
+    "cs": "sliny; podle podobnosti, vývar",
+    "da": "spyt; ved lighed, bouillon",
+    "de": "speichel; durch Ähnlichkeit, Brühe",
+    "el": "σάλιο- με ομοιότητα, ζωμός",
+    "es": "saliva; por semejanza, caldo",
+    "et": "sülg; sarnasus, puljong",
+    "fi": "sylki; samankaltaisuus, liemi",
+    "fr": "salive ; par ressemblance, bouillon",
+    "hu": "nyál; hasonlóság, húsleves",
+    "id": "air liur; dengan kemiripan, kaldu",
+    "it": "saliva; per somiglianza, brodo",
+    "ja": "唾液；似ていることから、スープ",
+    "ko": "타액; 닮은꼴로 국물",
+    "lt": "seilės; pagal panašumą, sultinys",
+    "lv": "siekalas; pēc līdzības, buljons",
+    "nb": "spytt; ved likhet, buljong",
+    "nl": "speeksel; door gelijkenis, bouillon",
+    "pl": "ślina; przez podobieństwo, bulion",
+    "pt": "saliva; por semelhança, caldo",
+    "ro": "salivă; prin asemănare, bulion",
+    "ru": "слюна; по сходству, бульон",
+    "sk": "sliny; podľa podobnosti, vývar",
+    "sl": "slina; po podobnosti, juha",
+    "sv": "saliv; genom likhet, buljong",
+    "tr": "tükürük; benzerlik yoluyla, et suyu",
+    "uk": "слина; за схожістю - бульйон",
+    "zh": "唾液；通过相似性，肉汤"
+  },
+  "verses": [
+    "firstSamuel 21:14:12",
+    "job 6:6:7"
+  ]
+}

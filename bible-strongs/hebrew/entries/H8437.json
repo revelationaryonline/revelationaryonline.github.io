@@ -1,0 +1,42 @@
+{
+  "number": "H8437",
+  "language": "hebrew",
+  "transliteration": "tôwlâl",
+  "pronunciation": "to-lawl'",
+  "definition": "causing to howl, i.e. an oppressor",
+  "kjvTranslation": "that wasted.",
+  "hebrew": "תּוֹלָל",
+  "translations": {
+    "bg": "предизвикващ вой, т.е. потисник",
+    "cs": "způsobující řev, tj. utlačovatel",
+    "da": "der får en til at hyle, dvs. en undertrykker",
+    "de": "zum Heulen bringen, d.h. ein Unterdrücker",
+    "el": "που προκαλεί ουρλιαχτό, δηλ. ένας καταπιεστής",
+    "es": "hacer aullar, es decir, un opresor",
+    "et": "põhjustades ulgumist, st. rõhuja",
+    "fi": "aiheuttaa ulvomista, eli sortaja",
+    "fr": "qui fait hurler, c'est-à-dire un oppresseur",
+    "hu": "üvöltésre késztet, azaz elnyomó",
+    "id": "menyebabkan melolong, yaitu penindas",
+    "it": "far ululare, cioè un oppressore",
+    "ja": "吼えさせる、すなわち圧制者",
+    "ko": "울부짖게 하는 것, 즉 억압자",
+    "lt": "verčiantis vytis, t. y. engėjas",
+    "lv": "liekot gaudot, t.i., apspiedējs",
+    "nb": "som får en til å hyle, dvs. en undertrykker",
+    "nl": "doen huilen, d.w.z. een onderdrukker",
+    "pl": "powodujący wycie, tj. ciemiężca",
+    "pt": "que faz uivar, ou seja, um opressor",
+    "ro": "a face să urle, adică un asupritor",
+    "ru": "вызывающий вой, т.е. угнетатель",
+    "sk": "spôsobujúci vytie, t. j. utláčateľ",
+    "sl": "povzročiti jok, tj. zatiralec",
+    "sv": "som får en att yla, dvs. en förtryckare",
+    "tr": "ulumaya neden olan, yani bir zalim",
+    "uk": "що викликає виття, тобто гнобитель",
+    "zh": "引起嚎叫，即压迫者"
+  },
+  "verses": [
+    "psalms 137:3:6"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H2639",
+  "language": "hebrew",
+  "transliteration": "cheçer",
+  "pronunciation": "kheh'-ler",
+  "definition": "lack; hence, destitution",
+  "kjvTranslation": "poverty, want.",
+  "translations": {
+    "bg": "липса; оттам и мизерия",
+    "cs": "nedostatek; tedy nouze",
+    "da": "mangel; derfor nød",
+    "de": "mangel; daher: Elend",
+    "el": "έλλειψη, άρα, ένδεια",
+    "es": "carencia; por lo tanto, indigencia",
+    "et": "puudus; seega, puudus",
+    "fi": "puute; siis kurjuus",
+    "fr": "le manque, donc l'indigence",
+    "hu": "hiány; ezért nincstelenség",
+    "id": "kekurangan; karenanya, kemelaratan",
+    "it": "mancanza; quindi, indigenza",
+    "ja": "欠乏",
+    "ko": "부족; 따라서 빈곤",
+    "lt": "trūkumas; taigi, skurdas",
+    "lv": "trūkums, tātad trūkums",
+    "nb": "mangel; derav nød",
+    "nl": "gebrek; vandaar, armoede",
+    "pl": "brak; stąd nędza",
+    "pt": "carência; logo, miséria",
+    "ro": "lipsă; prin urmare, lipsuri",
+    "ru": "недостаток; следовательно, безденежье",
+    "sk": "nedostatok; teda bieda",
+    "sl": "pomanjkanje; torej pomanjkanje",
+    "sv": "brist; därav utblottning",
+    "tr": "eksiklik; dolayısıyla yoksulluk",
+    "uk": "нестача; отже, злидні",
+    "zh": "匮"
+  },
+  "hebrew": "חֶסֶר",
+  "verses": [
+    "job 30:3:0",
+    "proverbs 28:22:8"
+  ]
+}

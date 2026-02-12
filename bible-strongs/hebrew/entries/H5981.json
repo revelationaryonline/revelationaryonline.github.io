@@ -1,0 +1,42 @@
+{
+  "number": "H5981",
+  "language": "hebrew",
+  "transliteration": "ʻUmmâh",
+  "pronunciation": "oom-maw'",
+  "definition": "Ummah, a place in Palestine",
+  "kjvTranslation": "Ummah.",
+  "hebrew": "עֻמָּה",
+  "translations": {
+    "bg": "Ummah, място в Палестина",
+    "cs": "Ummah, místo v Palestině",
+    "da": "Ummah, et sted i Palæstina",
+    "de": "Ummah, ein Ort in Palästina",
+    "el": "Ummah, ένας τόπος στην Παλαιστίνη",
+    "es": "Ummah, lugar de Palestina",
+    "et": "Umma, koht Palestiinas",
+    "fi": "Ummah, paikka Palestiinassa",
+    "fr": "Ummah, un lieu en Palestine",
+    "hu": "Ummah, egy hely Palesztinában",
+    "id": "Ummah, sebuah tempat di Palestina",
+    "it": "Ummah, un luogo in Palestina",
+    "ja": "ウンマ、パレスチナの地名",
+    "ko": "팔레스타인의 한 지역, 움마",
+    "lt": "Ummah, vieta Palestinoje",
+    "lv": "Ummah, vieta Palestīnā",
+    "nb": "Ummah, et sted i Palestina",
+    "nl": "Ummah, een plaats in Palestina",
+    "pl": "Ummah, miejsce w Palestynie",
+    "pt": "Ummah, um lugar na Palestina",
+    "ro": "Ummah, un loc în Palestina",
+    "ru": "Умма - место в Палестине",
+    "sk": "Ummah, miesto v Palestíne",
+    "sl": "Ummah, kraj v Palestini",
+    "sv": "Ummah, en plats i Palestina",
+    "tr": "Ummah, Filistin'de bir yer",
+    "uk": "Умма, місце в Палестині",
+    "zh": "乌玛"
+  },
+  "verses": [
+    "joshua 19:30:0"
+  ]
+}

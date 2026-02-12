@@ -1,0 +1,42 @@
+{
+  "number": "H6626",
+  "language": "hebrew",
+  "transliteration": "pâthath",
+  "pronunciation": "paw-thath'",
+  "definition": "to open, i.e. break",
+  "kjvTranslation": "participle x",
+  "hebrew": "פָּתַת",
+  "translations": {
+    "bg": "да се отвори, т.е. да се счупи",
+    "cs": "otevřít, tj. rozbít",
+    "da": "at åbne, dvs. bryde",
+    "de": "zu öffnen, d.h. zu brechen",
+    "el": "να ανοίξει, δηλαδή να σπάσει",
+    "es": "abrir, es decir, romper",
+    "et": "avada, st murda",
+    "fi": "avata, eli rikkoa",
+    "fr": "ouvrir, c'est-à-dire rompre",
+    "hu": "kinyitni, azaz eltörni",
+    "id": "untuk membuka, yaitu istirahat",
+    "it": "aprire, cioè rompere",
+    "ja": "を開く、つまり壊す",
+    "ko": "열다, 즉 깨다",
+    "lt": "atidaryti, t. y. sulaužyti",
+    "lv": "atvērt, t.i., pārtraukt",
+    "nb": "å åpne, dvs. bryte",
+    "nl": "openen, d.w.z. breken",
+    "pl": "otworzyć, tj. złamać",
+    "pt": "abrir, ou seja, quebrar",
+    "ro": "a deschide, adică a sparge",
+    "ru": "открывать, т.е. ломать",
+    "sk": "otvoriť, t. j. rozbiť",
+    "sl": "odpreti, tj. razbiti",
+    "sv": "att öppna, d.v.s. bryta",
+    "tr": "açmak, yani kırmak",
+    "uk": "відкрити, тобто розірвати",
+    "zh": "打开，即打破"
+  },
+  "verses": [
+    "leviticus 2:6:0"
+  ]
+}

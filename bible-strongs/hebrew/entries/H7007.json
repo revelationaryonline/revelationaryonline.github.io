@@ -1,0 +1,42 @@
+{
+  "number": "H7007",
+  "language": "hebrew",
+  "transliteration": "qayiṭ",
+  "pronunciation": "kah'-yit",
+  "definition": "harvest",
+  "kjvTranslation": "summer.",
+  "hebrew": "קַיִט",
+  "translations": {
+    "bg": "събиране на реколтата",
+    "cs": "sklizeň",
+    "da": "høst",
+    "de": "ernten",
+    "el": "συγκομιδή",
+    "es": "cosecha",
+    "et": "saagikoristus",
+    "fi": "sadonkorjuu",
+    "fr": "récolte",
+    "hu": "betakarítás",
+    "id": "panen",
+    "it": "raccolto",
+    "ja": "収穫",
+    "ko": "수확",
+    "lt": "derlius",
+    "lv": "raža",
+    "nb": "innhøsting",
+    "nl": "oogst",
+    "pl": "zbiory",
+    "pt": "colheita",
+    "ro": "recoltă",
+    "ru": "урожай",
+    "sk": "zber",
+    "sl": "žetev",
+    "sv": "skörda",
+    "tr": "hasat",
+    "uk": "врожай",
+    "zh": "收获"
+  },
+  "verses": [
+    "daniel 2:35:12"
+  ]
+}

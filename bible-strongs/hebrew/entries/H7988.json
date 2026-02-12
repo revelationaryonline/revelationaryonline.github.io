@@ -1,0 +1,42 @@
+{
+  "number": "H7988",
+  "language": "hebrew",
+  "transliteration": "shilyâh",
+  "pronunciation": "shil-yaw'",
+  "definition": "a fetus or babe (as extruded in birth)",
+  "kjvTranslation": "young one.",
+  "hebrew": "שִׁלְיָה",
+  "translations": {
+    "bg": "плод или бебе (изтласкано при раждане)",
+    "cs": "plod nebo dítě (vytlačené při porodu)",
+    "da": "et foster eller en baby (som udstødes under fødslen)",
+    "de": "ein Fötus oder ein Baby (wie bei der Geburt herausgewachsen)",
+    "el": "ένα έμβρυο ή μωρό (όπως βγαίνει κατά τη γέννηση)",
+    "es": "un feto o un bebé (como se extruye en el parto)",
+    "et": "loode või beebi (nagu sünnitusel välja pressitud)",
+    "fi": "sikiö tai vauva (kuten syntymässä syntynyt)",
+    "fr": "un fœtus ou un bébé (tel qu'extrudé à la naissance)",
+    "hu": "magzat vagy csecsemő (mint a szülés során kikerült)",
+    "id": "janin atau bayi (seperti yang diekstrusi saat lahir)",
+    "it": "un feto o un neonato (come estrinsecato nel parto)",
+    "ja": "娩出児",
+    "ko": "태아 또는 아기(출생 시 돌출된 상태)",
+    "lt": "vaisius arba kūdikis (gimdymo metu)",
+    "lv": "auglis vai mazulis (kā izspiests dzemdībās)",
+    "nb": "et foster eller et spedbarn (som presses ut ved fødselen)",
+    "nl": "een foetus of baby (zoals uitgestoten bij de geboorte)",
+    "pl": "płód lub niemowlę (wyciskane podczas porodu)",
+    "pt": "um feto ou um bebé (tal como é extrudido no nascimento)",
+    "ro": "un făt sau un bebeluș (ca extrudat la naștere)",
+    "ru": "плод или младенец (как выдавленный при родах)",
+    "sk": "plod alebo bábätko (vytlačené pri pôrode)",
+    "sl": "plod ali dojenček (kot se iztisne ob rojstvu)",
+    "sv": "ett foster eller spädbarn (som extruderat vid födseln)",
+    "tr": "bir fetüs veya bebek (doğumda çıkarıldığı gibi)",
+    "uk": "плід або дитина (екструдований при народженні)",
+    "zh": "胎儿"
+  },
+  "verses": [
+    "deuteronomy 28:57:0"
+  ]
+}

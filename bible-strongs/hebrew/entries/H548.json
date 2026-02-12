@@ -1,0 +1,43 @@
+{
+  "number": "H548",
+  "language": "hebrew",
+  "transliteration": "ʼămânâh",
+  "pronunciation": "am-aw-naw'",
+  "definition": "something fixed, i.e. a covenant. an allowance",
+  "kjvTranslation": "certain portion, sure.",
+  "translations": {
+    "bg": "нещо фиксирано, напр. завет. надбавка",
+    "cs": "něco pevně stanoveného, např. smlouva. příspěvek",
+    "da": "noget fast, f.eks. en pagt. en godtgørelse",
+    "de": "etwas Feststehendes, z. B. eine Vereinbarung. eine Vergütung",
+    "el": "κάτι σταθερό, π.χ. μια συμφωνία. ένα επίδομα",
+    "es": "algo fijo, es decir, un pacto. un subsidio",
+    "et": "midagi fikseeritud, s.t. leping. toetus",
+    "fi": "jotakin kiinteää, esim. sopimus. avustus",
+    "fr": "quelque chose de fixe, c'est-à-dire une convention. une allocation",
+    "hu": "valami rögzített dolog, pl. egy szövetség. juttatás",
+    "id": "sesuatu yang sudah ditetapkan, misalnya perjanjian. tunjangan",
+    "it": "qualcosa di fisso, ad esempio un patto. un'indennità",
+    "ja": "手当て",
+    "ko": "고정된 무언가, 즉 언약. 수당",
+    "lt": "kažkas pastovaus, t. y. sutartis. pašalpa",
+    "lv": "kaut kas noteikts, piemēram, derība. pabalsts",
+    "nb": "noe fast, f.eks. en pakt. en godtgjørelse",
+    "nl": "iets dat vastligt, d.w.z. een verbond. een toelage",
+    "pl": "coś ustalonego, np. przymierze. zasiłek",
+    "pt": "algo fixo, ou seja, um pacto. um subsídio",
+    "ro": "ceva fix, de exemplu un legământ. o alocație",
+    "ru": "что-то фиксированное, т.е. договор. пособие",
+    "sk": "niečo pevné, t. j. zmluva. príspevok",
+    "sl": "nekaj stalnega, npr. pogodba. dodatek",
+    "sv": "något fast, t.ex. ett avtal. en ersättning",
+    "tr": "sabit bir şey, örneğin bir antlaşma. bir ödenek",
+    "uk": "щось фіксоване, тобто угода. дозвіл",
+    "zh": "固定的东西，如盟约。"
+  },
+  "hebrew": "אֲמָנָה",
+  "verses": [
+    "nehemiah 10:1:4",
+    "nehemiah 11:23:4"
+  ]
+}

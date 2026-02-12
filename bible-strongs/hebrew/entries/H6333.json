@@ -1,0 +1,43 @@
+{
+  "number": "H6333",
+  "language": "hebrew",
+  "transliteration": "pûwrâh",
+  "pronunciation": "poo-raw'",
+  "definition": "a wine-press (as crushing the grapes)",
+  "kjvTranslation": "winepress.",
+  "hebrew": "פּוּרָה",
+  "translations": {
+    "bg": "преса за вино (за мачкане на гроздето)",
+    "cs": "lis na víno (jako drcení hroznů)",
+    "da": "en vinpresse (som knuser druerne)",
+    "de": "eine Weinpresse (zum Zerquetschen der Trauben)",
+    "el": "ένα πατητήρι κρασιού (για τη σύνθλιψη των σταφυλιών)",
+    "es": "un lagar (para prensar la uva)",
+    "et": "veinipress (nagu viinamarjade purustamine)",
+    "fi": "viinipuristin (rypäleiden murskaamiseen)",
+    "fr": "un pressoir (pour écraser les raisins)",
+    "hu": "borprés (mint a szőlő zúzása)",
+    "id": "alat pemeras anggur (seperti menghancurkan buah anggur)",
+    "it": "un torchio (per la pigiatura dell'uva)",
+    "ja": "ワインプレス",
+    "ko": "와인 프레스(포도를 으깨는 것)",
+    "lt": "vyno presas (vynuogėms traiškyti)",
+    "lv": "vīna spiede (kā vīnogu drupināšana)",
+    "nb": "en vinpresse (som knusing av druer)",
+    "nl": "een wijnpers (om de druiven te persen)",
+    "pl": "prasa do wina (do miażdżenia winogron)",
+    "pt": "um lagar (para esmagar as uvas)",
+    "ro": "o presă de vin (pentru zdrobirea strugurilor)",
+    "ru": "винный пресс (для давки винограда)",
+    "sk": "lis na víno (ako drvenie hrozna)",
+    "sl": "stiskalnica za vino (za stiskanje grozdja)",
+    "sv": "en vinpress (som krossar druvorna)",
+    "tr": "bir şarap presi (üzümleri ezmek gibi)",
+    "uk": "винний прес (для дроблення винограду)",
+    "zh": "榨酒机"
+  },
+  "verses": [
+    "isaiah 63:3:0",
+    "haggai 2:16:12"
+  ]
+}

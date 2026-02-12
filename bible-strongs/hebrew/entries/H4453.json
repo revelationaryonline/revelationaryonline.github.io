@@ -1,0 +1,43 @@
+{
+  "number": "H4453",
+  "language": "hebrew",
+  "transliteration": "meltsâr",
+  "pronunciation": "mel-tsawr'",
+  "definition": "the butler or other officer in the Babylonian court",
+  "kjvTranslation": "Melzar.",
+  "hebrew": "מֶלְצָר",
+  "translations": {
+    "bg": "прислужник или друг служител във вавилонския двор",
+    "cs": "komorník nebo jiný úředník na babylonském dvoře",
+    "da": "butleren eller en anden officer ved det babyloniske hof",
+    "de": "der Butler oder ein anderer Beamter am babylonischen Hof",
+    "el": "ο μπάτλερ ή άλλος αξιωματούχος της βαβυλωνιακής αυλής",
+    "es": "el mayordomo u otro oficial de la corte babilónica",
+    "et": "babüloonia õukonnaseisuametnik või muu ametnik",
+    "fi": "hovimestari tai muu Babylonian hovin virkamies",
+    "fr": "le majordome ou autre fonctionnaire de la cour babylonienne",
+    "hu": "a komornyik vagy más tisztviselő a babiloni udvarban",
+    "id": "kepala pelayan atau petugas lain di istana Babel",
+    "it": "il maggiordomo o altro funzionario della corte babilonese",
+    "ja": "バビロニア宮廷の執事またはその他の役員",
+    "ko": "바빌로니아 궁정의 집사 또는 기타 장교",
+    "lt": "kamerdineris ar kitas Babilono teismo tarnautojas",
+    "lv": "miesassargs vai cits Babilonijas tiesas ierēdnis",
+    "nb": "butleren eller en annen funksjonær ved det babylonske hoffet",
+    "nl": "de butler of andere officier aan het Babylonische hof",
+    "pl": "kamerdyner lub inny urzędnik na dworze babilońskim",
+    "pt": "o mordomo ou outro funcionário da corte da Babilónia",
+    "ro": "majordomul sau alt funcționar de la curtea babiloniană",
+    "ru": "дворецкий или другой чиновник при вавилонском дворе",
+    "sk": "komorník alebo iný úradník na babylonskom dvore",
+    "sl": "komornik ali drug uradnik na babilonskem dvoru",
+    "sv": "butler eller annan tjänsteman vid det babyloniska hovet",
+    "tr": "babil sarayındaki kâhya ya da başka bir memur",
+    "uk": "дворецький або інший службовець при вавилонському дворі",
+    "zh": "巴比伦宫廷中的管家或其他官员"
+  },
+  "verses": [
+    "daniel 1:11:3",
+    "daniel 1:16:1"
+  ]
+}

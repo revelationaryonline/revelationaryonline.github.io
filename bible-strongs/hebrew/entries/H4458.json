@@ -1,0 +1,42 @@
+{
+  "number": "H4458",
+  "language": "hebrew",
+  "transliteration": "meltâchâh",
+  "pronunciation": "mel-taw-khaw'",
+  "definition": "a wardrobe (i.e. room where clothing is spread)",
+  "kjvTranslation": "vestry.",
+  "hebrew": "מֶלְתָּחָה",
+  "translations": {
+    "bg": "гардероб (т.е. помещение, в което се разпределят дрехите)",
+    "cs": "šatník (tj. místnost, kde je rozloženo oblečení)",
+    "da": "et klædeskab (dvs. et rum, hvor tøjet er spredt)",
+    "de": "einen Kleiderschrank (d. h. einen Raum, in dem die Kleidung ausgebreitet wird)",
+    "el": "μια ντουλάπα (δηλαδή ένα δωμάτιο όπου απλώνονται τα ρούχα)",
+    "es": "un armario (es decir, una habitación donde se tiende la ropa)",
+    "et": "garderoob (st ruum, kus riided on laiali)",
+    "fi": "vaatekaappi (eli huone, johon vaatteet on levitetty)",
+    "fr": "une armoire (c'est-à-dire une pièce où les vêtements sont étalés)",
+    "hu": "gardróbszekrény (azaz helyiség, ahol a ruhák vannak elhelyezve)",
+    "id": "lemari pakaian (yaitu ruangan tempat pakaian diletakkan)",
+    "it": "un guardaroba (cioè una stanza dove vengono stesi gli indumenti)",
+    "ja": "洋服ダンス",
+    "ko": "옷장(즉, 옷이 펼쳐져 있는 공간)",
+    "lt": "spinta (t. y. patalpa, kurioje išdėstyti drabužiai)",
+    "lv": "skapis (t. i., telpa, kurā izvietotas drēbes)",
+    "nb": "et klesskap (dvs. et rom der klærne er spredt)",
+    "nl": "een kledingkast (d.w.z. kamer waar kleding wordt verspreid)",
+    "pl": "szafa (tj. pomieszczenie, w którym przechowywane są ubrania)",
+    "pt": "um guarda-roupa (ou seja, um compartimento onde se estende a roupa)",
+    "ro": "un dulap (adică o cameră în care sunt împrăștiate hainele)",
+    "ru": "гардероб (т.е. помещение, где хранится одежда)",
+    "sk": "šatník (t. j. miestnosť, kde je rozložené oblečenie)",
+    "sl": "garderobo (tj. prostor, v katerem so razporejena oblačila)",
+    "sv": "en garderob (d.v.s. ett rum där kläderna förvaras)",
+    "tr": "bir gardırop (yani giysilerin yayıldığı oda)",
+    "uk": "гардероб (тобто приміщення, де розкладають одяг)",
+    "zh": "衣柜"
+  },
+  "verses": [
+    "secondKings 10:22:3"
+  ]
+}

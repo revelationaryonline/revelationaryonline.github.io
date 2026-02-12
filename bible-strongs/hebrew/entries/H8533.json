@@ -1,0 +1,43 @@
+{
+  "number": "H8533",
+  "language": "hebrew",
+  "transliteration": "tᵉlâthîyn",
+  "pronunciation": "tel-aw-theen'",
+  "definition": "ten times three",
+  "kjvTranslation": "thirty.",
+  "hebrew": "תְּלָתִין",
+  "translations": {
+    "bg": "десет пъти по три",
+    "cs": "desetkrát tři",
+    "da": "ti gange tre",
+    "de": "zehn mal drei",
+    "el": "δέκα φορές τρία",
+    "es": "diez por tres",
+    "et": "kümme korda kolm",
+    "fi": "kymmenen kertaa kolme",
+    "fr": "dix fois trois",
+    "hu": "tízszer három",
+    "id": "sepuluh kali tiga",
+    "it": "dieci volte tre",
+    "ja": "十の三乗",
+    "ko": "10 곱하기 3",
+    "lt": "dešimt kartų po tris",
+    "lv": "desmit reizes trīs",
+    "nb": "ti ganger tre",
+    "nl": "tien keer drie",
+    "pl": "dziesięć razy trzy",
+    "pt": "dez vezes três",
+    "ro": "de zece ori trei",
+    "ru": "десять раз по три",
+    "sk": "desaťkrát tri",
+    "sl": "desetkrat tri",
+    "sv": "tio gånger tre",
+    "tr": "on kere üç",
+    "uk": "десять помножити на три",
+    "zh": "十乘三"
+  },
+  "verses": [
+    "daniel 6:8:24",
+    "daniel 6:13:22"
+  ]
+}

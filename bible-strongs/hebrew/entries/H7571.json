@@ -1,0 +1,42 @@
+{
+  "number": "H7571",
+  "language": "hebrew",
+  "transliteration": "rethach",
+  "pronunciation": "reh'-thakh",
+  "definition": "a boiling",
+  "kjvTranslation": "[idiom] (boil) well.",
+  "hebrew": "רֶתַח",
+  "translations": {
+    "bg": "кипене",
+    "cs": "vroucí",
+    "da": "en kogende",
+    "de": "ein Sieden",
+    "el": "ένα βράσιμο",
+    "es": "a ebullición",
+    "et": "keeva",
+    "fi": "kiehuva",
+    "fr": "une ébullition",
+    "hu": "a forrásban lévő",
+    "id": "mendidih",
+    "it": "un'ebollizione",
+    "ja": "沸騰",
+    "ko": "끓는",
+    "lt": "virimo",
+    "lv": "vārīšanās",
+    "nb": "en kokende",
+    "nl": "een kokend",
+    "pl": "wrzenie",
+    "pt": "uma ebulição",
+    "ro": "o fierbere",
+    "ru": "кипяток",
+    "sk": "varenie",
+    "sl": "vrenje",
+    "sv": "en kokande",
+    "tr": "bir kaynama",
+    "uk": "кипіння",
+    "zh": "沸腾"
+  },
+  "verses": [
+    "ezekiel 24:5:8"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H7370",
+  "language": "hebrew",
+  "transliteration": "râchash",
+  "pronunciation": "raw-khash'",
+  "definition": "to gush",
+  "kjvTranslation": "indite.",
+  "hebrew": "רָחַשׁ",
+  "translations": {
+    "bg": "да изригва",
+    "cs": "tryskat",
+    "da": "at strømme",
+    "de": "zu sprudeln",
+    "el": "να αναβλύζει",
+    "es": "a borbotones",
+    "et": "purskama",
+    "fi": "pursuamaan",
+    "fr": "jaillir",
+    "hu": "hogy kiáradjon",
+    "id": "untuk menyembur",
+    "it": "per zampillare",
+    "ja": "迸る",
+    "ko": "분출하다",
+    "lt": "trykšti",
+    "lv": "izplūst",
+    "nb": "til å strømme",
+    "nl": "om te gutsen",
+    "pl": "tryskać",
+    "pt": "para jorrar",
+    "ro": "să țâșnească",
+    "ru": "выплеснуться",
+    "sk": "tryskať",
+    "sl": "da se izliva",
+    "sv": "att strömma",
+    "tr": "fışkırmak için",
+    "uk": "щоб вилитися",
+    "zh": "喷薄"
+  },
+  "verses": [
+    "psalms 45:2:0"
+  ]
+}

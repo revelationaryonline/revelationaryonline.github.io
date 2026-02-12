@@ -1,0 +1,43 @@
+{
+  "number": "H7537",
+  "language": "hebrew",
+  "transliteration": "râqab",
+  "pronunciation": "raw-kab'",
+  "definition": "to decay (as by worm-eating)",
+  "kjvTranslation": "rot.",
+  "hebrew": "רָקַב",
+  "translations": {
+    "bg": "да се разпадне (чрез изяждане от червеи)",
+    "cs": "rozkládat se (jako požíráním červů)",
+    "da": "at gå i forrådnelse (som ved ormeæderi)",
+    "de": "zu verfallen (wie durch Wurmfraß)",
+    "el": "να αποσυντίθεται (όπως από σκουληκοφαγία)",
+    "es": "descomponerse (por ejemplo, al comer gusanos)",
+    "et": "lagunema (nagu usside söömine)",
+    "fi": "hajoamaan (kuten matojen syönnin kautta)",
+    "fr": "se décomposer (comme en mangeant des vers)",
+    "hu": "bomlás (féregevés által)",
+    "id": "membusuk (seperti karena dimakan cacing)",
+    "it": "decomporsi (come per la presenza di vermi)",
+    "ja": "朽ちる",
+    "ko": "부패하다(벌레 먹음)",
+    "lt": "suirti (dėl kirminų ėdimo)",
+    "lv": "sadalīties (tārpu ēdot)",
+    "nb": "å råtne (som ved ormspising)",
+    "nl": "rotten (zoals door wormen eten)",
+    "pl": "rozkładać się (jak przez zjadanie robaków)",
+    "pt": "apodrecer (como ao comer vermes)",
+    "ro": "a se descompune (prin mâncatul viermilor)",
+    "ru": "разлагаться (в результате поедания червями)",
+    "sk": "rozkladať sa (ako požieranie červami)",
+    "sl": "razpadati (zaradi črvov)",
+    "sv": "att förfalla (som genom maskätning)",
+    "tr": "çürümek (solucan yiyerek olduğu gibi)",
+    "uk": "розкладатися (як при поїданні черв'яків)",
+    "zh": "蛀"
+  },
+  "verses": [
+    "proverbs 10:7:5",
+    "isaiah 40:20:4"
+  ]
+}

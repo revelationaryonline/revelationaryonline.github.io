@@ -1,0 +1,42 @@
+{
+  "number": "H6582",
+  "language": "hebrew",
+  "transliteration": "pâshach",
+  "pronunciation": "paw-shakh'",
+  "definition": "to tear in pieces",
+  "kjvTranslation": "pull in pieces.",
+  "hebrew": "פָּשַׁח",
+  "translations": {
+    "bg": "да се разкъса на парчета",
+    "cs": "roztrhat na kusy",
+    "da": "at rive i stykker",
+    "de": "in Stücke zu reißen",
+    "el": "να σκίσω σε κομμάτια",
+    "es": "despedazar",
+    "et": "tükkideks kiskuda",
+    "fi": "repiä palasiksi",
+    "fr": "déchirer en morceaux",
+    "hu": "darabokra tépni",
+    "id": "untuk merobek berkeping-keping",
+    "it": "fare a pezzi",
+    "ja": "八つ裂きにする",
+    "ko": "조각으로 찢어지다",
+    "lt": "suplėšyti į gabalus",
+    "lv": "saplēst gabalos",
+    "nb": "å rive i stykker",
+    "nl": "in stukken scheuren",
+    "pl": "rozerwać na kawałki",
+    "pt": "fazer em pedaços",
+    "ro": "a rupe în bucăți",
+    "ru": "разрывать на части",
+    "sk": "roztrhať na kúsky",
+    "sl": "raztrgati na koščke",
+    "sv": "att slita i bitar",
+    "tr": "parçalara ayırmak",
+    "uk": "розірвати на шматки",
+    "zh": "撕碎"
+  },
+  "verses": [
+    "lamentations 3:11:2"
+  ]
+}

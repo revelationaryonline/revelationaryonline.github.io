@@ -1,0 +1,42 @@
+{
+  "number": "H2245",
+  "language": "hebrew",
+  "transliteration": "châbab",
+  "pronunciation": "khaw-bab'",
+  "definition": "properly, to hide (as in the bosom), i.e. to cherish (with affection)",
+  "kjvTranslation": "love.",
+  "translations": {
+    "bg": "правилно, да се крие (като в пазвата), т.е. да се пази (с обич)",
+    "cs": "správně, schovávat (jako v lůně), tj. opatrovat (s láskou)",
+    "da": "korrekt, at skjule (som i brystet), dvs. at værne om (med hengivenhed)",
+    "de": "richtig: verstecken (wie im Schoß), d.h. (mit Zuneigung) hegen",
+    "el": "σωστά, να κρύβω (όπως στον κόρφο), δηλαδή να φροντίζω (με στοργή)",
+    "es": "propiamente, esconder (como en el pecho), es decir, cuidar (con afecto)",
+    "et": "õigesti, varjata (nagu rinnas), st hellalt hoida (armastusega)",
+    "fi": "oikein, kätkeä (kuten rintaan), eli vaalia (kiintymyksellä)",
+    "fr": "proprement, cacher (comme dans le sein), c'est-à-dire chérir (avec affection)",
+    "hu": "helyesen, elrejteni (mint a kebelben), azaz (szeretettel) ápolni",
+    "id": "benar, menyembunyikan (seperti di dalam dada), yaitu menyayangi (dengan kasih sayang)",
+    "it": "propriamente, nascondere (come nel petto), cioè custodire (con affetto)",
+    "ja": "懐に隠す",
+    "ko": "적절하게, (가슴에서와 같이) 숨기다, 즉 (애정을 가지고) 소중히하다",
+    "lt": "tinkamai - slėpti (kaip krūtinėje), t. y. puoselėti (su meile)",
+    "lv": "pareizi - paslēpt (kā krūtīs), t.i., lolot (ar mīlestību)",
+    "nb": "egentlig, å gjemme (som i barmen), dvs. å verne om (med hengivenhet)",
+    "nl": "goed, verbergen (als in de boezem), d.w.z. koesteren (met genegenheid)",
+    "pl": "prawidłowo, ukrywać (jak w łonie), tj. pielęgnować (z uczuciem)",
+    "pt": "propriamente, esconder (como no seio), ou seja, acarinhar (com afeto)",
+    "ro": "corect, a ascunde (ca în sân), adică a prețui (cu afecțiune)",
+    "ru": "правильно, прятать (как в груди), т.е. лелеять (с привязанностью)",
+    "sk": "správne, ukrývať (ako v lone), t. j. opatrovať (s láskou)",
+    "sl": "pravilno, skrivati (kot v naročju), tj. negovati (z naklonjenostjo)",
+    "sv": "korrekt, att gömma (som i bröstet), dvs. att vårda (med tillgivenhet)",
+    "tr": "uygun şekilde, (koynunda olduğu gibi) saklamak, yani (şefkatle) beslemek",
+    "uk": "правильно, ховати (як на лоні), тобто плекати (з любов'ю)",
+    "zh": "藏（如在怀中），即珍爱（用感情）"
+  },
+  "hebrew": "חָבַב",
+  "verses": [
+    "deuteronomy 33:3:1"
+  ]
+}

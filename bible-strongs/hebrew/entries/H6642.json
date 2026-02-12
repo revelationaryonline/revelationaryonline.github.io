@@ -1,0 +1,42 @@
+{
+  "number": "H6642",
+  "language": "hebrew",
+  "transliteration": "tsâbaṭ",
+  "pronunciation": "tsaw-bat'",
+  "definition": "to grasp, i.e. hand out",
+  "kjvTranslation": "reach.",
+  "hebrew": "צָבַט",
+  "translations": {
+    "bg": "да хващам, т.е. да подавам",
+    "cs": "uchopit, tj. rozdat",
+    "da": "at gribe, dvs. række ud",
+    "de": "zum Greifen, d.h. Aushändigen",
+    "el": "να πιάσετε, δηλαδή να μοιράσετε",
+    "es": "agarrar, es decir, repartir",
+    "et": "haarata, s.t. välja anda",
+    "fi": "tarttua, eli ojentaa",
+    "fr": "saisir, c'est-à-dire distribuer",
+    "hu": "megragadni, azaz átnyújtani",
+    "id": "untuk digenggam, yaitu membagikan",
+    "it": "afferrare, cioè porgere",
+    "ja": "握る、つまり手渡す",
+    "ko": "잡다, 즉 나눠주기",
+    "lt": "paimti, t. y. ištiesti",
+    "lv": "satvert, t.i., izdalīt",
+    "nb": "å gripe, dvs. dele ut",
+    "nl": "vastpakken, d.w.z. uitdelen",
+    "pl": "chwytać, tj. rozdawać",
+    "pt": "agarrar, ou seja, distribuir",
+    "ro": "a apuca, adică a întinde",
+    "ru": "схватить, т.е. протянуть руку",
+    "sk": "uchopiť, t. j. podať",
+    "sl": "prijeti, tj. izročiti",
+    "sv": "att greppa, d.v.s. dela ut",
+    "tr": "kavramak, yani uzatmak",
+    "uk": "вхопити, тобто роздати",
+    "zh": "抓，即递出"
+  },
+  "verses": [
+    "ruth 2:14:16"
+  ]
+}

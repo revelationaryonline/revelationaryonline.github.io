@@ -1,0 +1,42 @@
+{
+  "number": "H4040",
+  "language": "hebrew",
+  "transliteration": "mᵉgillâh",
+  "pronunciation": "meg-il-law'",
+  "definition": "{a roll}",
+  "kjvTranslation": "roll.",
+  "hebrew": "מְגִלָּה",
+  "translations": {
+    "bg": "{а roll}",
+    "cs": "{a roll}",
+    "da": "{en rulle}",
+    "de": "(ein Brötchen)",
+    "el": "(ένα ρολό)",
+    "es": "{un rollo}",
+    "et": "{rull}",
+    "fi": "{y:i}Se on rulla..",
+    "fr": "{a roll}",
+    "hu": "{a roll}",
+    "id": "[sebuah gulungan]",
+    "it": "{Un rotolo.}",
+    "ja": "{ロール｝",
+    "ko": "{롤}",
+    "lt": "{a roll}",
+    "lv": "{a roll}",
+    "nb": "(en rull)",
+    "nl": "{een rol}",
+    "pl": "{rolka}",
+    "pt": "{Um rolo}",
+    "ro": "{un rulou}",
+    "ru": "{ролл}",
+    "sk": "{rolka}",
+    "sl": "{a roll}",
+    "sv": "{En rulle}",
+    "tr": "{bir rulo}",
+    "uk": "{Я не знаю, що робити далі.}",
+    "zh": "{一卷｝"
+  },
+  "verses": [
+    "ezra 6:2:6"
+  ]
+}

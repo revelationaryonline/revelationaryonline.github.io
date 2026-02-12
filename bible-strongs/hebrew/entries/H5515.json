@@ -1,0 +1,42 @@
+{
+  "number": "H5515",
+  "language": "hebrew",
+  "transliteration": "Çîynîym",
+  "pronunciation": "see-neem'",
+  "definition": "Sinim, a distant Oriental region",
+  "kjvTranslation": "Sinim.",
+  "hebrew": "סִינִים",
+  "translations": {
+    "bg": "Синим, далечна източна област",
+    "cs": "Sinim, vzdálená orientální oblast",
+    "da": "Sinim, en fjern orientalsk region",
+    "de": "Sinim, eine weit entfernte orientalische Region",
+    "el": "Sinim, μια μακρινή ανατολική περιοχή",
+    "es": "Sinim, una lejana región oriental",
+    "et": "Sinim, kauge idamaine piirkond",
+    "fi": "Sinim, kaukainen itämainen alue",
+    "fr": "Sinim, une région orientale lointaine",
+    "hu": "Sinim, egy távoli keleti régió",
+    "id": "Sinim, sebuah wilayah Oriental yang jauh",
+    "it": "Sinim, una lontana regione orientale",
+    "ja": "遠く東洋のシニム",
+    "ko": "먼 동양의 지역, 시님",
+    "lt": "Sinimas, tolimas Rytų regionas",
+    "lv": "Sinim, tāls austrumu reģions",
+    "nb": "Sinim, en fjern orientalsk region",
+    "nl": "Sinim, een ver oosters gebied",
+    "pl": "Sinim, odległy orientalny region",
+    "pt": "Sinim, uma região oriental distante",
+    "ro": "Sinim, o regiune orientală îndepărtată",
+    "ru": "Синим, далекая восточная область",
+    "sk": "Sinim, vzdialený orientálny región",
+    "sl": "Sinim, oddaljena orientalska regija",
+    "sv": "Sinim, en avlägsen orientalisk region",
+    "tr": "Sinim, uzak bir Doğu bölgesi",
+    "uk": "Синім, далекий східний регіон",
+    "zh": "西尼姆"
+  },
+  "verses": [
+    "isaiah 49:12:10"
+  ]
+}

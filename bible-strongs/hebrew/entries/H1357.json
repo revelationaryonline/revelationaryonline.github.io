@@ -1,0 +1,42 @@
+{
+  "number": "H1357",
+  "language": "hebrew",
+  "transliteration": "gêb",
+  "pronunciation": "gabe",
+  "definition": "a locust (from its cutting)",
+  "kjvTranslation": "locust.",
+  "translations": {
+    "bg": "скакалец (от разрязването му)",
+    "cs": "kobylka (z jejího řezu)",
+    "da": "en græshoppe (fra dens snit)",
+    "de": "eine Heuschrecke (aus ihrem Schnitt)",
+    "el": "ακρίδα (από την κοπή της)",
+    "es": "una langosta (por su corte)",
+    "et": "jaanitsa (selle lõikamisest)",
+    "fi": "heinäsirkka (sen leikkaamisesta)",
+    "fr": "un criquet (de sa coupe)",
+    "hu": "sáska (a vágásból)",
+    "id": "seekor belalang (dari potongannya)",
+    "it": "una locusta (dal suo taglio)",
+    "ja": "バッタ切り",
+    "ko": "메뚜기(자른 것에서)",
+    "lt": "skėrys (nuo pjovimo)",
+    "lv": "siseņu (no tās griešanas)",
+    "nb": "en gresshoppe (fra skjæringen)",
+    "nl": "een sprinkhaan (van zijn stek)",
+    "pl": "szarańcza (od jej cięcia)",
+    "pt": "um gafanhoto (do seu corte)",
+    "ro": "o lăcustă (de la tăierea ei)",
+    "ru": "саранча (по ее срезанию)",
+    "sk": "kobylka (z jej rezu)",
+    "sl": "kobilica (po rezanju)",
+    "sv": "en gräshoppa (från dess skärning)",
+    "tr": "bir çekirge (kesilmesinden)",
+    "uk": "сарана (від її розрізання)",
+    "zh": "蚂蝗"
+  },
+  "hebrew": "גֵּב",
+  "verses": [
+    "isaiah 33:4:5"
+  ]
+}

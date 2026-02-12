@@ -1,0 +1,42 @@
+{
+  "number": "H4873",
+  "language": "hebrew",
+  "transliteration": "Môsheh",
+  "pronunciation": "mo-sheh'",
+  "definition": "{Mosheh, the Israelite lawgiver}",
+  "kjvTranslation": "Moses.",
+  "hebrew": "מֹשֶׁה",
+  "translations": {
+    "bg": "{Мошех, израелският законодател}",
+    "cs": "{Moše, izraelský zákonodárce}",
+    "da": "{Mosheh, den israelitiske lovgiver}",
+    "de": "{Mosche, der israelitische Gesetzgeber}",
+    "el": "{Μοσέχ, ο Ισραηλινός νομοθέτης}",
+    "es": "{Mosheh, el legislador israelita}",
+    "et": "{Mosheh, iisraellaste seaduseandja}",
+    "fi": "{Mosheh, israelilainen lainsäätäjä}",
+    "fr": "{Mosheh, le législateur israélite}",
+    "hu": "{Moséh, az izraelita törvényhozó}",
+    "id": "(Mosheh, pemberi hukum Israel)",
+    "it": "{Mosheh, il legislatore israelita.}",
+    "ja": "{モシェ、イスラエルの律法学者}。",
+    "ko": "{이스라엘의 율법가 모세}",
+    "lt": "{Mošė, izraelitų įstatymų leidėjas}",
+    "lv": "{Mošeja, izraēliešu likumdevējs}",
+    "nb": "{Mosjeh, den israelittiske lovgiveren}",
+    "nl": "{Mosheh, de Israëlitische wetgever}",
+    "pl": "(Mosze, izraelski prawodawca)",
+    "pt": "{Moisés, o legislador israelita}",
+    "ro": "{Mosheh, legiuitorul israelit}",
+    "ru": "{Моше, израильский законодатель}",
+    "sk": "{Mošé, izraelský zákonodarca}",
+    "sl": "{Moše, izraelski zakonodajalec}",
+    "sv": "{Mosheh, den israelitiska lagstiftaren}",
+    "tr": "{Moşe, İsrailli yasa koyucu}",
+    "uk": "{Моше, ізраїльський законодавець.}",
+    "zh": "{以色列律法制定者摩西｝"
+  },
+  "verses": [
+    "ezra 6:18:12"
+  ]
+}

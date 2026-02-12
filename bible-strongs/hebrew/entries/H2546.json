@@ -1,0 +1,42 @@
+{
+  "number": "H2546",
+  "language": "hebrew",
+  "transliteration": "chômeṭ",
+  "pronunciation": "kho'met",
+  "definition": "a lizard (as creeping)",
+  "kjvTranslation": "snail.",
+  "translations": {
+    "bg": "гущер (като пълзящ)",
+    "cs": "ještěrka (jako plížení)",
+    "da": "et firben (som kryber)",
+    "de": "eine Eidechse (als kriechend)",
+    "el": "μια σαύρα (όπως σέρνεται)",
+    "es": "un lagarto (como rastrero)",
+    "et": "sisalik (nagu roomav)",
+    "fi": "lisko (hiipivä)",
+    "fr": "un lézard (comme rampant)",
+    "hu": "gyík (mint kúszó)",
+    "id": "seekor kadal (seperti merayap)",
+    "it": "una lucertola (come strisciante)",
+    "ja": "蜥蜴",
+    "ko": "도마뱀(기어가는 모습)",
+    "lt": "driežas (šliaužiantis)",
+    "lv": "ķirzaka (kā rāpojoša)",
+    "nb": "en øgle (som kryper)",
+    "nl": "een hagedis (als kruipend)",
+    "pl": "jaszczurka (pełzająca)",
+    "pt": "um lagarto (como rastejante)",
+    "ro": "o șopârlă (ca târâtoare)",
+    "ru": "ящерица (как ползучая)",
+    "sk": "jašterica (ako sa plazí)",
+    "sl": "kuščar (plazeč se)",
+    "sv": "en ödla (som kryper)",
+    "tr": "bir kertenkele (sürünen olarak)",
+    "uk": "ящірка (як повзуча)",
+    "zh": "匍匐蜥蜴"
+  },
+  "hebrew": "חֹמֶט",
+  "verses": [
+    "leviticus 11:30:3"
+  ]
+}

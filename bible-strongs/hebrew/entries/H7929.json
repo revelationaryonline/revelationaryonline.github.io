@@ -1,0 +1,42 @@
+{
+  "number": "H7929",
+  "language": "hebrew",
+  "transliteration": "shikmâh",
+  "pronunciation": "shik-maw'",
+  "definition": "the shoulderbone",
+  "kjvTranslation": "shoulder blade.",
+  "hebrew": "שִׁכְמָה",
+  "translations": {
+    "bg": "раменната кост",
+    "cs": "ramenní kost",
+    "da": "skulderbenet",
+    "de": "das Schulterbein",
+    "el": "η ωμοπλάτη",
+    "es": "el omóplato",
+    "et": "õlavarre",
+    "fi": "olkaluu",
+    "fr": "l'épine dorsale",
+    "hu": "a vállcsont",
+    "id": "tulang belikat",
+    "it": "la spina dorsale",
+    "ja": "肩甲骨",
+    "ko": "어깨뼈",
+    "lt": "peties kaulas",
+    "lv": "pleca kauls",
+    "nb": "skulderbeinet",
+    "nl": "het schouderbeen",
+    "pl": "kość ramienna",
+    "pt": "o osso do ombro",
+    "ro": "omoplatul",
+    "ru": "плечевая кость",
+    "sk": "ramenná kosť",
+    "sl": "ramenska kost",
+    "sv": "axelbenet",
+    "tr": "kürek kemiği",
+    "uk": "плечова кістка",
+    "zh": "肩骨"
+  },
+  "verses": [
+    "job 31:22:1"
+  ]
+}

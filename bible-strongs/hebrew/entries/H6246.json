@@ -1,0 +1,42 @@
+{
+  "number": "H6246",
+  "language": "hebrew",
+  "transliteration": "ʻăshith",
+  "pronunciation": "ash-eeth'",
+  "definition": "to purpose",
+  "kjvTranslation": "think.",
+  "hebrew": "עֲשִׁת",
+  "translations": {
+    "bg": "за целта",
+    "cs": "k účelu",
+    "da": "til formålet",
+    "de": "zum Zweck",
+    "el": "στον σκοπό",
+    "es": "a propósito",
+    "et": "eesmärgile",
+    "fi": "tarkoitukseen",
+    "fr": "à des fins",
+    "hu": "a célra",
+    "id": "untuk tujuan",
+    "it": "allo scopo",
+    "ja": "目的に合わせて",
+    "ko": "목적",
+    "lt": "į tikslą",
+    "lv": "uz mērķi",
+    "nb": "til formålet",
+    "nl": "naar doel",
+    "pl": "do celu",
+    "pt": "para o objetivo",
+    "ro": "la scop",
+    "ru": "к цели",
+    "sk": "na účel",
+    "sl": "za namen",
+    "sv": "till syfte",
+    "tr": "amaç için",
+    "uk": "до мети",
+    "zh": "目的"
+  },
+  "verses": [
+    "daniel 6:4:15"
+  ]
+}

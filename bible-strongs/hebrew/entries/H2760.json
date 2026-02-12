@@ -1,0 +1,42 @@
+{
+  "number": "H2760",
+  "language": "hebrew",
+  "transliteration": "chârak",
+  "pronunciation": "khaw-rak'",
+  "definition": "to braid (i.e. to entangle or snare) or catch (game) in anet",
+  "kjvTranslation": "roast.",
+  "translations": {
+    "bg": "да се оплете (т.е. да се оплете или улови) или да се хване (дивеч) в мрежа",
+    "cs": "zaplést (tj. zamotat nebo chytit) nebo chytit (zvěř) do sítě",
+    "da": "at flette (dvs. at vikle eller fange) eller fange (vildt) i en anet",
+    "de": "einflechten (d.h. verschlingen oder fangen) oder (Wild) in einem Netz fangen",
+    "el": "να πλέκεις (δηλαδή να παγιδεύεις ή να παγιδεύεις) ή να πιάνεις (θηράματα) σε ένα δίχτυ",
+    "es": "trenzar (es decir, enredar o atrapar) o capturar (caza) en anet",
+    "et": "punuda (s.t. põimida või kinni püüda) või püüda (ulukit) anetiga",
+    "fi": "punoa (eli sotkea tai vangita) tai pyydystää (riistaa) anetilla",
+    "fr": "tresser (c'est-à-dire emmêler ou prendre au piège) ou attraper (le gibier) en anet",
+    "hu": "befonni (azaz behálózni vagy csapdába ejteni) vagy elkapni (vadat) egy hálóban",
+    "id": "menjerat (yaitu menjerat atau menjerat) atau menangkap (hewan buruan) dengan anet",
+    "it": "intrecciare (cioè impigliare o imprigionare) o catturare (selvaggina) in un anet",
+    "ja": "アネットで編む（＝絡める、罠にかける）、または（獲物を）捕まえる",
+    "ko": "묶다(즉, 얽히거나 올무에 걸리다) 또는 잡다(사냥하다)",
+    "lt": "supinti (t. y. supainioti arba įvilioti į spąstus) arba sugauti (medžiojamąjį gyvūną) į tinklą",
+    "lv": "sapīt (t.i., sapinīt vai noķert) vai noķert (medījamo dzīvnieku) anetē",
+    "nb": "å flette (dvs. å vikle inn eller snare) eller fange (vilt) i en anet",
+    "nl": "vlechten (d.w.z. verstrikken of strikken) of vangen (wild) in een net",
+    "pl": "zaplatać (tj. zaplątać lub złapać w sidła) lub łapać (zwierzynę) w sieć",
+    "pt": "entrançar (ou seja, enredar ou enlaçar) ou apanhar (caça) numa rede",
+    "ro": "a împleti (adică a încurca sau a prinde) sau a prinde (vânat) în anet",
+    "ru": "заплетать (т.е. запутывать или ловить) или ловить (дичь) в анет",
+    "sk": "spliesť (t. j. zamotať alebo chytiť) alebo chytiť (zver) do siete",
+    "sl": "spletati (tj. zapletati ali ujeti) ali loviti (divjad) v mrežo",
+    "sv": "att fläta (d.v.s. att trassla in eller snärja) eller fånga (vilt) i anet",
+    "tr": "örmek (yani dolamak veya tuzağa düşürmek) veya anet içinde yakalamak (oyun)",
+    "uk": "заплітати (тобто обплутувати або заманювати в пастку) або ловити (дичину) в мережі",
+    "zh": "辫子（即缠住或套住）或在网中捕捉（猎物）"
+  },
+  "hebrew": "חָרַךְ",
+  "verses": [
+    "proverbs 12:27:1"
+  ]
+}

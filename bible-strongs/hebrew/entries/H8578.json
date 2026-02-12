@@ -1,0 +1,42 @@
+{
+  "number": "H8578",
+  "language": "hebrew",
+  "transliteration": "tinyân",
+  "pronunciation": "tin-yawn'",
+  "definition": "second",
+  "kjvTranslation": "second.",
+  "hebrew": "תִּנְיָן",
+  "translations": {
+    "bg": "втори",
+    "cs": "druhý",
+    "da": "anden",
+    "de": "zweite",
+    "el": "δεύτερο",
+    "es": "segundo",
+    "et": "teine",
+    "fi": "toinen",
+    "fr": "deuxième",
+    "hu": "második",
+    "id": "kedua",
+    "it": "secondo",
+    "ja": "セカンド",
+    "ko": "second",
+    "lt": "antrasis",
+    "lv": "otrais",
+    "nb": "andre",
+    "nl": "tweede",
+    "pl": "drugi",
+    "pt": "segundo",
+    "ro": "al doilea",
+    "ru": "второй",
+    "sk": "druhý",
+    "sl": "drugi",
+    "sv": "andra",
+    "tr": "ikinci",
+    "uk": "другий",
+    "zh": "附议"
+  },
+  "verses": [
+    "daniel 7:5:3"
+  ]
+}

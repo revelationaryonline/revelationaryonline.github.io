@@ -1,0 +1,43 @@
+{
+  "number": "H6873",
+  "language": "hebrew",
+  "transliteration": "tsârach",
+  "pronunciation": "tsaw-rakh'",
+  "definition": "to be clear (in tone, i.e. shrill), i.e. to whoop",
+  "kjvTranslation": "cry, roar.",
+  "hebrew": "צָרַח",
+  "translations": {
+    "bg": "да бъде ясен (по тон, т.е. пронизителен), т.е. да вика",
+    "cs": "být zřetelný (v tónu, tj. pronikavý), tj. houkat",
+    "da": "at være tydelig (i tonen, dvs. skinger), dvs. at hyle",
+    "de": "deutlich (im Ton, d.h. schrill) zu sein, d.h. zu brüllen",
+    "el": "να είστε καθαρός (σε τόνο, δηλαδή τσιριχτός), δηλαδή να ουρλιάζετε",
+    "es": "ser claro (en el tono, es decir, estridente), es decir, chillar",
+    "et": "olla selge (toonilt, s.t. kriiskav), s.t. virisema",
+    "fi": "olla selkeä (äänensävyltään, ts. kirskahteleva), eli huudahtaa",
+    "fr": "être clair (dans le ton, c'est-à-dire strident), c'est-à-dire hurler",
+    "hu": "tisztán (hangszínben, azaz rikítóan), azaz üvölteni",
+    "id": "menjadi jelas (dalam nada, yaitu melengking), yaitu untuk berseru",
+    "it": "essere chiaro (nel tono, cioè stridente), cioè fare il verso a chi lo fa",
+    "ja": "をはっきりさせる、つまり大声を出す。",
+    "ko": "명확하게 (어조로, 즉 날카롭게), 즉 후프",
+    "lt": "būti aiškiu (tonu, t. y. skardžiu), t. y. šūkauti",
+    "lv": "būt skaidram (tonī, t.i., dzirkstošam), t.i., kliegt",
+    "nb": "å være tydelig (i tonen, dvs. skingrende), dvs. å hyle",
+    "nl": "om duidelijk te zijn (in toon, d.w.z. schel), d.w.z. te schreeuwen",
+    "pl": "być wyraźnym (w tonie, tj. przenikliwym), tj. krzyczeć",
+    "pt": "ser claro (em tom, ou seja, estridente), ou seja, gritar",
+    "ro": "a fi clar (în ton, adică strident), adică a urla",
+    "ru": "быть ясным (по тону, т.е. пронзительным), т.е. кричать",
+    "sk": "byť jasný (v tóne, t. j. prenikavý), t. j. hulákať",
+    "sl": "biti jasen (v tonu, tj. glasen), tj. vpiti",
+    "sv": "att vara tydlig (i tonen, dvs. skrikig), dvs. att jubla",
+    "tr": "açık olmak (ton olarak, yani tiz), yani bağırmak",
+    "uk": "бути чітким (за тоном, тобто пронизливим), тобто кричати",
+    "zh": "(音调，即尖锐)，即 \"呜咽\"(whoop)"
+  },
+  "verses": [
+    "isaiah 42:13:9",
+    "zephaniah 1:14:11"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H5332",
+  "language": "hebrew",
+  "transliteration": "Nêtsach",
+  "pronunciation": "nay'-tsakh",
+  "definition": "juice of the grape (as blood red)",
+  "kjvTranslation": "blood, strength.",
+  "hebrew": "נֵצַח",
+  "translations": {
+    "bg": "сок от грозде (като кървавочервен)",
+    "cs": "hroznová šťáva (jako krvavě červená)",
+    "da": "druesaft (som blodrød)",
+    "de": "saft der Weintraube (als Blutrot)",
+    "el": "χυμό σταφυλιού (ως κόκκινο του αίματος)",
+    "es": "zumo de uva (como rojo sangre)",
+    "et": "viinamarjamahl (veripuna)",
+    "fi": "viinirypälemehu (verenpunainen)",
+    "fr": "le jus de raisin (comme le rouge sang)",
+    "hu": "a szőlő leve (mint vérvörös)",
+    "id": "jus anggur (berwarna merah darah)",
+    "it": "succo d'uva (come rosso sangue)",
+    "ja": "ぶどうジュース",
+    "ko": "포도 주스(핏빛 붉은색)",
+    "lt": "vynuogių sultys (raudonos spalvos)",
+    "lv": "vīnogu sula (kā asins sarkanā krāsā)",
+    "nb": "druesaft (som blodrød)",
+    "nl": "sap van de druif (als bloedrood)",
+    "pl": "sok z winogron (jako krwistoczerwony)",
+    "pt": "sumo de uva (como vermelho sangue)",
+    "ro": "suc de struguri (roșu ca sângele)",
+    "ru": "сок винограда (как кроваво-красный)",
+    "sk": "hroznová šťava (ako krvavočervená)",
+    "sl": "grozdni sok (kot krvavo rdeča barva)",
+    "sv": "druvsaft (som blodröd)",
+    "tr": "üzüm suyu (kan kırmızısı olarak)",
+    "uk": "сік винограду (криваво-червоного кольору)",
+    "zh": "葡萄汁"
+  },
+  "verses": [
+    "isaiah 63:3:12",
+    "isaiah 63:6:7"
+  ]
+}

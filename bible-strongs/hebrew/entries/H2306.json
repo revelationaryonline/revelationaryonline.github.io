@@ -1,0 +1,42 @@
+{
+  "number": "H2306",
+  "language": "hebrew",
+  "transliteration": "chădîy",
+  "pronunciation": "khad-ee'",
+  "definition": "a breast",
+  "kjvTranslation": "breast.",
+  "translations": {
+    "bg": "гърда",
+    "cs": "prsa",
+    "da": "et bryst",
+    "de": "eine Brust",
+    "el": "ένα στήθος",
+    "es": "un pecho",
+    "et": "rind",
+    "fi": "rinta",
+    "fr": "un sein",
+    "hu": "egy mell",
+    "id": "payudara",
+    "it": "un seno",
+    "ja": "乳房",
+    "ko": "유방",
+    "lt": "krūtinė",
+    "lv": "krūts",
+    "nb": "et bryst",
+    "nl": "een borst",
+    "pl": "pierś",
+    "pt": "um peito",
+    "ro": "un sân",
+    "ru": "грудь",
+    "sk": "prsník",
+    "sl": "prsi",
+    "sv": "ett bröst",
+    "tr": "bir göğüs",
+    "uk": "груди",
+    "zh": "胸脯"
+  },
+  "hebrew": "חֲדִי",
+  "verses": [
+    "daniel 2:32:6"
+  ]
+}

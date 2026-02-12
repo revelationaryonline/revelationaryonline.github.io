@@ -1,0 +1,42 @@
+{
+  "number": "H4944",
+  "language": "hebrew",
+  "transliteration": "mashshâq",
+  "pronunciation": "mash-shawk'",
+  "definition": "a traversing, i.e. rapid motion",
+  "kjvTranslation": "running to and fro.",
+  "hebrew": "מַשָּׁק",
+  "translations": {
+    "bg": "обхождане, т.е. бързо движение",
+    "cs": "křižující, tj. rychlý pohyb",
+    "da": "en krydsende, dvs. hurtig bevægelse",
+    "de": "eine kreuzende, d.h. schnelle Bewegung",
+    "el": "μια τραβέρσα, δηλαδή μια γρήγορη κίνηση",
+    "es": "un movimiento transversal, es decir, rápido",
+    "et": "läbiv, s.t. kiire liikumine",
+    "fi": "traversoiva eli nopea liike",
+    "fr": "une traversée, c'est-à-dire un mouvement rapide",
+    "hu": "áthaladó, azaz gyors mozgás",
+    "id": "melintasi, yaitu gerakan cepat",
+    "it": "una traversata, cioè un movimento rapido",
+    "ja": "トラバース運動",
+    "ko": "횡단, 즉 빠른 움직임",
+    "lt": "greitas judėjimas, t. y. greitas judėjimas",
+    "lv": "šķērsošana, t. i., strauja kustība",
+    "nb": "en traverserende, dvs. rask bevegelse",
+    "nl": "een traverserende, d.w.z. snelle beweging",
+    "pl": "przemierzanie, tj. szybki ruch",
+    "pt": "um movimento transversal, ou seja, rápido",
+    "ro": "o traversare, adică o mișcare rapidă",
+    "ru": "прохождение, т.е. быстрое движение",
+    "sk": "kĺzavý, t. j. rýchly pohyb",
+    "sl": "prehodno, tj. hitro gibanje",
+    "sv": "en genomgång, dvs. en snabb rörelse",
+    "tr": "bir travers, yani hızlı hareket",
+    "uk": "траверсування, тобто швидкий рух",
+    "zh": "穿越，即快速运动"
+  },
+  "verses": [
+    "isaiah 33:4:4"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H3983",
+  "language": "hebrew",
+  "transliteration": "mêʼmar",
+  "pronunciation": "may-mar'",
+  "definition": "{something (authoritatively) said, i.e. an edict}",
+  "kjvTranslation": "appointment, word.",
+  "hebrew": "מֵאמַר",
+  "translations": {
+    "bg": "{нещо (авторитетно) казано, т.е. наредба}",
+    "cs": "{něco (autoritativně) řečeno, tj. nařízení}",
+    "da": "{noget (autoritativt) sagt, dvs. et påbud}",
+    "de": "{etwas (autoritativ) Gesagtes, d.h. ein Erlass}",
+    "el": "{κάτι που ειπώθηκε (έγκυρα), δηλαδή ένα διάταγμα}",
+    "es": "{algo (con autoridad) dicho, es decir, un edicto}",
+    "et": "{(midagi (autoriteetselt) öeldud, s.t. käskkiri}",
+    "fi": "{jotain (arvovaltaisesti) sanottua, ts. käsky}",
+    "fr": "{quelque chose dit (avec autorité), c'est-à-dire un décret}",
+    "hu": "{valamit (tekintélyesen) mondott, azaz egy rendeletet}",
+    "id": "{sesuatu yang dikatakan (secara otoritatif), misalnya dekrit}",
+    "it": "{qualcosa di (autorevolmente) detto, cioè un editto}",
+    "ja": "{何か（権威のある）言葉、すなわち命令}。",
+    "ko": "{(권위적으로) 말한 것, 즉 칙령}",
+    "lt": "{kas nors (autoritetingai) pasakyta, t. y. įsakymas}",
+    "lv": "{kas (autoritatīvi) pateikts, t.i., rīkojums}",
+    "nb": "{noe (autoritativt) sagt, dvs. et påbud}",
+    "nl": "{iets (gezaghebbends) gezegd, d.w.z. een edict}",
+    "pl": "{coś (autorytatywnie) powiedziane, tj. edykt}",
+    "pt": "{algo (com autoridade) dito, ou seja, um édito}",
+    "ro": "{ceva spus (cu autoritate), adică un edict}",
+    "ru": "{что-то (авторитетно) сказанное, т.е. указ}",
+    "sk": "{niečo (autoritatívne) povedané, t. j. nariadenie}",
+    "sl": "{nekaj (avtoritativno) rečeno, tj. ukaz}",
+    "sv": "{något (auktoritativt) sagt, t.ex. ett påbud}",
+    "tr": "{(yetkili olarak) söylenen bir şey, yani bir ferman}",
+    "uk": "{щось (авторитетно) сказане, тобто указ}",
+    "zh": "诏书"
+  },
+  "verses": [
+    "ezra 6:9:13",
+    "daniel 4:14:3"
+  ]
+}

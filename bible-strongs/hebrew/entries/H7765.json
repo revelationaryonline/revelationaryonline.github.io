@@ -1,0 +1,42 @@
+{
+  "number": "H7765",
+  "language": "hebrew",
+  "transliteration": "Shûwnîy",
+  "pronunciation": "shoo-nee'",
+  "definition": "a Shunite (collectively) or descendants of Shuni",
+  "kjvTranslation": "Shunites.",
+  "hebrew": "שׁוּנִי",
+  "translations": {
+    "bg": "шунит (колективно) или потомци на шуни",
+    "cs": "šunité (společně) nebo potomci Šunitů",
+    "da": "en shunit (kollektivt) eller efterkommere af Shuni",
+    "de": "ein Shunit (kollektiv) oder ein Nachkomme des Shuni",
+    "el": "ένας Shunite (συλλογικά) ή απόγονοι του Shuni",
+    "es": "un shunita (colectivamente) o descendientes de Shuni",
+    "et": "shunite (kollektiivselt) või Shuni järeltulijad",
+    "fi": "shunilaiset (kollektiivisesti) tai Shunin jälkeläiset",
+    "fr": "un Shunite (collectivement) ou des descendants de Shuni",
+    "hu": "shuniták (kollektíven) vagy Shuni leszármazottai",
+    "id": "seorang Shunite (secara kolektif) atau keturunan Shuni",
+    "it": "uno Shunita (collettivamente) o discendenti di Shuni",
+    "ja": "シュナイト（総称）またはシュニの子孫",
+    "ko": "슈나이트(총칭) 또는 슈니의 후손",
+    "lt": "šunitai (bendrai) arba šunių palikuonys",
+    "lv": "šūnīti (kopā) vai šūņu pēcteči",
+    "nb": "en shunitt (kollektivt) eller etterkommere av Shuni",
+    "nl": "een Shunite (collectief) of afstammelingen van Shuni",
+    "pl": "shunite (zbiorowo) lub potomkowie Shuni",
+    "pt": "um Shunite (coletivamente) ou descendentes de Shuni",
+    "ro": "un Shunite (colectiv) sau descendenți ai lui Shuni",
+    "ru": "шуниты (совместно) или потомки Шуни",
+    "sk": "šuniti (spoločne) alebo potomkovia Šuniovcov",
+    "sl": "šuniti (skupaj) ali potomci Šunitov",
+    "sv": "en Shunite (kollektivt) eller ättlingar till Shuni",
+    "tr": "bir Shunite (topluca) veya Shuni'nin soyundan gelenler",
+    "uk": "шунітом (спільно) або нащадками шунітів",
+    "zh": "舜人（集体）或舜的后裔"
+  },
+  "verses": [
+    "numbers 26:15:11"
+  ]
+}

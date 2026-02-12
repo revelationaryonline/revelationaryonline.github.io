@@ -1,0 +1,42 @@
+{
+  "number": "H1318",
+  "language": "hebrew",
+  "transliteration": "bâshaç",
+  "pronunciation": "baw-shas'",
+  "definition": "to trample down",
+  "kjvTranslation": "tread.",
+  "translations": {
+    "bg": "да се потъпче",
+    "cs": "pošlapat",
+    "da": "at trampe ned",
+    "de": "niedertrampeln",
+    "el": "να ποδοπατήσω",
+    "es": "pisotear",
+    "et": "tallata maha",
+    "fi": "talloa maahan",
+    "fr": "piétiner",
+    "hu": "eltaposni",
+    "id": "untuk menginjak-injak",
+    "it": "calpestare",
+    "ja": "踏みつける",
+    "ko": "짓밟다",
+    "lt": "sutrypti",
+    "lv": "sapostīt",
+    "nb": "å tråkke ned",
+    "nl": "vertrappen",
+    "pl": "deptać",
+    "pt": "espezinhar",
+    "ro": "a călca în picioare",
+    "ru": "растоптать",
+    "sk": "pošliapať",
+    "sl": "poteptati",
+    "sv": "att trampa ner",
+    "tr": "ezmek için",
+    "uk": "розтоптати",
+    "zh": "践踏"
+  },
+  "hebrew": "בָּשַׁס",
+  "verses": [
+    "amos 5:11:2"
+  ]
+}

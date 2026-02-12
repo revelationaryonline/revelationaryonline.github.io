@@ -1,0 +1,43 @@
+{
+  "number": "H4166",
+  "language": "hebrew",
+  "transliteration": "mûwtsâqâh",
+  "pronunciation": "moo-tsaw-kaw'",
+  "definition": "properly, something poured out, i.e. a casting (of metal); by implication, a tube (as cast)",
+  "kjvTranslation": "when it was cast, pipe.",
+  "hebrew": "מוּצָקָה",
+  "translations": {
+    "bg": "правилно, нещо излято, т.е. отливка (от метал); по подразбиране, тръба (като отливка)",
+    "cs": "správně něco vylitého, tj. odlitek (kovu); implicitně trubka (jako odlitek)",
+    "da": "korrekt, noget, der hældes ud, dvs. en støbning (af metal); underforstået, et rør (som støbt)",
+    "de": "richtig: etwas Ausgegossenes, d. h. ein Gussstück (aus Metall); implizit: ein Rohr (wie gegossen)",
+    "el": "σωστά, κάτι που χύνεται, δηλαδή ένα χυτό (από μέταλλο)- κατ' επέκταση, ένας σωλήνας (όπως χύνεται)",
+    "es": "propiamente, algo vertido, es decir, una fundición (de metal); implícitamente, un tubo (fundido)",
+    "et": "õigesti, midagi valatud, s.t. valatud (metallist); kaudselt, toru (nagu valatud)",
+    "fi": "oikein, jotakin valettua, ts. valettu (metalli); implisiittisesti, putki (valettuna)",
+    "fr": "proprement, quelque chose de coulé, c'est-à-dire une coulée (de métal) ; par implication, un tube (tel qu'il est coulé)",
+    "hu": "megfelelően, valami kiöntött, azaz öntvény (fémből); értelemszerűen, cső (mint öntött)",
+    "id": "secara tepat, sesuatu yang dicurahkan, yaitu tuangan (logam); dengan implikasi, sebuah tabung (seperti tuangan)",
+    "it": "propriamente, qualcosa di colato, cioè una colata (di metallo); per implicazione, un tubo (come colato)",
+    "ja": "正しくは、注いだもの、すなわち（金属の）鋳物；暗に、（鋳造された）管",
+    "ko": "적절하게, 무언가 쏟아진 것, 즉 (금속의) 주물; 암시 적으로, 튜브 (주물)",
+    "lt": "tinkamai - išlietas daiktas, t. y. liejinys (iš metalo); netiesiogiai - vamzdis (išlietas)",
+    "lv": "pareizi, kaut kas izliets, t.i., liets (no metāla); netieši - caurule (kā liets)",
+    "nb": "egentlig, noe som helles ut, dvs. en støpning (av metall); underforstått, et rør (som støpt)",
+    "nl": "goed, iets dat uitgegoten wordt, d.w.z. een gietstuk (van metaal); impliciet, een buis (als gegoten)",
+    "pl": "prawidłowo, coś wylanego, tj. odlew (metalu); w domyśle, rura (jako odlew)",
+    "pt": "propriamente dito, algo derramado, ou seja, uma fundição (de metal); por implicação, um tubo (como fundido)",
+    "ro": "propriu-zis, ceva turnat, adică o piesă turnată (din metal); implicit, un tub (turnat)",
+    "ru": "правильно, что-то вылитое, т.е. отливка (металла); по смыслу, труба (как отливка)",
+    "sk": "správne, niečo vyliate, t. j. odliatok (kovu); implicitne, rúra (ako odliatok)",
+    "sl": "pravilno, nekaj izlitega, tj. odlitek (kovine); implicitno, cev (kot odlitek)",
+    "sv": "i egentlig mening, något som hälls ut, t.ex. en gjutning (av metall); underförstått, ett rör (som gjuts)",
+    "tr": "uygun şekilde, dökülen bir şey, yani bir döküm (metal); ima yoluyla, bir tüp (döküm olarak)",
+    "uk": "власне, щось вилите, тобто виливок (з металу); за підтекстом - труба (як виливок)",
+    "zh": "正确地说，是浇铸出来的东西，即铸件（金属）；言下之意，是管子（作为铸件）"
+  },
+  "verses": [
+    "secondChronicles 4:3:18",
+    "zechariah 4:2:20"
+  ]
+}

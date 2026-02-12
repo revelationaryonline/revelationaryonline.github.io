@@ -1,0 +1,42 @@
+{
+  "number": "H2541",
+  "language": "hebrew",
+  "transliteration": "châmôwts",
+  "pronunciation": "khaw-motse'",
+  "definition": "properly, violent; by implication, a robber",
+  "kjvTranslation": "oppressed.",
+  "translations": {
+    "bg": "правилно, насилствен; по подразбиране - грабител",
+    "cs": "správně, násilný; implicitně, lupič",
+    "da": "korrekt, voldelig; underforstået, en røver",
+    "de": "richtig, gewalttätig; implizit, ein Räuber",
+    "el": "σωστά, βίαιος- με την έννοια, ληστής",
+    "es": "propiamente, violento; por implicación, un ladrón",
+    "et": "õigesti, vägivaldne; kaudselt röövlile",
+    "fi": "oikein, väkivaltainen; implisiittisesti, ryöstäjä",
+    "fr": "proprement dit, violent ; par implication, un voleur",
+    "hu": "megfelelően, erőszakos; értelemszerűen rabló",
+    "id": "benar, kekerasan; dengan implikasi, perampok",
+    "it": "propriamente, violento; per implicazione, un rapinatore",
+    "ja": "正しくは乱暴者、暗に強盗犯",
+    "ko": "적절하게, 폭력적; 암시적으로, 강도",
+    "lt": "tinkamai, smurtinis; netiesiogiai - plėšikas",
+    "lv": "pareizi - vardarbīgs; netieši - laupītājs",
+    "nb": "egentlig, voldelig; underforstått, en røver",
+    "nl": "naar behoren, gewelddadig; impliciet, een rover",
+    "pl": "właściwie, gwałtowny; w domyśle, rabuś",
+    "pt": "propriamente dito, violento; por implicação, um ladrão",
+    "ro": "propriu-zis, violent; implicit, un tâlhar",
+    "ru": "правильно, жестокий; по косвенным признакам - грабитель",
+    "sk": "správne, násilný; implicitne, lupič",
+    "sl": "pravilno, nasilen; implicitno, ropar",
+    "sv": "i egentlig mening, våldsam; underförstått, en rånare",
+    "tr": "uygun şekilde, şiddet yanlısı; ima yoluyla, bir soyguncu",
+    "uk": "власне, насильницький; за змістом - грабіжник",
+    "zh": "强盗"
+  },
+  "hebrew": "חָמוֹץ",
+  "verses": [
+    "isaiah 1:17:5"
+  ]
+}

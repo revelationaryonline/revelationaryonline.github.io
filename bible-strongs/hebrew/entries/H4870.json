@@ -1,0 +1,42 @@
+{
+  "number": "H4870",
+  "language": "hebrew",
+  "transliteration": "mishgeh",
+  "pronunciation": "mish-gay'",
+  "definition": "an error",
+  "kjvTranslation": "oversight.",
+  "hebrew": "מִשְׁגֶּה",
+  "translations": {
+    "bg": "грешка",
+    "cs": "chyba",
+    "da": "en fejl",
+    "de": "ein Fehler",
+    "el": "ένα σφάλμα",
+    "es": "un error",
+    "et": "viga",
+    "fi": "virhe",
+    "fr": "une erreur",
+    "hu": "hiba",
+    "id": "kesalahan",
+    "it": "un errore",
+    "ja": "エラー",
+    "ko": "오류",
+    "lt": "klaida",
+    "lv": "kļūda",
+    "nb": "en feil",
+    "nl": "een fout",
+    "pl": "błąd",
+    "pt": "um erro",
+    "ro": "o eroare",
+    "ru": "ошибка",
+    "sk": "chyba",
+    "sl": "napaka",
+    "sv": "ett fel",
+    "tr": "bir hata",
+    "uk": "помилка",
+    "zh": "错误"
+  },
+  "verses": [
+    "genesis 43:12:12"
+  ]
+}

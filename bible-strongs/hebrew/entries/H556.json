@@ -1,0 +1,42 @@
+{
+  "number": "H556",
+  "language": "hebrew",
+  "transliteration": "ʼamtsâh",
+  "pronunciation": "am-tsaw'",
+  "definition": "force",
+  "kjvTranslation": "strength.",
+  "translations": {
+    "bg": "сила",
+    "cs": "force",
+    "da": "kraft",
+    "de": "kraft",
+    "el": "δύναμη",
+    "es": "fuerza",
+    "et": "force",
+    "fi": "voima",
+    "fr": "force",
+    "hu": "erő",
+    "id": "kekuatan",
+    "it": "forza",
+    "ja": "力",
+    "ko": "force",
+    "lt": "jėga",
+    "lv": "spēks",
+    "nb": "kraft",
+    "nl": "kracht",
+    "pl": "siła",
+    "pt": "força",
+    "ro": "forță",
+    "ru": "сила",
+    "sk": "sila",
+    "sl": "sila",
+    "sv": "kraft",
+    "tr": "kuvvet",
+    "uk": "сила",
+    "zh": "强逼"
+  },
+  "hebrew": "אַמְצָה",
+  "verses": [
+    "zechariah 12:5:4"
+  ]
+}

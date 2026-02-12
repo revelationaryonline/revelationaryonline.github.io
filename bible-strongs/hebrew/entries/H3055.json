@@ -1,0 +1,42 @@
+{
+  "number": "H3055",
+  "language": "hebrew",
+  "transliteration": "Yᵉhud",
+  "pronunciation": "yeh-hood'",
+  "definition": "Jehud, a place in Palestine",
+  "kjvTranslation": "Jehud.",
+  "translations": {
+    "bg": "Йехуд, място в Палестина",
+    "cs": "Jehud, místo v Palestině",
+    "da": "Jehud, et sted i Palæstina",
+    "de": "Jehud, ein Ort in Palästina",
+    "el": "Jehud, ένας τόπος στην Παλαιστίνη",
+    "es": "Jehud, un lugar de Palestina",
+    "et": "Jehud, koht Palestiinas",
+    "fi": "Jehud, paikka Palestiinassa",
+    "fr": "Jehud, localité de Palestine",
+    "hu": "Jehud, egy hely Palesztinában",
+    "id": "Yehud, sebuah tempat di Palestina",
+    "it": "Jehud, località della Palestina",
+    "ja": "エフド、パレスチナの地名",
+    "ko": "팔레스타인의 한 장소, 예후드",
+    "lt": "Jehudas, vietovė Palestinoje",
+    "lv": "Jehuda, vieta Palestīnā",
+    "nb": "Jehud, et sted i Palestina",
+    "nl": "Jehud, een plaats in Palestina",
+    "pl": "Jehud, miejscowość w Palestynie",
+    "pt": "Jehud, um lugar na Palestina",
+    "ro": "Jehud, un loc în Palestina",
+    "ru": "Иегуд, место в Палестине",
+    "sk": "Jehud, miesto v Palestíne",
+    "sl": "Jehud, kraj v Palestini",
+    "sv": "Jehud, en plats i Palestina",
+    "tr": "Yehud, Filistin'de bir yer",
+    "uk": "Єгуд, місце в Палестині",
+    "zh": "杰胡德"
+  },
+  "hebrew": "יְהֻד",
+  "verses": [
+    "joshua 19:45:0"
+  ]
+}

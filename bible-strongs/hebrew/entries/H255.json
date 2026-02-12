@@ -1,0 +1,42 @@
+{
+  "number": "H255",
+  "language": "hebrew",
+  "transliteration": "ʼôach",
+  "pronunciation": "o'-akh",
+  "definition": "a howler or lonesome wild animal",
+  "kjvTranslation": "doleful creature.",
+  "translations": {
+    "bg": "викащо или самотно диво животно",
+    "cs": "vyjící nebo osamělé divoké zvíře",
+    "da": "et hylende eller ensomt vildt dyr",
+    "de": "ein heulendes oder einsames Wildtier",
+    "el": "ένα ουρλιαχτό ή μοναχικό άγριο ζώο",
+    "es": "un aullador o animal salvaje solitario",
+    "et": "uluk või üksildane metsloom",
+    "fi": "ulvoja tai yksinäinen villieläin",
+    "fr": "un animal sauvage hurlant ou solitaire",
+    "hu": "üvöltő vagy magányos vadállat",
+    "id": "binatang buas yang melolong atau binatang buas yang kesepian",
+    "it": "un animale selvatico ululante o solitario",
+    "ja": "さみしい野生動物の遠吠え",
+    "ko": "울부짖거나 외로운 야생 동물",
+    "lt": "vytis arba vienišas laukinis gyvūnas",
+    "lv": "gailis vai vientuļš savvaļas dzīvnieks",
+    "nb": "et hylende eller ensomt villdyr",
+    "nl": "een brulaap of een eenzaam wild dier",
+    "pl": "wyjec lub samotne dzikie zwierzę",
+    "pt": "um uivador ou um animal selvagem solitário",
+    "ro": "un animal sălbatic urlător sau singuratic",
+    "ru": "ревун или одинокое дикое животное",
+    "sk": "výr alebo osamelé divé zviera",
+    "sl": "klicajoča ali osamljena divja žival",
+    "sv": "ett ylande eller ensamt vilt djur",
+    "tr": "uluyan ya da yalnız bir vahşi hayvan",
+    "uk": "ревун або самотня дика тварина",
+    "zh": "鸮"
+  },
+  "hebrew": "אֹחַ",
+  "verses": [
+    "isaiah 13:21:5"
+  ]
+}

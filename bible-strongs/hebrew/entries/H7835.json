@@ -1,0 +1,42 @@
+{
+  "number": "H7835",
+  "language": "hebrew",
+  "transliteration": "shâchar",
+  "pronunciation": "shaw-khar'",
+  "definition": "to be dim or dark (in color)",
+  "kjvTranslation": "be black.",
+  "hebrew": "שָׁחַר",
+  "translations": {
+    "bg": "да е тъмен или мрачен (на цвят)",
+    "cs": "být tlumený nebo tmavý (barevně)",
+    "da": "at være svag eller mørk (i farven)",
+    "de": "trüb oder dunkel (in der Farbe) sein",
+    "el": "να είναι αμυδρό ή σκοτεινό (στο χρώμα)",
+    "es": "ser tenue u oscuro (en color)",
+    "et": "olla hämar või tume (värvilt)",
+    "fi": "olla hämärä tai tumma (väriltään)",
+    "fr": "être faible ou sombre (en couleur)",
+    "hu": "halvány vagy sötét (színű)",
+    "id": "menjadi redup atau gelap (berwarna)",
+    "it": "essere fioco o scuro (di colore)",
+    "ja": "薄暗い",
+    "ko": "희미하거나 어둡게(색상)",
+    "lt": "būti neryškios arba tamsios spalvos",
+    "lv": "būt blāvs vai tumšs (krāsā)",
+    "nb": "å være svak eller mørk (i fargen)",
+    "nl": "schemerig of donker zijn (van kleur)",
+    "pl": "być niewyraźnym lub ciemnym (w kolorze)",
+    "pt": "ser pouco intenso ou escuro (na cor)",
+    "ro": "a fi slab sau întunecat (în culoare)",
+    "ru": "быть тусклым или темным (по цвету)",
+    "sk": "byť matný alebo tmavý (vo farbe)",
+    "sl": "biti temen ali temen (po barvi)",
+    "sv": "att vara dunkel eller mörk (i färg)",
+    "tr": "loş veya karanlık olmak (renk olarak)",
+    "uk": "бути тьмяним або темним (за кольором)",
+    "zh": "暧"
+  },
+  "verses": [
+    "job 30:30:1"
+  ]
+}

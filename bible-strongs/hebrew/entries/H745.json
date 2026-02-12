@@ -1,0 +1,42 @@
+{
+  "number": "H745",
+  "language": "hebrew",
+  "transliteration": "ʼAryêh",
+  "pronunciation": "ar-yay'",
+  "definition": "Arjeh, an Israelite",
+  "kjvTranslation": "Arieh.",
+  "translations": {
+    "bg": "Архей, израилтянин",
+    "cs": "Arjeh, Izraelita",
+    "da": "Arjeh, en israelit",
+    "de": "Arjeh, ein Israelit",
+    "el": "Arjeh, ένας Ισραηλίτης",
+    "es": "Arjeh, israelita",
+    "et": "Arjeh, iisraellane",
+    "fi": "Arjeh, israelilainen",
+    "fr": "Arjeh, Israélite",
+    "hu": "Arjeh, egy izraelita",
+    "id": "Arjeh, seorang Israel",
+    "it": "Arjeh, un israelita",
+    "ja": "イスラエル人アルジェ",
+    "ko": "이스라엘인 아르예",
+    "lt": "Arjė, izraelitas",
+    "lv": "Arjeh, izraēlietis",
+    "nb": "Arjeh, en israelitt",
+    "nl": "Arjeh, een Israëliet",
+    "pl": "Arjeh, Izraelita",
+    "pt": "Arjeh, israelita",
+    "ro": "Arjeh, un israelit",
+    "ru": "Арджех, израильтянин",
+    "sk": "Arjeh, Izraelita",
+    "sl": "Arjeh, Izraelec",
+    "sv": "Arjeh, en israelit",
+    "tr": "Arjeh, bir İsrailli",
+    "uk": "Ар'є, ізраїльтянин",
+    "zh": "亚吉，以色列人"
+  },
+  "hebrew": "אַרְיֵה",
+  "verses": [
+    "secondKings 15:25:15"
+  ]
+}

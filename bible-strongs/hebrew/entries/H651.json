@@ -1,0 +1,42 @@
+{
+  "number": "H651",
+  "language": "hebrew",
+  "transliteration": "ʼâphêl",
+  "pronunciation": "aw-fale'",
+  "definition": "dusky",
+  "kjvTranslation": "very dark.",
+  "translations": {
+    "bg": "сумрачен",
+    "cs": "soumračný",
+    "da": "mørk",
+    "de": "düster",
+    "el": "dusky",
+    "es": "oscuro",
+    "et": "dusky",
+    "fi": "dusky",
+    "fr": "sombre",
+    "hu": "dusky",
+    "id": "dusky",
+    "it": "crepuscolare",
+    "ja": "小暗い",
+    "ko": "dusky",
+    "lt": "sutemus",
+    "lv": "tumšs",
+    "nb": "mørk",
+    "nl": "schemerig",
+    "pl": "mroczny",
+    "pt": "sombrio",
+    "ro": "întunecat",
+    "ru": "сумрачный",
+    "sk": "súmračný",
+    "sl": "somračni",
+    "sv": "skuggig",
+    "tr": "dusky",
+    "uk": "сутінки",
+    "zh": "灰蒙蒙"
+  },
+  "hebrew": "אָפֵל",
+  "verses": [
+    "amos 5:20:6"
+  ]
+}

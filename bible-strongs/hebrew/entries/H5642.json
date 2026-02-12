@@ -1,0 +1,43 @@
+{
+  "number": "H5642",
+  "language": "hebrew",
+  "transliteration": "çᵉthar",
+  "pronunciation": "seth-ar'",
+  "definition": "to conceal; figuratively, to demolish",
+  "kjvTranslation": "destroy, secret thing.",
+  "hebrew": "סְתַר",
+  "translations": {
+    "bg": "да се скрие; в преносен смисъл - да се разруши",
+    "cs": "skrývat; přeneseně bourat",
+    "da": "at skjule; i overført betydning at nedbryde",
+    "de": "zu verbergen; im übertragenen Sinne zu zerstören",
+    "el": "να αποκρύπτω- μεταφορικά, να κατεδαφίζω",
+    "es": "ocultar; en sentido figurado, demoler",
+    "et": "varjata; piltlikult öeldes, lammutada",
+    "fi": "kätkeä; kuvaannollisesti: purkaa",
+    "fr": "cacher ; au sens figuré, démolir",
+    "hu": "elrejteni; átvitt értelemben: lerombolni",
+    "id": "menyembunyikan; secara kiasan, menghancurkan",
+    "it": "nascondere; in senso figurato, demolire",
+    "ja": "隠す；比喩的に、取り壊す",
+    "ko": "은폐하다; 비유적으로, 철거하다",
+    "lt": "slėpti; perkeltine prasme - griauti",
+    "lv": "noslēpt; pārnestā nozīmē - nojaukt",
+    "nb": "å skjule; i overført betydning, å rive ned",
+    "nl": "verbergen; figuurlijk, slopen",
+    "pl": "ukrywać; w przenośni, burzyć",
+    "pt": "esconder; figurativamente, demolir",
+    "ro": "a ascunde; la figurat, a demola",
+    "ru": "скрывать; фигурально выражаясь, разрушать",
+    "sk": "zakryť; v prenesenom význame zbúrať",
+    "sl": "prikriti; v prenesenem pomenu, porušiti",
+    "sv": "att dölja; bildligt talat, att riva",
+    "tr": "gizlemek; mecazi olarak, yıkmak",
+    "uk": "приховувати; образно - зносити",
+    "zh": "隐藏；比喻拆除"
+  },
+  "verses": [
+    "ezra 5:12:17",
+    "daniel 2:22:3"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H4876",
+  "language": "hebrew",
+  "transliteration": "mashshûwʼâh",
+  "pronunciation": "mash-shoo-aw'",
+  "definition": "ruin",
+  "kjvTranslation": "desolation, destruction.",
+  "hebrew": "מַשּׁוּאָה",
+  "translations": {
+    "bg": "разруха",
+    "cs": "zničit",
+    "da": "ødelægge",
+    "de": "ruinieren",
+    "el": "καταστροφή",
+    "es": "ruina",
+    "et": "hävitada",
+    "fi": "tuhota",
+    "fr": "ruine",
+    "hu": "tönkretenni",
+    "id": "kehancuran",
+    "it": "rovina",
+    "ja": "破滅",
+    "ko": "ruin",
+    "lt": "griuvėsiai",
+    "lv": "pazudināt",
+    "nb": "ødeleggelse",
+    "nl": "ruïne",
+    "pl": "ruina",
+    "pt": "ruína",
+    "ro": "ruină",
+    "ru": "руины",
+    "sk": "zničiť",
+    "sl": "ruševine",
+    "sv": "ruin",
+    "tr": "harabe",
+    "uk": "руїна",
+    "zh": "废墟"
+  },
+  "verses": [
+    "psalms 73:18:5",
+    "psalms 74:3:2"
+  ]
+}

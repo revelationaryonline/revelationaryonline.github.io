@@ -1,0 +1,42 @@
+{
+  "number": "H7949",
+  "language": "hebrew",
+  "transliteration": "shâlag",
+  "pronunciation": "shaw-lag'",
+  "definition": "to be snow-white (with the linen clothing of the slain)",
+  "kjvTranslation": "be as snow.",
+  "hebrew": "שָׁלַג",
+  "translations": {
+    "bg": "да бъде снежнобял (с ленените дрехи на убитите)",
+    "cs": "aby byl sněhobílý (s plátěným oděvem zabitých)",
+    "da": "at være snehvid (med de dræbtes linnedklæder)",
+    "de": "schneeweiß zu sein (mit dem Leinenkleid der Erschlagenen)",
+    "el": "να είναι χιονόλευκοι (με τα λινά ενδύματα των σφαγιασθέντων)",
+    "es": "para ser blanca como la nieve (con la ropa de lino de los muertos)",
+    "et": "olla lumivalge (linaline riietus tapetud)",
+    "fi": "olla lumivalkoinen (teurastettujen pellavavaatteissa)",
+    "fr": "être blanc comme neige (avec les vêtements de lin des morts)",
+    "hu": "hófehér legyen (a megöltek vászonruhájával)",
+    "id": "menjadi seputih salju (dengan pakaian linen orang yang terbunuh)",
+    "it": "essere bianchi come la neve (con le vesti di lino degli uccisi)",
+    "ja": "雪のように白くなる（殺された者の亜麻布の服で）",
+    "ko": "순백색(살해된 자의 린넨 옷으로)",
+    "lt": "būti sniego baltumo (su nužudytųjų lininiais drabužiais)",
+    "lv": "lai būtu sniegbalts (ar linu apģērbu no nogalinātajiem)",
+    "nb": "å være snøhvit (med de dreptes linklær)",
+    "nl": "om sneeuwwit te zijn (met de linnen kleding van de gedode)",
+    "pl": "być śnieżnobiałym (z lnianym ubraniem zabitego)",
+    "pt": "ser branco como a neve (com as vestes de linho dos mortos)",
+    "ro": "să fie alb ca zăpada (cu hainele de in ale celor uciși)",
+    "ru": "быть белоснежным (в льняных одеждах убитых)",
+    "sk": "aby boli snehobiele (s plátenným odevom zabitých)",
+    "sl": "da bi bili snežno beli (s platneno obleko ubitih)",
+    "sv": "att vara snövit (med de dödas linnekläder)",
+    "tr": "(öldürülenlerin keten giysileriyle) bembeyaz olmak",
+    "uk": "бути білосніжним (з лляним одягом убитого)",
+    "zh": "雪白（与被杀者的亚麻衣物同色）"
+  },
+  "verses": [
+    "psalms 68:15:4"
+  ]
+}

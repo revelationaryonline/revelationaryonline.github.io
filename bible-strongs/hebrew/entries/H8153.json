@@ -1,0 +1,42 @@
+{
+  "number": "H8153",
+  "language": "hebrew",
+  "transliteration": "shᵉnâth",
+  "pronunciation": "shen-awth'",
+  "definition": "sleep",
+  "kjvTranslation": "sleep.",
+  "hebrew": "שְׁנָת",
+  "translations": {
+    "bg": "сън",
+    "cs": "spánek",
+    "da": "sove",
+    "de": "schlafen",
+    "el": "ύπνος",
+    "es": "dormir",
+    "et": "magada",
+    "fi": "nukkua",
+    "fr": "dormir",
+    "hu": "alvás",
+    "id": "tidur",
+    "it": "dormire",
+    "ja": "睡眠",
+    "ko": "수면",
+    "lt": "miegoti",
+    "lv": "gulēt",
+    "nb": "sove",
+    "nl": "slaap",
+    "pl": "sen",
+    "pt": "dormir",
+    "ro": "somn",
+    "ru": "спать",
+    "sk": "spánok",
+    "sl": "spanje",
+    "sv": "sova",
+    "tr": "uyku",
+    "uk": "сон",
+    "zh": "睡眠"
+  },
+  "verses": [
+    "psalms 132:4:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H4858",
+  "language": "hebrew",
+  "transliteration": "massâʼâh",
+  "pronunciation": "mas-saw-aw'",
+  "definition": "a conflagration (from the rising of smoke)",
+  "kjvTranslation": "burden.",
+  "hebrew": "מַשָּׂאָה",
+  "translations": {
+    "bg": "пожар (от издигането на дим)",
+    "cs": "požár (od stoupajícího kouře)",
+    "da": "en brand (fra røgudviklingen)",
+    "de": "eine Feuersbrunst (durch aufsteigenden Rauch)",
+    "el": "πυρκαγιά (από την ανάδυση καπνού)",
+    "es": "una conflagración (por la salida de humo)",
+    "et": "tulekahju (suitsu tekkimisest)",
+    "fi": "tulipalo (savun noususta)",
+    "fr": "une conflagration (de la fumée qui s'élève)",
+    "hu": "tűzvész (a felszálló füsttől)",
+    "id": "kobaran api (dari munculnya asap)",
+    "it": "una conflagrazione (dall'innalzamento del fumo)",
+    "ja": "ふんか",
+    "ko": "화재(연기가 피어오르는 것)",
+    "lt": "gaisras (dėl kylančių dūmų)",
+    "lv": "ugunsgrēks (no dūmu pacelšanās)",
+    "nb": "en brann (fra røykutvikling)",
+    "nl": "een vuurzee (van opstijgende rook)",
+    "pl": "pożoga (od unoszącego się dymu)",
+    "pt": "uma conflagração (pelo fumo que se levanta)",
+    "ro": "o conflagrație (de la ieșirea fumului)",
+    "ru": "пожар (от поднимающегося дыма)",
+    "sk": "požiar (od stúpajúceho dymu)",
+    "sl": "požar (zaradi dviga dima)",
+    "sv": "en eldsvåda (från uppstigande av rök)",
+    "tr": "bir yangın (dumanın yükselmesinden)",
+    "uk": "пожежа (від підйому диму)",
+    "zh": "烽火连天"
+  },
+  "verses": [
+    "isaiah 30:27:8"
+  ]
+}

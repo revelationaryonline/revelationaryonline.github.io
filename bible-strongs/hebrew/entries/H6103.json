@@ -1,0 +1,43 @@
+{
+  "number": "H6103",
+  "language": "hebrew",
+  "transliteration": "ʻatslâh",
+  "pronunciation": "ats-law'",
+  "definition": "(as abstractly) indolence",
+  "kjvTranslation": "slothfulness.",
+  "hebrew": "עַצְלָה",
+  "translations": {
+    "bg": "(абстрактно) леност",
+    "cs": "(abstraktně) indolence",
+    "da": "(som abstrakt) sløvhed",
+    "de": "(wie abstrakt) Trägheit",
+    "el": "(αφηρημένα) νωθρότητα",
+    "es": "(en abstracto) indolencia",
+    "et": "(nagu abstraktselt) laiskus",
+    "fi": "(abstraktisti) velttous",
+    "fr": "(comme abstraitement) indolence",
+    "hu": "(absztrakt módon) tétlenség",
+    "id": "(secara abstrak) kemalasan",
+    "it": "(come astrattamente) indolenza",
+    "ja": "(怠け癖",
+    "ko": "(추상적으로) 나태함",
+    "lt": "(abstrakčiai) nevalyvumas",
+    "lv": "(abstrakti) indolence",
+    "nb": "(som abstrakt) sløvhet",
+    "nl": "(als abstract) indolentie",
+    "pl": "(jak abstrakcyjnie) indolencja",
+    "pt": "(de forma abstrata) indolência",
+    "ro": "(ca în mod abstract) indolență",
+    "ru": "(абстрактно) праздность",
+    "sk": "(abstraktne) indolencia",
+    "sl": "(abstraktno) indolentnost",
+    "sv": "(som abstrakt) slöhet",
+    "tr": "(soyut olarak) tembellik",
+    "uk": "(так само абстрактно) лінощі",
+    "zh": "慵懒"
+  },
+  "verses": [
+    "proverbs 19:15:0",
+    "ecclesiastes 10:18:0"
+  ]
+}

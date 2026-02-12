@@ -1,0 +1,42 @@
+{
+  "number": "H532",
+  "language": "hebrew",
+  "transliteration": "ʼÂmîy",
+  "pronunciation": "aw-mee'",
+  "definition": "Ami, an Israelite",
+  "kjvTranslation": "Ami.",
+  "translations": {
+    "bg": "Ами, израилтянин",
+    "cs": "Ami, Izraelita",
+    "da": "Ami, en israelit",
+    "de": "Ami, ein Israelit",
+    "el": "Ami, ένας Ισραηλίτης",
+    "es": "Ami, israelita",
+    "et": "Ami, iisraellane",
+    "fi": "Ami, israelilainen",
+    "fr": "Ami, Israélite",
+    "hu": "Ami, egy izraelita",
+    "id": "Ami, seorang Israel",
+    "it": "Ami, un israelita",
+    "ja": "イスラエル人アミ",
+    "ko": "이스라엘인 아미",
+    "lt": "Ami, izraelitas",
+    "lv": "Ami, izraēlietis",
+    "nb": "Ami, en israelitt",
+    "nl": "Ami, een Israëliet",
+    "pl": "Ami, Izraelita",
+    "pt": "Ami, um israelita",
+    "ro": "Ami, un israelit",
+    "ru": "Ами, израильтянин",
+    "sk": "Ami, Izraelita",
+    "sl": "Ami, Izraelec",
+    "sv": "Ami, en israelit",
+    "tr": "Ami, bir İsrailli",
+    "uk": "Амі, ізраїльтянин",
+    "zh": "以色列人阿米"
+  },
+  "hebrew": "אָמִי",
+  "verses": [
+    "ezra 2:57:8"
+  ]
+}

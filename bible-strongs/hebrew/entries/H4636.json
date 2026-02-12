@@ -1,0 +1,42 @@
+{
+  "number": "H4636",
+  "language": "hebrew",
+  "transliteration": "maʻărôm",
+  "pronunciation": "mah-ar-ome'",
+  "definition": "bare",
+  "kjvTranslation": "naked.",
+  "hebrew": "מַעֲרֹם",
+  "verses": [
+    "secondChronicles 28:15:8"
+  ],
+  "translations": {
+    "bg": "гол",
+    "cs": "holý",
+    "da": "bar",
+    "de": "nackt",
+    "el": "γυμνό",
+    "es": "desnudo",
+    "et": "paljas",
+    "fi": "paljaat",
+    "fr": "nu",
+    "hu": "csupasz",
+    "id": "telanjang",
+    "it": "nudo",
+    "ja": "裸",
+    "ko": "베어",
+    "lt": "plikas",
+    "lv": "tukša",
+    "nb": "nakne",
+    "nl": "kaal",
+    "pl": "nagi",
+    "pt": "nu",
+    "ro": "gol",
+    "ru": "голый",
+    "sk": "holý",
+    "sl": "goli",
+    "sv": "nakna",
+    "tr": "çıplak",
+    "uk": "голий",
+    "zh": "光秃秃的"
+  }
+}

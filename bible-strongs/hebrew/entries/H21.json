@@ -1,0 +1,42 @@
+{
+  "number": "H21",
+  "language": "hebrew",
+  "transliteration": "ʼĂbîy",
+  "pronunciation": "ab-ee'",
+  "definition": "Abi, Hezekiah's mother",
+  "kjvTranslation": "Abi.",
+  "translations": {
+    "bg": "Аби, майката на Езекия",
+    "cs": "Abi, Ezechiášova matka",
+    "da": "Abi, Hizkijas mor",
+    "de": "Abi, die Mutter von Hiskia",
+    "el": "Abi, μητέρα του Εζεκία",
+    "es": "Abi, la madre de Ezequías",
+    "et": "Abi, Hiskija ema",
+    "fi": "Abi, Hiskian äiti",
+    "fr": "Abi, la mère d'Ézéchias",
+    "hu": "Abi, Ezékiás anyja",
+    "id": "Abi, ibu Hizkia",
+    "it": "Abi, madre di Ezechia",
+    "ja": "アビ、ヒゼキヤの母",
+    "ko": "히스기야의 어머니 아비",
+    "lt": "Abi, Ezekijo motina",
+    "lv": "Abi, Hiskijas māte",
+    "nb": "Abi, Hiskias mor",
+    "nl": "Abi, de moeder van Hizkia",
+    "pl": "Abi, matka Ezechiasza",
+    "pt": "Abi, a mãe de Ezequias",
+    "ro": "Abi, mama lui Ezechia",
+    "ru": "Ави, мать Езекии",
+    "sk": "Abi, Ezechiášova matka",
+    "sl": "Abi, Ezekijeva mati",
+    "sv": "Abi, Hiskiahs mor",
+    "tr": "Abi, Hizkiya'nın annesi",
+    "uk": "Аві, мати Єзекії",
+    "zh": "亚比，希西家的母亲"
+  },
+  "hebrew": "אֲבִי",
+  "verses": [
+    "secondKings 18:2:13"
+  ]
+}

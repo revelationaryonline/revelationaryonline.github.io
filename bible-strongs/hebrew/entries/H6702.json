@@ -1,0 +1,42 @@
+{
+  "number": "H6702",
+  "language": "hebrew",
+  "transliteration": "tsûwth",
+  "pronunciation": "tsooth",
+  "definition": "to blaze",
+  "kjvTranslation": "burn.",
+  "hebrew": "צוּת",
+  "translations": {
+    "bg": "да пламне",
+    "cs": "hořet",
+    "da": "at brænde",
+    "de": "zu lodern",
+    "el": "να φλέγεται",
+    "es": "arder",
+    "et": "põlema",
+    "fi": "leimahtaa",
+    "fr": "flamber",
+    "hu": "hogy lángoljon",
+    "id": "untuk berkobar",
+    "it": "ardere",
+    "ja": "燃え盛る",
+    "ko": "타오르다",
+    "lt": "liepsnoti",
+    "lv": "uzliesmot",
+    "nb": "til å brenne",
+    "nl": "branden",
+    "pl": "płonąć",
+    "pt": "para arder",
+    "ro": "să ardă",
+    "ru": "пылать",
+    "sk": "vzplanúť",
+    "sl": "goreti",
+    "sv": "att flamma",
+    "tr": "alevlendirmek için",
+    "uk": "палати",
+    "zh": "熛"
+  },
+  "verses": [
+    "isaiah 27:4:10"
+  ]
+}

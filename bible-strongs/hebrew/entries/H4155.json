@@ -1,0 +1,42 @@
+{
+  "number": "H4155",
+  "language": "hebrew",
+  "transliteration": "mûwʻâph",
+  "pronunciation": "moo-awf'",
+  "definition": "properly, covered, i.e. dark; abstractly, obscurity, i.e. distress",
+  "kjvTranslation": "dimness.",
+  "hebrew": "מוּעָף",
+  "translations": {
+    "bg": "правилно, покрит, т.е. тъмен; абстрактно, неяснота, т.е. бедствие",
+    "cs": "správně, zakrytý, tj. tmavý; abstraktně, nejasnost, tj. nouze",
+    "da": "i egentlig forstand tildækket, dvs. mørk; abstrakt, uklarhed, dvs. nød",
+    "de": "richtig, bedeckt, d.h. dunkel; abstrakt, Dunkelheit, d.h. Bedrängnis",
+    "el": "σωστά, καλυμμένο, δηλαδή σκοτεινό- αφηρημένα, σκοτάδι, δηλαδή στενοχώρια",
+    "es": "propiamente, cubierto, es decir, oscuro; abstractamente, oscuridad, es decir, angustia",
+    "et": "õigesti, kaetud, st pimedas; abstraktselt, hämarus, st häda",
+    "fi": "oikein, peitetty, ts. pimeä; abstraktisti, hämäryys, ts. ahdistus",
+    "fr": "proprement, couvert, c'est-à-dire sombre ; abstraitement, obscurité, c'est-à-dire détresse",
+    "hu": "helyesen, fedett, azaz sötét; elvontan, homály, azaz szorongás",
+    "id": "benar, tertutup, yaitu gelap; secara abstrak, ketidakjelasan, yaitu kesusahan",
+    "it": "propriamente, coperto, cioè oscuro; astrattamente, oscurità, cioè angoscia",
+    "ja": "抽象的な言い方をすれば、不明瞭さ、つまり苦悩。",
+    "ko": "적절하게, 덮음, 즉 어둠; 추상적으로, 모호함, 즉 고통",
+    "lt": "tinkamai, uždengtas, t. y. tamsus; abstrakčiai, neaiškumas, t. y. nelaimė",
+    "lv": "pareizi - aizsegts, t.i., tumšs; abstrakti - neskaidrība, t.i., bēda",
+    "nb": "egentlig, tildekket, dvs. mørkt; abstrakt, uklarhet, dvs. nød",
+    "nl": "naar behoren, bedekt, d.w.z. donker; abstract, duisternis, d.w.z. nood",
+    "pl": "właściwie, zakryty, tj. ciemny; abstrakcyjnie, zaciemnienie, tj. niepokój",
+    "pt": "propriamente dito, coberto, ou seja, escuro; abstratamente, obscuridade, ou seja, angústia",
+    "ro": "propriu-zis, acoperit, adică întunecat; abstract, obscuritate, adică suferință",
+    "ru": "правильно, покрытый, т.е. темный; абстрактно, неясность, т.е. бедствие",
+    "sk": "správne, zakrytý, t. j. tmavý; abstraktne, nejasnosť, t. j. tieseň",
+    "sl": "pravilno, pokrit, tj. temen; abstraktno, nejasnost, tj. stiska",
+    "sv": "i egentlig mening, täckt, d.v.s. mörk; abstrakt, dunkel, d.v.s. nöd",
+    "tr": "gerçek anlamda, örtülü, yani karanlık; soyut anlamda, belirsizlik, yani sıkıntı",
+    "uk": "власне, покритий, тобто темний; абстрактно, невідомість, тобто лихо",
+    "zh": "正确地说，覆盖，即黑暗；抽象地说，模糊，即痛苦"
+  },
+  "verses": [
+    "isaiah 8:23:2"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "number": "H135",
+  "language": "hebrew",
+  "transliteration": "ʼAddân",
+  "pronunciation": "ad-dawn'",
+  "definition": "Addan, an Israelite",
+  "kjvTranslation": "Addan.",
+  "translations": {
+    "bg": "Адан, израилтянин",
+    "cs": "Addan, Izraelita",
+    "da": "Addan, en israelit",
+    "de": "Addan, ein Israelit",
+    "el": "Addan, ένας Ισραηλίτης",
+    "es": "Addán, israelita",
+    "et": "Addan, iisraellane",
+    "fi": "Addan, israelilainen",
+    "fr": "Addan, Israélite",
+    "hu": "Addán, egy izraelita",
+    "id": "Addan, seorang Israel",
+    "it": "Addan, un israelita",
+    "ja": "アダン イスラエル人",
+    "ko": "이스라엘인, 아단",
+    "lt": "Addanas, izraelitas",
+    "lv": "Addans, izraēlietis",
+    "nb": "Addan, en israelitt",
+    "nl": "Addan, een Israëliet",
+    "pl": "Addan, Izraelita",
+    "pt": "Addan, israelita",
+    "ro": "Addan, un israelit",
+    "ru": "Аддан, израильтянин",
+    "sk": "Addan, Izraelita",
+    "sl": "Addan, Izraelec",
+    "sv": "Addan, en israelit",
+    "tr": "Addan, bir İsrailli",
+    "uk": "Аддан, ізраїльтянин",
+    "zh": "以色列人亚但"
+  },
+  "hebrew": "אַדָּן",
+  "verses": [
+    "ezra 2:59:7"
+  ]
+}

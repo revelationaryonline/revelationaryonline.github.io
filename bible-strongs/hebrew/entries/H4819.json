@@ -1,0 +1,42 @@
+{
+  "number": "H4819",
+  "language": "hebrew",
+  "transliteration": "markôleth",
+  "pronunciation": "mar-ko'-leth",
+  "definition": "a mart",
+  "kjvTranslation": "merchandise.",
+  "hebrew": "מַרְכֹּלֶת",
+  "translations": {
+    "bg": "мартеница",
+    "cs": "a mart",
+    "da": "et marked",
+    "de": "ein Markt",
+    "el": "ένα μαγαζί",
+    "es": "a mart",
+    "et": "a mart",
+    "fi": "a mart",
+    "fr": "un mart",
+    "hu": "a mart",
+    "id": "sebuah mart",
+    "it": "un martello",
+    "ja": "マート",
+    "ko": "마트",
+    "lt": "a mart",
+    "lv": "un mart",
+    "nb": "en mart",
+    "nl": "een mars",
+    "pl": "mart",
+    "pt": "um mart",
+    "ro": "a mart",
+    "ru": "а март",
+    "sk": "a mart",
+    "sl": "mart",
+    "sv": "en mart",
+    "tr": "bir mart",
+    "uk": "базар",
+    "zh": "市集"
+  },
+  "verses": [
+    "ezekiel 27:24:11"
+  ]
+}

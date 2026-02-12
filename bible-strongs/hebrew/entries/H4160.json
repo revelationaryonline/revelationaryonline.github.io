@@ -1,0 +1,42 @@
+{
+  "number": "H4160",
+  "language": "hebrew",
+  "transliteration": "mûwts",
+  "pronunciation": "moots",
+  "definition": "to press, i.e. (figuratively) to oppress",
+  "kjvTranslation": "extortioner.",
+  "hebrew": "מוּץ",
+  "translations": {
+    "bg": "да притискам, т.е. (в преносен смисъл) да потискам",
+    "cs": "tlačit, tj. (přeneseně) utlačovat",
+    "da": "at presse, dvs. (i overført betydning) at undertrykke",
+    "de": "bedrängen, d.h. (im übertragenen Sinne) unterdrücken",
+    "el": "να πιέζω, δηλαδή (μεταφορικά) να καταπιέζω",
+    "es": "presionar, es decir, oprimir (en sentido figurado)",
+    "et": "pressida, st (piltlikult) rõhuda",
+    "fi": "painostaa, eli (kuvaannollisesti) ahdistella",
+    "fr": "presser, c'est-à-dire (au sens figuré) opprimer",
+    "hu": "nyomasztani, azaz (átvitt értelemben) elnyomni",
+    "id": "untuk menekan, yaitu (secara kiasan) menindas",
+    "it": "premere, cioè (in senso figurato) opprimere",
+    "ja": "圧迫する",
+    "ko": "누르다, 즉 (비유적으로) 억압하다",
+    "lt": "spausti, t. y. (perkeltine prasme) engti",
+    "lv": "spiest, t.i., (pārnestā nozīmē) apspiest",
+    "nb": "å presse, dvs. (i overført betydning) å undertrykke",
+    "nl": "drukken, d.w.z. (figuurlijk) onderdrukken",
+    "pl": "naciskać, tj. (w przenośni) uciskać",
+    "pt": "pressionar, ou seja, (figurativamente) oprimir",
+    "ro": "a apăsa, adică (la figurat) a asupri",
+    "ru": "давить, т.е. (фигурально) угнетать",
+    "sk": "tlačiť, t. j. (obrazne) utláčať",
+    "sl": "pritiskati, tj. (v prenesenem pomenu) zatirati",
+    "sv": "att pressa, dvs. (bildligt talat) att förtrycka",
+    "tr": "bastırmak, yani (mecazi olarak) ezmek",
+    "uk": "пресувати, тобто (образно) гнобити",
+    "zh": "按，即（比喻）压迫"
+  },
+  "verses": [
+    "isaiah 16:4:11"
+  ]
+}

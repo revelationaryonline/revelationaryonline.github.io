@@ -1,0 +1,42 @@
+{
+  "number": "H5577",
+  "language": "hebrew",
+  "transliteration": "çançin",
+  "pronunciation": "san-seen'",
+  "definition": "a twig (as tapering)",
+  "kjvTranslation": "bough.",
+  "hebrew": "סַנְסִן",
+  "translations": {
+    "bg": "клонче (като заострено)",
+    "cs": "větvička (jako zužující se)",
+    "da": "en kvist (som tilspidsning)",
+    "de": "ein Zweig (als Verjüngung)",
+    "el": "ένα κλαδί (ως κωνικό)",
+    "es": "una ramita (como afilada)",
+    "et": "okas (kui koonus)",
+    "fi": "oksa (kapeneva)",
+    "fr": "un rameau (comme effilé)",
+    "hu": "gally (mint kúpos)",
+    "id": "ranting (seperti meruncing)",
+    "it": "un ramoscello (come affusolato)",
+    "ja": "小枝",
+    "ko": "나뭇가지(가늘어지는 형태)",
+    "lt": "šakelė (siaurėjanti)",
+    "lv": "zariņš (kā sašaurinājums)",
+    "nb": "en kvist (som avsmalnende)",
+    "nl": "een twijg (als taps toelopend)",
+    "pl": "gałązka (jako zwężająca się)",
+    "pt": "um galho (como se fosse afilado)",
+    "ro": "o rămurică (ca și conic)",
+    "ru": "веточка (сужающаяся)",
+    "sk": "vetvička (ako zužujúca sa)",
+    "sl": "vejica (kot koničasti del)",
+    "sv": "en kvist (som avsmalnande)",
+    "tr": "bir dal (sivrilen olarak)",
+    "uk": "гілочка (як звужується)",
+    "zh": "枝条"
+  },
+  "verses": [
+    "solomon 7:9:4"
+  ]
+}

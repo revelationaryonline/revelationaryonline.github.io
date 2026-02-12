@@ -1,0 +1,42 @@
+{
+  "number": "H5421",
+  "language": "hebrew",
+  "transliteration": "nâthaʻ",
+  "pronunciation": "naw-thah'",
+  "definition": "to tear out",
+  "kjvTranslation": "break.",
+  "hebrew": "נָתַע",
+  "translations": {
+    "bg": "да се изтръгне",
+    "cs": "vytrhnout",
+    "da": "at rive ud",
+    "de": "zum Herausreißen",
+    "el": "να ξεριζώσω",
+    "es": "arrancar",
+    "et": "välja rebida",
+    "fi": "repiä ulos",
+    "fr": "arracher",
+    "hu": "kitépni",
+    "id": "untuk merobek",
+    "it": "strappare",
+    "ja": "引き裂く",
+    "ko": "찢다",
+    "lt": "išplėšti",
+    "lv": "izraut",
+    "nb": "å rive ut",
+    "nl": "uitscheuren",
+    "pl": "wyrwać",
+    "pt": "arrancar",
+    "ro": "a smulge",
+    "ru": "вырывать",
+    "sk": "vytrhnúť",
+    "sl": "iztrgati",
+    "sv": "att slita ut",
+    "tr": "yırtmak için",
+    "uk": "щоб вирвати",
+    "zh": "剜"
+  },
+  "verses": [
+    "job 4:10:6"
+  ]
+}

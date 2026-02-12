@@ -1,0 +1,43 @@
+{
+  "number": "H3839",
+  "language": "hebrew",
+  "transliteration": "libneh",
+  "pronunciation": "lib-neh'",
+  "definition": "some sort of whitish tree, perhaps the storax",
+  "kjvTranslation": "poplar.",
+  "hebrew": "לִבְנֶה",
+  "translations": {
+    "bg": "някакво белезникаво дърво, може би сторакс",
+    "cs": "nějaký druh bělavého stromu, snad storax",
+    "da": "en slags hvidligt træ, måske storax",
+    "de": "eine Art weißlicher Baum, vielleicht der Storax",
+    "el": "κάποιο είδος υπόλευκου δέντρου, ίσως το storax",
+    "es": "algún tipo de árbol blanquecino, quizás el storax",
+    "et": "mingi valkjas puu, võib-olla storax",
+    "fi": "jonkinlainen valkeahko puu, ehkä storax",
+    "fr": "une sorte d'arbre blanchâtre, peut-être le storax",
+    "hu": "valamilyen fehéres fa, talán a storax",
+    "id": "semacam pohon keputihan, mungkin storax",
+    "it": "una specie di albero biancastro, forse lo storace",
+    "ja": "白っぽい木の一種、おそらくホウノキであろう",
+    "ko": "어떤 종류의 희끄무레한 나무, 아마도 스토락스",
+    "lt": "kažkoks balkšvas medis, galbūt storax",
+    "lv": "kāds bālgans koks, iespējams, storax",
+    "nb": "et slags hvitaktig tre, kanskje storax",
+    "nl": "een soort witachtige boom, misschien de storax",
+    "pl": "jakieś białawe drzewo, być może storax",
+    "pt": "uma espécie de árvore esbranquiçada, talvez o estoraque",
+    "ro": "un fel de copac albicios, poate storax",
+    "ru": "какое-то беловатое дерево, возможно, сторакс",
+    "sk": "nejaký druh belavého stromu, možno storax",
+    "sl": "nekakšno belkasto drevo, morda storax",
+    "sv": "något slags vitaktigt träd, kanske storax",
+    "tr": "bir çeşit beyazımsı ağaç, belki de storax",
+    "uk": "якесь білувате дерево, можливо, сторакс",
+    "zh": "某种带白色的树，也许是梭梭树"
+  },
+  "verses": [
+    "genesis 30:37:4",
+    "hosea 4:13:9"
+  ]
+}

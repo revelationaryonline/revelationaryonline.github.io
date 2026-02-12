@@ -1,0 +1,43 @@
+{
+  "number": "H8044",
+  "language": "hebrew",
+  "transliteration": "Shamgar",
+  "pronunciation": "sham-gar'",
+  "definition": "Shamgar, an Israelite judge",
+  "kjvTranslation": "Shamgar.",
+  "hebrew": "שַׁמְגַּר",
+  "translations": {
+    "bg": "Шамгар, израилски съдия",
+    "cs": "Šamgar, izraelský soudce",
+    "da": "Shamgar, en israelitisk dommer",
+    "de": "Schamgar, ein israelitischer Richter",
+    "el": "Σάμγκαρ, Ισραηλίτης δικαστής",
+    "es": "Shamgar, juez israelita",
+    "et": "Šamgar, Iisraeli kohtunik",
+    "fi": "Shamgar, israelilainen tuomari",
+    "fr": "Shamgar, juge israélite",
+    "hu": "Sámgar, izraelita bíró",
+    "id": "Syamgar, seorang hakim Israel",
+    "it": "Shamgar, un giudice israelita",
+    "ja": "イスラエルの裁判官シャムガル",
+    "ko": "이스라엘 판사 샴가르",
+    "lt": "Šamgaras, izraelitų teisėjas",
+    "lv": "Šamgars, izraēliešu tiesnesis",
+    "nb": "Shamgar, en israelittisk dommer",
+    "nl": "Shamgar, een Israëlitische rechter",
+    "pl": "Szamgar, izraelski sędzia",
+    "pt": "Shamgar, um juiz israelita",
+    "ro": "Shamgar, un judecător israelit",
+    "ru": "Шамгар, израильский судья",
+    "sk": "Šamgar, izraelský sudca",
+    "sl": "Šamgar, izraelski sodnik",
+    "sv": "Shamgar, en israelitisk domare",
+    "tr": "Shamgar, İsrailli bir yargıç",
+    "uk": "Шамгар, ізраїльський суддя",
+    "zh": "以色列法官沙姆加"
+  },
+  "verses": [
+    "judges 3:31:2",
+    "judges 5:6:1"
+  ]
+}

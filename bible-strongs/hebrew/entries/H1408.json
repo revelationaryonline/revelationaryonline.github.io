@@ -1,0 +1,42 @@
+{
+  "number": "H1408",
+  "language": "hebrew",
+  "transliteration": "Gad",
+  "pronunciation": "gad",
+  "definition": "Fortune, a Babylonian deity",
+  "kjvTranslation": "that troop.",
+  "translations": {
+    "bg": "Фортуна, вавилонско божество",
+    "cs": "Štěstěna, babylonské božstvo",
+    "da": "Fortune, en babylonisk guddom",
+    "de": "Fortuna, eine babylonische Gottheit",
+    "el": "Fortune, μια βαβυλωνιακή θεότητα",
+    "es": "Fortuna, una deidad babilónica",
+    "et": "Fortuuna, babüloonia jumalus",
+    "fi": "Fortuna, babylonialainen jumaluus..",
+    "fr": "Fortune, divinité babylonienne",
+    "hu": "Fortuna, egy babiloni istenség",
+    "id": "Keberuntungan, dewa Babilonia",
+    "it": "Fortuna, divinità babilonese",
+    "ja": "バビロニアの神、フォーチュン",
+    "ko": "바빌로니아의 신, 포춘",
+    "lt": "Fortūna, babiloniečių dievybė",
+    "lv": "Fortūna, babiloniešu dievība",
+    "nb": "Fortune, en babylonsk guddom",
+    "nl": "Fortuin, een Babylonische godheid",
+    "pl": "Fortuna, babilońskie bóstwo",
+    "pt": "Fortuna, uma divindade babilónica",
+    "ro": "Fortuna, o zeitate babiloniană",
+    "ru": "Фортуна, вавилонское божество",
+    "sk": "Fortuna, babylonské božstvo",
+    "sl": "Fortune, babilonsko božanstvo",
+    "sv": "Fortune, en babylonisk gudom",
+    "tr": "Servet, bir Babil tanrısı",
+    "uk": "Фортуна, вавилонське божество",
+    "zh": "财富"
+  },
+  "hebrew": "גַּד",
+  "verses": [
+    "isaiah 65:11:8"
+  ]
+}

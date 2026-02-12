@@ -1,0 +1,42 @@
+{
+  "number": "H1378",
+  "language": "hebrew",
+  "transliteration": "gâbîysh",
+  "pronunciation": "gaw-beesh'",
+  "definition": "crystal (from its resemblance to ice)",
+  "kjvTranslation": "pearl.",
+  "translations": {
+    "bg": "кристал (от приликата му с лед)",
+    "cs": "krystal (podle podobnosti s ledem)",
+    "da": "krystal (fra dens lighed med is)",
+    "de": "kristall (wegen seiner Ähnlichkeit mit Eis)",
+    "el": "crystal (από την ομοιότητά του με τον πάγο)",
+    "es": "cristal (por su parecido con el hielo)",
+    "et": "kristall (selle sarnasusest jääga)",
+    "fi": "kristalli (koska se muistuttaa jäätä)",
+    "fr": "cristal (d'après sa ressemblance avec la glace)",
+    "hu": "kristály (a jéghez való hasonlósága miatt)",
+    "id": "kristal (dari kemiripannya dengan es)",
+    "it": "cristallo (dalla sua somiglianza con il ghiaccio)",
+    "ja": "氷晶",
+    "ko": "크리스탈(얼음과 닮은 모습에서 유래)",
+    "lt": "kristalas (dėl panašumo į ledą)",
+    "lv": "kristāls (pēc līdzības ar ledu)",
+    "nb": "krystall (fra sin likhet med is)",
+    "nl": "kristal (van de gelijkenis met ijs)",
+    "pl": "kryształ (od jego podobieństwa do lodu)",
+    "pt": "cristal (pela sua semelhança com o gelo)",
+    "ro": "cristal (de la asemănarea sa cu gheața)",
+    "ru": "кристалл (от сходства со льдом)",
+    "sk": "kryštál (z podobnosti s ľadom)",
+    "sl": "kristal (zaradi podobnosti z ledom)",
+    "sv": "kristall (från dess likhet med is)",
+    "tr": "kristal (buza benzerliğinden)",
+    "uk": "кристал (від схожості з льодом)",
+    "zh": "冰晶"
+  },
+  "hebrew": "גָּבִישׁ",
+  "verses": [
+    "job 28:18:1"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "number": "H1901",
+  "language": "hebrew",
+  "transliteration": "hâgîyg",
+  "pronunciation": "haw-gheeg'",
+  "definition": "properly, a murmur, i.e. complaint",
+  "kjvTranslation": "meditation, musing.",
+  "translations": {
+    "bg": "правилно, ропот, т.е. оплакване",
+    "cs": "správně, šelest, tj. stížnost",
+    "da": "korrekt, en mumlen, dvs. en klage",
+    "de": "richtig, ein Gemurmel, d.h. eine Beschwerde",
+    "el": "σωστά, ένα μουρμουρητό, δηλαδή ένα παράπονο",
+    "es": "propiamente, un murmullo, es decir, una queja",
+    "et": "õigesti, mürin, st kaebus",
+    "fi": "oikein, sivuääni, eli valitus",
+    "fr": "proprement, un murmure, c'est-à-dire une plainte",
+    "hu": "megfelelően, zúgás, azaz panasz",
+    "id": "dengan benar, yaitu keluhan, yaitu keluhan",
+    "it": "propriamente, un mormorio, cioè una lamentela",
+    "ja": "正しくは \"ざわめき \"である。",
+    "ko": "정확히 말하면 불평, 즉 불만입니다",
+    "lt": "tinkamai, murmėjimas, t. y. skundas",
+    "lv": "pareizi, šņākšana, t.i., sūdzība",
+    "nb": "egentlig en murring, dvs. en klage",
+    "nl": "goed, een geruis, d.w.z. klacht",
+    "pl": "właściwie szmer, tj. skarga",
+    "pt": "propriamente, um murmúrio, ou seja, uma queixa",
+    "ro": "corect, un murmur, adică o plângere",
+    "ru": "правильно, ропот, т.е. жалоба",
+    "sk": "správne, šelest, t. j. sťažnosť",
+    "sl": "pravilno, šumenje, tj. pritožba",
+    "sv": "korrekt, ett mummel, dvs. ett klagomål",
+    "tr": "düzgün bir şekilde, bir mırıltı, yani şikayet",
+    "uk": "власне, ропот, тобто скарга",
+    "zh": "喃喃，即抱怨"
+  },
+  "hebrew": "הָגִיג",
+  "verses": [
+    "psalms 5:2:4",
+    "psalms 39:4:3"
+  ]
+}

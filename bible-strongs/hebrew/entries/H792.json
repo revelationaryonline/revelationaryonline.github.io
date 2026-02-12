@@ -1,0 +1,43 @@
+{
+  "number": "H792",
+  "language": "hebrew",
+  "transliteration": "ʼEshbaʻal",
+  "pronunciation": "esh-bah'-al",
+  "definition": "Eshbaal (or Ishbosheth), a son of Saul",
+  "kjvTranslation": "Eshbaal.",
+  "translations": {
+    "bg": "Ешбаал (или Ишбосет), син на Саул",
+    "cs": "Ešbaal (nebo Išbozet), syn Saulův",
+    "da": "Eshbaal (eller Ishbosheth), en søn af Saul",
+    "de": "Eshbaal (oder Ishbosheth), ein Sohn von Saul",
+    "el": "Εσβαάλ (ή Ισβοσέθ), γιος του Σαούλ",
+    "es": "Eshbaal (o Ishbosheth), hijo de Saúl",
+    "et": "Ešbaal (või Isboset), Sauli poeg",
+    "fi": "Eshbaal (tai Ishbosheth), Saulin poika",
+    "fr": "Eshbaal (ou Ishbosheth), fils de Saül",
+    "hu": "Eshbaal (vagy Ishbosheth), Saul fia",
+    "id": "Esebaal (atau Isyboset), seorang putra Saul",
+    "it": "Eshbaal (o Isbosheth), figlio di Saul",
+    "ja": "エシュバアル（またはイシュボシェト）、サウルの子",
+    "ko": "사울의 아들 에스바알(또는 이스보셋)",
+    "lt": "Ešbaalas (arba Išbošetas), Sauliaus sūnus",
+    "lv": "Ešbaals (vai Išbošets), Saula dēls",
+    "nb": "Eshbaal (eller Ishbosheth), en sønn av Saul",
+    "nl": "Eshbaal (of Ishbosheth), een zoon van Saul",
+    "pl": "Eshbaal (lub Ishbosheth), syn Saula",
+    "pt": "Eshbaal (ou Ishbosheth), filho de Saul",
+    "ro": "Eshbaal (sau Ishbosheth), un fiu al lui Saul",
+    "ru": "Эшбаал (или Ишбошет), сын Саула",
+    "sk": "Ešbaal (alebo Išbozet), Saulov syn",
+    "sl": "Ešbaal (ali Izbošet), Savlov sin",
+    "sv": "Eshbaal (eller Ishbosheth), en son till Saul",
+    "tr": "Eshbaal (ya da Ishbosheth), Saul'un oğlu",
+    "uk": "Ешваал (або Ішбошет), син Саула",
+    "zh": "以实巴利（或以实波设），扫罗的儿子"
+  },
+  "hebrew": "אֶשְׁבַּעַל",
+  "verses": [
+    "firstChronicles 8:33:18",
+    "firstChronicles 9:39:18"
+  ]
+}

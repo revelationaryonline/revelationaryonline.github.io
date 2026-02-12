@@ -1,0 +1,42 @@
+{
+  "number": "H7129",
+  "language": "hebrew",
+  "transliteration": "qᵉrâb",
+  "pronunciation": "ker-awb'",
+  "definition": "{hostile encounter}",
+  "kjvTranslation": "war.",
+  "hebrew": "קְרָב",
+  "translations": {
+    "bg": "{враждебна среща}",
+    "cs": "{nepřátelské setkání}",
+    "da": "{fjendtligt møde}",
+    "de": "(feindliche Begegnung)",
+    "el": "{hostile encounter}",
+    "es": "{encuentro hostil}",
+    "et": "{vaenulik kohtumine}",
+    "fi": "{vihamielinen kohtaaminen}",
+    "fr": "{rencontre hostile}",
+    "hu": "{ellenséges találkozás}",
+    "id": "[pertemuan bermusuhan]",
+    "it": "{Incontro ostile}",
+    "ja": "{敵との遭遇｝",
+    "ko": "{적대적인 만남}",
+    "lt": "{priešiškas susidūrimas}",
+    "lv": "{nepatīkama sastapšanās}",
+    "nb": "{fiendtlig møte}",
+    "nl": "{vijandige ontmoeting}",
+    "pl": "{wrogie spotkanie}",
+    "pt": "{encontro hostil}",
+    "ro": "{întâlnire ostilă}",
+    "ru": "{враждебная встреча}",
+    "sk": "{nepriateľské stretnutie}",
+    "sl": "{nevarno srečanje}",
+    "sv": "{fientligt möte}",
+    "tr": "{düşmanca karşılaşma}",
+    "uk": "[вороже зіткнення]",
+    "zh": "{pos(192,289)}敌对遭遇"
+  },
+  "verses": [
+    "daniel 7:21:5"
+  ]
+}

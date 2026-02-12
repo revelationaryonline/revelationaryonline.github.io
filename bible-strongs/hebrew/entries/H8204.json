@@ -1,0 +1,42 @@
+{
+  "number": "H8204",
+  "language": "hebrew",
+  "transliteration": "Shiphṭân",
+  "pronunciation": "shif-tawn'",
+  "definition": "Shiphtan, an Israelite",
+  "kjvTranslation": "Shiphtan.",
+  "hebrew": "שִׁפְטָן",
+  "translations": {
+    "bg": "Шифтан, израилтянин",
+    "cs": "Šiftan, Izraelita",
+    "da": "Shiphtan, en israelit",
+    "de": "Schifftan, ein Israelit",
+    "el": "Shiphtan, ένας Ισραηλίτης",
+    "es": "Shiphtan, israelita",
+    "et": "Shiphtan, iisraellane",
+    "fi": "Shiphtan, israelilainen",
+    "fr": "Shiphtan, Israélite",
+    "hu": "Shiphtan, egy izraelita",
+    "id": "Shiphtan, seorang Israel",
+    "it": "Shiphtan, un israelita",
+    "ja": "イスラエル人シフタン",
+    "ko": "이스라엘인, 시프탄",
+    "lt": "Šiphtanas, izraelitas",
+    "lv": "Shiphtan, izraēlietis",
+    "nb": "Shiphtan, en israelitt",
+    "nl": "Shiphtan, een Israëliet",
+    "pl": "Sziftan, Izraelita",
+    "pt": "Siftã, israelita",
+    "ro": "Shiphtan, un israelit",
+    "ru": "Шифтан, израильтянин",
+    "sk": "Šiftán, Izraelita",
+    "sl": "Šiphtan, Izraelec",
+    "sv": "Shiphtan, en israelit",
+    "tr": "Shiphtan, bir İsrailli",
+    "uk": "Шиптан, ізраїльтянин",
+    "zh": "希夫坦，以色列人"
+  },
+  "verses": [
+    "numbers 34:24:6"
+  ]
+}

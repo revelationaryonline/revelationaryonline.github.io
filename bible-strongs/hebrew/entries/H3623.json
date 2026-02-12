@@ -1,0 +1,42 @@
+{
+  "number": "H3623",
+  "language": "hebrew",
+  "transliteration": "kᵉlûwlâh",
+  "pronunciation": "kel-oo-law'",
+  "definition": "bridehood (only in the plural)",
+  "kjvTranslation": "espousal.",
+  "translations": {
+    "bg": "булчинство (само в множествено число)",
+    "cs": "nevěsta (pouze v množném čísle)",
+    "da": "brudskab (kun i flertal)",
+    "de": "bräutigamschaft (nur im Plural)",
+    "el": "bridehood (μόνο στον πληθυντικό)",
+    "es": "noviazgo (sólo en plural)",
+    "et": "pruut (ainult mitmuses)",
+    "fi": "bridehood (vain monikossa)",
+    "fr": "mariage (uniquement au pluriel)",
+    "hu": "násznép (csak többes számban)",
+    "id": "pengantin wanita (hanya dalam bentuk jamak)",
+    "it": "matrimonio (solo al plurale)",
+    "ja": "嫁入り",
+    "ko": "신부(복수형만 해당)",
+    "lt": "sužadėtuvės (tik daugiskaita)",
+    "lv": "līgava (tikai daudzskaitlī)",
+    "nb": "brud (bare i flertall)",
+    "nl": "bruidschap (alleen in het meervoud)",
+    "pl": "bridehood (tylko w liczbie mnogiej)",
+    "pt": "noivado (só no plural)",
+    "ro": "mireasă (numai la plural)",
+    "ru": "невестинство (только во множественном числе)",
+    "sk": "nevesta (len v množnom čísle)",
+    "sl": "nevesta (samo v množini)",
+    "sv": "brudskap (endast i plural)",
+    "tr": "bridehood (sadece çoğul olarak)",
+    "uk": "наречена (тільки у множині)",
+    "zh": "婚礼（仅在复数中）"
+  },
+  "hebrew": "כְּלוּלָה",
+  "verses": [
+    "jeremiah 2:2:13"
+  ]
+}

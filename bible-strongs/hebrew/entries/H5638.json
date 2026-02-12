@@ -1,0 +1,43 @@
+{
+  "number": "H5638",
+  "language": "hebrew",
+  "transliteration": "çᵉthâv",
+  "pronunciation": "seth-awv'",
+  "definition": "winter (as the dark season)",
+  "kjvTranslation": "winter.",
+  "hebrew": "סְתָו",
+  "translations": {
+    "bg": "зима (като тъмен сезон)",
+    "cs": "zima (jako temné období)",
+    "da": "vinter (som den mørke årstid)",
+    "de": "winter (als dunkle Jahreszeit)",
+    "el": "χειμώνας (ως σκοτεινή εποχή)",
+    "es": "invierno (como estación oscura)",
+    "et": "talv (kui pime aastaaeg)",
+    "fi": "talvi (pimeänä vuodenaikana)",
+    "fr": "l'hiver (en tant que saison sombre)",
+    "hu": "tél (mint a sötét évszak)",
+    "id": "musim dingin (sebagai musim gelap)",
+    "it": "inverno (come stagione buia)",
+    "ja": "冬",
+    "ko": "겨울(어두운 계절)",
+    "lt": "žiema (kaip tamsusis metų laikas)",
+    "lv": "ziema (kā tumšais gadalaiks)",
+    "nb": "vinter (som den mørke årstiden)",
+    "nl": "winter (als het donkere seizoen)",
+    "pl": "zima (jako ciemna pora roku)",
+    "pt": "inverno (como estação das trevas)",
+    "ro": "iarna (ca anotimp întunecat)",
+    "ru": "зима (как темное время года)",
+    "sk": "zima (ako tmavé ročné obdobie)",
+    "sl": "zima (kot temni letni čas)",
+    "sv": "vinter (som den mörka årstiden)",
+    "tr": "kış (karanlık mevsim olarak)",
+    "uk": "зима (як темна пора року)",
+    "zh": "冬"
+  },
+  "verses": [
+    "solomon 2:11:2",
+    "solomon 2:11:3"
+  ]
+}

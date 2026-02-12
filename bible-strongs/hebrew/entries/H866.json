@@ -1,0 +1,42 @@
+{
+  "number": "H866",
+  "language": "hebrew",
+  "transliteration": "ʼethnâh",
+  "pronunciation": "eth-naw'",
+  "definition": "a present (as the price of harlotry)",
+  "kjvTranslation": "reward.",
+  "translations": {
+    "bg": "подарък (като цена за блудство)",
+    "cs": "dar (jako cena za smilstvo)",
+    "da": "en gave (som prisen for hor)",
+    "de": "ein Geschenk (als Preis für die Hurenschaft)",
+    "el": "δώρο (ως τίμημα της πορνείας)",
+    "es": "un regalo (como precio de la prostitución)",
+    "et": "kingitus (kui hooruse hind)",
+    "fi": "lahja (huoruuden hintana)",
+    "fr": "un cadeau (comme prix de la prostitution)",
+    "hu": "ajándék (mint a paráznaság ára)",
+    "id": "hadiah (sebagai harga dari pelacuran)",
+    "it": "un regalo (come prezzo della prostituzione)",
+    "ja": "見返り品",
+    "ko": "선물(매춘의 대가)",
+    "lt": "dovana (kaip kaina už paleistuvystę)",
+    "lv": "dāvana (kā maksa par netiklību)",
+    "nb": "en gave (som prisen for hor)",
+    "nl": "een geschenk (als prijs voor hoererij)",
+    "pl": "prezent (jako cena nierządu)",
+    "pt": "um presente (como preço da prostituição)",
+    "ro": "un cadou (ca preț al curviei)",
+    "ru": "подарок (как плата за блуд)",
+    "sk": "darček (ako cena za smilstvo)",
+    "sl": "darilo (kot cena za nečistovanje)",
+    "sv": "en gåva (som priset för skändlighet)",
+    "tr": "bir hediye (fahişeliğin bedeli olarak)",
+    "uk": "подарунок (як ціна блуду)",
+    "zh": "嫖资"
+  },
+  "hebrew": "אֶתְנָה",
+  "verses": [
+    "hosea 2:14:5"
+  ]
+}

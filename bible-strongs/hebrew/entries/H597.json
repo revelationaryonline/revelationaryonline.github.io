@@ -1,0 +1,42 @@
+{
+  "number": "H597",
+  "language": "hebrew",
+  "transliteration": "ʼânaç",
+  "pronunciation": "aw-nas'",
+  "definition": "to insist",
+  "kjvTranslation": "compel.",
+  "translations": {
+    "bg": "да настояваш",
+    "cs": "trvat na tom, aby",
+    "da": "at insistere",
+    "de": "darauf zu bestehen",
+    "el": "να επιμείνω",
+    "es": "insistir",
+    "et": "nõuda",
+    "fi": "vaatia",
+    "fr": "insister",
+    "hu": "ragaszkodni",
+    "id": "untuk bersikeras",
+    "it": "insistere",
+    "ja": "主張する",
+    "ko": "주장하기 위해",
+    "lt": "primygtinai reikalauti",
+    "lv": "uzstāt",
+    "nb": "å insistere",
+    "nl": "aandringen",
+    "pl": "nalegać",
+    "pt": "insistir",
+    "ro": "să insiste",
+    "ru": "настаивать",
+    "sk": "trvať na tom",
+    "sl": "vztrajati",
+    "sv": "att insistera",
+    "tr": "ısrar etmek",
+    "uk": "наполягати на тому",
+    "zh": "要坚持"
+  },
+  "hebrew": "אָנַס",
+  "verses": [
+    "esther 1:8:3"
+  ]
+}

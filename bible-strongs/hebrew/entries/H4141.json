@@ -1,0 +1,42 @@
+{
+  "number": "H4141",
+  "language": "hebrew",
+  "transliteration": "mûwçâb",
+  "pronunciation": "moo-sawb'",
+  "definition": "a turn, i.e. circuit (of a building)",
+  "kjvTranslation": "winding about.",
+  "hebrew": "מוּסָב",
+  "translations": {
+    "bg": "завой, т.е. кръг (на сграда)",
+    "cs": "odbočka, tj. obvod (budovy)",
+    "da": "en drejning, dvs. et kredsløb (af en bygning)",
+    "de": "eine Kurve, d.h. ein Kreislauf (eines Gebäudes)",
+    "el": "στροφή, δηλαδή κύκλωμα (ενός κτιρίου)",
+    "es": "un giro, es decir, circuito (de un edificio)",
+    "et": "pöörde, st ringkäik (hoones)",
+    "fi": "käänne eli piiri (rakennuksessa)",
+    "fr": "un virage, c'est-à-dire un circuit (d'un bâtiment)",
+    "hu": "forduló, azaz kör (egy épületben)",
+    "id": "belokan, yaitu sirkuit (sebuah bangunan)",
+    "it": "un giro, cioè un circuito (di un edificio)",
+    "ja": "ひとまわり",
+    "ko": "한 바퀴, 즉 (건물의) 회로",
+    "lt": "posūkis, t. y. grandinė (pastato)",
+    "lv": "pagrieziens, t.i., ķēde (ēkā)",
+    "nb": "en sving, dvs. en krets (i en bygning)",
+    "nl": "een bocht, d.w.z. circuit (van een gebouw)",
+    "pl": "zakręt, tj. obwód (budynku)",
+    "pt": "uma curva, ou seja, um circuito (de um edifício)",
+    "ro": "o întoarcere, adică un circuit (al unei clădiri)",
+    "ru": "поворот, т.е. контур (здания)",
+    "sk": "zákruta, t. j. obvod (budovy)",
+    "sl": "zavoj, tj. krog (stavbe)",
+    "sv": "en vändning, dvs. en rundgång (av en byggnad)",
+    "tr": "bir dönüş, yani (bir binanın) devresi",
+    "uk": "черга, тобто контур (будівлі)",
+    "zh": "回转"
+  },
+  "verses": [
+    "ezekiel 41:7:6"
+  ]
+}

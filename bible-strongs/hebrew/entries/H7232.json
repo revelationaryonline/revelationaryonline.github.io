@@ -1,0 +1,43 @@
+{
+  "number": "H7232",
+  "language": "hebrew",
+  "transliteration": "râbab",
+  "pronunciation": "raw-bab'",
+  "definition": "to shoot an arrow",
+  "kjvTranslation": "shoot.",
+  "hebrew": "רָבַב",
+  "translations": {
+    "bg": "да изстреля стрела",
+    "cs": "vystřelit šíp",
+    "da": "at skyde en pil",
+    "de": "einen Pfeil zu schießen",
+    "el": "για να ρίξω ένα βέλος",
+    "es": "lanzar una flecha",
+    "et": "noolt tulistada",
+    "fi": "ampua nuoli",
+    "fr": "tirer une flèche",
+    "hu": "kilőni egy nyilat",
+    "id": "untuk menembakkan anak panah",
+    "it": "scagliare una freccia",
+    "ja": "矢を放つ",
+    "ko": "화살을 쏘려면",
+    "lt": "paleisti strėlę",
+    "lv": "izšaut bultiņu",
+    "nb": "å skyte en pil",
+    "nl": "een pijl afschieten",
+    "pl": "wystrzelić strzałę",
+    "pt": "disparar uma seta",
+    "ro": "a trage o săgeată",
+    "ru": "пустить стрелу",
+    "sk": "vystreliť šíp",
+    "sl": "izstreliti puščico",
+    "sv": "att skjuta en pil",
+    "tr": "ok atmak için",
+    "uk": "випустити стрілу",
+    "zh": "射箭"
+  },
+  "verses": [
+    "genesis 49:23:1",
+    "psalms 18:15:4"
+  ]
+}

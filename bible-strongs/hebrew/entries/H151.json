@@ -1,0 +1,43 @@
+{
+  "number": "H151",
+  "language": "hebrew",
+  "transliteration": "ʼĂdôrâm",
+  "pronunciation": "ad-o-rawm'",
+  "definition": "Adoram (or Adoniram), an Israelite",
+  "kjvTranslation": "Adoram.",
+  "translations": {
+    "bg": "Адорам (или Адонирам), израилтянин",
+    "cs": "Adoram (nebo Adoniram), Izraelita",
+    "da": "Adoram (eller Adoniram), en israelit",
+    "de": "Adoram (oder Adoniram), ein Israelit",
+    "el": "Adoram (ή Adoniram), Ισραηλίτης",
+    "es": "Adoram (o Adoniram), israelita",
+    "et": "Adoram (või Adoniram), iisraellane",
+    "fi": "Adoram (tai Adoniram), israelilainen mies",
+    "fr": "Adoram (ou Adoniram), israélite",
+    "hu": "Adorám (vagy Adonirám), izraelita férfi",
+    "id": "Adoram (atau Adoniram), seorang Israel",
+    "it": "Adoram (o Adoniram), israelita",
+    "ja": "アドラム（またはアドニラム）、イスラエル人",
+    "ko": "아도람(또는 아도니람), 이스라엘인",
+    "lt": "Adoramas (arba Adoniramas), izraelitas",
+    "lv": "Adorāms (vai Adonirams), izraēlietis",
+    "nb": "Adoram (eller Adoniram), en israelitt",
+    "nl": "Adoram (of Adoniram), een Israëliet",
+    "pl": "Adoram (lub Adoniram), Izraelita",
+    "pt": "Adorão (ou Adoniram), israelita",
+    "ro": "Adoram (sau Adoniram), un israelit",
+    "ru": "Адорам (или Адонирам), израильтянин",
+    "sk": "Adorám (alebo Adoniram), Izraelita",
+    "sl": "Adoram (ali Adoniram), Izraelec",
+    "sv": "Adoram (eller Adoniram), en israelit",
+    "tr": "Adoram (ya da Adoniram), bir İsrailli",
+    "uk": "Адорам (або Адонірам), ізраїльтянин",
+    "zh": "亚多兰（或亚多尼拉姆），以色列人"
+  },
+  "hebrew": "אֲדֹרָם",
+  "verses": [
+    "secondSamuel 20:24:0",
+    "firstKings 12:18:4"
+  ]
+}

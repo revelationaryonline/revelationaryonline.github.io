@@ -1,0 +1,42 @@
+{
+  "number": "H2297",
+  "language": "hebrew",
+  "transliteration": "chad",
+  "pronunciation": "khad",
+  "definition": "one",
+  "kjvTranslation": "one.",
+  "translations": {
+    "bg": "един",
+    "cs": "jeden",
+    "da": "en",
+    "de": "eine",
+    "el": "ένα",
+    "es": "un",
+    "et": "üks",
+    "fi": "yksi",
+    "fr": "un",
+    "hu": "egy",
+    "id": "satu",
+    "it": "uno",
+    "ja": "ひとつ",
+    "ko": "하나",
+    "lt": "vienas",
+    "lv": "viens",
+    "nb": "en",
+    "nl": "een",
+    "pl": "jeden",
+    "pt": "um",
+    "ro": "una",
+    "ru": "один",
+    "sk": "jeden",
+    "sl": "ena",
+    "sv": "en",
+    "tr": "bir",
+    "uk": "один",
+    "zh": "一种"
+  },
+  "hebrew": "חַד",
+  "verses": [
+    "ezekiel 33:30:12"
+  ]
+}
