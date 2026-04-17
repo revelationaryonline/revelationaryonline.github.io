@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.8c49655e.css",
-    "main.js": "/static/js/main.61d303a7.js",
+    "main.js": "/static/js/main.655b2e88.js",
     "static/js/911.6539f0fa.chunk.js": "/static/js/911.6539f0fa.chunk.js",
-    "static/js/628.6105eee2.chunk.js": "/static/js/628.6105eee2.chunk.js",
+    "static/js/628.b37c5a8c.chunk.js": "/static/js/628.b37c5a8c.chunk.js",
+    "static/js/760.77ebc790.chunk.js": "/static/js/760.77ebc790.chunk.js",
     "static/media/hero-post.jpg": "/static/media/hero-post.9938210f1cbedea18f6b.jpg",
     "static/media/gordon-johnson3.webp": "/static/media/gordon-johnson3.a40115b8a0808aa6345a.webp",
     "static/media/flourish3-gordon-johnson.png": "/static/media/flourish3-gordon-johnson.a82ec910a05917c03017.png",
@@ -14,12 +15,12 @@
     "static/media/BP_square-mono-wht.png": "/static/media/BP_square-mono-wht.cd45e079df22031376db.png",
     "static/media/Success.lottie": "/static/media/Success.2673bfca909ad6b0731e.lottie",
     "main.8c49655e.css.map": "/static/css/main.8c49655e.css.map",
-    "main.61d303a7.js.map": "/static/js/main.61d303a7.js.map",
+    "main.655b2e88.js.map": "/static/js/main.655b2e88.js.map",
     "911.6539f0fa.chunk.js.map": "/static/js/911.6539f0fa.chunk.js.map",
-    "628.6105eee2.chunk.js.map": "/static/js/628.6105eee2.chunk.js.map"
+    "628.b37c5a8c.chunk.js.map": "/static/js/628.b37c5a8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c49655e.css",
-    "static/js/main.61d303a7.js"
+    "static/js/main.655b2e88.js"
   ]
 }
