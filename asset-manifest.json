@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8c49655e.css",
-    "main.js": "/static/js/main.655b2e88.js",
-    "static/js/911.6539f0fa.chunk.js": "/static/js/911.6539f0fa.chunk.js",
+    "main.js": "/static/js/main.db82da3c.js",
+    "static/js/728.5d00b87c.chunk.js": "/static/js/728.5d00b87c.chunk.js",
     "static/js/628.b37c5a8c.chunk.js": "/static/js/628.b37c5a8c.chunk.js",
     "static/js/760.77ebc790.chunk.js": "/static/js/760.77ebc790.chunk.js",
     "static/media/hero-post.jpg": "/static/media/hero-post.9938210f1cbedea18f6b.jpg",
@@ -11,16 +11,17 @@
     "static/media/revelationary-logo-final-final.png": "/static/media/revelationary-logo-final-final.af7daea6f55e3bae3d04.png",
     "service-worker.js": "/service-worker.js",
     "index.html": "/index.html",
+    "static/media/angel-halo.lottie": "/static/media/angel-halo.edee70e4888e6ed47c9c.lottie",
     "static/media/logo512.png": "/static/media/logo512.53a3103fe0b3b04ba72c.png",
     "static/media/BP_square-mono-wht.png": "/static/media/BP_square-mono-wht.cd45e079df22031376db.png",
     "static/media/Success.lottie": "/static/media/Success.2673bfca909ad6b0731e.lottie",
     "main.8c49655e.css.map": "/static/css/main.8c49655e.css.map",
-    "main.655b2e88.js.map": "/static/js/main.655b2e88.js.map",
-    "911.6539f0fa.chunk.js.map": "/static/js/911.6539f0fa.chunk.js.map",
+    "main.db82da3c.js.map": "/static/js/main.db82da3c.js.map",
+    "728.5d00b87c.chunk.js.map": "/static/js/728.5d00b87c.chunk.js.map",
     "628.b37c5a8c.chunk.js.map": "/static/js/628.b37c5a8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c49655e.css",
-    "static/js/main.655b2e88.js"
+    "static/js/main.db82da3c.js"
   ]
 }
