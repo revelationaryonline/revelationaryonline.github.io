@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c49655e.css",
-    "main.js": "/static/js/main.5e39ac3f.js",
-    "static/js/728.5d00b87c.chunk.js": "/static/js/728.5d00b87c.chunk.js",
-    "static/js/628.b37c5a8c.chunk.js": "/static/js/628.b37c5a8c.chunk.js",
-    "static/js/760.77ebc790.chunk.js": "/static/js/760.77ebc790.chunk.js",
+    "main.css": "/static/css/main.3f449122.css",
+    "main.js": "/static/js/main.e9d7e9f0.js",
+    "static/js/728.d51840ac.chunk.js": "/static/js/728.d51840ac.chunk.js",
+    "static/js/628.82d356e4.chunk.js": "/static/js/628.82d356e4.chunk.js",
+    "static/js/760.bd83406d.chunk.js": "/static/js/760.bd83406d.chunk.js",
     "static/media/hero-post.jpg": "/static/media/hero-post.9938210f1cbedea18f6b.jpg",
     "static/media/gordon-johnson3.webp": "/static/media/gordon-johnson3.a40115b8a0808aa6345a.webp",
     "static/media/flourish3-gordon-johnson.png": "/static/media/flourish3-gordon-johnson.a82ec910a05917c03017.png",
@@ -15,13 +15,13 @@
     "static/media/logo512.png": "/static/media/logo512.53a3103fe0b3b04ba72c.png",
     "static/media/BP_square-mono-wht.png": "/static/media/BP_square-mono-wht.cd45e079df22031376db.png",
     "static/media/Success.lottie": "/static/media/Success.2673bfca909ad6b0731e.lottie",
-    "main.8c49655e.css.map": "/static/css/main.8c49655e.css.map",
-    "main.5e39ac3f.js.map": "/static/js/main.5e39ac3f.js.map",
-    "728.5d00b87c.chunk.js.map": "/static/js/728.5d00b87c.chunk.js.map",
-    "628.b37c5a8c.chunk.js.map": "/static/js/628.b37c5a8c.chunk.js.map"
+    "main.3f449122.css.map": "/static/css/main.3f449122.css.map",
+    "main.e9d7e9f0.js.map": "/static/js/main.e9d7e9f0.js.map",
+    "728.d51840ac.chunk.js.map": "/static/js/728.d51840ac.chunk.js.map",
+    "628.82d356e4.chunk.js.map": "/static/js/628.82d356e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c49655e.css",
-    "static/js/main.5e39ac3f.js"
+    "static/css/main.3f449122.css",
+    "static/js/main.e9d7e9f0.js"
   ]
 }
