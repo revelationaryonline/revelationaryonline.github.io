@@ -1,28 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-  <!-- Home Page - Main Landing Page -->
-  <url>
-    <loc>https://revelationary.online/</loc>
-    <lastmod>2026-01-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <!-- Blog Page - Public Content -->
-  <url>
-    <loc>https://revelationary.online/#/blog</loc>
-    <lastmod>2026-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <!-- Login Page - Public Access -->
-  <url>
-    <loc>https://revelationary.online/#/login</loc>
-    <lastmod>2026-01-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://revelationary.online/</loc></url><url><loc>https://revelationary.online/study/</loc></url><url><loc>https://revelationary.online/blog/</loc></url><url><loc>https://revelationary.online/blog/free-online-interactive-bible-study/</loc><lastmod>2026-10-30T21:08:44.000Z</lastmod></url><url><loc>https://revelationary.online/terms-of-service/</loc></url><url><loc>https://revelationary.online/privacy-policy/</loc></url><url><loc>https://revelationary.online/about/</loc></url><url><loc>https://revelationary.online/resources/</loc></url><url><loc>https://revelationary.online/contact/</loc></url></urlset>
