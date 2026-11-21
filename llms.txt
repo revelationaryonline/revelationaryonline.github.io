@@ -4,11 +4,12 @@
 
 Revelationary helps people stay close to the biblical text: open a passage, look into its language, and bring questions to a shared discussion. Paid monthly and yearly plans are optional and do not unlock a separate set of study tools.
 
-The public site is available in English, Spanish, German, Simplified Chinese, Italian, Czech, Swedish, Indonesian, Dutch and Vietnamese. The Bible reader at https://revelationary.online/study/ stays on that shared URL for every language. Localized study metadata is also published at /es/study/, /de/study/, /zh-hans/study/, /it/study/, /cs/study/, /sv/study/, /id/study/, /nl/study/ and /vi/study/.
+The public site is available in English, Spanish, German, Simplified Chinese, Italian, Czech, Swedish, Indonesian, Dutch and Vietnamese. The Bible reader at https://revelationary.online/study/ stays on that shared URL for every language. Localized study metadata is also published at /es/study/, /de/study/, /zh-hans/study/, /it/study/, /cs/study/, /sv/study/, /id/study/, /nl/study/ and /vi/study/. Individual chapters are also published at /study/{edition}/{book}/{chapter}/, for example https://revelationary.online/study/kjv/john/3/ and https://revelationary.online/study/lut/malachi/3/. The in-app reader still opens from /study/.
 
 ## Bible study
 
 - [Bible reader](https://revelationary.online/study/): Read and search the Bible in the browser. Quote syntax is required for keyword searches: John means the book; "John" means the name as a keyword.
+- Chapter URLs follow https://revelationary.online/study/{edition}/{book}/{chapter}/ using the edition id (kjv, fbv, es-rv09, lut, cuv, it-db1885, cs-bkr, sv-skb, id-tsi, nl-nld1939, vi-ovcb) and lowercase book keys such as genesis, john, firstsamuel. Luther Malachi has three chapters.
 - [FAQ](https://revelationary.online/faq/): Answers about free reading, translations, comments, subscriptions and study tools.
 - [About](https://revelationary.online/about/): Why Revelationary exists and how the study tools work together.
 
