@@ -4,6 +4,8 @@
 
 Revelationary helps people stay close to the biblical text: open a passage, look into its language, and bring questions to a shared discussion. Paid monthly and yearly plans are optional and do not unlock a separate set of study tools.
 
+The public site is available in English, Spanish, German, Simplified Chinese, Italian, Czech, Swedish, Indonesian, Dutch and Vietnamese. The Bible reader at https://revelationary.online/study/ stays on that shared URL for every language. Localized study metadata is also published at /es/study/, /de/study/, /zh-hans/study/, /it/study/, /cs/study/, /sv/study/, /id/study/, /nl/study/ and /vi/study/.
+
 ## Bible study
 
 - [Bible reader](https://revelationary.online/study/): Read and search the Bible in the browser. Quote syntax is required for keyword searches: John means the book; "John" means the name as a keyword.
@@ -30,3 +32,18 @@ Comments and Hebrew study use the King James verse identities as the shared anch
 - [Contact](https://revelationary.online/contact/): info@revelationary.online
 - [Privacy policy](https://revelationary.online/privacy-policy/)
 - [Terms of service](https://revelationary.online/terms-of-service/)
+
+## Languages
+
+Use these localized public pages. The Bible reader remains https://revelationary.online/study/.
+
+- English: https://revelationary.online/ · https://revelationary.online/study/ · https://revelationary.online/faq/ · https://revelationary.online/games/ · https://revelationary.online/blog/
+- Español: https://revelationary.online/es/ · https://revelationary.online/es/study/ · https://revelationary.online/es/faq/ · https://revelationary.online/es/games/ · https://revelationary.online/es/blog/
+- Deutsch: https://revelationary.online/de/ · https://revelationary.online/de/study/ · https://revelationary.online/de/faq/ · https://revelationary.online/de/games/ · https://revelationary.online/de/blog/
+- 简体中文: https://revelationary.online/zh-hans/ · https://revelationary.online/zh-hans/study/ · https://revelationary.online/zh-hans/faq/ · https://revelationary.online/zh-hans/games/ · https://revelationary.online/zh-hans/blog/
+- Italiano: https://revelationary.online/it/ · https://revelationary.online/it/study/ · https://revelationary.online/it/faq/ · https://revelationary.online/it/games/ · https://revelationary.online/it/blog/
+- Čeština: https://revelationary.online/cs/ · https://revelationary.online/cs/study/ · https://revelationary.online/cs/faq/ · https://revelationary.online/cs/games/ · https://revelationary.online/cs/blog/
+- Svenska: https://revelationary.online/sv/ · https://revelationary.online/sv/study/ · https://revelationary.online/sv/faq/ · https://revelationary.online/sv/games/ · https://revelationary.online/sv/blog/
+- Bahasa Indonesia: https://revelationary.online/id/ · https://revelationary.online/id/study/ · https://revelationary.online/id/faq/ · https://revelationary.online/id/games/ · https://revelationary.online/id/blog/
+- Nederlands: https://revelationary.online/nl/ · https://revelationary.online/nl/study/ · https://revelationary.online/nl/faq/ · https://revelationary.online/nl/games/ · https://revelationary.online/nl/blog/
+- Tiếng Việt: https://revelationary.online/vi/ · https://revelationary.online/vi/study/ · https://revelationary.online/vi/faq/ · https://revelationary.online/vi/games/ · https://revelationary.online/vi/blog/
