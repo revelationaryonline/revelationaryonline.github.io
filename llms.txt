@@ -9,7 +9,7 @@ The public site is available in English, Spanish, German, Simplified Chinese, It
 ## Bible study
 
 - [Bible reader](https://revelationary.online/study/): Read and search the Bible in the browser. Quote syntax is required for keyword searches: John means the book; "John" means the name as a keyword.
-- Chapter URLs follow https://revelationary.online/study/{edition}/{book}/{chapter}/ using the edition id (kjv, fbv, es-rv09, lut, cuv, it-db1885, cs-bkr, sv-skb, id-tsi, nl-nld1939, vi-ovcb) and lowercase book keys such as genesis, john, firstsamuel. Luther Malachi has three chapters.
+- Chapter URLs follow https://revelationary.online/study/{edition}/{book}/{chapter}/ using the edition id (kjv, fbv, es-rv09, lut, cuv, it-db1885, cs-bkr, sv-skb, id-tsi, nl-nld1939, vi-ovcb) and lowercase book keys such as genesis, john, firstsamuel. Luther Malachi has three chapters. Search engines should read https://revelationary.online/sitemap.xml (index) and the per-edition files under /sitemaps/.
 - [FAQ](https://revelationary.online/faq/): Answers about free reading, translations, comments, subscriptions and study tools.
 - [About](https://revelationary.online/about/): Why Revelationary exists and how the study tools work together.
 

@@ -88,4 +88,16 @@ Allow: /
 # Sitemap and answer-engine file
 ########################################
 Sitemap: https://revelationary.online/sitemap.xml
+Sitemap: https://revelationary.online/sitemaps/public.xml
+Sitemap: https://revelationary.online/sitemaps/study-kjv.xml
+Sitemap: https://revelationary.online/sitemaps/study-fbv.xml
+Sitemap: https://revelationary.online/sitemaps/study-es-rv09.xml
+Sitemap: https://revelationary.online/sitemaps/study-lut.xml
+Sitemap: https://revelationary.online/sitemaps/study-cuv.xml
+Sitemap: https://revelationary.online/sitemaps/study-it-db1885.xml
+Sitemap: https://revelationary.online/sitemaps/study-cs-bkr.xml
+Sitemap: https://revelationary.online/sitemaps/study-sv-skb.xml
+Sitemap: https://revelationary.online/sitemaps/study-id-tsi.xml
+Sitemap: https://revelationary.online/sitemaps/study-nl-nld1939.xml
+Sitemap: https://revelationary.online/sitemaps/study-vi-ovcb.xml
 # https://revelationary.online/llms.txt
