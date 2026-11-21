@@ -1,0 +1,32 @@
+# Revelationary
+
+> Revelationary is a free online Bible study app at https://revelationary.online. Read and search scripture in 11 translations, explore Hebrew words, discuss verses, and play Bible games. No account is required to read or search. Comments and replies are free with an account.
+
+Revelationary helps people stay close to the biblical text: open a passage, look into its language, and bring questions to a shared discussion. Paid monthly and yearly plans are optional and do not unlock a separate set of study tools.
+
+## Bible study
+
+- [Bible reader](https://revelationary.online/study/): Read and search the Bible in the browser. Quote syntax is required for keyword searches: John means the book; "John" means the name as a keyword.
+- [FAQ](https://revelationary.online/faq/): Answers about free reading, translations, comments, subscriptions and study tools.
+- [About](https://revelationary.online/about/): Why Revelationary exists and how the study tools work together.
+
+## Translations
+
+Enabled editions: King James Version (KJV), Free Bible Version (FBV), Reina Valera 1909 (RV09), Lutherbibel (LUT), Chinese Union Version (CUV), Diodati 1885, Bible kralická (BKR), Svenska Bibeln (SKB), Alkitab Indonesia (TSI), Petrus Canisiusvertaling 1939, Kinh Thánh Việt (OVCB).
+
+Comments and Hebrew study use the King James verse identities as the shared anchor, including combined and regrouped spans. Source labels and IDs are preserved; they are not renumbered to match another edition.
+
+## Games
+
+- [Bible games](https://revelationary.online/games/): Free Bible Wordle, fill-in-the-blank verses and verse flashcards. Play as a guest. Practice games do not change a reading streak.
+- [Daily Bible Wordle](https://revelationary.online/games/wordle/): One daily five-letter or Chinese-character puzzle. Six guesses. Sign in to save a completed score and join the optional leaderboard.
+- [Fill in the blank](https://revelationary.online/games/fill-in-the-blank/): Complete verses from a chosen translation by picking the missing word.
+- [Verse flashcards](https://revelationary.online/games/flashcards/): Match verses with their references in ten-card rounds.
+
+## Articles and information
+
+- [Bible study articles](https://revelationary.online/blog/): Guides on searching, highlighting, reading progress and studying together.
+- [Resources](https://revelationary.online/resources/): Search, highlighting, comments and Bible Project video summaries used in the reader.
+- [Contact](https://revelationary.online/contact/): info@revelationary.online
+- [Privacy policy](https://revelationary.online/privacy-policy/)
+- [Terms of service](https://revelationary.online/terms-of-service/)
